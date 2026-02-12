@@ -26,7 +26,7 @@
             right: 20px;
             font-family: 'Rubik Glitch', sans-serif;
             font-size: 120px;
-            color: rgba(178, 34, 34, 0.12);
+            color: rgba(178, 34, 34, 0.35);
             z-index: -1;
             transform: rotate(2deg);
             pointer-events: none;
@@ -144,13 +144,6 @@
             color: #b22222;
         }
         
-        .section-placeholder {
-            color: #1a1a1a;
-            font-style: italic;
-            padding: 0.5rem 0;
-            opacity: 0.7;
-        }
-        
         .project-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -176,10 +169,31 @@
             opacity: 0.9;
         }
         
+        .project-card a {
+            color: #1a1a1a;
+            text-decoration: underline;
+            text-decoration-color: #b22222;
+            text-underline-offset: 2px;
+        }
+        
+        .project-card a:visited {
+            color: #1a1a1a;
+        }
+        
+        .section-placeholder {
+            color: #1a1a1a;
+            font-style: italic;
+            padding: 0.5rem 0;
+            opacity: 0.7;
+        }
+        
         @media (max-width: 600px) {
             body { padding: 1rem; }
             .masthead { font-size: 1.8rem; }
-            body::before { font-size: 80px; }
+            body::before { 
+                font-size: 80px; 
+                opacity: 0.25;
+            }
             .project-grid { grid-template-columns: 1fr; }
         }
     </style>
@@ -191,7 +205,6 @@
     </header>
     
     <main id="content">
-        <!-- DYNAMIC CONTENT LOADED FROM home.json -->
         <div style="text-align: center; padding: 3rem 0; opacity: 0.7;">
             loading edition...
         </div>
@@ -210,41 +223,37 @@
                 
                 let html = '';
                 
-                // PROJECTS SECTION (hand-curated)
-                if (data.sections?.projects?.length > 0) {
-                    html += `<h2>⎇ projects / the code</h2>`;
-                    html += `<div class="project-grid">`;
-                    
-                    // Static project cards + any from JSON
-                    html += `
-                        <div class="project-card">
-                            <h3>Arduino</h3>
-                            <p><a href="https://www.hackster.io/arduino/projects" style="color: #1a1a1a;">Hackster.io project feed</a></p>
-                        </div>
-                        <div class="project-card">
-                            <h3>Raspberry Pi</h3>
-                            <p><a href="https://www.instructables.com/Raspberry-Pi-Projects/" style="color: #1a1a1a;">Instructables collection</a></p>
-                        </div>
-                        <div class="project-card">
-                            <h3>ruin2itive</h3>
-                            <p><a href="https://github.com/Ruin2itive" style="color: #1a1a1a;">GitHub · open source</a></p>
-                        </div>
-                    `;
-                    
+                // PROJECTS SECTION
+                html += `<h2>⎇ projects / the code</h2>`;
+                html += `<div class="project-grid">`;
+                html += `
+                    <div class="project-card">
+                        <h3>Arduino</h3>
+                        <p><a href="https://www.hackster.io/arduino/projects">Hackster.io project feed</a></p>
+                    </div>
+                    <div class="project-card">
+                        <h3>Raspberry Pi</h3>
+                        <p><a href="https://www.instructables.com/Raspberry-Pi-Projects/">Instructables collection</a></p>
+                    </div>
+                    <div class="project-card">
+                        <h3>ruin2itive</h3>
+                        <p><a href="https://github.com/Ruin2itive">GitHub · open source</a></p>
+                    </div>
+                `;
+                if (data.sections?.projects) {
                     data.sections.projects.forEach(item => {
                         html += `
                             <div class="project-card">
                                 <h3>${item.title}</h3>
-                                <p><a href="${item.url}" style="color: #1a1a1a;">${item.source || 'link'}</a></p>
+                                <p><a href="${item.url}">${item.source || 'link'}</a></p>
                                 ${item.summary ? `<p style="font-size: 0.8rem; margin-top: 0.5rem;">${item.summary}</p>` : ''}
                             </div>
                         `;
                     });
-                    
-                    html += `</div>`;
                 }
+                html += `</div>`;
                 
-                // MARKETS / CRYPTO NEWS (Decrypt)
+                // MARKETS / CRYPTO
                 if (data.sections?.markets?.length > 0) {
                     html += `<h2>⌬ markets / crypto news</h2><ul style="list-style: none;">`;
                     data.sections.markets.forEach(item => {
@@ -259,7 +268,7 @@
                     html += `</ul>`;
                 }
                 
-                // FOSS / SECURITY (Hacker News)
+                // HACKER NEWS
                 if (data.sections?.foss?.length > 0) {
                     html += `<h2>⎔ hacker news</h2><ul style="list-style: none;">`;
                     data.sections.foss.forEach(item => {
@@ -274,27 +283,26 @@
                     html += `</ul>`;
                 }
                 
-                // WORLD NEWS placeholder
+                // WORLD NEWS
                 html += `<h2>🌍 world news</h2>`;
                 html += `<div class="section-placeholder">curating unbiased sources · coming soon</div>`;
                 
-                // BANNED BOOKS placeholder
+                // BANNED BOOKS
                 html += `<h2>📚 free banned books</h2>`;
                 html += `<div class="section-placeholder"><a href="https://www.spl.org/programs-and-services/teens/books-unbanned" style="color: #1a1a1a; text-decoration: underline; text-decoration-color: #b22222;">Seattle Public Library · Books Unbanned</a> · more resources coming</div>`;
                 
-                // PERSONAL FINANCE placeholder (manual)
+                // PERSONAL FINANCE
                 html += `<h2>💰 personal finance</h2>`;
                 html += `<div class="section-placeholder"><a href="https://www.mrmoneymustache.com/blog/" style="color: #1a1a1a; text-decoration: underline; text-decoration-color: #b22222;">Mr. Money Mustache</a> · manual update</div>`;
                 
                 document.getElementById('content').innerHTML = html;
             })
-            .catch(err => {
+            .catch(() => {
                 document.getElementById('content').innerHTML = `
                     <div style="padding: 2rem 0; color: #b22222;">
                         ⚠️ failed to load edition · <a href="/editions/" style="color: #b22222;">view archive</a>
                     </div>
                 `;
-                console.error(err);
             });
     </script>
 </body>
