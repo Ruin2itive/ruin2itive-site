@@ -1,90 +1,61 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>ruin2itive</title>
-    <style>
-        body {
-            background-color: #e0dbd1;
-            font-family: 'Courier New', Courier, monospace;
-            max-width: 800px;
-            margin: 2rem auto;
-            padding: 1rem;
-            position: relative;
-        }
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-        /* ELEPHANT - VISIBLE RED */
-        body::before {
-            content: "r2";
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            font-size: 120px;
-            font-family: 'Arial Black', sans-serif;
-            color: rgba(178, 34, 34, 0.5);
-            z-index: -1;
-            transform: rotate(2deg);
-        }
+<title>ruin2itive.org</title>
 
-        /* MASTHEAD */
-        .masthead {
-            font-size: 2.2rem;
-            font-weight: bold;
-            border-bottom: 3px solid #b22222;
-            margin-bottom: 1rem;
-            padding-bottom: 0.5rem;
-        }
+<style>
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #f5f2ec;
+    font-family: serif;
+    color: #111;
+}
 
-        .masthead span {
-            color: #b22222;
-        }
+.hero {
+    position: relative;
+    text-align: center;
+}
 
-        /* KILL YELLOW LINKS */
-        a, a:visited {
-            color: #1a1a1a;
-            text-decoration: underline;
-            text-decoration-color: #b22222;
-        }
+.hero img {
+    width: 100%;
+    max-width: 1600px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
 
-        a:hover {
-            background-color: #b22222;
-            color: #e0dbd1;
-            text-decoration: none;
-        }
+.title {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 48px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
 
-        /* RED HEADINGS */
-        h2, h3 {
-            color: #b22222;
-            border-bottom: 1px dashed #b22222;
-            padding-bottom: 0.25rem;
-            margin-top: 1.5rem;
-        }
-
-        footer {
-            margin-top: 3rem;
-            border-top: 1px solid #1a1a1a;
-            padding-top: 1rem;
-            font-size: 0.85rem;
-        }
-    </style>
+.tagline {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+</style>
 </head>
+
 <body>
-    <div class="masthead">ruin<span>2</span>itive</div>
-    <p style="margin-bottom: 2rem;">reliability first · open source · independent</p>
 
-    <h2>⎇ projects</h2>
-    <ul>
-        <li><a href="https://github.com/Ruin2itive">ruin2itive · GitHub</a></li>
-    </ul>
+<div class="hero">
+    <img src="assets/landing.webp" alt="ruin2itive elephant">
+    <div class="title">ruin2itive.org</div>
+    <div class="tagline">Open-source · Independent · Reliability first</div>
+</div>
 
-    <h3>⌬ markets</h3>
-    <p>curating signal...</p>
-
-    <h3>⎔ foss</h3>
-    <p>curating signal...</p>
-
-    <footer>
-        ⚡ open source · independent
-    </footer>
 </body>
 </html>
