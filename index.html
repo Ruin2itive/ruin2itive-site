@@ -29,6 +29,7 @@
             color: rgba(178, 34, 34, 0.08);
             z-index: -1;
             transform: rotate(2deg);
+            pointer-events: none;
         }
         
         header {
@@ -45,6 +46,7 @@
             font-size: 2.2rem;
             letter-spacing: -2px;
             text-transform: uppercase;
+            color: #1a1a1a;
         }
         
         .masthead span {
@@ -55,6 +57,8 @@
         .edition {
             font-size: 0.85rem;
             text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #5a5a5a;
             border: 1px solid #b22222;
             padding: 0.25rem 0.75rem;
         }
@@ -66,7 +70,9 @@
             margin-top: 2rem;
             margin-bottom: 1rem;
             border-bottom: 1px dashed #b22222;
+            padding-bottom: 0.35rem;
             color: #b22222;
+            font-weight: 600;
         }
         
         .item {
@@ -74,23 +80,41 @@
             list-style: none;
         }
         
+        .item-title {
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+        
         .item-title a {
             color: #1a1a1a;
             text-decoration: underline;
             text-decoration-color: #b22222;
             text-underline-offset: 4px;
-            font-weight: bold;
+            text-decoration-thickness: 2px;
+        }
+        
+        .item-title a:visited {
+            color: #1a1a1a;
+        }
+        
+        .item-title a:hover {
+            background-color: #b22222;
+            color: #f5f2e6;
+            text-decoration: none;
         }
         
         .meta {
             font-size: 0.75rem;
             color: #5a5a5a;
+            margin-top: 0.2rem;
             text-transform: uppercase;
+            letter-spacing: 1px;
         }
         
         .summary {
             font-size: 0.9rem;
             margin-top: 0.25rem;
+            color: #2a2a2a;
             border-left: 2px solid #b22222;
             padding-left: 0.75rem;
         }
@@ -100,15 +124,41 @@
             padding-top: 1.5rem;
             border-top: 1px solid #ccc;
             font-size: 0.75rem;
+            color: #5a5a5a;
             display: flex;
             justify-content: space-between;
             text-transform: uppercase;
+            letter-spacing: 1px;
         }
         
         footer a {
             color: #5a5a5a;
             text-decoration: none;
             border-bottom: 1px dotted #b22222;
+        }
+        
+        footer a:hover {
+            color: #b22222;
+        }
+        
+        .integrity-signal {
+            background-color: rgba(178, 34, 34, 0.05);
+            padding: 0.5rem 1rem;
+            font-size: 0.7rem;
+            border-left: 3px solid #b22222;
+            margin-top: 2rem;
+        }
+        
+        .section-placeholder {
+            color: #5a5a5a;
+            font-style: italic;
+            padding: 0.5rem 0;
+        }
+        
+        @media (max-width: 600px) {
+            body { padding: 1rem; }
+            .masthead { font-size: 1.8rem; }
+            body::before { font-size: 80px; }
         }
     </style>
 </head>
@@ -122,17 +172,17 @@
         <h2>⎇ projects</h2>
         <ul style="list-style: none;">
             <li class="item">
-                <div class="item-title"><a href="https://github.com/Ruin2itive/ruin2itive-site" target="_blank">ruin2itive.org</a></div>
+                <div class="item-title"><a href="https://github.com/Ruin2itive/ruin2itive-site">ruin2itive.org</a></div>
                 <div class="meta">github · v1.0.0</div>
                 <div class="summary">Reliability-first open source discovery. Built with GitHub Pages.</div>
             </li>
         </ul>
         
         <h2>⌬ markets / infra</h2>
-        <div style="padding: 1rem 0; color: #5a5a5a;">curating signal...</div>
+        <div class="section-placeholder">curating signal...</div>
         
         <h2>⎔ foss / security</h2>
-        <div style="padding: 1rem 0; color: #5a5a5a;">curating signal...</div>
+        <div class="section-placeholder">curating signal...</div>
     </main>
     
     <footer>
