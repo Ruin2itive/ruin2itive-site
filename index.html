@@ -1,61 +1,143 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>ruin2itive</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <style>
-    html, body {
-      margin: 0;
-      padding: 0;
-      height: 100%;
-      background: #000;
-      overflow: hidden;
-      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-    }
-
-    .hero {
-      background-image: url("assets/IMG_6853.png");
-      background-size: cover;
-      background-position: center;
-      background-repeat: no-repeat;
-      height: 100vh;
-      width: 100vw;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .overlay {
-      text-align: center;
-      background: rgba(0,0,0,0.55);
-      padding: 40px;
-      border-radius: 10px;
-    }
-
-    h1 {
-      color: #ffffff;
-      font-size: 2.5rem;
-      margin: 0 0 10px 0;
-      letter-spacing: 2px;
-    }
-
-    p {
-      color: #cccccc;
-      margin: 0;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ruin2itive</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
+        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            background-color: #f5f2e6;
+            color: #1a1a1a;
+            font-family: 'Courier New', Courier, monospace;
+            padding: 2rem;
+            max-width: 800px;
+            margin: 0 auto;
+            position: relative;
+        }
+        
+        body::before {
+            content: "r2";
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            font-family: 'Rubik Glitch', sans-serif;
+            font-size: 120px;
+            color: rgba(178, 34, 34, 0.08);
+            z-index: -1;
+            transform: rotate(2deg);
+        }
+        
+        header {
+            border-bottom: 3px solid #b22222;
+            margin-bottom: 2rem;
+            padding-bottom: 0.75rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+        }
+        
+        .masthead {
+            font-family: 'Rubik Glitch', sans-serif;
+            font-size: 2.2rem;
+            letter-spacing: -2px;
+            text-transform: uppercase;
+        }
+        
+        .masthead span {
+            color: #b22222;
+            font-size: 2.5rem;
+        }
+        
+        .edition {
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            border: 1px solid #b22222;
+            padding: 0.25rem 0.75rem;
+        }
+        
+        h2 {
+            font-size: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            border-bottom: 1px dashed #b22222;
+            color: #b22222;
+        }
+        
+        .item {
+            margin-bottom: 1.25rem;
+            list-style: none;
+        }
+        
+        .item-title a {
+            color: #1a1a1a;
+            text-decoration: underline;
+            text-decoration-color: #b22222;
+            text-underline-offset: 4px;
+            font-weight: bold;
+        }
+        
+        .meta {
+            font-size: 0.75rem;
+            color: #5a5a5a;
+            text-transform: uppercase;
+        }
+        
+        .summary {
+            font-size: 0.9rem;
+            margin-top: 0.25rem;
+            border-left: 2px solid #b22222;
+            padding-left: 0.75rem;
+        }
+        
+        footer {
+            margin-top: 4rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid #ccc;
+            font-size: 0.75rem;
+            display: flex;
+            justify-content: space-between;
+            text-transform: uppercase;
+        }
+        
+        footer a {
+            color: #5a5a5a;
+            text-decoration: none;
+            border-bottom: 1px dotted #b22222;
+        }
+    </style>
 </head>
-
 <body>
-
-  <div class="hero">
-    <div class="overlay">
-      <h1>ruin2itive</h1>
-      <p>Open-source. Independent. Reliability first.</p>
-    </div>
-  </div>
-
+    <header>
+        <div class="masthead">ruin<span>2</span>itive</div>
+        <div class="edition" id="edition-date">2026-02-13</div>
+    </header>
+    
+    <main>
+        <h2>⎇ projects</h2>
+        <ul style="list-style: none;">
+            <li class="item">
+                <div class="item-title"><a href="https://github.com/Ruin2itive/ruin2itive-site" target="_blank">ruin2itive.org</a></div>
+                <div class="meta">github · v1.0.0</div>
+                <div class="summary">Reliability-first open source discovery. Built with GitHub Pages.</div>
+            </li>
+        </ul>
+        
+        <h2>⌬ markets / infra</h2>
+        <div style="padding: 1rem 0; color: #5a5a5a;">curating signal...</div>
+        
+        <h2>⎔ foss / security</h2>
+        <div style="padding: 1rem 0; color: #5a5a5a;">curating signal...</div>
+    </main>
+    
+    <footer>
+        <div>⚡ open source · independent</div>
+        <div><a href="/integrity/">integrity</a> · <a href="/about/">about</a></div>
+    </footer>
 </body>
 </html>
