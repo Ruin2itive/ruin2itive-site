@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ruin2itive</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
+        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            background-color: #e0dbd1;
+            color: #1a1a1a;
+            font-family: 'Courier New', Courier, monospace;
+            padding: 2rem;
+            max-width: 900px;
+            margin: 0 auto;
+            position: relative;
+        }
+        
+        body::before {
+            content: "r2";
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            font-family: 'Rubik Glitch', sans-serif;
+            font-size: 120px;
+            color: rgba(178, 34, 34, 0.12);
+            z-index: -1;
+            transform: rotate(2deg);
+            pointer-events: none;
+        }
+        
+        header {
+            border-bottom: 3px solid #b22222;
+            margin-bottom: 2rem;
+            padding-bottom: 0.75rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+        }
+        
+        .masthead {
+            font-family: 'Rubik Glitch', sans-serif;
+            font-size: 2.2rem;
+            letter-spacing: -2px;
+            text-transform: uppercase;
+            color: #1a1a1a;
+        }
+        
+        .masthead span {
+            color: #b22222;
+            font-size: 2.5rem;
+        }
+        
+        .edition {
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #1a1a1a;
+            border: 1px solid #b22222;
+            padding: 0.25rem 0.75rem;
+        }
+        
+        h2 {
+            font-size: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+            border-bottom: 1px dashed #b22222;
+            padding-bottom: 0.35rem;
+            color: #b22222;
+            font-weight: 600;
+        }
+        
+        .item {
+            margin-bottom: 1.25rem;
+            list-style: none;
+        }
+        
+        .item-title {
+            font-weight: bold;
+            font-size: 1.1rem;
+        }
+        
+        .item-title a {
+            color: #1a1a1a;
+            text-decoration: underline;
+            text-decoration-color: #b22222;
+            text-underline-offset: 4px;
+            text-decoration-thickness: 2px;
+        }
+        
+        .item-title a:visited {
+            color: #1a1a1a;
+        }
+        
+        .item-title a:hover {
+            background-color: #b22222;
+            color: #e0dbd1;
+            text-decoration: none;
+        }
+        
+        .meta {
+            font-size: 0.75rem;
+            color: #1a1a1a;
+            margin-top: 0.2rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            opacity: 0.75;
+        }
+        
+        .summary {
+            font-size: 0.85rem;
+            margin-top: 0.25rem;
+            color: #1a1a1a;
+            border-left: 2px solid #b22222;
+            padding-left: 0.75rem;
+            line-height: 1.4;
+        }
+        
+        footer {
+            margin-top: 4rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid #1a1a1a;
+            font-size: 0.75rem;
+            color: #1a1a1a;
+            display: flex;
+            justify-content: space-between;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            opacity: 0.85;
+        }
+        
+        footer a {
+            color: #1a1a1a;
+            text-decoration: none;
+            border-bottom: 1px dotted #b22222;
+        }
+        
+        footer a:hover {
+            color: #b22222;
+        }
+        
+        .section-placeholder {
+            color: #1a1a1a;
+            font-style: italic;
+            padding: 0.5rem 0;
+            opacity: 0.7;
+        }
+        
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1rem;
+        }
+        
+        .project-card {
+            border: 1px solid rgba(178, 34, 34, 0.3);
+            padding: 1rem;
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+        
+        .project-card h3 {
+            font-size: 1rem;
+            margin-bottom: 0.5rem;
+            color: #b22222;
+            text-transform: uppercase;
+        }
+        
+        .project-card p {
+            font-size: 0.85rem;
+            opacity: 0.9;
+        }
+        
+        @media (max-width: 600px) {
+            body { padding: 1rem; }
+            .masthead { font-size: 1.8rem; }
+            body::before { font-size: 80px; }
+            .project-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="masthead">ruin<span>2</span>itive</div>
+        <div class="edition" id="edition-date">loading...</div>
+    </header>
+    
+    <main id="content">
+        <!-- DYNAMIC CONTENT LOADED FROM home.json -->
+        <div style="text-align: center; padding: 3rem 0; opacity: 0.7;">
+            loading edition...
+        </div>
+    </main>
+    
+    <footer>
+        <div>⚡ open source · independent</div>
+        <div><a href="/integrity/">integrity</a> · <a href="/about/">about</a></div>
+    </footer>
+
+    <script>
+        fetch('/api/home.json')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('edition-date').textContent = data.edition || '—';
+                
+                let html = '';
+                
+                // PROJECTS SECTION (hand-curated)
+                if (data.sections?.projects?.length > 0) {
+                    html += `<h2>⎇ projects / the code</h2>`;
+                    html += `<div class="project-grid">`;
+                    
+                    // Static project cards + any from JSON
+                    html += `
+                        <div class="project-card">
+                            <h3>Arduino</h3>
+                            <p><a href="https://www.hackster.io/arduino/projects" style="color: #1a1a1a;">Hackster.io project feed</a></p>
+                        </div>
+                        <div class="project-card">
+                            <h3>Raspberry Pi</h3>
+                            <p><a href="https://www.instructables.com/Raspberry-Pi-Projects/" style="color: #1a1a1a;">Instructables collection</a></p>
+                        </div>
+                        <div class="project-card">
+                            <h3>ruin2itive</h3>
+                            <p><a href="https://github.com/Ruin2itive" style="color: #1a1a1a;">GitHub · open source</a></p>
+                        </div>
+                    `;
+                    
+                    data.sections.projects.forEach(item => {
+                        html += `
+                            <div class="project-card">
+                                <h3>${item.title}</h3>
+                                <p><a href="${item.url}" style="color: #1a1a1a;">${item.source || 'link'}</a></p>
+                                ${item.summary ? `<p style="font-size: 0.8rem; margin-top: 0.5rem;">${item.summary}</p>` : ''}
+                            </div>
+                        `;
+                    });
+                    
+                    html += `</div>`;
+                }
+                
+                // MARKETS / CRYPTO NEWS (Decrypt)
+                if (data.sections?.markets?.length > 0) {
+                    html += `<h2>⌬ markets / crypto news</h2><ul style="list-style: none;">`;
+                    data.sections.markets.forEach(item => {
+                        html += `
+                            <li class="item">
+                                <div class="item-title"><a href="${item.url}" target="_blank">${item.title}</a></div>
+                                <div class="meta">${item.source} · ${item.timestamp}</div>
+                                <div class="summary">${item.summary}</div>
+                            </li>
+                        `;
+                    });
+                    html += `</ul>`;
+                }
+                
+                // FOSS / SECURITY (Hacker News)
+                if (data.sections?.foss?.length > 0) {
+                    html += `<h2>⎔ hacker news</h2><ul style="list-style: none;">`;
+                    data.sections.foss.forEach(item => {
+                        html += `
+                            <li class="item">
+                                <div class="item-title"><a href="${item.url}" target="_blank">${item.title}</a></div>
+                                <div class="meta">${item.source} · ${item.timestamp}</div>
+                                <div class="summary">${item.summary || ''}</div>
+                            </li>
+                        `;
+                    });
+                    html += `</ul>`;
+                }
+                
+                // WORLD NEWS placeholder
+                html += `<h2>🌍 world news</h2>`;
+                html += `<div class="section-placeholder">curating unbiased sources · coming soon</div>`;
+                
+                // BANNED BOOKS placeholder
+                html += `<h2>📚 free banned books</h2>`;
+                html += `<div class="section-placeholder"><a href="https://www.spl.org/programs-and-services/teens/books-unbanned" style="color: #1a1a1a; text-decoration: underline; text-decoration-color: #b22222;">Seattle Public Library · Books Unbanned</a> · more resources coming</div>`;
+                
+                // PERSONAL FINANCE placeholder (manual)
+                html += `<h2>💰 personal finance</h2>`;
+                html += `<div class="section-placeholder"><a href="https://www.mrmoneymustache.com/blog/" style="color: #1a1a1a; text-decoration: underline; text-decoration-color: #b22222;">Mr. Money Mustache</a> · manual update</div>`;
+                
+                document.getElementById('content').innerHTML = html;
+            })
+            .catch(err => {
+                document.getElementById('content').innerHTML = `
+                    <div style="padding: 2rem 0; color: #b22222;">
+                        ⚠️ failed to load edition · <a href="/editions/" style="color: #b22222;">view archive</a>
+                    </div>
+                `;
+                console.error(err);
+            });
+    </script>
+</body>
+</html>
