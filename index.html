@@ -11,315 +11,226 @@
   <style>
     :root{
       --paper:#f7f5f1;
-      --ink:#151515;
-      --muted:#6a6a6a;
-      --rule:#cfcac2;
-      --accent:#7b1e1e; /* deep red */
-      --max:720px;
+      --ink:#111;
+      --muted:#666;
+      --rule:#d6d1c9;
+      --accent:#7b1e1e;
+      --max:680px;
     }
 
     *{ box-sizing:border-box; }
-    html,body{ height:100%; }
     body{
       margin:0;
-      color:var(--ink);
-      -webkit-font-smoothing:antialiased;
-      -moz-osx-font-smoothing:grayscale;
       font-family: Georgia, "Times New Roman", Times, serif;
-
-      /* subtle paper depth without needing extra files */
+      color:var(--ink);
       background:
-        radial-gradient(1200px 600px at 50% 0%, rgba(0,0,0,.035), rgba(0,0,0,0) 55%),
-        radial-gradient(900px 500px at 10% 35%, rgba(0,0,0,.02), rgba(0,0,0,0) 60%),
-        radial-gradient(900px 500px at 90% 55%, rgba(0,0,0,.018), rgba(0,0,0,0) 60%),
-        linear-gradient(#fbfaf8, var(--paper));
+        radial-gradient(1000px 500px at 50% 0%, rgba(0,0,0,.03), transparent 60%),
+        linear-gradient(#faf9f6, var(--paper));
+      -webkit-font-smoothing:antialiased;
     }
 
-    /* page container */
     .wrap{
       max-width:var(--max);
       margin:0 auto;
-      padding:20px 18px 36px;
+      padding:16px 18px 28px;
     }
 
-    /* MASTHEAD IMAGE (full-bleed, integrated) */
+    /* Compact masthead */
     .masthead{
       width:100vw;
       margin-left:50%;
       transform:translateX(-50%);
-      margin-top:-20px;     /* gives “hero” presence */
-      margin-bottom:28px;   /* more air */
+      margin-top:-10px;
+      margin-bottom:18px;
     }
+
     .masthead img{
       width:100%;
       height:auto;
       display:block;
-      border:0;
-
-      /* keep it subtle so it doesn't feel like a “card” */
-      box-shadow:0 2px 8px rgba(0,0,0,.05);
-      filter:contrast(1.02) saturate(.98);
+      box-shadow:0 1px 6px rgba(0,0,0,.05);
+      filter:contrast(1.01);
     }
 
-    /* top rule under masthead */
     .top-rule{
       height:1px;
       background:var(--rule);
-      margin:18px 0 26px;
+      margin:12px 0 18px;
     }
 
-    /* section blocks */
     .section{
-      margin:0 0 18px;
-      padding:0 0 18px;
+      margin-bottom:16px;
+      padding-bottom:14px;
       border-bottom:1px solid var(--rule);
     }
-    .section:last-of-type{ border-bottom:none; }
 
-    /* section label */
-    .kicker{
-      margin:0 0 12px;
-      font-size:20px;
-      letter-spacing:.12em;
-      color:var(--accent);
-      text-transform:lowercase;
-      font-weight:800;
+    .section:last-of-type{
+      border-bottom:none;
     }
+
+    /* Smaller, tighter section labels */
+    .kicker{
+      font-size:15px;
+      letter-spacing:.14em;
+      font-weight:700;
+      text-transform:lowercase;
+      color:var(--accent);
+      margin:0 0 8px;
+    }
+
     .kicker .slash{
       color:var(--muted);
-      font-weight:500;
-      letter-spacing:.08em;
+      font-weight:400;
+      letter-spacing:.1em;
     }
 
-    /* lists */
     .list{
       list-style:none;
       padding:0;
       margin:0;
     }
+
     .item{
-      padding:12px 0 14px;
+      padding:8px 0 10px;
       border-top:1px solid rgba(0,0,0,.06);
     }
-    .item:first-child{ border-top:none; }
 
+    .item:first-child{
+      border-top:none;
+    }
+
+    /* Compact project titles */
     .title{
-      margin:0 0 3px;
-      font-size:32px;
-      line-height:1.02;
-      font-weight:800;
-      letter-spacing:.01em;
-    }
-    .meta{
-      margin:0;
-      color:var(--muted);
-      font-size:18px;
-      letter-spacing:.02em;
+      font-size:24px;
+      font-weight:700;
+      line-height:1.1;
+      margin:0 0 2px;
     }
 
-    /* editorial link treatment */
+    .meta{
+      font-size:14px;
+      color:var(--muted);
+      margin:0;
+    }
+
     a{
       color:inherit;
       text-decoration:none;
     }
+
     .title a{
-      border-bottom:2px solid rgba(0,0,0,.10);
-      padding-bottom:2px;
+      border-bottom:1px solid rgba(0,0,0,.12);
+      padding-bottom:1px;
     }
+
     .title a:hover{
       border-bottom-color:var(--accent);
     }
 
-    /* feed rows */
+    /* Feed layout compact */
     .feed-row{
       display:flex;
+      justify-content:space-between;
       gap:10px;
-      align-items:baseline;
-      padding:12px 0 14px;
+      padding:8px 0 10px;
       border-top:1px solid rgba(0,0,0,.06);
     }
-    .feed-row:first-child{ border-top:none; }
+
+    .feed-row:first-child{
+      border-top:none;
+    }
 
     .feed-title{
+      font-size:16px;
+      font-weight:700;
+      line-height:1.25;
       margin:0;
-      font-size:20px;
-      line-height:1.22;
-      font-weight:800;
-      flex:1 1 auto;
-    }
-    .feed-title a{
-      border-bottom:1px solid rgba(0,0,0,.10);
-      padding-bottom:1px;
-    }
-    .feed-title a:hover{
-      border-bottom-color:var(--accent);
-    }
-    .feed-src{
-      font-size:14px;
-      color:var(--muted);
-      white-space:nowrap;
-      flex:0 0 auto;
-      letter-spacing:.08em;
-      text-transform:lowercase;
+      flex:1;
     }
 
-    /* “loading” / placeholder copy */
+    .feed-src{
+      font-size:12px;
+      color:var(--muted);
+      text-transform:lowercase;
+      letter-spacing:.08em;
+      white-space:nowrap;
+    }
+
     .loading{
-      margin:0;
+      font-size:16px;
       color:var(--muted);
       font-style:italic;
-      font-size:22px;
-      padding:6px 0 2px;
-    }
-
-    /* subtle page reveal */
-    .fade-in{
-      animation:fade .22s ease-out both;
-    }
-    @keyframes fade{
-      from{ opacity:0; transform:translateY(6px); }
-      to{ opacity:1; transform:translateY(0); }
+      margin:4px 0 0;
     }
 
     footer{
-      margin-top:24px;
-      padding-top:14px;
+      margin-top:18px;
+      padding-top:12px;
       border-top:1px solid var(--rule);
+      font-size:13px;
       color:var(--muted);
-      font-size:16px;
     }
 
     @media (max-width:420px){
-      .wrap{ padding:18px 16px 30px; }
-      .title{ font-size:30px; }
-      .meta{ font-size:17px; }
-      .kicker{ font-size:18px; letter-spacing:.11em; }
-      .feed-title{ font-size:19px; }
+      .wrap{ padding:14px 16px 24px; }
+      .title{ font-size:22px; }
+      .feed-title{ font-size:15px; }
     }
+
   </style>
 </head>
 
 <body>
-  <div class="wrap fade-in">
+  <div class="wrap">
 
-    <!-- MASTHEAD (graphic banner) -->
-    <header class="masthead" aria-label="ruin2itive masthead">
-      <!-- MUST exist in your repo: assets/masthead.webp -->
-      <img
-        src="assets/masthead.webp"
-        alt="ruin2itive — reliability • open source • independent"
-        loading="eager"
-        decoding="async"
-      />
+    <header class="masthead">
+      <img src="assets/masthead.webp"
+           alt="ruin2itive — reliability • open source • independent">
     </header>
 
     <div class="top-rule"></div>
 
-    <!-- PROJECTS -->
-    <section class="section" aria-label="projects">
+    <section class="section">
       <h2 class="kicker">projects <span class="slash">/</span> the code</h2>
 
       <ul class="list">
         <li class="item">
           <p class="title">
-            <a href="https://github.com/Ruin2itive" target="_blank" rel="noopener">ruin2itive</a>
+            <a href="https://github.com/Ruin2itive" target="_blank">ruin2itive</a>
           </p>
           <p class="meta">github • src</p>
         </li>
 
         <li class="item">
           <p class="title">
-            <a href="https://www.hackster.io/" target="_blank" rel="noopener">arduino</a>
+            <a href="https://www.hackster.io/" target="_blank">arduino</a>
           </p>
           <p class="meta">hackster • hardware</p>
         </li>
 
         <li class="item">
           <p class="title">
-            <a href="https://www.instructables.com/" target="_blank" rel="noopener">raspberry_pi</a>
+            <a href="https://www.instructables.com/" target="_blank">raspberry_pi</a>
           </p>
           <p class="meta">instructables • diy</p>
         </li>
       </ul>
     </section>
 
-    <!-- MARKETS / CRYPTO -->
-    <section class="section" aria-label="markets">
+    <section class="section">
       <h2 class="kicker">markets <span class="slash">/</span> crypto</h2>
-      <p id="cryptoLoading" class="loading">curating signal...</p>
-      <div id="cryptoFeed" aria-live="polite"></div>
+      <p class="loading">curating signal...</p>
     </section>
 
-    <!-- HACKER NEWS -->
-    <section class="section" aria-label="hacker news">
+    <section class="section">
       <h2 class="kicker">hacker news</h2>
-      <p id="hnLoading" class="loading">curating signal...</p>
-      <div id="hnFeed" aria-live="polite"></div>
+      <p class="loading">curating signal...</p>
     </section>
 
-    <footer>© <span id="year"></span> ruin2itive.org</footer>
+    <footer>
+      © <script>document.write(new Date().getFullYear())</script> ruin2itive.org
+    </footer>
+
   </div>
-
-  <script>
-    document.getElementById("year").textContent = new Date().getFullYear();
-
-    function renderFeed(container, items, sourceLabel) {
-      container.innerHTML = "";
-      if (!items || !items.length) {
-        container.innerHTML = '<p class="loading">no items</p>';
-        return;
-      }
-
-      for (const it of items) {
-        const row = document.createElement("div");
-        row.className = "feed-row";
-
-        const title = document.createElement("p");
-        title.className = "feed-title";
-
-        const a = document.createElement("a");
-        a.href = it.url || "#";
-        a.target = "_blank";
-        a.rel = "noopener";
-        a.textContent = it.title || "untitled";
-
-        title.appendChild(a);
-
-        const src = document.createElement("div");
-        src.className = "feed-src";
-        src.textContent = sourceLabel || "";
-
-        row.appendChild(title);
-        row.appendChild(src);
-        container.appendChild(row);
-      }
-    }
-
-    async function loadHomeJson() {
-      const res = await fetch("data/home.json", { cache: "no-store" });
-      if (!res.ok) throw new Error("home.json not found");
-      return await res.json();
-    }
-
-    (async function main(){
-      const cryptoLoading = document.getElementById("cryptoLoading");
-      const hnLoading = document.getElementById("hnLoading");
-      const cryptoFeed = document.getElementById("cryptoFeed");
-      const hnFeed = document.getElementById("hnFeed");
-
-      try {
-        const data = await loadHomeJson();
-
-        cryptoLoading.remove();
-        hnLoading.remove();
-
-        renderFeed(cryptoFeed, data?.sections?.crypto || [], "decrypt");
-        renderFeed(hnFeed, data?.sections?.hacker || [], "hn");
-      } catch (e) {
-        cryptoLoading.textContent = "feed offline (data/home.json missing)";
-        hnLoading.textContent = "feed offline (data/home.json missing)";
-      }
-    })();
-  </script>
 </body>
 </html>
