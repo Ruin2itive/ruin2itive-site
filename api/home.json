@@ -1,58 +1,66 @@
 {
-  "updated_iso": "2026-02-14T18:00:00Z",
-  "edition": "2026-02-14",
+  "updated_iso": "2026-02-13T07:03:01.304007Z",
+  "edition": "2026-02-13",
   "sections": {
     "projects": [],
     "markets": [
       {
-        "title": "Bitcoin ETFs See $1.2B Inflows as Price Holds $67K",
-        "url": "https://decrypt.co/311311/bitcoin-etf-inflows-blackrock-fidelity",
+        "title": "US Prosecutors Warn of Crypto-Linked Romance Scams Ahead of Valentine\u2019s Day",
+        "url": "https://decrypt.co/357994/valentines-day-alert-romance-scams",
         "source": "decrypt",
-        "timestamp": "2026-02-14"
+        "timestamp": "2026-02-13",
+        "summary": "Many of the cases now intersect with \u201cpig-butchering\u201d schemes, long-form scams blending emotional gr..."
       },
       {
-        "title": "SEC Delays Ethereum ETF Decision to May",
-        "url": "https://decrypt.co/311312/sec-delays-ethereum-etf-decision",
+        "title": "Bitcoin Signals Turning Point\u2014But No Clear Bottom Yet, Experts Say",
+        "url": "https://decrypt.co/357992/bitcoin-signals-turning-point-no-clear-bottom-yet-experts",
         "source": "decrypt",
-        "timestamp": "2026-02-14"
+        "timestamp": "2026-02-13",
+        "summary": "Key valuation gauges remain short of the capitulation seen at past cycle lows, as inflation risks ke..."
       },
       {
-        "title": "Solana Mobile Chapter 2 Pre-Orders Hit 100K",
-        "url": "https://decrypt.co/311313/solana-mobile-chapter-2-pre-orders",
+        "title": "CFTC Brings Crypto Heavyweights Onto Advisory Panel Amid Fight Over Market Structure",
+        "url": "https://decrypt.co/357978/cftc-crypto-heavyweights-advisory-panel-fight-over-market-structure",
         "source": "decrypt",
-        "timestamp": "2026-02-14"
+        "timestamp": "2026-02-13",
+        "summary": "The CFTC has brought in leading crypto executives to its advisory panel as lawmakers weigh how new r..."
       }
     ],
     "foss": [
       {
-        "title": "Show HN: I built a static site generator in Go",
-        "url": "https://news.ycombinator.com/item?id=42345678",
+        "title": "Resizing windows on macOS Tahoe \u2013 the saga continues",
+        "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
         "source": "hn",
-        "timestamp": "2026-02-14"
+        "timestamp": "2026-02-13",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46997008\">Comments</a>"
       },
       {
-        "title": "Raspberry Pi 5 now supports NVMe SSDs via HAT+",
-        "url": "https://news.ycombinator.com/item?id=42345679",
+        "title": "GPT\u20115.3\u2011Codex\u2011Spark",
+        "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
         "source": "hn",
-        "timestamp": "2026-02-14"
+        "timestamp": "2026-02-13",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46992553\">Comments</a>"
       },
       {
-        "title": "California Privacy Agency proposes AI transparency rules",
-        "url": "https://news.ycombinator.com/item?id=42345680",
+        "title": "Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop you",
+        "url": "https://skipthe.tips/",
         "source": "hn",
-        "timestamp": "2026-02-14"
+        "timestamp": "2026-02-13",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46997519\">Comments</a>"
       },
       {
-        "title": "EU Cyber Resilience Act passes final hurdle",
-        "url": "https://news.ycombinator.com/item?id=42345681",
+        "title": "Gemini 3 Deep Think",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
         "source": "hn",
-        "timestamp": "2026-02-14"
+        "timestamp": "2026-02-13",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46991240\">Comments</a>"
       },
       {
-        "title": "Firefox rolls out vertical tabs in Nightly",
-        "url": "https://news.ycombinator.com/item?id=42345682",
+        "title": "AWS Adds support for nested virtualization",
+        "url": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
         "source": "hn",
-        "timestamp": "2026-02-14"
+        "timestamp": "2026-02-13",
+        "summary": "<a href=\"https://news.ycombinator.com/item?id=46997133\">Comments</a>"
       }
     ]
   }
