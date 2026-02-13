@@ -1,238 +1,174 @@
-/* ruin2itive.org — compact, fast, sharp */
-
-/* --- base reset --- */
-* { box-sizing: border-box; }
-html, body { margin: 0; padding: 0; }
-img { max-width: 100%; display: block; }
-a { color: inherit; text-decoration: none; }
-a:hover { text-decoration: underline; }
-
 :root{
-  --bg: #ffffff;
-  --ink: #111111;
-  --muted: #6b6b6b;
-  --line: rgba(0,0,0,.14);
-  --hair: rgba(0,0,0,.08);
-  --accent: #6d2b2b;  /* blood-rust */
-  --max: 900px;
+  --ink:#0b0b0b;
+  --muted:#6b6b6b;
+  --line:rgba(0,0,0,.14);
+  --accent:#7b2d2d; /* deep rust */
+  --paper:#ffffff;
 
-  /* compact typography */
-  --fs-hero: 48px;
-  --fs-h2: 14px;
-  --fs-body: 15px;
-  --fs-meta: 12px;
-
-  --lh-body: 1.45;
+  --w: 760px;
   --pad: 16px;
+  --tight: 10px;
 }
 
-@media (max-width: 420px){
-  :root{
-    --fs-hero: 44px;
-    --pad: 14px;
-  }
-}
-
+*{box-sizing:border-box}
+html,body{height:100%}
 body{
-  background: var(--bg);
-  color: var(--ink);
-  font-size: var(--fs-body);
-  line-height: var(--lh-body);
-  letter-spacing: .01em;
-
-  /* “clerks-ish” vibe without loading webfonts:
-     rely on system serif stack, italic where needed */
-  font-family: ui-serif, "Times New Roman", Times, Georgia, serif;
-
-  /* keep it snappy */
+  margin:0;
+  color:var(--ink);
+  background:var(--paper);
+  font-family: ui-serif, Georgia, "Times New Roman", Times, serif;
+  -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
 
-/* --- full-background elephant watermark --- */
-body::before{
-  content: "";
-  position: fixed;
-  inset: 0;
-  pointer-events: none;
-  z-index: 0;
-
-  /* your uploaded asset */
-  background-image: url("./assets/elephant-mark.webp");
-  background-repeat: no-repeat;
-  background-position: 50% 18%;
-  background-size: min(1200px, 160vw);
-
-  /* stronger than “faint”, but not ruining legibility */
-  opacity: .11;
-
-  /* soften so it feels like print */
-  filter: saturate(0) contrast(1.05);
-}
-
-.wrap, .masthead{
-  position: relative;
-  z-index: 1;
-}
-
-/* --- layout --- */
-.masthead{
-  max-width: var(--max);
-  margin: 0 auto;
-  padding: 18px var(--pad) 10px;
-}
+a{color:inherit}
+a:hover{opacity:.85}
 
 .wrap{
-  max-width: var(--max);
-  margin: 0 auto;
-  padding: 0 var(--pad) 24px;
+  position:relative;
+  max-width:var(--w);
+  margin:0 auto;
+  padding:calc(var(--pad) + 10px) var(--pad) 56px;
 }
 
-/* --- brand --- */
-.brand__name{
-  margin: 0;
-  font-size: var(--fs-hero);
-  font-weight: 800;
-  letter-spacing: .01em;
-  font-style: italic; /* zine headline feel */
-  text-transform: lowercase;
+/* Elephant + subtle film grain, fast and local */
+.wrap::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  pointer-events:none;
+  background:
+    /* grain */
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)' opacity='.08'/%3E%3C/svg%3E")
+    repeat,
+    /* elephant mark (local asset) */
+    url("./assets/elephant-third-eye.webp")
+    center 120px / min(980px, 120vw) no-repeat;
+  opacity:.22; /* visible but not “cheap” */
+  mix-blend-mode:multiply;
 }
 
-.brand__tag{
-  margin-top: 4px;
-  font-size: var(--fs-meta);
-  color: var(--muted);
-  letter-spacing: .20em;
-  text-transform: lowercase;
+/* Keep text readable over background */
+.panel{
+  position:relative;
+  background:rgba(255,255,255,.86);
+  backdrop-filter:saturate(1.1);
+  border:1px solid var(--line);
+  padding:12px 12px;
 }
 
-.manifesto{
-  margin-top: 12px;
-  padding-top: 12px;
-  border-top: 2px solid var(--ink);
-  display: grid;
-  grid-template-columns: 10px 1fr;
-  gap: 12px;
-  align-items: start;
+/* Header */
+.brand{
+  position:relative;
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  gap:12px;
+  margin-bottom:10px;
 }
 
-.manifesto__bar{
-  width: 6px;
-  height: 100%;
-  background: var(--accent);
-  border-radius: 1px;
-  opacity: .85;
+.wordmark{
+  font-size:44px;
+  line-height:1;
+  letter-spacing:.2px;
+  margin:0;
+  font-weight:700;
+  text-transform:none;
 }
 
-.manifesto__text p{
-  margin: 0 0 8px;
-  color: rgba(0,0,0,.82);
-  font-style: italic;
+.tagline{
+  margin:6px 0 0;
+  color:var(--muted);
+  font-size:14px;
+  letter-spacing:.16em;
+  text-transform:lowercase;
+  white-space:nowrap;
 }
 
-.manifesto__punch{
-  margin-top: 8px;
-  font-style: italic;
-  font-weight: 800;
-  color: var(--ink);
+.rule{
+  height:2px;
+  background:var(--ink);
+  opacity:.9;
+  margin:10px 0 12px;
 }
 
-/* --- sections --- */
+/* Manifesto block */
+.manifest{
+  border-left:4px solid var(--accent);
+  padding-left:10px;
+  margin:0;
+  font-style:italic;
+  line-height:1.35;
+  font-size:18px;
+}
+
+.manifest strong{
+  font-style:italic;
+  font-weight:800;
+}
+
+/* Sections */
 .section{
-  margin-top: 16px;
-  padding-top: 10px;
-  border-top: 1px solid var(--line);
+  margin-top:14px;
 }
 
-.section__title{
-  margin: 0 0 10px;
-  font-size: var(--fs-h2);
-  font-weight: 800;
-  letter-spacing: .26em;
-  text-transform: lowercase;
-  color: var(--accent);
+.h{
+  display:flex;
+  align-items:baseline;
+  gap:10px;
+  margin:0 0 8px;
+  font-size:16px;
+  letter-spacing:.16em;
+  text-transform:lowercase;
+  color:var(--accent);
 }
 
-/* mini lists */
-.mini{
-  list-style: none;
-  margin: 0;
-  padding: 0;
+.h::after{
+  content:"";
+  flex:1;
+  height:1px;
+  background:var(--line);
+  transform:translateY(-2px);
 }
 
-.mini__row{
-  padding: 8px 0;
-  border-bottom: 1px solid var(--hair);
-  display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 12px;
-  align-items: baseline;
+.list{
+  list-style:none;
+  padding:0;
+  margin:0;
+  border-top:1px solid var(--line);
 }
 
-.mini__a{
-  font-size: 20px;
-  font-weight: 800;
-  text-transform: lowercase;
+.item{
+  padding:10px 0;
+  border-bottom:1px solid var(--line);
 }
 
-.mini__meta{
-  font-size: var(--fs-meta);
-  color: var(--muted);
-  letter-spacing: .18em;
-  text-transform: lowercase;
-  white-space: nowrap;
+.title{
+  display:block;
+  font-size:20px;
+  line-height:1.15;
+  text-decoration:none;
+  font-weight:700;
 }
 
-/* feed cards */
-.feed__loading{
-  padding: 10px 0;
-  color: var(--muted);
-  font-style: italic;
+.meta{
+  margin-top:4px;
+  font-size:12px;
+  color:var(--muted);
+  letter-spacing:.14em;
+  text-transform:lowercase;
 }
 
-.feed__item{
-  padding: 10px 0;
-  border-bottom: 1px solid var(--hair);
+/* Compact mode on small screens */
+@media (max-width:420px){
+  .wordmark{font-size:46px}
+  .manifest{font-size:17px}
+  .title{font-size:19px}
+  .wrap{padding-left:14px;padding-right:14px}
 }
 
-.feed__title{
-  display: block;
-  font-size: 22px;
-  font-weight: 900;
-  line-height: 1.2;
-  text-decoration: none;
-  text-transform: none; /* keep titles natural */
-}
-
-.feed__meta{
-  margin-top: 4px;
-  font-size: var(--fs-meta);
-  color: var(--muted);
-  letter-spacing: .16em;
-  text-transform: lowercase;
-}
-
-/* footer */
-.footer{
-  margin-top: 18px;
-  padding-top: 14px;
-  border-top: 1px solid var(--line);
-  color: var(--muted);
-  font-size: var(--fs-meta);
-  letter-spacing: .14em;
-  text-transform: lowercase;
-}
-
-.footer__row{
-  display: inline-flex;
-  gap: 10px;
-  align-items: center;
-}
-
-.dot{
-  width: 7px;
-  height: 7px;
-  background: var(--accent);
-  border-radius: 50%;
-  display: inline-block;
-  opacity: .85;
+/* Make “loading…” not look broken */
+.loading{
+  color:var(--muted);
+  font-style:italic;
 }
