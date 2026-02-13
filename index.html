@@ -7,9 +7,9 @@
 
 <style>
 :root{
-  --ink:#0b0b0b;
-  --rust:#6e3029;
-  --muted:#6f6f6f;
+  --ink:#0a0a0a;
+  --rust:#7b2e27;
+  --muted:#6a6a6a;
 }
 
 *{margin:0;padding:0;box-sizing:border-box;}
@@ -18,50 +18,52 @@ body{
   font-family: Georgia, "Times New Roman", serif;
   color:var(--ink);
   background:#ffffff;
-  line-height:1.18;
-  padding:12px 14px 40px;
-  overflow-x:hidden;
+  line-height:1.15;
+  padding:14px 12px 40px;
 }
 
-/* STRONG FULL ELEPHANT */
+/* FULL DOMINANT ELEPHANT */
+
 body::before{
   content:"";
   position:fixed;
   inset:0;
   background:
     url("assets/elephant-third-eye.webp")
-    center -60px / min(1100px,140vw) no-repeat;
-  opacity:.26;            /* darker */
+    center 40px / min(1200px,160vw) no-repeat;
+  opacity:.38;     /* stronger */
   z-index:-1;
   pointer-events:none;
 }
 
+/* CONTENT COLUMN */
+
 .wrap{
-  max-width:760px;
+  max-width:640px;
   margin:auto;
 }
 
-/* Header */
+/* HEADER */
 
 header{
   border-bottom:2px solid #111;
-  padding-bottom:6px;
+  padding-bottom:4px;
 }
 
 .wordmark{
   font-style:italic;
-  font-size:38px;
+  font-size:36px;
   line-height:1;
 }
 
 .tagline{
-  font-size:10px;
+  font-size:9px;
   letter-spacing:2px;
   color:var(--muted);
-  margin-top:6px;
+  margin-top:4px;
 }
 
-/* Manifesto */
+/* MANIFESTO */
 
 .manifesto{
   margin-top:8px;
@@ -71,37 +73,37 @@ header{
 
 .manifesto p{
   font-style:italic;
-  font-size:13.5px;
-  margin-bottom:4px;
+  font-size:13px;
+  margin-bottom:3px;
 }
 
 .manifesto .law{
   font-weight:800;
 }
 
-/* Section headers */
+/* SECTIONS */
 
 section{
-  margin-top:12px;
+  margin-top:10px;
 }
 
 h2{
-  font-size:11px;
+  font-size:10px;
   letter-spacing:3px;
   color:var(--rust);
-  border-bottom:1px dotted rgba(0,0,0,.3);
-  padding-bottom:4px;
+  border-bottom:1px solid rgba(0,0,0,.25);
+  padding-bottom:3px;
   margin-bottom:4px;
 }
 
-/* Lists */
+/* LISTS */
 
 ul{
   list-style:none;
 }
 
 li{
-  padding:4px 0;
+  padding:3px 0;
 }
 
 a{
@@ -117,23 +119,23 @@ a:hover{
 
 .meta{
   display:block;
-  font-size:10px;
+  font-size:9px;
   color:var(--muted);
   margin-top:1px;
 }
 
-/* Compact mode */
+/* MOBILE TIGHTENING */
 
 @media (max-width:520px){
   body{
-    padding:10px 12px 30px;
+    padding:12px 10px 30px;
   }
   .wordmark{
-    font-size:34px;
+    font-size:32px;
   }
   body::before{
-    background-position:center -20px;
-    background-size:min(950px,160vw);
+    background-position:center 80px;
+    background-size:min(1000px,180vw);
   }
 }
 </style>
