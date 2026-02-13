@@ -1,185 +1,182 @@
-/* ruin2itive — newspaper + seal watermark (mobile-first) */
+/* ruin2itive — broadsheet (iphone-first) */
 
 :root{
-  --bg: #ffffff;
-  --ink: #0b0b0b;
-  --muted: #6b6b6b;
-  --rule: rgba(0,0,0,.85);
-  --rust: #8a4a3c;
+  --bg:#ffffff;
+  --ink:#0b0b0b;
+  --muted:rgba(0,0,0,.55);
+  --rule:#111;
+  --rust:#8a4a3c;
 
-  /* Watermark asset (keep both for Safari) */
-  --mark-url: image-set(
+  /* IMPORTANT: these files must exist in /assets */
+  --mark-url:image-set(
     url("assets/elephant-mark.webp") type("image/webp"),
-    url("assets/elephant-mark.png") type("image/png")
+    url("assets/elephant-mark.png")  type("image/png")
   );
-  --mark-opacity: 0.10; /* tune 0.08–0.13 */
+
+  --mark-opacity:0.095;
 }
 
-*{ box-sizing:border-box; }
-html,body{ height:100%; }
+/* reset */
+*{box-sizing:border-box}
+html,body{height:100%}
 body{
   margin:0;
-  background: var(--bg);
-  color: var(--ink);
-  -webkit-text-size-adjust: 100%;
+  background:var(--bg);
+  color:var(--ink);
+  -webkit-text-size-adjust:100%;
+  text-rendering:optimizeLegibility;
 }
 
+/* page */
 .page{
-  position: relative;
-  padding: 22px 18px 40px;
-  max-width: 720px;
-  margin: 0 auto;
+  position:relative;
+  max-width:760px;
+  margin:0 auto;
+  padding:22px 18px 56px;
 }
 
-/* Big watermark “seal” behind content */
+/* elephant seal */
 .page::before{
   content:"";
   position:absolute;
-  inset: 120px -40px 0 -40px;
-  background-image: var(--mark-url);
+  left:-60px;
+  right:-60px;
+  top:150px;
+  bottom:0;
+  background-image:var(--mark-url);
   background-repeat:no-repeat;
-  background-position: center 40px;
-  background-size: 110% auto;
-  opacity: var(--mark-opacity);
+  background-position:center 80px;
+  background-size:110% auto;
+  opacity:var(--mark-opacity);
   pointer-events:none;
-  z-index: 0;
-  filter: contrast(1.05);
+  z-index:0;
+  filter:contrast(1.08);
 }
 
-/* Optional subtle paper speckle overlay */
+/* paper speckle */
 .page::after{
   content:"";
   position:absolute;
   inset:0;
-  background-image:
-    radial-gradient(rgba(0,0,0,.06) 1px, transparent 1.2px);
-  background-size: 28px 28px;
-  opacity: .12;
+  background-image:radial-gradient(rgba(0,0,0,.06) 1px, transparent 1.2px);
+  background-size:30px 30px;
+  opacity:.12;
   pointer-events:none;
-  z-index: 0;
+  z-index:0;
 }
 
-/* Keep content above watermark */
-.mast, .section { position: relative; z-index: 1; }
+.mast,.section{position:relative;z-index:1}
 
-/* Masthead */
+/* masthead */
 .brand-name{
-  font-family: "Georgia", "Times New Roman", serif;
-  font-weight: 800;
-  font-size: 54px;
-  letter-spacing: -0.5px;
-  line-height: 1;
-  margin: 6px 0 4px;
+  font-family:Georgia,"Times New Roman",serif;
+  font-weight:900;
+  font-size:56px;
+  line-height:1;
+  letter-spacing:-0.6px;
+  margin:6px 0 6px;
 }
 
 .brand-tag{
-  font-family: "Georgia", "Times New Roman", serif;
-  font-size: 15px;
-  letter-spacing: 3.3px;
-  text-transform: lowercase;
-  color: var(--muted);
-  margin: 6px 0 14px;
+  font-family:Georgia,"Times New Roman",serif;
+  font-size:15px;
+  letter-spacing:3.6px;
+  text-transform:lowercase;
+  color:var(--muted);
+  margin:0 0 14px;
 }
 
 .rule{
-  height: 2px;
-  background: var(--rule);
-  margin: 10px 0 20px;
+  height:2px;
+  background:var(--rule);
+  margin:0 0 20px;
 }
 
-/* Lede box */
+/* lede callout */
 .lede{
-  border: 1px solid rgba(0,0,0,.25);
-  background: rgba(255,255,255,.75);
-  position: relative;
-  padding: 18px 16px 18px 22px;
-  margin: 0 0 18px;
+  position:relative;
+  padding:18px 18px 18px 26px;
+  border:1px solid rgba(0,0,0,.25);
+  background:rgba(255,255,255,.84);
+  margin:0 0 18px;
 }
 
 .lede::before{
   content:"";
   position:absolute;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  width: 6px;
-  background: var(--rust);
+  left:0;
+  top:0;
+  bottom:0;
+  width:6px;
+  background:var(--rust);
 }
 
 .lede p{
-  margin: 0 0 10px;
-  font-family: "Georgia", "Times New Roman", serif;
-  font-size: 19px;
-  font-style: italic;
-  line-height: 1.45;
+  margin:0 0 10px;
+  font-family:Georgia,"Times New Roman",serif;
+  font-style:italic;
+  font-size:19px;
+  line-height:1.45;
 }
 
-.lede p:last-child{ margin-bottom:0; }
+.lede p:last-child{margin-bottom:0}
 
 .lede strong{
-  font-weight: 800;
-  font-style: italic;
+  font-weight:900;
+  font-style:italic;
 }
 
-/* Sections */
-.section{
-  margin-top: 18px;
-}
+/* sections */
+.section{margin-top:18px}
 
 .section-title{
-  font-family: "Georgia", "Times New Roman", serif;
-  font-size: 22px;
-  font-weight: 700;
-  letter-spacing: 6px;
-  color: var(--rust);
-  text-transform: lowercase;
-  margin: 18px 0 10px;
+  font-family:Georgia,"Times New Roman",serif;
+  font-size:22px;
+  font-weight:800;
+  letter-spacing:6px;
+  text-transform:lowercase;
+  color:var(--rust);
+  margin:18px 0 12px;
 }
 
-.list{
-  border-top: 1px solid rgba(0,0,0,.18);
-}
+.list{border-top:1px solid rgba(0,0,0,.22)}
 
 .item{
   display:block;
   text-decoration:none;
-  color: inherit;
-  padding: 14px 2px 14px 0;
-  border-bottom: 1px solid rgba(0,0,0,.18);
+  color:inherit;
+  padding:14px 0;
+  border-bottom:1px solid rgba(0,0,0,.22);
 }
 
 .item-title{
-  font-family: "Georgia", "Times New Roman", serif;
-  font-size: 34px;
-  font-weight: 800;
-  line-height: 1.05;
-  margin: 0 0 4px;
+  font-family:Georgia,"Times New Roman",serif;
+  font-size:34px;
+  font-weight:900;
+  line-height:1.05;
+  margin:0 0 4px;
 }
 
 .item-meta{
-  font-family: "Georgia", "Times New Roman", serif;
-  font-size: 15px;
-  color: rgba(0,0,0,.55);
-  letter-spacing: 2.5px;
-  text-transform: lowercase;
+  font-family:Georgia,"Times New Roman",serif;
+  font-size:15px;
+  letter-spacing:2.5px;
+  text-transform:lowercase;
+  color:rgba(0,0,0,.6);
 }
 
+/* loading line like your screenshot */
 .loading{
-  font-family: "Georgia", "Times New Roman", serif;
-  font-size: 18px;
-  font-style: italic;
-  color: rgba(0,0,0,.55);
-  padding: 12px 0 14px;
+  font-family:Georgia,"Times New Roman",serif;
+  font-style:italic;
+  font-size:18px;
+  color:rgba(0,0,0,.65);
+  padding:10px 0 14px;
 }
 
-/* Smaller phones */
-@media (max-width: 380px){
-  .brand-name{ font-size: 46px; }
-  .item-title{ font-size: 30px; }
-  .brand-tag{ letter-spacing: 3px; }
-}
-
-/* Respect reduced motion (we won't animate) */
-@media (prefers-reduced-motion: reduce){
-  *{ scroll-behavior:auto !important; }
+/* smaller phones */
+@media (max-width:420px){
+  .brand-name{font-size:52px}
+  .item-title{font-size:32px}
+  .section-title{letter-spacing:5px}
 }
