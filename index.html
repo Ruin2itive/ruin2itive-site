@@ -1,77 +1,101 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>ruin2itive</title>
-  <meta name="description" content="reliability first · open source · independent" />
-  <link rel="stylesheet" href="./style.css?v=1" />
+
+  <!-- Force cache refresh -->
+  <link rel="stylesheet" href="/style.css?v=202602130815">
 </head>
 
 <body>
-  <main class="page">
+  <div class="page">
+
     <header class="mast">
       <h1 class="brand">ruin2itive</h1>
-      <div class="tagline">reliability first · open source · independent</div>
-      <hr class="rule" />
+      <div class="tagline">reliability first · independent · open source</div>
+      <hr class="rule">
     </header>
 
-    <section class="sheet">
-      <!-- Projects -->
-      <div class="section-head">
-        <div class="section-title">projects / the code</div>
-        <div class="section-line"></div>
-      </div>
+    <div class="sheet">
+      <div class="watermark"></div>
 
-      <a class="row" href="https://github.com/ruin2itive" target="_blank" rel="noopener">
-        <h2 class="row-title">GitHub</h2>
-        <div class="row-sub">ruin2itive · src</div>
-      </a>
-
-      <a class="row" href="https://www.hackster.io/" target="_blank" rel="noopener">
-        <h2 class="row-title">arduino</h2>
-        <div class="row-sub">hackster · hardware</div>
-      </a>
-
-      <a class="row" href="https://www.instructables.com/" target="_blank" rel="noopener">
-        <h2 class="row-title">raspberry pi</h2>
-        <div class="row-sub">instructables · diy</div>
-      </a>
-
-      <!-- Feeds -->
-      <div class="section-head">
-        <div class="section-title">markets / crypto</div>
-        <div class="section-line"></div>
-      </div>
-      <section class="feed" id="feed-crypto">
-        <div class="feed-status" data-status>loading…</div>
-        <ul class="feed-list" data-list></ul>
+      <!-- CRYPTO -->
+      <section class="section">
+        <div class="section-head">
+          <div class="section-title">crypto</div>
+          <div class="section-line"></div>
+        </div>
+        <div id="crypto-feed" class="feed-list"></div>
       </section>
 
-      <div class="section-head">
-        <div class="section-title">hacker news</div>
-        <div class="section-line"></div>
-      </div>
-      <section class="feed" id="feed-hacker">
-        <div class="feed-status" data-status>loading…</div>
-        <ul class="feed-list" data-list></ul>
+      <!-- HACKER -->
+      <section class="section">
+        <div class="section-head">
+          <div class="section-title">hacker</div>
+          <div class="section-line"></div>
+        </div>
+        <div id="hacker-feed" class="feed-list"></div>
       </section>
 
-      <div class="section-head">
-        <div class="section-title">world news</div>
-        <div class="section-line"></div>
-      </div>
-      <section class="feed" id="feed-world">
-        <div class="feed-status" data-status>loading…</div>
-        <ul class="feed-list" data-list></ul>
+      <!-- WORLD -->
+      <section class="section">
+        <div class="section-head">
+          <div class="section-title">world</div>
+          <div class="section-line"></div>
+        </div>
+        <div id="world-feed" class="feed-list"></div>
       </section>
 
-      <footer class="footer">
-        <div class="updated" id="updated">updated · …</div>
-      </footer>
-    </section>
-  </main>
+    </div>
 
-  <script src="./app.js?v=1" defer></script>
+    <footer class="footer">
+      <div class="updated" id="updated-stamp">loading…</div>
+    </footer>
+
+  </div>
+
+<script>
+async function loadFeeds() {
+  try {
+    const res = await fetch('/data/home.json?v=' + Date.now());
+    const data = await res.json();
+
+    function render(sectionId, items) {
+      const container = document.getElementById(sectionId);
+      container.innerHTML = '';
+
+      if (!items || items.length === 0) {
+        container.innerHTML = '<div class="feed-status">no data</div>';
+        return;
+      }
+
+      items.slice(0,2).forEach(item => {
+        const div = document.createElement('div');
+        div.className = 'feed-item';
+        div.innerHTML = `
+          <h3><a href="${item.url}" target="_blank">${item.title}</a></h3>
+          <div class="feed-meta">${item.source} · ${item.time}</div>
+        `;
+        container.appendChild(div);
+      });
+    }
+
+    render('crypto-feed', data.sections.crypto);
+    render('hacker-feed', data.sections.hacker);
+    render('world-feed', data.sections.world);
+
+    document.getElementById('updated-stamp').innerText =
+      'updated ' + data.updated_iso;
+
+  } catch (e) {
+    console.error(e);
+  }
+}
+
+loadFeeds();
+</script>
+
 </body>
 </html>
