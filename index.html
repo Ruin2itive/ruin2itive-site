@@ -3,98 +3,86 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <meta name="color-scheme" content="light" />
   <title>ruin2itive</title>
-
-  <!-- IMPORTANT: use RELATIVE paths so it works on custom domain OR repo pages -->
+  <meta name="description" content="reliability first · open source · independent" />
   <link rel="stylesheet" href="./style.css?v=7" />
 </head>
-
 <body>
-  <main class="page">
+  <div class="page">
     <header class="mast">
       <h1 class="brand">ruin2itive</h1>
       <div class="tagline">reliability first · open source · independent</div>
       <hr class="rule" />
     </header>
 
-    <!-- Minimal at first glance; tap to expand -->
+    <!-- minimal at first glance -->
     <details class="manifesto" open>
-      <div class="manifesto-bar" aria-hidden="true"></div>
-      <div class="manifesto-inner">
-        <summary class="manifesto-summary">
-          pulled from various sites. <strong>stability is law.</strong>
-        </summary>
-        <div class="manifesto-more">
-          <p>
-            pulled from various sites. these sources are selected to ensure
-            consistent and stable information.
-          </p>
-          <p>
-            these feeds remain hand selected, ad free, and purposeful.
-            <strong>clear and concise info. stability is law.</strong>
-          </p>
-        </div>
+      <summary class="manifesto-summary">
+        pulled from various sites. <strong>stability is law.</strong>
+      </summary>
+
+      <div class="manifesto-body">
+        <p><em>these sources are selected to ensure consistent and stable information.</em></p>
+        <p><em>these feeds remain hand selected, ad free, and purposeful.</em> <strong>clear and concise info.</strong></p>
       </div>
     </details>
 
-    <section class="sheet">
+    <main class="sheet">
       <div class="watermark" aria-hidden="true"></div>
 
-      <div class="section-head">
+      <section class="section-head">
         <div class="section-title">projects / the code</div>
         <div class="section-line"></div>
-      </div>
+      </section>
 
-      <!-- rename section to GitHub (per your request) -->
-      <a class="row" href="https://github.com/ruin2itive" target="_blank" rel="noreferrer">
-        <h2 class="row-title">GitHub</h2>
+      <a class="row" href="https://github.com/ruin2itive/ruin2itive-site" target="_blank" rel="noopener">
+        <div class="row-title">GitHub</div>
         <div class="row-sub">ruin2itive · src</div>
       </a>
 
-      <a class="row" href="https://hackster.io/" target="_blank" rel="noreferrer">
-        <h2 class="row-title">arduino</h2>
+      <a class="row" href="https://hackster.io/" target="_blank" rel="noopener">
+        <div class="row-title">arduino</div>
         <div class="row-sub">hackster · hardware</div>
       </a>
 
-      <a class="row" href="https://www.instructables.com/" target="_blank" rel="noreferrer">
-        <h2 class="row-title">raspberry&nbsp;pi</h2>
+      <a class="row" href="https://www.instructables.com/" target="_blank" rel="noopener">
+        <div class="row-title">raspberry pi</div>
         <div class="row-sub">instructables · diy</div>
       </a>
 
-      <div class="section-head">
+      <section class="section-head">
         <div class="section-title">markets / crypto</div>
         <div class="section-line"></div>
-      </div>
-      <section class="feed">
-        <div class="feed-status" id="cryptoStatus">loading…</div>
-        <ul class="feed-list" id="cryptoList"></ul>
+      </section>
+      <section class="feed" data-feed="crypto">
+        <div class="feed-status">loading…</div>
+        <ol class="feed-list"></ol>
       </section>
 
-      <div class="section-head">
+      <section class="section-head">
         <div class="section-title">hacker news</div>
         <div class="section-line"></div>
-      </div>
-      <section class="feed">
-        <div class="feed-status" id="hackerStatus">loading…</div>
-        <ul class="feed-list" id="hackerList"></ul>
+      </section>
+      <section class="feed" data-feed="hacker">
+        <div class="feed-status">loading…</div>
+        <ol class="feed-list"></ol>
       </section>
 
-      <div class="section-head">
+      <section class="section-head">
         <div class="section-title">world news</div>
         <div class="section-line"></div>
-      </div>
-      <section class="feed">
-        <div class="feed-status" id="worldStatus">loading…</div>
-        <ul class="feed-list" id="worldList"></ul>
+      </section>
+      <section class="feed" data-feed="world">
+        <div class="feed-status">loading…</div>
+        <ol class="feed-list"></ol>
       </section>
 
       <footer class="footer">
-        <div class="updated" id="updatedLine">updated · loading…</div>
+        <div class="updated" id="updated">updated · …</div>
       </footer>
-    </section>
-  </main>
+    </main>
+  </div>
 
-  <script src="./app.js?v=7" defer></script>
+  <script defer src="./app.js?v=7"></script>
 </body>
 </html>
