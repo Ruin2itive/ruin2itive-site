@@ -1,295 +1,293 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<title>ruin2itive</title>
-<meta name="description" content="reliability-first, open-source, independent signal hub" />
-<meta name="theme-color" content="#f2efe7" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>ruin2itive</title>
+  <meta name="description" content="reliability first · open source · independent" />
+  <meta name="theme-color" content="#f2efe7" />
 
-<style>
-  :root{
-    --paper:#f2efe7;
-    --paper2:#eee9df;
-    --ink:#101010;
-    --rust:#7b3f36;
-    --faint:#9a9187;
-    --rule:rgba(123,63,54,.55);
-  }
-
-  *{ margin:0; padding:0; box-sizing:border-box; }
-
-  body{
-    background:var(--paper);
-    color:var(--ink);
-    font-family: Georgia, "Times New Roman", serif;
-    max-width: 920px;
-    margin: 28px auto 90px;
-    padding: 0 18px;
-    line-height: 1.55;
-  }
-
-  /* ===== WORDMARK ===== */
-  .wordmark{
-    font-style: italic;
-    font-weight: 500;
-    text-transform: none;
-    font-size: 52px;
-    letter-spacing: .4px;
-    display: inline-block;
-    border-bottom: 2px solid var(--ink);
-    padding-bottom: 6px;
-  }
-
-  .tagline{
-    margin-top: 12px;
-    font-size: 12px;
-    letter-spacing: 2px;
-    text-transform: lowercase;
-    color: var(--faint);
-  }
-
-  /* ===== HERO: seal + doctrine ===== */
-  .hero{
-    margin-top: 22px;
-    display: grid;
-    grid-template-columns: 38% 62%;
-    gap: 18px;
-    align-items: stretch;
-  }
-
-  /* left: seal block (power) */
-  .seal{
-    background: var(--paper2);
-    border: 1px solid rgba(16,16,16,.08);
-    position: relative;
-    overflow: hidden;
-    min-height: 240px;
-  }
-
-  .seal::before{
-    content:"";
-    position:absolute;
-    inset:-10% -10% -10% -10%;
-    background: url("assets/elephant-mark.webp") center 30% / cover no-repeat;
-    filter: contrast(1.1);
-    opacity: .95;
-  }
-
-  /* subtle “press” edge */
-  .seal::after{
-    content:"";
-    position:absolute;
-    inset:0;
-    box-shadow: inset 0 0 0 1px rgba(16,16,16,.08);
-    pointer-events:none;
-  }
-
-  /* right: doctrine block (readable) */
-  .doctrine{
-    background: rgba(255,255,255,.35);
-    border: 1px solid rgba(16,16,16,.08);
-    padding: 18px 16px 16px;
-  }
-
-  .doctrine p{
-    font-style: italic;
-    font-size: 19px;
-    color: rgba(16,16,16,.86);
-    margin-bottom: 12px;
-  }
-
-  .doctrine .law{
-    font-weight: 600;
-    color: rgba(16,16,16,.95);
-  }
-
-  /* ===== DIVIDERS ===== */
-  .rule{
-    height: 2px;
-    background: var(--rust);
-    margin: 34px 0 26px;
-  }
-
-  /* ===== SECTIONS ===== */
-  .section{
-    margin-top: 26px;
-  }
-
-  .section h2{
-    font-size: 12px;
-    letter-spacing: 3px;
-    text-transform: lowercase;
-    color: var(--rust);
-    border-bottom: 1px dotted var(--rule);
-    padding-bottom: 8px;
-    margin-bottom: 14px;
-  }
-
-  ul{ list-style:none; }
-
-  li{
-    padding: 14px 0;
-    border-bottom: 1px dotted rgba(123,63,54,.25);
-  }
-
-  a{
-    color: var(--ink);
-    text-decoration: none;
-    border-bottom: 1px solid rgba(16,16,16,.85);
-    padding-bottom: 2px;
-  }
-
-  a:hover{
-    color: var(--rust);
-    border-bottom-color: var(--rust);
-  }
-
-  .meta{
-    display:block;
-    margin-top: 5px;
-    font-size: 12px;
-    text-transform: lowercase;
-    letter-spacing: 1px;
-    color: var(--faint);
-  }
-
-  footer{
-    margin-top: 54px;
-    padding-top: 18px;
-    border-top: 1px solid var(--rule);
-    color: var(--faint);
-    font-size: 12px;
-    letter-spacing: 1px;
-    text-transform: lowercase;
-    display:flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 10px;
-  }
-
-  /* ===== MOBILE ===== */
-  @media (max-width: 760px){
-    .wordmark{ font-size: 40px; }
-    .hero{
-      grid-template-columns: 1fr;
+  <style>
+    :root{
+      --paper:#f2efe7;
+      --ink:#101010;
+      --rust:#7b3f36;
+      --faint:#8f877e;
+      --rule:rgba(123,63,54,.45);
     }
-    .seal{ min-height: 220px; }
-  }
-</style>
+
+    *{ margin:0; padding:0; box-sizing:border-box; }
+
+    /* Full-site background elephant (fast: no blur, no filters) */
+    body{
+      background: var(--paper);
+      color: var(--ink);
+      font-family: Georgia, "Times New Roman", serif;
+      line-height: 1.45;
+      padding: 14px 14px 60px;
+      position: relative;
+      overflow-x:hidden;
+    }
+
+    body::before{
+      content:"";
+      position: fixed;
+      inset: 0;
+      background:
+        url("assets/elephant-mark.webp")
+        center 120px / min(980px, 120vw) no-repeat;
+      opacity: .18;
+      pointer-events: none;
+      z-index: -2;
+    }
+
+    /* Paper veil so text stays readable on all screens */
+    body::after{
+      content:"";
+      position: fixed;
+      inset: 0;
+      background: rgba(242,239,231,.86);
+      pointer-events: none;
+      z-index: -1;
+    }
+
+    .wrap{
+      max-width: 860px;
+      margin: 0 auto;
+    }
+
+    /* Header = tight + identity */
+    header{
+      padding: 10px 0 10px;
+      border-bottom: 2px solid rgba(16,16,16,.80);
+    }
+
+    .wordmark{
+      font-style: italic;
+      font-weight: 500;
+      font-size: 44px;
+      letter-spacing: .3px;
+      text-transform: none;
+    }
+
+    .tagline{
+      margin-top: 6px;
+      font-size: 12px;
+      letter-spacing: 2px;
+      color: var(--faint);
+      text-transform: lowercase;
+    }
+
+    /* Manifesto = compact, strong, no overlays */
+    .manifesto{
+      margin-top: 12px;
+      padding: 12px 12px;
+      border-left: 3px solid var(--rust);
+      background: rgba(255,255,255,.25);
+    }
+    .manifesto p{
+      font-style: italic;
+      font-size: 16px;
+      color: rgba(16,16,16,.88);
+      margin-bottom: 8px;
+    }
+    .manifesto p:last-child{ margin-bottom: 0; }
+    .manifesto .law{
+      font-weight: 700;
+      color: rgba(16,16,16,.96);
+    }
+
+    .rule{
+      height: 2px;
+      background: var(--rust);
+      margin: 14px 0 10px;
+      opacity: .85;
+    }
+
+    /* Sections = dense */
+    section{
+      margin-top: 14px;
+    }
+
+    h2{
+      font-size: 12px;
+      letter-spacing: 3px;
+      text-transform: lowercase;
+      color: var(--rust);
+      padding: 8px 0 6px;
+      border-bottom: 1px dotted var(--rule);
+      margin-bottom: 8px;
+    }
+
+    ul{ list-style:none; }
+
+    li{
+      padding: 10px 0;
+      border-bottom: 1px dotted rgba(123,63,54,.25);
+    }
+
+    a{
+      color: var(--ink);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(16,16,16,.85);
+      padding-bottom: 1px;
+    }
+    a:hover{
+      color: var(--rust);
+      border-bottom-color: var(--rust);
+    }
+
+    .meta{
+      display:block;
+      margin-top: 4px;
+      font-size: 12px;
+      letter-spacing: 1px;
+      color: var(--faint);
+      text-transform: lowercase;
+    }
+
+    footer{
+      margin-top: 22px;
+      padding-top: 12px;
+      border-top: 1px solid var(--rule);
+      color: var(--faint);
+      font-size: 12px;
+      letter-spacing: 1px;
+      text-transform: lowercase;
+      display:flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    /* Mobile tighten */
+    @media (max-width: 520px){
+      .wordmark{ font-size: 38px; }
+      body::before{
+        background-position: center 130px;
+        background-size: min(860px, 140vw);
+        opacity: .20;
+      }
+      .manifesto p{ font-size: 15px; }
+      li{ padding: 9px 0; }
+    }
+  </style>
 </head>
 
 <body>
+  <div class="wrap">
 
-  <div class="wordmark">ruin2itive</div>
-  <div class="tagline">reliability first · open source · independent</div>
+    <header>
+      <div class="wordmark">ruin2itive</div>
+      <div class="tagline">reliability first · open source · independent</div>
+    </header>
 
-  <div class="hero">
-    <div class="seal" aria-hidden="true"></div>
-
-    <div class="doctrine">
+    <div class="manifesto">
       <p>pulled from various sites. these sources are selected to ensure consistent and stable information.</p>
       <p>these feeds remain hand selected, ad free, and purposeful.</p>
       <p class="law">clear and concise info. stability is law.</p>
     </div>
+
+    <div class="rule"></div>
+
+    <section>
+      <h2>projects / the code</h2>
+      <ul>
+        <li>
+          <a href="https://www.hackster.io/arduino/projects" target="_blank" rel="noopener noreferrer">arduino</a>
+          <span class="meta">hackster · hardware</span>
+        </li>
+        <li>
+          <a href="https://www.instructables.com/Raspberry-Pi-Projects/" target="_blank" rel="noopener noreferrer">raspberry pi</a>
+          <span class="meta">instructables · diy</span>
+        </li>
+        <li>
+          <a href="https://github.com/Ruin2itive" target="_blank" rel="noopener noreferrer">ruin2itive</a>
+          <span class="meta">github · src</span>
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>markets / crypto</h2>
+      <ul id="markets-feed">
+        <li><span>loading…</span><span class="meta">decrypt</span></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>hacker news</h2>
+      <ul id="hn-feed">
+        <li><span>loading…</span><span class="meta">hn</span></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>world news</h2>
+      <ul>
+        <li><a href="https://apnews.com/" target="_blank" rel="noopener noreferrer">associated press</a></li>
+        <li><a href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer">reuters</a></li>
+        <li><a href="https://www.bbc.com/news" target="_blank" rel="noopener noreferrer">bbc</a></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>free banned books</h2>
+      <ul>
+        <li><a href="https://openlibrary.org/" target="_blank" rel="noopener noreferrer">open library</a></li>
+        <li><a href="https://standardebooks.org/" target="_blank" rel="noopener noreferrer">standard ebooks</a></li>
+      </ul>
+    </section>
+
+    <footer>
+      <div>independent digital archive · static build · no tracking</div>
+      <div><a href="https://github.com/Ruin2itive/ruin2itive-site" target="_blank" rel="noopener noreferrer">source</a></div>
+    </footer>
+
   </div>
 
-  <div class="rule"></div>
+  <script>
+    // Works on GitHub Pages + custom domains:
+    // - tries ./api/home.json
+    // - if your file is at /api/home.json, this still resolves correctly.
+    fetch('./api/home.json', { cache: 'no-store' })
+      .then(r => { if(!r.ok) throw new Error('bad'); return r.json(); })
+      .then(data => {
+        const markets = data?.sections?.markets || [];
+        const foss = data?.sections?.foss || [];
 
-  <div class="section">
-    <h2>projects / the code</h2>
-    <ul>
-      <li>
-        <a href="https://www.hackster.io/arduino/projects" target="_blank" rel="noopener noreferrer">arduino</a>
-        <span class="meta">hackster · hardware</span>
-      </li>
-      <li>
-        <a href="https://www.instructables.com/Raspberry-Pi-Projects/" target="_blank" rel="noopener noreferrer">raspberry pi</a>
-        <span class="meta">instructables · diy</span>
-      </li>
-      <li>
-        <a href="https://github.com/Ruin2itive" target="_blank" rel="noopener noreferrer">ruin2itive</a>
-        <span class="meta">github · src</span>
-      </li>
-    </ul>
-  </div>
+        const m = document.getElementById('markets-feed');
+        m.innerHTML = '';
+        markets.slice(0,3).forEach(i => {
+          const li = document.createElement('li');
+          li.innerHTML =
+            `<a href="${i.url}" target="_blank" rel="noopener noreferrer">${i.title}</a>` +
+            `<span class="meta">${(i.source || 'decrypt').toLowerCase()}${i.timestamp ? " · " + i.timestamp : ""}</span>`;
+          m.appendChild(li);
+        });
+        if(!markets.length){
+          m.innerHTML = `<li><span>no headlines available</span><span class="meta">markets</span></li>`;
+        }
 
-  <div class="section">
-    <h2>markets / crypto</h2>
-    <ul id="markets-feed">
-      <li><span>loading…</span><span class="meta">decrypt</span></li>
-    </ul>
-  </div>
-
-  <div class="section">
-    <h2>hacker news</h2>
-    <ul id="hn-feed">
-      <li><span>loading…</span><span class="meta">hn</span></li>
-    </ul>
-  </div>
-
-  <div class="section">
-    <h2>world news</h2>
-    <ul>
-      <li><a href="https://apnews.com/" target="_blank" rel="noopener noreferrer">associated press</a></li>
-      <li><a href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer">reuters</a></li>
-      <li><a href="https://www.bbc.com/news" target="_blank" rel="noopener noreferrer">bbc</a></li>
-    </ul>
-  </div>
-
-  <div class="section">
-    <h2>free banned books</h2>
-    <ul>
-      <li><a href="https://openlibrary.org/" target="_blank" rel="noopener noreferrer">open library</a></li>
-      <li><a href="https://standardebooks.org/" target="_blank" rel="noopener noreferrer">standard ebooks</a></li>
-    </ul>
-  </div>
-
-  <footer>
-    <div>independent digital archive · static build · no tracking</div>
-    <div><a href="https://github.com/Ruin2itive/ruin2itive-site" target="_blank" rel="noopener noreferrer">source</a></div>
-  </footer>
-
-<script>
-  fetch('api/home.json', { cache: 'default' })
-    .then(r => { if(!r.ok) throw new Error('bad'); return r.json(); })
-    .then(data => {
-      const markets = data?.sections?.markets || [];
-      const foss = data?.sections?.foss || [];
-
-      const m = document.getElementById('markets-feed');
-      m.innerHTML = '';
-      (markets.length ? markets.slice(0,3) : []).forEach(i => {
-        const li = document.createElement('li');
-        li.innerHTML =
-          `<a href="${i.url}" target="_blank" rel="noopener noreferrer">${i.title}</a>` +
-          `<span class="meta">${(i.source || 'decrypt').toLowerCase()}</span>`;
-        m.appendChild(li);
+        const h = document.getElementById('hn-feed');
+        h.innerHTML = '';
+        foss.slice(0,5).forEach(i => {
+          const li = document.createElement('li');
+          li.innerHTML =
+            `<a href="${i.url}" target="_blank" rel="noopener noreferrer">${i.title}</a>` +
+            `<span class="meta">${(i.source || 'hn').toLowerCase()}${i.timestamp ? " · " + i.timestamp : ""}</span>`;
+          h.appendChild(li);
+        });
+        if(!foss.length){
+          h.innerHTML = `<li><span>no headlines available</span><span class="meta">hn</span></li>`;
+        }
+      })
+      .catch(() => {
+        document.getElementById('markets-feed').innerHTML =
+          `<li><span>feed temporarily unavailable</span><span class="meta">markets</span></li>`;
+        document.getElementById('hn-feed').innerHTML =
+          `<li><span>feed temporarily unavailable</span><span class="meta">hn</span></li>`;
       });
-      if(!markets.length){
-        m.innerHTML = `<li><span>no headlines available</span><span class="meta">markets</span></li>`;
-      }
-
-      const h = document.getElementById('hn-feed');
-      h.innerHTML = '';
-      (foss.length ? foss.slice(0,5) : []).forEach(i => {
-        const li = document.createElement('li');
-        li.innerHTML =
-          `<a href="${i.url}" target="_blank" rel="noopener noreferrer">${i.title}</a>` +
-          `<span class="meta">${(i.source || 'hn').toLowerCase()}</span>`;
-        h.appendChild(li);
-      });
-      if(!foss.length){
-        h.innerHTML = `<li><span>no headlines available</span><span class="meta">hn</span></li>`;
-      }
-    })
-    .catch(() => {
-      document.getElementById('markets-feed').innerHTML =
-        `<li><span>feed temporarily unavailable</span><span class="meta">markets</span></li>`;
-      document.getElementById('hn-feed').innerHTML =
-        `<li><span>feed temporarily unavailable</span><span class="meta">hn</span></li>`;
-    });
-</script>
-
+  </script>
 </body>
 </html>
