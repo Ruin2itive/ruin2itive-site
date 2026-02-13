@@ -10,10 +10,10 @@
   <style>
     :root{
       --bg:#ffffff;
-      --ink:#0d0d0d;
+      --ink:#0c0c0c;
       --rust:#7b3f36;
-      --muted:#6f6f6f;
-      --rule:rgba(123,63,54,.35);
+      --muted:#6a6a6a;
+      --rule:rgba(123,63,54,.32);
     }
 
     *{ margin:0; padding:0; box-sizing:border-box; }
@@ -22,31 +22,33 @@
       background: var(--bg);
       color: var(--ink);
       font-family: Georgia, "Times New Roman", serif;
-      line-height: 1.35;
-      padding: 12px 12px 44px;
+      line-height: 1.28;             /* tighter */
+      padding: 10px 12px 40px;       /* tighter */
       overflow-x:hidden;
       position: relative;
+      text-rendering: optimizeLegibility;
+      -webkit-font-smoothing: antialiased;
     }
 
-    /* FULL SITE WATERMARK (elephant) */
+    /* STRONGER FULL-SITE ELEPHANT WATERMARK */
     body::before{
       content:"";
       position: fixed;
       inset: 0;
       background:
         url("assets/elephant-third-eye.webp")
-        center 120px / min(980px, 120vw) no-repeat;
-      opacity: .12;
+        center 30px / min(1100px, 150vw) no-repeat;
+      opacity: .20;                  /* stronger */
       pointer-events: none;
       z-index: -2;
     }
 
-    /* WHITE VEIL so text stays readable (still looks white) */
+    /* LIGHTER WHITE VEIL (keeps it readable but shows watermark) */
     body::after{
       content:"";
       position: fixed;
       inset: 0;
-      background: rgba(255,255,255,.92);
+      background: rgba(255,255,255,.86); /* lighter than before */
       pointer-events: none;
       z-index: -1;
     }
@@ -57,16 +59,18 @@
     }
 
     header{
-      padding: 8px 0 10px;
-      border-bottom: 2px solid rgba(13,13,13,.85);
+      padding: 6px 0 8px;
+      border-bottom: 2px solid rgba(12,12,12,.85);
     }
 
+    /* Wordmark: never caps, no weird dot artifacts */
     .wordmark{
       font-style: italic;
       font-weight: 500;
       font-size: 40px;
-      letter-spacing: .2px;
-      text-transform: none; /* never caps */
+      letter-spacing: 0;
+      text-transform: none;
+      line-height: 1.0;
     }
 
     .tagline{
@@ -77,29 +81,30 @@
       text-transform: lowercase;
     }
 
+    /* Manifesto compact block */
     .manifesto{
       margin-top: 10px;
       padding: 10px 10px 10px 12px;
       border-left: 3px solid var(--rust);
-      background: rgba(255,255,255,.55);
+      background: rgba(255,255,255,.52);
     }
     .manifesto p{
       font-style: italic;
-      font-size: 15px;
-      color: rgba(13,13,13,.86);
-      margin-bottom: 7px;
+      font-size: 14px;
+      color: rgba(12,12,12,.86);
+      margin-bottom: 6px;
     }
     .manifesto p:last-child{ margin-bottom:0; }
     .manifesto .law{
-      font-weight: 700;
-      color: rgba(13,13,13,.95);
+      font-weight: 800;
+      color: rgba(12,12,12,.96);
     }
 
     .rule{
       height: 2px;
       background: var(--rust);
-      margin: 12px 0 10px;
-      opacity: .9;
+      margin: 10px 0 8px;
+      opacity: .92;
     }
 
     section{ margin-top: 10px; }
@@ -109,22 +114,23 @@
       letter-spacing: 3px;
       text-transform: lowercase;
       color: var(--rust);
-      padding: 6px 0 6px;
+      padding: 6px 0 5px;
       border-bottom: 1px dotted var(--rule);
-      margin-bottom: 6px;
+      margin-bottom: 4px;
     }
 
     ul{ list-style:none; }
 
+    /* more compact list rows */
     li{
-      padding: 7px 0;
-      border-bottom: 1px dotted rgba(123,63,54,.18);
+      padding: 6px 0;
+      border-bottom: 1px dotted rgba(123,63,54,.16);
     }
 
     a{
       color: var(--ink);
       text-decoration: none;
-      border-bottom: 1px solid rgba(13,13,13,.75);
+      border-bottom: 1px solid rgba(12,12,12,.72);
       padding-bottom: 1px;
     }
     a:hover{
@@ -134,15 +140,15 @@
 
     .meta{
       display:block;
-      margin-top: 3px;
-      font-size: 11px;
+      margin-top: 2px;
+      font-size: 10.5px;
       letter-spacing: 1px;
       color: var(--muted);
       text-transform: lowercase;
     }
 
     footer{
-      margin-top: 16px;
+      margin-top: 14px;
       padding-top: 10px;
       border-top: 1px solid var(--rule);
       color: var(--muted);
@@ -157,13 +163,17 @@
 
     @media (max-width: 520px){
       .wordmark{ font-size: 36px; }
+
+      /* put elephant even closer to the top on phones */
       body::before{
-        background-position: center 130px;
-        background-size: min(860px, 140vw);
-        opacity: .13;
+        background-position: center 10px;
+        background-size: min(980px, 170vw);
+        opacity: .22;
       }
-      .manifesto p{ font-size: 14px; }
-      li{ padding: 6px 0; }
+
+      body{ padding: 10px 12px 36px; }
+      .manifesto p{ font-size: 13.5px; }
+      li{ padding: 5px 0; }
     }
   </style>
 </head>
