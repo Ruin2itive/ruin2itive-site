@@ -1,0 +1,238 @@
+/* ruin2itive.org — compact, fast, sharp */
+
+/* --- base reset --- */
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+img { max-width: 100%; display: block; }
+a { color: inherit; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+:root{
+  --bg: #ffffff;
+  --ink: #111111;
+  --muted: #6b6b6b;
+  --line: rgba(0,0,0,.14);
+  --hair: rgba(0,0,0,.08);
+  --accent: #6d2b2b;  /* blood-rust */
+  --max: 900px;
+
+  /* compact typography */
+  --fs-hero: 48px;
+  --fs-h2: 14px;
+  --fs-body: 15px;
+  --fs-meta: 12px;
+
+  --lh-body: 1.45;
+  --pad: 16px;
+}
+
+@media (max-width: 420px){
+  :root{
+    --fs-hero: 44px;
+    --pad: 14px;
+  }
+}
+
+body{
+  background: var(--bg);
+  color: var(--ink);
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+  letter-spacing: .01em;
+
+  /* “clerks-ish” vibe without loading webfonts:
+     rely on system serif stack, italic where needed */
+  font-family: ui-serif, "Times New Roman", Times, Georgia, serif;
+
+  /* keep it snappy */
+  text-rendering: optimizeLegibility;
+}
+
+/* --- full-background elephant watermark --- */
+body::before{
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+
+  /* your uploaded asset */
+  background-image: url("./assets/elephant-mark.webp");
+  background-repeat: no-repeat;
+  background-position: 50% 18%;
+  background-size: min(1200px, 160vw);
+
+  /* stronger than “faint”, but not ruining legibility */
+  opacity: .11;
+
+  /* soften so it feels like print */
+  filter: saturate(0) contrast(1.05);
+}
+
+.wrap, .masthead{
+  position: relative;
+  z-index: 1;
+}
+
+/* --- layout --- */
+.masthead{
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 18px var(--pad) 10px;
+}
+
+.wrap{
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 var(--pad) 24px;
+}
+
+/* --- brand --- */
+.brand__name{
+  margin: 0;
+  font-size: var(--fs-hero);
+  font-weight: 800;
+  letter-spacing: .01em;
+  font-style: italic; /* zine headline feel */
+  text-transform: lowercase;
+}
+
+.brand__tag{
+  margin-top: 4px;
+  font-size: var(--fs-meta);
+  color: var(--muted);
+  letter-spacing: .20em;
+  text-transform: lowercase;
+}
+
+.manifesto{
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 2px solid var(--ink);
+  display: grid;
+  grid-template-columns: 10px 1fr;
+  gap: 12px;
+  align-items: start;
+}
+
+.manifesto__bar{
+  width: 6px;
+  height: 100%;
+  background: var(--accent);
+  border-radius: 1px;
+  opacity: .85;
+}
+
+.manifesto__text p{
+  margin: 0 0 8px;
+  color: rgba(0,0,0,.82);
+  font-style: italic;
+}
+
+.manifesto__punch{
+  margin-top: 8px;
+  font-style: italic;
+  font-weight: 800;
+  color: var(--ink);
+}
+
+/* --- sections --- */
+.section{
+  margin-top: 16px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+}
+
+.section__title{
+  margin: 0 0 10px;
+  font-size: var(--fs-h2);
+  font-weight: 800;
+  letter-spacing: .26em;
+  text-transform: lowercase;
+  color: var(--accent);
+}
+
+/* mini lists */
+.mini{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.mini__row{
+  padding: 8px 0;
+  border-bottom: 1px solid var(--hair);
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 12px;
+  align-items: baseline;
+}
+
+.mini__a{
+  font-size: 20px;
+  font-weight: 800;
+  text-transform: lowercase;
+}
+
+.mini__meta{
+  font-size: var(--fs-meta);
+  color: var(--muted);
+  letter-spacing: .18em;
+  text-transform: lowercase;
+  white-space: nowrap;
+}
+
+/* feed cards */
+.feed__loading{
+  padding: 10px 0;
+  color: var(--muted);
+  font-style: italic;
+}
+
+.feed__item{
+  padding: 10px 0;
+  border-bottom: 1px solid var(--hair);
+}
+
+.feed__title{
+  display: block;
+  font-size: 22px;
+  font-weight: 900;
+  line-height: 1.2;
+  text-decoration: none;
+  text-transform: none; /* keep titles natural */
+}
+
+.feed__meta{
+  margin-top: 4px;
+  font-size: var(--fs-meta);
+  color: var(--muted);
+  letter-spacing: .16em;
+  text-transform: lowercase;
+}
+
+/* footer */
+.footer{
+  margin-top: 18px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: var(--fs-meta);
+  letter-spacing: .14em;
+  text-transform: lowercase;
+}
+
+.footer__row{
+  display: inline-flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.dot{
+  width: 7px;
+  height: 7px;
+  background: var(--accent);
+  border-radius: 50%;
+  display: inline-block;
+  opacity: .85;
+}
