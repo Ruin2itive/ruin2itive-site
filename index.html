@@ -3,29 +3,30 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>ruin2itive</title>
-  <meta name="description" content="Reliability-first, open-source, independent." />
-  <meta name="theme-color" content="#f0efe7" />
+  <title>ruin2itive.org</title>
+  <meta name="description" content="Static-first, reliability-focused open-source discovery front page." />
+  <meta name="theme-color" content="#f3f0ea" />
 
   <style>
     :root{
-      --bg: #f0efe7;          /* sampled from your screenshot */
-      --ink: #111111;
-      --muted: #6f6b62;
-      --rule: rgba(20,20,20,.20);
-      --rule-strong: rgba(20,20,20,.35);
-      --rust: #895145;        /* sampled rust tone */
-      --box: rgba(255,255,255,.62);
-      --box-border: rgba(20,20,20,.20);
+      --bg:#f3f0ea;            /* warm paper */
+      --ink:#111111;           /* headline ink */
+      --muted:#6f6a63;         /* gray meta */
+      --rule:rgba(20,18,16,.22);
+      --rule-strong:rgba(20,18,16,.65);
+      --box:rgba(20,18,16,.18);
+      --rust:#7b3436;          /* sampled ~ rgb(118,51,53) */
+      --max: 720px;
+      --pad: 18px;
 
-      /* Watermark (uses your existing assets) */
+      /* watermark */
       --mark-url: image-set(
-        url("assets/elephant-mark.webp") type("image/webp"),
-        url("assets/elephant-mark.png") type("image/png")
+        url("assets/elephant-third-eye.webp") type("image/webp"),
+        url("assets/elephant-third-eye.png") type("image/png")
       );
-      --mark-opacity: .16;     /* tune for iPhone */
-      --mark-size: 560px;      /* tune for iPhone */
-      --mark-y: 540px;         /* start behind “projects / the code” */
+      --mark-opacity: .085; /* tune to match your “perfect” shot */
+      --mark-size: 860px;   /* big, soft */
+      --mark-y: 360px;      /* pushes elephant into the “projects” zone */
     }
 
     *{ box-sizing:border-box; }
@@ -36,228 +37,341 @@
       color: var(--ink);
       -webkit-font-smoothing: antialiased;
       text-rendering: optimizeLegibility;
-      font-family: Georgia, "Times New Roman", Times, serif;
     }
 
-    /* Page width tuned for iPhone look */
+    /* page container */
     .page{
       position: relative;
-      max-width: 740px;
+      max-width: var(--max);
       margin: 0 auto;
-      padding: 18px 18px 44px;
+      padding: 28px var(--pad) 64px;
     }
 
-    /* Watermark layer */
+    /* watermark layer */
     .page::before{
       content:"";
       position:absolute;
-      inset:0;
-      pointer-events:none;
+      left: 50%;
+      top: var(--mark-y);
+      transform: translateX(-50%);
+      width: min(var(--mark-size), 110vw);
+      height: min(var(--mark-size), 110vw);
       background-image: var(--mark-url);
-      background-repeat:no-repeat;
-      background-position: center var(--mark-y);
-      background-size: var(--mark-size) auto;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: contain;
       opacity: var(--mark-opacity);
-      filter: grayscale(100%);
-      transform: translateZ(0);
+      pointer-events:none;
+      filter: contrast(105%) saturate(95%);
+      mix-blend-mode: multiply;
     }
 
-    /* Masthead */
-    .mast{ position:relative; z-index:1; }
-    .brand-name{
+    header{ position:relative; z-index:1; }
+    main{ position:relative; z-index:1; }
+
+    .mast{
+      margin:0 0 10px 0;
+      font-family: Georgia, "Times New Roman", Times, serif;
       font-weight: 800;
-      letter-spacing: .5px;
-      font-size: 64px;         /* big like your screenshot */
-      line-height: 1.0;
-      margin: 6px 0 6px;
+      font-size: clamp(54px, 10.5vw, 74px);
+      line-height: 0.95;
+      letter-spacing: -0.02em;
     }
-    .brand-tag{
-      font-family: "Times New Roman", Times, serif;
+
+    .tagline{
+      margin: 0 0 14px 2px;
       color: var(--muted);
-      letter-spacing: .22em;
+      font-family: Georgia, "Times New Roman", Times, serif;
+      font-size: 18px;
+      letter-spacing: .18em;
       text-transform: lowercase;
-      font-size: 15px;
-      margin: 0 0 14px;
-    }
-    .rule{
-      height: 2px;
-      background: rgba(20,20,20,.55);
-      margin: 6px 0 16px;
     }
 
-    /* Intro / lede box */
+    .rule{
+      height: 0;
+      border: 0;
+      border-top: 3px solid var(--rule-strong);
+      margin: 16px 0 18px;
+    }
+
+    /* lede box */
     .lede{
-      position:relative;
-      z-index:1;
-      display:grid;
-      grid-template-columns: 8px 1fr;
-      gap: 0;
-      border: 1px solid var(--box-border);
-      background: var(--box);
+      position: relative;
+      border: 1px solid var(--box);
+      background: rgba(255,255,255,.42);
+      padding: 18px 16px 16px 22px;
+      margin: 0 0 18px 0;
     }
-    .lede-bar{ background: var(--rust); }
-    .lede-box{
-      padding: 14px 14px 14px 16px;
+    .lede::before{
+      content:"";
+      position:absolute;
+      left:0;
+      top:0;
+      bottom:0;
+      width: 8px;
+      background: var(--rust);
+    }
+    .lede p{
+      margin: 0 0 10px 0;
+      font-family: Georgia, "Times New Roman", Times, serif;
       font-style: italic;
-      font-size: 26px;
+      font-size: 28px;
       line-height: 1.25;
+      color: #161514;
     }
-    .lede-box strong{
+    .lede p:last-child{ margin-bottom:0; }
+    .lede strong{
       font-weight: 800;
     }
 
-    /* Sections */
+    /* section headers */
     .section{
-      position:relative;
-      z-index:1;
-      margin-top: 18px;
+      margin: 18px 0 0 0;
     }
     .section-title{
       color: var(--rust);
-      letter-spacing: .34em;
+      font-family: Georgia, "Times New Roman", Times, serif;
+      font-size: 22px;
+      letter-spacing: .25em;
       text-transform: lowercase;
-      font-size: 18px;
-      margin: 10px 0 10px;
+      margin: 0 0 10px 2px;
     }
+    .section-rule{
+      border-top: 2px solid var(--rule);
+      margin: 0 0 10px 0;
+    }
+
+    /* list items */
     .list{
-      border-top: 1px solid var(--rule);
+      display:block;
     }
     .item{
       display:block;
-      padding: 14px 0 14px;
-      border-bottom: 1px solid var(--rule);
       text-decoration:none;
       color: inherit;
+      padding: 12px 2px 12px;
+      border-bottom: 2px solid var(--rule);
     }
+    .item:hover{ background: rgba(255,255,255,.22); }
+
     .item-title{
+      font-family: Georgia, "Times New Roman", Times, serif;
       font-weight: 800;
-      font-size: 56px;          /* large like your screenshot */
+      font-size: 46px;
       line-height: 1.0;
-      margin: 0;
+      margin: 0 0 4px 0;
+      color: var(--ink);
+      letter-spacing: -0.01em;
     }
     .item-meta{
-      margin-top: 6px;
-      color: var(--muted);
-      font-size: 18px;
-      letter-spacing: .24em;
-      text-transform: lowercase;
-    }
-
-    /* Feed rows (headlines) */
-    .feed-row{
-      display:flex;
-      flex-direction:column;
-      gap: 6px;
-      padding: 14px 0 14px;
-      border-bottom: 1px solid var(--rule);
-    }
-    .feed-headline{
-      font-size: 20px;
-      line-height: 1.25;
-    }
-    .feed-headline a{
-      color: inherit;
-      text-decoration: none;
-    }
-    .feed-headline a:active{ opacity:.7; }
-
-    /* "loading..." + failure look */
-    .feed-status{
-      font-style: italic;
-      color: var(--muted);
-      font-size: 28px;
-      line-height: 1.1;
-    }
-    .feed-status small{
-      display:block;
-      font-style: normal;
-      font-size: 16px;
+      font-family: Georgia, "Times New Roman", Times, serif;
+      font-size: 24px;
       letter-spacing: .18em;
       color: var(--muted);
       text-transform: lowercase;
-      margin-top: 6px;
+      margin: 0;
     }
 
-    /* Mobile tuning */
+    /* compact feed rows */
+    .feed-row{
+      display:block;
+      padding: 10px 2px;
+      border-bottom: 2px solid var(--rule);
+      text-decoration:none;
+      color: inherit;
+    }
+    .feed-row:hover{ background: rgba(255,255,255,.22); }
+
+    .feed-headline{
+      margin:0;
+      font-family: Georgia, "Times New Roman", Times, serif;
+      font-weight: 700;
+      font-size: 20px; /* compact newspaper */
+      line-height: 1.22;
+      color: #191816;
+    }
+    .feed-meta{
+      margin: 3px 0 0 0;
+      font-family: Georgia, "Times New Roman", Times, serif;
+      font-size: 14px;
+      letter-spacing: .12em;
+      color: var(--muted);
+      text-transform: lowercase;
+    }
+
+    /* “feed unavailable” */
+    .feed-unavailable{
+      padding: 10px 2px 14px;
+      border-bottom: 2px solid var(--rule);
+    }
+    .feed-unavailable .big{
+      font-family: Georgia, "Times New Roman", Times, serif;
+      font-style: italic;
+      font-size: 44px;
+      color: rgba(25,24,22,.32);
+      margin: 0 0 4px 0;
+      line-height: 1.0;
+    }
+    .feed-unavailable .small{
+      font-family: Georgia, "Times New Roman", Times, serif;
+      font-size: 18px;
+      letter-spacing: .14em;
+      color: rgba(25,24,22,.28);
+      margin: 0;
+      text-transform: lowercase;
+    }
+
+    /* mobile tightening */
     @media (max-width: 420px){
-      .brand-name{ font-size: 54px; }
-      .lede-box{ font-size: 24px; }
-      .item-title{ font-size: 52px; }
-      :root{
-        --mark-size: 520px;
-        --mark-y: 520px;
-        --mark-opacity: .17;
-      }
+      :root{ --pad: 16px; --mark-y: 340px; --mark-opacity:.08; }
+      .lede p{ font-size: 26px; }
+      .item-title{ font-size: 42px; }
+      .item-meta{ font-size: 22px; }
+      .section-title{ font-size: 20px; }
     }
   </style>
 </head>
 
 <body>
-  <main class="page">
-    <header class="mast">
-      <div class="brand-name">ruin2itive</div>
-      <div class="brand-tag">reliability first · open source · independent</div>
-      <div class="rule"></div>
-
-      <section class="lede" aria-label="intro">
-        <div class="lede-bar"></div>
-        <div class="lede-box">
-          pulled from various sites. these sources are selected to ensure consistent and stable information.<br><br>
-          these feeds remain hand selected, ad free, and purposeful.
-          <strong>clear and concise info. stability is law.</strong>
-        </div>
-      </section>
+  <div class="page">
+    <header>
+      <h1 class="mast">ruin2itive</h1>
+      <p class="tagline">reliability first · open source · independent</p>
+      <hr class="rule" />
+      <div class="lede">
+        <p>pulled from various sites. these sources are selected to ensure consistent and stable information.</p>
+        <p>these feeds remain hand selected, ad free, and purposeful. <strong>clear and concise info. stability is law.</strong></p>
+      </div>
     </header>
 
-    <section class="section" aria-label="projects">
-      <div class="section-title">projects / the code</div>
-      <div class="list">
-        <a class="item" href="https://github.com/ruin2itive/ruin2itive-site">
-          <div class="item-title">ruin2itive</div>
-          <div class="item-meta">github · src</div>
-        </a>
+    <main>
+      <section class="section">
+        <div class="section-title">projects / the code</div>
+        <div class="section-rule"></div>
+        <div class="list">
+          <!-- IMPORTANT: Rename “ruin2itive” item to “GitHub” as requested -->
+          <a class="item" href="https://github.com/Ruin2itive" target="_blank" rel="noopener">
+            <div class="item-title">GitHub</div>
+            <div class="item-meta">ruin2itive · src</div>
+          </a>
 
-        <a class="item" href="https://www.hackster.io/">
-          <div class="item-title">arduino</div>
-          <div class="item-meta">hackster · hardware</div>
-        </a>
+          <a class="item" href="https://www.hackster.io/" target="_blank" rel="noopener">
+            <div class="item-title">arduino</div>
+            <div class="item-meta">hackster · hardware</div>
+          </a>
 
-        <a class="item" href="https://www.instructables.com/">
-          <div class="item-title">raspberry pi</div>
-          <div class="item-meta">instructables · diy</div>
-        </a>
-      </div>
-    </section>
-
-    <section class="section" aria-label="markets">
-      <div class="section-title">markets / crypto</div>
-      <div id="crypto-feed" class="list">
-        <div class="feed-row">
-          <div class="feed-status">loading...</div>
+          <a class="item" href="https://www.instructables.com/circuits/raspberry-pi/" target="_blank" rel="noopener">
+            <div class="item-title">raspberry pi</div>
+            <div class="item-meta">instructables · diy</div>
+          </a>
         </div>
-      </div>
-    </section>
+      </section>
 
-    <section class="section" aria-label="hn">
-      <div class="section-title">hacker news</div>
-      <div id="hn-feed" class="list">
-        <div class="feed-row">
-          <div class="feed-status">loading...</div>
+      <section class="section" id="sec-crypto">
+        <div class="section-title">markets / crypto</div>
+        <div class="section-rule"></div>
+        <div class="list" id="feed-crypto">
+          <div class="feed-unavailable" id="crypto-loading">
+            <p class="big">loading…</p>
+            <p class="small">decrypt · waiting</p>
+          </div>
         </div>
-      </div>
-    </section>
+      </section>
 
-    <section class="section" aria-label="world">
-      <div class="section-title">world news</div>
-      <div id="world-feed" class="list">
-        <div class="feed-row">
-          <div class="feed-status">loading...</div>
+      <section class="section" id="sec-hn">
+        <div class="section-title">hacker news</div>
+        <div class="section-rule"></div>
+        <div class="list" id="feed-hn">
+          <div class="feed-unavailable" id="hn-loading">
+            <p class="big">loading…</p>
+            <p class="small">hn · waiting</p>
+          </div>
         </div>
-      </div>
-    </section>
+      </section>
 
-  </main>
+      <section class="section" id="sec-world">
+        <div class="section-title">world news</div>
+        <div class="section-rule"></div>
+        <div class="list" id="feed-world">
+          <div class="feed-unavailable" id="world-loading">
+            <p class="big">loading…</p>
+            <p class="small">bbc · waiting</p>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
 
-  <script src="./app.js"></script>
+  <script>
+    // Renders from data/home.json built by GitHub Actions (no CORS issues).
+    const $ = (id) => document.getElementById(id);
+
+    function clearNode(node){
+      while(node.firstChild) node.removeChild(node.firstChild);
+    }
+
+    function feedUnavailable(container, label){
+      clearNode(container);
+      const box = document.createElement("div");
+      box.className = "feed-unavailable";
+      box.innerHTML = `
+        <p class="big">feed unavailable</p>
+        <p class="small">${label} · load failed</p>
+      `;
+      container.appendChild(box);
+    }
+
+    function renderFeed(container, items, label){
+      clearNode(container);
+
+      if(!Array.isArray(items) || items.length === 0){
+        feedUnavailable(container, label);
+        return;
+      }
+
+      for(const it of items){
+        const a = document.createElement("a");
+        a.className = "feed-row";
+        a.href = it.url || "#";
+        a.target = "_blank";
+        a.rel = "noopener";
+
+        const h = document.createElement("p");
+        h.className = "feed-headline";
+        h.textContent = it.title || "(untitled)";
+
+        const m = document.createElement("p");
+        m.className = "feed-meta";
+        m.textContent = (it.source || label) + (it.age ? (" · " + it.age) : "");
+
+        a.appendChild(h);
+        a.appendChild(m);
+        container.appendChild(a);
+      }
+    }
+
+    async function load(){
+      const crypto = $("feed-crypto");
+      const hn = $("feed-hn");
+      const world = $("feed-world");
+
+      try{
+        // cache-bust so new JSON shows up after scheduled rebuilds
+        const res = await fetch("data/home.json?v=" + Date.now(), { cache: "no-store" });
+        if(!res.ok) throw new Error("home.json http " + res.status);
+        const data = await res.json();
+
+        renderFeed(crypto, data?.sections?.crypto, "decrypt");
+        renderFeed(hn, data?.sections?.hacker, "hn");
+        renderFeed(world, data?.sections?.world, "bbc");
+      }catch(err){
+        feedUnavailable(crypto, "decrypt");
+        feedUnavailable(hn, "hn");
+        feedUnavailable(world, "bbc");
+      }
+    }
+
+    load();
+  </script>
 </body>
 </html>
