@@ -1,87 +1,107 @@
 #!/usr/bin/env node
 /**
- * Build data/home.json from RSS/Atom feeds.
- * Runs in GitHub Actions and commits the JSON back to the repo.
+ * Generates data/home.json
+ * - No npm dependencies required (Node 20 has global fetch)
  */
 
 const fs = require("fs");
 const path = require("path");
-const Parser = require("rss-parser");
 
 const OUT = path.join(process.cwd(), "data", "home.json");
-const parser = new Parser({ timeout: 20000 });
 
-function pick(items, n) {
-  return (items || []).slice(0, n);
+async function safeJson(url, opts = {}) {
+  const res = await fetch(url, { redirect: "follow", ...opts });
+  if (!res.ok) throw new Error(`Fetch failed ${res.status} for ${url}`);
+  return res.json();
 }
 
-function fmtTime(iso) {
+function fmtLocal(iso) {
   try {
-    const d = iso ? new Date(iso) : new Date();
-    return d.toLocaleString("en-US", { year:"numeric", month:"2-digit", day:"2-digit", hour:"2-digit", minute:"2-digit" });
+    return new Date(iso).toLocaleString();
   } catch {
-    return "time unknown";
+    return iso;
   }
 }
 
-async function readFeed({ url, source, limit }) {
-  const feed = await parser.parseURL(url);
-  const items = pick(feed.items, limit).map(it => {
-    const title = (it.title || "").trim();
-    const link = (it.link || it.guid || "").trim();
-    const date = it.isoDate || it.pubDate || "";
-    return {
-      title: title || "(untitled)",
-      url: link || url,
-      source,
-      time: fmtTime(date)
-    };
-  });
+/**
+ * NOTE:
+ * You previously used Decrypt scraping. That can break due to site changes/CORS.
+ * For reliability-first, start with sources that have stable feeds/APIs.
+ * Here, we keep your “seed” logic as fallback if parsing fails.
+ */
 
-  // Filter obvious junk
-  return items.filter(x => x.title && x.url);
+async function getHnTop5() {
+  // Hacker News: official Firebase API
+  const ids = await safeJson("https://hacker-news.firebaseio.com/v0/topstories.json");
+  const top = (ids || []).slice(0, 5);
+
+  const items = [];
+  for (const id of top) {
+    const it = await safeJson(`https://hacker-news.firebaseio.com/v0/item/${id}.json`);
+    if (!it || !it.url || !it.title) continue;
+    items.push({
+      title: it.title,
+      url: it.url,
+      source: "hn",
+      time: fmtLocal(new Date((it.time || 0) * 1000).toISOString())
+    });
+  }
+  return items;
+}
+
+async function getBbcTop5() {
+  // BBC RSS (stable)
+  const rssUrl = "https://feeds.bbci.co.uk/news/rss.xml";
+
+  // Very small RSS parse (no deps)
+  const res = await fetch(rssUrl, { redirect: "follow" });
+  if (!res.ok) throw new Error(`RSS failed ${res.status}`);
+  const xml = await res.text();
+
+  const items = [];
+  const itemBlocks = xml.split("<item>").slice(1, 7); // grab a few
+  for (const block of itemBlocks) {
+    const title = (block.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) || block.match(/<title>(.*?)<\/title>/) || [])[1];
+    const link = (block.match(/<link>(.*?)<\/link>/) || [])[1];
+    const pubDate = (block.match(/<pubDate>(.*?)<\/pubDate>/) || [])[1];
+    if (!title || !link) continue;
+    items.push({
+      title: title.trim(),
+      url: link.trim(),
+      source: "world",
+      time: pubDate ? pubDate.trim() : ""
+    });
+  }
+  return items.slice(0, 5);
+}
+
+async function getCryptoPlaceholder() {
+  // Reliability-first placeholder until we pick a stable crypto source you like.
+  // Keeps site working even if crypto source changes.
+  return [{
+    title: "Crypto feed not configured yet",
+    url: "https://ruin2itive.org/",
+    source: "crypto",
+    time: ""
+  }];
 }
 
 async function main() {
-  // Choose sources that actually provide RSS/Atom.
-  // If you change sources, do it here (commit controlled).
-  const SOURCES = {
-    crypto: [
-      // Decrypt RSS (works reliably compared to scraping the HTML front page)
-      { url: "https://decrypt.co/feed", source: "decrypt", limit: 5 },
-    ],
-    hacker: [
-      // Hacker News front page RSS
-      { url: "https://news.ycombinator.com/rss", source: "hn", limit: 5 },
-    ],
-    world: [
-      // World news RSS options:
-      // Reuters has limited RSS availability; BBC provides RSS reliably.
-      { url: "https://feeds.bbci.co.uk/news/world/rss.xml", source: "bbc", limit: 5 },
-    ],
-  };
-
   const now = new Date();
   const payload = {
     updated_iso: now.toISOString(),
     updated_local: now.toLocaleString(),
-    sections: { crypto: [], hacker: [], world: [] }
+    sections: {
+      crypto: [],
+      hacker: [],
+      world: []
+    }
   };
 
-  // Build sections with hard fail isolation
-  for (const key of Object.keys(SOURCES)) {
-    const list = SOURCES[key];
-    const all = [];
-    for (const f of list) {
-      try {
-        const items = await readFeed(f);
-        all.push(...items);
-      } catch (e) {
-        // leave source out; front-end will show "feed unavailable" if empty
-      }
-    }
-    payload.sections[key] = all.slice(0, 5);
-  }
+  // Build each section with safe fallbacks
+  try { payload.sections.hacker = await getHnTop5(); } catch { payload.sections.hacker = []; }
+  try { payload.sections.world  = await getBbcTop5(); } catch { payload.sections.world  = []; }
+  try { payload.sections.crypto = await getCryptoPlaceholder(); } catch { payload.sections.crypto = []; }
 
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
   fs.writeFileSync(OUT, JSON.stringify(payload, null, 2) + "\n", "utf8");
