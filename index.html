@@ -1,377 +1,217 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>ruin2itive.org</title>
-  <meta name="description" content="Static-first, reliability-focused open-source discovery front page." />
-  <meta name="theme-color" content="#f3f0ea" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ruin2itive</title>
 
-  <style>
-    :root{
-      --bg:#f3f0ea;            /* warm paper */
-      --ink:#111111;           /* headline ink */
-      --muted:#6f6a63;         /* gray meta */
-      --rule:rgba(20,18,16,.22);
-      --rule-strong:rgba(20,18,16,.65);
-      --box:rgba(20,18,16,.18);
-      --rust:#7b3436;          /* sampled ~ rgb(118,51,53) */
-      --max: 720px;
-      --pad: 18px;
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Libre+Baskerville:ital,wght@0,400;1,400;1,700&display=swap" rel="stylesheet">
 
-      /* watermark */
-      --mark-url: image-set(
-        url("assets/elephant-third-eye.webp") type("image/webp"),
-        url("assets/elephant-third-eye.png") type("image/png")
-      );
-      --mark-opacity: .085; /* tune to match your “perfect” shot */
-      --mark-size: 860px;   /* big, soft */
-      --mark-y: 360px;      /* pushes elephant into the “projects” zone */
-    }
+<style>
+:root{
+  --paper:#f3f1ec;
+  --ink:#111;
+  --muted:#7a746b;
+  --accent:#7d3a32;
+  --line:#cfcac3;
+}
 
-    *{ box-sizing:border-box; }
-    html,body{ height:100%; }
-    body{
-      margin:0;
-      background: var(--bg);
-      color: var(--ink);
-      -webkit-font-smoothing: antialiased;
-      text-rendering: optimizeLegibility;
-    }
+*{box-sizing:border-box}
 
-    /* page container */
-    .page{
-      position: relative;
-      max-width: var(--max);
-      margin: 0 auto;
-      padding: 28px var(--pad) 64px;
-    }
+body{
+  margin:0;
+  background:var(--paper);
+  color:var(--ink);
+  font-family:"Libre Baskerville", serif;
+  line-height:1.55;
+}
 
-    /* watermark layer */
-    .page::before{
-      content:"";
-      position:absolute;
-      left: 50%;
-      top: var(--mark-y);
-      transform: translateX(-50%);
-      width: min(var(--mark-size), 110vw);
-      height: min(var(--mark-size), 110vw);
-      background-image: var(--mark-url);
-      background-repeat: no-repeat;
-      background-position: center;
-      background-size: contain;
-      opacity: var(--mark-opacity);
-      pointer-events:none;
-      filter: contrast(105%) saturate(95%);
-      mix-blend-mode: multiply;
-    }
+.container{
+  max-width:760px;
+  margin:0 auto;
+  padding:32px 20px 80px;
+  position:relative;
+}
 
-    header{ position:relative; z-index:1; }
-    main{ position:relative; z-index:1; }
+h1{
+  font-family:"Playfair Display", serif;
+  font-weight:700;
+  font-size:52px;
+  margin:0 0 6px;
+}
 
-    .mast{
-      margin:0 0 10px 0;
-      font-family: Georgia, "Times New Roman", Times, serif;
-      font-weight: 800;
-      font-size: clamp(54px, 10.5vw, 74px);
-      line-height: 0.95;
-      letter-spacing: -0.02em;
-    }
+.tagline{
+  color:var(--muted);
+  letter-spacing:.12em;
+  text-transform:lowercase;
+  font-size:14px;
+}
 
-    .tagline{
-      margin: 0 0 14px 2px;
-      color: var(--muted);
-      font-family: Georgia, "Times New Roman", Times, serif;
-      font-size: 18px;
-      letter-spacing: .18em;
-      text-transform: lowercase;
-    }
+.rule{
+  height:2px;
+  background:#222;
+  margin:18px 0 24px;
+}
 
-    .rule{
-      height: 0;
-      border: 0;
-      border-top: 3px solid var(--rule-strong);
-      margin: 16px 0 18px;
-    }
+.intro{
+  border:1px solid var(--line);
+  padding:22px 22px 22px 26px;
+  background:#faf9f6;
+  position:relative;
+}
 
-    /* lede box */
-    .lede{
-      position: relative;
-      border: 1px solid var(--box);
-      background: rgba(255,255,255,.42);
-      padding: 18px 16px 16px 22px;
-      margin: 0 0 18px 0;
-    }
-    .lede::before{
-      content:"";
-      position:absolute;
-      left:0;
-      top:0;
-      bottom:0;
-      width: 8px;
-      background: var(--rust);
-    }
-    .lede p{
-      margin: 0 0 10px 0;
-      font-family: Georgia, "Times New Roman", Times, serif;
-      font-style: italic;
-      font-size: 28px;
-      line-height: 1.25;
-      color: #161514;
-    }
-    .lede p:last-child{ margin-bottom:0; }
-    .lede strong{
-      font-weight: 800;
-    }
+.intro:before{
+  content:"";
+  position:absolute;
+  left:0;
+  top:0;
+  bottom:0;
+  width:6px;
+  background:var(--accent);
+}
 
-    /* section headers */
-    .section{
-      margin: 18px 0 0 0;
-    }
-    .section-title{
-      color: var(--rust);
-      font-family: Georgia, "Times New Roman", Times, serif;
-      font-size: 22px;
-      letter-spacing: .25em;
-      text-transform: lowercase;
-      margin: 0 0 10px 2px;
-    }
-    .section-rule{
-      border-top: 2px solid var(--rule);
-      margin: 0 0 10px 0;
-    }
+.intro p{
+  margin:0 0 14px;
+  font-style:italic;
+  font-size:18px;
+}
 
-    /* list items */
-    .list{
-      display:block;
-    }
-    .item{
-      display:block;
-      text-decoration:none;
-      color: inherit;
-      padding: 12px 2px 12px;
-      border-bottom: 2px solid var(--rule);
-    }
-    .item:hover{ background: rgba(255,255,255,.22); }
+.intro strong{
+  font-weight:700;
+  font-style:italic;
+}
 
-    .item-title{
-      font-family: Georgia, "Times New Roman", Times, serif;
-      font-weight: 800;
-      font-size: 46px;
-      line-height: 1.0;
-      margin: 0 0 4px 0;
-      color: var(--ink);
-      letter-spacing: -0.01em;
-    }
-    .item-meta{
-      font-family: Georgia, "Times New Roman", Times, serif;
-      font-size: 24px;
-      letter-spacing: .18em;
-      color: var(--muted);
-      text-transform: lowercase;
-      margin: 0;
-    }
+.section-title{
+  margin-top:40px;
+  font-size:14px;
+  letter-spacing:.3em;
+  text-transform:lowercase;
+  color:var(--accent);
+}
 
-    /* compact feed rows */
-    .feed-row{
-      display:block;
-      padding: 10px 2px;
-      border-bottom: 2px solid var(--rule);
-      text-decoration:none;
-      color: inherit;
-    }
-    .feed-row:hover{ background: rgba(255,255,255,.22); }
+.section-line{
+  height:1px;
+  background:var(--line);
+  margin:8px 0 20px;
+}
 
-    .feed-headline{
-      margin:0;
-      font-family: Georgia, "Times New Roman", Times, serif;
-      font-weight: 700;
-      font-size: 20px; /* compact newspaper */
-      line-height: 1.22;
-      color: #191816;
-    }
-    .feed-meta{
-      margin: 3px 0 0 0;
-      font-family: Georgia, "Times New Roman", Times, serif;
-      font-size: 14px;
-      letter-spacing: .12em;
-      color: var(--muted);
-      text-transform: lowercase;
-    }
+.item{
+  margin-bottom:26px;
+}
 
-    /* “feed unavailable” */
-    .feed-unavailable{
-      padding: 10px 2px 14px;
-      border-bottom: 2px solid var(--rule);
-    }
-    .feed-unavailable .big{
-      font-family: Georgia, "Times New Roman", Times, serif;
-      font-style: italic;
-      font-size: 44px;
-      color: rgba(25,24,22,.32);
-      margin: 0 0 4px 0;
-      line-height: 1.0;
-    }
-    .feed-unavailable .small{
-      font-family: Georgia, "Times New Roman", Times, serif;
-      font-size: 18px;
-      letter-spacing: .14em;
-      color: rgba(25,24,22,.28);
-      margin: 0;
-      text-transform: lowercase;
-    }
+.item h3{
+  font-family:"Playfair Display", serif;
+  font-size:34px;
+  margin:0;
+}
 
-    /* mobile tightening */
-    @media (max-width: 420px){
-      :root{ --pad: 16px; --mark-y: 340px; --mark-opacity:.08; }
-      .lede p{ font-size: 26px; }
-      .item-title{ font-size: 42px; }
-      .item-meta{ font-size: 22px; }
-      .section-title{ font-size: 20px; }
-    }
-  </style>
+.sub{
+  color:var(--muted);
+  font-size:14px;
+  letter-spacing:.15em;
+  margin-top:4px;
+}
+
+.feed-title{
+  margin-top:38px;
+  font-size:14px;
+  letter-spacing:.3em;
+  text-transform:lowercase;
+  color:var(--accent);
+}
+
+.feed-list{
+  margin-top:16px;
+}
+
+.feed-list a{
+  display:block;
+  text-decoration:none;
+  color:#111;
+  margin-bottom:12px;
+  font-size:17px;
+}
+
+.feed-list a:hover{
+  text-decoration:underline;
+}
+
+.footer-space{
+  height:120px;
+}
+</style>
 </head>
-
 <body>
-  <div class="page">
-    <header>
-      <h1 class="mast">ruin2itive</h1>
-      <p class="tagline">reliability first · open source · independent</p>
-      <hr class="rule" />
-      <div class="lede">
-        <p>pulled from various sites. these sources are selected to ensure consistent and stable information.</p>
-        <p>these feeds remain hand selected, ad free, and purposeful. <strong>clear and concise info. stability is law.</strong></p>
-      </div>
-    </header>
 
-    <main>
-      <section class="section">
-        <div class="section-title">projects / the code</div>
-        <div class="section-rule"></div>
-        <div class="list">
-          <!-- IMPORTANT: Rename “ruin2itive” item to “GitHub” as requested -->
-          <a class="item" href="https://github.com/Ruin2itive" target="_blank" rel="noopener">
-            <div class="item-title">GitHub</div>
-            <div class="item-meta">ruin2itive · src</div>
-          </a>
+<div class="container">
 
-          <a class="item" href="https://www.hackster.io/" target="_blank" rel="noopener">
-            <div class="item-title">arduino</div>
-            <div class="item-meta">hackster · hardware</div>
-          </a>
+<h1>ruin2itive</h1>
+<div class="tagline">reliability first · open source · independent</div>
+<div class="rule"></div>
 
-          <a class="item" href="https://www.instructables.com/circuits/raspberry-pi/" target="_blank" rel="noopener">
-            <div class="item-title">raspberry pi</div>
-            <div class="item-meta">instructables · diy</div>
-          </a>
-        </div>
-      </section>
+<div class="intro">
+<p>pulled from various sites. these sources are selected to ensure consistent and stable information.</p>
+<p>these feeds remain hand selected, ad free, and purposeful. <strong>clear and concise info. stability is law.</strong></p>
+</div>
 
-      <section class="section" id="sec-crypto">
-        <div class="section-title">markets / crypto</div>
-        <div class="section-rule"></div>
-        <div class="list" id="feed-crypto">
-          <div class="feed-unavailable" id="crypto-loading">
-            <p class="big">loading…</p>
-            <p class="small">decrypt · waiting</p>
-          </div>
-        </div>
-      </section>
+<div class="section-title">projects / the code</div>
+<div class="section-line"></div>
 
-      <section class="section" id="sec-hn">
-        <div class="section-title">hacker news</div>
-        <div class="section-rule"></div>
-        <div class="list" id="feed-hn">
-          <div class="feed-unavailable" id="hn-loading">
-            <p class="big">loading…</p>
-            <p class="small">hn · waiting</p>
-          </div>
-        </div>
-      </section>
+<div class="item">
+<h3>GitHub</h3>
+<div class="sub">ruin2itive · src</div>
+</div>
 
-      <section class="section" id="sec-world">
-        <div class="section-title">world news</div>
-        <div class="section-rule"></div>
-        <div class="list" id="feed-world">
-          <div class="feed-unavailable" id="world-loading">
-            <p class="big">loading…</p>
-            <p class="small">bbc · waiting</p>
-          </div>
-        </div>
-      </section>
-    </main>
-  </div>
+<div class="item">
+<h3>arduino</h3>
+<div class="sub">hackster · hardware</div>
+</div>
 
-  <script>
-    // Renders from data/home.json built by GitHub Actions (no CORS issues).
-    const $ = (id) => document.getElementById(id);
+<div class="item">
+<h3>raspberry pi</h3>
+<div class="sub">instructables · diy</div>
+</div>
 
-    function clearNode(node){
-      while(node.firstChild) node.removeChild(node.firstChild);
-    }
+<div class="feed-title">markets / crypto</div>
+<div class="section-line"></div>
+<div id="crypto" class="feed-list"></div>
 
-    function feedUnavailable(container, label){
-      clearNode(container);
-      const box = document.createElement("div");
-      box.className = "feed-unavailable";
-      box.innerHTML = `
-        <p class="big">feed unavailable</p>
-        <p class="small">${label} · load failed</p>
-      `;
-      container.appendChild(box);
-    }
+<div class="feed-title">hacker news</div>
+<div class="section-line"></div>
+<div id="hn" class="feed-list"></div>
 
-    function renderFeed(container, items, label){
-      clearNode(container);
+<div class="feed-title">world news</div>
+<div class="section-line"></div>
+<div id="world" class="feed-list"></div>
 
-      if(!Array.isArray(items) || items.length === 0){
-        feedUnavailable(container, label);
-        return;
-      }
+<div class="footer-space"></div>
 
-      for(const it of items){
-        const a = document.createElement("a");
-        a.className = "feed-row";
-        a.href = it.url || "#";
-        a.target = "_blank";
-        a.rel = "noopener";
+</div>
 
-        const h = document.createElement("p");
-        h.className = "feed-headline";
-        h.textContent = it.title || "(untitled)";
+<script>
+fetch("/data/home.json")
+.then(r=>r.json())
+.then(data=>{
+  render("crypto",data.crypto)
+  render("hn",data.hn)
+  render("world",data.world)
+})
+.catch(()=>{
+  document.querySelectorAll(".feed-list").forEach(e=>{
+    e.innerHTML="<div class='sub'>no data available</div>"
+  })
+})
 
-        const m = document.createElement("p");
-        m.className = "feed-meta";
-        m.textContent = (it.source || label) + (it.age ? (" · " + it.age) : "");
+function render(id,items){
+  const el=document.getElementById(id)
+  if(!items||!items.length){
+    el.innerHTML="<div class='sub'>no articles found</div>"
+    return
+  }
+  el.innerHTML=items.map(i=>`<a href="${i.url}" target="_blank">${i.title}</a>`).join("")
+}
+</script>
 
-        a.appendChild(h);
-        a.appendChild(m);
-        container.appendChild(a);
-      }
-    }
-
-    async function load(){
-      const crypto = $("feed-crypto");
-      const hn = $("feed-hn");
-      const world = $("feed-world");
-
-      try{
-        // cache-bust so new JSON shows up after scheduled rebuilds
-        const res = await fetch("data/home.json?v=" + Date.now(), { cache: "no-store" });
-        if(!res.ok) throw new Error("home.json http " + res.status);
-        const data = await res.json();
-
-        renderFeed(crypto, data?.sections?.crypto, "decrypt");
-        renderFeed(hn, data?.sections?.hacker, "hn");
-        renderFeed(world, data?.sections?.world, "bbc");
-      }catch(err){
-        feedUnavailable(crypto, "decrypt");
-        feedUnavailable(hn, "hn");
-        feedUnavailable(world, "bbc");
-      }
-    }
-
-    load();
-  </script>
 </body>
 </html>
