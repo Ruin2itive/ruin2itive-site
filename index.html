@@ -5,84 +5,73 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <title>ruin2itive</title>
   <meta name="description" content="reliability first · open source · independent" />
-  <link rel="stylesheet" href="./style.css?v=7" />
+  <link rel="stylesheet" href="./style.css?v=1" />
 </head>
+
 <body>
-  <div class="page">
+  <main class="page">
     <header class="mast">
       <h1 class="brand">ruin2itive</h1>
       <div class="tagline">reliability first · open source · independent</div>
       <hr class="rule" />
     </header>
 
-    <!-- minimal at first glance -->
-    <details class="manifesto" open>
-      <summary class="manifesto-summary">
-        pulled from various sites. <strong>stability is law.</strong>
-      </summary>
-
-      <div class="manifesto-body">
-        <p><em>these sources are selected to ensure consistent and stable information.</em></p>
-        <p><em>these feeds remain hand selected, ad free, and purposeful.</em> <strong>clear and concise info.</strong></p>
-      </div>
-    </details>
-
-    <main class="sheet">
-      <div class="watermark" aria-hidden="true"></div>
-
-      <section class="section-head">
+    <section class="sheet">
+      <!-- Projects -->
+      <div class="section-head">
         <div class="section-title">projects / the code</div>
         <div class="section-line"></div>
-      </section>
+      </div>
 
-      <a class="row" href="https://github.com/ruin2itive/ruin2itive-site" target="_blank" rel="noopener">
-        <div class="row-title">GitHub</div>
+      <a class="row" href="https://github.com/ruin2itive" target="_blank" rel="noopener">
+        <h2 class="row-title">GitHub</h2>
         <div class="row-sub">ruin2itive · src</div>
       </a>
 
-      <a class="row" href="https://hackster.io/" target="_blank" rel="noopener">
-        <div class="row-title">arduino</div>
+      <a class="row" href="https://www.hackster.io/" target="_blank" rel="noopener">
+        <h2 class="row-title">arduino</h2>
         <div class="row-sub">hackster · hardware</div>
       </a>
 
       <a class="row" href="https://www.instructables.com/" target="_blank" rel="noopener">
-        <div class="row-title">raspberry pi</div>
+        <h2 class="row-title">raspberry pi</h2>
         <div class="row-sub">instructables · diy</div>
       </a>
 
-      <section class="section-head">
+      <!-- Feeds -->
+      <div class="section-head">
         <div class="section-title">markets / crypto</div>
         <div class="section-line"></div>
-      </section>
-      <section class="feed" data-feed="crypto">
-        <div class="feed-status">loading…</div>
-        <ol class="feed-list"></ol>
+      </div>
+      <section class="feed" id="feed-crypto">
+        <div class="feed-status" data-status>loading…</div>
+        <ul class="feed-list" data-list></ul>
       </section>
 
-      <section class="section-head">
+      <div class="section-head">
         <div class="section-title">hacker news</div>
         <div class="section-line"></div>
-      </section>
-      <section class="feed" data-feed="hacker">
-        <div class="feed-status">loading…</div>
-        <ol class="feed-list"></ol>
+      </div>
+      <section class="feed" id="feed-hacker">
+        <div class="feed-status" data-status>loading…</div>
+        <ul class="feed-list" data-list></ul>
       </section>
 
-      <section class="section-head">
+      <div class="section-head">
         <div class="section-title">world news</div>
         <div class="section-line"></div>
-      </section>
-      <section class="feed" data-feed="world">
-        <div class="feed-status">loading…</div>
-        <ol class="feed-list"></ol>
+      </div>
+      <section class="feed" id="feed-world">
+        <div class="feed-status" data-status>loading…</div>
+        <ul class="feed-list" data-list></ul>
       </section>
 
       <footer class="footer">
         <div class="updated" id="updated">updated · …</div>
       </footer>
-    </main>
-  </div>
+    </section>
+  </main>
 
-  <script defer src="./app.js?v=7"></script>
+  <script src="./app.js?v=1" defer></script>
 </body>
 </html>
