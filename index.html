@@ -1,294 +1,202 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>ruin2itive</title>
-  <meta name="description" content="reliability first · open source · independent" />
-  <meta name="theme-color" content="#ffffff" />
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>ruin2itive</title>
 
-  <style>
-    :root{
-      --bg:#ffffff;
-      --ink:#0c0c0c;
-      --rust:#7b3f36;
-      --muted:#6a6a6a;
-      --rule:rgba(123,63,54,.32);
-    }
+<style>
+:root{
+  --ink:#0b0b0b;
+  --rust:#6e3029;
+  --muted:#6f6f6f;
+}
 
-    *{ margin:0; padding:0; box-sizing:border-box; }
+*{margin:0;padding:0;box-sizing:border-box;}
 
-    body{
-      background: var(--bg);
-      color: var(--ink);
-      font-family: Georgia, "Times New Roman", serif;
-      line-height: 1.28;             /* tighter */
-      padding: 10px 12px 40px;       /* tighter */
-      overflow-x:hidden;
-      position: relative;
-      text-rendering: optimizeLegibility;
-      -webkit-font-smoothing: antialiased;
-    }
+body{
+  font-family: Georgia, "Times New Roman", serif;
+  color:var(--ink);
+  background:#ffffff;
+  line-height:1.18;
+  padding:12px 14px 40px;
+  overflow-x:hidden;
+}
 
-    /* STRONGER FULL-SITE ELEPHANT WATERMARK */
-    body::before{
-      content:"";
-      position: fixed;
-      inset: 0;
-      background:
-        url("assets/elephant-third-eye.webp")
-        center 30px / min(1100px, 150vw) no-repeat;
-      opacity: .20;                  /* stronger */
-      pointer-events: none;
-      z-index: -2;
-    }
+/* STRONG FULL ELEPHANT */
+body::before{
+  content:"";
+  position:fixed;
+  inset:0;
+  background:
+    url("assets/elephant-third-eye.webp")
+    center -60px / min(1100px,140vw) no-repeat;
+  opacity:.26;            /* darker */
+  z-index:-1;
+  pointer-events:none;
+}
 
-    /* LIGHTER WHITE VEIL (keeps it readable but shows watermark) */
-    body::after{
-      content:"";
-      position: fixed;
-      inset: 0;
-      background: rgba(255,255,255,.86); /* lighter than before */
-      pointer-events: none;
-      z-index: -1;
-    }
+.wrap{
+  max-width:760px;
+  margin:auto;
+}
 
-    .wrap{
-      max-width: 820px;
-      margin: 0 auto;
-    }
+/* Header */
 
-    header{
-      padding: 6px 0 8px;
-      border-bottom: 2px solid rgba(12,12,12,.85);
-    }
+header{
+  border-bottom:2px solid #111;
+  padding-bottom:6px;
+}
 
-    /* Wordmark: never caps, no weird dot artifacts */
-    .wordmark{
-      font-style: italic;
-      font-weight: 500;
-      font-size: 40px;
-      letter-spacing: 0;
-      text-transform: none;
-      line-height: 1.0;
-    }
+.wordmark{
+  font-style:italic;
+  font-size:38px;
+  line-height:1;
+}
 
-    .tagline{
-      margin-top: 6px;
-      font-size: 11px;
-      letter-spacing: 2px;
-      color: var(--muted);
-      text-transform: lowercase;
-    }
+.tagline{
+  font-size:10px;
+  letter-spacing:2px;
+  color:var(--muted);
+  margin-top:6px;
+}
 
-    /* Manifesto compact block */
-    .manifesto{
-      margin-top: 10px;
-      padding: 10px 10px 10px 12px;
-      border-left: 3px solid var(--rust);
-      background: rgba(255,255,255,.52);
-    }
-    .manifesto p{
-      font-style: italic;
-      font-size: 14px;
-      color: rgba(12,12,12,.86);
-      margin-bottom: 6px;
-    }
-    .manifesto p:last-child{ margin-bottom:0; }
-    .manifesto .law{
-      font-weight: 800;
-      color: rgba(12,12,12,.96);
-    }
+/* Manifesto */
 
-    .rule{
-      height: 2px;
-      background: var(--rust);
-      margin: 10px 0 8px;
-      opacity: .92;
-    }
+.manifesto{
+  margin-top:8px;
+  padding-left:10px;
+  border-left:3px solid var(--rust);
+}
 
-    section{ margin-top: 10px; }
+.manifesto p{
+  font-style:italic;
+  font-size:13.5px;
+  margin-bottom:4px;
+}
 
-    h2{
-      font-size: 11px;
-      letter-spacing: 3px;
-      text-transform: lowercase;
-      color: var(--rust);
-      padding: 6px 0 5px;
-      border-bottom: 1px dotted var(--rule);
-      margin-bottom: 4px;
-    }
+.manifesto .law{
+  font-weight:800;
+}
 
-    ul{ list-style:none; }
+/* Section headers */
 
-    /* more compact list rows */
-    li{
-      padding: 6px 0;
-      border-bottom: 1px dotted rgba(123,63,54,.16);
-    }
+section{
+  margin-top:12px;
+}
 
-    a{
-      color: var(--ink);
-      text-decoration: none;
-      border-bottom: 1px solid rgba(12,12,12,.72);
-      padding-bottom: 1px;
-    }
-    a:hover{
-      color: var(--rust);
-      border-bottom-color: var(--rust);
-    }
+h2{
+  font-size:11px;
+  letter-spacing:3px;
+  color:var(--rust);
+  border-bottom:1px dotted rgba(0,0,0,.3);
+  padding-bottom:4px;
+  margin-bottom:4px;
+}
 
-    .meta{
-      display:block;
-      margin-top: 2px;
-      font-size: 10.5px;
-      letter-spacing: 1px;
-      color: var(--muted);
-      text-transform: lowercase;
-    }
+/* Lists */
 
-    footer{
-      margin-top: 14px;
-      padding-top: 10px;
-      border-top: 1px solid var(--rule);
-      color: var(--muted);
-      font-size: 11px;
-      letter-spacing: 1px;
-      text-transform: lowercase;
-      display:flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      gap: 8px;
-    }
+ul{
+  list-style:none;
+}
 
-    @media (max-width: 520px){
-      .wordmark{ font-size: 36px; }
+li{
+  padding:4px 0;
+}
 
-      /* put elephant even closer to the top on phones */
-      body::before{
-        background-position: center 10px;
-        background-size: min(980px, 170vw);
-        opacity: .22;
-      }
+a{
+  text-decoration:none;
+  color:var(--ink);
+  border-bottom:1px solid rgba(0,0,0,.7);
+}
 
-      body{ padding: 10px 12px 36px; }
-      .manifesto p{ font-size: 13.5px; }
-      li{ padding: 5px 0; }
-    }
-  </style>
+a:hover{
+  color:var(--rust);
+  border-bottom-color:var(--rust);
+}
+
+.meta{
+  display:block;
+  font-size:10px;
+  color:var(--muted);
+  margin-top:1px;
+}
+
+/* Compact mode */
+
+@media (max-width:520px){
+  body{
+    padding:10px 12px 30px;
+  }
+  .wordmark{
+    font-size:34px;
+  }
+  body::before{
+    background-position:center -20px;
+    background-size:min(950px,160vw);
+  }
+}
+</style>
 </head>
 
 <body>
-  <div class="wrap">
+<div class="wrap">
 
-    <header>
-      <div class="wordmark">ruin2itive</div>
-      <div class="tagline">reliability first · open source · independent</div>
-    </header>
+<header>
+<div class="wordmark">ruin2itive</div>
+<div class="tagline">reliability first · open source · independent</div>
+</header>
 
-    <div class="manifesto">
-      <p>pulled from various sites. these sources are selected to ensure consistent and stable information.</p>
-      <p>these feeds remain hand selected, ad free, and purposeful.</p>
-      <p class="law">clear and concise info. stability is law.</p>
-    </div>
+<div class="manifesto">
+<p>pulled from various sites. these sources are selected to ensure consistent and stable information.</p>
+<p>these feeds remain hand selected, ad free, and purposeful.</p>
+<p class="law">clear and concise info. stability is law.</p>
+</div>
 
-    <div class="rule"></div>
+<section>
+<h2>projects / the code</h2>
+<ul>
+<li><a href="https://github.com/Ruin2itive" target="_blank">ruin2itive</a><span class="meta">github · src</span></li>
+<li><a href="https://www.hackster.io/arduino/projects" target="_blank">arduino</a><span class="meta">hardware</span></li>
+<li><a href="https://www.instructables.com/Raspberry-Pi-Projects/" target="_blank">raspberry pi</a><span class="meta">diy</span></li>
+</ul>
+</section>
 
-    <section>
-      <h2>projects / the code</h2>
-      <ul>
-        <li>
-          <a href="https://www.hackster.io/arduino/projects" target="_blank" rel="noopener noreferrer">arduino</a>
-          <span class="meta">hackster · hardware</span>
-        </li>
-        <li>
-          <a href="https://www.instructables.com/Raspberry-Pi-Projects/" target="_blank" rel="noopener noreferrer">raspberry pi</a>
-          <span class="meta">instructables · diy</span>
-        </li>
-        <li>
-          <a href="https://github.com/Ruin2itive" target="_blank" rel="noopener noreferrer">ruin2itive</a>
-          <span class="meta">github · src</span>
-        </li>
-      </ul>
-    </section>
+<section>
+<h2>markets / crypto</h2>
+<ul>
+<li><a href="#">Bitcoin ETFs See $1.2B Inflows as Price Holds $67K</a><span class="meta">decrypt</span></li>
+<li><a href="#">SEC Delays Ethereum ETF Decision to May</a><span class="meta">decrypt</span></li>
+<li><a href="#">Solana Mobile Chapter 2 Pre-Orders Hit 100K</a><span class="meta">decrypt</span></li>
+</ul>
+</section>
 
-    <section>
-      <h2>markets / crypto</h2>
-      <ul id="markets-feed">
-        <li><span>loading…</span><span class="meta">decrypt</span></li>
-      </ul>
-    </section>
+<section>
+<h2>hacker news</h2>
+<ul>
+<li><a href="#">Show HN: I built a static site generator in Go</a><span class="meta">hn</span></li>
+<li><a href="#">Raspberry Pi 5 now supports NVMe SSDs via HAT+</a><span class="meta">hn</span></li>
+<li><a href="#">California Privacy Agency proposes AI transparency rules</a><span class="meta">hn</span></li>
+</ul>
+</section>
 
-    <section>
-      <h2>hacker news</h2>
-      <ul id="hn-feed">
-        <li><span>loading…</span><span class="meta">hn</span></li>
-      </ul>
-    </section>
+<section>
+<h2>world news</h2>
+<ul>
+<li><a href="https://apnews.com/" target="_blank">associated press</a></li>
+<li><a href="https://www.reuters.com/" target="_blank">reuters</a></li>
+<li><a href="https://www.bbc.com/news" target="_blank">bbc</a></li>
+</ul>
+</section>
 
-    <section>
-      <h2>world news</h2>
-      <ul>
-        <li><a href="https://apnews.com/" target="_blank" rel="noopener noreferrer">associated press</a></li>
-        <li><a href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer">reuters</a></li>
-        <li><a href="https://www.bbc.com/news" target="_blank" rel="noopener noreferrer">bbc</a></li>
-      </ul>
-    </section>
+<section>
+<h2>free banned books</h2>
+<ul>
+<li><a href="https://openlibrary.org/" target="_blank">open library</a></li>
+<li><a href="https://standardebooks.org/" target="_blank">standard ebooks</a></li>
+</ul>
+</section>
 
-    <section>
-      <h2>free banned books</h2>
-      <ul>
-        <li><a href="https://openlibrary.org/" target="_blank" rel="noopener noreferrer">open library</a></li>
-        <li><a href="https://standardebooks.org/" target="_blank" rel="noopener noreferrer">standard ebooks</a></li>
-      </ul>
-    </section>
-
-    <footer>
-      <div>independent digital archive · static build · no tracking</div>
-      <div><a href="https://github.com/Ruin2itive/ruin2itive-site" target="_blank" rel="noopener noreferrer">source</a></div>
-    </footer>
-
-  </div>
-
-  <script>
-    fetch('./api/home.json', { cache: 'no-store' })
-      .then(r => { if(!r.ok) throw new Error('bad'); return r.json(); })
-      .then(data => {
-        const markets = data?.sections?.markets || [];
-        const foss = data?.sections?.foss || [];
-
-        const m = document.getElementById('markets-feed');
-        m.innerHTML = '';
-        markets.slice(0,3).forEach(i => {
-          const li = document.createElement('li');
-          li.innerHTML =
-            `<a href="${i.url}" target="_blank" rel="noopener noreferrer">${i.title}</a>` +
-            `<span class="meta">${(i.source || 'decrypt').toLowerCase()}${i.timestamp ? " · " + i.timestamp : ""}</span>`;
-          m.appendChild(li);
-        });
-        if(!markets.length){
-          m.innerHTML = `<li><span>no headlines available</span><span class="meta">markets</span></li>`;
-        }
-
-        const h = document.getElementById('hn-feed');
-        h.innerHTML = '';
-        foss.slice(0,5).forEach(i => {
-          const li = document.createElement('li');
-          li.innerHTML =
-            `<a href="${i.url}" target="_blank" rel="noopener noreferrer">${i.title}</a>` +
-            `<span class="meta">${(i.source || 'hn').toLowerCase()}${i.timestamp ? " · " + i.timestamp : ""}</span>`;
-          h.appendChild(li);
-        });
-        if(!foss.length){
-          h.innerHTML = `<li><span>no headlines available</span><span class="meta">hn</span></li>`;
-        }
-      })
-      .catch(() => {
-        document.getElementById('markets-feed').innerHTML =
-          `<li><span>feed temporarily unavailable</span><span class="meta">markets</span></li>`;
-        document.getElementById('hn-feed').innerHTML =
-          `<li><span>feed temporarily unavailable</span><span class="meta">hn</span></li>`;
-      });
-  </script>
+</div>
 </body>
 </html>
