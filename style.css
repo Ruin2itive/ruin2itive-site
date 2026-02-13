@@ -1,184 +1,35 @@
-:root{
-  --paper: #f2efe8;
-  --ink: #151515;
-  --muted: rgba(0,0,0,.55);
-  --line: rgba(0,0,0,.18);
-  --line-strong: rgba(0,0,0,.55);
-  --accent: #7b3d35; /* dusty red/brown */
+/* ===== FEED TYPOGRAPHY COMPACT MODE ===== */
+
+.section-title {
+  font-size: 1.05rem;
+  letter-spacing: 0.12em;
+  margin: 2.2rem 0 0.8rem 0;
 }
 
-*{ box-sizing:border-box; }
-
-html,body{
-  margin:0;
-  padding:0;
-  background: var(--paper);
-  color: var(--ink);
-  font-family: Georgia, "Times New Roman", serif;
+.feed-item {
+  margin: 0.6rem 0;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
 }
 
-/* FULL-PAGE ELEPHANT BACKGROUND */
-body{
-  position: relative;
-  min-height: 100vh;
-}
-body::before{
-  content:"";
-  position: fixed;
-  inset: 0;
-  background-image: url("./assets/elephant-third-eye.webp");
-  background-repeat: no-repeat;
-  background-position: center 220px;
-  background-size: min(980px, 140vw);
-  opacity: 0.20;              /* adjust 0.16–0.26 */
-  filter: contrast(1.05) saturate(.9);
-  pointer-events: none;
-  z-index: 0;
+.feed-item h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.25;
+  margin: 0 0 0.15rem 0;
 }
 
-/* Keep content above background */
-.page{
-  position: relative;
-  z-index: 1;
-  max-width: 740px;
-  margin: 0 auto;
-  padding: 18px 16px 40px;
+.feed-meta {
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  opacity: 0.65;
 }
 
-/* Masthead */
-.mast{ margin-top: 4px; }
-
-.brand{
-  margin: 0;
-  font-weight: 800;
-  letter-spacing: .2px;
-  font-size: clamp(54px, 10vw, 86px);
-  line-height: .92;
-}
-
-.tagline{
-  margin-top: 8px;
-  font-size: 18px;
-  letter-spacing: .38em;
-  text-transform: lowercase;
-  color: var(--muted);
-}
-
-.rule{
-  border: none;
-  height: 2px;
-  background: var(--line-strong);
-  margin: 14px 0 16px;
-}
-
-/* Section headers */
-.section-head{ margin-top: 18px; }
-
-.section-title{
-  font-size: 22px;
-  letter-spacing: .32em;
-  text-transform: lowercase;
-  color: var(--accent);
-}
-
-.section-line{
-  height: 1px;
-  background: var(--line);
-  margin-top: 8px;
-}
-
-/* Rows (projects) */
-.row{
-  display: block;
+.feed-item a {
   text-decoration: none;
-  color: inherit;
-  padding: 14px 0 14px;
-  border-bottom: 1px solid var(--line);
+  color: #111;
 }
 
-.row:first-of-type{
-  border-top: 1px solid var(--line);
-}
-
-.row-title{
-  font-size: 56px;
-  font-weight: 700;
-  line-height: .96;
-  margin: 0;
-  letter-spacing: .2px;
-}
-
-.row-sub{
-  margin-top: 6px;
-  font-size: 22px;
-  letter-spacing: .32em;
-  color: var(--muted);
-  text-transform: lowercase;
-}
-
-/* Feeds */
-.feed{
-  padding: 10px 0 6px;
-  border-bottom: 1px solid var(--line);
-}
-
-.feed-status{
-  font-size: 40px;
-  font-style: italic;
-  letter-spacing: .06em;
-  color: rgba(0,0,0,.32);
-  line-height: 1.0;
-  padding: 6px 0 8px;
-}
-
-.feed-list{
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.feed-item{
-  padding: 10px 0;
-  border-top: 1px solid rgba(0,0,0,.12);
-}
-
-.feed-item:first-child{ border-top: none; }
-
-.feed-link{
-  display: block;
-  text-decoration: none;
-  color: inherit;
-}
-
-.feed-title{
-  font-size: 22px;
-  line-height: 1.12;
-  margin: 0;
-}
-
-.feed-meta{
-  margin-top: 6px;
-  font-size: 15px;
-  letter-spacing: .26em;
-  color: var(--muted);
-  text-transform: lowercase;
-}
-
-.footer{
-  margin-top: 14px;
-  padding-top: 10px;
-  border-top: 1px solid var(--line);
-}
-
-.updated{
-  font-size: 14px;
-  letter-spacing: .22em;
-  color: rgba(0,0,0,.38);
-  text-transform: lowercase;
-}
-
-@media (max-width: 430px){
-  .row-title{ font-size: 50px; }
-  .feed-title{ font-size: 20px; }
-  .tagline{ letter-spacing: .28em; font-size: 16px; }
+.feed-item a:hover {
+  opacity: 0.75;
 }
