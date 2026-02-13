@@ -3,101 +3,102 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>ruin2itive.org</title>
+<title>ruin2itive</title>
 
 <style>
 :root{
   --bg:#ffffff;
-  --rust:#8a4a3c;
-  --text:#000000;
-  --rule:rgba(138,74,60,.75);
-
-  --mark:url("assets/elephant-mark.webp");
+  --ink:#0e0e0e;
+  --oxide:#7a3e33;
+  --rule:#7a3e33;
 }
 
 *{margin:0;padding:0;box-sizing:border-box;}
 
 body{
   background:var(--bg);
-  color:var(--text);
-  font-family:"Times New Roman",Times,serif;
-  font-size:15.5px;
-  line-height:1.45;
-  max-width:980px;
+  color:var(--ink);
+  font-family: Georgia, serif;
+  font-size:15px;
+  line-height:1.4;
+  max-width:960px;
   margin:1rem auto;
-  padding:1rem 1.4rem;
+  padding:1rem 1.2rem;
 }
 
-/* ===== HEADER ===== */
+/* ================= HEADER ================= */
 
 header{
-  position:relative;
-  margin-bottom:1rem;
+  display:flex;
+  align-items:flex-end;
+  gap:1rem;
   padding-bottom:.6rem;
-  border-bottom:1px solid var(--rule);
+  border-bottom:2px solid var(--rule);
+  margin-bottom:1.2rem;
 }
 
-header::before{
-  content:"";
-  position:absolute;
-  right:0;
-  top:-8px;
-  width:230px;
-  height:160px;
-  background:var(--mark) no-repeat right top/contain;
-  opacity:.08;
-  pointer-events:none;
+/* Elephant as SEAL */
+.seal{
+  width:85px;
+  flex-shrink:0;
 }
 
-.masthead{
-  font-size:3rem;
+.seal img{
+  width:100%;
+  display:block;
+}
+
+/* Brand */
+.brand{
+  flex-grow:1;
+}
+
+.brand h1{
+  font-size:2.6rem;
   font-weight:900;
-  letter-spacing:-1.5px;
-  text-transform:uppercase;
-  border-bottom:3px solid var(--rust);
-  padding-bottom:.1rem;
+  letter-spacing:-1px;
+  text-transform:none;
+  line-height:.95;
 }
 
 .tagline{
+  font-family: monospace;
   font-size:.68rem;
-  letter-spacing:3px;
-  text-transform:uppercase;
-  text-align:right;
-  opacity:.7;
+  letter-spacing:2px;
+  text-transform:lowercase;
   margin-top:.35rem;
+  opacity:.75;
 }
 
-/* ===== LAYOUT ===== */
+/* ================= LAYOUT ================= */
 
 .columns{
   display:grid;
   grid-template-columns:1fr 1fr;
-  gap:1.5rem;
+  gap:1.6rem;
 }
 
-/* ===== SECTION ===== */
-
+/* Section headers look coded */
 h2{
+  font-family: monospace;
   font-size:.75rem;
-  text-transform:uppercase;
-  letter-spacing:3px;
-  color:var(--rust);
+  letter-spacing:2px;
+  text-transform:lowercase;
+  color:var(--oxide);
   border-bottom:1px dashed var(--rule);
   padding-bottom:.2rem;
-  margin:.7rem 0 .55rem;
+  margin:.8rem 0 .6rem;
 }
 
-/* ===== PROJECTS ===== */
-
+/* Projects */
 .project{
-  margin-bottom:.6rem;
+  margin-bottom:.7rem;
 }
 
 .project h3{
   font-size:.95rem;
-  text-transform:uppercase;
-  color:var(--rust);
-  letter-spacing:1px;
+  font-weight:700;
+  text-transform:lowercase;
 }
 
 .project p{
@@ -108,13 +109,12 @@ h2{
 .meta{
   font-size:.6rem;
   letter-spacing:1px;
-  text-transform:uppercase;
+  text-transform:lowercase;
   opacity:.6;
   margin-left:.3rem;
 }
 
-/* ===== FEEDS ===== */
-
+/* Feeds */
 ul{
   list-style:none;
   padding-left:.4rem;
@@ -122,59 +122,51 @@ ul{
 
 li{
   font-size:.88rem;
-  margin-bottom:.35rem;
+  margin-bottom:.4rem;
   padding-left:.9rem;
   position:relative;
 }
 
 li::before{
-  content:"–";
+  content:"›";
   position:absolute;
   left:0;
-  color:var(--rust);
+  color:var(--oxide);
+  font-weight:bold;
 }
 
 a{
-  color:var(--text);
+  color:var(--ink);
   text-decoration:underline;
-  text-decoration-color:var(--rust);
+  text-decoration-color:var(--oxide);
   text-underline-offset:2px;
 }
 
 a:hover{
-  background:var(--rust);
+  background:var(--oxide);
   color:#fff;
   text-decoration:none;
 }
 
-.quiet{
-  font-size:.75rem;
-  opacity:.6;
-  font-style:italic;
-  margin-top:.2rem;
-  padding-left:.9rem;
-}
-
+/* Footer */
 footer{
-  margin-top:1.5rem;
+  margin-top:1.8rem;
   padding-top:.6rem;
-  border-top:2px solid var(--rust);
+  border-top:2px solid var(--rule);
+  font-family: monospace;
   font-size:.65rem;
-  text-transform:uppercase;
-  letter-spacing:2px;
+  letter-spacing:1px;
+  text-transform:lowercase;
   display:flex;
   justify-content:space-between;
-  opacity:.8;
+  opacity:.85;
 }
 
 @media(max-width:750px){
   .columns{grid-template-columns:1fr;}
-  .masthead{font-size:2.1rem;}
-  header::before{
-    width:170px;
-    height:120px;
-    opacity:.07;
-  }
+  .brand h1{font-size:2rem;}
+  header{align-items:center;}
+  .seal{width:65px;}
 }
 </style>
 </head>
@@ -182,8 +174,13 @@ footer{
 <body>
 
 <header>
-  <div class="masthead">ruin2itive.org</div>
-  <div class="tagline">reliability first · open source · independent</div>
+  <div class="seal">
+    <img src="assets/elephant-mark.webp" alt="ruin2itive seal">
+  </div>
+  <div class="brand">
+    <h1>ruin2itive</h1>
+    <div class="tagline">reliability first · open source · independent</div>
+  </div>
 </header>
 
 <div class="columns">
@@ -193,34 +190,28 @@ footer{
 <h2>projects / the code</h2>
 
 <div class="project">
-  <h3>Arduino</h3>
-  <p><a href="https://www.hackster.io/arduino/projects" target="_blank">Hackster.io feed</a>
+  <h3>arduino</h3>
+  <p><a href="https://www.hackster.io/arduino/projects" target="_blank">hackster feed</a>
   <span class="meta">daily · hardware</span></p>
 </div>
 
 <div class="project">
-  <h3>Raspberry Pi</h3>
-  <p><a href="https://www.instructables.com/Raspberry-Pi-Projects/" target="_blank">Instructables</a>
+  <h3>raspberry pi</h3>
+  <p><a href="https://www.instructables.com/Raspberry-Pi-Projects/" target="_blank">instructables</a>
   <span class="meta">diy · maker</span></p>
 </div>
 
 <div class="project">
   <h3>ruin2itive</h3>
-  <p><a href="https://github.com/Ruin2itive" target="_blank">GitHub · src</a>
+  <p><a href="https://github.com/Ruin2itive" target="_blank">github · src</a>
   <span class="meta">this site</span></p>
 </div>
 
 <h2>markets / crypto</h2>
-<ul id="markets-feed">
-<li>loading…</li>
-</ul>
-<div class="quiet">protocol updates · on-chain · manual curation</div>
+<ul id="markets-feed"><li>loading…</li></ul>
 
 <h2>hacker news</h2>
-<ul id="hn-feed">
-<li>loading…</li>
-</ul>
-<div class="quiet">foss · security · systems</div>
+<ul id="hn-feed"><li>loading…</li></ul>
 
 </div>
 
@@ -228,27 +219,23 @@ footer{
 
 <h2>world news</h2>
 <ul>
-<li><a href="https://apnews.com/" target="_blank">Associated Press</a> <span class="meta">wire</span></li>
-<li><a href="https://www.reuters.com/" target="_blank">Reuters</a> <span class="meta">fact-based</span></li>
-<li><a href="https://www.bbc.com/news" target="_blank">BBC News</a> <span class="meta">international</span></li>
+<li><a href="https://apnews.com/" target="_blank">associated press</a></li>
+<li><a href="https://www.reuters.com/" target="_blank">reuters</a></li>
+<li><a href="https://www.bbc.com/news" target="_blank">bbc</a></li>
 </ul>
-
-<div class="quiet">ad-free feeds in progress</div>
 
 <h2>free banned books</h2>
 <ul>
-<li><a href="https://openlibrary.org/" target="_blank">Open Library</a> <span class="meta">public domain</span></li>
-<li><a href="https://standardebooks.org/" target="_blank">Standard Ebooks</a> <span class="meta">clean editions</span></li>
+<li><a href="https://openlibrary.org/" target="_blank">open library</a></li>
+<li><a href="https://standardebooks.org/" target="_blank">standard ebooks</a></li>
 </ul>
-
-<div class="quiet">no drm · public archive</div>
 
 </div>
 
 </div>
 
 <footer>
-<div>open source · independent</div>
+<div>open source · sovereign · independent</div>
 <div><a href="/about/">about</a> · <a href="/integrity/">integrity</a></div>
 </footer>
 
@@ -259,14 +246,12 @@ fetch('api/home.json')
 const m=document.getElementById('markets-feed');
 m.innerHTML='';
 (data.sections?.markets||[]).slice(0,3).forEach(i=>{
-m.innerHTML+=`<li><a href="${i.url}" target="_blank">${i.title}</a>
-<span class="meta">${i.source||''}</span></li>`;
+m.innerHTML+=`<li><a href="${i.url}" target="_blank">${i.title}</a></li>`;
 });
 const h=document.getElementById('hn-feed');
 h.innerHTML='';
 (data.sections?.foss||[]).slice(0,5).forEach(i=>{
-h.innerHTML+=`<li><a href="${i.url}" target="_blank">${i.title}</a>
-<span class="meta">${i.source||''}</span></li>`;
+h.innerHTML+=`<li><a href="${i.url}" target="_blank">${i.title}</a></li>`;
 });
 })
 .catch(()=>{});
