@@ -1,249 +1,263 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>ruin2itive</title>
+  <meta name="description" content="Reliability-first, open-source, independent." />
+  <meta name="theme-color" content="#f0efe7" />
 
-<title>ruin2itive — reliability first</title>
+  <style>
+    :root{
+      --bg: #f0efe7;          /* sampled from your screenshot */
+      --ink: #111111;
+      --muted: #6f6b62;
+      --rule: rgba(20,20,20,.20);
+      --rule-strong: rgba(20,20,20,.35);
+      --rust: #895145;        /* sampled rust tone */
+      --box: rgba(255,255,255,.62);
+      --box-border: rgba(20,20,20,.20);
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+      /* Watermark (uses your existing assets) */
+      --mark-url: image-set(
+        url("assets/elephant-mark.webp") type("image/webp"),
+        url("assets/elephant-mark.png") type("image/png")
+      );
+      --mark-opacity: .16;     /* tune for iPhone */
+      --mark-size: 560px;      /* tune for iPhone */
+      --mark-y: 540px;         /* start behind “projects / the code” */
+    }
 
-<style>
+    *{ box-sizing:border-box; }
+    html,body{ height:100%; }
+    body{
+      margin:0;
+      background: var(--bg);
+      color: var(--ink);
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+      font-family: Georgia, "Times New Roman", Times, serif;
+    }
 
-/* =========================
-   BASE FOUNDATION
-========================= */
+    /* Page width tuned for iPhone look */
+    .page{
+      position: relative;
+      max-width: 740px;
+      margin: 0 auto;
+      padding: 18px 18px 44px;
+    }
 
-:root{
-  --paper:#f5f3ef;
-  --ink:#111111;
-  --muted:#777;
-  --accent:#8b2e23;
-  --rule:#2a2a2a;
-}
+    /* Watermark layer */
+    .page::before{
+      content:"";
+      position:absolute;
+      inset:0;
+      pointer-events:none;
+      background-image: var(--mark-url);
+      background-repeat:no-repeat;
+      background-position: center var(--mark-y);
+      background-size: var(--mark-size) auto;
+      opacity: var(--mark-opacity);
+      filter: grayscale(100%);
+      transform: translateZ(0);
+    }
 
-*{
-  box-sizing:border-box;
-}
+    /* Masthead */
+    .mast{ position:relative; z-index:1; }
+    .brand-name{
+      font-weight: 800;
+      letter-spacing: .5px;
+      font-size: 64px;         /* big like your screenshot */
+      line-height: 1.0;
+      margin: 6px 0 6px;
+    }
+    .brand-tag{
+      font-family: "Times New Roman", Times, serif;
+      color: var(--muted);
+      letter-spacing: .22em;
+      text-transform: lowercase;
+      font-size: 15px;
+      margin: 0 0 14px;
+    }
+    .rule{
+      height: 2px;
+      background: rgba(20,20,20,.55);
+      margin: 6px 0 16px;
+    }
 
-body{
-  margin:0;
-  background:var(--paper);
-  color:var(--ink);
-  font-family:"Libre Baskerville", serif;
-  line-height:1.55;
-  overflow-x:hidden;
-}
+    /* Intro / lede box */
+    .lede{
+      position:relative;
+      z-index:1;
+      display:grid;
+      grid-template-columns: 8px 1fr;
+      gap: 0;
+      border: 1px solid var(--box-border);
+      background: var(--box);
+    }
+    .lede-bar{ background: var(--rust); }
+    .lede-box{
+      padding: 14px 14px 14px 16px;
+      font-style: italic;
+      font-size: 26px;
+      line-height: 1.25;
+    }
+    .lede-box strong{
+      font-weight: 800;
+    }
 
-/* =========================
-   PAPER TEXTURE
-========================= */
+    /* Sections */
+    .section{
+      position:relative;
+      z-index:1;
+      margin-top: 18px;
+    }
+    .section-title{
+      color: var(--rust);
+      letter-spacing: .34em;
+      text-transform: lowercase;
+      font-size: 18px;
+      margin: 10px 0 10px;
+    }
+    .list{
+      border-top: 1px solid var(--rule);
+    }
+    .item{
+      display:block;
+      padding: 14px 0 14px;
+      border-bottom: 1px solid var(--rule);
+      text-decoration:none;
+      color: inherit;
+    }
+    .item-title{
+      font-weight: 800;
+      font-size: 56px;          /* large like your screenshot */
+      line-height: 1.0;
+      margin: 0;
+    }
+    .item-meta{
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 18px;
+      letter-spacing: .24em;
+      text-transform: lowercase;
+    }
 
-body::before{
-  content:"";
-  position:fixed;
-  inset:0;
-  background-image:url("/assets/elephant-third-eye.webp");
-  background-repeat:no-repeat;
-  background-position:center 420px;
-  background-size:85%;
-  opacity:0.08;
-  pointer-events:none;
-  z-index:0;
-}
+    /* Feed rows (headlines) */
+    .feed-row{
+      display:flex;
+      flex-direction:column;
+      gap: 6px;
+      padding: 14px 0 14px;
+      border-bottom: 1px solid var(--rule);
+    }
+    .feed-headline{
+      font-size: 20px;
+      line-height: 1.25;
+    }
+    .feed-headline a{
+      color: inherit;
+      text-decoration: none;
+    }
+    .feed-headline a:active{ opacity:.7; }
 
-/* =========================
-   LAYOUT
-========================= */
+    /* "loading..." + failure look */
+    .feed-status{
+      font-style: italic;
+      color: var(--muted);
+      font-size: 28px;
+      line-height: 1.1;
+    }
+    .feed-status small{
+      display:block;
+      font-style: normal;
+      font-size: 16px;
+      letter-spacing: .18em;
+      color: var(--muted);
+      text-transform: lowercase;
+      margin-top: 6px;
+    }
 
-.wrapper{
-  position:relative;
-  z-index:1;
-  max-width:720px;
-  margin:auto;
-  padding:24px 20px 80px;
-}
-
-/* =========================
-   HEADER
-========================= */
-
-.site-title{
-  font-family:"Playfair Display", serif;
-  font-size:48px;
-  font-weight:900;
-  margin:0 0 8px 0;
-}
-
-.tagline{
-  letter-spacing:3px;
-  font-size:14px;
-  text-transform:lowercase;
-  color:#666;
-}
-
-.hr{
-  border-top:2px solid var(--rule);
-  margin:18px 0 28px;
-}
-
-/* =========================
-   INTRO BOX
-========================= */
-
-.intro{
-  border:1px solid #d8d6d1;
-  padding:22px;
-  position:relative;
-  margin-bottom:38px;
-  background:rgba(255,255,255,0.6);
-}
-
-.intro::before{
-  content:"";
-  position:absolute;
-  left:0;
-  top:0;
-  bottom:0;
-  width:6px;
-  background:var(--accent);
-}
-
-.intro p{
-  margin:0 0 14px;
-  font-style:italic;
-  font-size:18px;
-}
-
-.intro strong{
-  font-style:normal;
-  font-weight:700;
-}
-
-/* =========================
-   SECTION HEADERS
-========================= */
-
-.section-label{
-  font-size:14px;
-  letter-spacing:3px;
-  text-transform:lowercase;
-  color:var(--accent);
-  margin-top:32px;
-}
-
-.section-rule{
-  border-top:1px solid #ccc;
-  margin:10px 0 22px;
-}
-
-/* =========================
-   LIST ITEMS
-========================= */
-
-.item{
-  padding:16px 0;
-  border-bottom:1px solid #e2e2e2;
-}
-
-.item-title{
-  font-family:"Playfair Display", serif;
-  font-size:34px;
-  font-weight:700;
-  margin:0;
-}
-
-.item-meta{
-  font-size:14px;
-  color:var(--muted);
-  margin-top:4px;
-}
-
-/* =========================
-   FEED STATE
-========================= */
-
-.feed-unavailable{
-  font-style:italic;
-  color:#999;
-  padding:12px 0 18px;
-}
-
-.feed-detail{
-  font-size:14px;
-  color:#bbb;
-}
-
-/* =========================
-   MOBILE TUNING
-========================= */
-
-@media (max-width:480px){
-
-  .site-title{
-    font-size:42px;
-  }
-
-  .item-title{
-    font-size:30px;
-  }
-
-}
-
-</style>
+    /* Mobile tuning */
+    @media (max-width: 420px){
+      .brand-name{ font-size: 54px; }
+      .lede-box{ font-size: 24px; }
+      .item-title{ font-size: 52px; }
+      :root{
+        --mark-size: 520px;
+        --mark-y: 520px;
+        --mark-opacity: .17;
+      }
+    }
+  </style>
 </head>
 
 <body>
+  <main class="page">
+    <header class="mast">
+      <div class="brand-name">ruin2itive</div>
+      <div class="brand-tag">reliability first · open source · independent</div>
+      <div class="rule"></div>
 
-<div class="wrapper">
+      <section class="lede" aria-label="intro">
+        <div class="lede-bar"></div>
+        <div class="lede-box">
+          pulled from various sites. these sources are selected to ensure consistent and stable information.<br><br>
+          these feeds remain hand selected, ad free, and purposeful.
+          <strong>clear and concise info. stability is law.</strong>
+        </div>
+      </section>
+    </header>
 
-<h1 class="site-title">ruin2itive</h1>
-<div class="tagline">reliability first · open source · independent</div>
-<div class="hr"></div>
+    <section class="section" aria-label="projects">
+      <div class="section-title">projects / the code</div>
+      <div class="list">
+        <a class="item" href="https://github.com/ruin2itive/ruin2itive-site">
+          <div class="item-title">ruin2itive</div>
+          <div class="item-meta">github · src</div>
+        </a>
 
-<div class="intro">
-<p>pulled from various sites. these sources are selected to ensure consistent and stable information.</p>
-<p>these feeds remain hand selected, ad free, and purposeful. <strong>clear and concise info. stability is law.</strong></p>
-</div>
+        <a class="item" href="https://www.hackster.io/">
+          <div class="item-title">arduino</div>
+          <div class="item-meta">hackster · hardware</div>
+        </a>
 
-<div class="section-label">projects / the code</div>
-<div class="section-rule"></div>
+        <a class="item" href="https://www.instructables.com/">
+          <div class="item-title">raspberry pi</div>
+          <div class="item-meta">instructables · diy</div>
+        </a>
+      </div>
+    </section>
 
-<div class="item">
-<div class="item-title">ruin2itive</div>
-<div class="item-meta">github · src</div>
-</div>
+    <section class="section" aria-label="markets">
+      <div class="section-title">markets / crypto</div>
+      <div id="crypto-feed" class="list">
+        <div class="feed-row">
+          <div class="feed-status">loading...</div>
+        </div>
+      </div>
+    </section>
 
-<div class="item">
-<div class="item-title">arduino</div>
-<div class="item-meta">hackster · hardware</div>
-</div>
+    <section class="section" aria-label="hn">
+      <div class="section-title">hacker news</div>
+      <div id="hn-feed" class="list">
+        <div class="feed-row">
+          <div class="feed-status">loading...</div>
+        </div>
+      </div>
+    </section>
 
-<div class="item">
-<div class="item-title">raspberry pi</div>
-<div class="item-meta">instructables · diy</div>
-</div>
+    <section class="section" aria-label="world">
+      <div class="section-title">world news</div>
+      <div id="world-feed" class="list">
+        <div class="feed-row">
+          <div class="feed-status">loading...</div>
+        </div>
+      </div>
+    </section>
 
-<div class="section-label">markets / crypto</div>
-<div class="section-rule"></div>
+  </main>
 
-<div class="feed-unavailable">feed unavailable</div>
-<div class="feed-detail">decrypt · load failed</div>
-
-<div class="section-label">hacker news</div>
-<div class="section-rule"></div>
-
-<div class="feed-unavailable">feed unavailable</div>
-<div class="feed-detail">hn · load failed</div>
-
-<div class="section-label">world news</div>
-<div class="section-rule"></div>
-
-<div class="feed-unavailable">feed unavailable</div>
-<div class="feed-detail">world · load failed</div>
-
-</div>
+  <script src="./app.js"></script>
 </body>
 </html>
