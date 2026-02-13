@@ -1,116 +1,101 @@
-#!/usr/bin/env node
-/**
- * Builds /data/home.json for GitHub Pages (no CORS issues on client)
- * - Decrypt: parses homepage for top stories
- * - Hacker News: uses official Firebase API
- * - World: uses Reuters RSS (lightweight)
- */
+import fs from "node:fs";
+import path from "node:path";
+import { XMLParser } from "fast-xml-parser";
 
-import fs from "fs";
-import path from "path";
+const OUT = path.join(process.cwd(), "data", "home.json");
 
-const OUT = "data/home.json";
+const parser = new XMLParser({
+  ignoreAttributes: false,
+  attributeNamePrefix: "@_"
+});
 
-async function fetchText(url){
-  const r = await fetch(url, { headers: { "User-Agent": "ruin2itive-bot/1.0" } });
-  if(!r.ok) throw new Error(`HTTP ${r.status} ${url}`);
-  return await r.text();
-}
-
-async function fetchJson(url){
-  const r = await fetch(url, { headers: { "User-Agent": "ruin2itive-bot/1.0" } });
-  if(!r.ok) throw new Error(`HTTP ${r.status} ${url}`);
-  return await r.json();
-}
-
-function pickDecrypt(html){
-  // Simple, stable strategy: pull unique https://decrypt.co/ links and guess titles from surrounding text.
-  // If Decrypt changes markup, we still usually get working URLs; titles may degrade gracefully.
-  const urls = [];
-  const re = /https:\/\/decrypt\.co\/\d+\/[a-z0-9-]+/gi;
-  let m;
-  while((m = re.exec(html)) !== null){
-    const u = m[0];
-    if(!urls.includes(u)) urls.push(u);
-    if(urls.length >= 8) break;
-  }
-  return urls.slice(0,5).map(u => ({
-    title: u.split("/").slice(-1)[0].replace(/-/g," "),
-    url: u,
-    source: "decrypt"
-  }));
-}
-
-function pickReutersFromRss(xml){
-  // Minimal RSS parse (no deps)
-  const items = [];
-  const itemRe = /<item>([\s\S]*?)<\/item>/g;
-  let m;
-  while((m = itemRe.exec(xml)) !== null && items.length < 6){
-    const block = m[1];
-    const title = (block.match(/<title><!\[CDATA\[([\s\S]*?)\]\]><\/title>/) ||
-                  block.match(/<title>([\s\S]*?)<\/title>/))?.[1]?.trim() || "";
-    const link = (block.match(/<link>([\s\S]*?)<\/link>/))?.[1]?.trim() || "";
-    if(title && link){
-      items.push({ title, url: link, source:"reuters" });
+async function fetchText(url) {
+  const res = await fetch(url, {
+    headers: {
+      "User-Agent": "ruin2itive-feed-bot/1.0"
     }
-  }
-  return items.slice(0,5);
+  });
+  if (!res.ok) throw new Error(`Fetch failed ${res.status} ${url}`);
+  return await res.text();
 }
 
-async function getDecryptTop5(){
-  const html = await fetchText("https://decrypt.co/");
-  return pickDecrypt(html);
+function pickArray(x) {
+  if (!x) return [];
+  return Array.isArray(x) ? x : [x];
 }
 
-async function getHnTop5(){
-  // New stories: https://hacker-news.firebaseio.com/v0/newstories.json
-  const ids = await fetchJson("https://hacker-news.firebaseio.com/v0/newstories.json");
-  const top = ids.slice(0,10);
-  const items = [];
-  for(const id of top){
-    try{
-      const it = await fetchJson(`https://hacker-news.firebaseio.com/v0/item/${id}.json`);
-      if(it && it.title && it.url){
-        items.push({ title: it.title, url: it.url, source:"hn" });
-      }
-      if(items.length >= 5) break;
-    }catch{}
-  }
-  return items.slice(0,5);
+async function getRssTop(url, limit = 5) {
+  const xml = await fetchText(url);
+  const j = parser.parse(xml);
+
+  // RSS 2.0: rss.channel.item
+  const items = pickArray(j?.rss?.channel?.item).slice(0, limit);
+
+  return items.map(it => ({
+    title: it?.title ?? "",
+    url: it?.link ?? "",
+    published: it?.pubDate ? new Date(it.pubDate).toISOString() : null
+  })).filter(x => x.title && x.url);
 }
 
-async function getWorldTop5(){
-  // Reuters World News RSS (lightweight, stable)
-  const xml = await fetchText("https://feeds.reuters.com/Reuters/worldNews");
-  return pickReutersFromRss(xml);
+async function getHnTop(limit = 5) {
+  // “front page-ish” by newest stories; tweak later if you want “top”
+  const url = "https://hn.algolia.com/api/v1/search_by_date?tags=story&hitsPerPage=20";
+  const txt = await fetchText(url);
+  const j = JSON.parse(txt);
+
+  const hits = (j?.hits || [])
+    .filter(h => h?.title && h?.url)
+    .slice(0, limit)
+    .map(h => ({
+      title: h.title,
+      url: h.url,
+      published: h?.created_at ? new Date(h.created_at).toISOString() : null
+    }));
+
+  return hits;
 }
 
-async function main(){
+async function main() {
   const now = new Date();
+
+  // Feeds (server-side) so the browser never CORS-fails.
+  // If a feed fails, we degrade to empty array (site stays up).
+  let crypto = [];
+  let hacker = [];
+  let world = [];
+
+  try {
+    // Decrypt RSS (works in Actions)
+    crypto = await getRssTop("https://decrypt.co/feed", 5);
+  } catch (e) {
+    console.error("crypto feed failed:", e.message);
+  }
+
+  try {
+    hacker = await getHnTop(5);
+  } catch (e) {
+    console.error("hacker feed failed:", e.message);
+  }
+
+  try {
+    // BBC world RSS (swap later if you want Reuters/AP; many are paywalled/blocked)
+    world = await getRssTop("https://feeds.bbci.co.uk/news/world/rss.xml", 5);
+  } catch (e) {
+    console.error("world feed failed:", e.message);
+  }
+
   const payload = {
     updated_iso: now.toISOString(),
-    updated_local: now.toLocaleString(),
-    sections: {
-      crypto: [],
-      hn: [],
-      world: []
-    }
+    updated_local: now.toLocaleString("en-US", { timeZone: "America/Chicago" }),
+    sections: { crypto, hacker, world }
   };
-
-  // Build each section with graceful failure
-  try{ payload.sections.crypto = await getDecryptTop5(); }
-  catch{ payload.sections.crypto = []; }
-
-  try{ payload.sections.hn = await getHnTop5(); }
-  catch{ payload.sections.hn = []; }
-
-  try{ payload.sections.world = await getWorldTop5(); }
-  catch{ payload.sections.world = []; }
 
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
   fs.writeFileSync(OUT, JSON.stringify(payload, null, 2) + "\n", "utf8");
+
   console.log(`Wrote ${OUT}`);
+  console.log(`Counts: crypto=${crypto.length} hacker=${hacker.length} world=${world.length}`);
 }
 
 main().catch(err => {
