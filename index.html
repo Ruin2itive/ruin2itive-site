@@ -3,92 +3,94 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>ruin2itive.org</title>
-
+  <title>ruin2itive</title>
   <meta name="description" content="reliability first · open source · independent" />
-
-  <link rel="stylesheet" href="./Style.css?v=1" />
+  <link rel="stylesheet" href="style.css" />
 </head>
 
 <body>
-  <main class="page">
+  <main class="wrap">
     <header class="mast">
       <div class="brand">
-        <div class="brand__name" id="siteTitle">ruin2itive</div>
-        <div class="brand__tag">reliability first · open source · independent</div>
+        <div id="siteTitle" class="site-title">ruin2itive</div>
+        <div class="site-tagline">reliability first · open source · independent</div>
       </div>
-      <div class="rule"></div>
 
       <div class="thesis">
-        <div class="thesis__bar"></div>
-        <div class="thesis__text">
-          <p><em>pulled from various sites. these sources are selected to ensure consistent and stable information.</em></p>
-          <p><em>these feeds remain hand selected, ad free, and purposeful.</em></p>
-          <p><strong><em>clear and concise info. stability is law.</em></strong></p>
+        <div class="thesis-bar"></div>
+        <div class="thesis-text">
+          <em>pulled from various sites. these sources are selected to ensure consistent and stable information.</em>
+          <br /><br />
+          <em>these feeds remain hand selected, ad free, and purposeful.</em>
+          <br /><br />
+          <strong><em>clear and concise info. stability is law.</em></strong>
         </div>
       </div>
     </header>
 
     <section class="section">
-      <h2 class="section__title">projects / the code</h2>
-      <div class="list">
-        <a class="item" href="https://github.com/ruin2itive" target="_blank" rel="noopener">
-          <div class="item__title">ruin2itive</div>
-          <div class="item__meta">github · src</div>
-        </a>
-
-        <a class="item" href="https://www.hackster.io/" target="_blank" rel="noopener">
-          <div class="item__title">arduino</div>
-          <div class="item__meta">hackster · hardware</div>
-        </a>
-
-        <a class="item" href="https://www.instructables.com/" target="_blank" rel="noopener">
-          <div class="item__title">raspberry pi</div>
-          <div class="item__meta">instructables · diy</div>
-        </a>
+      <h2 class="section-title">projects / the code</h2>
+      <div class="links">
+        <div class="link-row">
+          <a href="https://github.com/ruin2itive" target="_blank" rel="noopener noreferrer">ruin2itive</a>
+          <span class="link-meta">github · src</span>
+        </div>
+        <div class="link-row">
+          <a href="https://hackster.io/" target="_blank" rel="noopener noreferrer">arduino</a>
+          <span class="link-meta">hackster · hardware</span>
+        </div>
+        <div class="link-row">
+          <a href="https://www.instructables.com/" target="_blank" rel="noopener noreferrer">raspberry pi</a>
+          <span class="link-meta">instructables · diy</span>
+        </div>
       </div>
     </section>
 
-    <section class="section" id="feeds">
-      <h2 class="section__title">markets / crypto</h2>
+    <section class="section">
+      <h2 class="section-title">markets / crypto</h2>
       <div class="feed" data-feed="crypto"></div>
+    </section>
 
-      <h2 class="section__title">hacker news</h2>
+    <section class="section">
+      <h2 class="section-title">hacker news</h2>
       <div class="feed" data-feed="hn"></div>
+    </section>
 
-      <h2 class="section__title">world news / associated press</h2>
+    <section class="section">
+      <h2 class="section-title">world news / associated press</h2>
       <div class="feed" data-feed="ap"></div>
+    </section>
 
-      <h2 class="section__title">world news / reuters</h2>
+    <section class="section">
+      <h2 class="section-title">world news / reuters</h2>
       <div class="feed" data-feed="reuters"></div>
+    </section>
 
-      <h2 class="section__title">world news / bbc</h2>
+    <section class="section">
+      <h2 class="section-title">world news / bbc</h2>
       <div class="feed" data-feed="bbc"></div>
+    </section>
 
-      <h2 class="section__title">ufo / uap</h2>
+    <section class="section">
+      <h2 class="section-title">ufo / uap</h2>
       <div class="feed" data-feed="ufo"></div>
     </section>
 
     <section class="section">
-      <h2 class="section__title">free banned books</h2>
-      <div class="list">
-        <a class="item" href="https://openlibrary.org/" target="_blank" rel="noopener">
-          <div class="item__title">open library</div>
-          <div class="item__meta">public archive</div>
-        </a>
-        <a class="item" href="https://standardebooks.org/" target="_blank" rel="noopener">
-          <div class="item__title">standard ebooks</div>
-          <div class="item__meta">clean editions</div>
-        </a>
+      <h2 class="section-title">free banned books</h2>
+      <div class="links">
+        <div class="link-row">
+          <a href="https://openlibrary.org/" target="_blank" rel="noopener noreferrer">open library</a>
+          <span class="link-meta">public archive</span>
+        </div>
+        <div class="link-row">
+          <a href="https://standardebooks.org/" target="_blank" rel="noopener noreferrer">standard ebooks</a>
+          <span class="link-meta">clean editions</span>
+        </div>
       </div>
     </section>
-
-    <footer class="foot">
-      <div class="foot__rule"></div>
-      <div class="foot__meta">ruin2itive.org</div>
-    </footer>
   </main>
 
-  <script src="./App.js?v=1"></script>
+  <script src="app.js"></script>
 </body>
 </html>
