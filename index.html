@@ -7,9 +7,9 @@
 
 <style>
 :root{
-  --ink:#0e0e0e;
-  --rust:#6b2a24;
-  --muted:#666;
+  --ink:#0a0a0a;
+  --rust:#7a2d26;
+  --muted:#777;
 }
 
 *{margin:0;padding:0;box-sizing:border-box;}
@@ -18,11 +18,11 @@ body{
   font-family: Georgia, "Times New Roman", serif;
   background:#ffffff;
   color:var(--ink);
-  line-height:1.05;
-  padding:20px 16px 60px;
+  line-height:1.02;
+  padding:18px 14px 60px;
 }
 
-/* ELEPHANT WATERMARK */
+/* Elephant watermark */
 
 body::before{
   content:"";
@@ -30,30 +30,30 @@ body::before{
   inset:0;
   background:
     url("assets/elephant-third-eye.webp")
-    center center / 1200px no-repeat;
-  opacity:.045;              /* lower */
+    center -80px / 1000px no-repeat;
+  opacity:.035;
   pointer-events:none;
   z-index:-1;
 }
 
-/* CONTENT WIDTH */
+/* layout */
 
 .wrap{
-  max-width:620px;
+  max-width:600px;
   margin:auto;
 }
 
-/* HEADER */
+/* header */
 
 header{
   border-bottom:2px solid #000;
-  padding-bottom:6px;
-  margin-bottom:10px;
+  padding-bottom:4px;
+  margin-bottom:8px;
 }
 
 .wordmark{
   font-style:italic;
-  font-size:36px;
+  font-size:34px;
   letter-spacing:-1px;
 }
 
@@ -61,48 +61,46 @@ header{
   font-size:9px;
   letter-spacing:2px;
   color:var(--muted);
-  margin-top:3px;
+  margin-top:2px;
 }
 
-/* MANIFESTO */
+/* manifesto */
 
 .manifesto{
-  margin:8px 0 14px;
+  margin:8px 0 10px;
   padding-left:10px;
   border-left:3px solid var(--rust);
 }
 
 .manifesto p{
   font-style:italic;
-  font-size:13px;
-  margin-bottom:3px;
+  font-size:12px;
+  margin-bottom:2px;
 }
 
 .manifesto .law{
   font-weight:700;
 }
 
-/* SECTIONS */
+/* sections */
 
 section{
-  margin-top:12px;
+  margin-top:10px;
 }
 
 h2{
-  font-size:10px;
+  font-size:9px;
   letter-spacing:3px;
   color:var(--rust);
   border-bottom:1px solid #000;
   padding-bottom:2px;
-  margin-bottom:5px;
+  margin-bottom:4px;
 }
 
-ul{
-  list-style:none;
-}
+ul{list-style:none;}
 
 li{
-  padding:4px 0;
+  padding:3px 0;
 }
 
 a{
@@ -118,7 +116,7 @@ a:hover{
 
 .meta{
   display:block;
-  font-size:9px;
+  font-size:8px;
   color:var(--muted);
   margin-top:-2px;
 }
