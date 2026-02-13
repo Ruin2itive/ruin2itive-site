@@ -1,68 +1,76 @@
+function el(root, sel) { return root.querySelector(sel); }
+
+function setStatus(sectionEl, text) {
+  const s = sectionEl.querySelector("[data-status]");
+  if (s) s.textContent = text;
+}
+
+function renderList(sectionEl, items) {
+  const ul = sectionEl.querySelector("[data-list]");
+  ul.innerHTML = "";
+
+  if (!items || !items.length) {
+    setStatus(sectionEl, "feed unavailable");
+    return;
+  }
+
+  // Hide status when we have items
+  setStatus(sectionEl, "");
+
+  for (const it of items) {
+    const li = document.createElement("li");
+    li.className = "feed-item";
+
+    const a = document.createElement("a");
+    a.className = "feed-link";
+    a.href = it.url || "#";
+    a.target = "_blank";
+    a.rel = "noopener";
+
+    const h = document.createElement("h3");
+    h.className = "feed-title";
+    h.textContent = it.title || "(untitled)";
+
+    const meta = document.createElement("div");
+    meta.className = "feed-meta";
+    meta.textContent = `${it.source || "source"} · ${it.time || ""}`.trim();
+
+    a.appendChild(h);
+    a.appendChild(meta);
+    li.appendChild(a);
+    ul.appendChild(li);
+  }
+}
+
 async function loadHome() {
-  const updatedEl = document.getElementById("updated");
-  const feeds = document.querySelectorAll(".feed");
+  // cache-bust so you don’t get “old” JSON
+  const url = `./data/home.json?v=${Date.now()}`;
 
-  function setStatus(sectionKey, text) {
-    const el = document.querySelector(`.feed[data-feed="${sectionKey}"] .feed-status`);
-    if (el) el.textContent = text;
-  }
-
-  function render(sectionKey, items) {
-    const list = document.querySelector(`.feed[data-feed="${sectionKey}"] .feed-list`);
-    const status = document.querySelector(`.feed[data-feed="${sectionKey}"] .feed-status`);
-    if (!list || !status) return;
-
-    list.innerHTML = "";
-
-    if (!items || items.length === 0) {
-      status.textContent = "feed unavailable";
-      return;
-    }
-
-    status.textContent = "";
-
-    for (const it of items) {
-      const li = document.createElement("li");
-      li.className = "feed-item";
-
-      const a = document.createElement("a");
-      a.className = "feed-link";
-      a.href = it.url;
-      a.target = "_blank";
-      a.rel = "noopener";
-
-      const h = document.createElement("div");
-      h.className = "feed-title";
-      h.textContent = it.title;
-
-      const m = document.createElement("div");
-      m.className = "feed-meta";
-      m.textContent = `${it.source} · ${it.time}`;
-
-      a.appendChild(h);
-      a.appendChild(m);
-      li.appendChild(a);
-      list.appendChild(li);
-    }
-  }
+  const cryptoEl = document.getElementById("feed-crypto");
+  const hackerEl = document.getElementById("feed-hacker");
+  const worldEl  = document.getElementById("feed-world");
 
   try {
-    // Avoid stale cache on GH Pages/CDN
-    const res = await fetch(`./data/home.json?v=${Date.now()}`, { cache: "no-store" });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const res = await fetch(url, { cache: "no-store" });
+    if (!res.ok) throw new Error(`home.json HTTP ${res.status}`);
+
     const data = await res.json();
 
-    const updated = data?.updated_local || data?.updated_iso || "unknown";
-    updatedEl.textContent = `updated · ${updated}`;
+    renderList(cryptoEl, data?.sections?.crypto || []);
+    renderList(hackerEl, data?.sections?.hacker || []);
+    renderList(worldEl,  data?.sections?.world  || []);
 
-    render("crypto", data?.sections?.crypto || []);
-    render("hacker", data?.sections?.hacker || []);
-    render("world", data?.sections?.world || []);
+    const updated = document.getElementById("updated");
+    if (updated) {
+      updated.textContent = `updated · ${data.updated_local || data.updated_iso || "unknown"}`;
+    }
   } catch (e) {
-    updatedEl.textContent = "updated · feed error";
-    setStatus("crypto", "feed unavailable");
-    setStatus("hacker", "feed unavailable");
-    setStatus("world", "feed unavailable");
+    setStatus(cryptoEl, "feed unavailable");
+    setStatus(hackerEl, "feed unavailable");
+    setStatus(worldEl,  "feed unavailable");
+
+    const updated = document.getElementById("updated");
+    if (updated) updated.textContent = "updated · error";
   }
 }
 
