@@ -4,101 +4,91 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <title>ruin2itive.org</title>
-  <meta name="description" content="Independent, reliable, hand-selected feeds. Stability is law." />
 
-  <!-- IMPORTANT: lowercase filenames -->
-  <link rel="stylesheet" href="./style.css?v=1" />
+  <meta name="description" content="reliability first · open source · independent" />
 
-  <!-- Preload your LOCAL elephant for snappy render -->
-  <link rel="preload" as="image" href="./assets/elephant-third-eye.webp" />
-
+  <link rel="stylesheet" href="./Style.css?v=1" />
 </head>
+
 <body>
-  <main class="wrap">
-    <header class="brand">
-      <div>
-        <h1 class="wordmark">ruin2itive</h1>
-        <div class="tagline">reliability first · open source · independent</div>
+  <main class="page">
+    <header class="mast">
+      <div class="brand">
+        <div class="brand__name" id="siteTitle">ruin2itive</div>
+        <div class="brand__tag">reliability first · open source · independent</div>
+      </div>
+      <div class="rule"></div>
+
+      <div class="thesis">
+        <div class="thesis__bar"></div>
+        <div class="thesis__text">
+          <p><em>pulled from various sites. these sources are selected to ensure consistent and stable information.</em></p>
+          <p><em>these feeds remain hand selected, ad free, and purposeful.</em></p>
+          <p><strong><em>clear and concise info. stability is law.</em></strong></p>
+        </div>
       </div>
     </header>
 
-    <div class="rule"></div>
+    <section class="section">
+      <h2 class="section__title">projects / the code</h2>
+      <div class="list">
+        <a class="item" href="https://github.com/ruin2itive" target="_blank" rel="noopener">
+          <div class="item__title">ruin2itive</div>
+          <div class="item__meta">github · src</div>
+        </a>
 
-    <section class="panel">
-      <p class="manifest">
-        pulled from various sites. these sources are selected to ensure consistent and stable information.
-        these feeds remain hand selected, ad free, and purposeful.
-        <strong>clear and concise info. stability is law.</strong>
-      </p>
+        <a class="item" href="https://www.hackster.io/" target="_blank" rel="noopener">
+          <div class="item__title">arduino</div>
+          <div class="item__meta">hackster · hardware</div>
+        </a>
+
+        <a class="item" href="https://www.instructables.com/" target="_blank" rel="noopener">
+          <div class="item__title">raspberry pi</div>
+          <div class="item__meta">instructables · diy</div>
+        </a>
+      </div>
+    </section>
+
+    <section class="section" id="feeds">
+      <h2 class="section__title">markets / crypto</h2>
+      <div class="feed" data-feed="crypto"></div>
+
+      <h2 class="section__title">hacker news</h2>
+      <div class="feed" data-feed="hn"></div>
+
+      <h2 class="section__title">world news / associated press</h2>
+      <div class="feed" data-feed="ap"></div>
+
+      <h2 class="section__title">world news / reuters</h2>
+      <div class="feed" data-feed="reuters"></div>
+
+      <h2 class="section__title">world news / bbc</h2>
+      <div class="feed" data-feed="bbc"></div>
+
+      <h2 class="section__title">ufo / uap</h2>
+      <div class="feed" data-feed="ufo"></div>
     </section>
 
     <section class="section">
-      <h2 class="h">projects / the code</h2>
-      <ul class="list">
-        <li class="item">
-          <a class="title" href="https://github.com/Ruin2itive/ruin2itive-site" target="_blank" rel="noopener noreferrer">ruin2itive</a>
-          <div class="meta">github · src</div>
-        </li>
-        <li class="item">
-          <a class="title" href="https://hackster.io/" target="_blank" rel="noopener noreferrer">arduino</a>
-          <div class="meta">hackster · hardware</div>
-        </li>
-        <li class="item">
-          <a class="title" href="https://www.instructables.com/" target="_blank" rel="noopener noreferrer">raspberry pi</a>
-          <div class="meta">instructables · diy</div>
-        </li>
-      </ul>
+      <h2 class="section__title">free banned books</h2>
+      <div class="list">
+        <a class="item" href="https://openlibrary.org/" target="_blank" rel="noopener">
+          <div class="item__title">open library</div>
+          <div class="item__meta">public archive</div>
+        </a>
+        <a class="item" href="https://standardebooks.org/" target="_blank" rel="noopener">
+          <div class="item__title">standard ebooks</div>
+          <div class="item__meta">clean editions</div>
+        </a>
+      </div>
     </section>
 
-    <section class="section">
-      <h2 class="h">markets / crypto</h2>
-      <ul class="list" data-feed="crypto">
-        <li class="item"><span class="loading">loading…</span></li>
-      </ul>
-    </section>
-
-    <section class="section">
-      <h2 class="h">hacker news</h2>
-      <ul class="list" data-feed="hn">
-        <li class="item"><span class="loading">loading…</span></li>
-      </ul>
-    </section>
-
-    <section class="section">
-      <h2 class="h">world news</h2>
-      <ul class="list">
-        <li class="item">
-          <a class="title" href="https://apnews.com/" target="_blank" rel="noopener noreferrer">associated press</a>
-          <div class="meta">wire</div>
-        </li>
-        <li class="item">
-          <a class="title" href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer">reuters</a>
-          <div class="meta">fact based</div>
-        </li>
-        <li class="item">
-          <a class="title" href="https://www.bbc.com/news" target="_blank" rel="noopener noreferrer">bbc</a>
-          <div class="meta">international</div>
-        </li>
-      </ul>
-    </section>
-
-    <section class="section">
-      <h2 class="h">free banned books</h2>
-      <ul class="list">
-        <li class="item">
-          <a class="title" href="https://openlibrary.org/" target="_blank" rel="noopener noreferrer">open library</a>
-          <div class="meta">public archive</div>
-        </li>
-        <li class="item">
-          <a class="title" href="https://standardebooks.org/" target="_blank" rel="noopener noreferrer">standard ebooks</a>
-          <div class="meta">clean editions</div>
-        </li>
-      </ul>
-    </section>
-
+    <footer class="foot">
+      <div class="foot__rule"></div>
+      <div class="foot__meta">ruin2itive.org</div>
+    </footer>
   </main>
 
-  <!-- IMPORTANT: lowercase filename -->
-  <script src="./app.js?v=1" defer></script>
+  <script src="./App.js?v=1"></script>
 </body>
 </html>
