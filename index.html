@@ -7,96 +7,63 @@
 
 <style>
 :root{
-  --ink:#0a0a0a;
+  --bg:#ffffff;
+  --ink:#0b0b0b;
+  --muted:#6f6f6f;
+  --rule:#d7d7d7;
   --rust:#7a2d26;
-  --muted:#777;
 }
 
-*{margin:0;padding:0;box-sizing:border-box;}
+*{box-sizing:border-box;margin:0;padding:0;}
+
+html,body{background:var(--bg);color:var(--ink);}
 
 body{
   font-family: Georgia, "Times New Roman", serif;
-  background:#ffffff;
-  color:var(--ink);
-  line-height:1.02;
-  padding:18px 14px 60px;
+  line-height:1.12;
+  padding:14px 12px 60px;
 }
 
-/* 1) Elephant watermark (stronger, still readable) */
+/* CLEAN watermark elephant (no “film”) */
 body::before{
   content:"";
   position:fixed;
   inset:0;
   background:
     url("assets/elephant-third-eye.webp")
-    center -60px / 1050px no-repeat;
-  opacity:.08;                 /* <-- was too faint; this is stronger */
+    center 160px / 980px no-repeat;
+  opacity:.06;                 /* subtle but present */
   pointer-events:none;
-  z-index:-2;
+  z-index:-1;
   filter: contrast(1.05);
 }
 
-/* 2) 35mm film overlay (grain + scratches + vignette) */
-body::after{
-  content:"";
-  position:fixed;
-  inset:0;
-  pointer-events:none;
-  z-index:-1;
+.wrap{max-width:620px;margin:0 auto;}
 
-  /* Layer stack:
-     A) SVG fractal noise (grain)
-     B) scratch lines (repeating linear gradients)
-     C) vignette edges (radial gradient)
-  */
-  background-image:
-    url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='160'%20height='160'%3E%3Cfilter%20id='n'%3E%3CfeTurbulence%20type='fractalNoise'%20baseFrequency='.9'%20numOctaves='3'%20stitchTiles='stitch'/%3E%3C/filter%3E%3Crect%20width='100%25'%20height='100%25'%20filter='url(%23n)'%20opacity='.55'/%3E%3C/svg%3E"),
-    repeating-linear-gradient(90deg, rgba(0,0,0,.045) 0 1px, rgba(0,0,0,0) 1px 7px),
-    repeating-linear-gradient(0deg, rgba(0,0,0,.03) 0 1px, rgba(0,0,0,0) 1px 11px),
-    radial-gradient(ellipse at center, rgba(255,255,255,0) 58%, rgba(0,0,0,.10) 100%);
-
-  background-size:
-    220px 220px,
-    100% 100%,
-    100% 100%,
-    100% 100%;
-
-  background-position:
-    0 0,
-    0 0,
-    0 0,
-    center;
-
-  opacity:.20;                 /* overall film/grunge strength */
-  mix-blend-mode:multiply;     /* makes it feel like ink/film, not a flat overlay */
-}
-
-/* layout */
-.wrap{max-width:600px;margin:auto;}
-
-/* header */
 header{
-  border-bottom:2px solid #000;
-  padding-bottom:4px;
-  margin-bottom:8px;
+  padding:6px 0 10px;
+  border-bottom:1px solid var(--rule);
 }
 
 .wordmark{
   font-style:italic;
+  font-weight:600;
+  letter-spacing:-0.5px;
   font-size:34px;
-  letter-spacing:-1px;
+  line-height:1;
 }
 
 .tagline{
-  font-size:9px;
-  letter-spacing:2px;
+  margin-top:6px;
+  font-size:10px;
+  letter-spacing:2.2px;
   color:var(--muted);
-  margin-top:2px;
+  text-transform:lowercase;
 }
 
-/* manifesto */
+/* manifesto: compact, intentional */
 .manifesto{
-  margin:8px 0 10px;
+  margin:10px 0 14px;
   padding-left:10px;
   border-left:3px solid var(--rust);
 }
@@ -104,43 +71,84 @@ header{
 .manifesto p{
   font-style:italic;
   font-size:12px;
-  margin-bottom:2px;
+  color:#222;
+  margin:3px 0;
 }
 
-.manifesto .law{font-weight:700;}
+.manifesto .law{
+  font-weight:700;
+}
 
 /* sections */
-section{margin-top:10px;}
+section{margin-top:14px;}
 
-h2{
-  font-size:9px;
+.section-title{
+  display:flex;
+  align-items:baseline;
+  gap:10px;
+  margin-bottom:6px;
+}
+
+.section-title h2{
+  font-size:11px;
   letter-spacing:3px;
   color:var(--rust);
-  border-bottom:1px solid #000;
-  padding-bottom:2px;
-  margin-bottom:4px;
+  text-transform:lowercase;
+}
+
+.section-title .hairline{
+  flex:1;
+  height:1px;
+  background:var(--rule);
 }
 
 ul{list-style:none;}
 
-li{padding:3px 0;}
-
-a{
-  text-decoration:none;
-  color:var(--ink);
-  border-bottom:1px solid #000;
+.item{
+  padding:7px 0;
+  border-bottom:1px solid #efefef;
 }
 
-a:hover{
-  color:var(--rust);
-  border-bottom-color:var(--rust);
+.item:last-child{border-bottom:none;}
+
+a{
+  color:var(--ink);
+  text-decoration:none;
+}
+
+a:active{opacity:.65;}
+
+.title{
+  font-size:18px;              /* compact but readable */
+  line-height:1.12;
+  font-weight:600;
+  letter-spacing:-0.2px;
 }
 
 .meta{
-  display:block;
-  font-size:8px;
+  margin-top:4px;
+  font-size:10px;
+  letter-spacing:1.6px;
   color:var(--muted);
-  margin-top:-2px;
+  text-transform:lowercase;
+}
+
+/* “directory” lists (projects/world/books) */
+.dir .title{
+  font-size:18px;
+  font-weight:700;
+}
+
+.dir .meta{letter-spacing:1.8px;}
+
+/* subtle brand accent on hover-capable devices */
+@media (hover:hover){
+  a:hover .title{color:var(--rust);}
+}
+
+/* slightly tighter on very small screens */
+@media (max-width:380px){
+  .title{font-size:17px;}
 }
 </style>
 </head>
@@ -159,43 +167,68 @@ a:hover{
   <p class="law">clear and concise info. stability is law.</p>
 </div>
 
-<section>
-  <h2>projects / the code</h2>
+<section class="dir">
+  <div class="section-title">
+    <h2>projects / the code</h2><div class="hairline"></div>
+  </div>
   <ul>
-    <li><a href="https://github.com/Ruin2itive">ruin2itive</a><span class="meta">github · src</span></li>
-    <li><a href="https://www.hackster.io/arduino/projects">arduino</a><span class="meta">hardware</span></li>
-    <li><a href="https://www.instructables.com/Raspberry-Pi-Projects/">raspberry pi</a><span class="meta">diy</span></li>
+    <li class="item">
+      <a href="https://github.com/Ruin2itive">
+        <div class="title">ruin2itive</div>
+        <div class="meta">github · src</div>
+      </a>
+    </li>
+    <li class="item">
+      <a href="https://www.hackster.io/arduino/projects">
+        <div class="title">arduino</div>
+        <div class="meta">hardware</div>
+      </a>
+    </li>
+    <li class="item">
+      <a href="https://www.instructables.com/Raspberry-Pi-Projects/">
+        <div class="title">raspberry pi</div>
+        <div class="meta">diy</div>
+      </a>
+    </li>
   </ul>
 </section>
 
 <section>
-  <h2>markets / crypto</h2>
+  <div class="section-title">
+    <h2>markets / crypto</h2><div class="hairline"></div>
+  </div>
   <ul id="markets-feed">
-    <li><a href="#">Loading…</a><span class="meta">decrypt</span></li>
+    <li class="item"><a href="#"><div class="title">loading…</div><div class="meta">decrypt</div></a></li>
   </ul>
 </section>
 
 <section>
-  <h2>hacker news</h2>
+  <div class="section-title">
+    <h2>hacker news</h2><div class="hairline"></div>
+  </div>
   <ul id="hn-feed">
-    <li><a href="#">Loading…</a><span class="meta">hn</span></li>
+    <li class="item"><a href="#"><div class="title">loading…</div><div class="meta">hn</div></a></li>
   </ul>
 </section>
 
-<section>
-  <h2>world news</h2>
+<section class="dir">
+  <div class="section-title">
+    <h2>world news</h2><div class="hairline"></div>
+  </div>
   <ul>
-    <li><a href="https://apnews.com/">associated press</a></li>
-    <li><a href="https://www.reuters.com/">reuters</a></li>
-    <li><a href="https://www.bbc.com/news">bbc</a></li>
+    <li class="item"><a href="https://apnews.com/"><div class="title">associated press</div><div class="meta">wire</div></a></li>
+    <li class="item"><a href="https://www.reuters.com/"><div class="title">reuters</div><div class="meta">fact based</div></a></li>
+    <li class="item"><a href="https://www.bbc.com/news"><div class="title">bbc</div><div class="meta">international</div></a></li>
   </ul>
 </section>
 
-<section>
-  <h2>free banned books</h2>
+<section class="dir">
+  <div class="section-title">
+    <h2>free banned books</h2><div class="hairline"></div>
+  </div>
   <ul>
-    <li><a href="https://openlibrary.org/">open library</a></li>
-    <li><a href="https://standardebooks.org/">standard ebooks</a></li>
+    <li class="item"><a href="https://openlibrary.org/"><div class="title">open library</div><div class="meta">public archive</div></a></li>
+    <li class="item"><a href="https://standardebooks.org/"><div class="title">standard ebooks</div><div class="meta">clean editions</div></a></li>
   </ul>
 </section>
 
@@ -206,29 +239,27 @@ fetch('/api/home.json')
     const markets = document.getElementById('markets-feed');
     const hn = document.getElementById('hn-feed');
 
-    if (data?.sections?.markets?.length) {
-      markets.innerHTML = '';
-      data.sections.markets.slice(0,3).forEach(item => {
+    function render(list, items, fallback){
+      if (!items || !items.length) return;
+      list.innerHTML = '';
+      items.forEach(item => {
         const li = document.createElement('li');
+        li.className = 'item';
+        const source = (item.source || fallback || '').toLowerCase();
+        const ts = item.timestamp ? (' · ' + item.timestamp) : '';
         li.innerHTML =
-          `<a href="${item.url}">${item.title}</a>` +
-          `<span class="meta">${item.source || 'decrypt'}${item.timestamp ? ' · ' + item.timestamp : ''}</span>`;
-        markets.appendChild(li);
+          `<a href="${item.url}">` +
+          `<div class="title">${item.title}</div>` +
+          `<div class="meta">${source}${ts}</div>` +
+          `</a>`;
+        list.appendChild(li);
       });
     }
 
-    if (data?.sections?.foss?.length) {
-      hn.innerHTML = '';
-      data.sections.foss.slice(0,5).forEach(item => {
-        const li = document.createElement('li');
-        li.innerHTML =
-          `<a href="${item.url}">${item.title}</a>` +
-          `<span class="meta">${item.source || 'hn'}${item.timestamp ? ' · ' + item.timestamp : ''}</span>`;
-        hn.appendChild(li);
-      });
-    }
+    render(markets, data?.sections?.markets?.slice?.(0,3), 'decrypt');
+    render(hn, data?.sections?.foss?.slice?.(0,5), 'hn');
   })
-  .catch(() => {});
+  .catch(()=>{});
 </script>
 
 </div>
