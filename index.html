@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ruin2itive.org</title>
+    <style>
+        /* ––– NEWSPAPER FOUNDATION ––– */
+        :root {
+            --bg: #ffffff;          /* clean white paper */
+            --rust: #8a4a3c;        /* aged rust – exact from logo */
+            --text: #000000;        /* pure black ink */
+            --elephant: rgba(138, 74, 60, 0.15); /* ghost stencil */
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--bg);
+            color: var(--text);
+            font-family: 'Georgia', 'Times New Roman', Times, serif; /* classic newspaper */
+            font-size: 15px;
+            line-height: 1.45;
+            max-width: 780px;
+            margin: 1.8rem auto;
+            padding: 0.8rem 1.8rem;
+            position: relative;
+        }
+
+        /* ––– GHOST ELEPHANT – PERMANENT STENCIL ––– */
+        body::before {
+            content: "r2";
+            position: fixed;
+            top: 18px;
+            right: 22px;
+            font-size: 100px;
+            font-family: 'Arial Black', 'Impact', sans-serif;
+            color: var(--elephant);
+            letter-spacing: -7px;
+            transform: rotate(1deg);
+            z-index: -1;
+            pointer-events: none;
+        }
+
+        /* ––– MASTHEAD – BOLD, CLEAN ––– */
+        .masthead {
+            font-size: 2.1rem;
+            font-weight: 800;
+            color: var(--text);
+            border-bottom: 2px solid var(--rust);
+            padding-bottom: 0.15rem;
+            margin-bottom: 0.3rem;
+            letter-spacing: -0.5px;
+            font-family: 'Georgia', 'Times New Roman', Times, serif;
+            line-height: 1.1;
+        }
+
+        .tagline {
+            font-size: 0.68rem;
+            text-transform: uppercase;
+            letter-spacing: 2.2px;
+            color: var(--text);
+            opacity: 0.7;
+            margin-bottom: 1.2rem;
+            font-weight: normal;
+            font-family: 'Georgia', 'Times New Roman', Times, serif;
+        }
+
+        /* ––– SECTION HEADERS – TIGHT, RUST, ALL-CAPS ––– */
+        h2 {
+            color: var(--rust);
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 1px dashed var(--rust);
+            padding-bottom: 0.15rem;
+            margin-top: 1.2rem;
+            margin-bottom: 0.6rem;
+            font-weight: 700;
+            font-family: 'Georgia', 'Times New Roman', Times, serif;
+        }
+
+        /* ––– PROJECT GRID – 3-COLUMN, COMPACT ––– */
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 0.8rem;
+            margin-bottom: 0.2rem;
+        }
+
+        .project-card {
+            border: 1px solid rgba(138, 74, 60, 0.2);
+            padding: 0.5rem 0.7rem;
+            background: transparent;
+        }
+
+        .project-card h3 {
+            font-size: 0.75rem;
+            color: var(--rust);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 0.2rem;
+            font-weight: 800;
+            font-family: 'Georgia', 'Times New Roman', Times, serif;
+        }
+
+        .project-card p {
+            font-size: 0.7rem;
+            line-height: 1.3;
+            color: var(--text);
+            opacity: 0.9;
+            font-family: 'Georgia', 'Times New Roman', Times, serif;
+        }
+
+        /* ––– LINK STYLES – NO YELLOW, EVER ––– */
+        a {
+            color: var(--text);
+            text-decoration: underline;
+            text-decoration-color: var(--rust);
+            text-underline-offset: 2px;
+            text-decoration-thickness: 1px;
+            font-weight: normal;
+        }
+
+        a:visited {
+            color: var(--text) !important;
+            text-decoration-color: var(--rust) !important;
+        }
+
+        a:hover {
+            background-color: var(--rust);
+            color: var(--bg) !important;
+            text-decoration: none;
+        }
+
+        /* ––– COMPACT LISTS ––– */
+        ul {
+            list-style: none;
+            padding-left: 0;
+            margin-bottom: 0;
+        }
+
+        li {
+            margin-bottom: 0.25rem;
+            font-size: 0.8rem;
+            line-height: 1.35;
+            font-family: 'Georgia', 'Times New Roman', Times, serif;
+        }
+
+        .meta {
+            font-size: 0.6rem;
+            opacity: 0.6;
+            margin-left: 0.3rem;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            color: var(--text);
+            font-family: 'Georgia', 'Times New Roman', Times, serif;
+        }
+
+        .quiet {
+            opacity: 0.6;
+            font-style: italic;
+            font-size: 0.7rem;
+            margin-top: 0.1rem;
+            margin-bottom: 0.2rem;
+            font-family: 'Georgia', 'Times New Roman', Times, serif;
+        }
+
+        /* ––– FOOTER – MINIMAL ––– */
+        footer {
+            margin-top: 2rem;
+            padding-top: 0.8rem;
+            border-top: 1px solid var(--rust);
+            font-size: 0.65rem;
+            color: var(--text);
+            opacity: 0.8;
+            display: flex;
+            justify-content: space-between;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            font-family: 'Georgia', 'Times New Roman', Times, serif;
+        }
+
+        footer a {
+            color: var(--text);
+            text-decoration: none;
+            border-bottom: 1px dotted var(--rust);
+        }
+
+        footer a:hover {
+            background: transparent;
+            color: var(--rust) !important;
+            border-bottom: 1px solid var(--rust);
+        }
+
+        /* ––– EDITION STAMP – SUBTLE, FIXED ––– */
+        .edition-stamp {
+            position: fixed;
+            bottom: 8px;
+            left: 10px;
+            font-size: 0.55rem;
+            opacity: 0.35;
+            color: var(--text);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-family: 'Georgia', 'Times New Roman', Times, serif;
+        }
+
+        /* ––– MOBILE ––– */
+        @media (max-width: 650px) {
+            body { padding: 0.8rem 1.2rem; }
+            .masthead { font-size: 1.8rem; }
+            body::before { font-size: 70px; right: 10px; }
+            .project-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="masthead">ruin2itive.org</div>
+    <div class="tagline">reliability first · open source · independent</div>
+
+    <!-- ––– PROJECTS ––– -->
+    <h2>⎇ projects / the code</h2>
+    <div class="project-grid">
+        <div class="project-card">
+            <h3>Arduino</h3>
+            <p><a href="https://www.hackster.io/arduino/projects">Hackster.io feed</a><br><span class="meta">daily · hardware</span></p>
+        </div>
+        <div class="project-card">
+            <h3>Raspberry Pi</h3>
+            <p><a href="https://www.instructables.com/Raspberry-Pi-Projects/">Instructables</a><br><span class="meta">diy · maker</span></p>
+        </div>
+        <div class="project-card">
+            <h3>ruin2itive</h3>
+            <p><a href="https://github.com/Ruin2itive">GitHub · src</a><br><span class="meta">this site</span></p>
+        </div>
+    </div>
+
+    <!-- ––– MARKETS / CRYPTO ––– -->
+    <h2>⌬ markets / crypto</h2>
+    <ul>
+        <li><a href="https://decrypt.co/news">Decrypt – top headlines</a> <span class="meta">daily · 6am</span></li>
+        <li><a href="https://www.coindesk.com/">CoinDesk</a> <span class="meta">secondary</span></li>
+        <li class="quiet">protocol updates · on‑chain · manual curation</li>
+    </ul>
+
+    <!-- ––– HACKER NEWS ––– -->
+    <h2>⎔ hacker news</h2>
+    <ul>
+        <li><a href="https://news.ycombinator.com/newest">HN /newest – top 5</a> <span class="meta">6am refresh</span></li>
+        <li><a href="https://news.ycombinator.com/show">Show HN</a> <span class="meta">fresh builds</span></li>
+        <li class="quiet">foss · security · systems</li>
+    </ul>
+
+    <!-- ––– WORLD NEWS ––– -->
+    <h2>🌍 world news</h2>
+    <ul>
+        <li><a href="https://apnews.com/">Associated Press</a> <span class="meta">wire</span></li>
+        <li><a href="https://www.reuters.com/">Reuters</a> <span class="meta">fact‑based</span></li>
+        <li><a href="https://www.bbc.com/news">BBC News</a> <span class="meta">international</span></li>
+        <li class="quiet">ad‑free feeds in progress</li>
+    </ul>
+
+    <!-- ––– BANNED BOOKS ––– -->
+    <h2>📚 free banned books</h2>
+    <ul>
+        <li><a href="https://www.spl.org/programs-and-services/teens/books-unbanned">Seattle PL – Books Unbanned</a> <span class="meta">free e‑cards</span></li>
+        <li><a href="https://openlibrary.org/">Internet Archive – Open Library</a> <span class="meta">classics</span></li>
+        <li><a href="https://standardebooks.org/">Standard Ebooks</a> <span class="meta">public domain</span></li>
+        <li class="quiet">more resources · no drm</li>
+    </ul>
+
+    <!-- ––– PERSONAL FINANCE ––– -->
+    <h2>💰 personal finance</h2>
+    <ul>
+        <li><a href="https://www.mrmoneymustache.com/blog/">Mr. Money Mustache</a> <span class="meta">manual picks</span></li>
+        <li class="quiet">frugalism · early retirement · systems</li>
+    </ul>
+
+    <!-- ––– BLOG ––– -->
+    <h2>✎ blog</h2>
+    <ul>
+        <li><a href="/blog/">entries / updates / thoughts</a> <span class="meta">inaugural soon</span></li>
+        <li class="quiet">building in public</li>
+    </ul>
+
+    <!-- ––– FOOTER ––– -->
+    <footer>
+        <div>⚡ open source · independent</div>
+        <div><a href="/integrity/">integrity</a> · <a href="/about/">about</a></div>
+    </footer>
+
+    <!-- ––– EDITION – SUBTLE ––– -->
+    <div class="edition-stamp">edition 2026-02-14</div>
+</body>
+</html>
