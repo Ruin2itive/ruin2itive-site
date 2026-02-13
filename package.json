@@ -1,8 +1,12 @@
 {
   "name": "ruin2itive-site",
   "private": true,
-  "type": "module",
+  "version": "1.0.0",
+  "type": "commonjs",
   "scripts": {
     "build:home": "node scripts/build_home_feed.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
   }
 }
