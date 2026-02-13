@@ -3,8 +3,7 @@ name: Build Home Feed
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 12 * * *"   # 6:00 AM America/Chicago = 12:00 UTC (standard time)
-    - cron: "0 */2 * * *"  # every 2 hours
+    - cron: "*/15 * * * *"  # every 15 minutes
 
 permissions:
   contents: write
@@ -21,14 +20,13 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Build data/home.json
-        run: |
-          node scripts/build_home_feed.js
+      - name: Build home.json
+        run: node scripts/build_home_feed.js
 
-      - name: Commit and push if changed
+      - name: Commit data updates
         run: |
           git config user.name "ruin2itive-bot"
-          git config user.email "actions@users.noreply.github.com"
+          git config user.email "ruin2itive-bot@users.noreply.github.com"
           git add data/home.json
-          git diff --cached --quiet || git commit -m "build: refresh home feed"
+          git diff --cached --quiet || git commit -m "Update home feed"
           git push
