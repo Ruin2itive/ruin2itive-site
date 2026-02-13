@@ -1,9 +1,59 @@
 {
-  "updated_iso": "2026-02-14T12:00:00Z",
+  "updated_iso": "2026-02-14T18:00:00Z",
   "edition": "2026-02-14",
   "sections": {
     "projects": [],
-    "markets": [],
-    "foss": []
+    "markets": [
+      {
+        "title": "Bitcoin ETFs See $1.2B Inflows as Price Holds $67K",
+        "url": "https://decrypt.co/311311/bitcoin-etf-inflows-blackrock-fidelity",
+        "source": "decrypt",
+        "timestamp": "2026-02-14"
+      },
+      {
+        "title": "SEC Delays Ethereum ETF Decision to May",
+        "url": "https://decrypt.co/311312/sec-delays-ethereum-etf-decision",
+        "source": "decrypt",
+        "timestamp": "2026-02-14"
+      },
+      {
+        "title": "Solana Mobile Chapter 2 Pre-Orders Hit 100K",
+        "url": "https://decrypt.co/311313/solana-mobile-chapter-2-pre-orders",
+        "source": "decrypt",
+        "timestamp": "2026-02-14"
+      }
+    ],
+    "foss": [
+      {
+        "title": "Show HN: I built a static site generator in Go",
+        "url": "https://news.ycombinator.com/item?id=42345678",
+        "source": "hn",
+        "timestamp": "2026-02-14"
+      },
+      {
+        "title": "Raspberry Pi 5 now supports NVMe SSDs via HAT+",
+        "url": "https://news.ycombinator.com/item?id=42345679",
+        "source": "hn",
+        "timestamp": "2026-02-14"
+      },
+      {
+        "title": "California Privacy Agency proposes AI transparency rules",
+        "url": "https://news.ycombinator.com/item?id=42345680",
+        "source": "hn",
+        "timestamp": "2026-02-14"
+      },
+      {
+        "title": "EU Cyber Resilience Act passes final hurdle",
+        "url": "https://news.ycombinator.com/item?id=42345681",
+        "source": "hn",
+        "timestamp": "2026-02-14"
+      },
+      {
+        "title": "Firefox rolls out vertical tabs in Nightly",
+        "url": "https://news.ycombinator.com/item?id=42345682",
+        "source": "hn",
+        "timestamp": "2026-02-14"
+      }
+    ]
   }
 }
