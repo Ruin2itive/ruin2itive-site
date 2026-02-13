@@ -3,396 +3,96 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>ruin2itive.org</title>
+  <title>ruin2itive</title>
+
   <meta name="description" content="reliability first · open source · independent" />
-  <meta name="theme-color" content="#f4f0e8" />
+  <meta name="color-scheme" content="light" />
 
-  <!-- Fonts (safe fallbacks if they fail) -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Playfair+Display:wght@600;700;800;900&display=swap" rel="stylesheet">
-
-  <style>
-    :root{
-      --paper:#f4f0e8;
-      --ink:#111;
-      --muted:#6f6a62;
-      --rule:rgba(17,17,17,.25);
-      --rust:#8a4a3c;
-      --box:#f8f5ee;
-      --boxrule:rgba(17,17,17,.18);
-    }
-
-    *{box-sizing:border-box}
-    html,body{height:100%}
-    body{
-      margin:0;
-      font-family:'Libre Baskerville', serif;
-      background:var(--paper);
-      color:var(--ink);
-      line-height:1.45;
-      position:relative;
-      -webkit-font-smoothing:antialiased;
-      text-rendering:optimizeLegibility;
-    }
-
-    /* Subtle elephant wash (never fights text) */
-    body::after{
-      content:'';
-      position:fixed;
-      left:0;
-      right:0;
-      bottom:-140px;
-      height:900px;
-      background-image:url('assets/elephant-mark-small.webp');
-      background-repeat:no-repeat;
-      background-position:center bottom;
-      background-size:620px auto;
-      opacity:0.08;
-      pointer-events:none;
-      z-index:-1;
-      filter:grayscale(100%);
-    }
-
-    .page{
-      width:min(760px, 92vw);
-      margin:28px auto 64px;
-    }
-
-    .masthead{
-      padding:8px 0 12px;
-    }
-
-    .brand{
-      font-family:'Playfair Display', serif;
-      font-weight:900;
-      letter-spacing:.5px;
-      font-size:64px;
-      line-height:1;
-      margin:0 0 6px;
-    }
-
-    .tagline{
-      margin:0;
-      color:var(--muted);
-      letter-spacing:.22em;
-      text-transform:lowercase;
-      font-size:14px;
-    }
-
-    .rule{
-      border:0;
-      border-top:3px solid var(--ink);
-      margin:18px 0 18px;
-      opacity:.65;
-    }
-
-    /* Manifesto box */
-    .manifesto{
-      border:1px solid var(--boxrule);
-      background:rgba(248,245,238,.92);
-      box-shadow:0 0 0 1px rgba(0,0,0,.04) inset;
-      padding:18px 18px 16px;
-      position:relative;
-      overflow:hidden;
-      margin:0 0 22px;
-    }
-
-    .manifesto::before{
-      content:'';
-      position:absolute;
-      left:0;
-      top:0;
-      bottom:0;
-      width:8px;
-      background:var(--rust);
-      opacity:.9;
-    }
-
-    .manifesto p{
-      margin:0;
-      padding-left:14px;
-      font-size:28px;
-      line-height:1.3;
-      font-style:italic;
-      letter-spacing:.01em;
-    }
-
-    .manifesto strong{
-      font-weight:700;
-      font-style:italic;
-    }
-
-    /* Section header (projects / the code, markets / crypto, etc.) */
-    .section-title{
-      margin:18px 0 10px;
-      color:var(--rust);
-      letter-spacing:.38em;
-      text-transform:lowercase;
-      font-size:15px;
-    }
-
-    .hairline{
-      border:0;
-      border-top:1px solid var(--rule);
-      margin:10px 0 0;
-    }
-
-    /* Item rows */
-    .item{
-      padding:14px 0 14px;
-      border-bottom:1px solid var(--rule);
-    }
-
-    .item:last-child{border-bottom:1px solid var(--rule)}
-
-    .item a{
-      color:inherit;
-      text-decoration:none;
-    }
-
-    .item a:active{opacity:.75}
-
-    .item .title{
-      font-family:'Playfair Display', serif;
-      font-weight:900;
-      font-size:44px;
-      margin:0 0 6px;
-      line-height:1.02;
-      letter-spacing:.2px;
-    }
-
-    .item .meta{
-      margin:0;
-      color:var(--muted);
-      letter-spacing:.22em;
-      text-transform:lowercase;
-      font-size:14px;
-    }
-
-    /* Feeds (compact newspaper feel) */
-    .feed{
-      padding:10px 0 14px;
-      border-bottom:1px solid var(--rule);
-    }
-
-    .feed h3{
-      margin:0 0 10px;
-      color:var(--rust);
-      letter-spacing:.38em;
-      text-transform:lowercase;
-      font-size:15px;
-      font-weight:400;
-    }
-
-    .stories{
-      list-style:none;
-      padding:0;
-      margin:0;
-    }
-
-    .stories li{
-      padding:8px 0;
-      border-top:1px solid rgba(17,17,17,.14);
-    }
-
-    .stories li:first-child{border-top:0}
-
-    .stories a{
-      color:var(--ink);
-      text-decoration:none;
-      display:block;
-    }
-
-    .stories a:active{opacity:.75}
-
-    .story-title{
-      margin:0;
-      font-size:18px;
-      line-height:1.25;
-      letter-spacing:.01em;
-    }
-
-    .story-meta{
-      margin:4px 0 0;
-      color:var(--muted);
-      font-size:12px;
-      letter-spacing:.20em;
-      text-transform:lowercase;
-    }
-
-    .status{
-      margin:6px 0 0;
-      font-style:italic;
-      color:rgba(17,17,17,.45);
-      font-size:34px;
-      font-family:'Libre Baskerville', serif;
-    }
-
-    .status small{
-      display:block;
-      margin-top:4px;
-      font-style:normal;
-      color:rgba(17,17,17,.35);
-      font-size:12px;
-      letter-spacing:.18em;
-      text-transform:lowercase;
-    }
-
-    /* Mobile tuning to match your “perfect” screenshot */
-    @media (max-width:520px){
-      .page{width:min(720px, 90vw); margin:20px auto 56px;}
-      .brand{font-size:58px;}
-      .manifesto p{font-size:30px;}
-      .item .title{font-size:46px;}
-      .story-title{font-size:17px;}
-      body::after{
-        bottom:-160px;
-        height:860px;
-        background-size:640px auto;
-        opacity:0.08;
-      }
-    }
-
-    /* If elephant ever becomes too visible, lower opacity only */
-    @media (prefers-reduced-transparency: reduce){
-      body::after{opacity:0.05;}
-    }
-  </style>
+  <link rel="stylesheet" href="./styles.css?v=1" />
 </head>
 
 <body>
   <main class="page">
-    <header class="masthead">
+    <header class="mast">
       <h1 class="brand">ruin2itive</h1>
-      <p class="tagline">reliability first · open source · independent</p>
-      <hr class="rule">
+      <div class="tagline">reliability first · open source · independent</div>
+      <hr class="rule" />
     </header>
 
-    <section class="manifesto" aria-label="about">
-      <p>
-        pulled from various sites. these sources are selected to ensure consistent and stable information.
-        <br><br>
-        these feeds remain hand selected, ad free, and purposeful.
-        <strong>clear and concise info. stability is law.</strong>
-      </p>
-    </section>
-
-    <section aria-label="projects">
-      <div class="section-title">projects / the code</div>
-      <hr class="hairline">
-
-      <div class="item">
-        <a href="https://github.com/ruin2itive/ruin2itive-site" target="_blank" rel="noopener">
-          <div class="title">GitHub</div>
-          <p class="meta">ruin2itive · src</p>
-        </a>
-      </div>
-
-      <div class="item">
-        <a href="https://www.hackster.io/" target="_blank" rel="noopener">
-          <div class="title">arduino</div>
-          <p class="meta">hackster · hardware</p>
-        </a>
-      </div>
-
-      <div class="item">
-        <a href="https://www.instructables.com/" target="_blank" rel="noopener">
-          <div class="title">raspberry pi</div>
-          <p class="meta">instructables · diy</p>
-        </a>
+    <!-- Minimal “pulled from various sites” box -->
+    <section class="manifesto" aria-label="Site manifesto">
+      <div class="manifesto-bar" aria-hidden="true"></div>
+      <div class="manifesto-inner">
+        <p>
+          <em>pulled from various sites.</em> these sources are selected to ensure consistent and stable information.
+        </p>
+        <p>
+          these feeds remain hand selected, ad free, and purposeful.
+          <strong>clear and concise info. stability is law.</strong>
+        </p>
       </div>
     </section>
 
-    <section class="feed" aria-label="markets">
-      <h3>markets / crypto</h3>
-      <div id="cryptoStatus" class="status">loading…<small>decrypt · fetching</small></div>
-      <ul id="cryptoList" class="stories" hidden></ul>
-    </section>
+    <!-- Content -->
+    <section class="sheet">
+      <div class="watermark" aria-hidden="true"></div>
 
-    <section class="feed" aria-label="hackernews">
-      <h3>hacker news</h3>
-      <div id="hnStatus" class="status">loading…<small>hn · fetching</small></div>
-      <ul id="hnList" class="stories" hidden></ul>
-    </section>
+      <div class="section-head">
+        <div class="section-title">projects / the code</div>
+        <div class="section-line"></div>
+      </div>
 
-    <section class="feed" aria-label="world">
-      <h3>world news</h3>
-      <div id="worldStatus" class="status">loading…<small>world · fetching</small></div>
-      <ul id="worldList" class="stories" hidden></ul>
-    </section>
+      <a class="row" href="https://github.com/ruin2itive" target="_blank" rel="noopener">
+        <div class="row-main">
+          <div class="row-title">GitHub</div>
+          <div class="row-sub">ruin2itive · src</div>
+        </div>
+      </a>
 
-    <footer style="margin-top:18px;color:rgba(17,17,17,.45);font-size:12px;letter-spacing:.16em;text-transform:lowercase">
-      <span id="updated"></span>
-    </footer>
+      <a class="row" href="https://hackster.io/" target="_blank" rel="noopener">
+        <div class="row-main">
+          <div class="row-title">arduino</div>
+          <div class="row-sub">hackster · hardware</div>
+        </div>
+      </a>
+
+      <a class="row" href="https://www.instructables.com/howto/raspberry+pi/" target="_blank" rel="noopener">
+        <div class="row-main">
+          <div class="row-title">raspberry pi</div>
+          <div class="row-sub">instructables · diy</div>
+        </div>
+      </a>
+
+      <div class="section-head">
+        <div class="section-title">markets / crypto</div>
+        <div class="section-line"></div>
+      </div>
+      <div class="feed" data-feed="crypto">
+        <div class="feed-status">loading...</div>
+      </div>
+
+      <div class="section-head">
+        <div class="section-title">hacker news</div>
+        <div class="section-line"></div>
+      </div>
+      <div class="feed" data-feed="hacker">
+        <div class="feed-status">loading...</div>
+      </div>
+
+      <div class="section-head">
+        <div class="section-title">world news</div>
+        <div class="section-line"></div>
+      </div>
+      <div class="feed" data-feed="world">
+        <div class="feed-status">loading...</div>
+      </div>
+
+      <footer class="footer">
+        <div id="updated" class="updated">updated · unknown</div>
+      </footer>
+    </section>
   </main>
 
-  <script>
-    function esc(s){ return String(s || ""); }
-
-    function renderList(listEl, statusEl, items, label){
-      if(!Array.isArray(items) || items.length === 0){
-        statusEl.innerHTML = "feed unavailable" + "<small>" + esc(label) + " · no articles found</small>";
-        listEl.hidden = true;
-        return;
-      }
-
-      statusEl.remove();
-      listEl.hidden = false;
-
-      listEl.innerHTML = items.slice(0,5).map(it => {
-        const title = esc(it.title);
-        const url = esc(it.url);
-        const source = esc(it.source || "");
-        const when = esc(it.when || "");
-        const meta = [source, when].filter(Boolean).join(" · ");
-        return `
-          <li>
-            <a href="${url}" target="_blank" rel="noopener">
-              <p class="story-title">${title}</p>
-              ${meta ? `<p class="story-meta">${meta}</p>` : ``}
-            </a>
-          </li>
-        `;
-      }).join("");
-    }
-
-    async function main(){
-      const cryptoStatus = document.getElementById("cryptoStatus");
-      const hnStatus = document.getElementById("hnStatus");
-      const worldStatus = document.getElementById("worldStatus");
-
-      const cryptoList = document.getElementById("cryptoList");
-      const hnList = document.getElementById("hnList");
-      const worldList = document.getElementById("worldList");
-
-      try{
-        // Cache-bust so users always see latest build
-        const res = await fetch("data/home.json?ts=" + Date.now(), { cache: "no-store" });
-        if(!res.ok) throw new Error("home.json missing");
-        const data = await res.json();
-
-        renderList(cryptoList, cryptoStatus, data.sections?.crypto, "decrypt");
-        renderList(hnList, hnStatus, data.sections?.hn, "hn");
-        renderList(worldList, worldStatus, data.sections?.world, "world");
-
-        const upd = document.getElementById("updated");
-        if(upd){
-          const stamp = data.updated_local || data.updated_iso || "";
-          upd.textContent = stamp ? ("updated · " + stamp) : "";
-        }
-      }catch(e){
-        // Clean “worst case” behavior (never stuck loading)
-        cryptoStatus.innerHTML = "feed unavailable<small>decrypt · build not ready</small>";
-        hnStatus.innerHTML = "feed unavailable<small>hn · build not ready</small>";
-        worldStatus.innerHTML = "feed unavailable<small>world · build not ready</small>";
-        cryptoList.hidden = true;
-        hnList.hidden = true;
-        worldList.hidden = true;
-      }
-    }
-
-    main();
-  </script>
+  <script src="./app.js?v=1" defer></script>
 </body>
 </html>
