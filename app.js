@@ -1,68 +1,68 @@
-function el(id){ return document.getElementById(id); }
+async function loadHome() {
+  const updatedEl = document.getElementById("updated");
+  const feeds = document.querySelectorAll(".feed");
 
-function setStatus(kind, text){
-  el(kind + "Status").textContent = text;
-}
+  function setStatus(sectionKey, text) {
+    const el = document.querySelector(`.feed[data-feed="${sectionKey}"] .feed-status`);
+    if (el) el.textContent = text;
+  }
 
-function clearList(kind){
-  el(kind + "List").innerHTML = "";
-}
+  function render(sectionKey, items) {
+    const list = document.querySelector(`.feed[data-feed="${sectionKey}"] .feed-list`);
+    const status = document.querySelector(`.feed[data-feed="${sectionKey}"] .feed-status`);
+    if (!list || !status) return;
 
-function itemHTML(item){
-  const safeTitle = item.title || "untitled";
-  const safeUrl = item.url || "#";
-  const source = item.source || "";
-  const ts = item.time || "";
-  return `
-    <li class="feed-item">
-      <a class="feed-link" href="${safeUrl}" target="_blank" rel="noreferrer">
-        <p class="feed-title">${safeTitle}</p>
-        <div class="feed-meta">${source}${source && ts ? " · " : ""}${ts}</div>
-      </a>
-    </li>
-  `;
-}
+    list.innerHTML = "";
 
-async function loadHome(){
-  // Cache-bust so you see updates immediately after actions run
-  const url = "./data/home.json?cb=" + Date.now();
+    if (!items || items.length === 0) {
+      status.textContent = "feed unavailable";
+      return;
+    }
 
-  try{
-    setStatus("crypto", "loading…");
-    setStatus("hacker", "loading…");
-    setStatus("world", "loading…");
+    status.textContent = "";
 
-    const res = await fetch(url, { cache: "no-store" });
-    if(!res.ok) throw new Error("home.json fetch failed: " + res.status);
+    for (const it of items) {
+      const li = document.createElement("li");
+      li.className = "feed-item";
 
+      const a = document.createElement("a");
+      a.className = "feed-link";
+      a.href = it.url;
+      a.target = "_blank";
+      a.rel = "noopener";
+
+      const h = document.createElement("div");
+      h.className = "feed-title";
+      h.textContent = it.title;
+
+      const m = document.createElement("div");
+      m.className = "feed-meta";
+      m.textContent = `${it.source} · ${it.time}`;
+
+      a.appendChild(h);
+      a.appendChild(m);
+      li.appendChild(a);
+      list.appendChild(li);
+    }
+  }
+
+  try {
+    // Avoid stale cache on GH Pages/CDN
+    const res = await fetch(`./data/home.json?v=${Date.now()}`, { cache: "no-store" });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
 
-    const updated = data.updated_local || data.updated_iso || "unknown";
-    el("updatedLine").textContent = "updated · " + updated;
+    const updated = data?.updated_local || data?.updated_iso || "unknown";
+    updatedEl.textContent = `updated · ${updated}`;
 
-    const sections = data.sections || {};
-
-    for(const kind of ["crypto","hacker","world"]){
-      const items = (sections[kind] || []);
-      clearList(kind);
-
-      if(!items.length){
-        setStatus(kind, "feed unavailable");
-        continue;
-      }
-
-      setStatus(kind, ""); // hide "loading…"
-      el(kind + "Status").style.display = "none";
-      el(kind + "List").innerHTML = items.map(itemHTML).join("");
-    }
-  }catch(err){
-    // Show a styled failure, but DO NOT break page rendering.
-    for(const kind of ["crypto","hacker","world"]){
-      setStatus(kind, "feed unavailable");
-      clearList(kind);
-    }
-    el("updatedLine").textContent = "updated · feed error";
-    console.error(err);
+    render("crypto", data?.sections?.crypto || []);
+    render("hacker", data?.sections?.hacker || []);
+    render("world", data?.sections?.world || []);
+  } catch (e) {
+    updatedEl.textContent = "updated · feed error";
+    setStatus("crypto", "feed unavailable");
+    setStatus("hacker", "feed unavailable");
+    setStatus("world", "feed unavailable");
   }
 }
 
