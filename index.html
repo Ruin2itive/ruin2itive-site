@@ -3,226 +3,192 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-
 <title>ruin2itive</title>
-<meta name="description" content="Reliability first. Open source. Independent." />
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
 <style>
-
-/* -----------------------------
-   BASE
------------------------------ */
-
 :root {
-  --paper: #f2efe9;
-  --ink: #111;
-  --muted: #6b6b6b;
-  --accent: #8e1b1b;
-  --rule: #d7d2c9;
+  --paper: #f4f1ea;
+  --ink: #111111;
+  --accent: #8b1e1e;
 }
 
 * {
   box-sizing: border-box;
 }
 
-html, body {
+body {
   margin: 0;
-  padding: 0;
+  font-family: Georgia, "Times New Roman", serif;
   background: var(--paper);
   color: var(--ink);
-  font-family: Georgia, serif;
   line-height: 1.6;
+  background-image: url("assets/elephant-third-eye.webp");
+  background-size: 700px;
+  background-repeat: no-repeat;
+  background-position: center 180px;
+  background-attachment: scroll;
 }
 
-/* -----------------------------
-   ELEPHANT BACKGROUND
------------------------------ */
-
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  background: url("assets/elephant-third-eye.webp") center 55% no-repeat;
-  background-size: 900px auto;
-  opacity: 0.08;
-  pointer-events: none;
-  z-index: 0;
-}
-
-/* -----------------------------
-   LAYOUT
------------------------------ */
-
-.container {
+.wrapper {
   max-width: 720px;
   margin: 0 auto;
-  padding: 24px 20px 60px;
-  position: relative;
-  z-index: 1;
+  padding: 40px 20px 80px 20px;
 }
 
-/* -----------------------------
-   HEADER
------------------------------ */
+.site-header {
+  margin-bottom: 30px;
+}
 
-h1 {
-  font-size: 48px;
-  font-weight: 700;
+.site-title {
+  font-size: 3rem;
   margin: 0;
-  letter-spacing: -1px;
-}
-
-.tagline {
-  font-size: 14px;
-  letter-spacing: 2px;
-  color: var(--muted);
-  margin-top: 6px;
-  text-transform: lowercase;
-}
-
-.rule {
-  height: 2px;
-  background: var(--ink);
-  margin: 16px 0 26px;
-}
-
-/* -----------------------------
-   STATEMENT BOX
------------------------------ */
-
-.statement {
-  border-left: 6px solid var(--accent);
-  padding: 18px 18px;
-  background: rgba(255,255,255,0.7);
-  font-style: italic;
-  margin-bottom: 40px;
-}
-
-.statement strong {
-  font-style: normal;
   font-weight: 700;
 }
 
-/* -----------------------------
-   SECTION HEADERS
------------------------------ */
+.site-tagline {
+  font-size: 0.85rem;
+  letter-spacing: 2px;
+  opacity: 0.7;
+  margin: 6px 0 14px 0;
+}
 
-.section-label {
-  font-size: 13px;
-  letter-spacing: 4px;
-  color: var(--accent);
+.divider {
+  border: none;
+  border-top: 1px solid var(--ink);
+  margin: 0;
+}
+
+.section-title {
+  margin-top: 40px;
+  margin-bottom: 12px;
+  font-size: 0.9rem;
+  letter-spacing: 3px;
   text-transform: lowercase;
-  margin: 36px 0 6px;
-}
-
-.section-rule {
-  height: 1px;
-  background: var(--rule);
-  margin-bottom: 14px;
-}
-
-/* -----------------------------
-   LINKS
------------------------------ */
-
-a {
-  text-decoration: underline;
-  color: var(--ink);
-}
-
-a:hover {
   color: var(--accent);
 }
 
-/* -----------------------------
-   FEED ITEMS
------------------------------ */
-
-.item {
+.project-item {
   margin-bottom: 20px;
 }
 
-.meta {
-  font-size: 12px;
-  color: var(--muted);
-  margin-top: 4px;
+.project-title {
+  font-size: 1.1rem;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.project-title a {
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.project-title a:hover {
+  text-decoration: underline;
+}
+
+.project-meta {
+  font-size: 0.8rem;
+  opacity: 0.6;
+  margin-top: 2px;
+}
+
+.pi-logo {
+  width: 20px;
+  height: 20px;
+  opacity: 0.85;
 }
 
 .loading {
-  color: var(--muted);
   font-style: italic;
+  opacity: 0.6;
+  margin-top: 10px;
+}
+
+footer {
+  margin-top: 60px;
+  font-size: 0.75rem;
+  opacity: 0.5;
 }
 
 @media (max-width: 600px) {
-  h1 {
-    font-size: 36px;
+  .site-title {
+    font-size: 2.3rem;
   }
 
-  body::before {
-    background-size: 650px auto;
+  body {
+    background-size: 500px;
   }
 }
-
 </style>
 </head>
 
 <body>
+<div class="wrapper">
 
-<div class="container">
+<header class="site-header">
+  <h1 class="site-title">ruin2itive</h1>
+  <p class="site-tagline">
+    reliability first · open source · independent
+  </p>
+  <hr class="divider" />
+</header>
 
-<h1>ruin2itive</h1>
-<div class="tagline">reliability first · open source · independent</div>
-<div class="rule"></div>
+<section>
+  <div class="section-title">projects / the code</div>
 
-<div class="statement">
-pulled from various sites. these sources are selected to ensure consistent and stable information. these feeds remain hand selected, ad free, and purposeful. <strong>clear and concise info. stability is law.</strong>
+  <div class="project-item">
+    <h3 class="project-title">
+      <a href="https://github.com/Ruin2itive" target="_blank" rel="noopener">
+        ruin2itive
+      </a>
+    </h3>
+    <div class="project-meta">github · src</div>
+  </div>
+
+  <div class="project-item">
+    <h3 class="project-title">
+      <a href="#" target="_blank">
+        arduino
+      </a>
+    </h3>
+    <div class="project-meta">hackster · hardware</div>
+  </div>
+
+  <div class="project-item">
+    <h3 class="project-title">
+      <a href="https://www.raspberrypi.com" target="_blank" rel="noopener">
+        raspberry_pi
+      </a>
+      <img 
+        src="assets/raspberry-pi-logo.svg" 
+        alt="Raspberry Pi Logo" 
+        class="pi-logo"
+        loading="lazy"
+      />
+    </h3>
+    <div class="project-meta">instructables · diy</div>
+  </div>
+</section>
+
+<section>
+  <div class="section-title">markets / crypto</div>
+  <div class="loading">loading...</div>
+</section>
+
+<section>
+  <div class="section-title">hacker news</div>
+  <div class="loading">loading...</div>
+</section>
+
+<footer>
+  © 2026 ruin2itive.org
+</footer>
+
 </div>
-
-<div class="section-label">projects / the code</div>
-<div class="section-rule"></div>
-
-<div class="item">
-<a href="#">ruin2itive</a>
-<div class="meta">github · src</div>
-</div>
-
-<div class="item">
-<a href="#">arduino</a>
-<div class="meta">hackster · hardware</div>
-</div>
-
-<div class="item">
-<a href="#">raspberry pi</a>
-<div class="meta">instructables · diy</div>
-</div>
-
-<div class="section-label">markets / crypto</div>
-<div class="section-rule"></div>
-<div class="loading">loading...</div>
-
-<div class="section-label">hacker news</div>
-<div class="section-rule"></div>
-<div class="loading">loading...</div>
-
-<div class="section-label">world news</div>
-<div class="section-rule"></div>
-
-<div class="item">
-<a href="#">associated press</a>
-<div class="meta">wire</div>
-</div>
-
-<div class="item">
-<a href="#">reuters</a>
-<div class="meta">fact based</div>
-</div>
-
-<div class="item">
-<a href="#">bbc</a>
-<div class="meta">world coverage</div>
-</div>
-
-</div>
-
 </body>
 </html>
