@@ -7,267 +7,192 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
 
 <style>
 :root{
   --paper:#f4f1ea;
   --ink:#111;
-  --muted: rgba(0,0,0,0.62);
+  --muted: rgba(0,0,0,0.60);
   --hair: rgba(0,0,0,0.10);
   --rule: rgba(0,0,0,0.55);
   --accent:#8b1e1e;
-  --accent2: rgba(139,30,30,0.18);
 }
 
 *{ box-sizing:border-box; }
-html, body{ height:100%; }
+html,body{ height:100%; }
 
 body{
   margin:0;
-  background: var(--paper);
-  color: var(--ink);
-  font-family: "Source Serif 4", Georgia, serif;
-  line-height: 1.44; /* print-ish */
+  background:var(--paper);
+  color:var(--ink);
+  font-family:"Source Serif 4", Georgia, serif;
+  line-height:1.45;
 }
 
-/* Elephant watermark (present, but never competing at top) */
+/* Elephant watermark — slightly lower, less eye interference */
 body::before{
   content:"";
-  position: fixed;
-  inset: 0;
-  background: url("assets/elephant-third-eye.webp") no-repeat center 66%;
-  background-size: min(860px, 98vw);
-  opacity: 0.16;
+  position:fixed;
+  inset:0;
+  background:url("assets/elephant-third-eye.webp") no-repeat center 72%;
+  background-size:min(880px, 100vw);
+  opacity:0.15;
   pointer-events:none;
-  z-index: 0;
-  filter: contrast(1.10) saturate(0.85);
+  z-index:0;
+  filter:contrast(1.08) saturate(0.85);
 }
 
-/* Paper haze (keeps type readable without washing out the elephant) */
+/* Light paper wash */
 body::after{
   content:"";
-  position: fixed;
-  inset: 0;
+  position:fixed;
+  inset:0;
   pointer-events:none;
-  z-index: 1;
+  z-index:1;
   background:
     radial-gradient(circle at 50% 18%,
-      rgba(244,241,234,0.94) 0%,
-      rgba(244,241,234,0.74) 44%,
-      rgba(244,241,234,0.56) 72%,
-      rgba(244,241,234,0.46) 100%);
+      rgba(244,241,234,0.95) 0%,
+      rgba(244,241,234,0.75) 44%,
+      rgba(244,241,234,0.58) 70%,
+      rgba(244,241,234,0.48) 100%);
 }
 
-/* Paper fiber + ink grit (art-directed; subtle, not “dusty screen”) */
-.texture{
-  position: fixed;
-  inset: 0;
-  z-index: 2;
-  pointer-events:none;
-  opacity: 0.13;              /* subtle by default */
-  mix-blend-mode: multiply;   /* print-like */
-  filter: url(#paperNoise);
-}
-
-/* Layout */
 .wrapper{
-  position: relative;
-  z-index: 3;
-  max-width: 760px;
-  margin: 0 auto;
-  padding: 34px 20px 92px 20px;
+  position:relative;
+  z-index:2;
+  max-width:720px;
+  margin:0 auto;
+  padding:36px 20px 88px 20px;
 }
 
-/* Masthead */
-.masthead{
-  padding-bottom: 12px;
-}
-
+/* Masthead — refined */
 .site-title{
   margin:0;
-  font-family: "IM Fell English", Georgia, serif;
-  font-size: 3.05rem;
-  font-weight: 400;
-  letter-spacing: -0.6px;
-}
-
-.site-title .dot{
-  display:inline-block;
-  width: 6px;
-  height: 6px;
-  border-radius: 50%;
-  background: var(--accent);
-  margin: 0 10px 10px 10px;
-  opacity: 0.75;
+  font-family:"IM Fell English", serif;
+  font-size:3rem;
+  letter-spacing:-0.5px;
 }
 
 .site-tagline{
-  margin: 8px 0 14px 0;
-  font-size: 0.88rem;
-  letter-spacing: 0.9px;
-  color: var(--muted);
+  margin:8px 0 16px 0;
+  font-size:0.85rem;
+  letter-spacing:0.8px;
+  color:var(--muted);
 }
 
-/* Rule system: one strong rule + one hairline (NYT discipline) */
-.rule-strong{
-  border: none;
-  border-top: 2px solid var(--rule);
-  margin: 0;
-}
-.rule-hair{
-  border: none;
-  border-top: 1px solid rgba(0,0,0,0.18);
-  margin: 6px 0 0 0;
+/* Single strong rule only */
+.rule{
+  border:none;
+  border-top:2px solid var(--rule);
+  margin:0;
 }
 
 /* Sections */
 .section{
-  margin-top: 26px;
-  padding-top: 16px;
-  border-top: 1px solid var(--hair);
+  margin-top:32px;
+  padding-top:14px;
+  border-top:1px solid var(--hair);
 }
 
-/* Section headings: tighter, editorial */
 .section-title{
-  margin: 0 0 14px 0;
-  font-size: 0.86rem;
-  letter-spacing: 1.05px;
-  text-transform: lowercase;
-  color: var(--accent);
-  display:flex;
-  align-items: baseline;
-  gap: 10px;
-}
-
-.section-title::after{
-  content:"";
-  height: 1px;
-  flex: 1;
-  background: var(--accent2);
-  transform: translateY(-3px);
+  margin:0 0 16px 0;
+  font-size:0.82rem;
+  letter-spacing:1px;
+  text-transform:lowercase;
+  color:var(--accent);
 }
 
 /* Items */
 .item{
-  margin: 0 0 18px 0;
+  margin:0 0 22px 0;
 }
 
 .item-title{
-  margin: 0;
-  font-size: 1.18rem;
-  font-weight: 700;
-  letter-spacing: -0.2px;
+  margin:0;
+  font-size:1.22rem;
+  font-weight:700;
 }
 
 .item-title a{
-  color: var(--ink);
-  text-decoration: none;
-  border-bottom: 1px solid rgba(0,0,0,0.00);
-  transition: border-color .15s ease, color .15s ease;
+  color:var(--ink);
+  text-decoration:none;
 }
+
 .item-title a:hover{
-  color: rgba(0,0,0,0.92);
-  border-bottom-color: rgba(0,0,0,0.25);
+  text-decoration:underline;
 }
 
 .item-meta{
-  margin-top: 2px;
-  font-size: 0.80rem;
-  color: var(--muted);
+  margin-top:4px;
+  font-size:0.78rem;
+  color:var(--muted);
 }
 
-/* Loading placeholder: more “edition” vibe */
 .loading{
-  margin-top: 8px;
-  font-style: italic;
-  color: var(--muted);
+  margin-top:6px;
+  font-style:italic;
+  color:var(--muted);
 }
 
-/* Footer */
 footer{
-  margin-top: 64px;
-  font-size: 0.78rem;
-  color: rgba(0,0,0,0.46);
+  margin-top:70px;
+  font-size:0.75rem;
+  color:rgba(0,0,0,0.45);
 }
 
-/* Mobile tuning */
-@media (max-width: 600px){
-  .wrapper{ padding-top: 28px; }
-  .site-title{ font-size: 2.55rem; }
-  body::before{
-    background-position: center 68%;
-    opacity: 0.165;
-  }
-  .texture{ opacity: 0.14; }
+@media (max-width:600px){
+  .site-title{ font-size:2.45rem; }
 }
 </style>
 </head>
 
 <body>
-  <!-- SVG noise: paper fibers (lower frequency) + ink speckle (higher frequency) -->
-  <svg width="0" height="0" style="position:absolute">
-    <filter id="paperNoise">
-      <!-- paper fiber -->
-      <feTurbulence type="fractalNoise" baseFrequency="0.35" numOctaves="2" stitchTiles="stitch" result="fibers"/>
-      <!-- fine speckle -->
-      <feTurbulence type="fractalNoise" baseFrequency="0.95" numOctaves="1" stitchTiles="stitch" result="speckle"/>
-      <feBlend in="fibers" in2="speckle" mode="multiply" result="mix"/>
-      <feColorMatrix in="mix" type="matrix"
-        values="
-          0.45 0    0    0 0
-          0    0.45 0    0 0
-          0    0    0.45 0 0
-          0    0    0    0.20 0" />
-    </filter>
-  </svg>
+<div class="wrapper">
 
-  <div class="texture" aria-hidden="true"></div>
+<header>
+  <h1 class="site-title">ruin2itive</h1>
+  <div class="site-tagline">reliability first · open source · independent</div>
+  <hr class="rule">
+</header>
 
-  <div class="wrapper">
-    <header class="masthead">
-      <h1 class="site-title">ruin<span class="dot"></span>2itive</h1>
-      <div class="site-tagline">reliability first · open source · independent</div>
-      <hr class="rule-strong">
-      <hr class="rule-hair">
-    </header>
+<section class="section">
+  <div class="section-title">projects / the code</div>
 
-    <section class="section">
-      <div class="section-title">projects / the code</div>
-
-      <div class="item">
-        <h3 class="item-title">
-          <a href="https://github.com/Ruin2itive" target="_blank" rel="noopener">ruin2itive</a>
-        </h3>
-        <div class="item-meta">github · src</div>
-      </div>
-
-      <div class="item">
-        <h3 class="item-title">
-          <a href="https://www.arduino.cc" target="_blank" rel="noopener">arduino</a>
-        </h3>
-        <div class="item-meta">hackster · hardware</div>
-      </div>
-
-      <div class="item">
-        <h3 class="item-title">
-          <a href="https://www.raspberrypi.com" target="_blank" rel="noopener">raspberry_pi</a>
-        </h3>
-        <div class="item-meta">instructables · diy</div>
-      </div>
-    </section>
-
-    <section class="section">
-      <div class="section-title">markets / crypto</div>
-      <div class="loading">loading feed…</div>
-    </section>
-
-    <section class="section">
-      <div class="section-title">hacker news</div>
-      <div class="loading">loading feed…</div>
-    </section>
-
-    <footer>© 2026 ruin2itive.org</footer>
+  <div class="item">
+    <h3 class="item-title">
+      <a href="https://github.com/Ruin2itive" target="_blank">ruin2itive</a>
+    </h3>
+    <div class="item-meta">github · src</div>
   </div>
+
+  <div class="item">
+    <h3 class="item-title">
+      <a href="https://www.arduino.cc" target="_blank">arduino</a>
+    </h3>
+    <div class="item-meta">hackster · hardware</div>
+  </div>
+
+  <div class="item">
+    <h3 class="item-title">
+      <a href="https://www.raspberrypi.com" target="_blank">raspberry_pi</a>
+    </h3>
+    <div class="item-meta">instructables · diy</div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-title">markets / crypto</div>
+  <div class="loading">loading feed…</div>
+</section>
+
+<section class="section">
+  <div class="section-title">hacker news</div>
+  <div class="loading">loading feed…</div>
+</section>
+
+<footer>© 2026 ruin2itive.org</footer>
+
+</div>
 </body>
 </html>
