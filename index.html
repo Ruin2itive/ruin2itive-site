@@ -1,28 +1,28 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>ruin2itive</title>
 
 <style>
 :root{
-  --ink:#0a0a0a;
-  --rust:#7b2e27;
-  --muted:#6a6a6a;
+  --ink:#111;
+  --rust:#6b2a24;
+  --muted:#777;
 }
 
 *{margin:0;padding:0;box-sizing:border-box;}
 
 body{
   font-family: Georgia, "Times New Roman", serif;
-  color:var(--ink);
   background:#ffffff;
-  line-height:1.15;
-  padding:14px 12px 40px;
+  color:var(--ink);
+  line-height:1.1;
+  padding:18px 14px 60px;
 }
 
-/* FULL DOMINANT ELEPHANT */
+/* GIANT WATERMARK ELEPHANT */
 
 body::before{
   content:"";
@@ -30,16 +30,17 @@ body::before{
   inset:0;
   background:
     url("assets/elephant-third-eye.webp")
-    center 40px / min(1200px,160vw) no-repeat;
-  opacity:.38;     /* stronger */
-  z-index:-1;
+    center 200px / 1400px no-repeat;
+  opacity:.08;          /* key change */
+  filter: grayscale(100%) blur(.5px);
   pointer-events:none;
+  z-index:-1;
 }
 
-/* CONTENT COLUMN */
+/* CONTENT WIDTH */
 
 .wrap{
-  max-width:640px;
+  max-width:620px;
   margin:auto;
 }
 
@@ -47,13 +48,13 @@ body::before{
 
 header{
   border-bottom:2px solid #111;
-  padding-bottom:4px;
+  padding-bottom:6px;
+  margin-bottom:10px;
 }
 
 .wordmark{
   font-style:italic;
-  font-size:36px;
-  line-height:1;
+  font-size:34px;
 }
 
 .tagline{
@@ -66,7 +67,7 @@ header{
 /* MANIFESTO */
 
 .manifesto{
-  margin-top:8px;
+  margin-bottom:12px;
   padding-left:10px;
   border-left:3px solid var(--rust);
 }
@@ -74,11 +75,11 @@ header{
 .manifesto p{
   font-style:italic;
   font-size:13px;
-  margin-bottom:3px;
+  margin-bottom:4px;
 }
 
 .manifesto .law{
-  font-weight:800;
+  font-weight:700;
 }
 
 /* SECTIONS */
@@ -91,12 +92,10 @@ h2{
   font-size:10px;
   letter-spacing:3px;
   color:var(--rust);
-  border-bottom:1px solid rgba(0,0,0,.25);
+  border-bottom:1px solid rgba(0,0,0,.2);
   padding-bottom:3px;
   margin-bottom:4px;
 }
-
-/* LISTS */
 
 ul{
   list-style:none;
@@ -121,21 +120,20 @@ a:hover{
   display:block;
   font-size:9px;
   color:var(--muted);
-  margin-top:1px;
 }
 
 /* MOBILE TIGHTENING */
 
-@media (max-width:520px){
+@media(max-width:520px){
   body{
-    padding:12px 10px 30px;
+    padding:16px 12px 40px;
   }
   .wordmark{
-    font-size:32px;
+    font-size:30px;
   }
   body::before{
-    background-position:center 80px;
-    background-size:min(1000px,180vw);
+    background-size:1100px;
+    background-position:center 250px;
   }
 }
 </style>
@@ -158,9 +156,9 @@ a:hover{
 <section>
 <h2>projects / the code</h2>
 <ul>
-<li><a href="https://github.com/Ruin2itive" target="_blank">ruin2itive</a><span class="meta">github · src</span></li>
-<li><a href="https://www.hackster.io/arduino/projects" target="_blank">arduino</a><span class="meta">hardware</span></li>
-<li><a href="https://www.instructables.com/Raspberry-Pi-Projects/" target="_blank">raspberry pi</a><span class="meta">diy</span></li>
+<li><a href="#">ruin2itive</a><span class="meta">github · src</span></li>
+<li><a href="#">arduino</a><span class="meta">hardware</span></li>
+<li><a href="#">raspberry pi</a><span class="meta">diy</span></li>
 </ul>
 </section>
 
@@ -185,17 +183,17 @@ a:hover{
 <section>
 <h2>world news</h2>
 <ul>
-<li><a href="https://apnews.com/" target="_blank">associated press</a></li>
-<li><a href="https://www.reuters.com/" target="_blank">reuters</a></li>
-<li><a href="https://www.bbc.com/news" target="_blank">bbc</a></li>
+<li><a href="#">associated press</a></li>
+<li><a href="#">reuters</a></li>
+<li><a href="#">bbc</a></li>
 </ul>
 </section>
 
 <section>
 <h2>free banned books</h2>
 <ul>
-<li><a href="https://openlibrary.org/" target="_blank">open library</a></li>
-<li><a href="https://standardebooks.org/" target="_blank">standard ebooks</a></li>
+<li><a href="#">open library</a></li>
+<li><a href="#">standard ebooks</a></li>
 </ul>
 </section>
 
