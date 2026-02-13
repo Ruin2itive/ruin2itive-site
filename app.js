@@ -1,78 +1,68 @@
-async function loadHome() {
-  const bust = Date.now();
-  const url = `./data/home.json?v=${bust}`;
+function el(id){ return document.getElementById(id); }
 
-  const feeds = document.querySelectorAll(".feed[data-feed]");
-  const updatedEl = document.getElementById("updated");
+function setStatus(kind, text){
+  el(kind + "Status").textContent = text;
+}
 
-  function setStatus(feedKey, text, detail) {
-    const el = document.querySelector(`.feed[data-feed="${feedKey}"]`);
-    if (!el) return;
-    el.innerHTML = `
-      <div class="feed-status">${text}</div>
-      ${detail ? `<div class="feed-meta">${detail}</div>` : ""}
-    `;
-  }
+function clearList(kind){
+  el(kind + "List").innerHTML = "";
+}
 
-  try {
+function itemHTML(item){
+  const safeTitle = item.title || "untitled";
+  const safeUrl = item.url || "#";
+  const source = item.source || "";
+  const ts = item.time || "";
+  return `
+    <li class="feed-item">
+      <a class="feed-link" href="${safeUrl}" target="_blank" rel="noreferrer">
+        <p class="feed-title">${safeTitle}</p>
+        <div class="feed-meta">${source}${source && ts ? " · " : ""}${ts}</div>
+      </a>
+    </li>
+  `;
+}
+
+async function loadHome(){
+  // Cache-bust so you see updates immediately after actions run
+  const url = "./data/home.json?cb=" + Date.now();
+
+  try{
+    setStatus("crypto", "loading…");
+    setStatus("hacker", "loading…");
+    setStatus("world", "loading…");
+
     const res = await fetch(url, { cache: "no-store" });
-    if (!res.ok) throw new Error(`home.json HTTP ${res.status}`);
+    if(!res.ok) throw new Error("home.json fetch failed: " + res.status);
 
     const data = await res.json();
 
     const updated = data.updated_local || data.updated_iso || "unknown";
-    updatedEl.textContent = `updated · ${updated}`;
+    el("updatedLine").textContent = "updated · " + updated;
 
-    renderFeed("crypto", data.sections?.crypto, "decrypt");
-    renderFeed("hacker", data.sections?.hacker, "hn");
-    renderFeed("world", data.sections?.world, "world");
+    const sections = data.sections || {};
 
-  } catch (err) {
+    for(const kind of ["crypto","hacker","world"]){
+      const items = (sections[kind] || []);
+      clearList(kind);
+
+      if(!items.length){
+        setStatus(kind, "feed unavailable");
+        continue;
+      }
+
+      setStatus(kind, ""); // hide "loading…"
+      el(kind + "Status").style.display = "none";
+      el(kind + "List").innerHTML = items.map(itemHTML).join("");
+    }
+  }catch(err){
+    // Show a styled failure, but DO NOT break page rendering.
+    for(const kind of ["crypto","hacker","world"]){
+      setStatus(kind, "feed unavailable");
+      clearList(kind);
+    }
+    el("updatedLine").textContent = "updated · feed error";
     console.error(err);
-    for (const f of feeds) {
-      const k = f.getAttribute("data-feed");
-      setStatus(k, "feed unavailable", "load failed");
-    }
-    updatedEl.textContent = "updated · error";
-  }
-
-  function renderFeed(key, items, sourceLabel) {
-    if (!Array.isArray(items) || items.length === 0) {
-      setStatus(key, "feed unavailable", `${sourceLabel} · no articles found`);
-      return;
-    }
-
-    const el = document.querySelector(`.feed[data-feed="${key}"]`);
-    const lis = items.slice(0, 5).map(item => {
-      const title = escapeHtml(item.title || "untitled");
-      const href = item.url || "#";
-      const meta = [
-        sourceLabel,
-        item.published ? new Date(item.published).toLocaleString() : null
-      ].filter(Boolean).join(" · ");
-
-      return `
-        <li class="feed-item">
-          <a class="feed-link" href="${href}" target="_blank" rel="noopener">
-            <p class="feed-title">${title}</p>
-            <div class="feed-meta">${escapeHtml(meta)}</div>
-          </a>
-        </li>
-      `;
-    }).join("");
-
-    el.innerHTML = `
-      <ul class="feed-list">${lis}</ul>
-    `;
-  }
-
-  function escapeHtml(s) {
-    return String(s)
-      .replaceAll("&", "&amp;")
-      .replaceAll("<", "&lt;")
-      .replaceAll(">", "&gt;")
-      .replaceAll('"', "&quot;")
-      .replaceAll("'", "&#039;");
   }
 }
 
