@@ -52,7 +52,7 @@ html,body{
   margin: 14px 0 16px;
 }
 
-/* ---------- manifesto box (make it minimal) ---------- */
+/* ---------- manifesto box (minimal at first glance) ---------- */
 .manifesto{
   position: relative;
   background: var(--card);
@@ -63,25 +63,32 @@ html,body{
   margin: 0 0 18px;
 }
 
-.manifesto-bar{
-  background: var(--accent);
-}
+.manifesto-bar{ background: var(--accent); }
 
-.manifesto-inner{
-  padding: 10px 12px;
-}
+.manifesto-inner{ padding: 10px 12px; }
 
-.manifesto p{
+.manifesto-summary{
+  cursor: pointer;
   margin: 0;
-  font-size: 22px;
-  line-height: 1.12; /* compact */
+  padding: 0;
+  font-size: 18px;       /* minimal */
+  line-height: 1.08;
   font-style: italic;
   color: rgba(0,0,0,.78);
 }
+.manifesto-summary::-webkit-details-marker{ display:none; }
+.manifesto-summary::marker{ content:""; }
 
-.manifesto p + p{
-  margin-top: 6px;
+.manifesto-more{ margin-top: 8px; }
+
+.manifesto p{
+  margin: 0;
+  font-size: 22px;       /* matches your “perfect” look when expanded */
+  line-height: 1.12;
+  font-style: italic;
+  color: rgba(0,0,0,.78);
 }
+.manifesto p + p{ margin-top: 6px; }
 
 .manifesto strong{
   font-weight: 800;
@@ -95,16 +102,16 @@ html,body{
   padding-bottom: 18px;
 }
 
-/* Stronger than your current faint version but still watermark */
+/* Stronger watermark (your note: too faint) */
 .watermark{
   position: absolute;
-  inset: 150px 0 60px 0; /* starts under the manifesto area */
+  inset: 140px 0 40px 0;
   background-image: url("./assets/elephant-third-eye.webp");
   background-repeat: no-repeat;
-  background-position: center 140px;
-  background-size: min(820px, 110%);
-  opacity: 0.18;         /* THIS is the key: stronger than 0.06/0.08 */
-  filter: contrast(1.05) saturate(.9);
+  background-position: center 180px;
+  background-size: min(860px, 115%);
+  opacity: 0.22;                 /* stronger than before */
+  filter: contrast(1.10) saturate(.9);
   pointer-events: none;
   z-index: 0;
 }
@@ -116,9 +123,7 @@ html,body{
 }
 
 /* ---------- section headers ---------- */
-.section-head{
-  margin-top: 18px;
-}
+.section-head{ margin-top: 16px; }
 
 .section-title{
   font-size: 22px;
@@ -138,13 +143,10 @@ html,body{
   display: block;
   text-decoration: none;
   color: inherit;
-  padding: 14px 0 14px;
+  padding: 12px 0 12px;            /* tighter = more “newspaper” */
   border-bottom: 1px solid var(--line);
 }
-
-.row:first-of-type{
-  border-top: 1px solid var(--line);
-}
+.row:first-of-type{ border-top: 1px solid var(--line); }
 
 .row-title{
   font-size: 56px;
@@ -156,25 +158,25 @@ html,body{
 
 .row-sub{
   margin-top: 6px;
-  font-size: 22px;
-  letter-spacing: .32em;
+  font-size: 18px;                 /* tighter */
+  letter-spacing: .28em;
   color: var(--muted);
   text-transform: lowercase;
 }
 
 /* ---------- feeds ---------- */
 .feed{
-  padding: 10px 0 6px;
+  padding: 8px 0 4px;              /* tighter */
   border-bottom: 1px solid var(--line);
 }
 
 .feed-status{
-  font-size: 40px;
+  font-size: 34px;                  /* compact but still stylish */
   font-style: italic;
-  letter-spacing: .06em;
+  letter-spacing: .05em;
   color: rgba(0,0,0,.32);
   line-height: 1.0;
-  padding: 6px 0 8px;
+  padding: 4px 0 6px;
 }
 
 .feed-list{
@@ -184,13 +186,10 @@ html,body{
 }
 
 .feed-item{
-  padding: 10px 0;
+  padding: 8px 0;                   /* tighter */
   border-top: 1px solid rgba(0,0,0,.12);
 }
-
-.feed-item:first-child{
-  border-top: none;
-}
+.feed-item:first-child{ border-top: none; }
 
 .feed-link{
   display: block;
@@ -199,37 +198,36 @@ html,body{
 }
 
 .feed-title{
-  font-size: 22px;      /* compact “newspaper” */
-  line-height: 1.12;
+  font-size: 18px;                  /* COMPACT “newspaper” */
+  line-height: 1.15;
   margin: 0;
 }
 
 .feed-meta{
-  margin-top: 6px;
-  font-size: 15px;
-  letter-spacing: .26em;
+  margin-top: 5px;
+  font-size: 13px;
+  letter-spacing: .22em;
   color: var(--muted);
   text-transform: lowercase;
 }
 
 .footer{
-  margin-top: 14px;
+  margin-top: 12px;
   padding-top: 10px;
   border-top: 1px solid var(--line);
 }
 
 .updated{
-  font-size: 14px;
+  font-size: 13px;
   letter-spacing: .22em;
   color: rgba(0,0,0,.38);
   text-transform: lowercase;
 }
 
-/* ---------- small screens tighten a hair ---------- */
+/* ---------- small screens tighten ---------- */
 @media (max-width: 430px){
   .manifesto p{ font-size: 20px; }
   .row-title{ font-size: 50px; }
-  .feed-title{ font-size: 20px; }
+  .feed-title{ font-size: 17px; }
   .tagline{ letter-spacing: .28em; font-size: 16px; }
 }
-
