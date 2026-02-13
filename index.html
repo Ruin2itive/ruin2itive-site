@@ -1,350 +1,240 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>ruin2itive</title>
-  <meta name="description" content="reliability-first, open-source, independent signal hub" />
-  <meta name="theme-color" content="#ffffff" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ruin2itive</title>
 
-  <style>
-    :root{
-      --bg:#ffffff;
-      --ink:#0b0b0b;
-      --oxide:#6e352b;
-      --muted:rgba(11,11,11,.62);
-      --rule:rgba(110,53,43,.55);
+<style>
 
-      /* local, fast */
-      --seal-webp: url("assets/elephant-mark.webp");
-      --seal-png:  url("assets/elephant-mark.png");
-    }
+/* ─────────────────────────────
+   ruin2itive — underground node
+   parchment / ink / muted red
+   static + fast
+────────────────────────────── */
 
-    *{ margin:0; padding:0; box-sizing:border-box; }
+:root{
+  --paper:#f4f1ea;
+  --ink:#111111;
+  --rust:#7b3f36;
+  --faint:#a8a29e;
+}
 
-    body{
-      background:var(--bg);
-      color:var(--ink);
-      max-width: 980px;
-      margin: 1rem auto;
-      padding: 1.1rem 1.2rem 2rem;
-      line-height: 1.55;
-    }
+*{box-sizing:border-box;margin:0;padding:0}
 
-    /* ===== manifesto typography ===== */
-    .serif{
-      font-family: ui-serif, "Times New Roman", Times, serif;
-      font-style: italic;
-      letter-spacing: .12em; /* key to the vibe */
-    }
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  max-width:760px;
+  margin:60px auto;
+  padding:0 22px 80px;
+  line-height:1.55;
+}
 
-    .mono{
-      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
-      letter-spacing: .08em;
-    }
+/* ───── HEADER ───── */
 
-    /* ===== header ===== */
-    header{
-      position: relative;
-      padding: .4rem 0 1.2rem;
-      margin-bottom: 1.1rem;
-    }
+.header{
+  position:relative;
+  margin-bottom:60px;
+}
 
-    /* elephant as a quiet stamp behind the title area */
-    header::before{
-      content:"";
-      position:absolute;
-      right: 0;
-      top: 0;
-      width: 220px;
-      height: 220px;
-      background: var(--seal-webp) right top / contain no-repeat;
-      opacity: .10;
-      pointer-events:none;
-    }
+.logo{
+  position:absolute;
+  left:-40px;
+  top:-20px;
+  width:220px;
+  opacity:.85;
+  z-index:0;
+}
 
-    /* fallback if needed */
-    @supports not (background: url("x.webp")){
-      header::before{ background-image: var(--seal-png); }
-    }
+h1{
+  position:relative;
+  font-size:48px;
+  font-style:italic;
+  font-weight:500;
+  letter-spacing:.5px;
+  border-bottom:2px solid var(--ink);
+  padding-bottom:6px;
+  z-index:1;
+}
 
-    .masthead{
-      font-size: 3.1rem;
-      line-height: 1.05;
-      font-weight: 500; /* italic serif carries it */
-      text-transform: none; /* never caps */
-    }
+.tagline{
+  margin-top:14px;
+  font-size:14px;
+  letter-spacing:2px;
+  text-transform:lowercase;
+  color:var(--faint);
+}
 
-    .underline{
-      height: 2px;
-      background: var(--ink);
-      margin-top: .35rem;
-      opacity: .9;
-      max-width: 760px;
-    }
+/* manifesto block */
 
-    .subline{
-      margin-top: 1.1rem;
-      color: var(--muted);
-      font-size: 1rem;
-      max-width: 880px;
-    }
+.manifesto{
+  margin-top:30px;
+  font-style:italic;
+  font-size:18px;
+  color:#333;
+}
 
-    /* ===== manifesto block ===== */
-    .manifesto{
-      margin-top: 1.35rem;
-      max-width: 920px;
-      font-size: 1.02rem;
-      color: rgba(11,11,11,.78);
-    }
+/* divider */
 
-    .manifesto p{ margin: 0 0 1.15rem; }
+.rule{
+  height:2px;
+  background:var(--rust);
+  margin:60px 0 40px;
+}
 
-    .law{
-      color: var(--ink);
-      opacity: .9;
-    }
+/* sections */
 
-    /* ===== section layout ===== */
-    .grid{
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 2rem;
-      margin-top: 1.2rem;
-      padding-top: 1.1rem;
-      border-top: 1px solid var(--rule);
-    }
+.section{
+  margin-bottom:60px;
+}
 
-    /* section label: understated but coded */
-    h2{
-      margin: 0 0 .8rem;
-      font-size: .78rem;
-      text-transform: lowercase;
-      color: var(--oxide);
-      border-bottom: 1px dashed var(--rule);
-      padding-bottom: .35rem;
-    }
+.section h2{
+  font-size:14px;
+  text-transform:lowercase;
+  letter-spacing:3px;
+  color:var(--rust);
+  margin-bottom:20px;
+  border-bottom:1px dotted var(--rust);
+  padding-bottom:6px;
+}
 
-    /* lists */
-    ul{ list-style: none; padding-left: 0; }
-    li{
-      padding: .35rem 0;
-      border-bottom: 1px dotted rgba(110,53,43,.25);
-    }
+/* links */
 
-    a{
-      color: var(--ink);
-      text-decoration: none;
-      border-bottom: 1px solid rgba(110,53,43,.75);
-      padding-bottom: 2px;
-    }
+a{
+  color:var(--ink);
+  text-decoration:none;
+  border-bottom:1px solid var(--ink);
+}
 
-    a:hover{
-      background: var(--oxide);
-      color: #fff;
-      border-bottom-color: transparent;
-    }
+a:hover{
+  color:var(--rust);
+  border-color:var(--rust);
+}
 
-    .meta{
-      display:block;
-      margin-top: .25rem;
-      font-size: .7rem;
-      color: rgba(11,11,11,.55);
-    }
+/* feed list */
 
-    /* small utility note line */
-    .note{
-      margin-top: .65rem;
-      font-size: .78rem;
-      color: rgba(11,11,11,.55);
-    }
+.feed li{
+  margin-bottom:16px;
+  list-style:none;
+  font-size:18px;
+}
 
-    /* footer */
-    footer{
-      margin-top: 2rem;
-      padding-top: 1.2rem;
-      border-top: 1px solid var(--rule);
-      display:flex;
-      justify-content:space-between;
-      gap: 1rem;
-      flex-wrap: wrap;
-      font-size: .72rem;
-      color: rgba(11,11,11,.58);
-    }
+.meta{
+  display:block;
+  font-size:13px;
+  color:var(--faint);
+  margin-top:4px;
+  text-transform:lowercase;
+}
 
-    footer a{
-      color: rgba(11,11,11,.75);
-      border-bottom: 1px dotted rgba(110,53,43,.75);
-    }
+/* small nav lists */
 
-    footer a:hover{
-      background: transparent;
-      color: var(--oxide);
-      border-bottom-style: solid;
-    }
+.nav li{
+  list-style:none;
+  margin-bottom:14px;
+  font-size:18px;
+}
 
-    /* mobile */
-    @media (max-width: 760px){
-      body{ padding: 1rem; }
-      .masthead{ font-size: 2.35rem; }
-      header::before{ width: 165px; height: 165px; opacity: .09; }
-      .grid{ grid-template-columns: 1fr; gap: 1.2rem; }
-      .underline{ max-width: 100%; }
-    }
-  </style>
+footer{
+  margin-top:80px;
+  font-size:13px;
+  color:var(--faint);
+  border-top:1px solid var(--rust);
+  padding-top:20px;
+  letter-spacing:1px;
+  text-transform:lowercase;
+}
+
+/* responsive */
+
+@media(max-width:680px){
+  .logo{
+    width:160px;
+    left:-20px;
+    top:-10px;
+    opacity:.6;
+  }
+  h1{font-size:36px}
+}
+
+</style>
 </head>
 
 <body>
 
-  <header>
-    <div class="masthead serif">ruin2itive.org</div>
-    <div class="underline"></div>
+<div class="header">
+  <img src="assets/elephant-mark-small.webp" class="logo" alt="">
+  <h1>ruin2itive</h1>
+  <div class="tagline">reliability first · open source · independent</div>
 
-    <div class="subline serif">
-      reliability first · open source · independent
-    </div>
+  <div class="manifesto">
+    pulled from various sites. these sources are selected to ensure consistent and stable information.
+    these feeds remain hand selected, ad free, and purposeful.
+    clear and concise info. stability is law.
+  </div>
+</div>
 
-    <div class="manifesto serif">
-      <p>
-        pulled from various sites. these sources are selected to ensure
-        consistent and stable information. these feeds remain hand selected,
-        ad free, and purposeful.
-      </p>
-      <p class="law">
-        clear and concise info. stability is law.
-      </p>
-    </div>
-  </header>
+<div class="rule"></div>
 
-  <section class="grid">
+<div class="section">
+  <h2>projects / the code</h2>
+  <ul class="nav">
+    <li><a href="#">arduino</a><span class="meta">hackster · hardware</span></li>
+    <li><a href="#">raspberry pi</a><span class="meta">instructables · diy</span></li>
+    <li><a href="#">ruin2itive</a><span class="meta">github · src</span></li>
+  </ul>
+</div>
 
-    <div>
-      <h2 class="mono">projects / the code</h2>
+<div class="section">
+  <h2>markets / crypto</h2>
+  <ul class="feed">
+    <li>
+      <a href="#">Bitcoin ETFs See $1.2B Inflows as Price Holds $67K</a>
+      <span class="meta">decrypt</span>
+    </li>
+    <li>
+      <a href="#">SEC Delays Ethereum ETF Decision to May</a>
+      <span class="meta">decrypt</span>
+    </li>
+  </ul>
+</div>
 
-      <ul>
-        <li>
-          <a class="serif" href="https://www.hackster.io/arduino/projects" target="_blank" rel="noopener noreferrer">arduino</a>
-          <span class="meta mono">hackster feed · daily · hardware</span>
-        </li>
+<div class="section">
+  <h2>hacker news</h2>
+  <ul class="feed">
+    <li>
+      <a href="#">Show HN: I built a static site generator in Go</a>
+      <span class="meta">hn</span>
+    </li>
+    <li>
+      <a href="#">Raspberry Pi 5 now supports NVMe SSDs via HAT+</a>
+      <span class="meta">hn</span>
+    </li>
+  </ul>
+</div>
 
-        <li>
-          <a class="serif" href="https://www.instructables.com/Raspberry-Pi-Projects/" target="_blank" rel="noopener noreferrer">raspberry pi</a>
-          <span class="meta mono">instructables · diy · maker</span>
-        </li>
+<div class="section">
+  <h2>world news</h2>
+  <ul class="nav">
+    <li><a href="#">associated press</a></li>
+    <li><a href="#">reuters</a></li>
+    <li><a href="#">bbc</a></li>
+  </ul>
+</div>
 
-        <li>
-          <a class="serif" href="https://github.com/Ruin2itive" target="_blank" rel="noopener noreferrer">ruin2itive</a>
-          <span class="meta mono">github · src · this site</span>
-        </li>
-      </ul>
+<div class="section">
+  <h2>free banned books</h2>
+  <ul class="nav">
+    <li><a href="#">open library</a></li>
+    <li><a href="#">standard ebooks</a></li>
+  </ul>
+</div>
 
-      <h2 class="mono" style="margin-top:1.35rem;">markets / crypto</h2>
-      <ul id="markets-feed">
-        <li><span class="serif">loading…</span><span class="meta mono">decrypt</span></li>
-      </ul>
-      <div class="note serif">protocol updates · on-chain · manual curation</div>
-
-      <h2 class="mono" style="margin-top:1.35rem;">hacker news</h2>
-      <ul id="hn-feed">
-        <li><span class="serif">loading…</span><span class="meta mono">hn</span></li>
-      </ul>
-      <div class="note serif">foss · security · systems</div>
-    </div>
-
-    <div>
-      <h2 class="mono">world news</h2>
-      <ul>
-        <li>
-          <a class="serif" href="https://apnews.com/" target="_blank" rel="noopener noreferrer">associated press</a>
-          <span class="meta mono">wire</span>
-        </li>
-        <li>
-          <a class="serif" href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer">reuters</a>
-          <span class="meta mono">fact based</span>
-        </li>
-        <li>
-          <a class="serif" href="https://www.bbc.com/news" target="_blank" rel="noopener noreferrer">bbc</a>
-          <span class="meta mono">international</span>
-        </li>
-      </ul>
-
-      <h2 class="mono" style="margin-top:1.35rem;">free banned books</h2>
-      <ul>
-        <li>
-          <a class="serif" href="https://openlibrary.org/" target="_blank" rel="noopener noreferrer">open library</a>
-          <span class="meta mono">public archive</span>
-        </li>
-        <li>
-          <a class="serif" href="https://standardebooks.org/" target="_blank" rel="noopener noreferrer">standard ebooks</a>
-          <span class="meta mono">clean editions</span>
-        </li>
-      </ul>
-
-      <h2 class="mono" style="margin-top:1.35rem;">site</h2>
-      <ul>
-        <li>
-          <a class="serif" href="/about/">about</a>
-          <span class="meta mono">thesis</span>
-        </li>
-        <li>
-          <a class="serif" href="/integrity/">integrity</a>
-          <span class="meta mono">method</span>
-        </li>
-        <li>
-          <a class="serif" href="/blog/">build log</a>
-          <span class="meta mono">notes</span>
-        </li>
-      </ul>
-    </div>
-
-  </section>
-
-  <footer class="mono">
-    <div>open source · sovereign · independent</div>
-    <div><a href="https://github.com/Ruin2itive/ruin2itive-site" target="_blank" rel="noopener noreferrer">source</a></div>
-  </footer>
-
-  <script>
-    /* progressive enhancement only */
-    fetch('api/home.json', { cache: 'default' })
-      .then(r => { if(!r.ok) throw new Error('bad'); return r.json(); })
-      .then(data => {
-        const markets = data?.sections?.markets || [];
-        const foss = data?.sections?.foss || [];
-
-        const m = document.getElementById('markets-feed');
-        m.innerHTML = '';
-        (markets.length ? markets.slice(0,3) : []).forEach(i => {
-          const li = document.createElement('li');
-          li.innerHTML =
-            `<a class="serif" href="${i.url}" target="_blank" rel="noopener noreferrer">${i.title}</a>` +
-            `<span class="meta mono">${(i.source || 'decrypt').toLowerCase()}</span>`;
-          m.appendChild(li);
-        });
-        if(!markets.length){
-          m.innerHTML = `<li><span class="serif">no headlines available</span><span class="meta mono">markets</span></li>`;
-        }
-
-        const h = document.getElementById('hn-feed');
-        h.innerHTML = '';
-        (foss.length ? foss.slice(0,5) : []).forEach(i => {
-          const li = document.createElement('li');
-          li.innerHTML =
-            `<a class="serif" href="${i.url}" target="_blank" rel="noopener noreferrer">${i.title}</a>` +
-            `<span class="meta mono">${(i.source || 'hn').toLowerCase()}</span>`;
-          h.appendChild(li);
-        });
-        if(!foss.length){
-          h.innerHTML = `<li><span class="serif">no headlines available</span><span class="meta mono">hn</span></li>`;
-        }
-      })
-      .catch(() => {
-        document.getElementById('markets-feed').innerHTML =
-          `<li><span class="serif">feed temporarily unavailable</span><span class="meta mono">markets</span></li>`;
-        document.getElementById('hn-feed').innerHTML =
-          `<li><span class="serif">feed temporarily unavailable</span><span class="meta mono">hn</span></li>`;
-      });
-  </script>
+<footer>
+  independent digital archive · static build · no tracking
+</footer>
 
 </body>
 </html>
