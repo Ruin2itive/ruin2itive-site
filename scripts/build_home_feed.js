@@ -1,75 +1,87 @@
-import fs from "node:fs";
-import path from "node:path";
+#!/usr/bin/env node
+/**
+ * Build data/home.json from RSS/Atom feeds.
+ * Runs in GitHub Actions and commits the JSON back to the repo.
+ */
 
-const OUT = "data/home.json";
+const fs = require("fs");
+const path = require("path");
+const Parser = require("rss-parser");
 
-async function fetchText(url){
-  const res = await fetch(url, { headers: { "user-agent": "ruin2itive-site" } });
-  if(!res.ok) throw new Error(`fetch failed ${res.status} for ${url}`);
-  return await res.text();
+const OUT = path.join(process.cwd(), "data", "home.json");
+const parser = new Parser({ timeout: 20000 });
+
+function pick(items, n) {
+  return (items || []).slice(0, n);
 }
 
-// VERY small RSS parser (enough for titles/links)
-function parseRssItems(xml, limit=5){
-  const items = [];
-  const itemBlocks = xml.split(/<item[\s>]/i).slice(1);
-  for(const block of itemBlocks){
-    if(items.length >= limit) break;
-    const title = (block.match(/<title><!\[CDATA\[([\s\S]*?)\]\]><\/title>/i)?.[1]
-      || block.match(/<title>([\s\S]*?)<\/title>/i)?.[1]
-      || "").trim().replace(/\s+/g," ");
-    const link = (block.match(/<link>([\s\S]*?)<\/link>/i)?.[1] || "").trim();
-    if(title && link) items.push({ title, url: link });
+function fmtTime(iso) {
+  try {
+    const d = iso ? new Date(iso) : new Date();
+    return d.toLocaleString("en-US", { year:"numeric", month:"2-digit", day:"2-digit", hour:"2-digit", minute:"2-digit" });
+  } catch {
+    return "time unknown";
   }
-  return items;
 }
 
-async function getDecryptTop5(){
-  // Decrypt RSS
-  const xml = await fetchText("https://decrypt.co/feed");
-  const items = parseRssItems(xml, 5).map(x => ({
-    ...x, source: "decrypt", time: new Date().toLocaleString()
-  }));
-  return items;
+async function readFeed({ url, source, limit }) {
+  const feed = await parser.parseURL(url);
+  const items = pick(feed.items, limit).map(it => {
+    const title = (it.title || "").trim();
+    const link = (it.link || it.guid || "").trim();
+    const date = it.isoDate || it.pubDate || "";
+    return {
+      title: title || "(untitled)",
+      url: link || url,
+      source,
+      time: fmtTime(date)
+    };
+  });
+
+  // Filter obvious junk
+  return items.filter(x => x.title && x.url);
 }
 
-async function getHnTop5(){
-  // HN front page via Algolia API
-  const json = await (await fetch("https://hn.algolia.com/api/v1/search?tags=front_page")).json();
-  const hits = (json.hits || []).slice(0,5).map(h => ({
-    title: h.title || h.story_title || "untitled",
-    url: h.url || (h.story_id ? `https://news.ycombinator.com/item?id=${h.story_id}` : "https://news.ycombinator.com/"),
-    source: "hn",
-    time: new Date().toLocaleString()
-  }));
-  return hits;
-}
+async function main() {
+  // Choose sources that actually provide RSS/Atom.
+  // If you change sources, do it here (commit controlled).
+  const SOURCES = {
+    crypto: [
+      // Decrypt RSS (works reliably compared to scraping the HTML front page)
+      { url: "https://decrypt.co/feed", source: "decrypt", limit: 5 },
+    ],
+    hacker: [
+      // Hacker News front page RSS
+      { url: "https://news.ycombinator.com/rss", source: "hn", limit: 5 },
+    ],
+    world: [
+      // World news RSS options:
+      // Reuters has limited RSS availability; BBC provides RSS reliably.
+      { url: "https://feeds.bbci.co.uk/news/world/rss.xml", source: "bbc", limit: 5 },
+    ],
+  };
 
-async function getWorldTop5(){
-  // BBC World RSS (stable)
-  const xml = await fetchText("https://feeds.bbci.co.uk/news/world/rss.xml");
-  const items = parseRssItems(xml, 5).map(x => ({
-    ...x, source: "world", time: new Date().toLocaleString()
-  }));
-  return items;
-}
-
-async function main(){
   const now = new Date();
   const payload = {
     updated_iso: now.toISOString(),
     updated_local: now.toLocaleString(),
-    sections: {
-      crypto: [],
-      hacker: [],
-      world: []
-    }
+    sections: { crypto: [], hacker: [], world: [] }
   };
 
-  // Hard fail isolation: one feed failing should not nuke all
-  try{ payload.sections.crypto = await getDecryptTop5(); } catch(e){ console.error("decrypt failed:", e.message); }
-  try{ payload.sections.hacker = await getHnTop5(); } catch(e){ console.error("hn failed:", e.message); }
-  try{ payload.sections.world  = await getWorldTop5(); } catch(e){ console.error("world failed:", e.message); }
+  // Build sections with hard fail isolation
+  for (const key of Object.keys(SOURCES)) {
+    const list = SOURCES[key];
+    const all = [];
+    for (const f of list) {
+      try {
+        const items = await readFeed(f);
+        all.push(...items);
+      } catch (e) {
+        // leave source out; front-end will show "feed unavailable" if empty
+      }
+    }
+    payload.sections[key] = all.slice(0, 5);
+  }
 
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
   fs.writeFileSync(OUT, JSON.stringify(payload, null, 2) + "\n", "utf8");
