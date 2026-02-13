@@ -1,57 +1,57 @@
 :root{
-  --paper: #ffffff;
-  --ink: #111;
-  --muted: rgba(0,0,0,.55);
-  --line: rgba(0,0,0,.12);
-  --accent: #7b3d35;
+  --paper:#ffffff;
+  --ink:#111;
+  --muted:rgba(0,0,0,.55);
+  --line:rgba(0,0,0,.12);
+  --accent:#7b3d35;
 }
 
-*{ box-sizing:border-box; }
+*{box-sizing:border-box;}
 
 html,body{
   margin:0;
   padding:0;
-  background: var(--paper);
-  color: var(--ink);
-  font-family: Georgia, "Times New Roman", serif;
+  background:var(--paper);
+  color:var(--ink);
+  font-family:Georgia,"Times New Roman",serif;
 }
 
 .page{
-  max-width: 720px;
-  margin: 0 auto;
-  padding: 24px 16px 40px;
+  max-width:720px;
+  margin:0 auto;
+  padding:24px 16px 40px;
 }
 
 .brand{
-  font-size: clamp(54px, 9vw, 86px);
-  line-height: .92;
-  margin: 0;
-  font-weight: 800;
+  font-size:clamp(54px,9vw,86px);
+  line-height:.92;
+  margin:0;
+  font-weight:800;
 }
 
 .tagline{
-  margin-top: 6px;
-  font-size: 14px;
-  letter-spacing: .28em;
-  text-transform: lowercase;
-  color: var(--muted);
+  margin-top:6px;
+  font-size:14px;
+  letter-spacing:.28em;
+  text-transform:lowercase;
+  color:var(--muted);
 }
 
 .rule{
   border:none;
   height:1px;
-  background: rgba(0,0,0,.5);
+  background:rgba(0,0,0,.5);
   margin:16px 0 22px;
 }
 
-.sheet{
-  position:relative;
-}
+.sheet{position:relative;}
 
 .watermark{
   position:absolute;
   inset:0;
-  background-image:url("/assets/elephant-third-eye.webp");
+  background-image:
+    url("assets/elephant-third-eye.webp"),
+    url("assets/elephant-third-eye.png");
   background-repeat:no-repeat;
   background-position:center 140px;
   background-size:90%;
@@ -60,14 +60,12 @@ html,body{
   z-index:0;
 }
 
-.section, .feed-item, .footer{
+.section,.feed-item,.footer{
   position:relative;
   z-index:1;
 }
 
-.section-head{
-  margin-top:22px;
-}
+.section-head{margin-top:22px;}
 
 .section-title{
   font-size:12px;
@@ -100,9 +98,7 @@ html,body{
   color:var(--ink);
 }
 
-.feed-item a:hover{
-  opacity:.75;
-}
+.feed-item a:hover{opacity:.75;}
 
 .feed-meta{
   font-size:11px;
@@ -122,4 +118,10 @@ html,body{
   letter-spacing:.18em;
   color:rgba(0,0,0,.35);
   text-transform:lowercase;
+}
+
+@media (max-width:420px){
+  .page{padding:20px 14px 34px;}
+  .feed-item h3{font-size:14px;}
+  .feed-meta{font-size:10px;}
 }
