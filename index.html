@@ -2,15 +2,22 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <title>ruin2itive</title>
+<meta name="description" content="reliability-first, open-source, independent signal hub" />
+<meta name="theme-color" content="#ffffff" />
 
 <style>
 :root{
   --bg:#ffffff;
-  --ink:#0e0e0e;
-  --oxide:#7a3e33;
-  --rule:#7a3e33;
+  --ink:#0b0b0b;
+  --oxide:#7a3e33;     /* industrial rust */
+  --muted:rgba(11,11,11,.62);
+  --rule:rgba(122,62,51,.70);
+
+  /* fast local assets */
+  --elephant: url("assets/elephant-mark.webp");
+  --elephant-fallback: url("assets/elephant-mark.png");
 }
 
 *{margin:0;padding:0;box-sizing:border-box;}
@@ -18,155 +25,203 @@
 body{
   background:var(--bg);
   color:var(--ink);
-  font-family: Georgia, serif;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
   font-size:15px;
-  line-height:1.4;
-  max-width:960px;
+  line-height:1.42;
+  max-width:980px;
   margin:1rem auto;
-  padding:1rem 1.2rem;
+  padding:1rem 1.1rem 1.4rem;
 }
 
-/* ================= HEADER ================= */
-
+/* ===== GRAPHIC MASTHEAD ===== */
 header{
-  display:flex;
-  align-items:flex-end;
-  gap:1rem;
-  padding-bottom:.6rem;
-  border-bottom:2px solid var(--rule);
-  margin-bottom:1.2rem;
+  position:relative;
+  padding: .6rem .6rem .85rem;
+  margin-bottom: 1.05rem;
+  border: 1px solid rgba(0,0,0,.08);
+  background: #fff;
 }
 
-/* Elephant as SEAL */
+/* subtle paper grain (CSS only, no images) */
+header::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  pointer-events:none;
+  opacity:.09;
+  background-image:
+    radial-gradient(circle at 12% 18%, rgba(0,0,0,.16) 0 1px, transparent 2px),
+    radial-gradient(circle at 62% 44%, rgba(0,0,0,.12) 0 1px, transparent 2px),
+    radial-gradient(circle at 83% 71%, rgba(0,0,0,.10) 0 1px, transparent 2px);
+  background-size: 120px 120px, 170px 170px, 210px 210px;
+  mix-blend-mode:multiply;
+}
+
+.mast{
+  display:grid;
+  grid-template-columns: 92px 1fr;
+  gap: .95rem;
+  align-items:end;
+}
+
+/* elephant = graphic block, cropped */
 .seal{
-  width:85px;
-  flex-shrink:0;
+  width:92px;
+  height:92px;
+  border: 2px solid var(--oxide);
+  background:
+    linear-gradient(180deg, rgba(122,62,51,.12), rgba(122,62,51,0)) ,
+    var(--elephant) center/cover no-repeat;
+  /* fallback if webp not supported */
+  background-image:
+    linear-gradient(180deg, rgba(122,62,51,.12), rgba(122,62,51,0)) ,
+    var(--elephant);
+  overflow:hidden;
+  position:relative;
 }
 
-.seal img{
-  width:100%;
-  display:block;
+/* make it feel like ink/stencil */
+.seal::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background: var(--elephant-fallback) center/cover no-repeat;
+  opacity:0;
 }
 
-/* Brand */
-.brand{
-  flex-grow:1;
+/* iOS supports webp; keep fallback anyway */
+@supports not (background: image-set(url("x.webp") type("image/webp"))){
+  .seal{ background: linear-gradient(180deg, rgba(122,62,51,.12), rgba(122,62,51,0)), var(--elephant-fallback) center/cover no-repeat; }
+  .seal::before{ opacity:0; }
 }
 
-.brand h1{
-  font-size:2.6rem;
+.wordmark{
+  display:flex;
+  flex-direction:column;
+  gap:.35rem;
+}
+
+/* lowercase authority, not friendly blog */
+h1{
+  font-family: ui-serif, Georgia, "Times New Roman", serif;
+  font-size:2.55rem;
   font-weight:900;
-  letter-spacing:-1px;
-  text-transform:none;
-  line-height:.95;
+  letter-spacing:-1.2px;
+  line-height:.92;
+  text-transform:none; /* never uppercase */
 }
 
 .tagline{
-  font-family: monospace;
-  font-size:.68rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-size:.72rem;
   letter-spacing:2px;
   text-transform:lowercase;
-  margin-top:.35rem;
-  opacity:.75;
+  color:var(--muted);
 }
 
-/* ================= LAYOUT ================= */
+/* oxide bar = strong graphic anchor */
+.bar{
+  margin-top:.75rem;
+  height:4px;
+  background:var(--oxide);
+}
 
+/* ===== LAYOUT ===== */
 .columns{
   display:grid;
-  grid-template-columns:1fr 1fr;
-  gap:1.6rem;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.45rem;
 }
 
-/* Section headers look coded */
+/* section headers: terminal-coded */
 h2{
-  font-family: monospace;
-  font-size:.75rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-size:.78rem;
   letter-spacing:2px;
   text-transform:lowercase;
   color:var(--oxide);
   border-bottom:1px dashed var(--rule);
-  padding-bottom:.2rem;
-  margin:.8rem 0 .6rem;
+  padding-bottom:.22rem;
+  margin:.85rem 0 .6rem;
 }
 
-/* Projects */
 .project{
   margin-bottom:.7rem;
 }
-
 .project h3{
-  font-size:.95rem;
-  font-weight:700;
+  font-family: ui-serif, Georgia, "Times New Roman", serif;
+  font-size:1.02rem;
+  font-weight:800;
   text-transform:lowercase;
+  letter-spacing:-.2px;
 }
-
 .project p{
-  font-size:.85rem;
-  margin-left:.6rem;
+  font-size:.88rem;
+  margin-left:.65rem;
+  color:var(--ink);
 }
 
 .meta{
-  font-size:.6rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-size:.62rem;
   letter-spacing:1px;
   text-transform:lowercase;
-  opacity:.6;
-  margin-left:.3rem;
+  opacity:.62;
+  margin-left:.35rem;
 }
 
-/* Feeds */
-ul{
-  list-style:none;
-  padding-left:.4rem;
-}
-
+/* lists */
+ul{list-style:none;padding-left:.35rem;}
 li{
-  font-size:.88rem;
-  margin-bottom:.4rem;
-  padding-left:.9rem;
+  font-size:.9rem;
+  margin-bottom:.42rem;
+  padding-left:1rem;
   position:relative;
 }
-
 li::before{
   content:"›";
   position:absolute;
   left:0;
   color:var(--oxide);
-  font-weight:bold;
+  font-weight:900;
 }
 
+/* links */
 a{
   color:var(--ink);
   text-decoration:underline;
   text-decoration-color:var(--oxide);
   text-underline-offset:2px;
+  text-decoration-thickness:1px;
 }
-
 a:hover{
   background:var(--oxide);
   color:#fff;
   text-decoration:none;
 }
 
-/* Footer */
+/* footer */
 footer{
-  margin-top:1.8rem;
-  padding-top:.6rem;
-  border-top:2px solid var(--rule);
-  font-family: monospace;
-  font-size:.65rem;
-  letter-spacing:1px;
+  margin-top:1.65rem;
+  padding-top:.75rem;
+  border-top:2px solid var(--oxide);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-size:.68rem;
+  letter-spacing:1.4px;
   text-transform:lowercase;
   display:flex;
   justify-content:space-between;
-  opacity:.85;
+  gap:1rem;
+  flex-wrap:wrap;
+  color:rgba(11,11,11,.78);
 }
 
-@media(max-width:750px){
-  .columns{grid-template-columns:1fr;}
-  .brand h1{font-size:2rem;}
-  header{align-items:center;}
-  .seal{width:65px;}
+/* mobile */
+@media (max-width: 760px){
+  .columns{ grid-template-columns:1fr; }
+  h1{ font-size:2.15rem; }
+  .mast{ grid-template-columns: 84px 1fr; }
+  .seal{ width:84px; height:84px; }
 }
 </style>
 </head>
@@ -174,87 +229,111 @@ footer{
 <body>
 
 <header>
-  <div class="seal">
-    <img src="assets/elephant-mark.webp" alt="ruin2itive seal">
+  <div class="mast">
+    <div class="seal" aria-label="ruin2itive seal"></div>
+
+    <div class="wordmark">
+      <h1>ruin2itive</h1>
+      <div class="tagline">reliability first · open source · independent</div>
+    </div>
   </div>
-  <div class="brand">
-    <h1>ruin2itive</h1>
-    <div class="tagline">reliability first · open source · independent</div>
-  </div>
+
+  <div class="bar"></div>
 </header>
 
 <div class="columns">
 
-<div>
+  <div>
+    <h2>projects / the code</h2>
 
-<h2>projects / the code</h2>
+    <div class="project">
+      <h3>arduino</h3>
+      <p>
+        <a href="https://www.hackster.io/arduino/projects" target="_blank" rel="noopener noreferrer">hackster feed</a>
+        <span class="meta">daily · hardware</span>
+      </p>
+    </div>
 
-<div class="project">
-  <h3>arduino</h3>
-  <p><a href="https://www.hackster.io/arduino/projects" target="_blank">hackster feed</a>
-  <span class="meta">daily · hardware</span></p>
-</div>
+    <div class="project">
+      <h3>raspberry pi</h3>
+      <p>
+        <a href="https://www.instructables.com/Raspberry-Pi-Projects/" target="_blank" rel="noopener noreferrer">instructables</a>
+        <span class="meta">diy · maker</span>
+      </p>
+    </div>
 
-<div class="project">
-  <h3>raspberry pi</h3>
-  <p><a href="https://www.instructables.com/Raspberry-Pi-Projects/" target="_blank">instructables</a>
-  <span class="meta">diy · maker</span></p>
-</div>
+    <div class="project">
+      <h3>ruin2itive</h3>
+      <p>
+        <a href="https://github.com/Ruin2itive" target="_blank" rel="noopener noreferrer">github · src</a>
+        <span class="meta">this site</span>
+      </p>
+    </div>
 
-<div class="project">
-  <h3>ruin2itive</h3>
-  <p><a href="https://github.com/Ruin2itive" target="_blank">github · src</a>
-  <span class="meta">this site</span></p>
-</div>
+    <h2>markets / crypto</h2>
+    <ul id="markets-feed"><li>loading…</li></ul>
 
-<h2>markets / crypto</h2>
-<ul id="markets-feed"><li>loading…</li></ul>
+    <h2>hacker news</h2>
+    <ul id="hn-feed"><li>loading…</li></ul>
+  </div>
 
-<h2>hacker news</h2>
-<ul id="hn-feed"><li>loading…</li></ul>
+  <div>
+    <h2>world news</h2>
+    <ul>
+      <li><a href="https://apnews.com/" target="_blank" rel="noopener noreferrer">associated press</a></li>
+      <li><a href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer">reuters</a></li>
+      <li><a href="https://www.bbc.com/news" target="_blank" rel="noopener noreferrer">bbc</a></li>
+    </ul>
 
-</div>
+    <h2>free banned books</h2>
+    <ul>
+      <li><a href="https://openlibrary.org/" target="_blank" rel="noopener noreferrer">open library</a></li>
+      <li><a href="https://standardebooks.org/" target="_blank" rel="noopener noreferrer">standard ebooks</a></li>
+    </ul>
 
-<div>
-
-<h2>world news</h2>
-<ul>
-<li><a href="https://apnews.com/" target="_blank">associated press</a></li>
-<li><a href="https://www.reuters.com/" target="_blank">reuters</a></li>
-<li><a href="https://www.bbc.com/news" target="_blank">bbc</a></li>
-</ul>
-
-<h2>free banned books</h2>
-<ul>
-<li><a href="https://openlibrary.org/" target="_blank">open library</a></li>
-<li><a href="https://standardebooks.org/" target="_blank">standard ebooks</a></li>
-</ul>
-
-</div>
+    <h2>notes</h2>
+    <ul>
+      <li><a href="/blog/">build log</a> <span class="meta">in progress</span></li>
+      <li><a href="/integrity/">integrity</a> <span class="meta">method</span></li>
+      <li><a href="/about/">about</a> <span class="meta">thesis</span></li>
+    </ul>
+  </div>
 
 </div>
 
 <footer>
-<div>open source · sovereign · independent</div>
-<div><a href="/about/">about</a> · <a href="/integrity/">integrity</a></div>
+  <div>open source · sovereign · independent</div>
+  <div>ruin2itive runs on boring reliability</div>
 </footer>
 
 <script>
-fetch('api/home.json')
-.then(r=>r.json())
-.then(data=>{
-const m=document.getElementById('markets-feed');
-m.innerHTML='';
-(data.sections?.markets||[]).slice(0,3).forEach(i=>{
-m.innerHTML+=`<li><a href="${i.url}" target="_blank">${i.title}</a></li>`;
-});
-const h=document.getElementById('hn-feed');
-h.innerHTML='';
-(data.sections?.foss||[]).slice(0,5).forEach(i=>{
-h.innerHTML+=`<li><a href="${i.url}" target="_blank">${i.title}</a></li>`;
-});
-})
-.catch(()=>{});
+/* progressive enhancement only */
+fetch('api/home.json', { cache: 'default' })
+  .then(r => { if(!r.ok) throw new Error('bad'); return r.json(); })
+  .then(data => {
+    const m = document.getElementById('markets-feed');
+    const h = document.getElementById('hn-feed');
+
+    const markets = data?.sections?.markets || [];
+    m.innerHTML = markets.length ? "" : "<li>no headlines available</li>";
+    markets.slice(0,3).forEach(i => {
+      const li = document.createElement('li');
+      li.innerHTML = `<a href="${i.url}" target="_blank" rel="noopener noreferrer">${i.title}</a>`;
+      m.appendChild(li);
+    });
+
+    const foss = data?.sections?.foss || [];
+    h.innerHTML = foss.length ? "" : "<li>no headlines available</li>";
+    foss.slice(0,5).forEach(i => {
+      const li = document.createElement('li');
+      li.innerHTML = `<a href="${i.url}" target="_blank" rel="noopener noreferrer">${i.title}</a>`;
+      h.appendChild(li);
+    });
+  })
+  .catch(() => {
+    document.getElementById('markets-feed').innerHTML = "<li>feed temporarily unavailable</li>";
+    document.getElementById('hn-feed').innerHTML = "<li>feed temporarily unavailable</li>";
+  });
 </script>
 
 </body>
