@@ -24,18 +24,24 @@ body{
   padding:14px 12px 60px;
 }
 
-/* CLEAN watermark elephant (no “film”) */
+/* Elephant watermark (WEBP preferred, PNG fallback) */
 body::before{
   content:"";
   position:fixed;
   inset:0;
-  background:
-    url("assets/elephant-third-eye.webp")
-    center 160px / 980px no-repeat;
-  opacity:.06;                 /* subtle but present */
+  background-position:center 170px;
+  background-repeat:no-repeat;
+  background-size:980px auto;
+  opacity:.085;               /* visible but not “cheap” */
   pointer-events:none;
   z-index:-1;
-  filter: contrast(1.05);
+  filter: contrast(1.06);
+  background-image: url("assets/elephant-third-eye.webp");
+}
+
+/* If WEBP isn't supported, use PNG */
+@supports not (background-image: url("x.webp")){
+  body::before{ background-image: url("assets/elephant-third-eye.png"); }
 }
 
 .wrap{max-width:620px;margin:0 auto;}
@@ -45,23 +51,28 @@ header{
   border-bottom:1px solid var(--rule);
 }
 
+/* Bigger top wordmark */
 .wordmark{
   font-style:italic;
-  font-weight:600;
-  letter-spacing:-0.5px;
-  font-size:34px;
+  font-weight:700;
+  letter-spacing:-0.6px;
+  font-size:42px;             /* was smaller; now stronger */
   line-height:1;
 }
 
+/*
+  “Clerks-like” vibe (legally clean):
+  - more handwritten/marker feel without importing fonts.
+  If you want it MORE marker-ish, tell me and we’ll add a self-hosted font file.
+*/
 .tagline{
-  margin-top:6px;
+  margin-top:7px;
   font-size:10px;
   letter-spacing:2.2px;
   color:var(--muted);
   text-transform:lowercase;
 }
 
-/* manifesto: compact, intentional */
 .manifesto{
   margin:10px 0 14px;
   padding-left:10px;
@@ -75,11 +86,8 @@ header{
   margin:3px 0;
 }
 
-.manifesto .law{
-  font-weight:700;
-}
+.manifesto .law{font-weight:800;}
 
-/* sections */
 section{margin-top:14px;}
 
 .section-title{
@@ -111,17 +119,13 @@ ul{list-style:none;}
 
 .item:last-child{border-bottom:none;}
 
-a{
-  color:var(--ink);
-  text-decoration:none;
-}
-
+a{color:var(--ink);text-decoration:none;}
 a:active{opacity:.65;}
 
 .title{
-  font-size:18px;              /* compact but readable */
+  font-size:18px;
   line-height:1.12;
-  font-weight:600;
+  font-weight:650;
   letter-spacing:-0.2px;
 }
 
@@ -133,21 +137,15 @@ a:active{opacity:.65;}
   text-transform:lowercase;
 }
 
-/* “directory” lists (projects/world/books) */
-.dir .title{
-  font-size:18px;
-  font-weight:700;
-}
-
+.dir .title{font-size:18px;font-weight:800;}
 .dir .meta{letter-spacing:1.8px;}
 
-/* subtle brand accent on hover-capable devices */
 @media (hover:hover){
   a:hover .title{color:var(--rust);}
 }
 
-/* slightly tighter on very small screens */
 @media (max-width:380px){
+  .wordmark{font-size:40px;}
   .title{font-size:17px;}
 }
 </style>
