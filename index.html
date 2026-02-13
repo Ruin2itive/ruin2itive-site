@@ -1,133 +1,228 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>ruin2itive</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <link rel="stylesheet" href="style.css?v=20260213-goal" />
+<title>ruin2itive</title>
+<meta name="description" content="Reliability first. Open source. Independent." />
+
+<style>
+
+/* -----------------------------
+   BASE
+----------------------------- */
+
+:root {
+  --paper: #f2efe9;
+  --ink: #111;
+  --muted: #6b6b6b;
+  --accent: #8e1b1b;
+  --rule: #d7d2c9;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Georgia, serif;
+  line-height: 1.6;
+}
+
+/* -----------------------------
+   ELEPHANT BACKGROUND
+----------------------------- */
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: url("assets/elephant-third-eye.webp") center 55% no-repeat;
+  background-size: 900px auto;
+  opacity: 0.08;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* -----------------------------
+   LAYOUT
+----------------------------- */
+
+.container {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 24px 20px 60px;
+  position: relative;
+  z-index: 1;
+}
+
+/* -----------------------------
+   HEADER
+----------------------------- */
+
+h1 {
+  font-size: 48px;
+  font-weight: 700;
+  margin: 0;
+  letter-spacing: -1px;
+}
+
+.tagline {
+  font-size: 14px;
+  letter-spacing: 2px;
+  color: var(--muted);
+  margin-top: 6px;
+  text-transform: lowercase;
+}
+
+.rule {
+  height: 2px;
+  background: var(--ink);
+  margin: 16px 0 26px;
+}
+
+/* -----------------------------
+   STATEMENT BOX
+----------------------------- */
+
+.statement {
+  border-left: 6px solid var(--accent);
+  padding: 18px 18px;
+  background: rgba(255,255,255,0.7);
+  font-style: italic;
+  margin-bottom: 40px;
+}
+
+.statement strong {
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* -----------------------------
+   SECTION HEADERS
+----------------------------- */
+
+.section-label {
+  font-size: 13px;
+  letter-spacing: 4px;
+  color: var(--accent);
+  text-transform: lowercase;
+  margin: 36px 0 6px;
+}
+
+.section-rule {
+  height: 1px;
+  background: var(--rule);
+  margin-bottom: 14px;
+}
+
+/* -----------------------------
+   LINKS
+----------------------------- */
+
+a {
+  text-decoration: underline;
+  color: var(--ink);
+}
+
+a:hover {
+  color: var(--accent);
+}
+
+/* -----------------------------
+   FEED ITEMS
+----------------------------- */
+
+.item {
+  margin-bottom: 20px;
+}
+
+.meta {
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 4px;
+}
+
+.loading {
+  color: var(--muted);
+  font-style: italic;
+}
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 36px;
+  }
+
+  body::before {
+    background-size: 650px auto;
+  }
+}
+
+</style>
 </head>
 
 <body>
-  <main class="page">
-    <h1 class="brand">ruin2itive</h1>
-    <div class="tagline">reliability first · open source · independent</div>
-    <hr class="rule" />
 
-    <section class="sheet">
-      <div class="watermark" aria-hidden="true"></div>
+<div class="container">
 
-      <!-- manifesto box (goal) -->
-      <div class="manifesto">
-        <p>
-          pulled from various sites. these sources are selected to ensure consistent and stable information.
-          these feeds remain hand selected, ad free, and purposeful.
-          <b>clear and concise info. stability is law.</b>
-        </p>
-      </div>
+<h1>ruin2itive</h1>
+<div class="tagline">reliability first · open source · independent</div>
+<div class="rule"></div>
 
-      <!-- projects -->
-      <div class="section-head">
-        <div class="section-title">projects / the code</div>
-        <div class="section-line"></div>
-      </div>
+<div class="statement">
+pulled from various sites. these sources are selected to ensure consistent and stable information. these feeds remain hand selected, ad free, and purposeful. <strong>clear and concise info. stability is law.</strong>
+</div>
 
-      <div class="project">
-        <h2 class="name"><a href="https://github.com/ruin2itive/ruin2itive-site" rel="noopener">ruin2itive</a></h2>
-        <div class="meta">github · src</div>
-      </div>
+<div class="section-label">projects / the code</div>
+<div class="section-rule"></div>
 
-      <div class="project">
-        <h2 class="name"><a href="https://hackster.io/" rel="noopener">arduino</a></h2>
-        <div class="meta">hackster · hardware</div>
-      </div>
+<div class="item">
+<a href="#">ruin2itive</a>
+<div class="meta">github · src</div>
+</div>
 
-      <div class="project">
-        <h2 class="name"><a href="https://www.instructables.com/" rel="noopener">raspberry pi</a></h2>
-        <div class="meta">instructables · diy</div>
-      </div>
+<div class="item">
+<a href="#">arduino</a>
+<div class="meta">hackster · hardware</div>
+</div>
 
-      <!-- feeds -->
-      <div id="feeds"></div>
+<div class="item">
+<a href="#">raspberry pi</a>
+<div class="meta">instructables · diy</div>
+</div>
 
-      <footer class="footer">
-        <div id="updated" class="updated">updated · …</div>
-      </footer>
-    </section>
-  </main>
+<div class="section-label">markets / crypto</div>
+<div class="section-rule"></div>
+<div class="loading">loading...</div>
 
-  <script>
-    const FEED_ROOT = document.getElementById("feeds");
-    const UPDATED = document.getElementById("updated");
+<div class="section-label">hacker news</div>
+<div class="section-rule"></div>
+<div class="loading">loading...</div>
 
-    function el(tag, cls, text){
-      const n = document.createElement(tag);
-      if (cls) n.className = cls;
-      if (text != null) n.textContent = text;
-      return n;
-    }
+<div class="section-label">world news</div>
+<div class="section-rule"></div>
 
-    function renderSection(title, items){
-      const head = el("div", "section-head");
-      head.appendChild(el("div", "section-title", title));
-      head.appendChild(el("div", "section-line"));
-      FEED_ROOT.appendChild(head);
+<div class="item">
+<a href="#">associated press</a>
+<div class="meta">wire</div>
+</div>
 
-      if (!items || !items.length){
-        const row = el("div", "feed-item");
-        const h = el("h3", "loading", "loading…");
-        row.appendChild(h);
-        FEED_ROOT.appendChild(row);
-        return;
-      }
+<div class="item">
+<a href="#">reuters</a>
+<div class="meta">fact based</div>
+</div>
 
-      for (const it of items){
-        const row = el("div", "feed-item");
-        const h3 = el("h3");
-        const a = el("a");
-        a.href = it.url || "#";
-        a.rel = "noopener";
-        a.textContent = it.title || "Untitled";
-        h3.appendChild(a);
+<div class="item">
+<a href="#">bbc</a>
+<div class="meta">world coverage</div>
+</div>
 
-        const meta = el("div", "feed-meta",
-          `${(it.source || "").toLowerCase()} · ${(it.time || "").toString()}`
-        );
+</div>
 
-        row.appendChild(h3);
-        row.appendChild(meta);
-        FEED_ROOT.appendChild(row);
-      }
-    }
-
-    async function load(){
-      // cache-bust every refresh so you always see newest build output
-      const bust = `v=${Date.now()}`;
-      const url = `data/home.json?${bust}`;
-
-      try{
-        const res = await fetch(url, { cache: "no-store" });
-        if (!res.ok) throw new Error("home.json not found");
-        const data = await res.json();
-
-        FEED_ROOT.innerHTML = "";
-
-        const sec = (data && data.sections) ? data.sections : {};
-        renderSection("markets / crypto", sec.crypto);
-        renderSection("hacker news", sec.hacker);
-        renderSection("world news", sec.world);
-
-        UPDATED.textContent = `updated ${data.updated_iso || "…"}`;
-      }catch(e){
-        FEED_ROOT.innerHTML = "";
-        renderSection("markets / crypto", null);
-        renderSection("hacker news", null);
-        renderSection("world news", null);
-        UPDATED.textContent = "updated · …";
-      }
-    }
-
-    load();
-  </script>
 </body>
 </html>
