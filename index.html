@@ -5,131 +5,126 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <title>ruin2itive</title>
   <meta name="description" content="reliability first · open source · independent" />
-  <meta name="theme-color" content="#f2efe7" />
+  <meta name="theme-color" content="#ffffff" />
 
   <style>
     :root{
-      --paper:#f2efe7;
-      --ink:#101010;
+      --bg:#ffffff;
+      --ink:#0d0d0d;
       --rust:#7b3f36;
-      --faint:#8f877e;
-      --rule:rgba(123,63,54,.45);
+      --muted:#6f6f6f;
+      --rule:rgba(123,63,54,.35);
     }
 
     *{ margin:0; padding:0; box-sizing:border-box; }
 
-    /* Full-site background elephant (fast: no blur, no filters) */
     body{
-      background: var(--paper);
+      background: var(--bg);
       color: var(--ink);
       font-family: Georgia, "Times New Roman", serif;
-      line-height: 1.45;
-      padding: 14px 14px 60px;
-      position: relative;
+      line-height: 1.35;
+      padding: 12px 12px 44px;
       overflow-x:hidden;
+      position: relative;
     }
 
+    /* FULL SITE WATERMARK (elephant) */
     body::before{
       content:"";
       position: fixed;
       inset: 0;
       background:
-        url("assets/elephant-mark.webp")
+        url("assets/elephant-third-eye.webp")
         center 120px / min(980px, 120vw) no-repeat;
-      opacity: .18;
+      opacity: .12;
       pointer-events: none;
       z-index: -2;
     }
 
-    /* Paper veil so text stays readable on all screens */
+    /* WHITE VEIL so text stays readable (still looks white) */
     body::after{
       content:"";
       position: fixed;
       inset: 0;
-      background: rgba(242,239,231,.86);
+      background: rgba(255,255,255,.92);
       pointer-events: none;
       z-index: -1;
     }
 
     .wrap{
-      max-width: 860px;
+      max-width: 820px;
       margin: 0 auto;
     }
 
-    /* Header = tight + identity */
     header{
-      padding: 10px 0 10px;
-      border-bottom: 2px solid rgba(16,16,16,.80);
+      padding: 8px 0 10px;
+      border-bottom: 2px solid rgba(13,13,13,.85);
     }
 
     .wordmark{
       font-style: italic;
       font-weight: 500;
-      font-size: 44px;
-      letter-spacing: .3px;
-      text-transform: none;
+      font-size: 40px;
+      letter-spacing: .2px;
+      text-transform: none; /* never caps */
     }
 
     .tagline{
       margin-top: 6px;
-      font-size: 12px;
+      font-size: 11px;
       letter-spacing: 2px;
-      color: var(--faint);
+      color: var(--muted);
       text-transform: lowercase;
     }
 
-    /* Manifesto = compact, strong, no overlays */
     .manifesto{
-      margin-top: 12px;
-      padding: 12px 12px;
+      margin-top: 10px;
+      padding: 10px 10px 10px 12px;
       border-left: 3px solid var(--rust);
-      background: rgba(255,255,255,.25);
+      background: rgba(255,255,255,.55);
     }
     .manifesto p{
       font-style: italic;
-      font-size: 16px;
-      color: rgba(16,16,16,.88);
-      margin-bottom: 8px;
+      font-size: 15px;
+      color: rgba(13,13,13,.86);
+      margin-bottom: 7px;
     }
-    .manifesto p:last-child{ margin-bottom: 0; }
+    .manifesto p:last-child{ margin-bottom:0; }
     .manifesto .law{
       font-weight: 700;
-      color: rgba(16,16,16,.96);
+      color: rgba(13,13,13,.95);
     }
 
     .rule{
       height: 2px;
       background: var(--rust);
-      margin: 14px 0 10px;
-      opacity: .85;
+      margin: 12px 0 10px;
+      opacity: .9;
     }
 
-    /* Sections = dense */
-    section{
-      margin-top: 14px;
-    }
+    section{ margin-top: 10px; }
 
     h2{
-      font-size: 12px;
+      font-size: 11px;
       letter-spacing: 3px;
       text-transform: lowercase;
       color: var(--rust);
-      padding: 8px 0 6px;
+      padding: 6px 0 6px;
       border-bottom: 1px dotted var(--rule);
-      margin-bottom: 8px;
+      margin-bottom: 6px;
     }
 
     ul{ list-style:none; }
 
     li{
-      padding: 10px 0;
-      border-bottom: 1px dotted rgba(123,63,54,.25);
+      padding: 7px 0;
+      border-bottom: 1px dotted rgba(123,63,54,.18);
     }
 
     a{
       color: var(--ink);
       text-decoration: none;
-      border-bottom: 1px solid rgba(16,16,16,.85);
+      border-bottom: 1px solid rgba(13,13,13,.75);
       padding-bottom: 1px;
     }
     a:hover{
@@ -139,37 +134,36 @@
 
     .meta{
       display:block;
-      margin-top: 4px;
-      font-size: 12px;
+      margin-top: 3px;
+      font-size: 11px;
       letter-spacing: 1px;
-      color: var(--faint);
+      color: var(--muted);
       text-transform: lowercase;
     }
 
     footer{
-      margin-top: 22px;
-      padding-top: 12px;
+      margin-top: 16px;
+      padding-top: 10px;
       border-top: 1px solid var(--rule);
-      color: var(--faint);
-      font-size: 12px;
+      color: var(--muted);
+      font-size: 11px;
       letter-spacing: 1px;
       text-transform: lowercase;
       display:flex;
       justify-content: space-between;
       flex-wrap: wrap;
-      gap: 10px;
+      gap: 8px;
     }
 
-    /* Mobile tighten */
     @media (max-width: 520px){
-      .wordmark{ font-size: 38px; }
+      .wordmark{ font-size: 36px; }
       body::before{
         background-position: center 130px;
         background-size: min(860px, 140vw);
-        opacity: .20;
+        opacity: .13;
       }
-      .manifesto p{ font-size: 15px; }
-      li{ padding: 9px 0; }
+      .manifesto p{ font-size: 14px; }
+      li{ padding: 6px 0; }
     }
   </style>
 </head>
@@ -247,9 +241,6 @@
   </div>
 
   <script>
-    // Works on GitHub Pages + custom domains:
-    // - tries ./api/home.json
-    // - if your file is at /api/home.json, this still resolves correctly.
     fetch('./api/home.json', { cache: 'no-store' })
       .then(r => { if(!r.ok) throw new Error('bad'); return r.json(); })
       .then(data => {
