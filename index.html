@@ -9,12 +9,12 @@
 :root{
   --paper:#f4f1ea;
   --ink:#111111;
-  --accent:#8b1e1e;
-  --rule: rgba(0,0,0,0.60);
+  --muted: rgba(0,0,0,0.58);
+  --rule: rgba(0,0,0,0.55);
+  --accent:#8b1e1e; /* restrained punk red */
 }
 
 *{ box-sizing:border-box; }
-
 html, body{ height:100%; }
 
 body{
@@ -22,168 +22,184 @@ body{
   font-family: Georgia, "Times New Roman", serif;
   background: var(--paper);
   color: var(--ink);
-  line-height:1.6;
+  line-height:1.45; /* tighter = newspaper */
 }
 
-/* Elephant watermark (lower + fainter = never competes) */
+/* --- Elephant watermark (stronger, print-like) --- */
 body::before{
   content:"";
-  position:fixed;
-  inset:0;
-  background-image:url("assets/elephant-third-eye.webp");
-  background-repeat:no-repeat;
-  background-position:center 72%;
-  background-size:min(760px, 92vw);
-  opacity:0.08;
+  position: fixed;
+  inset: 0;
+  background-image: url("assets/elephant-third-eye.webp");
+  background-repeat: no-repeat;
+  background-position: center 64%;
+  background-size: min(820px, 96vw);
+  opacity: 0.18; /* ↑ make it present */
   pointer-events:none;
   z-index:0;
-  filter: contrast(1.02) saturate(0.85);
+  filter: contrast(1.08) saturate(0.85);
 }
 
-/* Paper haze (keeps text readable) */
+/* --- Paper haze: keeps text readable while letting elephant show --- */
 body::after{
   content:"";
-  position:fixed;
-  inset:0;
-  background:
-    radial-gradient(circle at 50% 18%,
-      rgba(244,241,234,0.92) 0%,
-      rgba(244,241,234,0.72) 48%,
-      rgba(244,241,234,0.48) 75%,
-      rgba(244,241,234,0.32) 100%);
+  position: fixed;
+  inset: 0;
   pointer-events:none;
   z-index:1;
+  background:
+    radial-gradient(circle at 50% 22%,
+      rgba(244,241,234,0.92) 0%,
+      rgba(244,241,234,0.70) 46%,
+      rgba(244,241,234,0.55) 72%,
+      rgba(244,241,234,0.45) 100%);
 }
 
-/* Grain (E): subtle print texture, CSS-only */
-.grain{
-  position:fixed;
-  inset:0;
+/* --- Punk grit (real noise via SVG filter; no files needed) --- */
+.grit{
+  position: fixed;
+  inset: 0;
   z-index:2;
   pointer-events:none;
-  opacity:0.10;
-  mix-blend-mode:multiply;
-  background-image:
+  opacity:0.22;              /* ↑ visible grit */
+  mix-blend-mode:multiply;   /* print-like */
+  filter: url(#noiseFilter);
+  background:
     repeating-linear-gradient(0deg,
-      rgba(0,0,0,0.025) 0px,
-      rgba(0,0,0,0.025) 1px,
-      rgba(255,255,255,0.00) 2px,
-      rgba(255,255,255,0.00) 4px),
-    repeating-linear-gradient(90deg,
-      rgba(0,0,0,0.018) 0px,
-      rgba(0,0,0,0.018) 1px,
-      rgba(255,255,255,0.00) 2px,
-      rgba(255,255,255,0.00) 6px);
+      rgba(0,0,0,0.035) 0px,
+      rgba(0,0,0,0.035) 1px,
+      rgba(255,255,255,0.0) 2px,
+      rgba(255,255,255,0.0) 5px);
 }
 
 /* Layout */
 .wrapper{
-  position:relative;
+  position: relative;
   z-index:3;
-  max-width:720px;
-  margin:0 auto;
-  padding:40px 20px 90px 20px;
+  max-width: 760px; /* slightly wider = broadsheet feel */
+  margin: 0 auto;
+  padding: 38px 20px 90px 20px;
 }
 
-/* Header */
-.site-header{
-  margin-bottom:28px;
-}
-
+/* Header: more NYT rhythm */
 .site-title{
-  font-size:3rem;
   margin:0;
-  font-weight:800;
-  letter-spacing:-0.5px; /* tighter = newspaper */
+  font-size: 3.15rem;
+  font-weight: 800;
+  letter-spacing: -0.8px;
 }
 
 .site-tagline{
-  font-size:0.85rem;
-  letter-spacing:2px;
-  opacity:0.70;
-  margin:6px 0 14px 0;
+  margin: 6px 0 12px 0;
+  font-size: 0.86rem;
+  letter-spacing: 1.2px; /* less spaced-out */
+  color: var(--muted);
 }
 
-.divider{
+/* NYT-style rules */
+.rule{
   border:none;
-  border-top:1px solid var(--rule);
   margin:0;
+  height:0;
+  border-top: 1px solid var(--rule);
+}
+
+.rule.double{
+  margin-top: 10px;
+  border-top: 1px solid var(--rule);
+  position: relative;
+}
+.rule.double::after{
+  content:"";
+  display:block;
+  border-top: 1px solid rgba(0,0,0,0.18);
+  margin-top: 4px;
 }
 
 /* Sections */
 .section{
-  margin-top:36px;
+  margin-top: 30px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(0,0,0,0.10); /* subtle print separation */
 }
 
 .section-title{
-  margin:0 0 12px 0;
-  font-size:0.9rem;
-  letter-spacing:1.5px;    /* tightened */
-  text-transform:lowercase;
-  color:var(--accent);
+  margin: 0 0 14px 0;
+  font-size: 0.9rem;
+  letter-spacing: 1.2px;
+  text-transform: lowercase;
+  color: var(--accent);
 }
 
-/* Items */
-.item{
-  margin:0 0 18px 0;
-}
+/* Items: headline + deck */
+.item{ margin: 0 0 18px 0; }
 
 .item-title{
-  font-size:1.12rem;
   margin:0;
-  font-weight:800;
+  font-size: 1.18rem;
+  font-weight: 800;
 }
 
 .item-title a{
-  text-decoration:none;
-  color:var(--ink);
+  color: var(--ink);
+  text-decoration: none;
 }
-
-.item-title a:hover{
-  text-decoration:underline;
-}
+.item-title a:hover{ text-decoration: underline; }
 
 .item-meta{
-  font-size:0.8rem;
-  opacity:0.60;
-  margin-top:2px;
+  margin-top: 2px;
+  font-size: 0.82rem;
+  color: var(--muted);
 }
 
-/* Loading: feels like a paper edition holding space */
+/* Loading text reads like print placeholder */
 .loading{
-  font-style:italic;
-  opacity:0.60;
-  margin-top:10px;
+  margin-top: 8px;
+  font-style: italic;
+  color: var(--muted);
 }
 
 /* Footer */
 footer{
-  margin-top:90px;
-  font-size:0.75rem;
-  opacity:0.55;
+  margin-top: 70px;
+  font-size: 0.78rem;
+  color: rgba(0,0,0,0.46);
 }
 
 /* Mobile tuning */
 @media (max-width:600px){
-  .site-title{ font-size:2.35rem; }
+  .site-title{ font-size: 2.45rem; }
   body::before{
-    background-position:center 74%;
-    background-size:min(640px, 96vw);
-    opacity:0.085;
+    background-position: center 66%;
+    opacity: 0.19;
   }
-  .grain{ opacity:0.11; }
+  .grit{ opacity: 0.24; }
 }
 </style>
 </head>
 
 <body>
-  <div class="grain" aria-hidden="true"></div>
+  <!-- Noise filter definition (no assets required) -->
+  <svg width="0" height="0" style="position:absolute">
+    <filter id="noiseFilter">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="matrix"
+        values="
+          0.40 0    0    0 0
+          0    0.40 0    0 0
+          0    0    0.40 0 0
+          0    0    0    0.25 0"/>
+    </filter>
+  </svg>
+
+  <div class="grit" aria-hidden="true"></div>
 
   <div class="wrapper">
-    <header class="site-header">
+    <header>
       <h1 class="site-title">ruin2itive</h1>
-      <p class="site-tagline">reliability first · open source · independent</p>
-      <hr class="divider" />
+      <div class="site-tagline">reliability first · open source · independent</div>
+      <hr class="rule" />
+      <hr class="rule double" />
     </header>
 
     <section class="section">
