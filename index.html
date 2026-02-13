@@ -5,190 +5,176 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>ruin2itive</title>
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
+
 <style>
 :root{
   --paper:#f4f1ea;
-  --ink:#111111;
-  --muted: rgba(0,0,0,0.58);
-  --rule: rgba(0,0,0,0.55);
-  --accent:#8b1e1e; /* restrained punk red */
+  --ink:#111;
+  --muted: rgba(0,0,0,0.60);
+  --rule: rgba(0,0,0,0.52);
+  --hair: rgba(0,0,0,0.10);
+  --accent:#8b1e1e;
 }
 
 *{ box-sizing:border-box; }
-html, body{ height:100%; }
+html,body{ height:100%; }
 
 body{
   margin:0;
-  font-family: Georgia, "Times New Roman", serif;
-  background: var(--paper);
-  color: var(--ink);
-  line-height:1.45; /* tighter = newspaper */
+  background:var(--paper);
+  color:var(--ink);
+  font-family:"Source Serif 4", Georgia, serif;
+  line-height:1.42;
 }
 
-/* --- Elephant watermark (stronger, print-like) --- */
+/* Elephant watermark */
 body::before{
   content:"";
-  position: fixed;
-  inset: 0;
-  background-image: url("assets/elephant-third-eye.webp");
-  background-repeat: no-repeat;
-  background-position: center 64%;
-  background-size: min(820px, 96vw);
-  opacity: 0.18; /* ↑ make it present */
+  position:fixed;
+  inset:0;
+  background:url("assets/elephant-third-eye.webp") no-repeat center 64%;
+  background-size:min(840px, 96vw);
+  opacity:0.18;
   pointer-events:none;
   z-index:0;
   filter: contrast(1.08) saturate(0.85);
 }
 
-/* --- Paper haze: keeps text readable while letting elephant show --- */
+/* Paper haze */
 body::after{
   content:"";
-  position: fixed;
-  inset: 0;
+  position:fixed;
+  inset:0;
   pointer-events:none;
   z-index:1;
-  background:
-    radial-gradient(circle at 50% 22%,
-      rgba(244,241,234,0.92) 0%,
-      rgba(244,241,234,0.70) 46%,
-      rgba(244,241,234,0.55) 72%,
-      rgba(244,241,234,0.45) 100%);
+  background: radial-gradient(circle at 50% 20%,
+    rgba(244,241,234,0.92) 0%,
+    rgba(244,241,234,0.70) 46%,
+    rgba(244,241,234,0.55) 72%,
+    rgba(244,241,234,0.45) 100%);
 }
 
-/* --- Punk grit (real noise via SVG filter; no files needed) --- */
+/* Print grit (art-directed: light in highlights, heavier mid) */
 .grit{
-  position: fixed;
-  inset: 0;
+  position:fixed;
+  inset:0;
   z-index:2;
   pointer-events:none;
-  opacity:0.22;              /* ↑ visible grit */
-  mix-blend-mode:multiply;   /* print-like */
-  filter: url(#noiseFilter);
-  background:
-    repeating-linear-gradient(0deg,
-      rgba(0,0,0,0.035) 0px,
-      rgba(0,0,0,0.035) 1px,
-      rgba(255,255,255,0.0) 2px,
-      rgba(255,255,255,0.0) 5px);
+  mix-blend-mode:multiply;
+  opacity:0.20;
+  filter:url(#noiseFilter);
 }
 
-/* Layout */
 .wrapper{
-  position: relative;
+  position:relative;
   z-index:3;
-  max-width: 760px; /* slightly wider = broadsheet feel */
-  margin: 0 auto;
-  padding: 38px 20px 90px 20px;
+  max-width:760px;
+  margin:0 auto;
+  padding:38px 20px 90px;
 }
 
-/* Header: more NYT rhythm */
+/* Masthead */
 .site-title{
   margin:0;
-  font-size: 3.15rem;
-  font-weight: 800;
-  letter-spacing: -0.8px;
+  font-family:"IM Fell English SC", serif;
+  font-size:3.25rem;
+  letter-spacing:-0.6px;
 }
 
 .site-tagline{
-  margin: 6px 0 12px 0;
-  font-size: 0.86rem;
-  letter-spacing: 1.2px; /* less spaced-out */
-  color: var(--muted);
+  margin:6px 0 12px 0;
+  font-size:0.88rem;
+  letter-spacing:1px;
+  color:var(--muted);
 }
 
-/* NYT-style rules */
-.rule{
-  border:none;
-  margin:0;
-  height:0;
-  border-top: 1px solid var(--rule);
-}
-
-.rule.double{
-  margin-top: 10px;
-  border-top: 1px solid var(--rule);
-  position: relative;
-}
+/* Rules */
+.rule{ border:none; border-top:1px solid var(--rule); margin:0; }
+.rule.double{ margin-top:10px; position:relative; }
 .rule.double::after{
   content:"";
   display:block;
-  border-top: 1px solid rgba(0,0,0,0.18);
-  margin-top: 4px;
+  border-top:1px solid rgba(0,0,0,0.18);
+  margin-top:4px;
 }
 
 /* Sections */
 .section{
-  margin-top: 30px;
-  padding-top: 12px;
-  border-top: 1px solid rgba(0,0,0,0.10); /* subtle print separation */
+  margin-top:30px;
+  padding-top:14px;
+  border-top:1px solid var(--hair);
 }
 
 .section-title{
-  margin: 0 0 14px 0;
-  font-size: 0.9rem;
-  letter-spacing: 1.2px;
-  text-transform: lowercase;
-  color: var(--accent);
+  margin:0 0 14px 0;
+  font-size:0.92rem;
+  letter-spacing:1.1px;
+  text-transform:lowercase;
+  color:var(--accent);
 }
 
-/* Items: headline + deck */
-.item{ margin: 0 0 18px 0; }
+/* Items */
+.item{ margin:0 0 18px; }
 
 .item-title{
   margin:0;
-  font-size: 1.18rem;
-  font-weight: 800;
+  font-size:1.18rem;
+  font-weight:700;
 }
 
 .item-title a{
-  color: var(--ink);
-  text-decoration: none;
+  color:var(--ink);
+  text-decoration:none;
+  border-bottom:1px solid rgba(0,0,0,0.0);
+  transition:border-color .15s ease, color .15s ease;
 }
-.item-title a:hover{ text-decoration: underline; }
+.item-title a:hover{
+  color:rgba(0,0,0,0.92);
+  border-bottom-color:rgba(0,0,0,0.25);
+}
 
 .item-meta{
-  margin-top: 2px;
-  font-size: 0.82rem;
-  color: var(--muted);
+  margin-top:2px;
+  font-size:0.82rem;
+  color:var(--muted);
 }
 
-/* Loading text reads like print placeholder */
+/* Loading */
 .loading{
-  margin-top: 8px;
-  font-style: italic;
-  color: var(--muted);
+  margin-top:8px;
+  font-style:italic;
+  color:var(--muted);
 }
 
-/* Footer */
 footer{
-  margin-top: 70px;
-  font-size: 0.78rem;
-  color: rgba(0,0,0,0.46);
+  margin-top:70px;
+  font-size:0.78rem;
+  color:rgba(0,0,0,0.46);
 }
 
-/* Mobile tuning */
 @media (max-width:600px){
-  .site-title{ font-size: 2.45rem; }
-  body::before{
-    background-position: center 66%;
-    opacity: 0.19;
-  }
-  .grit{ opacity: 0.24; }
+  .site-title{ font-size:2.55rem; }
+  body::before{ opacity:0.19; }
+  .grit{ opacity:0.22; }
 }
+
+/* Optional: reduce motion not needed; page is static */
 </style>
 </head>
 
 <body>
-  <!-- Noise filter definition (no assets required) -->
   <svg width="0" height="0" style="position:absolute">
     <filter id="noiseFilter">
-      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" stitchTiles="stitch"/>
       <feColorMatrix type="matrix"
         values="
-          0.40 0    0    0 0
-          0    0.40 0    0 0
-          0    0    0.40 0 0
-          0    0    0    0.25 0"/>
+          0.45 0    0    0 0
+          0    0.45 0    0 0
+          0    0    0.45 0 0
+          0    0    0    0.22 0"/>
     </filter>
   </svg>
 
@@ -198,8 +184,8 @@ footer{
     <header>
       <h1 class="site-title">ruin2itive</h1>
       <div class="site-tagline">reliability first · open source · independent</div>
-      <hr class="rule" />
-      <hr class="rule double" />
+      <hr class="rule">
+      <hr class="rule double">
     </header>
 
     <section class="section">
