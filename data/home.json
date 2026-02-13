@@ -1,120 +1,68 @@
 {
-  "updated_iso": "2026-02-13T10:34:44.939Z",
-  "sections": {
-    "projects": [
-      {
-        "title": "ruin2itive",
-        "url": "https://github.com/ruin2itive/ruin2itive-site",
-        "meta": "github · src"
-      },
-      {
-        "title": "arduino",
-        "url": "https://hackster.io/",
-        "meta": "hackster · hardware"
-      },
-      {
-        "title": "raspberry pi",
-        "url": "https://www.instructables.com/",
-        "meta": "instructables · diy"
-      }
-    ],
-    "markets_crypto": {
-      "ok": true,
-      "items": [
-        {
-          "title": "US Prosecutors Warn of Crypto-Linked Romance Scams Ahead of Valentine’s Day",
-          "url": "https://decrypt.co/357994/valentines-day-alert-romance-scams",
-          "date": "2026-02-13T04:58:19.000Z",
-          "source": "decrypt"
-        },
-        {
-          "title": "Bitcoin Signals Turning Point—But No Clear Bottom Yet, Experts Say",
-          "url": "https://decrypt.co/357992/bitcoin-signals-turning-point-no-clear-bottom-yet-experts",
-          "date": "2026-02-13T04:24:34.000Z",
-          "source": "decrypt"
-        }
-      ]
+  "crypto": [
+    {
+      "title": "Elon Musk Accuses Anthropic AI of Being 'Misanthropic' After $30B Funding Round",
+      "url": "https://decrypt.co/357997/elon-musk-accuses-anthropic-ai-of-being-misanthropic-after-30b-funding-round"
     },
-    "hacker_news": {
-      "ok": true,
-      "items": [
-        {
-          "title": "Show HN: Solitaires.gg – Free ad-free solitaire in the browser",
-          "url": "https://www.solitaires.gg",
-          "date": "2026-02-13T10:30:14.000Z",
-          "source": "hn"
-        },
-        {
-          "title": "AI Agent Seemingly Tries to Shame Open Source Developer",
-          "url": "https://www.theregister.com/2026/02/12/ai_bot_developer_rejected_pull_request/",
-          "date": "2026-02-13T10:28:40.000Z",
-          "source": "hn"
-        }
-      ]
+    {
+      "title": "US Prosecutors Warn of Crypto-Linked Romance Scams Ahead of Valentine’s Day",
+      "url": "https://decrypt.co/357994/valentines-day-alert-romance-scams"
     },
-    "world_news": {
-      "ap": {
-        "ok": true,
-        "items": [
-          {
-            "title": "A look at false claims made by the Trump administration as it revokes a key scientific finding - AP News",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcktVTzgwMHJYVFhXdlVDRmplUXA4N1J3NjZVQlJuQlpWcW1aZEd0X1l3a3NERVIzOTVTSEhHVEE4a05iMzNDOW1WYkpxRGxEMkREOHdkUTVyMzFIOTVwYkVBQ2V1bVJTZktmbWRGeTlVMjdYcVhIU0hwQkpldmpBVEhKTnkwZXVYT2tGQW5vQnlQZlFxVWFhWVVoTkJOU3o0V2tpaURQZFBya1FFNGRtZA?oc=5",
-            "date": "2026-02-12T22:56:00.000Z",
-            "source": "associated press"
-          },
-          {
-            "title": "Federica Brignone likens comeback from broken leg to super-G gold at home Olympics to a 'fake' film - AP News",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZDNOeUNGbldRc3FyenoweldIc3BreUxwVXlvazVKRk5ISEhuQk1KWkFwdEpFUWZLY3RMMC12RHU4YXU1bzRFbUNiOHhOSi1WTWtRVm5tdXAtZkdTczNucWk0ZkJTaDNzNnVGS3FjLS1tUWRfV0ZoUDNVSXQ3Ri03d2dSWDFkRklnQy1aaXNuRERieEVjUUNEYm9uODBOOHkySGc?oc=5",
-            "date": "2026-02-13T04:15:21.000Z",
-            "source": "associated press"
-          }
-        ]
-      },
-      "reuters": {
-        "ok": true,
-        "items": [
-          {
-            "title": "Exclusive: India's Reliance wins US licence for Venezuelan oil, sources say - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdy1HQVRzQmVOdkVhOVJjTEJXZFlpbGFCLVFtVVV3Sjd3RTZZMC1UU2VwRFpRTkVMc014U0pxRXpaSXJHeTRjWi1NWFNfTVAwZ2JtdThCMFNQTlZyczRvczEzLXBHdUZ1SXZ3NFMxZ0QybFdpRk92a2s0VVZMbklnQ0N1dFc2bXl0ZEIyYUFZOXZjT2pRTlpWOVRtWVNKUmVhNktBQkdSWUNFa1R4c0tz?oc=5",
-            "date": "2026-02-13T08:40:02.000Z",
-            "source": "reuters"
-          },
-          {
-            "title": "Second US aircraft carrier to head to Middle East amid Iran tensions, US media reports - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeTc5ZElWSk1tYk5RUUp6cldoMU53LUtyWXJXdnBuZzdJRm5Ba25HbWlhcDVQRlUzUzc5aHNWdkZTRVRJcVBfR2RHZTQ4S1VObVM5RWNSNUpGU3F1MmZrZDQ1cEE4eDdiVlhod3VobUY1Q05iVlpYMzdhMERJOEM0OGdEMEtBQk5nMnlVNV9uenVURlJUMWdETUR6eTBVRXkxcHZwbkI4QmRjN2pvNGxTek1pSXVjSHo2SUlyR2dzd281dUNqYVdJZlNRdlluQm1ZUDdqQkRlTmxKUQ?oc=5",
-            "date": "2026-02-13T07:04:00.000Z",
-            "source": "reuters"
-          }
-        ]
-      },
-      "bbc": {
-        "ok": true,
-        "items": [
-          {
-            "title": "Trump revokes landmark ruling that greenhouse gases endanger public health",
-            "url": "https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss",
-            "date": "2026-02-13T09:45:18.000Z",
-            "source": "bbc"
-          },
-          {
-            "title": "'My husband stole £600k for sex and antiques' - medication side effects tearing families apart",
-            "url": "https://www.bbc.com/news/articles/clym0g4rlr2o?at_medium=RSS&at_campaign=rss",
-            "date": "2026-02-13T06:02:40.000Z",
-            "source": "bbc"
-          }
-        ]
-      }
+    {
+      "title": "Bitcoin Signals Turning Point—But No Clear Bottom Yet, Experts Say",
+      "url": "https://decrypt.co/357992/bitcoin-signals-turning-point-no-clear-bottom-yet-experts"
     },
-    "ufo_uap": {
-      "ok": true,
-      "items": [
-        {
-          "title": "(Mother) Road to the Stars: Route 66 and its Space Heritage - City of Chandler (.gov)",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb2Z1SHppMUliaXNNeTM0WUJKMDJBdTNkYXl6X0ZOTnQwZktBYUdNaWNxeVRPWjB0OFZpbUpza1lfbC1lNF94VzI0d01ybFo4TU5oc0Y4RzVmaHkzWE4xWHZPcUdtOC1KV3RKVG1MMTk2X1RLTjExOElTRDZRczlfcU0yQ2hzUEFJRTVTUVhn?oc=5",
-          "date": "2026-02-10T03:16:35.000Z",
-          "source": "ufo / uap"
-        }
-      ]
+    {
+      "title": "CFTC Brings Crypto Heavyweights Onto Advisory Panel Amid Fight Over Market Structure",
+      "url": "https://decrypt.co/357978/cftc-crypto-heavyweights-advisory-panel-fight-over-market-structure"
+    },
+    {
+      "title": "Crypto Flows to Suspected Human Trafficking Services Jump 85% in 2025: Chainalysis",
+      "url": "https://decrypt.co/357966/crypto-flows-suspected-human-trafficking-services-chainalysis"
     }
-  }
+  ],
+  "hn": [
+    {
+      "title": "WolfSSL Sucks Too, So Now What?",
+      "url": "https://blog.feld.me/posts/2026/02/wolfssl-sucks-too/"
+    },
+    {
+      "title": "MinIO repository is no longer maintained",
+      "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f"
+    },
+    {
+      "title": "Asimov (YC W26) Is Hiring",
+      "url": "https://news.ycombinator.com/item?id=46999753"
+    },
+    {
+      "title": "Ring owners are returning their cameras",
+      "url": "https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3"
+    },
+    {
+      "title": "MMAcevedo aka Lena by qntm",
+      "url": "https://qntm.org/mmacevedo"
+    }
+  ],
+  "world": [
+    {
+      "title": "Rubio warns Europe of new era in geopolitics before big Munich speech",
+      "url": "https://www.bbc.com/news/articles/c99jxryd9xko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump revokes landmark ruling that greenhouse gases endanger public health",
+      "url": "https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Japan says it seized Chinese vessel amid tensions with Beijing",
+      "url": "https://www.bbc.com/news/articles/c2e4791re38o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Iran fortifies underground complex near nuclear site, satellite images show",
+      "url": "https://www.bbc.com/news/articles/cwygxz81330o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Australia's Liberal Party ousts first woman leader",
+      "url": "https://www.bbc.com/news/articles/cr5lmgdmy9mo?at_medium=RSS&at_campaign=rss"
+    }
+  ]
 }
