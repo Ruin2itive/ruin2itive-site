@@ -22,29 +22,59 @@ body{
   padding:18px 14px 60px;
 }
 
-/* Elephant watermark */
-
+/* 1) Elephant watermark (stronger, still readable) */
 body::before{
   content:"";
   position:fixed;
   inset:0;
   background:
     url("assets/elephant-third-eye.webp")
-    center -80px / 1000px no-repeat;
-  opacity:.035;
+    center -60px / 1050px no-repeat;
+  opacity:.08;                 /* <-- was too faint; this is stronger */
+  pointer-events:none;
+  z-index:-2;
+  filter: contrast(1.05);
+}
+
+/* 2) 35mm film overlay (grain + scratches + vignette) */
+body::after{
+  content:"";
+  position:fixed;
+  inset:0;
   pointer-events:none;
   z-index:-1;
+
+  /* Layer stack:
+     A) SVG fractal noise (grain)
+     B) scratch lines (repeating linear gradients)
+     C) vignette edges (radial gradient)
+  */
+  background-image:
+    url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='160'%20height='160'%3E%3Cfilter%20id='n'%3E%3CfeTurbulence%20type='fractalNoise'%20baseFrequency='.9'%20numOctaves='3'%20stitchTiles='stitch'/%3E%3C/filter%3E%3Crect%20width='100%25'%20height='100%25'%20filter='url(%23n)'%20opacity='.55'/%3E%3C/svg%3E"),
+    repeating-linear-gradient(90deg, rgba(0,0,0,.045) 0 1px, rgba(0,0,0,0) 1px 7px),
+    repeating-linear-gradient(0deg, rgba(0,0,0,.03) 0 1px, rgba(0,0,0,0) 1px 11px),
+    radial-gradient(ellipse at center, rgba(255,255,255,0) 58%, rgba(0,0,0,.10) 100%);
+
+  background-size:
+    220px 220px,
+    100% 100%,
+    100% 100%,
+    100% 100%;
+
+  background-position:
+    0 0,
+    0 0,
+    0 0,
+    center;
+
+  opacity:.20;                 /* overall film/grunge strength */
+  mix-blend-mode:multiply;     /* makes it feel like ink/film, not a flat overlay */
 }
 
 /* layout */
-
-.wrap{
-  max-width:600px;
-  margin:auto;
-}
+.wrap{max-width:600px;margin:auto;}
 
 /* header */
-
 header{
   border-bottom:2px solid #000;
   padding-bottom:4px;
@@ -65,7 +95,6 @@ header{
 }
 
 /* manifesto */
-
 .manifesto{
   margin:8px 0 10px;
   padding-left:10px;
@@ -78,15 +107,10 @@ header{
   margin-bottom:2px;
 }
 
-.manifesto .law{
-  font-weight:700;
-}
+.manifesto .law{font-weight:700;}
 
 /* sections */
-
-section{
-  margin-top:10px;
-}
+section{margin-top:10px;}
 
 h2{
   font-size:9px;
@@ -99,9 +123,7 @@ h2{
 
 ul{list-style:none;}
 
-li{
-  padding:3px 0;
-}
+li{padding:3px 0;}
 
 a{
   text-decoration:none;
@@ -127,59 +149,87 @@ a:hover{
 <div class="wrap">
 
 <header>
-<div class="wordmark">ruin2itive</div>
-<div class="tagline">reliability first · open source · independent</div>
+  <div class="wordmark">ruin2itive</div>
+  <div class="tagline">reliability first · open source · independent</div>
 </header>
 
 <div class="manifesto">
-<p>pulled from various sites. these sources are selected to ensure consistent and stable information.</p>
-<p>these feeds remain hand selected, ad free, and purposeful.</p>
-<p class="law">clear and concise info. stability is law.</p>
+  <p>pulled from various sites. these sources are selected to ensure consistent and stable information.</p>
+  <p>these feeds remain hand selected, ad free, and purposeful.</p>
+  <p class="law">clear and concise info. stability is law.</p>
 </div>
 
 <section>
-<h2>projects / the code</h2>
-<ul>
-<li><a href="#">ruin2itive</a><span class="meta">github · src</span></li>
-<li><a href="#">arduino</a><span class="meta">hardware</span></li>
-<li><a href="#">raspberry pi</a><span class="meta">diy</span></li>
-</ul>
+  <h2>projects / the code</h2>
+  <ul>
+    <li><a href="https://github.com/Ruin2itive">ruin2itive</a><span class="meta">github · src</span></li>
+    <li><a href="https://www.hackster.io/arduino/projects">arduino</a><span class="meta">hardware</span></li>
+    <li><a href="https://www.instructables.com/Raspberry-Pi-Projects/">raspberry pi</a><span class="meta">diy</span></li>
+  </ul>
 </section>
 
 <section>
-<h2>markets / crypto</h2>
-<ul>
-<li><a href="#">Bitcoin ETFs See $1.2B Inflows as Price Holds $67K</a><span class="meta">decrypt</span></li>
-<li><a href="#">SEC Delays Ethereum ETF Decision to May</a><span class="meta">decrypt</span></li>
-<li><a href="#">Solana Mobile Chapter 2 Pre-Orders Hit 100K</a><span class="meta">decrypt</span></li>
-</ul>
+  <h2>markets / crypto</h2>
+  <ul id="markets-feed">
+    <li><a href="#">Loading…</a><span class="meta">decrypt</span></li>
+  </ul>
 </section>
 
 <section>
-<h2>hacker news</h2>
-<ul>
-<li><a href="#">Show HN: I built a static site generator in Go</a><span class="meta">hn</span></li>
-<li><a href="#">Raspberry Pi 5 now supports NVMe SSDs via HAT+</a><span class="meta">hn</span></li>
-<li><a href="#">California Privacy Agency proposes AI transparency rules</a><span class="meta">hn</span></li>
-</ul>
+  <h2>hacker news</h2>
+  <ul id="hn-feed">
+    <li><a href="#">Loading…</a><span class="meta">hn</span></li>
+  </ul>
 </section>
 
 <section>
-<h2>world news</h2>
-<ul>
-<li><a href="#">associated press</a></li>
-<li><a href="#">reuters</a></li>
-<li><a href="#">bbc</a></li>
-</ul>
+  <h2>world news</h2>
+  <ul>
+    <li><a href="https://apnews.com/">associated press</a></li>
+    <li><a href="https://www.reuters.com/">reuters</a></li>
+    <li><a href="https://www.bbc.com/news">bbc</a></li>
+  </ul>
 </section>
 
 <section>
-<h2>free banned books</h2>
-<ul>
-<li><a href="#">open library</a></li>
-<li><a href="#">standard ebooks</a></li>
-</ul>
+  <h2>free banned books</h2>
+  <ul>
+    <li><a href="https://openlibrary.org/">open library</a></li>
+    <li><a href="https://standardebooks.org/">standard ebooks</a></li>
+  </ul>
 </section>
+
+<script>
+fetch('/api/home.json')
+  .then(r => r.ok ? r.json() : Promise.reject())
+  .then(data => {
+    const markets = document.getElementById('markets-feed');
+    const hn = document.getElementById('hn-feed');
+
+    if (data?.sections?.markets?.length) {
+      markets.innerHTML = '';
+      data.sections.markets.slice(0,3).forEach(item => {
+        const li = document.createElement('li');
+        li.innerHTML =
+          `<a href="${item.url}">${item.title}</a>` +
+          `<span class="meta">${item.source || 'decrypt'}${item.timestamp ? ' · ' + item.timestamp : ''}</span>`;
+        markets.appendChild(li);
+      });
+    }
+
+    if (data?.sections?.foss?.length) {
+      hn.innerHTML = '';
+      data.sections.foss.slice(0,5).forEach(item => {
+        const li = document.createElement('li');
+        li.innerHTML =
+          `<a href="${item.url}">${item.title}</a>` +
+          `<span class="meta">${item.source || 'hn'}${item.timestamp ? ' · ' + item.timestamp : ''}</span>`;
+        hn.appendChild(li);
+      });
+    }
+  })
+  .catch(() => {});
+</script>
 
 </div>
 </body>
