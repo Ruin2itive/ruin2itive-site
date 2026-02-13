@@ -1,9 +1,13 @@
-/* ---------- base ---------- */
+/* ===============================
+   ruin2itive – compact edition
+   =============================== */
+
 :root{
   --paper: #f2efe8;
   --ink: #111;
   --muted: rgba(0,0,0,.55);
-  --line: rgba(0,0,0,.15);
+  --line: rgba(0,0,0,.18);
+  --line-strong: rgba(0,0,0,.6);
   --accent: #7b3d35;
 }
 
@@ -12,149 +16,160 @@
 html,body{
   margin:0;
   padding:0;
-  background: var(--paper);
-  color: var(--ink);
+  background:var(--paper);
+  color:var(--ink);
   font-family: Georgia, "Times New Roman", serif;
 }
 
-/* tighter column */
 .page{
-  max-width: 680px;
-  margin: 0 auto;
-  padding: 16px 14px 32px;
+  max-width:720px;
+  margin:0 auto;
+  padding:16px 14px 40px;
 }
 
-/* ---------- masthead ---------- */
+/* ===============================
+   Masthead
+   =============================== */
 
 .brand{
   margin:0;
   font-weight:800;
-  font-size: clamp(44px, 8vw, 72px);
+  font-size:clamp(46px, 9vw, 72px);
   line-height:.95;
 }
 
 .tagline{
   margin-top:6px;
-  font-size:14px;
+  font-size:15px;
   letter-spacing:.32em;
+  text-transform:lowercase;
   color:var(--muted);
-  text-transform: lowercase;
 }
 
 .rule{
   height:2px;
-  background:#000;
+  background:var(--line-strong);
   margin:12px 0 14px;
   border:none;
 }
 
-/* ---------- minimal manifesto ---------- */
+/* ===============================
+   Minimal manifesto
+   =============================== */
 
-details.manifesto{
+details{
+  border:1px solid var(--line);
   margin-bottom:16px;
-  font-size:16px;
-  line-height:1.25;
-  border-left:4px solid var(--accent);
-  padding-left:10px;
+  background:rgba(255,255,255,.55);
 }
 
-details.manifesto summary{
+summary{
+  padding:8px 10px;
   cursor:pointer;
+  font-size:16px;
   font-style:italic;
-  font-weight:600;
+  list-style:none;
 }
 
-details.manifesto p{
-  margin:6px 0 0;
+summary::-webkit-details-marker{
+  display:none;
+}
+
+summary::before{
+  content:"▾ ";
+  color:var(--accent);
+}
+
+details[open] summary::before{
+  content:"▴ ";
+}
+
+.manifesto-inner{
+  padding:8px 12px 10px;
+}
+
+.manifesto-inner p{
+  margin:0;
+  font-size:17px;
+  line-height:1.25;
   font-style:italic;
 }
 
-details.manifesto strong{
+.manifesto-inner p + p{
+  margin-top:6px;
+}
+
+.manifesto-inner strong{
   font-weight:800;
 }
 
-/* ---------- watermark ---------- */
-
-.sheet{
-  position:relative;
-}
-
-.watermark{
-  position:absolute;
-  inset:120px 0 40px 0;
-  background-image:url("./assets/elephant-third-eye.webp");
-  background-repeat:no-repeat;
-  background-position:center top;
-  background-size: min(720px, 120%);
-  opacity:.22;     /* stronger but readable */
-  pointer-events:none;
-  z-index:0;
-}
-
-.section-head,
-.row,
-.feed,
-.footer{
-  position:relative;
-  z-index:1;
-}
-
-/* ---------- section headers ---------- */
+/* ===============================
+   Section headers
+   =============================== */
 
 .section-title{
+  margin-top:16px;
   font-size:16px;
-  letter-spacing:.35em;
-  color:var(--accent);
+  letter-spacing:.28em;
   text-transform:lowercase;
+  color:var(--accent);
 }
 
 .section-line{
   height:1px;
   background:var(--line);
-  margin:6px 0 8px;
+  margin-top:6px;
 }
 
-/* ---------- project rows ---------- */
+/* ===============================
+   Project rows
+   =============================== */
 
 .row{
+  display:block;
+  padding:10px 0;
   text-decoration:none;
   color:inherit;
-  display:block;
-  padding:10px 0 8px;
   border-bottom:1px solid var(--line);
 }
 
+.row:first-of-type{
+  border-top:1px solid var(--line);
+}
+
 .row-title{
-  font-size:40px;
+  font-size:38px;
+  font-weight:700;
   line-height:1;
   margin:0;
-  font-weight:700;
 }
 
 .row-sub{
   font-size:14px;
   letter-spacing:.28em;
-  color:var(--muted);
   text-transform:lowercase;
+  color:var(--muted);
   margin-top:4px;
 }
 
-/* ---------- feeds ---------- */
+/* ===============================
+   Feeds (true newspaper density)
+   =============================== */
 
 .feed{
-  padding:6px 0 6px;
   border-bottom:1px solid var(--line);
+  padding:8px 0;
 }
 
 .feed-list{
   list-style:none;
-  margin:0;
   padding:0;
+  margin:0;
 }
 
 .feed-item{
-  padding:6px 0;
-  border-top:1px solid rgba(0,0,0,.08);
+  padding:8px 0;
+  border-top:1px solid rgba(0,0,0,.12);
 }
 
 .feed-item:first-child{
@@ -164,34 +179,64 @@ details.manifesto strong{
 .feed-link{
   text-decoration:none;
   color:inherit;
+  display:block;
 }
 
 .feed-title{
-  font-size:19px;
-  line-height:1.15;
+  font-size:18px;
+  line-height:1.2;
   margin:0;
-  font-weight:500;
 }
 
 .feed-meta{
   font-size:12px;
-  letter-spacing:.25em;
-  color:var(--muted);
+  letter-spacing:.22em;
   text-transform:lowercase;
+  color:var(--muted);
   margin-top:4px;
 }
 
-/* ---------- footer ---------- */
+/* ===============================
+   Watermark
+   =============================== */
 
-.footer{
-  margin-top:10px;
-  padding-top:6px;
-  border-top:1px solid var(--line);
+.sheet{
+  position:relative;
 }
 
+.watermark{
+  position:absolute;
+  top:120px;
+  left:0;
+  right:0;
+  bottom:0;
+  background-image:url("./assets/elephant-third-eye.webp");
+  background-repeat:no-repeat;
+  background-position:center 200px;
+  background-size:min(760px, 120%);
+  opacity:.22; /* stronger */
+  pointer-events:none;
+  z-index:0;
+}
+
+.section-title,
+.row,
+.feed,
 .updated{
-  font-size:11px;
-  letter-spacing:.25em;
-  color:rgba(0,0,0,.4);
+  position:relative;
+  z-index:1;
+}
+
+/* ===============================
+   Footer
+   =============================== */
+
+.updated{
+  margin-top:10px;
+  padding-top:8px;
+  border-top:1px solid var(--line);
+  font-size:12px;
+  letter-spacing:.22em;
   text-transform:lowercase;
+  color:rgba(0,0,0,.45);
 }
