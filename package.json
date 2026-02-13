@@ -1,11 +1,12 @@
 {
   "name": "ruin2itive-site",
   "private": true,
-  "type": "module",
+  "version": "1.0.0",
+  "description": "ruin2itive.org static site + scheduled feed builder",
   "scripts": {
-    "build:feeds": "node scripts/build_feeds.mjs"
+    "build:feeds": "node scripts/build.js"
   },
   "dependencies": {
-    "fast-xml-parser": "^4.5.0"
+    "rss-parser": "^3.13.0"
   }
 }
