@@ -1,207 +1,155 @@
-/* ruin2itive — goal layout (manifesto box + full-page elephant watermark) */
+<style>
 
-:root{
-  --paper: #f3f0ea;
-  --ink: #111;
-  --muted: rgba(0,0,0,.55);
-  --line: rgba(0,0,0,.22);
-  --lineSoft: rgba(0,0,0,.12);
-  --accent: #7b3d35;
-  --box: rgba(255,255,255,.60);
-  --boxLine: rgba(0,0,0,.18);
+:root {
+  --paper: #f1eee7;
+  --ink: #0e0e0e;
+  --muted: #777;
+  --accent: #8b1d1d;
+  --rule: #ded9cf;
 }
 
-*{ box-sizing:border-box; }
+* { box-sizing: border-box; }
 
-html,body{
-  margin:0;
-  padding:0;
+html, body {
+  margin: 0;
+  padding: 0;
   background: var(--paper);
   color: var(--ink);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: Georgia, serif;
+  line-height: 1.65;
 }
 
-a{ color:inherit; }
+/* ---------------------------
+   Elephant background
+--------------------------- */
 
-.page{
-  max-width: 760px;
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: url("assets/elephant-third-eye.webp") center 60% no-repeat;
+  background-size: 820px auto;
+  opacity: 0.055;   /* LOWERED */
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* ---------------------------
+   Layout
+--------------------------- */
+
+.container {
+  max-width: 680px;
   margin: 0 auto;
-  padding: 22px 16px 44px;
+  padding: 28px 22px 80px;
+  position: relative;
+  z-index: 1;
 }
 
-/* ===== brand ===== */
-.brand{
-  font-size: clamp(52px, 9vw, 88px);
-  line-height: .92;
+/* ---------------------------
+   Header
+--------------------------- */
+
+h1 {
+  font-size: 46px;
+  font-weight: 700;
   margin: 0;
-  font-weight: 800;
-  letter-spacing: .01em;
+  letter-spacing: -0.5px;
 }
 
-.tagline{
-  margin-top: 6px;
-  font-size: 12px;
-  letter-spacing: .34em;
-  text-transform: lowercase;
+.tagline {
+  font-size: 13px;
+  letter-spacing: 2px;
   color: var(--muted);
+  margin-top: 6px;
 }
 
-.rule{
-  border:none;
-  height:2px;
-  background: rgba(0,0,0,.45);
-  margin: 14px 0 18px;
+.rule {
+  height: 1.5px;        /* thinner */
+  background: var(--ink);
+  margin: 14px 0 24px;
 }
 
-/* ===== sheet + watermark ===== */
-.sheet{
-  position: relative;
-  overflow: hidden;
-}
+/* ---------------------------
+   Statement
+--------------------------- */
 
-.watermark{
-  position:absolute;
-  inset:0;
-  background-image:
-    url("assets/elephant-third-eye.webp"),
-    url("assets/elephant-third-eye.png");
-  background-repeat:no-repeat;
-  background-position: center 170px;
-  background-size: 112%;
-  opacity: .20;
-  pointer-events:none;
-  z-index:0;
-}
-
-.sheet > *{
-  position: relative;
-  z-index:1;
-}
-
-/* ===== manifesto box (goal) ===== */
-.manifesto{
-  position: relative;
-  margin: 6px 0 18px;
-  border: 2px solid var(--boxLine);
-  background: var(--box);
-  padding: 14px 14px 14px 16px;
-}
-
-.manifesto:before{
-  content:"";
-  position:absolute;
-  left:0;
-  top:0;
-  bottom:0;
-  width: 8px;
-  background: var(--accent);
-  opacity:.95;
-}
-
-.manifesto p{
-  margin:0;
-  font-size: 20px;
-  line-height: 1.28;
+.statement {
+  border-left: 5px solid var(--accent);
+  padding: 18px 20px;
+  background: rgba(255,255,255,0.62);   /* softer */
   font-style: italic;
-  color: rgba(0,0,0,.82);
+  margin-bottom: 42px;
 }
 
-.manifesto b{
+.statement strong {
   font-style: normal;
-  font-weight: 800;
-  color: rgba(0,0,0,.92);
-}
-
-/* ===== section headers ===== */
-.section-head{
-  margin-top: 18px;
-}
-
-.section-title{
-  font-size: 14px;
-  letter-spacing: .34em;
-  text-transform: lowercase;
-  color: var(--accent);
-}
-
-.section-line{
-  height:1px;
-  background: var(--line);
-  margin-top: 10px;
-}
-
-/* ===== projects list (goal) ===== */
-.project{
-  padding: 14px 0;
-  border-bottom: 1px solid var(--lineSoft);
-}
-
-.project .name{
-  font-size: 56px;
-  line-height: .95;
-  font-weight: 800;
-  margin: 0;
-}
-
-.project .meta{
-  margin-top: 6px;
-  font-size: 12px;
-  letter-spacing: .30em;
-  text-transform: lowercase;
-  color: var(--muted);
-}
-
-.project a{
-  text-decoration: none;
-}
-
-/* ===== feed items ===== */
-.feed-item{
-  padding: 12px 0;
-  border-bottom: 1px solid var(--lineSoft);
-}
-
-.feed-item h3{
-  margin: 0;
-  font-size: 22px;
-  line-height: 1.15;
   font-weight: 700;
 }
 
-.feed-meta{
-  margin-top: 6px;
+/* ---------------------------
+   Sections
+--------------------------- */
+
+.section-label {
   font-size: 12px;
-  letter-spacing: .30em;
+  letter-spacing: 4px;
+  color: var(--accent);
   text-transform: lowercase;
+  margin: 34px 0 6px;
+}
+
+.section-rule {
+  height: 1px;
+  background: var(--rule);
+  margin-bottom: 16px;
+}
+
+/* ---------------------------
+   Links
+--------------------------- */
+
+a {
+  text-decoration: underline;
+  color: var(--ink);
+}
+
+a:hover {
+  color: var(--accent);
+}
+
+/* ---------------------------
+   Feed items
+--------------------------- */
+
+.item {
+  margin-bottom: 18px;
+}
+
+.meta {
+  font-size: 12px;
   color: var(--muted);
+  margin-top: 3px;
 }
 
-.loading{
+.loading {
+  color: var(--muted);
   font-style: italic;
-  color: rgba(0,0,0,.38);
 }
 
-/* ===== footer ===== */
-.footer{
-  margin-top: 22px;
-  padding-top: 10px;
-  border-top: 1px solid var(--lineSoft);
-}
+/* ---------------------------
+   Mobile scaling
+--------------------------- */
 
-.updated{
-  font-size: 12px;
-  letter-spacing: .30em;
-  text-transform: lowercase;
-  color: rgba(0,0,0,.35);
-}
+@media (max-width: 600px) {
+  h1 {
+    font-size: 34px;
+  }
 
-/* ===== mobile tightness ===== */
-@media (max-width: 430px){
-  .manifesto p{ font-size: 18px; }
-  .project .name{ font-size: 50px; }
-  .feed-item h3{ font-size: 20px; }
-  .watermark{
-    background-position: center 190px;
-    background-size: 120%;
+  body::before {
+    background-size: 600px auto;
+    opacity: 0.045;
   }
 }
+
+</style>
