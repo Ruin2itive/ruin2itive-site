@@ -11,13 +11,15 @@
 
 <style>
 :root{
-  --paper:#f4f1ea;
+  /* PURE WHITE BASE */
+  --paper:#ffffff;
+
   --ink:#0f0f0f;
   --muted: rgba(0,0,0,0.62);
   --hair: rgba(0,0,0,0.10);
   --rule: rgba(0,0,0,0.55);
 
-  /* darker, dirtier red = more punk */
+  /* darker, dirtier red = punk */
   --accent:#7a1515;
   --accentSoft: rgba(122,21,21,0.22);
 }
@@ -33,20 +35,23 @@ body{
   line-height:1.46;
 }
 
-/* Elephant watermark: slightly stronger + lower */
+/* Elephant watermark: keep same visibility */
 body::before{
   content:"";
   position:fixed;
   inset:0;
   background:url("assets/elephant-third-eye.webp") no-repeat center 74%;
   background-size:min(920px, 100vw);
-  opacity:0.18;
+  opacity:0.18; /* KEEP */
   pointer-events:none;
   z-index:0;
-  filter: contrast(1.12) saturate(0.82);
+  filter: contrast(1.12) saturate(0.82); /* KEEP */
 }
 
-/* Paper wash: keeps readability */
+/*
+  Readability veil, BUT stays white.
+  This replaces the old "paper wash" that made it beige.
+*/
 body::after{
   content:"";
   position:fixed;
@@ -55,19 +60,19 @@ body::after{
   z-index:1;
   background:
     radial-gradient(circle at 50% 16%,
-      rgba(244,241,234,0.95) 0%,
-      rgba(244,241,234,0.74) 42%,
-      rgba(244,241,234,0.56) 70%,
-      rgba(244,241,234,0.46) 100%);
+      rgba(255,255,255,0.92) 0%,
+      rgba(255,255,255,0.70) 42%,
+      rgba(255,255,255,0.52) 70%,
+      rgba(255,255,255,0.44) 100%);
 }
 
-/* Punk paper fiber + ink speckle (slightly stronger) */
+/* Texture: slightly reduced so white reads as white */
 .texture{
   position:fixed;
   inset:0;
   z-index:2;
   pointer-events:none;
-  opacity:0.16;            /* ↑ more visible grit */
+  opacity:0.12;           /* lowered so background feels pure white */
   mix-blend-mode:multiply;
   filter:url(#paperNoise);
 }
@@ -80,7 +85,7 @@ body::after{
   padding:34px 20px 92px 20px;
 }
 
-/* Masthead: high-class type + underground press wear */
+/* Masthead */
 .masthead{
   text-align:center;
   padding-bottom:14px;
@@ -93,14 +98,11 @@ body::after{
   font-weight:800;
   letter-spacing:-0.9px;
   line-height:1.03;
-
-  /* press-wear: subtle ink spread + slight misregister */
   text-shadow:
     0.6px 0 rgba(0,0,0,0.55),
    -0.4px 0 rgba(122,21,21,0.18);
 }
 
-/* Rough underline: looks like a dragged marker, not a clean UI line */
 .mast-accent{
   width:96px;
   height:3px;
@@ -112,7 +114,6 @@ body::after{
   filter: blur(0.15px);
 }
 
-/* Tagline: tighter, more editorial */
 .site-tagline{
   margin:0 0 14px 0;
   font-size:0.86rem;
@@ -120,7 +121,7 @@ body::after{
   color:var(--muted);
 }
 
-/* Rules: less perfect (zine press vibe) */
+/* Rules */
 .rule{
   border:none;
   height:0;
@@ -145,7 +146,6 @@ body::after{
   border-top:1px solid var(--hair);
 }
 
-/* Section titles: slightly stamped */
 .section-title{
   margin:0 0 16px 0;
   font-size:0.84rem;
@@ -158,7 +158,6 @@ body::after{
   transform: skewX(-4deg);
 }
 
-/* trailing line = faint, uneven */
 .section-title::after{
   content:"";
   height:1px;
@@ -186,42 +185,38 @@ body::after{
 }
 .item-title a:hover{
   color:rgba(0,0,0,0.92);
-  border-bottom-color: rgba(122,21,21,0.25); /* punk red underline */
+  border-bottom-color: rgba(122,21,21,0.25);
 }
 
-/* Meta: smaller + inked */
 .item-meta{
   margin-top:4px;
   font-size:0.78rem;
   color:rgba(0,0,0,0.58);
 }
 
-/* Loading */
 .loading{
   margin-top:6px;
   font-style:italic;
   color:rgba(0,0,0,0.58);
 }
 
-/* Footer */
 footer{
   margin-top:70px;
   font-size:0.75rem;
   color:rgba(0,0,0,0.46);
 }
 
-/* Mobile */
 @media (max-width:600px){
   .wrapper{ padding-top:28px; }
   .site-title{ font-size:2.65rem; }
-  body::before{ opacity:0.19; }
-  .texture{ opacity:0.17; }
+  body::before{ opacity:0.18; } /* KEEP */
+  .texture{ opacity:0.13; }
 }
 </style>
 </head>
 
 <body>
-  <!-- Paper noise: fibers + speckle -->
+  <!-- Noise filter -->
   <svg width="0" height="0" style="position:absolute">
     <filter id="paperNoise">
       <feTurbulence type="fractalNoise" baseFrequency="0.33" numOctaves="2" stitchTiles="stitch" result="fibers"/>
@@ -239,7 +234,6 @@ footer{
   <div class="texture" aria-hidden="true"></div>
 
   <div class="wrapper">
-
     <header class="masthead">
       <h1 class="site-title">ruin2itive</h1>
       <div class="mast-accent" aria-hidden="true"></div>
@@ -284,7 +278,6 @@ footer{
     </section>
 
     <footer>© 2026 ruin2itive.org</footer>
-
   </div>
 </body>
 </html>
