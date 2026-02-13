@@ -1,0 +1,11 @@
+{
+  "name": "ruin2itive-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:feeds": "node scripts/build_feeds.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}
