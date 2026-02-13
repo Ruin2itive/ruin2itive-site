@@ -1,216 +1,234 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>ruin2itive</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Libre+Baskerville:ital,wght@0,400;1,400;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Libre+Baskerville:ital@0;1&display=swap" rel="stylesheet">
 
 <style>
 :root{
-  --paper:#f3f1ec;
-  --ink:#111;
-  --muted:#7a746b;
-  --accent:#7d3a32;
-  --line:#cfcac3;
+--paper:#f4f1ea;
+--ink:#111;
+--muted:#6b6b6b;
+--accent:#7b2e2e;
+--line:#cfcac2;
 }
 
-*{box-sizing:border-box}
+*{box-sizing:border-box;margin:0;padding:0;}
 
 body{
-  margin:0;
-  background:var(--paper);
-  color:var(--ink);
-  font-family:"Libre Baskerville", serif;
-  line-height:1.55;
+font-family:'Libre Baskerville', serif;
+background:var(--paper);
+color:var(--ink);
+line-height:1.5;
+background-image:url('assets/elephant-third-eye.webp');
+background-repeat:no-repeat;
+background-position:center 420px;
+background-size:700px auto;
+background-attachment:fixed;
 }
 
 .container{
-  max-width:760px;
-  margin:0 auto;
-  padding:32px 20px 80px;
-  position:relative;
+max-width:680px;
+margin:auto;
+padding:40px 24px 80px;
 }
 
 h1{
-  font-family:"Playfair Display", serif;
-  font-weight:700;
-  font-size:52px;
-  margin:0 0 6px;
+font-family:'Playfair Display', serif;
+font-weight:900;
+font-size:48px;
+letter-spacing:-1px;
 }
 
 .tagline{
-  color:var(--muted);
-  letter-spacing:.12em;
-  text-transform:lowercase;
-  font-size:14px;
+color:var(--muted);
+letter-spacing:3px;
+text-transform:lowercase;
+margin-top:6px;
+font-size:14px;
 }
 
-.rule{
-  height:2px;
-  background:#222;
-  margin:18px 0 24px;
+hr{
+border:none;
+border-top:2px solid #333;
+margin:20px 0 28px;
 }
 
-.intro{
-  border:1px solid var(--line);
-  padding:22px 22px 22px 26px;
-  background:#faf9f6;
-  position:relative;
+.manifesto{
+border:1px solid var(--line);
+background:rgba(255,255,255,0.75);
+padding:24px;
+position:relative;
+margin-bottom:40px;
 }
 
-.intro:before{
-  content:"";
-  position:absolute;
-  left:0;
-  top:0;
-  bottom:0;
-  width:6px;
-  background:var(--accent);
+.manifesto:before{
+content:'';
+position:absolute;
+left:0;
+top:0;
+bottom:0;
+width:6px;
+background:var(--accent);
 }
 
-.intro p{
-  margin:0 0 14px;
-  font-style:italic;
-  font-size:18px;
+.manifesto p{
+font-style:italic;
+font-size:20px;
 }
 
-.intro strong{
-  font-weight:700;
-  font-style:italic;
+.manifesto strong{
+font-weight:700;
+font-style:normal;
 }
 
 .section-title{
-  margin-top:40px;
-  font-size:14px;
-  letter-spacing:.3em;
-  text-transform:lowercase;
-  color:var(--accent);
+color:var(--accent);
+letter-spacing:4px;
+text-transform:lowercase;
+margin-top:50px;
+margin-bottom:10px;
+font-size:16px;
 }
 
-.section-line{
-  height:1px;
-  background:var(--line);
-  margin:8px 0 20px;
+.section-divider{
+border-top:1px solid var(--line);
+margin-bottom:20px;
 }
 
-.item{
-  margin-bottom:26px;
+.link-block{
+margin-bottom:26px;
 }
 
-.item h3{
-  font-family:"Playfair Display", serif;
-  font-size:34px;
-  margin:0;
+.link-block h3{
+font-family:'Playfair Display', serif;
+font-size:34px;
+font-weight:900;
+margin-bottom:4px;
 }
 
-.sub{
-  color:var(--muted);
-  font-size:14px;
-  letter-spacing:.15em;
-  margin-top:4px;
+.link-block small{
+color:var(--muted);
+letter-spacing:2px;
 }
 
-.feed-title{
-  margin-top:38px;
-  font-size:14px;
-  letter-spacing:.3em;
-  text-transform:lowercase;
-  color:var(--accent);
+.news-section{
+margin-top:50px;
 }
 
-.feed-list{
-  margin-top:16px;
+.news-section h2{
+color:var(--accent);
+letter-spacing:4px;
+text-transform:lowercase;
+font-size:18px;
+margin-bottom:12px;
 }
 
-.feed-list a{
-  display:block;
-  text-decoration:none;
-  color:#111;
-  margin-bottom:12px;
-  font-size:17px;
+.news-list{
+list-style:none;
+padding-left:0;
 }
 
-.feed-list a:hover{
-  text-decoration:underline;
+.news-list li{
+border-bottom:1px solid var(--line);
+padding:12px 0;
 }
 
-.footer-space{
-  height:120px;
+.news-list a{
+text-decoration:none;
+color:var(--ink);
+font-weight:700;
+font-size:17px;
+}
+
+.news-list a:hover{
+opacity:.75;
+}
+
+.timestamp{
+margin-top:10px;
+font-size:12px;
+color:var(--muted);
 }
 </style>
 </head>
-<body>
 
+<body>
 <div class="container">
 
 <h1>ruin2itive</h1>
 <div class="tagline">reliability first · open source · independent</div>
-<div class="rule"></div>
+<hr>
 
-<div class="intro">
-<p>pulled from various sites. these sources are selected to ensure consistent and stable information.</p>
-<p>these feeds remain hand selected, ad free, and purposeful. <strong>clear and concise info. stability is law.</strong></p>
+<div class="manifesto">
+<p>
+pulled from various sites. these sources are selected to ensure consistent and stable information.
+<br><br>
+these feeds remain hand selected, ad free, and purposeful.
+<strong>clear and concise info. stability is law.</strong>
+</p>
 </div>
 
 <div class="section-title">projects / the code</div>
-<div class="section-line"></div>
+<div class="section-divider"></div>
 
-<div class="item">
+<div class="link-block">
 <h3>GitHub</h3>
-<div class="sub">ruin2itive · src</div>
+<small>ruin2itive · src</small>
 </div>
 
-<div class="item">
+<div class="link-block">
 <h3>arduino</h3>
-<div class="sub">hackster · hardware</div>
+<small>hackster · hardware</small>
 </div>
 
-<div class="item">
+<div class="link-block">
 <h3>raspberry pi</h3>
-<div class="sub">instructables · diy</div>
+<small>instructables · diy</small>
 </div>
 
-<div class="feed-title">markets / crypto</div>
-<div class="section-line"></div>
-<div id="crypto" class="feed-list"></div>
+<div class="news-section">
+<h2>markets / crypto</h2>
+<ul class="news-list" id="crypto"></ul>
+</div>
 
-<div class="feed-title">hacker news</div>
-<div class="section-line"></div>
-<div id="hn" class="feed-list"></div>
+<div class="news-section">
+<h2>hacker news</h2>
+<ul class="news-list" id="hn"></ul>
+</div>
 
-<div class="feed-title">world news</div>
-<div class="section-line"></div>
-<div id="world" class="feed-list"></div>
+<div class="news-section">
+<h2>world news</h2>
+<ul class="news-list" id="world"></ul>
+</div>
 
-<div class="footer-space"></div>
+<div class="timestamp" id="updated"></div>
 
 </div>
 
 <script>
-fetch("/data/home.json")
+fetch('data/home.json')
 .then(r=>r.json())
 .then(data=>{
-  render("crypto",data.crypto)
-  render("hn",data.hn)
-  render("world",data.world)
-})
-.catch(()=>{
-  document.querySelectorAll(".feed-list").forEach(e=>{
-    e.innerHTML="<div class='sub'>no data available</div>"
-  })
-})
-
 function render(id,items){
-  const el=document.getElementById(id)
-  if(!items||!items.length){
-    el.innerHTML="<div class='sub'>no articles found</div>"
-    return
-  }
-  el.innerHTML=items.map(i=>`<a href="${i.url}" target="_blank">${i.title}</a>`).join("")
+const el=document.getElementById(id);
+el.innerHTML='';
+items.slice(0,5).forEach(i=>{
+const li=document.createElement('li');
+li.innerHTML=`<a href="${i.url}" target="_blank">${i.title}</a>`;
+el.appendChild(li);
+});
 }
+render('crypto',data.sections.crypto);
+render('hn',data.sections.hacker);
+render('world',data.sections.world);
+document.getElementById('updated').innerText=
+"last updated: "+data.updated_local;
+});
 </script>
 
 </body>
