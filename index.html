@@ -12,7 +12,7 @@
     :root{
       --paper:#f7f5f1;
       --ink:#151515;
-      --muted:#666;
+      --muted:#6a6a6a;
       --rule:#cfcac2;
       --accent:#7b1e1e; /* deep red */
       --max:720px;
@@ -22,11 +22,17 @@
     html,body{ height:100%; }
     body{
       margin:0;
-      background:var(--paper);
       color:var(--ink);
       -webkit-font-smoothing:antialiased;
       -moz-osx-font-smoothing:grayscale;
       font-family: Georgia, "Times New Roman", Times, serif;
+
+      /* subtle paper depth without needing extra files */
+      background:
+        radial-gradient(1200px 600px at 50% 0%, rgba(0,0,0,.035), rgba(0,0,0,0) 55%),
+        radial-gradient(900px 500px at 10% 35%, rgba(0,0,0,.02), rgba(0,0,0,0) 60%),
+        radial-gradient(900px 500px at 90% 55%, rgba(0,0,0,.018), rgba(0,0,0,0) 60%),
+        linear-gradient(#fbfaf8, var(--paper));
     }
 
     /* page container */
@@ -36,30 +42,33 @@
       padding:20px 18px 36px;
     }
 
-    /* MASTHEAD IMAGE (full-bleed, edge-to-edge) */
+    /* MASTHEAD IMAGE (full-bleed, integrated) */
     .masthead{
       width:100vw;
       margin-left:50%;
       transform:translateX(-50%);
-      margin-bottom:14px;
+      margin-top:-20px;     /* gives “hero” presence */
+      margin-bottom:28px;   /* more air */
     }
     .masthead img{
       width:100%;
       height:auto;
       display:block;
       border:0;
-      /* subtle stamp lift */
-      box-shadow:0 6px 20px rgba(0,0,0,.08);
+
+      /* keep it subtle so it doesn't feel like a “card” */
+      box-shadow:0 2px 8px rgba(0,0,0,.05);
+      filter:contrast(1.02) saturate(.98);
     }
 
     /* top rule under masthead */
     .top-rule{
       height:1px;
       background:var(--rule);
-      margin:10px 0 18px;
+      margin:18px 0 26px;
     }
 
-    /* section headers */
+    /* section blocks */
     .section{
       margin:0 0 18px;
       padding:0 0 18px;
@@ -67,33 +76,38 @@
     }
     .section:last-of-type{ border-bottom:none; }
 
+    /* section label */
     .kicker{
-      margin:0 0 10px;
-      font-size:18px;
-      letter-spacing:.08em;
+      margin:0 0 12px;
+      font-size:20px;
+      letter-spacing:.12em;
       color:var(--accent);
       text-transform:lowercase;
-      font-weight:700;
+      font-weight:800;
     }
-    .kicker .slash{ color:var(--muted); font-weight:400; }
+    .kicker .slash{
+      color:var(--muted);
+      font-weight:500;
+      letter-spacing:.08em;
+    }
 
-    /* list */
+    /* lists */
     .list{
       list-style:none;
       padding:0;
       margin:0;
     }
     .item{
-      padding:10px 0 12px;
+      padding:12px 0 14px;
       border-top:1px solid rgba(0,0,0,.06);
     }
     .item:first-child{ border-top:none; }
 
     .title{
-      margin:0 0 2px;
-      font-size:30px;
-      line-height:1.05;
-      font-weight:700;
+      margin:0 0 3px;
+      font-size:32px;
+      line-height:1.02;
+      font-weight:800;
       letter-spacing:.01em;
     }
     .meta{
@@ -103,12 +117,25 @@
       letter-spacing:.02em;
     }
 
+    /* editorial link treatment */
+    a{
+      color:inherit;
+      text-decoration:none;
+    }
+    .title a{
+      border-bottom:2px solid rgba(0,0,0,.10);
+      padding-bottom:2px;
+    }
+    .title a:hover{
+      border-bottom-color:var(--accent);
+    }
+
     /* feed rows */
     .feed-row{
       display:flex;
       gap:10px;
       align-items:baseline;
-      padding:10px 0 12px;
+      padding:12px 0 14px;
       border-top:1px solid rgba(0,0,0,.06);
     }
     .feed-row:first-child{ border-top:none; }
@@ -116,21 +143,27 @@
     .feed-title{
       margin:0;
       font-size:20px;
-      line-height:1.2;
-      font-weight:700;
-      flex: 1 1 auto;
+      line-height:1.22;
+      font-weight:800;
+      flex:1 1 auto;
+    }
+    .feed-title a{
+      border-bottom:1px solid rgba(0,0,0,.10);
+      padding-bottom:1px;
+    }
+    .feed-title a:hover{
+      border-bottom-color:var(--accent);
     }
     .feed-src{
       font-size:14px;
       color:var(--muted);
       white-space:nowrap;
-      flex: 0 0 auto;
+      flex:0 0 auto;
+      letter-spacing:.08em;
+      text-transform:lowercase;
     }
 
-    a{ color:inherit; }
-    a:hover{ text-decoration:underline; }
-
-    /* loading text */
+    /* “loading” / placeholder copy */
     .loading{
       margin:0;
       color:var(--muted);
@@ -139,24 +172,35 @@
       padding:6px 0 2px;
     }
 
+    /* subtle page reveal */
+    .fade-in{
+      animation:fade .22s ease-out both;
+    }
+    @keyframes fade{
+      from{ opacity:0; transform:translateY(6px); }
+      to{ opacity:1; transform:translateY(0); }
+    }
+
     footer{
-      margin-top:22px;
+      margin-top:24px;
+      padding-top:14px;
+      border-top:1px solid var(--rule);
       color:var(--muted);
       font-size:16px;
     }
 
     @media (max-width:420px){
       .wrap{ padding:18px 16px 30px; }
-      .title{ font-size:28px; }
+      .title{ font-size:30px; }
       .meta{ font-size:17px; }
-      .kicker{ font-size:17px; }
+      .kicker{ font-size:18px; letter-spacing:.11em; }
       .feed-title{ font-size:19px; }
     }
   </style>
 </head>
 
 <body>
-  <div class="wrap">
+  <div class="wrap fade-in">
 
     <!-- MASTHEAD (graphic banner) -->
     <header class="masthead" aria-label="ruin2itive masthead">
@@ -202,14 +246,14 @@
     <!-- MARKETS / CRYPTO -->
     <section class="section" aria-label="markets">
       <h2 class="kicker">markets <span class="slash">/</span> crypto</h2>
-      <p id="cryptoLoading" class="loading">loading feed...</p>
+      <p id="cryptoLoading" class="loading">curating signal...</p>
       <div id="cryptoFeed" aria-live="polite"></div>
     </section>
 
     <!-- HACKER NEWS -->
     <section class="section" aria-label="hacker news">
       <h2 class="kicker">hacker news</h2>
-      <p id="hnLoading" class="loading">loading feed...</p>
+      <p id="hnLoading" class="loading">curating signal...</p>
       <div id="hnFeed" aria-live="polite"></div>
     </section>
 
