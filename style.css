@@ -1,182 +1,234 @@
-/* ruin2itive — broadsheet (iphone-first) */
-
+/* ---------- base ---------- */
 :root{
-  --bg:#ffffff;
-  --ink:#0b0b0b;
-  --muted:rgba(0,0,0,.55);
-  --rule:#111;
-  --rust:#8a4a3c;
-
-  /* IMPORTANT: these files must exist in /assets */
-  --mark-url:image-set(
-    url("assets/elephant-mark.webp") type("image/webp"),
-    url("assets/elephant-mark.png")  type("image/png")
-  );
-
-  --mark-opacity:0.095;
+  --paper: #f2efe8;
+  --ink: #151515;
+  --muted: rgba(0,0,0,.55);
+  --line: rgba(0,0,0,.18);
+  --line-strong: rgba(0,0,0,.55);
+  --accent: #7b3d35; /* dusty red/brown */
+  --card: rgba(255,255,255,.55);
 }
 
-/* reset */
-*{box-sizing:border-box}
-html,body{height:100%}
-body{
+*{ box-sizing:border-box; }
+
+html,body{
   margin:0;
-  background:var(--bg);
-  color:var(--ink);
-  -webkit-text-size-adjust:100%;
-  text-rendering:optimizeLegibility;
+  padding:0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
 }
 
-/* page */
+/* Keep it narrow like a newspaper column on mobile */
 .page{
-  position:relative;
-  max-width:760px;
-  margin:0 auto;
-  padding:22px 18px 56px;
+  max-width: 740px;
+  margin: 0 auto;
+  padding: 18px 16px 40px;
 }
 
-/* elephant seal */
-.page::before{
-  content:"";
-  position:absolute;
-  left:-60px;
-  right:-60px;
-  top:150px;
-  bottom:0;
-  background-image:var(--mark-url);
-  background-repeat:no-repeat;
-  background-position:center 80px;
-  background-size:110% auto;
-  opacity:var(--mark-opacity);
-  pointer-events:none;
-  z-index:0;
-  filter:contrast(1.08);
+/* ---------- masthead ---------- */
+.mast{ margin-top: 4px; }
+
+.brand{
+  margin: 0;
+  font-weight: 800;
+  letter-spacing: .2px;
+  font-size: clamp(54px, 10vw, 86px);
+  line-height: .92;
 }
 
-/* paper speckle */
-.page::after{
-  content:"";
-  position:absolute;
-  inset:0;
-  background-image:radial-gradient(rgba(0,0,0,.06) 1px, transparent 1.2px);
-  background-size:30px 30px;
-  opacity:.12;
-  pointer-events:none;
-  z-index:0;
-}
-
-.mast,.section{position:relative;z-index:1}
-
-/* masthead */
-.brand-name{
-  font-family:Georgia,"Times New Roman",serif;
-  font-weight:900;
-  font-size:56px;
-  line-height:1;
-  letter-spacing:-0.6px;
-  margin:6px 0 6px;
-}
-
-.brand-tag{
-  font-family:Georgia,"Times New Roman",serif;
-  font-size:15px;
-  letter-spacing:3.6px;
-  text-transform:lowercase;
-  color:var(--muted);
-  margin:0 0 14px;
+.tagline{
+  margin-top: 8px;
+  font-size: 18px;
+  letter-spacing: .38em;
+  text-transform: lowercase;
+  color: var(--muted);
 }
 
 .rule{
-  height:2px;
-  background:var(--rule);
-  margin:0 0 20px;
+  border: none;
+  height: 2px;
+  background: var(--line-strong);
+  margin: 14px 0 16px;
 }
 
-/* lede callout */
-.lede{
-  position:relative;
-  padding:18px 18px 18px 26px;
-  border:1px solid rgba(0,0,0,.25);
-  background:rgba(255,255,255,.84);
-  margin:0 0 18px;
+/* ---------- manifesto box (make it minimal) ---------- */
+.manifesto{
+  position: relative;
+  background: var(--card);
+  border: 1px solid var(--line);
+  box-shadow: 0 0 0 1px rgba(0,0,0,.06) inset;
+  display: grid;
+  grid-template-columns: 8px 1fr;
+  margin: 0 0 18px;
 }
 
-.lede::before{
-  content:"";
-  position:absolute;
-  left:0;
-  top:0;
-  bottom:0;
-  width:6px;
-  background:var(--rust);
+.manifesto-bar{
+  background: var(--accent);
 }
 
-.lede p{
-  margin:0 0 10px;
-  font-family:Georgia,"Times New Roman",serif;
-  font-style:italic;
-  font-size:19px;
-  line-height:1.45;
+.manifesto-inner{
+  padding: 10px 12px;
 }
 
-.lede p:last-child{margin-bottom:0}
-
-.lede strong{
-  font-weight:900;
-  font-style:italic;
+.manifesto p{
+  margin: 0;
+  font-size: 22px;
+  line-height: 1.12; /* compact */
+  font-style: italic;
+  color: rgba(0,0,0,.78);
 }
 
-/* sections */
-.section{margin-top:18px}
+.manifesto p + p{
+  margin-top: 6px;
+}
+
+.manifesto strong{
+  font-weight: 800;
+  font-style: italic;
+  color: rgba(0,0,0,.92);
+}
+
+/* ---------- sheet / watermark ---------- */
+.sheet{
+  position: relative;
+  padding-bottom: 18px;
+}
+
+/* Stronger than your current faint version but still watermark */
+.watermark{
+  position: absolute;
+  inset: 150px 0 60px 0; /* starts under the manifesto area */
+  background-image: url("./assets/elephant-third-eye.webp");
+  background-repeat: no-repeat;
+  background-position: center 140px;
+  background-size: min(820px, 110%);
+  opacity: 0.18;         /* THIS is the key: stronger than 0.06/0.08 */
+  filter: contrast(1.05) saturate(.9);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Everything else above watermark */
+.section-head, .row, .feed, .footer{
+  position: relative;
+  z-index: 1;
+}
+
+/* ---------- section headers ---------- */
+.section-head{
+  margin-top: 18px;
+}
 
 .section-title{
-  font-family:Georgia,"Times New Roman",serif;
-  font-size:22px;
-  font-weight:800;
-  letter-spacing:6px;
-  text-transform:lowercase;
-  color:var(--rust);
-  margin:18px 0 12px;
+  font-size: 22px;
+  letter-spacing: .32em;
+  text-transform: lowercase;
+  color: var(--accent);
 }
 
-.list{border-top:1px solid rgba(0,0,0,.22)}
-
-.item{
-  display:block;
-  text-decoration:none;
-  color:inherit;
-  padding:14px 0;
-  border-bottom:1px solid rgba(0,0,0,.22);
+.section-line{
+  height: 1px;
+  background: var(--line);
+  margin-top: 8px;
 }
 
-.item-title{
-  font-family:Georgia,"Times New Roman",serif;
-  font-size:34px;
-  font-weight:900;
-  line-height:1.05;
-  margin:0 0 4px;
+/* ---------- rows (projects links) ---------- */
+.row{
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  padding: 14px 0 14px;
+  border-bottom: 1px solid var(--line);
 }
 
-.item-meta{
-  font-family:Georgia,"Times New Roman",serif;
-  font-size:15px;
-  letter-spacing:2.5px;
-  text-transform:lowercase;
-  color:rgba(0,0,0,.6);
+.row:first-of-type{
+  border-top: 1px solid var(--line);
 }
 
-/* loading line like your screenshot */
-.loading{
-  font-family:Georgia,"Times New Roman",serif;
-  font-style:italic;
-  font-size:18px;
-  color:rgba(0,0,0,.65);
-  padding:10px 0 14px;
+.row-title{
+  font-size: 56px;
+  font-weight: 700;
+  line-height: .96;
+  margin: 0;
+  letter-spacing: .2px;
 }
 
-/* smaller phones */
-@media (max-width:420px){
-  .brand-name{font-size:52px}
-  .item-title{font-size:32px}
-  .section-title{letter-spacing:5px}
+.row-sub{
+  margin-top: 6px;
+  font-size: 22px;
+  letter-spacing: .32em;
+  color: var(--muted);
+  text-transform: lowercase;
+}
+
+/* ---------- feeds ---------- */
+.feed{
+  padding: 10px 0 6px;
+  border-bottom: 1px solid var(--line);
+}
+
+.feed-status{
+  font-size: 40px;
+  font-style: italic;
+  letter-spacing: .06em;
+  color: rgba(0,0,0,.32);
+  line-height: 1.0;
+  padding: 6px 0 8px;
+}
+
+.feed-list{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.feed-item{
+  padding: 10px 0;
+  border-top: 1px solid rgba(0,0,0,.12);
+}
+
+.feed-item:first-child{
+  border-top: none;
+}
+
+.feed-link{
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.feed-title{
+  font-size: 22px;      /* compact “newspaper” */
+  line-height: 1.12;
+  margin: 0;
+}
+
+.feed-meta{
+  margin-top: 6px;
+  font-size: 15px;
+  letter-spacing: .26em;
+  color: var(--muted);
+  text-transform: lowercase;
+}
+
+.footer{
+  margin-top: 14px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+}
+
+.updated{
+  font-size: 14px;
+  letter-spacing: .22em;
+  color: rgba(0,0,0,.38);
+  text-transform: lowercase;
+}
+
+/* ---------- small screens tighten a hair ---------- */
+@media (max-width: 430px){
+  .manifesto p{ font-size: 20px; }
+  .row-title{ font-size: 50px; }
+  .feed-title{ font-size: 20px; }
+  .tagline{ letter-spacing: .28em; font-size: 16px; }
 }
