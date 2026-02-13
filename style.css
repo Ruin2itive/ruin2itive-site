@@ -1,12 +1,10 @@
 /* ---------- base ---------- */
 :root{
   --paper: #f2efe8;
-  --ink: #151515;
+  --ink: #111;
   --muted: rgba(0,0,0,.55);
-  --line: rgba(0,0,0,.18);
-  --line-strong: rgba(0,0,0,.55);
-  --accent: #7b3d35; /* dusty red/brown */
-  --card: rgba(255,255,255,.55);
+  --line: rgba(0,0,0,.15);
+  --accent: #7b3d35;
 }
 
 *{ box-sizing:border-box; }
@@ -19,215 +17,181 @@ html,body{
   font-family: Georgia, "Times New Roman", serif;
 }
 
-/* Keep it narrow like a newspaper column on mobile */
+/* tighter column */
 .page{
-  max-width: 740px;
+  max-width: 680px;
   margin: 0 auto;
-  padding: 18px 16px 40px;
+  padding: 16px 14px 32px;
 }
 
 /* ---------- masthead ---------- */
-.mast{ margin-top: 4px; }
 
 .brand{
-  margin: 0;
-  font-weight: 800;
-  letter-spacing: .2px;
-  font-size: clamp(54px, 10vw, 86px);
-  line-height: .92;
+  margin:0;
+  font-weight:800;
+  font-size: clamp(44px, 8vw, 72px);
+  line-height:.95;
 }
 
 .tagline{
-  margin-top: 8px;
-  font-size: 18px;
-  letter-spacing: .38em;
+  margin-top:6px;
+  font-size:14px;
+  letter-spacing:.32em;
+  color:var(--muted);
   text-transform: lowercase;
-  color: var(--muted);
 }
 
 .rule{
-  border: none;
-  height: 2px;
-  background: var(--line-strong);
-  margin: 14px 0 16px;
+  height:2px;
+  background:#000;
+  margin:12px 0 14px;
+  border:none;
 }
 
-/* ---------- manifesto box (minimal at first glance) ---------- */
-.manifesto{
-  position: relative;
-  background: var(--card);
-  border: 1px solid var(--line);
-  box-shadow: 0 0 0 1px rgba(0,0,0,.06) inset;
-  display: grid;
-  grid-template-columns: 8px 1fr;
-  margin: 0 0 18px;
+/* ---------- minimal manifesto ---------- */
+
+details.manifesto{
+  margin-bottom:16px;
+  font-size:16px;
+  line-height:1.25;
+  border-left:4px solid var(--accent);
+  padding-left:10px;
 }
 
-.manifesto-bar{ background: var(--accent); }
-
-.manifesto-inner{ padding: 10px 12px; }
-
-.manifesto-summary{
-  cursor: pointer;
-  margin: 0;
-  padding: 0;
-  font-size: 18px;       /* minimal */
-  line-height: 1.08;
-  font-style: italic;
-  color: rgba(0,0,0,.78);
-}
-.manifesto-summary::-webkit-details-marker{ display:none; }
-.manifesto-summary::marker{ content:""; }
-
-.manifesto-more{ margin-top: 8px; }
-
-.manifesto p{
-  margin: 0;
-  font-size: 22px;       /* matches your “perfect” look when expanded */
-  line-height: 1.12;
-  font-style: italic;
-  color: rgba(0,0,0,.78);
-}
-.manifesto p + p{ margin-top: 6px; }
-
-.manifesto strong{
-  font-weight: 800;
-  font-style: italic;
-  color: rgba(0,0,0,.92);
+details.manifesto summary{
+  cursor:pointer;
+  font-style:italic;
+  font-weight:600;
 }
 
-/* ---------- sheet / watermark ---------- */
+details.manifesto p{
+  margin:6px 0 0;
+  font-style:italic;
+}
+
+details.manifesto strong{
+  font-weight:800;
+}
+
+/* ---------- watermark ---------- */
+
 .sheet{
-  position: relative;
-  padding-bottom: 18px;
+  position:relative;
 }
 
-/* Stronger watermark (your note: too faint) */
 .watermark{
-  position: absolute;
-  inset: 140px 0 40px 0;
-  background-image: url("./assets/elephant-third-eye.webp");
-  background-repeat: no-repeat;
-  background-position: center 180px;
-  background-size: min(860px, 115%);
-  opacity: 0.22;                 /* stronger than before */
-  filter: contrast(1.10) saturate(.9);
-  pointer-events: none;
-  z-index: 0;
+  position:absolute;
+  inset:120px 0 40px 0;
+  background-image:url("./assets/elephant-third-eye.webp");
+  background-repeat:no-repeat;
+  background-position:center top;
+  background-size: min(720px, 120%);
+  opacity:.22;     /* stronger but readable */
+  pointer-events:none;
+  z-index:0;
 }
 
-/* Everything else above watermark */
-.section-head, .row, .feed, .footer{
-  position: relative;
-  z-index: 1;
+.section-head,
+.row,
+.feed,
+.footer{
+  position:relative;
+  z-index:1;
 }
 
 /* ---------- section headers ---------- */
-.section-head{ margin-top: 16px; }
 
 .section-title{
-  font-size: 22px;
-  letter-spacing: .32em;
-  text-transform: lowercase;
-  color: var(--accent);
+  font-size:16px;
+  letter-spacing:.35em;
+  color:var(--accent);
+  text-transform:lowercase;
 }
 
 .section-line{
-  height: 1px;
-  background: var(--line);
-  margin-top: 8px;
+  height:1px;
+  background:var(--line);
+  margin:6px 0 8px;
 }
 
-/* ---------- rows (projects links) ---------- */
+/* ---------- project rows ---------- */
+
 .row{
-  display: block;
-  text-decoration: none;
-  color: inherit;
-  padding: 12px 0 12px;            /* tighter = more “newspaper” */
-  border-bottom: 1px solid var(--line);
+  text-decoration:none;
+  color:inherit;
+  display:block;
+  padding:10px 0 8px;
+  border-bottom:1px solid var(--line);
 }
-.row:first-of-type{ border-top: 1px solid var(--line); }
 
 .row-title{
-  font-size: 56px;
-  font-weight: 700;
-  line-height: .96;
-  margin: 0;
-  letter-spacing: .2px;
+  font-size:40px;
+  line-height:1;
+  margin:0;
+  font-weight:700;
 }
 
 .row-sub{
-  margin-top: 6px;
-  font-size: 18px;                 /* tighter */
-  letter-spacing: .28em;
-  color: var(--muted);
-  text-transform: lowercase;
+  font-size:14px;
+  letter-spacing:.28em;
+  color:var(--muted);
+  text-transform:lowercase;
+  margin-top:4px;
 }
 
 /* ---------- feeds ---------- */
-.feed{
-  padding: 8px 0 4px;              /* tighter */
-  border-bottom: 1px solid var(--line);
-}
 
-.feed-status{
-  font-size: 34px;                  /* compact but still stylish */
-  font-style: italic;
-  letter-spacing: .05em;
-  color: rgba(0,0,0,.32);
-  line-height: 1.0;
-  padding: 4px 0 6px;
+.feed{
+  padding:6px 0 6px;
+  border-bottom:1px solid var(--line);
 }
 
 .feed-list{
-  list-style: none;
-  padding: 0;
-  margin: 0;
+  list-style:none;
+  margin:0;
+  padding:0;
 }
 
 .feed-item{
-  padding: 8px 0;                   /* tighter */
-  border-top: 1px solid rgba(0,0,0,.12);
+  padding:6px 0;
+  border-top:1px solid rgba(0,0,0,.08);
 }
-.feed-item:first-child{ border-top: none; }
+
+.feed-item:first-child{
+  border-top:none;
+}
 
 .feed-link{
-  display: block;
-  text-decoration: none;
-  color: inherit;
+  text-decoration:none;
+  color:inherit;
 }
 
 .feed-title{
-  font-size: 18px;                  /* COMPACT “newspaper” */
-  line-height: 1.15;
-  margin: 0;
+  font-size:19px;
+  line-height:1.15;
+  margin:0;
+  font-weight:500;
 }
 
 .feed-meta{
-  margin-top: 5px;
-  font-size: 13px;
-  letter-spacing: .22em;
-  color: var(--muted);
-  text-transform: lowercase;
+  font-size:12px;
+  letter-spacing:.25em;
+  color:var(--muted);
+  text-transform:lowercase;
+  margin-top:4px;
 }
 
+/* ---------- footer ---------- */
+
 .footer{
-  margin-top: 12px;
-  padding-top: 10px;
-  border-top: 1px solid var(--line);
+  margin-top:10px;
+  padding-top:6px;
+  border-top:1px solid var(--line);
 }
 
 .updated{
-  font-size: 13px;
-  letter-spacing: .22em;
-  color: rgba(0,0,0,.38);
-  text-transform: lowercase;
-}
-
-/* ---------- small screens tighten ---------- */
-@media (max-width: 430px){
-  .manifesto p{ font-size: 20px; }
-  .row-title{ font-size: 50px; }
-  .feed-title{ font-size: 17px; }
-  .tagline{ letter-spacing: .28em; font-size: 16px; }
+  font-size:11px;
+  letter-spacing:.25em;
+  color:rgba(0,0,0,.4);
+  text-transform:lowercase;
 }
