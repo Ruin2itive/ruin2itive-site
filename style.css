@@ -1,38 +1,125 @@
-/* ===== FEED TYPOGRAPHY (SMALL + COMPACT) ===== */
-
-.section-title {
-  font-size: 0.82rem;
-  letter-spacing: 0.14em;
-  margin: 1.35rem 0 0.45rem 0;
-  text-transform: uppercase;
-  opacity: 0.9;
+:root{
+  --paper: #ffffff;
+  --ink: #111;
+  --muted: rgba(0,0,0,.55);
+  --line: rgba(0,0,0,.12);
+  --accent: #7b3d35;
 }
 
-.feed-item {
-  margin: 0.35rem 0;
-  padding-bottom: 0.35rem;
-  border-bottom: 1px solid rgba(0,0,0,0.07);
+*{ box-sizing:border-box; }
+
+html,body{
+  margin:0;
+  padding:0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
 }
 
-.feed-item h3 {
-  font-size: 0.92rem;
-  font-weight: 600;
-  line-height: 1.18;
-  margin: 0 0 0.12rem 0;
+.page{
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 24px 16px 40px;
 }
 
-.feed-meta {
-  font-size: 0.66rem;
-  letter-spacing: 0.10em;
-  opacity: 0.62;
-  line-height: 1.15;
+.brand{
+  font-size: clamp(54px, 9vw, 86px);
+  line-height: .92;
+  margin: 0;
+  font-weight: 800;
 }
 
-.feed-item a {
-  text-decoration: none;
-  color: #111;
+.tagline{
+  margin-top: 6px;
+  font-size: 14px;
+  letter-spacing: .28em;
+  text-transform: lowercase;
+  color: var(--muted);
 }
 
-.feed-item a:hover {
-  opacity: 0.78;
+.rule{
+  border:none;
+  height:1px;
+  background: rgba(0,0,0,.5);
+  margin:16px 0 22px;
+}
+
+.sheet{
+  position:relative;
+}
+
+.watermark{
+  position:absolute;
+  inset:0;
+  background-image:url("/assets/elephant-third-eye.webp");
+  background-repeat:no-repeat;
+  background-position:center 140px;
+  background-size:90%;
+  opacity:.16;
+  pointer-events:none;
+  z-index:0;
+}
+
+.section, .feed-item, .footer{
+  position:relative;
+  z-index:1;
+}
+
+.section-head{
+  margin-top:22px;
+}
+
+.section-title{
+  font-size:12px;
+  letter-spacing:.28em;
+  text-transform:uppercase;
+  color:var(--accent);
+}
+
+.section-line{
+  height:1px;
+  background:var(--line);
+  margin-top:6px;
+}
+
+.feed-item{
+  margin:8px 0;
+  padding-bottom:6px;
+  border-bottom:1px solid var(--line);
+}
+
+.feed-item h3{
+  font-size:15px;
+  line-height:1.2;
+  margin:0;
+  font-weight:600;
+}
+
+.feed-item a{
+  text-decoration:none;
+  color:var(--ink);
+}
+
+.feed-item a:hover{
+  opacity:.75;
+}
+
+.feed-meta{
+  font-size:11px;
+  letter-spacing:.18em;
+  color:var(--muted);
+  margin-top:4px;
+}
+
+.footer{
+  margin-top:30px;
+  padding-top:10px;
+  border-top:1px solid var(--line);
+}
+
+.updated{
+  font-size:11px;
+  letter-spacing:.18em;
+  color:rgba(0,0,0,.35);
+  text-transform:lowercase;
 }
