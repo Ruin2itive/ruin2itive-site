@@ -1,191 +1,169 @@
-:root{
-  --ink:#0f0f0f;
-  --muted:#6a6a6a;
-  --hair:#dadada;
-  --accent:#7a2f2f; /* blood-oxide */
-  --paper:#ffffff;
+/* ruin2itive.org feeds (client-side RSS pull)
+   - Shows 2 newest items per source (UFO shows 1 by default)
+   - Uses DOMParser (no build step)
+*/
 
-  /* watermark */
-  --wm-opacity:0.16;  /* increase/decrease watermark strength */
-  --wm-blur:0px;
-  --wm-scale:1.15;
-}
+const FEEDS = {
+  crypto: {
+    label: "decrypt",
+    url: "https://decrypt.co/feed",
+    take: 2
+  },
+  hn: {
+    label: "hn",
+    // hnrss is usually reliable; if it fails, swap to https://news.ycombinator.com/rss
+    url: "https://hnrss.org/newest?points=1",
+    take: 2
+  },
+  ap: {
+    label: "ap",
+    // Many publishers don't keep official RSS stable; Google News RSS works consistently.
+    // If you later find a stable AP RSS, replace this URL.
+    url: "https://news.google.com/rss/search?q=site:apnews.com%20when:7d&hl=en-US&gl=US&ceid=US:en",
+    take: 2
+  },
+  reuters: {
+    label: "reuters",
+    url: "https://news.google.com/rss/search?q=site:reuters.com%20when:7d&hl=en-US&gl=US&ceid=US:en",
+    take: 2
+  },
+  bbc: {
+    label: "bbc",
+    url: "https://feeds.bbci.co.uk/news/rss.xml",
+    take: 2
+  },
+  ufo: {
+    label: "ufo",
+    // The Black Vault podcast RSS (from a podcast directory listing)
+    url: "https://www.theblackvault.com/documentarchive/feed/podcast/",
+    take: 1
+  }
+};
 
-*{box-sizing:border-box}
-html,body{height:100%}
-body{
-  margin:0;
-  color:var(--ink);
-  background:var(--paper);
-  font-family: Georgia, "Times New Roman", serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.page{
-  position:relative;
-  max-width: 920px;
-  margin: 0 auto;
-  padding: 22px 16px 42px;
-}
-
-/* Full-page elephant watermark + film grain */
-.page::before{
-  content:"";
-  position:fixed;
-  inset:0;
-  z-index:-2;
-  background:
-    url("./assets/elephant-third-eye.webp") center 160px / calc(1200px * var(--wm-scale)) auto no-repeat;
-  opacity: var(--wm-opacity);
-  filter: blur(var(--wm-blur));
-  pointer-events:none;
-}
-.page::after{
-  /* subtle 35mm grain overlay */
-  content:"";
-  position:fixed;
-  inset:0;
-  z-index:-1;
-  pointer-events:none;
-  opacity:0.14;
-  background-image:
-    radial-gradient(circle at 20% 10%, rgba(0,0,0,0.08) 0 1px, transparent 2px),
-    radial-gradient(circle at 80% 30%, rgba(0,0,0,0.06) 0 1px, transparent 2px),
-    radial-gradient(circle at 40% 70%, rgba(0,0,0,0.05) 0 1px, transparent 2px),
-    radial-gradient(circle at 60% 90%, rgba(0,0,0,0.04) 0 1px, transparent 2px);
-  background-size: 140px 140px, 190px 190px, 220px 220px, 260px 260px;
+function forceLowercaseBrand() {
+  const el = document.getElementById("siteTitle");
+  if (el) el.textContent = "ruin2itive";
+  document.title = "ruin2itive.org";
 }
 
-.mast{padding-bottom:10px}
-.brand__name{
-  font-size: 56px;
-  line-height: 1;
-  font-weight: 800;
-  letter-spacing: 0.5px;
-  margin: 0 0 6px;
-  text-transform: lowercase;
-  /* “Clerks-ish” fallback stack if available locally */
-  font-family: "Cooper Black", "CooperBlack", Georgia, "Times New Roman", serif;
-}
-.brand__tag{
-  font-size: 14px;
-  letter-spacing: 2.2px;
-  text-transform: lowercase;
-  color: var(--muted);
-  margin-bottom: 12px;
+function fmtDate(d) {
+  if (!d) return "";
+  try {
+    const dt = new Date(d);
+    if (isNaN(dt.getTime())) return "";
+    const yyyy = dt.getFullYear();
+    const mm = String(dt.getMonth() + 1).padStart(2, "0");
+    const dd = String(dt.getDate()).padStart(2, "0");
+    return `${yyyy}-${mm}-${dd}`;
+  } catch {
+    return "";
+  }
 }
 
-.rule{
-  height:2px;
-  background: var(--ink);
-  opacity:0.9;
-  margin: 10px 0 14px;
+function cleanTitle(t) {
+  return (t || "").replace(/\s+/g, " ").trim();
 }
 
-/* Thesis block: compact + strong left bar */
-.thesis{
-  display:flex;
-  gap:12px;
-  align-items:flex-start;
-  border:1px solid rgba(0,0,0,0.16);
-  background: rgba(255,255,255,0.72);
-  padding: 12px 12px;
-}
-.thesis__bar{
-  width:4px;
-  background: var(--accent);
-  flex:0 0 4px;
-  border-radius:2px;
-  margin-top:2px;
-}
-.thesis__text p{
-  margin: 0 0 8px;
-  font-size: 18px;
-  line-height: 1.22;
-}
-.thesis__text p:last-child{margin-bottom:0}
-
-.section{
-  margin-top: 16px;
+async function fetchText(url) {
+  const res = await fetch(url, { cache: "no-store" });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  return await res.text();
 }
 
-.section__title{
-  margin: 14px 0 8px;
-  font-size: 16px;
-  font-weight: 800;
-  letter-spacing: 4px;
-  text-transform: lowercase;
-  color: var(--accent);
-  border-bottom: 1px solid rgba(0,0,0,0.18);
-  padding-bottom: 6px;
+function parseRss(xmlText) {
+  const doc = new DOMParser().parseFromString(xmlText, "text/xml");
+
+  // RSS 2.0
+  const items = Array.from(doc.querySelectorAll("item")).map(item => ({
+    title: cleanTitle(item.querySelector("title")?.textContent || ""),
+    link: (item.querySelector("link")?.textContent || "").trim(),
+    date: (item.querySelector("pubDate")?.textContent || "").trim()
+  }));
+
+  // Atom fallback
+  if (items.length === 0) {
+    const entries = Array.from(doc.querySelectorAll("entry")).map(e => ({
+      title: cleanTitle(e.querySelector("title")?.textContent || ""),
+      link: (e.querySelector("link")?.getAttribute("href") || "").trim(),
+      date: (e.querySelector("updated")?.textContent || e.querySelector("published")?.textContent || "").trim()
+    }));
+    return entries;
+  }
+
+  return items;
 }
 
-.list, .feed{
-  border-top: 0;
+function renderFeed(container, items, sourceLabel) {
+  container.innerHTML = "";
+
+  const list = document.createElement("div");
+
+  items.forEach(it => {
+    const a = document.createElement("a");
+    a.className = "item";
+    a.href = it.link || "#";
+    a.target = "_blank";
+    a.rel = "noopener";
+
+    const t = document.createElement("div");
+    t.className = "item__title";
+    t.textContent = it.title || "(untitled)";
+
+    const m = document.createElement("div");
+    m.className = "item__meta";
+
+    const pill1 = document.createElement("span");
+    pill1.className = "pill";
+    pill1.textContent = sourceLabel;
+
+    const d = fmtDate(it.date);
+    const pill2 = document.createElement("span");
+    pill2.className = "pill";
+    pill2.textContent = d ? d : "";
+
+    m.appendChild(pill1);
+    if (d) m.appendChild(pill2);
+
+    a.appendChild(t);
+    a.appendChild(m);
+
+    list.appendChild(a);
+  });
+
+  container.appendChild(list);
 }
 
-.item{
-  display:block;
-  padding: 10px 0 9px;
-  border-bottom: 1px solid rgba(0,0,0,0.10);
-  text-decoration:none;
-  color:inherit;
-  background: rgba(255,255,255,0.55);
-}
-.item__title{
-  font-size: 30px;
-  font-weight: 800;
-  line-height: 1.06;
-  text-transform: lowercase;
-  margin: 0 0 4px;
-}
-.item__meta{
-  font-size: 14px;
-  color: var(--muted);
-  letter-spacing: 2px;
-  text-transform: lowercase;
+function renderError(container, label, msg) {
+  container.innerHTML = `
+    <div class="item" style="border-bottom:0;">
+      <div class="item__title" style="font-size:18px;font-weight:700;">
+        feed unavailable
+      </div>
+      <div class="item__meta">${label} · ${msg}</div>
+    </div>
+  `;
 }
 
-.feed .item__title{
-  font-size: 30px;
-}
-.feed .item__meta{
-  display:flex;
-  gap:10px;
-  align-items:center;
-  flex-wrap:wrap;
+async function loadAllFeeds() {
+  const feedEls = Array.from(document.querySelectorAll(".feed[data-feed]"));
+
+  for (const el of feedEls) {
+    const key = el.getAttribute("data-feed");
+    const cfg = FEEDS[key];
+    if (!cfg) continue;
+
+    try {
+      const xml = await fetchText(cfg.url);
+      const parsed = parseRss(xml)
+        .filter(x => x && x.title && x.link)
+        .slice(0, cfg.take);
+
+      renderFeed(el, parsed, cfg.label);
+    } catch (err) {
+      renderError(el, cfg.label, (err && err.message) ? err.message : "error");
+    }
+  }
 }
 
-.pill{
-  font-size: 12px;
-  letter-spacing: 2px;
-  color: var(--muted);
-  text-transform: lowercase;
-}
-
-a.item:hover{opacity:0.92}
-
-.foot{
-  margin-top: 22px;
-  padding-top: 10px;
-}
-.foot__rule{
-  height:1px;
-  background: rgba(0,0,0,0.22);
-  margin-bottom: 8px;
-}
-.foot__meta{
-  font-size: 12px;
-  letter-spacing: 3px;
-  text-transform: lowercase;
-  color: var(--muted);
-}
-
-/* Mobile tightening */
-@media (max-width: 520px){
-  .brand__name{font-size: 52px}
-  .thesis__text p{font-size: 17px}
-  .item__title{font-size: 28px}
-  .page{padding-top:18px}
-}
+forceLowercaseBrand();
+loadAllFeeds();
