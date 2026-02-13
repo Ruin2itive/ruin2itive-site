@@ -2,28 +2,27 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
   <title>ruin2itive</title>
-  <meta name="description" content="Reliability-first open-source independent front page." />
+  <meta name="description" content="reliability first · open source · independent" />
   <meta name="theme-color" content="#ffffff" />
   <link rel="stylesheet" href="./style.css" />
-  <script defer src="./app.js"></script>
 </head>
 
 <body>
   <main class="page">
-
     <header class="mast">
       <div class="brand-name">ruin2itive</div>
       <div class="brand-tag">reliability first · open source · independent</div>
       <div class="rule"></div>
 
-      <section class="lede">
-        <p>pulled from various sites. these sources are selected to ensure consistent and stable information.</p>
-        <p>these feeds remain hand selected, ad free, and purposeful. <strong>clear and concise info. stability is law.</strong></p>
+      <section class="lede" aria-label="lede">
+        <p><em>pulled from various sites. these sources are selected to ensure consistent and stable information.</em></p>
+        <p><em>these feeds remain hand selected, ad free, and purposeful. <strong>clear and concise info. stability is law.</strong></em></p>
       </section>
     </header>
 
+    <!-- projects -->
     <section class="section" id="projects">
       <div class="section-title">projects / the code</div>
       <div class="list">
@@ -31,10 +30,12 @@
           <div class="item-title">ruin2itive</div>
           <div class="item-meta">github · src</div>
         </a>
+
         <a class="item" href="https://www.hackster.io/" target="_blank" rel="noopener">
           <div class="item-title">arduino</div>
           <div class="item-meta">hackster · hardware</div>
         </a>
+
         <a class="item" href="https://www.instructables.com/" target="_blank" rel="noopener">
           <div class="item-title">raspberry pi</div>
           <div class="item-meta">instructables · diy</div>
@@ -42,27 +43,26 @@
       </div>
     </section>
 
+    <!-- feeds -->
     <section class="section" id="crypto">
       <div class="section-title">markets / crypto</div>
-      <div class="list" id="cryptoList">
-        <div class="loading" id="cryptoLoading">loading…</div>
-      </div>
+      <div class="loading" id="cryptoStatus">loading…</div>
+      <div class="list" id="cryptoList"></div>
     </section>
 
     <section class="section" id="hn">
       <div class="section-title">hacker news</div>
-      <div class="list" id="hnList">
-        <div class="loading" id="hnLoading">loading…</div>
-      </div>
+      <div class="loading" id="hnStatus">loading…</div>
+      <div class="list" id="hnList"></div>
     </section>
 
     <section class="section" id="world">
       <div class="section-title">world news</div>
-      <div class="list" id="worldList">
-        <div class="loading" id="worldLoading">loading…</div>
-      </div>
+      <div class="loading" id="worldStatus">loading…</div>
+      <div class="list" id="worldList"></div>
     </section>
-
   </main>
+
+  <script src="./app.js" defer></script>
 </body>
 </html>
