@@ -2,131 +2,66 @@
 :root{
   --paper: #f2efe8;
   --ink: #151515;
-  --muted: rgba(0,0,0,.58);
-  --line: rgba(0,0,0,.16);
+  --muted: rgba(0,0,0,.55);
+  --line: rgba(0,0,0,.18);
   --line-strong: rgba(0,0,0,.55);
-  --accent: #7b3d35;      /* dusty red/brown */
-  --card: rgba(255,255,255,.52);
+  --accent: #7b3d35;
 }
 
+/* reset */
 *{ box-sizing:border-box; }
 
 html,body{
   margin:0;
   padding:0;
-  background: var(--paper);
-  color: var(--ink);
   font-family: Georgia, "Times New Roman", serif;
+  color: var(--ink);
+  background:
+    linear-gradient(rgba(242,239,232,.88), rgba(242,239,232,.88)),
+    url("./assets/elephant-third-eye.webp");
+  background-size: cover;
+  background-position: center top;
+  background-attachment: fixed;
 }
 
+/* page width */
 .page{
-  max-width: 740px;
+  max-width: 720px;
   margin: 0 auto;
-  padding: 16px 14px 42px;
+  padding: 22px 18px 50px;
 }
 
 /* ---------- masthead ---------- */
-.mast{ margin-top: 2px; }
-
 .brand{
   margin: 0;
   font-weight: 800;
-  letter-spacing: .2px;
-  font-size: clamp(52px, 10vw, 84px);
-  line-height: .92;
+  font-size: clamp(52px, 9vw, 86px);
+  line-height: .95;
 }
 
 .tagline{
   margin-top: 8px;
   font-size: 16px;
-  letter-spacing: .34em;
+  letter-spacing: .32em;
   text-transform: lowercase;
   color: var(--muted);
 }
 
 .rule{
-  border: none;
   height: 2px;
   background: var(--line-strong);
-  margin: 12px 0 12px;
-}
-
-/* ---------- manifesto (MINIMAL at first glance) ---------- */
-.manifesto{
-  background: var(--card);
-  border: 1px solid var(--line);
-  box-shadow: 0 0 0 1px rgba(0,0,0,.06) inset;
-  margin: 0 0 14px;
-}
-
-.manifesto-summary{
-  list-style: none;
-  cursor: pointer;
-  padding: 10px 12px;
-  border-left: 7px solid var(--accent);
-  font-size: 18px;
-  line-height: 1.10;
-  font-style: italic;
-  color: rgba(0,0,0,.78);
-}
-
-.manifesto-summary strong{
-  font-weight: 800;
-  color: rgba(0,0,0,.92);
-}
-
-.manifesto summary::-webkit-details-marker{ display:none; }
-
-.manifesto[open] .manifesto-summary{
-  border-bottom: 1px solid rgba(0,0,0,.10);
-}
-
-.manifesto-body{
-  padding: 8px 12px 10px 19px; /* align under bar */
-}
-
-.manifesto-body p{
-  margin: 0;
-  font-size: 18px;
-  line-height: 1.12;
-  font-style: italic;
-  color: rgba(0,0,0,.72);
-}
-
-.manifesto-body p + p{ margin-top: 6px; }
-
-/* ---------- sheet / watermark ---------- */
-.sheet{
-  position: relative;
-  padding-bottom: 14px;
-}
-
-.watermark{
-  position: absolute;
-  inset: 150px 0 30px 0;
-  background-image: url("./assets/elephant-third-eye.webp");
-  background-repeat: no-repeat;
-  background-position: center 120px;
-  background-size: min(860px, 120%);
-  opacity: 0.22; /* stronger */
-  filter: contrast(1.15) saturate(.9);
-  pointer-events: none;
-  z-index: 0;
-}
-
-.section-head, .row, .feed, .footer{
-  position: relative;
-  z-index: 1;
+  margin: 14px 0 24px;
+  border: none;
 }
 
 /* ---------- section headers ---------- */
 .section-head{
-  margin-top: 12px;
+  margin-top: 24px;
 }
 
 .section-title{
-  font-size: 18px;
-  letter-spacing: .30em;
+  font-size: 20px;
+  letter-spacing: .35em;
   text-transform: lowercase;
   color: var(--accent);
 }
@@ -139,10 +74,10 @@ html,body{
 
 /* ---------- project rows ---------- */
 .row{
-  display: block;
-  text-decoration: none;
-  color: inherit;
-  padding: 12px 0 12px;
+  display:block;
+  text-decoration:none;
+  color:inherit;
+  padding: 16px 0;
   border-bottom: 1px solid var(--line);
 }
 
@@ -151,87 +86,84 @@ html,body{
 }
 
 .row-title{
-  font-size: 46px;     /* tighter than before */
-  font-weight: 750;
+  font-size: 54px;
+  font-weight: 700;
   line-height: .96;
   margin: 0;
-  letter-spacing: .2px;
 }
 
 .row-sub{
-  margin-top: 4px;
-  font-size: 15px;
-  letter-spacing: .30em;
-  color: var(--muted);
+  margin-top: 6px;
+  font-size: 18px;
+  letter-spacing: .28em;
   text-transform: lowercase;
+  color: var(--muted);
 }
 
-/* ---------- feeds (compact “newspaper”) ---------- */
+/* ---------- feeds ---------- */
 .feed{
-  padding: 10px 0 8px;
+  padding: 12px 0 16px;
   border-bottom: 1px solid var(--line);
 }
 
 .feed-status{
-  font-size: 22px;
+  font-size: 34px;
   font-style: italic;
-  letter-spacing: .04em;
-  color: rgba(0,0,0,.40);
-  line-height: 1.05;
-  padding: 0 0 6px;
+  color: rgba(0,0,0,.35);
+  padding: 6px 0 8px;
 }
 
 .feed-list{
-  list-style: none;
-  padding: 0;
-  margin: 0;
+  list-style:none;
+  padding:0;
+  margin:0;
 }
 
 .feed-item{
-  padding: 8px 0;
-  border-top: 1px solid rgba(0,0,0,.10);
+  padding: 10px 0;
+  border-top: 1px solid rgba(0,0,0,.12);
 }
 
-.feed-item:first-child{ border-top: none; }
+.feed-item:first-child{
+  border-top:none;
+}
 
 .feed-link{
-  display: block;
-  text-decoration: none;
-  color: inherit;
+  text-decoration:none;
+  color:inherit;
 }
 
 .feed-title{
-  font-size: 18px;      /* compact */
-  line-height: 1.12;
+  font-size: 20px;
+  line-height: 1.15;
   margin: 0;
 }
 
 .feed-meta{
-  margin-top: 4px;
-  font-size: 12px;
-  letter-spacing: .24em;
-  color: var(--muted);
+  margin-top: 6px;
+  font-size: 14px;
+  letter-spacing: .22em;
   text-transform: lowercase;
+  color: var(--muted);
 }
 
+/* ---------- footer ---------- */
 .footer{
-  margin-top: 12px;
-  padding-top: 10px;
+  margin-top: 20px;
+  padding-top: 12px;
   border-top: 1px solid var(--line);
 }
 
 .updated{
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: .22em;
-  color: rgba(0,0,0,.42);
   text-transform: lowercase;
+  color: rgba(0,0,0,.4);
 }
 
-/* --- small screens tighten further --- */
-@media (max-width: 430px){
-  .tagline{ letter-spacing: .26em; font-size: 15px; }
-  .manifesto-summary{ font-size: 17px; }
-  .manifesto-body p{ font-size: 17px; }
-  .row-title{ font-size: 42px; }
-  .feed-title{ font-size: 17px; }
+/* mobile tightening */
+@media (max-width:430px){
+  .row-title{ font-size: 46px; }
+  .feed-title{ font-size: 18px; }
+  .tagline{ font-size: 14px; letter-spacing:.25em; }
 }
