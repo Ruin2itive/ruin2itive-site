@@ -1,15 +1,78 @@
 {
-  "updated_iso": "2026-02-13T00:00:00Z",
-  "updated_local": "seed",
+  "updated_iso": "2026-02-13T13:37:35.830Z",
+  "updated_local": "2/13/2026, 1:37:35 PM",
   "sections": {
     "crypto": [
-      { "title": "Sample: Decrypt headline will appear here", "url": "https://decrypt.co/", "source": "decrypt", "time": "seed" }
+      {
+        "title": "Crypto feed not configured yet",
+        "url": "https://ruin2itive.org/",
+        "source": "crypto",
+        "time": ""
+      }
     ],
     "hacker": [
-      { "title": "Sample: Hacker News headline will appear here", "url": "https://news.ycombinator.com/", "source": "hn", "time": "seed" }
+      {
+        "title": "Monosketch",
+        "url": "https://monosketch.io/",
+        "source": "hn",
+        "time": "2/13/2026, 12:18:05 PM"
+      },
+      {
+        "title": "Resizing windows on macOS Tahoe – the saga continues",
+        "url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
+        "source": "hn",
+        "time": "2/12/2026, 11:52:24 PM"
+      },
+      {
+        "title": "MinIO repository is no longer maintained",
+        "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+        "source": "hn",
+        "time": "2/13/2026, 7:46:03 AM"
+      },
+      {
+        "title": "MMAcevedo aka Lena by qntm",
+        "url": "https://qntm.org/mmacevedo",
+        "source": "hn",
+        "time": "2/13/2026, 5:24:40 AM"
+      },
+      {
+        "title": "GPT‑5.3‑Codex‑Spark",
+        "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+        "source": "hn",
+        "time": "2/12/2026, 6:06:09 PM"
+      }
     ],
     "world": [
-      { "title": "Sample: World headline will appear here", "url": "https://www.bbc.com/news", "source": "world", "time": "seed" }
+      {
+        "title": "Watch: How Andrew's BBC interview compares to what Epstein emails tell us now",
+        "url": "https://www.bbc.com/news/videos/c20jepq911zo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 13 Feb 2026 11:31:06 GMT"
+      },
+      {
+        "title": "'My husband stole £600k for sex and antiques' - medication side effects tearing families apart",
+        "url": "https://www.bbc.com/news/articles/clym0g4rlr2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 13 Feb 2026 06:02:40 GMT"
+      },
+      {
+        "title": "Former SNP chief executive accused of embezzling £459,000 over 12-year period",
+        "url": "https://www.bbc.com/news/articles/cg7erzygx52o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 13 Feb 2026 12:25:56 GMT"
+      },
+      {
+        "title": "Watch SpaceX rocket blast off to International Space Station",
+        "url": "https://www.bbc.com/news/videos/c4gj39dprkno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 13 Feb 2026 12:09:52 GMT"
+      },
+      {
+        "title": "Trump revokes landmark ruling that greenhouse gases endanger public health",
+        "url": "https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 13 Feb 2026 09:45:18 GMT"
+      }
     ]
   }
 }
