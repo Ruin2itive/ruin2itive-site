@@ -7,9 +7,9 @@
 
 <style>
 :root{
-  --ink:#111;
+  --ink:#0e0e0e;
   --rust:#6b2a24;
-  --muted:#777;
+  --muted:#666;
 }
 
 *{margin:0;padding:0;box-sizing:border-box;}
@@ -18,11 +18,11 @@ body{
   font-family: Georgia, "Times New Roman", serif;
   background:#ffffff;
   color:var(--ink);
-  line-height:1.1;
-  padding:18px 14px 60px;
+  line-height:1.05;
+  padding:20px 16px 60px;
 }
 
-/* GIANT WATERMARK ELEPHANT */
+/* ELEPHANT WATERMARK */
 
 body::before{
   content:"";
@@ -30,9 +30,8 @@ body::before{
   inset:0;
   background:
     url("assets/elephant-third-eye.webp")
-    center 200px / 1400px no-repeat;
-  opacity:.08;          /* key change */
-  filter: grayscale(100%) blur(.5px);
+    center center / 1200px no-repeat;
+  opacity:.045;              /* lower */
   pointer-events:none;
   z-index:-1;
 }
@@ -47,27 +46,28 @@ body::before{
 /* HEADER */
 
 header{
-  border-bottom:2px solid #111;
+  border-bottom:2px solid #000;
   padding-bottom:6px;
   margin-bottom:10px;
 }
 
 .wordmark{
   font-style:italic;
-  font-size:34px;
+  font-size:36px;
+  letter-spacing:-1px;
 }
 
 .tagline{
   font-size:9px;
   letter-spacing:2px;
   color:var(--muted);
-  margin-top:4px;
+  margin-top:3px;
 }
 
 /* MANIFESTO */
 
 .manifesto{
-  margin-bottom:12px;
+  margin:8px 0 14px;
   padding-left:10px;
   border-left:3px solid var(--rust);
 }
@@ -75,7 +75,7 @@ header{
 .manifesto p{
   font-style:italic;
   font-size:13px;
-  margin-bottom:4px;
+  margin-bottom:3px;
 }
 
 .manifesto .law{
@@ -85,16 +85,16 @@ header{
 /* SECTIONS */
 
 section{
-  margin-top:10px;
+  margin-top:12px;
 }
 
 h2{
   font-size:10px;
   letter-spacing:3px;
   color:var(--rust);
-  border-bottom:1px solid rgba(0,0,0,.2);
-  padding-bottom:3px;
-  margin-bottom:4px;
+  border-bottom:1px solid #000;
+  padding-bottom:2px;
+  margin-bottom:5px;
 }
 
 ul{
@@ -102,13 +102,13 @@ ul{
 }
 
 li{
-  padding:3px 0;
+  padding:4px 0;
 }
 
 a{
   text-decoration:none;
   color:var(--ink);
-  border-bottom:1px solid rgba(0,0,0,.7);
+  border-bottom:1px solid #000;
 }
 
 a:hover{
@@ -120,21 +120,7 @@ a:hover{
   display:block;
   font-size:9px;
   color:var(--muted);
-}
-
-/* MOBILE TIGHTENING */
-
-@media(max-width:520px){
-  body{
-    padding:16px 12px 40px;
-  }
-  .wordmark{
-    font-size:30px;
-  }
-  body::before{
-    background-size:1100px;
-    background-position:center 250px;
-  }
+  margin-top:-2px;
 }
 </style>
 </head>
