@@ -36,16 +36,20 @@
       padding:20px 18px 36px;
     }
 
-    /* MASTHEAD IMAGE (replaces text banner) */
+    /* MASTHEAD IMAGE (full-bleed, edge-to-edge) */
     .masthead{
-      width:100%;
-      margin:0 auto 14px;
+      width:100vw;
+      margin-left:50%;
+      transform:translateX(-50%);
+      margin-bottom:14px;
     }
     .masthead img{
       width:100%;
       height:auto;
       display:block;
       border:0;
+      /* subtle stamp lift */
+      box-shadow:0 6px 20px rgba(0,0,0,.08);
     }
 
     /* top rule under masthead */
@@ -84,6 +88,7 @@
       border-top:1px solid rgba(0,0,0,.06);
     }
     .item:first-child{ border-top:none; }
+
     .title{
       margin:0 0 2px;
       font-size:30px;
@@ -107,6 +112,7 @@
       border-top:1px solid rgba(0,0,0,.06);
     }
     .feed-row:first-child{ border-top:none; }
+
     .feed-title{
       margin:0;
       font-size:20px;
@@ -120,6 +126,7 @@
       white-space:nowrap;
       flex: 0 0 auto;
     }
+
     a{ color:inherit; }
     a:hover{ text-decoration:underline; }
 
@@ -138,7 +145,6 @@
       font-size:16px;
     }
 
-    /* make it feel snappy on mobile */
     @media (max-width:420px){
       .wrap{ padding:18px 16px 30px; }
       .title{ font-size:28px; }
@@ -152,9 +158,9 @@
 <body>
   <div class="wrap">
 
-    <!-- MASTHEAD (replace top text with a graphic) -->
+    <!-- MASTHEAD (graphic banner) -->
     <header class="masthead" aria-label="ruin2itive masthead">
-      <!-- Put your generated banner image here -->
+      <!-- MUST exist in your repo: assets/masthead.webp -->
       <img
         src="assets/masthead.webp"
         alt="ruin2itive — reliability • open source • independent"
@@ -171,17 +177,23 @@
 
       <ul class="list">
         <li class="item">
-          <p class="title"><a href="https://github.com/Ruin2itive" target="_blank" rel="noopener">ruin2itive</a></p>
+          <p class="title">
+            <a href="https://github.com/Ruin2itive" target="_blank" rel="noopener">ruin2itive</a>
+          </p>
           <p class="meta">github • src</p>
         </li>
 
         <li class="item">
-          <p class="title"><a href="https://www.hackster.io/" target="_blank" rel="noopener">arduino</a></p>
+          <p class="title">
+            <a href="https://www.hackster.io/" target="_blank" rel="noopener">arduino</a>
+          </p>
           <p class="meta">hackster • hardware</p>
         </li>
 
         <li class="item">
-          <p class="title"><a href="https://www.instructables.com/" target="_blank" rel="noopener">raspberry_pi</a></p>
+          <p class="title">
+            <a href="https://www.instructables.com/" target="_blank" rel="noopener">raspberry_pi</a>
+          </p>
           <p class="meta">instructables • diy</p>
         </li>
       </ul>
@@ -205,10 +217,8 @@
   </div>
 
   <script>
-    // Footer year
     document.getElementById("year").textContent = new Date().getFullYear();
 
-    // Renders one feed list into a container
     function renderFeed(container, items, sourceLabel) {
       container.innerHTML = "";
       if (!items || !items.length) {
@@ -242,9 +252,6 @@
     }
 
     async function loadHomeJson() {
-      // This is your generated feed file (from your script)
-      // Expected shape:
-      // { sections: { crypto: [{title,url}], hacker: [{title,url}] } }
       const res = await fetch("data/home.json", { cache: "no-store" });
       if (!res.ok) throw new Error("home.json not found");
       return await res.json();
@@ -265,7 +272,6 @@
         renderFeed(cryptoFeed, data?.sections?.crypto || [], "decrypt");
         renderFeed(hnFeed, data?.sections?.hacker || [], "hn");
       } catch (e) {
-        // If your feed file isn't ready yet, keep the page clean and stable
         cryptoLoading.textContent = "feed offline (data/home.json missing)";
         hnLoading.textContent = "feed offline (data/home.json missing)";
       }
