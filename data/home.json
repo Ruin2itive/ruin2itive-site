@@ -1,15 +1,15 @@
 {
-  "updated_iso": "2026-02-13T00:00:00.000Z",
-  "updated_local": "sample",
+  "updated_iso": "2026-02-13T00:00:00Z",
+  "updated_local": "seed",
   "sections": {
     "crypto": [
-      { "title": "Sample: Decrypt headline will appear here", "url": "https://decrypt.co/", "published": "2026-02-13T00:00:00.000Z" }
+      { "title": "Sample: Decrypt headline will appear here", "url": "https://decrypt.co/", "source": "decrypt", "time": "seed" }
     ],
     "hacker": [
-      { "title": "Sample: Hacker News headline will appear here", "url": "https://news.ycombinator.com/", "published": "2026-02-13T00:00:00.000Z" }
+      { "title": "Sample: Hacker News headline will appear here", "url": "https://news.ycombinator.com/", "source": "hn", "time": "seed" }
     ],
     "world": [
-      { "title": "Sample: World headline will appear here", "url": "https://www.bbc.com/news", "published": "2026-02-13T00:00:00.000Z" }
+      { "title": "Sample: World headline will appear here", "url": "https://www.bbc.com/news", "source": "world", "time": "seed" }
     ]
   }
 }
