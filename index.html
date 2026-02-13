@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ruin2itive</title>
+    <style>
+        /* EXACT COLORS FROM YOUR LOGO (IMG_6994.png) */
+        :root {
+            --bg: #d9d0bd;        /* warm concrete */
+            --rust: #8a4a3c;       /* aged rust red */
+            --text: #2c2c2c;       /* dark gray */
+            --elephant: rgba(138, 74, 60, 0.2);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--bg);
+            color: var(--text);
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 16px;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 1.5rem;
+            position: relative;
+        }
+
+        /* GHOST ELEPHANT – PERMANENT STENCIL */
+        body::before {
+            content: "r2";
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            font-size: 120px;
+            font-family: 'Arial Black', 'Impact', sans-serif;
+            color: var(--elephant);
+            letter-spacing: -8px;
+            transform: rotate(1deg);
+            z-index: -1;
+            pointer-events: none;
+        }
+
+        /* MASTHEAD – EXACTLY AS YOUR LOGO */
+        .masthead {
+            font-size: 2.4rem;
+            font-weight: 800;
+            color: var(--text);
+            border-bottom: 3px solid var(--rust);
+            padding-bottom: 0.25rem;
+            margin-bottom: 0.75rem;
+            letter-spacing: -1.5px;
+            line-height: 1.1;
+        }
+
+        .tagline {
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: var(--text);
+            opacity: 0.8;
+            margin-bottom: 2.5rem;
+        }
+
+        /* SECTION HEADERS – RUST RED, BORDERED */
+        h2 {
+            color: var(--rust);
+            font-size: 1.1rem;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            border-bottom: 1px dashed var(--rust);
+            padding-bottom: 0.4rem;
+            margin-top: 2.2rem;
+            margin-bottom: 1.2rem;
+            font-weight: 600;
+        }
+
+        /* LINK STYLES – NO YELLOW, NEVER */
+        a {
+            color: var(--text);
+            text-decoration: underline;
+            text-decoration-color: var(--rust);
+            text-underline-offset: 3px;
+            text-decoration-thickness: 1.5px;
+            font-weight: normal;
+        }
+
+        a:visited {
+            color: var(--text) !important;
+            text-decoration-color: var(--rust) !important;
+        }
+
+        a:hover {
+            background-color: var(--rust);
+            color: var(--bg) !important;
+            text-decoration: none;
+        }
+
+        /* LINK LISTS – CLEAN, NO BULLETS */
+        ul, .link-list {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        li {
+            margin-bottom: 0.6rem;
+        }
+
+        .meta {
+            font-size: 0.8rem;
+            opacity: 0.7;
+            margin-left: 0.5rem;
+            text-transform: uppercase;
+        }
+
+        /* TWO-COLUMN GRID FOR PROJECTS */
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+            gap: 1.2rem;
+            margin-top: 0.5rem;
+        }
+
+        .project-card {
+            border: 1px solid rgba(138, 74, 60, 0.25);
+            padding: 1rem 1.2rem;
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .project-card h3 {
+            font-size: 1rem;
+            color: var(--rust);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-bottom: 0.5rem;
+            border-bottom: none;
+        }
+
+        .project-card p {
+            font-size: 0.85rem;
+            opacity: 0.9;
+        }
+
+        /* FOOTER */
+        footer {
+            margin-top: 4rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid var(--rust);
+            font-size: 0.8rem;
+            color: var(--text);
+            opacity: 0.8;
+            display: flex;
+            justify-content: space-between;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+        }
+
+        footer a {
+            color: var(--text);
+            text-decoration: none;
+            border-bottom: 1px dotted var(--rust);
+        }
+
+        footer a:hover {
+            background-color: transparent;
+            color: var(--rust) !important;
+            border-bottom: 1px solid var(--rust);
+        }
+
+        .quiet {
+            opacity: 0.7;
+            font-style: italic;
+        }
+
+        @media (max-width: 600px) {
+            body { padding: 1rem; }
+            .masthead { font-size: 1.9rem; }
+            body::before { font-size: 80px; right: 10px; }
+            .project-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="masthead">ruin2itive.org</div>
+    <div class="tagline">reliability first · open source · independent</div>
+
+    <!-- ========== PROJECTS ========== -->
+    <h2>⎇ projects / the code</h2>
+    <div class="project-grid">
+        <div class="project-card">
+            <h3>Arduino</h3>
+            <p><a href="https://www.hackster.io/arduino/projects">Hackster.io project feed</a></p>
+            <p class="meta">daily builds · hardware</p>
+        </div>
+        <div class="project-card">
+            <h3>Raspberry Pi</h3>
+            <p><a href="https://www.instructables.com/Raspberry-Pi-Projects/">Instructables collection</a></p>
+            <p class="meta">DIY · maker</p>
+        </div>
+        <div class="project-card">
+            <h3>ruin2itive</h3>
+            <p><a href="https://github.com/Ruin2itive">GitHub · open source</a></p>
+            <p class="meta">this site · reliability first</p>
+        </div>
+    </div>
+
+    <!-- ========== MARKETS / CRYPTO ========== -->
+    <h2>⌬ markets / crypto</h2>
+    <ul>
+        <li><a href="https://decrypt.co/news">Decrypt – top headlines</a> <span class="meta">daily · 6am refresh</span></li>
+        <li><a href="https://www.coindesk.com/">CoinDesk</a> <span class="meta">secondary source</span></li>
+        <li class="quiet">curating signal · protocol updates · on‑chain</li>
+    </ul>
+
+    <!-- ========== HACKER NEWS ========== -->
+    <h2>⎔ hacker news</h2>
+    <ul>
+        <li><a href="https://news.ycombinator.com/newest">HN /newest – top 5 daily</a> <span class="meta">6am refresh</span></li>
+        <li><a href="https://news.ycombinator.com/show">Show HN</a> <span class="meta">fresh builds</span></li>
+        <li class="quiet">foss · security · systems · diy</li>
+    </ul>
+
+    <!-- ========== WORLD NEWS ========== -->
+    <h2>🌍 world news</h2>
+    <ul>
+        <li><a href="https://apnews.com/">Associated Press</a> <span class="meta">wire · minimal bias</span></li>
+        <li><a href="https://www.reuters.com/">Reuters</a> <span class="meta">fact‑based</span></li>
+        <li><a href="https://www.bbc.com/news">BBC News</a> <span class="meta">international</span></li>
+        <li class="quiet">ad‑free feeds in progress</li>
+    </ul>
+
+    <!-- ========== BANNED BOOKS ========== -->
+    <h2>📚 free banned books</h2>
+    <ul>
+        <li><a href="https://www.spl.org/programs-and-services/teens/books-unbanned">Seattle Public Library – Books Unbanned</a> <span class="meta">free e‑cards</span></li>
+        <li><a href="https://openlibrary.org/">Internet Archive – Open Library</a> <span class="meta">classics</span></li>
+        <li><a href="https://standardebooks.org/">Standard Ebooks</a> <span class="meta">public domain</span></li>
+        <li class="quiet">more resources coming · no drm</li>
+    </ul>
+
+    <!-- ========== PERSONAL FINANCE ========== -->
+    <h2>💰 personal finance</h2>
+    <ul>
+        <li><a href="https://www.mrmoneymustache.com/blog/">Mr. Money Mustache</a> <span class="meta">manually curated</span></li>
+        <li class="quiet">frugalism · early retirement · systems</li>
+    </ul>
+
+    <!-- ========== BLOG ========== -->
+    <h2>✎ blog</h2>
+    <ul>
+        <li><a href="/blog/">entries · updates · thoughts</a> <span class="meta">inaugural post soon</span></li>
+        <li class="quiet">building in public · the boring pages</li>
+    </ul>
+
+    <!-- ========== INTEGRITY / ABOUT ========== -->
+    <footer>
+        <div>⚡ open source · independent</div>
+        <div>
+            <a href="/integrity/">integrity</a> · 
+            <a href="/about/">about</a>
+        </div>
+    </footer>
+
+    <!-- optional: dynamic edition date (can be static for now) -->
+    <div style="position: fixed; bottom: 10px; left: 10px; font-size: 0.7rem; opacity: 0.3;">
+        edition 2026-02-14
+    </div>
+</body>
+</html>
