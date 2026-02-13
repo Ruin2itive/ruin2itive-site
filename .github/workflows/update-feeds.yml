@@ -1,41 +1,60 @@
-name: update-feeds
+name: Update feeds
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - "scripts/**"
-      - "package.json"
-      - ".github/workflows/update-feeds.yml"
   schedule:
-    - cron: "0 */2 * * *"
+    # every 15 minutes
+    - cron: "*/15 * * * *"
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-feeds
+  cancel-in-progress: true
+
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
+      # IMPORTANT: no npm cache (avoids needing package-lock.json)
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
-          cache: "npm"
+          node-version: 20
 
-      - name: Install
-        run: npm ci
+      # If you do NOT have any dependencies, this step is safe to keep;
+      # it will do nothing if there's no package.json.
+      - name: Install (if package.json exists)
+        run: |
+          if [ -f package.json ]; then
+            npm install
+          else
+            echo "No package.json found; skipping npm install."
+          fi
 
       - name: Build home.json
-        run: npm run build:home
-
-      - name: Commit data updates
         run: |
-          git config user.name "ruin2itive-bot"
-          git config user.email "actions@users.noreply.github.com"
+          node scripts/build_home_feed.js
+          echo "----- data/home.json (first 80 lines) -----"
+          sed -n '1,80p' data/home.json || true
+
+      - name: Commit data updates (if changed)
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add data/home.json
-          git diff --cached --quiet || git commit -m "update feeds"
+          git commit -m "Update feeds"
           git push
