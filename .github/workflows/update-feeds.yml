@@ -1,16 +1,19 @@
-name: update-feeds
+name: Update feeds
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+    # Every 2 hours (UTC)
+    - cron: "0 */2 * * *"
+    # 6am America/Chicago ~= 12:00 UTC (standard time). This also runs daily “anchor”.
+    - cron: "0 12 * * *"
 
 permissions:
   contents: write
 
 concurrency:
-  group: update-feeds
-  cancel-in-progress: true
+  group: feeds
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -25,15 +28,16 @@ jobs:
           node-version: "20"
 
       - name: Install deps
-        run: npm install
+        run: npm ci
+        continue-on-error: false
 
-      - name: Build home.json
-        run: node scripts/build.js
+      - name: Build home feed
+        run: npm run build:home
 
       - name: Commit updated data
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "ruin2itive-bot"
+          git config user.email "actions@users.noreply.github.com"
           git add data/home.json
           git diff --staged --quiet || git commit -m "update feeds"
           git push
