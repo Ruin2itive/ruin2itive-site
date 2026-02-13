@@ -1,46 +1,44 @@
-/* ruin2itive — stable renderer
-   RULE: browser only loads local JSON from /data.
-   External feeds must be fetched by GitHub Actions, not client.
-*/
+// ruin2itive front page loader (reliability-first)
 
-function el(tag, cls, text){
+function el(tag, cls) {
   const n = document.createElement(tag);
   if (cls) n.className = cls;
-  if (text !== undefined) n.textContent = text;
   return n;
 }
 
-function clear(node){
-  while (node.firstChild) node.removeChild(node.firstChild);
+function setStatus(id, text) {
+  const n = document.getElementById(id);
+  if (n) n.textContent = text;
 }
 
-function renderItems(listEl, items){
-  clear(listEl);
+function renderList(containerId, items) {
+  const box = document.getElementById(containerId);
+  if (!box) return;
 
-  if (!Array.isArray(items) || items.length === 0){
-    listEl.appendChild(el("div","loading","feed unavailable"));
-    return;
-  }
-
-  for (const it of items){
-    const a = el("a","item");
+  box.innerHTML = "";
+  for (const it of items) {
+    const a = el("a", "item");
     a.href = it.url || "#";
     a.target = "_blank";
     a.rel = "noopener";
 
-    a.appendChild(el("div","item-title", it.title || "untitled"));
-    a.appendChild(el("div","item-meta", it.meta || ""));
+    const t = el("div", "item-title");
+    t.textContent = it.title || "untitled";
 
-    listEl.appendChild(a);
+    const m = el("div", "item-meta");
+    m.textContent = it.meta || "";
+
+    a.appendChild(t);
+    a.appendChild(m);
+    box.appendChild(a);
   }
 }
 
-async function loadLocalJson(path, timeoutMs){
+async function safeFetchJson(url, timeoutMs = 6500) {
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), timeoutMs);
-
-  try{
-    const res = await fetch(path, { cache: "no-store", signal: ctrl.signal });
+  try {
+    const res = await fetch(url, { signal: ctrl.signal, cache: "no-store" });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     return await res.json();
   } finally {
@@ -48,30 +46,54 @@ async function loadLocalJson(path, timeoutMs){
   }
 }
 
-async function main(){
-  const cryptoList = document.getElementById("cryptoList");
-  const hnList = document.getElementById("hnList");
-  const worldList = document.getElementById("worldList");
+/*
+  EXPECTED JSON shape:
+  {
+    "crypto":[{"title":"...","url":"...","meta":"decrypt · top"}],
+    "hn":[{"title":"...","url":"...","meta":"hn · newest"}],
+    "world":[{"title":"...","url":"...","meta":"ap · wire"}]
+  }
 
-  // IMPORTANT: local relative path to avoid Pages subpath issues
-  const DATA = "./data/home.json";
+  You can change the endpoint later, but keep it stable.
+*/
+async function main() {
+  // If you already have an API endpoint, put it here:
+  const FEED_URL = "./data/home.json";
 
-  try{
-    const data = await loadLocalJson(DATA, 6500);
+  // Default “fail safe” statuses:
+  setStatus("cryptoStatus", "loading…");
+  setStatus("hnStatus", "loading…");
+  setStatus("worldStatus", "loading…");
 
-    // Expected schema:
-    // { updated_iso, sections: { crypto: [...], hacker: [...], world: [...] } }
-    const sections = (data && data.sections) ? data.sections : {};
+  try {
+    const data = await safeFetchJson(FEED_URL);
 
-    renderItems(cryptoList, sections.crypto);
-    renderItems(hnList, sections.hacker || sections.hn);
-    renderItems(worldList, sections.world);
+    if (Array.isArray(data.crypto)) {
+      setStatus("cryptoStatus", "");
+      renderList("cryptoList", data.crypto);
+    } else {
+      setStatus("cryptoStatus", "feed unavailable");
+    }
 
-  } catch (e){
-    // Total failure -> still render gracefully
-    renderItems(cryptoList, []);
-    renderItems(hnList, []);
-    renderItems(worldList, []);
+    if (Array.isArray(data.hn)) {
+      setStatus("hnStatus", "");
+      renderList("hnList", data.hn);
+    } else {
+      setStatus("hnStatus", "feed unavailable");
+    }
+
+    if (Array.isArray(data.world)) {
+      setStatus("worldStatus", "");
+      renderList("worldList", data.world);
+    } else {
+      setStatus("worldStatus", "feed unavailable");
+    }
+
+  } catch (e) {
+    // HARD FAIL SAFE: never blank screen
+    setStatus("cryptoStatus", "feed unavailable");
+    setStatus("hnStatus", "feed unavailable");
+    setStatus("worldStatus", "feed unavailable");
   }
 }
 
