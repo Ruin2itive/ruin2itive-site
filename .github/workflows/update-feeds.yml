@@ -1,10 +1,9 @@
-name: Update feeds
+name: update-feeds
 
 on:
   workflow_dispatch:
   schedule:
-    # every 15 minutes
-    - cron: "*/15 * * * *"
+    - cron: "*/30 * * * *"   # every 30 minutes
 
 permissions:
   contents: write
@@ -14,47 +13,28 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      # IMPORTANT: no npm cache (avoids needing package-lock.json)
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: "20"
 
-      # If you do NOT have any dependencies, this step is safe to keep;
-      # it will do nothing if there's no package.json.
-      - name: Install (if package.json exists)
-        run: |
-          if [ -f package.json ]; then
-            npm install
-          else
-            echo "No package.json found; skipping npm install."
-          fi
+      - name: Install
+        run: npm install
 
       - name: Build home.json
-        run: |
-          node scripts/build_home_feed.js
-          echo "----- data/home.json (first 80 lines) -----"
-          sed -n '1,80p' data/home.json || true
+        run: node scripts/build_home_feed.js
 
-      - name: Commit data updates (if changed)
+      - name: Commit data updates
         run: |
-          if git diff --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
-
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           git add data/home.json
-          git commit -m "Update feeds"
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Update home feed"
           git push
