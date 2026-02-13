@@ -4,44 +4,37 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <title>ruin2itive</title>
-
-  <meta name="description" content="reliability first · open source · independent" />
-  <meta name="theme-color" content="#f5f2ea" />
-
+  <meta name="description" content="Reliability-first open-source independent front page." />
+  <meta name="theme-color" content="#ffffff" />
   <link rel="stylesheet" href="./style.css" />
+  <script defer src="./app.js"></script>
 </head>
 
 <body>
   <main class="page">
+
     <header class="mast">
-      <div class="brand">
-        <div class="brand-name" id="siteTitle">ruin2itive</div>
-        <div class="brand-tag">reliability first · open source · independent</div>
-      </div>
+      <div class="brand-name">ruin2itive</div>
+      <div class="brand-tag">reliability first · open source · independent</div>
       <div class="rule"></div>
 
       <section class="lede">
-        <div class="lede-leftbar"></div>
-        <div class="lede-box">
-          <p><em>pulled from various sites. these sources are selected to ensure consistent and stable information.</em></p>
-          <p><em>these feeds remain hand selected, ad free, and purposeful.</em> <strong>clear and concise info. stability is law.</strong></p>
-        </div>
+        <p>pulled from various sites. these sources are selected to ensure consistent and stable information.</p>
+        <p>these feeds remain hand selected, ad free, and purposeful. <strong>clear and concise info. stability is law.</strong></p>
       </section>
     </header>
 
-    <section class="section">
+    <section class="section" id="projects">
       <div class="section-title">projects / the code</div>
       <div class="list">
-        <a class="item" href="https://github.com/ruin2itive/ruin2itive-site" target="_blank" rel="noopener">
+        <a class="item" href="https://github.com/ruin2itive" target="_blank" rel="noopener">
           <div class="item-title">ruin2itive</div>
           <div class="item-meta">github · src</div>
         </a>
-
         <a class="item" href="https://www.hackster.io/" target="_blank" rel="noopener">
           <div class="item-title">arduino</div>
           <div class="item-meta">hackster · hardware</div>
         </a>
-
         <a class="item" href="https://www.instructables.com/" target="_blank" rel="noopener">
           <div class="item-title">raspberry pi</div>
           <div class="item-meta">instructables · diy</div>
@@ -49,71 +42,27 @@
       </div>
     </section>
 
-    <section class="section">
+    <section class="section" id="crypto">
       <div class="section-title">markets / crypto</div>
-      <div id="feed-crypto" class="feed">
-        <div class="feed-loading">loading...</div>
+      <div class="list" id="cryptoList">
+        <div class="loading" id="cryptoLoading">loading…</div>
       </div>
     </section>
 
-    <section class="section">
+    <section class="section" id="hn">
       <div class="section-title">hacker news</div>
-      <div id="feed-hn" class="feed">
-        <div class="feed-loading">loading...</div>
+      <div class="list" id="hnList">
+        <div class="loading" id="hnLoading">loading…</div>
       </div>
     </section>
 
-    <section class="section">
+    <section class="section" id="world">
       <div class="section-title">world news</div>
-
-      <div class="subsection">
-        <div class="sub-title">associated press</div>
-        <div id="feed-ap" class="feed">
-          <div class="feed-loading">loading...</div>
-        </div>
-      </div>
-
-      <div class="subsection">
-        <div class="sub-title">reuters</div>
-        <div id="feed-reuters" class="feed">
-          <div class="feed-loading">loading...</div>
-        </div>
-      </div>
-
-      <div class="subsection">
-        <div class="sub-title">bbc</div>
-        <div id="feed-bbc" class="feed">
-          <div class="feed-loading">loading...</div>
-        </div>
+      <div class="list" id="worldList">
+        <div class="loading" id="worldLoading">loading…</div>
       </div>
     </section>
 
-    <section class="section">
-      <div class="section-title">ufo / uap</div>
-      <div id="feed-ufo" class="feed">
-        <div class="feed-loading">loading...</div>
-      </div>
-    </section>
-
-    <section class="section">
-      <div class="section-title">free banned books</div>
-      <div class="list">
-        <a class="item" href="https://openlibrary.org/" target="_blank" rel="noopener">
-          <div class="item-title">open library</div>
-          <div class="item-meta">public archive</div>
-        </a>
-        <a class="item" href="https://standardebooks.org/" target="_blank" rel="noopener">
-          <div class="item-title">standard ebooks</div>
-          <div class="item-meta">clean editions</div>
-        </a>
-      </div>
-    </section>
-
-    <footer class="foot">
-      <div class="foot-note">static-first · reliability-focused</div>
-    </footer>
   </main>
-
-  <script src="./app.js"></script>
 </body>
 </html>
