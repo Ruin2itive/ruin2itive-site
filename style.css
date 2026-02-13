@@ -1,67 +1,82 @@
-/* ---------- base ---------- */
 :root{
   --paper: #f2efe8;
   --ink: #151515;
   --muted: rgba(0,0,0,.55);
   --line: rgba(0,0,0,.18);
   --line-strong: rgba(0,0,0,.55);
-  --accent: #7b3d35;
+  --accent: #7b3d35; /* dusty red/brown */
 }
 
-/* reset */
 *{ box-sizing:border-box; }
 
 html,body{
   margin:0;
   padding:0;
-  font-family: Georgia, "Times New Roman", serif;
+  background: var(--paper);
   color: var(--ink);
-  background:
-    linear-gradient(rgba(242,239,232,.88), rgba(242,239,232,.88)),
-    url("./assets/elephant-third-eye.webp");
-  background-size: cover;
-  background-position: center top;
-  background-attachment: fixed;
+  font-family: Georgia, "Times New Roman", serif;
 }
 
-/* page width */
+/* FULL-PAGE ELEPHANT BACKGROUND */
+body{
+  position: relative;
+  min-height: 100vh;
+}
+body::before{
+  content:"";
+  position: fixed;
+  inset: 0;
+  background-image: url("./assets/elephant-third-eye.webp");
+  background-repeat: no-repeat;
+  background-position: center 220px;
+  background-size: min(980px, 140vw);
+  opacity: 0.20;              /* adjust 0.16–0.26 */
+  filter: contrast(1.05) saturate(.9);
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Keep content above background */
 .page{
-  max-width: 720px;
+  position: relative;
+  z-index: 1;
+  max-width: 740px;
   margin: 0 auto;
-  padding: 22px 18px 50px;
+  padding: 18px 16px 40px;
 }
 
-/* ---------- masthead ---------- */
+/* Masthead */
+.mast{ margin-top: 4px; }
+
 .brand{
   margin: 0;
   font-weight: 800;
-  font-size: clamp(52px, 9vw, 86px);
-  line-height: .95;
+  letter-spacing: .2px;
+  font-size: clamp(54px, 10vw, 86px);
+  line-height: .92;
 }
 
 .tagline{
   margin-top: 8px;
-  font-size: 16px;
-  letter-spacing: .32em;
+  font-size: 18px;
+  letter-spacing: .38em;
   text-transform: lowercase;
   color: var(--muted);
 }
 
 .rule{
+  border: none;
   height: 2px;
   background: var(--line-strong);
-  margin: 14px 0 24px;
-  border: none;
+  margin: 14px 0 16px;
 }
 
-/* ---------- section headers ---------- */
-.section-head{
-  margin-top: 24px;
-}
+/* Section headers */
+.section-head{ margin-top: 18px; }
 
 .section-title{
-  font-size: 20px;
-  letter-spacing: .35em;
+  font-size: 22px;
+  letter-spacing: .32em;
   text-transform: lowercase;
   color: var(--accent);
 }
@@ -72,12 +87,12 @@ html,body{
   margin-top: 8px;
 }
 
-/* ---------- project rows ---------- */
+/* Rows (projects) */
 .row{
-  display:block;
-  text-decoration:none;
-  color:inherit;
-  padding: 16px 0;
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  padding: 14px 0 14px;
   border-bottom: 1px solid var(--line);
 }
 
@@ -86,37 +101,40 @@ html,body{
 }
 
 .row-title{
-  font-size: 54px;
+  font-size: 56px;
   font-weight: 700;
   line-height: .96;
   margin: 0;
+  letter-spacing: .2px;
 }
 
 .row-sub{
   margin-top: 6px;
-  font-size: 18px;
-  letter-spacing: .28em;
-  text-transform: lowercase;
+  font-size: 22px;
+  letter-spacing: .32em;
   color: var(--muted);
+  text-transform: lowercase;
 }
 
-/* ---------- feeds ---------- */
+/* Feeds */
 .feed{
-  padding: 12px 0 16px;
+  padding: 10px 0 6px;
   border-bottom: 1px solid var(--line);
 }
 
 .feed-status{
-  font-size: 34px;
+  font-size: 40px;
   font-style: italic;
-  color: rgba(0,0,0,.35);
+  letter-spacing: .06em;
+  color: rgba(0,0,0,.32);
+  line-height: 1.0;
   padding: 6px 0 8px;
 }
 
 .feed-list{
-  list-style:none;
-  padding:0;
-  margin:0;
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 .feed-item{
@@ -124,46 +142,43 @@ html,body{
   border-top: 1px solid rgba(0,0,0,.12);
 }
 
-.feed-item:first-child{
-  border-top:none;
-}
+.feed-item:first-child{ border-top: none; }
 
 .feed-link{
-  text-decoration:none;
-  color:inherit;
+  display: block;
+  text-decoration: none;
+  color: inherit;
 }
 
 .feed-title{
-  font-size: 20px;
-  line-height: 1.15;
+  font-size: 22px;
+  line-height: 1.12;
   margin: 0;
 }
 
 .feed-meta{
   margin-top: 6px;
-  font-size: 14px;
-  letter-spacing: .22em;
-  text-transform: lowercase;
+  font-size: 15px;
+  letter-spacing: .26em;
   color: var(--muted);
+  text-transform: lowercase;
 }
 
-/* ---------- footer ---------- */
 .footer{
-  margin-top: 20px;
-  padding-top: 12px;
+  margin-top: 14px;
+  padding-top: 10px;
   border-top: 1px solid var(--line);
 }
 
 .updated{
-  font-size: 13px;
+  font-size: 14px;
   letter-spacing: .22em;
+  color: rgba(0,0,0,.38);
   text-transform: lowercase;
-  color: rgba(0,0,0,.4);
 }
 
-/* mobile tightening */
-@media (max-width:430px){
-  .row-title{ font-size: 46px; }
-  .feed-title{ font-size: 18px; }
-  .tagline{ font-size: 14px; letter-spacing:.25em; }
+@media (max-width: 430px){
+  .row-title{ font-size: 50px; }
+  .feed-title{ font-size: 20px; }
+  .tagline{ letter-spacing: .28em; font-size: 16px; }
 }
