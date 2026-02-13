@@ -10,9 +10,12 @@
   --paper:#f4f1ea;
   --ink:#111111;
   --accent:#8b1e1e;
+  --rule: rgba(0,0,0,0.60);
 }
 
 *{ box-sizing:border-box; }
+
+html, body{ height:100%; }
 
 body{
   margin:0;
@@ -22,52 +25,76 @@ body{
   line-height:1.6;
 }
 
-/* Watermark layer (faint, non-interactive) */
+/* Elephant watermark (lower + fainter = never competes) */
 body::before{
   content:"";
   position:fixed;
   inset:0;
   background-image:url("assets/elephant-third-eye.webp");
   background-repeat:no-repeat;
-  background-position:center 58%;
+  background-position:center 72%;
   background-size:min(760px, 92vw);
-  opacity:0.10;            /* key: keep faint */
+  opacity:0.08;
   pointer-events:none;
   z-index:0;
-  filter: contrast(1.05) saturate(0.9);
+  filter: contrast(1.02) saturate(0.85);
 }
 
-/* Paper haze so text stays readable over watermark */
+/* Paper haze (keeps text readable) */
 body::after{
   content:"";
   position:fixed;
   inset:0;
   background:
-    radial-gradient(circle at 50% 35%,
-      rgba(244,241,234,0.85) 0%,
-      rgba(244,241,234,0.60) 45%,
-      rgba(244,241,234,0.40) 70%,
-      rgba(244,241,234,0.25) 100%);
+    radial-gradient(circle at 50% 18%,
+      rgba(244,241,234,0.92) 0%,
+      rgba(244,241,234,0.72) 48%,
+      rgba(244,241,234,0.48) 75%,
+      rgba(244,241,234,0.32) 100%);
   pointer-events:none;
   z-index:1;
 }
 
-.wrapper{
-  position:relative;
+/* Grain (E): subtle print texture, CSS-only */
+.grain{
+  position:fixed;
+  inset:0;
   z-index:2;
-  max-width:720px;
-  margin:0 auto;
-  padding:40px 20px 80px 20px;
+  pointer-events:none;
+  opacity:0.10;
+  mix-blend-mode:multiply;
+  background-image:
+    repeating-linear-gradient(0deg,
+      rgba(0,0,0,0.025) 0px,
+      rgba(0,0,0,0.025) 1px,
+      rgba(255,255,255,0.00) 2px,
+      rgba(255,255,255,0.00) 4px),
+    repeating-linear-gradient(90deg,
+      rgba(0,0,0,0.018) 0px,
+      rgba(0,0,0,0.018) 1px,
+      rgba(255,255,255,0.00) 2px,
+      rgba(255,255,255,0.00) 6px);
 }
 
+/* Layout */
+.wrapper{
+  position:relative;
+  z-index:3;
+  max-width:720px;
+  margin:0 auto;
+  padding:40px 20px 90px 20px;
+}
+
+/* Header */
 .site-header{
-  margin-bottom:30px;
+  margin-bottom:28px;
 }
 
 .site-title{
   font-size:3rem;
   margin:0;
-  font-weight:700;
+  font-weight:800;
+  letter-spacing:-0.5px; /* tighter = newspaper */
 }
 
 .site-tagline{
@@ -79,31 +106,32 @@ body::after{
 
 .divider{
   border:none;
-  border-top:1px solid var(--ink);
+  border-top:1px solid var(--rule);
   margin:0;
 }
 
 /* Sections */
 .section{
-  margin-top:38px;
+  margin-top:36px;
 }
 
 .section-title{
   margin:0 0 12px 0;
   font-size:0.9rem;
-  letter-spacing:3px;
+  letter-spacing:1.5px;    /* tightened */
   text-transform:lowercase;
   color:var(--accent);
 }
 
+/* Items */
 .item{
   margin:0 0 18px 0;
 }
 
 .item-title{
-  font-size:1.1rem;
+  font-size:1.12rem;
   margin:0;
-  font-weight:700;
+  font-weight:800;
 }
 
 .item-title a{
@@ -121,33 +149,37 @@ body::after{
   margin-top:2px;
 }
 
+/* Loading: feels like a paper edition holding space */
 .loading{
   font-style:italic;
   opacity:0.60;
   margin-top:10px;
 }
 
+/* Footer */
 footer{
-  margin-top:60px;
+  margin-top:90px;
   font-size:0.75rem;
   opacity:0.55;
 }
 
-/* Mobile tighten */
+/* Mobile tuning */
 @media (max-width:600px){
-  .site-title{ font-size:2.3rem; }
+  .site-title{ font-size:2.35rem; }
   body::before{
-    background-position:center 62%;
+    background-position:center 74%;
     background-size:min(640px, 96vw);
-    opacity:0.11;
+    opacity:0.085;
   }
+  .grain{ opacity:0.11; }
 }
 </style>
 </head>
 
 <body>
-  <div class="wrapper">
+  <div class="grain" aria-hidden="true"></div>
 
+  <div class="wrapper">
     <header class="site-header">
       <h1 class="site-title">ruin2itive</h1>
       <p class="site-tagline">reliability first · open source · independent</p>
@@ -181,16 +213,15 @@ footer{
 
     <section class="section">
       <div class="section-title">markets / crypto</div>
-      <div class="loading">loading...</div>
+      <div class="loading">loading feed…</div>
     </section>
 
     <section class="section">
       <div class="section-title">hacker news</div>
-      <div class="loading">loading...</div>
+      <div class="loading">loading feed…</div>
     </section>
 
     <footer>© 2026 ruin2itive.org</footer>
-
   </div>
 </body>
 </html>
