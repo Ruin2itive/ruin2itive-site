@@ -7,17 +7,11 @@
 
 <style>
 
-/* ─────────────────────────────
-   ruin2itive — underground node
-   parchment / ink / muted red
-   static + fast
-────────────────────────────── */
-
 :root{
-  --paper:#f4f1ea;
-  --ink:#111111;
+  --paper:#f2efe7;
+  --ink:#111;
   --rust:#7b3f36;
-  --faint:#a8a29e;
+  --faint:#9b948a;
 }
 
 *{box-sizing:border-box;margin:0;padding:0}
@@ -27,80 +21,82 @@ body{
   color:var(--ink);
   font-family: Georgia, "Times New Roman", serif;
   max-width:760px;
-  margin:60px auto;
-  padding:0 22px 80px;
+  margin:40px auto 80px;
+  padding:0 22px;
   line-height:1.55;
 }
 
-/* ───── HEADER ───── */
+/* HEADER */
 
 .header{
   position:relative;
-  margin-bottom:60px;
+  margin-bottom:50px;
+  padding-top:140px;
 }
 
 .logo{
   position:absolute;
+  top:-40px;
   left:-40px;
-  top:-20px;
-  width:220px;
-  opacity:.85;
+  width:320px;
+  opacity:.9;
   z-index:0;
 }
 
 h1{
   position:relative;
-  font-size:48px;
+  font-size:52px;
   font-style:italic;
   font-weight:500;
-  letter-spacing:.5px;
   border-bottom:2px solid var(--ink);
   padding-bottom:6px;
   z-index:1;
 }
 
 .tagline{
-  margin-top:14px;
-  font-size:14px;
+  margin-top:12px;
+  font-size:13px;
   letter-spacing:2px;
-  text-transform:lowercase;
   color:var(--faint);
+  text-transform:lowercase;
 }
 
-/* manifesto block */
+/* MANIFESTO */
 
 .manifesto{
-  margin-top:30px;
+  margin-top:24px;
+  font-size:19px;
   font-style:italic;
-  font-size:18px;
-  color:#333;
+  line-height:1.6;
 }
 
-/* divider */
+.manifesto strong{
+  font-weight:600;
+}
+
+/* DIVIDER */
 
 .rule{
   height:2px;
   background:var(--rust);
-  margin:60px 0 40px;
+  margin:60px 0 30px;
 }
 
-/* sections */
+/* SECTIONS */
 
 .section{
   margin-bottom:60px;
 }
 
 .section h2{
-  font-size:14px;
-  text-transform:lowercase;
+  font-size:13px;
   letter-spacing:3px;
   color:var(--rust);
-  margin-bottom:20px;
+  text-transform:lowercase;
   border-bottom:1px dotted var(--rust);
   padding-bottom:6px;
+  margin-bottom:20px;
 }
-
-/* links */
 
 a{
   color:var(--ink);
@@ -113,11 +109,10 @@ a:hover{
   border-color:var(--rust);
 }
 
-/* feed list */
-
-.feed li{
-  margin-bottom:16px;
+.feed li,
+.nav li{
   list-style:none;
+  margin-bottom:18px;
   font-size:18px;
 }
 
@@ -129,50 +124,41 @@ a:hover{
   text-transform:lowercase;
 }
 
-/* small nav lists */
-
-.nav li{
-  list-style:none;
-  margin-bottom:14px;
-  font-size:18px;
-}
-
 footer{
   margin-top:80px;
   font-size:13px;
-  color:var(--faint);
   border-top:1px solid var(--rust);
   padding-top:20px;
-  letter-spacing:1px;
+  color:var(--faint);
   text-transform:lowercase;
+  letter-spacing:1px;
 }
-
-/* responsive */
 
 @media(max-width:680px){
   .logo{
-    width:160px;
+    width:220px;
     left:-20px;
-    top:-10px;
-    opacity:.6;
+    top:-30px;
+    opacity:.8;
   }
-  h1{font-size:36px}
+  h1{font-size:38px}
+  .header{padding-top:110px}
 }
 
 </style>
 </head>
-
 <body>
 
 <div class="header">
-  <img src="assets/elephant-mark-small.webp" class="logo" alt="">
+  <img src="assets/elephant-mark.webp" class="logo" alt="">
   <h1>ruin2itive</h1>
   <div class="tagline">reliability first · open source · independent</div>
 
   <div class="manifesto">
-    pulled from various sites. these sources are selected to ensure consistent and stable information.
+    pulled from various sites. these sources are selected to ensure
+    <strong>consistent and stable information.</strong>
     these feeds remain hand selected, ad free, and purposeful.
-    clear and concise info. stability is law.
+    <strong>stability is law.</strong>
   </div>
 </div>
 
@@ -212,23 +198,6 @@ footer{
       <a href="#">Raspberry Pi 5 now supports NVMe SSDs via HAT+</a>
       <span class="meta">hn</span>
     </li>
-  </ul>
-</div>
-
-<div class="section">
-  <h2>world news</h2>
-  <ul class="nav">
-    <li><a href="#">associated press</a></li>
-    <li><a href="#">reuters</a></li>
-    <li><a href="#">bbc</a></li>
-  </ul>
-</div>
-
-<div class="section">
-  <h2>free banned books</h2>
-  <ul class="nav">
-    <li><a href="#">open library</a></li>
-    <li><a href="#">standard ebooks</a></li>
   </ul>
 </div>
 
