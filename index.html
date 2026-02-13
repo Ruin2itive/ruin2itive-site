@@ -1,101 +1,133 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <title>ruin2itive</title>
 
-  <!-- Force cache refresh -->
-  <link rel="stylesheet" href="/style.css?v=202602130815">
+  <link rel="stylesheet" href="style.css?v=20260213-goal" />
 </head>
 
 <body>
-  <div class="page">
+  <main class="page">
+    <h1 class="brand">ruin2itive</h1>
+    <div class="tagline">reliability first · open source · independent</div>
+    <hr class="rule" />
 
-    <header class="mast">
-      <h1 class="brand">ruin2itive</h1>
-      <div class="tagline">reliability first · independent · open source</div>
-      <hr class="rule">
-    </header>
+    <section class="sheet">
+      <div class="watermark" aria-hidden="true"></div>
 
-    <div class="sheet">
-      <div class="watermark"></div>
+      <!-- manifesto box (goal) -->
+      <div class="manifesto">
+        <p>
+          pulled from various sites. these sources are selected to ensure consistent and stable information.
+          these feeds remain hand selected, ad free, and purposeful.
+          <b>clear and concise info. stability is law.</b>
+        </p>
+      </div>
 
-      <!-- CRYPTO -->
-      <section class="section">
-        <div class="section-head">
-          <div class="section-title">crypto</div>
-          <div class="section-line"></div>
-        </div>
-        <div id="crypto-feed" class="feed-list"></div>
-      </section>
+      <!-- projects -->
+      <div class="section-head">
+        <div class="section-title">projects / the code</div>
+        <div class="section-line"></div>
+      </div>
 
-      <!-- HACKER -->
-      <section class="section">
-        <div class="section-head">
-          <div class="section-title">hacker</div>
-          <div class="section-line"></div>
-        </div>
-        <div id="hacker-feed" class="feed-list"></div>
-      </section>
+      <div class="project">
+        <h2 class="name"><a href="https://github.com/ruin2itive/ruin2itive-site" rel="noopener">ruin2itive</a></h2>
+        <div class="meta">github · src</div>
+      </div>
 
-      <!-- WORLD -->
-      <section class="section">
-        <div class="section-head">
-          <div class="section-title">world</div>
-          <div class="section-line"></div>
-        </div>
-        <div id="world-feed" class="feed-list"></div>
-      </section>
+      <div class="project">
+        <h2 class="name"><a href="https://hackster.io/" rel="noopener">arduino</a></h2>
+        <div class="meta">hackster · hardware</div>
+      </div>
 
-    </div>
+      <div class="project">
+        <h2 class="name"><a href="https://www.instructables.com/" rel="noopener">raspberry pi</a></h2>
+        <div class="meta">instructables · diy</div>
+      </div>
 
-    <footer class="footer">
-      <div class="updated" id="updated-stamp">loading…</div>
-    </footer>
+      <!-- feeds -->
+      <div id="feeds"></div>
 
-  </div>
+      <footer class="footer">
+        <div id="updated" class="updated">updated · …</div>
+      </footer>
+    </section>
+  </main>
 
-<script>
-async function loadFeeds() {
-  try {
-    const res = await fetch('/data/home.json?v=' + Date.now());
-    const data = await res.json();
+  <script>
+    const FEED_ROOT = document.getElementById("feeds");
+    const UPDATED = document.getElementById("updated");
 
-    function render(sectionId, items) {
-      const container = document.getElementById(sectionId);
-      container.innerHTML = '';
+    function el(tag, cls, text){
+      const n = document.createElement(tag);
+      if (cls) n.className = cls;
+      if (text != null) n.textContent = text;
+      return n;
+    }
 
-      if (!items || items.length === 0) {
-        container.innerHTML = '<div class="feed-status">no data</div>';
+    function renderSection(title, items){
+      const head = el("div", "section-head");
+      head.appendChild(el("div", "section-title", title));
+      head.appendChild(el("div", "section-line"));
+      FEED_ROOT.appendChild(head);
+
+      if (!items || !items.length){
+        const row = el("div", "feed-item");
+        const h = el("h3", "loading", "loading…");
+        row.appendChild(h);
+        FEED_ROOT.appendChild(row);
         return;
       }
 
-      items.slice(0,2).forEach(item => {
-        const div = document.createElement('div');
-        div.className = 'feed-item';
-        div.innerHTML = `
-          <h3><a href="${item.url}" target="_blank">${item.title}</a></h3>
-          <div class="feed-meta">${item.source} · ${item.time}</div>
-        `;
-        container.appendChild(div);
-      });
+      for (const it of items){
+        const row = el("div", "feed-item");
+        const h3 = el("h3");
+        const a = el("a");
+        a.href = it.url || "#";
+        a.rel = "noopener";
+        a.textContent = it.title || "Untitled";
+        h3.appendChild(a);
+
+        const meta = el("div", "feed-meta",
+          `${(it.source || "").toLowerCase()} · ${(it.time || "").toString()}`
+        );
+
+        row.appendChild(h3);
+        row.appendChild(meta);
+        FEED_ROOT.appendChild(row);
+      }
     }
 
-    render('crypto-feed', data.sections.crypto);
-    render('hacker-feed', data.sections.hacker);
-    render('world-feed', data.sections.world);
+    async function load(){
+      // cache-bust every refresh so you always see newest build output
+      const bust = `v=${Date.now()}`;
+      const url = `data/home.json?${bust}`;
 
-    document.getElementById('updated-stamp').innerText =
-      'updated ' + data.updated_iso;
+      try{
+        const res = await fetch(url, { cache: "no-store" });
+        if (!res.ok) throw new Error("home.json not found");
+        const data = await res.json();
 
-  } catch (e) {
-    console.error(e);
-  }
-}
+        FEED_ROOT.innerHTML = "";
 
-loadFeeds();
-</script>
+        const sec = (data && data.sections) ? data.sections : {};
+        renderSection("markets / crypto", sec.crypto);
+        renderSection("hacker news", sec.hacker);
+        renderSection("world news", sec.world);
 
+        UPDATED.textContent = `updated ${data.updated_iso || "…"}`;
+      }catch(e){
+        FEED_ROOT.innerHTML = "";
+        renderSection("markets / crypto", null);
+        renderSection("hacker news", null);
+        renderSection("world news", null);
+        UPDATED.textContent = "updated · …";
+      }
+    }
+
+    load();
+  </script>
 </body>
 </html>
