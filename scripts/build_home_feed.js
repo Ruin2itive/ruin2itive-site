@@ -1,101 +1,79 @@
 import fs from "node:fs";
 import path from "node:path";
-import { XMLParser } from "fast-xml-parser";
 
-const OUT = path.join(process.cwd(), "data", "home.json");
+const OUT = "data/home.json";
 
-const parser = new XMLParser({
-  ignoreAttributes: false,
-  attributeNamePrefix: "@_"
-});
-
-async function fetchText(url) {
-  const res = await fetch(url, {
-    headers: {
-      "User-Agent": "ruin2itive-feed-bot/1.0"
-    }
-  });
-  if (!res.ok) throw new Error(`Fetch failed ${res.status} ${url}`);
+async function fetchText(url){
+  const res = await fetch(url, { headers: { "user-agent": "ruin2itive-site" } });
+  if(!res.ok) throw new Error(`fetch failed ${res.status} for ${url}`);
   return await res.text();
 }
 
-function pickArray(x) {
-  if (!x) return [];
-  return Array.isArray(x) ? x : [x];
+// VERY small RSS parser (enough for titles/links)
+function parseRssItems(xml, limit=5){
+  const items = [];
+  const itemBlocks = xml.split(/<item[\s>]/i).slice(1);
+  for(const block of itemBlocks){
+    if(items.length >= limit) break;
+    const title = (block.match(/<title><!\[CDATA\[([\s\S]*?)\]\]><\/title>/i)?.[1]
+      || block.match(/<title>([\s\S]*?)<\/title>/i)?.[1]
+      || "").trim().replace(/\s+/g," ");
+    const link = (block.match(/<link>([\s\S]*?)<\/link>/i)?.[1] || "").trim();
+    if(title && link) items.push({ title, url: link });
+  }
+  return items;
 }
 
-async function getRssTop(url, limit = 5) {
-  const xml = await fetchText(url);
-  const j = parser.parse(xml);
-
-  // RSS 2.0: rss.channel.item
-  const items = pickArray(j?.rss?.channel?.item).slice(0, limit);
-
-  return items.map(it => ({
-    title: it?.title ?? "",
-    url: it?.link ?? "",
-    published: it?.pubDate ? new Date(it.pubDate).toISOString() : null
-  })).filter(x => x.title && x.url);
+async function getDecryptTop5(){
+  // Decrypt RSS
+  const xml = await fetchText("https://decrypt.co/feed");
+  const items = parseRssItems(xml, 5).map(x => ({
+    ...x, source: "decrypt", time: new Date().toLocaleString()
+  }));
+  return items;
 }
 
-async function getHnTop(limit = 5) {
-  // “front page-ish” by newest stories; tweak later if you want “top”
-  const url = "https://hn.algolia.com/api/v1/search_by_date?tags=story&hitsPerPage=20";
-  const txt = await fetchText(url);
-  const j = JSON.parse(txt);
-
-  const hits = (j?.hits || [])
-    .filter(h => h?.title && h?.url)
-    .slice(0, limit)
-    .map(h => ({
-      title: h.title,
-      url: h.url,
-      published: h?.created_at ? new Date(h.created_at).toISOString() : null
-    }));
-
+async function getHnTop5(){
+  // HN front page via Algolia API
+  const json = await (await fetch("https://hn.algolia.com/api/v1/search?tags=front_page")).json();
+  const hits = (json.hits || []).slice(0,5).map(h => ({
+    title: h.title || h.story_title || "untitled",
+    url: h.url || (h.story_id ? `https://news.ycombinator.com/item?id=${h.story_id}` : "https://news.ycombinator.com/"),
+    source: "hn",
+    time: new Date().toLocaleString()
+  }));
   return hits;
 }
 
-async function main() {
+async function getWorldTop5(){
+  // BBC World RSS (stable)
+  const xml = await fetchText("https://feeds.bbci.co.uk/news/world/rss.xml");
+  const items = parseRssItems(xml, 5).map(x => ({
+    ...x, source: "world", time: new Date().toLocaleString()
+  }));
+  return items;
+}
+
+async function main(){
   const now = new Date();
-
-  // Feeds (server-side) so the browser never CORS-fails.
-  // If a feed fails, we degrade to empty array (site stays up).
-  let crypto = [];
-  let hacker = [];
-  let world = [];
-
-  try {
-    // Decrypt RSS (works in Actions)
-    crypto = await getRssTop("https://decrypt.co/feed", 5);
-  } catch (e) {
-    console.error("crypto feed failed:", e.message);
-  }
-
-  try {
-    hacker = await getHnTop(5);
-  } catch (e) {
-    console.error("hacker feed failed:", e.message);
-  }
-
-  try {
-    // BBC world RSS (swap later if you want Reuters/AP; many are paywalled/blocked)
-    world = await getRssTop("https://feeds.bbci.co.uk/news/world/rss.xml", 5);
-  } catch (e) {
-    console.error("world feed failed:", e.message);
-  }
-
   const payload = {
     updated_iso: now.toISOString(),
-    updated_local: now.toLocaleString("en-US", { timeZone: "America/Chicago" }),
-    sections: { crypto, hacker, world }
+    updated_local: now.toLocaleString(),
+    sections: {
+      crypto: [],
+      hacker: [],
+      world: []
+    }
   };
+
+  // Hard fail isolation: one feed failing should not nuke all
+  try{ payload.sections.crypto = await getDecryptTop5(); } catch(e){ console.error("decrypt failed:", e.message); }
+  try{ payload.sections.hacker = await getHnTop5(); } catch(e){ console.error("hn failed:", e.message); }
+  try{ payload.sections.world  = await getWorldTop5(); } catch(e){ console.error("world failed:", e.message); }
 
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
   fs.writeFileSync(OUT, JSON.stringify(payload, null, 2) + "\n", "utf8");
-
   console.log(`Wrote ${OUT}`);
-  console.log(`Counts: crypto=${crypto.length} hacker=${hacker.length} world=${world.length}`);
 }
 
 main().catch(err => {
