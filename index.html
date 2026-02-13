@@ -2,119 +2,103 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="color-scheme" content="light" />
-
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <title>ruin2itive.org</title>
-  <meta name="description" content="reliability first · open source · independent" />
+  <meta name="description" content="Independent, reliable, hand-selected feeds. Stability is law." />
 
-  <!-- Fast: single CSS file, single JS file -->
-  <link rel="stylesheet" href="./styles.css?v=1" />
+  <!-- IMPORTANT: lowercase filenames -->
+  <link rel="stylesheet" href="./style.css?v=1" />
+
+  <!-- Preload your LOCAL elephant for snappy render -->
+  <link rel="preload" as="image" href="./assets/elephant-third-eye.webp" />
+
 </head>
-
 <body>
-  <!-- Watermark background (CSS) uses your asset below.
-       Make sure THIS file exists in your repo:
-       /assets/elephant-mark.webp
-       (you already uploaded elephant-mark.webp) -->
-
-  <header class="masthead">
-    <div class="brand">
-      <h1 class="brand__name">ruin2itive</h1>
-      <div class="brand__tag">reliability first · open source · independent</div>
-    </div>
-
-    <div class="manifesto" aria-label="manifesto">
-      <div class="manifesto__bar"></div>
-      <div class="manifesto__text">
-        <p>
-          pulled from various sites. these sources are selected to ensure
-          consistent and stable information.
-        </p>
-        <p>
-          these feeds remain hand selected, ad free, and purposeful.
-        </p>
-        <p class="manifesto__punch">
-          clear and concise info. stability is law.
-        </p>
-      </div>
-    </div>
-  </header>
-
   <main class="wrap">
-    <section class="section">
-      <h2 class="section__title">projects / the code</h2>
+    <header class="brand">
+      <div>
+        <h1 class="wordmark">ruin2itive</h1>
+        <div class="tagline">reliability first · open source · independent</div>
+      </div>
+    </header>
 
-      <ul class="mini">
-        <li class="mini__row">
-          <a class="mini__a" href="https://github.com/Ruin2itive" target="_blank" rel="noopener">ruin2itive</a>
-          <span class="mini__meta">github · src</span>
+    <div class="rule"></div>
+
+    <section class="panel">
+      <p class="manifest">
+        pulled from various sites. these sources are selected to ensure consistent and stable information.
+        these feeds remain hand selected, ad free, and purposeful.
+        <strong>clear and concise info. stability is law.</strong>
+      </p>
+    </section>
+
+    <section class="section">
+      <h2 class="h">projects / the code</h2>
+      <ul class="list">
+        <li class="item">
+          <a class="title" href="https://github.com/Ruin2itive/ruin2itive-site" target="_blank" rel="noopener noreferrer">ruin2itive</a>
+          <div class="meta">github · src</div>
         </li>
-        <li class="mini__row">
-          <a class="mini__a" href="https://hackster.io/" target="_blank" rel="noopener">arduino</a>
-          <span class="mini__meta">hackster · hardware</span>
+        <li class="item">
+          <a class="title" href="https://hackster.io/" target="_blank" rel="noopener noreferrer">arduino</a>
+          <div class="meta">hackster · hardware</div>
         </li>
-        <li class="mini__row">
-          <a class="mini__a" href="https://www.instructables.com/" target="_blank" rel="noopener">raspberry pi</a>
-          <span class="mini__meta">instructables · diy</span>
+        <li class="item">
+          <a class="title" href="https://www.instructables.com/" target="_blank" rel="noopener noreferrer">raspberry pi</a>
+          <div class="meta">instructables · diy</div>
         </li>
       </ul>
     </section>
 
     <section class="section">
-      <h2 class="section__title">markets / crypto</h2>
-      <div id="feed-crypto" class="feed" aria-live="polite">
-        <div class="feed__loading">loading…</div>
-      </div>
+      <h2 class="h">markets / crypto</h2>
+      <ul class="list" data-feed="crypto">
+        <li class="item"><span class="loading">loading…</span></li>
+      </ul>
     </section>
 
     <section class="section">
-      <h2 class="section__title">hacker news</h2>
-      <div id="feed-hn" class="feed" aria-live="polite">
-        <div class="feed__loading">loading…</div>
-      </div>
+      <h2 class="h">hacker news</h2>
+      <ul class="list" data-feed="hn">
+        <li class="item"><span class="loading">loading…</span></li>
+      </ul>
     </section>
 
     <section class="section">
-      <h2 class="section__title">world news</h2>
-      <ul class="mini">
-        <li class="mini__row">
-          <a class="mini__a" href="https://apnews.com/" target="_blank" rel="noopener">associated press</a>
-          <span class="mini__meta">wire</span>
+      <h2 class="h">world news</h2>
+      <ul class="list">
+        <li class="item">
+          <a class="title" href="https://apnews.com/" target="_blank" rel="noopener noreferrer">associated press</a>
+          <div class="meta">wire</div>
         </li>
-        <li class="mini__row">
-          <a class="mini__a" href="https://www.reuters.com/" target="_blank" rel="noopener">reuters</a>
-          <span class="mini__meta">fact based</span>
+        <li class="item">
+          <a class="title" href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer">reuters</a>
+          <div class="meta">fact based</div>
         </li>
-        <li class="mini__row">
-          <a class="mini__a" href="https://www.bbc.com/news" target="_blank" rel="noopener">bbc</a>
-          <span class="mini__meta">international</span>
+        <li class="item">
+          <a class="title" href="https://www.bbc.com/news" target="_blank" rel="noopener noreferrer">bbc</a>
+          <div class="meta">international</div>
         </li>
       </ul>
     </section>
 
     <section class="section">
-      <h2 class="section__title">free banned books</h2>
-      <ul class="mini">
-        <li class="mini__row">
-          <a class="mini__a" href="https://openlibrary.org/" target="_blank" rel="noopener">open library</a>
-          <span class="mini__meta">public archive</span>
+      <h2 class="h">free banned books</h2>
+      <ul class="list">
+        <li class="item">
+          <a class="title" href="https://openlibrary.org/" target="_blank" rel="noopener noreferrer">open library</a>
+          <div class="meta">public archive</div>
         </li>
-        <li class="mini__row">
-          <a class="mini__a" href="https://standardebooks.org/" target="_blank" rel="noopener">standard ebooks</a>
-          <span class="mini__meta">clean editions</span>
+        <li class="item">
+          <a class="title" href="https://standardebooks.org/" target="_blank" rel="noopener noreferrer">standard ebooks</a>
+          <div class="meta">clean editions</div>
         </li>
       </ul>
     </section>
 
-    <footer class="footer">
-      <div class="footer__row">
-        <span class="dot"></span>
-        <span>static build · no trackers · minimal js</span>
-      </div>
-    </footer>
   </main>
 
+  <!-- IMPORTANT: lowercase filename -->
   <script src="./app.js?v=1" defer></script>
 </body>
 </html>
