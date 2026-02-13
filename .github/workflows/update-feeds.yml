@@ -3,7 +3,7 @@ name: update-feeds
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
@@ -25,10 +25,10 @@ jobs:
           node-version: "20"
 
       - name: Install deps
-        run: npm ci
+        run: npm install
 
       - name: Build home.json
-        run: node scripts/build_home_feed.js
+        run: node scripts/build.js
 
       - name: Commit updated data
         run: |
