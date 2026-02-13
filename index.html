@@ -1,283 +1,275 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>ruin2itive</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="color-scheme" content="light" />
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,700;6..96,800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
+  <title>ruin2itive.org</title>
+  <meta name="description" content="reliability first • open source • independent" />
 
-<style>
-:root{
-  /* PURE WHITE BASE */
-  --paper:#ffffff;
+  <style>
+    :root{
+      --paper:#f7f5f1;
+      --ink:#151515;
+      --muted:#666;
+      --rule:#cfcac2;
+      --accent:#7b1e1e; /* deep red */
+      --max:720px;
+    }
 
-  --ink:#0f0f0f;
-  --muted: rgba(0,0,0,0.62);
-  --hair: rgba(0,0,0,0.10);
-  --rule: rgba(0,0,0,0.55);
+    *{ box-sizing:border-box; }
+    html,body{ height:100%; }
+    body{
+      margin:0;
+      background:var(--paper);
+      color:var(--ink);
+      -webkit-font-smoothing:antialiased;
+      -moz-osx-font-smoothing:grayscale;
+      font-family: Georgia, "Times New Roman", Times, serif;
+    }
 
-  /* darker, dirtier red = punk */
-  --accent:#7a1515;
-  --accentSoft: rgba(122,21,21,0.22);
-}
+    /* page container */
+    .wrap{
+      max-width:var(--max);
+      margin:0 auto;
+      padding:20px 18px 36px;
+    }
 
-*{ box-sizing:border-box; }
-html,body{ height:100%; }
+    /* MASTHEAD IMAGE (replaces text banner) */
+    .masthead{
+      width:100%;
+      margin:0 auto 14px;
+    }
+    .masthead img{
+      width:100%;
+      height:auto;
+      display:block;
+      border:0;
+    }
 
-body{
-  margin:0;
-  background:var(--paper);
-  color:var(--ink);
-  font-family:"Source Serif 4", Georgia, serif;
-  line-height:1.46;
-}
+    /* top rule under masthead */
+    .top-rule{
+      height:1px;
+      background:var(--rule);
+      margin:10px 0 18px;
+    }
 
-/* Elephant watermark: keep same visibility */
-body::before{
-  content:"";
-  position:fixed;
-  inset:0;
-  background:url("assets/elephant-third-eye.webp") no-repeat center 74%;
-  background-size:min(920px, 100vw);
-  opacity:0.18; /* KEEP */
-  pointer-events:none;
-  z-index:0;
-  filter: contrast(1.12) saturate(0.82); /* KEEP */
-}
+    /* section headers */
+    .section{
+      margin:0 0 18px;
+      padding:0 0 18px;
+      border-bottom:1px solid var(--rule);
+    }
+    .section:last-of-type{ border-bottom:none; }
 
-/*
-  Readability veil, BUT stays white.
-  This replaces the old "paper wash" that made it beige.
-*/
-body::after{
-  content:"";
-  position:fixed;
-  inset:0;
-  pointer-events:none;
-  z-index:1;
-  background:
-    radial-gradient(circle at 50% 16%,
-      rgba(255,255,255,0.92) 0%,
-      rgba(255,255,255,0.70) 42%,
-      rgba(255,255,255,0.52) 70%,
-      rgba(255,255,255,0.44) 100%);
-}
+    .kicker{
+      margin:0 0 10px;
+      font-size:18px;
+      letter-spacing:.08em;
+      color:var(--accent);
+      text-transform:lowercase;
+      font-weight:700;
+    }
+    .kicker .slash{ color:var(--muted); font-weight:400; }
 
-/* Texture: slightly reduced so white reads as white */
-.texture{
-  position:fixed;
-  inset:0;
-  z-index:2;
-  pointer-events:none;
-  opacity:0.12;           /* lowered so background feels pure white */
-  mix-blend-mode:multiply;
-  filter:url(#paperNoise);
-}
+    /* list */
+    .list{
+      list-style:none;
+      padding:0;
+      margin:0;
+    }
+    .item{
+      padding:10px 0 12px;
+      border-top:1px solid rgba(0,0,0,.06);
+    }
+    .item:first-child{ border-top:none; }
+    .title{
+      margin:0 0 2px;
+      font-size:30px;
+      line-height:1.05;
+      font-weight:700;
+      letter-spacing:.01em;
+    }
+    .meta{
+      margin:0;
+      color:var(--muted);
+      font-size:18px;
+      letter-spacing:.02em;
+    }
 
-.wrapper{
-  position:relative;
-  z-index:3;
-  max-width:760px;
-  margin:0 auto;
-  padding:34px 20px 92px 20px;
-}
+    /* feed rows */
+    .feed-row{
+      display:flex;
+      gap:10px;
+      align-items:baseline;
+      padding:10px 0 12px;
+      border-top:1px solid rgba(0,0,0,.06);
+    }
+    .feed-row:first-child{ border-top:none; }
+    .feed-title{
+      margin:0;
+      font-size:20px;
+      line-height:1.2;
+      font-weight:700;
+      flex: 1 1 auto;
+    }
+    .feed-src{
+      font-size:14px;
+      color:var(--muted);
+      white-space:nowrap;
+      flex: 0 0 auto;
+    }
+    a{ color:inherit; }
+    a:hover{ text-decoration:underline; }
 
-/* Masthead */
-.masthead{
-  text-align:center;
-  padding-bottom:14px;
-}
+    /* loading text */
+    .loading{
+      margin:0;
+      color:var(--muted);
+      font-style:italic;
+      font-size:22px;
+      padding:6px 0 2px;
+    }
 
-.site-title{
-  margin:0;
-  font-family:"Bodoni Moda", serif;
-  font-size:3.2rem;
-  font-weight:800;
-  letter-spacing:-0.9px;
-  line-height:1.03;
-  text-shadow:
-    0.6px 0 rgba(0,0,0,0.55),
-   -0.4px 0 rgba(122,21,21,0.18);
-}
+    footer{
+      margin-top:22px;
+      color:var(--muted);
+      font-size:16px;
+    }
 
-.mast-accent{
-  width:96px;
-  height:3px;
-  margin:10px auto 10px auto;
-  background: var(--accent);
-  opacity:0.72;
-  transform: rotate(-1.2deg);
-  border-radius: 2px;
-  filter: blur(0.15px);
-}
-
-.site-tagline{
-  margin:0 0 14px 0;
-  font-size:0.86rem;
-  letter-spacing:0.7px;
-  color:var(--muted);
-}
-
-/* Rules */
-.rule{
-  border:none;
-  height:0;
-  border-top:2px solid var(--rule);
-  margin:0 auto;
-  max-width:720px;
-  opacity:0.95;
-}
-.rule-hair{
-  border:none;
-  height:0;
-  border-top:1px solid rgba(0,0,0,0.20);
-  margin:6px auto 0 auto;
-  max-width:720px;
-  opacity:0.85;
-}
-
-/* Sections */
-.section{
-  margin-top:30px;
-  padding-top:14px;
-  border-top:1px solid var(--hair);
-}
-
-.section-title{
-  margin:0 0 16px 0;
-  font-size:0.84rem;
-  letter-spacing:1.35px;
-  text-transform:lowercase;
-  color:var(--accent);
-  display:flex;
-  align-items:baseline;
-  gap:12px;
-  transform: skewX(-4deg);
-}
-
-.section-title::after{
-  content:"";
-  height:1px;
-  flex:1;
-  background: var(--accentSoft);
-  transform: translateY(-3px) skewX(4deg);
-}
-
-/* Items */
-.item{
-  margin:0 0 22px 0;
-}
-
-.item-title{
-  margin:0;
-  font-size:1.22rem;
-  font-weight:700;
-}
-
-.item-title a{
-  color:var(--ink);
-  text-decoration:none;
-  border-bottom:1px solid rgba(0,0,0,0.00);
-  transition:border-color .15s ease, color .15s ease;
-}
-.item-title a:hover{
-  color:rgba(0,0,0,0.92);
-  border-bottom-color: rgba(122,21,21,0.25);
-}
-
-.item-meta{
-  margin-top:4px;
-  font-size:0.78rem;
-  color:rgba(0,0,0,0.58);
-}
-
-.loading{
-  margin-top:6px;
-  font-style:italic;
-  color:rgba(0,0,0,0.58);
-}
-
-footer{
-  margin-top:70px;
-  font-size:0.75rem;
-  color:rgba(0,0,0,0.46);
-}
-
-@media (max-width:600px){
-  .wrapper{ padding-top:28px; }
-  .site-title{ font-size:2.65rem; }
-  body::before{ opacity:0.18; } /* KEEP */
-  .texture{ opacity:0.13; }
-}
-</style>
+    /* make it feel snappy on mobile */
+    @media (max-width:420px){
+      .wrap{ padding:18px 16px 30px; }
+      .title{ font-size:28px; }
+      .meta{ font-size:17px; }
+      .kicker{ font-size:17px; }
+      .feed-title{ font-size:19px; }
+    }
+  </style>
 </head>
 
 <body>
-  <!-- Noise filter -->
-  <svg width="0" height="0" style="position:absolute">
-    <filter id="paperNoise">
-      <feTurbulence type="fractalNoise" baseFrequency="0.33" numOctaves="2" stitchTiles="stitch" result="fibers"/>
-      <feTurbulence type="fractalNoise" baseFrequency="1.05" numOctaves="1" stitchTiles="stitch" result="speckle"/>
-      <feBlend in="fibers" in2="speckle" mode="multiply" result="mix"/>
-      <feColorMatrix in="mix" type="matrix"
-        values="
-          0.46 0    0    0 0
-          0    0.46 0    0 0
-          0    0    0.46 0 0
-          0    0    0    0.22 0" />
-    </filter>
-  </svg>
+  <div class="wrap">
 
-  <div class="texture" aria-hidden="true"></div>
-
-  <div class="wrapper">
-    <header class="masthead">
-      <h1 class="site-title">ruin2itive</h1>
-      <div class="mast-accent" aria-hidden="true"></div>
-      <div class="site-tagline">reliability first · open source · independent</div>
-      <hr class="rule">
-      <hr class="rule-hair">
+    <!-- MASTHEAD (replace top text with a graphic) -->
+    <header class="masthead" aria-label="ruin2itive masthead">
+      <!-- Put your generated banner image here -->
+      <img
+        src="assets/masthead.webp"
+        alt="ruin2itive — reliability • open source • independent"
+        loading="eager"
+        decoding="async"
+      />
     </header>
 
-    <section class="section">
-      <div class="section-title">projects / the code</div>
+    <div class="top-rule"></div>
 
-      <div class="item">
-        <h3 class="item-title">
-          <a href="https://github.com/Ruin2itive" target="_blank" rel="noopener">ruin2itive</a>
-        </h3>
-        <div class="item-meta">github · src</div>
-      </div>
+    <!-- PROJECTS -->
+    <section class="section" aria-label="projects">
+      <h2 class="kicker">projects <span class="slash">/</span> the code</h2>
 
-      <div class="item">
-        <h3 class="item-title">
-          <a href="https://www.arduino.cc" target="_blank" rel="noopener">arduino</a>
-        </h3>
-        <div class="item-meta">hackster · hardware</div>
-      </div>
+      <ul class="list">
+        <li class="item">
+          <p class="title"><a href="https://github.com/Ruin2itive" target="_blank" rel="noopener">ruin2itive</a></p>
+          <p class="meta">github • src</p>
+        </li>
 
-      <div class="item">
-        <h3 class="item-title">
-          <a href="https://www.raspberrypi.com" target="_blank" rel="noopener">raspberry_pi</a>
-        </h3>
-        <div class="item-meta">instructables · diy</div>
-      </div>
+        <li class="item">
+          <p class="title"><a href="https://www.hackster.io/" target="_blank" rel="noopener">arduino</a></p>
+          <p class="meta">hackster • hardware</p>
+        </li>
+
+        <li class="item">
+          <p class="title"><a href="https://www.instructables.com/" target="_blank" rel="noopener">raspberry_pi</a></p>
+          <p class="meta">instructables • diy</p>
+        </li>
+      </ul>
     </section>
 
-    <section class="section">
-      <div class="section-title">markets / crypto</div>
-      <div class="loading">loading feed…</div>
+    <!-- MARKETS / CRYPTO -->
+    <section class="section" aria-label="markets">
+      <h2 class="kicker">markets <span class="slash">/</span> crypto</h2>
+      <p id="cryptoLoading" class="loading">loading feed...</p>
+      <div id="cryptoFeed" aria-live="polite"></div>
     </section>
 
-    <section class="section">
-      <div class="section-title">hacker news</div>
-      <div class="loading">loading feed…</div>
+    <!-- HACKER NEWS -->
+    <section class="section" aria-label="hacker news">
+      <h2 class="kicker">hacker news</h2>
+      <p id="hnLoading" class="loading">loading feed...</p>
+      <div id="hnFeed" aria-live="polite"></div>
     </section>
 
-    <footer>© 2026 ruin2itive.org</footer>
+    <footer>© <span id="year"></span> ruin2itive.org</footer>
   </div>
+
+  <script>
+    // Footer year
+    document.getElementById("year").textContent = new Date().getFullYear();
+
+    // Renders one feed list into a container
+    function renderFeed(container, items, sourceLabel) {
+      container.innerHTML = "";
+      if (!items || !items.length) {
+        container.innerHTML = '<p class="loading">no items</p>';
+        return;
+      }
+
+      for (const it of items) {
+        const row = document.createElement("div");
+        row.className = "feed-row";
+
+        const title = document.createElement("p");
+        title.className = "feed-title";
+
+        const a = document.createElement("a");
+        a.href = it.url || "#";
+        a.target = "_blank";
+        a.rel = "noopener";
+        a.textContent = it.title || "untitled";
+
+        title.appendChild(a);
+
+        const src = document.createElement("div");
+        src.className = "feed-src";
+        src.textContent = sourceLabel || "";
+
+        row.appendChild(title);
+        row.appendChild(src);
+        container.appendChild(row);
+      }
+    }
+
+    async function loadHomeJson() {
+      // This is your generated feed file (from your script)
+      // Expected shape:
+      // { sections: { crypto: [{title,url}], hacker: [{title,url}] } }
+      const res = await fetch("data/home.json", { cache: "no-store" });
+      if (!res.ok) throw new Error("home.json not found");
+      return await res.json();
+    }
+
+    (async function main(){
+      const cryptoLoading = document.getElementById("cryptoLoading");
+      const hnLoading = document.getElementById("hnLoading");
+      const cryptoFeed = document.getElementById("cryptoFeed");
+      const hnFeed = document.getElementById("hnFeed");
+
+      try {
+        const data = await loadHomeJson();
+
+        cryptoLoading.remove();
+        hnLoading.remove();
+
+        renderFeed(cryptoFeed, data?.sections?.crypto || [], "decrypt");
+        renderFeed(hnFeed, data?.sections?.hacker || [], "hn");
+      } catch (e) {
+        // If your feed file isn't ready yet, keep the page clean and stable
+        cryptoLoading.textContent = "feed offline (data/home.json missing)";
+        hnLoading.textContent = "feed offline (data/home.json missing)";
+      }
+    })();
+  </script>
 </body>
 </html>
