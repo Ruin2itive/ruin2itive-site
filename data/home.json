@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-14T13:57:57.468Z",
-  "updated_local": "2/14/2026, 1:57:57 PM",
+  "updated_iso": "2026-02-14T14:25:37.214Z",
+  "updated_local": "2/14/2026, 2:25:37 PM",
   "sections": {
     "crypto": [
       {
@@ -12,16 +12,22 @@
     ],
     "hacker": [
       {
+        "title": "Ooh.directory: a place to find good blogs that interest you",
+        "url": "https://ooh.directory/",
+        "source": "hn",
+        "time": "2/14/2026, 1:40:20 PM"
+      },
+      {
         "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
         "url": "https://ziglang.org/devlog/2026/#2026-02-13",
         "source": "hn",
         "time": "2/14/2026, 8:22:11 AM"
       },
       {
-        "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
-        "url": "https://www.wallstreetraider.com/story.html",
+        "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
+        "url": "https://github.com/datavorous/sameshi",
         "source": "hn",
-        "time": "2/10/2026, 2:44:58 AM"
+        "time": "2/14/2026, 1:47:44 PM"
       },
       {
         "title": "How many registers does an x86-64 CPU have? (2020)",
@@ -30,16 +36,10 @@
         "time": "2/14/2026, 1:33:03 PM"
       },
       {
-        "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
-        "url": "https://github.com/mickamy/sql-tap",
+        "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
+        "url": "https://www.wallstreetraider.com/story.html",
         "source": "hn",
-        "time": "2/14/2026, 4:27:35 AM"
-      },
-      {
-        "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
-        "url": "https://infosec.exchange/@mttaggart/116065340523529645",
-        "source": "hn",
-        "time": "2/14/2026, 9:28:45 AM"
+        "time": "2/10/2026, 2:44:58 AM"
       }
     ],
     "world": [
@@ -47,7 +47,7 @@
         "title": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
         "url": "https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 14 Feb 2026 13:37:50 GMT"
+        "time": "Sat, 14 Feb 2026 14:19:58 GMT"
       },
       {
         "title": "Rubio speech signals US-Europe relations are bruised but still friendly",
