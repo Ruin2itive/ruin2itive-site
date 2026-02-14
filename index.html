@@ -12,6 +12,7 @@
   --ink: #111;
   --accent: #7b1e1e;
   --paper: #f4f1eb;
+  --line: #cfcac1;
 }
 
 * {
@@ -26,140 +27,122 @@ body {
   color: var(--ink);
 }
 
-/* ===== HERO ===== */
-
-.hero {
-  height: 65vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  background:
-    linear-gradient(rgba(244,241,235,0.78), rgba(244,241,235,0.92)),
-    url('assets/elephant-third-eye.png') center top / cover no-repeat;
-  position: relative;
-}
-
-.hero-inner {
-  transform: translateY(20px);
-}
-
-.hero h1 {
-  font-family: 'Playfair Display', serif;
-  font-size: 3rem;
-  font-weight: 700;
-  letter-spacing: -0.5px;
-  margin-bottom: 14px;
-}
-
-.hero p {
-  font-size: 0.8rem;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  color: #333;
-}
-
 /* ===== SECTIONS ===== */
 
 .section {
-  padding: 50px 20px;
-  max-width: 800px;
+  padding: 60px 22px;
+  max-width: 760px;
   margin: auto;
 }
 
-.section h2 {
-  font-size: 0.95rem;
+.section-title {
+  font-size: 0.9rem;
+  letter-spacing: 4px;
   text-transform: uppercase;
-  letter-spacing: 3px;
   color: var(--accent);
-  margin-bottom: 25px;
+  margin-bottom: 30px;
+}
+
+.divider {
+  height: 1px;
+  background: var(--line);
+  margin: 25px 0;
 }
 
 .item {
-  padding: 18px 0;
-  border-top: 1px solid #ddd;
-}
-
-.item:first-child {
-  border-top: none;
+  padding: 18px 0 8px 0;
 }
 
 .item h3 {
-  font-size: 1.6rem;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.7rem;
   font-weight: 700;
 }
 
-.item span {
+.item-meta {
+  margin-top: 6px;
+  margin-left: 8px;
   font-size: 0.85rem;
-  color: #777;
-}
-
-footer {
-  padding: 35px 20px;
-  text-align: center;
-  font-size: 0.8rem;
-  border-top: 1px solid #ddd;
   color: #666;
 }
 
-/* ===== MOBILE ===== */
+.feature-placeholder {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+/* FOOTER */
+
+footer {
+  padding: 40px 20px;
+  text-align: center;
+  font-size: 0.8rem;
+  color: #666;
+  border-top: 1px solid var(--line);
+}
+
+/* MOBILE TUNING */
 
 @media(max-width:768px){
-  .hero {
-    height: 60vh;
+
+  .item h3 {
+    font-size: 1.5rem;
   }
 
-  .hero h1 {
-    font-size: 2.2rem;
+  .feature-placeholder {
+    font-size: 1.3rem;
   }
 
-  .hero p {
-    font-size: 0.7rem;
-  }
 }
 </style>
 </head>
 
 <body>
 
-<section class="hero">
-  <div class="hero-inner">
-    <h1>ruin2itive</h1>
-    <p>Reliability • Open Source • Independent</p>
-  </div>
-</section>
-
 <section class="section">
-  <h2>Projects / The Code</h2>
+  <div class="section-title">Projects / The Code</div>
+
+  <div class="divider"></div>
 
   <div class="item">
     <h3>ruin2itive</h3>
-    <span>github • src</span>
+    <div class="item-meta">github • src</div>
   </div>
+
+  <div class="divider"></div>
 
   <div class="item">
     <h3>arduino</h3>
-    <span>hackster • hardware</span>
+    <div class="item-meta">hackster • hardware</div>
   </div>
+
+  <div class="divider"></div>
 
   <div class="item">
     <h3>raspberry_pi</h3>
-    <span>instructables • diy</span>
+    <div class="item-meta">instructables • diy</div>
   </div>
+
 </section>
 
 <section class="section">
-  <h2>Markets / Crypto</h2>
-  <div class="item">
-    <h3>Curating signal…</h3>
-  </div>
+
+  <div class="section-title">Markets / Crypto</div>
+  <div class="divider"></div>
+
+  <div class="feature-placeholder">Curating signal…</div>
+
 </section>
 
 <section class="section">
-  <h2>Hacker News</h2>
-  <div class="item">
-    <h3>Curating signal…</h3>
-  </div>
+
+  <div class="section-title">Hacker News</div>
+  <div class="divider"></div>
+
+  <div class="feature-placeholder">Curating signal…</div>
+
 </section>
 
 <footer>
