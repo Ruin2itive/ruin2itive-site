@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
-  <meta name="color-scheme" content="light" />
+  <meta name="color-scheme" content="light dark" />
 
   <title>ruin2itive.org</title>
   <meta name="description" content="Independent, self-hosted hub — signals, systems, memory." />
@@ -23,7 +23,7 @@
 
       /* geometry */
       --radius:16px;
-      --max: 1160px;
+      --max: 1320px;
       --g: 20px;
 
       /* safe areas */
@@ -96,7 +96,7 @@
       background-size: cover;
       background-position: center 28%;
       filter: grayscale(1) contrast(1.2);
-      opacity: .92; /* image is strong… */
+      opacity: .92;
       pointer-events:none;
       z-index:0;
       transform: scale(1.03);
@@ -132,7 +132,6 @@
       text-overflow: ellipsis;
     }
 
-    /* “nameplate” keeps title crisp on any image */
     .nameplate{
       display:inline-block;
       padding: 12px 18px 10px;
@@ -179,7 +178,6 @@
       border-radius: 999px;
     }
 
-    /* compact section index */
     .navstrip{
       display:flex;
       justify-content:center;
@@ -213,7 +211,6 @@
       padding-top: 18px;
     }
 
-    /* top “edition bar” */
     .edition{
       display:flex;
       justify-content:space-between;
@@ -240,13 +237,14 @@
       gap: var(--g);
       align-items:start;
     }
-    @media (min-width: 980px){
-      .grid{ grid-template-columns: 1.04fr .96fr; }
+    @media (min-width: 900px){
+      .grid{ grid-template-columns: 1fr 1fr; }
+    }
+    @media (min-width: 1280px){
+      .grid{ grid-template-columns: 1fr 1fr 1fr; }
     }
 
-    /* ======================
-       SECTION “PAPER” MODULES
-       ====================== */
+    /* Cards */
     .card{
       background: rgba(255,255,255,.98);
       border: 1px solid rgba(0,0,0,.12);
@@ -361,7 +359,6 @@
       color: rgba(139,31,31,.88);
     }
 
-    /* Loading skeleton */
     .feature{ padding: 12px 0 8px; }
     .headline{ font-size: 16px; margin:0 0 6px; }
     .sub{
@@ -407,6 +404,72 @@
       letter-spacing: .10em;
       text-transform: uppercase;
       text-align:center;
+    }
+
+    /* Dark mode */
+    @media (prefers-color-scheme: dark){
+      :root{
+        --paper:#0b0b0d;
+        --paper2:#111114;
+        --ink: rgba(255,255,255,.92);
+        --muted: rgba(255,255,255,.64);
+        --rule: rgba(255,255,255,.14);
+        --rule2: rgba(255,255,255,.10);
+      }
+
+      body::before{
+        background:
+          radial-gradient(900px 520px at 18% 8%, rgba(255,255,255,.06), transparent 60%),
+          radial-gradient(900px 520px at 84% 0%, rgba(255,255,255,.04), transparent 60%),
+          linear-gradient(to bottom, rgba(255,255,255,.06), transparent 18%, rgba(255,255,255,.05));
+        opacity:.55;
+      }
+
+      .hero::after{
+        background:
+          radial-gradient(900px 420px at 50% 45%, rgba(10,10,12,.40), rgba(10,10,12,.75) 60%),
+          linear-gradient(to bottom, rgba(10,10,12,.75) 0%, rgba(10,10,12,.92) 100%);
+      }
+
+      .nameplate{
+        border-color: rgba(255,255,255,.18);
+        background: rgba(18,18,20,.55);
+      }
+
+      .title{ color: rgba(255,255,255,.96); }
+      .tagline, .kickerline { color: rgba(255,255,255,.70); }
+
+      .navstrip a{
+        border-color: rgba(255,255,255,.18);
+        background: rgba(18,18,20,.55);
+        color: rgba(255,255,255,.74);
+      }
+
+      .card{
+        background: rgba(16,16,18,.72);
+        border-color: rgba(255,255,255,.14);
+      }
+
+      .head{
+        background: rgba(16,16,18,.72);
+        border-color: var(--rule2);
+      }
+
+      .pill{
+        border-color: rgba(255,255,255,.22);
+        background: rgba(18,18,20,.55);
+        color: rgba(255,255,255,.80);
+      }
+
+      .stamp{
+        background: rgba(18,18,20,.55);
+        border-color: rgba(255,255,255,.20);
+        color: rgba(255,255,255,.70);
+      }
+
+      footer{
+        color: rgba(255,255,255,.62);
+      }
     }
 
     /* ======================
@@ -459,7 +522,6 @@
       </div>
 
       <section class="grid">
-        <!-- LEFT -->
         <article class="card" id="projects" aria-label="Projects / The Code">
           <div class="head">
             <div class="kicker">Projects / The Code</div>
@@ -477,7 +539,6 @@
           </div>
         </article>
 
-        <!-- RIGHT -->
         <article class="card" id="markets" aria-label="Markets / Crypto">
           <div class="head">
             <div class="kicker">Markets / Crypto</div>
@@ -494,9 +555,11 @@
               <div class="status">Status: loading</div>
             </div>
           </div>
+        </article>
 
-          <div class="head" style="border-top:1px solid var(--rule2);">
-            <div class="kicker" id="hacker">Hacker News</div>
+        <article class="card" id="hacker" aria-label="Hacker News">
+          <div class="head">
+            <div class="kicker">Hacker News</div>
             <div class="mini" id="hn-updated">Standby</div>
           </div>
 
@@ -517,6 +580,8 @@
   </div>
 
   <script>
+    const fmt = { dateStyle: "medium", timeStyle: "short" };
+
     function esc(s){
       return String(s ?? "")
         .replaceAll("&", "&amp;")
@@ -560,7 +625,7 @@
       const groups = data?.groups;
 
       const u = data?.updated_iso ? new Date(data.updated_iso) : null;
-      const uText = (u && !isNaN(u.getTime())) ? `Updated: ${u.toLocaleString()}` : "Live";
+      const uText = (u && !isNaN(u.getTime())) ? `Updated: ${u.toLocaleString(undefined, fmt)}` : "Live";
       setMini("projects-updated", uText);
 
       if (!Array.isArray(groups) || groups.length === 0){
@@ -605,7 +670,7 @@
         (updated && updated.getFullYear && updated.getFullYear() < 2000);
 
       const updatedText = (!isSeed && updated && !isNaN(updated.getTime()))
-        ? `Updated: ${updated.toLocaleString()}`
+        ? `Updated: ${updated.toLocaleString(undefined, fmt)}`
         : "Seed (waiting on feed)";
 
       setMini("decrypt-updated", updatedText);
@@ -642,7 +707,7 @@
 
       const updated = home?.updated_iso ? new Date(home.updated_iso) : null;
       const updatedText = (updated && !isNaN(updated.getTime()))
-        ? `Updated: ${updated.toLocaleString()}`
+        ? `Updated: ${updated.toLocaleString(undefined, fmt)}`
         : "Standby";
 
       setMini("hn-updated", updatedText);
@@ -665,7 +730,7 @@
       const el = document.getElementById("edition-time");
       if (!el) return;
       const d = new Date();
-      el.textContent = `Edition: ${d.toLocaleString()}`;
+      el.textContent = `Edition: ${d.toLocaleString(undefined, fmt)}`;
     }
 
     async function boot(){
