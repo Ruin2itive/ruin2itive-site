@@ -10,13 +10,17 @@
 
   <style>
     :root{
+      /* Hard white paper (your screenshot is already close; this makes it exact) */
       --paper:#ffffff;
-      --paper2: rgba(255,255,255,.86);
+
       --ink:#111;
       --muted:#5a5852;
-      --rule: rgba(0,0,0,.10);
-      --card: rgba(255,255,255,.92);
-      --shadow2: 0 10px 30px rgba(0,0,0,.12);
+      --rule:#ddd6cc;
+
+      /* Keep cards clean/bright like a front page */
+      --card:#ffffff;
+      --shadow2: 0 10px 30px rgba(0,0,0,.10);
+
       --red:#8b1f1f;
 
       --radius:18px;
@@ -29,7 +33,6 @@
 
     *{ box-sizing:border-box; }
     html,body{ height:100%; }
-
     body{
       margin:0;
       font-family: ui-serif, Georgia, "Times New Roman", Times, serif;
@@ -37,102 +40,105 @@
       background: var(--paper);
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
-      position: relative;
-      min-height: 100vh;
     }
 
     a{ color:inherit; text-decoration:none; }
     a:hover{ text-decoration:underline; }
 
-    /* -----------------------------
-       FULL PAGE BACKGROUND IMAGE
-       - set via JS so it works on / and /ruin2itive-site/
-    ------------------------------*/
-    .bg{
-      position: fixed;
-      inset: 0;
-      z-index: -3;
-      background-color: var(--paper);
-      background-position: center center;
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      transform: translateZ(0);
-      filter: contrast(1) saturate(1);
+    /* ---------- HERO ---------- */
+    .hero{
+      position:relative;
+      overflow:hidden;
+      background: var(--paper);
+
+      /* Less tall hero = less giant blank page */
+      min-height: clamp(280px, 42vh, 460px);
+      padding-top: calc(10px + var(--safe-top));
     }
 
-    /* Paper wash so text remains readable */
-    .wash{
-      position: fixed;
-      inset: 0;
-      z-index: -2;
+    /* Hero image layer */
+    .hero-media{
+      position:absolute;
+      inset:-60px;
+      z-index:0;
+      pointer-events:none;
+
+      background-position: center 55%;
+      background-size: cover;
+      background-repeat: no-repeat;
+
+      background-color: var(--paper);
+      transform: translateZ(0);
+
+      /* Make the elephant SHOW UP */
+      opacity: 0.34;
+      filter: saturate(1.05) contrast(1.22);
+    }
+
+    /* Fade overlay (reduced so it doesn’t destroy the elephant) */
+    .hero::after{
+      content:"";
+      position:absolute;
+      inset:0;
+      z-index:1;
       background:
-        radial-gradient(1200px 700px at 50% 18%,
-          rgba(255,255,255,.35) 0%,
-          rgba(255,255,255,.70) 45%,
-          rgba(255,255,255,.92) 100%),
         linear-gradient(to bottom,
-          rgba(255,255,255,.45) 0%,
-          rgba(255,255,255,.88) 60%,
-          rgba(255,255,255,1) 100%);
+          rgba(255,255,255,0) 0%,
+          rgba(255,255,255,0) 52%,
+          rgba(255,255,255,.30) 72%,
+          rgba(255,255,255,.88) 100%);
       pointer-events:none;
     }
 
-    /* -----------------------------
-       HERO (now mostly spacing / mast)
-    ------------------------------*/
-    header.hero{
-      padding-top: calc(14px + var(--safe-top));
-      padding-bottom: 14px;
-    }
-
+    /* Wordmark overlay */
     .mast{
+      position:relative;
+      z-index:2;
       max-width: var(--max);
       margin: 0 auto;
-      padding: 10px 18px 0;
+      padding: 12px 18px 0;
       display:flex;
       justify-content:center;
       text-align:center;
       pointer-events:none;
       mix-blend-mode:multiply;
     }
-
     .mast .kickerline{
-      font-size: 11px;
-      letter-spacing: .30em;
+      font-size: 10px;
+      letter-spacing: .34em;
       text-transform: uppercase;
-      color: rgba(0,0,0,.52);
+      color: rgba(0,0,0,.58);
       margin-bottom: 8px;
     }
-
     .mast .title{
-      font-size: clamp(28px, 4.0vw, 44px);
+      font-size: clamp(28px, 3.9vw, 44px);
       letter-spacing: -0.01em;
       margin: 0;
-      color: rgba(0,0,0,.80);
+      color: rgba(0,0,0,.82);
     }
-
     .mast .tagline{
-      margin-top: 8px;
-      font-size: 12px;
-      letter-spacing: .22em;
+      margin-top: 7px;
+      font-size: 11px;
+      letter-spacing: .24em;
       text-transform: uppercase;
-      color: rgba(0,0,0,.52);
+      color: rgba(0,0,0,.58);
     }
 
-    /* -----------------------------
-       LAYOUT
-    ------------------------------*/
+    /* ---------- LAYOUT ---------- */
     .wrap{
       position:relative;
       max-width: var(--max);
       margin: 0 auto;
-      padding: 0 18px calc(60px + var(--safe-bot));
+
+      /* Reduce excessive bottom white */
+      padding: 0 18px calc(30px + var(--safe-bot));
     }
 
     main{
       position:relative;
-      margin-top: 14px;
+
+      /* Pull cards upward slightly (less empty space) */
+      margin-top: clamp(-150px, -11vh, -95px);
     }
 
     .grid{
@@ -150,21 +156,18 @@
       .grid{ grid-template-columns: 1.05fr 1.0fr; gap: 26px; }
     }
 
-    /* -----------------------------
-       CARDS
-    ------------------------------*/
+    /* ---------- CARDS ---------- */
     .card{
       background: var(--card);
-      border: 1px solid rgba(0,0,0,.10);
+      border: 1px solid rgba(0,0,0,.08);
       border-radius: var(--radius);
       box-shadow: var(--shadow2);
       overflow:hidden;
-      backdrop-filter: blur(2px);
     }
 
     .head{
-      padding: 16px 18px 12px;
-      background: rgba(255,255,255,.35);
+      padding: 14px 18px 10px;
+      background: rgba(255,255,255,.62);
       border-bottom: 1px solid var(--rule);
       display:flex;
       align-items:flex-end;
@@ -173,33 +176,33 @@
     }
 
     .kicker{
-      font-size: 12px;
-      letter-spacing: .30em;
+      font-size: 11px;
+      letter-spacing: .34em;
       text-transform: uppercase;
       color: var(--red);
-      font-weight: 700;
+      font-weight: 800;
       line-height: 1.1;
     }
 
     .head .mini{
-      font-size: 11px;
-      letter-spacing: .16em;
+      font-size: 10px;
+      letter-spacing: .18em;
       text-transform: uppercase;
-      color: rgba(0,0,0,.48);
+      color: rgba(0,0,0,.52);
       white-space:nowrap;
     }
 
-    .body{ padding: 14px 18px 16px; }
+    .body{ padding: 12px 18px 14px; }
 
-    /* Projects */
+    /* ---------- PROJECTS ---------- */
     .proj{
-      padding: 12px 0;
+      padding: 10px 0;
       border-bottom: 1px solid rgba(0,0,0,.08);
     }
     .proj:last-child{ border-bottom:none; padding-bottom:6px; }
 
     .proj .name{
-      font-size: clamp(28px, 3.0vw, 40px);
+      font-size: clamp(30px, 3.0vw, 42px);
       line-height: 1;
       margin: 0 0 10px;
       letter-spacing: -0.02em;
@@ -215,28 +218,28 @@
     .pill{
       display:inline-flex;
       align-items:center;
-      border: 1px solid rgba(0,0,0,.22);
-      color: rgba(0,0,0,.78);
-      padding: 7px 14px;
+      border: 1px solid rgba(0,0,0,.24);
+      color: rgba(0,0,0,.80);
+      padding: 6px 12px;
       border-radius: 999px;
-      font-size: 11px;
-      letter-spacing: .20em;
+      font-size: 10px;
+      letter-spacing: .22em;
       text-transform: uppercase;
-      background: rgba(255,255,255,.45);
+      background: rgba(255,255,255,.70);
       white-space:nowrap;
     }
 
-    /* Feed items */
+    /* ---------- FEED ITEMS ---------- */
     .item{
       display:block;
-      padding: 12px 0;
+      padding: 11px 0;
       border-bottom: 1px solid rgba(0,0,0,.08);
     }
     .item:last-child{ border-bottom:none; padding-bottom:6px; }
 
     .item h3{
       margin:0 0 7px;
-      font-size: 17px;
+      font-size: 16px;
       line-height: 1.18;
       letter-spacing: .01em;
     }
@@ -247,51 +250,51 @@
       align-items:center;
       flex-wrap:wrap;
       color: var(--muted);
-      font-size: 12px;
+      font-size: 11px;
     }
 
-    /* Stamps */
+    /* ---------- STAMPS ---------- */
     .stamp{
       display:inline-flex;
       align-items:center;
-      padding: 3px 10px;
+      padding: 3px 9px;
       border-radius: 999px;
-      border: 1px solid rgba(0,0,0,.16);
-      background: rgba(255,255,255,.45);
-      font-size: 10px;
+      border: 1px solid rgba(0,0,0,.18);
+      background: rgba(255,255,255,.78);
+      font-size: 9px;
       letter-spacing: .16em;
       text-transform: uppercase;
-      color: rgba(0,0,0,.62);
+      color: rgba(0,0,0,.64);
     }
     .stamp.red{
-      border-color: rgba(139,31,31,.35);
-      color: rgba(139,31,31,.85);
+      border-color: rgba(139,31,31,.40);
+      color: rgba(139,31,31,.90);
     }
 
-    /* Quiet/empty/error */
-    .feature{ padding: 14px 0 8px; }
-    .headline{ font-size: 17px; margin:0 0 6px; }
+    /* ---------- “QUIET / EMPTY / ERROR” ---------- */
+    .feature{ padding: 12px 0 8px; }
+    .headline{ font-size: 16px; margin:0 0 6px; }
     .sub{
       color: var(--muted);
       margin:0 0 10px;
-      font-size: 13px;
+      font-size: 12px;
       line-height: 1.35;
     }
     .status{
-      color: rgba(0,0,0,.55);
-      font-size: 11px;
-      letter-spacing: .14em;
+      color: rgba(0,0,0,.58);
+      font-size: 10px;
+      letter-spacing: .16em;
       text-transform: uppercase;
     }
 
-    /* Skeleton */
+    /* ---------- SKELETON LOADING ---------- */
     .skel{
       border-radius: 10px;
       height: 12px;
       background: linear-gradient(
         90deg,
         rgba(0,0,0,.06),
-        rgba(0,0,0,.11),
+        rgba(0,0,0,.12),
         rgba(0,0,0,.06)
       );
       background-size: 220% 100%;
@@ -306,13 +309,14 @@
       100%{ background-position: 220% 0; }
     }
 
+    /* ---------- FOOTER ---------- */
     footer{
       max-width: var(--max);
       margin: 0 auto;
-      padding: 24px 18px calc(38px + var(--safe-bot));
-      color: rgba(0,0,0,.55);
-      font-size: 12px;
-      letter-spacing: .08em;
+      padding: 18px 18px calc(22px + var(--safe-bot));
+      color: rgba(0,0,0,.56);
+      font-size: 11px;
+      letter-spacing: .10em;
       text-transform: uppercase;
       text-align:center;
     }
@@ -320,11 +324,17 @@
 </head>
 
 <body>
-  <!-- Full-page background layers -->
-  <div class="bg" id="bg" aria-hidden="true"></div>
-  <div class="wash" aria-hidden="true"></div>
+  <header class="hero" aria-label="ruin2itive hero background">
+    <div class="hero-media" id="hero-media" aria-hidden="true"></div>
 
-  <header class="hero" aria-label="ruin2itive header">
+    <noscript>
+      <style>
+        #hero-media{
+          background-image: url("assets/landing.webp"), url("assets/landing.png");
+        }
+      </style>
+    </noscript>
+
     <div class="mast" aria-hidden="true">
       <div>
         <div class="kickerline">Reliability • Open Source • Independent</div>
@@ -394,20 +404,23 @@
 
   <script>
     // -----------------------------
-    // Background image resolver (works on root + GitHub Pages subpath)
-    // Your uploaded file: /assets/elephant-bg.PNG
+    // HERO IMAGE: auto-resolve correct path
     // -----------------------------
-    (function bootBg(){
-      const el = document.getElementById("bg");
+    (function bootHero(){
+      const el = document.getElementById("hero-media");
       if (!el) return;
 
       const repoGuess = location.pathname.split("/").filter(Boolean)[0] || "";
 
       const candidates = [
-        "/assets/elephant-bg.PNG",
-        "assets/elephant-bg.PNG",
-        repoGuess ? ("/" + repoGuess + "/assets/elephant-bg.PNG") : "",
-        "/ruin2itive-site/assets/elephant-bg.PNG"
+        "/assets/landing.webp",
+        "/assets/landing.png",
+        "assets/landing.webp",
+        "assets/landing.png",
+        repoGuess ? ("/" + repoGuess + "/assets/landing.webp") : "",
+        repoGuess ? ("/" + repoGuess + "/assets/landing.png") : "",
+        "/ruin2itive-site/assets/landing.webp",
+        "/ruin2itive-site/assets/landing.png"
       ].filter(Boolean);
 
       function tryLoad(url){
@@ -425,14 +438,13 @@
           const r = await tryLoad(url);
           if (r.ok){
             el.style.backgroundImage = `url("${r.url}")`;
-            console.log("[ruin2itive] BG image OK:", r.url);
             return;
           }
         }
         console.error(
-          "[ruin2itive] BG IMAGE FAILED. None of these paths loaded:\n" +
+          "[ruin2itive] HERO IMAGE FAILED. None of these paths loaded:\n" +
           candidates.map(x => " - " + x).join("\n") +
-          "\nFix: confirm the exact filename case: elephant-bg.PNG"
+          "\nFix: ensure landing.webp or landing.png exists in /assets/ and filename case matches exactly."
         );
       })();
     })();
