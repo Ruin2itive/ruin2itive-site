@@ -1,5 +1,10 @@
 {
+  "name": "ruin2itive-site",
+  "private": true,
   "scripts": {
     "build:decrypt": "node scripts/build_decrypt.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
   }
 }
