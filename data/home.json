@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-14T00:00:56.986Z",
-  "updated_local": "2/14/2026, 12:00:56 AM",
+  "updated_iso": "2026-02-14T01:11:49.109Z",
+  "updated_local": "2/14/2026, 1:11:49 AM",
   "sections": {
     "crypto": [
       {
@@ -11,6 +11,18 @@
       }
     ],
     "hacker": [
+      {
+        "title": "The evolution of OpenAI's mission statement",
+        "url": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/",
+        "source": "hn",
+        "time": "2/13/2026, 11:43:27 PM"
+      },
+      {
+        "title": "Homeland Security Wants Social Media Sites to Expose Anti-ICE Accounts",
+        "url": "https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html",
+        "source": "hn",
+        "time": "2/14/2026, 12:00:58 AM"
+      },
       {
         "title": "GPT-5.2 derives a new result in theoretical physics",
         "url": "https://openai.com/index/new-result-theoretical-physics/",
@@ -24,22 +36,10 @@
         "time": "2/13/2026, 9:35:52 PM"
       },
       {
-        "title": "Building a TUI is easy now",
-        "url": "https://hatchet.run/blog/tuis-are-easy-now",
+        "title": "Gradient.horse",
+        "url": "https://gradient.horse",
         "source": "hn",
-        "time": "2/13/2026, 5:50:54 PM"
-      },
-      {
-        "title": "Font Rendering from First Principles",
-        "url": "https://mccloskeybr.com/articles/font_rendering.html",
-        "source": "hn",
-        "time": "2/8/2026, 12:58:29 AM"
-      },
-      {
-        "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
-        "url": "https://cloudrouter.dev/",
-        "source": "hn",
-        "time": "2/13/2026, 7:02:17 PM"
+        "time": "2/10/2026, 4:13:49 AM"
       }
     ],
     "world": [
@@ -62,10 +62,10 @@
         "time": "Fri, 13 Feb 2026 11:31:06 GMT"
       },
       {
-        "title": "Palestine Action ban ruled unlawful but group remains proscribed for now",
-        "url": "https://www.bbc.com/news/articles/c3wleezq73no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'We are not protected' says Hebron mayor as Israel expands West Bank control",
+        "url": "https://www.bbc.com/news/articles/crl4ne5er5zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 13 Feb 2026 15:06:30 GMT"
+        "time": "Fri, 13 Feb 2026 22:12:03 GMT"
       },
       {
         "title": "Two Britons among three dead in French Alps avalanche",
