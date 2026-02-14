@@ -8,14 +8,9 @@
   <title>ruin2itive.org</title>
   <meta name="description" content="Independent, self-hosted hub — signals, systems, memory." />
 
-  <!-- Preload hero image (relative paths) -->
-  <link rel="preload" as="image" href="assets/landing.webp" />
-  <link rel="preload" as="image" href="assets/landing.png" />
-
   <style>
     :root{
       --paper:#f4f1ea;
-      --paper2:#efeae2;
       --ink:#111;
       --muted:#5a5852;
       --rule:#d9d1c6;
@@ -54,25 +49,22 @@
       padding-top: calc(10px + var(--safe-top));
     }
 
-    /* Real image layer (NO JS REQUIRED) */
+    /* Hero image layer (we set background-image via JS once we find a real path) */
     .hero-media{
       position:absolute;
       inset:-60px;
       z-index:0;
       pointer-events:none;
-    }
-    .hero-media picture,
-    .hero-media img{
-      width:100%;
-      height:100%;
-      display:block;
-    }
-    .hero-media img{
-      object-fit: cover;
-      object-position: center 55%;
+
+      background-position: center 55%;
+      background-size: cover;
+      background-repeat: no-repeat;
+
+      /* If image is missing, this stays paper-colored */
+      background-color: var(--paper);
+      transform: translateZ(0);
       opacity: 1;
       filter: saturate(1) contrast(1);
-      transform: translateZ(0);
     }
 
     /* Fade so background image stays visible */
@@ -321,19 +313,16 @@
 
 <body>
   <header class="hero" aria-label="ruin2itive hero background">
-    <div class="hero-media" aria-hidden="true">
-      <picture>
-        <source srcset="assets/landing.webp" type="image/webp">
-        <img
-          src="assets/landing.png"
-          alt=""
-          loading="eager"
-          decoding="async"
-          fetchpriority="high"
-          onerror="console.error('[ruin2itive] HERO IMAGE FAILED. Expected assets/landing.webp or assets/landing.png at site root.');"
-        >
-      </picture>
-    </div>
+    <div class="hero-media" id="hero-media" aria-hidden="true"></div>
+
+    <!-- No-JS fallback (still tries relative paths) -->
+    <noscript>
+      <style>
+        #hero-media{
+          background-image: url("assets/landing.webp"), url("assets/landing.png");
+        }
+      </style>
+    </noscript>
 
     <div class="mast" aria-hidden="true">
       <div>
@@ -403,6 +392,55 @@
   </footer>
 
   <script>
+    // -----------------------------
+    // HERO IMAGE: auto-resolve correct path
+    // -----------------------------
+    (function bootHero(){
+      const el = document.getElementById("hero-media");
+      if (!el) return;
+
+      const repoGuess = location.pathname.split("/").filter(Boolean)[0] || "";
+
+      // Try in this order: absolute root, relative, repo-subpath (GitHub Pages), and a couple common variants.
+      const candidates = [
+        "/assets/landing.webp",
+        "/assets/landing.png",
+        "assets/landing.webp",
+        "assets/landing.png",
+        repoGuess ? ("/" + repoGuess + "/assets/landing.webp") : "",
+        repoGuess ? ("/" + repoGuess + "/assets/landing.png") : "",
+        "/ruin2itive-site/assets/landing.webp",
+        "/ruin2itive-site/assets/landing.png"
+      ].filter(Boolean);
+
+      function tryLoad(url){
+        return new Promise((resolve) => {
+          const img = new Image();
+          img.onload = () => resolve({ ok:true, url });
+          img.onerror = () => resolve({ ok:false, url });
+          img.decoding = "async";
+          img.src = url + (url.includes("?") ? "&" : "?") + "v=" + Date.now();
+        });
+      }
+
+      (async () => {
+        for (const url of candidates){
+          const r = await tryLoad(url);
+          if (r.ok){
+            el.style.backgroundImage = `url("${r.url}")`;
+            console.log("[ruin2itive] Hero image OK:", r.url);
+            return;
+          }
+        }
+
+        console.error(
+          "[ruin2itive] HERO IMAGE FAILED. None of these paths loaded:\n" +
+          candidates.map(x => " - " + x).join("\n") +
+          "\nFix: ensure landing.webp or landing.png exists in /assets/ and filename case matches exactly."
+        );
+      })();
+    })();
+
     // -----------------------------
     // Utilities
     // -----------------------------
@@ -560,7 +598,7 @@
     }
 
     // -----------------------------
-    // Boot (relative paths = stable)
+    // Boot (relative JSON paths)
     // -----------------------------
     async function boot(){
       try{
