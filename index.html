@@ -10,12 +10,13 @@
 
   <style>
     :root{
-      --paper:#f4f1ea;
+      --paper:#ffffff;
+      --paper2: rgba(255,255,255,.86);
       --ink:#111;
       --muted:#5a5852;
-      --rule:#d9d1c6;
-      --card:#f6f2ea;
-      --shadow2: 0 10px 30px rgba(0,0,0,.08);
+      --rule: rgba(0,0,0,.10);
+      --card: rgba(255,255,255,.92);
+      --shadow2: 0 10px 30px rgba(0,0,0,.12);
       --red:#8b1f1f;
 
       --radius:18px;
@@ -28,6 +29,7 @@
 
     *{ box-sizing:border-box; }
     html,body{ height:100%; }
+
     body{
       margin:0;
       font-family: ui-serif, Georgia, "Times New Roman", Times, serif;
@@ -35,66 +37,66 @@
       background: var(--paper);
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
+      position: relative;
+      min-height: 100vh;
     }
 
     a{ color:inherit; text-decoration:none; }
     a:hover{ text-decoration:underline; }
 
-    /* ---------- HERO ---------- */
-    .hero{
-      position:relative;
-      overflow:hidden;
-      background: var(--paper);
-      min-height: clamp(360px, 56vh, 640px);
-      padding-top: calc(10px + var(--safe-top));
-    }
-
-    /* Hero image layer (we set background-image via JS once we find a real path) */
-    .hero-media{
-      position:absolute;
-      inset:-60px;
-      z-index:0;
-      pointer-events:none;
-
-      background-position: center 55%;
+    /* -----------------------------
+       FULL PAGE BACKGROUND IMAGE
+       - set via JS so it works on / and /ruin2itive-site/
+    ------------------------------*/
+    .bg{
+      position: fixed;
+      inset: 0;
+      z-index: -3;
+      background-color: var(--paper);
+      background-position: center center;
       background-size: cover;
       background-repeat: no-repeat;
-
-      /* If image is missing, this stays paper-colored */
-      background-color: var(--paper);
+      background-attachment: fixed;
       transform: translateZ(0);
-      opacity: 1;
-      filter: saturate(1) contrast(1);
+      filter: contrast(1) saturate(1);
     }
 
-    /* Fade so background image stays visible */
-    .hero::after{
-      content:"";
-      position:absolute;
-      inset:0;
-      z-index:1;
+    /* Paper wash so text remains readable */
+    .wash{
+      position: fixed;
+      inset: 0;
+      z-index: -2;
       background:
+        radial-gradient(1200px 700px at 50% 18%,
+          rgba(255,255,255,.35) 0%,
+          rgba(255,255,255,.70) 45%,
+          rgba(255,255,255,.92) 100%),
         linear-gradient(to bottom,
-          rgba(244,241,234,0) 0%,
-          rgba(244,241,234,0) 50%,
-          rgba(244,241,234,.60) 70%,
-          rgba(244,241,234,1) 100%);
+          rgba(255,255,255,.45) 0%,
+          rgba(255,255,255,.88) 60%,
+          rgba(255,255,255,1) 100%);
       pointer-events:none;
     }
 
-    /* Wordmark overlay */
+    /* -----------------------------
+       HERO (now mostly spacing / mast)
+    ------------------------------*/
+    header.hero{
+      padding-top: calc(14px + var(--safe-top));
+      padding-bottom: 14px;
+    }
+
     .mast{
-      position:relative;
-      z-index:2;
       max-width: var(--max);
       margin: 0 auto;
-      padding: 14px 18px 0;
+      padding: 10px 18px 0;
       display:flex;
       justify-content:center;
       text-align:center;
       pointer-events:none;
       mix-blend-mode:multiply;
     }
+
     .mast .kickerline{
       font-size: 11px;
       letter-spacing: .30em;
@@ -102,12 +104,14 @@
       color: rgba(0,0,0,.52);
       margin-bottom: 8px;
     }
+
     .mast .title{
-      font-size: clamp(30px, 4.2vw, 46px);
+      font-size: clamp(28px, 4.0vw, 44px);
       letter-spacing: -0.01em;
       margin: 0;
-      color: rgba(0,0,0,.78);
+      color: rgba(0,0,0,.80);
     }
+
     .mast .tagline{
       margin-top: 8px;
       font-size: 12px;
@@ -116,7 +120,9 @@
       color: rgba(0,0,0,.52);
     }
 
-    /* ---------- LAYOUT ---------- */
+    /* -----------------------------
+       LAYOUT
+    ------------------------------*/
     .wrap{
       position:relative;
       max-width: var(--max);
@@ -126,7 +132,7 @@
 
     main{
       position:relative;
-      margin-top: clamp(-170px, -12vh, -110px);
+      margin-top: 14px;
     }
 
     .grid{
@@ -144,18 +150,21 @@
       .grid{ grid-template-columns: 1.05fr 1.0fr; gap: 26px; }
     }
 
-    /* ---------- CARDS ---------- */
+    /* -----------------------------
+       CARDS
+    ------------------------------*/
     .card{
       background: var(--card);
-      border: 1px solid rgba(0,0,0,.06);
+      border: 1px solid rgba(0,0,0,.10);
       border-radius: var(--radius);
       box-shadow: var(--shadow2);
       overflow:hidden;
+      backdrop-filter: blur(2px);
     }
 
     .head{
       padding: 16px 18px 12px;
-      background: rgba(255,255,255,.24);
+      background: rgba(255,255,255,.35);
       border-bottom: 1px solid var(--rule);
       display:flex;
       align-items:flex-end;
@@ -182,15 +191,15 @@
 
     .body{ padding: 14px 18px 16px; }
 
-    /* ---------- PROJECTS ---------- */
+    /* Projects */
     .proj{
       padding: 12px 0;
-      border-bottom: 1px solid rgba(0,0,0,.06);
+      border-bottom: 1px solid rgba(0,0,0,.08);
     }
     .proj:last-child{ border-bottom:none; padding-bottom:6px; }
 
     .proj .name{
-      font-size: clamp(32px, 3.2vw, 44px);
+      font-size: clamp(28px, 3.0vw, 40px);
       line-height: 1;
       margin: 0 0 10px;
       letter-spacing: -0.02em;
@@ -213,15 +222,15 @@
       font-size: 11px;
       letter-spacing: .20em;
       text-transform: uppercase;
-      background: rgba(255,255,255,.34);
+      background: rgba(255,255,255,.45);
       white-space:nowrap;
     }
 
-    /* ---------- FEED ITEMS ---------- */
+    /* Feed items */
     .item{
       display:block;
       padding: 12px 0;
-      border-bottom: 1px solid rgba(0,0,0,.06);
+      border-bottom: 1px solid rgba(0,0,0,.08);
     }
     .item:last-child{ border-bottom:none; padding-bottom:6px; }
 
@@ -241,14 +250,14 @@
       font-size: 12px;
     }
 
-    /* ---------- STAMPS ---------- */
+    /* Stamps */
     .stamp{
       display:inline-flex;
       align-items:center;
       padding: 3px 10px;
       border-radius: 999px;
       border: 1px solid rgba(0,0,0,.16);
-      background: rgba(255,255,255,.34);
+      background: rgba(255,255,255,.45);
       font-size: 10px;
       letter-spacing: .16em;
       text-transform: uppercase;
@@ -259,7 +268,7 @@
       color: rgba(139,31,31,.85);
     }
 
-    /* ---------- “QUIET / EMPTY / ERROR” ---------- */
+    /* Quiet/empty/error */
     .feature{ padding: 14px 0 8px; }
     .headline{ font-size: 17px; margin:0 0 6px; }
     .sub{
@@ -275,7 +284,7 @@
       text-transform: uppercase;
     }
 
-    /* ---------- SKELETON LOADING ---------- */
+    /* Skeleton */
     .skel{
       border-radius: 10px;
       height: 12px;
@@ -297,7 +306,6 @@
       100%{ background-position: 220% 0; }
     }
 
-    /* ---------- FOOTER ---------- */
     footer{
       max-width: var(--max);
       margin: 0 auto;
@@ -312,18 +320,11 @@
 </head>
 
 <body>
-  <header class="hero" aria-label="ruin2itive hero background">
-    <div class="hero-media" id="hero-media" aria-hidden="true"></div>
+  <!-- Full-page background layers -->
+  <div class="bg" id="bg" aria-hidden="true"></div>
+  <div class="wash" aria-hidden="true"></div>
 
-    <!-- No-JS fallback (still tries relative paths) -->
-    <noscript>
-      <style>
-        #hero-media{
-          background-image: url("assets/landing.webp"), url("assets/landing.png");
-        }
-      </style>
-    </noscript>
-
+  <header class="hero" aria-label="ruin2itive header">
     <div class="mast" aria-hidden="true">
       <div>
         <div class="kickerline">Reliability • Open Source • Independent</div>
@@ -393,24 +394,20 @@
 
   <script>
     // -----------------------------
-    // HERO IMAGE: auto-resolve correct path
+    // Background image resolver (works on root + GitHub Pages subpath)
+    // Your uploaded file: /assets/elephant-bg.PNG
     // -----------------------------
-    (function bootHero(){
-      const el = document.getElementById("hero-media");
+    (function bootBg(){
+      const el = document.getElementById("bg");
       if (!el) return;
 
       const repoGuess = location.pathname.split("/").filter(Boolean)[0] || "";
 
-      // Try in this order: absolute root, relative, repo-subpath (GitHub Pages), and a couple common variants.
       const candidates = [
-        "/assets/landing.webp",
-        "/assets/landing.png",
-        "assets/landing.webp",
-        "assets/landing.png",
-        repoGuess ? ("/" + repoGuess + "/assets/landing.webp") : "",
-        repoGuess ? ("/" + repoGuess + "/assets/landing.png") : "",
-        "/ruin2itive-site/assets/landing.webp",
-        "/ruin2itive-site/assets/landing.png"
+        "/assets/elephant-bg.PNG",
+        "assets/elephant-bg.PNG",
+        repoGuess ? ("/" + repoGuess + "/assets/elephant-bg.PNG") : "",
+        "/ruin2itive-site/assets/elephant-bg.PNG"
       ].filter(Boolean);
 
       function tryLoad(url){
@@ -428,15 +425,14 @@
           const r = await tryLoad(url);
           if (r.ok){
             el.style.backgroundImage = `url("${r.url}")`;
-            console.log("[ruin2itive] Hero image OK:", r.url);
+            console.log("[ruin2itive] BG image OK:", r.url);
             return;
           }
         }
-
         console.error(
-          "[ruin2itive] HERO IMAGE FAILED. None of these paths loaded:\n" +
+          "[ruin2itive] BG IMAGE FAILED. None of these paths loaded:\n" +
           candidates.map(x => " - " + x).join("\n") +
-          "\nFix: ensure landing.webp or landing.png exists in /assets/ and filename case matches exactly."
+          "\nFix: confirm the exact filename case: elephant-bg.PNG"
         );
       })();
     })();
