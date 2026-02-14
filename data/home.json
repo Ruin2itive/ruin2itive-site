@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-14T03:40:11.218Z",
-  "updated_local": "2/14/2026, 3:40:11 AM",
+  "updated_iso": "2026-02-14T04:52:21.322Z",
+  "updated_local": "2/14/2026, 4:52:21 AM",
   "sections": {
     "crypto": [
       {
@@ -11,6 +11,12 @@
       }
     ],
     "hacker": [
+      {
+        "title": "NPMX – a fast, modern browser for the NPM registry",
+        "url": "https://npmx.dev",
+        "source": "hn",
+        "time": "2/14/2026, 2:14:34 AM"
+      },
       {
         "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
         "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
@@ -24,22 +30,16 @@
         "time": "2/13/2026, 7:20:12 PM"
       },
       {
-        "title": "NPMX – a fast, modern browser for the NPM registry",
-        "url": "https://npmx.dev",
+        "title": "Common Lisp Screenshots: today's CL applications in action",
+        "url": "http://www.lisp-screenshots.org",
         "source": "hn",
-        "time": "2/14/2026, 2:14:34 AM"
+        "time": "2/12/2026, 1:44:35 AM"
       },
       {
         "title": "Building a TUI is easy now",
         "url": "https://hatchet.run/blog/tuis-are-easy-now",
         "source": "hn",
         "time": "2/13/2026, 5:50:54 PM"
-      },
-      {
-        "title": "Common Lisp Screenshots: today's CL applications in action",
-        "url": "http://www.lisp-screenshots.org",
-        "source": "hn",
-        "time": "2/12/2026, 1:44:35 AM"
       }
     ],
     "world": [
