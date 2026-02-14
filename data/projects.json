@@ -1,0 +1,26 @@
+{
+  "updated_iso": "2026-02-14T00:00:00Z",
+  "groups": [
+    {
+      "title": "ruin2itive",
+      "links": [
+        { "label": "GITHUB", "href": "https://github.com/Ruin2itive" },
+        { "label": "SRC", "href": "https://github.com/Ruin2itive/ruin2itive-site" }
+      ]
+    },
+    {
+      "title": "arduino",
+      "links": [
+        { "label": "HACKSTER", "href": "https://www.hackster.io/" },
+        { "label": "HARDWARE", "href": "https://www.arduino.cc/" }
+      ]
+    },
+    {
+      "title": "raspberry_pi",
+      "links": [
+        { "label": "NEWS", "href": "https://www.raspberrypi.com/news/" },
+        { "label": "DOCS", "href": "https://www.raspberrypi.com/documentation/" }
+      ]
+    }
+  ]
+}
