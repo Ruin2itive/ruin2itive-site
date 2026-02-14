@@ -10,17 +10,17 @@
 
   <style>
     :root{
-      /* Hard white paper (your screenshot is already close; this makes it exact) */
       --paper:#ffffff;
 
       --ink:#111;
       --muted:#5a5852;
       --rule:#ddd6cc;
 
-      /* Keep cards clean/bright like a front page */
-      --card:#ffffff;
-      --shadow2: 0 10px 30px rgba(0,0,0,.10);
+      /* Glass-paper cards (lets background show through) */
+      --card: rgba(255,255,255,.78);
+      --cardHead: rgba(255,255,255,.58);
 
+      --shadow2: 0 12px 34px rgba(0,0,0,.12);
       --red:#8b1f1f;
 
       --radius:18px;
@@ -50,32 +50,29 @@
       position:relative;
       overflow:hidden;
       background: var(--paper);
-
-      /* Less tall hero = less giant blank page */
       min-height: clamp(280px, 42vh, 460px);
       padding-top: calc(10px + var(--safe-top));
     }
 
-    /* Hero image layer */
     .hero-media{
       position:absolute;
-      inset:-60px;
+      inset:-70px;
       z-index:0;
       pointer-events:none;
 
-      background-position: center 55%;
+      background-position: center 58%;
       background-size: cover;
       background-repeat: no-repeat;
+      background-color: var(--paper);
 
-      background-image: url("assets/masthead.webp"); background-color: var(--paper);
       transform: translateZ(0);
 
-      /* Make the elephant SHOW UP */
-      opacity: 0.34;
-      filter: saturate(1.05) contrast(1.22);
+      /* Make elephant read clearly but keep “paper” feel */
+      opacity: 0.58;
+      filter: saturate(1.08) contrast(1.28);
     }
 
-    /* Fade overlay (reduced so it doesn’t destroy the elephant) */
+    /* Paper fade to keep bottom clean */
     .hero::after{
       content:"";
       position:absolute;
@@ -84,13 +81,13 @@
       background:
         linear-gradient(to bottom,
           rgba(255,255,255,0) 0%,
-          rgba(255,255,255,0) 52%,
-          rgba(255,255,255,.30) 72%,
-          rgba(255,255,255,.88) 100%);
+          rgba(255,255,255,0) 48%,
+          rgba(255,255,255,.22) 68%,
+          rgba(255,255,255,.92) 100%);
       pointer-events:none;
     }
 
-    /* Wordmark overlay */
+    /* Wordmark */
     .mast{
       position:relative;
       z-index:2;
@@ -129,15 +126,11 @@
       position:relative;
       max-width: var(--max);
       margin: 0 auto;
-
-      /* Reduce excessive bottom white */
       padding: 0 18px calc(30px + var(--safe-bot));
     }
 
     main{
       position:relative;
-
-      /* Pull cards upward slightly (less empty space) */
       margin-top: clamp(-150px, -11vh, -95px);
     }
 
@@ -159,15 +152,17 @@
     /* ---------- CARDS ---------- */
     .card{
       background: var(--card);
-      border: 1px solid rgba(0,0,0,.08);
+      border: 1px solid rgba(0,0,0,.10);
       border-radius: var(--radius);
       box-shadow: var(--shadow2);
       overflow:hidden;
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
     }
 
     .head{
       padding: 14px 18px 10px;
-      background: rgba(255,255,255,.62);
+      background: var(--cardHead);
       border-bottom: 1px solid var(--rule);
       display:flex;
       align-items:flex-end;
@@ -197,7 +192,7 @@
     /* ---------- PROJECTS ---------- */
     .proj{
       padding: 10px 0;
-      border-bottom: 1px solid rgba(0,0,0,.08);
+      border-bottom: 1px solid rgba(0,0,0,.10);
     }
     .proj:last-child{ border-bottom:none; padding-bottom:6px; }
 
@@ -218,14 +213,14 @@
     .pill{
       display:inline-flex;
       align-items:center;
-      border: 1px solid rgba(0,0,0,.24);
-      color: rgba(0,0,0,.80);
+      border: 1px solid rgba(0,0,0,.26);
+      color: rgba(0,0,0,.82);
       padding: 6px 12px;
       border-radius: 999px;
       font-size: 10px;
       letter-spacing: .22em;
       text-transform: uppercase;
-      background: rgba(255,255,255,.70);
+      background: rgba(255,255,255,.62);
       white-space:nowrap;
     }
 
@@ -233,7 +228,7 @@
     .item{
       display:block;
       padding: 11px 0;
-      border-bottom: 1px solid rgba(0,0,0,.08);
+      border-bottom: 1px solid rgba(0,0,0,.10);
     }
     .item:last-child{ border-bottom:none; padding-bottom:6px; }
 
@@ -260,7 +255,7 @@
       padding: 3px 9px;
       border-radius: 999px;
       border: 1px solid rgba(0,0,0,.18);
-      background: rgba(255,255,255,.78);
+      background: rgba(255,255,255,.72);
       font-size: 9px;
       letter-spacing: .16em;
       text-transform: uppercase;
@@ -330,7 +325,11 @@
     <noscript>
       <style>
         #hero-media{
-          background-image: url("assets/landing.webp"), url("assets/landing.png");
+          background-image:
+            url("assets/elephant-third-eye.webp"),
+            url("assets/elephant-third-eye.png"),
+            url("assets/elephant-bg.PNG"),
+            url("assets/masthead.webp");
         }
       </style>
     </noscript>
@@ -404,23 +403,37 @@
 
   <script>
     // -----------------------------
-    // HERO IMAGE: auto-resolve correct path
+    // HERO IMAGE: pick the elephant reliably (works on domain + github pages)
     // -----------------------------
     (function bootHero(){
       const el = document.getElementById("hero-media");
       if (!el) return;
 
-      const repoGuess = location.pathname.split("/").filter(Boolean)[0] || "";
+      // Detect GitHub Pages repo base (e.g. /ruin2itive-site/)
+      const pathParts = location.pathname.split("/").filter(Boolean);
+      const repoBase = (location.hostname.endsWith("github.io") && pathParts.length > 0)
+        ? "/" + pathParts[0]
+        : "";
 
       const candidates = [
-        "/assets/landing.webp",
-        "/assets/landing.png",
-        "assets/landing.webp",
-        "assets/landing.png",
-        repoGuess ? ("/" + repoGuess + "/assets/landing.webp") : "",
-        repoGuess ? ("/" + repoGuess + "/assets/landing.png") : "",
-        "/ruin2itive-site/assets/landing.webp",
-        "/ruin2itive-site/assets/landing.png"
+        // Preferred (you have these)
+        "/assets/elephant-third-eye.webp",
+        "/assets/elephant-third-eye.png",
+        "/assets/elephant-bg.PNG",
+        // Fallback
+        "/assets/masthead.webp",
+
+        // Relative
+        "assets/elephant-third-eye.webp",
+        "assets/elephant-third-eye.png",
+        "assets/elephant-bg.PNG",
+        "assets/masthead.webp",
+
+        // GitHub Pages base
+        repoBase ? (repoBase + "/assets/elephant-third-eye.webp") : "",
+        repoBase ? (repoBase + "/assets/elephant-third-eye.png") : "",
+        repoBase ? (repoBase + "/assets/elephant-bg.PNG") : "",
+        repoBase ? (repoBase + "/assets/masthead.webp") : ""
       ].filter(Boolean);
 
       function tryLoad(url){
@@ -444,7 +457,7 @@
         console.error(
           "[ruin2itive] HERO IMAGE FAILED. None of these paths loaded:\n" +
           candidates.map(x => " - " + x).join("\n") +
-          "\nFix: ensure landing.webp or landing.png exists in /assets/ and filename case matches exactly."
+          "\nFix: ensure assets/elephant-bg.PNG (case-sensitive) or elephant-third-eye.webp exists."
         );
       })();
     })();
