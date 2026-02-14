@@ -1,0 +1,41 @@
+name: Hourly Decrypt Feed
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour, on the hour (UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build-decrypt:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Build decrypt.json
+        run: npm run build:decrypt
+
+      - name: Commit changes (if any)
+        run: |
+          git status --porcelain
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "ruin2itive-bot"
+          git config user.email "ruin2itive-bot@users.noreply.github.com"
+          git add data/decrypt.json
+          git commit -m "Update decrypt.json (hourly)"
+          git push
