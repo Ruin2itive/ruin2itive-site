@@ -12,18 +12,21 @@
     :root{
       --paper:#ffffff;
 
-      --ink:#111;
+      --ink:#111111;
       --muted:#5a5852;
       --rule:#ddd6cc;
 
-      /* Glass-paper cards (lets background show through) */
-      --card: rgba(255,255,255,.78);
-      --cardHead: rgba(255,255,255,.58);
-
-      --shadow2: 0 12px 34px rgba(0,0,0,.12);
       --red:#8b1f1f;
 
+      /* Card readability vs background visibility */
+      --card: rgba(255,255,255,.90);
+      --cardHead: rgba(255,255,255,.82);
+
       --radius:18px;
+
+      --shadow: 0 10px 26px rgba(0,0,0,.12);
+      --shadowSoft: 0 6px 18px rgba(0,0,0,.10);
+
       --max: 1240px;
       --g: 22px;
 
@@ -45,83 +48,142 @@
     a{ color:inherit; text-decoration:none; }
     a:hover{ text-decoration:underline; }
 
-    /* ---------- HERO ---------- */
+    /* =========================
+       HERO (ELEPHANT BACKGROUND)
+       ========================= */
     .hero{
       position:relative;
       overflow:hidden;
       background: var(--paper);
-      min-height: clamp(280px, 42vh, 460px);
       padding-top: calc(10px + var(--safe-top));
+      padding-bottom: 26px;
+      min-height: clamp(210px, 34vh, 420px);
+      border-bottom: 1px solid var(--rule);
     }
 
     .hero-media{
       position:absolute;
-      inset:-70px;
+      inset:-80px;
       z-index:0;
       pointer-events:none;
 
-      background-position: center 58%;
+      /* ✅ Force the elephant */
+      background-image:
+        url("assets/elephant-third-eye.webp"),
+        url("assets/elephant-third-eye.png"),
+        url("assets/elephant-bg.PNG");
+      background-position: center 48%;
       background-size: cover;
-      background-repeat: no-repeat;
-      background-color: var(--paper);
+      background-repeat:no-repeat;
 
+      /* Make it bold enough to read as identity */
+      opacity: .78;
+      filter: contrast(1.22) saturate(1.08);
       transform: translateZ(0);
-
-      /* Make elephant read clearly but keep “paper” feel */
-      opacity: 0.58;
-      filter: saturate(1.08) contrast(1.28);
     }
 
-    /* Paper fade to keep bottom clean */
-    .hero::after{
+    /* subtle paper/ink veil to keep it classy */
+    .hero::before{
       content:"";
       position:absolute;
       inset:0;
       z-index:1;
       background:
-        linear-gradient(to bottom,
-          rgba(255,255,255,0) 0%,
-          rgba(255,255,255,0) 48%,
-          rgba(255,255,255,.22) 68%,
+        radial-gradient(1200px 500px at 50% 10%,
+          rgba(255,255,255,.20),
+          rgba(255,255,255,.55) 55%,
           rgba(255,255,255,.92) 100%);
       pointer-events:none;
     }
 
-    /* Wordmark */
+    /* fade to pure paper so cards always read */
+    .hero::after{
+      content:"";
+      position:absolute;
+      inset:0;
+      z-index:2;
+      background:
+        linear-gradient(to bottom,
+          rgba(255,255,255,0) 0%,
+          rgba(255,255,255,.12) 48%,
+          rgba(255,255,255,.88) 100%);
+      pointer-events:none;
+    }
+
+    /* =========================
+       MASTHEAD (CLEAN NEWSPAPER)
+       ========================= */
     .mast{
       position:relative;
-      z-index:2;
+      z-index:3;
       max-width: var(--max);
       margin: 0 auto;
-      padding: 12px 18px 0;
-      display:flex;
-      justify-content:center;
+      padding: 8px 18px 0;
       text-align:center;
-      pointer-events:none;
-      mix-blend-mode:multiply;
     }
-    .mast .kickerline{
+
+    .kickerline{
       font-size: 10px;
       letter-spacing: .34em;
       text-transform: uppercase;
-      color: rgba(0,0,0,.58);
-      margin-bottom: 8px;
+      color: rgba(0,0,0,.60);
+      margin: 0 0 10px;
+      white-space: nowrap;
+      overflow:hidden;
+      text-overflow: ellipsis;
     }
-    .mast .title{
-      font-size: clamp(28px, 3.9vw, 44px);
-      letter-spacing: -0.01em;
-      margin: 0;
-      color: rgba(0,0,0,.82);
+
+    .title{
+      margin:0;
+      font-size: clamp(28px, 3.2vw, 44px);
+      letter-spacing: -0.012em;
+      color: rgba(0,0,0,.88);
+      line-height: 1.02;
+      display:inline-block;
+      padding: 8px 14px;
+      border-radius: 999px;
+
+      /* “ink stamp” glass — reads on any background */
+      background: rgba(255,255,255,.78);
+      border: 1px solid rgba(0,0,0,.10);
+      box-shadow: var(--shadowSoft);
+      backdrop-filter: blur(6px);
+      -webkit-backdrop-filter: blur(6px);
     }
-    .mast .tagline{
-      margin-top: 7px;
+
+    .tagline{
+      margin-top: 10px;
       font-size: 11px;
       letter-spacing: .24em;
       text-transform: uppercase;
-      color: rgba(0,0,0,.58);
+      color: rgba(0,0,0,.60);
     }
 
-    /* ---------- LAYOUT ---------- */
+    .mast-rule{
+      max-width: var(--max);
+      margin: 16px auto 0;
+      padding: 0 18px;
+    }
+    .mast-rule .line{
+      height:1px;
+      background: var(--rule);
+      position:relative;
+    }
+    .mast-rule .line::after{
+      content:"";
+      position:absolute;
+      left:50%;
+      top:-1px;
+      width: 92px;
+      height: 3px;
+      transform: translateX(-50%);
+      background: rgba(139,31,31,.28);
+      border-radius: 999px;
+    }
+
+    /* =========================
+       LAYOUT
+       ========================= */
     .wrap{
       position:relative;
       max-width: var(--max);
@@ -131,7 +193,7 @@
 
     main{
       position:relative;
-      margin-top: clamp(-150px, -11vh, -95px);
+      margin-top: clamp(-92px, -8vh, -64px);
     }
 
     .grid{
@@ -145,16 +207,14 @@
       .grid{ grid-template-columns: 1.05fr 1.0fr; }
     }
 
-    @media (min-width: 1240px){
-      .grid{ grid-template-columns: 1.05fr 1.0fr; gap: 26px; }
-    }
-
-    /* ---------- CARDS ---------- */
+    /* =========================
+       CARDS
+       ========================= */
     .card{
       background: var(--card);
-      border: 1px solid rgba(0,0,0,.10);
+      border: 1px solid rgba(0,0,0,.12);
       border-radius: var(--radius);
-      box-shadow: var(--shadow2);
+      box-shadow: var(--shadow);
       overflow:hidden;
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -179,7 +239,7 @@
       line-height: 1.1;
     }
 
-    .head .mini{
+    .mini{
       font-size: 10px;
       letter-spacing: .18em;
       text-transform: uppercase;
@@ -189,7 +249,7 @@
 
     .body{ padding: 12px 18px 14px; }
 
-    /* ---------- PROJECTS ---------- */
+    /* Projects list */
     .proj{
       padding: 10px 0;
       border-bottom: 1px solid rgba(0,0,0,.10);
@@ -197,7 +257,7 @@
     .proj:last-child{ border-bottom:none; padding-bottom:6px; }
 
     .proj .name{
-      font-size: clamp(30px, 3.0vw, 42px);
+      font-size: clamp(28px, 2.6vw, 40px);
       line-height: 1;
       margin: 0 0 10px;
       letter-spacing: -0.02em;
@@ -213,18 +273,18 @@
     .pill{
       display:inline-flex;
       align-items:center;
-      border: 1px solid rgba(0,0,0,.26);
+      border: 1px solid rgba(0,0,0,.22);
       color: rgba(0,0,0,.82);
       padding: 6px 12px;
       border-radius: 999px;
       font-size: 10px;
       letter-spacing: .22em;
       text-transform: uppercase;
-      background: rgba(255,255,255,.62);
+      background: rgba(255,255,255,.78);
       white-space:nowrap;
     }
 
-    /* ---------- FEED ITEMS ---------- */
+    /* Feed items */
     .item{
       display:block;
       padding: 11px 0;
@@ -248,14 +308,13 @@
       font-size: 11px;
     }
 
-    /* ---------- STAMPS ---------- */
     .stamp{
       display:inline-flex;
       align-items:center;
       padding: 3px 9px;
       border-radius: 999px;
       border: 1px solid rgba(0,0,0,.18);
-      background: rgba(255,255,255,.72);
+      background: rgba(255,255,255,.86);
       font-size: 9px;
       letter-spacing: .16em;
       text-transform: uppercase;
@@ -266,7 +325,7 @@
       color: rgba(139,31,31,.90);
     }
 
-    /* ---------- “QUIET / EMPTY / ERROR” ---------- */
+    /* Empty / loading blocks */
     .feature{ padding: 12px 0 8px; }
     .headline{ font-size: 16px; margin:0 0 6px; }
     .sub{
@@ -282,7 +341,7 @@
       text-transform: uppercase;
     }
 
-    /* ---------- SKELETON LOADING ---------- */
+    /* Skeleton loading */
     .skel{
       border-radius: 10px;
       height: 12px;
@@ -304,7 +363,7 @@
       100%{ background-position: 220% 0; }
     }
 
-    /* ---------- FOOTER ---------- */
+    /* Footer */
     footer{
       max-width: var(--max);
       margin: 0 auto;
@@ -315,31 +374,48 @@
       text-transform: uppercase;
       text-align:center;
     }
+
+    /* =========================
+       MOBILE TUNING (IPHONE)
+       ========================= */
+    @media (max-width: 520px){
+      :root{ --g: 16px; }
+
+      .hero{
+        min-height: 240px;
+        padding-bottom: 18px;
+      }
+      .hero-media{
+        inset:-60px;
+        background-position: center 42%;
+        opacity: .82;
+      }
+
+      .kickerline{ letter-spacing: .26em; }
+      .tagline{ letter-spacing: .18em; }
+
+      main{ margin-top: -58px; }
+      .head{ padding: 12px 14px 9px; }
+      .body{ padding: 10px 14px 12px; }
+
+      .proj .name{ font-size: 30px; }
+      .pill{ font-size: 9px; padding: 6px 10px; letter-spacing: .18em; }
+    }
   </style>
 </head>
 
 <body>
   <header class="hero" aria-label="ruin2itive hero background">
-    <div class="hero-media" id="hero-media" aria-hidden="true"></div>
+    <div class="hero-media" aria-hidden="true"></div>
 
-    <noscript>
-      <style>
-        #hero-media{
-          background-image:
-            url("assets/elephant-third-eye.webp"),
-            url("assets/elephant-third-eye.png"),
-            url("assets/elephant-bg.PNG"),
-            url("assets/masthead.webp");
-        }
-      </style>
-    </noscript>
+    <div class="mast">
+      <div class="kickerline">Reliability • Open Source • Independent</div>
+      <h1 class="title">ruin2itive</h1>
+      <div class="tagline">Signals • Systems • Memory</div>
+    </div>
 
-    <div class="mast" aria-hidden="true">
-      <div>
-        <div class="kickerline">Reliability • Open Source • Independent</div>
-        <h1 class="title">ruin2itive</h1>
-        <div class="tagline">Signals • Systems • Memory</div>
-      </div>
+    <div class="mast-rule" aria-hidden="true">
+      <div class="line"></div>
     </div>
   </header>
 
@@ -402,76 +478,13 @@
   </footer>
 
   <script>
-    // -----------------------------
-    // HERO IMAGE: pick the elephant reliably (works on domain + github pages)
-    // -----------------------------
-    (function bootHero(){
-      const el = document.getElementById("hero-media");
-      if (!el) return;
-
-      // Detect GitHub Pages repo base (e.g. /ruin2itive-site/)
-      const pathParts = location.pathname.split("/").filter(Boolean);
-      const repoBase = (location.hostname.endsWith("github.io") && pathParts.length > 0)
-        ? "/" + pathParts[0]
-        : "";
-
-      const candidates = [
-        // Preferred (you have these)
-        "/assets/elephant-third-eye.webp",
-        "/assets/elephant-third-eye.png",
-        "/assets/elephant-bg.PNG",
-        // Fallback
-        "/assets/masthead.webp",
-
-        // Relative
-        "assets/elephant-third-eye.webp",
-        "assets/elephant-third-eye.png",
-        "assets/elephant-bg.PNG",
-        "assets/masthead.webp",
-
-        // GitHub Pages base
-        repoBase ? (repoBase + "/assets/elephant-third-eye.webp") : "",
-        repoBase ? (repoBase + "/assets/elephant-third-eye.png") : "",
-        repoBase ? (repoBase + "/assets/elephant-bg.PNG") : "",
-        repoBase ? (repoBase + "/assets/masthead.webp") : ""
-      ].filter(Boolean);
-
-      function tryLoad(url){
-        return new Promise((resolve) => {
-          const img = new Image();
-          img.onload = () => resolve({ ok:true, url });
-          img.onerror = () => resolve({ ok:false, url });
-          img.decoding = "async";
-          img.src = url + (url.includes("?") ? "&" : "?") + "v=" + Date.now();
-        });
-      }
-
-      (async () => {
-        for (const url of candidates){
-          const r = await tryLoad(url);
-          if (r.ok){
-            el.style.backgroundImage = `url("${r.url}")`;
-            return;
-          }
-        }
-        console.error(
-          "[ruin2itive] HERO IMAGE FAILED. None of these paths loaded:\n" +
-          candidates.map(x => " - " + x).join("\n") +
-          "\nFix: ensure assets/elephant-bg.PNG (case-sensitive) or elephant-third-eye.webp exists."
-        );
-      })();
-    })();
-
-    // -----------------------------
-    // Utilities
-    // -----------------------------
     function esc(s){
       return String(s ?? "")
-        .replaceAll("&","&amp;")
-        .replaceAll("<","&lt;")
-        .replaceAll(">","&gt;")
-        .replaceAll('"',"&quot;")
-        .replaceAll("'","&#039;");
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
     }
 
     function nowBust(){ return String(Date.now()); }
@@ -503,9 +516,6 @@
       `;
     }
 
-    // -----------------------------
-    // Renderers
-    // -----------------------------
     function renderProjects(data){
       const root = document.getElementById("projects-root");
       const groups = data?.groups;
@@ -563,7 +573,7 @@
 
       setMini("decrypt-updated", updatedText);
 
-      const itemsHtml = items.slice(0, 3).map(it => {
+      const itemsHtml = items.slice(0, 5).map(it => {
         const title = it?.title || "Untitled";
         const url = it?.url || "#";
         const src = it?.source || "decrypt";
@@ -580,14 +590,12 @@
         `;
       }).join("");
 
-      root.innerHTML = `
-        ${itemsHtml || `
-          <div class="feature">
-            <div class="headline">No items</div>
-            <div class="sub">Your feed is empty.</div>
-            <div class="status">Status: empty</div>
-          </div>
-        `}
+      root.innerHTML = itemsHtml || `
+        <div class="feature">
+          <div class="headline">No items</div>
+          <div class="sub">Your feed is empty.</div>
+          <div class="status">Status: empty</div>
+        </div>
       `;
     }
 
@@ -604,7 +612,7 @@
 
       if (!Array.isArray(items) || items.length === 0) return;
 
-      const html = items.slice(0, 5).map(it => {
+      const html = items.slice(0, 10).map(it => {
         const title = it?.title || "Untitled";
         const url = it?.url || "#";
         return `
@@ -618,9 +626,6 @@
       root.innerHTML = html;
     }
 
-    // -----------------------------
-    // Boot (relative JSON paths)
-    // -----------------------------
     async function boot(){
       try{
         const projects = await fetchJson(`data/projects.json?${nowBust()}`);
