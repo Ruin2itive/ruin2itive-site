@@ -6,491 +6,482 @@
   <meta name="color-scheme" content="light" />
 
   <title>ruin2itive.org</title>
-  <meta name="description" content="Independent hub — signals, systems, memory." />
-
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link
-    href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Libre+Baskerville:wght@400;700&display=swap"
-    rel="stylesheet"
-  />
+  <meta name="description" content="Independent, self-hosted hub — signals, systems, memory." />
 
   <style>
     :root{
-      --paper:#f4f1eb;
-      --paper2:#f7f3ee;
-      --ink:#0f0f10;
-      --muted:#5c5750;
+      --paper:#f4f1ea;
+      --paper2:#efeae2;
+      --ink:#111;
+      --muted:#5a5852;
+      --rule:#d9d1c6;
+      --card:#f6f2ea;
+      --shadow2: 0 10px 30px rgba(0,0,0,.08);
+      --red:#8b1f1f;
 
-      --line: rgba(26,22,18,0.16);
-      --line2: rgba(26,22,18,0.10);
+      --radius:18px;
+      --max: 1240px;
+      --g: 22px;
 
-      --accent:#7b1e1e;
-
-      --wrap: 980px;
-      --gutter: 22px;
-      --radius: 14px;
-
-      --shadow: 0 10px 28px rgba(0,0,0,0.06);
+      --safe-top: env(safe-area-inset-top, 0px);
+      --safe-bot: env(safe-area-inset-bottom, 0px);
     }
 
-    *{box-sizing:border-box;margin:0;padding:0}
-    html,body{height:100%}
+    *{ box-sizing:border-box; }
+    html,body{ height:100%; }
     body{
-      background:var(--paper);
+      margin:0;
+      font-family: ui-serif, Georgia, "Times New Roman", Times, serif;
       color:var(--ink);
-      font-family:"Libre Baskerville", serif;
+      background: var(--paper);
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
-      text-rendering: optimizeLegibility;
     }
 
-    a{color:inherit;text-decoration:none}
-    a:hover{text-decoration:underline}
-    a:focus{outline:2px solid rgba(123,30,30,0.35); outline-offset:3px; border-radius:10px}
+    a{ color:inherit; text-decoration:none; }
+    a:hover{ text-decoration:underline; }
 
-    .wrap{
-      max-width: var(--wrap);
-      margin: 0 auto;
-      padding: 0 var(--gutter);
-    }
-
-    /* ===== HERO ===== */
+    /* ---------- HERO ---------- */
     .hero{
-      position: relative;
+      position:relative;
       overflow:hidden;
-      border-bottom: 1px solid var(--line);
       background: var(--paper);
-      /* mobile-first: keep the iPhone feel */
-      min-height: 58vh;
-      display:flex;
-      align-items:flex-end;
-      justify-content:center;
+      min-height: clamp(360px, 56vh, 640px); /* keeps the iPhone feel on desktop */
+      padding-top: calc(10px + var(--safe-top));
     }
 
     .hero::before{
       content:"";
       position:absolute;
-      inset:0;
-      /* use your existing hero art */
-      background: url("assets/elephant-third-eye.png") center 55% / cover no-repeat;
-      filter: contrast(1.15) saturate(0.92) brightness(0.99);
-      transform: scale(1.02);
+      inset:-60px -60px -60px -60px;
+      background-image: url("assets/landing.webp");
+      background-size: cover;
+      background-repeat:no-repeat;
+      background-position: center 55%;
+      opacity: 1;
+      filter: saturate(1) contrast(1);
+      transform: translateZ(0);
     }
 
     .hero::after{
       content:"";
-      position:absolute; inset:0;
-      /* fade to paper so the cards sit clean */
+      position:absolute;
+      inset:0;
       background:
-        radial-gradient(1200px 520px at 50% 18%,
-          rgba(244,241,235,0.05) 0%,
-          rgba(244,241,235,0.38) 46%,
-          rgba(244,241,235,0.78) 78%,
-          rgba(244,241,235,0.92) 100%),
         linear-gradient(to bottom,
-          rgba(244,241,235,0.00) 0%,
-          rgba(244,241,235,0.00) 55%,
-          rgba(244,241,235,0.65) 74%,
-          rgba(244,241,235,1.00) 100%);
+          rgba(244,241,234,0) 0%,
+          rgba(244,241,234,0) 52%,
+          rgba(244,241,234,.72) 70%,
+          rgba(244,241,234,1) 100%);
       pointer-events:none;
-      opacity: 0.95;
     }
 
-    /* Desktop: clamp hero height so Mac doesn't get giant dead space */
-    @media (min-width: 880px){
-      .hero{
-        min-height: clamp(320px, 46vh, 520px);
-      }
-      .hero::before{
-        background-position: center 60%;
-      }
-    }
-
+    /* Wordmark overlay (subtle, keeps art dominant) */
     .mast{
       position:relative;
-      width:100%;
-      padding: 30px 0 22px;
-      z-index: 2;
-    }
-
-    .mast-inner{
-      max-width: var(--wrap);
+      z-index:2;
+      max-width: var(--max);
       margin: 0 auto;
-      padding: 0 var(--gutter);
-      text-align:center;
-    }
-
-    .kicker{
+      padding: 14px 18px 0;
       display:flex;
-      gap:12px;
       justify-content:center;
-      align-items:center;
-      color: rgba(17,17,17,0.82);
-      font-size: 0.72rem;
-      letter-spacing: 3px;
+      text-align:center;
+      pointer-events:none;
+      mix-blend-mode:multiply;
+    }
+    .mast .kickerline{
+      font-size: 11px;
+      letter-spacing: .30em;
       text-transform: uppercase;
-      margin-bottom: 12px;
-      flex-wrap:wrap;
+      color: rgba(0,0,0,.52);
+      margin-bottom: 8px;
     }
-
-    .kicker .dot{
-      width:4px;height:4px;border-radius:999px;
-      background: var(--accent);
-      opacity: 0.9;
+    .mast .title{
+      font-size: clamp(30px, 4.2vw, 46px);
+      letter-spacing: -0.01em;
+      margin: 0;
+      color: rgba(0,0,0,.78);
     }
-
-    .name{
-      font-family:"Playfair Display", serif;
-      font-weight:700;
-      letter-spacing:-0.7px;
-      font-size: clamp(2.05rem, 6vw, 3.1rem);
-      line-height:1.04;
-      color: rgba(16,16,16,0.92);
-      text-shadow: 0 1px 0 rgba(255,255,255,0.25);
-    }
-
-    .rule{
-      height:1px;
-      background: var(--line);
-      margin: 14px auto 10px;
-      max-width: 560px;
-    }
-
-    .tagline{
-      font-size: 0.78rem;
-      letter-spacing: 2.2px;
+    .mast .tagline{
+      margin-top: 8px;
+      font-size: 12px;
+      letter-spacing: .22em;
       text-transform: uppercase;
-      color: rgba(28,26,22,0.80);
+      color: rgba(0,0,0,.52);
     }
 
-    /* ===== MAIN ===== */
+    /* ---------- LAYOUT ---------- */
+    .wrap{
+      position:relative;
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 0 18px calc(60px + var(--safe-bot));
+    }
+
     main{
-      /* pull cards upward into the hero fade */
-      margin-top: -110px;
-      padding: 28px 0 18px;
-      position: relative;
-      z-index: 3;
-    }
-
-    @media (min-width: 880px){
-      main{
-        margin-top: calc(-1 * clamp(80px, 10vh, 170px));
-      }
+      position:relative;
+      margin-top: clamp(-170px, -12vh, -110px); /* pulls cards up into hero like iPhone */
     }
 
     .grid{
       display:grid;
       grid-template-columns: 1fr;
-      gap: 22px;
+      gap: var(--g);
       align-items:start;
     }
 
-    @media (min-width: 880px){
+    @media (min-width: 920px){
       .grid{
-        grid-template-columns: 1.05fr 0.95fr;
-        gap: 28px;
+        grid-template-columns: 1.05fr 1.0fr; /* projects slightly wider on desktop */
       }
     }
 
-    /* ===== PANEL ===== */
-    .panel{
-      background: rgba(255,255,255,0.14);
-      border: 1px solid var(--line2);
+    @media (min-width: 1240px){
+      .grid{
+        grid-template-columns: 1.05fr 1.0fr;
+        gap: 26px;
+      }
+    }
+
+    /* ---------- CARDS ---------- */
+    .card{
+      background: var(--card);
+      border: 1px solid rgba(0,0,0,.06);
       border-radius: var(--radius);
-      box-shadow: var(--shadow);
+      box-shadow: var(--shadow2);
       overflow:hidden;
-      backdrop-filter: blur(2px);
     }
 
-    .panel-head{
+    .head{
       padding: 16px 18px 12px;
-      border-bottom: 1px solid var(--line2);
-      background: linear-gradient(to bottom, rgba(255,255,255,0.10), rgba(255,255,255,0.00));
-    }
-
-    .panel-title{
-      color: var(--accent);
-      font-size: 0.86rem;
-      letter-spacing: 4px;
-      text-transform: uppercase;
-    }
-
-    .panel-body{ padding: 6px 18px 14px; }
-
-    /* ===== ITEMS ===== */
-    .item{
-      display:block;
-      padding: 14px 10px 12px;
-      border-bottom: 1px solid rgba(26,22,18,0.10);
-      border-radius: 10px;
-      transition: background 140ms ease, transform 140ms ease;
-    }
-    .item:last-child{ border-bottom: none; }
-    .item:hover{
-      background: rgba(123,30,30,0.055);
-      transform: translateY(-1px);
-    }
-
-    .item h3{
-      font-family:"Playfair Display", serif;
-      font-weight:700;
-      font-size: 1.28rem;
-      line-height: 1.14;
-      letter-spacing: -0.25px;
-    }
-
-    .meta{
-      margin-top: 7px;
-      color: var(--muted);
+      background: rgba(255,255,255,.24);
+      border-bottom: 1px solid var(--rule);
       display:flex;
-      gap:10px;
-      align-items:center;
-      flex-wrap: wrap;
+      align-items:flex-end;
+      justify-content:space-between;
+      gap: 10px;
+    }
+
+    .kicker{
+      font-size: 12px;
+      letter-spacing: .30em;
+      text-transform: uppercase;
+      color: var(--red);
+      font-weight: 700;
+      line-height: 1.1;
+    }
+
+    .head .mini{
+      font-size: 11px;
+      letter-spacing: .16em;
+      text-transform: uppercase;
+      color: rgba(0,0,0,.48);
+      white-space:nowrap;
+    }
+
+    .body{
+      padding: 14px 18px 16px;
+    }
+
+    /* ---------- PROJECTS ---------- */
+    .proj{
+      padding: 12px 0;
+      border-bottom: 1px solid rgba(0,0,0,.06);
+    }
+    .proj:last-child{ border-bottom:none; padding-bottom:6px; }
+
+    .proj .name{
+      font-size: clamp(32px, 3.2vw, 44px);
+      line-height: 1;
+      margin: 0 0 10px;
+      letter-spacing: -0.02em;
+    }
+
+    .pills{
+      display:flex;
+      gap: 10px;
+      flex-wrap:wrap;
+      padding-bottom: 2px;
     }
 
     .pill{
-      display:inline-block;
-      padding: 4px 9px;
-      border: 1px solid rgba(26,22,18,0.18);
+      display:inline-flex;
+      align-items:center;
+      border: 1px solid rgba(0,0,0,.22);
+      color: rgba(0,0,0,.78);
+      padding: 7px 14px;
       border-radius: 999px;
-      background: rgba(255,255,255,0.10);
-      font-size: 0.74rem;
-      letter-spacing: 1.6px;
+      font-size: 11px;
+      letter-spacing: .20em;
       text-transform: uppercase;
-      color: rgba(20,18,16,0.90);
-      white-space: nowrap;
+      background: rgba(255,255,255,.34);
+      white-space:nowrap;
     }
 
-    .pill.source{ border-color: rgba(123,30,30,0.30); }
-    .pill.err{
-      border-color: rgba(123,30,30,0.55);
-      color: rgba(123,30,30,0.92);
-      background: rgba(123,30,30,0.04);
+    /* ---------- FEED ITEMS ---------- */
+    .item{
+      display:block;
+      padding: 12px 0;
+      border-bottom: 1px solid rgba(0,0,0,.06);
+    }
+    .item:last-child{ border-bottom:none; padding-bottom:6px; }
+
+    .item h3{
+      margin:0 0 7px;
+      font-size: 17px;
+      line-height: 1.18;
+      letter-spacing: .01em;
     }
 
-    /* Projects: big headline style like your iPhone screenshot */
-    .proj-name{
-      font-family:"Playfair Display", serif;
-      font-weight:700;
-      font-size: 2.55rem;
-      line-height: 1;
-      letter-spacing: -0.03em;
-      margin-bottom: 10px;
-    }
-    @media (max-width: 420px){
-      .proj-name{ font-size: 2.25rem; }
-    }
-    .proj-block{
-      padding: 14px 10px 14px;
-      border-bottom: 1px solid rgba(26,22,18,0.10);
-    }
-    .proj-block:last-child{ border-bottom:none; }
-
-    /* ===== FEATURE / SMALL COPY ===== */
-    .feature{ padding: 16px 10px 14px; }
-    .feature .headline{
-      font-family:"Playfair Display", serif;
-      font-weight:700;
-      font-size: 1.28rem;
-      letter-spacing:-0.18px;
-      margin-bottom: 8px;
-    }
-    .feature .sub{
+    .meta{
+      display:flex;
+      gap: 8px;
+      align-items:center;
+      flex-wrap:wrap;
       color: var(--muted);
-      font-size: 0.92rem;
-      line-height: 1.55;
+      font-size: 12px;
+    }
+
+    /* ---------- STAMPS ---------- */
+    .stamp{
+      display:inline-flex;
+      align-items:center;
+      padding: 3px 10px;
+      border-radius: 999px;
+      border: 1px solid rgba(0,0,0,.16);
+      background: rgba(255,255,255,.34);
+      font-size: 10px;
+      letter-spacing: .16em;
+      text-transform: uppercase;
+      color: rgba(0,0,0,.62);
+    }
+    .stamp.red{
+      border-color: rgba(139,31,31,.35);
+      color: rgba(139,31,31,.85);
+    }
+
+    /* ---------- “QUIET / EMPTY / ERROR” ---------- */
+    .feature{
+      padding: 14px 0 8px;
+    }
+    .headline{
+      font-size: 17px;
+      margin:0 0 6px;
+    }
+    .sub{
+      color: var(--muted);
+      margin:0 0 10px;
+      font-size: 13px;
+      line-height: 1.35;
     }
     .status{
-      display:inline-block;
-      margin-top: 10px;
-      color: var(--accent);
-      font-size: 0.76rem;
-      letter-spacing: 2px;
+      color: rgba(0,0,0,.55);
+      font-size: 11px;
+      letter-spacing: .14em;
       text-transform: uppercase;
-      opacity: 0.95;
-    }
-    .thinrule{
-      height:1px;
-      background: rgba(26,22,18,0.10);
-      margin: 6px 0 2px;
     }
 
-    /* ===== FOOTER ===== */
+    /* ---------- SKELETON LOADING ---------- */
+    .skel{
+      border-radius: 10px;
+      height: 12px;
+      background: linear-gradient(
+        90deg,
+        rgba(0,0,0,.06),
+        rgba(0,0,0,.11),
+        rgba(0,0,0,.06)
+      );
+      background-size: 220% 100%;
+      animation: shimmer 1.2s infinite linear;
+    }
+    .skel.t{ height: 18px; border-radius: 12px; }
+    .skel.s{ height: 12px; width: 78%; }
+    .skel.m{ height: 12px; width: 54%; }
+
+    @keyframes shimmer{
+      0%{ background-position: 0% 0; }
+      100%{ background-position: 220% 0; }
+    }
+
+    /* ---------- FOOTER ---------- */
     footer{
-      padding: 22px 0 34px;
-      border-top: 1px solid var(--line);
-      margin-top: 10px;
-      color: rgba(92,87,80,0.92);
-      font-size: 0.84rem;
-      text-align:center;
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 24px 18px calc(38px + var(--safe-bot));
+      color: rgba(0,0,0,.55);
+      font-size: 12px;
       letter-spacing: .08em;
       text-transform: uppercase;
-    }
-
-    /* ===== MOBILE ===== */
-    @media (max-width: 420px){
-      .panel-head{padding: 15px 16px 12px;}
-      .panel-body{padding: 6px 16px 14px;}
-      .item h3{font-size: 1.18rem;}
+      text-align:center;
     }
   </style>
 </head>
 
 <body>
-  <header class="hero">
-    <div class="mast">
-      <div class="mast-inner">
-        <div class="kicker">
-          <span>Reliability</span><span class="dot"></span>
-          <span>Open Source</span><span class="dot"></span>
-          <span>Independent</span>
-        </div>
-
-        <div class="name">ruin2itive</div>
-        <div class="rule"></div>
+  <header class="hero" aria-label="ruin2itive hero background">
+    <div class="mast" aria-hidden="true">
+      <div>
+        <div class="kickerline">Reliability • Open Source • Independent</div>
+        <h1 class="title">ruin2itive</h1>
         <div class="tagline">Signals • Systems • Memory</div>
       </div>
     </div>
   </header>
 
-  <main class="wrap">
-    <div class="grid">
-      <!-- LEFT: PROJECTS -->
-      <section class="panel">
-        <div class="panel-head">
-          <div class="panel-title">Projects / The Code</div>
-        </div>
-        <div class="panel-body" id="projects-root">
-          <div class="feature">
-            <div class="headline">Loading…</div>
-            <div class="sub">Pulling links from <span class="pill">/data/projects.json</span>.</div>
-            <div class="status">Status: fetching</div>
+  <div class="wrap">
+    <main>
+      <section class="grid">
+        <!-- LEFT -->
+        <article class="card" aria-label="Projects / The Code">
+          <div class="head">
+            <div class="kicker">Projects / The Code</div>
+            <div class="mini" id="projects-updated">Standby</div>
           </div>
-        </div>
-      </section>
-
-      <!-- RIGHT: FEEDS -->
-      <section class="panel">
-        <div class="panel-head">
-          <div class="panel-title">Markets / Crypto</div>
-        </div>
-
-        <div class="panel-body" id="decrypt-root">
-          <div class="feature">
-            <div class="headline">Loading…</div>
-            <div class="sub">Pulling headlines from <span class="pill">/data/decrypt.json</span>.</div>
-            <div class="status">Status: fetching</div>
-          </div>
-        </div>
-
-        <div class="thinrule"></div>
-
-        <div class="panel-head" style="border-bottom:none;padding:16px 18px 10px;">
-          <div class="panel-title">Hacker News</div>
-        </div>
-
-        <div class="panel-body" style="padding-top:0;" id="hn-root">
-          <div class="feature">
-            <div class="headline">Optional</div>
-            <div class="sub">
-              If you add <span class="pill">/data/home.json</span> with a
-              <span class="pill">sections.hacker</span> array, this will auto-populate.
+          <div class="body" id="projects-root">
+            <div class="feature">
+              <div class="headline"><div class="skel t"></div></div>
+              <div class="sub">
+                <div class="skel s" style="margin:10px 0 8px;"></div>
+                <div class="skel m"></div>
+              </div>
+              <div class="status">Status: loading</div>
             </div>
-            <div class="status">Status: idle</div>
           </div>
-        </div>
-      </section>
-    </div>
-  </main>
+        </article>
 
-  <footer class="wrap">ruin2itive.org — signals • systems • memory</footer>
+        <!-- RIGHT -->
+        <article class="card" aria-label="Markets / Crypto">
+          <div class="head">
+            <div class="kicker">Markets / Crypto</div>
+            <div class="mini" id="decrypt-updated">Standby</div>
+          </div>
+          <div class="body" id="decrypt-root">
+            <div class="feature">
+              <div class="headline"><div class="skel t"></div></div>
+              <div class="sub">
+                <div class="skel s" style="margin:10px 0 8px;"></div>
+                <div class="skel m"></div>
+              </div>
+              <div class="status">Status: loading</div>
+            </div>
+          </div>
+
+          <div class="head" style="border-top:1px solid var(--rule);">
+            <div class="kicker">Hacker News</div>
+            <div class="mini" id="hn-updated">Standby</div>
+          </div>
+          <div class="body" id="hn-root">
+            <div class="feature">
+              <div class="headline">Quiet</div>
+              <div class="sub">This section fills from <span class="stamp">home.json</span> when available.</div>
+              <div class="status">Status: standby</div>
+            </div>
+          </div>
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <footer>
+    ruin2itive.org — signals • systems • memory
+  </footer>
 
   <script>
-    // Base path detection:
-    // - Custom domain (ruin2itive.org): ""
-    // - GitHub Pages project site (username.github.io/repo): "/repo"
-    function detectBasePath(){
-      const host = location.hostname.toLowerCase();
-      if (host.endsWith("github.io")){
-        const parts = location.pathname.split("/").filter(Boolean);
-        if (parts.length > 0) return "/" + parts[0];
-      }
-      return "";
-    }
-    const BASE = detectBasePath();
-
-    function path(p){
-      // p must start with "/"
-      return BASE + p;
-    }
-
-    const nowBust = () => `v=${Date.now()}`;
-
+    // -----------------------------
+    // Utilities
+    // -----------------------------
     function esc(s){
       return String(s ?? "")
         .replaceAll("&","&amp;")
         .replaceAll("<","&lt;")
         .replaceAll(">","&gt;")
         .replaceAll('"',"&quot;")
-        .replaceAll("'","&#39;");
+        .replaceAll("'","&#039;");
     }
 
-    function stamp(text, extraClass=""){
-      return `<span class="pill ${extraClass}">${esc(text)}</span>`;
+    function nowBust(){
+      return String(Date.now());
+    }
+
+    function stamp(text, variant){
+      const cls = variant === "source" ? "stamp red" : "stamp";
+      return `<span class="${cls}">${esc(text)}</span>`;
+    }
+
+    // repo-safe base path:
+    // - custom domain: "/"
+    // - github pages repo: "/ruin2itive-site/"
+    function basePath(){
+      const p = location.pathname;
+      const m = p.match(/^\/([^\/]+)\/?/);
+      const repo = m && (m[1] || "");
+      if (location.hostname.endsWith("github.io") && repo){
+        return "/" + repo;
+      }
+      return "";
+    }
+
+    function path(u){
+      const b = basePath();
+      return b + u; // u must start with "/"
     }
 
     async function fetchJson(url){
-      const res = await fetch(url, { cache: "no-store" });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      return res.json();
+      const r = await fetch(url, { cache: "no-store" });
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      return await r.json();
     }
 
-    function renderError(rootEl, title, msg){
-      rootEl.innerHTML = `
+    function setMini(id, text){
+      const el = document.getElementById(id);
+      if (!el) return;
+      el.textContent = text || "Standby";
+    }
+
+    function renderError(root, title, detail){
+      root.innerHTML = `
         <div class="feature">
           <div class="headline">${esc(title)}</div>
-          <div class="sub">${esc(msg)}</div>
+          <div class="sub">${esc(detail)}</div>
           <div class="status">Status: error</div>
         </div>
       `;
     }
 
-    // -------- Projects --------
-    // Supports BOTH shapes:
-    // A) { groups: [ { title, links:[{label,href}] } ] }
-    // B) { groups: [ { name,  links:[{label,url }] } ] }
+    // -----------------------------
+    // Renderers
+    // -----------------------------
     function renderProjects(data){
       const root = document.getElementById("projects-root");
       const groups = data?.groups;
 
+      setMini("projects-updated", "Live");
+
       if (!Array.isArray(groups) || groups.length === 0){
         root.innerHTML = `
           <div class="feature">
-            <div class="headline">No projects yet</div>
-            <div class="sub">Add groups to <span class="pill">/data/projects.json</span>.</div>
+            <div class="headline">No projects</div>
+            <div class="sub">Your projects.json has no groups.</div>
             <div class="status">Status: empty</div>
           </div>
         `;
         return;
       }
 
-      const html = groups.map(group => {
-        const title = group?.title || group?.name || "project";
-        const links = Array.isArray(group?.links) ? group.links : [];
+      const html = groups.map(g => {
+        const name = g?.name || "project";
+        const links = Array.isArray(g?.links) ? g.links : [];
 
         const pills = links.map(l => {
           const label = l?.label || "link";
-          const href = l?.href || l?.url || "#";
-          return `<a class="pill" href="${esc(href)}" target="_blank" rel="noopener">${esc(label)}</a>`;
+          const url = l?.url || "#";
+          return `<a class="pill" href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a>`;
         }).join("");
 
         return `
-          <div class="proj-block">
-            <div class="proj-name">${esc(title)}</div>
-            <div class="meta">
-              ${pills || stamp("No links", "err")}
-            </div>
+          <div class="proj">
+            <div class="name">${esc(name)}</div>
+            <div class="pills">${pills}</div>
           </div>
         `;
       }).join("");
@@ -498,72 +489,67 @@
       root.innerHTML = html;
     }
 
-    // -------- Decrypt --------
-    // Hide the epoch date and treat SEED as "not real data yet"
     function renderDecrypt(data){
       const root = document.getElementById("decrypt-root");
       const items = Array.isArray(data?.items) ? data.items : [];
       const updated = data?.updated ? new Date(data.updated) : null;
 
-      const isEpoch =
-        !updated || isNaN(updated.getTime()) || updated.getFullYear() < 2000;
+      const isSeed =
+        (items[0]?.stamp === "SEED") ||
+        (typeof data?.updated === "string" && data.updated.startsWith("1970-")) ||
+        (!updated || isNaN(updated.getTime())) ||
+        (updated && updated.getFullYear && updated.getFullYear() < 2000);
 
-      const hasSeed =
-        items.some(it => String(it?.stamp || "").toUpperCase() === "SEED");
-
-      const showUpdated = (!isEpoch && !hasSeed);
-
-      const updatedText = showUpdated
+      const updatedText = (!isSeed)
         ? `Updated: ${updated.toLocaleString()}`
-        : null;
+        : "Seed (waiting on feed)";
 
-      if (items.length === 0){
-        root.innerHTML = `
-          <div class="feature">
-            <div class="headline">No items</div>
-            <div class="sub">Your feed is empty.</div>
-            <div class="status">Status: empty</div>
-          </div>
-        `;
-        return;
-      }
+      setMini("decrypt-updated", updatedText);
 
-      const itemsHtml = items.slice(0, 5).map(item => {
-        const title = item?.title || "Untitled";
-        const url = item?.url || "https://decrypt.co/";
-        const st = item?.stamp || "DECRYPT";
-        const src = item?.source || "decrypt";
+      const itemsHtml = items.slice(0, 5).map(it => {
+        const title = it?.title || "Untitled";
+        const url = it?.url || "#";
+        const src = it?.source || "decrypt";
+        const st = it?.stamp || "";
 
         return `
           <a class="item" href="${esc(url)}" target="_blank" rel="noopener">
             <h3>${esc(title)}</h3>
             <div class="meta">
-              ${stamp(st, "source")}
-              ${stamp(src)}
+              ${st ? stamp(st) : ""}
+              ${stamp(src, "source")}
             </div>
           </a>
         `;
       }).join("");
 
       root.innerHTML = `
-        ${updatedText ? `<div class="meta" style="padding:10px 10px 2px;">${stamp(updatedText)}</div>` : ""}
-        ${itemsHtml}
+        ${itemsHtml || `
+          <div class="feature">
+            <div class="headline">No items</div>
+            <div class="sub">Your feed is empty.</div>
+            <div class="status">Status: empty</div>
+          </div>
+        `}
       `;
     }
 
-    // -------- HN from home.json (optional) --------
     function renderHNfromHomeJson(home){
       const root = document.getElementById("hn-root");
       const items = home?.sections?.hacker;
 
-      if (!Array.isArray(items) || items.length === 0) return;
-
       const updated = home?.updated_iso ? new Date(home.updated_iso) : null;
       const updatedText = (updated && !isNaN(updated.getTime()))
         ? `Updated: ${updated.toLocaleString()}`
-        : null;
+        : "Standby";
 
-      const html = items.slice(0, 6).map(it => {
+      setMini("hn-updated", updatedText);
+
+      if (!Array.isArray(items) || items.length === 0){
+        return; // keep quiet default if none
+      }
+
+      const html = items.slice(0, 5).map(it => {
         const title = it?.title || "Untitled";
         const url = it?.url || "#";
         return `
@@ -574,18 +560,19 @@
         `;
       }).join("");
 
-      root.innerHTML = `
-        ${updatedText ? `<div class="meta" style="padding:10px 10px 2px;">${stamp(updatedText)}</div>` : ""}
-        ${html}
-      `;
+      root.innerHTML = html;
     }
 
+    // -----------------------------
+    // Boot
+    // -----------------------------
     async function boot(){
       // Projects
       try{
         const projects = await fetchJson(`${path("/data/projects.json")}?${nowBust()}`);
         renderProjects(projects);
       }catch(e){
+        setMini("projects-updated", "Error");
         renderError(
           document.getElementById("projects-root"),
           "Projects",
@@ -598,6 +585,7 @@
         const decrypt = await fetchJson(`${path("/data/decrypt.json")}?${nowBust()}`);
         renderDecrypt(decrypt);
       }catch(e){
+        setMini("decrypt-updated", "Error");
         renderError(
           document.getElementById("decrypt-root"),
           "Decrypt",
@@ -605,7 +593,7 @@
         );
       }
 
-      // Optional home.json
+      // Optional home.json for HN
       try{
         const home = await fetchJson(`${path("/data/home.json")}?${nowBust()}`);
         renderHNfromHomeJson(home);
