@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-14T18:21:02.731Z",
-  "updated_local": "2/14/2026, 6:21:02 PM",
+  "updated_iso": "2026-02-14T19:22:33.574Z",
+  "updated_local": "2/14/2026, 7:22:33 PM",
   "sections": {
     "crypto": [
       {
@@ -11,6 +11,12 @@
       }
     ],
     "hacker": [
+      {
+        "title": "Internet Increasingly Becoming Unarchivable",
+        "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+        "source": "hn",
+        "time": "2/14/2026, 6:46:32 PM"
+      },
       {
         "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
         "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
@@ -24,22 +30,16 @@
         "time": "2/14/2026, 1:40:20 PM"
       },
       {
-        "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
-        "url": "https://ziglang.org/devlog/2026/#2026-02-13",
+        "title": "Amsterdam Compiler Kit",
+        "url": "https://github.com/davidgiven/ack",
         "source": "hn",
-        "time": "2/14/2026, 8:22:11 AM"
+        "time": "2/14/2026, 4:50:47 PM"
       },
       {
         "title": "Show HN: Sameshi – a ~1200 Elo chess engine that fits within 2KB",
         "url": "https://github.com/datavorous/sameshi",
         "source": "hn",
         "time": "2/14/2026, 1:47:44 PM"
-      },
-      {
-        "title": "Amsterdam Compiler Kit",
-        "url": "https://github.com/davidgiven/ack",
-        "source": "hn",
-        "time": "2/14/2026, 4:50:47 PM"
       }
     ],
     "world": [
@@ -56,6 +56,12 @@
         "time": "Sat, 14 Feb 2026 16:00:54 GMT"
       },
       {
+        "title": "Rubio says US and Europe 'belong together' despite tensions",
+        "url": "https://www.bbc.com/news/articles/c2lrdq47149o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 14 Feb 2026 18:44:47 GMT"
+      },
+      {
         "title": "Gisèle Pelicot tells BBC: I felt crushed by horror - but I don't feel anger",
         "url": "https://www.bbc.com/news/articles/c9q5l22ryy4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -66,12 +72,6 @@
         "url": "https://www.bbc.com/news/articles/cy0dgpx71dyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 14 Feb 2026 13:39:40 GMT"
-      },
-      {
-        "title": "GB women shock curling world champions Canada",
-        "url": "https://www.bbc.com/sport/articles/clyzgpw725qo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 14 Feb 2026 10:46:57 GMT"
       }
     ]
   }
