@@ -8,7 +8,7 @@
   <title>ruin2itive.org</title>
   <meta name="description" content="Independent, self-hosted hub — signals, systems, memory." />
 
-  <!-- Preload hero image (relative path = works on custom domain + repo pages) -->
+  <!-- Preload hero image (relative paths) -->
   <link rel="preload" as="image" href="assets/landing.webp" />
   <link rel="preload" as="image" href="assets/landing.png" />
 
@@ -29,9 +29,6 @@
 
       --safe-top: env(safe-area-inset-top, 0px);
       --safe-bot: env(safe-area-inset-bottom, 0px);
-
-      /* set by JS */
-      --hero-bg: none;
     }
 
     *{ box-sizing:border-box; }
@@ -57,24 +54,33 @@
       padding-top: calc(10px + var(--safe-top));
     }
 
-    .hero::before{
-      content:"";
+    /* Real image layer (NO JS REQUIRED) */
+    .hero-media{
       position:absolute;
-      inset:-60px -60px -60px -60px;
-      background-image: var(--hero-bg);
-      background-size: cover;
-      background-repeat:no-repeat;
-      background-position: center 55%;
+      inset:-60px;
+      z-index:0;
+      pointer-events:none;
+    }
+    .hero-media picture,
+    .hero-media img{
+      width:100%;
+      height:100%;
+      display:block;
+    }
+    .hero-media img{
+      object-fit: cover;
+      object-position: center 55%;
       opacity: 1;
       filter: saturate(1) contrast(1);
       transform: translateZ(0);
     }
 
-    /* fade so background image stays visible */
+    /* Fade so background image stays visible */
     .hero::after{
       content:"";
       position:absolute;
       inset:0;
+      z-index:1;
       background:
         linear-gradient(to bottom,
           rgba(244,241,234,0) 0%,
@@ -315,6 +321,20 @@
 
 <body>
   <header class="hero" aria-label="ruin2itive hero background">
+    <div class="hero-media" aria-hidden="true">
+      <picture>
+        <source srcset="assets/landing.webp" type="image/webp">
+        <img
+          src="assets/landing.png"
+          alt=""
+          loading="eager"
+          decoding="async"
+          fetchpriority="high"
+          onerror="console.error('[ruin2itive] HERO IMAGE FAILED. Expected assets/landing.webp or assets/landing.png at site root.');"
+        >
+      </picture>
+    </div>
+
     <div class="mast" aria-hidden="true">
       <div>
         <div class="kickerline">Reliability • Open Source • Independent</div>
@@ -423,40 +443,6 @@
         </div>
       `;
     }
-
-    // -----------------------------
-    // Hero background (RELIABLE)
-    // Uses RELATIVE paths so it works on:
-    // - ruin2itive.org/
-    // - ruin2itive.github.io/ruin2itive-site/
-    // -----------------------------
-    (function setHero(){
-      const candidates = [
-        "assets/landing.webp",
-        "assets/landing.png"
-      ];
-
-      function apply(url){
-        // cache-bust while keeping relative path
-        document.documentElement.style.setProperty("--hero-bg", `url("${url}?v=${nowBust()}")`);
-      }
-
-      function tryLoad(i){
-        if (i >= candidates.length){
-          console.error("[ruin2itive] HERO IMAGE FAILED. Expected one of:", candidates);
-          console.error("[ruin2itive] Fix: ensure the file exists in repo exactly at assets/landing.webp (lowercase) or assets/landing.png");
-          return;
-        }
-
-        const url = candidates[i];
-        const img = new Image();
-        img.onload = () => apply(url);
-        img.onerror = () => tryLoad(i + 1);
-        img.src = url + "?v=" + nowBust();
-      }
-
-      tryLoad(0);
-    })();
 
     // -----------------------------
     // Renderers
