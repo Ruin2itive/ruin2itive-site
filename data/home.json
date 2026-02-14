@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-14T01:11:49.109Z",
-  "updated_local": "2/14/2026, 1:11:49 AM",
+  "updated_iso": "2026-02-14T03:08:13.855Z",
+  "updated_local": "2/14/2026, 3:08:13 AM",
   "sections": {
     "crypto": [
       {
@@ -12,16 +12,10 @@
     ],
     "hacker": [
       {
-        "title": "The evolution of OpenAI's mission statement",
-        "url": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/",
+        "title": "Gradient.horse",
+        "url": "https://gradient.horse",
         "source": "hn",
-        "time": "2/13/2026, 11:43:27 PM"
-      },
-      {
-        "title": "Homeland Security Wants Social Media Sites to Expose Anti-ICE Accounts",
-        "url": "https://www.nytimes.com/2026/02/13/technology/dhs-anti-ice-social-media.html",
-        "source": "hn",
-        "time": "2/14/2026, 12:00:58 AM"
+        "time": "2/10/2026, 4:13:49 AM"
       },
       {
         "title": "GPT-5.2 derives a new result in theoretical physics",
@@ -36,10 +30,16 @@
         "time": "2/13/2026, 9:35:52 PM"
       },
       {
-        "title": "Gradient.horse",
-        "url": "https://gradient.horse",
+        "title": "Building a TUI is easy now",
+        "url": "https://hatchet.run/blog/tuis-are-easy-now",
         "source": "hn",
-        "time": "2/10/2026, 4:13:49 AM"
+        "time": "2/13/2026, 5:50:54 PM"
+      },
+      {
+        "title": "Font Rendering from First Principles",
+        "url": "https://mccloskeybr.com/articles/font_rendering.html",
+        "source": "hn",
+        "time": "2/8/2026, 12:58:29 AM"
       }
     ],
     "world": [
@@ -50,16 +50,10 @@
         "time": "Fri, 13 Feb 2026 21:00:45 GMT"
       },
       {
-        "title": "Two jailed over plot to attack Jewish community",
-        "url": "https://www.bbc.com/news/articles/cq8gv2327y7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump says Iran regime change is 'best thing that could happen'",
+        "url": "https://www.bbc.com/news/articles/c8egwywkkd1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 13 Feb 2026 16:16:43 GMT"
-      },
-      {
-        "title": "Watch: How Andrew's BBC interview compares to what Epstein emails tell us now",
-        "url": "https://www.bbc.com/news/videos/c20jepq911zo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 13 Feb 2026 11:31:06 GMT"
+        "time": "Sat, 14 Feb 2026 01:17:57 GMT"
       },
       {
         "title": "'We are not protected' says Hebron mayor as Israel expands West Bank control",
@@ -68,10 +62,16 @@
         "time": "Fri, 13 Feb 2026 22:12:03 GMT"
       },
       {
-        "title": "Two Britons among three dead in French Alps avalanche",
-        "url": "https://www.bbc.com/news/articles/cd03elmng7do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Officials investigating DNA found in Nancy Guthrie's home",
+        "url": "https://www.bbc.com/news/articles/cly8j19rql7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 13 Feb 2026 20:41:01 GMT"
+        "time": "Sat, 14 Feb 2026 01:40:17 GMT"
+      },
+      {
+        "title": "Two jailed over plot to attack Jewish community",
+        "url": "https://www.bbc.com/news/articles/cq8gv2327y7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 13 Feb 2026 16:16:43 GMT"
       }
     ]
   }
