@@ -1,93 +1,43 @@
-// scripts/build_decrypt.js
-// Pull Decrypt RSS, write /data/decrypt.json (top 3)
+name: Update Decrypt Feed
 
-import fs from "node:fs";
-import path from "node:path";
-import Parser from "rss-parser";
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"   # once per hour, on the hour
 
-const FEED_URL = "https://decrypt.co/feed";
-const HOME = "https://decrypt.co/";
-const OUT_PATH = path.join(process.cwd(), "data", "decrypt.json");
-const MAX_ITEMS = 3;
+permissions:
+  contents: write
 
-function isoNow() {
-  return new Date().toISOString();
-}
+concurrency:
+  group: update-decrypt
+  cancel-in-progress: true
 
-function safeText(s) {
-  return String(s || "").replace(/\s+/g, " ").trim();
-}
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-function normalizeUrl(u) {
-  try {
-    const url = new URL(u, HOME);
-    // Keep only decrypt.co links
-    if (!url.hostname.endsWith("decrypt.co")) return null;
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
 
-    // Strip tracking-ish params (optional)
-    url.hash = "";
-    return url.toString();
-  } catch {
-    return null;
-  }
-}
+      - name: Install deps
+        run: npm ci
 
-function uniqBy(arr, keyFn) {
-  const seen = new Set();
-  const out = [];
-  for (const it of arr) {
-    const k = keyFn(it);
-    if (!k || seen.has(k)) continue;
-    seen.add(k);
-    out.push(it);
-  }
-  return out;
-}
+      - name: Build decrypt.json
+        run: node scripts/build_decrypt.js
 
-async function main() {
-  const parser = new Parser({
-    timeout: 20000,
-    headers: {
-      "User-Agent": "ruin2itive-site (RSS fetch; GitHub Actions)",
-      "Accept": "application/rss+xml,application/xml;q=0.9,*/*;q=0.8",
-    },
-  });
-
-  const feed = await parser.parseURL(FEED_URL);
-
-  const rawItems = Array.isArray(feed?.items) ? feed.items : [];
-
-  const mapped = rawItems
-    .map((it) => {
-      const title = safeText(it?.title);
-      const url = normalizeUrl(it?.link || it?.guid);
-      if (!title || !url) return null;
-
-      return {
-        title,
-        url,
-        stamp: "TOP",
-        source: "decrypt",
-      };
-    })
-    .filter(Boolean);
-
-  const items = uniqBy(mapped, (x) => x.url).slice(0, MAX_ITEMS);
-
-  const payload = {
-    updated: isoNow(),
-    items,
-  };
-
-  fs.mkdirSync(path.dirname(OUT_PATH), { recursive: true });
-
-  const json = JSON.stringify(payload, null, 2) + "\n";
-  fs.writeFileSync(OUT_PATH, json, "utf8");
-
-  console.log(`Wrote ${OUT_PATH} (${items.length} items)`);
-}
-
-main().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+      - name: Commit if changed
+        run: |
+          git config user.name "ruin2itive-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/decrypt.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "Update decrypt.json"
+          git push
