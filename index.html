@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>ruin2itive</title>
 
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
 
 <style>
 :root {
@@ -26,58 +26,57 @@ body {
   color: var(--ink);
 }
 
-/* ===== HERO SECTION ===== */
+/* ===== HERO ===== */
 
 .hero {
-  height: 70vh;
+  height: 65vh;
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   justify-content: center;
-  position: relative;
   text-align: center;
   background:
-    linear-gradient(to bottom, rgba(244,241,235,0.85), rgba(244,241,235,0.95)),
-    url('assets/elephant-third-eye.png') center / cover no-repeat;
+    linear-gradient(rgba(244,241,235,0.78), rgba(244,241,235,0.92)),
+    url('assets/elephant-third-eye.png') center top / cover no-repeat;
+  position: relative;
 }
 
 .hero-inner {
-  padding-bottom: 60px;
-  max-width: 900px;
+  transform: translateY(20px);
 }
 
 .hero h1 {
   font-family: 'Playfair Display', serif;
-  font-size: 3.5rem;
+  font-size: 3rem;
   font-weight: 700;
-  letter-spacing: -1px;
+  letter-spacing: -0.5px;
+  margin-bottom: 14px;
 }
 
 .hero p {
-  margin-top: 12px;
-  font-size: 0.85rem;
-  letter-spacing: 3px;
+  font-size: 0.8rem;
+  letter-spacing: 2px;
   text-transform: uppercase;
-  color: #444;
+  color: #333;
 }
 
 /* ===== SECTIONS ===== */
 
 .section {
-  padding: 60px 20px;
+  padding: 50px 20px;
   max-width: 800px;
   margin: auto;
 }
 
 .section h2 {
-  font-size: 1rem;
+  font-size: 0.95rem;
   text-transform: uppercase;
   letter-spacing: 3px;
   color: var(--accent);
-  margin-bottom: 30px;
+  margin-bottom: 25px;
 }
 
 .item {
-  padding: 20px 0;
+  padding: 18px 0;
   border-top: 1px solid #ddd;
 }
 
@@ -86,19 +85,19 @@ body {
 }
 
 .item h3 {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   font-weight: 700;
 }
 
 .item span {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   color: #777;
 }
 
 footer {
-  padding: 40px 20px;
+  padding: 35px 20px;
   text-align: center;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   border-top: 1px solid #ddd;
   color: #666;
 }
@@ -109,8 +108,13 @@ footer {
   .hero {
     height: 60vh;
   }
+
   .hero h1 {
-    font-size: 2.4rem;
+    font-size: 2.2rem;
+  }
+
+  .hero p {
+    font-size: 0.7rem;
   }
 }
 </style>
@@ -126,7 +130,7 @@ footer {
 </section>
 
 <section class="section">
-  <h2>projects / the code</h2>
+  <h2>Projects / The Code</h2>
 
   <div class="item">
     <h3>ruin2itive</h3>
@@ -145,16 +149,16 @@ footer {
 </section>
 
 <section class="section">
-  <h2>markets / crypto</h2>
+  <h2>Markets / Crypto</h2>
   <div class="item">
-    <h3>curating signal…</h3>
+    <h3>Curating signal…</h3>
   </div>
 </section>
 
 <section class="section">
-  <h2>hacker news</h2>
+  <h2>Hacker News</h2>
   <div class="item">
-    <h3>curating signal…</h3>
+    <h3>Curating signal…</h3>
   </div>
 </section>
 
