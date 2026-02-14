@@ -2,398 +2,127 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
-  <title>ruin2itive</title>
-  <meta name="description" content="Reliability • Open Source • Independent" />
-
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link
-    href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Libre+Baskerville:wght@400;700&display=swap"
-    rel="stylesheet"
-  />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>ruin2itive.org</title>
 
   <style>
-    :root{
-      --paper:#f4f1eb;
-      --paper2:#f7f3ee;
-      --ink:#0f0f10;
-      --muted:#5c5750;
+    /* KEEP YOUR EXISTING STYLES ABOVE THIS LINE */
+    /* Do not change hero/background CSS. */
 
-      /* hairline rules (print feel) */
-      --line: rgba(26,22,18,0.16);
-      --line2: rgba(26,22,18,0.10);
-
-      /* brand */
-      --accent:#7b1e1e;
-
-      --wrap: 860px;
-      --gutter: 22px;
-      --radius: 12px;
-
-      /* very restrained shadow */
-      --shadow: 0 8px 22px rgba(0,0,0,0.05);
+    /* Projects section styling — matches your current "pill button" vibe */
+    .panel {
+      background: rgba(250, 248, 242, 0.92);
+      border: 1px solid rgba(0,0,0,0.10);
+      border-radius: 14px;
+      padding: 18px 16px;
+      backdrop-filter: blur(6px);
+      -webkit-backdrop-filter: blur(6px);
     }
 
-    *{box-sizing:border-box;margin:0;padding:0}
-    html,body{height:100%}
-    body{
-      background:var(--paper);
-      color:var(--ink);
-      font-family:"Libre Baskerville", serif;
-      -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
-      text-rendering: optimizeLegibility;
-    }
-
-    a{color:inherit;text-decoration:none}
-    a:focus{outline:2px solid rgba(123,30,30,0.35); outline-offset:3px; border-radius:8px}
-
-    .wrap{
-      max-width: var(--wrap);
-      margin: 0 auto;
-      padding: 0 var(--gutter);
-    }
-
-    /* ===== HERO ===== */
-    .hero{
-      position: relative;
-      min-height: 62vh;
-      display:flex;
-      align-items:flex-end;
-      justify-content:center;
-      overflow:hidden;
-      border-bottom: 1px solid var(--line);
-      background: var(--paper);
-    }
-
-    /* elephant */
-    .hero::before{
-      content:"";
-      position:absolute; inset:0;
-
-      /* more ink */
-      background: url("assets/elephant-third-eye.png") center top / cover no-repeat;
-      filter: contrast(1.18) saturate(0.92) brightness(0.98);
-      transform: scale(1.03);
-    }
-
-    /* paper fade + grit vignette (lighter than before) */
-    .hero::after{
-      content:"";
-      position:absolute; inset:0;
-      background:
-        /* paper veil */
-        radial-gradient(1200px 520px at 50% 18%,
-          rgba(244,241,235,0.05) 0%,
-          rgba(244,241,235,0.38) 46%,
-          rgba(244,241,235,0.78) 78%,
-          rgba(244,241,235,0.92) 100%),
-        /* subtle ink vignette (underground) */
-        radial-gradient(900px 380px at 50% 8%,
-          rgba(0,0,0,0.10) 0%,
-          rgba(0,0,0,0.03) 50%,
-          rgba(0,0,0,0.00) 72%),
-        /* faint paper grain */
-        repeating-linear-gradient(
-          0deg,
-          rgba(0,0,0,0.015) 0px,
-          rgba(0,0,0,0.015) 1px,
-          rgba(0,0,0,0.00) 2px,
-          rgba(0,0,0,0.00) 6px
-        );
-      pointer-events:none;
-      mix-blend-mode: normal;
-      opacity: 0.95;
-    }
-
-    .mast{
-      position:relative;
-      width:100%;
-      padding: 34px 0 26px;
-    }
-
-    .mast-inner{
-      max-width: var(--wrap);
-      margin: 0 auto;
-      padding: 0 var(--gutter);
-      text-align:center;
-    }
-
-    .kicker{
-      display:flex;
-      gap:12px;
-      justify-content:center;
-      align-items:center;
-      color: rgba(17,17,17,0.82);
-      font-size: 0.72rem;
-      letter-spacing: 3px;
+    .panel-title {
+      letter-spacing: .18em;
       text-transform: uppercase;
+      font-size: 14px;
+      margin: 0 0 14px 0;
+    }
+
+    .proj {
+      padding: 14px 12px;
+      border-radius: 12px;
+      border: 1px solid rgba(0,0,0,0.10);
+      background: rgba(255,255,255,0.65);
       margin-bottom: 12px;
     }
 
-    .kicker .dot{
-      width:4px;height:4px;border-radius:999px;
-      background: var(--accent);
-      opacity: 0.9;
+    .proj h3 {
+      margin: 0 0 10px 0;
+      font-size: 34px;
+      line-height: 1.0;
+      font-weight: 800;
+      letter-spacing: -0.02em;
     }
 
-    .name{
-      font-family:"Playfair Display", serif;
-      font-weight:700;
-      letter-spacing:-0.7px;
-      font-size: clamp(2.15rem, 6vw, 3.2rem);
-      line-height:1.04;
-      color: rgba(16,16,16,0.92); /* stronger */
-      text-shadow: 0 1px 0 rgba(255,255,255,0.25);
-    }
-
-    .rule{
-      height:1px;
-      background: var(--line);
-      margin: 14px auto 10px;
-      max-width: 560px;
-    }
-
-    .tagline{
-      font-size: 0.78rem;
-      letter-spacing: 2.2px;
-      text-transform: uppercase;
-      color: rgba(28,26,22,0.80);
-    }
-
-    /* ===== MAIN ===== */
-    main{ padding: 36px 0 16px; }
-
-    .grid{
-      display:grid;
-      grid-template-columns: 1fr;
-      gap: 22px;
-    }
-
-    @media (min-width: 880px){
-      .grid{
-        grid-template-columns: 1.05fr 0.95fr;
-        gap: 28px;
-        align-items:start;
-      }
-    }
-
-    /* ===== PANEL ===== */
-    .panel{
-      background: rgba(255,255,255,0.14); /* paper, not pink */
-      border: 1px solid var(--line2);      /* hairline */
-      border-radius: var(--radius);
-      box-shadow: var(--shadow);
-      overflow:hidden;
-    }
-
-    .panel-head{
-      padding: 16px 18px 12px;
-      border-bottom: 1px solid var(--line2);
-      background: linear-gradient(to bottom, rgba(255,255,255,0.10), rgba(255,255,255,0.00));
-    }
-
-    .panel-title{
-      color: var(--accent);
-      font-size: 0.86rem;
-      letter-spacing: 4px;
-      text-transform: uppercase;
-    }
-
-    .panel-body{ padding: 6px 18px 14px; }
-
-    /* ===== ITEMS ===== */
-    .item{
-      display:block;
-      padding: 14px 10px 12px;
-      border-bottom: 1px solid rgba(26,22,18,0.10);
-      border-radius: 10px;
-      transition: background 140ms ease, transform 140ms ease;
-    }
-    .item:last-child{ border-bottom: none; }
-
-    .item:hover{
-      background: rgba(123,30,30,0.055);
-      transform: translateY(-1px);
-    }
-
-    .item h3{
-      font-family:"Playfair Display", serif;
-      font-weight:700;
-      font-size: 1.55rem;
-      line-height: 1.14;
-      letter-spacing: -0.25px;
-    }
-
-    .meta{
-      margin-top: 7px;
-      color: var(--muted);
-      display:flex;
-      gap:10px;
-      align-items:center;
+    .pillrow {
+      display: flex;
+      gap: 10px;
       flex-wrap: wrap;
     }
 
-    /* Pills as “stamp labels” */
-    .pill{
-      display:inline-block;
-      padding: 4px 9px;
-      border: 1px solid rgba(26,22,18,0.18);
+    .pill {
+      display: inline-block;
+      padding: 10px 14px;
       border-radius: 999px;
-      background: rgba(255,255,255,0.10);
-      font-size: 0.74rem;
-      letter-spacing: 1.6px;
+      border: 1px solid rgba(0,0,0,0.18);
+      background: rgba(255,255,255,0.55);
+      text-decoration: none;
+      color: #1a1a1a;
+      letter-spacing: .18em;
       text-transform: uppercase;
+      font-size: 12px;
     }
 
-    /* ===== FEATURES ===== */
-    .feature{
-      padding: 16px 10px 14px;
-    }
-
-    .feature .headline{
-      font-family:"Playfair Display", serif;
-      font-weight:700;
-      font-size: 1.28rem; /* smaller, more editorial */
-      letter-spacing:-0.18px;
-      margin-bottom: 8px;
-    }
-
-    .feature .sub{
-      color: var(--muted);
-      font-size: 0.92rem;
-      line-height: 1.55;
-    }
-
-    .status{
-      display:inline-block;
-      margin-top: 10px;
-      color: var(--accent);
-      font-size: 0.76rem;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      opacity: 0.95;
-    }
-
-    .thinrule{
-      height:1px;
-      background: rgba(26,22,18,0.10);
-      margin: 6px 0 2px;
-    }
-
-    /* ===== FOOTER ===== */
-    footer{
-      padding: 24px 0 34px;
-      border-top: 1px solid var(--line);
-      margin-top: 18px;
-      color: rgba(92,87,80,0.92);
-      font-size: 0.84rem;
-      text-align:center;
-    }
-
-    /* ===== MOBILE ===== */
-    @media (max-width: 420px){
-      .hero{min-height: 58vh;}
-      .panel-head{padding: 15px 16px 12px;}
-      .panel-body{padding: 6px 16px 14px;}
-    }
+    .pill:active { transform: translateY(1px); }
   </style>
 </head>
 
 <body>
+  <!-- KEEP YOUR EXISTING HERO / HEADER / ELEPHANT MARKUP EXACTLY AS-IS -->
 
-  <header class="hero">
-    <div class="mast">
-      <div class="mast-inner">
-        <div class="kicker">
-          <span>Reliability</span><span class="dot"></span>
-          <span>Open Source</span><span class="dot"></span>
-          <span>Independent</span>
-        </div>
-
-        <div class="name">ruin2itive</div>
-        <div class="rule"></div>
-        <div class="tagline">Signals • Systems • Memory</div>
-      </div>
+  <!-- =========================================
+       PROJECTS / THE CODE (AUTOMATED)
+       This is the only section you replace.
+       ========================================= -->
+  <section class="panel" aria-label="Projects / The Code">
+    <h2 class="panel-title">PROJECTS / THE CODE</h2>
+    <div id="projects-root">
+      <!-- Auto-filled from data/projects.json -->
     </div>
-  </header>
+  </section>
 
-  <main class="wrap">
-    <div class="grid">
+  <script>
+    async function loadProjects() {
+      const root = document.getElementById("projects-root");
+      try {
+        const res = await fetch("./data/projects.json", { cache: "no-store" });
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        const data = await res.json();
 
-      <!-- LEFT: PROJECTS -->
-      <section class="panel">
-        <div class="panel-head">
-          <div class="panel-title">Projects / The Code</div>
-        </div>
+        if (!data || !Array.isArray(data.groups)) {
+          throw new Error("Invalid projects.json shape");
+        }
 
-        <div class="panel-body">
-          <a class="item" href="#" aria-label="ruin2itive project">
-            <h3>ruin2itive</h3>
-            <div class="meta">
-              <span class="pill">GitHub</span>
-              <span class="pill">Src</span>
+        root.innerHTML = data.groups.map(group => {
+          const title = String(group.title ?? "");
+          const links = Array.isArray(group.links) ? group.links : [];
+          const pills = links.map(l => {
+            const label = String(l.label ?? "");
+            const href = String(l.href ?? "#");
+            const safeHref = href.startsWith("http") ? href : "#";
+            return `<a class="pill" href="${safeHref}" target="_blank" rel="noopener">${label}</a>`;
+          }).join("");
+
+          return `
+            <div class="proj">
+              <h3>${title}</h3>
+              <div class="pillrow">${pills}</div>
             </div>
-          </a>
+          `;
+        }).join("");
 
-          <a class="item" href="#" aria-label="arduino project">
-            <h3>arduino</h3>
-            <div class="meta">
-              <span class="pill">Hackster</span>
-              <span class="pill">Hardware</span>
-            </div>
-          </a>
-
-          <a class="item" href="#" aria-label="raspberry pi project">
-            <h3>raspberry_pi</h3>
-            <div class="meta">
-              <span class="pill">Instructables</span>
-              <span class="pill">DIY</span>
-            </div>
-          </a>
-        </div>
-      </section>
-
-      <!-- RIGHT: FEEDS -->
-      <section class="panel">
-        <div class="panel-head">
-          <div class="panel-title">Markets / Crypto</div>
-        </div>
-
-        <div class="panel-body">
-          <div class="feature">
-            <div class="headline">Curating signal…</div>
-            <div class="sub">
-              Deterministic, curated items. Fast render. Minimal noise.
-            </div>
-            <div class="status">Status: building</div>
-          </div>
-
-          <div class="thinrule"></div>
-
-          <div class="panel-head" style="border-bottom:none;padding:16px 18px 10px;">
-            <div class="panel-title">Hacker News</div>
-          </div>
-
-          <div class="panel-body" style="padding-top:0;">
-            <div class="feature">
-              <div class="headline">Curating signal…</div>
-              <div class="sub">
-                Newest technical items. Calm instrument-panel vibe.
-              </div>
-              <div class="status">Status: building</div>
+      } catch (err) {
+        root.innerHTML = `
+          <div class="proj">
+            <h3>projects</h3>
+            <div style="opacity:.7; font-size:14px;">
+              Could not load links (data/projects.json).
             </div>
           </div>
-        </div>
-      </section>
+        `;
+        console.error(err);
+      }
+    }
 
-    </div>
-  </main>
-
-  <footer class="wrap">
-    © 2026 ruin2itive.org
-  </footer>
-
+    loadProjects();
+  </script>
 </body>
 </html>
