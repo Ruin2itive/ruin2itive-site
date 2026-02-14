@@ -10,24 +10,29 @@
 
   <style>
     :root{
-      --paper:#ffffff;
+      /* paper system */
+      --paper:#fbfaf7;
+      --paper2:#ffffff;
       --ink:#111;
       --muted:#5a5852;
       --rule:#ded6cc;
       --rule2:#eee7df;
 
+      /* brand */
       --red:#8b1f1f;
 
-      --radius:14px;
+      /* geometry */
+      --radius:16px;
+      --max: 1160px;
+      --g: 20px;
 
-      --max: 1180px;
-      --g: 18px;
-
+      /* safe areas */
       --safe-top: env(safe-area-inset-top, 0px);
       --safe-bot: env(safe-area-inset-bottom, 0px);
 
-      --shadow: 0 10px 26px rgba(0,0,0,.10);
-      --shadowSoft: 0 6px 16px rgba(0,0,0,.08);
+      /* shadows (tight + editorial, not “app-y”) */
+      --shadow: 0 14px 40px rgba(0,0,0,.10);
+      --shadowSoft: 0 10px 28px rgba(0,0,0,.08);
     }
 
     *{ box-sizing:border-box; }
@@ -40,19 +45,20 @@
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
     }
+
     a{ color:inherit; text-decoration:none; }
     a:hover{ text-decoration:underline; }
 
-    /* subtle paper grain without images */
+    /* subtle paper grain (no images) */
     body::before{
       content:"";
       position:fixed;
       inset:0;
       pointer-events:none;
       background:
-        radial-gradient(900px 500px at 20% 10%, rgba(0,0,0,.03), transparent 60%),
-        radial-gradient(900px 500px at 80% 0%, rgba(0,0,0,.02), transparent 60%),
-        linear-gradient(to bottom, rgba(0,0,0,.015), transparent 18%, rgba(0,0,0,.02));
+        radial-gradient(900px 520px at 18% 8%, rgba(0,0,0,.035), transparent 60%),
+        radial-gradient(900px 520px at 84% 0%, rgba(0,0,0,.025), transparent 60%),
+        linear-gradient(to bottom, rgba(0,0,0,.02), transparent 18%, rgba(0,0,0,.02));
       opacity:.55;
       z-index:0;
     }
@@ -62,49 +68,48 @@
       z-index:1;
       max-width: var(--max);
       margin:0 auto;
-      padding: 0 18px calc(26px + var(--safe-bot));
+      padding: 0 18px calc(28px + var(--safe-bot));
     }
 
-    /* ======================
-       MASTHEAD (NEWSPAPER)
-       ====================== */
-    header{
+    /* =========================
+       HERO MASTHEAD (CONTAINED)
+       ========================= */
+    .hero{
       position:relative;
-      padding-top: calc(12px + var(--safe-top));
-      padding-bottom: 10px;
-      border-bottom: 1px solid var(--rule);
-      background: var(--paper);
+      padding-top: calc(14px + var(--safe-top));
+      padding-bottom: 18px;
       overflow:hidden;
+      background: var(--paper2);
+      border-bottom: 1px solid var(--rule);
     }
 
-    /* elephant lives ONLY inside masthead, controlled */
-    header::before{
+    /* background image is ONLY inside hero */
+    .hero::before{
       content:"";
       position:absolute;
-      inset:-40px -40px -60px -40px;
+      inset:0;
       background-image:
         url("assets/elephant-third-eye.webp"),
         url("assets/elephant-third-eye.png"),
         url("assets/elephant-bg.PNG");
       background-repeat:no-repeat;
       background-size: cover;
-      background-position: center 36%;
-      opacity: .18;              /* key: controlled */
-      filter: grayscale(1) contrast(1.25);
+      background-position: center 28%;
+      filter: grayscale(1) contrast(1.2);
+      opacity: .92; /* image is strong… */
       pointer-events:none;
       z-index:0;
+      transform: scale(1.03);
     }
 
-    /* veil to keep masthead clean and readable */
-    header::after{
+    /* editorial veil for readability */
+    .hero::after{
       content:"";
       position:absolute;
       inset:0;
       background:
-        linear-gradient(to bottom,
-          rgba(255,255,255,.88) 0%,
-          rgba(255,255,255,.86) 45%,
-          rgba(255,255,255,1) 100%);
+        radial-gradient(900px 420px at 50% 45%, rgba(255,255,255,.82), rgba(255,255,255,.55) 40%, rgba(255,255,255,.70) 60%, rgba(255,255,255,.96) 100%),
+        linear-gradient(to bottom, rgba(255,255,255,.70) 0%, rgba(255,255,255,.82) 45%, rgba(255,255,255,1) 100%);
       pointer-events:none;
       z-index:0;
     }
@@ -113,30 +118,42 @@
       position:relative;
       z-index:1;
       text-align:center;
-      padding: 6px 0 6px;
+      padding: 10px 0 6px;
     }
 
     .kickerline{
       font-size: 10px;
       letter-spacing: .34em;
       text-transform: uppercase;
-      color: rgba(0,0,0,.62);
+      color: rgba(0,0,0,.64);
       margin: 0 0 10px;
       white-space: nowrap;
       overflow:hidden;
       text-overflow: ellipsis;
     }
 
+    /* “nameplate” keeps title crisp on any image */
+    .nameplate{
+      display:inline-block;
+      padding: 12px 18px 10px;
+      border-radius: 18px;
+      border: 1px solid rgba(0,0,0,.10);
+      background: rgba(255,255,255,.78);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      box-shadow: 0 10px 30px rgba(0,0,0,.10);
+    }
+
     .title{
       margin:0;
-      font-size: clamp(34px, 4.6vw, 62px);
-      line-height: 1.02;
-      letter-spacing: -0.02em;
+      font-size: clamp(34px, 5vw, 64px);
+      line-height: 1.0;
+      letter-spacing: -0.03em;
       color: rgba(0,0,0,.92);
     }
 
     .tagline{
-      margin: 10px 0 0;
+      margin: 9px 0 0;
       font-size: 11px;
       letter-spacing: .22em;
       text-transform: uppercase;
@@ -144,28 +161,31 @@
     }
 
     .rules{
-      margin-top: 14px;
+      margin-top: 16px;
       position:relative;
+      z-index:1;
     }
     .rules .thin{
       height:1px;
-      background: var(--rule);
+      background: rgba(0,0,0,.16);
+      max-width: 860px;
+      margin: 0 auto;
     }
     .rules .thick{
       height:3px;
-      background: rgba(139,31,31,.28);
-      width: 110px;
+      background: rgba(139,31,31,.30);
+      width: 130px;
       margin: 10px auto 0;
       border-radius: 999px;
     }
 
-    /* Nav strip (feels like a section index) */
+    /* compact section index */
     .navstrip{
       display:flex;
       justify-content:center;
-      gap: 14px;
+      gap: 12px;
       flex-wrap:wrap;
-      padding: 12px 0 2px;
+      padding: 14px 0 4px;
       margin: 0;
       list-style:none;
       position:relative;
@@ -179,18 +199,39 @@
       padding: 6px 10px;
       border-radius: 999px;
       border: 1px solid rgba(0,0,0,.14);
-      background: rgba(255,255,255,.75);
+      background: rgba(255,255,255,.78);
     }
     .navstrip a:hover{
       text-decoration:none;
-      border-color: rgba(139,31,31,.35);
+      border-color: rgba(139,31,31,.38);
     }
 
     /* ======================
-       FRONT PAGE GRID
+       FRONT PAGE LAYOUT
        ====================== */
     main{
       padding-top: 18px;
+    }
+
+    /* top “edition bar” */
+    .edition{
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      gap: 10px;
+      padding: 10px 2px 14px;
+      border-bottom: 1px solid var(--rule);
+      margin-bottom: 18px;
+      color: rgba(0,0,0,.64);
+      font-size: 10px;
+      letter-spacing: .24em;
+      text-transform: uppercase;
+    }
+
+    .edition strong{
+      letter-spacing: .18em;
+      color: rgba(0,0,0,.78);
+      font-weight: 700;
     }
 
     .grid{
@@ -200,14 +241,14 @@
       align-items:start;
     }
     @media (min-width: 980px){
-      .grid{ grid-template-columns: 1.02fr .98fr; }
+      .grid{ grid-template-columns: 1.04fr .96fr; }
     }
 
     /* ======================
-       SECTION CARDS (PAPER)
+       SECTION “PAPER” MODULES
        ====================== */
     .card{
-      background: rgba(255,255,255,.96);
+      background: rgba(255,255,255,.98);
       border: 1px solid rgba(0,0,0,.12);
       border-radius: var(--radius);
       box-shadow: var(--shadowSoft);
@@ -221,7 +262,7 @@
       justify-content:space-between;
       gap: 10px;
       align-items:flex-end;
-      background: rgba(255,255,255,.98);
+      background: rgba(255,255,255,.99);
     }
 
     .kicker{
@@ -229,7 +270,7 @@
       letter-spacing: .34em;
       text-transform: uppercase;
       color: var(--red);
-      font-weight: 800;
+      font-weight: 900;
       line-height: 1.1;
     }
 
@@ -253,8 +294,8 @@
     .proj:last-child{ border-bottom:none; padding-bottom:6px; }
 
     .proj .name{
-      font-size: clamp(26px, 2.4vw, 38px);
-      line-height: 1;
+      font-size: clamp(24px, 2.3vw, 36px);
+      line-height: 1.02;
       margin: 0 0 10px;
       letter-spacing: -0.02em;
     }
@@ -275,7 +316,7 @@
       font-size: 10px;
       letter-spacing: .20em;
       text-transform: uppercase;
-      background: rgba(255,255,255,.92);
+      background: rgba(255,255,255,.96);
       white-space:nowrap;
     }
 
@@ -309,7 +350,7 @@
       padding: 3px 9px;
       border-radius: 999px;
       border: 1px solid rgba(0,0,0,.18);
-      background: rgba(255,255,255,.96);
+      background: rgba(255,255,255,.98);
       font-size: 9px;
       letter-spacing: .16em;
       text-transform: uppercase;
@@ -368,7 +409,9 @@
       text-align:center;
     }
 
-    /* iPhone tuning */
+    /* ======================
+       MOBILE TUNING
+       ====================== */
     @media (max-width: 520px){
       :root{ --g: 14px; }
       .kickerline{ letter-spacing:.26em; }
@@ -376,21 +419,23 @@
       .tagline{ letter-spacing:.18em; }
       .head{ padding: 12px 14px 9px; }
       .body{ padding: 10px 14px 12px; }
-      header::before{
-        background-position: center 34%;
-        opacity: .16;
-      }
+      .edition{ flex-direction:column; align-items:flex-start; gap: 6px; }
+      .hero::before{ background-position: center 26%; }
+      .nameplate{ padding: 10px 14px 8px; border-radius: 16px; }
     }
   </style>
 </head>
 
 <body>
-  <header>
+  <header class="hero">
     <div class="wrap">
       <div class="mast">
         <div class="kickerline">Reliability • Open Source • Independent</div>
-        <h1 class="title">ruin2itive</h1>
-        <div class="tagline">Signals • Systems • Memory</div>
+
+        <div class="nameplate">
+          <h1 class="title">ruin2itive</h1>
+          <div class="tagline">Signals • Systems • Memory</div>
+        </div>
 
         <div class="rules" aria-hidden="true">
           <div class="thin"></div>
@@ -408,6 +453,11 @@
 
   <div class="wrap">
     <main>
+      <div class="edition" aria-label="Front page edition bar">
+        <div><strong>FRONT PAGE</strong> • curated feeds • no noise</div>
+        <div id="edition-time">Edition: loading…</div>
+      </div>
+
       <section class="grid">
         <!-- LEFT -->
         <article class="card" id="projects" aria-label="Projects / The Code">
@@ -433,6 +483,7 @@
             <div class="kicker">Markets / Crypto</div>
             <div class="mini" id="decrypt-updated">Standby</div>
           </div>
+
           <div class="body" id="decrypt-root">
             <div class="feature">
               <div class="headline"><div class="skel t"></div></div>
@@ -448,6 +499,7 @@
             <div class="kicker" id="hacker">Hacker News</div>
             <div class="mini" id="hn-updated">Standby</div>
           </div>
+
           <div class="body" id="hn-root">
             <div class="feature">
               <div class="headline">Quiet</div>
@@ -609,7 +661,16 @@
       }).join("");
     }
 
+    function setEditionTime(){
+      const el = document.getElementById("edition-time");
+      if (!el) return;
+      const d = new Date();
+      el.textContent = `Edition: ${d.toLocaleString()}`;
+    }
+
     async function boot(){
+      setEditionTime();
+
       try{
         const projects = await fetchJson(`data/projects.json?${nowBust()}`);
         renderProjects(projects);
