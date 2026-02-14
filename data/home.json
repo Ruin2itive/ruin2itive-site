@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-14T23:18:06.321Z",
-  "updated_local": "2/14/2026, 11:18:06 PM",
+  "updated_iso": "2026-02-14T23:34:44.785Z",
+  "updated_local": "2/14/2026, 11:34:44 PM",
   "sections": {
     "crypto": [
       {
@@ -30,16 +30,16 @@
         "time": "2/14/2026, 3:35:47 PM"
       },
       {
-        "title": "Breaking the spell of vibe coding",
-        "url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
-        "source": "hn",
-        "time": "2/13/2026, 7:22:18 PM"
-      },
-      {
         "title": "Ooh.directory: a place to find good blogs that interest you",
         "url": "https://ooh.directory/",
         "source": "hn",
         "time": "2/14/2026, 1:40:20 PM"
+      },
+      {
+        "title": "Zvec: A lightweight, fast, in-process vector database",
+        "url": "https://github.com/alibaba/zvec",
+        "source": "hn",
+        "time": "2/13/2026, 8:53:51 AM"
       }
     ],
     "world": [
