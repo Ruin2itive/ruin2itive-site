@@ -460,7 +460,14 @@
       const root = document.getElementById("projects-root");
       const groups = data?.groups;
 
-      setMini("projects-updated", "Live");
+      // show updated time if present
+      const upd = data?.updated_iso || data?.updated || null;
+      if (upd){
+        const d = new Date(upd);
+        setMini("projects-updated", isNaN(d.getTime()) ? "Live" : `Updated: ${d.toLocaleString()}`);
+      } else {
+        setMini("projects-updated", "Live");
+      }
 
       if (!Array.isArray(groups) || groups.length === 0){
         root.innerHTML = `
@@ -473,13 +480,16 @@
         return;
       }
 
+      // IMPORTANT: support BOTH schemas:
+      // A) { name, links:[{label,url}] }
+      // B) { title, links:[{label,href}] }
       const html = groups.map(g => {
-        const name = g?.name || "project";
+        const name = g?.name ?? g?.title ?? "project";
         const links = Array.isArray(g?.links) ? g.links : [];
 
         const pills = links.map(l => {
           const label = l?.label || "link";
-          const url = l?.url || "#";
+          const url = l?.url ?? l?.href ?? "#";
           return `<a class="pill" href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a>`;
         }).join("");
 
@@ -497,11 +507,13 @@
     function renderDecrypt(data){
       const root = document.getElementById("decrypt-root");
       const items = Array.isArray(data?.items) ? data.items : [];
-      const updated = data?.updated ? new Date(data.updated) : null;
+
+      const updatedRaw = data?.updated || data?.updated_iso || null;
+      const updated = updatedRaw ? new Date(updatedRaw) : null;
 
       const isSeed =
         (items[0]?.stamp === "SEED") ||
-        (typeof data?.updated === "string" && data.updated.startsWith("1970-")) ||
+        (typeof updatedRaw === "string" && updatedRaw.startsWith("1970-")) ||
         (!updated || isNaN(updated.getTime())) ||
         (updated && updated.getFullYear && updated.getFullYear() < 2000);
 
