@@ -1,9 +1,9 @@
 name: Update Decrypt feed
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"  # hourly, on the hour
+    - cron: "0 * * * *"   # every hour
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,6 +11,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
