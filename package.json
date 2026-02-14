@@ -1,11 +1,5 @@
 {
-  "name": "ruin2itive-site",
-  "private": true,
-  "type": "module",
   "scripts": {
     "build:decrypt": "node scripts/build_decrypt.js"
-  },
-  "dependencies": {
-    "cheerio": "^1.0.0-rc.12"
   }
 }
