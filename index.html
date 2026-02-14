@@ -53,6 +53,7 @@
       padding-top: calc(10px + var(--safe-top));
     }
 
+    /* background image (set by JS). if missing, JS forces a visible fallback. */
     .hero::before{
       content:"";
       position:absolute;
@@ -66,6 +67,7 @@
       transform: translateZ(0);
     }
 
+    /* paper fade */
     .hero::after{
       content:"";
       position:absolute;
@@ -398,25 +400,18 @@
     }
 
     // repo-safe base path:
-    // - custom domain: "/"
-    // - github pages repo: "/ruin2itive-site/"
+    // - custom domain: ""
+    // - github pages repo: "/ruin2itive-site"
     function basePath(){
+      if (!location.hostname.endsWith("github.io")) return "";
       const p = location.pathname;
-      const m = p.match(/^\/([^\/]+)\/?/);
-      const repo = m && (m[1] || "");
-      if (location.hostname.endsWith("github.io") && repo){
-        return "/" + repo;
-      }
-      return "";
+      const m = p.match(/^\/([^\/]+)(\/|$)/);
+      const repo = m && m[1];
+      return repo ? ("/" + repo) : "";
     }
+    function path(u){ return basePath() + u; } // u must start with "/"
 
-    function path(u){
-      const b = basePath();
-      return b + u; // u must start with "/"
-    }
-
-    // BULLETPROOF HERO:
-    // Try landing.webp, fallback to landing.png
+    // HERO: try landing.webp -> landing.png -> visible fallback gradient (never blank)
     (function setHero(){
       const webp = path("/assets/landing.webp");
       const png  = path("/assets/landing.png");
@@ -425,10 +420,23 @@
         document.documentElement.style.setProperty("--hero-bg", `url("${url}")`);
       }
 
-      const img = new Image();
-      img.onload = () => apply(webp);
-      img.onerror = () => apply(png);
-      img.src = webp + "?v=" + nowBust();
+      function applyFallback(){
+        // this guarantees the hero never goes "blank"
+        const fallback =
+          "radial-gradient(1100px 520px at 50% 18%, rgba(0,0,0,.18), rgba(0,0,0,0) 65%)," +
+          "linear-gradient(to bottom, rgba(244,241,234,.0) 0%, rgba(244,241,234,.0) 45%, rgba(244,241,234,1) 100%)";
+        document.documentElement.style.setProperty("--hero-bg", fallback);
+      }
+
+      const img1 = new Image();
+      img1.onload = () => apply(webp + "?v=" + nowBust());
+      img1.onerror = () => {
+        const img2 = new Image();
+        img2.onload = () => apply(png + "?v=" + nowBust());
+        img2.onerror = () => applyFallback();
+        img2.src = png + "?v=" + nowBust();
+      };
+      img1.src = webp + "?v=" + nowBust();
     })();
 
     async function fetchJson(url){
@@ -460,14 +468,11 @@
       const root = document.getElementById("projects-root");
       const groups = data?.groups;
 
-      // show updated time if present
-      const upd = data?.updated_iso || data?.updated || null;
-      if (upd){
-        const d = new Date(upd);
-        setMini("projects-updated", isNaN(d.getTime()) ? "Live" : `Updated: ${d.toLocaleString()}`);
-      } else {
-        setMini("projects-updated", "Live");
-      }
+      // show updated if present
+      const u = data?.updated_iso ? new Date(data.updated_iso) : null;
+      setMini("projects-updated",
+        (u && !isNaN(u.getTime())) ? ("Updated: " + u.toLocaleString()) : "Live"
+      );
 
       if (!Array.isArray(groups) || groups.length === 0){
         root.innerHTML = `
@@ -480,16 +485,14 @@
         return;
       }
 
-      // IMPORTANT: support BOTH schemas:
-      // A) { name, links:[{label,url}] }
-      // B) { title, links:[{label,href}] }
+      // IMPORTANT: your schema is { title, links:[{label, href}] }
       const html = groups.map(g => {
-        const name = g?.name ?? g?.title ?? "project";
+        const name = g?.title || "project";
         const links = Array.isArray(g?.links) ? g.links : [];
 
         const pills = links.map(l => {
           const label = l?.label || "link";
-          const url = l?.url ?? l?.href ?? "#";
+          const url = l?.href || "#";
           return `<a class="pill" href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a>`;
         }).join("");
 
@@ -508,26 +511,18 @@
       const root = document.getElementById("decrypt-root");
       const items = Array.isArray(data?.items) ? data.items : [];
 
-      const updatedRaw = data?.updated || data?.updated_iso || null;
+      // accept either updated_iso or updated
+      const updatedRaw = data?.updated_iso || data?.updated || null;
       const updated = updatedRaw ? new Date(updatedRaw) : null;
 
-      const isSeed =
-        (items[0]?.stamp === "SEED") ||
-        (typeof updatedRaw === "string" && updatedRaw.startsWith("1970-")) ||
-        (!updated || isNaN(updated.getTime())) ||
-        (updated && updated.getFullYear && updated.getFullYear() < 2000);
-
-      const updatedText = (!isSeed && updated && !isNaN(updated.getTime()))
-        ? `Updated: ${updated.toLocaleString()}`
-        : "Seed (waiting on feed)";
-
-      setMini("decrypt-updated", updatedText);
+      const isValidDate = updated && !isNaN(updated.getTime()) && updated.getFullYear() >= 2000;
+      setMini("decrypt-updated", isValidDate ? ("Updated: " + updated.toLocaleString()) : "Waiting on feed");
 
       const itemsHtml = items.slice(0, 3).map(it => {
         const title = it?.title || "Untitled";
-        const url = it?.url || "#";
+        const url = it?.url || it?.href || "#";
         const src = it?.source || "decrypt";
-        const st = it?.stamp || "";
+        const st = it?.stamp || "decrypt";
 
         return `
           <a class="item" href="${esc(url)}" target="_blank" rel="noopener">
@@ -583,7 +578,7 @@
     // -----------------------------
     async function boot(){
       try{
-        const projects = await fetchJson(`${path("/data/projects.json")}?${nowBust()}`);
+        const projects = await fetchJson(`${path("/data/projects.json")}?v=${nowBust()}`);
         renderProjects(projects);
       }catch(e){
         setMini("projects-updated", "Error");
@@ -595,7 +590,7 @@
       }
 
       try{
-        const decrypt = await fetchJson(`${path("/data/decrypt.json")}?${nowBust()}`);
+        const decrypt = await fetchJson(`${path("/data/decrypt.json")}?v=${nowBust()}`);
         renderDecrypt(decrypt);
       }catch(e){
         setMini("decrypt-updated", "Error");
@@ -607,7 +602,7 @@
       }
 
       try{
-        const home = await fetchJson(`${path("/data/home.json")}?${nowBust()}`);
+        const home = await fetchJson(`${path("/data/home.json")}?v=${nowBust()}`);
         renderHNfromHomeJson(home);
       }catch(_e){
         // silent
