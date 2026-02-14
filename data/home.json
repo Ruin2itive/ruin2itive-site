@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-14T08:20:25.500Z",
-  "updated_local": "2/14/2026, 8:20:25 AM",
+  "updated_iso": "2026-02-14T08:47:26.329Z",
+  "updated_local": "2/14/2026, 8:47:26 AM",
   "sections": {
     "crypto": [
       {
@@ -18,6 +18,12 @@
         "time": "2/14/2026, 4:27:35 AM"
       },
       {
+        "title": "The Three Year Myth",
+        "url": "https://green.spacedino.net/the-three-year-myth/",
+        "source": "hn",
+        "time": "2/10/2026, 7:51:38 PM"
+      },
+      {
         "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
         "url": "https://www.wallstreetraider.com/story.html",
         "source": "hn",
@@ -30,16 +36,10 @@
         "time": "2/8/2026, 5:46:46 PM"
       },
       {
-        "title": "The Three Year Myth",
-        "url": "https://green.spacedino.net/the-three-year-myth/",
+        "title": "Zig – io_uring and Grand Central Dispatch std.Io implementations landed",
+        "url": "https://ziglang.org/devlog/2026/#2026-02-13",
         "source": "hn",
-        "time": "2/10/2026, 7:51:38 PM"
-      },
-      {
-        "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
-        "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
-        "source": "hn",
-        "time": "2/13/2026, 9:35:52 PM"
+        "time": "2/14/2026, 8:22:11 AM"
       }
     ],
     "world": [
@@ -62,16 +62,16 @@
         "time": "Sat, 14 Feb 2026 06:00:34 GMT"
       },
       {
-        "title": "How Weston handled pressure to win Olympic gold and GB's first medal",
-        "url": "https://www.bbc.com/sport/articles/cgml91gx27go?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 13 Feb 2026 21:00:45 GMT"
-      },
-      {
         "title": "Police activity under way near Nancy Guthrie's home",
         "url": "https://www.bbc.com/news/articles/cly8j19rql7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 14 Feb 2026 08:12:09 GMT"
+      },
+      {
+        "title": "Time will heal Beckham family relationship, says Gordon Ramsay",
+        "url": "https://www.bbc.com/news/articles/cp813w7k8g3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 14 Feb 2026 00:09:10 GMT"
       }
     ]
   }
