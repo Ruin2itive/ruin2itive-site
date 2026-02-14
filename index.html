@@ -53,7 +53,6 @@
       padding-top: calc(10px + var(--safe-top));
     }
 
-    /* background image (set by JS). if missing, JS forces a visible fallback. */
     .hero::before{
       content:"";
       position:absolute;
@@ -67,7 +66,7 @@
       transform: translateZ(0);
     }
 
-    /* paper fade */
+    /* slightly lighter fade so the background image stays visible */
     .hero::after{
       content:"";
       position:absolute;
@@ -75,8 +74,8 @@
       background:
         linear-gradient(to bottom,
           rgba(244,241,234,0) 0%,
-          rgba(244,241,234,0) 52%,
-          rgba(244,241,234,.72) 70%,
+          rgba(244,241,234,0) 50%,
+          rgba(244,241,234,.60) 70%,
           rgba(244,241,234,1) 100%);
       pointer-events:none;
     }
@@ -400,43 +399,50 @@
     }
 
     // repo-safe base path:
-    // - custom domain: ""
-    // - github pages repo: "/ruin2itive-site"
+    // - custom domain: "/"
+    // - github pages repo: "/ruin2itive-site/"
     function basePath(){
-      if (!location.hostname.endsWith("github.io")) return "";
       const p = location.pathname;
-      const m = p.match(/^\/([^\/]+)(\/|$)/);
-      const repo = m && m[1];
-      return repo ? ("/" + repo) : "";
+      const m = p.match(/^\/([^\/]+)\/?/);
+      const repo = m && (m[1] || "");
+      if (location.hostname.endsWith("github.io") && repo){
+        return "/" + repo;
+      }
+      return "";
     }
-    function path(u){ return basePath() + u; } // u must start with "/"
 
-    // HERO: try landing.webp -> landing.png -> visible fallback gradient (never blank)
+    function path(u){
+      const b = basePath();
+      return b + u; // u must start with "/"
+    }
+
+    // BULLETPROOF HERO:
+    // Tries multiple common paths so the elephant never "vanishes" due to a path mismatch.
     (function setHero(){
-      const webp = path("/assets/landing.webp");
-      const png  = path("/assets/landing.png");
+      const candidates = [
+        path("/assets/landing.webp"),
+        path("/assets/landing.png"),
+        path("/landing.webp"),
+        path("/landing.png"),
+        path("/site/landing.webp"),
+        path("/site/landing.png")
+      ];
 
       function apply(url){
         document.documentElement.style.setProperty("--hero-bg", `url("${url}")`);
       }
 
-      function applyFallback(){
-        // this guarantees the hero never goes "blank"
-        const fallback =
-          "radial-gradient(1100px 520px at 50% 18%, rgba(0,0,0,.18), rgba(0,0,0,0) 65%)," +
-          "linear-gradient(to bottom, rgba(244,241,234,.0) 0%, rgba(244,241,234,.0) 45%, rgba(244,241,234,1) 100%)";
-        document.documentElement.style.setProperty("--hero-bg", fallback);
+      function tryLoad(i){
+        if (i >= candidates.length) return; // give up silently (keeps paper background)
+        const url = candidates[i] + "?v=" + nowBust();
+
+        const img = new Image();
+        img.onload = () => apply(url);
+        img.onerror = () => tryLoad(i + 1);
+        img.src = url;
       }
 
-      const img1 = new Image();
-      img1.onload = () => apply(webp + "?v=" + nowBust());
-      img1.onerror = () => {
-        const img2 = new Image();
-        img2.onload = () => apply(png + "?v=" + nowBust());
-        img2.onerror = () => applyFallback();
-        img2.src = png + "?v=" + nowBust();
-      };
-      img1.src = webp + "?v=" + nowBust();
+      tryLoad(0);
     })();
 
     async function fetchJson(url){
@@ -468,11 +474,10 @@
       const root = document.getElementById("projects-root");
       const groups = data?.groups;
 
-      // show updated if present
+      // show updated time if present, else "Live"
       const u = data?.updated_iso ? new Date(data.updated_iso) : null;
-      setMini("projects-updated",
-        (u && !isNaN(u.getTime())) ? ("Updated: " + u.toLocaleString()) : "Live"
-      );
+      const uText = (u && !isNaN(u.getTime())) ? `Updated: ${u.toLocaleString()}` : "Live";
+      setMini("projects-updated", uText);
 
       if (!Array.isArray(groups) || groups.length === 0){
         root.innerHTML = `
@@ -485,14 +490,16 @@
         return;
       }
 
-      // IMPORTANT: your schema is { title, links:[{label, href}] }
       const html = groups.map(g => {
-        const name = g?.title || "project";
+        // Accept either schema:
+        // - group.title OR group.name
+        // - link.href OR link.url
+        const name = g?.title || g?.name || "project";
         const links = Array.isArray(g?.links) ? g.links : [];
 
         const pills = links.map(l => {
           const label = l?.label || "link";
-          const url = l?.href || "#";
+          const url = l?.href || l?.url || "#";
           return `<a class="pill" href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a>`;
         }).join("");
 
@@ -510,19 +517,25 @@
     function renderDecrypt(data){
       const root = document.getElementById("decrypt-root");
       const items = Array.isArray(data?.items) ? data.items : [];
+      const updated = data?.updated ? new Date(data.updated) : null;
 
-      // accept either updated_iso or updated
-      const updatedRaw = data?.updated_iso || data?.updated || null;
-      const updated = updatedRaw ? new Date(updatedRaw) : null;
+      const isSeed =
+        (items[0]?.stamp === "SEED") ||
+        (typeof data?.updated === "string" && data.updated.startsWith("1970-")) ||
+        (!updated || isNaN(updated.getTime())) ||
+        (updated && updated.getFullYear && updated.getFullYear() < 2000);
 
-      const isValidDate = updated && !isNaN(updated.getTime()) && updated.getFullYear() >= 2000;
-      setMini("decrypt-updated", isValidDate ? ("Updated: " + updated.toLocaleString()) : "Waiting on feed");
+      const updatedText = (!isSeed && updated && !isNaN(updated.getTime()))
+        ? `Updated: ${updated.toLocaleString()}`
+        : "Seed (waiting on feed)";
+
+      setMini("decrypt-updated", updatedText);
 
       const itemsHtml = items.slice(0, 3).map(it => {
         const title = it?.title || "Untitled";
-        const url = it?.url || it?.href || "#";
+        const url = it?.url || "#";
         const src = it?.source || "decrypt";
-        const st = it?.stamp || "decrypt";
+        const st = it?.stamp || "";
 
         return `
           <a class="item" href="${esc(url)}" target="_blank" rel="noopener">
@@ -578,7 +591,7 @@
     // -----------------------------
     async function boot(){
       try{
-        const projects = await fetchJson(`${path("/data/projects.json")}?v=${nowBust()}`);
+        const projects = await fetchJson(`${path("/data/projects.json")}?${nowBust()}`);
         renderProjects(projects);
       }catch(e){
         setMini("projects-updated", "Error");
@@ -590,7 +603,7 @@
       }
 
       try{
-        const decrypt = await fetchJson(`${path("/data/decrypt.json")}?v=${nowBust()}`);
+        const decrypt = await fetchJson(`${path("/data/decrypt.json")}?${nowBust()}`);
         renderDecrypt(decrypt);
       }catch(e){
         setMini("decrypt-updated", "Error");
@@ -602,7 +615,7 @@
       }
 
       try{
-        const home = await fetchJson(`${path("/data/home.json")}?v=${nowBust()}`);
+        const home = await fetchJson(`${path("/data/home.json")}?${nowBust()}`);
         renderHNfromHomeJson(home);
       }catch(_e){
         // silent
