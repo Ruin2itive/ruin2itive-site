@@ -26,7 +26,7 @@
       --safe-top: env(safe-area-inset-top, 0px);
       --safe-bot: env(safe-area-inset-bottom, 0px);
 
-      /* will be set by JS using repo-safe path() */
+      /* set by JS */
       --hero-bg: none;
     }
 
@@ -134,16 +134,11 @@
     }
 
     @media (min-width: 920px){
-      .grid{
-        grid-template-columns: 1.05fr 1.0fr;
-      }
+      .grid{ grid-template-columns: 1.05fr 1.0fr; }
     }
 
     @media (min-width: 1240px){
-      .grid{
-        grid-template-columns: 1.05fr 1.0fr;
-        gap: 26px;
-      }
+      .grid{ grid-template-columns: 1.05fr 1.0fr; gap: 26px; }
     }
 
     /* ---------- CARDS ---------- */
@@ -395,9 +390,7 @@
         .replaceAll("'","&#039;");
     }
 
-    function nowBust(){
-      return String(Date.now());
-    }
+    function nowBust(){ return String(Date.now()); }
 
     function stamp(text, variant){
       const cls = variant === "source" ? "stamp red" : "stamp";
@@ -422,10 +415,20 @@
       return b + u; // u must start with "/"
     }
 
-    // FIX: make hero background repo-safe
+    // BULLETPROOF HERO:
+    // Try landing.webp, fallback to landing.png
     (function setHero(){
-      const heroUrl = path("/assets/landing.webp");
-      document.documentElement.style.setProperty("--hero-bg", `url("${heroUrl}")`);
+      const webp = path("/assets/landing.webp");
+      const png  = path("/assets/landing.png");
+
+      function apply(url){
+        document.documentElement.style.setProperty("--hero-bg", `url("${url}")`);
+      }
+
+      const img = new Image();
+      img.onload = () => apply(webp);
+      img.onerror = () => apply(png);
+      img.src = webp + "?v=" + nowBust();
     })();
 
     async function fetchJson(url){
@@ -547,9 +550,7 @@
 
       setMini("hn-updated", updatedText);
 
-      if (!Array.isArray(items) || items.length === 0){
-        return;
-      }
+      if (!Array.isArray(items) || items.length === 0) return;
 
       const html = items.slice(0, 5).map(it => {
         const title = it?.title || "Untitled";
