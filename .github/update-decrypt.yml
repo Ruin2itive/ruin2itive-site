@@ -1,17 +1,20 @@
-name: Update Decrypt feed
+name: Update Decrypt Feed
 
 on:
-  schedule:
-    - cron: "0 * * * *"   # every hour
   workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-decrypt
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -20,19 +23,23 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: "npm"
 
       - name: Install deps
-        run: npm ci
+        run: npm install --no-audit --no-fund
 
-      - name: Build Decrypt JSON
+      - name: Build decrypt.json
         run: npm run build:decrypt
 
-      - name: Commit updated feed (if changed)
+      - name: Commit and push if changed
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git config user.name "ruin2itive-bot"
+          git config user.email "ruin2itive-bot@users.noreply.github.com"
+
           git add data/decrypt.json
-          git diff --cached --quiet && exit 0
-          git commit -m "Update Decrypt feed"
+          git commit -m "Update decrypt feed"
           git push
