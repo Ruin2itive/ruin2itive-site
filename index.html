@@ -1,184 +1,370 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>ruin2itive</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <title>ruin2itive</title>
+  <meta name="description" content="Reliability • Open Source • Independent" />
 
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Libre+Baskerville:wght@400;700&display=swap"
+    rel="stylesheet"
+  />
 
-<style>
-:root{
-  --ink:#111;
-  --accent:#7b1e1e;
-  --paper:#f4f1eb;
-  --line:#cfcac1;
-}
+  <style>
+    :root{
+      --paper:#f4f1eb;
+      --ink:#101010;
+      --muted:#5f5a52;
+      --line:#cfcac1;
+      --accent:#7b1e1e;
 
-*{margin:0;padding:0;box-sizing:border-box;}
+      --wrap: 860px;
+      --gutter: 22px;
 
-body{
-  font-family:'Libre Baskerville', serif;
-  background:var(--paper);
-  color:var(--ink);
-}
+      --radius: 10px;
+      --shadow: 0 10px 28px rgba(0,0,0,0.06);
+    }
 
-/* ===== HERO (TOP OF PAGE) ===== */
+    *{box-sizing:border-box;margin:0;padding:0}
+    html,body{height:100%}
+    body{
+      background:var(--paper);
+      color:var(--ink);
+      font-family:"Libre Baskerville", serif;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      text-rendering: optimizeLegibility;
+    }
 
-.hero{
-  height:60vh;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  text-align:center;
+    a{color:inherit;text-decoration:none}
+    a:focus{outline:2px solid rgba(123,30,30,0.35); outline-offset:3px; border-radius:6px}
 
-  /* elephant image + paper fade so text reads */
-  background:
-    linear-gradient(rgba(244,241,235,0.78), rgba(244,241,235,0.92)),
-    url("assets/elephant-third-eye.png") center top / cover no-repeat;
-}
+    /* ===== FRAME / WRAP ===== */
+    .wrap{
+      max-width: var(--wrap);
+      margin: 0 auto;
+      padding: 0 var(--gutter);
+    }
 
-.hero-inner{
-  transform: translateY(18px);
-  padding: 0 18px;
-  max-width: 960px;
-}
+    /* ===== HERO ===== */
+    .hero{
+      position: relative;
+      min-height: 62vh;
+      display:flex;
+      align-items:flex-end;
+      justify-content:center;
+      overflow:hidden;
+      border-bottom: 1px solid var(--line);
+    }
 
-.hero h1{
-  font-family:'Playfair Display', serif;
-  font-size:2.35rem;
-  font-weight:700;
-  letter-spacing:-0.4px;
-  margin-bottom:12px;
-}
+    /* elephant background */
+    .hero::before{
+      content:"";
+      position:absolute; inset:0;
+      background:
+        url("assets/elephant-third-eye.png") center top / cover no-repeat;
+      filter: contrast(1.06) saturate(0.98);
+      transform: scale(1.02);
+    }
 
-.hero p{
-  font-size:0.72rem;
-  letter-spacing:2px;
-  text-transform:uppercase;
-  color:#333;
-}
+    /* paper fade + ink vignette to feel “printed” */
+    .hero::after{
+      content:"";
+      position:absolute; inset:0;
+      background:
+        radial-gradient(1200px 520px at 50% 18%,
+          rgba(244,241,235,0.10) 0%,
+          rgba(244,241,235,0.55) 45%,
+          rgba(244,241,235,0.92) 78%,
+          rgba(244,241,235,0.98) 100%),
+        radial-gradient(900px 380px at 50% 8%,
+          rgba(0,0,0,0.08) 0%,
+          rgba(0,0,0,0.02) 45%,
+          rgba(0,0,0,0.00) 70%);
+      mix-blend-mode: normal;
+      pointer-events:none;
+    }
 
-/* ===== BODY SECTIONS ===== */
+    .mast{
+      position:relative;
+      width:100%;
+      padding: 34px 0 28px;
+    }
 
-.section{
-  padding:56px 22px;
-  max-width:760px;
-  margin:0 auto;
-}
+    .mast-inner{
+      max-width: var(--wrap);
+      margin: 0 auto;
+      padding: 0 var(--gutter);
+      text-align:center;
+    }
 
-.section-title{
-  font-size:0.9rem;
-  letter-spacing:4px;
-  text-transform:uppercase;
-  color:var(--accent);
-  margin-bottom:26px;
-}
+    .kicker{
+      display:flex;
+      gap:12px;
+      justify-content:center;
+      align-items:center;
+      color: var(--muted);
+      font-size: 0.72rem;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+    }
 
-.divider{
-  height:1px;
-  background:var(--line);
-  margin:22px 0;
-}
+    .kicker .dot{
+      width:4px;height:4px;border-radius:99px;
+      background: var(--accent);
+      opacity: 0.85;
+    }
 
-.item{
-  padding:16px 0 6px 0;
-}
+    .name{
+      font-family:"Playfair Display", serif;
+      font-weight:700;
+      letter-spacing:-0.6px;
+      font-size: clamp(2.1rem, 6vw, 3.1rem);
+      line-height:1.04;
+    }
 
-.item h3{
-  font-family:'Playfair Display', serif;
-  font-size:1.55rem;
-  font-weight:700;
-}
+    .rule{
+      height:1px;
+      background: var(--line);
+      margin: 14px auto 10px;
+      max-width: 560px;
+    }
 
-.item-meta{
-  margin-top:6px;
-  margin-left:8px;
-  font-size:0.85rem;
-  color:#666;
-}
+    .tagline{
+      font-size: 0.78rem;
+      letter-spacing: 2.4px;
+      text-transform: uppercase;
+      color: #2c2a26;
+      opacity: 0.92;
+    }
 
-.feature-placeholder{
-  font-family:'Playfair Display', serif;
-  font-size:1.25rem;
-  font-weight:600;
-  margin-top:8px;
-  color:#111;
-}
+    /* ===== MAIN LAYOUT ===== */
+    main{ padding: 38px 0 20px; }
 
-/* ===== FOOTER ===== */
+    .grid{
+      display:grid;
+      grid-template-columns: 1fr;
+      gap: 26px;
+    }
 
-footer{
-  padding:36px 20px;
-  text-align:center;
-  font-size:0.8rem;
-  color:#666;
-  border-top:1px solid var(--line);
-}
+    @media (min-width: 880px){
+      .grid{
+        grid-template-columns: 1.05fr 0.95fr;
+        gap: 30px;
+        align-items:start;
+      }
+    }
 
-/* ===== MOBILE ===== */
+    /* ===== SECTION CARD ===== */
+    .panel{
+      background: rgba(255,255,255,0.20);
+      border: 1px solid rgba(207,202,193,0.85);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow:hidden;
+    }
 
-@media(max-width:768px){
-  .hero{height:58vh;}
-  .hero h1{font-size:2.2rem;}
-  .hero p{font-size:0.7rem;}
+    .panel-head{
+      padding: 18px 18px 14px;
+      border-bottom: 1px solid rgba(207,202,193,0.85);
+      background:
+        linear-gradient(to bottom,
+          rgba(255,255,255,0.14),
+          rgba(255,255,255,0.00));
+    }
 
-  .item h3{font-size:1.45rem;}
-  .feature-placeholder{font-size:1.15rem;}
-}
-</style>
+    .panel-title{
+      color: var(--accent);
+      font-size: 0.86rem;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+    }
+
+    .panel-body{ padding: 6px 18px 14px; }
+
+    /* ===== LIST ITEMS ===== */
+    .item{
+      display:block;
+      padding: 16px 10px 14px;
+      border-bottom: 1px solid rgba(207,202,193,0.75);
+      border-radius: 10px;
+      transition: background 120ms ease, transform 120ms ease;
+    }
+
+    .item:last-child{ border-bottom: none; }
+
+    .item:hover{
+      background: rgba(123,30,30,0.06);
+      transform: translateY(-1px);
+    }
+
+    .item h3{
+      font-family:"Playfair Display", serif;
+      font-weight:700;
+      font-size: 1.55rem;
+      line-height: 1.14;
+      letter-spacing: -0.2px;
+    }
+
+    .meta{
+      margin-top: 6px;
+      color: var(--muted);
+      font-size: 0.86rem;
+      display:flex;
+      gap:10px;
+      align-items:center;
+    }
+
+    .pill{
+      display:inline-block;
+      padding: 4px 10px;
+      border: 1px solid rgba(207,202,193,0.9);
+      border-radius: 999px;
+      background: rgba(255,255,255,0.20);
+      font-size: 0.76rem;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+    }
+
+    /* ===== FEATURE BLOCKS ===== */
+    .feature{
+      padding: 18px 10px 14px;
+    }
+
+    .feature .headline{
+      font-family:"Playfair Display", serif;
+      font-weight:700;
+      font-size: 1.35rem;
+      letter-spacing:-0.15px;
+      margin-bottom: 8px;
+    }
+
+    .feature .sub{
+      color: var(--muted);
+      font-size: 0.92rem;
+      line-height: 1.55;
+    }
+
+    .status{
+      display:inline-block;
+      margin-top: 10px;
+      color: var(--accent);
+      font-size: 0.78rem;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      opacity: 0.95;
+    }
+
+    /* ===== FOOTER ===== */
+    footer{
+      padding: 26px 0 34px;
+      border-top: 1px solid var(--line);
+      margin-top: 18px;
+      color: var(--muted);
+      font-size: 0.84rem;
+      text-align:center;
+    }
+  </style>
 </head>
 
 <body>
 
-<!-- TOP / HERO -->
-<section class="hero">
-  <div class="hero-inner">
-    <h1>ruin2itive</h1>
-    <p>Reliability • Open Source • Independent</p>
-  </div>
-</section>
+  <header class="hero">
+    <div class="mast">
+      <div class="mast-inner">
+        <div class="kicker">
+          <span>Reliability</span><span class="dot"></span>
+          <span>Open Source</span><span class="dot"></span>
+          <span>Independent</span>
+        </div>
 
-<!-- PROJECTS -->
-<section class="section">
-  <div class="section-title">Projects / The Code</div>
+        <div class="name">ruin2itive</div>
+        <div class="rule"></div>
+        <div class="tagline">Signals • Systems • Memory</div>
+      </div>
+    </div>
+  </header>
 
-  <div class="divider"></div>
-  <div class="item">
-    <h3>ruin2itive</h3>
-    <div class="item-meta">github • src</div>
-  </div>
+  <main class="wrap">
+    <div class="grid">
 
-  <div class="divider"></div>
-  <div class="item">
-    <h3>arduino</h3>
-    <div class="item-meta">hackster • hardware</div>
-  </div>
+      <!-- LEFT: PROJECTS -->
+      <section class="panel">
+        <div class="panel-head">
+          <div class="panel-title">Projects / The Code</div>
+        </div>
 
-  <div class="divider"></div>
-  <div class="item">
-    <h3>raspberry_pi</h3>
-    <div class="item-meta">instructables • diy</div>
-  </div>
-</section>
+        <div class="panel-body">
+          <a class="item" href="#" aria-label="ruin2itive project">
+            <h3>ruin2itive</h3>
+            <div class="meta">
+              <span class="pill">github</span>
+              <span class="pill">src</span>
+            </div>
+          </a>
 
-<!-- MARKETS -->
-<section class="section">
-  <div class="section-title">Markets / Crypto</div>
-  <div class="divider"></div>
-  <div class="feature-placeholder">Curating signal…</div>
-</section>
+          <a class="item" href="#" aria-label="arduino project">
+            <h3>arduino</h3>
+            <div class="meta">
+              <span class="pill">hackster</span>
+              <span class="pill">hardware</span>
+            </div>
+          </a>
 
-<!-- HACKER NEWS -->
-<section class="section">
-  <div class="section-title">Hacker News</div>
-  <div class="divider"></div>
-  <div class="feature-placeholder">Curating signal…</div>
-</section>
+          <a class="item" href="#" aria-label="raspberry pi project">
+            <h3>raspberry_pi</h3>
+            <div class="meta">
+              <span class="pill">instructables</span>
+              <span class="pill">diy</span>
+            </div>
+          </a>
+        </div>
+      </section>
 
-<footer>
-  © 2026 ruin2itive.org
-</footer>
+      <!-- RIGHT: FEEDS -->
+      <section class="panel">
+        <div class="panel-head">
+          <div class="panel-title">Markets / Crypto</div>
+        </div>
+        <div class="panel-body">
+          <div class="feature">
+            <div class="headline">Curating signal…</div>
+            <div class="sub">
+              This slot becomes your top items (e.g., Decrypt / on-chain / alerts).
+              Keep it curated, deterministic, and fast.
+            </div>
+            <div class="status">Status: building</div>
+          </div>
+
+          <div style="height:1px;background:rgba(207,202,193,0.75);margin:6px 0 2px;"></div>
+
+          <div class="panel-head" style="border-bottom:none;padding:16px 18px 10px;">
+            <div class="panel-title">Hacker News</div>
+          </div>
+
+          <div class="panel-body" style="padding-top:0;">
+            <div class="feature">
+              <div class="headline">Curating signal…</div>
+              <div class="sub">
+                Newest technical items with minimal noise.
+                This area should feel like a calm instrument panel.
+              </div>
+              <div class="status">Status: building</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <footer class="wrap">
+    © 2026 ruin2itive.org
+  </footer>
 
 </body>
 </html>
