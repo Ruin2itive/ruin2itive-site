@@ -20,23 +20,21 @@
       --ink:#0f0f10;
       --muted:#5c5750;
 
-      /* hairline rules (print feel) */
       --line: rgba(26,22,18,0.16);
       --line2: rgba(26,22,18,0.10);
 
-      /* brand */
       --accent:#7b1e1e;
 
       --wrap: 860px;
       --gutter: 22px;
       --radius: 12px;
 
-      /* very restrained shadow */
       --shadow: 0 8px 22px rgba(0,0,0,0.05);
     }
 
     *{box-sizing:border-box;margin:0;padding:0}
     html,body{height:100%}
+
     body{
       background:var(--paper);
       color:var(--ink);
@@ -67,34 +65,27 @@
       background: var(--paper);
     }
 
-    /* elephant */
     .hero::before{
       content:"";
       position:absolute; inset:0;
-
-      /* more ink */
       background: url("assets/elephant-third-eye.png") center top / cover no-repeat;
       filter: contrast(1.18) saturate(0.92) brightness(0.98);
       transform: scale(1.03);
     }
 
-    /* paper fade + grit vignette (lighter than before) */
     .hero::after{
       content:"";
       position:absolute; inset:0;
       background:
-        /* paper veil */
         radial-gradient(1200px 520px at 50% 18%,
           rgba(244,241,235,0.05) 0%,
           rgba(244,241,235,0.38) 46%,
           rgba(244,241,235,0.78) 78%,
           rgba(244,241,235,0.92) 100%),
-        /* subtle ink vignette (underground) */
         radial-gradient(900px 380px at 50% 8%,
           rgba(0,0,0,0.10) 0%,
           rgba(0,0,0,0.03) 50%,
           rgba(0,0,0,0.00) 72%),
-        /* faint paper grain */
         repeating-linear-gradient(
           0deg,
           rgba(0,0,0,0.015) 0px,
@@ -144,7 +135,7 @@
       letter-spacing:-0.7px;
       font-size: clamp(2.15rem, 6vw, 3.2rem);
       line-height:1.04;
-      color: rgba(16,16,16,0.92); /* stronger */
+      color: rgba(16,16,16,0.92);
       text-shadow: 0 1px 0 rgba(255,255,255,0.25);
     }
 
@@ -181,8 +172,8 @@
 
     /* ===== PANEL ===== */
     .panel{
-      background: rgba(255,255,255,0.14); /* paper, not pink */
-      border: 1px solid var(--line2);      /* hairline */
+      background: rgba(255,255,255,0.14);
+      border: 1px solid var(--line2);
       border-radius: var(--radius);
       box-shadow: var(--shadow);
       overflow:hidden;
@@ -235,7 +226,6 @@
       flex-wrap: wrap;
     }
 
-    /* Pills as “stamp labels” */
     .pill{
       display:inline-block;
       padding: 4px 9px;
@@ -247,28 +237,30 @@
       text-transform: uppercase;
     }
 
-    /* ===== FEATURES ===== */
-    .feature{
-      padding: 16px 10px 14px;
+    /* ===== FEED LIST ===== */
+    .feed{
+      padding: 10px;
+      border-radius: 10px;
     }
 
-    .feature .headline{
+    .feed .headline{
       font-family:"Playfair Display", serif;
       font-weight:700;
-      font-size: 1.28rem; /* smaller, more editorial */
+      font-size: 1.28rem;
       letter-spacing:-0.18px;
       margin-bottom: 8px;
     }
 
-    .feature .sub{
+    .feed .sub{
       color: var(--muted);
       font-size: 0.92rem;
       line-height: 1.55;
+      margin-bottom: 10px;
     }
 
     .status{
       display:inline-block;
-      margin-top: 10px;
+      margin-top: 2px;
       color: var(--accent);
       font-size: 0.76rem;
       letter-spacing: 2px;
@@ -280,6 +272,44 @@
       height:1px;
       background: rgba(26,22,18,0.10);
       margin: 6px 0 2px;
+    }
+
+    .feedlist{
+      margin-top: 10px;
+      display:flex;
+      flex-direction:column;
+      gap:10px;
+    }
+
+    .feedlink{
+      display:block;
+      padding: 10px 10px;
+      border: 1px solid rgba(26,22,18,0.12);
+      background: rgba(255,255,255,0.08);
+      border-radius: 10px;
+      transition: background 140ms ease, transform 140ms ease;
+    }
+
+    .feedlink:hover{
+      background: rgba(123,30,30,0.055);
+      transform: translateY(-1px);
+    }
+
+    .feedtitle{
+      font-size: 0.98rem;
+      line-height: 1.35;
+      color: rgba(16,16,16,0.92);
+    }
+
+    .feedmeta{
+      margin-top: 6px;
+      display:flex;
+      gap:8px;
+      flex-wrap:wrap;
+      color: var(--muted);
+      font-size: 0.78rem;
+      letter-spacing: 1px;
+      text-transform: uppercase;
     }
 
     /* ===== FOOTER ===== */
@@ -302,7 +332,6 @@
 </head>
 
 <body>
-
   <header class="hero">
     <div class="mast">
       <div class="mast-inner">
@@ -322,7 +351,7 @@
   <main class="wrap">
     <div class="grid">
 
-      <!-- LEFT: PROJECTS -->
+      <!-- LEFT: PROJECTS (keep your current layout; swap hrefs later) -->
       <section class="panel">
         <div class="panel-head">
           <div class="panel-title">Projects / The Code</div>
@@ -355,19 +384,24 @@
         </div>
       </section>
 
-      <!-- RIGHT: FEEDS -->
+      <!-- RIGHT: MARKETS / CRYPTO (Decrypt top 3) -->
       <section class="panel">
         <div class="panel-head">
           <div class="panel-title">Markets / Crypto</div>
         </div>
 
         <div class="panel-body">
-          <div class="feature">
-            <div class="headline">Curating signal…</div>
+          <div class="feed">
+            <div class="headline">Decrypt</div>
             <div class="sub">
-              Deterministic, curated items. Fast render. Minimal noise.
+              Top 3 items, rebuilt hourly server-side. Fast render. Minimal noise.
             </div>
-            <div class="status">Status: building</div>
+
+            <div id="decrypt-status" class="status">Status: loading</div>
+
+            <div class="feedlist" id="decrypt-root" aria-live="polite">
+              <!-- injected -->
+            </div>
           </div>
 
           <div class="thinrule"></div>
@@ -377,11 +411,9 @@
           </div>
 
           <div class="panel-body" style="padding-top:0;">
-            <div class="feature">
+            <div class="feed">
               <div class="headline">Curating signal…</div>
-              <div class="sub">
-                Newest technical items. Calm instrument-panel vibe.
-              </div>
+              <div class="sub">Newest technical items. Calm instrument-panel vibe.</div>
               <div class="status">Status: building</div>
             </div>
           </div>
@@ -391,9 +423,71 @@
     </div>
   </main>
 
-  <footer class="wrap">
-    © 2026 ruin2itive.org
-  </footer>
+  <footer class="wrap">© 2026 ruin2itive.org</footer>
 
+  <script>
+    function esc(s){
+      return String(s)
+        .replaceAll("&","&amp;")
+        .replaceAll("<","&lt;")
+        .replaceAll(">","&gt;")
+        .replaceAll('"',"&quot;")
+        .replaceAll("'","&#39;");
+    }
+
+    function fmtTime(iso){
+      try{
+        const d = new Date(iso);
+        return d.toLocaleString();
+      }catch(e){
+        return "";
+      }
+    }
+
+    async function loadDecryptTop3(){
+      const root = document.getElementById("decrypt-root");
+      const status = document.getElementById("decrypt-status");
+      root.innerHTML = "";
+
+      try{
+        const r = await fetch("/data/decrypt.json", { cache: "no-store" });
+        if(!r.ok) throw new Error("HTTP " + r.status);
+        const data = await r.json();
+
+        const items = Array.isArray(data.items) ? data.items : [];
+        if(items.length === 0) throw new Error("No items");
+
+        status.textContent = "Updated: " + fmtTime(data.updated);
+
+        const html = items.slice(0,3).map(it => {
+          const url = it.url || "#";
+          const title = it.title || "Untitled";
+          return `
+            <a class="feedlink" href="${esc(url)}" target="_blank" rel="noopener">
+              <div class="feedtitle">${esc(title)}</div>
+              <div class="feedmeta">
+                <span>Decrypt</span>
+                <span>•</span>
+                <span>${esc(it.stamp || "")}</span>
+              </div>
+            </a>
+          `;
+        }).join("");
+
+        root.innerHTML = html;
+
+      }catch(err){
+        status.textContent = "Status: degraded";
+        root.innerHTML = `
+          <div class="sub">
+            Could not load Decrypt feed (/data/decrypt.json).
+          </div>
+        `;
+        console.error(err);
+      }
+    }
+
+    loadDecryptTop3();
+  </script>
 </body>
 </html>
