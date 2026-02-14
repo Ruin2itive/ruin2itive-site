@@ -6,123 +6,148 @@
   <title>ruin2itive.org</title>
 
   <style>
-    /* KEEP YOUR EXISTING STYLES ABOVE THIS LINE */
-    /* Do not change hero/background CSS. */
+    body {
+      margin: 0;
+      font-family: Georgia, serif;
+      background: #f4f1e8;
+      color: #1a1a1a;
+    }
 
-    /* Projects section styling — matches your current "pill button" vibe */
+    /* ===== HERO (KEEP YOUR ELEPHANT IMAGE HERE) ===== */
+    .hero {
+      background: url("assets/elephant-third-eye.png") center/cover no-repeat;
+      height: 320px;
+      width: 100%;
+    }
+
+    /* ===== PROJECTS SECTION ===== */
     .panel {
-      background: rgba(250, 248, 242, 0.92);
-      border: 1px solid rgba(0,0,0,0.10);
+      margin: 24px auto;
+      max-width: 900px;
+      background: #eae6dc;
+      border: 1px solid rgba(0,0,0,0.1);
       border-radius: 14px;
-      padding: 18px 16px;
-      backdrop-filter: blur(6px);
-      -webkit-backdrop-filter: blur(6px);
+      padding: 24px;
     }
 
     .panel-title {
-      letter-spacing: .18em;
+      font-size: 16px;
+      letter-spacing: 0.2em;
       text-transform: uppercase;
-      font-size: 14px;
-      margin: 0 0 14px 0;
+      margin-bottom: 20px;
     }
 
     .proj {
-      padding: 14px 12px;
-      border-radius: 12px;
-      border: 1px solid rgba(0,0,0,0.10);
-      background: rgba(255,255,255,0.65);
-      margin-bottom: 12px;
+      background: #f3f1eb;
+      border: 1px solid rgba(0,0,0,0.12);
+      border-radius: 14px;
+      padding: 18px;
+      margin-bottom: 16px;
     }
 
     .proj h3 {
-      margin: 0 0 10px 0;
-      font-size: 34px;
-      line-height: 1.0;
+      font-size: 40px;
+      margin: 0 0 14px 0;
       font-weight: 800;
       letter-spacing: -0.02em;
     }
 
     .pillrow {
       display: flex;
-      gap: 10px;
       flex-wrap: wrap;
+      gap: 10px;
     }
 
     .pill {
-      display: inline-block;
-      padding: 10px 14px;
+      padding: 10px 16px;
       border-radius: 999px;
-      border: 1px solid rgba(0,0,0,0.18);
-      background: rgba(255,255,255,0.55);
+      border: 1px solid rgba(0,0,0,0.2);
       text-decoration: none;
-      color: #1a1a1a;
-      letter-spacing: .18em;
-      text-transform: uppercase;
       font-size: 12px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      background: #fff;
+      color: #1a1a1a;
+      transition: all 0.15s ease;
     }
 
-    .pill:active { transform: translateY(1px); }
+    .pill:hover {
+      background: #1a1a1a;
+      color: #fff;
+    }
   </style>
 </head>
 
 <body>
-  <!-- KEEP YOUR EXISTING HERO / HEADER / ELEPHANT MARKUP EXACTLY AS-IS -->
 
-  <!-- =========================================
-       PROJECTS / THE CODE (AUTOMATED)
-       This is the only section you replace.
-       ========================================= -->
-  <section class="panel" aria-label="Projects / The Code">
-    <h2 class="panel-title">PROJECTS / THE CODE</h2>
-    <div id="projects-root">
-      <!-- Auto-filled from data/projects.json -->
-    </div>
+  <!-- HERO SECTION -->
+  <div class="hero"></div>
+
+  <!-- PROJECTS / THE CODE -->
+  <section class="panel">
+    <div class="panel-title">PROJECTS / THE CODE</div>
+    <div id="projects-root"></div>
   </section>
 
   <script>
     async function loadProjects() {
       const root = document.getElementById("projects-root");
-      try {
-        const res = await fetch("./data/projects.json", { cache: "no-store" });
-        if (!res.ok) throw new Error("HTTP " + res.status);
-        const data = await res.json();
 
-        if (!data || !Array.isArray(data.groups)) {
-          throw new Error("Invalid projects.json shape");
+      try {
+        const response = await fetch("/data/projects.json", {
+          cache: "no-store"
+        });
+
+        if (!response.ok) {
+          throw new Error("HTTP " + response.status);
+        }
+
+        const data = await response.json();
+
+        if (!data.groups || !Array.isArray(data.groups)) {
+          throw new Error("Invalid JSON structure");
         }
 
         root.innerHTML = data.groups.map(group => {
-          const title = String(group.title ?? "");
-          const links = Array.isArray(group.links) ? group.links : [];
-          const pills = links.map(l => {
-            const label = String(l.label ?? "");
-            const href = String(l.href ?? "#");
-            const safeHref = href.startsWith("http") ? href : "#";
-            return `<a class="pill" href="${safeHref}" target="_blank" rel="noopener">${label}</a>`;
+          const title = group.title || "";
+          const links = group.links || [];
+
+          const pills = links.map(link => {
+            return `
+              <a class="pill"
+                 href="${link.href}"
+                 target="_blank"
+                 rel="noopener">
+                 ${link.label}
+              </a>
+            `;
           }).join("");
 
           return `
             <div class="proj">
               <h3>${title}</h3>
-              <div class="pillrow">${pills}</div>
+              <div class="pillrow">
+                ${pills}
+              </div>
             </div>
           `;
         }).join("");
 
-      } catch (err) {
+      } catch (error) {
         root.innerHTML = `
           <div class="proj">
             <h3>projects</h3>
-            <div style="opacity:.7; font-size:14px;">
-              Could not load links (data/projects.json).
+            <div style="opacity:0.6;font-size:14px;">
+              Could not load links (/data/projects.json).
             </div>
           </div>
         `;
-        console.error(err);
+        console.error(error);
       }
     }
 
     loadProjects();
   </script>
+
 </body>
 </html>
