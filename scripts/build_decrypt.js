@@ -1,107 +1,64 @@
-import fs from "node:fs";
-import path from "node:path";
+/* scripts/build_decrypt.js
+   Pull Decrypt RSS, write /data/decrypt.json (top N)
+*/
 
-const OUT_PATH = path.join(process.cwd(), "data", "decrypt.json");
-const HOME = "https://decrypt.co/";
+const fs = require("fs");
+const path = require("path");
+const Parser = require("rss-parser");
 
-function nowISO() {
+const OUT_FILE = path.join(process.cwd(), "data", "decrypt.json");
+const FEED_URL = "https://decrypt.co/feed";
+const MAX_ITEMS = 5;
+
+function isoNow() {
   return new Date().toISOString();
 }
 
-function uniq(arr) {
-  return [...new Set(arr)];
+function safeText(s) {
+  return String(s || "").replace(/\s+/g, " ").trim();
 }
 
-function normalizeUrl(u) {
+(async () => {
   try {
-    const url = new URL(u, HOME);
-    // keep only decrypt.co links
-    if (!url.hostname.endsWith("decrypt.co")) return null;
-    return url.toString();
-  } catch {
-    return null;
-  }
-}
-
-/**
- * Heuristic extraction:
- * - Find hrefs that look like Decrypt articles (commonly /<id>/<slug> or /news/<id>/...)
- * - Keep first 3 unique.
- *
- * NOTE: "Top 3" is defined as the first 3 matching article links found on the Decrypt homepage HTML.
- */
-function extractTop3(html) {
-  const hrefs = [];
-
-  // Find href="...":
-  const re = /href\s*=\s*"([^"]+)"/gi;
-  let m;
-  while ((m = re.exec(html)) !== null) {
-    hrefs.push(m[1]);
-  }
-
-  const candidates = hrefs
-    .map(normalizeUrl)
-    .filter(Boolean)
-    .filter((u) => {
-      // Common Decrypt article URL patterns:
-      // https://decrypt.co/123456/some-slug
-      // https://decrypt.co/news/123456/some-slug (varies)
-      const p = new URL(u).pathname;
-      const looksLikeArticle =
-        /^\/\d+\/[^\/]+/.test(p) ||
-        /^\/\d+\/.+/.test(p) ||
-        /^\/news\/\d+\/.+/.test(p);
-      return looksLikeArticle;
+    const parser = new Parser({
+      timeout: 15000,
+      headers: {
+        "User-Agent": "ruin2itive-bot/1.0 (+https://ruin2itive.org)"
+      }
     });
 
-  const top = uniq(candidates).slice(0, 3);
+    const feed = await parser.parseURL(FEED_URL);
 
-  return top.map((url) => ({
-    title: "Decrypt: " + new URL(url).pathname.replaceAll("/", " ").trim(),
-    url,
-    stamp: "TOP",
-    source: "decrypt",
-  }));
-}
+    const items = (feed.items || [])
+      .slice(0, MAX_ITEMS)
+      .map((it) => {
+        const title = safeText(it.title);
+        const url = safeText(it.link);
+        const pub = it.isoDate || it.pubDate || null;
 
-async function main() {
-  const res = await fetch(HOME, {
-    headers: {
-      "user-agent": "ruin2itive-feed-bot/1.0 (+https://ruin2itive.org)",
-      "accept": "text/html,*/*",
-    },
-    redirect: "follow",
-  });
+        return {
+          title: title || "Untitled",
+          url: url || "https://decrypt.co/",
+          stamp: pub ? new Date(pub).toISOString() : "UNKNOWN",
+          source: "decrypt"
+        };
+      });
 
-  if (!res.ok) {
-    throw new Error(`Failed to fetch Decrypt homepage: HTTP ${res.status}`);
+    const out = {
+      updated: isoNow(),
+      items: items.length ? items : [
+        { title: "No items parsed", url: "https://decrypt.co/", stamp: "EMPTY", source: "decrypt" }
+      ]
+    };
+
+    fs.mkdirSync(path.dirname(OUT_FILE), { recursive: true });
+    fs.writeFileSync(OUT_FILE, JSON.stringify(out, null, 2) + "\n", "utf8");
+
+    console.log("Wrote:", OUT_FILE);
+    console.log("updated:", out.updated);
+    console.log("count:", out.items.length);
+  } catch (err) {
+    console.error("build_decrypt failed:", err?.message || err);
+    process.exit(1);
   }
-
-  const html = await res.text();
-  const items = extractTop3(html);
-
-  // If extraction fails, keep a safe fallback.
-  const safeItems = (items && items.length === 3)
-    ? items
-    : [
-        { title: "Decrypt (fallback)", url: HOME, stamp: "FALLBACK", source: "decrypt" },
-        { title: "Decrypt (fallback)", url: HOME, stamp: "FALLBACK", source: "decrypt" },
-        { title: "Decrypt (fallback)", url: HOME, stamp: "FALLBACK", source: "decrypt" },
-      ];
-
-  const out = {
-    updated: nowISO(),
-    items: safeItems,
-  };
-
-  fs.mkdirSync(path.dirname(OUT_PATH), { recursive: true });
-  fs.writeFileSync(OUT_PATH, JSON.stringify(out, null, 2) + "\n", "utf8");
-
-  console.log(`Wrote ${OUT_PATH} (${out.items.length} items)`);
-}
-
-main().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+})();
