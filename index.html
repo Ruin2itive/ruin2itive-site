@@ -25,6 +25,9 @@
 
       --safe-top: env(safe-area-inset-top, 0px);
       --safe-bot: env(safe-area-inset-bottom, 0px);
+
+      /* will be set by JS using repo-safe path() */
+      --hero-bg: none;
     }
 
     *{ box-sizing:border-box; }
@@ -46,7 +49,7 @@
       position:relative;
       overflow:hidden;
       background: var(--paper);
-      min-height: clamp(360px, 56vh, 640px); /* keeps the iPhone feel on desktop */
+      min-height: clamp(360px, 56vh, 640px);
       padding-top: calc(10px + var(--safe-top));
     }
 
@@ -54,7 +57,7 @@
       content:"";
       position:absolute;
       inset:-60px -60px -60px -60px;
-      background-image: url("assets/landing.webp");
+      background-image: var(--hero-bg);
       background-size: cover;
       background-repeat:no-repeat;
       background-position: center 55%;
@@ -76,7 +79,7 @@
       pointer-events:none;
     }
 
-    /* Wordmark overlay (subtle, keeps art dominant) */
+    /* Wordmark overlay */
     .mast{
       position:relative;
       z-index:2;
@@ -120,7 +123,7 @@
 
     main{
       position:relative;
-      margin-top: clamp(-170px, -12vh, -110px); /* pulls cards up into hero like iPhone */
+      margin-top: clamp(-170px, -12vh, -110px);
     }
 
     .grid{
@@ -132,7 +135,7 @@
 
     @media (min-width: 920px){
       .grid{
-        grid-template-columns: 1.05fr 1.0fr; /* projects slightly wider on desktop */
+        grid-template-columns: 1.05fr 1.0fr;
       }
     }
 
@@ -179,9 +182,7 @@
       white-space:nowrap;
     }
 
-    .body{
-      padding: 14px 18px 16px;
-    }
+    .body{ padding: 14px 18px 16px; }
 
     /* ---------- PROJECTS ---------- */
     .proj{
@@ -261,13 +262,8 @@
     }
 
     /* ---------- “QUIET / EMPTY / ERROR” ---------- */
-    .feature{
-      padding: 14px 0 8px;
-    }
-    .headline{
-      font-size: 17px;
-      margin:0 0 6px;
-    }
+    .feature{ padding: 14px 0 8px; }
+    .headline{ font-size: 17px; margin:0 0 6px; }
     .sub{
       color: var(--muted);
       margin:0 0 10px;
@@ -426,6 +422,12 @@
       return b + u; // u must start with "/"
     }
 
+    // FIX: make hero background repo-safe
+    (function setHero(){
+      const heroUrl = path("/assets/landing.webp");
+      document.documentElement.style.setProperty("--hero-bg", `url("${heroUrl}")`);
+    })();
+
     async function fetchJson(url){
       const r = await fetch(url, { cache: "no-store" });
       if (!r.ok) throw new Error(`HTTP ${r.status}`);
@@ -500,13 +502,13 @@
         (!updated || isNaN(updated.getTime())) ||
         (updated && updated.getFullYear && updated.getFullYear() < 2000);
 
-      const updatedText = (!isSeed)
+      const updatedText = (!isSeed && updated && !isNaN(updated.getTime()))
         ? `Updated: ${updated.toLocaleString()}`
         : "Seed (waiting on feed)";
 
       setMini("decrypt-updated", updatedText);
 
-      const itemsHtml = items.slice(0, 5).map(it => {
+      const itemsHtml = items.slice(0, 3).map(it => {
         const title = it?.title || "Untitled";
         const url = it?.url || "#";
         const src = it?.source || "decrypt";
@@ -546,7 +548,7 @@
       setMini("hn-updated", updatedText);
 
       if (!Array.isArray(items) || items.length === 0){
-        return; // keep quiet default if none
+        return;
       }
 
       const html = items.slice(0, 5).map(it => {
@@ -567,7 +569,6 @@
     // Boot
     // -----------------------------
     async function boot(){
-      // Projects
       try{
         const projects = await fetchJson(`${path("/data/projects.json")}?${nowBust()}`);
         renderProjects(projects);
@@ -580,7 +581,6 @@
         );
       }
 
-      // Decrypt
       try{
         const decrypt = await fetchJson(`${path("/data/decrypt.json")}?${nowBust()}`);
         renderDecrypt(decrypt);
@@ -593,7 +593,6 @@
         );
       }
 
-      // Optional home.json for HN
       try{
         const home = await fetchJson(`${path("/data/home.json")}?${nowBust()}`);
         renderHNfromHomeJson(home);
