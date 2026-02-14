@@ -1,236 +1,166 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <meta name="color-scheme" content="light" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ruin2itive</title>
 
-  <title>ruin2itive.org</title>
-  <meta name="description" content="reliability first • open source • independent" />
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
 
-  <style>
-    :root{
-      --paper:#f7f5f1;
-      --ink:#111;
-      --muted:#666;
-      --rule:#d6d1c9;
-      --accent:#7b1e1e;
-      --max:680px;
-    }
+<style>
+:root {
+  --ink: #111;
+  --accent: #7b1e1e;
+  --paper: #f4f1eb;
+}
 
-    *{ box-sizing:border-box; }
-    body{
-      margin:0;
-      font-family: Georgia, "Times New Roman", Times, serif;
-      color:var(--ink);
-      background:
-        radial-gradient(1000px 500px at 50% 0%, rgba(0,0,0,.03), transparent 60%),
-        linear-gradient(#faf9f6, var(--paper));
-      -webkit-font-smoothing:antialiased;
-    }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
-    .wrap{
-      max-width:var(--max);
-      margin:0 auto;
-      padding:16px 18px 28px;
-    }
+body {
+  font-family: 'Libre Baskerville', serif;
+  background-color: var(--paper);
+  color: var(--ink);
+}
 
-    /* Compact masthead */
-    .masthead{
-      width:100vw;
-      margin-left:50%;
-      transform:translateX(-50%);
-      margin-top:-10px;
-      margin-bottom:18px;
-    }
+/* ===== HERO SECTION ===== */
 
-    .masthead img{
-      width:100%;
-      height:auto;
-      display:block;
-      box-shadow:0 1px 6px rgba(0,0,0,.05);
-      filter:contrast(1.01);
-    }
+.hero {
+  height: 70vh;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  position: relative;
+  text-align: center;
+  background:
+    linear-gradient(to bottom, rgba(244,241,235,0.85), rgba(244,241,235,0.95)),
+    url('assets/elephant-third-eye.png') center / cover no-repeat;
+}
 
-    .top-rule{
-      height:1px;
-      background:var(--rule);
-      margin:12px 0 18px;
-    }
+.hero-inner {
+  padding-bottom: 60px;
+  max-width: 900px;
+}
 
-    .section{
-      margin-bottom:16px;
-      padding-bottom:14px;
-      border-bottom:1px solid var(--rule);
-    }
+.hero h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 3.5rem;
+  font-weight: 700;
+  letter-spacing: -1px;
+}
 
-    .section:last-of-type{
-      border-bottom:none;
-    }
+.hero p {
+  margin-top: 12px;
+  font-size: 0.85rem;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #444;
+}
 
-    /* Smaller, tighter section labels */
-    .kicker{
-      font-size:15px;
-      letter-spacing:.14em;
-      font-weight:700;
-      text-transform:lowercase;
-      color:var(--accent);
-      margin:0 0 8px;
-    }
+/* ===== SECTIONS ===== */
 
-    .kicker .slash{
-      color:var(--muted);
-      font-weight:400;
-      letter-spacing:.1em;
-    }
+.section {
+  padding: 60px 20px;
+  max-width: 800px;
+  margin: auto;
+}
 
-    .list{
-      list-style:none;
-      padding:0;
-      margin:0;
-    }
+.section h2 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: var(--accent);
+  margin-bottom: 30px;
+}
 
-    .item{
-      padding:8px 0 10px;
-      border-top:1px solid rgba(0,0,0,.06);
-    }
+.item {
+  padding: 20px 0;
+  border-top: 1px solid #ddd;
+}
 
-    .item:first-child{
-      border-top:none;
-    }
+.item:first-child {
+  border-top: none;
+}
 
-    /* Compact project titles */
-    .title{
-      font-size:24px;
-      font-weight:700;
-      line-height:1.1;
-      margin:0 0 2px;
-    }
+.item h3 {
+  font-size: 1.8rem;
+  font-weight: 700;
+}
 
-    .meta{
-      font-size:14px;
-      color:var(--muted);
-      margin:0;
-    }
+.item span {
+  font-size: 0.9rem;
+  color: #777;
+}
 
-    a{
-      color:inherit;
-      text-decoration:none;
-    }
+footer {
+  padding: 40px 20px;
+  text-align: center;
+  font-size: 0.85rem;
+  border-top: 1px solid #ddd;
+  color: #666;
+}
 
-    .title a{
-      border-bottom:1px solid rgba(0,0,0,.12);
-      padding-bottom:1px;
-    }
+/* ===== MOBILE ===== */
 
-    .title a:hover{
-      border-bottom-color:var(--accent);
-    }
-
-    /* Feed layout compact */
-    .feed-row{
-      display:flex;
-      justify-content:space-between;
-      gap:10px;
-      padding:8px 0 10px;
-      border-top:1px solid rgba(0,0,0,.06);
-    }
-
-    .feed-row:first-child{
-      border-top:none;
-    }
-
-    .feed-title{
-      font-size:16px;
-      font-weight:700;
-      line-height:1.25;
-      margin:0;
-      flex:1;
-    }
-
-    .feed-src{
-      font-size:12px;
-      color:var(--muted);
-      text-transform:lowercase;
-      letter-spacing:.08em;
-      white-space:nowrap;
-    }
-
-    .loading{
-      font-size:16px;
-      color:var(--muted);
-      font-style:italic;
-      margin:4px 0 0;
-    }
-
-    footer{
-      margin-top:18px;
-      padding-top:12px;
-      border-top:1px solid var(--rule);
-      font-size:13px;
-      color:var(--muted);
-    }
-
-    @media (max-width:420px){
-      .wrap{ padding:14px 16px 24px; }
-      .title{ font-size:22px; }
-      .feed-title{ font-size:15px; }
-    }
-
-  </style>
+@media(max-width:768px){
+  .hero {
+    height: 60vh;
+  }
+  .hero h1 {
+    font-size: 2.4rem;
+  }
+}
+</style>
 </head>
 
 <body>
-  <div class="wrap">
 
-    <header class="masthead">
-      <img src="assets/masthead.webp"
-           alt="ruin2itive — reliability • open source • independent">
-    </header>
-
-    <div class="top-rule"></div>
-
-    <section class="section">
-      <h2 class="kicker">projects <span class="slash">/</span> the code</h2>
-
-      <ul class="list">
-        <li class="item">
-          <p class="title">
-            <a href="https://github.com/Ruin2itive" target="_blank">ruin2itive</a>
-          </p>
-          <p class="meta">github • src</p>
-        </li>
-
-        <li class="item">
-          <p class="title">
-            <a href="https://www.hackster.io/" target="_blank">arduino</a>
-          </p>
-          <p class="meta">hackster • hardware</p>
-        </li>
-
-        <li class="item">
-          <p class="title">
-            <a href="https://www.instructables.com/" target="_blank">raspberry_pi</a>
-          </p>
-          <p class="meta">instructables • diy</p>
-        </li>
-      </ul>
-    </section>
-
-    <section class="section">
-      <h2 class="kicker">markets <span class="slash">/</span> crypto</h2>
-      <p class="loading">curating signal...</p>
-    </section>
-
-    <section class="section">
-      <h2 class="kicker">hacker news</h2>
-      <p class="loading">curating signal...</p>
-    </section>
-
-    <footer>
-      © <script>document.write(new Date().getFullYear())</script> ruin2itive.org
-    </footer>
-
+<section class="hero">
+  <div class="hero-inner">
+    <h1>ruin2itive</h1>
+    <p>Reliability • Open Source • Independent</p>
   </div>
+</section>
+
+<section class="section">
+  <h2>projects / the code</h2>
+
+  <div class="item">
+    <h3>ruin2itive</h3>
+    <span>github • src</span>
+  </div>
+
+  <div class="item">
+    <h3>arduino</h3>
+    <span>hackster • hardware</span>
+  </div>
+
+  <div class="item">
+    <h3>raspberry_pi</h3>
+    <span>instructables • diy</span>
+  </div>
+</section>
+
+<section class="section">
+  <h2>markets / crypto</h2>
+  <div class="item">
+    <h3>curating signal…</h3>
+  </div>
+</section>
+
+<section class="section">
+  <h2>hacker news</h2>
+  <div class="item">
+    <h3>curating signal…</h3>
+  </div>
+</section>
+
+<footer>
+  © 2026 ruin2itive.org
+</footer>
+
 </body>
 </html>
