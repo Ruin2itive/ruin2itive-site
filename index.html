@@ -3,505 +3,453 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
-  <title>ruin2itive</title>
-  <meta name="description" content="Reliability • Open Source • Independent" />
+  <meta name="color-scheme" content="light" />
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link
-    href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Libre+Baskerville:wght@400;700&display=swap"
-    rel="stylesheet"
-  />
+  <title>ruin2itive.org</title>
+  <meta name="description" content="Independent, self-hosted hub — signals, systems, memory." />
 
   <style>
     :root{
-      --paper:#f4f1eb;
-      --paper2:#f7f3ee;
-      --ink:#0f0f10;
-      --muted:#5c5750;
-
-      /* hairline rules (print feel) */
-      --line: rgba(26,22,18,0.16);
-      --line2: rgba(26,22,18,0.10);
-
-      /* brand */
-      --accent:#7b1e1e;
-
-      --wrap: 860px;
-      --gutter: 22px;
-      --radius: 12px;
-
-      /* very restrained shadow */
-      --shadow: 0 8px 22px rgba(0,0,0,0.05);
+      --paper:#f4f1ea;
+      --paper2:#efeae2;
+      --ink:#111;
+      --muted:#5a5852;
+      --rule:#d9d1c6;
+      --card:#f6f2ea;
+      --shadow: 0 18px 60px rgba(0,0,0,.10);
+      --shadow2: 0 10px 30px rgba(0,0,0,.08);
+      --red:#8b1f1f;
+      --red2:#b23a3a;
+      --radius:18px;
+      --radius2:14px;
+      --max: 1080px;
+      --g: 22px;
     }
 
-    *{box-sizing:border-box;margin:0;padding:0}
-    html,body{height:100%}
+    *{ box-sizing:border-box; }
+    html,body{ height:100%; }
     body{
-      background:var(--paper);
+      margin:0;
+      font-family: ui-serif, Georgia, "Times New Roman", Times, serif;
       color:var(--ink);
-      font-family:"Libre Baskerville", serif;
+      background: var(--paper);
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
-      text-rendering: optimizeLegibility;
     }
 
-    a{color:inherit;text-decoration:none}
-    a:focus{outline:2px solid rgba(123,30,30,0.35); outline-offset:3px; border-radius:8px}
+    a{ color:inherit; text-decoration:none; }
+    a:hover{ text-decoration:underline; }
 
-    .wrap{
-      max-width: var(--wrap);
-      margin: 0 auto;
-      padding: 0 var(--gutter);
-    }
-
-    /* ===== HERO ===== */
+    /* --- Hero (background art) --- */
     .hero{
-      position: relative;
-      min-height: 62vh;
-      display:flex;
-      align-items:flex-end;
-      justify-content:center;
-      overflow:hidden;
-      border-bottom: 1px solid var(--line);
+      position:relative;
       background: var(--paper);
+      overflow:hidden;
+      min-height: 58vh; /* mobile: looks like your iPhone */
     }
-
-    /* elephant */
     .hero::before{
       content:"";
-      position:absolute; inset:0;
-      background: url("assets/elephant-third-eye.png") center top / cover no-repeat;
-      filter: contrast(1.18) saturate(0.92) brightness(0.98);
-      transform: scale(1.03);
+      position:absolute;
+      inset:-40px -40px -40px -40px;
+      background-image: url("assets/landing.webp");
+      background-size: cover;
+      background-repeat:no-repeat;
+      background-position: center 45%;
+      opacity: 1;
+      filter: saturate(1) contrast(1);
+      transform: translateZ(0);
     }
-
-    /* paper fade + grit vignette */
     .hero::after{
+      /* subtle fade to paper so cards sit on clean background */
       content:"";
-      position:absolute; inset:0;
+      position:absolute;
+      inset:0;
       background:
-        radial-gradient(1200px 520px at 50% 18%,
-          rgba(244,241,235,0.05) 0%,
-          rgba(244,241,235,0.38) 46%,
-          rgba(244,241,235,0.78) 78%,
-          rgba(244,241,235,0.92) 100%),
-        radial-gradient(900px 380px at 50% 8%,
-          rgba(0,0,0,0.10) 0%,
-          rgba(0,0,0,0.03) 50%,
-          rgba(0,0,0,0.00) 72%),
-        repeating-linear-gradient(
-          0deg,
-          rgba(0,0,0,0.015) 0px,
-          rgba(0,0,0,0.015) 1px,
-          rgba(0,0,0,0.00) 2px,
-          rgba(0,0,0,0.00) 6px
-        );
+        linear-gradient(to bottom,
+          rgba(244,241,234,0) 0%,
+          rgba(244,241,234,0) 55%,
+          rgba(244,241,234,.75) 72%,
+          rgba(244,241,234,1) 100%);
       pointer-events:none;
-      mix-blend-mode: normal;
-      opacity: 0.95;
     }
 
-    .mast{
+    /* --- Layout container --- */
+    .wrap{
       position:relative;
-      width:100%;
-      padding: 34px 0 26px;
-    }
-
-    .mast-inner{
-      max-width: var(--wrap);
+      max-width: var(--max);
       margin: 0 auto;
-      padding: 0 var(--gutter);
-      text-align:center;
+      padding: 0 18px 70px;
     }
 
-    .kicker{
-      display:flex;
-      gap:12px;
-      justify-content:center;
-      align-items:center;
-      color: rgba(17,17,17,0.82);
-      font-size: 0.72rem;
-      letter-spacing: 3px;
-      text-transform: uppercase;
-      margin-bottom: 12px;
+    /* Pull grid upward into hero area */
+    main{
+      position:relative;
+      margin-top: -120px;
+      padding-top: 0;
     }
-
-    .kicker .dot{
-      width:4px;height:4px;border-radius:999px;
-      background: var(--accent);
-      opacity: 0.9;
-    }
-
-    .name{
-      font-family:"Playfair Display", serif;
-      font-weight:700;
-      letter-spacing:-0.7px;
-      font-size: clamp(2.15rem, 6vw, 3.2rem);
-      line-height:1.04;
-      color: rgba(16,16,16,0.92);
-      text-shadow: 0 1px 0 rgba(255,255,255,0.25);
-    }
-
-    .rule{
-      height:1px;
-      background: var(--line);
-      margin: 14px auto 10px;
-      max-width: 560px;
-    }
-
-    .tagline{
-      font-size: 0.78rem;
-      letter-spacing: 2.2px;
-      text-transform: uppercase;
-      color: rgba(28,26,22,0.80);
-    }
-
-    /* ===== MAIN ===== */
-    main{ padding: 36px 0 16px; }
 
     .grid{
       display:grid;
       grid-template-columns: 1fr;
-      gap: 22px;
+      gap: var(--g);
+      align-items:start;
     }
 
     @media (min-width: 880px){
       .grid{
-        grid-template-columns: 1.05fr 0.95fr;
-        gap: 28px;
-        align-items:start;
+        grid-template-columns: 1fr 1fr;
       }
     }
 
-    /* ===== PANEL ===== */
-    .panel{
-      background: rgba(255,255,255,0.14);
-      border: 1px solid var(--line2);
+    /* --- Cards --- */
+    .card{
+      background: var(--card);
+      border: 1px solid rgba(0,0,0,.06);
       border-radius: var(--radius);
-      box-shadow: var(--shadow);
+      box-shadow: var(--shadow2);
       overflow:hidden;
     }
 
-    .panel-head{
-      padding: 16px 18px 12px;
-      border-bottom: 1px solid var(--line2);
-      background: linear-gradient(to bottom, rgba(255,255,255,0.10), rgba(255,255,255,0.00));
+    .card .head{
+      padding: 18px 18px 14px;
+      background: rgba(255,255,255,.25);
+      border-bottom: 1px solid var(--rule);
     }
 
-    .panel-title{
-      color: var(--accent);
-      font-size: 0.86rem;
-      letter-spacing: 4px;
+    .kicker{
+      font-size: 13px;
+      letter-spacing: .28em;
       text-transform: uppercase;
+      color: var(--red);
+      font-weight: 700;
     }
 
-    .panel-body{ padding: 6px 18px 14px; }
+    .body{
+      padding: 14px 18px 18px;
+    }
 
-    /* ===== ITEMS ===== */
+    .rule{
+      height:1px;
+      background: var(--rule);
+      margin: 12px 0;
+    }
+
+    /* --- Items --- */
     .item{
       display:block;
-      padding: 14px 10px 12px;
-      border-bottom: 1px solid rgba(26,22,18,0.10);
-      border-radius: 10px;
-      transition: background 140ms ease, transform 140ms ease;
+      padding: 12px 0;
+      border-bottom: 1px solid rgba(0,0,0,.06);
     }
-
-    .item:last-child{ border-bottom: none; }
-
-    .item:hover{
-      background: rgba(123,30,30,0.055);
-      transform: translateY(-1px);
-    }
+    .item:last-child{ border-bottom:none; padding-bottom:4px; }
 
     .item h3{
-      font-family:"Playfair Display", serif;
-      font-weight:700;
-      font-size: 1.28rem;
-      line-height: 1.14;
-      letter-spacing: -0.25px;
+      margin:0 0 6px;
+      font-size: 18px;
+      line-height: 1.15;
+      letter-spacing: .01em;
+    }
+    .item .meta{
+      display:flex;
+      gap: 8px;
+      align-items:center;
+      flex-wrap:wrap;
+      color: var(--muted);
+      font-size: 12px;
     }
 
-    .meta{
-      margin-top: 7px;
-      color: var(--muted);
+    /* --- Projects blocks --- */
+    .proj{
+      padding: 12px 0;
+      border-bottom: 1px solid rgba(0,0,0,.06);
+    }
+    .proj:last-child{ border-bottom:none; }
+
+    .proj .name{
+      font-size: 40px;
+      line-height: 1;
+      margin: 0 0 8px;
+      letter-spacing: -0.02em;
+    }
+    @media (max-width: 420px){
+      .proj .name{ font-size: 36px; }
+    }
+
+    .pills{
       display:flex;
-      gap:10px;
-      align-items:center;
-      flex-wrap: wrap;
+      gap: 10px;
+      flex-wrap:wrap;
+      padding-bottom: 2px;
     }
 
     .pill{
-      display:inline-block;
-      padding: 4px 9px;
-      border: 1px solid rgba(26,22,18,0.18);
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      border: 1px solid rgba(0,0,0,.20);
+      color: rgba(0,0,0,.78);
+      padding: 7px 14px;
       border-radius: 999px;
-      background: rgba(255,255,255,0.10);
-      font-size: 0.74rem;
-      letter-spacing: 1.6px;
+      font-size: 12px;
+      letter-spacing: .18em;
       text-transform: uppercase;
-      color: rgba(20,18,16,0.90);
+      background: rgba(255,255,255,.35);
+      white-space:nowrap;
     }
 
-    .pill.source{
-      border-color: rgba(123,30,30,0.30);
+    /* --- “stamp” labels --- */
+    .stamp{
+      display:inline-flex;
+      align-items:center;
+      gap:6px;
+      padding: 3px 10px;
+      border-radius: 999px;
+      border: 1px solid rgba(0,0,0,.15);
+      background: rgba(255,255,255,.35);
+      font-size: 11px;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+      color: rgba(0,0,0,.65);
+    }
+    .stamp.red{
+      border-color: rgba(139,31,31,.35);
+      color: rgba(139,31,31,.85);
     }
 
-    .pill.err{
-      border-color: rgba(123,30,30,0.55);
-      color: rgba(123,30,30,0.92);
-      background: rgba(123,30,30,0.04);
+    /* --- Quiet “feature” card inside lists --- */
+    .feature{
+      padding: 14px 0 6px;
     }
-
-    /* ===== FEATURE / SMALL COPY ===== */
-    .feature{ padding: 16px 10px 14px; }
-
-    .feature .headline{
-      font-family:"Playfair Display", serif;
-      font-weight:700;
-      font-size: 1.28rem;
-      letter-spacing:-0.18px;
-      margin-bottom: 8px;
+    .headline{
+      font-size: 18px;
+      margin:0 0 5px;
     }
-
-    .feature .sub{
+    .sub{
       color: var(--muted);
-      font-size: 0.92rem;
-      line-height: 1.55;
+      margin:0 0 10px;
+      font-size: 13px;
+      line-height: 1.35;
     }
-
     .status{
-      display:inline-block;
-      margin-top: 10px;
-      color: var(--accent);
-      font-size: 0.76rem;
-      letter-spacing: 2px;
+      color: rgba(0,0,0,.55);
+      font-size: 12px;
+      letter-spacing: .12em;
       text-transform: uppercase;
-      opacity: 0.95;
     }
 
-    .thinrule{
-      height:1px;
-      background: rgba(26,22,18,0.10);
-      margin: 6px 0 2px;
+    /* --- Desktop hero framing fix (make Mac match iPhone) --- */
+    @media (min-width: 880px){
+      .hero{
+        min-height: clamp(340px, 50vh, 560px);
+      }
+      .hero::before{
+        background-position: center 58%;
+      }
+      main{
+        margin-top: calc(-1 * clamp(90px, 12vh, 170px));
+      }
     }
 
-    /* ===== FOOTER ===== */
+    /* --- Footer spacing --- */
     footer{
-      padding: 24px 0 34px;
-      border-top: 1px solid var(--line);
-      margin-top: 18px;
-      color: rgba(92,87,80,0.92);
-      font-size: 0.84rem;
-      text-align:center;
-    }
-
-    /* ===== MOBILE ===== */
-    @media (max-width: 420px){
-      .hero{min-height: 58vh;}
-      .panel-head{padding: 15px 16px 12px;}
-      .panel-body{padding: 6px 16px 14px;}
-      .item h3{font-size: 1.18rem;}
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 26px 18px 40px;
+      color: rgba(0,0,0,.55);
+      font-size: 12px;
+      letter-spacing: .08em;
+      text-transform: uppercase;
     }
   </style>
 </head>
 
 <body>
-  <header class="hero">
-    <div class="mast">
-      <div class="mast-inner">
-        <div class="kicker">
-          <span>Reliability</span><span class="dot"></span>
-          <span>Open Source</span><span class="dot"></span>
-          <span>Independent</span>
-        </div>
+  <header class="hero" aria-label="ruin2itive hero background"></header>
 
-        <div class="name">ruin2itive</div>
-        <div class="rule"></div>
-        <div class="tagline">Signals • Systems • Memory</div>
-      </div>
-    </div>
-  </header>
-
-  <main class="wrap">
-    <div class="grid">
-      <!-- LEFT: PROJECTS -->
-      <section class="panel">
-        <div class="panel-head">
-          <div class="panel-title">Projects / The Code</div>
-        </div>
-        <div class="panel-body" id="projects-root">
-          <div class="feature">
-            <div class="headline">Loading…</div>
-            <div class="sub">Pulling links from <span class="pill">/data/projects.json</span>.</div>
-            <div class="status">Status: fetching</div>
+  <div class="wrap">
+    <main>
+      <section class="grid">
+        <!-- LEFT -->
+        <article class="card" aria-label="Projects / The Code">
+          <div class="head">
+            <div class="kicker">Projects / The Code</div>
           </div>
-        </div>
-      </section>
-
-      <!-- RIGHT: FEEDS -->
-      <section class="panel">
-        <div class="panel-head">
-          <div class="panel-title">Markets / Crypto</div>
-        </div>
-
-        <div class="panel-body" id="decrypt-root">
-          <div class="feature">
-            <div class="headline">Loading…</div>
-            <div class="sub">Pulling headlines from <span class="pill">/data/decrypt.json</span>.</div>
-            <div class="status">Status: fetching</div>
-          </div>
-        </div>
-
-        <div class="thinrule"></div>
-
-        <div class="panel-head" style="border-bottom:none;padding:16px 18px 10px;">
-          <div class="panel-title">Hacker News</div>
-        </div>
-
-        <div class="panel-body" style="padding-top:0;" id="hn-root">
-          <div class="feature">
-            <div class="headline">Optional</div>
-            <div class="sub">
-              If you later add <span class="pill">/data/home.json</span> with a <span class="pill">hacker</span>
-              section, this area will auto-populate. For now it stays quiet.
+          <div class="body" id="projects-root">
+            <div class="feature">
+              <div class="headline">Loading…</div>
+              <div class="sub">Pulling project links.</div>
+              <div class="status">Status: loading</div>
             </div>
-            <div class="status">Status: idle</div>
           </div>
-        </div>
-      </section>
-    </div>
-  </main>
+        </article>
 
-  <footer class="wrap">© 2026 ruin2itive.org</footer>
+        <!-- RIGHT -->
+        <article class="card" aria-label="Markets / Crypto">
+          <div class="head">
+            <div class="kicker">Markets / Crypto</div>
+          </div>
+          <div class="body" id="decrypt-root">
+            <div class="feature">
+              <div class="headline">Loading…</div>
+              <div class="sub">Waiting on the feed.</div>
+              <div class="status">Status: loading</div>
+            </div>
+          </div>
+
+          <div class="head" style="border-top:1px solid var(--rule);">
+            <div class="kicker">Hacker News</div>
+          </div>
+          <div class="body" id="hn-root">
+            <div class="feature">
+              <div class="headline">Quiet</div>
+              <div class="sub">This section fills from <span class="stamp">home.json</span> when available.</div>
+              <div class="status">Status: standby</div>
+            </div>
+          </div>
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <footer>
+    ruin2itive.org — signals • systems • memory
+  </footer>
 
   <script>
-    // Works on:
-    // - Custom domain root (https://ruin2itive.org/...) -> base ""
-    // - GitHub Pages project site (https://username.github.io/repo/...) -> base "/repo"
-    function detectBasePath(){
-      const parts = window.location.pathname.split("/").filter(Boolean);
-      // If the URL is "/ruin2itive-site/..." treat first segment as the repo base.
-      // If it's "/" or "/data/..." base should be "".
-      if (parts.length > 0 && parts[0] === "ruin2itive-site") return "/ruin2itive-site";
-      return "";
-    }
-
-    const BASE = detectBasePath();
-    const nowBust = () => `v=${Date.now()}`;
-
-    function path(p){
-      // p must start with "/"
-      return BASE + p;
-    }
-
+    // -----------------------------
+    // Utilities
+    // -----------------------------
     function esc(s){
       return String(s ?? "")
         .replaceAll("&","&amp;")
         .replaceAll("<","&lt;")
         .replaceAll(">","&gt;")
         .replaceAll('"',"&quot;")
-        .replaceAll("'","&#39;");
+        .replaceAll("'","&#039;");
     }
 
-    function stamp(text, extraClass=""){
-      return `<span class="pill ${extraClass}">${esc(text)}</span>`;
+    function nowBust(){
+      // bust cache without going crazy
+      const d = new Date();
+      return String(d.getTime());
+    }
+
+    function stamp(text, variant){
+      const cls = variant === "source" ? "stamp red" : "stamp";
+      return `<span class="${cls}">${esc(text)}</span>`;
+    }
+
+    // repo-safe base path:
+    // - custom domain: "/"
+    // - github pages repo: "/ruin2itive-site/"
+    function basePath(){
+      const p = location.pathname;
+      // if running at /ruin2itive-site/... use that as base
+      const m = p.match(/^\/([^\/]+)\/?/);
+      const repo = m && (m[1] || "");
+      // If you're on a GitHub Pages repo site, keep the first segment as base.
+      // If you're on your custom domain root, base is "/".
+      if (location.hostname.endsWith("github.io") && repo){
+        return "/" + repo;
+      }
+      return "";
+    }
+
+    function path(u){
+      const b = basePath();
+      // u must start with "/"
+      return b + u;
     }
 
     async function fetchJson(url){
-      const res = await fetch(url, { cache: "no-store" });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      return res.json();
+      const r = await fetch(url, { cache: "no-store" });
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      return await r.json();
     }
 
-    function renderError(rootEl, title, msg){
-      rootEl.innerHTML = `
+    function renderError(root, title, detail){
+      root.innerHTML = `
         <div class="feature">
           <div class="headline">${esc(title)}</div>
-          <div class="sub">${esc(msg)}</div>
+          <div class="sub">${esc(detail)}</div>
           <div class="status">Status: error</div>
         </div>
       `;
     }
 
+    // -----------------------------
+    // Renderers
+    // -----------------------------
     function renderProjects(data){
       const root = document.getElementById("projects-root");
+      const groups = data?.groups;
 
-      // Expected (your earlier format):
-      // { "groups": [ { "title": "ruin2itive", "links": [ { "label":"GitHub", "href":"https://..." }, ... ] }, ... ] }
-      if (!data || !Array.isArray(data.groups)) {
-        renderError(root, "Projects", "Invalid JSON structure (expected { groups: [...] }).");
+      if (!Array.isArray(groups) || groups.length === 0){
+        root.innerHTML = `
+          <div class="feature">
+            <div class="headline">No projects</div>
+            <div class="sub">Your projects.json has no groups.</div>
+            <div class="status">Status: empty</div>
+          </div>
+        `;
         return;
       }
 
-      const html = data.groups.map(group => {
-        const title = group?.title || "project";
-        const links = Array.isArray(group?.links) ? group.links : [];
+      const html = groups.map(g => {
+        const name = g?.name || "project";
+        const links = Array.isArray(g?.links) ? g.links : [];
 
         const pills = links.map(l => {
-          const href = l?.href || "#";
           const label = l?.label || "link";
-          return `<a class="pill" href="${esc(href)}" target="_blank" rel="noopener">${esc(label)}</a>`;
+          const url = l?.url || "#";
+          return `<a class="pill" href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a>`;
         }).join("");
 
-        // If there are no links, still render the project but show a warning pill.
-        const meta = `
-          <div class="meta">
-            ${pills || stamp("No links", "err")}
-          </div>
-        `;
-
         return `
-          <div class="item" style="cursor:default;">
-            <h3>${esc(title)}</h3>
-            ${meta}
+          <div class="proj">
+            <div class="name">${esc(name)}</div>
+            <div class="pills">${pills}</div>
           </div>
         `;
       }).join("");
 
-      root.innerHTML = html || `
-        <div class="feature">
-          <div class="headline">No projects yet</div>
-          <div class="sub">Add items to <span class="pill">/data/projects.json</span>.</div>
-          <div class="status">Status: empty</div>
-        </div>
-      `;
+      root.innerHTML = html;
     }
 
     function renderDecrypt(data){
       const root = document.getElementById("decrypt-root");
+      const items = Array.isArray(data?.items) ? data.items : [];
+      const updated = data?.updated ? new Date(data.updated) : null;
 
-      // Expected:
-      // { "updated": "ISO", "items": [ { "title","url","stamp","source" }, ... ] }
-      if (!data || !Array.isArray(data.items)) {
-        renderError(root, "Decrypt", "Invalid JSON structure (expected { items: [...] }).");
-        return;
-      }
+      // SEED/epoch detection (prevents "12/31/1969")
+      const isSeed =
+        (items[0]?.stamp === "SEED") ||
+        (typeof data?.updated === "string" && data.updated.startsWith("1970-")) ||
+        (!updated || isNaN(updated.getTime())) ||
+        (updated && updated.getFullYear && updated.getFullYear() < 2000);
 
-      const updated = data.updated ? new Date(data.updated) : null;
-      const updatedText = updated && !isNaN(updated.getTime())
+      const updatedText = (!isSeed)
         ? `Updated: ${updated.toLocaleString()}`
         : null;
 
-      const itemsHtml = data.items.slice(0, 5).map(item => {
-        const title = item?.title || "Untitled";
-        const url = item?.url || "https://decrypt.co/";
-        const st = item?.stamp || "DECRYPT";
-        const src = item?.source || "decrypt";
+      const itemsHtml = items.slice(0, 5).map(it => {
+        const title = it?.title || "Untitled";
+        const url = it?.url || "#";
+        const src = it?.source || "decrypt";
+        const st = it?.stamp || "";
 
         return `
           <a class="item" href="${esc(url)}" target="_blank" rel="noopener">
             <h3>${esc(title)}</h3>
             <div class="meta">
-              ${stamp(st, "source")}
-              ${stamp(src)}
+              ${st ? stamp(st) : ""}
+              ${stamp(src, "source")}
             </div>
           </a>
         `;
       }).join("");
 
       root.innerHTML = `
-        ${updatedText ? `<div class="meta" style="padding:10px 10px 2px;">${stamp(updatedText)}</div>` : ""}
+        ${updatedText ? `<div class="meta" style="padding:2px 0 10px;">${stamp(updatedText)}</div>` : ""}
         ${itemsHtml || `
           <div class="feature">
             <div class="headline">No items</div>
@@ -514,13 +462,15 @@
 
     function renderHNfromHomeJson(home){
       const root = document.getElementById("hn-root");
-
-      // Optional: if you have data/home.json with sections.hacker = [{title,url},...]
       const items = home?.sections?.hacker;
-      if (!Array.isArray(items) || items.length === 0) return; // keep the default quiet card
+
+      if (!Array.isArray(items) || items.length === 0){
+        // keep default quiet card
+        return;
+      }
 
       const updated = home?.updated_iso ? new Date(home.updated_iso) : null;
-      const updatedText = updated && !isNaN(updated.getTime())
+      const updatedText = (updated && !isNaN(updated.getTime()))
         ? `Updated: ${updated.toLocaleString()}`
         : null;
 
@@ -536,11 +486,14 @@
       }).join("");
 
       root.innerHTML = `
-        ${updatedText ? `<div class="meta" style="padding:10px 10px 2px;">${stamp(updatedText)}</div>` : ""}
+        ${updatedText ? `<div class="meta" style="padding:2px 0 10px;">${stamp(updatedText)}</div>` : ""}
         ${html}
       `;
     }
 
+    // -----------------------------
+    // Boot
+    // -----------------------------
     async function boot(){
       // Projects
       try{
@@ -566,12 +519,12 @@
         );
       }
 
-      // Optional home.json for HN (only if present)
+      // Optional home.json for HN
       try{
         const home = await fetchJson(`${path("/data/home.json")}?${nowBust()}`);
         renderHNfromHomeJson(home);
       }catch(_e){
-        // silent (home.json is optional)
+        // silent: home.json is optional
       }
     }
 
