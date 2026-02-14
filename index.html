@@ -34,7 +34,6 @@
 
     *{box-sizing:border-box;margin:0;padding:0}
     html,body{height:100%}
-
     body{
       background:var(--paper);
       color:var(--ink);
@@ -203,11 +202,7 @@
       transition: background 140ms ease, transform 140ms ease;
     }
     .item:last-child{ border-bottom: none; }
-
-    .item:hover{
-      background: rgba(123,30,30,0.055);
-      transform: translateY(-1px);
-    }
+    .item:hover{ background: rgba(123,30,30,0.055); transform: translateY(-1px); }
 
     .item h3{
       font-family:"Playfair Display", serif;
@@ -237,13 +232,10 @@
       text-transform: uppercase;
     }
 
-    /* ===== FEED LIST ===== */
-    .feed{
-      padding: 10px;
-      border-radius: 10px;
-    }
+    /* ===== FEEDS ===== */
+    .feature{ padding: 16px 10px 14px; }
 
-    .feed .headline{
+    .feature .headline{
       font-family:"Playfair Display", serif;
       font-weight:700;
       font-size: 1.28rem;
@@ -251,16 +243,15 @@
       margin-bottom: 8px;
     }
 
-    .feed .sub{
+    .feature .sub{
       color: var(--muted);
       font-size: 0.92rem;
       line-height: 1.55;
-      margin-bottom: 10px;
     }
 
     .status{
       display:inline-block;
-      margin-top: 2px;
+      margin-top: 10px;
       color: var(--accent);
       font-size: 0.76rem;
       letter-spacing: 2px;
@@ -281,34 +272,29 @@
       gap:10px;
     }
 
-    .feedlink{
-      display:block;
+    .feeditem{
       padding: 10px 10px;
-      border: 1px solid rgba(26,22,18,0.12);
-      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(26,22,18,0.10);
       border-radius: 10px;
+      background: rgba(255,255,255,0.10);
       transition: background 140ms ease, transform 140ms ease;
     }
 
-    .feedlink:hover{
+    .feeditem:hover{
       background: rgba(123,30,30,0.055);
       transform: translateY(-1px);
     }
 
-    .feedtitle{
-      font-size: 0.98rem;
+    .feeditem .t{
+      font-size: 0.95rem;
       line-height: 1.35;
-      color: rgba(16,16,16,0.92);
     }
 
-    .feedmeta{
+    .feeditem .m{
       margin-top: 6px;
-      display:flex;
-      gap:8px;
-      flex-wrap:wrap;
       color: var(--muted);
       font-size: 0.78rem;
-      letter-spacing: 1px;
+      letter-spacing: 1.2px;
       text-transform: uppercase;
     }
 
@@ -322,7 +308,6 @@
       text-align:center;
     }
 
-    /* ===== MOBILE ===== */
     @media (max-width: 420px){
       .hero{min-height: 58vh;}
       .panel-head{padding: 15px 16px 12px;}
@@ -350,8 +335,7 @@
 
   <main class="wrap">
     <div class="grid">
-
-      <!-- LEFT: PROJECTS (keep your current layout; swap hrefs later) -->
+      <!-- LEFT: PROJECTS -->
       <section class="panel">
         <div class="panel-head">
           <div class="panel-title">Projects / The Code</div>
@@ -384,23 +368,24 @@
         </div>
       </section>
 
-      <!-- RIGHT: MARKETS / CRYPTO (Decrypt top 3) -->
+      <!-- RIGHT: FEEDS -->
       <section class="panel">
         <div class="panel-head">
           <div class="panel-title">Markets / Crypto</div>
         </div>
 
         <div class="panel-body">
-          <div class="feed">
+          <div class="feature">
             <div class="headline">Decrypt</div>
             <div class="sub">
-              Top 3 items, rebuilt hourly server-side. Fast render. Minimal noise.
+              Top 3 items, rebuilt hourly server-side.<br/>
+              Fast render. Minimal noise.
             </div>
 
-            <div id="decrypt-status" class="status">Status: loading</div>
+            <div id="decrypt-status" class="status">Status: building</div>
 
-            <div class="feedlist" id="decrypt-root" aria-live="polite">
-              <!-- injected -->
+            <div id="decrypt-root" class="feedlist" aria-live="polite">
+              <!-- filled by JS -->
             </div>
           </div>
 
@@ -411,7 +396,7 @@
           </div>
 
           <div class="panel-body" style="padding-top:0;">
-            <div class="feed">
+            <div class="feature">
               <div class="headline">Curating signal…</div>
               <div class="sub">Newest technical items. Calm instrument-panel vibe.</div>
               <div class="status">Status: building</div>
@@ -419,75 +404,84 @@
           </div>
         </div>
       </section>
-
     </div>
   </main>
 
-  <footer class="wrap">© 2026 ruin2itive.org</footer>
+  <footer class="wrap">
+    © 2026 ruin2itive.org
+  </footer>
 
   <script>
     function esc(s){
-      return String(s)
+      return String(s || "")
         .replaceAll("&","&amp;")
         .replaceAll("<","&lt;")
         .replaceAll(">","&gt;")
         .replaceAll('"',"&quot;")
-        .replaceAll("'","&#39;");
+        .replaceAll("'","&#039;");
     }
 
-    function fmtTime(iso){
-      try{
-        const d = new Date(iso);
-        return d.toLocaleString();
-      }catch(e){
-        return "";
-      }
+    function setDecryptStatus(text){
+      const el = document.getElementById("decrypt-status");
+      if (el) el.textContent = text;
     }
 
-    async function loadDecryptTop3(){
+    function renderDecrypt(items, updated){
       const root = document.getElementById("decrypt-root");
-      const status = document.getElementById("decrypt-status");
+      if (!root) return;
+
       root.innerHTML = "";
 
-      try{
-        const r = await fetch("/data/decrypt.json", { cache: "no-store" });
-        if(!r.ok) throw new Error("HTTP " + r.status);
-        const data = await r.json();
+      (items || []).slice(0,3).forEach((it) => {
+        const title = esc(it.title || "Untitled");
+        const url = esc(it.url || "https://decrypt.co/");
+        const stamp = esc(it.stamp || "");
+        const source = esc(it.source || "decrypt");
 
-        const items = Array.isArray(data.items) ? data.items : [];
-        if(items.length === 0) throw new Error("No items");
-
-        status.textContent = "Updated: " + fmtTime(data.updated);
-
-        const html = items.slice(0,3).map(it => {
-          const url = it.url || "#";
-          const title = it.title || "Untitled";
-          return `
-            <a class="feedlink" href="${esc(url)}" target="_blank" rel="noopener">
-              <div class="feedtitle">${esc(title)}</div>
-              <div class="feedmeta">
-                <span>Decrypt</span>
-                <span>•</span>
-                <span>${esc(it.stamp || "")}</span>
-              </div>
-            </a>
-          `;
-        }).join("");
-
-        root.innerHTML = html;
-
-      }catch(err){
-        status.textContent = "Status: degraded";
-        root.innerHTML = `
-          <div class="sub">
-            Could not load Decrypt feed (/data/decrypt.json).
-          </div>
+        const a = document.createElement("a");
+        a.className = "feeditem";
+        a.href = url;
+        a.target = "_blank";
+        a.rel = "noopener";
+        a.innerHTML = `
+          <div class="t">${title}</div>
+          <div class="m">${source}${stamp ? " • " + stamp : ""}</div>
         `;
-        console.error(err);
+        root.appendChild(a);
+      });
+
+      if (updated) {
+        // keep it subtle; we already show “rebuilt hourly”
       }
     }
 
-    loadDecryptTop3();
+    async function loadDecrypt(){
+      try{
+        // IMPORTANT: correct path is decrypt.json (NOT decypt.json)
+        const res = await fetch("/data/decrypt.json", { cache: "no-store" });
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        const data = await res.json();
+
+        if (!data || !Array.isArray(data.items)) throw new Error("Invalid decrypt.json");
+
+        renderDecrypt(data.items, data.updated);
+        setDecryptStatus("Status: live");
+      }catch(e){
+        setDecryptStatus("Status: degraded");
+        const root = document.getElementById("decrypt-root");
+        if (root){
+          root.innerHTML = `
+            <div class="sub" style="margin-top:10px;">
+              Could not load Decrypt feed<br/>
+              (<span style="opacity:.85;">/data/decrypt.json</span>).
+            </div>
+          `;
+        }
+        console.error(e);
+      }
+    }
+
+    loadDecrypt();
   </script>
 </body>
 </html>
