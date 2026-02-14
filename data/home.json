@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-14T05:49:35.743Z",
-  "updated_local": "2/14/2026, 5:49:35 AM",
+  "updated_iso": "2026-02-14T06:03:04.113Z",
+  "updated_local": "2/14/2026, 6:03:04 AM",
   "sections": {
     "crypto": [
       {
@@ -12,16 +12,16 @@
     ],
     "hacker": [
       {
-        "title": "NPMX – a fast, modern browser for the NPM registry",
-        "url": "https://npmx.dev",
-        "source": "hn",
-        "time": "2/14/2026, 2:14:34 AM"
-      },
-      {
         "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
         "url": "https://github.com/mickamy/sql-tap",
         "source": "hn",
         "time": "2/14/2026, 4:27:35 AM"
+      },
+      {
+        "title": "NPMX – a fast, modern browser for the NPM registry",
+        "url": "https://npmx.dev",
+        "source": "hn",
+        "time": "2/14/2026, 2:14:34 AM"
       },
       {
         "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
@@ -36,13 +36,31 @@
         "time": "2/13/2026, 7:20:12 PM"
       },
       {
-        "title": "Common Lisp Screenshots: today's CL applications in action",
-        "url": "http://www.lisp-screenshots.org",
+        "title": "Understanding the Go Compiler: The Linker",
+        "url": "https://internals-for-interns.com/posts/the-go-linker/",
         "source": "hn",
-        "time": "2/12/2026, 1:44:35 AM"
+        "time": "2/8/2026, 5:46:46 PM"
       }
     ],
     "world": [
+      {
+        "title": "Gisèle Pelicot tells BBC: I felt crushed by horror - but I don't feel anger",
+        "url": "https://www.bbc.com/news/articles/c9q5l22ryy4o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 14 Feb 2026 06:00:11 GMT"
+      },
+      {
+        "title": "Watch: 'I am a survivor' Gisèle Pelicot tells BBC Newsnight in an in-depth interview",
+        "url": "https://www.bbc.com/news/videos/c80jvkem8lro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 14 Feb 2026 06:00:21 GMT"
+      },
+      {
+        "title": "Queen's letter of support left Pelicot 'overwhelmed'",
+        "url": "https://www.bbc.com/news/articles/ckgl9vljk13o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 14 Feb 2026 06:00:34 GMT"
+      },
       {
         "title": "How Weston handled pressure to win Olympic gold and GB's first medal",
         "url": "https://www.bbc.com/sport/articles/cgml91gx27go?at_medium=RSS&amp;at_campaign=rss",
@@ -54,24 +72,6 @@
         "url": "https://www.bbc.com/news/articles/c8egwywkkd1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 14 Feb 2026 01:17:57 GMT"
-      },
-      {
-        "title": "'We are not protected' says Hebron mayor as Israel expands West Bank control",
-        "url": "https://www.bbc.com/news/articles/crl4ne5er5zo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 13 Feb 2026 22:12:03 GMT"
-      },
-      {
-        "title": "Officials investigate DNA found in Nancy Guthrie's home",
-        "url": "https://www.bbc.com/news/articles/cly8j19rql7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 14 Feb 2026 01:40:17 GMT"
-      },
-      {
-        "title": "Watch: How Andrew's BBC interview compares to what Epstein emails tell us now",
-        "url": "https://www.bbc.com/news/videos/c20jepq911zo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 13 Feb 2026 11:31:06 GMT"
       }
     ]
   }
