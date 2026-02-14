@@ -8,6 +8,10 @@
   <title>ruin2itive.org</title>
   <meta name="description" content="Independent, self-hosted hub — signals, systems, memory." />
 
+  <!-- Preload hero image (relative path = works on custom domain + repo pages) -->
+  <link rel="preload" as="image" href="assets/landing.webp" />
+  <link rel="preload" as="image" href="assets/landing.png" />
+
   <style>
     :root{
       --paper:#f4f1ea;
@@ -66,7 +70,7 @@
       transform: translateZ(0);
     }
 
-    /* slightly lighter fade so the background image stays visible */
+    /* fade so background image stays visible */
     .hero::after{
       content:"";
       position:absolute;
@@ -398,53 +402,6 @@
       return `<span class="${cls}">${esc(text)}</span>`;
     }
 
-    // repo-safe base path:
-    // - custom domain: "/"
-    // - github pages repo: "/ruin2itive-site/"
-    function basePath(){
-      const p = location.pathname;
-      const m = p.match(/^\/([^\/]+)\/?/);
-      const repo = m && (m[1] || "");
-      if (location.hostname.endsWith("github.io") && repo){
-        return "/" + repo;
-      }
-      return "";
-    }
-
-    function path(u){
-      const b = basePath();
-      return b + u; // u must start with "/"
-    }
-
-    // BULLETPROOF HERO:
-    // Tries multiple common paths so the elephant never "vanishes" due to a path mismatch.
-    (function setHero(){
-      const candidates = [
-        path("/assets/landing.webp"),
-        path("/assets/landing.png"),
-        path("/landing.webp"),
-        path("/landing.png"),
-        path("/site/landing.webp"),
-        path("/site/landing.png")
-      ];
-
-      function apply(url){
-        document.documentElement.style.setProperty("--hero-bg", `url("${url}")`);
-      }
-
-      function tryLoad(i){
-        if (i >= candidates.length) return; // give up silently (keeps paper background)
-        const url = candidates[i] + "?v=" + nowBust();
-
-        const img = new Image();
-        img.onload = () => apply(url);
-        img.onerror = () => tryLoad(i + 1);
-        img.src = url;
-      }
-
-      tryLoad(0);
-    })();
-
     async function fetchJson(url){
       const r = await fetch(url, { cache: "no-store" });
       if (!r.ok) throw new Error(`HTTP ${r.status}`);
@@ -468,13 +425,46 @@
     }
 
     // -----------------------------
+    // Hero background (RELIABLE)
+    // Uses RELATIVE paths so it works on:
+    // - ruin2itive.org/
+    // - ruin2itive.github.io/ruin2itive-site/
+    // -----------------------------
+    (function setHero(){
+      const candidates = [
+        "assets/landing.webp",
+        "assets/landing.png"
+      ];
+
+      function apply(url){
+        // cache-bust while keeping relative path
+        document.documentElement.style.setProperty("--hero-bg", `url("${url}?v=${nowBust()}")`);
+      }
+
+      function tryLoad(i){
+        if (i >= candidates.length){
+          console.error("[ruin2itive] HERO IMAGE FAILED. Expected one of:", candidates);
+          console.error("[ruin2itive] Fix: ensure the file exists in repo exactly at assets/landing.webp (lowercase) or assets/landing.png");
+          return;
+        }
+
+        const url = candidates[i];
+        const img = new Image();
+        img.onload = () => apply(url);
+        img.onerror = () => tryLoad(i + 1);
+        img.src = url + "?v=" + nowBust();
+      }
+
+      tryLoad(0);
+    })();
+
+    // -----------------------------
     // Renderers
     // -----------------------------
     function renderProjects(data){
       const root = document.getElementById("projects-root");
       const groups = data?.groups;
 
-      // show updated time if present, else "Live"
       const u = data?.updated_iso ? new Date(data.updated_iso) : null;
       const uText = (u && !isNaN(u.getTime())) ? `Updated: ${u.toLocaleString()}` : "Live";
       setMini("projects-updated", uText);
@@ -491,9 +481,6 @@
       }
 
       const html = groups.map(g => {
-        // Accept either schema:
-        // - group.title OR group.name
-        // - link.href OR link.url
         const name = g?.title || g?.name || "project";
         const links = Array.isArray(g?.links) ? g.links : [];
 
@@ -587,35 +574,35 @@
     }
 
     // -----------------------------
-    // Boot
+    // Boot (relative paths = stable)
     // -----------------------------
     async function boot(){
       try{
-        const projects = await fetchJson(`${path("/data/projects.json")}?${nowBust()}`);
+        const projects = await fetchJson(`data/projects.json?${nowBust()}`);
         renderProjects(projects);
       }catch(e){
         setMini("projects-updated", "Error");
         renderError(
           document.getElementById("projects-root"),
           "Projects",
-          `Could not load ${path("/data/projects.json")} (${e.message}).`
+          `Could not load data/projects.json (${e.message}).`
         );
       }
 
       try{
-        const decrypt = await fetchJson(`${path("/data/decrypt.json")}?${nowBust()}`);
+        const decrypt = await fetchJson(`data/decrypt.json?${nowBust()}`);
         renderDecrypt(decrypt);
       }catch(e){
         setMini("decrypt-updated", "Error");
         renderError(
           document.getElementById("decrypt-root"),
           "Decrypt",
-          `Could not load ${path("/data/decrypt.json")} (${e.message}).`
+          `Could not load data/decrypt.json (${e.message}).`
         );
       }
 
       try{
-        const home = await fetchJson(`${path("/data/home.json")}?${nowBust()}`);
+        const home = await fetchJson(`data/home.json?${nowBust()}`);
         renderHNfromHomeJson(home);
       }catch(_e){
         // silent
