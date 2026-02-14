@@ -1,148 +1,179 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>ruin2itive</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
 
 <style>
-:root {
-  --ink: #111;
-  --accent: #7b1e1e;
-  --paper: #f4f1eb;
-  --line: #cfcac1;
+:root{
+  --ink:#111;
+  --accent:#7b1e1e;
+  --paper:#f4f1eb;
+  --line:#cfcac1;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+*{margin:0;padding:0;box-sizing:border-box;}
+
+body{
+  font-family:'Libre Baskerville', serif;
+  background:var(--paper);
+  color:var(--ink);
 }
 
-body {
-  font-family: 'Libre Baskerville', serif;
-  background-color: var(--paper);
-  color: var(--ink);
+/* ===== HERO (TOP OF PAGE) ===== */
+
+.hero{
+  height:60vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+
+  /* elephant image + paper fade so text reads */
+  background:
+    linear-gradient(rgba(244,241,235,0.78), rgba(244,241,235,0.92)),
+    url("assets/elephant-third-eye.png") center top / cover no-repeat;
 }
 
-/* ===== SECTIONS ===== */
-
-.section {
-  padding: 60px 22px;
-  max-width: 760px;
-  margin: auto;
+.hero-inner{
+  transform: translateY(18px);
+  padding: 0 18px;
+  max-width: 960px;
 }
 
-.section-title {
-  font-size: 0.9rem;
-  letter-spacing: 4px;
-  text-transform: uppercase;
-  color: var(--accent);
-  margin-bottom: 30px;
+.hero h1{
+  font-family:'Playfair Display', serif;
+  font-size:2.35rem;
+  font-weight:700;
+  letter-spacing:-0.4px;
+  margin-bottom:12px;
 }
 
-.divider {
-  height: 1px;
-  background: var(--line);
-  margin: 25px 0;
+.hero p{
+  font-size:0.72rem;
+  letter-spacing:2px;
+  text-transform:uppercase;
+  color:#333;
 }
 
-.item {
-  padding: 18px 0 8px 0;
+/* ===== BODY SECTIONS ===== */
+
+.section{
+  padding:56px 22px;
+  max-width:760px;
+  margin:0 auto;
 }
 
-.item h3 {
-  font-family: 'Playfair Display', serif;
-  font-size: 1.7rem;
-  font-weight: 700;
+.section-title{
+  font-size:0.9rem;
+  letter-spacing:4px;
+  text-transform:uppercase;
+  color:var(--accent);
+  margin-bottom:26px;
 }
 
-.item-meta {
-  margin-top: 6px;
-  margin-left: 8px;
-  font-size: 0.85rem;
-  color: #666;
+.divider{
+  height:1px;
+  background:var(--line);
+  margin:22px 0;
 }
 
-.feature-placeholder {
-  font-family: 'Playfair Display', serif;
-  font-size: 1.5rem;
-  font-weight: 600;
-  margin-top: 10px;
+.item{
+  padding:16px 0 6px 0;
 }
 
-/* FOOTER */
-
-footer {
-  padding: 40px 20px;
-  text-align: center;
-  font-size: 0.8rem;
-  color: #666;
-  border-top: 1px solid var(--line);
+.item h3{
+  font-family:'Playfair Display', serif;
+  font-size:1.55rem;
+  font-weight:700;
 }
 
-/* MOBILE TUNING */
+.item-meta{
+  margin-top:6px;
+  margin-left:8px;
+  font-size:0.85rem;
+  color:#666;
+}
+
+.feature-placeholder{
+  font-family:'Playfair Display', serif;
+  font-size:1.25rem;
+  font-weight:600;
+  margin-top:8px;
+  color:#111;
+}
+
+/* ===== FOOTER ===== */
+
+footer{
+  padding:36px 20px;
+  text-align:center;
+  font-size:0.8rem;
+  color:#666;
+  border-top:1px solid var(--line);
+}
+
+/* ===== MOBILE ===== */
 
 @media(max-width:768px){
+  .hero{height:58vh;}
+  .hero h1{font-size:2.2rem;}
+  .hero p{font-size:0.7rem;}
 
-  .item h3 {
-    font-size: 1.5rem;
-  }
-
-  .feature-placeholder {
-    font-size: 1.3rem;
-  }
-
+  .item h3{font-size:1.45rem;}
+  .feature-placeholder{font-size:1.15rem;}
 }
 </style>
 </head>
 
 <body>
 
+<!-- TOP / HERO -->
+<section class="hero">
+  <div class="hero-inner">
+    <h1>ruin2itive</h1>
+    <p>Reliability • Open Source • Independent</p>
+  </div>
+</section>
+
+<!-- PROJECTS -->
 <section class="section">
   <div class="section-title">Projects / The Code</div>
 
   <div class="divider"></div>
-
   <div class="item">
     <h3>ruin2itive</h3>
     <div class="item-meta">github • src</div>
   </div>
 
   <div class="divider"></div>
-
   <div class="item">
     <h3>arduino</h3>
     <div class="item-meta">hackster • hardware</div>
   </div>
 
   <div class="divider"></div>
-
   <div class="item">
     <h3>raspberry_pi</h3>
     <div class="item-meta">instructables • diy</div>
   </div>
-
 </section>
 
+<!-- MARKETS -->
 <section class="section">
-
   <div class="section-title">Markets / Crypto</div>
   <div class="divider"></div>
-
   <div class="feature-placeholder">Curating signal…</div>
-
 </section>
 
+<!-- HACKER NEWS -->
 <section class="section">
-
   <div class="section-title">Hacker News</div>
   <div class="divider"></div>
-
   <div class="feature-placeholder">Curating signal…</div>
-
 </section>
 
 <footer>
