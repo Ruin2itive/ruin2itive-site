@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-15T07:37:01.911Z",
-  "updated_local": "2/15/2026, 7:37:01 AM",
+  "updated_iso": "2026-02-15T07:39:05.988Z",
+  "updated_local": "2/15/2026, 7:39:05 AM",
   "sections": {
     "crypto": [
       {
@@ -10,70 +10,8 @@
         "time": ""
       }
     ],
-    "hacker": [
-      {
-        "title": "I love the work of the ArchWiki maintainers",
-        "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-        "source": "hn",
-        "time": "2/15/2026, 1:20:58 AM"
-      },
-      {
-        "title": "Flashpoint Archive – Over 200k web games and animations preserved",
-        "url": "https://flashpointarchive.org",
-        "source": "hn",
-        "time": "2/15/2026, 5:43:59 AM"
-      },
-      {
-        "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-        "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-        "source": "hn",
-        "time": "2/14/2026, 3:35:47 PM"
-      },
-      {
-        "title": "Zvec: A lightweight, fast, in-process vector database",
-        "url": "https://github.com/alibaba/zvec",
-        "source": "hn",
-        "time": "2/13/2026, 8:53:51 AM"
-      },
-      {
-        "title": "Instagram's URL Blackhole",
-        "url": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
-        "source": "hn",
-        "time": "2/13/2026, 4:42:04 PM"
-      }
-    ],
-    "world": [
-      {
-        "title": "Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran",
-        "url": "https://www.bbc.com/news/articles/clyz4y3zwz5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 15 Feb 2026 06:00:36 GMT"
-      },
-      {
-        "title": "Children 'weaponised' by both sides of trans debate, says author of gender identity report",
-        "url": "https://www.bbc.com/news/articles/c0k1vkmxgd6o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 15 Feb 2026 07:33:56 GMT"
-      },
-      {
-        "title": "Europe must be ready to fight, PM tells Munich Security Conference",
-        "url": "https://www.bbc.com/news/articles/cp853p5g9meo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 14 Feb 2026 22:23:54 GMT"
-      },
-      {
-        "title": "'Trump will be gone in three years': Top US Democrats try to reassure Europe",
-        "url": "https://www.bbc.com/news/articles/cjrq2r9y278o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 15 Feb 2026 00:16:47 GMT"
-      },
-      {
-        "title": "Obama addresses racist video shared by Trump depicting him as an ape",
-        "url": "https://www.bbc.com/news/articles/c74754j7qwgo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 14 Feb 2026 22:24:14 GMT"
-      }
-    ],
+    "hacker": [],
+    "world": [],
     "projects": []
   }
 }
