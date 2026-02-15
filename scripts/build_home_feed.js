@@ -53,35 +53,35 @@ async function getHnTop5() {
     console.warn(`Hacker News fetch failed: ${err.message}, using fallback`);
   }
   
-  // Fallback to placeholder links if fetch fails or produces no items
+  // Fallback to Hacker News homepage if fetch fails or produces no items
   return [
     {
-      title: "Ask HN: What are you working on?",
-      url: "https://news.ycombinator.com/item?id=39000001",
+      title: "Visit Hacker News",
+      url: "https://news.ycombinator.com/",
       source: "hn",
       time: ""
     },
     {
-      title: "Show HN: New Open Source Project",
-      url: "https://news.ycombinator.com/item?id=39000002",
+      title: "Hacker News Newest Stories",
+      url: "https://news.ycombinator.com/newest",
       source: "hn",
       time: ""
     },
     {
-      title: "The Evolution of Web Development",
-      url: "https://news.ycombinator.com/item?id=39000003",
+      title: "Hacker News Best Stories",
+      url: "https://news.ycombinator.com/best",
       source: "hn",
       time: ""
     },
     {
-      title: "Artificial Intelligence Advances in 2026",
-      url: "https://news.ycombinator.com/item?id=39000004",
+      title: "Hacker News Ask",
+      url: "https://news.ycombinator.com/ask",
       source: "hn",
       time: ""
     },
     {
-      title: "Building Scalable Systems: Best Practices",
-      url: "https://news.ycombinator.com/item?id=39000005",
+      title: "Hacker News Show",
+      url: "https://news.ycombinator.com/show",
       source: "hn",
       time: ""
     }
@@ -118,10 +118,10 @@ async function getBbcTop5() {
     console.warn(`BBC fetch failed: ${err.message}, using fallback`);
   }
   
-  // Fallback to placeholder links if fetch fails or produces no items
+  // Fallback to BBC News homepage if fetch fails or produces no items
   return [
     {
-      title: "Read World News on BBC",
+      title: "Visit BBC World News",
       url: "https://www.bbc.com/news",
       source: "world",
       time: ""
@@ -163,35 +163,35 @@ async function getCryptoTop5() {
     console.warn(`Decrypt fetch failed: ${err.message}, using fallback`);
   }
   
-  // Fallback to placeholder links if fetch fails or produces no items
+  // Fallback to Decrypt homepage and sections if fetch fails or produces no items
   return [
     {
-      title: "Bitcoin Reaches New All-Time High in 2026",
-      url: "https://decrypt.co/news/bitcoin-reaches-new-all-time-high-2026",
+      title: "Visit Decrypt - Crypto News",
+      url: "https://decrypt.co/",
       source: "crypto",
       time: ""
     },
     {
-      title: "Ethereum's Latest Upgrade Boosts Network Efficiency",
-      url: "https://decrypt.co/news/ethereum-latest-upgrade-boosts-network",
+      title: "Bitcoin News",
+      url: "https://decrypt.co/price/bitcoin",
       source: "crypto",
       time: ""
     },
     {
-      title: "NFT Market Shows Signs of Recovery",
-      url: "https://decrypt.co/news/nft-market-shows-signs-recovery",
+      title: "Ethereum News",
+      url: "https://decrypt.co/price/ethereum",
       source: "crypto",
       time: ""
     },
     {
-      title: "DeFi Protocols Attract Record Investment",
-      url: "https://decrypt.co/news/defi-protocols-attract-record-investment",
+      title: "NFT News",
+      url: "https://decrypt.co/learn/what-are-nfts-non-fungible-tokens",
       source: "crypto",
       time: ""
     },
     {
-      title: "Crypto Regulation Updates Around the World",
-      url: "https://decrypt.co/news/crypto-regulation-updates-worldwide",
+      title: "DeFi News",
+      url: "https://decrypt.co/learn/what-is-defi",
       source: "crypto",
       time: ""
     }
@@ -237,20 +237,20 @@ async function getHacksterTop3() {
   // Fallback to top 3 individual Arduino project links if fetch fails or produces no items
   return [
     {
-      title: "Arduino Powered Retro Desk Clock",
-      url: "https://www.hackster.io/news/arduino-powered-retro-desk-clock-brings-back-the-charm-of-analog-timekeeping-e9f6c8f8b5a4",
+      title: "Browse Arduino Projects on Hackster",
+      url: "https://www.hackster.io/arduino/projects",
       source: "hackster",
       time: ""
     },
     {
-      title: "ESP32-Based Smart Home Controller",
-      url: "https://www.hackster.io/news/esp32-based-smart-home-controller-makes-automation-accessible-d7e5b9a6c3f2",
+      title: "Explore Hackster News",
+      url: "https://www.hackster.io/news",
       source: "hackster",
       time: ""
     },
     {
-      title: "Arduino Environmental Monitoring Station",
-      url: "https://www.hackster.io/news/arduino-environmental-monitoring-station-tracks-air-quality-c8d6a7b4e1f9",
+      title: "View All Projects",
+      url: "https://www.hackster.io/projects",
       source: "hackster",
       time: ""
     }
