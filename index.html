@@ -8,6 +8,11 @@
   <title>ruin2itive.org</title>
   <meta name="description" content="Independent, self-hosted hub — signals, systems, memory." />
 
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/elephant-mark-small.webp" />
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/elephant-mark-small.webp" />
+
   <!-- Performance hints (safe if files exist; ignored if they don't) -->
   <link rel="preload" as="image" href="assets/elephant-third-eye.webp" imagesrcset="assets/elephant-third-eye.webp" />
   <link rel="preload" as="image" href="assets/elephant-third-eye.png" />
@@ -71,7 +76,10 @@
       --glass-inset: inset 0 1px 0 rgba(255,255,255,.18), inset 0 0 0 1px rgba(255,255,255,.05);
 
       --serif: ui-serif, "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", Times, serif;
-      --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+      --sans: ui-sans-serif, system-ui, -apple-system, "Inter", Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+      
+      /* Elephant watermark */
+      --elephant-opacity: 0.15;
     }
 
     *{ box-sizing:border-box; }
@@ -90,6 +98,31 @@
 
     a{ color:inherit; text-decoration:none; }
     a:hover{ text-decoration:underline; }
+
+    /* Elephant watermark in header */
+    .elephant-watermark{
+      position: fixed;
+      top: calc(20px + var(--safe-top));
+      right: 30px;
+      width: 100px;
+      height: 100px;
+      opacity: var(--elephant-opacity);
+      pointer-events: none;
+      z-index: 10;
+      background-image: url("assets/elephant-mark.webp");
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      filter: grayscale(0.8) sepia(0.2) hue-rotate(60deg);
+      transition: transform 0.3s ease, opacity 0.3s ease;
+    }
+    
+    @media (hover: hover){
+      body:hover .elephant-watermark{
+        transform: scale(1.05);
+        opacity: 0.25;
+      }
+    }
 
     body::before{
       content:"";
@@ -305,12 +338,12 @@
       align-items:center;
       gap: 10px;
       padding: 10px 2px 14px;
-      border-bottom: 1px solid rgba(0,0,0,.10);
+      border-bottom: 2px solid var(--rule);
       margin-bottom: 18px;
       color: rgba(0,0,0,.62);
       font-family: var(--sans);
       font-size: clamp(12px, 1.8vw, 14px);
-      line-height: 1.5;
+      line-height: 1.6;
       letter-spacing: .24em;
       text-transform: uppercase;
       text-shadow: var(--text-shadow);
@@ -455,7 +488,7 @@
     .item h3{
       margin:0 0 8px;
       font-size: 16px;
-      line-height: 1.18;
+      line-height: 1.5;
       letter-spacing: .01em;
       text-shadow: var(--text-shadow);
     }
@@ -584,18 +617,125 @@
       100%{ background-position: 220% 0; }
     }
 
+    /* Loading spinner */
+    .spinner{
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      border: 3px solid rgba(139,31,31,.2);
+      border-top-color: rgba(139,31,31,.8);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    
+    @keyframes spin{
+      to{ transform: rotate(360deg); }
+    }
+    
+    .loading-dots{
+      display: inline-block;
+    }
+    
+    .loading-dots::after{
+      content: '';
+      animation: dots 1.5s steps(4, end) infinite;
+    }
+    
+    @keyframes dots{
+      0%, 20%{ content: ''; }
+      40%{ content: '.'; }
+      60%{ content: '..'; }
+      80%, 100%{ content: '...'; }
+    }
+    
+    /* Error toast */
+    .toast{
+      position: fixed;
+      bottom: calc(30px + var(--safe-bot));
+      left: 50%;
+      transform: translateX(-50%) translateY(100px);
+      padding: 14px 22px;
+      background: rgba(139,31,31,.95);
+      color: rgba(255,255,255,.96);
+      border-radius: 12px;
+      font-family: var(--sans);
+      font-size: 14px;
+      line-height: 1.5;
+      letter-spacing: .02em;
+      box-shadow: 0 20px 60px rgba(0,0,0,.4);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      z-index: 1000;
+      max-width: 90%;
+      text-align: center;
+      opacity: 0;
+      pointer-events: none;
+      transition: transform 0.3s var(--ease), opacity 0.3s ease;
+    }
+    
+    .toast.show{
+      transform: translateX(-50%) translateY(0);
+      opacity: 1;
+      pointer-events: auto;
+    }
+    
+    /* Status messages */
+    .status-message{
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-family: var(--sans);
+      font-size: clamp(11px, 1.7vw, 13px);
+      line-height: 1.5;
+      color: rgba(0,0,0,.62);
+      padding: 6px 12px;
+      border-radius: 8px;
+      background: rgba(139,31,31,.06);
+      border: 1px solid rgba(139,31,31,.18);
+    }
+
     footer{
       margin-top: 18px;
       border-top: 1px solid rgba(0,0,0,.10);
-      padding: 16px 0 calc(18px + var(--safe-bot));
+      padding: 20px 0 calc(24px + var(--safe-bot));
       color: rgba(0,0,0,.56);
       font-family: var(--sans);
-      font-size: clamp(12px, 1.9vw, 14px);
-      line-height: 1.5;
-      letter-spacing: .10em;
-      text-transform: uppercase;
+      font-size: clamp(12px, 1.8vw, 14px);
+      line-height: 1.7;
+      letter-spacing: .08em;
       text-align:center;
       text-shadow: var(--text-shadow);
+    }
+    
+    .footer-main{
+      margin-bottom: 12px;
+      font-size: clamp(13px, 1.9vw, 15px);
+    }
+    
+    .footer-links{
+      display: flex;
+      justify-content: center;
+      gap: 18px;
+      flex-wrap: wrap;
+      margin: 12px 0;
+    }
+    
+    .footer-links a{
+      color: rgba(139,31,31,.78);
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+    
+    .footer-links a:hover{
+      color: rgba(139,31,31,.95);
+      text-decoration: underline;
+    }
+    
+    .footer-note{
+      margin-top: 8px;
+      font-size: clamp(11px, 1.7vw, 13px);
+      color: rgba(0,0,0,.48);
+      font-style: italic;
     }
 
     @media (prefers-reduced-motion: reduce){
@@ -714,6 +854,28 @@
         border-top-color: rgba(255,255,255,.12);
         color: rgba(255,255,255,.66);
       }
+      
+      .footer-links a{
+        color: rgba(139,31,31,.88);
+      }
+      
+      .footer-links a:hover{
+        color: rgba(139,31,31,1);
+      }
+      
+      .footer-note{
+        color: rgba(255,255,255,.52);
+      }
+      
+      .elephant-watermark{
+        filter: grayscale(0.6) brightness(1.3) hue-rotate(60deg);
+      }
+      
+      .status-message{
+        color: rgba(255,255,255,.72);
+        background: rgba(139,31,31,.14);
+        border-color: rgba(139,31,31,.28);
+      }
 
       .refresh-btn{ color: rgba(255,255,255,.86); }
       .fallback-note{ color: rgba(255,255,255,.54); }
@@ -750,11 +912,26 @@
       
       .proj{ padding: 8px 0; }
       .proj .name{ margin: 0 0 8px; }
+      
+      .elephant-watermark{
+        width: 70px;
+        height: 70px;
+        right: 20px;
+        top: calc(15px + var(--safe-top));
+      }
+      
+      .footer-links{
+        flex-direction: column;
+        gap: 10px;
+      }
     }
   </style>
 </head>
 
 <body>
+  <!-- Elephant watermark -->
+  <div class="elephant-watermark" aria-hidden="true" title="ruin2itive elephant mark"></div>
+  
   <header class="hero">
     <div class="wrap">
       <div class="mast">
@@ -771,9 +948,9 @@
         </div>
 
         <ul class="navstrip" aria-label="Section index">
-          <li><a id="nav-projects" href="#projects">Projects</a></li>
-          <li><a id="nav-markets" href="#markets">Markets</a></li>
-          <li><a id="nav-hacker" href="#hacker">Hacker</a></li>
+          <li><a id="nav-projects" href="#projects" title="Jump to Projects section">Projects</a></li>
+          <li><a id="nav-markets" href="#markets" title="Jump to Markets section">Markets</a></li>
+          <li><a id="nav-hacker" href="#hacker" title="Jump to Hacker News section">Hacker</a></li>
         </ul>
       </div>
     </div>
@@ -784,16 +961,16 @@
       <div class="edition" aria-label="Front page edition bar">
         <div><strong>FRONT PAGE</strong> • curated feeds • no noise</div>
         <div class="edition-controls">
-          <button id="refresh-btn" class="refresh-btn" title="Refresh signals from home.json">Refresh Signals</button>
-          <div id="edition-time">Edition: loading…</div>
+          <button id="refresh-btn" class="refresh-btn" aria-label="Refresh signals from home.json" title="Refresh signals from home.json">Refresh Signals</button>
+          <div id="edition-time" aria-live="polite">Edition: loading…</div>
         </div>
       </div>
 
       <section class="grid">
-        <article class="card" id="projects" aria-label="Projects / The Code">
+        <article class="card" id="projects" aria-labelledby="projects-heading">
           <div class="head">
-            <div class="kicker">Projects / The Code</div>
-            <div class="mini" id="projects-updated">Standby</div>
+            <div class="kicker" id="projects-heading">Projects / The Code</div>
+            <div class="mini" id="projects-updated" aria-live="polite">Standby</div>
           </div>
           <div class="body" id="projects-root">
             <div class="feature">
@@ -807,10 +984,10 @@
           </div>
         </article>
 
-        <article class="card" id="markets" aria-label="Markets / Crypto">
+        <article class="card" id="markets" aria-labelledby="markets-heading">
           <div class="head">
-            <div class="kicker">Markets / Crypto</div>
-            <div class="mini" id="decrypt-updated">Standby</div>
+            <div class="kicker" id="markets-heading">Markets / Crypto</div>
+            <div class="mini" id="decrypt-updated" aria-live="polite">Standby</div>
           </div>
 
           <div class="body" id="decrypt-root">
@@ -825,10 +1002,10 @@
           </div>
         </article>
 
-        <article class="card" id="hacker" aria-label="Hacker News">
+        <article class="card" id="hacker" aria-labelledby="hacker-heading">
           <div class="head">
-            <div class="kicker">Hacker News</div>
-            <div class="mini" id="hn-updated">Standby</div>
+            <div class="kicker" id="hacker-heading">Hacker News</div>
+            <div class="mini" id="hn-updated" aria-live="polite">Standby</div>
           </div>
 
           <div class="body" id="hn-root">
@@ -843,9 +1020,22 @@
     </main>
 
     <footer>
-      ruin2itive.org — signals • systems • memory
+      <div class="footer-main">
+        © 2026 ruin2itive.org • <a href="https://github.com/Ruin2itive/ruin2itive-site/blob/main/LICENSE" target="_blank" rel="noopener">MIT Licensed</a> • Built with Reliability in Mind
+      </div>
+      <div class="footer-links">
+        <a href="https://github.com/Ruin2itive/ruin2itive-site" target="_blank" rel="noopener" aria-label="GitHub repository">GitHub</a>
+        <span aria-hidden="true">•</span>
+        <a href="https://x.com/Ruin2itive" target="_blank" rel="noopener" aria-label="X (Twitter)">X @Ruin2itive</a>
+      </div>
+      <div class="footer-note">
+        Curated for independent builders
+      </div>
     </footer>
   </div>
+
+  <!-- Toast container for error messages -->
+  <div id="toast" class="toast" role="alert" aria-live="assertive"></div>
 
   <script>
     const fmt = { dateStyle: "medium", timeStyle: "short" };
@@ -964,6 +1154,26 @@
     }
 
     function nowBust(){ return String(Date.now()); }
+
+    // Toast notifications for errors
+    function showToast(message, duration = 4000){
+      const toast = document.getElementById('toast');
+      if (!toast) return;
+      
+      toast.textContent = message;
+      toast.classList.add('show');
+      
+      setTimeout(() => {
+        toast.classList.remove('show');
+      }, duration);
+    }
+    
+    // Calculate time until next hourly refresh
+    function getNextRefreshMinutes(){
+      const now = new Date();
+      const minutesPastHour = now.getMinutes();
+      return 60 - minutesPastHour;
+    }
 
     function stamp(text, variant){
       const cls = variant === "source" ? "stamp red" : "stamp";
@@ -1215,11 +1425,12 @@
       }
     }
 
-    async function loadData(){
+    async function loadData(isManualRefresh = false){
       setEditionTime();
       
       // Reset fallback flag
       isUsingFallback = false;
+      let hasErrors = false;
       
       // Try to load home.json first to get hackster articles and HN items
       let hacksterArticles = [];
@@ -1235,6 +1446,7 @@
         // Use fallback for HN
         renderHNFallback();
         isUsingFallback = true;
+        hasErrors = true;
       }
 
       // Load Raspberry Pi news
@@ -1254,6 +1466,7 @@
         // Use fallback projects
         renderProjects(FALLBACK_DATA.projects, hacksterArticles, raspiArticles);
         isUsingFallback = true;
+        hasErrors = true;
       }
 
       // Try to load decrypt.json
@@ -1264,7 +1477,16 @@
         // Use fallback crypto data
         renderDecrypt(FALLBACK_DATA.crypto);
         isUsingFallback = true;
+        hasErrors = true;
       }
+      
+      // Show error toast only on manual refresh, not initial load
+      if (isManualRefresh && hasErrors) {
+        const nextRefresh = getNextRefreshMinutes();
+        showToast(`⚠ Using cached memory — next hourly refresh in ~${nextRefresh} min`);
+      }
+      
+      return { hasErrors, isUsingFallback };
     }
 
     async function refreshSignals(){
@@ -1272,14 +1494,20 @@
       if (!btn) return;
       
       btn.disabled = true;
-      btn.textContent = "Refreshing...";
+      btn.innerHTML = '<span class="spinner"></span> Refreshing<span class="loading-dots"></span>';
+      btn.setAttribute('aria-busy', 'true');
       
-      try {
-        await loadData();
-      } finally {
-        btn.disabled = false;
-        btn.textContent = "Refresh Signals";
+      const result = await loadData(true);
+      
+      btn.disabled = false;
+      btn.textContent = "Refresh Signals";
+      btn.removeAttribute('aria-busy');
+      
+      // Show appropriate toast based on result
+      if (!result.hasErrors) {
+        showToast('✓ Signals refreshed successfully');
       }
+      // Error toast is shown inside loadData when hasErrors is true
     }
 
     async function boot(){
