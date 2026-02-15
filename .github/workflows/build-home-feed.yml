@@ -3,10 +3,14 @@ name: Build Home Feed
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "0 * * * *"   # hourly on the hour
 
 permissions:
   contents: write
+
+concurrency:
+  group: build-home-feed
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -17,6 +21,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
 
       - name: Build home.json
         run: node scripts/build_home_feed.js
