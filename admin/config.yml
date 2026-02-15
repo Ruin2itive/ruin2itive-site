@@ -1,15 +1,19 @@
 ---
 backend:
-  name: git-gateway
-  branch: main
-media_folder: static/uploads
-public_folder: /uploads
+  name: github
+  repo: Ruin2itive/ruin2itive-site # Your repository
+  branch: main                     # Your default branch
+  base_url: https://api.github.com # For GitHub API (can omit as it's the default)
+
+media_folder: static/uploads       # Upload folder for images
+public_folder: /uploads            # Public URL for media files
+
 collections:
   - name: "blog"
     label: "Blog"
     folder: "content/blog"
     create: true
-    slug: "{{year}}/{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
