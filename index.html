@@ -822,7 +822,7 @@
       `;
     }
 
-    function renderProjects(data){
+    function renderProjects(data, hacksterArticle){
       const root = document.getElementById("projects-root");
       const groups = data?.groups;
 
@@ -851,10 +851,27 @@
           return `<a class="pill" href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a>`;
         }).join("");
 
+        // Add Hackster article for arduino group
+        let hacksterHtml = "";
+        if (name === "arduino" && hacksterArticle) {
+          hacksterHtml = `
+            <div class="item" style="margin-top: 10px; border-bottom: none; padding: 8px 0;">
+              <a href="${esc(hacksterArticle.url)}" target="_blank" rel="noopener" style="display: block; text-decoration: none; color: inherit;">
+                <h3 style="margin: 0 0 6px; font-size: 14px;">${esc(hacksterArticle.title)}</h3>
+                <div class="meta">
+                  ${stamp("hackster", "source")}
+                  ${hacksterArticle.time ? stamp(hacksterArticle.time) : ""}
+                </div>
+              </a>
+            </div>
+          `;
+        }
+
         return `
           <div class="proj">
             <div class="name">${esc(name)}</div>
             <div class="pills">${pills}</div>
+            ${hacksterHtml}
           </div>
         `;
       }).join("");
@@ -972,9 +989,22 @@
       setEditionTime();
       initScrollSpy();
 
+      // Load home.json first to get hackster article
+      let hacksterArticle = null;
+      try{
+        const home = await fetchJson(`data/home.json?${nowBust()}`);
+        const hacksterItems = home?.sections?.projects;
+        if (Array.isArray(hacksterItems) && hacksterItems.length > 0) {
+          hacksterArticle = hacksterItems[0];
+        }
+        renderHNfromHomeJson(home);
+      }catch(_e){
+        /* silent */
+      }
+
       try{
         const projects = await fetchJson(`data/projects.json?${nowBust()}`);
-        renderProjects(projects);
+        renderProjects(projects, hacksterArticle);
       }catch(e){
         setMini("projects-updated", "Error");
         renderError(
@@ -994,13 +1024,6 @@
           "Decrypt",
           `Could not load data/decrypt.json (${e.message}).`
         );
-      }
-
-      try{
-        const home = await fetchJson(`data/home.json?${nowBust()}`);
-        renderHNfromHomeJson(home);
-      }catch(_e){
-        /* silent */
       }
     }
 

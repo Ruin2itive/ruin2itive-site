@@ -86,6 +86,37 @@ async function getCryptoPlaceholder() {
   }];
 }
 
+async function getHacksterTop1() {
+  // Hackster.io RSS feed (stable)
+  const rssUrl = "https://www.hackster.io/rss";
+
+  // Very small RSS parse (no deps)
+  const res = await fetch(rssUrl, { 
+    redirect: "follow",
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (compatible; ruin2itive-bot/1.0)'
+    }
+  });
+  if (!res.ok) throw new Error(`RSS failed ${res.status}`);
+  const xml = await res.text();
+
+  const items = [];
+  const itemBlocks = xml.split("<item>").slice(1, 2); // grab only the first item
+  for (const block of itemBlocks) {
+    const title = (block.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) || block.match(/<title>(.*?)<\/title>/) || [])[1];
+    const link = (block.match(/<link>(.*?)<\/link>/) || [])[1];
+    const pubDate = (block.match(/<pubDate>(.*?)<\/pubDate>/) || [])[1];
+    if (!title || !link) continue;
+    items.push({
+      title: title.trim(),
+      url: link.trim(),
+      source: "hackster",
+      time: pubDate ? pubDate.trim() : ""
+    });
+  }
+  return items.slice(0, 1);
+}
+
 async function main() {
   const now = new Date();
   const payload = {
@@ -94,7 +125,8 @@ async function main() {
     sections: {
       crypto: [],
       hacker: [],
-      world: []
+      world: [],
+      projects: []
     }
   };
 
@@ -102,6 +134,7 @@ async function main() {
   try { payload.sections.hacker = await getHnTop5(); } catch { payload.sections.hacker = []; }
   try { payload.sections.world  = await getBbcTop5(); } catch { payload.sections.world  = []; }
   try { payload.sections.crypto = await getCryptoPlaceholder(); } catch { payload.sections.crypto = []; }
+  try { payload.sections.projects = await getHacksterTop1(); } catch { payload.sections.projects = []; }
 
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
   fs.writeFileSync(OUT, JSON.stringify(payload, null, 2) + "\n", "utf8");
