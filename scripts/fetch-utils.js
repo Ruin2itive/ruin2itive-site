@@ -15,6 +15,7 @@ async function sleep(ms) {
  * @param {object} options - Fetch options
  * @param {number} retries - Maximum number of retries
  * @returns {Promise<Response>} - Fetch Response object
+ * @throws {Error} - Throws error if all retries are exhausted
  */
 async function fetchWithRetry(url, options = {}, retries = MAX_RETRIES) {
   // Set default User-Agent if not provided
@@ -51,6 +52,7 @@ async function fetchWithRetry(url, options = {}, retries = MAX_RETRIES) {
  * @param {string} url - The URL to fetch
  * @param {object} options - Fetch options
  * @returns {Promise<string>} - Response text
+ * @throws {Error} - Throws error if all retries are exhausted
  */
 async function fetchTextWithRetry(url, options = {}) {
   const res = await fetchWithRetry(url, options);
@@ -62,6 +64,7 @@ async function fetchTextWithRetry(url, options = {}) {
  * @param {string} url - The URL to fetch
  * @param {object} options - Fetch options
  * @returns {Promise<object>} - Parsed JSON response
+ * @throws {Error} - Throws error if all retries are exhausted
  */
 async function fetchJsonWithRetry(url, options = {}) {
   const res = await fetchWithRetry(url, options);
