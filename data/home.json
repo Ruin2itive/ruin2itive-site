@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-15T17:24:17.421Z",
-  "updated_local": "2/15/2026, 5:24:17 PM",
+  "updated_iso": "2026-02-15T17:33:36.977Z",
+  "updated_local": "2/15/2026, 5:33:36 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "LT6502: A 6502-based homebrew laptop",
+        "url": "https://github.com/TechPaula/LT6502",
+        "source": "hn",
+        "time": "2/15/2026, 5:12:35 PM"
+      },
+      {
         "title": "I Fixed Windows Native Development",
         "url": "https://marler8997.github.io/blog/fixed-windows/",
         "source": "hn",
@@ -52,12 +58,6 @@
         "url": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
         "source": "hn",
         "time": "2/15/2026, 4:19:51 PM"
-      },
-      {
-        "title": "An Enslaved Gardener Transformed the Pecan into a Cash Crop",
-        "url": "https://lithub.com/how-an-enslaved-gardener-transformed-the-pecan-into-a-cash-crop/",
-        "source": "hn",
-        "time": "2/15/2026, 3:53:13 PM"
       },
       {
         "title": "I love the work of the ArchWiki maintainers",
@@ -86,16 +86,16 @@
         "time": "Sun, 15 Feb 2026 13:35:26 GMT"
       },
       {
+        "title": "Ukraine's ex-energy minister detained while attempting to leave country",
+        "url": "https://www.bbc.com/news/articles/c4g5380xwqjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 15 Feb 2026 17:11:49 GMT"
+      },
+      {
         "title": "What the Nigella Lawson effect will mean for the Great British Bake Off",
         "url": "https://www.bbc.com/news/articles/cgmlvl48202o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 15 Feb 2026 00:33:19 GMT"
-      },
-      {
-        "title": "This rail line caused travel chaos during storms. £165m later, it's happened again",
-        "url": "https://www.bbc.com/news/articles/c0q4j9e78jzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 15 Feb 2026 00:13:56 GMT"
       }
     ],
     "projects": [
