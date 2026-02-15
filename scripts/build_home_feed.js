@@ -56,32 +56,32 @@ async function getHnTop5() {
   // Fallback to placeholder links if fetch fails or produces no items
   return [
     {
-      title: "Ask HN: What are you working on?",
-      url: "https://news.ycombinator.com/item?id=39000001",
+      title: "Hacker News",
+      url: "https://news.ycombinator.com/",
       source: "hn",
       time: ""
     },
     {
-      title: "Show HN: New Open Source Project",
-      url: "https://news.ycombinator.com/item?id=39000002",
+      title: "Hacker News - Newest",
+      url: "https://news.ycombinator.com/newest",
       source: "hn",
       time: ""
     },
     {
-      title: "The Evolution of Web Development",
-      url: "https://news.ycombinator.com/item?id=39000003",
+      title: "Hacker News - Best",
+      url: "https://news.ycombinator.com/best",
       source: "hn",
       time: ""
     },
     {
-      title: "Artificial Intelligence Advances in 2026",
-      url: "https://news.ycombinator.com/item?id=39000004",
+      title: "Hacker News - Ask",
+      url: "https://news.ycombinator.com/ask",
       source: "hn",
       time: ""
     },
     {
-      title: "Building Scalable Systems: Best Practices",
-      url: "https://news.ycombinator.com/item?id=39000005",
+      title: "Hacker News - Show",
+      url: "https://news.ycombinator.com/show",
       source: "hn",
       time: ""
     }
@@ -167,31 +167,31 @@ async function getCryptoTop5() {
   return [
     {
       title: "Bitcoin Reaches New All-Time High in 2026",
-      url: "https://decrypt.co/news/bitcoin-reaches-new-all-time-high-2026",
+      url: "https://decrypt.co/",
       source: "crypto",
       time: ""
     },
     {
       title: "Ethereum's Latest Upgrade Boosts Network Efficiency",
-      url: "https://decrypt.co/news/ethereum-latest-upgrade-boosts-network",
+      url: "https://decrypt.co/price/ethereum",
       source: "crypto",
       time: ""
     },
     {
       title: "NFT Market Shows Signs of Recovery",
-      url: "https://decrypt.co/news/nft-market-shows-signs-recovery",
+      url: "https://decrypt.co/learn",
       source: "crypto",
       time: ""
     },
     {
       title: "DeFi Protocols Attract Record Investment",
-      url: "https://decrypt.co/news/defi-protocols-attract-record-investment",
+      url: "https://decrypt.co/news",
       source: "crypto",
       time: ""
     },
     {
       title: "Crypto Regulation Updates Around the World",
-      url: "https://decrypt.co/news/crypto-regulation-updates-worldwide",
+      url: "https://decrypt.co/price",
       source: "crypto",
       time: ""
     }
@@ -237,20 +237,20 @@ async function getHacksterTop3() {
   // Fallback to top 3 individual Arduino project links if fetch fails or produces no items
   return [
     {
-      title: "Arduino Powered Retro Desk Clock",
-      url: "https://www.hackster.io/news/arduino-powered-retro-desk-clock-brings-back-the-charm-of-analog-timekeeping-e9f6c8f8b5a4",
+      title: "Hackster.io - Electronics Projects",
+      url: "https://www.hackster.io/projects",
       source: "hackster",
       time: ""
     },
     {
-      title: "ESP32-Based Smart Home Controller",
-      url: "https://www.hackster.io/news/esp32-based-smart-home-controller-makes-automation-accessible-d7e5b9a6c3f2",
+      title: "Arduino Projects on Hackster",
+      url: "https://www.hackster.io/arduino/projects",
       source: "hackster",
       time: ""
     },
     {
-      title: "Arduino Environmental Monitoring Station",
-      url: "https://www.hackster.io/news/arduino-environmental-monitoring-station-tracks-air-quality-c8d6a7b4e1f9",
+      title: "Raspberry Pi Projects on Hackster",
+      url: "https://www.hackster.io/raspberry-pi/projects",
       source: "hackster",
       time: ""
     }

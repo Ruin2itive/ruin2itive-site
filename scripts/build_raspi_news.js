@@ -3,26 +3,51 @@
  * Generates data/raspi.json
  * - Fetches top 5 articles from Raspberry Pi News RSS feed
  * - No npm dependencies required (Node 20 has global fetch)
+ * - Includes retry logic for network resilience
  */
 
 const fs = require("fs");
 const path = require("path");
 
 const OUT = path.join(process.cwd(), "data", "raspi.json");
+const MAX_RETRIES = 3;
+const RETRY_DELAY_MS = 2000;
+
+async function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function fetchWithRetry(url, options = {}, retries = MAX_RETRIES) {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      const res = await fetch(url, {
+        redirect: "follow",
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (compatible; ruin2itive-bot/1.0)'
+        },
+        ...options
+      });
+      
+      if (!res.ok) {
+        throw new Error(`RSS failed ${res.status}`);
+      }
+      
+      return await res.text();
+    } catch (err) {
+      if (attempt === retries) {
+        throw err;
+      }
+      console.warn(`Attempt ${attempt}/${retries} failed: ${err.message}. Retrying in ${RETRY_DELAY_MS}ms...`);
+      await sleep(RETRY_DELAY_MS * attempt);
+    }
+  }
+}
 
 async function fetchRaspiNews() {
   const rssUrl = "https://www.raspberrypi.com/news/feed/";
 
   try {
-    const res = await fetch(rssUrl, { 
-      redirect: "follow",
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; ruin2itive-bot/1.0)'
-      }
-    });
-    
-    if (!res.ok) throw new Error(`RSS failed ${res.status}`);
-    const xml = await res.text();
+    const xml = await fetchWithRetry(rssUrl);
 
     const items = [];
     const itemBlocks = xml.split("<item>").slice(1, 4); // grab up to 3 items
@@ -51,7 +76,7 @@ async function fetchRaspiNews() {
     
     console.warn(`Raspberry Pi RSS returned no valid items, using fallback`);
   } catch (err) {
-    console.warn(`Raspberry Pi fetch failed: ${err.message}, using fallback`);
+    console.warn(`Raspberry Pi fetch failed after retries: ${err.message}, using fallback`);
   }
   
   // Fallback to seed data if fetch fails
@@ -59,20 +84,20 @@ async function fetchRaspiNews() {
     updated: new Date().toISOString(),
     items: [
       {
-        title: "Raspberry Pi 5: Everything You Need to Know",
-        url: "https://www.raspberrypi.com/news/raspberry-pi-5/",
+        title: "Raspberry Pi Official Site",
+        url: "https://www.raspberrypi.com/",
         source: "raspberry_pi",
         time: ""
       },
       {
-        title: "New Raspberry Pi OS Update Released",
-        url: "https://www.raspberrypi.com/news/raspberry-pi-os-update/",
+        title: "Raspberry Pi News",
+        url: "https://www.raspberrypi.com/news/",
         source: "raspberry_pi",
         time: ""
       },
       {
-        title: "Getting Started with Raspberry Pi Projects",
-        url: "https://www.raspberrypi.com/news/getting-started-projects/",
+        title: "Raspberry Pi Products",
+        url: "https://www.raspberrypi.com/products/",
         source: "raspberry_pi",
         time: ""
       }
