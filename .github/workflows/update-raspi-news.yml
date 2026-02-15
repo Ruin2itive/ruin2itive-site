@@ -3,7 +3,7 @@ name: Update Raspberry Pi News
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"   # every hour on the hour
+    - cron: "0 * * * *"   # every hour on the hour (UTC)
 
 permissions:
   contents: write
@@ -18,23 +18,29 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
 
       - name: Build raspi.json
         run: node scripts/build_raspi_news.js
 
       - name: Commit if changed
         run: |
-          git config user.name "ruin2itive-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add data/raspi.json
-          if git diff --cached --quiet; then
-            echo "No changes."
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit."
             exit 0
           fi
-          git commit -m "Update Raspberry Pi news"
+          git config user.name "ruin2itive-bot"
+          git config user.email "ruin2itive-bot@users.noreply.github.com"
+          git add data/raspi.json
+          git commit -m "chore: update Raspberry Pi news"
           git push

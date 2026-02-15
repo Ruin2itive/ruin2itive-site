@@ -1,37 +1,46 @@
-name: Build Home Feed
+name: Update Home Feed
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"   # hourly on the hour
+    - cron: "0 * * * *"   # hourly on the hour (UTC)
 
 permissions:
   contents: write
 
 concurrency:
-  group: build-home-feed
+  group: update-home-feed
   cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: "20"
+          cache: "npm"
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Build home.json
         run: node scripts/build_home_feed.js
 
       - name: Commit data updates
         run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit."
+            exit 0
+          fi
           git config user.name "ruin2itive-bot"
           git config user.email "ruin2itive-bot@users.noreply.github.com"
           git add data/home.json
-          git diff --cached --quiet || git commit -m "Update home feed"
+          git commit -m "chore: update home feed"
           git push
