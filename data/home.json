@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-15T10:24:28.644Z",
-  "updated_local": "2/15/2026, 10:24:28 AM",
+  "updated_iso": "2026-02-15T10:36:53.840Z",
+  "updated_local": "2/15/2026, 10:36:53 AM",
   "sections": {
     "crypto": [
       {
@@ -48,16 +48,16 @@
         "time": "2/15/2026, 5:43:59 AM"
       },
       {
-        "title": "Git is a file system. We need a database for the code",
-        "url": "https://gist.github.com/gritzko/6e81b5391eacb585ae207f5e634db07e",
-        "source": "hn",
-        "time": "2/15/2026, 9:09:31 AM"
-      },
-      {
         "title": "Two different tricks for fast LLM inference",
         "url": "https://www.seangoedecke.com/fast-llm-inference/",
         "source": "hn",
         "time": "2/15/2026, 9:27:33 AM"
+      },
+      {
+        "title": "Git is a file system. We need a database for the code",
+        "url": "https://gist.github.com/gritzko/6e81b5391eacb585ae207f5e634db07e",
+        "source": "hn",
+        "time": "2/15/2026, 9:09:31 AM"
       },
       {
         "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
