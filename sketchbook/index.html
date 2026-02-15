@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="color-scheme" content="light dark" />
+
+  <title>Sketchbook – ruin2itive.org</title>
+  <meta name="description" content="Ideas, experiments, and more." />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="../favicon.svg" />
+  <link rel="icon" type="image/png" sizes="32x32" href="../assets/elephant-mark-small.webp" />
+  <link rel="icon" type="image/png" sizes="16x16" href="../assets/elephant-mark-small.webp" />
+
+  <link rel="stylesheet" href="../style.css" />
+  
+  <style>
+    body{
+      margin:0;
+      color:var(--ink);
+      background: var(--paper);
+      font-family: var(--serif);
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      overflow-x:hidden;
+      min-height: 100vh;
+    }
+
+    .container{
+      max-width: var(--max, 1240px);
+      margin: 0 auto;
+      padding: 60px var(--g, 20px) 80px;
+    }
+
+    .page-header{
+      margin-bottom: 60px;
+      text-align: center;
+    }
+
+    .page-header h1{
+      font-size: 3rem;
+      font-weight: 600;
+      margin: 0 0 16px;
+      color: var(--ink);
+    }
+
+    .page-header .description{
+      font-size: 1.25rem;
+      color: var(--muted);
+      font-style: italic;
+    }
+
+    .back-link{
+      display: inline-block;
+      margin-bottom: 30px;
+      padding: 10px 20px;
+      background: var(--pill-bg, rgba(255,255,255,.30));
+      border: 1px solid var(--pill-border, rgba(0,0,0,.24));
+      border-radius: 22px;
+      color: var(--ink);
+      text-decoration: none;
+      font-size: 0.95rem;
+      backdrop-filter: blur(var(--glass-blur, 18px));
+      -webkit-backdrop-filter: blur(var(--glass-blur, 18px));
+      transition: all var(--dur, 220ms) var(--ease, ease);
+    }
+
+    .back-link:hover{
+      background: rgba(255,255,255,.45);
+      border-color: rgba(0,0,0,.32);
+      transform: translateY(-1px);
+      text-decoration: none;
+    }
+
+    .posts-container{
+      background: var(--card-bg, rgba(255,255,255,.40));
+      border: 1px solid var(--card-border, rgba(0,0,0,.18));
+      border-radius: var(--radius, 18px);
+      padding: 40px;
+      backdrop-filter: blur(var(--glass-blur, 18px));
+      -webkit-backdrop-filter: blur(var(--glass-blur, 18px));
+      box-shadow: var(--shadowSoft, 0 14px 46px rgba(0,0,0,.12));
+      min-height: 300px;
+    }
+
+    .posts-list{
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .empty-state{
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--muted);
+      font-size: 1.1rem;
+      font-style: italic;
+    }
+
+    .post-item{
+      padding: 20px 0;
+      border-bottom: 1px solid var(--rule, rgba(0,0,0,.10));
+    }
+
+    .post-item:last-child{
+      border-bottom: none;
+    }
+
+    .post-item h2{
+      font-size: 1.5rem;
+      margin: 0 0 8px;
+      font-weight: 600;
+    }
+
+    .post-item a{
+      color: var(--ink);
+      text-decoration: none;
+      transition: color var(--dur, 220ms) var(--ease, ease);
+    }
+
+    .post-item a:hover{
+      color: var(--red);
+      text-decoration: underline;
+    }
+
+    .post-meta{
+      font-size: 0.9rem;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+
+    .post-excerpt{
+      line-height: 1.6;
+      color: var(--ink);
+    }
+
+    @media (max-width: 768px){
+      .page-header h1{
+        font-size: 2.25rem;
+      }
+
+      .page-header .description{
+        font-size: 1.1rem;
+      }
+
+      .posts-container{
+        padding: 30px 20px;
+      }
+    }
+
+    @media (prefers-color-scheme: dark){
+      body{
+        --paper: #1a1a1a;
+        --paper2: #222;
+        --ink: rgba(255,255,255,.92);
+        --muted: rgba(255,255,255,.62);
+        --rule: rgba(255,255,255,.10);
+        
+        --card-bg: rgba(12,12,14,.24);
+        --card-border: rgba(255,255,255,.18);
+        
+        --pill-bg: rgba(12,12,14,.18);
+        --pill-border: rgba(255,255,255,.18);
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <a href="../index.html" class="back-link">← Back to Home</a>
+
+    <div class="page-header">
+      <h1>Sketchbook</h1>
+      <div class="description">Ideas, experiments, and more.</div>
+    </div>
+
+    <div class="posts-container">
+      <ul class="posts-list">
+        <li class="empty-state">
+          No blog posts yet. Check back soon!
+        </li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
