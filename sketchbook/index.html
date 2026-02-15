@@ -13,9 +13,79 @@
   <link rel="icon" type="image/png" sizes="32x32" href="../assets/elephant-mark-small.webp" />
   <link rel="icon" type="image/png" sizes="16x16" href="../assets/elephant-mark-small.webp" />
 
-  <link rel="stylesheet" href="../style.css" />
-  
+  <!-- Performance hints -->
+  <link rel="preload" as="image" href="../assets/elephant-third-eye.webp" imagesrcset="../assets/elephant-third-eye.webp" />
+  <link rel="preload" as="image" href="../assets/elephant-third-eye.png" />
+
   <style>
+    :root{
+      /* Paper + ink */
+      --paper:#fbfaf7;
+      --paper2:#ffffff;
+      --ink:#111;
+      --muted:#5a5852;
+      --rule:#ded6cc;
+
+      /* Brand */
+      --red:#8b1f1f;
+
+      /* Geometry */
+      --radius:18px;
+      --max: 1360px;
+      --g: 20px;
+
+      /* Safe areas */
+      --safe-top: env(safe-area-inset-top, 0px);
+      --safe-bot: env(safe-area-inset-bottom, 0px);
+
+      /* Elevation */
+      --shadow: 0 22px 70px rgba(0,0,0,.16);
+      --shadowSoft: 0 14px 46px rgba(0,0,0,.12);
+
+      /* Motion */
+      --ease: cubic-bezier(.2,.8,.2,1);
+      --dur: 220ms;
+
+      /* Focus ring */
+      --ring: 0 0 0 3px rgba(139,31,31,.25);
+
+      /* Background system (tunable) */
+      --wm-opacity: .035;
+      --hero-img-opacity: .95;
+
+      /* ULTRA-TRANSPARENT GLASS */
+      --glass-blur: 18px;
+
+      --card-bg: rgba(255,255,255,.40);
+      --card-head-bg: rgba(255,255,255,.14);
+
+      --plate-bg: rgba(255,255,255,.20);
+      --nav-bg: rgba(255,255,255,.26);
+      --pill-bg: rgba(255,255,255,.30);
+      --stamp-bg: rgba(255,255,255,.30);
+
+      --card-border: rgba(0,0,0,.18);
+      --card-border-hover: rgba(0,0,0,.28);
+
+      --plate-border: rgba(0,0,0,.20);
+      --nav-border: rgba(0,0,0,.20);
+      --pill-border: rgba(0,0,0,.24);
+      --stamp-border: rgba(0,0,0,.22);
+
+      --text-shadow: 0 1px 0 rgba(255,255,255,.22);
+      --glass-inset: inset 0 1px 0 rgba(255,255,255,.18), inset 0 0 0 1px rgba(255,255,255,.05);
+
+      --serif: ui-serif, "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", Times, serif;
+      --sans: ui-sans-serif, system-ui, -apple-system, "Inter", Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+      
+      /* Elephant watermark */
+      --elephant-opacity: 0.15;
+    }
+
+    *{ box-sizing:border-box; }
+    html,body{ height:100%; }
+    html{ scroll-behavior:smooth; }
+
     body{
       margin:0;
       color:var(--ink);
@@ -24,14 +94,243 @@
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
       overflow-x:hidden;
-      min-height: 100vh;
     }
 
-    .container{
-      max-width: var(--max, 1240px);
-      margin: 0 auto;
-      padding: 60px var(--g, 20px) 80px;
+    a{ color:inherit; text-decoration:none; }
+    a:hover{ text-decoration:underline; }
+
+    /* Elephant watermark in header */
+    .elephant-watermark{
+      position: fixed;
+      top: calc(20px + var(--safe-top));
+      right: 30px;
+      width: 100px;
+      height: 100px;
+      opacity: var(--elephant-opacity);
+      pointer-events: none;
+      z-index: 10;
+      background-image: url("../assets/elephant-mark.webp");
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      filter: grayscale(0.8) sepia(0.2) hue-rotate(60deg);
+      transition: transform 0.3s ease, opacity 0.3s ease;
     }
+    
+    @media (hover: hover){
+      body:hover .elephant-watermark{
+        transform: scale(1.05);
+        opacity: 0.25;
+      }
+    }
+
+    body::before{
+      content:"";
+      position:fixed;
+      inset:0;
+      pointer-events:none;
+      background:
+        radial-gradient(1200px 700px at 20% 0%, rgba(0,0,0,.035), transparent 60%),
+        radial-gradient(1200px 700px at 80% 0%, rgba(0,0,0,.025), transparent 60%),
+        radial-gradient(1200px 900px at 50% 70%, rgba(0,0,0,.030), transparent 62%),
+        linear-gradient(to bottom, rgba(0,0,0,.018), transparent 18%, rgba(0,0,0,.018));
+      opacity:.62;
+      z-index:0;
+    }
+
+    body::after{
+      content:"";
+      position:fixed;
+      inset:-10%;
+      pointer-events:none;
+      background-image:
+        url("../assets/elephant-third-eye.webp"),
+        url("../assets/elephant-third-eye.png"),
+        url("../assets/elephant-bg.PNG");
+      background-repeat:no-repeat;
+      background-size: 1450px auto;
+      background-position: center 28%;
+      opacity: var(--wm-opacity);
+      filter: grayscale(1) contrast(1.18);
+      z-index:0;
+      transform: translateZ(0);
+    }
+
+    .wrap{
+      position:relative;
+      z-index:1;
+      max-width: var(--max);
+      margin:0 auto;
+      padding: 0 18px calc(28px + var(--safe-bot));
+    }
+
+    /* HERO */
+    .hero{
+      position:relative;
+      padding-top: calc(14px + var(--safe-top));
+      padding-bottom: 18px;
+      overflow:hidden;
+      background: var(--paper2);
+      border-bottom: 1px solid rgba(0,0,0,.08);
+    }
+
+    .hero::before{
+      content:"";
+      position:absolute;
+      inset:0;
+      background-image:
+        url("../assets/elephant-third-eye.webp"),
+        url("../assets/elephant-third-eye.png"),
+        url("../assets/elephant-bg.PNG");
+      background-repeat:no-repeat;
+      background-size: cover;
+      background-position: center 28%;
+      filter: grayscale(1) contrast(1.25);
+      opacity: var(--hero-img-opacity);
+      pointer-events:none;
+      z-index:0;
+      transform: scale(1.05);
+    }
+
+    .hero::after{
+      content:"";
+      position:absolute;
+      inset:0;
+      background:
+        radial-gradient(980px 440px at 50% 44%,
+          rgba(255,255,255,.58),
+          rgba(255,255,255,.28) 42%,
+          rgba(255,255,255,.44) 62%,
+          rgba(255,255,255,.82) 100%),
+        linear-gradient(to bottom, rgba(255,255,255,.44) 0%, rgba(255,255,255,.62) 50%, rgba(255,255,255,.92) 100%);
+      pointer-events:none;
+      z-index:0;
+    }
+
+    .mast{
+      position:relative;
+      z-index:1;
+      text-align:center;
+      padding: 10px 0 6px;
+    }
+
+    .kickerline{
+      font-family: var(--sans);
+      font-size: clamp(12px, 1.8vw, 14px);
+      line-height: 1.4;
+      letter-spacing: .34em;
+      text-transform: uppercase;
+      color: rgba(0,0,0,.62);
+      margin: 0 0 10px;
+      white-space: nowrap;
+      overflow:hidden;
+      text-overflow: ellipsis;
+      text-shadow: var(--text-shadow);
+    }
+
+    .nameplate{
+      display:inline-block;
+      padding: 12px 18px 10px;
+      border-radius: 20px;
+      border: 1px solid var(--plate-border);
+      background: var(--plate-bg);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      box-shadow:
+        0 18px 52px rgba(0,0,0,.12),
+        inset 0 1px 0 rgba(255,255,255,.16),
+        inset 0 0 0 1px rgba(255,255,255,.05);
+      transform: translateZ(0);
+    }
+
+    .title{
+      margin:0;
+      font-size: clamp(34px, 5vw, 66px);
+      line-height: 1.0;
+      letter-spacing: -0.040em;
+      color: rgba(0,0,0,.92);
+      text-shadow: 0 2px 0 rgba(255,255,255,.20);
+    }
+
+    .tagline{
+      font-family: var(--sans);
+      margin: 10px 0 0;
+      font-size: clamp(12px, 1.9vw, 14px);
+      line-height: 1.4;
+      letter-spacing: .22em;
+      text-transform: uppercase;
+      color: rgba(0,0,0,.56);
+      text-shadow: var(--text-shadow);
+    }
+
+    .rules{
+      margin-top: 16px;
+      position:relative;
+      z-index:1;
+    }
+    .rules .thin{
+      height:1px;
+      background: rgba(0,0,0,.16);
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .rules .thick{
+      height:3px;
+      background: rgba(139,31,31,.32);
+      width: 140px;
+      margin: 10px auto 0;
+      border-radius: 999px;
+      box-shadow: 0 6px 18px rgba(139,31,31,.12);
+    }
+
+    .navstrip{
+      display:flex;
+      justify-content:center;
+      gap: 12px;
+      flex-wrap:wrap;
+      padding: 14px 0 6px;
+      margin: 0;
+      list-style:none;
+      position:relative;
+      z-index:1;
+    }
+
+    .navstrip a{
+      font-family: var(--sans);
+      font-size: clamp(12px, 1.8vw, 14px);
+      line-height: 1.4;
+      letter-spacing: .22em;
+      text-transform: uppercase;
+      color: rgba(0,0,0,.78);
+      padding: 7px 12px;
+      border-radius: 999px;
+      border: 1px solid var(--nav-border);
+      background: var(--nav-bg);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+      box-shadow: var(--glass-inset);
+      transition: transform var(--dur) var(--ease), border-color var(--dur) var(--ease), background var(--dur) var(--ease), box-shadow var(--dur) var(--ease);
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .navstrip a:hover{
+      text-decoration:none;
+      transform: translateY(-1px);
+      border-color: rgba(139,31,31,.55);
+      background: rgba(255,255,255,.38);
+      box-shadow: 0 10px 26px rgba(0,0,0,.10), var(--glass-inset);
+    }
+    .navstrip a:active{ transform: translateY(0px) scale(.985); }
+    .navstrip a:focus-visible{ outline:none; box-shadow: var(--ring); }
+
+    .navstrip a[aria-current="page"]{
+      border-color: rgba(139,31,31,.58);
+      background: rgba(139,31,31,.070);
+      box-shadow: 0 0 0 3px rgba(139,31,31,.14), var(--glass-inset);
+      text-decoration:none;
+    }
+
+    main{ padding-top: 18px; }
 
     .page-header{
       margin-bottom: 60px;
@@ -51,37 +350,16 @@
       font-style: italic;
     }
 
-    .back-link{
-      display: inline-block;
-      margin-bottom: 30px;
-      padding: 10px 20px;
-      background: var(--pill-bg, rgba(255,255,255,.30));
-      border: 1px solid var(--pill-border, rgba(0,0,0,.24));
-      border-radius: 22px;
-      color: var(--ink);
-      text-decoration: none;
-      font-size: 0.95rem;
-      backdrop-filter: blur(var(--glass-blur, 18px));
-      -webkit-backdrop-filter: blur(var(--glass-blur, 18px));
-      transition: all var(--dur, 220ms) var(--ease, ease);
-    }
-
-    .back-link:hover{
-      background: var(--card-bg, rgba(255,255,255,.40));
-      border-color: var(--card-border-hover, rgba(0,0,0,.28));
-      transform: translateY(-1px);
-      text-decoration: none;
-    }
-
     .posts-container{
-      background: var(--card-bg, rgba(255,255,255,.40));
-      border: 1px solid var(--card-border, rgba(0,0,0,.18));
-      border-radius: var(--radius, 18px);
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: var(--radius);
       padding: 40px;
-      backdrop-filter: blur(var(--glass-blur, 18px));
-      -webkit-backdrop-filter: blur(var(--glass-blur, 18px));
-      box-shadow: var(--shadowSoft, 0 14px 46px rgba(0,0,0,.12));
+      backdrop-filter: blur(var(--glass-blur));
+      -webkit-backdrop-filter: blur(var(--glass-blur));
+      box-shadow: var(--shadowSoft), var(--glass-inset);
       min-height: 300px;
+      transition: transform var(--dur) var(--ease), box-shadow var(--dur) var(--ease), border-color var(--dur) var(--ease);
     }
 
     .posts-list{
@@ -100,7 +378,7 @@
 
     .post-item{
       padding: 20px 0;
-      border-bottom: 1px solid var(--rule, rgba(0,0,0,.10));
+      border-bottom: 1px solid var(--rule);
     }
 
     .post-item:last-child{
@@ -116,7 +394,7 @@
     .post-item a{
       color: var(--ink);
       text-decoration: none;
-      transition: color var(--dur, 220ms) var(--ease, ease);
+      transition: color var(--dur) var(--ease);
     }
 
     .post-item a:hover{
@@ -136,6 +414,16 @@
     }
 
     @media (max-width: 768px){
+      .elephant-watermark{
+        width: 70px;
+        height: 70px;
+        right: 20px;
+        top: calc(15px + var(--safe-top));
+      }
+
+      .hero::before{ background-position: center 26%; }
+      .nameplate{ padding: 10px 14px 8px; border-radius: 16px; }
+
       .page-header h1{
         font-size: 2.25rem;
       }
@@ -150,7 +438,7 @@
     }
 
     @media (prefers-color-scheme: dark){
-      body{
+      :root{
         --paper: #1a1a1a;
         --paper2: #222;
         --ink: rgba(255,255,255,.92);
@@ -158,32 +446,116 @@
         --rule: rgba(255,255,255,.10);
         
         --card-bg: rgba(12,12,14,.24);
+        --card-head-bg: rgba(12,12,14,.18);
         --card-border: rgba(255,255,255,.18);
         --card-border-hover: rgba(255,255,255,.28);
         
+        --plate-bg: rgba(12,12,14,.18);
+        --nav-bg: rgba(12,12,14,.18);
         --pill-bg: rgba(12,12,14,.18);
+        --stamp-bg: rgba(12,12,14,.22);
+        
+        --plate-border: rgba(255,255,255,.18);
+        --nav-border: rgba(255,255,255,.18);
         --pill-border: rgba(255,255,255,.18);
+        --stamp-border: rgba(255,255,255,.20);
+        
+        --text-shadow: 0 1px 0 rgba(0,0,0,.24);
+        --glass-inset: inset 0 1px 0 rgba(255,255,255,.08), inset 0 0 0 1px rgba(255,255,255,.03);
+      }
+
+      .kickerline{ color: rgba(255,255,255,.62); }
+      .title{ color: rgba(255,255,255,.92); text-shadow: 0 2px 0 rgba(0,0,0,.20); }
+      .tagline{ color: rgba(255,255,255,.56); }
+      .rules .thin{ background: rgba(255,255,255,.16); }
+
+      .navstrip a{ color: rgba(255,255,255,.82); }
+      .navstrip a:hover{
+        border-color: rgba(139,31,31,.70);
+        background: rgba(12,12,14,.28);
+      }
+      .navstrip a[aria-current="page"]{
+        border-color: rgba(139,31,31,.72);
+        background: rgba(139,31,31,.14);
+        box-shadow: 0 0 0 3px rgba(139,31,31,.20), var(--glass-inset);
+      }
+
+      body::before{
+        background:
+          radial-gradient(1200px 700px at 20% 0%, rgba(255,255,255,.020), transparent 60%),
+          radial-gradient(1200px 700px at 80% 0%, rgba(255,255,255,.015), transparent 60%),
+          radial-gradient(1200px 900px at 50% 70%, rgba(255,255,255,.018), transparent 62%),
+          linear-gradient(to bottom, rgba(255,255,255,.012), transparent 18%, rgba(255,255,255,.012));
+        opacity:.50;
+      }
+
+      body::after{
+        opacity: calc(var(--wm-opacity) * 0.5);
+        filter: grayscale(1) contrast(1.18) invert(1);
+      }
+
+      .hero{ background: var(--paper2); }
+      .hero::before{
+        opacity: calc(var(--hero-img-opacity) * 0.4);
+        filter: grayscale(1) contrast(1.15) invert(0.92);
+      }
+      .hero::after{
+        background:
+          radial-gradient(980px 440px at 50% 44%,
+            rgba(0,0,0,.38),
+            rgba(0,0,0,.12) 42%,
+            rgba(0,0,0,.24) 62%,
+            rgba(0,0,0,.62) 100%),
+          linear-gradient(to bottom, rgba(0,0,0,.24) 0%, rgba(0,0,0,.42) 50%, rgba(0,0,0,.72) 100%);
       }
     }
   </style>
 </head>
 
 <body>
-  <div class="container">
-    <a href="../index.html" class="back-link">← Back to Home</a>
+  <!-- Elephant watermark -->
+  <div class="elephant-watermark" aria-hidden="true" title="ruin2itive elephant mark"></div>
+  
+  <header class="hero">
+    <div class="wrap">
+      <div class="mast">
+        <div class="kickerline">Reliability • Open Source • Independent</div>
 
-    <div class="page-header">
-      <h1>Sketchbook</h1>
-      <div class="description">Ideas, experiments, and more.</div>
-    </div>
+        <div class="nameplate">
+          <h1 class="title">ruin2itive</h1>
+          <div class="tagline">Signals • Systems • Memory</div>
+        </div>
 
-    <div class="posts-container">
-      <ul class="posts-list">
-        <li class="empty-state">
-          No blog posts yet. Check back soon!
-        </li>
-      </ul>
+        <div class="rules" aria-hidden="true">
+          <div class="thin"></div>
+          <div class="thick"></div>
+        </div>
+
+        <ul class="navstrip" aria-label="Section index">
+          <li><a href="../index.html#projects" title="Jump to Projects section">Projects</a></li>
+          <li><a href="../index.html#markets" title="Jump to Markets section">Markets</a></li>
+          <li><a href="../index.html#hacker" title="Jump to Hacker News section">Hacker</a></li>
+          <li><a href="index.html" aria-current="page" title="Visit Sketchbook">Sketchbook</a></li>
+        </ul>
+      </div>
     </div>
+  </header>
+
+  <div class="wrap">
+    <main>
+      <div class="page-header">
+        <h1>Sketchbook</h1>
+        <div class="description">Ideas, experiments, and more.</div>
+      </div>
+
+      <div class="posts-container">
+        <ul class="posts-list">
+          <li class="empty-state">
+            No blog posts yet. Check back soon!
+          </li>
+        </ul>
+      </div>
+    </main>
   </div>
 </body>
 </html>
