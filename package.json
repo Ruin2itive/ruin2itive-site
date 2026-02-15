@@ -5,6 +5,7 @@
     "build:decrypt": "node scripts/build_decrypt.js"
   },
   "dependencies": {
-    "rss-parser": "^3.13.0"
+    "rss-parser": "^3.13.0",
+    "fast-xml-parser": "^4.5.0"
   }
 }
