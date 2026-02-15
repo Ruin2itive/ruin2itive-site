@@ -1446,18 +1446,14 @@
             <div class="email-signup">
               <h2 class="section-title">Join Our Newsletter</h2>
               <p class="section-subtitle">Get the latest updates, insights, and curated content delivered to your inbox.</p>
-              <!-- SETUP REQUIRED: 
-                   1. Replace YOUR_MAILCHIMP_ACTION_URL with your Mailchimp form action URL
-                   2. Replace b_YOUR_ID_YOUR_ID with your actual Mailchimp honeypot field name
-                   See CONVERSION_FEATURES.md for detailed setup instructions -->
-              <form class="signup-form" id="newsletter-form" action="YOUR_MAILCHIMP_ACTION_URL" method="post" target="_blank">
-                <input type="email" name="EMAIL" class="signup-input" placeholder="Enter your email address" required>
-                <!-- Anti-bot field (hidden) -->
-                <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                  <input type="text" name="b_YOUR_ID_YOUR_ID" tabindex="-1" value="">
-                </div>
+              <form class="signup-form" id="newsletter-form" action="https://formspree.io/f/xqedqoky" method="POST">
+                <input type="text" name="name" class="signup-input" placeholder="Your name (optional)" style="min-width: 180px;">
+                <input type="email" name="email" class="signup-input" placeholder="Enter your email address" required>
                 <button type="submit" class="signup-submit">Subscribe</button>
               </form>
+              <div id="newsletter-success" class="form-success">
+                ✓ Thank you for subscribing! Check your inbox for confirmation.
+              </div>
             </div>
           </div>
         </article>
@@ -2095,14 +2091,9 @@
     // Validate setup on page load
     (function validateSetup() {
       const contactForm = document.getElementById('contact-form');
-      const newsletterForm = document.getElementById('newsletter-form');
       
       if (contactForm && contactForm.action.includes('YOUR_FORM_ID')) {
         console.warn('⚠️ Contact form not configured: Please replace YOUR_FORM_ID with your actual Formspree form ID. See CONVERSION_FEATURES.md for setup instructions.');
-      }
-      
-      if (newsletterForm && newsletterForm.action.includes('YOUR_MAILCHIMP_ACTION_URL')) {
-        console.warn('⚠️ Newsletter form not configured: Please replace YOUR_MAILCHIMP_ACTION_URL with your actual Mailchimp form action. See CONVERSION_FEATURES.md for setup instructions.');
       }
     })();
 
@@ -2152,6 +2143,53 @@
         } catch (error) {
           // Show error toast
           showToast('⚠ Failed to send message. Please try again later.');
+        } finally {
+          // Re-enable button
+          submitBtn.disabled = false;
+          submitBtn.textContent = originalBtnText;
+        }
+      });
+    }
+
+    // Handle newsletter form submission
+    const newsletterForm = document.getElementById('newsletter-form');
+    if (newsletterForm) {
+      newsletterForm.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        
+        const submitBtn = newsletterForm.querySelector('.signup-submit');
+        const successMsg = document.getElementById('newsletter-success');
+        const originalBtnText = submitBtn.textContent;
+        
+        // Disable button and show loading state
+        submitBtn.disabled = true;
+        submitBtn.textContent = 'Subscribing...';
+        
+        try {
+          const formData = new FormData(newsletterForm);
+          const response = await fetch(newsletterForm.action, {
+            method: 'POST',
+            body: formData,
+            headers: {
+              'Accept': 'application/json'
+            }
+          });
+          
+          if (response.ok) {
+            // Show success message
+            successMsg.classList.add('show');
+            newsletterForm.reset();
+            
+            // Hide success message after 5 seconds
+            setTimeout(() => {
+              successMsg.classList.remove('show');
+            }, 5000);
+          } else {
+            throw new Error('Newsletter subscription failed');
+          }
+        } catch (error) {
+          // Show error toast
+          showToast('⚠ Failed to subscribe. Please try again later.');
         } finally {
           // Re-enable button
           submitBtn.disabled = false;
