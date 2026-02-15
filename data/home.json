@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-15T19:33:23.624Z",
-  "updated_local": "2/15/2026, 7:33:23 PM",
+  "updated_iso": "2026-02-15T20:24:14.692Z",
+  "updated_local": "2/15/2026, 8:24:14 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenClaw Creator Gets Big Offers to Acquire AI Sensation—Will It Stay Open Source?",
+        "url": "https://decrypt.co/358129/openclaw-creator-offers-acquire-ai-sensation-stay-open-source",
+        "source": "crypto",
+        "time": "Sun, 15 Feb 2026 20:01:03 +0000"
+      },
       {
         "title": "Her Divorce Was Ugly. Crypto Became a Lifeline",
         "url": "https://decrypt.co/358087/her-divorce-ugly-crypto-lifeline",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/358083/bitcoin-down-bad-hasnt-hit-ultimate-bear-market-bottom",
         "source": "crypto",
         "time": "Sat, 14 Feb 2026 16:11:05 +0000"
-      },
-      {
-        "title": "Publicly Traded Blockchain Lender Figure Confirms Customer Data Breach",
-        "url": "https://decrypt.co/358096/blockchain-lender-figure-confirms-customer-data-breach",
-        "source": "crypto",
-        "time": "Sat, 14 Feb 2026 00:04:45 +0000"
       }
     ],
     "hacker": [
@@ -54,19 +54,25 @@
         "time": "2/15/2026, 5:10:18 PM"
       },
       {
-        "title": "Gwtar: A static efficient single-file HTML format",
-        "url": "https://gwern.net/gwtar",
-        "source": "hn",
-        "time": "2/15/2026, 3:37:06 PM"
-      },
-      {
         "title": "Towards Autonomous Mathematics Research",
         "url": "https://arxiv.org/abs/2602.10177",
         "source": "hn",
         "time": "2/15/2026, 6:35:40 PM"
+      },
+      {
+        "title": "With Apple: Fortify your app: Essential strategies to strengthen security",
+        "url": "https://developer.apple.com/events/view/TUHA23T82K/dashboard",
+        "source": "hn",
+        "time": "2/15/2026, 8:10:28 PM"
       }
     ],
     "world": [
+      {
+        "title": "Team GB clinches second gold of day at Winter Olympics",
+        "url": "https://www.bbc.com/sport/articles/cm2x7m17jydo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 15 Feb 2026 20:06:25 GMT"
+      },
       {
         "title": "Andrew's time as trade envoy should be investigated, says Vince Cable",
         "url": "https://www.bbc.com/news/articles/cp32j7v2dy5o?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/czr0lykl4g4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 15 Feb 2026 13:35:26 GMT"
-      },
-      {
-        "title": "What the Nigella Lawson effect will mean for the Great British Bake Off",
-        "url": "https://www.bbc.com/news/articles/cgmlvl48202o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 15 Feb 2026 00:33:19 GMT"
       }
     ],
     "projects": [
