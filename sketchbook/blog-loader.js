@@ -3,6 +3,13 @@
  * Loads and displays blog posts from markdown files in the sketchbook/posts directory
  */
 
+// Function to escape HTML entities to prevent XSS
+function escapeHtml(text) {
+  const div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
+}
+
 // Function to parse markdown frontmatter and content
 function parseMarkdown(content) {
   const frontmatterRegex = /^---\s*\n([\s\S]*?)\n---\s*\n([\s\S]*)$/;
@@ -64,7 +71,10 @@ function markdownToHtml(markdown) {
 
 // Function to create an excerpt from the body
 function createExcerpt(body, maxLength = 200) {
-  const plainText = body.replace(/<[^>]*>/g, '');
+  // Use DOMParser to safely strip HTML tags
+  const doc = new DOMParser().parseFromString(body, 'text/html');
+  const plainText = doc.body.textContent || '';
+  
   if (plainText.length <= maxLength) {
     return plainText;
   }
@@ -129,9 +139,9 @@ async function loadBlogPosts() {
       
       return `
         <li class="post-item">
-          <h2><a href="#${post.filename}">${post.title}</a></h2>
-          <div class="post-meta">${formatDate(post.date)}</div>
-          <div class="post-excerpt">${excerpt}</div>
+          <h2><a href="#${escapeHtml(post.filename)}">${escapeHtml(post.title)}</a></h2>
+          <div class="post-meta">${escapeHtml(formatDate(post.date))}</div>
+          <div class="post-excerpt">${escapeHtml(excerpt)}</div>
         </li>
       `;
     }).join('');
