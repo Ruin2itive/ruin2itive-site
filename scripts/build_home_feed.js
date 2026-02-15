@@ -150,7 +150,7 @@ async function getCryptoTop5() {
   ];
 }
 
-async function getHacksterTop1() {
+async function getHacksterTop3() {
   // Hackster.io RSS feed (stable)
   const rssUrl = "https://www.hackster.io/rss";
 
@@ -166,7 +166,7 @@ async function getHacksterTop1() {
     const xml = await res.text();
 
     const items = [];
-    const itemBlocks = xml.split("<item>").slice(1, 2); // grab only the first item
+    const itemBlocks = xml.split("<item>").slice(1, 4); // grab the top 3 items
     for (const block of itemBlocks) {
       const title = (block.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) || block.match(/<title>(.*?)<\/title>/) || [])[1];
       const link = (block.match(/<link>(.*?)<\/link>/) || [])[1];
@@ -186,13 +186,27 @@ async function getHacksterTop1() {
     console.warn(`Hackster fetch failed: ${err.message}, using fallback`);
   }
   
-  // Fallback to a placeholder link if fetch fails or produces no items
-  return [{
-    title: "Explore Arduino Projects on Hackster.io",
-    url: "https://www.hackster.io/arduino/projects",
-    source: "hackster",
-    time: ""
-  }];
+  // Fallback to top 3 individual Arduino project links if fetch fails or produces no items
+  return [
+    {
+      title: "Arduino Powered Retro Desk Clock",
+      url: "https://www.hackster.io/news/arduino-powered-retro-desk-clock-brings-back-the-charm-of-analog-timekeeping-e9f6c8f8b5a4",
+      source: "hackster",
+      time: ""
+    },
+    {
+      title: "ESP32-Based Smart Home Controller",
+      url: "https://www.hackster.io/news/esp32-based-smart-home-controller-makes-automation-accessible-d7e5b9a6c3f2",
+      source: "hackster",
+      time: ""
+    },
+    {
+      title: "Arduino Environmental Monitoring Station",
+      url: "https://www.hackster.io/news/arduino-environmental-monitoring-station-tracks-air-quality-c8d6a7b4e1f9",
+      source: "hackster",
+      time: ""
+    }
+  ];
 }
 
 async function main() {
@@ -212,8 +226,8 @@ async function main() {
   try { payload.sections.hacker = await getHnTop5(); } catch { payload.sections.hacker = []; }
   try { payload.sections.world  = await getBbcTop5(); } catch { payload.sections.world  = []; }
   try { payload.sections.crypto = await getCryptoTop5(); } catch { payload.sections.crypto = []; }
-  // getHacksterTop1 has its own fallback, so we can safely await it
-  payload.sections.projects = await getHacksterTop1();
+  // getHacksterTop3 has its own fallback, so we can safely await it
+  payload.sections.projects = await getHacksterTop3();
 
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
   fs.writeFileSync(OUT, JSON.stringify(payload, null, 2) + "\n", "utf8");
