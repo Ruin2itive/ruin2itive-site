@@ -846,7 +846,7 @@
     // Fallback data for when home.json is unavailable
     const FALLBACK_DATA = {
       projects: {
-        updated_iso: new Date().toISOString(),
+        updated: new Date().toISOString(),
         groups: [
           {
             title: "ruin2itive",
@@ -932,6 +932,10 @@
 
     let isUsingFallback = false;
 
+    function getFallbackNote() {
+      return '<div class="fallback-note">Using fallback data – hourly signals pending</div>';
+    }
+
     function statusLabel(dateValue){
       const t = dateValue ? new Date(dateValue) : null;
       if (!t || isNaN(t.getTime())) return "WAIT";
@@ -985,7 +989,7 @@
       const root = document.getElementById("projects-root");
       const groups = data?.groups;
 
-      const u = data?.updated_iso ? new Date(data.updated_iso) : null;
+      const u = (data?.updated_iso || data?.updated) ? new Date(data.updated_iso || data.updated) : null;
       const uText = (u && !isNaN(u.getTime())) ? `Updated: ${u.toLocaleString(undefined, fmt)}` : "Live";
       setMini("projects-updated", `${uText} · ${statusLabel(u)}`);
 
@@ -1098,7 +1102,7 @@
         }).join("");
 
       const fallbackNote = isSeed && isUsingFallback
-        ? '<div class="fallback-note">Using fallback data – hourly signals pending</div>'
+        ? getFallbackNote()
         : '';
 
       root.innerHTML = itemsHtml
@@ -1140,7 +1144,7 @@
       }).join("");
 
       const fallbackNote = isUsingFallback
-        ? '<div class="fallback-note">Using fallback data – hourly signals pending</div>'
+        ? getFallbackNote()
         : '';
 
       root.innerHTML = itemsHtml + fallbackNote;
@@ -1162,7 +1166,7 @@
         `;
       }).join("");
 
-      root.innerHTML = itemsHtml + '<div class="fallback-note">Using fallback data – hourly signals pending</div>';
+      root.innerHTML = itemsHtml + getFallbackNote();
     }
 
     function setEditionTime(){
@@ -1207,9 +1211,11 @@
     async function loadData(){
       setEditionTime();
       
+      // Reset fallback flag
+      isUsingFallback = false;
+      
       // Try to load home.json first to get hackster articles and HN items
       let hacksterArticles = [];
-      let homeLoadSuccess = false;
       
       try{
         const home = await fetchJson(`data/home.json?${nowBust()}`);
@@ -1218,8 +1224,6 @@
           hacksterArticles = hacksterItems;
         }
         renderHNfromHomeJson(home);
-        homeLoadSuccess = true;
-        isUsingFallback = false;
       }catch(_e){
         // Use fallback for HN
         renderHNFallback();
@@ -1242,6 +1246,7 @@
       }catch(e){
         // Use fallback projects
         renderProjects(FALLBACK_DATA.projects, hacksterArticles, raspiArticles);
+        isUsingFallback = true;
       }
 
       // Try to load decrypt.json
@@ -1253,8 +1258,6 @@
         renderDecrypt(FALLBACK_DATA.crypto);
         isUsingFallback = true;
       }
-
-      return homeLoadSuccess;
     }
 
     async function refreshSignals(){
