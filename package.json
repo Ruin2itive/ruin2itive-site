@@ -1,5 +1,6 @@
 {
   "name": "ruin2itive-site",
+  "version": "1.0.2",
   "private": true,
   "scripts": {
     "build:decrypt": "node scripts/build_decrypt.js"
