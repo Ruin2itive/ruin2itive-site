@@ -50,10 +50,11 @@ jobs:
           TAG_VERSION="${{ inputs.version }}"
           TAG_VERSION="${TAG_VERSION#v}"  # Remove 'v' prefix
           PACKAGE_VERSION="${{ steps.package_version.outputs.version }}"
-          
+
           if [ "$TAG_VERSION" != "$PACKAGE_VERSION" ]; then
-            echo "Warning: Tag version ($TAG_VERSION) doesn't match package.json version ($PACKAGE_VERSION)"
-            echo "Please update package.json version to match the release tag"
+            echo "Warning: Tag version ($TAG_VERSION) doesn't match"
+            echo "package.json version ($PACKAGE_VERSION)"
+            echo "Please update package.json to match the release tag"
           fi
 
       - name: Extract changelog for version
@@ -61,15 +62,16 @@ jobs:
         run: |
           VERSION="${{ inputs.version }}"
           VERSION="${VERSION#v}"  # Remove 'v' prefix
-          
+
           # Extract the section for this version from CHANGELOG.md
-          NOTES=$(awk "/## \[$VERSION\]/,/## \[/" CHANGELOG.md | sed '1d;$d' | sed '/^$/d')
-          
+          NOTES=$(awk "/## \[$VERSION\]/,/## \[/" CHANGELOG.md | \
+            sed '1d;$d' | sed '/^$/d')
+
           if [ -z "$NOTES" ]; then
-            echo "No changelog entry found for version $VERSION, using generic message"
+            echo "No changelog entry found for version $VERSION"
             NOTES="Release ${{ inputs.version }}"
           fi
-          
+
           # Save to file to preserve multiline content
           echo "$NOTES" > /tmp/release_notes.txt
 
@@ -88,7 +90,7 @@ jobs:
           if [ "${{ inputs.prerelease }}" = "true" ]; then
             PRERELEASE_FLAG="--prerelease"
           fi
-          
+
           gh release create "${{ inputs.version }}" \
             --title "_base.build_ ${{ inputs.version }}" \
             --notes-file /tmp/release_notes.txt \
