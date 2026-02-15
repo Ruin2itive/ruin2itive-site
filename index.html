@@ -183,7 +183,8 @@
 
     .kickerline{
       font-family: var(--sans);
-      font-size: 10px;
+      font-size: clamp(12px, 1.8vw, 14px);
+      line-height: 1.4;
       letter-spacing: .34em;
       text-transform: uppercase;
       color: rgba(0,0,0,.62);
@@ -221,7 +222,8 @@
     .tagline{
       font-family: var(--sans);
       margin: 10px 0 0;
-      font-size: 11px;
+      font-size: clamp(12px, 1.9vw, 14px);
+      line-height: 1.4;
       letter-spacing: .22em;
       text-transform: uppercase;
       color: rgba(0,0,0,.56);
@@ -262,7 +264,8 @@
 
     .navstrip a{
       font-family: var(--sans);
-      font-size: 10px;
+      font-size: clamp(12px, 1.8vw, 14px);
+      line-height: 1.4;
       letter-spacing: .22em;
       text-transform: uppercase;
       color: rgba(0,0,0,.78);
@@ -306,7 +309,8 @@
       margin-bottom: 18px;
       color: rgba(0,0,0,.62);
       font-family: var(--sans);
-      font-size: 10px;
+      font-size: clamp(12px, 1.8vw, 14px);
+      line-height: 1.5;
       letter-spacing: .24em;
       text-transform: uppercase;
       text-shadow: var(--text-shadow);
@@ -362,18 +366,19 @@
 
     .kicker{
       font-family: var(--sans);
-      font-size: 11px;
+      font-size: clamp(12px, 1.9vw, 14px);
       letter-spacing: .34em;
       text-transform: uppercase;
       color: var(--red);
       font-weight: 900;
-      line-height: 1.1;
+      line-height: 1.4;
       text-shadow: var(--text-shadow);
     }
 
     .mini{
       font-family: var(--sans);
-      font-size: 10px;
+      font-size: clamp(12px, 1.8vw, 14px);
+      line-height: 1.4;
       letter-spacing: .18em;
       text-transform: uppercase;
       color: rgba(0,0,0,.54);
@@ -411,7 +416,8 @@
       padding: 7px 12px;
       border-radius: 999px;
       font-family: var(--sans);
-      font-size: 10px;
+      font-size: clamp(12px, 1.8vw, 14px);
+      line-height: 1.4;
       letter-spacing: .20em;
       text-transform: uppercase;
       background: var(--pill-bg);
@@ -461,7 +467,8 @@
       flex-wrap:wrap;
       color: var(--muted);
       font-family: var(--sans);
-      font-size: 11px;
+      font-size: clamp(12px, 1.9vw, 14px);
+      line-height: 1.5;
       text-shadow: var(--text-shadow);
     }
 
@@ -475,7 +482,8 @@
       backdrop-filter: blur(12px);
       -webkit-backdrop-filter: blur(12px);
       font-family: var(--sans);
-      font-size: 9px;
+      font-size: clamp(11px, 1.6vw, 13px);
+      line-height: 1.4;
       letter-spacing: .16em;
       text-transform: uppercase;
       color: rgba(0,0,0,.66);
@@ -488,19 +496,20 @@
     }
 
     .feature{ padding: 12px 0 8px; }
-    .headline{ font-size: 16px; margin:0 0 6px; text-shadow: var(--text-shadow); }
+    .headline{ font-size: clamp(15px, 2.2vw, 18px); line-height: 1.4; margin:0 0 6px; text-shadow: var(--text-shadow); }
     .sub{
       color: var(--muted);
       margin:0 0 10px;
       font-family: var(--sans);
-      font-size: 12px;
-      line-height: 1.35;
+      font-size: clamp(13px, 2vw, 15px);
+      line-height: 1.5;
       text-shadow: var(--text-shadow);
     }
     .status{
       color: rgba(0,0,0,.56);
       font-family: var(--sans);
-      font-size: 10px;
+      font-size: clamp(12px, 1.8vw, 14px);
+      line-height: 1.5;
       letter-spacing: .16em;
       text-transform: uppercase;
       text-shadow: var(--text-shadow);
@@ -528,7 +537,8 @@
       padding: 16px 0 calc(18px + var(--safe-bot));
       color: rgba(0,0,0,.56);
       font-family: var(--sans);
-      font-size: 11px;
+      font-size: clamp(12px, 1.9vw, 14px);
+      line-height: 1.5;
       letter-spacing: .10em;
       text-transform: uppercase;
       text-align:center;
@@ -656,6 +666,8 @@
     @media (max-width: 520px){
       :root{ --g: 14px; --radius: 16px; }
 
+      .wrap{ padding: 0 16px calc(24px + var(--safe-bot)); }
+
       .kickerline{ letter-spacing:.26em; margin-bottom: 8px; }
       .title{ font-size: 40px; }
       .tagline{ letter-spacing:.18em; }
@@ -676,6 +688,12 @@
 
       .hero::before{ background-position: center 26%; }
       .nameplate{ padding: 10px 14px 8px; border-radius: 16px; }
+
+      .item{ padding: 10px 0; }
+      .item h3{ font-size: 15px; margin: 0 0 6px; }
+      
+      .proj{ padding: 8px 0; }
+      .proj .name{ margin: 0 0 8px; }
     }
   </style>
 </head>
