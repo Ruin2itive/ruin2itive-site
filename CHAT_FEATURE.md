@@ -180,9 +180,12 @@ const PEER_SERVER_CONFIG = {
 };
 
 const CONNECTION_CONFIG = {
-  timeout: 15000,      // 15 seconds connection timeout
-  maxRetries: 3,       // Maximum connection retry attempts
-  retryDelay: 2000     // 2 seconds delay between retries
+  timeout: 15000,           // 15 seconds connection timeout
+  maxRetries: 3,            // Maximum connection retry attempts
+  retryDelay: 2000,         // 2 seconds initial delay between retries
+  maxRetryDelay: 10000,     // Maximum delay for exponential backoff
+  backoffMultiplier: 2,     // Exponential backoff multiplier
+  libraryLoadDelay: 2000    // 2 seconds delay to wait for PeerJS library
 };
 
 const RATE_LIMIT = {
@@ -192,10 +195,13 @@ const RATE_LIMIT = {
 ```
 
 **Note**: The PeerJS server has been updated from the deprecated `peerjs-server.herokuapp.com` to `0.peerjs.com` for improved reliability. The new configuration includes:
-- Enhanced error handling for server unavailability
-- Automatic retry logic with 3 attempts
-- Connection timeout of 15 seconds
-- Multiple STUN servers for better NAT traversal
+- **Dual CDN Support**: Primary CDN (unpkg.com) with automatic fallback to jsdelivr.net
+- **Library Availability Checks**: Verifies PeerJS is loaded before initialization
+- **Enhanced Error Handling**: Clear error messages for all failure scenarios
+- **Exponential Backoff Retry**: Automatic retry with increasing delays (4s, 8s, 10s)
+- **Connection Timeout**: 15 seconds for initial connection
+- **Visual Logging**: Console logs with visual indicators (✓, ✗, ⚠) for easier debugging
+- **Multiple STUN Servers**: Better NAT traversal for peer connections
 
 #### Customization
 
@@ -346,42 +352,66 @@ Potential improvements for future versions:
 
 1. **Enable Console Logging**
    - Open browser console (F12)
-   - The chat now includes detailed debug logs for:
+   - The chat now includes detailed debug logs with visual indicators:
+     - `[PEERJS]` - PeerJS library loading status (✓ success, ✗ failure)
      - `[BROWSER]` - Browser detection information
      - `[COMPATIBILITY]` - WebRTC compatibility checks
-     - `[PEER]` - Peer connection lifecycle
+     - `[PEER]` - Peer connection lifecycle (✓ connected, ⚠ disconnected, ✗ error)
      - `[CONNECTION]` - Individual peer connections
      - `[DATA]` - Message passing and data exchange
      - `[ROOM]` - Room joining and peer discovery
-     - `[JOIN]` - User join attempts and errors
+     - `[JOIN]` - User join attempts and errors (✓ success, ✗ failure)
      - `[HISTORY]` - Message history synchronization
 
-2. **Check WebRTC Stats**
+2. **Check PeerJS Library Loading**
+   - Verify the library loaded: Check console for `[PEERJS] ✓ PeerJS library loaded successfully`
+   - If library failed: Look for fallback CDN attempt or load error message
+   - Manual check: Type `typeof Peer` in console - should return "function"
+   
+3. **Monitor Connection Attempts**
+   - Watch for retry attempts with exponential backoff
+   - Each attempt logs the delay and reason for failure
+   - Example: `[JOIN] Connection attempt 1 failed, retrying in 4000ms...`
+
+4. **Check WebRTC Stats**
    - Chrome: chrome://webrtc-internals
    - Firefox: about:webrtc
    - These pages show detailed WebRTC connection statistics
 
-3. **Verify PeerJS Server**
+5. **Verify PeerJS Server**
    - Test server connectivity: https://0.peerjs.com/
    - Check if the PeerJS cloud service is operational
    - Consider deploying your own PeerJS server for better control
 
-4. **Test Network Connectivity**
+6. **Test Network Connectivity**
    - Use online STUN/TURN server testers
    - Verify NAT traversal is working
    - Check if UDP ports are open
 
-5. **Local Storage Issues**
+7. **Local Storage Issues**
    - Check if local storage is enabled and working
    - Clear local storage and try again: `localStorage.clear()`
    - Peer IDs are stored in local storage for room discovery
 
 ### Error Messages Explained
 
+- **"PeerJS library failed to load. Please check your internet connection and try refreshing the page."**
+  - The PeerJS library couldn't be loaded from any CDN
+  - Check if browser extensions are blocking external scripts
+  - Verify internet connection is working
+  - Try disabling ad blockers or privacy extensions
+  - Refresh the page with Ctrl+F5 (Windows) or Cmd+Shift+R (Mac)
+
+- **"PeerJS library is not loaded. Cannot initialize peer connection."**
+  - Attempted to initialize peer connection before library was loaded
+  - This is an internal error that should be caught by compatibility checks
+  - Refresh the page and wait for the library to load
+
 - **"Connection timeout: Unable to connect to signaling server"**
   - The PeerJS server didn't respond within 15 seconds
   - Check internet connection and firewall settings
   - The server might be temporarily down
+  - Automatic retry will attempt 3 times with exponential backoff
 
 - **"Network error. Please check your internet connection."**
   - General network connectivity issue

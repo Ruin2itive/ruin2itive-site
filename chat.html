@@ -552,7 +552,25 @@
 
   <script src="https://unpkg.com/peerjs@1.5.2/dist/peerjs.min.js" 
           integrity="sha384-OLBgp1GsljhM2TJ+sbHjaiH9txEUvgdDTAzHv2P24donTt6/529l+9Ua0vFImLlb" 
-          crossorigin="anonymous"></script>
+          crossorigin="anonymous"
+          onerror="loadPeerJSFallback()"></script>
+  <script>
+    // Fallback loader for PeerJS if primary CDN fails
+    function loadPeerJSFallback() {
+      console.warn('[PEERJS] Primary CDN failed, loading fallback...');
+      const script = document.createElement('script');
+      script.src = 'https://cdn.jsdelivr.net/npm/peerjs@1.5.2/dist/peerjs.min.js';
+      script.crossOrigin = 'anonymous';
+      script.onerror = function() {
+        console.error('[PEERJS] All CDN sources failed. PeerJS library could not be loaded.');
+        // Show error in modal
+        if (window.showPeerJSLoadError) {
+          window.showPeerJSLoadError();
+        }
+      };
+      document.head.appendChild(script);
+    }
+  </script>
   <script src="chat.js"></script>
 </body>
 </html>

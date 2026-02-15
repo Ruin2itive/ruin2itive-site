@@ -23,7 +23,10 @@
   const CONNECTION_CONFIG = {
     timeout: 15000, // 15 seconds timeout
     maxRetries: 3,
-    retryDelay: 2000 // 2 seconds between retries
+    retryDelay: 2000, // 2 seconds initial delay between retries
+    maxRetryDelay: 10000, // Maximum delay for exponential backoff
+    backoffMultiplier: 2, // Exponential backoff multiplier
+    libraryLoadDelay: 2000 // 2 seconds delay to wait for PeerJS library
   };
 
   const RATE_LIMIT = {
@@ -107,6 +110,12 @@
     
     if (!window.WebSocket) {
       issues.push('WebSocket is not supported in this browser.');
+      return { compatible: false, issues };
+    }
+    
+    // Check if PeerJS library is loaded
+    if (typeof Peer === 'undefined') {
+      issues.push('PeerJS library failed to load. Please check your internet connection and try refreshing the page.');
       return { compatible: false, issues };
     }
     
@@ -374,7 +383,16 @@
   // Initialize peer connection
   function initPeer(userId) {
     return new Promise((resolve, reject) => {
+      // Check if PeerJS is available
+      if (typeof Peer === 'undefined') {
+        const error = new Error('PeerJS library is not loaded. Cannot initialize peer connection.');
+        logDebug('PEER', 'PeerJS library not found', { error: error.message });
+        reject(error);
+        return;
+      }
+      
       logDebug('PEER', 'Initializing peer connection', { userId, config: PEER_SERVER_CONFIG });
+      logDebug('PEER', 'Connecting to signaling server...', { host: PEER_SERVER_CONFIG.host, port: PEER_SERVER_CONFIG.port });
       
       let connectionTimeout = null;
       
@@ -392,7 +410,8 @@
 
         peer.on('open', (id) => {
           clearTimeout(connectionTimeout);
-          logDebug('PEER', 'Peer connection opened successfully', { peerId: id });
+          logDebug('PEER', '✓ Peer connection opened successfully', { peerId: id });
+          logDebug('PEER', '✓ Connected to signaling server', { server: PEER_SERVER_CONFIG.host });
           connectionRetries = 0; // Reset retry counter on success
           updateConnectionStatus(true);
           resolve(id);
@@ -404,7 +423,7 @@
         });
 
         peer.on('disconnected', () => {
-          logDebug('PEER', 'Peer disconnected from server');
+          logDebug('PEER', '⚠ Peer disconnected from server');
           updateConnectionStatus(false, 'Disconnected from server. Attempting to reconnect...');
           
           // Attempt to reconnect
@@ -418,7 +437,7 @@
 
         peer.on('error', (err) => {
           clearTimeout(connectionTimeout);
-          logDebug('PEER', 'Peer error occurred', { error: err.type, message: err.message });
+          logDebug('PEER', '✗ Peer error occurred', { error: err.type, message: err.message });
           
           let userMessage = 'Connection error occurred. ';
           
@@ -457,7 +476,7 @@
         });
       } catch (err) {
         clearTimeout(connectionTimeout);
-        logDebug('PEER', 'Failed to create peer instance', { error: err.message });
+        logDebug('PEER', '✗ Failed to create peer instance', { error: err.message });
         reject(err);
       }
     });
@@ -561,26 +580,50 @@
 
       saveUserData(userData);
 
-      // Initialize peer connection with retry logic
+      // Initialize peer connection with retry logic and exponential backoff
       let lastError = null;
       for (let attempt = 1; attempt <= CONNECTION_CONFIG.maxRetries; attempt++) {
         try {
-          logDebug('JOIN', `Connection attempt ${attempt} of ${CONNECTION_CONFIG.maxRetries}`);
+          logDebug('JOIN', `Connection attempt ${attempt} of ${CONNECTION_CONFIG.maxRetries}`, { attempt, maxRetries: CONNECTION_CONFIG.maxRetries });
+          
+          // Show connecting message
+          if (attempt === 1) {
+            addMessage({
+              type: 'system',
+              content: 'Connecting to signaling server...'
+            });
+          }
+          
           await initPeer(currentUser.id);
+          
+          // Success - clear any retry messages
+          logDebug('JOIN', '✓ Successfully connected to peer network');
           break; // Success, exit retry loop
         } catch (err) {
           lastError = err;
           connectionRetries = attempt;
           
           if (attempt < CONNECTION_CONFIG.maxRetries) {
-            logDebug('JOIN', `Connection attempt ${attempt} failed, retrying...`, { error: err.message });
+            // Calculate delay with exponential backoff
+            const delay = Math.min(
+              CONNECTION_CONFIG.retryDelay * Math.pow(CONNECTION_CONFIG.backoffMultiplier, attempt),
+              CONNECTION_CONFIG.maxRetryDelay
+            );
+            
+            logDebug('JOIN', `Connection attempt ${attempt} failed, retrying in ${delay}ms...`, { 
+              error: err.message, 
+              attempt, 
+              delay 
+            });
+            
             addMessage({
               type: 'system',
-              content: `Connection attempt ${attempt} failed. Retrying... (${attempt}/${CONNECTION_CONFIG.maxRetries})`
+              content: `Connection attempt ${attempt} failed. Retrying in ${(delay / 1000).toFixed(1)} seconds... (${attempt}/${CONNECTION_CONFIG.maxRetries})`
             });
-            await new Promise(resolve => setTimeout(resolve, CONNECTION_CONFIG.retryDelay));
+            
+            await new Promise(resolve => setTimeout(resolve, delay));
           } else {
-            logDebug('JOIN', 'All connection attempts failed', { error: err.message });
+            logDebug('JOIN', '✗ All connection attempts failed', { error: err.message, totalAttempts: attempt });
             throw err; // All retries exhausted
           }
         }
@@ -615,11 +658,17 @@
       });
 
     } catch (err) {
-      logDebug('JOIN', 'Failed to join chat', { error: err.message });
+      logDebug('JOIN', '✗ Failed to join chat', { error: err.message });
       
       let errorMessage = 'Failed to connect to chat room. ';
       
-      if (err.message && err.message.includes('timeout')) {
+      if (err.message && err.message.includes('PeerJS library')) {
+        errorMessage += 'The PeerJS library failed to load. This is required for the chat feature. ';
+        errorMessage += '\n\nPlease check:\n';
+        errorMessage += '• Your internet connection is working\n';
+        errorMessage += '• No browser extensions are blocking scripts\n';
+        errorMessage += '• Try refreshing the page (Ctrl+F5 or Cmd+Shift+R)\n';
+      } else if (err.message && err.message.includes('timeout')) {
         errorMessage += 'The connection timed out. This may be due to network issues or the signaling server being unavailable. ';
       } else if (err.type === 'network') {
         errorMessage += 'Network error detected. Please check your internet connection. ';
@@ -729,6 +778,58 @@
     browserInfo = detectBrowser();
     logDebug('BROWSER', 'Browser detected', browserInfo);
     
+    // Check if PeerJS library loaded
+    if (typeof Peer === 'undefined') {
+      logDebug('PEERJS', '✗ PeerJS library not loaded');
+      
+      // Give it a moment in case it's still loading
+      setTimeout(() => {
+        if (typeof Peer === 'undefined') {
+          showPeerJSLoadError();
+        } else {
+          logDebug('PEERJS', '✓ PeerJS library loaded after delay');
+          initializeChat();
+        }
+      }, CONNECTION_CONFIG.libraryLoadDelay);
+      return;
+    }
+    
+    logDebug('PEERJS', '✓ PeerJS library loaded successfully');
+    initializeChat();
+  });
+  
+  // Function to show PeerJS load error
+  window.showPeerJSLoadError = function() {
+    logDebug('PEERJS', '✗ PeerJS library failed to load from all sources');
+    
+    joinModal.querySelector('h2').textContent = 'Library Load Error';
+    joinModal.querySelector('.mode-buttons').style.display = 'none';
+    joinModal.querySelector('#guest-form').innerHTML = `
+      <div style="color: var(--red); margin: 20px 0;">
+        <p><strong>Failed to load required libraries for the chat room.</strong></p>
+        <p style="margin-top: 10px;">The PeerJS library could not be loaded. This may be due to:</p>
+        <ul style="margin: 10px 0; padding-left: 20px;">
+          <li>Network connectivity issues</li>
+          <li>Browser extensions blocking external scripts</li>
+          <li>Firewall or proxy restrictions</li>
+          <li>CDN service unavailability</li>
+        </ul>
+        <p style="margin-top: 15px; font-weight: bold;">Please try:</p>
+        <ul style="margin: 10px 0; padding-left: 20px;">
+          <li>Checking your internet connection</li>
+          <li>Disabling ad blockers or script blockers</li>
+          <li>Refreshing the page (Ctrl+F5 or Cmd+Shift+R)</li>
+          <li>Using a different browser</li>
+          <li>Trying again later</li>
+        </ul>
+      </div>
+    `;
+    joinModal.querySelector('#account-form').style.display = 'none';
+    joinBtn.style.display = 'none';
+  };
+  
+  // Initialize chat after checks pass
+  function initializeChat() {
     // Check WebRTC compatibility
     const compatibility = checkWebRTCCompatibility();
     logDebug('COMPATIBILITY', 'WebRTC compatibility check', compatibility);
@@ -773,7 +874,7 @@
       document.getElementById('account-username').value = savedUser.username;
       accountModeBtn.click();
     }
-  });
+  }
 
   // Cleanup on page unload
   window.addEventListener('beforeunload', () => {
