@@ -1,0 +1,13 @@
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet -- data/decrypt.json; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git config user.name "ruin2itive-bot"
+          git config user.email "ruin2itive-bot@users.noreply.github.com"
+
+          git add data/decrypt.json
+          git commit -m "Update decrypt feed"
+          git push
