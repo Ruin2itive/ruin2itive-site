@@ -1,43 +1,81 @@
-name: Update Decrypt Feed
+#!/usr/bin/env node
+/**
+ * Generates data/decrypt.json
+ * - Fetches crypto news from Decrypt.co RSS feed
+ * - No npm dependencies required (Node 20 has global fetch)
+ */
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 * * * *"   # once per hour, on the hour
+const fs = require("fs");
+const path = require("path");
 
-permissions:
-  contents: write
+const OUT = path.join(process.cwd(), "data", "decrypt.json");
 
-concurrency:
-  group: update-decrypt
-  cancel-in-progress: true
+async function fetchDecryptFeed() {
+  const rssUrl = "https://decrypt.co/feed";
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+  try {
+    const res = await fetch(rssUrl, { 
+      redirect: "follow",
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; ruin2itive-bot/1.0)'
+      }
+    });
+    
+    if (!res.ok) throw new Error(`RSS failed ${res.status}`);
+    const xml = await res.text();
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
+    const items = [];
+    const itemBlocks = xml.split("<item>").slice(1, 6); // grab up to 5 items
+    
+    for (const block of itemBlocks) {
+      const title = (block.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) || block.match(/<title>(.*?)<\/title>/) || [])[1];
+      const link = (block.match(/<link>(.*?)<\/link>/) || [])[1];
+      
+      if (!title || !link) continue;
+      
+      items.push({
+        title: title.trim(),
+        url: link.trim(),
+        source: "decrypt",
+        stamp: "LIVE"
+      });
+    }
 
-      - name: Install deps
-        run: npm ci
+    if (items.length > 0) {
+      return {
+        updated: new Date().toISOString(),
+        items: items
+      };
+    }
+    
+    console.warn(`Decrypt RSS returned no valid items, using fallback`);
+  } catch (err) {
+    console.warn(`Decrypt fetch failed: ${err.message}, using fallback`);
+  }
+  
+  // Fallback to seed data if fetch fails
+  return {
+    updated: "1970-01-01T00:00:00.000Z",
+    items: [
+      {
+        title: "Read Crypto News on Decrypt",
+        url: "https://decrypt.co/",
+        source: "decrypt",
+        stamp: "SEED"
+      }
+    ]
+  };
+}
 
-      - name: Build decrypt.json
-        run: node scripts/build_decrypt.js
+async function main() {
+  const data = await fetchDecryptFeed();
+  
+  fs.mkdirSync(path.dirname(OUT), { recursive: true });
+  fs.writeFileSync(OUT, JSON.stringify(data) + "\n", "utf8");
+  console.log(`Wrote ${OUT}`);
+}
 
-      - name: Commit if changed
-        run: |
-          git config user.name "ruin2itive-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add data/decrypt.json
-          if git diff --cached --quiet; then
-            echo "No changes."
-            exit 0
-          fi
-          git commit -m "Update decrypt.json"
-          git push
+main().catch(err => {
+  console.error(err);
+  process.exit(1);
+});
