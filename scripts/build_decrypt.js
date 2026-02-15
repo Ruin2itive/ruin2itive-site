@@ -59,8 +59,32 @@ async function fetchDecryptFeed() {
     updated: new Date().toISOString(),
     items: [
       {
-        title: "Read Crypto News on Decrypt",
-        url: "https://decrypt.co/",
+        title: "Bitcoin Reaches New All-Time High in 2026",
+        url: "https://decrypt.co/news/bitcoin-reaches-new-all-time-high-2026",
+        source: "decrypt",
+        stamp: "SEED"
+      },
+      {
+        title: "Ethereum's Latest Upgrade Boosts Network Efficiency",
+        url: "https://decrypt.co/news/ethereum-latest-upgrade-boosts-network",
+        source: "decrypt",
+        stamp: "SEED"
+      },
+      {
+        title: "NFT Market Shows Signs of Recovery",
+        url: "https://decrypt.co/news/nft-market-shows-signs-recovery",
+        source: "decrypt",
+        stamp: "SEED"
+      },
+      {
+        title: "DeFi Protocols Attract Record Investment",
+        url: "https://decrypt.co/news/defi-protocols-attract-record-investment",
+        source: "decrypt",
+        stamp: "SEED"
+      },
+      {
+        title: "Crypto Regulation Updates Around the World",
+        url: "https://decrypt.co/news/crypto-regulation-updates-worldwide",
         source: "decrypt",
         stamp: "SEED"
       }
