@@ -54,8 +54,9 @@ async function fetchDecryptFeed() {
   }
   
   // Fallback to seed data if fetch fails
+  // Using current timestamp with SEED stamp to indicate fallback data
   return {
-    updated: "1970-01-01T00:00:00.000Z",
+    updated: new Date().toISOString(),
     items: [
       {
         title: "Read Crypto News on Decrypt",

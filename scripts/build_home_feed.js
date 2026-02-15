@@ -47,7 +47,7 @@ async function getHnTop5() {
         time: fmtLocal(new Date((it.time || 0) * 1000).toISOString())
       });
     }
-    if (items.length > 0) return items;
+    if (items.length > 0) return items.slice(0, 5);
     console.warn(`Hacker News API returned no valid items, using fallback`);
   } catch (err) {
     console.warn(`Hacker News fetch failed: ${err.message}, using fallback`);
@@ -133,7 +133,7 @@ async function getCryptoTop5() {
         time: pubDate ? pubDate.trim() : ""
       });
     }
-    if (items.length > 0) return items;
+    if (items.length > 0) return items.slice(0, 5);
     console.warn(`Decrypt RSS returned no valid items, using fallback`);
   } catch (err) {
     console.warn(`Decrypt fetch failed: ${err.message}, using fallback`);
