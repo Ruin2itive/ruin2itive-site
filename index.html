@@ -1425,7 +1425,7 @@
       }
     }
 
-    async function loadData(){
+    async function loadData(isManualRefresh = false){
       setEditionTime();
       
       // Reset fallback flag
@@ -1481,10 +1481,12 @@
       }
       
       // Show error toast only on manual refresh, not initial load
-      if (hasErrors && document.getElementById('refresh-btn')?.disabled) {
+      if (isManualRefresh && hasErrors) {
         const nextRefresh = getNextRefreshMinutes();
         showToast(`⚠ Using cached memory — next hourly refresh in ~${nextRefresh} min`);
       }
+      
+      return { hasErrors, isUsingFallback };
     }
 
     async function refreshSignals(){
@@ -1495,16 +1497,17 @@
       btn.innerHTML = '<span class="spinner"></span> Refreshing<span class="loading-dots"></span>';
       btn.setAttribute('aria-busy', 'true');
       
-      try {
-        await loadData();
+      const result = await loadData(true);
+      
+      btn.disabled = false;
+      btn.textContent = "Refresh Signals";
+      btn.removeAttribute('aria-busy');
+      
+      // Show appropriate toast based on result
+      if (!result.hasErrors) {
         showToast('✓ Signals refreshed successfully');
-      } catch(e) {
-        showToast('⚠ Feed refresh failed — using cached data');
-      } finally {
-        btn.disabled = false;
-        btn.textContent = "Refresh Signals";
-        btn.removeAttribute('aria-busy');
       }
+      // Error toast is shown inside loadData when hasErrors is true
     }
 
     async function boot(){
