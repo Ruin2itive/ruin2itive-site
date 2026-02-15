@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [Unreleased]
+
+### Added
+- Real-time chat room feature with WebRTC/PeerJS integration
+  - Dual authentication modes: Account-based and Guest-based
+  - Message broadcasting with timestamps and user identification
+  - XSS protection via HTML escaping
+  - Rate limiting (5 messages per 10 seconds)
+  - Username and email validation
+  - Message history sync (last 50 messages)
+  - Responsive design with glass morphism styling
+  - Browser compatibility check with fallback messaging
+  - Local storage for user credential persistence
+  - Navigation link in main site header
+  - Comprehensive documentation (CHAT_FEATURE.md)
+  - Automated tests and security analysis (TESTING.md)
+
 ## [1.0.2] - 2026-02-15
 
 ### Added
