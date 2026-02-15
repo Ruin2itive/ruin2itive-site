@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "key": "bbc",
+    "label": "bbc",
+    "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
+    "take": 2,
+    "built_at": "2026-02-15T07:33:17.113Z"
+  },
+  "items": [
+    {
+      "title": "Red eyes and black beaches: How one of the worst environmental disasters left its mark",
+      "url": "https://www.bbc.com/news/articles/cn8z7exgg9vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-02-15T07:27:20.000Z"
+    },
+    {
+      "title": "Children 'weaponised' by both sides of trans debate, says author of report into gender identity services",
+      "url": "https://www.bbc.com/news/articles/c0k1vkmxgd6o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-02-15T07:24:19.000Z"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "built_at": "2026-02-15T07:33:17.572Z",
+  "feeds": [
+    {
+      "key": "crypto",
+      "label": "decrypt",
+      "take": 2,
+      "file": "data/crypto.json"
+    },
+    {
+      "key": "hn",
+      "label": "hn",
+      "take": 2,
+      "file": "data/hn.json"
+    },
+    {
+      "key": "ap",
+      "label": "associated press",
+      "take": 2,
+      "file": "data/ap.json"
+    },
+    {
+      "key": "reuters",
+      "label": "reuters",
+      "take": 2,
+      "file": "data/reuters.json"
+    },
+    {
+      "key": "bbc",
+      "label": "bbc",
+      "take": 2,
+      "file": "data/bbc.json"
+    },
+    {
+      "key": "ufo",
+      "label": "ufo / uap",
+      "take": 1,
+      "file": "data/ufo.json"
+    }
+  ],
+  "ok": 6,
+  "failed": 0
+}
