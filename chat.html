@@ -364,6 +364,87 @@
       margin-top: 5px;
     }
 
+    .connection-error {
+      background: rgba(244, 67, 54, 0.1);
+      border: 1px solid rgba(244, 67, 54, 0.3);
+      border-radius: 8px;
+      padding: 15px;
+      margin: 10px 0;
+      animation: slideIn 0.3s var(--ease);
+    }
+
+    .connection-error .error-header {
+      font-weight: 600;
+      color: var(--red);
+      margin-bottom: 8px;
+      font-size: 1rem;
+    }
+
+    .connection-error .error-message {
+      color: var(--ink);
+      margin-bottom: 12px;
+      white-space: pre-line;
+      line-height: 1.5;
+    }
+
+    .connection-error .error-actions {
+      display: flex;
+      gap: 10px;
+    }
+
+    .connection-error .retry-btn {
+      padding: 8px 16px;
+      background: var(--red);
+      color: white;
+      border: none;
+      border-radius: 6px;
+      font-family: var(--sans);
+      font-size: 0.9rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all var(--dur) var(--ease);
+    }
+
+    .connection-error .retry-btn:hover {
+      background: #6d1818;
+      transform: translateY(-1px);
+    }
+
+    .compatibility-warning {
+      background: rgba(255, 193, 7, 0.1);
+      border: 1px solid rgba(255, 193, 7, 0.3);
+      border-radius: 8px;
+      padding: 15px;
+      margin: 10px 0;
+      animation: slideIn 0.3s var(--ease);
+    }
+
+    .compatibility-warning .warning-header {
+      font-weight: 600;
+      color: #f57c00;
+      margin-bottom: 8px;
+      font-size: 1rem;
+    }
+
+    .compatibility-warning .warning-content {
+      color: var(--ink);
+      margin-bottom: 10px;
+    }
+
+    .compatibility-warning .warning-item {
+      margin: 5px 0;
+      padding-left: 10px;
+    }
+
+    .compatibility-warning .warning-footer {
+      color: var(--muted);
+      font-size: 0.85rem;
+      font-style: italic;
+      margin-top: 10px;
+      padding-top: 10px;
+      border-top: 1px solid rgba(0,0,0,0.1);
+    }
+
     @media (max-width: 768px) {
       .chat-wrapper {
         height: calc(100vh - 140px);
