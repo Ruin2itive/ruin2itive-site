@@ -8,46 +8,15 @@
 
 const fs = require("fs");
 const path = require("path");
+const { fetchTextWithRetry } = require("./fetch-utils");
 
 const OUT = path.join(process.cwd(), "data", "decrypt.json");
-const MAX_RETRIES = 3;
-const RETRY_DELAY_MS = 2000;
-
-async function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
-}
-
-async function fetchWithRetry(url, options = {}, retries = MAX_RETRIES) {
-  for (let attempt = 1; attempt <= retries; attempt++) {
-    try {
-      const res = await fetch(url, {
-        redirect: "follow",
-        headers: {
-          'User-Agent': 'Mozilla/5.0 (compatible; ruin2itive-bot/1.0)'
-        },
-        ...options
-      });
-      
-      if (!res.ok) {
-        throw new Error(`RSS failed ${res.status}`);
-      }
-      
-      return await res.text();
-    } catch (err) {
-      if (attempt === retries) {
-        throw err;
-      }
-      console.warn(`Attempt ${attempt}/${retries} failed: ${err.message}. Retrying in ${RETRY_DELAY_MS}ms...`);
-      await sleep(RETRY_DELAY_MS * attempt);
-    }
-  }
-}
 
 async function fetchDecryptFeed() {
   const rssUrl = "https://decrypt.co/feed";
 
   try {
-    const xml = await fetchWithRetry(rssUrl);
+    const xml = await fetchTextWithRetry(rssUrl);
 
     const items = [];
     const itemBlocks = xml.split("<item>").slice(1, 6); // grab up to 5 items

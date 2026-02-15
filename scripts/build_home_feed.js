@@ -7,30 +7,9 @@
 
 const fs = require("fs");
 const path = require("path");
+const { fetchWithRetry } = require("./fetch-utils");
 
 const OUT = path.join(process.cwd(), "data", "home.json");
-const MAX_RETRIES = 3;
-const RETRY_DELAY_MS = 2000;
-
-async function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
-}
-
-async function fetchWithRetry(url, options = {}, retries = MAX_RETRIES) {
-  for (let attempt = 1; attempt <= retries; attempt++) {
-    try {
-      const res = await fetch(url, { redirect: "follow", ...options });
-      if (!res.ok) throw new Error(`Fetch failed ${res.status} for ${url}`);
-      return res;
-    } catch (err) {
-      if (attempt === retries) {
-        throw err;
-      }
-      console.warn(`Attempt ${attempt}/${retries} failed: ${err.message}. Retrying in ${RETRY_DELAY_MS}ms...`);
-      await sleep(RETRY_DELAY_MS * attempt);
-    }
-  }
-}
 
 async function safeJson(url, opts = {}) {
   const res = await fetchWithRetry(url, opts);
