@@ -515,6 +515,52 @@
       text-shadow: var(--text-shadow);
     }
 
+    .refresh-btn{
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      font-family: var(--sans);
+      font-size: clamp(12px, 1.8vw, 14px);
+      line-height: 1.4;
+      letter-spacing: .20em;
+      text-transform: uppercase;
+      color: rgba(0,0,0,.82);
+      padding: 10px 18px;
+      border-radius: 999px;
+      border: 1px solid var(--pill-border);
+      background: var(--pill-bg);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      box-shadow: var(--glass-inset);
+      cursor:pointer;
+      transition: transform var(--dur) var(--ease), border-color var(--dur) var(--ease), background var(--dur) var(--ease), box-shadow var(--dur) var(--ease);
+      -webkit-tap-highlight-color: transparent;
+      margin: 0 0 10px;
+    }
+    .refresh-btn:hover{
+      transform: translateY(-1px);
+      border-color: rgba(139,31,31,.50);
+      background: rgba(255,255,255,.40);
+      box-shadow: 0 10px 24px rgba(0,0,0,.08), var(--glass-inset);
+    }
+    .refresh-btn:active{ transform: translateY(0px) scale(.985); }
+    .refresh-btn:focus-visible{ outline:none; box-shadow: var(--ring); }
+    .refresh-btn:disabled{
+      opacity: .6;
+      cursor: not-allowed;
+      transform: none;
+    }
+
+    .fallback-note{
+      font-style: italic;
+      color: rgba(0,0,0,.48);
+      font-family: var(--sans);
+      font-size: clamp(11px, 1.7vw, 13px);
+      line-height: 1.5;
+      margin: 8px 0 0;
+      text-shadow: var(--text-shadow);
+    }
+
     .skel{
       border-radius: 10px;
       height: 12px;
@@ -661,6 +707,9 @@
         border-top-color: rgba(255,255,255,.12);
         color: rgba(255,255,255,.66);
       }
+
+      .refresh-btn{ color: rgba(255,255,255,.86); }
+      .fallback-note{ color: rgba(255,255,255,.54); }
     }
 
     @media (max-width: 520px){
@@ -727,7 +776,10 @@
     <main>
       <div class="edition" aria-label="Front page edition bar">
         <div><strong>FRONT PAGE</strong> • curated feeds • no noise</div>
-        <div id="edition-time">Edition: loading…</div>
+        <div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
+          <button id="refresh-btn" class="refresh-btn" title="Refresh signals from home.json">Refresh Signals</button>
+          <div id="edition-time">Edition: loading…</div>
+        </div>
       </div>
 
       <section class="grid">
@@ -790,6 +842,95 @@
 
   <script>
     const fmt = { dateStyle: "medium", timeStyle: "short" };
+
+    // Fallback data for when home.json is unavailable
+    const FALLBACK_DATA = {
+      projects: {
+        updated_iso: new Date().toISOString(),
+        groups: [
+          {
+            title: "ruin2itive",
+            links: [
+              { label: "GITHUB", href: "https://github.com/Ruin2itive" },
+              { label: "SRC", href: "https://github.com/Ruin2itive/ruin2itive-site" }
+            ]
+          },
+          {
+            title: "arduino",
+            links: [
+              { label: "HACKSTER", href: "https://www.hackster.io/" },
+              { label: "HARDWARE", href: "https://www.arduino.cc/" }
+            ]
+          },
+          {
+            title: "raspberry_pi",
+            links: [
+              { label: "NEWS", href: "https://www.raspberrypi.com/news/" },
+              { label: "DOCS", href: "https://www.raspberrypi.com/documentation/" }
+            ]
+          }
+        ]
+      },
+      crypto: {
+        updated: new Date().toISOString(),
+        items: [
+          {
+            title: "Bitcoin Halving Echo – reliability over hype",
+            url: "https://bitcoin.org/",
+            source: "fallback",
+            stamp: "SEED"
+          },
+          {
+            title: "Ethereum Foundation – transparency and open source",
+            url: "https://ethereum.foundation/",
+            source: "fallback",
+            stamp: "SEED"
+          },
+          {
+            title: "Crypto Policy – navigating regulation",
+            url: "https://www.coinbase.com/policy",
+            source: "fallback",
+            stamp: "SEED"
+          },
+          {
+            title: "DeFi Safety – understanding smart contract risks",
+            url: "https://www.defisafety.com/",
+            source: "fallback",
+            stamp: "SEED"
+          },
+          {
+            title: "CoinMarketCap – market data and research",
+            url: "https://coinmarketcap.com/",
+            source: "fallback",
+            stamp: "SEED"
+          }
+        ]
+      },
+      hacker: [
+        {
+          title: "uBlock Origin – efficient ad blocker",
+          url: "https://github.com/gorhill/uBlock"
+        },
+        {
+          title: "Ooh.directory – handpicked internet gems",
+          url: "https://ooh.directory/"
+        },
+        {
+          title: "Sourcegraph – universal code search",
+          url: "https://sourcegraph.com/"
+        },
+        {
+          title: "Draw.io – free diagramming tool",
+          url: "https://www.drawio.com/"
+        },
+        {
+          title: "Excalidraw – virtual whiteboard",
+          url: "https://excalidraw.com/"
+        }
+      ]
+    };
+
+    let isUsingFallback = false;
 
     function statusLabel(dateValue){
       const t = dateValue ? new Date(dateValue) : null;
@@ -956,13 +1097,19 @@
           `;
         }).join("");
 
-      root.innerHTML = itemsHtml || `
-        <div class="feature">
-          <div class="headline">No items</div>
-          <div class="sub">Your feed is empty.</div>
-          <div class="status">Status: empty</div>
-        </div>
-      `;
+      const fallbackNote = isSeed && isUsingFallback
+        ? '<div class="fallback-note">Using fallback data – hourly signals pending</div>'
+        : '';
+
+      root.innerHTML = itemsHtml
+        ? itemsHtml + fallbackNote
+        : `
+          <div class="feature">
+            <div class="headline">No items</div>
+            <div class="sub">Your feed is empty.</div>
+            <div class="status">Status: empty</div>
+          </div>
+        `;
     }
 
     function renderHNfromHomeJson(home){
@@ -978,7 +1125,7 @@
 
       if (!Array.isArray(items) || items.length === 0) return;
 
-      root.innerHTML = items
+      const itemsHtml = items
         .filter(it => it?.url)
         .slice(0, 10)
         .map(it => {
@@ -991,6 +1138,31 @@
             </a>
         `;
       }).join("");
+
+      const fallbackNote = isUsingFallback
+        ? '<div class="fallback-note">Using fallback data – hourly signals pending</div>'
+        : '';
+
+      root.innerHTML = itemsHtml + fallbackNote;
+    }
+
+    function renderHNFallback(){
+      const root = document.getElementById("hn-root");
+      setMini("hn-updated", "Seed (waiting on feed) · WAIT");
+
+      const itemsHtml = FALLBACK_DATA.hacker
+        .map(it => {
+          const title = it?.title || "Untitled";
+          const url = it.url;
+          return `
+            <a class="item" href="${esc(url)}" target="_blank" rel="noopener">
+              <h3>${esc(title)}</h3>
+              <div class="meta">${stamp("curated", "source")}</div>
+            </a>
+        `;
+      }).join("");
+
+      root.innerHTML = itemsHtml + '<div class="fallback-note">Using fallback data – hourly signals pending</div>';
     }
 
     function setEditionTime(){
@@ -1032,12 +1204,13 @@
       }
     }
 
-    async function boot(){
+    async function loadData(){
       setEditionTime();
-      initScrollSpy();
-
-      // Load home.json first to get hackster articles
+      
+      // Try to load home.json first to get hackster articles and HN items
       let hacksterArticles = [];
+      let homeLoadSuccess = false;
+      
       try{
         const home = await fetchJson(`data/home.json?${nowBust()}`);
         const hacksterItems = home?.sections?.projects;
@@ -1045,8 +1218,12 @@
           hacksterArticles = hacksterItems;
         }
         renderHNfromHomeJson(home);
+        homeLoadSuccess = true;
+        isUsingFallback = false;
       }catch(_e){
-        /* silent */
+        // Use fallback for HN
+        renderHNFallback();
+        isUsingFallback = true;
       }
 
       // Load Raspberry Pi news
@@ -1058,28 +1235,53 @@
         /* silent - will use fallback */
       }
 
+      // Try to load projects.json
       try{
         const projects = await fetchJson(`data/projects.json?${nowBust()}`);
         renderProjects(projects, hacksterArticles, raspiArticles);
       }catch(e){
-        setMini("projects-updated", "Error");
-        renderError(
-          document.getElementById("projects-root"),
-          "Projects",
-          `Could not load data/projects.json (${e.message}).`
-        );
+        // Use fallback projects
+        renderProjects(FALLBACK_DATA.projects, hacksterArticles, raspiArticles);
       }
 
+      // Try to load decrypt.json
       try{
         const decrypt = await fetchJson(`data/decrypt.json?${nowBust()}`);
         renderDecrypt(decrypt);
       }catch(e){
-        setMini("decrypt-updated", "Error");
-        renderError(
-          document.getElementById("decrypt-root"),
-          "Decrypt",
-          `Could not load data/decrypt.json (${e.message}).`
-        );
+        // Use fallback crypto data
+        renderDecrypt(FALLBACK_DATA.crypto);
+        isUsingFallback = true;
+      }
+
+      return homeLoadSuccess;
+    }
+
+    async function refreshSignals(){
+      const btn = document.getElementById("refresh-btn");
+      if (!btn) return;
+      
+      btn.disabled = true;
+      btn.textContent = "Refreshing...";
+      
+      try {
+        await loadData();
+      } finally {
+        btn.disabled = false;
+        btn.textContent = "Refresh Signals";
+      }
+    }
+
+    async function boot(){
+      initScrollSpy();
+      
+      // Initial load with fallback
+      await loadData();
+
+      // Set up refresh button
+      const refreshBtn = document.getElementById("refresh-btn");
+      if (refreshBtn) {
+        refreshBtn.addEventListener("click", refreshSignals);
       }
     }
 
