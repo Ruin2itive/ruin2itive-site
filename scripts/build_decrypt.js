@@ -3,10 +3,12 @@
  * Generates data/decrypt.json
  * - Fetches crypto news from Decrypt.co RSS feed
  * - No npm dependencies required (Node 20 has global fetch)
+ * - Includes retry logic for network resilience
  */
 
 const fs = require("fs");
 const path = require("path");
+const { fetchTextWithRetry } = require("./fetch-utils");
 
 const OUT = path.join(process.cwd(), "data", "decrypt.json");
 
@@ -14,15 +16,7 @@ async function fetchDecryptFeed() {
   const rssUrl = "https://decrypt.co/feed";
 
   try {
-    const res = await fetch(rssUrl, { 
-      redirect: "follow",
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; ruin2itive-bot/1.0)'
-      }
-    });
-    
-    if (!res.ok) throw new Error(`RSS failed ${res.status}`);
-    const xml = await res.text();
+    const xml = await fetchTextWithRetry(rssUrl);
 
     const items = [];
     const itemBlocks = xml.split("<item>").slice(1, 6); // grab up to 5 items
@@ -50,7 +44,7 @@ async function fetchDecryptFeed() {
     
     console.warn(`Decrypt RSS returned no valid items, using fallback`);
   } catch (err) {
-    console.warn(`Decrypt fetch failed: ${err.message}, using fallback`);
+    console.warn(`Decrypt fetch failed after retries: ${err.message}, using fallback`);
   }
   
   // Fallback to seed data if fetch fails
@@ -59,32 +53,32 @@ async function fetchDecryptFeed() {
     updated: new Date().toISOString(),
     items: [
       {
-        title: "Bitcoin Reaches New All-Time High in 2026",
-        url: "https://decrypt.co/news/bitcoin-reaches-new-all-time-high-2026",
+        title: "Decrypt - Crypto News & Analysis",
+        url: "https://decrypt.co/",
         source: "decrypt",
         stamp: "SEED"
       },
       {
-        title: "Ethereum's Latest Upgrade Boosts Network Efficiency",
-        url: "https://decrypt.co/news/ethereum-latest-upgrade-boosts-network",
+        title: "Bitcoin News - Decrypt",
+        url: "https://decrypt.co/price/bitcoin",
         source: "decrypt",
         stamp: "SEED"
       },
       {
-        title: "NFT Market Shows Signs of Recovery",
-        url: "https://decrypt.co/news/nft-market-shows-signs-recovery",
+        title: "Ethereum News - Decrypt",
+        url: "https://decrypt.co/price/ethereum",
         source: "decrypt",
         stamp: "SEED"
       },
       {
-        title: "DeFi Protocols Attract Record Investment",
-        url: "https://decrypt.co/news/defi-protocols-attract-record-investment",
+        title: "Web3 & Crypto Technology - Decrypt",
+        url: "https://decrypt.co/learn",
         source: "decrypt",
         stamp: "SEED"
       },
       {
-        title: "Crypto Regulation Updates Around the World",
-        url: "https://decrypt.co/news/crypto-regulation-updates-worldwide",
+        title: "Latest Crypto News - Decrypt",
+        url: "https://decrypt.co/news",
         source: "decrypt",
         stamp: "SEED"
       }
