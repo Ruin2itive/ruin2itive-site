@@ -2,16 +2,38 @@
 /**
  * Generates data/home.json
  * - No npm dependencies required (Node 20 has global fetch)
+ * - Includes retry logic for network resilience
  */
 
 const fs = require("fs");
 const path = require("path");
 
 const OUT = path.join(process.cwd(), "data", "home.json");
+const MAX_RETRIES = 3;
+const RETRY_DELAY_MS = 2000;
+
+async function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function fetchWithRetry(url, options = {}, retries = MAX_RETRIES) {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      const res = await fetch(url, { redirect: "follow", ...options });
+      if (!res.ok) throw new Error(`Fetch failed ${res.status} for ${url}`);
+      return res;
+    } catch (err) {
+      if (attempt === retries) {
+        throw err;
+      }
+      console.warn(`Attempt ${attempt}/${retries} failed: ${err.message}. Retrying in ${RETRY_DELAY_MS}ms...`);
+      await sleep(RETRY_DELAY_MS * attempt);
+    }
+  }
+}
 
 async function safeJson(url, opts = {}) {
-  const res = await fetch(url, { redirect: "follow", ...opts });
-  if (!res.ok) throw new Error(`Fetch failed ${res.status} for ${url}`);
+  const res = await fetchWithRetry(url, opts);
   return res.json();
 }
 
@@ -94,8 +116,7 @@ async function getBbcTop5() {
 
   try {
     // Very small RSS parse (no deps)
-    const res = await fetch(rssUrl, { redirect: "follow" });
-    if (!res.ok) throw new Error(`RSS failed ${res.status}`);
+    const res = await fetchWithRetry(rssUrl);
     const xml = await res.text();
 
     const items = [];
@@ -134,13 +155,11 @@ async function getCryptoTop5() {
   const rssUrl = "https://decrypt.co/feed";
 
   try {
-    const res = await fetch(rssUrl, { 
-      redirect: "follow",
+    const res = await fetchWithRetry(rssUrl, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (compatible; ruin2itive-bot/1.0)'
       }
     });
-    if (!res.ok) throw new Error(`RSS failed ${res.status}`);
     const xml = await res.text();
 
     const items = [];
@@ -204,13 +223,11 @@ async function getHacksterTop3() {
 
   try {
     // Very small RSS parse (no deps)
-    const res = await fetch(rssUrl, { 
-      redirect: "follow",
+    const res = await fetchWithRetry(rssUrl, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (compatible; ruin2itive-bot/1.0)'
       }
     });
-    if (!res.ok) throw new Error(`RSS failed ${res.status}`);
     const xml = await res.text();
 
     const items = [];
@@ -237,20 +254,20 @@ async function getHacksterTop3() {
   // Fallback to top 3 individual Arduino project links if fetch fails or produces no items
   return [
     {
-      title: "Hackster.io - Electronics Projects",
-      url: "https://www.hackster.io/projects",
+      title: "Hackster.io - Latest Projects",
+      url: "https://www.hackster.io/",
       source: "hackster",
       time: ""
     },
     {
-      title: "Arduino Projects on Hackster",
-      url: "https://www.hackster.io/arduino/projects",
+      title: "Arduino Official Projects Hub",
+      url: "https://www.arduino.cc/",
       source: "hackster",
       time: ""
     },
     {
-      title: "Raspberry Pi Projects on Hackster",
-      url: "https://www.hackster.io/raspberry-pi/projects",
+      title: "Raspberry Pi Projects & Tutorials",
+      url: "https://www.raspberrypi.com/tutorials/",
       source: "hackster",
       time: ""
     }
