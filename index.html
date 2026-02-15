@@ -561,6 +561,13 @@
       text-shadow: var(--text-shadow);
     }
 
+    .edition-controls{
+      display:flex;
+      gap:12px;
+      align-items:center;
+      flex-wrap:wrap;
+    }
+
     .skel{
       border-radius: 10px;
       height: 12px;
@@ -776,7 +783,7 @@
     <main>
       <div class="edition" aria-label="Front page edition bar">
         <div><strong>FRONT PAGE</strong> • curated feeds • no noise</div>
-        <div style="display:flex; gap:12px; align-items:center; flex-wrap:wrap;">
+        <div class="edition-controls">
           <button id="refresh-btn" class="refresh-btn" title="Refresh signals from home.json">Refresh Signals</button>
           <div id="edition-time">Edition: loading…</div>
         </div>
