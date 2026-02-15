@@ -2252,8 +2252,17 @@
         const version = release.tag_name;
         const releaseUrl = release.html_url;
         
-        // Display version with link to release page
-        versionElement.innerHTML = `Release <a href="${releaseUrl}" target="_blank" rel="noopener" aria-label="View release on GitHub">${version}</a>`;
+        // Display version with link to release page using safe DOM manipulation
+        versionElement.textContent = 'Release ';
+        
+        const link = document.createElement('a');
+        link.href = releaseUrl;
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+        link.setAttribute('aria-label', 'View release on GitHub');
+        link.textContent = version;
+        
+        versionElement.appendChild(link);
       } catch (error) {
         // Graceful fallback on error
         console.warn('Unable to fetch release version:', error);
