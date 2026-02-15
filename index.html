@@ -822,7 +822,7 @@
       `;
     }
 
-    function renderProjects(data, hacksterArticle, raspiArticles){
+    function renderProjects(data, hacksterArticles, raspiArticles){
       const root = document.getElementById("projects-root");
       const groups = data?.groups;
 
@@ -851,18 +851,20 @@
           return `<a class="pill" href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a>`;
         }).join("");
 
-        // Add Hackster article for arduino group
+        // Add Hackster articles for arduino group
         let hacksterHtml = "";
-        if (name === "arduino" && hacksterArticle) {
+        if (name === "arduino" && Array.isArray(hacksterArticles) && hacksterArticles.length > 0) {
           hacksterHtml = `
             <div style="margin-top: 10px;">
-              <a class="item" href="${esc(hacksterArticle.url)}" target="_blank" rel="noopener" style="border-bottom: none;">
-                <h3>${esc(hacksterArticle.title)}</h3>
-                <div class="meta">
-                  ${stamp("hackster", "source")}
-                  ${hacksterArticle.time ? stamp(hacksterArticle.time) : ""}
-                </div>
-              </a>
+              ${hacksterArticles.map(article => `
+                <a class="item" href="${esc(article.url)}" target="_blank" rel="noopener" style="border-bottom: none;">
+                  <h3>${esc(article.title)}</h3>
+                  <div class="meta">
+                    ${stamp("hackster", "source")}
+                    ${article.time ? stamp(article.time) : ""}
+                  </div>
+                </a>
+              `).join("")}
             </div>
           `;
         }
@@ -1008,13 +1010,13 @@
       setEditionTime();
       initScrollSpy();
 
-      // Load home.json first to get hackster article
-      let hacksterArticle = null;
+      // Load home.json first to get hackster articles
+      let hacksterArticles = [];
       try{
         const home = await fetchJson(`data/home.json?${nowBust()}`);
         const hacksterItems = home?.sections?.projects;
         if (Array.isArray(hacksterItems) && hacksterItems.length > 0) {
-          hacksterArticle = hacksterItems[0];
+          hacksterArticles = hacksterItems;
         }
         renderHNfromHomeJson(home);
       }catch(_e){
@@ -1032,7 +1034,7 @@
 
       try{
         const projects = await fetchJson(`data/projects.json?${nowBust()}`);
-        renderProjects(projects, hacksterArticle, raspiArticles);
+        renderProjects(projects, hacksterArticles, raspiArticles);
       }catch(e){
         setMini("projects-updated", "Error");
         renderError(

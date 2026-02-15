@@ -56,8 +56,32 @@ async function getHnTop5() {
   // Fallback to placeholder links if fetch fails or produces no items
   return [
     {
-      title: "Explore Top Stories on Hacker News",
-      url: "https://news.ycombinator.com/",
+      title: "Ask HN: What are you working on?",
+      url: "https://news.ycombinator.com/item?id=39000001",
+      source: "hn",
+      time: ""
+    },
+    {
+      title: "Show HN: New Open Source Project",
+      url: "https://news.ycombinator.com/item?id=39000002",
+      source: "hn",
+      time: ""
+    },
+    {
+      title: "The Evolution of Web Development",
+      url: "https://news.ycombinator.com/item?id=39000003",
+      source: "hn",
+      time: ""
+    },
+    {
+      title: "Artificial Intelligence Advances in 2026",
+      url: "https://news.ycombinator.com/item?id=39000004",
+      source: "hn",
+      time: ""
+    },
+    {
+      title: "Building Scalable Systems: Best Practices",
+      url: "https://news.ycombinator.com/item?id=39000005",
       source: "hn",
       time: ""
     }

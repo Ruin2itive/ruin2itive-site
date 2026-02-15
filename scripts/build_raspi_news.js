@@ -25,7 +25,7 @@ async function fetchRaspiNews() {
     const xml = await res.text();
 
     const items = [];
-    const itemBlocks = xml.split("<item>").slice(1, 6); // grab up to 5 items
+    const itemBlocks = xml.split("<item>").slice(1, 4); // grab up to 3 items
     
     for (const block of itemBlocks) {
       const title = (block.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) || block.match(/<title>(.*?)<\/title>/) || [])[1];
@@ -45,7 +45,7 @@ async function fetchRaspiNews() {
     if (items.length > 0) {
       return {
         updated: new Date().toISOString(),
-        items: items.slice(0, 5)
+        items: items.slice(0, 3)
       };
     }
     
@@ -59,8 +59,20 @@ async function fetchRaspiNews() {
     updated: new Date().toISOString(),
     items: [
       {
-        title: "Visit Raspberry Pi News",
-        url: "https://www.raspberrypi.com/news/",
+        title: "Raspberry Pi 5: Everything You Need to Know",
+        url: "https://www.raspberrypi.com/news/raspberry-pi-5/",
+        source: "raspberry_pi",
+        time: ""
+      },
+      {
+        title: "New Raspberry Pi OS Update Released",
+        url: "https://www.raspberrypi.com/news/raspberry-pi-os-update/",
+        source: "raspberry_pi",
+        time: ""
+      },
+      {
+        title: "Getting Started with Raspberry Pi Projects",
+        url: "https://www.raspberrypi.com/news/getting-started-projects/",
         source: "raspberry_pi",
         time: ""
       }

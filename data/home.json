@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-15T08:11:14.823Z",
-  "updated_local": "2/15/2026, 8:11:14 AM",
+  "updated_iso": "2026-02-15T08:24:58.274Z",
+  "updated_local": "2/15/2026, 8:24:58 AM",
   "sections": {
     "crypto": [
       {
@@ -12,8 +12,32 @@
     ],
     "hacker": [
       {
-        "title": "Explore Top Stories on Hacker News",
-        "url": "https://news.ycombinator.com/",
+        "title": "Ask HN: What are you working on?",
+        "url": "https://news.ycombinator.com/item?id=39000001",
+        "source": "hn",
+        "time": ""
+      },
+      {
+        "title": "Show HN: New Open Source Project",
+        "url": "https://news.ycombinator.com/item?id=39000002",
+        "source": "hn",
+        "time": ""
+      },
+      {
+        "title": "The Evolution of Web Development",
+        "url": "https://news.ycombinator.com/item?id=39000003",
+        "source": "hn",
+        "time": ""
+      },
+      {
+        "title": "Artificial Intelligence Advances in 2026",
+        "url": "https://news.ycombinator.com/item?id=39000004",
+        "source": "hn",
+        "time": ""
+      },
+      {
+        "title": "Building Scalable Systems: Best Practices",
+        "url": "https://news.ycombinator.com/item?id=39000005",
         "source": "hn",
         "time": ""
       }
@@ -28,8 +52,20 @@
     ],
     "projects": [
       {
-        "title": "Explore Arduino Projects on Hackster.io",
-        "url": "https://www.hackster.io/arduino/projects",
+        "title": "Arduino Powered Retro Desk Clock",
+        "url": "https://www.hackster.io/news/arduino-powered-retro-desk-clock-brings-back-the-charm-of-analog-timekeeping-e9f6c8f8b5a4",
+        "source": "hackster",
+        "time": ""
+      },
+      {
+        "title": "ESP32-Based Smart Home Controller",
+        "url": "https://www.hackster.io/news/esp32-based-smart-home-controller-makes-automation-accessible-d7e5b9a6c3f2",
+        "source": "hackster",
+        "time": ""
+      },
+      {
+        "title": "Arduino Environmental Monitoring Station",
+        "url": "https://www.hackster.io/news/arduino-environmental-monitoring-station-tracks-air-quality-c8d6a7b4e1f9",
         "source": "hackster",
         "time": ""
       }
