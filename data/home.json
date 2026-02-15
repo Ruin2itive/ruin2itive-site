@@ -1,17 +1,31 @@
 {
-  "updated_iso": "2026-02-15T07:59:20.491Z",
-  "updated_local": "2/15/2026, 7:59:20 AM",
+  "updated_iso": "2026-02-15T08:11:14.823Z",
+  "updated_local": "2/15/2026, 8:11:14 AM",
   "sections": {
     "crypto": [
       {
-        "title": "Crypto feed not configured yet",
-        "url": "https://ruin2itive.org/",
+        "title": "Read Crypto News on Decrypt",
+        "url": "https://decrypt.co/",
         "source": "crypto",
         "time": ""
       }
     ],
-    "hacker": [],
-    "world": [],
+    "hacker": [
+      {
+        "title": "Explore Top Stories on Hacker News",
+        "url": "https://news.ycombinator.com/",
+        "source": "hn",
+        "time": ""
+      }
+    ],
+    "world": [
+      {
+        "title": "Read World News on BBC",
+        "url": "https://www.bbc.com/news",
+        "source": "world",
+        "time": ""
+      }
+    ],
     "projects": [
       {
         "title": "Explore Arduino Projects on Hackster.io",

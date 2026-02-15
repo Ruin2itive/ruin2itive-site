@@ -822,7 +822,7 @@
       `;
     }
 
-    function renderProjects(data, hacksterArticle){
+    function renderProjects(data, hacksterArticle, raspiArticles){
       const root = document.getElementById("projects-root");
       const groups = data?.groups;
 
@@ -867,11 +867,30 @@
           `;
         }
 
+        // Add Raspberry Pi articles for raspberry_pi group
+        let raspiHtml = "";
+        if (name === "raspberry_pi" && Array.isArray(raspiArticles) && raspiArticles.length > 0) {
+          raspiHtml = `
+            <div style="margin-top: 10px;">
+              ${raspiArticles.map(article => `
+                <a class="item" href="${esc(article.url)}" target="_blank" rel="noopener" style="border-bottom: none;">
+                  <h3>${esc(article.title)}</h3>
+                  <div class="meta">
+                    ${stamp("raspberry_pi", "source")}
+                    ${article.time ? stamp(article.time) : ""}
+                  </div>
+                </a>
+              `).join("")}
+            </div>
+          `;
+        }
+
         return `
           <div class="proj">
             <div class="name">${esc(name)}</div>
             <div class="pills">${pills}</div>
             ${hacksterHtml}
+            ${raspiHtml}
           </div>
         `;
       }).join("");
@@ -1002,9 +1021,18 @@
         /* silent */
       }
 
+      // Load Raspberry Pi news
+      let raspiArticles = [];
+      try{
+        const raspi = await fetchJson(`data/raspi.json?${nowBust()}`);
+        raspiArticles = raspi?.items || [];
+      }catch(_e){
+        /* silent - will use fallback */
+      }
+
       try{
         const projects = await fetchJson(`data/projects.json?${nowBust()}`);
-        renderProjects(projects, hacksterArticle);
+        renderProjects(projects, hacksterArticle, raspiArticles);
       }catch(e){
         setMini("projects-updated", "Error");
         renderError(

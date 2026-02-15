@@ -32,58 +32,122 @@ function fmtLocal(iso) {
 
 async function getHnTop5() {
   // Hacker News: official Firebase API
-  const ids = await safeJson("https://hacker-news.firebaseio.com/v0/topstories.json");
-  const top = (ids || []).slice(0, 5);
+  try {
+    const ids = await safeJson("https://hacker-news.firebaseio.com/v0/topstories.json");
+    const top = (ids || []).slice(0, 5);
 
-  const items = [];
-  for (const id of top) {
-    const it = await safeJson(`https://hacker-news.firebaseio.com/v0/item/${id}.json`);
-    if (!it || !it.url || !it.title) continue;
-    items.push({
-      title: it.title,
-      url: it.url,
-      source: "hn",
-      time: fmtLocal(new Date((it.time || 0) * 1000).toISOString())
-    });
+    const items = [];
+    for (const id of top) {
+      const it = await safeJson(`https://hacker-news.firebaseio.com/v0/item/${id}.json`);
+      if (!it || !it.url || !it.title) continue;
+      items.push({
+        title: it.title,
+        url: it.url,
+        source: "hn",
+        time: fmtLocal(new Date((it.time || 0) * 1000).toISOString())
+      });
+    }
+    if (items.length > 0) return items.slice(0, 5);
+    console.warn(`Hacker News API returned no valid items, using fallback`);
+  } catch (err) {
+    console.warn(`Hacker News fetch failed: ${err.message}, using fallback`);
   }
-  return items;
+  
+  // Fallback to placeholder links if fetch fails or produces no items
+  return [
+    {
+      title: "Explore Top Stories on Hacker News",
+      url: "https://news.ycombinator.com/",
+      source: "hn",
+      time: ""
+    }
+  ];
 }
 
 async function getBbcTop5() {
   // BBC RSS (stable)
   const rssUrl = "https://feeds.bbci.co.uk/news/rss.xml";
 
-  // Very small RSS parse (no deps)
-  const res = await fetch(rssUrl, { redirect: "follow" });
-  if (!res.ok) throw new Error(`RSS failed ${res.status}`);
-  const xml = await res.text();
+  try {
+    // Very small RSS parse (no deps)
+    const res = await fetch(rssUrl, { redirect: "follow" });
+    if (!res.ok) throw new Error(`RSS failed ${res.status}`);
+    const xml = await res.text();
 
-  const items = [];
-  const itemBlocks = xml.split("<item>").slice(1, 7); // grab a few
-  for (const block of itemBlocks) {
-    const title = (block.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) || block.match(/<title>(.*?)<\/title>/) || [])[1];
-    const link = (block.match(/<link>(.*?)<\/link>/) || [])[1];
-    const pubDate = (block.match(/<pubDate>(.*?)<\/pubDate>/) || [])[1];
-    if (!title || !link) continue;
-    items.push({
-      title: title.trim(),
-      url: link.trim(),
-      source: "world",
-      time: pubDate ? pubDate.trim() : ""
-    });
+    const items = [];
+    const itemBlocks = xml.split("<item>").slice(1, 7); // grab a few
+    for (const block of itemBlocks) {
+      const title = (block.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) || block.match(/<title>(.*?)<\/title>/) || [])[1];
+      const link = (block.match(/<link>(.*?)<\/link>/) || [])[1];
+      const pubDate = (block.match(/<pubDate>(.*?)<\/pubDate>/) || [])[1];
+      if (!title || !link) continue;
+      items.push({
+        title: title.trim(),
+        url: link.trim(),
+        source: "world",
+        time: pubDate ? pubDate.trim() : ""
+      });
+    }
+    if (items.length > 0) return items.slice(0, 5);
+    console.warn(`BBC RSS returned no valid items, using fallback`);
+  } catch (err) {
+    console.warn(`BBC fetch failed: ${err.message}, using fallback`);
   }
-  return items.slice(0, 5);
+  
+  // Fallback to placeholder links if fetch fails or produces no items
+  return [
+    {
+      title: "Read World News on BBC",
+      url: "https://www.bbc.com/news",
+      source: "world",
+      time: ""
+    }
+  ];
 }
 
-async function getCryptoPlaceholder() {
-  // Reliability-first placeholder until we pick a stable crypto source you like.
-  // Keeps site working even if crypto source changes.
-  return [{
-    title: "Crypto feed not configured yet",
-    url: "https://ruin2itive.org/",
-    source: "crypto",
-    time: ""
-  }];
+async function getCryptoTop5() {
+  // Decrypt.co RSS feed for crypto news
+  const rssUrl = "https://decrypt.co/feed";
+
+  try {
+    const res = await fetch(rssUrl, { 
+      redirect: "follow",
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (compatible; ruin2itive-bot/1.0)'
+      }
+    });
+    if (!res.ok) throw new Error(`RSS failed ${res.status}`);
+    const xml = await res.text();
+
+    const items = [];
+    const itemBlocks = xml.split("<item>").slice(1, 6); // grab up to 5 items
+    for (const block of itemBlocks) {
+      const title = (block.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) || block.match(/<title>(.*?)<\/title>/) || [])[1];
+      const link = (block.match(/<link>(.*?)<\/link>/) || [])[1];
+      const pubDate = (block.match(/<pubDate>(.*?)<\/pubDate>/) || [])[1];
+      if (!title || !link) continue;
+      items.push({
+        title: title.trim(),
+        url: link.trim(),
+        source: "crypto",
+        time: pubDate ? pubDate.trim() : ""
+      });
+    }
+    if (items.length > 0) return items.slice(0, 5);
+    console.warn(`Decrypt RSS returned no valid items, using fallback`);
+  } catch (err) {
+    console.warn(`Decrypt fetch failed: ${err.message}, using fallback`);
+  }
+  
+  // Fallback to placeholder link if fetch fails or produces no items
+  return [
+    {
+      title: "Read Crypto News on Decrypt",
+      url: "https://decrypt.co/",
+      source: "crypto",
+      time: ""
+    }
+  ];
 }
 
 async function getHacksterTop1() {
@@ -147,7 +211,7 @@ async function main() {
   // Build each section with safe fallbacks
   try { payload.sections.hacker = await getHnTop5(); } catch { payload.sections.hacker = []; }
   try { payload.sections.world  = await getBbcTop5(); } catch { payload.sections.world  = []; }
-  try { payload.sections.crypto = await getCryptoPlaceholder(); } catch { payload.sections.crypto = []; }
+  try { payload.sections.crypto = await getCryptoTop5(); } catch { payload.sections.crypto = []; }
   // getHacksterTop1 has its own fallback, so we can safely await it
   payload.sections.projects = await getHacksterTop1();
 
