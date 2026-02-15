@@ -62,7 +62,7 @@
 
   // Utility: Generate unique ID
   function generateId() {
-    return Math.random().toString(36).substr(2, 9);
+    return Math.random().toString(36).substring(2, 11);
   }
 
   // Rate limiting check
@@ -162,6 +162,11 @@
     messagesContainer.scrollTop = messagesContainer.scrollHeight;
     
     messageHistory.push(message);
+    
+    // Keep message history limited to last 50 messages to prevent memory issues
+    if (messageHistory.length > 50) {
+      messageHistory = messageHistory.slice(-50);
+    }
   }
 
   // UI: Update connection status
@@ -238,7 +243,7 @@
       } else if (data.type === 'history') {
         // Receive message history
         if (data.messages && data.messages.length > 0) {
-          messagesContainer.innerHTML = '';
+          messagesContainer.replaceChildren();
           data.messages.forEach(msg => addMessage(msg));
         }
       }
@@ -342,7 +347,7 @@
               }
             } else if (data.type === 'history') {
               if (data.messages && data.messages.length > 0) {
-                messagesContainer.innerHTML = '';
+                messagesContainer.replaceChildren();
                 data.messages.forEach(msg => addMessage(msg));
               }
             }
