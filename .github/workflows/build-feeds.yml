@@ -28,7 +28,7 @@ jobs:
         run: npm install
 
       - name: Build RSS feeds
-        run: node scripts/scripts/build_feeds.mjs
+        run: node scripts/build_feeds.mjs
 
       - name: Commit feed updates
         run: |
