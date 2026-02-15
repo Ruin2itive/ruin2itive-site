@@ -54,23 +54,23 @@ async function getHnTop5() {
   }
   
   // Fallback to placeholder links if fetch fails or produces no items
-  // Using the Hacker News front page as fallback since we can't guarantee specific story IDs
+  // Using different HN sections as fallback URLs since we can't guarantee specific story IDs
   return [
     {
       title: "Ask HN: What are you working on?",
-      url: "https://news.ycombinator.com/",
+      url: "https://news.ycombinator.com/ask",
       source: "hn",
       time: ""
     },
     {
       title: "Show HN: New Open Source Project",
-      url: "https://news.ycombinator.com/",
+      url: "https://news.ycombinator.com/show",
       source: "hn",
       time: ""
     },
     {
       title: "The Evolution of Web Development",
-      url: "https://news.ycombinator.com/",
+      url: "https://news.ycombinator.com/newest",
       source: "hn",
       time: ""
     },
@@ -82,7 +82,7 @@ async function getHnTop5() {
     },
     {
       title: "Building Scalable Systems: Best Practices",
-      url: "https://news.ycombinator.com/",
+      url: "https://news.ycombinator.com/best",
       source: "hn",
       time: ""
     }
