@@ -1432,19 +1432,43 @@
       isUsingFallback = false;
       let hasErrors = false;
       
-      // Try to load home.json first to get hackster articles and HN items
+      // Try to load home.json first to get all sections
       let hacksterArticles = [];
+      let homeData = null;
       
       try{
-        const home = await fetchJson(`data/home.json?${nowBust()}`);
-        const hacksterItems = home?.sections?.projects;
+        homeData = await fetchJson(`data/home.json?${nowBust()}`);
+        const hacksterItems = homeData?.sections?.projects;
         if (Array.isArray(hacksterItems) && hacksterItems.length > 0) {
           hacksterArticles = hacksterItems;
         }
-        renderHNfromHomeJson(home);
+        
+        // Render Hacker News from home.json
+        renderHNfromHomeJson(homeData);
+        
+        // Render crypto/markets from home.json
+        if (homeData?.sections?.crypto && Array.isArray(homeData.sections.crypto)) {
+          const cryptoData = {
+            items: homeData.sections.crypto.map(item => ({
+              title: item.title,
+              url: item.url,
+              source: item.source || "crypto",
+              stamp: "LIVE"
+            })),
+            updated: homeData.updated_iso || homeData.updated_local
+          };
+          renderDecrypt(cryptoData);
+        } else {
+          // Try fallback to decrypt.json
+          throw new Error("No crypto data in home.json");
+        }
       }catch(_e){
         // Use fallback for HN
         renderHNFallback();
+        
+        // Use fallback crypto data
+        renderDecrypt(FALLBACK_DATA.crypto);
+        
         isUsingFallback = true;
         hasErrors = true;
       }
@@ -1465,17 +1489,6 @@
       }catch(e){
         // Use fallback projects
         renderProjects(FALLBACK_DATA.projects, hacksterArticles, raspiArticles);
-        isUsingFallback = true;
-        hasErrors = true;
-      }
-
-      // Try to load decrypt.json
-      try{
-        const decrypt = await fetchJson(`data/decrypt.json?${nowBust()}`);
-        renderDecrypt(decrypt);
-      }catch(e){
-        // Use fallback crypto data
-        renderDecrypt(FALLBACK_DATA.crypto);
         isUsingFallback = true;
         hasErrors = true;
       }
