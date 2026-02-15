@@ -118,10 +118,10 @@ async function getBbcTop5() {
     console.warn(`BBC fetch failed: ${err.message}, using fallback`);
   }
   
-  // Fallback to placeholder links if fetch fails or produces no items
+  // Fallback to BBC News homepage if fetch fails or produces no items
   return [
     {
-      title: "Read World News on BBC",
+      title: "Visit BBC World News",
       url: "https://www.bbc.com/news",
       source: "world",
       time: ""
