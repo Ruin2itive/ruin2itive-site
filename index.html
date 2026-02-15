@@ -855,9 +855,9 @@
         let hacksterHtml = "";
         if (name === "arduino" && hacksterArticle) {
           hacksterHtml = `
-            <div class="item" style="margin-top: 10px; border-bottom: none; padding: 8px 0;">
-              <a href="${esc(hacksterArticle.url)}" target="_blank" rel="noopener" style="display: block; text-decoration: none; color: inherit;">
-                <h3 style="margin: 0 0 6px; font-size: 14px;">${esc(hacksterArticle.title)}</h3>
+            <div style="margin-top: 10px;">
+              <a class="item" href="${esc(hacksterArticle.url)}" target="_blank" rel="noopener" style="border-bottom: none;">
+                <h3>${esc(hacksterArticle.title)}</h3>
                 <div class="meta">
                   ${stamp("hackster", "source")}
                   ${hacksterArticle.time ? stamp(hacksterArticle.time) : ""}

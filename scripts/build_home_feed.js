@@ -114,7 +114,7 @@ async function getHacksterTop1() {
       time: pubDate ? pubDate.trim() : ""
     });
   }
-  return items.slice(0, 1);
+  return items;
 }
 
 async function main() {
