@@ -25,7 +25,8 @@
     maxRetries: 3,
     retryDelay: 2000, // 2 seconds initial delay between retries
     maxRetryDelay: 10000, // Maximum delay for exponential backoff
-    backoffMultiplier: 2 // Exponential backoff multiplier
+    backoffMultiplier: 2, // Exponential backoff multiplier
+    libraryLoadDelay: 2000 // 2 seconds delay to wait for PeerJS library
   };
 
   const RATE_LIMIT = {
@@ -605,7 +606,7 @@
           if (attempt < CONNECTION_CONFIG.maxRetries) {
             // Calculate delay with exponential backoff
             const delay = Math.min(
-              CONNECTION_CONFIG.retryDelay * Math.pow(CONNECTION_CONFIG.backoffMultiplier, attempt - 1),
+              CONNECTION_CONFIG.retryDelay * Math.pow(CONNECTION_CONFIG.backoffMultiplier, attempt),
               CONNECTION_CONFIG.maxRetryDelay
             );
             
@@ -617,7 +618,7 @@
             
             addMessage({
               type: 'system',
-              content: `Connection attempt ${attempt} failed. Retrying in ${delay / 1000} seconds... (${attempt}/${CONNECTION_CONFIG.maxRetries})`
+              content: `Connection attempt ${attempt} failed. Retrying in ${(delay / 1000).toFixed(1)} seconds... (${attempt}/${CONNECTION_CONFIG.maxRetries})`
             });
             
             await new Promise(resolve => setTimeout(resolve, delay));
@@ -789,7 +790,7 @@
           logDebug('PEERJS', '✓ PeerJS library loaded after delay');
           initializeChat();
         }
-      }, 2000);
+      }, CONNECTION_CONFIG.libraryLoadDelay);
       return;
     }
     
