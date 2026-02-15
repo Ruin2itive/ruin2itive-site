@@ -1425,6 +1425,22 @@
       }
     }
 
+    function transformCryptoData(homeData) {
+      if (!homeData?.sections?.crypto || !Array.isArray(homeData.sections.crypto)) {
+        return null;
+      }
+      
+      return {
+        items: homeData.sections.crypto.map(item => ({
+          title: item.title,
+          url: item.url,
+          source: item.source || "crypto",
+          stamp: "LIVE" // Indicates fresh data from live feed
+        })),
+        updated: homeData.updated_iso || homeData.updated_local
+      };
+    }
+
     async function loadData(isManualRefresh = false){
       setEditionTime();
       
@@ -1452,16 +1468,8 @@
         }
         
         // Render crypto/markets from home.json (with fallback if section is empty)
-        if (homeData?.sections?.crypto && Array.isArray(homeData.sections.crypto) && homeData.sections.crypto.length > 0) {
-          const cryptoData = {
-            items: homeData.sections.crypto.map(item => ({
-              title: item.title,
-              url: item.url,
-              source: item.source || "crypto",
-              stamp: "LIVE"
-            })),
-            updated: homeData.updated_iso || homeData.updated_local
-          };
+        const cryptoData = transformCryptoData(homeData);
+        if (cryptoData) {
           renderDecrypt(cryptoData);
         } else {
           renderDecrypt(FALLBACK_DATA.crypto);
