@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-15T01:18:23.530Z",
-  "updated_local": "2/15/2026, 1:18:23 AM",
+  "updated_iso": "2026-02-15T06:52:51.611Z",
+  "updated_local": "2/15/2026, 6:52:51 AM",
   "sections": {
     "crypto": [
       {
@@ -12,16 +12,10 @@
     ],
     "hacker": [
       {
-        "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-        "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+        "title": "I love the work of the ArchWiki maintainers",
+        "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
         "source": "hn",
-        "time": "2/14/2026, 6:46:32 PM"
-      },
-      {
-        "title": "uBlock filter list to hide all YouTube Shorts",
-        "url": "https://github.com/i5heu/ublock-hide-yt-shorts/",
-        "source": "hn",
-        "time": "2/14/2026, 5:36:45 PM"
+        "time": "2/15/2026, 1:20:58 AM"
       },
       {
         "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
@@ -30,24 +24,30 @@
         "time": "2/14/2026, 3:35:47 PM"
       },
       {
-        "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
-        "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+        "title": "Zvec: A lightweight, fast, in-process vector database",
+        "url": "https://github.com/alibaba/zvec",
         "source": "hn",
-        "time": "2/13/2026, 11:34:09 PM"
+        "time": "2/13/2026, 8:53:51 AM"
       },
       {
-        "title": "Ooh.directory: a place to find good blogs that interest you",
-        "url": "https://ooh.directory/",
+        "title": "Instagram's URL Blackhole",
+        "url": "https://medium.com/@shredlife/instagrams-url-blackhole-c1733e081664",
         "source": "hn",
-        "time": "2/14/2026, 1:40:20 PM"
+        "time": "2/13/2026, 4:42:04 PM"
+      },
+      {
+        "title": "Flashpoint Archive – Over 200k web games and animations preserved",
+        "url": "https://flashpointarchive.org",
+        "source": "hn",
+        "time": "2/15/2026, 5:43:59 AM"
       }
     ],
     "world": [
       {
-        "title": "Russia killed opposition leader Alexei Navalny using dart frog toxin, UK says",
-        "url": "https://www.bbc.com/news/articles/cwyk4lz4e3eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran",
+        "url": "https://www.bbc.com/news/articles/clyz4y3zwz5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 14 Feb 2026 17:00:14 GMT"
+        "time": "Sun, 15 Feb 2026 06:00:36 GMT"
       },
       {
         "title": "Europe must be ready to fight, PM tells Munich Security Conference",
@@ -62,16 +62,16 @@
         "time": "Sun, 15 Feb 2026 00:16:47 GMT"
       },
       {
+        "title": "Children 'weaponised' by both sides of trans debate, says author of report into gender identity services",
+        "url": "https://www.bbc.com/news/articles/c0k1vkmxgd6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 15 Feb 2026 06:00:35 GMT"
+      },
+      {
         "title": "Obama addresses racist video shared by Trump depicting him as an ape",
         "url": "https://www.bbc.com/news/articles/c74754j7qwgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 14 Feb 2026 22:24:14 GMT"
-      },
-      {
-        "title": "GB women shock curling world champions Canada",
-        "url": "https://www.bbc.com/sport/articles/clyzgpw725qo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 14 Feb 2026 22:09:32 GMT"
       }
     ]
   }
