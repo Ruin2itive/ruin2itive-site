@@ -48,34 +48,24 @@
       --wm-opacity: .035;        /* global watermark */
       --hero-img-opacity: .95;   /* hero image strength */
 
-      /* ============================
-         ✅ ULTRA-TRANSPARENT "GLASS"
-         (cards + header + pills)
-         ============================ */
+      /* ULTRA-TRANSPARENT GLASS (header + cards) */
       --glass-blur: 18px;
 
-      /* Cards */
       --card-bg: rgba(255,255,255,.40);
       --card-head-bg: rgba(255,255,255,.14);
 
-      /* Header nameplate (THIS is the dark box around ruin2itive) */
-      --plate-bg: rgba(255,255,255,.20);
+      --plate-bg: rgba(255,255,255,.20);     /* header nameplate */
+      --nav-bg: rgba(255,255,255,.26);       /* nav buttons */
+      --pill-bg: rgba(255,255,255,.30);      /* pills */
+      --stamp-bg: rgba(255,255,255,.30);     /* stamps */
 
-      /* Nav + UI pills */
-      --nav-bg: rgba(255,255,255,.26);
-      --pill-bg: rgba(255,255,255,.30);
-      --stamp-bg: rgba(255,255,255,.30);
-
-      /* Borders for readability on transparent glass */
       --card-border: rgba(0,0,0,.18);
       --card-border-hover: rgba(0,0,0,.28);
-
       --plate-border: rgba(0,0,0,.20);
       --nav-border: rgba(0,0,0,.20);
       --pill-border: rgba(0,0,0,.24);
       --stamp-border: rgba(0,0,0,.22);
 
-      /* Text contrast helpers */
       --text-shadow: 0 1px 0 rgba(255,255,255,.22);
       --glass-inset: inset 0 1px 0 rgba(255,255,255,.18), inset 0 0 0 1px rgba(255,255,255,.05);
 
@@ -143,9 +133,7 @@
       padding: 0 18px calc(28px + var(--safe-bot));
     }
 
-    /* =========================
-       HERO MASTHEAD (CONTAINED)
-       ========================= */
+    /* HERO */
     .hero{
       position:relative;
       padding-top: calc(14px + var(--safe-top));
@@ -173,7 +161,6 @@
       transform: scale(1.05);
     }
 
-    /* IMPORTANT: lighter veil so elephant shows through more */
     .hero::after{
       content:"";
       position:absolute;
@@ -309,9 +296,6 @@
       text-decoration:none;
     }
 
-    /* ======================
-       FRONT PAGE LAYOUT
-       ====================== */
     main{ padding-top: 18px; }
 
     .edition{
@@ -348,7 +332,6 @@
       .grid{ grid-template-columns: 1fr 1fr 1fr; }
     }
 
-    /* Cards: ultra transparent glass */
     .card{
       border-radius: var(--radius);
       overflow:hidden;
@@ -402,7 +385,6 @@
 
     .body{ padding: 12px 16px 14px; }
 
-    /* Projects list */
     .proj{
       padding: 10px 0;
       border-bottom: 1px solid rgba(0,0,0,.10);
@@ -452,7 +434,6 @@
     .pill:active{ transform: translateY(0px) scale(.985); }
     .pill:focus-visible{ outline:none; box-shadow: var(--ring); }
 
-    /* Feed items */
     .item{
       display:block;
       padding: 12px 0;
@@ -527,7 +508,6 @@
       text-shadow: var(--text-shadow);
     }
 
-    /* Skeleton */
     .skel{
       border-radius: 10px;
       height: 12px;
@@ -562,7 +542,6 @@
       .card:hover, .item:hover, .pill:hover, .navstrip a:hover{ transform:none !important; }
     }
 
-    /* Dark mode */
     @media (prefers-color-scheme: dark){
       :root{
         --paper:#0b0b0d;
@@ -575,15 +554,12 @@
         --wm-opacity: .040;
         --hero-img-opacity: .92;
 
-        /* ✅ ULTRA transparent (dark) */
         --glass-blur: 20px;
 
         --card-bg: rgba(14,14,16,.24);
         --card-head-bg: rgba(14,14,16,.12);
 
-        /* Header nameplate (dark box) */
         --plate-bg: rgba(12,12,14,.18);
-
         --nav-bg: rgba(12,12,14,.18);
         --pill-bg: rgba(12,12,14,.20);
         --stamp-bg: rgba(12,12,14,.20);
@@ -613,7 +589,6 @@
 
       .hero{ border-bottom-color: rgba(255,255,255,.10); }
 
-      /* IMPORTANT: lighter veil in dark mode too */
       .hero::after{
         background:
           radial-gradient(980px 440px at 50% 44%,
@@ -680,7 +655,6 @@
       }
     }
 
-    /* Mobile tuning */
     @media (max-width: 520px){
       :root{ --g: 14px; --radius: 16px; }
 
@@ -769,258 +743,4 @@
               <div class="headline"><div class="skel t"></div></div>
               <div class="sub">
                 <div class="skel s" style="margin:10px 0 8px;"></div>
-                <div class="skel m"></div>
-              </div>
-              <div class="status">Status: loading</div>
-            </div>
-          </div>
-        </article>
-
-        <article class="card" id="hacker" aria-label="Hacker News">
-          <div class="head">
-            <div class="kicker">Hacker News</div>
-            <div class="mini" id="hn-updated">Standby</div>
-          </div>
-
-          <div class="body" id="hn-root">
-            <div class="feature">
-              <div class="headline">Quiet</div>
-              <div class="sub">This section fills from <span class="stamp">home.json</span> when available.</div>
-              <div class="status">Status: standby</div>
-            </div>
-          </div>
-        </article>
-      </section>
-    </main>
-
-    <footer>
-      ruin2itive.org — signals • systems • memory
-    </footer>
-  </div>
-
-  <script>
-    const fmt = { dateStyle: "medium", timeStyle: "short" };
-
-    function esc(s){
-      const str = String(s ?? "");
-      return str
-        .replace(/&/g, "&amp;")
-        .replace(/</g, "&lt;")
-        .replace(/>/g, "&gt;")
-        .replace(/"/g, "&quot;")
-        .replace(/'/g, "&#039;");
-    }
-
-    function nowBust(){ return String(Date.now()); }
-
-    function stamp(text, variant){
-      const cls = variant === "source" ? "stamp red" : "stamp";
-      return `<span class="${cls}">${esc(text)}</span>`;
-    }
-
-    async function fetchJson(url){
-      const r = await fetch(url, { cache: "no-store" });
-      if (!r.ok) throw new Error(`HTTP ${r.status}`);
-      return await r.json();
-    }
-
-    function setMini(id, text){
-      const el = document.getElementById(id);
-      if (!el) return;
-      el.textContent = text || "Standby";
-    }
-
-    function renderError(root, title, detail){
-      root.innerHTML = `
-        <div class="feature">
-          <div class="headline">${esc(title)}</div>
-          <div class="sub">${esc(detail)}</div>
-          <div class="status">Status: error</div>
-        </div>
-      `;
-    }
-
-    function renderProjects(data){
-      const root = document.getElementById("projects-root");
-      const groups = data?.groups;
-
-      const u = data?.updated_iso ? new Date(data.updated_iso) : null;
-      const uText = (u && !isNaN(u.getTime())) ? `Updated: ${u.toLocaleString(undefined, fmt)}` : "Live";
-      setMini("projects-updated", uText);
-
-      if (!Array.isArray(groups) || groups.length === 0){
-        root.innerHTML = `
-          <div class="feature">
-            <div class="headline">No projects</div>
-            <div class="sub">Your projects.json has no groups.</div>
-            <div class="status">Status: empty</div>
-          </div>
-        `;
-        return;
-      }
-
-      root.innerHTML = groups.map(g => {
-        const name = g?.title || g?.name || "project";
-        const links = Array.isArray(g?.links) ? g.links : [];
-
-        const pills = links.map(l => {
-          const label = l?.label || "link";
-          const url = l?.href || l?.url || "#";
-          return `<a class="pill" href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a>`;
-        }).join("");
-
-        return `
-          <div class="proj">
-            <div class="name">${esc(name)}</div>
-            <div class="pills">${pills}</div>
-          </div>
-        `;
-      }).join("");
-    }
-
-    function renderDecrypt(data){
-      const root = document.getElementById("decrypt-root");
-      const items = Array.isArray(data?.items) ? data.items : [];
-      const updated = data?.updated ? new Date(data.updated) : null;
-
-      const isSeed =
-        (items[0]?.stamp === "SEED") ||
-        (typeof data?.updated === "string" && data.updated.startsWith("1970-")) ||
-        (!updated || isNaN(updated.getTime())) ||
-        (updated && typeof updated.getFullYear === "function" && updated.getFullYear() < 2000);
-
-      const updatedText = (!isSeed && updated && !isNaN(updated.getTime()))
-        ? `Updated: ${updated.toLocaleString(undefined, fmt)}`
-        : "Seed (waiting on feed)";
-
-      setMini("decrypt-updated", updatedText);
-
-      const itemsHtml = items.slice(0, 5).map(it => {
-        const title = it?.title || "Untitled";
-        const url = it?.url || "#";
-        const src = it?.source || "decrypt";
-        const st = it?.stamp || "";
-
-        return `
-          <a class="item" href="${esc(url)}" target="_blank" rel="noopener">
-            <h3>${esc(title)}</h3>
-            <div class="meta">
-              ${st ? stamp(st) : ""}
-              ${stamp(src, "source")}
-            </div>
-          </a>
-        `;
-      }).join("");
-
-      root.innerHTML = itemsHtml || `
-        <div class="feature">
-          <div class="headline">No items</div>
-          <div class="sub">Your feed is empty.</div>
-          <div class="status">Status: empty</div>
-        </div>
-      `;
-    }
-
-    function renderHNfromHomeJson(home){
-      const root = document.getElementById("hn-root");
-      const items = home?.sections?.hacker;
-
-      const updated = home?.updated_iso ? new Date(home.updated_iso) : null;
-      const updatedText = (updated && !isNaN(updated.getTime()))
-        ? `Updated: ${updated.toLocaleString(undefined, fmt)}`
-        : "Standby";
-
-      setMini("hn-updated", updatedText);
-
-      if (!Array.isArray(items) || items.length === 0) return;
-
-      root.innerHTML = items.slice(0, 10).map(it => {
-        const title = it?.title || "Untitled";
-        const url = it?.url || "#";
-        return `
-          <a class="item" href="${esc(url)}" target="_blank" rel="noopener">
-            <h3>${esc(title)}</h3>
-            <div class="meta">${stamp("hn", "source")}${stamp("newest")}</div>
-          </a>
-        `;
-      }).join("");
-    }
-
-    function setEditionTime(){
-      const el = document.getElementById("edition-time");
-      if (!el) return;
-      const d = new Date();
-      el.textContent = `Edition: ${d.toLocaleString(undefined, fmt)}`;
-    }
-
-    function initScrollSpy(){
-      const links = [
-        { id: "projects", nav: document.getElementById("nav-projects") },
-        { id: "markets",  nav: document.getElementById("nav-markets") },
-        { id: "hacker",   nav: document.getElementById("nav-hacker") },
-      ].filter(x => x.nav);
-
-      const setCurrent = (id) => {
-        for (const x of links){
-          x.nav.setAttribute("aria-current", x.id === id ? "true" : "false");
-        }
-      };
-
-      setCurrent("projects");
-
-      const opts = { root: null, rootMargin: "-35% 0px -55% 0px", threshold: 0.0 };
-      const io = new IntersectionObserver((entries) => {
-        const visible = entries
-          .filter(e => e.isIntersecting)
-          .sort((a,b) => (b.intersectionRatio - a.intersectionRatio));
-        if (visible.length){
-          setCurrent(visible[0].target.id);
-        }
-      }, opts);
-
-      for (const x of links){
-        const el = document.getElementById(x.id);
-        if (el) io.observe(el);
-      }
-    }
-
-    async function boot(){
-      setEditionTime();
-      initScrollSpy();
-
-      try{
-        const projects = await fetchJson(`data/projects.json?${nowBust()}`);
-        renderProjects(projects);
-      }catch(e){
-        setMini("projects-updated", "Error");
-        renderError(
-          document.getElementById("projects-root"),
-          "Projects",
-          `Could not load data/projects.json (${e.message}).`
-        );
-      }
-
-      try{
-        const decrypt = await fetchJson(`data/decrypt.json?${nowBust()}`);
-        renderDecrypt(decrypt);
-      }catch(e){
-        setMini("decrypt-updated", "Error");
-        renderError(
-          document.getElementById("decrypt-root"),
-          "Decrypt",
-          `Could not load data/decrypt.json (${e.message}).`
-        );
-      }
-
-      try{
-        const home = await fetchJson(`data/home.json?${nowBust()}`);
-        renderHNfromHomeJson(home);
-      }catch(_e){
-        /* silent */
-      }
-    }
-
-    boot();
-  </script>
-</body>
-</html>
+                <div <STOP>
