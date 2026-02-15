@@ -116,11 +116,13 @@ async function getHacksterTop1() {
       });
     }
     if (items.length > 0) return items;
+    // If we got here, RSS was fetched but produced no valid items
+    console.warn(`Hackster RSS returned no valid items, using fallback`);
   } catch (err) {
     console.warn(`Hackster fetch failed: ${err.message}, using fallback`);
   }
   
-  // Fallback to a placeholder link if fetch fails
+  // Fallback to a placeholder link if fetch fails or produces no items
   return [{
     title: "Explore Arduino Projects on Hackster.io",
     url: "https://www.hackster.io/arduino/projects",
