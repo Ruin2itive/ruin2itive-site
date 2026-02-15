@@ -1,0 +1,31 @@
+[build]
+  # Publish directory (where the site files are)
+  publish = "."
+  
+  # Build command (if needed for build process)
+  command = "echo 'No build required for static site'"
+
+[build.environment]
+  # Node version for build
+  NODE_VERSION = "18"
+
+# Redirect rules for SPA-like behavior (optional)
+[[redirects]]
+  from = "/admin/*"
+  to = "/admin/index.html"
+  status = 200
+
+# Headers for security
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Cache static assets
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
