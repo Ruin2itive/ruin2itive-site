@@ -50,6 +50,33 @@ The ruin2itive chat room is a real-time communication feature that allows users 
 - **Required Technology**: WebRTC (for peer-to-peer connections)
 - **Fallback**: Clear message displayed for unsupported browsers
 
+#### Known Browser Limitations
+
+**iOS Devices:**
+- **Firefox on iOS**: Has limited WebRTC support. Safari is strongly recommended for best experience on iOS devices.
+- **All iOS Browsers**: May experience connection stability issues due to iOS platform limitations with WebRTC.
+- **Background Connections**: iOS may close WebRTC connections when the browser is in the background.
+
+**General Browser Requirements:**
+- WebRTC support (RTCPeerConnection API)
+- WebSocket support
+- Modern JavaScript (ES6+)
+- Local Storage enabled
+
+#### Browser-Specific Recommendations
+
+| Browser | Platform | Support Level | Notes |
+|---------|----------|---------------|-------|
+| Chrome | Desktop | ✅ Excellent | Recommended for desktop |
+| Firefox | Desktop | ✅ Excellent | Full WebRTC support |
+| Safari | Desktop | ✅ Good | Reliable WebRTC support |
+| Edge | Desktop | ✅ Excellent | Chromium-based, full support |
+| Safari | iOS | ✅ Good | Best option for iOS devices |
+| Chrome | iOS | ⚠️ Limited | Uses Safari WebKit, same limitations |
+| Firefox | iOS | ⚠️ Limited | Uses Safari WebKit, limited WebRTC |
+| Chrome | Android | ✅ Excellent | Full WebRTC support |
+| Firefox | Android | ✅ Good | Full WebRTC support |
+
 ## Technical Architecture
 
 ### Technology Stack
@@ -140,10 +167,22 @@ GitHub Pages is a static hosting service without backend server support. PeerJS 
 
 ```javascript
 const PEER_SERVER_CONFIG = {
-  host: 'peerjs-server.herokuapp.com',
+  host: '0.peerjs.com',
   port: 443,
   path: '/',
-  secure: true
+  secure: true,
+  config: {
+    iceServers: [
+      { urls: 'stun:stun.l.google.com:19302' },
+      { urls: 'stun:stun1.l.google.com:19302' }
+    ]
+  }
+};
+
+const CONNECTION_CONFIG = {
+  timeout: 15000,      // 15 seconds connection timeout
+  maxRetries: 3,       // Maximum connection retry attempts
+  retryDelay: 2000     // 2 seconds delay between retries
 };
 
 const RATE_LIMIT = {
@@ -151,6 +190,12 @@ const RATE_LIMIT = {
   timeWindow: 10000 // 10 seconds
 };
 ```
+
+**Note**: The PeerJS server has been updated from the deprecated `peerjs-server.herokuapp.com` to `0.peerjs.com` for improved reliability. The new configuration includes:
+- Enhanced error handling for server unavailability
+- Automatic retry logic with 3 attempts
+- Connection timeout of 15 seconds
+- Multiple STUN servers for better NAT traversal
 
 #### Customization
 
@@ -195,23 +240,189 @@ Potential improvements for future versions:
 
 ### Cannot Connect to Chat
 
-1. Check browser compatibility (WebRTC support required)
-2. Ensure JavaScript is enabled
-3. Check browser console for errors
-4. Try refreshing the page
-5. Clear browser local storage if issues persist
+**Symptom**: Unable to join the chat room, connection timeout, or "Failed to connect" error.
+
+**Solutions**:
+
+1. **Check Browser Compatibility**
+   - Ensure you're using a modern browser (Chrome, Firefox, Safari, or Edge)
+   - On iOS devices, use Safari for best results
+   - Check if WebRTC is enabled in your browser settings
+
+2. **Check Internet Connection**
+   - Verify you have a stable internet connection
+   - Test your connection speed and latency
+   - Try accessing other websites to confirm connectivity
+
+3. **Firewall and Network Issues**
+   - Disable VPN temporarily to test connection
+   - Check if your firewall is blocking WebRTC or WebSocket connections
+   - On corporate networks, ask IT if WebRTC traffic is allowed
+   - Some restrictive firewalls block UDP traffic required for WebRTC
+
+4. **Browser-Specific Issues**
+   - Clear browser cache and cookies
+   - Disable browser extensions that might interfere (ad blockers, privacy tools)
+   - Try opening the chat in an incognito/private window
+   - Update your browser to the latest version
+
+5. **Retry Connection**
+   - The chat includes automatic retry logic (3 attempts)
+   - Click the "Retry Connection" button if it appears
+   - Refresh the page completely (Ctrl+F5 or Cmd+Shift+R)
 
 ### Messages Not Appearing
 
-1. Check connection status indicator (should be green)
-2. Verify you're not rate-limited
-3. Ensure other users are connected
-4. Check browser console for errors
+**Symptom**: Messages don't show up or only appear for you.
 
-### Username Already Taken
+**Solutions**:
 
-- Choose a different username
-- Guest names are session-specific, so conflicts are rare
+1. **Check Connection Status**
+   - Look for the status indicator (green = connected, red = disconnected)
+   - Ensure the indicator is green before sending messages
+   - If disconnected, wait for automatic reconnection or refresh the page
+
+2. **Verify Peer Connections**
+   - Open browser console (F12) and look for connection logs
+   - Check if there are any error messages
+   - You should see logs indicating connections to other peers
+
+3. **Rate Limiting**
+   - If you see "Please slow down" message, you've hit the rate limit
+   - Wait 10 seconds before sending more messages
+   - Rate limit is 5 messages per 10 seconds
+
+4. **Room is Empty**
+   - If no other users are connected, your messages will only appear for you
+   - Wait for other users to join, or open the chat in another browser tab to test
+
+### iOS-Specific Issues
+
+**Symptom**: Chat works on desktop but not on iOS device.
+
+**Solutions**:
+
+1. **Use Safari Browser**
+   - Safari has the best WebRTC support on iOS
+   - Other browsers on iOS (Chrome, Firefox) use Safari's WebKit engine with limitations
+   - Avoid using Firefox on iOS for the chat feature
+
+2. **iOS Permissions**
+   - Ensure Safari has permission to use network features
+   - Check Settings > Safari > Advanced
+   - Enable JavaScript if it's disabled
+
+3. **iOS Background Issues**
+   - iOS may close WebRTC connections when the browser is in the background
+   - Keep the browser active and in the foreground while chatting
+   - iOS may also close connections to save battery
+
+4. **iOS Version**
+   - Ensure you're running iOS 14 or later for best WebRTC support
+   - Update to the latest iOS version if possible
+
+### Connection Drops Frequently
+
+**Symptom**: Connection works initially but drops after a few minutes.
+
+**Solutions**:
+
+1. **Network Stability**
+   - Use a stable Wi-Fi connection instead of mobile data if possible
+   - Move closer to your Wi-Fi router to improve signal strength
+   - Avoid switching between Wi-Fi and mobile data
+
+2. **Browser Settings**
+   - Disable browser power-saving features
+   - Prevent the browser from automatically sleeping inactive tabs
+   - Keep the chat tab active (don't minimize or switch tabs frequently)
+
+3. **Signaling Server**
+   - The issue might be with the PeerJS signaling server
+   - The chat will attempt to reconnect automatically
+   - Check browser console for specific error messages
+
+### Debugging Tips for Developers
+
+1. **Enable Console Logging**
+   - Open browser console (F12)
+   - The chat now includes detailed debug logs for:
+     - `[BROWSER]` - Browser detection information
+     - `[COMPATIBILITY]` - WebRTC compatibility checks
+     - `[PEER]` - Peer connection lifecycle
+     - `[CONNECTION]` - Individual peer connections
+     - `[DATA]` - Message passing and data exchange
+     - `[ROOM]` - Room joining and peer discovery
+     - `[JOIN]` - User join attempts and errors
+     - `[HISTORY]` - Message history synchronization
+
+2. **Check WebRTC Stats**
+   - Chrome: chrome://webrtc-internals
+   - Firefox: about:webrtc
+   - These pages show detailed WebRTC connection statistics
+
+3. **Verify PeerJS Server**
+   - Test server connectivity: https://0.peerjs.com/
+   - Check if the PeerJS cloud service is operational
+   - Consider deploying your own PeerJS server for better control
+
+4. **Test Network Connectivity**
+   - Use online STUN/TURN server testers
+   - Verify NAT traversal is working
+   - Check if UDP ports are open
+
+5. **Local Storage Issues**
+   - Check if local storage is enabled and working
+   - Clear local storage and try again: `localStorage.clear()`
+   - Peer IDs are stored in local storage for room discovery
+
+### Error Messages Explained
+
+- **"Connection timeout: Unable to connect to signaling server"**
+  - The PeerJS server didn't respond within 15 seconds
+  - Check internet connection and firewall settings
+  - The server might be temporarily down
+
+- **"Network error. Please check your internet connection."**
+  - General network connectivity issue
+  - Verify you're connected to the internet
+  - Check if other websites work
+
+- **"Unable to connect to the signaling server. The server may be down."**
+  - The PeerJS signaling server is unavailable
+  - Wait a few minutes and try again
+  - Check PeerJS service status
+
+- **"WebSocket connection failed. Please check your firewall settings."**
+  - Firewall or proxy is blocking WebSocket connections
+  - Try disabling VPN or connecting from a different network
+  - Contact network administrator if on corporate network
+
+- **"Your browser does not support WebRTC"**
+  - Browser is too old or doesn't support required features
+  - Update to the latest browser version
+  - Try a different browser (Chrome, Firefox, Safari)
+
+### Getting Additional Help
+
+If issues persist after trying these solutions:
+
+1. **Check Browser Console**
+   - Open developer tools (F12)
+   - Look for red error messages
+   - Note any specific error codes or messages
+
+2. **Report Issue on GitHub**
+   - Include browser type and version
+   - Include operating system
+   - Include any error messages from console
+   - Describe the exact steps to reproduce the issue
+
+3. **Provide Debug Information**
+   - Browser: [Your browser and version]
+   - OS: [Your operating system]
+   - Network: [Home WiFi / Mobile / Corporate]
+   - Console Errors: [Copy relevant error messages]
 
 ## Privacy & Data
 
