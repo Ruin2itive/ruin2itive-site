@@ -14,16 +14,24 @@ function renderList(sectionEl, items) {
     return;
   }
 
+  // Filter out items without valid URLs
+  const validItems = items.filter(it => it.url);
+
+  if (validItems.length === 0) {
+    setStatus(sectionEl, "feed unavailable");
+    return;
+  }
+
   // Hide status when we have items
   setStatus(sectionEl, "");
 
-  for (const it of items) {
+  for (const it of validItems) {
     const li = document.createElement("li");
     li.className = "feed-item";
 
     const a = document.createElement("a");
     a.className = "feed-link";
-    a.href = it.url || "#";
+    a.href = it.url;
     a.target = "_blank";
     a.rel = "noopener";
 

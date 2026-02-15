@@ -845,11 +845,13 @@
         const name = g?.title || g?.name || "project";
         const links = Array.isArray(g?.links) ? g.links : [];
 
-        const pills = links.map(l => {
-          const label = l?.label || "link";
-          const url = l?.href || l?.url || "#";
-          return `<a class="pill" href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a>`;
-        }).join("");
+        const pills = links
+          .filter(l => l?.href || l?.url)
+          .map(l => {
+            const label = l?.label || "link";
+            const url = l?.href || l?.url;
+            return `<a class="pill" href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a>`;
+          }).join("");
 
         // Add Hackster articles for arduino group
         let hacksterHtml = "";
@@ -916,22 +918,25 @@
       const label = isSeed ? "WAIT" : statusLabel(updated);
       setMini("decrypt-updated", `${updatedText} · ${label}`);
 
-      const itemsHtml = items.slice(0, 5).map(it => {
-        const title = it?.title || "Untitled";
-        const url = it?.url || "#";
-        const src = it?.source || "decrypt";
-        const st = it?.stamp || "";
+      const itemsHtml = items
+        .filter(it => it?.url)
+        .slice(0, 5)
+        .map(it => {
+          const title = it?.title || "Untitled";
+          const url = it.url;
+          const src = it?.source || "decrypt";
+          const st = it?.stamp || "";
 
-        return `
-          <a class="item" href="${esc(url)}" target="_blank" rel="noopener">
-            <h3>${esc(title)}</h3>
-            <div class="meta">
-              ${st ? stamp(st) : ""}
-              ${stamp(src, "source")}
-            </div>
-          </a>
-        `;
-      }).join("");
+          return `
+            <a class="item" href="${esc(url)}" target="_blank" rel="noopener">
+              <h3>${esc(title)}</h3>
+              <div class="meta">
+                ${st ? stamp(st) : ""}
+                ${stamp(src, "source")}
+              </div>
+            </a>
+          `;
+        }).join("");
 
       root.innerHTML = itemsHtml || `
         <div class="feature">
@@ -955,14 +960,17 @@
 
       if (!Array.isArray(items) || items.length === 0) return;
 
-      root.innerHTML = items.slice(0, 10).map(it => {
-        const title = it?.title || "Untitled";
-        const url = it?.url || "#";
-        return `
-          <a class="item" href="${esc(url)}" target="_blank" rel="noopener">
-            <h3>${esc(title)}</h3>
-            <div class="meta">${stamp("hn", "source")}${stamp("newest")}</div>
-          </a>
+      root.innerHTML = items
+        .filter(it => it?.url)
+        .slice(0, 10)
+        .map(it => {
+          const title = it?.title || "Untitled";
+          const url = it.url;
+          return `
+            <a class="item" href="${esc(url)}" target="_blank" rel="noopener">
+              <h3>${esc(title)}</h3>
+              <div class="meta">${stamp("hn", "source")}${stamp("newest")}</div>
+            </a>
         `;
       }).join("");
     }
