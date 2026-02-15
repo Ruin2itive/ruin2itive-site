@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-15T12:47:00.865Z",
-  "updated_local": "2/15/2026, 12:47:00 PM",
+  "updated_iso": "2026-02-15T13:09:22.979Z",
+  "updated_local": "2/15/2026, 1:09:22 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "I Fixed Windows Native Development",
+        "url": "https://marler8997.github.io/blog/fixed-windows/",
+        "source": "hn",
+        "time": "2/15/2026, 11:25:26 AM"
+      },
+      {
         "title": "I love the work of the ArchWiki maintainers",
         "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
         "source": "hn",
         "time": "2/14/2026, 3:35:47 PM"
-      },
-      {
-        "title": "I Fixed Windows Native Development",
-        "url": "https://marler8997.github.io/blog/fixed-windows/",
-        "source": "hn",
-        "time": "2/15/2026, 11:25:26 AM"
       }
     ],
     "world": [
