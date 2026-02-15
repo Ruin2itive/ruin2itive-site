@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-15T08:40:59.626Z",
-  "updated_local": "2/15/2026, 8:40:59 AM",
+  "updated_iso": "2026-02-15T08:44:35.409Z",
+  "updated_local": "2/15/2026, 8:44:35 AM",
   "sections": {
     "crypto": [
       {
@@ -68,7 +68,31 @@
     ],
     "world": [
       {
-        "title": "Read World News on BBC",
+        "title": "BBC News - World",
+        "url": "https://www.bbc.com/news/world",
+        "source": "world",
+        "time": ""
+      },
+      {
+        "title": "BBC News - Business",
+        "url": "https://www.bbc.com/news/business",
+        "source": "world",
+        "time": ""
+      },
+      {
+        "title": "BBC News - Technology",
+        "url": "https://www.bbc.com/news/technology",
+        "source": "world",
+        "time": ""
+      },
+      {
+        "title": "BBC News - Science",
+        "url": "https://www.bbc.com/news/science-environment",
+        "source": "world",
+        "time": ""
+      },
+      {
+        "title": "BBC News - Latest",
         "url": "https://www.bbc.com/news",
         "source": "world",
         "time": ""

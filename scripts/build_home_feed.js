@@ -121,7 +121,31 @@ async function getBbcTop5() {
   // Fallback to placeholder links if fetch fails or produces no items
   return [
     {
-      title: "Read World News on BBC",
+      title: "BBC News - World",
+      url: "https://www.bbc.com/news/world",
+      source: "world",
+      time: ""
+    },
+    {
+      title: "BBC News - Business",
+      url: "https://www.bbc.com/news/business",
+      source: "world",
+      time: ""
+    },
+    {
+      title: "BBC News - Technology",
+      url: "https://www.bbc.com/news/technology",
+      source: "world",
+      time: ""
+    },
+    {
+      title: "BBC News - Science",
+      url: "https://www.bbc.com/news/science-environment",
+      source: "world",
+      time: ""
+    },
+    {
+      title: "BBC News - Latest",
       url: "https://www.bbc.com/news",
       source: "world",
       time: ""
