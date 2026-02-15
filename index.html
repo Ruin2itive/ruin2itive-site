@@ -1108,6 +1108,10 @@
       box-shadow: var(--ring), 0 10px 28px rgba(139,31,31,.22);
     }
 
+    .signup-input-name{
+      min-width: 180px;
+    }
+
     /* Testimonials Section */
     .testimonials-grid{
       display: grid;
@@ -1447,8 +1451,10 @@
               <h2 class="section-title">Join Our Newsletter</h2>
               <p class="section-subtitle">Get the latest updates, insights, and curated content delivered to your inbox.</p>
               <form class="signup-form" id="newsletter-form" action="https://formspree.io/f/xqedqoky" method="POST">
-                <input type="text" name="name" class="signup-input" placeholder="Your name (optional)" style="min-width: 180px;">
+                <input type="text" name="name" class="signup-input signup-input-name" placeholder="Your name (optional)">
                 <input type="email" name="email" class="signup-input" placeholder="Enter your email address" required>
+                <!-- Honeypot field for spam protection -->
+                <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
                 <button type="submit" class="signup-submit">Subscribe</button>
               </form>
               <div id="newsletter-success" class="form-success">
@@ -2185,11 +2191,17 @@
               successMsg.classList.remove('show');
             }, 5000);
           } else {
-            throw new Error('Newsletter subscription failed');
+            const errorData = await response.json().catch(() => ({}));
+            throw new Error(`Newsletter subscription failed with status: ${response.status}`);
           }
         } catch (error) {
-          // Show error toast
-          showToast('⚠ Failed to subscribe. Please try again later.');
+          // Show error toast with specific message
+          if (error.name === 'TypeError' && error.message.includes('fetch')) {
+            showToast('⚠ Network error. Please check your connection and try again.');
+          } else {
+            showToast('⚠ Failed to subscribe. Please try again later.');
+          }
+          console.error('Newsletter subscription error:', error);
         } finally {
           // Re-enable button
           submitBtn.disabled = false;
