@@ -411,9 +411,7 @@
           if (peer && !peer.destroyed) {
             logDebug('PEER', 'Attempting to reconnect...');
             setTimeout(() => {
-              if (peer && !peer.destroyed) {
-                peer.reconnect();
-              }
+              peer.reconnect();
             }, CONNECTION_CONFIG.retryDelay);
           }
         });
@@ -632,7 +630,11 @@
       }
       
       if (browserInfo.isIOS) {
-        errorMessage += '\n\nNote: You are using iOS. If you continue to experience issues, try using Safari instead of ' + browserInfo.browser + '.';
+        if (browserInfo.browser !== 'Safari') {
+          errorMessage += `\n\nNote: You are using ${browserInfo.browser} on iOS. For better WebRTC support, try using Safari instead.`;
+        } else {
+          errorMessage += '\n\nNote: You are using iOS. WebRTC connections on iOS may have stability issues due to platform limitations.';
+        }
       }
       
       errorMessage += '\n\nTroubleshooting tips:\n';
@@ -753,7 +755,6 @@
     // Show warnings for compatible but problematic browsers
     if (compatibility.hasWarnings) {
       const warningDiv = document.createElement('div');
-      warningDiv.className = 'browser-warning';
       warningDiv.innerHTML = `
         <div style="background: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 15px; margin: 15px 0; font-size: 0.9rem;">
           <strong>⚠️ Compatibility Notice</strong>
