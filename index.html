@@ -49,18 +49,22 @@
       --hero-img-opacity: .95;   /* hero image strength */
 
       /* ============================
-         ✅ MORE TRANSPARENT "GLASS"
+         ✅ ULTRA-TRANSPARENT "GLASS"
          (cards + header + pills)
          ============================ */
       --glass-blur: 18px;
 
-      --card-bg: rgba(255,255,255,.56);
-      --card-head-bg: rgba(255,255,255,.24);
+      /* Cards */
+      --card-bg: rgba(255,255,255,.40);
+      --card-head-bg: rgba(255,255,255,.14);
 
-      --plate-bg: rgba(255,255,255,.52);     /* header nameplate */
-      --nav-bg: rgba(255,255,255,.42);       /* nav buttons */
-      --pill-bg: rgba(255,255,255,.44);      /* pills */
-      --stamp-bg: rgba(255,255,255,.46);     /* stamps */
+      /* Header nameplate (THIS is the dark box around ruin2itive) */
+      --plate-bg: rgba(255,255,255,.20);
+
+      /* Nav + UI pills */
+      --nav-bg: rgba(255,255,255,.26);
+      --pill-bg: rgba(255,255,255,.30);
+      --stamp-bg: rgba(255,255,255,.30);
 
       /* Borders for readability on transparent glass */
       --card-border: rgba(0,0,0,.18);
@@ -73,7 +77,7 @@
 
       /* Text contrast helpers */
       --text-shadow: 0 1px 0 rgba(255,255,255,.22);
-      --glass-inset: inset 0 1px 0 rgba(255,255,255,.22), inset 0 0 0 1px rgba(255,255,255,.06);
+      --glass-inset: inset 0 1px 0 rgba(255,255,255,.18), inset 0 0 0 1px rgba(255,255,255,.05);
 
       /* Type */
       --serif: ui-serif, "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", Times, serif;
@@ -211,9 +215,12 @@
       border-radius: 20px;
       border: 1px solid var(--plate-border);
       background: var(--plate-bg);
-      backdrop-filter: blur(14px);
-      -webkit-backdrop-filter: blur(14px);
-      box-shadow: 0 18px 52px rgba(0,0,0,.14);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      box-shadow:
+        0 18px 52px rgba(0,0,0,.12),
+        inset 0 1px 0 rgba(255,255,255,.16),
+        inset 0 0 0 1px rgba(255,255,255,.05);
       transform: translateZ(0);
     }
 
@@ -289,7 +296,7 @@
       text-decoration:none;
       transform: translateY(-1px);
       border-color: rgba(139,31,31,.55);
-      background: rgba(255,255,255,.56);
+      background: rgba(255,255,255,.38);
       box-shadow: 0 10px 26px rgba(0,0,0,.10), var(--glass-inset);
     }
     .navstrip a:active{ transform: translateY(0px) scale(.985); }
@@ -297,7 +304,7 @@
 
     .navstrip a[aria-current="true"]{
       border-color: rgba(139,31,31,.58);
-      background: rgba(139,31,31,.085);
+      background: rgba(139,31,31,.070);
       box-shadow: 0 0 0 3px rgba(139,31,31,.14), var(--glass-inset);
       text-decoration:none;
     }
@@ -341,7 +348,7 @@
       .grid{ grid-template-columns: 1fr 1fr 1fr; }
     }
 
-    /* Cards: even more transparent glass */
+    /* Cards: ultra transparent glass */
     .card{
       border-radius: var(--radius);
       overflow:hidden;
@@ -439,7 +446,7 @@
       text-decoration:none;
       transform: translateY(-1px);
       border-color: rgba(139,31,31,.50);
-      background: rgba(255,255,255,.56);
+      background: rgba(255,255,255,.40);
       box-shadow: 0 10px 24px rgba(0,0,0,.08), var(--glass-inset);
     }
     .pill:active{ transform: translateY(0px) scale(.985); }
@@ -568,16 +575,18 @@
         --wm-opacity: .040;
         --hero-img-opacity: .92;
 
-        /* ✅ EVEN MORE TRANSPARENT (dark) */
+        /* ✅ ULTRA transparent (dark) */
         --glass-blur: 20px;
 
-        --card-bg: rgba(14,14,16,.38);
-        --card-head-bg: rgba(14,14,16,.18);
+        --card-bg: rgba(14,14,16,.24);
+        --card-head-bg: rgba(14,14,16,.12);
 
-        --plate-bg: rgba(12,12,14,.36);
-        --nav-bg: rgba(12,12,14,.30);
-        --pill-bg: rgba(12,12,14,.28);
-        --stamp-bg: rgba(12,12,14,.30);
+        /* Header nameplate (dark box) */
+        --plate-bg: rgba(12,12,14,.18);
+
+        --nav-bg: rgba(12,12,14,.18);
+        --pill-bg: rgba(12,12,14,.20);
+        --stamp-bg: rgba(12,12,14,.20);
 
         --card-border: rgba(255,255,255,.14);
         --card-border-hover: rgba(255,255,255,.24);
@@ -608,30 +617,31 @@
       .hero::after{
         background:
           radial-gradient(980px 440px at 50% 44%,
-            rgba(10,10,12,.12),
-            rgba(10,10,12,.46) 62%),
-          linear-gradient(to bottom, rgba(10,10,12,.42) 0%, rgba(10,10,12,.70) 65%, rgba(10,10,12,.86) 100%);
+            rgba(10,10,12,.10),
+            rgba(10,10,12,.44) 62%),
+          linear-gradient(to bottom, rgba(10,10,12,.40) 0%, rgba(10,10,12,.68) 65%, rgba(10,10,12,.86) 100%);
       }
 
       .kickerline{ color: rgba(255,255,255,.74); }
 
       .nameplate{
-        box-shadow: 0 18px 56px rgba(0,0,0,.62);
+        box-shadow:
+          0 18px 56px rgba(0,0,0,.62),
+          inset 0 1px 0 rgba(255,255,255,.08),
+          inset 0 0 0 1px rgba(255,255,255,.03);
       }
 
       .title{ color: rgba(255,255,255,.96); text-shadow: 0 1px 0 rgba(0,0,0,.70); }
       .tagline{ color: rgba(255,255,255,.72); }
 
-      .navstrip a{
-        color: rgba(255,255,255,.82);
-      }
+      .navstrip a{ color: rgba(255,255,255,.82); }
       .navstrip a:hover{
         border-color: rgba(139,31,31,.62);
         box-shadow: 0 14px 36px rgba(0,0,0,.55), var(--glass-inset);
       }
       .navstrip a[aria-current="true"]{
         box-shadow: 0 0 0 3px rgba(139,31,31,.22), var(--glass-inset);
-        background: rgba(139,31,31,.12);
+        background: rgba(139,31,31,.10);
       }
 
       .edition{
@@ -652,17 +662,13 @@
 
       .proj, .item{ border-bottom-color: rgba(255,255,255,.10); }
 
-      .pill{
-        color: rgba(255,255,255,.88);
-      }
+      .pill{ color: rgba(255,255,255,.88); }
       .pill:hover{
         border-color: rgba(139,31,31,.68);
-        background: rgba(12,12,14,.36);
+        background: rgba(12,12,14,.26);
       }
 
-      .stamp{
-        color: rgba(255,255,255,.74);
-      }
+      .stamp{ color: rgba(255,255,255,.74); }
       .stamp.red{
         background: rgba(139,31,31,.12);
         border-color: rgba(139,31,31,.52);
