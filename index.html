@@ -1443,11 +1443,16 @@
           hacksterArticles = hacksterItems;
         }
         
-        // Render Hacker News from home.json
-        renderHNfromHomeJson(homeData);
+        // Render Hacker News from home.json (with fallback if section is empty)
+        if (homeData?.sections?.hacker && Array.isArray(homeData.sections.hacker) && homeData.sections.hacker.length > 0) {
+          renderHNfromHomeJson(homeData);
+        } else {
+          renderHNFallback();
+          isUsingFallback = true;
+        }
         
-        // Render crypto/markets from home.json
-        if (homeData?.sections?.crypto && Array.isArray(homeData.sections.crypto)) {
+        // Render crypto/markets from home.json (with fallback if section is empty)
+        if (homeData?.sections?.crypto && Array.isArray(homeData.sections.crypto) && homeData.sections.crypto.length > 0) {
           const cryptoData = {
             items: homeData.sections.crypto.map(item => ({
               title: item.title,
@@ -1459,8 +1464,8 @@
           };
           renderDecrypt(cryptoData);
         } else {
-          // Try fallback to decrypt.json
-          throw new Error("No crypto data in home.json");
+          renderDecrypt(FALLBACK_DATA.crypto);
+          isUsingFallback = true;
         }
       }catch(_e){
         // Use fallback for HN
