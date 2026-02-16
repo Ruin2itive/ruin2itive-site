@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-16T10:06:39.312Z",
-  "updated_local": "2/16/2026, 10:06:39 AM",
+  "updated_iso": "2026-02-16T10:47:58.447Z",
+  "updated_local": "2/16/2026, 10:47:58 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Crypto Traders Rotate Into Select Altcoins as Bitcoin Stalls",
+        "url": "https://decrypt.co/358144/crypto-traders-rotate-into-select-altcoins-as-bitcoin-stalls",
+        "source": "crypto",
+        "time": "Mon, 16 Feb 2026 10:37:23 +0000"
+      },
       {
         "title": "OpenAI Taps OpenClaw Founder to Lead Push Into Personal AI Agents",
         "url": "https://decrypt.co/358141/openai-openclaw-founder-lead-push-personal-ai-agents",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/358131/hollywoods-ai-crackdown-copyright-detection-startups",
         "source": "crypto",
         "time": "Mon, 16 Feb 2026 02:49:10 +0000"
-      },
-      {
-        "title": "OpenClaw Creator Gets Big Offers to Acquire AI Sensation—Will It Stay Open Source?",
-        "url": "https://decrypt.co/358129/openclaw-creator-offers-acquire-ai-sensation-stay-open-source",
-        "source": "crypto",
-        "time": "Sun, 15 Feb 2026 20:01:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "I’m joining OpenAI",
+        "url": "https://steipete.me/posts/2026/openclaw",
+        "source": "hn",
+        "time": "2/15/2026, 9:54:15 PM"
+      },
       {
         "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
         "url": "https://mastodon.world/@knowmadd/116072773118828295",
@@ -42,10 +48,10 @@
         "time": "2/16/2026, 6:31:48 AM"
       },
       {
-        "title": "I’m joining OpenAI",
-        "url": "https://steipete.me/posts/2026/openclaw",
+        "title": "MessageFormat: Unicode standard for localizable message strings",
+        "url": "https://github.com/unicode-org/message-format-wg",
         "source": "hn",
-        "time": "2/15/2026, 9:54:15 PM"
+        "time": "2/16/2026, 10:26:22 AM"
       },
       {
         "title": "Building SQLite with a small swarm",
@@ -58,12 +64,6 @@
         "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
         "source": "hn",
         "time": "2/15/2026, 10:17:10 PM"
-      },
-      {
-        "title": "picol: A Tcl interpreter in 500 lines of code",
-        "url": "https://github.com/antirez/picol",
-        "source": "hn",
-        "time": "2/16/2026, 8:04:11 AM"
       }
     ],
     "world": [
