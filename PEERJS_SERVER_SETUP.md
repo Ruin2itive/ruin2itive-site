@@ -75,7 +75,7 @@ Create a `package.json`:
     "peer": "^1.0.0"
   },
   "engines": {
-    "node": "18.x"
+    "node": "20.x"
   }
 }
 ```
