@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-02-16T15:51:11.685Z",
-  "updated_local": "2/16/2026, 3:51:11 PM",
+  "updated_iso": "2026-02-16T16:41:05.347Z",
+  "updated_local": "2/16/2026, 4:41:05 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Harvard Cuts Bitcoin ETF Stake, Adds Ethereum Exposure in Q4 Filing",
+        "url": "https://decrypt.co/358162/harvard-cuts-bitcoin-etf-stake-adds-ethereum-exposure-in-q4-filing",
+        "source": "crypto",
+        "time": "Mon, 16 Feb 2026 16:31:02 +0000"
+      },
+      {
+        "title": "EU Moves to Ban All Crypto Transactions with Russian Entities: Report",
+        "url": "https://decrypt.co/358159/eu-moves-to-ban-all-crypto-transactions-with-russian-entities-report",
+        "source": "crypto",
+        "time": "Mon, 16 Feb 2026 16:03:26 +0000"
+      },
       {
         "title": "U.S. Crypto Funds Shed $403M Amid Price Weakness: CoinShares",
         "url": "https://decrypt.co/358156/u-s-crypto-funds-shed-403m-amid-price-weakness-coinshares",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/358153/binance-founder-cz-privacy-missing-link-for-crypto-payments-adoption",
         "source": "crypto",
         "time": "Mon, 16 Feb 2026 14:44:13 +0000"
-      },
-      {
-        "title": "Animoca Granted Dubai License Amid Stricter Crypto Oversight",
-        "url": "https://decrypt.co/358149/animoca-granted-dubai-license-amid-stricter-crypto-oversight",
-        "source": "crypto",
-        "time": "Mon, 16 Feb 2026 10:57:46 +0000"
-      },
-      {
-        "title": "Crypto Traders Rotate Into Select Altcoins as Bitcoin Stalls",
-        "url": "https://decrypt.co/358144/crypto-traders-rotate-into-select-altcoins-as-bitcoin-stalls",
-        "source": "crypto",
-        "time": "Mon, 16 Feb 2026 10:37:23 +0000"
       }
     ],
     "hacker": [
@@ -48,22 +48,22 @@
         "time": "2/16/2026, 1:39:45 PM"
       },
       {
-        "title": "The Sideprocalypse",
-        "url": "https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/",
-        "source": "hn",
-        "time": "2/16/2026, 2:26:39 PM"
-      },
-      {
-        "title": "Ghidra by NSA",
-        "url": "https://github.com/NationalSecurityAgency/ghidra",
-        "source": "hn",
-        "time": "2/14/2026, 4:24:18 AM"
-      },
-      {
         "title": "What Your Bluetooth Devices Reveal About You",
         "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
         "source": "hn",
         "time": "2/16/2026, 2:39:32 PM"
+      },
+      {
+        "title": "Qwen3.5: Towards Native Multimodal Agents",
+        "url": "https://qwen.ai/blog?id=qwen3.5",
+        "source": "hn",
+        "time": "2/16/2026, 9:32:21 AM"
+      },
+      {
+        "title": "The Sideprocalypse",
+        "url": "https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/",
+        "source": "hn",
+        "time": "2/16/2026, 2:26:39 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Government abandons plans to delay 30 council elections",
         "url": "https://www.bbc.com/news/articles/c70ne31d884o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 16 Feb 2026 15:27:06 GMT"
+        "time": "Mon, 16 Feb 2026 16:16:17 GMT"
       },
       {
         "title": "Students begin Covid compensation claim against 36 more universities",
@@ -89,13 +89,13 @@
         "title": "Ice and snow warnings as another blast of Arctic air sweeps across the UK",
         "url": "https://www.bbc.com/news/articles/cdxgew324r9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 16 Feb 2026 10:58:38 GMT"
+        "time": "Mon, 16 Feb 2026 16:37:46 GMT"
       },
       {
         "title": "PM orders investigation into claims Labour think tank paid firm to look into journalist",
         "url": "https://www.bbc.com/news/articles/c0q3wx2j3x1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 16 Feb 2026 14:53:33 GMT"
+        "time": "Mon, 16 Feb 2026 16:33:13 GMT"
       }
     ],
     "projects": [
