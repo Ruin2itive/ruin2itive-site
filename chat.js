@@ -806,22 +806,33 @@
     joinModal.querySelector('.mode-buttons').style.display = 'none';
     joinModal.querySelector('#guest-form').innerHTML = `
       <div style="color: var(--red); margin: 20px 0;">
-        <p><strong>Failed to load required libraries for the chat room.</strong></p>
-        <p style="margin-top: 10px;">The PeerJS library could not be loaded. This may be due to:</p>
+        <p><strong>❌ Failed to load required libraries for the chat room.</strong></p>
+        <p style="margin-top: 10px;">The PeerJS library could not be loaded from any source (CDNs and local fallback). This may be due to:</p>
         <ul style="margin: 10px 0; padding-left: 20px;">
-          <li>Network connectivity issues</li>
-          <li>Browser extensions blocking external scripts</li>
-          <li>Firewall or proxy restrictions</li>
-          <li>CDN service unavailability</li>
+          <li><strong>Network connectivity issues</strong> - No internet connection or unstable network</li>
+          <li><strong>Browser extensions</strong> - Ad blockers or script blockers preventing library loading</li>
+          <li><strong>Firewall or proxy restrictions</strong> - Corporate or institutional network blocking external resources</li>
+          <li><strong>CDN service unavailability</strong> - Temporary outage of CDN providers</li>
+          <li><strong>Local fallback not configured</strong> - Missing local PeerJS library file</li>
         </ul>
-        <p style="margin-top: 15px; font-weight: bold;">Please try:</p>
-        <ul style="margin: 10px 0; padding-left: 20px;">
-          <li>Checking your internet connection</li>
-          <li>Disabling ad blockers or script blockers</li>
-          <li>Refreshing the page (Ctrl+F5 or Cmd+Shift+R)</li>
-          <li>Using a different browser</li>
-          <li>Trying again later</li>
-        </ul>
+        <p style="margin-top: 15px; font-weight: bold;">🔧 Network Troubleshooting Steps:</p>
+        <ol style="margin: 10px 0; padding-left: 20px;">
+          <li>Verify you have an active internet connection by visiting other websites</li>
+          <li>Disable ad blockers, privacy extensions, or script blockers temporarily</li>
+          <li>If on a corporate/institutional network:
+            <ul style="margin: 5px 0; padding-left: 20px;">
+              <li>Contact your IT department about WebRTC and external script access</li>
+              <li>Ask if domains unpkg.com, cdn.jsdelivr.net are blocked</li>
+            </ul>
+          </li>
+          <li>Disable VPN temporarily to test connectivity</li>
+          <li>Try a different network (e.g., mobile hotspot) to rule out network restrictions</li>
+          <li>Clear browser cache and refresh the page (Ctrl+F5 or Cmd+Shift+R)</li>
+          <li>Try a different browser (Chrome, Firefox, Safari, Edge)</li>
+          <li>Check browser console (F12) for specific error messages</li>
+        </ol>
+        <p style="margin-top: 15px; font-weight: bold;">ℹ️ For Site Administrators:</p>
+        <p style="margin: 5px 0;">Ensure the local PeerJS library is properly configured in the <code>libs/</code> directory. See <code>libs/README.md</code> for instructions.</p>
       </div>
     `;
     joinModal.querySelector('#account-form').style.display = 'none';
@@ -836,16 +847,32 @@
     
     // Show compatibility issues in modal if browser is not compatible
     if (!compatibility.compatible) {
-      joinModal.querySelector('h2').textContent = 'Browser Not Supported';
+      joinModal.querySelector('h2').textContent = '⚠️ Browser Not Supported';
       joinModal.querySelector('.mode-buttons').style.display = 'none';
       joinModal.querySelector('#guest-form').innerHTML = `
         <div style="color: var(--red); margin: 20px 0;">
-          <p><strong>Your browser does not support the required features for this chat room.</strong></p>
-          <p style="margin-top: 10px;">Issues detected:</p>
+          <p><strong>❌ Your browser does not support the required features for this chat room.</strong></p>
+          <p style="margin-top: 10px;"><strong>Issues detected:</strong></p>
           <ul style="margin: 10px 0; padding-left: 20px;">
             ${compatibility.issues.map(issue => `<li>${escapeHtml(issue)}</li>`).join('')}
           </ul>
-          <p style="margin-top: 15px;">Please use a modern browser like Chrome, Firefox, Safari, or Edge.</p>
+          <p style="margin-top: 15px;"><strong>🌐 Please use a modern browser that supports WebRTC:</strong></p>
+          <ul style="margin: 10px 0; padding-left: 20px;">
+            <li><strong>Desktop:</strong> Chrome (recommended), Firefox, Safari, or Edge</li>
+            <li><strong>iOS:</strong> Safari (recommended) - avoid Firefox on iOS</li>
+            <li><strong>Android:</strong> Chrome (recommended) or Firefox</li>
+          </ul>
+          <p style="margin-top: 15px;">
+            <strong>📖 Learn more:</strong><br>
+            <a href="https://caniuse.com/rtcpeerconnection" target="_blank" rel="noopener noreferrer" style="color: var(--red);">
+              Check WebRTC browser compatibility →
+            </a>
+          </p>
+          <p style="margin-top: 10px; font-size: 0.9rem; color: var(--muted);">
+            Current browser: ${escapeHtml(browserInfo.browser)}<br>
+            WebRTC Support: ${browserInfo.hasWebRTC ? '✓ Available' : '✗ Not Available'}<br>
+            WebSocket Support: ${browserInfo.hasWebSocket ? '✓ Available' : '✗ Not Available'}
+          </p>
         </div>
       `;
       joinModal.querySelector('#account-form').style.display = 'none';
@@ -862,6 +889,9 @@
           <ul style="margin: 10px 0 0 20px; padding: 0;">
             ${compatibility.issues.map(issue => `<li>${escapeHtml(issue)}</li>`).join('')}
           </ul>
+          <p style="margin: 10px 0 0 0; font-size: 0.85rem;">
+            For best results, use Safari on iOS or Chrome/Firefox on desktop.
+          </p>
         </div>
       `;
       joinModal.querySelector('.mode-buttons').insertAdjacentElement('beforebegin', warningDiv);

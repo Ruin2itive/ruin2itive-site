@@ -195,13 +195,44 @@ const RATE_LIMIT = {
 ```
 
 **Note**: The PeerJS server has been updated from the deprecated `peerjs-server.herokuapp.com` to `0.peerjs.com` for improved reliability. The new configuration includes:
-- **Dual CDN Support**: Primary CDN (unpkg.com) with automatic fallback to jsdelivr.net
+- **Triple-Tier CDN Fallback**: Primary CDN (unpkg.com) → Secondary CDN (jsdelivr.net) → Local fallback (libs/peerjs.min.js)
+- **Local Library Fallback**: Local copy of PeerJS library for offline/CDN-failure scenarios
 - **Library Availability Checks**: Verifies PeerJS is loaded before initialization
-- **Enhanced Error Handling**: Clear error messages for all failure scenarios
+- **Enhanced Error Handling**: Comprehensive error messages with network troubleshooting guidance
+- **Browser Compatibility Checks**: Blocking compatibility warnings for non-WebRTC browsers
 - **Exponential Backoff Retry**: Automatic retry with increasing delays (4s, 8s, 10s)
 - **Connection Timeout**: 15 seconds for initial connection
 - **Visual Logging**: Console logs with visual indicators (✓, ✗, ⚠) for easier debugging
 - **Multiple STUN Servers**: Better NAT traversal for peer connections
+
+#### Self-Hosting PeerJS Signaling Server
+
+For improved reliability, control, and independence from cloud services, you can self-host your own PeerJS signaling server. See **[PEERJS_SERVER_SETUP.md](PEERJS_SERVER_SETUP.md)** for detailed deployment instructions including:
+
+- **Quick Start with Docker**: Easy deployment using Docker containers
+- **Cloud Provider Deployments**: Step-by-step guides for Heroku, AWS EC2, DigitalOcean
+- **Configuration Options**: Environment variables and advanced server settings
+- **Security Best Practices**: SSL/TLS, API keys, CORS, and authentication
+- **Monitoring & Scaling**: Health checks, logging, and horizontal scaling
+- **Cost Estimates**: Expected costs for different hosting providers
+
+After deploying your own server, update the `PEER_SERVER_CONFIG` in `chat.js`:
+
+```javascript
+const PEER_SERVER_CONFIG = {
+  host: 'your-domain.com',      // Your server domain
+  port: 443,                     // HTTPS port
+  path: '/',                     // Server path
+  secure: true,                  // Always true for production
+  key: 'your-secret-key',        // Optional API key
+  config: {
+    iceServers: [
+      { urls: 'stun:stun.l.google.com:19302' },
+      { urls: 'stun:stun1.l.google.com:19302' }
+    ]
+  }
+};
+```
 
 #### Customization
 
