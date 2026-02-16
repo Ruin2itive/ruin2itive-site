@@ -2,12 +2,13 @@ backend:
   name: github
   repo: Ruin2itive/ruin2itive-site
   branch: main
+  # OAUTH CONFIGURATION - Uncomment and update after deploying OAuth proxy
+  # base_url: https://YOUR-WORKER-URL.workers.dev  # Replace with your Cloudflare Worker or Vercel URL
+  # auth_endpoint: auth
+  # 
   # For GitHub Pages: Users need write access to the repository
-  # Authentication happens via GitHub OAuth
-  # If you see a "Not Found" error, ensure:
-  # 1. You're logged into GitHub
-  # 2. You have write/push access to this repository
-  # 3. You authorize the application when prompted
+  # See OAUTH_SETUP_COMPLETE.md for complete setup instructions
+  # Quick start: Run ./setup-oauth-proxy.sh for automated setup
 
 media_folder: static/images/uploads  # Path for image uploads
 public_folder: /images/uploads
