@@ -14,29 +14,72 @@
 
   <style>
     :root{
+      /* Paper + ink */
       --paper:#fbfaf7;
       --paper2:#ffffff;
       --ink:#111;
       --muted:#5a5852;
       --rule:#ded6cc;
+
+      /* Brand */
       --red:#8b1f1f;
+
+      /* Geometry */
       --radius:18px;
       --max: 1360px;
       --g: 20px;
+
+      /* Safe areas */
+      --safe-top: env(safe-area-inset-top, 0px);
+      --safe-bot: env(safe-area-inset-bottom, 0px);
+
+      /* Elevation */
       --shadow: 0 22px 70px rgba(0,0,0,.16);
+      --shadowSoft: 0 14px 46px rgba(0,0,0,.12);
+
+      /* Motion */
       --ease: cubic-bezier(.2,.8,.2,1);
       --dur: 220ms;
+
+      /* Focus ring */
       --ring: 0 0 0 3px rgba(139,31,31,.25);
+
+      /* Background system (tunable) */
+      --wm-opacity: .035;
+      --hero-img-opacity: .95;
+
+      /* ULTRA-TRANSPARENT GLASS */
       --glass-blur: 18px;
+
       --card-bg: rgba(255,255,255,.40);
+      --card-head-bg: rgba(255,255,255,.14);
+
+      --plate-bg: rgba(255,255,255,.20);
+      --nav-bg: rgba(255,255,255,.26);
+      --pill-bg: rgba(255,255,255,.30);
+      --stamp-bg: rgba(255,255,255,.30);
+
       --card-border: rgba(0,0,0,.18);
+      --card-border-hover: rgba(0,0,0,.28);
+
+      --plate-border: rgba(0,0,0,.20);
+      --nav-border: rgba(0,0,0,.20);
+      --pill-border: rgba(0,0,0,.24);
+      --stamp-border: rgba(0,0,0,.22);
+
+      --text-shadow: 0 1px 0 rgba(255,255,255,.22);
       --glass-inset: inset 0 1px 0 rgba(255,255,255,.18), inset 0 0 0 1px rgba(255,255,255,.05);
+
       --serif: ui-serif, "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", Times, serif;
-      --sans: ui-sans-serif, system-ui, -apple-system, "Inter", Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      --sans: ui-sans-serif, system-ui, -apple-system, "Inter", Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+      
+      /* Elephant watermark */
+      --elephant-opacity: 0.15;
     }
 
     *{ box-sizing:border-box; }
     html,body{ height:100%; }
+    html{ scroll-behavior:smooth; }
     
     body{
       margin:0;
@@ -44,6 +87,7 @@
       background: var(--paper);
       font-family: var(--serif);
       -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
       overflow-x:hidden;
       display: flex;
       flex-direction: column;
@@ -52,6 +96,63 @@
     a{ color:inherit; text-decoration:none; }
     a:hover{ text-decoration:underline; }
 
+    /* Elephant watermark in header */
+    .elephant-watermark{
+      position: fixed;
+      top: calc(20px + var(--safe-top));
+      right: 30px;
+      width: 100px;
+      height: 100px;
+      opacity: var(--elephant-opacity);
+      pointer-events: none;
+      z-index: 10;
+      background-image: url("assets/elephant-mark.webp");
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      filter: grayscale(0.8) sepia(0.2) hue-rotate(60deg);
+      transition: transform 0.3s ease, opacity 0.3s ease;
+    }
+    
+    @media (hover: hover){
+      body:hover .elephant-watermark{
+        transform: scale(1.05);
+        opacity: 0.25;
+      }
+    }
+
+    body::before{
+      content:"";
+      position:fixed;
+      inset:0;
+      pointer-events:none;
+      background:
+        radial-gradient(1200px 700px at 20% 0%, rgba(0,0,0,.035), transparent 60%),
+        radial-gradient(1200px 700px at 80% 0%, rgba(0,0,0,.025), transparent 60%),
+        radial-gradient(1200px 900px at 50% 70%, rgba(0,0,0,.030), transparent 62%),
+        linear-gradient(to bottom, rgba(0,0,0,.018), transparent 18%, rgba(0,0,0,.018));
+      opacity:.62;
+      z-index:0;
+    }
+
+    body::after{
+      content:"";
+      position:fixed;
+      inset:-10%;
+      pointer-events:none;
+      background-image:
+        url("assets/elephant-third-eye.webp"),
+        url("assets/elephant-third-eye.png"),
+        url("assets/elephant-bg.png");
+      background-repeat:no-repeat;
+      background-position:center;
+      background-size: cover;
+      filter: grayscale(.82) opacity(var(--hero-img-opacity)) blur(140px) saturate(1.12);
+      opacity: var(--wm-opacity);
+      z-index:0;
+      will-change: filter;
+    }
+
     .header {
       background: var(--card-bg);
       backdrop-filter: blur(var(--glass-blur));
@@ -59,6 +160,8 @@
       border-bottom: 1px solid var(--card-border);
       padding: 20px;
       box-shadow: var(--glass-inset);
+      position: relative;
+      z-index: 10;
     }
 
     .header-content {
@@ -88,6 +191,8 @@
       display: flex;
       flex-direction: column;
       width: 100%;
+      position: relative;
+      z-index: 1;
     }
 
     .chat-wrapper {
@@ -111,6 +216,7 @@
       align-items: center;
       flex-wrap: wrap;
       gap: 10px;
+      background: rgba(255,255,255,.20);
     }
 
     .chat-title {
@@ -217,8 +323,13 @@
       border-radius: 8px;
       font-family: var(--sans);
       font-size: 1rem;
+      color: var(--ink);
       background: rgba(255,255,255,.6);
       transition: all var(--dur) var(--ease);
+    }
+
+    .message-input::placeholder {
+      color: var(--muted);
     }
 
     .message-input:focus {
@@ -321,6 +432,12 @@
       border-radius: 8px;
       font-family: var(--sans);
       font-size: 1rem;
+      color: var(--ink);
+      background: rgba(255,255,255,.8);
+    }
+
+    .form-group input::placeholder {
+      color: var(--muted);
     }
 
     .form-group input:focus {
@@ -465,6 +582,7 @@
   </style>
 </head>
 <body>
+  <div class="elephant-watermark"></div>
   <div class="header">
     <div class="header-content">
       <div class="logo">ruin2itive</div>
