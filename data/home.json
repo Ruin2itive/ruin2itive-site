@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-15T23:35:25.470Z",
-  "updated_local": "2/15/2026, 11:35:25 PM",
+  "updated_iso": "2026-02-16T02:01:01.328Z",
+  "updated_local": "2/16/2026, 2:01:01 AM",
   "sections": {
     "crypto": [
       {
@@ -36,37 +36,49 @@
     ],
     "hacker": [
       {
-        "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
-        "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
-        "source": "hn",
-        "time": "2/15/2026, 10:17:10 PM"
-      },
-      {
         "title": "I’m joining OpenAI",
         "url": "https://steipete.me/posts/2026/openclaw",
         "source": "hn",
         "time": "2/15/2026, 9:54:15 PM"
       },
       {
+        "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+        "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+        "source": "hn",
+        "time": "2/15/2026, 10:17:10 PM"
+      },
+      {
+        "title": "Pink noise reduces REM sleep and may harm sleep quality",
+        "url": "https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality",
+        "source": "hn",
+        "time": "2/16/2026, 12:35:12 AM"
+      },
+      {
+        "title": "Error payloads in Zig",
+        "url": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+        "source": "hn",
+        "time": "2/15/2026, 11:08:43 PM"
+      },
+      {
         "title": "LT6502: A 6502-based homebrew laptop",
         "url": "https://github.com/TechPaula/LT6502",
         "source": "hn",
         "time": "2/15/2026, 5:12:35 PM"
-      },
-      {
-        "title": "Radio host David Greene says Google's NotebookLM tool stole his voice",
-        "url": "https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/",
-        "source": "hn",
-        "time": "2/15/2026, 6:05:24 PM"
-      },
-      {
-        "title": "GNU Pies – Program Invocation and Execution Supervisor",
-        "url": "https://www.gnu.org.ua/software/pies/",
-        "source": "hn",
-        "time": "2/15/2026, 8:53:26 PM"
       }
     ],
     "world": [
+      {
+        "title": "No free pass for internet platforms on child safety, Starmer says",
+        "url": "https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 15 Feb 2026 22:34:34 GMT"
+      },
+      {
+        "title": "UK considering significant increase to defence spending",
+        "url": "https://www.bbc.com/news/articles/cpqwl10lvr2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 16 Feb 2026 01:28:46 GMT"
+      },
       {
         "title": "Team GB clinches second gold of day at Winter Olympics",
         "url": "https://www.bbc.com/sport/articles/cm2x7m17jydo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +86,16 @@
         "time": "Sun, 15 Feb 2026 20:06:25 GMT"
       },
       {
-        "title": "Andrew's time as trade envoy should be investigated, says Vince Cable",
-        "url": "https://www.bbc.com/news/articles/cp32j7v2dy5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 15 Feb 2026 18:33:57 GMT"
-      },
-      {
         "title": "FBI analysing recovered glove that appears to match those worn in Guthrie suspect video",
         "url": "https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 15 Feb 2026 20:39:35 GMT"
+        "time": "Mon, 16 Feb 2026 01:34:28 GMT"
       },
       {
         "title": "Ukraine's ex-energy minister detained while attempting to leave country",
         "url": "https://www.bbc.com/news/articles/c4g5380xwqjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 15 Feb 2026 17:11:49 GMT"
-      },
-      {
-        "title": "UK wants action taken on Russia after Navalny frog poisoning, Cooper says",
-        "url": "https://www.bbc.com/news/articles/c8r15e4ek2vo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 15 Feb 2026 12:26:26 GMT"
       }
     ],
     "projects": [
