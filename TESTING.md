@@ -322,7 +322,7 @@ echo ""
 # Test 2: Check file starts with JavaScript code
 echo "Test 2: Verifying file content..."
 FIRST_LINE=$(head -n 1 libs/peerjs.min.js)
-if [[ $FIRST_LINE =~ ^!function ]] || [[ $FIRST_LINE =~ ^\(function ]]; then
+if [[ $FIRST_LINE =~ ^\!function ]] || [[ $FIRST_LINE =~ ^\(function ]]; then
     echo "✓ PASS: File contains minified JavaScript"
 else
     echo "✗ FAIL: File appears to be placeholder or corrupted"
