@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-16T07:52:42.704Z",
-  "updated_local": "2/16/2026, 7:52:42 AM",
+  "updated_iso": "2026-02-16T08:43:59.420Z",
+  "updated_local": "2/16/2026, 8:43:59 AM",
   "sections": {
     "crypto": [
       {
@@ -54,16 +54,16 @@
         "time": "2/16/2026, 5:38:51 AM"
       },
       {
+        "title": "picol: A Tcl interpreter in 500 lines of code",
+        "url": "https://github.com/antirez/picol",
+        "source": "hn",
+        "time": "2/16/2026, 8:04:11 AM"
+      },
+      {
         "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
         "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
         "source": "hn",
         "time": "2/15/2026, 10:17:10 PM"
-      },
-      {
-        "title": "Arm wants a bigger slice of the chip business",
-        "url": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
-        "source": "hn",
-        "time": "2/16/2026, 2:36:14 AM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Mon, 16 Feb 2026 01:28:46 GMT"
       },
       {
-        "title": "Ministers want to reform SEND - but they are treading very carefully",
-        "url": "https://www.bbc.com/news/articles/c7951dzg9npo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 16 Feb 2026 01:11:05 GMT"
-      },
-      {
         "title": "Royal Mail letters sit undelivered 'for weeks' as parcels prioritised, staff say",
         "url": "https://www.bbc.com/news/articles/c39wlryn20vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/cddn002g6qzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 16 Feb 2026 05:39:01 GMT"
+      },
+      {
+        "title": "Cabinet secretary frontrunner previously spoken to about management style",
+        "url": "https://www.bbc.com/news/articles/cpqwlwndj9yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 16 Feb 2026 01:07:51 GMT"
       }
     ],
     "projects": [
