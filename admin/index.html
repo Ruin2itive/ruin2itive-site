@@ -127,7 +127,8 @@
         .then(r => r.text())
         .then(config => {
           // Check if base_url is configured (indicates OAuth proxy is set up)
-          if (!config.includes('base_url:')) {
+          // Use regex to handle various YAML formatting styles
+          if (!/base_url\s*:/.test(config)) {
             // Show setup banner if OAuth is not configured
             setTimeout(() => {
               if (!sessionStorage.getItem('oauth-banner-dismissed')) {
@@ -152,17 +153,29 @@
       showError('JavaScript Error', event.error ? event.error.message : 'Unknown error occurred');
     });
 
-    // Listen for CMS errors
-    if (window.CMS) {
-      window.CMS.registerEventListener({
-        name: 'error',
-        handler: ({ data }) => {
-          console.error('CMS Error:', data);
-          const message = typeof data === 'string' ? data : JSON.stringify(data, null, 2);
-          showError('CMS Error', message);
+    // Wait for CMS to load before registering event listeners
+    function registerCMSListeners() {
+      if (window.CMS) {
+        try {
+          window.CMS.registerEventListener({
+            name: 'error',
+            handler: ({ data }) => {
+              console.error('CMS Error:', data);
+              const message = typeof data === 'string' ? data : JSON.stringify(data, null, 2);
+              showError('CMS Error', message);
+            }
+          });
+        } catch (e) {
+          console.error('Failed to register CMS event listener:', e);
         }
-      });
+      } else {
+        // Retry after CMS loads
+        setTimeout(registerCMSListeners, 500);
+      }
     }
+    
+    // Start trying to register listeners after a short delay
+    setTimeout(registerCMSListeners, 1000);
 
     // Check for authentication errors in URL hash
     window.addEventListener('load', function() {

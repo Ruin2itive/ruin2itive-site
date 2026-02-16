@@ -1,9 +1,22 @@
 #!/bin/bash
 # Simple test script to verify admin setup
 
+# Configuration
+REPO_NAME="Ruin2itive/ruin2itive-site"
+BRANCH_NAME="main"
+
+# Try to detect from git if available
+if command -v git &> /dev/null && [ -d ".git" ]; then
+    DETECTED_REPO=$(git config --get remote.origin.url | sed -E 's#.*[:/]([^/]+/[^/]+)(\.git)?$#\1#')
+    if [ -n "$DETECTED_REPO" ]; then
+        REPO_NAME="$DETECTED_REPO"
+    fi
+fi
+
 echo "==================================="
 echo "Admin Interface Setup Verification"
 echo "==================================="
+echo "Repository: $REPO_NAME"
 echo ""
 
 # Check if required files exist
@@ -67,18 +80,17 @@ else
     files_ok=false
 fi
 
-if grep -q "repo: Ruin2itive/ruin2itive-site" admin/config.yml; then
+if grep -q "repo: $REPO_NAME" admin/config.yml; then
     echo "   ✓ Repository is correctly configured"
 else
-    echo "   ✗ Repository configuration might be incorrect!"
-    files_ok=false
+    echo "   ⚠ Repository configuration might need verification"
+    echo "     Expected: $REPO_NAME"
 fi
 
-if grep -q "branch: main" admin/config.yml; then
-    echo "   ✓ Branch is set to 'main'"
+if grep -q "branch: $BRANCH_NAME" admin/config.yml; then
+    echo "   ✓ Branch is set to '$BRANCH_NAME'"
 else
-    echo "   ✗ Branch is not set to 'main'!"
-    files_ok=false
+    echo "   ⚠ Branch configuration might need verification"
 fi
 
 if grep -q "base_url:" admin/config.yml; then

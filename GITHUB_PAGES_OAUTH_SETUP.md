@@ -19,10 +19,10 @@ When using Netlify CMS (now Decap CMS) with GitHub Pages, you'll encounter a "No
 
 1. Go to [GitHub Settings > Developer settings > OAuth Apps](https://github.com/settings/developers)
 2. Click "New OAuth App"
-3. Fill in the details:
+3. Fill in the details (you'll update the callback URL later):
    - **Application name**: `Ruin2itive CMS` (or your preferred name)
    - **Homepage URL**: `https://ruin2itive.org`
-   - **Authorization callback URL**: `https://your-worker-name.your-subdomain.workers.dev/callback` (you'll get this after deploying the worker)
+   - **Authorization callback URL**: `https://placeholder.example.com/callback` (temporary - will update after deploying worker)
 4. Click "Register application"
 5. **Save the Client ID** and generate a **Client Secret** - you'll need these
 
@@ -35,12 +35,12 @@ When using Netlify CMS (now Decap CMS) with GitHub Pages, you'll encounter a "No
    - `GITHUB_CLIENT_SECRET`: Your GitHub OAuth App Client Secret
    - `ALLOWED_ORIGIN`: `https://ruin2itive.org`
 4. Deploy the worker
-5. Note your worker URL (e.g., `https://cms-oauth.your-subdomain.workers.dev`)
+5. **Note your worker URL** (e.g., `https://cms-oauth.your-subdomain.workers.dev`)
 
 **Step 3: Update GitHub OAuth App Callback URL**
 
 Go back to your GitHub OAuth App settings and update:
-- **Authorization callback URL**: `https://your-worker-url/callback`
+- **Authorization callback URL**: `https://your-worker-url/callback` (replace with actual worker URL from Step 2)
 
 **Step 4: Update CMS Configuration**
 
@@ -171,9 +171,11 @@ To use the CMS, users need:
 
 | Provider | Free Tier | Deployment | Recommended |
 |----------|-----------|------------|-------------|
-| Cloudflare Workers | ✓ Forever Free (100k requests/day) | Very Easy | ⭐ Best |
-| Vercel | ✓ Free Tier | Easy | ⭐ Good |
+| Cloudflare Workers | Yes (generous free tier) | Very Easy | ⭐ Best |
+| Vercel | Yes (generous free tier) | Easy | ⭐ Good |
 | Self-Hosted | Depends | Advanced | For experts |
+
+> **Note**: Free tier limits and availability are subject to change. Check provider websites for current pricing and limits.
 
 ## Next Steps
 
