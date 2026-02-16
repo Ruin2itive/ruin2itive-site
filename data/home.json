@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-02-16T05:07:30.469Z",
-  "updated_local": "2/16/2026, 5:07:30 AM",
+  "updated_iso": "2026-02-16T06:07:51.953Z",
+  "updated_local": "2/16/2026, 6:07:51 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Taps OpenClaw Founder to Lead Push Into Personal AI Agents",
+        "url": "https://decrypt.co/358141/openai-openclaw-founder-lead-push-personal-ai-agents",
+        "source": "crypto",
+        "time": "Mon, 16 Feb 2026 05:33:38 +0000"
+      },
+      {
+        "title": "UK Prime Minister Seeks New Powers to Regulate AI Chatbots as Child Safety Concerns Mount",
+        "url": "https://decrypt.co/358138/uk-prime-minister-seeks-new-powers-regulate-ai-chatbots",
+        "source": "crypto",
+        "time": "Mon, 16 Feb 2026 05:13:09 +0000"
+      },
       {
         "title": "Bitcoin Leverage Heats Up as Traders Bet on Price Rebound",
         "url": "https://decrypt.co/358134/bitcoin-leverage-heats-up-as-traders-bet-on-price-rebound",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/358129/openclaw-creator-offers-acquire-ai-sensation-stay-open-source",
         "source": "crypto",
         "time": "Sun, 15 Feb 2026 20:01:03 +0000"
-      },
-      {
-        "title": "Her Divorce Was Ugly. Crypto Became a Lifeline",
-        "url": "https://decrypt.co/358087/her-divorce-ugly-crypto-lifeline",
-        "source": "crypto",
-        "time": "Sun, 15 Feb 2026 18:01:02 +0000"
-      },
-      {
-        "title": "Bitcoin Takes Step Towards Quantum Fix as Experts Diverge on Urgency of Threat",
-        "url": "https://decrypt.co/358068/bitcoin-quantum-fix-experts-diverge-urgency-threat",
-        "source": "crypto",
-        "time": "Sun, 15 Feb 2026 16:17:16 +0000"
       }
     ],
     "hacker": [
@@ -48,10 +48,10 @@
         "time": "2/15/2026, 10:17:10 PM"
       },
       {
-        "title": "LT6502: A 6502-based homebrew laptop",
-        "url": "https://github.com/TechPaula/LT6502",
+        "title": "Arm wants a bigger slice of the chip business",
+        "url": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
         "source": "hn",
-        "time": "2/15/2026, 5:12:35 PM"
+        "time": "2/16/2026, 2:36:14 AM"
       },
       {
         "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
@@ -60,13 +60,19 @@
         "time": "2/15/2026, 6:04:10 PM"
       },
       {
-        "title": "Arm wants a bigger slice of the chip business",
-        "url": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
+        "title": "LT6502: A 6502-based homebrew laptop",
+        "url": "https://github.com/TechPaula/LT6502",
         "source": "hn",
-        "time": "2/16/2026, 2:36:14 AM"
+        "time": "2/15/2026, 5:12:35 PM"
       }
     ],
     "world": [
+      {
+        "title": "Police framed man for murder of Korean student, new evidence suggests",
+        "url": "https://www.bbc.com/news/articles/cvg36pknpl5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 16 Feb 2026 06:00:20 GMT"
+      },
       {
         "title": "Starmer pledges crackdown on 'addictive elements' of social media",
         "url": "https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +86,16 @@
         "time": "Mon, 16 Feb 2026 01:28:46 GMT"
       },
       {
+        "title": "US attorney general criticised after saying all Epstein files have been released",
+        "url": "https://www.bbc.com/news/articles/cz7genjx9njo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 15 Feb 2026 21:32:23 GMT"
+      },
+      {
         "title": "'It's never too late': Savannah Guthrie's new plea for mother's release as FBI analyses glove",
         "url": "https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 16 Feb 2026 04:53:41 GMT"
-      },
-      {
-        "title": "Ministers want to reform SEND - but they are treading very carefully",
-        "url": "https://www.bbc.com/news/articles/c7951dzg9npo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 16 Feb 2026 01:11:05 GMT"
-      },
-      {
-        "title": "Why Team GB's first Olympic gold on snow has been just a matter of time",
-        "url": "https://www.bbc.com/sport/articles/c1kgm079jrro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 15 Feb 2026 19:43:10 GMT"
       }
     ],
     "projects": [
