@@ -1,5 +1,7 @@
 # Netlify CMS Setup for GitHub Pages
 
+> **⚠️ IMPORTANT**: To use the `/admin` interface with GitHub Pages, you **must** set up an OAuth proxy server. See [GITHUB_PAGES_OAUTH_SETUP.md](./GITHUB_PAGES_OAUTH_SETUP.md) for setup instructions. Without this, you'll encounter a "Not Found" error when trying to log in.
+
 ## Overview
 This site is configured with Netlify CMS for managing blog posts, optimized for GitHub Pages hosting with direct GitHub authentication.
 
@@ -100,15 +102,46 @@ To use the admin interface, you need:
 
 ## Troubleshooting
 
+### ⚠️ "Not Found" Error During Login (Most Common Issue)
+
+**Symptom**: When trying to log in at `/admin`, you see:
+```json
+{
+  "message": "Not Found",
+  "documentation_url": "https://docs.github.com/rest"
+}
+```
+
+**Root Cause**: GitHub backend requires an OAuth proxy server to handle authentication. GitHub does NOT support client-side-only OAuth.
+
+**Solution**: Set up an OAuth proxy server. See **[GITHUB_PAGES_OAUTH_SETUP.md](./GITHUB_PAGES_OAUTH_SETUP.md)** for complete instructions.
+
+**Quick Fix**:
+1. Deploy a free OAuth proxy to Cloudflare Workers or Vercel
+2. Create a GitHub OAuth App
+3. Update `admin/config.yml` to add:
+   ```yaml
+   backend:
+     name: github
+     repo: Ruin2itive/ruin2itive-site
+     branch: main
+     base_url: https://your-oauth-proxy-url  # Add this
+     auth_endpoint: auth  # Add this
+   ```
+
+**See**: [GITHUB_PAGES_OAUTH_SETUP.md](./GITHUB_PAGES_OAUTH_SETUP.md) for step-by-step guide.
+
 ### "Unable to authenticate with GitHub"
 - Ensure you have write access to the repository
 - Check that you're logged into GitHub
+- Verify OAuth proxy is running (if configured)
 - Try clearing browser cache and cookies
 - Verify the repository URL in `admin/config.yml` is correct
 
 ### "Config not found"
 - Verify `admin/config.yml` exists in the repository
 - Check that the file is deployed to GitHub Pages
+- Ensure `.nojekyll` file exists in repository root (prevents Jekyll from ignoring `/admin` directory)
 - Clear browser cache and reload the page
 
 ### Posts not appearing after publishing
