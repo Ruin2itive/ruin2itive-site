@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-16T02:01:01.328Z",
-  "updated_local": "2/16/2026, 2:01:01 AM",
+  "updated_iso": "2026-02-16T02:53:56.679Z",
+  "updated_local": "2/16/2026, 2:53:56 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Hollywood’s AI Crackdown Opens Door for Copyright Detection Startups",
+        "url": "https://decrypt.co/358131/hollywoods-ai-crackdown-copyright-detection-startups",
+        "source": "crypto",
+        "time": "Mon, 16 Feb 2026 02:49:10 +0000"
+      },
       {
         "title": "OpenClaw Creator Gets Big Offers to Acquire AI Sensation—Will It Stay Open Source?",
         "url": "https://decrypt.co/358129/openclaw-creator-offers-acquire-ai-sensation-stay-open-source",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/358070/can-meme-coins-power-senate-bid-virginia-mark-moran-says-yes",
         "source": "crypto",
         "time": "Sat, 14 Feb 2026 18:14:46 +0000"
-      },
-      {
-        "title": "Bitcoin Is Down Bad, But Hasn&#39;t Yet Hit Its &#39;Ultimate Bear Market Bottom&#39;: Analysts",
-        "url": "https://decrypt.co/358083/bitcoin-down-bad-hasnt-hit-ultimate-bear-market-bottom",
-        "source": "crypto",
-        "time": "Sat, 14 Feb 2026 16:11:05 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "2/16/2026, 12:35:12 AM"
       },
       {
-        "title": "Error payloads in Zig",
-        "url": "https://srcreigh.ca/posts/error-payloads-in-zig/",
-        "source": "hn",
-        "time": "2/15/2026, 11:08:43 PM"
-      },
-      {
         "title": "LT6502: A 6502-based homebrew laptop",
         "url": "https://github.com/TechPaula/LT6502",
         "source": "hn",
         "time": "2/15/2026, 5:12:35 PM"
+      },
+      {
+        "title": "Error payloads in Zig",
+        "url": "https://srcreigh.ca/posts/error-payloads-in-zig/",
+        "source": "hn",
+        "time": "2/15/2026, 11:08:43 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Mon, 16 Feb 2026 01:34:28 GMT"
       },
       {
-        "title": "Ukraine's ex-energy minister detained while attempting to leave country",
-        "url": "https://www.bbc.com/news/articles/c4g5380xwqjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ministers want to reform SEND - but they are treading very carefully",
+        "url": "https://www.bbc.com/news/articles/c7951dzg9npo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 15 Feb 2026 17:11:49 GMT"
+        "time": "Mon, 16 Feb 2026 01:11:05 GMT"
       }
     ],
     "projects": [
