@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-16T17:48:21.298Z",
-  "updated_local": "2/16/2026, 5:48:21 PM",
+  "updated_iso": "2026-02-16T18:41:00.243Z",
+  "updated_local": "2/16/2026, 6:41:00 PM",
   "sections": {
     "crypto": [
       {
@@ -42,10 +42,16 @@
         "time": "2/16/2026, 1:30:07 PM"
       },
       {
-        "title": "Running My Own XMPP Server",
-        "url": "https://blog.dmcc.io/journal/xmpp-turn-stun-coturn-prosody/",
+        "title": "WebMCP Proposal",
+        "url": "https://webmachinelearning.github.io/webmcp/",
         "source": "hn",
-        "time": "2/16/2026, 1:39:45 PM"
+        "time": "2/16/2026, 5:08:20 PM"
+      },
+      {
+        "title": "Privilege Is Bad Grammar",
+        "url": "https://tadaima.bearblog.dev/privilege-is-bad-grammar/",
+        "source": "hn",
+        "time": "2/16/2026, 6:05:32 PM"
       },
       {
         "title": "What Your Bluetooth Devices Reveal About You",
@@ -54,16 +60,10 @@
         "time": "2/16/2026, 2:39:32 PM"
       },
       {
-        "title": "Show HN: Simple org-mode web adapter",
-        "url": "https://github.com/SpaceTurth/Org-Web-Adapter",
+        "title": "I guess I kinda get why people hate AI",
+        "url": "https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html",
         "source": "hn",
-        "time": "2/16/2026, 4:19:16 PM"
-      },
-      {
-        "title": "WebMCP Proposal",
-        "url": "https://webmachinelearning.github.io/webmcp/",
-        "source": "hn",
-        "time": "2/16/2026, 5:08:20 PM"
+        "time": "2/16/2026, 5:22:02 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Government abandons plans to delay 30 council elections",
         "url": "https://www.bbc.com/news/articles/c70ne31d884o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 16 Feb 2026 17:12:36 GMT"
+        "time": "Mon, 16 Feb 2026 18:07:59 GMT"
       },
       {
         "title": "Students begin Covid compensation claim against 36 more universities",
@@ -86,16 +86,16 @@
         "time": "Mon, 16 Feb 2026 17:45:09 GMT"
       },
       {
-        "title": "Intermittent fasting may make little difference to weight loss, review finds",
-        "url": "https://www.bbc.com/news/articles/c4ge7n3pq62o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US build-up of warships and fighter jets tracked near Iran",
+        "url": "https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 16 Feb 2026 13:38:50 GMT"
+        "time": "Mon, 16 Feb 2026 18:17:18 GMT"
       },
       {
-        "title": "Ice and snow warnings as another blast of Arctic air sweeps across the UK",
-        "url": "https://www.bbc.com/news/articles/cdxgew324r9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Actor Robert Duvall, who starred in The Godfather, dies aged 95",
+        "url": "https://www.bbc.com/news/articles/ce3g41z58vno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 16 Feb 2026 16:37:46 GMT"
+        "time": "Mon, 16 Feb 2026 18:37:10 GMT"
       }
     ],
     "projects": [
