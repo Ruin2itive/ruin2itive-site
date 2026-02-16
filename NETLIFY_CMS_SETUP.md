@@ -110,9 +110,24 @@ If you prefer to create posts manually:
 
 ## Troubleshooting
 
+### "Not Found" 404 Error During GitHub OAuth Login
+**Symptom**: When clicking "Login with Netlify Identity", you see an error: `"message": "Not Found", "documentation_url": "https://docs.github.com/rest"`
+
+**Cause**: This occurs when the CMS configuration incorrectly uses `name: github` with `base_url: https://api.github.com`. This tries to authenticate directly with GitHub's API, which requires a custom OAuth backend server.
+
+**Solution**: The configuration has been fixed to use `name: git-gateway`, which works with Netlify Identity + Git Gateway (no custom OAuth backend needed). Ensure:
+1. `/admin/config.yml` uses `backend: name: git-gateway` (not `github`)
+2. Netlify Identity is enabled in your Netlify dashboard
+3. Git Gateway is enabled in Identity settings
+
+**Technical Details**:
+- `name: github` = Direct GitHub OAuth (requires custom OAuth backend proxy)
+- `name: git-gateway` = Uses Netlify Identity + Git Gateway (recommended for Netlify hosting)
+
 ### "Unable to load identity"
 - Ensure Netlify Identity is enabled in your site settings
 - Check that you're accessing the site via the correct Netlify URL
+- Verify the Netlify Identity widget script is loaded in `/admin/index.html`
 
 ### "Config.yml not found"
 - Verify `/admin/config.yml` is deployed

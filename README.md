@@ -5,8 +5,15 @@ Static-first, reliability-focused open-source discovery front page.
 
 - Curated feeds from multiple sources (Hacker News, BBC, Reuters, etc.)
 - Real-time chat room for community interaction
+- Content management system (Netlify CMS) for blog posts
 - Responsive design with glass morphism UI
 - GitHub Pages compatible
+
+## Content Management
+
+The site includes Netlify CMS for managing blog content through a user-friendly admin interface at `/admin`. See [NETLIFY_CMS_SETUP.md](NETLIFY_CMS_SETUP.md) for setup instructions.
+
+**Recent Fix**: Resolved GitHub OAuth 404 error - see [ADMIN_OAUTH_FIX.md](ADMIN_OAUTH_FIX.md) for details.
 
 ## Chat Room
 
