@@ -13,10 +13,13 @@ Static-first, reliability-focused open-source discovery front page.
 
 The site includes Netlify CMS for managing blog content through a user-friendly admin interface at `/admin`.
 
-- **For GitHub Pages hosting**: See [GITHUB_PAGES_CMS_SETUP.md](GITHUB_PAGES_CMS_SETUP.md) for setup and usage instructions
-- **For Netlify hosting**: See [NETLIFY_CMS_SETUP.md](NETLIFY_CMS_SETUP.md) for setup instructions
+**⚠️ Important for GitHub Pages**: To use the admin interface, you must first set up an OAuth proxy. See [GITHUB_PAGES_OAUTH_SETUP.md](GITHUB_PAGES_OAUTH_SETUP.md) for quick setup instructions (free Cloudflare Workers or Vercel deployment).
 
-**Recent Fix**: Resolved GitHub OAuth 404 error - see [ADMIN_OAUTH_FIX.md](ADMIN_OAUTH_FIX.md) for details.
+- **For GitHub Pages hosting**: See [GITHUB_PAGES_OAUTH_SETUP.md](GITHUB_PAGES_OAUTH_SETUP.md) for OAuth setup (required)
+- **Setup guide**: [GITHUB_PAGES_CMS_SETUP.md](GITHUB_PAGES_CMS_SETUP.md) for complete usage instructions
+- **For Netlify hosting**: See [NETLIFY_CMS_SETUP.md](NETLIFY_CMS_SETUP.md) for setup instructions (no OAuth proxy needed)
+
+**Recent Fix**: Added proper OAuth configuration for GitHub Pages - see [GITHUB_PAGES_OAUTH_SETUP.md](GITHUB_PAGES_OAUTH_SETUP.md) for details.
 
 ## Chat Room
 

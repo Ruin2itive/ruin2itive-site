@@ -4,9 +4,225 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Content Manager</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    }
+    
+    .setup-banner {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 15px 20px;
+      z-index: 10001;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      display: none;
+    }
+    
+    .setup-banner.show {
+      display: block;
+    }
+    
+    .setup-banner h4 {
+      margin: 0 0 10px 0;
+      font-size: 16px;
+    }
+    
+    .setup-banner p {
+      margin: 5px 0;
+      font-size: 14px;
+      opacity: 0.9;
+    }
+    
+    .setup-banner a {
+      color: white;
+      text-decoration: underline;
+      font-weight: 600;
+    }
+    
+    .setup-banner button {
+      margin-top: 10px;
+      padding: 8px 16px;
+      background: white;
+      color: #667eea;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: 600;
+    }
+    
+    .setup-banner button:hover {
+      background: #f0f0f0;
+    }
+    
+    .error-container {
+      display: none;
+      position: fixed;
+      top: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #fee;
+      border: 2px solid #c33;
+      padding: 20px;
+      border-radius: 8px;
+      max-width: 600px;
+      z-index: 10000;
+      font-family: sans-serif;
+    }
+    .error-container.show {
+      display: block;
+    }
+    .error-container h3 {
+      margin-top: 0;
+      color: #c33;
+    }
+    .error-container pre {
+      background: #fff;
+      padding: 10px;
+      border-radius: 4px;
+      overflow-x: auto;
+      font-size: 12px;
+    }
+    .error-container button {
+      margin-top: 10px;
+      padding: 8px 16px;
+      background: #c33;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    .error-container button:hover {
+      background: #a22;
+    }
+  </style>
 </head>
 <body>
+  <div id="setup-banner" class="setup-banner">
+    <h4>⚙️ OAuth Setup Required for GitHub Pages</h4>
+    <p>To use this admin interface, you need to set up an OAuth proxy server (free options available).</p>
+    <p><strong>Quick setup guide:</strong> <a href="/GITHUB_PAGES_OAUTH_SETUP.md" target="_blank">GITHUB_PAGES_OAUTH_SETUP.md</a></p>
+    <p>This banner will disappear once OAuth is properly configured.</p>
+    <button onclick="dismissBanner()">Dismiss</button>
+  </div>
+  
+  <div id="error-container" class="error-container">
+    <h3>⚠️ Authentication Error</h3>
+    <div id="error-message"></div>
+    <button onclick="location.reload()">Reload Page</button>
+  </div>
+  
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@2.10.192/dist/netlify-cms.js"></script>
+  
+  <script>
+    // Check if OAuth is configured
+    function checkOAuthConfig() {
+      fetch('/admin/config.yml')
+        .then(r => r.text())
+        .then(config => {
+          // Check if base_url is configured (indicates OAuth proxy is set up)
+          // Use regex to handle various YAML formatting styles
+          if (!/base_url\s*:/.test(config)) {
+            // Show setup banner if OAuth is not configured
+            setTimeout(() => {
+              if (!sessionStorage.getItem('oauth-banner-dismissed')) {
+                document.getElementById('setup-banner').classList.add('show');
+              }
+            }, 2000); // Show after 2 seconds
+          }
+        })
+        .catch(err => {
+          console.error('Failed to load config:', err);
+        });
+    }
+    
+    function dismissBanner() {
+      sessionStorage.setItem('oauth-banner-dismissed', 'true');
+      document.getElementById('setup-banner').classList.remove('show');
+    }
+    
+    // Enhanced error logging for debugging
+    window.addEventListener('error', function(event) {
+      console.error('Global error:', event.error);
+      showError('JavaScript Error', event.error ? event.error.message : 'Unknown error occurred');
+    });
+
+    // Wait for CMS to load before registering event listeners
+    function registerCMSListeners() {
+      if (window.CMS) {
+        try {
+          window.CMS.registerEventListener({
+            name: 'error',
+            handler: ({ data }) => {
+              console.error('CMS Error:', data);
+              const message = typeof data === 'string' ? data : JSON.stringify(data, null, 2);
+              showError('CMS Error', message);
+            }
+          });
+        } catch (e) {
+          console.error('Failed to register CMS event listener:', e);
+        }
+      } else {
+        // Retry after CMS loads
+        setTimeout(registerCMSListeners, 500);
+      }
+    }
+    
+    // Start trying to register listeners after a short delay
+    setTimeout(registerCMSListeners, 1000);
+
+    // Check for authentication errors in URL hash
+    window.addEventListener('load', function() {
+      const hash = window.location.hash;
+      if (hash.includes('error')) {
+        const params = new URLSearchParams(hash.substring(1));
+        const error = params.get('error');
+        const errorDescription = params.get('error_description');
+        if (error) {
+          console.error('OAuth Error:', error, errorDescription);
+          showError('OAuth Error', `${error}: ${errorDescription || 'No description provided'}\n\nSee GITHUB_PAGES_OAUTH_SETUP.md for setup instructions.`);
+        }
+      }
+      
+      // Check OAuth configuration
+      checkOAuthConfig();
+      
+      // Log configuration for debugging
+      fetch('/admin/config.yml')
+        .then(r => r.text())
+        .then(config => {
+          console.log('CMS Configuration loaded successfully');
+          console.log('Config preview:', config.substring(0, 200) + '...');
+        })
+        .catch(err => {
+          console.error('Failed to load config.yml:', err);
+          showError('Configuration Error', 'Failed to load admin/config.yml. Please ensure the file exists and is accessible.');
+        });
+    });
+
+    function showError(title, message) {
+      const container = document.getElementById('error-container');
+      const messageDiv = document.getElementById('error-message');
+      messageDiv.innerHTML = `<p><strong>${title}</strong></p><pre>${message}</pre>`;
+      container.classList.add('show');
+    }
+
+    // Log successful CMS initialization
+    console.log('%cNetlify CMS Admin Interface', 'font-size: 20px; font-weight: bold; color: #00ad9f;');
+    console.log('Repository: Ruin2itive/ruin2itive-site');
+    console.log('Branch: main');
+    console.log('Backend: GitHub (requires OAuth proxy for GitHub Pages)');
+    console.log('%cFor authentication to work, you must:', 'font-weight: bold;');
+    console.log('1. Set up an OAuth proxy (see GITHUB_PAGES_OAUTH_SETUP.md)');
+    console.log('2. Have write access to the repository');
+    console.log('3. Be logged into your GitHub account');
+    console.log('4. Authorize the application when prompted');
+  </script>
 </body>
 </html>
