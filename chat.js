@@ -39,6 +39,11 @@
     timeWindow: 10000 // 10 seconds
   };
 
+  const MESSAGE_CONFIG = {
+    maxSeenMessages: 200, // Maximum number of message IDs to track
+    maxHistory: 50 // Maximum number of messages to keep in history
+  };
+
   // State
   let peer = null;
   let connections = new Map();
@@ -83,11 +88,16 @@
     return Math.random().toString(36).substring(2, 11);
   }
 
+  // Utility: Generate unique message ID
+  function generateMessageId() {
+    return generateId() + '-' + Date.now();
+  }
+
   // Utility: Prune seen messages to prevent memory issues
   function pruneSeenMessages() {
-    if (seenMessages.size > 200) {
+    if (seenMessages.size > MESSAGE_CONFIG.maxSeenMessages) {
       const messagesArray = Array.from(seenMessages);
-      seenMessages = new Set(messagesArray.slice(-200));
+      seenMessages = new Set(messagesArray.slice(-MESSAGE_CONFIG.maxSeenMessages));
     }
   }
 
@@ -258,9 +268,9 @@
     
     messageHistory.push(message);
     
-    // Keep message history limited to last 50 messages to prevent memory issues
-    if (messageHistory.length > 50) {
-      messageHistory = messageHistory.slice(-50);
+    // Keep message history limited to prevent memory issues
+    if (messageHistory.length > MESSAGE_CONFIG.maxHistory) {
+      messageHistory = messageHistory.slice(-MESSAGE_CONFIG.maxHistory);
     }
   }
 
@@ -323,7 +333,7 @@
 
     const message = {
       type: 'message',
-      id: generateId() + '-' + Date.now(), // Unique message ID
+      id: generateMessageId(), // Unique message ID
       userId: currentUser.id,
       username: currentUser.username,
       content: content.trim(),
@@ -386,7 +396,7 @@
           logDebug('HISTORY', 'Sending message history to peer', { peer: conn.peer, count: messageHistory.length });
           conn.send({
             type: 'history',
-            messages: messageHistory.slice(-50) // Last 50 messages
+            messages: messageHistory.slice(-MESSAGE_CONFIG.maxHistory)
           });
         }
       } else if (data.type === 'history') {
@@ -590,7 +600,7 @@
               if (messageHistory.length > 0) {
                 conn.send({
                   type: 'history',
-                  messages: messageHistory.slice(-50)
+                  messages: messageHistory.slice(-MESSAGE_CONFIG.maxHistory)
                 });
               }
             } else if (data.type === 'history') {
