@@ -11,7 +11,10 @@ Static-first, reliability-focused open-source discovery front page.
 
 ## Content Management
 
-The site includes Netlify CMS for managing blog content through a user-friendly admin interface at `/admin`. See [NETLIFY_CMS_SETUP.md](NETLIFY_CMS_SETUP.md) for setup instructions.
+The site includes Netlify CMS for managing blog content through a user-friendly admin interface at `/admin`.
+
+- **For GitHub Pages hosting**: See [GITHUB_PAGES_CMS_SETUP.md](GITHUB_PAGES_CMS_SETUP.md) for setup and usage instructions
+- **For Netlify hosting**: See [NETLIFY_CMS_SETUP.md](NETLIFY_CMS_SETUP.md) for setup instructions
 
 **Recent Fix**: Resolved GitHub OAuth 404 error - see [ADMIN_OAUTH_FIX.md](ADMIN_OAUTH_FIX.md) for details.
 
