@@ -173,6 +173,6 @@ See additional documentation:
 
 ### Version History
 
-- **v1.5.2** (Current) - Latest stable version with WebRTC improvements
+- **v1.5.2** (Used in this project) - Stable version with WebRTC improvements
 - Placeholder file included in repository for structure demonstration
 - Actual library must be downloaded before production deployment

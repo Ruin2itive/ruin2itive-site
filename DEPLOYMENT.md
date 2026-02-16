@@ -343,7 +343,7 @@ If you encounter issues:
 1. Check browser console for error messages
 2. Review this deployment guide
 3. See CHAT_FEATURE.md troubleshooting section
-4. Run automated tests: `./scripts/download-peerjs.sh --verify-only`
+4. Test the download script: `./scripts/download-peerjs.sh`
 5. Report issues with full error details
 
 ## License
