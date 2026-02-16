@@ -1,6 +1,11 @@
 /**
  * Chat Room Application
  * Real-time chat with WebRTC via PeerJS for GitHub Pages compatibility
+ * 
+ * Requirements:
+ * - ES2015+ JavaScript (for Set insertion order preservation)
+ * - WebRTC support (RTCPeerConnection)
+ * - WebSocket support
  */
 
 (function() {
@@ -76,6 +81,14 @@
   // Utility: Generate unique ID
   function generateId() {
     return Math.random().toString(36).substring(2, 11);
+  }
+
+  // Utility: Prune seen messages to prevent memory issues
+  function pruneSeenMessages() {
+    if (seenMessages.size > 200) {
+      const messagesArray = Array.from(seenMessages);
+      seenMessages = new Set(messagesArray.slice(-200));
+    }
   }
 
   // Browser Detection and Compatibility Check
@@ -351,12 +364,7 @@
         // Mark message as seen
         if (data.id) {
           seenMessages.add(data.id);
-          
-          // Limit seenMessages size to prevent memory issues (keep last 200)
-          if (seenMessages.size > 200) {
-            const messagesArray = Array.from(seenMessages);
-            seenMessages = new Set(messagesArray.slice(-200));
-          }
+          pruneSeenMessages();
         }
         
         addMessage(data);
@@ -562,12 +570,7 @@
               // Mark message as seen
               if (data.id) {
                 seenMessages.add(data.id);
-                
-                // Limit seenMessages size to prevent memory issues (keep last 200)
-                if (seenMessages.size > 200) {
-                  const messagesArray = Array.from(seenMessages);
-                  seenMessages = new Set(messagesArray.slice(-200));
-                }
+                pruneSeenMessages();
               }
               
               addMessage(data);
