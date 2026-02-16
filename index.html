@@ -1,15 +1,381 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Page Title</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>ruin2itive.org – broadsheet</title>
+  <meta name="description" content="Reliability-first, open-source, independent broadsheet. Curated headlines, projects, and systems." />
+  <meta name="theme-color" content="#ffffff" />
+
+  <style>
+    /* ===== RUIN2ITIVE BROADSHEET (FAST, CLEAN, NO OVERLAYS) ===== */
+    :root{
+      --bg:#ffffff;
+      --rust:#8a4a3c;
+      --text:#000000;
+      --rule: rgba(138,74,60,.75);
+
+      /* Fast header mark: WebP primary + PNG fallback */
+      --mark-url: image-set(
+        url("assets/elephant-mark.webp") type("image/webp"),
+        url("assets/elephant-mark.png")  type("image/png")
+      );
+
+      /* Keep subtle. This is a seal, not wallpaper. */
+      --mark-opacity: 0.085;
+    }
+
+    *{ margin:0; padding:0; box-sizing:border-box; }
+
+    body{
+      background: var(--bg);
+      color: var(--text);
+      font-family: "Times New Roman", Times, serif;
+      font-size: 16px;
+      line-height: 1.52;
+      max-width: 1100px;
+      margin: 1.0rem auto;
+      padding: 1rem 1.6rem;
+    }
+
+    /* ===== MASTHEAD ===== */
+    header{
+      position: relative;
+      padding: .2rem 0 .9rem 0;
+      margin-bottom: 1.2rem;
+      border-bottom: 1px solid var(--rule);
+    }
+
+    /* Elephant mark behind masthead ONLY (no content overlap) */
+    header::before{
+      content:"";
+      position:absolute;
+      right: 0;
+      top: -10px;
+      width: 260px;
+      height: 190px;
+      background-image: var(--mark-url);
+      background-repeat:no-repeat;
+      background-size:contain;
+      background-position: right top;
+      opacity: var(--mark-opacity);
+      pointer-events:none;
+      z-index:0;
+    }
+
+    .masthead{
+      position:relative;
+      z-index:1;
+      font-size: 3.2rem;
+      font-weight: 900;
+      letter-spacing: -2px;
+      line-height: .95;
+      text-transform: uppercase;
+      border-bottom: 4px solid var(--rust);
+      padding-bottom: .12rem;
+      margin-bottom: .2rem;
+    }
+
+    .tagline{
+      position:relative;
+      z-index:1;
+      font-size: .72rem;
+      text-transform: uppercase;
+      letter-spacing: 3.5px;
+      opacity: .72;
+      text-align: right;
+      font-weight: 600;
+      padding-top: .35rem;
+    }
+
+    /* ===== TWO COLUMN LAYOUT ===== */
+    .two-column{
+      display:grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.8rem;
+      align-items:start;
+    }
+
+    /* Section headings (no emojis) */
+    h2{
+      color: var(--rust);
+      font-size: .82rem;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      border-bottom: 1px dashed var(--rule);
+      padding-bottom: .25rem;
+      margin: .75rem 0 .65rem;
+      font-weight: 800;
+    }
+
+    /* Projects */
+    .project-item{ margin-bottom: .85rem; }
+    .project-item h3{
+      font-size: 1.02rem;
+      color: var(--rust);
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 1.1px;
+      margin-bottom: .08rem;
+    }
+    .project-item p{
+      font-size: .9rem;
+      margin-left: .7rem;
+      line-height: 1.35;
+    }
+
+    .meta{
+      font-size: .64rem;
+      opacity: .62;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-left: .3rem;
+      color: var(--text);
+    }
+
+    /* Links */
+    a{
+      color: var(--text);
+      text-decoration: underline;
+      text-decoration-color: var(--rust);
+      text-underline-offset: 2.5px;
+      text-decoration-thickness: 1.2px;
+      font-weight: 500;
+    }
+    a:visited{ color: var(--text); }
+    a:hover{
+      background: var(--rust);
+      color: var(--bg);
+      text-decoration: none;
+    }
+
+    /* Lists */
+    .feed-list, .static-list{
+      list-style:none;
+      padding-left:.4rem;
+      margin-bottom:.4rem;
+    }
+    .feed-list li, .static-list li{
+      margin-bottom:.38rem;
+      font-size:.9rem;
+      line-height:1.42;
+      position:relative;
+      padding-left:1rem;
+    }
+    .feed-list li::before, .static-list li::before{
+      content:"–";
+      color:var(--rust);
+      position:absolute;
+      left:0;
+    }
+
+    .quiet{
+      opacity:.62;
+      font-style:italic;
+      font-size:.78rem;
+      margin-top:.18rem;
+      padding-left:1rem;
+      position:relative;
+    }
+    .quiet::before{
+      content:"—";
+      color:var(--rust);
+      position:absolute;
+      left:0;
+    }
+
+    footer{
+      margin-top: 1.8rem;
+      padding-top: .9rem;
+      border-top: 2px solid var(--rust);
+      font-size:.7rem;
+      opacity:.85;
+      display:flex;
+      justify-content:space-between;
+      gap:1rem;
+      text-transform:uppercase;
+      letter-spacing:2px;
+      flex-wrap:wrap;
+    }
+    footer a{
+      color:var(--text);
+      text-decoration:none;
+      border-bottom:1px dotted var(--rust);
+    }
+    footer a:hover{
+      background:transparent;
+      color:var(--rust);
+      border-bottom:1px solid var(--rust);
+    }
+
+    .edition-stamp{
+      margin-top: .7rem;
+      font-size:.62rem;
+      opacity:.55;
+      text-transform:uppercase;
+      letter-spacing:1.4px;
+      border-left:2px solid var(--rust);
+      padding-left:.55rem;
+    }
+
+    /* Mobile tuning + smaller mark */
+    @media (max-width: 750px){
+      body{ padding:.85rem; margin:.6rem auto; }
+      .masthead{ font-size: 2.25rem; }
+      header::before{
+        width: 190px;
+        height: 140px;
+        top: -6px;
+        opacity: .07;
+        /* Optional: smaller file for mobile */
+        background-image: image-set(
+          url("assets/elephant-mark-small.webp") type("image/webp"),
+          url("assets/elephant-mark.png")       type("image/png")
+        );
+      }
+      .two-column{ grid-template-columns: 1fr; gap: .9rem; }
+      .feed-list li, .static-list li{ font-size: .92rem; }
+    }
+  </style>
 </head>
+
 <body>
-    <!-- Other sections -->
+  <header>
+    <div class="masthead">ruin2itive.org</div>
+    <div class="tagline">reliability first · open source · independent</div>
+  </header>
 
-    <!-- Client Logos Section -->
+  <div class="two-column">
+    <!-- LEFT -->
+    <div>
+      <h2>projects / the code</h2>
 
-    <!-- Other content continues -->
+      <div class="project-item">
+        <h3>Arduino</h3>
+        <p>
+          <a href="https://www.hackster.io/arduino/projects" target="_blank" rel="noopener noreferrer">Hackster.io feed</a>
+          <span class="meta">daily · hardware</span>
+        </p>
+      </div>
+
+      <div class="project-item">
+        <h3>Raspberry Pi</h3>
+        <p>
+          <a href="https://www.instructables.com/Raspberry-Pi-Projects/" target="_blank" rel="noopener noreferrer">Instructables</a>
+          <span class="meta">diy · maker</span>
+        </p>
+      </div>
+
+      <div class="project-item">
+        <h3>ruin2itive</h3>
+        <p>
+          <a href="https://github.com/Ruin2itive" target="_blank" rel="noopener noreferrer">GitHub · src</a>
+          <span class="meta">this site</span>
+        </p>
+      </div>
+
+      <h2>markets / crypto</h2>
+      <ul class="feed-list" id="markets-feed">
+        <li><span class="meta">feed</span> loading…</li>
+      </ul>
+      <div class="quiet">protocol updates · on-chain · manual curation</div>
+
+      <h2>hacker news</h2>
+      <ul class="feed-list" id="hn-feed">
+        <li><span class="meta">feed</span> loading…</li>
+      </ul>
+      <div class="quiet">foss · security · systems</div>
+    </div>
+
+    <!-- RIGHT -->
+    <div>
+      <h2>world news</h2>
+      <ul class="static-list">
+        <li><a href="https://apnews.com/" target="_blank" rel="noopener noreferrer">Associated Press</a> <span class="meta">wire</span></li>
+        <li><a href="https://www.reuters.com/" target="_blank" rel="noopener noreferrer">Reuters</a> <span class="meta">fact-based</span></li>
+        <li><a href="https://www.bbc.com/news" target="_blank" rel="noopener noreferrer">BBC News</a> <span class="meta">international</span></li>
+      </ul>
+      <div class="quiet">ad-free feeds in progress</div>
+
+      <h2>free banned books</h2>
+      <ul class="static-list">
+        <li><a href="https://www.spl.org/programs-and-services/teens/books-unbanned" target="_blank" rel="noopener noreferrer">Seattle PL – Books Unbanned</a> <span class="meta">free e-cards</span></li>
+        <li><a href="https://www.openlibrary.org/" target="_blank" rel="noopener noreferrer">Internet Archive – Open Library</a> <span class="meta">classics</span></li>
+        <li><a href="https://standardebooks.org/" target="_blank" rel="noopener noreferrer">Standard Ebooks</a> <span class="meta">public domain</span></li>
+      </ul>
+      <div class="quiet">more resources · no drm</div>
+
+      <h2>personal finance</h2>
+      <ul class="static-list">
+        <li><a href="https://www.mrmoneymustache.com/blog/" target="_blank" rel="noopener noreferrer">Mr. Money Mustache</a> <span class="meta">manual picks</span></li>
+      </ul>
+      <div class="quiet">frugalism · early retirement · systems</div>
+
+      <h2>blog</h2>
+      <ul class="static-list">
+        <li><a href="/blog/">entries / updates / thoughts</a> <span class="meta">inaugural soon</span></li>
+      </ul>
+      <div class="quiet">building in public</div>
+    </div>
+  </div>
+
+  <footer>
+    <div>open source · independent</div>
+    <div><a href="/integrity/">integrity</a> · <a href="/about/">about</a></div>
+  </footer>
+
+  <div class="edition-stamp" id="edition-stamp">edition —</div>
+
+  <script>
+    // Progressive enhancement only: page remains readable if this fails.
+    (function () {
+      const marketsFeed = document.getElementById('markets-feed');
+      const hnFeed = document.getElementById('hn-feed');
+      const stamp = document.getElementById('edition-stamp');
+
+      fetch('api/home.json', { cache: 'default' })
+        .then(r => { if (!r.ok) throw new Error('bad response'); return r.json(); })
+        .then(data => {
+          if (data && data.edition) stamp.textContent = `edition ${data.edition}`;
+
+          const m = data?.sections?.markets || [];
+          marketsFeed.innerHTML = '';
+          if (m.length) {
+            m.slice(0, 3).forEach(item => {
+              const li = document.createElement('li');
+              const src = (item.source || 'decrypt').toString();
+              const ts = (item.timestamp || '').toString();
+              li.innerHTML =
+                `<a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a>` +
+                ` <span class="meta">${src}${ts ? ' · ' + ts : ''}</span>`;
+              marketsFeed.appendChild(li);
+            });
+          } else {
+            marketsFeed.innerHTML = '<li>no headlines available</li>';
+          }
+
+          const h = data?.sections?.foss || [];
+          hnFeed.innerHTML = '';
+          if (h.length) {
+            h.slice(0, 5).forEach(item => {
+              const li = document.createElement('li');
+              const src = (item.source || 'hn').toString();
+              const ts = (item.timestamp || '').toString();
+              li.innerHTML =
+                `<a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a>` +
+                ` <span class="meta">${src}${ts ? ' · ' + ts : ''}</span>`;
+              hnFeed.appendChild(li);
+            });
+          } else {
+            hnFeed.innerHTML = '<li>no headlines available</li>';
+          }
+        })
+        .catch(() => {
+          stamp.textContent = 'edition —';
+          marketsFeed.innerHTML = '<li>feed temporarily unavailable</li>';
+          hnFeed.innerHTML = '<li>feed temporarily unavailable</li>';
+        });
+    })();
+  </script>
 </body>
 </html>
