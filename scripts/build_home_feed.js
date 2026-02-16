@@ -23,6 +23,37 @@ function fmtLocal(iso) {
   }
 }
 
+function decodeHtmlEntities(text) {
+  if (!text) return text;
+  return text
+    .replace(/&#39;|&#x27;|&apos;/g, "'")
+    .replace(/&quot;/g, '"')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>');
+}
+
+function createSummary(description, maxLength = 80) {
+  if (!description) return "";
+  // Strip HTML tags
+  let text = description.replace(/<[^>]*>/g, '');
+  // Decode entities
+  text = decodeHtmlEntities(text);
+  // Trim whitespace
+  text = text.trim();
+  // Truncate if needed
+  if (text.length > maxLength) {
+    text = text.substring(0, maxLength).trim();
+    // Try to end at a word boundary
+    const lastSpace = text.lastIndexOf(' ');
+    if (lastSpace > maxLength * 0.7) {
+      text = text.substring(0, lastSpace);
+    }
+    text += '…';
+  }
+  return text;
+}
+
 /**
  * NOTE:
  * You previously used Decrypt scraping. That can break due to site changes/CORS.
@@ -40,11 +71,21 @@ async function getHnTop5() {
     for (const id of top) {
       const it = await safeJson(`https://hacker-news.firebaseio.com/v0/item/${id}.json`);
       if (!it || !it.url || !it.title) continue;
+      
+      // Create a generic summary for HN items (they don't have descriptions)
+      let summary = "";
+      if (it.score && it.descendants) {
+        summary = `${it.score} points · ${it.descendants} comments`;
+      } else if (it.score) {
+        summary = `${it.score} points`;
+      }
+      
       items.push({
-        title: it.title,
+        title: decodeHtmlEntities(it.title),
         url: it.url,
         source: "hn",
-        time: fmtLocal(new Date((it.time || 0) * 1000).toISOString())
+        time: fmtLocal(new Date((it.time || 0) * 1000).toISOString()),
+        summary: summary
       });
     }
     if (items.length > 0) return items.slice(0, 5);
@@ -104,12 +145,14 @@ async function getBbcTop5() {
       const title = (block.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) || block.match(/<title>(.*?)<\/title>/) || [])[1];
       const link = (block.match(/<link>(.*?)<\/link>/) || [])[1];
       const pubDate = (block.match(/<pubDate>(.*?)<\/pubDate>/) || [])[1];
+      const description = (block.match(/<description><!\[CDATA\[(.*?)\]\]><\/description>/) || block.match(/<description>(.*?)<\/description>/) || [])[1];
       if (!title || !link) continue;
       items.push({
-        title: title.trim(),
+        title: decodeHtmlEntities(title.trim()),
         url: link.trim(),
         source: "world",
-        time: pubDate ? pubDate.trim() : ""
+        time: pubDate ? pubDate.trim() : "",
+        summary: createSummary(description, 70)
       });
     }
     if (items.length > 0) return items.slice(0, 5);
@@ -149,12 +192,14 @@ async function getCryptoTop5() {
       const title = (block.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) || block.match(/<title>(.*?)<\/title>/) || [])[1];
       const link = (block.match(/<link>(.*?)<\/link>/) || [])[1];
       const pubDate = (block.match(/<pubDate>(.*?)<\/pubDate>/) || [])[1];
+      const description = (block.match(/<description><!\[CDATA\[(.*?)\]\]><\/description>/) || block.match(/<description>(.*?)<\/description>/) || [])[1];
       if (!title || !link) continue;
       items.push({
-        title: title.trim(),
+        title: decodeHtmlEntities(title.trim()),
         url: link.trim(),
         source: "crypto",
-        time: pubDate ? pubDate.trim() : ""
+        time: pubDate ? pubDate.trim() : "",
+        summary: createSummary(description, 70)
       });
     }
     if (items.length > 0) return items.slice(0, 5);
@@ -219,12 +264,14 @@ async function getHacksterTop3() {
       const title = (block.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) || block.match(/<title>(.*?)<\/title>/) || [])[1];
       const link = (block.match(/<link>(.*?)<\/link>/) || [])[1];
       const pubDate = (block.match(/<pubDate>(.*?)<\/pubDate>/) || [])[1];
+      const description = (block.match(/<description><!\[CDATA\[(.*?)\]\]><\/description>/) || block.match(/<description>(.*?)<\/description>/) || [])[1];
       if (!title || !link) continue;
       items.push({
-        title: title.trim(),
+        title: decodeHtmlEntities(title.trim()),
         url: link.trim(),
         source: "hackster",
-        time: pubDate ? pubDate.trim() : ""
+        time: pubDate ? pubDate.trim() : "",
+        summary: createSummary(description, 70)
       });
     }
     if (items.length > 0) return items;

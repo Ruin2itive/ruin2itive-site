@@ -53,19 +53,19 @@
       --wm-opacity: .035;
       --hero-img-opacity: .95;
 
-      /* ULTRA-TRANSPARENT GLASS */
+      /* ULTRA-TRANSPARENT GLASS - Improved contrast for readability */
       --glass-blur: 18px;
 
-      --card-bg: rgba(255,255,255,.40);
-      --card-head-bg: rgba(255,255,255,.14);
+      --card-bg: rgba(255,255,255,.48);
+      --card-head-bg: rgba(255,255,255,.20);
 
-      --plate-bg: rgba(255,255,255,.20);
-      --nav-bg: rgba(255,255,255,.26);
-      --pill-bg: rgba(255,255,255,.30);
-      --stamp-bg: rgba(255,255,255,.30);
+      --plate-bg: rgba(255,255,255,.24);
+      --nav-bg: rgba(255,255,255,.32);
+      --pill-bg: rgba(255,255,255,.36);
+      --stamp-bg: rgba(255,255,255,.34);
 
-      --card-border: rgba(0,0,0,.18);
-      --card-border-hover: rgba(0,0,0,.28);
+      --card-border: rgba(0,0,0,.20);
+      --card-border-hover: rgba(0,0,0,.32);
 
       --plate-border: rgba(0,0,0,.20);
       --nav-border: rgba(0,0,0,.20);
@@ -286,7 +286,7 @@
     .navstrip{
       display:flex;
       justify-content:center;
-      gap: 12px;
+      gap: 14px;
       flex-wrap:wrap;
       padding: 14px 0 6px;
       margin: 0;
@@ -298,11 +298,12 @@
     .navstrip a{
       font-family: var(--sans);
       font-size: clamp(12px, 1.8vw, 14px);
+      font-weight: 600;
       line-height: 1.4;
       letter-spacing: .22em;
       text-transform: uppercase;
-      color: rgba(0,0,0,.78);
-      padding: 7px 12px;
+      color: rgba(0,0,0,.80);
+      padding: 8px 14px;
       border-radius: 999px;
       border: 1px solid var(--nav-border);
       background: var(--nav-bg);
@@ -315,19 +316,20 @@
 
     .navstrip a:hover{
       text-decoration:none;
-      transform: translateY(-1px);
-      border-color: rgba(139,31,31,.55);
-      background: rgba(255,255,255,.38);
-      box-shadow: 0 10px 26px rgba(0,0,0,.10), var(--glass-inset);
+      transform: translateY(-2px);
+      border-color: rgba(139,31,31,.58);
+      background: rgba(255,255,255,.42);
+      box-shadow: 0 12px 32px rgba(0,0,0,.12), var(--glass-inset);
     }
     .navstrip a:active{ transform: translateY(0px) scale(.985); }
     .navstrip a:focus-visible{ outline:none; box-shadow: var(--ring); }
 
     .navstrip a[aria-current="true"]{
-      border-color: rgba(139,31,31,.58);
-      background: rgba(139,31,31,.070);
-      box-shadow: 0 0 0 3px rgba(139,31,31,.14), var(--glass-inset);
+      border-color: rgba(139,31,31,.64);
+      background: rgba(139,31,31,.085);
+      box-shadow: 0 0 0 3px rgba(139,31,31,.16), var(--glass-inset);
       text-decoration:none;
+      font-weight: 700;
     }
 
     main{ padding-top: 18px; }
@@ -379,7 +381,7 @@
       transform: translateZ(0);
     }
     .card:hover{
-      transform: translateY(-2px);
+      transform: translateY(-3px) scale(1.01);
       box-shadow: var(--shadow), var(--glass-inset);
       border-color: var(--card-border-hover);
     }
@@ -505,6 +507,16 @@
       text-shadow: var(--text-shadow);
     }
 
+    .summary{
+      display:block;
+      margin: 6px 0 0;
+      color: var(--muted);
+      font-family: var(--sans);
+      font-size: clamp(12px, 1.8vw, 14px);
+      line-height: 1.4;
+      font-style: italic;
+    }
+
     .stamp{
       display:inline-flex;
       align-items:center;
@@ -571,10 +583,10 @@
       margin: 0 0 10px;
     }
     .refresh-btn:hover{
-      transform: translateY(-1px);
-      border-color: rgba(139,31,31,.50);
-      background: rgba(255,255,255,.40);
-      box-shadow: 0 10px 24px rgba(0,0,0,.08), var(--glass-inset);
+      transform: translateY(-2px) scale(1.02);
+      border-color: rgba(139,31,31,.55);
+      background: rgba(255,255,255,.44);
+      box-shadow: 0 12px 30px rgba(0,0,0,.10), var(--glass-inset);
     }
     .refresh-btn:active{ transform: translateY(0px) scale(.985); }
     .refresh-btn:focus-visible{ outline:none; box-shadow: var(--ring); }
@@ -756,6 +768,60 @@
       text-decoration: underline;
     }
 
+    /* Subtle entrance animations */
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+
+    /* Apply fade-in to major sections */
+    .hero {
+      animation: fadeIn 0.5s ease-out;
+    }
+
+    .grid {
+      animation: fadeInUp 0.6s ease-out 0.1s backwards;
+    }
+
+    .card {
+      animation: fadeInUp 0.5s ease-out backwards;
+    }
+
+    /* Stagger card animations */
+    .card:nth-child(1) { animation-delay: 0.05s; }
+    .card:nth-child(2) { animation-delay: 0.1s; }
+    .card:nth-child(3) { animation-delay: 0.15s; }
+
+    .item {
+      animation: fadeInUp 0.4s ease-out backwards;
+    }
+
+    /* Stagger item animations */
+    .item:nth-child(1) { animation-delay: 0.02s; }
+    .item:nth-child(2) { animation-delay: 0.04s; }
+    .item:nth-child(3) { animation-delay: 0.06s; }
+    .item:nth-child(4) { animation-delay: 0.08s; }
+    .item:nth-child(5) { animation-delay: 0.10s; }
+
+    footer {
+      animation: fadeIn 0.6s ease-out 0.3s backwards;
+    }
+
     @media (prefers-reduced-motion: reduce){
       *{ transition:none !important; animation:none !important; scroll-behavior:auto !important; }
       .card:hover, .item:hover, .pill:hover, .navstrip a:hover{ transform:none !important; }
@@ -775,13 +841,13 @@
 
         --glass-blur: 20px;
 
-        --card-bg: rgba(14,14,16,.24);
-        --card-head-bg: rgba(14,14,16,.12);
+        --card-bg: rgba(14,14,16,.30);
+        --card-head-bg: rgba(14,14,16,.16);
 
-        --plate-bg: rgba(12,12,14,.18);
-        --nav-bg: rgba(12,12,14,.18);
-        --pill-bg: rgba(12,12,14,.20);
-        --stamp-bg: rgba(12,12,14,.20);
+        --plate-bg: rgba(12,12,14,.22);
+        --nav-bg: rgba(12,12,14,.24);
+        --pill-bg: rgba(12,12,14,.26);
+        --stamp-bg: rgba(12,12,14,.24);
 
         --card-border: rgba(255,255,255,.14);
         --card-border-hover: rgba(255,255,255,.24);
@@ -1802,6 +1868,7 @@
               ${hacksterArticles.map(article => `
                 <a class="item" href="${esc(article.url)}" target="_blank" rel="noopener" style="border-bottom: none;">
                   <h3>${esc(article.title)}</h3>
+                  ${article.summary ? `<div class="summary">${esc(article.summary)}</div>` : ""}
                   <div class="meta">
                     ${stamp("hackster", "source")}
                     ${article.time ? stamp(article.time) : ""}
@@ -1820,6 +1887,7 @@
               ${raspiArticles.map(article => `
                 <a class="item" href="${esc(article.url)}" target="_blank" rel="noopener" style="border-bottom: none;">
                   <h3>${esc(article.title)}</h3>
+                  ${article.summary ? `<div class="summary">${esc(article.summary)}</div>` : ""}
                   <div class="meta">
                     ${stamp("raspberry_pi", "source")}
                     ${article.time ? stamp(article.time) : ""}
@@ -1867,10 +1935,12 @@
           const url = it.url;
           const src = it?.source || "decrypt";
           const st = it?.stamp || "";
+          const summary = it?.summary || "";
 
           return `
             <a class="item" href="${esc(url)}" target="_blank" rel="noopener">
               <h3>${esc(title)}</h3>
+              ${summary ? `<div class="summary">${esc(summary)}</div>` : ""}
               <div class="meta">
                 ${st ? stamp(st) : ""}
                 ${stamp(src, "source")}
@@ -1913,9 +1983,11 @@
         .map(it => {
           const title = it?.title || "Untitled";
           const url = it.url;
+          const summary = it?.summary || "";
           return `
             <a class="item" href="${esc(url)}" target="_blank" rel="noopener">
               <h3>${esc(title)}</h3>
+              ${summary ? `<div class="summary">${esc(summary)}</div>` : ""}
               <div class="meta">${stamp("hn", "source")}${stamp("newest")}</div>
             </a>
         `;
