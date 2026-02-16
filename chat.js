@@ -780,21 +780,31 @@
     
     // Check if PeerJS library loaded
     if (typeof Peer === 'undefined') {
-      logDebug('PEERJS', '✗ PeerJS library not loaded');
+      logDebug('PEERJS', '✗ PeerJS library not loaded on DOMContentLoaded');
+      console.info('[PEERJS] Waiting for library to load (delay: ' + CONNECTION_CONFIG.libraryLoadDelay + 'ms)...');
       
       // Give it a moment in case it's still loading
       setTimeout(() => {
         if (typeof Peer === 'undefined') {
+          console.error('[PEERJS] ✗ PeerJS library still not available after delay');
+          console.error('[PEERJS] Deployment verification FAILED');
+          console.error('[PEERJS] Possible issues:');
+          console.error('[PEERJS]   • libs/peerjs.min.js is placeholder file (not actual library)');
+          console.error('[PEERJS]   • All CDN sources blocked or unreachable');
+          console.error('[PEERJS]   • Local fallback failed to load or not deployed');
           showPeerJSLoadError();
         } else {
           logDebug('PEERJS', '✓ PeerJS library loaded after delay');
+          console.info('[PEERJS] Library loaded successfully via fallback mechanism');
           initializeChat();
         }
       }, CONNECTION_CONFIG.libraryLoadDelay);
       return;
     }
     
-    logDebug('PEERJS', '✓ PeerJS library loaded successfully');
+    logDebug('PEERJS', '✓ PeerJS library loaded successfully on DOMContentLoaded');
+    console.info('[PEERJS] Deployment verification PASSED');
+    console.info('[PEERJS] Library source: Primary CDN (unpkg.com) or loaded before DOMContentLoaded');
     initializeChat();
   });
   
@@ -811,8 +821,16 @@
         <ul style="margin: 10px 0; padding-left: 20px; font-size: 0.95rem;">
           <li>❌ Primary CDN (unpkg.com) - Failed or blocked</li>
           <li>❌ Secondary CDN (jsdelivr.net) - Failed or blocked</li>
-          <li>❌ Local fallback (libs/peerjs.min.js) - Failed, not found (404), or placeholder file</li>
+          <li>❌ Local fallback (libs/peerjs.min.js) - Failed, not found (404), or placeholder file detected</li>
         </ul>
+        
+        <div style="margin: 15px 0; padding: 12px; background: rgba(255,152,0,0.1); border: 1px solid rgba(255,152,0,0.3); border-radius: 8px;">
+          <p style="font-weight: 600; color: #f57c00; margin-bottom: 8px;">⚠️ Deployment Issue Detected</p>
+          <p style="font-size: 0.9rem; margin: 0;">
+            The local fallback file appears to be a placeholder (not the actual PeerJS library). 
+            This means the site was deployed without the actual library file.
+          </p>
+        </div>
         
         <details style="margin: 15px 0; padding: 10px; background: rgba(255,255,255,0.5); border-radius: 8px;">
           <summary style="cursor: pointer; font-weight: bold;">🔍 Common Causes</summary>
@@ -858,12 +876,25 @@
             <p><strong>The local fallback is missing or not properly configured.</strong></p>
             <p style="margin-top: 10px;">To fix this issue:</p>
             <ol style="margin: 10px 0; padding-left: 20px;">
-              <li>Download the actual PeerJS library:
-                <pre style="background: #f5f5f5; padding: 8px; border-radius: 4px; margin: 5px 0; overflow-x: auto; font-size: 0.85rem;">curl -L -o libs/peerjs.min.js "https://unpkg.com/peerjs@1.5.2/dist/peerjs.min.js"</pre>
+              <li>Download the actual PeerJS library (two options):
+                <div style="margin-top: 5px;">
+                  <strong>Option 1 - Using the download script:</strong>
+                  <pre style="background: #f5f5f5; padding: 8px; border-radius: 4px; margin: 5px 0; overflow-x: auto; font-size: 0.85rem;">bash scripts/download-peerjs.sh</pre>
+                  <strong>Option 2 - Using npm:</strong>
+                  <pre style="background: #f5f5f5; padding: 8px; border-radius: 4px; margin: 5px 0; overflow-x: auto; font-size: 0.85rem;">npm install peerjs@1.5.2
+cp node_modules/peerjs/dist/peerjs.min.js libs/peerjs.min.js</pre>
+                </div>
               </li>
-              <li>Verify the file size is ~80-100 KB (not 1 KB placeholder)</li>
+              <li>Verify the file size is ~80-100 KB (not 1 KB placeholder):
+                <pre style="background: #f5f5f5; padding: 8px; border-radius: 4px; margin: 5px 0; overflow-x: auto; font-size: 0.85rem;">ls -lh libs/peerjs.min.js</pre>
+              </li>
+              <li>Verify file content starts with minified JavaScript:
+                <pre style="background: #f5f5f5; padding: 8px; border-radius: 4px; margin: 5px 0; overflow-x: auto; font-size: 0.85rem;">head -c 50 libs/peerjs.min.js</pre>
+                Should start with: <code style="background: #e8e8e8; padding: 2px 4px; border-radius: 2px; font-size: 0.8rem;">(()=>{function</code>
+              </li>
               <li>Commit and deploy the updated libs/peerjs.min.js file</li>
               <li>Test deployment by checking browser console logs</li>
+              <li>Verify the file is accessible at: <code style="background: #f5f5f5; padding: 2px 6px; border-radius: 3px;">https://yoursite.com/libs/peerjs.min.js</code></li>
             </ol>
             <p style="margin-top: 10px;">
               📖 See <code style="background: #f5f5f5; padding: 2px 6px; border-radius: 3px;">libs/README.md</code> 

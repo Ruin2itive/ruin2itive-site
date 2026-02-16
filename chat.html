@@ -550,11 +550,8 @@
     </div>
   </div>
 
-  <script src="https://unpkg.com/peerjs@1.5.2/dist/peerjs.min.js" 
-          integrity="sha384-OLBgp1GsljhM2TJ+sbHjaiH9txEUvgdDTAzHv2P24donTt6/529l+9Ua0vFImLlb" 
-          crossorigin="anonymous"
-          onerror="loadPeerJSFallback()"></script>
   <script>
+    // Define fallback functions before loading PeerJS to ensure they're available
     // Fallback loader for PeerJS if primary CDN fails
     function loadPeerJSFallback() {
       console.warn('[PEERJS] ⚠ Primary CDN (unpkg.com) failed to load');
@@ -605,11 +602,44 @@
       script.onload = function() {
         console.log('[PEERJS] ✓ Local fallback (libs/peerjs.min.js) loaded successfully');
         console.info('[PEERJS] Note: Using local fallback. CDN access may be restricted.');
+        
+        // Verify PeerJS is actually available after loading with polling mechanism
+        let retries = 0;
+        const maxRetries = 10;
+        const checkInterval = 50; // 50ms between checks
+        
+        const verifyPeerJS = () => {
+          if (typeof Peer !== 'undefined') {
+            console.log('[PEERJS] ✓ Peer object verified and ready');
+            return;
+          }
+          
+          retries++;
+          if (retries >= maxRetries) {
+            console.error('[PEERJS] ✗ Local fallback loaded but Peer object not available');
+            console.error('[PEERJS]   This indicates the local file may be a placeholder or corrupted');
+            console.error('[PEERJS]   Expected file size: ~80-100 KB');
+            console.error('[PEERJS]   Run: scripts/download-peerjs.sh to download actual library');
+            
+            if (window.showPeerJSLoadError) {
+              window.showPeerJSLoadError();
+            }
+          } else {
+            setTimeout(verifyPeerJS, checkInterval);
+          }
+        };
+        
+        verifyPeerJS();
       };
       
       document.head.appendChild(script);
     }
   </script>
+
+  <script src="https://unpkg.com/peerjs@1.5.2/dist/peerjs.min.js" 
+          integrity="sha384-OLBgp1GsljhM2TJ+sbHjaiH9txEUvgdDTAzHv2P24donTt6/529l+9Ua0vFImLlb" 
+          crossorigin="anonymous"
+          onerror="loadPeerJSFallback()"></script>
   <script src="chat.js"></script>
 </body>
 </html>
