@@ -1,6 +1,11 @@
 /**
  * Chat Room Application
  * Real-time chat with WebRTC via PeerJS for GitHub Pages compatibility
+ * 
+ * Requirements:
+ * - ES2015+ JavaScript (for Set insertion order preservation)
+ * - WebRTC support (RTCPeerConnection)
+ * - WebSocket support
  */
 
 (function() {
@@ -34,6 +39,11 @@
     timeWindow: 10000 // 10 seconds
   };
 
+  const MESSAGE_CONFIG = {
+    maxSeenMessages: 200, // Maximum number of message IDs to track
+    maxHistory: 50 // Maximum number of messages to keep in history
+  };
+
   // State
   let peer = null;
   let connections = new Map();
@@ -43,6 +53,7 @@
   let isConnected = false;
   let connectionRetries = 0;
   let browserInfo = null;
+  let seenMessages = new Set(); // Track message IDs to prevent duplicates
 
   // DOM Elements
   const joinModal = document.getElementById('join-modal');
@@ -75,6 +86,19 @@
   // Utility: Generate unique ID
   function generateId() {
     return Math.random().toString(36).substring(2, 11);
+  }
+
+  // Utility: Generate unique message ID
+  function generateMessageId() {
+    return generateId() + '-' + Date.now();
+  }
+
+  // Utility: Prune seen messages to prevent memory issues
+  function pruneSeenMessages() {
+    if (seenMessages.size > MESSAGE_CONFIG.maxSeenMessages) {
+      const messagesArray = Array.from(seenMessages);
+      seenMessages = new Set(messagesArray.slice(-MESSAGE_CONFIG.maxSeenMessages));
+    }
   }
 
   // Browser Detection and Compatibility Check
@@ -244,9 +268,9 @@
     
     messageHistory.push(message);
     
-    // Keep message history limited to last 50 messages to prevent memory issues
-    if (messageHistory.length > 50) {
-      messageHistory = messageHistory.slice(-50);
+    // Keep message history limited to prevent memory issues
+    if (messageHistory.length > MESSAGE_CONFIG.maxHistory) {
+      messageHistory = messageHistory.slice(-MESSAGE_CONFIG.maxHistory);
     }
   }
 
@@ -309,11 +333,15 @@
 
     const message = {
       type: 'message',
+      id: generateMessageId(), // Unique message ID
       userId: currentUser.id,
       username: currentUser.username,
       content: content.trim(),
       timestamp: new Date().toISOString()
     };
+
+    // Mark as seen to prevent re-displaying our own message
+    seenMessages.add(message.id);
 
     // Add to local display
     addMessage(message);
@@ -337,6 +365,18 @@
       logDebug('DATA', 'Received data from peer', { peer: conn.peer, type: data.type });
       
       if (data.type === 'message') {
+        // Check for duplicate messages
+        if (data.id && seenMessages.has(data.id)) {
+          logDebug('DATA', 'Duplicate message detected, skipping', { messageId: data.id });
+          return;
+        }
+        
+        // Mark message as seen
+        if (data.id) {
+          seenMessages.add(data.id);
+          pruneSeenMessages();
+        }
+        
         addMessage(data);
         
         // Relay to other connections (not sender)
@@ -356,7 +396,7 @@
           logDebug('HISTORY', 'Sending message history to peer', { peer: conn.peer, count: messageHistory.length });
           conn.send({
             type: 'history',
-            messages: messageHistory.slice(-50) // Last 50 messages
+            messages: messageHistory.slice(-MESSAGE_CONFIG.maxHistory)
           });
         }
       } else if (data.type === 'history') {
@@ -531,7 +571,26 @@
 
           conn.on('data', (data) => {
             if (data.type === 'message') {
+              // Check for duplicate messages
+              if (data.id && seenMessages.has(data.id)) {
+                logDebug('DATA', 'Duplicate message detected, skipping', { messageId: data.id });
+                return;
+              }
+              
+              // Mark message as seen
+              if (data.id) {
+                seenMessages.add(data.id);
+                pruneSeenMessages();
+              }
+              
               addMessage(data);
+              
+              // Relay message to other connections (mesh network propagation)
+              connections.forEach((otherConn, peerId) => {
+                if (otherConn.open && peerId !== conn.peer) {
+                  otherConn.send(data);
+                }
+              });
             } else if (data.type === 'user_joined') {
               addMessage({
                 type: 'system',
@@ -541,7 +600,7 @@
               if (messageHistory.length > 0) {
                 conn.send({
                   type: 'history',
-                  messages: messageHistory.slice(-50)
+                  messages: messageHistory.slice(-MESSAGE_CONFIG.maxHistory)
                 });
               }
             } else if (data.type === 'history') {

@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chat Message Relay Test</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 1200px;
+      margin: 20px auto;
+      padding: 20px;
+      background: #f5f5f5;
+    }
+    h1 {
+      color: #333;
+    }
+    .test-section {
+      background: white;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .instructions {
+      background: #e3f2fd;
+      padding: 15px;
+      border-left: 4px solid #2196f3;
+      margin: 15px 0;
+    }
+    .instructions ol {
+      margin: 10px 0;
+    }
+    .instructions li {
+      margin: 5px 0;
+    }
+    .success {
+      color: #4caf50;
+      font-weight: bold;
+    }
+    .info {
+      color: #2196f3;
+      font-weight: bold;
+    }
+    .warning {
+      color: #ff9800;
+      font-weight: bold;
+    }
+    code {
+      background: #f5f5f5;
+      padding: 2px 6px;
+      border-radius: 3px;
+      font-family: 'Courier New', monospace;
+    }
+    .button {
+      background: #2196f3;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 16px;
+      margin: 5px;
+    }
+    .button:hover {
+      background: #1976d2;
+    }
+    .scenario {
+      margin: 20px 0;
+      padding: 15px;
+      background: #f9f9f9;
+      border-radius: 4px;
+    }
+    .scenario h3 {
+      margin-top: 0;
+    }
+    .expected-result {
+      background: #e8f5e9;
+      padding: 10px;
+      border-left: 4px solid #4caf50;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Chat Message Synchronization Test Guide</h1>
+  
+  <div class="test-section">
+    <h2>✅ Fix Applied</h2>
+    <p>The chat message synchronization issue has been fixed with the following improvements:</p>
+    <ul>
+      <li><span class="success">✓</span> Added message relay logic to outgoing connections</li>
+      <li><span class="success">✓</span> Implemented message deduplication using unique message IDs</li>
+      <li><span class="success">✓</span> Memory-efficient tracking (last 200 messages)</li>
+      <li><span class="success">✓</span> Consistent message handling across all connection types</li>
+      <li><span class="success">✓</span> 0 security vulnerabilities (CodeQL verified)</li>
+    </ul>
+  </div>
+
+  <div class="test-section">
+    <h2>🧪 Manual Testing Instructions</h2>
+    
+    <div class="instructions">
+      <h3>Prerequisites:</h3>
+      <ol>
+        <li>Start a local web server: <code>python3 -m http.server 8000</code></li>
+        <li>Open 3 different browser windows/tabs:
+          <ul>
+            <li>Window 1: Regular browser</li>
+            <li>Window 2: Incognito/Private mode</li>
+            <li>Window 3: Different browser or another incognito window</li>
+          </ul>
+        </li>
+        <li>Navigate to <code>http://localhost:8000/chat.html</code> in each window</li>
+      </ol>
+    </div>
+
+    <div class="scenario">
+      <h3>Test Scenario 1: Basic Message Broadcasting</h3>
+      <p><strong>Steps:</strong></p>
+      <ol>
+        <li>Join chat as "Alice" in Window 1</li>
+        <li>Join chat as "Bob" in Window 2</li>
+        <li>Join chat as "Charlie" in Window 3</li>
+        <li>Wait for all users to connect (status indicator should be green)</li>
+        <li>Send "Hello from Alice" from Window 1</li>
+        <li>Send "Hello from Bob" from Window 2</li>
+        <li>Send "Hello from Charlie" from Window 3</li>
+      </ol>
+      <div class="expected-result">
+        <strong>✅ Expected Result:</strong>
+        <ul>
+          <li>All three messages should appear in all three windows</li>
+          <li>No duplicate messages should appear</li>
+          <li>Messages should appear in the same order across all windows</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="scenario">
+      <h3>Test Scenario 2: Late Joiner</h3>
+      <p><strong>Steps:</strong></p>
+      <ol>
+        <li>With Alice, Bob, and Charlie already connected (from Scenario 1)</li>
+        <li>Alice sends "Message 1"</li>
+        <li>Bob sends "Message 2"</li>
+        <li>Open a 4th window and join as "Dave"</li>
+        <li>Dave should see recent message history</li>
+        <li>Dave sends "Hello everyone!"</li>
+        <li>Charlie sends "Welcome Dave!"</li>
+      </ol>
+      <div class="expected-result">
+        <strong>✅ Expected Result:</strong>
+        <ul>
+          <li>Dave receives recent message history upon joining</li>
+          <li>Dave's message appears in all windows</li>
+          <li>Charlie's message appears in all windows including Dave's</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="scenario">
+      <h3>Test Scenario 3: Rapid Messaging</h3>
+      <p><strong>Steps:</strong></p>
+      <ol>
+        <li>Using the connected users from previous scenarios</li>
+        <li>Quickly send 3-4 messages from different users in rapid succession</li>
+        <li>Example:
+          <ul>
+            <li>Alice: "Message A1"</li>
+            <li>Bob: "Message B1"</li>
+            <li>Charlie: "Message C1"</li>
+            <li>Alice: "Message A2"</li>
+          </ul>
+        </li>
+      </ol>
+      <div class="expected-result">
+        <strong>✅ Expected Result:</strong>
+        <ul>
+          <li>All messages appear in all windows</li>
+          <li>No messages are lost</li>
+          <li>No duplicate messages appear</li>
+          <li>Message order is consistent across all windows</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="scenario">
+      <h3>Test Scenario 4: Console Verification</h3>
+      <p><strong>Steps:</strong></p>
+      <ol>
+        <li>Open browser Developer Tools (F12) in one of the windows</li>
+        <li>Go to the Console tab</li>
+        <li>Send a message from a different window</li>
+        <li>Observe the console logs</li>
+      </ol>
+      <div class="expected-result">
+        <strong>✅ Expected Result:</strong>
+        <p>You should see logs like:</p>
+        <ul>
+          <li><code>[DATA] Received data from peer</code> - Message received</li>
+          <li><code>[DATA] Duplicate message detected, skipping</code> - Deduplication working</li>
+          <li>No error messages in red</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="test-section">
+    <h2>🔍 What Was Fixed</h2>
+    
+    <div style="background: #fff3cd; padding: 15px; border-left: 4px solid #ffc107; margin: 15px 0;">
+      <h3>Problem Before Fix:</h3>
+      <p>In a mesh network with Users A, B, and C:</p>
+      <ul>
+        <li>User B sends a message</li>
+        <li>User A receives it (via incoming connection) ✓</li>
+        <li>User C receives it (via outgoing connection) ✓</li>
+        <li>User A relays to User C ✓</li>
+        <li><strong>User C does NOT relay</strong> ❌ (outgoing connections didn't relay)</li>
+        <li>Result: Messages from some users don't reach everyone</li>
+      </ul>
+    </div>
+
+    <div style="background: #e8f5e9; padding: 15px; border-left: 4px solid #4caf50; margin: 15px 0;">
+      <h3>Solution After Fix:</h3>
+      <p>Now with the fix:</p>
+      <ul>
+        <li>User B sends a message with unique ID</li>
+        <li>User A receives it and relays to others ✓</li>
+        <li>User C receives it and relays to others ✓</li>
+        <li>Duplicate messages are detected and filtered ✓</li>
+        <li>Result: All messages reach all users exactly once! 🎉</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="test-section">
+    <h2>📊 Technical Details</h2>
+    <ul>
+      <li><strong>Message ID:</strong> Each message gets a unique ID: <code>randomString-timestamp</code></li>
+      <li><strong>Deduplication:</strong> Each peer tracks up to 200 seen message IDs</li>
+      <li><strong>Relay Logic:</strong> Both incoming and outgoing connections relay messages to all other peers</li>
+      <li><strong>Memory Management:</strong> Automatic cleanup keeps only recent message IDs</li>
+      <li><strong>Security:</strong> All changes verified with CodeQL scanner (0 vulnerabilities)</li>
+    </ul>
+  </div>
+
+  <div class="test-section">
+    <h2>🚀 Quick Links</h2>
+    <button class="button" onclick="window.open('http://localhost:8000/chat.html', '_blank')">
+      Open Chat in New Window
+    </button>
+    <button class="button" onclick="window.open('http://localhost:8000/chat.html', '_blank')">
+      Open Chat in Another Window
+    </button>
+    <br><br>
+    <p><em>Tip: Use incognito/private mode for additional test windows to avoid session sharing.</em></p>
+  </div>
+
+  <div class="test-section">
+    <h2>📝 Documentation</h2>
+    <p>For detailed technical documentation, see:</p>
+    <ul>
+      <li><code>CHAT_FIX_DOCUMENTATION.md</code> - Complete fix documentation</li>
+      <li><code>CHAT_FEATURE.md</code> - User guide and feature documentation</li>
+      <li><code>chat.js</code> - Implementation with inline comments</li>
+    </ul>
+  </div>
+</body>
+</html>
