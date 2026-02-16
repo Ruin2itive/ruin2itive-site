@@ -25,18 +25,34 @@ function fmtLocal(iso) {
 
 function decodeHtmlEntities(text) {
   if (!text) return text;
+  // Decode in proper order: &amp; must be last to avoid double-decoding
   return text
     .replace(/&#39;|&#x27;|&apos;/g, "'")
     .replace(/&quot;/g, '"')
-    .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>');
+    .replace(/&gt;/g, '>')
+    .replace(/&amp;/g, '&');
 }
 
 function createSummary(description, maxLength = 70) {
   if (!description) return "";
-  // Strip HTML tags
-  let text = description.replace(/<[^>]*>/g, '');
+  // For RSS content, we trust the source feeds (BBC, HN, Decrypt, Hackster)
+  // but still sanitize by removing all HTML tags
+  // Note: The esc() function in index.html provides final output escaping as defense in depth
+  let text = description;
+  
+  // Remove script tags first (defense in depth)
+  // The while loop ensures complete removal even with malformed tags
+  while (text !== (text = text.replace(/<script[^>]*>.*?<\/script[^>]*>/gi, ''))) {
+    // Keep replacing until no more script tags found
+  }
+  
+  // Remove all remaining HTML tags
+  // Again using while loop to handle nested or malformed tags
+  while (text !== (text = text.replace(/<[^>]+>/g, ''))) {
+    // Keep replacing until no more tags found
+  }
+  
   // Decode entities
   text = decodeHtmlEntities(text);
   // Trim whitespace
