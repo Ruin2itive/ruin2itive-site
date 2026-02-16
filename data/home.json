@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-16T06:07:51.953Z",
-  "updated_local": "2/16/2026, 6:07:51 AM",
+  "updated_iso": "2026-02-16T07:16:47.560Z",
+  "updated_local": "2/16/2026, 7:16:47 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+        "url": "https://mastodon.world/@knowmadd/116072773118828295",
+        "source": "hn",
+        "time": "2/16/2026, 6:31:48 AM"
+      },
+      {
         "title": "I’m joining OpenAI",
         "url": "https://steipete.me/posts/2026/openclaw",
         "source": "hn",
         "time": "2/15/2026, 9:54:15 PM"
+      },
+      {
+        "title": "Building SQLite with a small swarm",
+        "url": "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html",
+        "source": "hn",
+        "time": "2/16/2026, 5:38:51 AM"
       },
       {
         "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
@@ -52,18 +64,6 @@
         "url": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
         "source": "hn",
         "time": "2/16/2026, 2:36:14 AM"
-      },
-      {
-        "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
-        "url": "https://modern-css.com",
-        "source": "hn",
-        "time": "2/15/2026, 6:04:10 PM"
-      },
-      {
-        "title": "LT6502: A 6502-based homebrew laptop",
-        "url": "https://github.com/TechPaula/LT6502",
-        "source": "hn",
-        "time": "2/15/2026, 5:12:35 PM"
       }
     ],
     "world": [
@@ -72,12 +72,6 @@
         "url": "https://www.bbc.com/news/articles/cvg36pknpl5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 16 Feb 2026 06:00:20 GMT"
-      },
-      {
-        "title": "Starmer pledges crackdown on 'addictive elements' of social media",
-        "url": "https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 16 Feb 2026 04:52:29 GMT"
       },
       {
         "title": "UK considering significant increase to defence spending",
@@ -92,10 +86,16 @@
         "time": "Sun, 15 Feb 2026 21:32:23 GMT"
       },
       {
-        "title": "'It's never too late': Savannah Guthrie's new plea for mother's release as FBI analyses glove",
-        "url": "https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ministers want to reform SEND - but they are treading very carefully",
+        "url": "https://www.bbc.com/news/articles/c7951dzg9npo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 16 Feb 2026 04:53:41 GMT"
+        "time": "Mon, 16 Feb 2026 01:11:05 GMT"
+      },
+      {
+        "title": "Royal Mail letters sit undelivered 'for weeks' as parcels prioritised, staff say",
+        "url": "https://www.bbc.com/news/articles/c39wlryn20vo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 16 Feb 2026 06:01:25 GMT"
       }
     ],
     "projects": [
