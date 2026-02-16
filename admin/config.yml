@@ -16,4 +16,3 @@ collections:
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
-    publish: true
