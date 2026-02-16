@@ -43,6 +43,7 @@
   let isConnected = false;
   let connectionRetries = 0;
   let browserInfo = null;
+  let seenMessages = new Set(); // Track message IDs to prevent duplicates
 
   // DOM Elements
   const joinModal = document.getElementById('join-modal');
@@ -309,11 +310,15 @@
 
     const message = {
       type: 'message',
+      id: generateId() + '-' + Date.now(), // Unique message ID
       userId: currentUser.id,
       username: currentUser.username,
       content: content.trim(),
       timestamp: new Date().toISOString()
     };
+
+    // Mark as seen to prevent re-displaying our own message
+    seenMessages.add(message.id);
 
     // Add to local display
     addMessage(message);
@@ -337,6 +342,23 @@
       logDebug('DATA', 'Received data from peer', { peer: conn.peer, type: data.type });
       
       if (data.type === 'message') {
+        // Check for duplicate messages
+        if (data.id && seenMessages.has(data.id)) {
+          logDebug('DATA', 'Duplicate message detected, skipping', { messageId: data.id });
+          return;
+        }
+        
+        // Mark message as seen
+        if (data.id) {
+          seenMessages.add(data.id);
+          
+          // Limit seenMessages size to prevent memory issues (keep last 200)
+          if (seenMessages.size > 200) {
+            const messagesArray = Array.from(seenMessages);
+            seenMessages = new Set(messagesArray.slice(-200));
+          }
+        }
+        
         addMessage(data);
         
         // Relay to other connections (not sender)
@@ -531,7 +553,31 @@
 
           conn.on('data', (data) => {
             if (data.type === 'message') {
+              // Check for duplicate messages
+              if (data.id && seenMessages.has(data.id)) {
+                logDebug('DATA', 'Duplicate message detected, skipping', { messageId: data.id });
+                return;
+              }
+              
+              // Mark message as seen
+              if (data.id) {
+                seenMessages.add(data.id);
+                
+                // Limit seenMessages size to prevent memory issues (keep last 200)
+                if (seenMessages.size > 200) {
+                  const messagesArray = Array.from(seenMessages);
+                  seenMessages = new Set(messagesArray.slice(-200));
+                }
+              }
+              
               addMessage(data);
+              
+              // Relay message to other connections (mesh network propagation)
+              connections.forEach((otherConn, peerId) => {
+                if (otherConn.open && peerId !== conn.peer) {
+                  otherConn.send(data);
+                }
+              });
             } else if (data.type === 'user_joined') {
               addMessage({
                 type: 'system',
