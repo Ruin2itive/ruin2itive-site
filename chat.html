@@ -605,6 +605,22 @@
       script.onload = function() {
         console.log('[PEERJS] ✓ Local fallback (libs/peerjs.min.js) loaded successfully');
         console.info('[PEERJS] Note: Using local fallback. CDN access may be restricted.');
+        
+        // Verify PeerJS is actually available after loading
+        setTimeout(() => {
+          if (typeof Peer === 'undefined') {
+            console.error('[PEERJS] ✗ Local fallback loaded but Peer object not available');
+            console.error('[PEERJS]   This indicates the local file may be a placeholder or corrupted');
+            console.error('[PEERJS]   Expected file size: ~80-100 KB');
+            console.error('[PEERJS]   Run: scripts/download-peerjs.sh to download actual library');
+            
+            if (window.showPeerJSLoadError) {
+              window.showPeerJSLoadError();
+            }
+          } else {
+            console.log('[PEERJS] ✓ Peer object verified and ready');
+          }
+        }, 100);
       };
       
       document.head.appendChild(script);
