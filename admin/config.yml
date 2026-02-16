@@ -1,9 +1,8 @@
 ---
 backend:
-  name: github
+  name: git-gateway
   repo: Ruin2itive/ruin2itive-site # Your repository
   branch: main                     # Your default branch
-  base_url: https://api.github.com # For GitHub API (can omit as it's the default)
 
 media_folder: static/uploads       # Upload folder for images
 public_folder: /uploads            # Public URL for media files
