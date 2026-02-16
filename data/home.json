@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-16T22:26:42.148Z",
-  "updated_local": "2/16/2026, 10:26:42 PM",
+  "updated_iso": "2026-02-16T22:38:11.520Z",
+  "updated_local": "2/16/2026, 10:38:11 PM",
   "sections": {
     "crypto": [
       {
@@ -54,16 +54,16 @@
         "time": "2/16/2026, 8:34:27 PM"
       },
       {
-        "title": "Testing Postgres race conditions with synchronization barriers",
-        "url": "https://www.lirbank.com/harnessing-postgres-race-conditions",
-        "source": "hn",
-        "time": "2/16/2026, 8:23:36 PM"
-      },
-      {
         "title": "Show HN: Wildex – we built Pokémon Go for real wildlife",
         "url": "https://apps.apple.com/us/app/wildex-identify-plants-animals/id6748092158",
         "source": "hn",
         "time": "2/16/2026, 9:12:07 PM"
+      },
+      {
+        "title": "Testing Postgres race conditions with synchronization barriers",
+        "url": "https://www.lirbank.com/harnessing-postgres-race-conditions",
+        "source": "hn",
+        "time": "2/16/2026, 8:23:36 PM"
       }
     ],
     "world": [
