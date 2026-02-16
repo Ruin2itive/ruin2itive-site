@@ -33,7 +33,7 @@ function decodeHtmlEntities(text) {
     .replace(/&gt;/g, '>');
 }
 
-function createSummary(description, maxLength = 80) {
+function createSummary(description, maxLength = 70) {
   if (!description) return "";
   // Strip HTML tags
   let text = description.replace(/<[^>]*>/g, '');
