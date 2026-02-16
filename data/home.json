@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-16T15:39:05.806Z",
-  "updated_local": "2/16/2026, 3:39:05 PM",
+  "updated_iso": "2026-02-16T15:51:11.685Z",
+  "updated_local": "2/16/2026, 3:51:11 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "U.S. Crypto Funds Shed $403M Amid Price Weakness: CoinShares",
+        "url": "https://decrypt.co/358156/u-s-crypto-funds-shed-403m-amid-price-weakness-coinshares",
+        "source": "crypto",
+        "time": "Mon, 16 Feb 2026 15:38:05 +0000"
+      },
       {
         "title": "Nexo Taps Bakkt For US Return Three Years After SEC Settlement Over Lending Product",
         "url": "https://decrypt.co/358078/nexo-us-return-after-sec-settlement",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/358144/crypto-traders-rotate-into-select-altcoins-as-bitcoin-stalls",
         "source": "crypto",
         "time": "Mon, 16 Feb 2026 10:37:23 +0000"
-      },
-      {
-        "title": "OpenAI Taps OpenClaw Founder to Lead Push Into Personal AI Agents",
-        "url": "https://decrypt.co/358141/openai-openclaw-founder-lead-push-personal-ai-agents",
-        "source": "crypto",
-        "time": "Mon, 16 Feb 2026 05:33:38 +0000"
       }
     ],
     "hacker": [
@@ -48,6 +48,12 @@
         "time": "2/16/2026, 1:39:45 PM"
       },
       {
+        "title": "The Sideprocalypse",
+        "url": "https://johan.hal.se/wrote/2026/02/03/the-sideprocalypse/",
+        "source": "hn",
+        "time": "2/16/2026, 2:26:39 PM"
+      },
+      {
         "title": "Ghidra by NSA",
         "url": "https://github.com/NationalSecurityAgency/ghidra",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
         "source": "hn",
         "time": "2/16/2026, 2:39:32 PM"
-      },
-      {
-        "title": "Qwen3.5: Towards Native Multimodal Agents",
-        "url": "https://qwen.ai/blog?id=qwen3.5",
-        "source": "hn",
-        "time": "2/16/2026, 9:32:21 AM"
       }
     ],
     "world": [
