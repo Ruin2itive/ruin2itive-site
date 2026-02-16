@@ -60,7 +60,7 @@ fi
 
 # Check file content
 FIRST_CHARS=$(head -c 20 "$OUTPUT_FILE")
-if [[ $FIRST_CHARS == !function* ]] || [[ $FIRST_CHARS == \(function* ]]; then
+if [[ $FIRST_CHARS =~ ^!function ]] || [[ $FIRST_CHARS =~ ^\(function ]]; then
     echo "✓ File content verified: Valid minified JavaScript"
 else
     echo "✗ Warning: File may not be valid JavaScript"
