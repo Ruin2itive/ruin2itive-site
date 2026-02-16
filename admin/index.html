@@ -5,6 +5,61 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Content Manager</title>
   <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    }
+    
+    .setup-banner {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 15px 20px;
+      z-index: 10001;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      display: none;
+    }
+    
+    .setup-banner.show {
+      display: block;
+    }
+    
+    .setup-banner h4 {
+      margin: 0 0 10px 0;
+      font-size: 16px;
+    }
+    
+    .setup-banner p {
+      margin: 5px 0;
+      font-size: 14px;
+      opacity: 0.9;
+    }
+    
+    .setup-banner a {
+      color: white;
+      text-decoration: underline;
+      font-weight: 600;
+    }
+    
+    .setup-banner button {
+      margin-top: 10px;
+      padding: 8px 16px;
+      background: white;
+      color: #667eea;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: 600;
+    }
+    
+    .setup-banner button:hover {
+      background: #f0f0f0;
+    }
+    
     .error-container {
       display: none;
       position: fixed;
@@ -48,6 +103,14 @@
   </style>
 </head>
 <body>
+  <div id="setup-banner" class="setup-banner">
+    <h4>⚙️ OAuth Setup Required for GitHub Pages</h4>
+    <p>To use this admin interface, you need to set up an OAuth proxy server (free options available).</p>
+    <p><strong>Quick setup guide:</strong> <a href="/GITHUB_PAGES_OAUTH_SETUP.md" target="_blank">GITHUB_PAGES_OAUTH_SETUP.md</a></p>
+    <p>This banner will disappear once OAuth is properly configured.</p>
+    <button onclick="dismissBanner()">Dismiss</button>
+  </div>
+  
   <div id="error-container" class="error-container">
     <h3>⚠️ Authentication Error</h3>
     <div id="error-message"></div>
@@ -58,6 +121,31 @@
   <script src="https://unpkg.com/netlify-cms@2.10.192/dist/netlify-cms.js"></script>
   
   <script>
+    // Check if OAuth is configured
+    function checkOAuthConfig() {
+      fetch('/admin/config.yml')
+        .then(r => r.text())
+        .then(config => {
+          // Check if base_url is configured (indicates OAuth proxy is set up)
+          if (!config.includes('base_url:')) {
+            // Show setup banner if OAuth is not configured
+            setTimeout(() => {
+              if (!sessionStorage.getItem('oauth-banner-dismissed')) {
+                document.getElementById('setup-banner').classList.add('show');
+              }
+            }, 2000); // Show after 2 seconds
+          }
+        })
+        .catch(err => {
+          console.error('Failed to load config:', err);
+        });
+    }
+    
+    function dismissBanner() {
+      sessionStorage.setItem('oauth-banner-dismissed', 'true');
+      document.getElementById('setup-banner').classList.remove('show');
+    }
+    
     // Enhanced error logging for debugging
     window.addEventListener('error', function(event) {
       console.error('Global error:', event.error);
@@ -85,9 +173,12 @@
         const errorDescription = params.get('error_description');
         if (error) {
           console.error('OAuth Error:', error, errorDescription);
-          showError('OAuth Error', `${error}: ${errorDescription || 'No description provided'}`);
+          showError('OAuth Error', `${error}: ${errorDescription || 'No description provided'}\n\nSee GITHUB_PAGES_OAUTH_SETUP.md for setup instructions.`);
         }
       }
+      
+      // Check OAuth configuration
+      checkOAuthConfig();
       
       // Log configuration for debugging
       fetch('/admin/config.yml')
@@ -113,11 +204,12 @@
     console.log('%cNetlify CMS Admin Interface', 'font-size: 20px; font-weight: bold; color: #00ad9f;');
     console.log('Repository: Ruin2itive/ruin2itive-site');
     console.log('Branch: main');
-    console.log('Backend: GitHub (requires repository write access)');
+    console.log('Backend: GitHub (requires OAuth proxy for GitHub Pages)');
     console.log('%cFor authentication to work, you must:', 'font-weight: bold;');
-    console.log('1. Have write access to the repository');
-    console.log('2. Be logged into your GitHub account');
-    console.log('3. Authorize the application when prompted');
+    console.log('1. Set up an OAuth proxy (see GITHUB_PAGES_OAUTH_SETUP.md)');
+    console.log('2. Have write access to the repository');
+    console.log('3. Be logged into your GitHub account');
+    console.log('4. Authorize the application when prompted');
   </script>
 </body>
 </html>
