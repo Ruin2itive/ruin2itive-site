@@ -404,6 +404,226 @@ Potential improvements for future versions:
    - Each attempt logs the delay and reason for failure
    - Example: `[JOIN] Connection attempt 1 failed, retrying in 4000ms...`
 
+### Verifying PeerJS Library Loading
+
+The chat feature uses a three-tier fallback system for loading the PeerJS library. Understanding this system helps troubleshoot loading issues.
+
+#### Three-Tier Fallback System
+
+1. **Primary CDN (unpkg.com)**
+   - Fastest option with SRI (Subresource Integrity) hash check
+   - Automatically loaded first
+   - Console: `[PEERJS] ✓ PeerJS library loaded successfully` (if successful)
+
+2. **Secondary CDN (cdn.jsdelivr.net)**
+   - Fallback if primary CDN fails
+   - Console: `[PEERJS] ⚠ Primary CDN (unpkg.com) failed to load`
+   - Console: `[PEERJS] → Attempting secondary CDN fallback (jsdelivr.net)...`
+   - Console: `[PEERJS] ✓ Secondary CDN (jsdelivr.net) loaded successfully` (if successful)
+
+3. **Local Fallback (libs/peerjs.min.js)**
+   - Final fallback if both CDNs fail
+   - Console: `[PEERJS] ⚠ Secondary CDN (jsdelivr.net) failed to load`
+   - Console: `[PEERJS] → Attempting local fallback (libs/peerjs.min.js)...`
+   - Console: `[PEERJS] ✓ Local fallback (libs/peerjs.min.js) loaded successfully` (if successful)
+
+#### Verification in Local Environment
+
+**Testing During Development:**
+
+1. **Normal Loading (Primary CDN):**
+   ```bash
+   # Start local development server
+   python3 -m http.server 8000
+   # or
+   npx http-server -p 8000
+   ```
+   
+   Open browser to `http://localhost:8000/chat.html` and check console:
+   ```
+   [PEERJS] ✓ PeerJS library loaded successfully
+   ```
+
+2. **Test Secondary CDN Fallback:**
+   - Block unpkg.com using browser extension (uBlock Origin, Block Site)
+   - Reload chat.html
+   - Console should show:
+   ```
+   [PEERJS] ⚠ Primary CDN (unpkg.com) failed to load
+   [PEERJS] → Attempting secondary CDN fallback (jsdelivr.net)...
+   [PEERJS] ✓ Secondary CDN (jsdelivr.net) loaded successfully
+   ```
+
+3. **Test Local Fallback:**
+   - Block both unpkg.com AND cdn.jsdelivr.net
+   - **IMPORTANT**: Ensure `libs/peerjs.min.js` contains actual PeerJS library (not placeholder)
+   - Reload chat.html
+   - Console should show:
+   ```
+   [PEERJS] ⚠ Primary CDN (unpkg.com) failed to load
+   [PEERJS] → Attempting secondary CDN fallback (jsdelivr.net)...
+   [PEERJS] ⚠ Secondary CDN (jsdelivr.net) failed to load
+   [PEERJS] → Attempting local fallback (libs/peerjs.min.js)...
+   [PEERJS] ✓ Local fallback (libs/peerjs.min.js) loaded successfully
+   ```
+
+4. **Verify Library is Functional:**
+   ```javascript
+   // Type in browser console:
+   typeof Peer
+   // Should return: "function"
+   
+   // Test creating a peer instance:
+   const testPeer = new Peer();
+   // Should not throw errors
+   ```
+
+#### Verification in Remote/Deployed Environment
+
+**Testing Production Deployment:**
+
+1. **Check File Deployment:**
+   ```bash
+   # Verify the local fallback file is deployed
+   curl -I https://yoursite.com/libs/peerjs.min.js
+   
+   # Should return:
+   # HTTP/2 200
+   # content-type: application/javascript
+   # content-length: ~80000-100000 (for actual library, not 1KB placeholder)
+   ```
+
+2. **Test CDN Access:**
+   - Open chat page: `https://yoursite.com/chat.html`
+   - Open browser console (F12)
+   - Look for successful loading message
+   - If primary CDN works: `[PEERJS] ✓ PeerJS library loaded successfully`
+
+3. **Test Local Fallback on Deployed Site:**
+   - Open browser with developer tools (F12)
+   - Go to Network tab
+   - Block unpkg.com and cdn.jsdelivr.net in browser
+   - Reload page
+   - Check Network tab shows successful load of `libs/peerjs.min.js`
+   - Check Console shows local fallback success message
+
+4. **Common Deployment Issues:**
+
+   **Issue: 404 Not Found for libs/peerjs.min.js**
+   - **Cause**: File not included in deployment
+   - **Fix**: Verify file is committed to git: `git ls-files libs/peerjs.min.js`
+   - **Fix**: Check `.gitignore` doesn't exclude libs directory
+   - **Fix**: Verify deployment process includes static files
+
+   **Issue: Library loads but is placeholder**
+   - **Symptom**: Console shows warning about placeholder
+   - **Cause**: Actual PeerJS library not downloaded
+   - **Fix**: Download real library (see `libs/README.md`)
+   - **Fix**: Verify file size is ~80-100 KB, not ~1 KB
+
+   **Issue: CORS errors loading local file**
+   - **Cause**: Server misconfiguration
+   - **Fix**: Ensure server serves .js files with correct MIME type
+   - **Fix**: For GitHub Pages: Should work by default
+   - **Fix**: For other hosts: Check server configuration
+
+5. **Automated Verification Script:**
+   ```bash
+   #!/bin/bash
+   # Save as test-peerjs-fallback.sh
+   
+   SITE_URL="https://yoursite.com"
+   
+   echo "Testing PeerJS library deployment..."
+   
+   # Test local fallback file exists and size
+   echo "1. Checking local fallback file..."
+   RESPONSE=$(curl -sI "$SITE_URL/libs/peerjs.min.js")
+   if echo "$RESPONSE" | grep -q "200"; then
+       SIZE=$(curl -s "$SITE_URL/libs/peerjs.min.js" | wc -c)
+       if [ $SIZE -gt 50000 ]; then
+           echo "   ✓ Local fallback file exists and has correct size ($SIZE bytes)"
+       else
+           echo "   ✗ WARNING: File too small ($SIZE bytes) - likely a placeholder"
+       fi
+   else
+       echo "   ✗ Local fallback file not found (404)"
+   fi
+   
+   # Test chat page loads
+   echo "2. Checking chat page..."
+   if curl -s "$SITE_URL/chat.html" | grep -q "peerjs"; then
+       echo "   ✓ Chat page loads and references PeerJS"
+   else
+       echo "   ✗ Chat page issue detected"
+   fi
+   
+   echo "Done!"
+   ```
+
+#### Troubleshooting Loading Failures
+
+**All sources fail to load:**
+
+Console shows:
+```
+[PEERJS] ✗ All PeerJS sources failed to load
+[PEERJS]   → Primary CDN (unpkg.com): FAILED
+[PEERJS]   → Secondary CDN (jsdelivr.net): FAILED
+[PEERJS]   → Local fallback (libs/peerjs.min.js): FAILED or NOT FOUND (404)
+```
+
+**Checklist:**
+- [ ] Internet connection is working (test other websites)
+- [ ] Browser extensions aren't blocking scripts (disable ad blockers)
+- [ ] Firewall/proxy isn't blocking CDN domains
+- [ ] Local fallback file exists and is the actual library (not placeholder)
+- [ ] Local fallback file is properly deployed (check URL directly)
+- [ ] Server is serving .js files correctly (check Content-Type header)
+- [ ] No CORS issues (check browser console for CORS errors)
+
+**For Users:**
+1. Check internet connection
+2. Disable browser extensions
+3. Try different browser
+4. Try different network (e.g., mobile hotspot)
+5. Contact site administrator
+
+**For Administrators:**
+1. Download actual PeerJS library to replace placeholder
+2. Verify file is committed to repository
+3. Check deployment includes libs/ directory
+4. Test deployed URL directly in browser
+5. Check server logs for errors
+6. Verify Content-Type header is `application/javascript`
+
+#### Best Practices for Deployment
+
+1. **Always Replace Placeholder:**
+   - Download actual PeerJS v1.5.2 library
+   - Verify file size is ~80-100 KB
+   - Commit to repository before deployment
+
+2. **Test All Three Fallback Tiers:**
+   - Test with normal internet (primary CDN)
+   - Test with blocked unpkg.com (secondary CDN)
+   - Test with both CDNs blocked (local fallback)
+
+3. **Monitor Console Logs:**
+   - Check which tier successfully loads
+   - Investigate if always falling back to local
+   - May indicate CDN access issues
+
+4. **Document Custom Deployments:**
+   - If using custom build process, ensure libs/ is included
+   - If using custom CDN, update fallback URLs in chat.html
+   - Document any deployment-specific requirements
+
+5. **Set Up Monitoring:**
+   - Monitor for 404 errors on libs/peerjs.min.js
+   - Alert if local fallback is frequently used
+   - Track PeerJS loading success rates
+
 4. **Check WebRTC Stats**
    - Chrome: chrome://webrtc-internals
    - Firefox: about:webrtc

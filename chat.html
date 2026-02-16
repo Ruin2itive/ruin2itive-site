@@ -557,14 +557,23 @@
   <script>
     // Fallback loader for PeerJS if primary CDN fails
     function loadPeerJSFallback() {
-      console.warn('[PEERJS] Primary CDN (unpkg.com) failed, loading secondary CDN fallback...');
+      console.warn('[PEERJS] ⚠ Primary CDN (unpkg.com) failed to load');
+      console.info('[PEERJS] → Attempting secondary CDN fallback (jsdelivr.net)...');
+      
       const script = document.createElement('script');
       script.src = 'https://cdn.jsdelivr.net/npm/peerjs@1.5.2/dist/peerjs.min.js';
       script.crossOrigin = 'anonymous';
+      
+      script.onload = function() {
+        console.log('[PEERJS] ✓ Secondary CDN (jsdelivr.net) loaded successfully');
+      };
+      
       script.onerror = function() {
-        console.warn('[PEERJS] Secondary CDN (jsdelivr.net) failed, loading local fallback...');
+        console.warn('[PEERJS] ⚠ Secondary CDN (jsdelivr.net) failed to load');
+        console.info('[PEERJS] → Attempting local fallback (libs/peerjs.min.js)...');
         loadPeerJSLocal();
       };
+      
       document.head.appendChild(script);
     }
 
@@ -572,16 +581,32 @@
     function loadPeerJSLocal() {
       const script = document.createElement('script');
       script.src = 'libs/peerjs.min.js';
+      
       script.onerror = function() {
-        console.error('[PEERJS] ✗ All PeerJS sources failed (CDNs and local fallback).');
+        console.error('[PEERJS] ✗ All PeerJS sources failed to load');
+        console.error('[PEERJS]   → Primary CDN (unpkg.com): FAILED');
+        console.error('[PEERJS]   → Secondary CDN (jsdelivr.net): FAILED');
+        console.error('[PEERJS]   → Local fallback (libs/peerjs.min.js): FAILED or NOT FOUND (404)');
+        console.error('[PEERJS] ');
+        console.error('[PEERJS] This may be caused by:');
+        console.error('[PEERJS]   • Network connectivity issues or firewall blocking CDN access');
+        console.error('[PEERJS]   • Browser extensions blocking script loading (ad blockers, privacy tools)');
+        console.error('[PEERJS]   • Local fallback file missing or not properly deployed');
+        console.error('[PEERJS]   • CORS policy blocking local file access');
+        console.error('[PEERJS] ');
+        console.error('[PEERJS] See documentation at CHAT_FEATURE.md for troubleshooting steps');
+        
         // Show error in modal
         if (window.showPeerJSLoadError) {
           window.showPeerJSLoadError();
         }
       };
+      
       script.onload = function() {
-        console.log('[PEERJS] ✓ Local PeerJS library loaded successfully');
+        console.log('[PEERJS] ✓ Local fallback (libs/peerjs.min.js) loaded successfully');
+        console.info('[PEERJS] Note: Using local fallback. CDN access may be restricted.');
       };
+      
       document.head.appendChild(script);
     }
   </script>

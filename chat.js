@@ -807,32 +807,74 @@
     joinModal.querySelector('#guest-form').innerHTML = `
       <div style="color: var(--red); margin: 20px 0;">
         <p><strong>❌ Failed to load required libraries for the chat room.</strong></p>
-        <p style="margin-top: 10px;">The PeerJS library could not be loaded from any source (CDNs and local fallback). This may be due to:</p>
-        <ul style="margin: 10px 0; padding-left: 20px;">
-          <li><strong>Network connectivity issues</strong> - No internet connection or unstable network</li>
-          <li><strong>Browser extensions</strong> - Ad blockers or script blockers preventing library loading</li>
-          <li><strong>Firewall or proxy restrictions</strong> - Corporate or institutional network blocking external resources</li>
-          <li><strong>CDN service unavailability</strong> - Temporary outage of CDN providers</li>
-          <li><strong>Local fallback not configured</strong> - Missing local PeerJS library file</li>
+        <p style="margin-top: 10px;">The PeerJS library could not be loaded from any source:</p>
+        <ul style="margin: 10px 0; padding-left: 20px; font-size: 0.95rem;">
+          <li>❌ Primary CDN (unpkg.com) - Failed or blocked</li>
+          <li>❌ Secondary CDN (jsdelivr.net) - Failed or blocked</li>
+          <li>❌ Local fallback (libs/peerjs.min.js) - Failed, not found (404), or placeholder file</li>
         </ul>
-        <p style="margin-top: 15px; font-weight: bold;">🔧 Network Troubleshooting Steps:</p>
-        <ol style="margin: 10px 0; padding-left: 20px;">
-          <li>Verify you have an active internet connection by visiting other websites</li>
-          <li>Disable ad blockers, privacy extensions, or script blockers temporarily</li>
-          <li>If on a corporate/institutional network:
-            <ul style="margin: 5px 0; padding-left: 20px;">
-              <li>Contact your IT department about WebRTC and external script access</li>
-              <li>Ask if domains unpkg.com, cdn.jsdelivr.net are blocked</li>
-            </ul>
-          </li>
-          <li>Disable VPN temporarily to test connectivity</li>
-          <li>Try a different network (e.g., mobile hotspot) to rule out network restrictions</li>
-          <li>Clear browser cache and refresh the page (Ctrl+F5 or Cmd+Shift+R)</li>
-          <li>Try a different browser (Chrome, Firefox, Safari, Edge)</li>
-          <li>Check browser console (F12) for specific error messages</li>
-        </ol>
-        <p style="margin-top: 15px; font-weight: bold;">ℹ️ For Site Administrators:</p>
-        <p style="margin: 5px 0;">Ensure the local PeerJS library is properly configured in the <code>libs/</code> directory. See <code>libs/README.md</code> for instructions.</p>
+        
+        <details style="margin: 15px 0; padding: 10px; background: rgba(255,255,255,0.5); border-radius: 8px;">
+          <summary style="cursor: pointer; font-weight: bold;">🔍 Common Causes</summary>
+          <ul style="margin: 10px 0; padding-left: 20px; font-size: 0.9rem;">
+            <li><strong>Network connectivity issues</strong> - No internet or unstable connection</li>
+            <li><strong>Browser extensions</strong> - Ad blockers, privacy tools, or script blockers</li>
+            <li><strong>Firewall restrictions</strong> - Corporate/institutional networks blocking CDNs</li>
+            <li><strong>CDN service outages</strong> - Temporary unavailability of CDN providers</li>
+            <li><strong>Local fallback missing</strong> - Placeholder file not replaced with actual library</li>
+            <li><strong>CORS policy issues</strong> - Server not configured to serve the library file</li>
+            <li><strong>Deployment error</strong> - Local file not included in deployment</li>
+          </ul>
+        </details>
+        
+        <details style="margin: 15px 0; padding: 10px; background: rgba(255,255,255,0.5); border-radius: 8px;">
+          <summary style="cursor: pointer; font-weight: bold;">🔧 User Troubleshooting Steps</summary>
+          <ol style="margin: 10px 0; padding-left: 20px; font-size: 0.9rem;">
+            <li>Verify internet connection by visiting other websites</li>
+            <li>Disable ad blockers and privacy extensions temporarily</li>
+            <li>Check if CDN domains are accessible:
+              <ul style="margin: 5px 0; padding-left: 20px;">
+                <li>Try visiting <a href="https://unpkg.com/" target="_blank" style="color: var(--red);">unpkg.com</a></li>
+                <li>Try visiting <a href="https://cdn.jsdelivr.net/" target="_blank" style="color: var(--red);">jsdelivr.net</a></li>
+              </ul>
+            </li>
+            <li>If on corporate/institutional network:
+              <ul style="margin: 5px 0; padding-left: 20px;">
+                <li>Contact IT about WebRTC and external script access</li>
+                <li>Request unblocking of unpkg.com and cdn.jsdelivr.net</li>
+              </ul>
+            </li>
+            <li>Try different network (mobile hotspot) to rule out restrictions</li>
+            <li>Disable VPN temporarily to test connectivity</li>
+            <li>Clear browser cache: Ctrl+F5 (Windows) or Cmd+Shift+R (Mac)</li>
+            <li>Try different browser (Chrome, Firefox, Safari, Edge)</li>
+            <li>Open browser console (F12) for detailed error messages</li>
+          </ol>
+        </details>
+        
+        <details open style="margin: 15px 0; padding: 10px; background: rgba(139,31,31,0.05); border: 1px solid rgba(139,31,31,0.2); border-radius: 8px;">
+          <summary style="cursor: pointer; font-weight: bold;">⚙️ Site Administrator Actions</summary>
+          <div style="font-size: 0.9rem; margin-top: 10px;">
+            <p><strong>The local fallback is missing or not properly configured.</strong></p>
+            <p style="margin-top: 10px;">To fix this issue:</p>
+            <ol style="margin: 10px 0; padding-left: 20px;">
+              <li>Download the actual PeerJS library:
+                <pre style="background: #f5f5f5; padding: 8px; border-radius: 4px; margin: 5px 0; overflow-x: auto; font-size: 0.85rem;">curl -L -o libs/peerjs.min.js "https://unpkg.com/peerjs@1.5.2/dist/peerjs.min.js"</pre>
+              </li>
+              <li>Verify the file size is ~80-100 KB (not 1 KB placeholder)</li>
+              <li>Commit and deploy the updated libs/peerjs.min.js file</li>
+              <li>Test deployment by checking browser console logs</li>
+            </ol>
+            <p style="margin-top: 10px;">
+              📖 See <code style="background: #f5f5f5; padding: 2px 6px; border-radius: 3px;">libs/README.md</code> 
+              and <code style="background: #f5f5f5; padding: 2px 6px; border-radius: 3px;">CHAT_FEATURE.md</code> for detailed instructions.
+            </p>
+          </div>
+        </details>
+        
+        <p style="margin-top: 15px; font-size: 0.85rem; color: var(--muted); font-style: italic;">
+          💡 Tip: Open browser console (F12) to see detailed loading status and specific error messages.
+        </p>
       </div>
     `;
     joinModal.querySelector('#account-form').style.display = 'none';
