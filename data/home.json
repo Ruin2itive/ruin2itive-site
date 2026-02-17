@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-17T17:58:29.693Z",
-  "updated_local": "2/17/2026, 5:58:29 PM",
+  "updated_iso": "2026-02-17T18:55:53.448Z",
+  "updated_local": "2/17/2026, 6:55:53 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Gemini Stock Dives as Winklevoss-Led Crypto Exchange Dumps Executives",
+        "url": "https://decrypt.co/358325/gemini-stock-dives-winklevoss-crypto-exchange-dumps-executives",
+        "source": "crypto",
+        "time": "Tue, 17 Feb 2026 18:40:42 +0000"
+      },
       {
         "title": "Tom Lee Expects &#39;Defining Year for Ethereum&#39; as BitMine Buys ETH Amid &#39;Rock Bottom&#39; Vibes",
         "url": "https://decrypt.co/358322/tom-lee-defining-year-ethereum-bitmine-buys-eth-rock-bottom-vibes",
@@ -26,15 +32,27 @@
         "url": "https://decrypt.co/358304/zerolend-latest-defi-platform-to-shut-down-amid-liquidity-revenue-pressures",
         "source": "crypto",
         "time": "Tue, 17 Feb 2026 15:33:31 +0000"
-      },
-      {
-        "title": "&#39;See You in Court&#39;: CFTC Chair Defends Jurisdiction as States Fight Prediction Markets",
-        "url": "https://decrypt.co/358301/cftc-chair-exclusive-jurisdiction-prediction-markets",
-        "source": "crypto",
-        "time": "Tue, 17 Feb 2026 15:07:57 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Claude Sonnet 4.6",
+        "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+        "source": "hn",
+        "time": "2/17/2026, 5:48:52 PM"
+      },
+      {
+        "title": "Using go fix to modernize Go code",
+        "url": "https://go.dev/blog/gofix",
+        "source": "hn",
+        "time": "2/17/2026, 4:42:35 PM"
+      },
+      {
+        "title": "Gentoo on Codeberg",
+        "url": "https://www.gentoo.org/news/2026/02/16/codeberg.html",
+        "source": "hn",
+        "time": "2/17/2026, 5:21:04 PM"
+      },
       {
         "title": "HackMyClaw",
         "url": "https://hackmyclaw.com/",
@@ -46,32 +64,14 @@
         "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
         "source": "hn",
         "time": "2/17/2026, 10:02:36 AM"
-      },
-      {
-        "title": "Using go fix to modernize Go code",
-        "url": "https://go.dev/blog/gofix",
-        "source": "hn",
-        "time": "2/17/2026, 4:42:35 PM"
-      },
-      {
-        "title": "Chess engines do weird stuff",
-        "url": "https://girl.surgery/chess",
-        "source": "hn",
-        "time": "2/17/2026, 5:07:59 PM"
-      },
-      {
-        "title": "Async/Await on the GPU",
-        "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
-        "source": "hn",
-        "time": "2/17/2026, 4:53:05 PM"
       }
     ],
     "world": [
       {
-        "title": "Watch: Key moments that defined Jesse Jackson's life",
-        "url": "https://www.bbc.com/news/videos/cvg4y9ee16go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Cabinet secretary frontrunner faced multiple bullying complaints",
+        "url": "https://www.bbc.com/news/articles/cn0zjw5pz48o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Feb 2026 12:52:08 GMT"
+        "time": "Tue, 17 Feb 2026 18:22:44 GMT"
       },
       {
         "title": "'The search is soul-destroying': Young jobseekers on the struggle to find work",
@@ -80,10 +80,10 @@
         "time": "Tue, 17 Feb 2026 16:37:08 GMT"
       },
       {
-        "title": "Cold health alert issued as temperatures fall across the UK",
-        "url": "https://www.bbc.com/news/articles/cdxgew324r9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Police assessing Stansted Airport private flights over Epstein ties",
+        "url": "https://www.bbc.com/news/articles/c98q4mz831mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Feb 2026 12:06:53 GMT"
+        "time": "Tue, 17 Feb 2026 18:42:10 GMT"
       },
       {
         "title": "Dual nationals face scramble for British passports as new rules come into force",
@@ -92,7 +92,7 @@
         "time": "Tue, 17 Feb 2026 16:45:21 GMT"
       },
       {
-        "title": "Labour accepts the inevitable in local elections U-turn",
+        "title": "The fallout from Labour's local elections U-turn is not over yet",
         "url": "https://www.bbc.com/news/articles/czx7n9n0xrro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 17 Feb 2026 17:28:26 GMT"
