@@ -64,7 +64,7 @@ jobs:
             # If we get here, either pull or push failed
             if [ $attempt -lt $max_attempts ]; then
               echo "Retrying after delay..."
-              sleep $((attempt * 5))  # exponential backoff: 5s, 10s, 15s
+              sleep $((attempt * 5))  # linear backoff: 5s, 10s, 15s
             fi
             attempt=$((attempt + 1))
           done
