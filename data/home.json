@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-17T17:55:12.765Z",
-  "updated_local": "2/17/2026, 5:55:12 PM",
+  "updated_iso": "2026-02-17T17:58:29.693Z",
+  "updated_local": "2/17/2026, 5:58:29 PM",
   "sections": {
     "crypto": [
       {
@@ -48,6 +48,12 @@
         "time": "2/17/2026, 10:02:36 AM"
       },
       {
+        "title": "Using go fix to modernize Go code",
+        "url": "https://go.dev/blog/gofix",
+        "source": "hn",
+        "time": "2/17/2026, 4:42:35 PM"
+      },
+      {
         "title": "Chess engines do weird stuff",
         "url": "https://girl.surgery/chess",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
         "source": "hn",
         "time": "2/17/2026, 4:53:05 PM"
-      },
-      {
-        "title": "Using go fix to modernize Go code",
-        "url": "https://go.dev/blog/gofix",
-        "source": "hn",
-        "time": "2/17/2026, 4:42:35 PM"
       }
     ],
     "world": [
