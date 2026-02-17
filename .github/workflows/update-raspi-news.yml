@@ -54,12 +54,16 @@ jobs:
               if git push origin "$branch"; then
                 echo "Successfully pushed changes"
                 exit 0
+              else
+                echo "Push failed - remote may have new changes"
               fi
+            else
+              echo "Pull/rebase failed - may have conflicts"
             fi
             
             # If we get here, either pull or push failed
             if [ $attempt -lt $max_attempts ]; then
-              echo "Push failed, waiting before retry..."
+              echo "Retrying after delay..."
               sleep $((attempt * 5))  # exponential backoff: 5s, 10s, 15s
             fi
             attempt=$((attempt + 1))
