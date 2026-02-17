@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-17T05:00:19.651Z",
-  "updated_local": "2/17/2026, 5:00:19 AM",
+  "updated_iso": "2026-02-17T05:56:00.834Z",
+  "updated_local": "2/17/2026, 5:56:00 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Kraken Backs &#39;Trump Accounts&#39; for Wyoming Newborns",
+        "url": "https://decrypt.co/358258/kraken-wyomings-trump-accounts",
+        "source": "crypto",
+        "time": "Tue, 17 Feb 2026 05:44:08 +0000"
+      },
       {
         "title": "Bitcoin’s Long-Term Holders Show Signs of Strain After February Sell-Off",
         "url": "https://decrypt.co/358260/bitcoins-long-term-holders-signs-of-strain-february-sell-off",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/358184/bitcoin-longest-losing-streak-2018-bear-market",
         "source": "crypto",
         "time": "Mon, 16 Feb 2026 19:10:17 +0000"
-      },
-      {
-        "title": "Vitalik Buterin: Hedging on Prediction Markets Could &#39;Replace Fiat Currency&#39;",
-        "url": "https://decrypt.co/358165/vitalik-buterin-hedging-on-prediction-markets-could-replace-fiat-currency",
-        "source": "crypto",
-        "time": "Mon, 16 Feb 2026 17:30:21 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
-        "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
-        "source": "hn",
-        "time": "2/17/2026, 1:01:00 AM"
-      },
       {
         "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
         "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
@@ -48,22 +42,28 @@
         "time": "2/16/2026, 6:41:50 PM"
       },
       {
-        "title": "Study: Self-generated Agent Skills are useless",
-        "url": "https://arxiv.org/abs/2602.12670",
-        "source": "hn",
-        "time": "2/16/2026, 9:15:56 PM"
-      },
-      {
-        "title": "AI is destroying Open Source, and it's not even good yet",
-        "url": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
-        "source": "hn",
-        "time": "2/17/2026, 12:26:20 AM"
-      },
-      {
         "title": "Rise of the Triforce",
         "url": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
         "source": "hn",
         "time": "2/16/2026, 9:24:04 PM"
+      },
+      {
+        "title": "What every compiler writer should know about programmers (2015) [pdf]",
+        "url": "https://www.complang.tuwien.ac.at/kps2015/proceedings/KPS_2015_submission_29.pdf",
+        "source": "hn",
+        "time": "2/13/2026, 2:21:41 PM"
+      },
+      {
+        "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+        "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
+        "source": "hn",
+        "time": "2/17/2026, 1:01:00 AM"
+      },
+      {
+        "title": "Show HN: Free Alternative to Wispr Flow, Superwhisper, and Monologue",
+        "url": "https://github.com/zachlatta/freeflow",
+        "source": "hn",
+        "time": "2/16/2026, 9:10:44 PM"
       }
     ],
     "world": [
