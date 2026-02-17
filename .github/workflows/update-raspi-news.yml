@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch full history to allow rebasing
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -37,4 +39,29 @@ jobs:
             exit 0
           fi
           git commit -m "Update Raspberry Pi news"
-          git push
+          
+          # Pull and rebase to handle concurrent workflow pushes, retry up to 3 times
+          max_attempts=3
+          attempt=1
+          while [ $attempt -le $max_attempts ]; do
+            echo "Push attempt $attempt of $max_attempts"
+            
+            # Pull with rebase to integrate any remote changes
+            if git pull --rebase origin main; then
+              # Try to push
+              if git push origin main; then
+                echo "Successfully pushed changes"
+                exit 0
+              fi
+            fi
+            
+            # If we get here, either pull or push failed
+            if [ $attempt -lt $max_attempts ]; then
+              echo "Push failed, waiting before retry..."
+              sleep $((attempt * 5))  # exponential backoff: 5s, 10s, 15s
+            fi
+            attempt=$((attempt + 1))
+          done
+          
+          echo "Failed to push after $max_attempts attempts"
+          exit 1
