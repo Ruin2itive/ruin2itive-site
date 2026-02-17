@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-17T19:47:24.944Z",
-  "updated_local": "2/17/2026, 7:47:24 PM",
+  "updated_iso": "2026-02-17T20:35:50.964Z",
+  "updated_local": "2/17/2026, 8:35:50 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "2/17/2026, 5:48:52 PM"
       },
       {
+        "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
+        "url": "https://asteroidos.org/news/2-0-release/index.html",
+        "source": "hn",
+        "time": "2/17/2026, 7:24:55 PM"
+      },
+      {
         "title": "Using go fix to modernize Go code",
         "url": "https://go.dev/blog/gofix",
         "source": "hn",
@@ -54,24 +60,18 @@
         "time": "2/17/2026, 5:21:04 PM"
       },
       {
-        "title": "HackMyClaw",
-        "url": "https://hackmyclaw.com/",
+        "title": "Chess engines do weird stuff",
+        "url": "https://girl.surgery/chess",
         "source": "hn",
-        "time": "2/17/2026, 4:48:43 PM"
-      },
-      {
-        "title": "GrapheneOS – Break Free from Google and Apple",
-        "url": "https://blog.tomaszdunia.pl/grapheneos-eng/",
-        "source": "hn",
-        "time": "2/17/2026, 10:02:36 AM"
+        "time": "2/17/2026, 5:07:59 PM"
       }
     ],
     "world": [
       {
-        "title": "US civil rights leader Jesse Jackson dies aged 84",
-        "url": "https://www.bbc.com/news/articles/cp81l0e1eg5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Police assessing Stansted Airport private flights over Epstein ties",
+        "url": "https://www.bbc.com/news/articles/c98q4mz831mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Feb 2026 18:55:33 GMT"
+        "time": "Tue, 17 Feb 2026 20:01:17 GMT"
       },
       {
         "title": "Cabinet secretary frontrunner faced multiple bullying complaints",
@@ -80,22 +80,22 @@
         "time": "Tue, 17 Feb 2026 18:22:44 GMT"
       },
       {
+        "title": "US civil rights leader Jesse Jackson dies aged 84",
+        "url": "https://www.bbc.com/news/articles/cp81l0e1eg5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 17 Feb 2026 18:55:33 GMT"
+      },
+      {
         "title": "'The search is soul-destroying': Young jobseekers on the struggle to find work",
         "url": "https://www.bbc.com/news/articles/c3wl17l3ggqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 17 Feb 2026 16:37:08 GMT"
       },
       {
-        "title": "Police assessing Stansted Airport private flights over Epstein ties",
-        "url": "https://www.bbc.com/news/articles/c98q4mz831mo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 17 Feb 2026 19:19:12 GMT"
-      },
-      {
         "title": "Dual nationals face scramble for British passports as new rules come into force",
         "url": "https://www.bbc.com/news/articles/cx2d9yk2kpjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Feb 2026 16:45:21 GMT"
+        "time": "Tue, 17 Feb 2026 19:53:38 GMT"
       }
     ],
     "projects": [
