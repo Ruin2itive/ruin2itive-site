@@ -43,13 +43,15 @@ jobs:
           # Pull and rebase to handle concurrent workflow pushes, retry up to 3 times
           max_attempts=3
           attempt=1
+          branch="${{ github.ref_name }}"
+          
           while [ $attempt -le $max_attempts ]; do
             echo "Push attempt $attempt of $max_attempts"
             
             # Pull with rebase to integrate any remote changes
-            if git pull --rebase origin main; then
+            if git pull --rebase origin "$branch"; then
               # Try to push
-              if git push origin main; then
+              if git push origin "$branch"; then
                 echo "Successfully pushed changes"
                 exit 0
               fi
