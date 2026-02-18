@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-02-18T21:41:52.590Z",
-  "updated_local": "2/18/2026, 9:41:52 PM",
+  "updated_iso": "2026-02-18T22:30:37.411Z",
+  "updated_local": "2/18/2026, 10:30:37 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Can AI Agents Boost Ethereum Security? OpenAI and Paradigm Created a Testing Ground",
+        "url": "https://decrypt.co/358470/ai-agents-boost-ethereum-security-openai-paradigm-evmbench",
+        "source": "crypto",
+        "time": "Wed, 18 Feb 2026 22:03:22 +0000"
+      },
+      {
+        "title": "Bitcoin Miner Riot Must Embrace $21 Billion AI Opportunity, Says Activist Investor",
+        "url": "https://decrypt.co/358475/bitcoin-miner-riot-platforms-21-billion-ai-opportunity-activist-investor",
+        "source": "crypto",
+        "time": "Wed, 18 Feb 2026 21:46:30 +0000"
+      },
       {
         "title": "Peter Thiel Exits ETHZilla Investment After Ethereum Treasury Stock Craters",
         "url": "https://decrypt.co/358468/peter-thiel-exits-ethzilla-investment-ethereum-treasury-stock-craters",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/358433/canary-grayscale-sui-etfs-us-markets-staking-rewards",
         "source": "crypto",
         "time": "Wed, 18 Feb 2026 18:05:28 +0000"
-      },
-      {
-        "title": "Hyperliquid Launches Policy Center With $29 Million Backing to Advocate for DeFi in DC",
-        "url": "https://decrypt.co/358461/hyperliquid-policy-center-29-million-backing-advocate-defi-dc",
-        "source": "crypto",
-        "time": "Wed, 18 Feb 2026 17:41:57 +0000"
-      },
-      {
-        "title": "Goldman Sachs CEO Owns &#39;Very Little&#39; Bitcoin, Backs Bessent on Clarity Act",
-        "url": "https://decrypt.co/358449/goldman-sachs-ceo-owns-very-little-bitcoin-backs-bessent-clarity-act",
-        "source": "crypto",
-        "time": "Wed, 18 Feb 2026 17:18:33 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "2/18/2026, 6:37:22 PM"
       },
       {
+        "title": "Womens Sizing",
+        "url": "https://pudding.cool/2026/02/womens-sizing/",
+        "source": "hn",
+        "time": "2/18/2026, 9:18:20 PM"
+      },
+      {
         "title": "Tailscale Peer Relays is now generally available",
         "url": "https://tailscale.com/blog/peer-relays-ga",
         "source": "hn",
         "time": "2/18/2026, 4:46:12 PM"
-      },
-      {
-        "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
-        "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
-        "source": "hn",
-        "time": "2/18/2026, 6:04:13 PM"
       },
       {
         "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
@@ -60,10 +60,10 @@
         "time": "2/18/2026, 4:28:19 PM"
       },
       {
-        "title": "R3forth: A concatenative language derived from ColorForth",
-        "url": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
+        "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+        "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
         "source": "hn",
-        "time": "2/18/2026, 7:28:59 PM"
+        "time": "2/18/2026, 6:04:13 PM"
       }
     ],
     "world": [
@@ -71,13 +71,19 @@
         "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
         "url": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Feb 2026 20:57:22 GMT"
+        "time": "Wed, 18 Feb 2026 22:08:13 GMT"
       },
       {
         "title": "Teenage girls lured into forced sex by gangs in London, BBC finds",
         "url": "https://www.bbc.com/news/articles/cjd9xnjyy8po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 18 Feb 2026 17:01:16 GMT"
+      },
+      {
+        "title": "Eight skiers found dead after California avalanche",
+        "url": "https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 18 Feb 2026 21:54:30 GMT"
       },
       {
         "title": "GB curlers emerge from epic day with medal hopes revived",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/sport/football/articles/c4g82mr3l3vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 18 Feb 2026 17:40:56 GMT"
-      },
-      {
-        "title": "Billionaire Lex Wexner tells US lawmakers he was 'naive' and 'conned' by Epstein",
-        "url": "https://www.bbc.com/news/articles/cy57rrrpvg7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 18 Feb 2026 20:58:35 GMT"
       }
     ],
     "projects": [
