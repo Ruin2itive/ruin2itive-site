@@ -36,15 +36,28 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Reset package-lock.json if it was modified by npm install
+          git checkout -- package-lock.json 2>/dev/null || true
+          
+          # Add data files
           git add data/*.json
+          
+          # Check if there are any changes to commit
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
+          
+          # Commit changes
           git commit -m "Update RSS feeds"
-          git pull --rebase origin main || {
+          
+          # Pull with rebase using autostash to handle any remaining unstaged changes
+          git pull --rebase --autostash origin main || {
             echo "Rebase failed due to conflicts. Manual intervention required."
             git rebase --abort
             exit 1
           }
+          
+          # Push changes
           git push
