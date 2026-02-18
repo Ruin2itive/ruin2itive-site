@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-18T20:51:04.326Z",
-  "updated_local": "2/18/2026, 8:51:04 PM",
+  "updated_iso": "2026-02-18T21:33:06.462Z",
+  "updated_local": "2/18/2026, 9:33:06 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Peter Thiel Exits ETHZilla Investment After Ethereum Treasury Stock Craters",
+        "url": "https://decrypt.co/358468/peter-thiel-exits-ethzilla-investment-ethereum-treasury-stock-craters",
+        "source": "crypto",
+        "time": "Wed, 18 Feb 2026 21:04:44 +0000"
+      },
       {
         "title": "Coinbase-Backed Ethereum Network Base to Dump Optimism Tech as Potential Token Looms",
         "url": "https://decrypt.co/358469/coinbase-ethereum-network-base-dump-optimism-tech-potential-token",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/358449/goldman-sachs-ceo-owns-very-little-bitcoin-backs-bessent-clarity-act",
         "source": "crypto",
         "time": "Wed, 18 Feb 2026 17:18:33 +0000"
-      },
-      {
-        "title": "Sai’s New Perps DEX Offers ‘Clean, CEX-like Experience’ With Onchain Settlement",
-        "url": "https://decrypt.co/358413/sais-new-perps-dex-offers-clean-cex-like-experience-with-onchain-settlement",
-        "source": "crypto",
-        "time": "Wed, 18 Feb 2026 16:01:06 +0000"
       }
     ],
     "hacker": [
@@ -42,22 +42,22 @@
         "time": "2/18/2026, 6:37:22 PM"
       },
       {
-        "title": "The political effects of X's feed algorithm",
-        "url": "https://werd.io/the-political-effects-of-xs-feed-algorithm/",
-        "source": "hn",
-        "time": "2/18/2026, 8:12:12 PM"
-      },
-      {
         "title": "Tailscale Peer Relays is now generally available",
         "url": "https://tailscale.com/blog/peer-relays-ga",
         "source": "hn",
         "time": "2/18/2026, 4:46:12 PM"
       },
       {
-        "title": "R3forth: A concatenative language derived from ColorForth",
-        "url": "https://github.com/phreda4/r3/blob/main/doc/r3forth_tutorial.md",
+        "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+        "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
         "source": "hn",
-        "time": "2/18/2026, 7:28:59 PM"
+        "time": "2/18/2026, 6:04:13 PM"
+      },
+      {
+        "title": "Delphi is 31 years old – innovation timeline",
+        "url": "https://blogs.embarcadero.com/delphi-innovation-timeline-31st-anniversary-edition-published-get-your-free-pdf/",
+        "source": "hn",
+        "time": "2/13/2026, 3:19:40 PM"
       },
       {
         "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
@@ -71,7 +71,7 @@
         "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
         "url": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Feb 2026 20:41:30 GMT"
+        "time": "Wed, 18 Feb 2026 20:57:22 GMT"
       },
       {
         "title": "Teenage girls lured into forced sex by gangs in London, BBC finds",
@@ -80,22 +80,22 @@
         "time": "Wed, 18 Feb 2026 17:01:16 GMT"
       },
       {
+        "title": "GB curlers emerge from epic day with medal hopes revived",
+        "url": "https://www.bbc.com/sport/articles/c0q3nejy1pjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 18 Feb 2026 20:23:36 GMT"
+      },
+      {
         "title": "Vinicius: Eight years at Real Madrid, 20 cases of alleged racist abuse",
         "url": "https://www.bbc.com/sport/football/articles/c4g82mr3l3vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 18 Feb 2026 17:40:56 GMT"
       },
       {
-        "title": "Bone cement shortage likely to lead to joint surgery delays, NHS warns",
-        "url": "https://www.bbc.com/news/articles/cy8gexml5xro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Billionaire Lex Wexner tells US lawmakers he was 'naive' and 'conned' by Epstein",
+        "url": "https://www.bbc.com/news/articles/cy57rrrpvg7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Feb 2026 20:25:37 GMT"
-      },
-      {
-        "title": "Letter by young Queen Elizabeth II to be auctioned",
-        "url": "https://www.bbc.com/news/articles/cp85v315zvjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 18 Feb 2026 17:40:57 GMT"
+        "time": "Wed, 18 Feb 2026 20:58:35 GMT"
       }
     ],
     "projects": [
