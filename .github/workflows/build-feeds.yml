@@ -38,7 +38,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
           # Reset package-lock.json if it was modified by npm install
-          git checkout -- package-lock.json 2>/dev/null || true
+          git restore package-lock.json 2>/dev/null || true
           
           # Add data files
           git add data/*.json
