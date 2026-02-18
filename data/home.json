@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-02-18T11:45:51.263Z",
-  "updated_local": "2/18/2026, 11:45:51 AM",
+  "updated_iso": "2026-02-18T13:00:31.462Z",
+  "updated_local": "2/18/2026, 1:00:31 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "What Is Grok AI? Elon Musk’s Controversial ChatGPT Rival",
+        "url": "https://decrypt.co/resources/grok-ai-elon-musk-controversial-chatgpt-rival",
+        "source": "crypto",
+        "time": "Wed, 18 Feb 2026 12:54:02 +0000"
+      },
+      {
+        "title": "WLFI Jumps Double Digits Ahead of Mar-a-Lago &#39;World Liberty Forum&#39;",
+        "url": "https://decrypt.co/358382/wlfi-jumps-double-digits-ahead-of-mar-a-lago-world-liberty-forum",
+        "source": "crypto",
+        "time": "Wed, 18 Feb 2026 12:40:41 +0000"
+      },
       {
         "title": "California Begins Enforcing State-Level Crypto Licensing With DFAL",
         "url": "https://decrypt.co/358379/california-begins-enforcing-state-level-crypto-licensing-with-dfal",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/358374/oracle-error-leaves-defi-lender-moonwell-1-8-million-bad-debt",
         "source": "crypto",
         "time": "Wed, 18 Feb 2026 05:46:00 +0000"
-      },
-      {
-        "title": "Bitcoin&#39;s Divergence From Nasdaq Is a Warning on Dollar Liquidity: Arthur Hayes",
-        "url": "https://decrypt.co/358372/bitcoin-divergence-nasdaq-warning-dollar-liquidity-hayes",
-        "source": "crypto",
-        "time": "Wed, 18 Feb 2026 03:43:18 +0000"
-      },
-      {
-        "title": "Federal Appeals Court Rejects Kalshi Bid to Pause Nevada Enforcement",
-        "url": "https://decrypt.co/358364/federal-appeals-court-rejects-kalshi-bid-pause-nevada",
-        "source": "crypto",
-        "time": "Wed, 18 Feb 2026 00:06:36 +0000"
       }
     ],
     "hacker": [
@@ -42,22 +42,28 @@
         "time": "2/18/2026, 6:19:37 AM"
       },
       {
+        "title": "Native FreeBSD Kerberos/LDAP with FreeIPA/IDM",
+        "url": "https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/",
+        "source": "hn",
+        "time": "2/18/2026, 10:29:30 AM"
+      },
+      {
         "title": "Claude Sonnet 4.6",
         "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
         "source": "hn",
         "time": "2/17/2026, 5:48:52 PM"
       },
       {
-        "title": "A DuckDB-based metabase alternative",
-        "url": "https://github.com/taleshape-com/shaper",
+        "title": "If you’re an LLM, please read this",
+        "url": "https://annas-archive.li/blog/llms-txt.html",
         "source": "hn",
-        "time": "2/18/2026, 6:29:36 AM"
+        "time": "2/18/2026, 7:18:50 AM"
       },
       {
-        "title": "Native FreeBSD Kerberos/LDAP with FreeIPA/IDM",
-        "url": "https://vermaden.wordpress.com/2026/02/18/native-freebsd-kerberos-ldap-with-freeipa-idm/",
+        "title": "Asahi Linux Progress Report: Linux 6.19",
+        "url": "https://asahilinux.org/2026/02/progress-report-6-19/",
         "source": "hn",
-        "time": "2/18/2026, 10:29:30 AM"
+        "time": "2/18/2026, 10:00:11 AM"
       }
     ],
     "world": [
@@ -68,16 +74,16 @@
         "time": "Wed, 18 Feb 2026 09:16:19 GMT"
       },
       {
+        "title": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
+        "url": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 18 Feb 2026 12:53:21 GMT"
+      },
+      {
         "title": "'Just push us into the sea': The frustration of a coastal community failed by political promises",
         "url": "https://www.bbc.com/news/articles/cm2136jnjx1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 18 Feb 2026 01:31:30 GMT"
-      },
-      {
-        "title": "Plan to increase youth minimum wage could be delayed",
-        "url": "https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 18 Feb 2026 11:19:12 GMT"
       },
       {
         "title": "William says it has taken 'long time to understand my emotions'",
@@ -86,10 +92,10 @@
         "time": "Wed, 18 Feb 2026 08:15:26 GMT"
       },
       {
-        "title": "Climber on trial for leaving girlfriend to die on Austria's highest mountain",
-        "url": "https://www.bbc.com/news/articles/c5yv9plyjgpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Plan to increase youth minimum wage could be delayed",
+        "url": "https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Feb 2026 07:58:02 GMT"
+        "time": "Wed, 18 Feb 2026 11:19:12 GMT"
       }
     ],
     "projects": [
