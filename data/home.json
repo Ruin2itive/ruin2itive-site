@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-18T02:53:13.002Z",
-  "updated_local": "2/18/2026, 2:53:13 AM",
+  "updated_iso": "2026-02-18T04:51:20.760Z",
+  "updated_local": "2/18/2026, 4:51:20 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin&#39;s Divergence From Nasdaq Is a Warning on Dollar Liquidity: Arthur Hayes",
+        "url": "https://decrypt.co/358372/bitcoin-divergence-nasdaq-warning-dollar-liquidity-hayes",
+        "source": "crypto",
+        "time": "Wed, 18 Feb 2026 03:43:18 +0000"
+      },
       {
         "title": "Federal Appeals Court Rejects Kalshi Bid to Pause Nevada Enforcement",
         "url": "https://decrypt.co/358364/federal-appeals-court-rejects-kalshi-bid-pause-nevada",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/358355/stripe-owned-bridge-national-bank-trust-charter-stablecoin-offerings",
         "source": "crypto",
         "time": "Tue, 17 Feb 2026 22:13:49 +0000"
-      },
-      {
-        "title": "Abu Dhabi Funds Boosted BlackRock Bitcoin ETF Exposure to $1 Billion by End of 2025: Filings",
-        "url": "https://decrypt.co/358351/abu-dhabi-funds-blackrock-bitcoin-etf-exposure-1-billion",
-        "source": "crypto",
-        "time": "Tue, 17 Feb 2026 21:12:46 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
+        "url": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+        "source": "hn",
+        "time": "2/18/2026, 2:18:29 AM"
+      },
       {
         "title": "Claude Sonnet 4.6",
         "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
         "source": "hn",
         "time": "2/17/2026, 5:48:52 PM"
-      },
-      {
-        "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
-        "url": "https://github.com/Zaneham/BarraCUDA",
-        "source": "hn",
-        "time": "2/17/2026, 8:35:18 PM"
       },
       {
         "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
@@ -54,10 +54,10 @@
         "time": "2/18/2026, 1:40:52 AM"
       },
       {
-        "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-        "url": "https://asteroidos.org/news/2-0-release/index.html",
+        "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+        "url": "https://github.com/Zaneham/BarraCUDA",
         "source": "hn",
-        "time": "2/17/2026, 7:24:55 PM"
+        "time": "2/17/2026, 8:35:18 PM"
       }
     ],
     "world": [
@@ -68,16 +68,16 @@
         "time": "Tue, 17 Feb 2026 20:52:07 GMT"
       },
       {
+        "title": "'Just push us into the sea': The frustration of an area failed by politics",
+        "url": "https://www.bbc.com/news/articles/cm2136jnjx1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 18 Feb 2026 01:31:30 GMT"
+      },
+      {
         "title": "Cabinet secretary frontrunner faced multiple bullying complaints",
         "url": "https://www.bbc.com/news/articles/cn0zjw5pz48o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 17 Feb 2026 18:22:44 GMT"
-      },
-      {
-        "title": "How Jesse Jackson paved way for Barack Obama - and helped change US",
-        "url": "https://www.bbc.com/news/articles/cx77214zz9eo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 17 Feb 2026 10:04:08 GMT"
       },
       {
         "title": "Under pressure from Trump, Venezuela's new president has aces up her sleeve",
@@ -86,10 +86,10 @@
         "time": "Wed, 18 Feb 2026 00:48:22 GMT"
       },
       {
-        "title": "'Just push us into the sea': The frustration of an area failed by politics",
-        "url": "https://www.bbc.com/news/articles/cm2136jnjx1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Climber on trial for leaving girlfriend to die on Austria's highest mountain",
+        "url": "https://www.bbc.com/news/articles/c5yv9plyjgpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Feb 2026 01:31:30 GMT"
+        "time": "Wed, 18 Feb 2026 00:41:52 GMT"
       }
     ],
     "projects": [
