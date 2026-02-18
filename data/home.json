@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-18T14:42:01.110Z",
-  "updated_local": "2/18/2026, 2:42:01 PM",
+  "updated_iso": "2026-02-18T14:54:48.329Z",
+  "updated_local": "2/18/2026, 2:54:48 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "2/18/2026, 2:08:11 PM"
       },
       {
+        "title": "AI has fixed my productivity",
+        "url": "https://blog.dmcc.io/journal/ai-has-fixed-my-productivity/",
+        "source": "hn",
+        "time": "2/18/2026, 2:20:02 PM"
+      },
+      {
         "title": "Terminals should generate the 256-color palette",
         "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
         "source": "hn",
         "time": "2/17/2026, 5:48:52 PM"
-      },
-      {
-        "title": "If you’re an LLM, please read this",
-        "url": "https://annas-archive.li/blog/llms-txt.html",
-        "source": "hn",
-        "time": "2/18/2026, 7:18:50 AM"
       }
     ],
     "world": [
