@@ -43,7 +43,7 @@ jobs:
           fi
           git commit -m "Update RSS feeds"
           git pull --rebase --autostash origin main || {
-            echo "Rebase failed, aborting"
+            echo "Rebase failed due to conflicts. Manual intervention required."
             git rebase --abort
             exit 1
           }
