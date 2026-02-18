@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-18T19:07:19.373Z",
-  "updated_local": "2/18/2026, 7:07:19 PM",
+  "updated_iso": "2026-02-18T19:47:02.654Z",
+  "updated_local": "2/18/2026, 7:47:02 PM",
   "sections": {
     "crypto": [
       {
@@ -36,37 +36,43 @@
     ],
     "hacker": [
       {
-        "title": "Tailscale Peer Relays is now generally available",
-        "url": "https://tailscale.com/blog/peer-relays-ga",
-        "source": "hn",
-        "time": "2/18/2026, 4:46:12 PM"
-      },
-      {
         "title": "Cosmologically Unique IDs",
         "url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
         "source": "hn",
         "time": "2/18/2026, 6:37:22 PM"
       },
       {
-        "title": "Garment Notation Language: Formal descriptive language for clothing construction",
-        "url": "https://github.com/khalildh/garment-notation",
+        "title": "Tailscale Peer Relays is now generally available",
+        "url": "https://tailscale.com/blog/peer-relays-ga",
         "source": "hn",
-        "time": "2/18/2026, 3:53:15 PM"
+        "time": "2/18/2026, 4:46:12 PM"
+      },
+      {
+        "title": "Show HN: Echo, an iOS SSH+mosh client built on Ghostty",
+        "url": "https://replay.software/updates/introducing-echo",
+        "source": "hn",
+        "time": "2/18/2026, 6:58:38 PM"
+      },
+      {
+        "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
+        "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+        "source": "hn",
+        "time": "2/18/2026, 6:04:13 PM"
       },
       {
         "title": "Pocketbase lost its funding from FLOSS fund",
         "url": "https://github.com/pocketbase/pocketbase/discussions/7287",
         "source": "hn",
         "time": "2/18/2026, 4:11:00 PM"
-      },
-      {
-        "title": "If you’re an LLM, please read this",
-        "url": "https://annas-archive.li/blog/llms-txt.html",
-        "source": "hn",
-        "time": "2/18/2026, 7:18:50 AM"
       }
     ],
     "world": [
+      {
+        "title": "Do not give away Diego Garcia, Trump tells UK",
+        "url": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 18 Feb 2026 19:45:54 GMT"
+      },
       {
         "title": "Teenage girls lured into forced sex by gangs in London, BBC finds",
         "url": "https://www.bbc.com/news/articles/cjd9xnjyy8po?at_medium=RSS&amp;at_campaign=rss",
@@ -74,22 +80,16 @@
         "time": "Wed, 18 Feb 2026 17:01:16 GMT"
       },
       {
-        "title": "Lower food and fuel prices drive inflation down to 3%",
-        "url": "https://www.bbc.com/news/articles/c5yg04jg1n5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Vinicius: Eight years at Real Madrid, 20 cases of alleged racist abuse",
+        "url": "https://www.bbc.com/sport/football/articles/c4g82mr3l3vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Feb 2026 09:16:19 GMT"
+        "time": "Wed, 18 Feb 2026 17:40:56 GMT"
       },
       {
         "title": "Bone cement shortage likely to lead to joint surgery delays, NHS warns",
         "url": "https://www.bbc.com/news/articles/cy8gexml5xro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 18 Feb 2026 15:43:45 GMT"
-      },
-      {
-        "title": "Vinicius: Eight years at Real Madrid, 20 cases of alleged racist abuse",
-        "url": "https://www.bbc.com/sport/football/articles/c4g82mr3l3vo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 18 Feb 2026 17:40:56 GMT"
       },
       {
         "title": "Letter by young Queen Elizabeth II to be auctioned",
