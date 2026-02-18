@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-18T17:55:20.254Z",
-  "updated_local": "2/18/2026, 5:55:20 PM",
+  "updated_iso": "2026-02-18T18:52:52.506Z",
+  "updated_local": "2/18/2026, 6:52:52 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Canary, Grayscale Sui ETFs Hit US Markets With Staking Rewards",
+        "url": "https://decrypt.co/358433/canary-grayscale-sui-etfs-us-markets-staking-rewards",
+        "source": "crypto",
+        "time": "Wed, 18 Feb 2026 18:05:28 +0000"
+      },
       {
         "title": "Hyperliquid Launches Policy Center With $29 Million Backing to Advocate for DeFi in DC",
         "url": "https://decrypt.co/358461/hyperliquid-policy-center-29-million-backing-advocate-defi-dc",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/358385/morning-minute-web-4-0-autonomous-ai-agents-powered-by-crypto",
         "source": "crypto",
         "time": "Wed, 18 Feb 2026 14:12:08 +0000"
-      },
-      {
-        "title": "What Is Grok AI? Elon Musk’s Controversial ChatGPT Rival",
-        "url": "https://decrypt.co/resources/grok-ai-elon-musk-controversial-chatgpt-rival",
-        "source": "crypto",
-        "time": "Wed, 18 Feb 2026 12:54:02 +0000"
       }
     ],
     "hacker": [
@@ -48,6 +48,12 @@
         "time": "2/18/2026, 3:53:15 PM"
       },
       {
+        "title": "Pocketbase lost its funding from FLOSS fund",
+        "url": "https://github.com/pocketbase/pocketbase/discussions/7287",
+        "source": "hn",
+        "time": "2/18/2026, 4:11:00 PM"
+      },
+      {
         "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
         "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://annas-archive.li/blog/llms-txt.html",
         "source": "hn",
         "time": "2/18/2026, 7:18:50 AM"
-      },
-      {
-        "title": "Show HN: VectorNest responsive web-based SVG editor",
-        "url": "https://ekrsulov.github.io/vectornest/",
-        "source": "hn",
-        "time": "2/18/2026, 3:31:57 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Wed, 18 Feb 2026 09:16:19 GMT"
       },
       {
-        "title": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
-        "url": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 18 Feb 2026 14:38:22 GMT"
-      },
-      {
         "title": "Bone cement shortage likely to lead to joint surgery delays, NHS warns",
         "url": "https://www.bbc.com/news/articles/cy8gexml5xro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 18 Feb 2026 15:43:45 GMT"
       },
       {
-        "title": "Met making 'initial inquiries' into claims about Andrew protection officers",
-        "url": "https://www.bbc.com/news/articles/cy57ry1vne0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Vinicius: Eight years at Real Madrid, 20 cases of alleged racist abuse",
+        "url": "https://www.bbc.com/sport/football/articles/c4g82mr3l3vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Feb 2026 14:36:24 GMT"
+        "time": "Wed, 18 Feb 2026 17:40:56 GMT"
+      },
+      {
+        "title": "Letter by young Queen Elizabeth II to be auctioned",
+        "url": "https://www.bbc.com/news/articles/cp85v315zvjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 18 Feb 2026 17:40:57 GMT"
       }
     ],
     "projects": [
