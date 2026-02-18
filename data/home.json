@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-02-18T17:01:36.783Z",
-  "updated_local": "2/18/2026, 5:01:36 PM",
+  "updated_iso": "2026-02-18T17:55:20.254Z",
+  "updated_local": "2/18/2026, 5:55:20 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Hyperliquid Launches Policy Center With $29 Million Backing to Advocate for DeFi in DC",
+        "url": "https://decrypt.co/358461/hyperliquid-policy-center-29-million-backing-advocate-defi-dc",
+        "source": "crypto",
+        "time": "Wed, 18 Feb 2026 17:41:57 +0000"
+      },
+      {
+        "title": "Goldman Sachs CEO Owns &#39;Very Little&#39; Bitcoin, Backs Bessent on Clarity Act",
+        "url": "https://decrypt.co/358449/goldman-sachs-ceo-owns-very-little-bitcoin-backs-bessent-clarity-act",
+        "source": "crypto",
+        "time": "Wed, 18 Feb 2026 17:18:33 +0000"
+      },
       {
         "title": "Sai’s New Perps DEX Offers ‘Clean, CEX-like Experience’ With Onchain Settlement",
         "url": "https://decrypt.co/358413/sais-new-perps-dex-offers-clean-cex-like-experience-with-onchain-settlement",
@@ -20,38 +32,26 @@
         "url": "https://decrypt.co/resources/grok-ai-elon-musk-controversial-chatgpt-rival",
         "source": "crypto",
         "time": "Wed, 18 Feb 2026 12:54:02 +0000"
-      },
-      {
-        "title": "WLFI Jumps Double Digits Ahead of Mar-a-Lago &#39;World Liberty Forum&#39;",
-        "url": "https://decrypt.co/358382/wlfi-jumps-double-digits-ahead-of-mar-a-lago-world-liberty-forum",
-        "source": "crypto",
-        "time": "Wed, 18 Feb 2026 12:40:41 +0000"
-      },
-      {
-        "title": "California Begins Enforcing State-Level Crypto Licensing With DFAL",
-        "url": "https://decrypt.co/358379/california-begins-enforcing-state-level-crypto-licensing-with-dfal",
-        "source": "crypto",
-        "time": "Wed, 18 Feb 2026 11:07:01 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Why AI Velocity Is Becoming a Debt Accelerator",
-        "url": "https://martinfowler.com/fragments/2026-02-18.html",
+        "title": "Tailscale Peer Relays is now generally available",
+        "url": "https://tailscale.com/blog/peer-relays-ga",
         "source": "hn",
-        "time": "2/18/2026, 4:08:48 PM"
+        "time": "2/18/2026, 4:46:12 PM"
+      },
+      {
+        "title": "Garment Notation Language: Formal descriptive language for clothing construction",
+        "url": "https://github.com/khalildh/garment-notation",
+        "source": "hn",
+        "time": "2/18/2026, 3:53:15 PM"
       },
       {
         "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
         "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
         "source": "hn",
         "time": "2/18/2026, 4:28:19 PM"
-      },
-      {
-        "title": "Show HN: A Unix environment in a single HTML file (420 KB)",
-        "url": "https://shiro.computer/show",
-        "source": "hn",
-        "time": "2/18/2026, 4:26:08 PM"
       },
       {
         "title": "If you’re an LLM, please read this",
@@ -68,6 +68,12 @@
     ],
     "world": [
       {
+        "title": "Teenage girls lured into forced sex by gangs in London, BBC finds",
+        "url": "https://www.bbc.com/news/articles/cjd9xnjyy8po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 18 Feb 2026 17:01:16 GMT"
+      },
+      {
         "title": "Lower food and fuel prices drive inflation down to 3%",
         "url": "https://www.bbc.com/news/articles/c5yg04jg1n5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -80,22 +86,16 @@
         "time": "Wed, 18 Feb 2026 14:38:22 GMT"
       },
       {
-        "title": "Children injured by NHS can claim damages for lifetime of lost earnings, court rules",
-        "url": "https://www.bbc.com/news/articles/clygw74z9dzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Bone cement shortage likely to lead to joint surgery delays, NHS warns",
+        "url": "https://www.bbc.com/news/articles/cy8gexml5xro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Feb 2026 16:02:10 GMT"
+        "time": "Wed, 18 Feb 2026 15:43:45 GMT"
       },
       {
         "title": "Met making 'initial inquiries' into claims about Andrew protection officers",
         "url": "https://www.bbc.com/news/articles/cy57ry1vne0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 18 Feb 2026 14:36:24 GMT"
-      },
-      {
-        "title": "GB medal hopes still alive after double win over US",
-        "url": "https://www.bbc.com/sport/articles/c0q3nejy1pjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 18 Feb 2026 15:08:21 GMT"
       }
     ],
     "projects": [
