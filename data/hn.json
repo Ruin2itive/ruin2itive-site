@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-18T16:55:14.047Z"
+    "built_at": "2026-02-18T19:37:22.808Z"
   },
-  "items": [
-    {
-      "title": "Show HN: RepoCrunch – Analyze any GitHub repo's health in seconds",
-      "url": "https://news.ycombinator.com/item?id=47063123",
-      "date": "2026-02-18T16:54:37.000Z"
-    },
-    {
-      "title": "Improving React page performance with AI agents",
-      "url": "https://www.metaview.ai/resources/blog/improving-react-page-performance-with-ai-agents",
-      "date": "2026-02-18T16:54:32.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
