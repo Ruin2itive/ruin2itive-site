@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-18T16:00:42.962Z",
-  "updated_local": "2/18/2026, 4:00:42 PM",
+  "updated_iso": "2026-02-18T17:01:36.783Z",
+  "updated_local": "2/18/2026, 5:01:36 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Sai’s New Perps DEX Offers ‘Clean, CEX-like Experience’ With Onchain Settlement",
+        "url": "https://decrypt.co/358413/sais-new-perps-dex-offers-clean-cex-like-experience-with-onchain-settlement",
+        "source": "crypto",
+        "time": "Wed, 18 Feb 2026 16:01:06 +0000"
+      },
       {
         "title": "Morning Minute: Web 4.0 - Autonomous AI Agents Powered by Crypto",
         "url": "https://decrypt.co/358385/morning-minute-web-4-0-autonomous-ai-agents-powered-by-crypto",
@@ -26,44 +32,38 @@
         "url": "https://decrypt.co/358379/california-begins-enforcing-state-level-crypto-licensing-with-dfal",
         "source": "crypto",
         "time": "Wed, 18 Feb 2026 11:07:01 +0000"
-      },
-      {
-        "title": "Wall Street Pushes Deeper Into Prediction Markets With New ETF Filings",
-        "url": "https://decrypt.co/358377/wall-street-prediction-markets-new-etf-filings",
-        "source": "crypto",
-        "time": "Wed, 18 Feb 2026 05:55:23 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "AVX2 is slower than SSE2-4.x under Windows ARM emulation",
-        "url": "https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/",
+        "title": "Why AI Velocity Is Becoming a Debt Accelerator",
+        "url": "https://martinfowler.com/fragments/2026-02-18.html",
         "source": "hn",
-        "time": "2/18/2026, 2:08:11 PM"
+        "time": "2/18/2026, 4:08:48 PM"
       },
       {
-        "title": "Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony",
-        "url": "https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/",
+        "title": "Zero-day CSS: CVE-2026-2441 exists in the wild",
+        "url": "https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_13.html",
         "source": "hn",
-        "time": "2/18/2026, 1:00:11 PM"
+        "time": "2/18/2026, 4:28:19 PM"
       },
       {
-        "title": "Terminals should generate the 256-color palette",
-        "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
+        "title": "Show HN: A Unix environment in a single HTML file (420 KB)",
+        "url": "https://shiro.computer/show",
         "source": "hn",
-        "time": "2/18/2026, 6:19:37 AM"
-      },
-      {
-        "title": "Show HN: VectorNest responsive web-based SVG editor",
-        "url": "https://ekrsulov.github.io/vectornest/",
-        "source": "hn",
-        "time": "2/18/2026, 3:31:57 PM"
+        "time": "2/18/2026, 4:26:08 PM"
       },
       {
         "title": "If you’re an LLM, please read this",
         "url": "https://annas-archive.li/blog/llms-txt.html",
         "source": "hn",
         "time": "2/18/2026, 7:18:50 AM"
+      },
+      {
+        "title": "Show HN: VectorNest responsive web-based SVG editor",
+        "url": "https://ekrsulov.github.io/vectornest/",
+        "source": "hn",
+        "time": "2/18/2026, 3:31:57 PM"
       }
     ],
     "world": [
@@ -83,7 +83,7 @@
         "title": "Children injured by NHS can claim damages for lifetime of lost earnings, court rules",
         "url": "https://www.bbc.com/news/articles/clygw74z9dzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Feb 2026 15:18:14 GMT"
+        "time": "Wed, 18 Feb 2026 16:02:10 GMT"
       },
       {
         "title": "Met making 'initial inquiries' into claims about Andrew protection officers",
@@ -92,10 +92,10 @@
         "time": "Wed, 18 Feb 2026 14:36:24 GMT"
       },
       {
-        "title": "Uefa investigates alleged racist abuse against Real Madrid player during Benfica match",
-        "url": "https://www.bbc.com/sport/football/articles/cx24vnm4dp5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "GB medal hopes still alive after double win over US",
+        "url": "https://www.bbc.com/sport/articles/c0q3nejy1pjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Feb 2026 15:31:31 GMT"
+        "time": "Wed, 18 Feb 2026 15:08:21 GMT"
       }
     ],
     "projects": [
