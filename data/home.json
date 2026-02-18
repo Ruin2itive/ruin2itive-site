@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-18T13:25:03.220Z",
-  "updated_local": "2/18/2026, 1:25:03 PM",
+  "updated_iso": "2026-02-18T14:42:01.110Z",
+  "updated_local": "2/18/2026, 2:42:01 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Web 4.0 - Autonomous AI Agents Powered by Crypto",
+        "url": "https://decrypt.co/358385/morning-minute-web-4-0-autonomous-ai-agents-powered-by-crypto",
+        "source": "crypto",
+        "time": "Wed, 18 Feb 2026 14:12:08 +0000"
+      },
       {
         "title": "What Is Grok AI? Elon Musk’s Controversial ChatGPT Rival",
         "url": "https://decrypt.co/resources/grok-ai-elon-musk-controversial-chatgpt-rival",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/358377/wall-street-prediction-markets-new-etf-filings",
         "source": "crypto",
         "time": "Wed, 18 Feb 2026 05:55:23 +0000"
-      },
-      {
-        "title": "Oracle Error Leaves DeFi Lender Moonwell With $1.8 Million in Bad Debt",
-        "url": "https://decrypt.co/358374/oracle-error-leaves-defi-lender-moonwell-1-8-million-bad-debt",
-        "source": "crypto",
-        "time": "Wed, 18 Feb 2026 05:46:00 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "AVX2 is slower than SSE2-4.x under Windows ARM emulation",
+        "url": "https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/",
+        "source": "hn",
+        "time": "2/18/2026, 2:08:11 PM"
+      },
       {
         "title": "Terminals should generate the 256-color palette",
         "url": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
@@ -58,12 +64,6 @@
         "url": "https://annas-archive.li/blog/llms-txt.html",
         "source": "hn",
         "time": "2/18/2026, 7:18:50 AM"
-      },
-      {
-        "title": "macOS Tahoe 26.3 is Broken",
-        "url": "https://taoofmac.com/space/blog/2026/02/18/1230",
-        "source": "hn",
-        "time": "2/18/2026, 12:57:30 PM"
       }
     ],
     "world": [
@@ -77,13 +77,13 @@
         "title": "'Difficult' Russia-Ukraine peace talks end without breakthrough",
         "url": "https://www.bbc.com/news/articles/c0k1xj0d708o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Feb 2026 12:53:21 GMT"
+        "time": "Wed, 18 Feb 2026 14:38:22 GMT"
       },
       {
         "title": "Met making 'initial inquiries' into Andrew protection officers",
         "url": "https://www.bbc.com/news/articles/cy57ry1vne0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Feb 2026 11:34:24 GMT"
+        "time": "Wed, 18 Feb 2026 14:36:24 GMT"
       },
       {
         "title": "'Just push us into the sea': The frustration of a coastal community failed by political promises",
@@ -92,10 +92,10 @@
         "time": "Wed, 18 Feb 2026 01:31:30 GMT"
       },
       {
-        "title": "Plan to increase youth minimum wage could be delayed",
-        "url": "https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "William says it has taken 'long time to understand my emotions'",
+        "url": "https://www.bbc.com/news/articles/cm21d4j26pdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Feb 2026 11:19:12 GMT"
+        "time": "Wed, 18 Feb 2026 08:15:26 GMT"
       }
     ],
     "projects": [
