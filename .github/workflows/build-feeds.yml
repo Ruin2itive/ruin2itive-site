@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -37,4 +39,5 @@ jobs:
           git add data/*.json
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "Update RSS feeds"
+          git pull --rebase origin main
           git push
