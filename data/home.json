@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-18T10:42:12.429Z",
-  "updated_local": "2/18/2026, 10:42:12 AM",
+  "updated_iso": "2026-02-18T11:37:25.030Z",
+  "updated_local": "2/18/2026, 11:37:25 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "California Begins Enforcing State-Level Crypto Licensing With DFAL",
+        "url": "https://decrypt.co/358379/california-begins-enforcing-state-level-crypto-licensing-with-dfal",
+        "source": "crypto",
+        "time": "Wed, 18 Feb 2026 11:07:01 +0000"
+      },
       {
         "title": "Wall Street Pushes Deeper Into Prediction Markets With New ETF Filings",
         "url": "https://decrypt.co/358377/wall-street-prediction-markets-new-etf-filings",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/358364/federal-appeals-court-rejects-kalshi-bid-pause-nevada",
         "source": "crypto",
         "time": "Wed, 18 Feb 2026 00:06:36 +0000"
-      },
-      {
-        "title": "Why Bitcoin Open Interest Has Seen Its Largest Decline in Almost 3 Years",
-        "url": "https://decrypt.co/358273/bitcoin-open-interest-largest-decline-april-2023",
-        "source": "crypto",
-        "time": "Tue, 17 Feb 2026 23:31:56 +0000"
       }
     ],
     "hacker": [
@@ -48,21 +48,27 @@
         "time": "2/17/2026, 5:48:52 PM"
       },
       {
-        "title": "15 years later, Microsoft morged my diagram",
-        "url": "https://nvie.com/posts/15-years-later/",
-        "source": "hn",
-        "time": "2/18/2026, 6:20:13 AM"
-      },
-      {
         "title": "A DuckDB-based metabase alternative",
         "url": "https://github.com/taleshape-com/shaper",
         "source": "hn",
         "time": "2/18/2026, 6:29:36 AM"
+      },
+      {
+        "title": "15 years later, Microsoft morged my diagram",
+        "url": "https://nvie.com/posts/15-years-later/",
+        "source": "hn",
+        "time": "2/18/2026, 6:20:13 AM"
       }
     ],
     "world": [
       {
-        "title": "'Just push us into the sea': The frustration of an area failed by politics",
+        "title": "Lower food and fuel prices drive inflation down to 3%",
+        "url": "https://www.bbc.com/news/articles/c5yg04jg1n5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 18 Feb 2026 09:16:19 GMT"
+      },
+      {
+        "title": "'Just push us into the sea': The frustration of a coastal community failed by political promises",
         "url": "https://www.bbc.com/news/articles/cm2136jnjx1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 18 Feb 2026 01:31:30 GMT"
@@ -71,7 +77,7 @@
         "title": "Plan to increase youth minimum wage could be delayed",
         "url": "https://www.bbc.com/news/articles/c5y6g57j3meo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Feb 2026 08:59:53 GMT"
+        "time": "Wed, 18 Feb 2026 11:19:12 GMT"
       },
       {
         "title": "William says it has taken 'long time to understand my emotions'",
@@ -84,12 +90,6 @@
         "url": "https://www.bbc.com/news/articles/c5yv9plyjgpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 18 Feb 2026 07:58:02 GMT"
-      },
-      {
-        "title": "Benfica midfielder denies racially abusing Vinicius after Real Madrid match halted",
-        "url": "https://www.bbc.com/sport/football/articles/cp9myemmg3ro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 18 Feb 2026 08:17:45 GMT"
       }
     ],
     "projects": [
