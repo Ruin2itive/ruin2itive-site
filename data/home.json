@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-19T20:41:31.476Z",
-  "updated_local": "2/19/2026, 8:41:31 PM",
+  "updated_iso": "2026-02-19T21:30:56.327Z",
+  "updated_local": "2/19/2026, 9:30:56 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Google Brings AI Music Generation to Gemini—We Tried It, and It&#39;s Too Little Too Late",
+        "url": "https://decrypt.co/358654/google-ai-music-gemini-lyria-3-review-suno-udio",
+        "source": "crypto",
+        "time": "Thu, 19 Feb 2026 21:13:13 +0000"
+      },
       {
         "title": "Ethereum Treasury Sharplink Reports Growing ETH Holdings, Institutional Investment",
         "url": "https://decrypt.co/358652/ethereum-treasury-sharplink-growing-eth-holdings-institutional-investment",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/358619/bitcoin-going-zero-searches-rise-crypto-sentiment-dumps",
         "source": "crypto",
         "time": "Thu, 19 Feb 2026 18:36:33 +0000"
-      },
-      {
-        "title": "Warren Presses Treasury, Fed to Rule Out Bitcoin Bailout As Prices Tumble: Report",
-        "url": "https://decrypt.co/358593/warren-presses-treasury-fed-to-rule-out-bitcoin-bailout-as-prices-tumble-report",
-        "source": "crypto",
-        "time": "Thu, 19 Feb 2026 17:19:12 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "California's New Bill Requires DOJ-Approved 3D Printers That Report Themselves",
-        "url": "https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/",
+        "title": "Gemini 3.1 Pro",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
         "source": "hn",
-        "time": "2/19/2026, 7:16:12 PM"
+        "time": "2/19/2026, 3:19:57 PM"
       },
       {
         "title": "Show HN: Micasa – track your house from the terminal",
@@ -54,16 +54,16 @@
         "time": "2/19/2026, 7:42:31 PM"
       },
       {
-        "title": "Archaeologists find possible first direct evidence of Hannibal's war elephants",
-        "url": "https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/",
-        "source": "hn",
-        "time": "2/19/2026, 6:31:50 PM"
-      },
-      {
         "title": "A terminal weather app with ASCII animations driven by real-time weather data",
         "url": "https://github.com/Veirt/weathr",
         "source": "hn",
         "time": "2/19/2026, 5:47:25 PM"
+      },
+      {
+        "title": "Archaeologists find possible first direct evidence of Hannibal's war elephants",
+        "url": "https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/",
+        "source": "hn",
+        "time": "2/19/2026, 6:31:50 PM"
       }
     ],
     "world": [
