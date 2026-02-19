@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-19T19:37:31.518Z",
-  "updated_local": "2/19/2026, 7:37:31 PM",
+  "updated_iso": "2026-02-19T20:30:44.568Z",
+  "updated_local": "2/19/2026, 8:30:44 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Ethereum Treasury Sharplink Reports Growing ETH Holdings, Institutional Investment",
+        "url": "https://decrypt.co/358652/ethereum-treasury-sharplink-growing-eth-holdings-institutional-investment",
+        "source": "crypto",
+        "time": "Thu, 19 Feb 2026 20:02:50 +0000"
+      },
       {
         "title": "&#39;The Sandbox&#39; Adds Web-Based Games in Season 7 Accessibility Push",
         "url": "https://decrypt.co/358594/sandbox-web-based-games-season-7-rollout-accessibility-push",
@@ -26,20 +32,26 @@
         "url": "https://decrypt.co/358593/warren-presses-treasury-fed-to-rule-out-bitcoin-bailout-as-prices-tumble-report",
         "source": "crypto",
         "time": "Thu, 19 Feb 2026 17:19:12 +0000"
-      },
-      {
-        "title": "CME Will Make Crypto Derivatives Trading 24/7 in May as Wall Street Eyes Similar Goal",
-        "url": "https://decrypt.co/358595/cme-crypto-derivatives-trading-24-7-may-wall-street-similar-goal",
-        "source": "crypto",
-        "time": "Thu, 19 Feb 2026 17:19:10 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "California's New Bill Requires DOJ-Approved 3D Printers That Report Themselves",
+        "url": "https://blog.adafruit.com/2026/02/19/californias-new-bill-requires-doj-approved-3d-printers-that-report-on-themselves/",
+        "source": "hn",
+        "time": "2/19/2026, 7:16:12 PM"
+      },
       {
         "title": "Show HN: Micasa – track your house from the terminal",
         "url": "https://micasa.dev",
         "source": "hn",
         "time": "2/19/2026, 3:54:14 PM"
+      },
+      {
+        "title": "Micropayments as a reality check for news sites",
+        "url": "https://blog.zgp.org/micropayments-as-a-reality-check-for-news-sites/",
+        "source": "hn",
+        "time": "2/19/2026, 7:42:31 PM"
       },
       {
         "title": "Archaeologists find possible first direct evidence of Hannibal's war elephants",
@@ -48,22 +60,10 @@
         "time": "2/19/2026, 6:31:50 PM"
       },
       {
-        "title": "Gemini 3.1 Pro",
-        "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
+        "title": "IRS lost 40% of IT staff, 80% of tech leaders in 'efficiency' shakeup",
+        "url": "https://www.theregister.com/2026/02/19/irs_job_cuts/",
         "source": "hn",
-        "time": "2/19/2026, 4:14:07 PM"
-      },
-      {
-        "title": "A terminal weather app with ASCII animations driven by real-time weather data",
-        "url": "https://github.com/Veirt/weathr",
-        "source": "hn",
-        "time": "2/19/2026, 5:47:25 PM"
-      },
-      {
-        "title": "Pebble Production: February Update",
-        "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
-        "source": "hn",
-        "time": "2/19/2026, 12:36:00 PM"
+        "time": "2/19/2026, 7:16:33 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Epstein files could be just tip of the iceberg for Andrew investigation",
         "url": "https://www.bbc.com/news/articles/cd032xnm804o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Feb 2026 17:58:26 GMT"
+        "time": "Thu, 19 Feb 2026 20:17:08 GMT"
       },
       {
         "title": "An unprecedented moment for the UK - and a former prince",
@@ -95,7 +95,7 @@
         "title": "Man guilty of XL bully offence after dog killed mother-in-law in his home",
         "url": "https://www.bbc.com/news/articles/c1e98d8l2l3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Feb 2026 18:04:12 GMT"
+        "time": "Thu, 19 Feb 2026 20:26:15 GMT"
       }
     ],
     "projects": [
