@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-19T17:48:45.312Z",
-  "updated_local": "2/19/2026, 5:48:45 PM",
+  "updated_iso": "2026-02-19T18:48:35.354Z",
+  "updated_local": "2/19/2026, 6:48:35 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "&#39;Bitcoin Going to Zero&#39; Google Searches Rise With Crypto Sentiment in the Dumps",
+        "url": "https://decrypt.co/358619/bitcoin-going-zero-searches-rise-crypto-sentiment-dumps",
+        "source": "crypto",
+        "time": "Thu, 19 Feb 2026 18:36:33 +0000"
+      },
       {
         "title": "Warren Presses Treasury, Fed to Rule Out Bitcoin Bailout As Prices Tumble: Report",
         "url": "https://decrypt.co/358593/warren-presses-treasury-fed-to-rule-out-bitcoin-bailout-as-prices-tumble-report",
@@ -26,32 +32,20 @@
         "url": "https://decrypt.co/resources/what-is-base-coinbases-layer-2-chain",
         "source": "crypto",
         "time": "Thu, 19 Feb 2026 16:54:03 +0000"
-      },
-      {
-        "title": "What&#39;s the Best AI Model to Run Your Business? The One That Lies Best, Apparently",
-        "url": "https://decrypt.co/358575/best-ai-model-run-business",
-        "source": "crypto",
-        "time": "Thu, 19 Feb 2026 16:05:15 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "AI Makes You Boring",
+        "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
+        "source": "hn",
+        "time": "2/19/2026, 6:12:16 PM"
+      },
       {
         "title": "Gemini 3.1 Pro",
         "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
         "source": "hn",
         "time": "2/19/2026, 4:14:07 PM"
-      },
-      {
-        "title": "Dinosaur Food: 100M year old foods we still eat today",
-        "url": "https://borischerny.com/food/2022/01/17/Dinosaur-food.html",
-        "source": "hn",
-        "time": "2/19/2026, 3:30:42 PM"
-      },
-      {
-        "title": "Pebble Production: February Update",
-        "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
-        "source": "hn",
-        "time": "2/19/2026, 12:36:00 PM"
       },
       {
         "title": "Show HN: Micasa – track your house from the terminal",
@@ -60,42 +54,48 @@
         "time": "2/19/2026, 3:54:14 PM"
       },
       {
-        "title": "Paged Out Issue #8 [pdf]",
-        "url": "https://pagedout.institute/download/PagedOut_008.pdf",
+        "title": "South Korean ex president Yoon Suk Yeol jailed for life for leading insurrection",
+        "url": "https://www.theguardian.com/world/2026/feb/19/yoon-suk-yeol-sentenced-to-life-in-prison-for-leading-insurrection-in-south-korea",
         "source": "hn",
-        "time": "2/19/2026, 12:13:44 PM"
+        "time": "2/19/2026, 6:26:44 PM"
+      },
+      {
+        "title": "Pebble Production: February Update",
+        "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+        "source": "hn",
+        "time": "2/19/2026, 12:36:00 PM"
       }
     ],
     "world": [
       {
+        "title": "Andrew investigation could be about more than Epstein files",
+        "url": "https://www.bbc.com/news/articles/cd032xnm804o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 19 Feb 2026 17:58:26 GMT"
+      },
+      {
         "title": "An unprecedented moment for the UK - and a former prince",
         "url": "https://www.bbc.com/news/articles/czr0vj13ezjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Feb 2026 17:42:32 GMT"
+        "time": "Thu, 19 Feb 2026 18:26:08 GMT"
       },
       {
-        "title": "Why has Andrew Mountbatten-Windsor been arrested?",
-        "url": "https://www.bbc.com/news/articles/cn9e1q4797wo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 19 Feb 2026 15:02:42 GMT"
-      },
-      {
-        "title": "Read King and police statements in full after Andrew arrest",
+        "title": "Read King and police statements in full",
         "url": "https://www.bbc.com/news/articles/cd6zjl58734o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 19 Feb 2026 12:28:43 GMT"
       },
       {
-        "title": "Andrew in custody as police search two addresses",
-        "url": "https://www.bbc.com/news/articles/cx28yel4811o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "What happens next after Andrew's arrest?",
+        "url": "https://www.bbc.com/news/articles/cn9e1q4797wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Feb 2026 16:06:28 GMT"
+        "time": "Thu, 19 Feb 2026 15:02:42 GMT"
       },
       {
         "title": "Man guilty of XL bully offence after dog killed mother-in-law in his home",
         "url": "https://www.bbc.com/news/articles/c1e98d8l2l3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Feb 2026 17:25:11 GMT"
+        "time": "Thu, 19 Feb 2026 18:04:12 GMT"
       }
     ],
     "projects": [
