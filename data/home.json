@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-19T15:58:42.237Z",
-  "updated_local": "2/19/2026, 3:58:42 PM",
+  "updated_iso": "2026-02-19T16:51:04.725Z",
+  "updated_local": "2/19/2026, 4:51:04 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "What&#39;s the Best AI Model to Run Your Business? The One That Lies Best, Apparently",
+        "url": "https://decrypt.co/358575/best-ai-model-run-business",
+        "source": "crypto",
+        "time": "Thu, 19 Feb 2026 16:05:15 +0000"
+      },
       {
         "title": "Morning Minute: OpenAI and Paradigm Turn Focus to Smart Contracts",
         "url": "https://decrypt.co/358569/morning-minute-openai-and-paradigm-turn-focus-to-smart-contracts",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/358549/optimism-plunges-double-digits-amid-bases-tech-stack-overhaul",
         "source": "crypto",
         "time": "Thu, 19 Feb 2026 10:44:10 +0000"
-      },
-      {
-        "title": "AI Disruption Could Cut Creator Earnings by Nearly 25% by 2028, UNESCO Warns",
-        "url": "https://decrypt.co/358535/ai-disruption-creator-earnings-unesco",
-        "source": "crypto",
-        "time": "Thu, 19 Feb 2026 05:33:39 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "2/19/2026, 2:52:18 PM"
       },
       {
+        "title": "Gemini 3.1",
+        "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
+        "source": "hn",
+        "time": "2/19/2026, 4:14:07 PM"
+      },
+      {
         "title": "Pebble Production: February Update",
         "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
         "source": "hn",
         "time": "2/19/2026, 12:36:00 PM"
       },
       {
+        "title": "Dinosaur Food: 100M year old foods we still eat today",
+        "url": "https://borischerny.com/food/2022/01/17/Dinosaur-food.html",
+        "source": "hn",
+        "time": "2/19/2026, 3:30:42 PM"
+      },
+      {
         "title": "Paged Out Issue #8 [pdf]",
         "url": "https://pagedout.institute/download/PagedOut_008.pdf",
         "source": "hn",
         "time": "2/19/2026, 12:13:44 PM"
-      },
-      {
-        "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
-        "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
-        "source": "hn",
-        "time": "2/16/2026, 5:57:46 PM"
-      },
-      {
-        "title": "-fbounds-safety: Enforcing bounds safety for C",
-        "url": "https://clang.llvm.org/docs/BoundsSafety.html",
-        "source": "hn",
-        "time": "2/16/2026, 2:05:21 PM"
       }
     ],
     "world": [
@@ -83,7 +83,7 @@
         "title": "Andrew in custody as police search two addresses",
         "url": "https://www.bbc.com/news/articles/cx28yel4811o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Feb 2026 14:53:02 GMT"
+        "time": "Thu, 19 Feb 2026 16:06:28 GMT"
       },
       {
         "title": "Detained British woman describes life in Iran jail hours before being sentenced to 10 years",
@@ -95,7 +95,7 @@
         "title": "Man guilty of XL bully offence after dog killed mother-in-law in his home",
         "url": "https://www.bbc.com/news/articles/c1e98d8l2l3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Feb 2026 15:43:06 GMT"
+        "time": "Thu, 19 Feb 2026 16:41:57 GMT"
       }
     ],
     "projects": [
