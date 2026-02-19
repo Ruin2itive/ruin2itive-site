@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-19T13:26:31.651Z",
-  "updated_local": "2/19/2026, 1:26:31 PM",
+  "updated_iso": "2026-02-19T14:44:17.915Z",
+  "updated_local": "2/19/2026, 2:44:17 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: OpenAI and Paradigm Turn Focus to Smart Contracts",
+        "url": "https://decrypt.co/358569/morning-minute-openai-and-paradigm-turn-focus-to-smart-contracts",
+        "source": "crypto",
+        "time": "Thu, 19 Feb 2026 13:31:02 +0000"
+      },
       {
         "title": "Bundesbank President Wants Euro-Pegged Stablecoins to Prevent Dollarization",
         "url": "https://decrypt.co/358563/bundesbank-president-wants-euro-pegged-stablecoins-to-prevent-dollarization",
@@ -26,33 +32,9 @@
         "url": "https://decrypt.co/358535/ai-disruption-creator-earnings-unesco",
         "source": "crypto",
         "time": "Thu, 19 Feb 2026 05:33:39 +0000"
-      },
-      {
-        "title": "Altcoin Selling Pressure Hits Five-Year High as Confidence Wanes",
-        "url": "https://decrypt.co/358532/altcoin-selling-pressure-five-year-high-confidence-wanes",
-        "source": "crypto",
-        "time": "Thu, 19 Feb 2026 04:08:06 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
-        "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
-        "source": "hn",
-        "time": "2/16/2026, 5:57:46 PM"
-      },
-      {
-        "title": "Show HN: An encrypted, local, cross-platform journaling app",
-        "url": "https://github.com/fjrevoredo/mini-diarium",
-        "source": "hn",
-        "time": "2/19/2026, 11:54:21 AM"
-      },
-      {
-        "title": "Bridging Elixir and Python with Oban",
-        "url": "https://oban.pro/articles/bridging-with-oban",
-        "source": "hn",
-        "time": "2/19/2026, 11:07:15 AM"
-      },
       {
         "title": "Pebble Production: February Update",
         "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
@@ -60,10 +42,28 @@
         "time": "2/19/2026, 12:36:00 PM"
       },
       {
-        "title": "Show HN: A physically-based GPU ray tracer written in Julia",
-        "url": "https://makie.org/website/blogposts/raytracing/",
+        "title": "C++26: Std:Is_within_lifetime",
+        "url": "https://www.sandordargo.com/blog/2026/02/18/cpp26-std_is_within_lifetime",
         "source": "hn",
-        "time": "2/19/2026, 10:55:13 AM"
+        "time": "2/19/2026, 1:47:30 PM"
+      },
+      {
+        "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+        "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
+        "source": "hn",
+        "time": "2/16/2026, 5:57:46 PM"
+      },
+      {
+        "title": "Show HN: Mini-Diarium - An encrypted, local, cross-platform journaling app",
+        "url": "https://github.com/fjrevoredo/mini-diarium",
+        "source": "hn",
+        "time": "2/19/2026, 11:54:21 AM"
+      },
+      {
+        "title": "Paged Out Issue #8 [pdf]",
+        "url": "https://pagedout.institute/download/PagedOut_008.pdf",
+        "source": "hn",
+        "time": "2/19/2026, 12:13:44 PM"
       }
     ],
     "world": [
@@ -71,19 +71,13 @@
         "title": "Why has Andrew Mountbatten-Windsor been arrested?",
         "url": "https://www.bbc.com/news/articles/cn9e1q4797wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Feb 2026 12:51:46 GMT"
+        "time": "Thu, 19 Feb 2026 14:07:06 GMT"
       },
       {
         "title": "Read King and police statements in full after Andrew arrest",
         "url": "https://www.bbc.com/news/articles/cd6zjl58734o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 19 Feb 2026 12:28:43 GMT"
-      },
-      {
-        "title": "Watch: Vehicles arrive at Sandringham Estate",
-        "url": "https://www.bbc.com/news/videos/cpqw7pj2lyeo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 19 Feb 2026 11:37:04 GMT"
       },
       {
         "title": "Andrew in custody as police search two addresses",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/c747nqply93o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 19 Feb 2026 10:49:47 GMT"
+      },
+      {
+        "title": "Pupils with SEND to have support reviewed after primary, leaked plans suggest",
+        "url": "https://www.bbc.com/news/articles/cx2d041wl6po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 19 Feb 2026 09:41:32 GMT"
       }
     ],
     "projects": [
