@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-02-19T11:36:47.416Z",
-  "updated_local": "2/19/2026, 11:36:47 AM",
+  "updated_iso": "2026-02-19T13:01:48.038Z",
+  "updated_local": "2/19/2026, 1:01:48 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bundesbank President Wants Euro-Pegged Stablecoins to Prevent Dollarization",
+        "url": "https://decrypt.co/358563/bundesbank-president-wants-euro-pegged-stablecoins-to-prevent-dollarization",
+        "source": "crypto",
+        "time": "Thu, 19 Feb 2026 12:57:53 +0000"
+      },
+      {
+        "title": "Coinbase CEO Says Quantum Computing &#39;Solvable Issue&#39; for Crypto",
+        "url": "https://decrypt.co/358559/coinbase-ceo-says-quantum-computing-solvable-issue-for-crypto",
+        "source": "crypto",
+        "time": "Thu, 19 Feb 2026 11:56:23 +0000"
+      },
       {
         "title": "Optimism Plunges Double Digits Amid Base&#39;s Tech Stack Overhaul",
         "url": "https://decrypt.co/358549/optimism-plunges-double-digits-amid-bases-tech-stack-overhaul",
@@ -20,82 +32,70 @@
         "url": "https://decrypt.co/358532/altcoin-selling-pressure-five-year-high-confidence-wanes",
         "source": "crypto",
         "time": "Thu, 19 Feb 2026 04:08:06 +0000"
-      },
-      {
-        "title": "Fed Economists Praise Prediction Markets as States Step Up Enforcement",
-        "url": "https://decrypt.co/358529/fed-economists-prediction-markets-states-step-up-enforcement",
-        "source": "crypto",
-        "time": "Thu, 19 Feb 2026 03:18:34 +0000"
-      },
-      {
-        "title": "ETH Denver 2026 Opens With Builder Energy Despite Crypto Slump",
-        "url": "https://decrypt.co/358483/eth-denver-2026-builder-energy-despite-crypto-slump",
-        "source": "crypto",
-        "time": "Thu, 19 Feb 2026 00:33:12 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+        "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
+        "source": "hn",
+        "time": "2/16/2026, 5:57:46 PM"
+      },
+      {
+        "title": "Show HN: An encrypted, local, cross-platform journaling app",
+        "url": "https://github.com/fjrevoredo/mini-diarium",
+        "source": "hn",
+        "time": "2/19/2026, 11:54:21 AM"
+      },
+      {
+        "title": "Bridging Elixir and Python with Oban",
+        "url": "https://oban.pro/articles/bridging-with-oban",
+        "source": "hn",
+        "time": "2/19/2026, 11:07:15 AM"
+      },
+      {
+        "title": "Coding Tricks Used in the C64 Game Seawolves",
+        "url": "https://kodiak64.co.uk/blog/seawolves-technical-tricks",
+        "source": "hn",
+        "time": "2/19/2026, 12:24:33 PM"
+      },
       {
         "title": "Sizing chaos",
         "url": "https://pudding.cool/2026/02/womens-sizing/",
         "source": "hn",
         "time": "2/18/2026, 9:18:20 PM"
-      },
-      {
-        "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
-        "url": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
-        "source": "hn",
-        "time": "2/18/2026, 8:54:31 PM"
-      },
-      {
-        "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
-        "url": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
-        "source": "hn",
-        "time": "2/19/2026, 1:46:07 AM"
-      },
-      {
-        "title": "Step 3.5 Flash – Open-source foundation model, supports deep reasoning at speed",
-        "url": "https://static.stepfun.com/blog/step-3.5-flash/",
-        "source": "hn",
-        "time": "2/19/2026, 2:32:00 AM"
-      },
-      {
-        "title": "I made ChatGPT and Google tell I'm a competitive hot-dog-eating world champion",
-        "url": "https://bsky.app/profile/thomasgermain.bsky.social/post/3mf5jbn5lqk2k",
-        "source": "hn",
-        "time": "2/19/2026, 10:56:25 AM"
       }
     ],
     "world": [
       {
-        "title": "Police statement in full after Andrew arrest",
+        "title": "Why has Andrew Mountbatten-Windsor been arrested?",
+        "url": "https://www.bbc.com/news/articles/cn9e1q4797wo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 19 Feb 2026 12:51:46 GMT"
+      },
+      {
+        "title": "Read King and police statements in full after Andrew arrest",
         "url": "https://www.bbc.com/news/articles/cd6zjl58734o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Feb 2026 10:31:04 GMT"
+        "time": "Thu, 19 Feb 2026 12:28:43 GMT"
+      },
+      {
+        "title": "Watch: Vehicles arrive at Sandringham Estate",
+        "url": "https://www.bbc.com/news/videos/cpqw7pj2lyeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 19 Feb 2026 11:37:04 GMT"
+      },
+      {
+        "title": "Andrew in custody as police search two addresses",
+        "url": "https://www.bbc.com/news/articles/cx28yel4811o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 19 Feb 2026 12:49:02 GMT"
       },
       {
         "title": "Detained British woman describes life in Iran jail hours before being sentenced to 10 years",
         "url": "https://www.bbc.com/news/articles/c747nqply93o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 19 Feb 2026 10:49:47 GMT"
-      },
-      {
-        "title": "Pupils with SEND to have support reviewed after primary, leaked plans suggest",
-        "url": "https://www.bbc.com/news/articles/cx2d041wl6po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 19 Feb 2026 09:41:32 GMT"
-      },
-      {
-        "title": "Starmer appoints Dame Antonia Romeo as head of UK civil service",
-        "url": "https://www.bbc.com/news/articles/c3rz8z33rqxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 19 Feb 2026 10:28:16 GMT"
-      },
-      {
-        "title": "Why there's no quick fix in sight for the problem of dazzling headlights",
-        "url": "https://www.bbc.com/news/articles/cn71xyjpdl2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 19 Feb 2026 09:43:37 GMT"
       }
     ],
     "projects": [
