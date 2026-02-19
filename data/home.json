@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-02-19T16:51:04.725Z",
-  "updated_local": "2/19/2026, 4:51:04 PM",
+  "updated_iso": "2026-02-19T17:07:33.878Z",
+  "updated_local": "2/19/2026, 5:07:33 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Why Verifiable Data Is the Missing Layer in AI: Walrus",
+        "url": "https://decrypt.co/358431/why-verifiable-data-is-the-missing-layer-in-ai-walrus",
+        "source": "crypto",
+        "time": "Thu, 19 Feb 2026 17:01:03 +0000"
+      },
+      {
+        "title": "What Is Base? The Ethereum Layer-2 Network Launched by Coinbase",
+        "url": "https://decrypt.co/resources/what-is-base-coinbases-layer-2-chain",
+        "source": "crypto",
+        "time": "Thu, 19 Feb 2026 16:54:03 +0000"
+      },
       {
         "title": "What&#39;s the Best AI Model to Run Your Business? The One That Lies Best, Apparently",
         "url": "https://decrypt.co/358575/best-ai-model-run-business",
@@ -20,38 +32,20 @@
         "url": "https://decrypt.co/358563/bundesbank-president-wants-euro-pegged-stablecoins-to-prevent-dollarization",
         "source": "crypto",
         "time": "Thu, 19 Feb 2026 12:57:53 +0000"
-      },
-      {
-        "title": "Coinbase CEO Says Quantum Computing &#39;Solvable Issue&#39; for Crypto",
-        "url": "https://decrypt.co/358559/coinbase-ceo-says-quantum-computing-solvable-issue-for-crypto",
-        "source": "crypto",
-        "time": "Thu, 19 Feb 2026 11:56:23 +0000"
-      },
-      {
-        "title": "Optimism Plunges Double Digits Amid Base&#39;s Tech Stack Overhaul",
-        "url": "https://decrypt.co/358549/optimism-plunges-double-digits-amid-bases-tech-stack-overhaul",
-        "source": "crypto",
-        "time": "Thu, 19 Feb 2026 10:44:10 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "America vs. Singapore: You Can't Save Your Way Out of Economic Shocks",
-        "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
-        "source": "hn",
-        "time": "2/19/2026, 2:52:18 PM"
-      },
-      {
-        "title": "Gemini 3.1",
+        "title": "Gemini 3.1 Pro",
         "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
         "source": "hn",
         "time": "2/19/2026, 4:14:07 PM"
       },
       {
-        "title": "Pebble Production: February Update",
-        "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+        "title": "AI made coding more enjoyable",
+        "url": "https://weberdominik.com/blog/ai-coding-enjoyable/",
         "source": "hn",
-        "time": "2/19/2026, 12:36:00 PM"
+        "time": "2/19/2026, 4:20:26 PM"
       },
       {
         "title": "Dinosaur Food: 100M year old foods we still eat today",
@@ -60,10 +54,16 @@
         "time": "2/19/2026, 3:30:42 PM"
       },
       {
-        "title": "Paged Out Issue #8 [pdf]",
-        "url": "https://pagedout.institute/download/PagedOut_008.pdf",
+        "title": "America vs. Singapore: You Can't Save Your Way Out of Economic Shocks",
+        "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
         "source": "hn",
-        "time": "2/19/2026, 12:13:44 PM"
+        "time": "2/19/2026, 2:52:18 PM"
+      },
+      {
+        "title": "Pebble Production: February Update",
+        "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+        "source": "hn",
+        "time": "2/19/2026, 12:36:00 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Thu, 19 Feb 2026 16:06:28 GMT"
       },
       {
-        "title": "Detained British woman describes life in Iran jail hours before being sentenced to 10 years",
-        "url": "https://www.bbc.com/news/articles/c747nqply93o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 19 Feb 2026 10:49:47 GMT"
-      },
-      {
         "title": "Man guilty of XL bully offence after dog killed mother-in-law in his home",
         "url": "https://www.bbc.com/news/articles/c1e98d8l2l3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 19 Feb 2026 16:41:57 GMT"
+      },
+      {
+        "title": "Detained British woman describes life in Iran jail hours before being sentenced to 10 years",
+        "url": "https://www.bbc.com/news/articles/c747nqply93o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 19 Feb 2026 10:49:47 GMT"
       }
     ],
     "projects": [
