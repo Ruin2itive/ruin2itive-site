@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-20T09:38:42.077Z",
-  "updated_local": "2/20/2026, 9:38:42 AM",
+  "updated_iso": "2026-02-20T09:52:47.043Z",
+  "updated_local": "2/20/2026, 9:52:47 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "\"Made in EU\" – Building a Startup on European Infrastructure",
-        "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
-        "source": "hn",
-        "time": "2/20/2026, 9:02:05 AM"
-      },
-      {
         "title": "Defer available in gcc and clang",
         "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
         "source": "hn",
@@ -58,6 +52,12 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
         "source": "hn",
         "time": "2/19/2026, 3:19:57 PM"
+      },
+      {
+        "title": "I tried building my startup entirely on European infrastructure",
+        "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
+        "source": "hn",
+        "time": "2/20/2026, 9:02:05 AM"
       },
       {
         "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
