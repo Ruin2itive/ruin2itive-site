@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-20T10:49:06.234Z",
-  "updated_local": "2/20/2026, 10:49:06 AM",
+  "updated_iso": "2026-02-20T11:30:52.545Z",
+  "updated_local": "2/20/2026, 11:30:52 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin ETFs Lose Another $166M as Five-Week Withdrawals Near $4B",
+        "url": "https://decrypt.co/358713/bitcoin-etfs-lose-another-166m-as-five-week-withdrawals-near-4b",
+        "source": "crypto",
+        "time": "Fri, 20 Feb 2026 11:16:02 +0000"
+      },
       {
         "title": "Silicon Valley Engineers Charged With Theft of Google, Tech Trade Secrets",
         "url": "https://decrypt.co/358710/silicon-valley-engineers-charged-with-theft-of-google-tech-trade-secrets",
@@ -26,26 +32,14 @@
         "url": "https://decrypt.co/358690/australian-executive-cyber-secrets-russia-crypto",
         "source": "crypto",
         "time": "Fri, 20 Feb 2026 02:52:25 +0000"
-      },
-      {
-        "title": "White House, Banks and Crypto Groups Resume Talks on Stablecoin Rewards",
-        "url": "https://decrypt.co/358688/white-house-banks-crypto-groups-resume-talks-stablecoin",
-        "source": "crypto",
-        "time": "Fri, 20 Feb 2026 01:01:28 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Defer available in gcc and clang",
-        "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
+        "title": "The path to ubiquitous AI (17k tokens/sec)",
+        "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
         "source": "hn",
-        "time": "2/16/2026, 5:27:35 AM"
-      },
-      {
-        "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
-        "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
-        "source": "hn",
-        "time": "2/20/2026, 4:15:58 AM"
+        "time": "2/20/2026, 10:32:52 AM"
       },
       {
         "title": "Gemini 3.1 Pro",
@@ -54,24 +48,30 @@
         "time": "2/19/2026, 3:19:57 PM"
       },
       {
-        "title": "I tried building my startup entirely on European infrastructure",
-        "url": "https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/",
+        "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+        "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
         "source": "hn",
-        "time": "2/20/2026, 9:02:05 AM"
+        "time": "2/20/2026, 4:15:58 AM"
       },
       {
-        "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
-        "url": "https://github.com/olvvier/apple-silicon-accelerometer",
+        "title": "Defer available in gcc and clang",
+        "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
         "source": "hn",
-        "time": "2/20/2026, 5:06:40 AM"
+        "time": "2/16/2026, 5:27:35 AM"
+      },
+      {
+        "title": "Untapped Way to Learn a Codebase: Build a Visualizer",
+        "url": "https://jimmyhmiller.com/learn-codebase-visualizer",
+        "source": "hn",
+        "time": "2/20/2026, 8:52:17 AM"
       }
     ],
     "world": [
       {
-        "title": "Watch: The day Andrew Mountbatten-Windsor was arrested",
-        "url": "https://www.bbc.com/news/videos/cvg192yp9geo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Why was Andrew arrested and is he still in line for the throne?",
+        "url": "https://www.bbc.com/news/articles/cn9e1q4797wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Feb 2026 22:20:22 GMT"
+        "time": "Fri, 20 Feb 2026 10:50:54 GMT"
       },
       {
         "title": "What does Andrew's arrest mean for the Royal Family?",
@@ -95,7 +95,7 @@
         "title": "Austrian climber found guilty after girlfriend froze to death on mountain",
         "url": "https://www.bbc.com/news/articles/c0k1xkllknmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 20 Feb 2026 10:45:36 GMT"
+        "time": "Fri, 20 Feb 2026 11:10:31 GMT"
       }
     ],
     "projects": [
