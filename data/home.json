@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-20T06:54:37.743Z",
-  "updated_local": "2/20/2026, 6:54:37 AM",
+  "updated_iso": "2026-02-20T07:47:04.207Z",
+  "updated_local": "2/20/2026, 7:47:04 AM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
-        "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
-        "source": "hn",
-        "time": "2/20/2026, 1:28:47 AM"
-      },
-      {
-        "title": "Mystery donor gives Japanese city $3.6M in gold bars to fix water system",
-        "url": "https://www.bbc.com/news/articles/c3ew5jlqz87o",
-        "source": "hn",
-        "time": "2/20/2026, 4:27:51 AM"
-      },
-      {
-        "title": "Defer Available in GCC and Clang",
+        "title": "Defer available in gcc and clang",
         "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
         "source": "hn",
         "time": "2/16/2026, 5:27:35 AM"
+      },
+      {
+        "title": "Gemini 3.1 Pro",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+        "source": "hn",
+        "time": "2/19/2026, 3:19:57 PM"
       },
       {
         "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
@@ -60,10 +54,16 @@
         "time": "2/20/2026, 4:15:58 AM"
       },
       {
-        "title": "Gemini 3.1 Pro",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+        "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
+        "url": "https://github.com/olvvier/apple-silicon-accelerometer",
         "source": "hn",
-        "time": "2/19/2026, 3:19:57 PM"
+        "time": "2/20/2026, 5:06:40 AM"
+      },
+      {
+        "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+        "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+        "source": "hn",
+        "time": "2/20/2026, 3:05:08 AM"
       }
     ],
     "world": [
@@ -95,7 +95,7 @@
         "title": "Grey's Anatomy star Eric Dane dies at 53 after ALS diagnosis",
         "url": "https://www.bbc.com/news/articles/c78j01n775ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 20 Feb 2026 06:01:11 GMT"
+        "time": "Fri, 20 Feb 2026 07:19:44 GMT"
       }
     ],
     "projects": [
