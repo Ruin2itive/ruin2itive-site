@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-20T18:36:14.328Z"
+    "built_at": "2026-02-20T19:32:28.378Z"
   },
-  "items": [
-    {
-      "title": "The Most Important Decisions Are Non-Technical",
-      "url": "https://prog21.dadgum.com/137.html",
-      "date": "2026-02-20T18:35:20.000Z"
-    },
-    {
-      "title": "Wisdom of the Crowd: How Network Topology Distorts Collective Perception",
-      "url": "https://arxiv.org/abs/2602.17146",
-      "date": "2026-02-20T18:34:40.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
