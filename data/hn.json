@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-20T20:22:27.523Z"
+    "built_at": "2026-02-20T21:17:24.436Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "State of Clojure 2025 Results",
+      "url": "https://clojure.org/news/2026/02/18/state-of-clojure-2025",
+      "date": "2026-02-20T21:16:34.000Z"
+    },
+    {
+      "title": "Show HN: Cerebro – I got tired of waiting for Apple to fix their keyboard",
+      "url": "https://testflight.apple.com/join/x98U4HCk",
+      "date": "2026-02-20T21:15:40.000Z"
+    }
+  ]
 }
