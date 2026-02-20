@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-20T01:57:05.852Z",
-  "updated_local": "2/20/2026, 1:57:05 AM",
+  "updated_iso": "2026-02-20T02:47:15.546Z",
+  "updated_local": "2/20/2026, 2:47:15 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "2/19/2026, 3:19:57 PM"
       },
       {
+        "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+        "url": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
+        "source": "hn",
+        "time": "2/20/2026, 1:33:36 AM"
+      },
+      {
         "title": "Show HN: Micasa – track your house from the terminal",
         "url": "https://micasa.dev",
         "source": "hn",
@@ -54,16 +60,10 @@
         "time": "2/19/2026, 7:42:31 PM"
       },
       {
-        "title": "America vs. Singapore: You can't save your way out of economic shocks",
-        "url": "https://www.governance.fyi/p/america-vs-singapore-you-cant-save",
+        "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+        "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
         "source": "hn",
-        "time": "2/19/2026, 2:52:18 PM"
-      },
-      {
-        "title": "A terminal weather app with ASCII animations driven by real-time weather data",
-        "url": "https://github.com/Veirt/weathr",
-        "source": "hn",
-        "time": "2/19/2026, 5:47:25 PM"
+        "time": "2/20/2026, 1:28:47 AM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Thu, 19 Feb 2026 20:17:08 GMT"
       },
       {
-        "title": "Watch: The day Andrew Mountbatten-Windsor was arrested",
-        "url": "https://www.bbc.com/news/videos/cvg192yp9geo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How much could Andrew's arrest hurt the Royal Family?",
+        "url": "https://www.bbc.com/news/articles/cm21xjg2npjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Feb 2026 22:20:22 GMT"
-      },
-      {
-        "title": "He told police his XL bullies were friendly – days later his mother-in-law was mauled to death",
-        "url": "https://www.bbc.com/news/articles/c75e6qpl4p0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 19 Feb 2026 20:00:09 GMT"
+        "time": "Fri, 20 Feb 2026 02:31:03 GMT"
       },
       {
         "title": "UK has not given US permission to use RAF bases for Iran strikes",
         "url": "https://www.bbc.com/news/articles/cj98egkl7l1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 19 Feb 2026 18:00:13 GMT"
+      },
+      {
+        "title": "Austrian climber found guilty after girlfriend froze to death on mountain",
+        "url": "https://www.bbc.com/news/articles/c0k1xkllknmo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 20 Feb 2026 01:10:28 GMT"
       }
     ],
     "projects": [
