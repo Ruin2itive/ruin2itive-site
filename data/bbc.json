@@ -4,18 +4,18 @@
     "label": "bbc",
     "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
     "take": 2,
-    "built_at": "2026-02-21T22:16:06.115Z"
+    "built_at": "2026-02-21T23:17:39.621Z"
   },
   "items": [
+    {
+      "title": "Match of the Day",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "date": "2026-02-22T08:55:00.000Z"
+    },
     {
       "title": "Iran students stage first large anti-government protests since deadly crackdown",
       "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss",
       "date": "2026-02-21T22:09:19.000Z"
-    },
-    {
-      "title": "'Scotland's terrible beauty reverses the narrative on extraordinary day'",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/c8xyvedx2ylo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-02-21T21:29:53.000Z"
     }
   ]
 }
