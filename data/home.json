@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-21T09:38:51.527Z",
-  "updated_local": "2/21/2026, 9:38:51 AM",
+  "updated_iso": "2026-02-21T10:23:38.212Z",
+  "updated_local": "2/21/2026, 10:23:38 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Andrej Karpathy talks about \"Claws\"",
+        "url": "https://simonwillison.net/2026/Feb/21/claws/",
+        "source": "hn",
+        "time": "2/21/2026, 9:53:15 AM"
+      },
+      {
         "title": "Keep Android Open",
         "url": "https://f-droid.org/2026/02/20/twif.html",
         "source": "hn",
         "time": "2/20/2026, 5:58:51 PM"
+      },
+      {
+        "title": "Acme Weather",
+        "url": "https://acmeweather.com/blog/introducing-acme-weather",
+        "source": "hn",
+        "time": "2/21/2026, 7:13:38 AM"
       },
       {
         "title": "Turn Dependabot off",
@@ -48,22 +60,10 @@
         "time": "2/20/2026, 9:25:41 PM"
       },
       {
-        "title": "I found a Vulnerability. They found a Lawyer",
-        "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+        "title": "Trunk Based Development",
+        "url": "https://trunkbaseddevelopment.com/",
         "source": "hn",
-        "time": "2/20/2026, 7:19:58 PM"
-      },
-      {
-        "title": "24 Hour Fitness Won't Let You Unsubscribe From Marketing Spam, So I Fixed It",
-        "url": "https://ahmedkaddoura.com/projects/24hf-unsubscribe",
-        "source": "hn",
-        "time": "2/21/2026, 8:39:47 AM"
-      },
-      {
-        "title": "Facebook is cooked",
-        "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
-        "source": "hn",
-        "time": "2/20/2026, 6:25:07 PM"
+        "time": "2/21/2026, 7:07:12 AM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "Government considers removing Andrew from royal line of succession",
         "url": "https://www.bbc.com/news/articles/c1kgv837wvdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 21 Feb 2026 08:27:32 GMT"
+        "time": "Sat, 21 Feb 2026 10:09:28 GMT"
       },
       {
         "title": "Andrew and King Charles: A personal battle of royal brothers",
@@ -86,16 +86,16 @@
         "time": "Fri, 20 Feb 2026 18:05:35 GMT"
       },
       {
-        "title": "Killing of nationalist student leaves French far left in deep trouble as elections loom",
-        "url": "https://www.bbc.com/news/articles/cnv61zv534eo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 21 Feb 2026 00:32:16 GMT"
-      },
-      {
         "title": "Why fake AI videos of UK urban decline are taking over social media",
         "url": "https://www.bbc.com/news/articles/c4g8r23yv71o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 21 Feb 2026 06:04:41 GMT"
+      },
+      {
+        "title": "Civilians to soldiers: how four years of war has changed ordinary Ukrainians",
+        "url": "https://www.bbc.com/news/articles/cddn2e11zm8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 21 Feb 2026 00:22:28 GMT"
       }
     ],
     "projects": [
