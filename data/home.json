@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-20T23:36:28.384Z",
-  "updated_local": "2/20/2026, 11:36:28 PM",
+  "updated_iso": "2026-02-21T01:51:56.733Z",
+  "updated_local": "2/21/2026, 1:51:56 AM",
   "sections": {
     "crypto": [
       {
@@ -48,6 +48,12 @@
         "time": "2/20/2026, 9:25:41 PM"
       },
       {
+        "title": "CERN rebuilt the original browser from 1989",
+        "url": "https://worldwideweb.cern.ch",
+        "source": "hn",
+        "time": "2/20/2026, 11:19:12 PM"
+      },
+      {
         "title": "I found a Vulnerability. They found a Lawyer",
         "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
         "source": "hn",
@@ -58,15 +64,15 @@
         "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
         "source": "hn",
         "time": "2/20/2026, 6:25:07 PM"
-      },
-      {
-        "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-        "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-        "source": "hn",
-        "time": "2/20/2026, 1:51:04 PM"
       }
     ],
     "world": [
+      {
+        "title": "Trump brings in new 10% tariff as Supreme Court rejects his global import taxes",
+        "url": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 21 Feb 2026 01:43:05 GMT"
+      },
       {
         "title": "Government considers removing Andrew from royal line of succession",
         "url": "https://www.bbc.com/news/articles/c1kgv837wvdo?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c86y1g6wde3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 20 Feb 2026 17:00:26 GMT"
-      },
-      {
-        "title": "Tributes paid to teens who died at holiday park",
-        "url": "https://www.bbc.com/news/articles/c4g8rdp6lrvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 20 Feb 2026 20:13:57 GMT"
       }
     ],
     "projects": [
