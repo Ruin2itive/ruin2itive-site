@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-21T21:21:32.901Z",
-  "updated_local": "2/21/2026, 9:21:32 PM",
+  "updated_iso": "2026-02-21T21:31:54.841Z",
+  "updated_local": "2/21/2026, 9:31:54 PM",
   "sections": {
     "crypto": [
       {
@@ -54,16 +54,16 @@
         "time": "2/21/2026, 7:06:18 AM"
       },
       {
-        "title": "How an inference provider can prove they're not serving a quantized model",
-        "url": "https://tinfoil.sh/blog/2026-02-03-proving-model-identity",
-        "source": "hn",
-        "time": "2/21/2026, 6:53:57 AM"
-      },
-      {
         "title": "I Don't Like Magic",
         "url": "https://adactio.com/journal/22399",
         "source": "hn",
         "time": "2/18/2026, 9:42:40 AM"
+      },
+      {
+        "title": "How an inference provider can prove they're not serving a quantized model",
+        "url": "https://tinfoil.sh/blog/2026-02-03-proving-model-identity",
+        "source": "hn",
+        "time": "2/21/2026, 6:53:57 AM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 21 Feb 2026 20:50:06 GMT"
+      },
+      {
+        "title": "GB curlers denied Olympic gold at death yet again",
+        "url": "https://www.bbc.com/sport/articles/c86y16qe90yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 21 Feb 2026 21:02:47 GMT"
       },
       {
         "title": "Iran students stage first anti-government protests since deadly crackdown",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cqxde59d3gwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 21 Feb 2026 15:45:10 GMT"
-      },
-      {
-        "title": "'It's ruined my life': Hundreds tell BBC how medication triggered gambling and other addictions",
-        "url": "https://www.bbc.com/news/articles/ce948d9gxevo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 21 Feb 2026 10:52:16 GMT"
       }
     ],
     "projects": [
