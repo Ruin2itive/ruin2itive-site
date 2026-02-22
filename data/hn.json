@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-22T12:32:02.697Z"
+    "built_at": "2026-02-22T13:38:25.399Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Method and system for determining illumination of models using an ambient cube",
+      "url": "https://patents.google.com/patent/US7227548B2/en",
+      "date": "2026-02-22T13:36:37.000Z"
+    },
+    {
+      "title": "Show HN: Cryphos – no-code crypto signal bot with Telegram alerts",
+      "url": "https://cryphos.com",
+      "date": "2026-02-22T13:32:56.000Z"
+    }
+  ]
 }
