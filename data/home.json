@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-21T23:32:39.979Z",
-  "updated_local": "2/21/2026, 11:32:39 PM",
+  "updated_iso": "2026-02-22T02:00:38.725Z",
+  "updated_local": "2/22/2026, 2:00:38 AM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "Why is Claude an Electron App?",
-        "url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
+        "title": "How I use Claude Code: Separation of planning and execution",
+        "url": "https://boristane.com/blog/how-i-use-claude-code/",
         "source": "hn",
-        "time": "2/21/2026, 9:28:13 PM"
+        "time": "2/22/2026, 12:29:05 AM"
       },
       {
-        "title": "EDuke32 – Duke Nukem 3D (Open-Source)",
-        "url": "https://www.eduke32.com/",
+        "title": "Are compilers deterministic?",
+        "url": "https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/",
         "source": "hn",
-        "time": "2/21/2026, 8:10:13 PM"
+        "time": "2/22/2026, 12:21:05 AM"
       },
       {
-        "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
-        "url": "https://www.science.org/doi/10.1126/science.adq7188",
+        "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+        "url": "https://github.com/xaskasdf/ntransformer",
         "source": "hn",
-        "time": "2/21/2026, 9:51:58 PM"
+        "time": "2/21/2026, 8:57:30 PM"
       },
       {
         "title": "Parse, Don't Validate and Type-Driven Design in Rust",
@@ -60,10 +60,10 @@
         "time": "2/21/2026, 7:40:06 PM"
       },
       {
-        "title": "I verified my LinkedIn identity. Here's what I handed over",
-        "url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
+        "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
+        "url": "https://www.science.org/doi/10.1126/science.adq7188",
         "source": "hn",
-        "time": "2/21/2026, 7:06:18 AM"
+        "time": "2/21/2026, 9:51:58 PM"
       }
     ],
     "world": [
@@ -74,16 +74,16 @@
         "time": "Sat, 21 Feb 2026 20:50:06 GMT"
       },
       {
-        "title": "GB curlers denied Olympic gold at death yet again",
-        "url": "https://www.bbc.com/sport/articles/c86y16qe90yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 21 Feb 2026 21:02:47 GMT"
-      },
-      {
         "title": "Iran students stage first large anti-government protests since deadly crackdown",
         "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 21 Feb 2026 22:09:19 GMT"
+      },
+      {
+        "title": "GB curlers denied Olympic gold at death yet again",
+        "url": "https://www.bbc.com/sport/articles/c86y16qe90yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 21 Feb 2026 21:02:47 GMT"
       },
       {
         "title": "UK should send non-combat troops to Ukraine now, former PM Johnson tells BBC",
