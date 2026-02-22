@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-22T06:37:47.492Z"
+    "built_at": "2026-02-22T07:31:09.434Z"
   },
-  "items": [
-    {
-      "title": "Claude Opus 4.6 Fast Mode: 2.5x Faster, 6x More Expensive",
-      "url": "https://www.marc0.dev/en/blog/claude-opus-4-6-fast-mode-pricing-6x-cost-breakdown-1770499078106",
-      "date": "2026-02-22T06:36:43.000Z"
-    },
-    {
-      "title": "Built an open-source tool that lets you deploy containers to your VPS via MCP",
-      "url": "https://github.com/ddalcu/mcp-deploy",
-      "date": "2026-02-22T06:35:52.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
