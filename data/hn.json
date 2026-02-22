@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-22T07:31:09.434Z"
+    "built_at": "2026-02-22T08:22:45.418Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "How do telehealth platforms handle provider license verification at scale?",
+      "url": "https://news.ycombinator.com/item?id=47109284",
+      "date": "2026-02-22T08:13:35.000Z"
+    },
+    {
+      "title": "The tiny technology that rules the world",
+      "url": "https://bigthinkmedia.substack.com/p/the-tiny-technology-that-rules-the",
+      "date": "2026-02-22T08:10:00.000Z"
+    }
+  ]
 }
