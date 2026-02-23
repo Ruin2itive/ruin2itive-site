@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-23T23:33:13.182Z",
-  "updated_local": "2/23/2026, 11:33:13 PM",
+  "updated_iso": "2026-02-23T23:39:56.844Z",
+  "updated_local": "2/23/2026, 11:39:56 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
-        "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
-        "source": "hn",
-        "time": "2/23/2026, 9:44:28 PM"
-      },
-      {
         "title": "UNIX99, a UNIX-like OS for the TI-99/4A",
         "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
         "source": "hn",
         "time": "2/23/2026, 8:05:15 PM"
+      },
+      {
+        "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
+        "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+        "source": "hn",
+        "time": "2/23/2026, 9:44:28 PM"
       },
       {
         "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
