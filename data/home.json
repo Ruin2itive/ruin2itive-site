@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-23T19:17:29.432Z",
-  "updated_local": "2/23/2026, 7:17:29 PM",
+  "updated_iso": "2026-02-23T20:42:37.335Z",
+  "updated_local": "2/23/2026, 8:42:37 PM",
   "sections": {
     "crypto": [
       {
@@ -36,37 +36,43 @@
     ],
     "hacker": [
       {
+        "title": "UNIX99, a UNIX-like OS for the TI-99/4A",
+        "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
+        "source": "hn",
+        "time": "2/23/2026, 8:05:15 PM"
+      },
+      {
         "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
         "url": "https://spectrum.ieee.org/age-verification",
         "source": "hn",
         "time": "2/23/2026, 2:22:39 PM"
       },
       {
-        "title": "Ladybird Browser adopts Rust",
+        "title": "\"Car Wash\" test with 53 models",
+        "url": "https://opper.ai/blog/car-wash-test",
+        "source": "hn",
+        "time": "2/23/2026, 8:16:08 PM"
+      },
+      {
+        "title": "Americans are destroying Flock surveillance cameras",
+        "url": "https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/",
+        "source": "hn",
+        "time": "2/23/2026, 7:04:34 PM"
+      },
+      {
+        "title": "Ladybird adopts Rust",
         "url": "https://ladybird.org/posts/adopting-rust/",
         "source": "hn",
         "time": "2/23/2026, 11:29:22 AM"
-      },
-      {
-        "title": "'Viking' was a job description, not a matter of heredity: Ancient DNA study",
-        "url": "https://www.science.org/content/article/viking-was-job-description-not-matter-heredity-massive-ancient-dna-study-shows",
-        "source": "hn",
-        "time": "2/21/2026, 1:24:04 PM"
-      },
-      {
-        "title": "Show HN: PgDog – Scale Postgres without changing the app",
-        "url": "https://github.com/pgdogdev/pgdog",
-        "source": "hn",
-        "time": "2/23/2026, 3:33:24 PM"
-      },
-      {
-        "title": "A simple web we own",
-        "url": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
-        "source": "hn",
-        "time": "2/23/2026, 4:01:18 PM"
       }
     ],
     "world": [
+      {
+        "title": "Lord Mandelson arrested on suspicion of misconduct in public office",
+        "url": "https://www.bbc.com/news/articles/c8xy5jzrrxzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Feb 2026 19:42:27 GMT"
+      },
       {
         "title": "Watch: Peter Mandelson led away by police from Camden home",
         "url": "https://www.bbc.com/news/videos/c5y627gx8gko?at_medium=RSS&amp;at_campaign=rss",
@@ -89,13 +95,7 @@
         "title": "BBC sorry for airing racial slur shouted by guest with Tourette's at Baftas",
         "url": "https://www.bbc.com/news/articles/cz6edwg06n1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Feb 2026 18:46:04 GMT"
-      },
-      {
-        "title": "Special educational needs system to be overhauled in England",
-        "url": "https://www.bbc.com/news/articles/c309zp49zdno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Feb 2026 17:51:20 GMT"
+        "time": "Mon, 23 Feb 2026 19:52:52 GMT"
       }
     ],
     "projects": [
