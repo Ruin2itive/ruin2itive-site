@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-23T05:06:00.062Z",
-  "updated_local": "2/23/2026, 5:06:00 AM",
+  "updated_iso": "2026-02-23T06:05:46.888Z",
+  "updated_local": "2/23/2026, 6:05:46 AM",
   "sections": {
     "crypto": [
       {
@@ -42,12 +42,6 @@
         "time": "2/22/2026, 7:12:31 PM"
       },
       {
-        "title": "Freemediaheckyeah",
-        "url": "https://fmhy.net/",
-        "source": "hn",
-        "time": "2/23/2026, 3:35:31 AM"
-      },
-      {
         "title": "The JavaScript Oxidation Compiler",
         "url": "https://oxc.rs/",
         "source": "hn",
@@ -64,6 +58,12 @@
         "url": "https://cia-factbook-archive.fly.dev/",
         "source": "hn",
         "time": "2/22/2026, 8:50:23 PM"
+      },
+      {
+        "title": "How to train your program verifier",
+        "url": "https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/",
+        "source": "hn",
+        "time": "2/18/2026, 9:10:09 PM"
       }
     ],
     "world": [
@@ -72,6 +72,18 @@
         "url": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 22 Feb 2026 22:00:47 GMT"
+      },
+      {
+        "title": "Four years into its full-scale war in Ukraine, Russia is feeling the effects",
+        "url": "https://www.bbc.com/news/articles/c4gj20xzw39o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Feb 2026 06:01:59 GMT"
+      },
+      {
+        "title": "Billions in SEND funding to make schools in England more inclusive, ministers say",
+        "url": "https://www.bbc.com/news/articles/c8r1pmz3zgzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Feb 2026 01:44:43 GMT"
       },
       {
         "title": "Hamnet's Jessie Buckley and I Swear's Robert Aramayo win big at the Baftas",
@@ -84,18 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c86ygl6821go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 22 Feb 2026 23:35:15 GMT"
-      },
-      {
-        "title": "Billions in SEND funding to make schools in England more inclusive, ministers say",
-        "url": "https://www.bbc.com/news/articles/c8r1pmz3zgzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Feb 2026 01:44:43 GMT"
-      },
-      {
-        "title": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
-        "url": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Feb 2026 00:55:41 GMT"
       }
     ],
     "projects": [
