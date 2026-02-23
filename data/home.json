@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-23T15:57:13.579Z",
-  "updated_local": "2/23/2026, 3:57:13 PM",
+  "updated_iso": "2026-02-23T16:55:14.866Z",
+  "updated_local": "2/23/2026, 4:55:14 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Strategy’s 100th Bitcoin Purchase Ever Is Its Smallest Yet in 2026",
+        "url": "https://decrypt.co/358830/strategy-100th-bitcoin-purchase-ever-smallest-2026",
+        "source": "crypto",
+        "time": "Mon, 23 Feb 2026 16:21:32 +0000"
+      },
       {
         "title": "Crypto Funds Shed $4B Across Five-Week Negative Streak",
         "url": "https://decrypt.co/358825/crypto-funds-shed-4b-across-five-week-negative-streak",
@@ -26,17 +32,11 @@
         "url": "https://decrypt.co/358819/stablecoins-set-to-scoop-up-1t-in-t-bills-by-2028-standard-chartered",
         "source": "crypto",
         "time": "Mon, 23 Feb 2026 13:15:02 +0000"
-      },
-      {
-        "title": "Australian Police Charge Man Over $3.5M Crypto Investment Scam Targeting Elderly Victims",
-        "url": "https://decrypt.co/358816/australian-police-charge-man-over-3-5m-crypto-investment-scam-targeting-elderly-victims",
-        "source": "crypto",
-        "time": "Mon, 23 Feb 2026 11:24:30 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "The Age Verification Trap, Verifying age undermines everyone's data protection",
+        "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
         "url": "https://spectrum.ieee.org/age-verification",
         "source": "hn",
         "time": "2/23/2026, 2:22:39 PM"
@@ -48,30 +48,36 @@
         "time": "2/23/2026, 11:29:22 AM"
       },
       {
-        "title": "The peculiar case of Japanese web design",
+        "title": "C99 implementation of new O(m log^(2/3) n) shortest path algorithm",
+        "url": "https://github.com/danalec/DMMSY-SSSP",
+        "source": "hn",
+        "time": "2/23/2026, 4:14:10 PM"
+      },
+      {
+        "title": "A simple web we own",
+        "url": "https://rsdoiel.github.io/blog/2026/02/21/a_simple_web_we_own.html",
+        "source": "hn",
+        "time": "2/23/2026, 4:01:18 PM"
+      },
+      {
+        "title": "The peculiar case of Japanese web design (2022)",
         "url": "https://sabrinas.space",
         "source": "hn",
         "time": "2/23/2026, 2:28:39 PM"
-      },
-      {
-        "title": "Elsevier shuts down its finance journal citation cartel",
-        "url": "https://www.chrisbrunet.com/p/elsevier-shuts-down-its-finance-journal",
-        "source": "hn",
-        "time": "2/23/2026, 8:22:34 AM"
-      },
-      {
-        "title": "Sub-$200 Lidar could reshuffle auto sensor economics",
-        "url": "https://spectrum.ieee.org/solid-state-lidar-microvision-adas",
-        "source": "hn",
-        "time": "2/19/2026, 4:23:39 PM"
       }
     ],
     "world": [
       {
-        "title": "The key changes being made to special educational needs - at a glance",
-        "url": "https://www.bbc.com/news/articles/cwyke5n1z4po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "At least 25 National Guards killed in violence after death of Mexican drug lord",
+        "url": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Feb 2026 12:47:38 GMT"
+        "time": "Mon, 23 Feb 2026 16:04:33 GMT"
+      },
+      {
+        "title": "BBC sorry for airing racial slur shouted by guest with Tourette's at Baftas",
+        "url": "https://www.bbc.com/news/articles/cz6edwg06n1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Feb 2026 16:33:21 GMT"
       },
       {
         "title": "Andrew charged taxpayers for massage services when envoy, claim ex-civil servants",
@@ -80,22 +86,16 @@
         "time": "Mon, 23 Feb 2026 05:09:45 GMT"
       },
       {
-        "title": "BBC sorry for airing racial slur shouted by guest with Tourette's at Baftas",
-        "url": "https://www.bbc.com/news/articles/cz6edwg06n1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "PM orders ethics investigation into minister over Labour Together claims",
+        "url": "https://www.bbc.com/news/articles/c8xy5jepevno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Feb 2026 12:44:47 GMT"
+        "time": "Mon, 23 Feb 2026 16:43:49 GMT"
       },
       {
-        "title": "Cartel henchmen unleash violence after top drug lord killed in Mexico",
-        "url": "https://www.bbc.com/news/articles/c795qgejzpxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Care home boss sexually abused children for decades",
+        "url": "https://www.bbc.com/news/articles/cn48xg1pz7xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Feb 2026 11:27:45 GMT"
-      },
-      {
-        "title": "No 10 says 'nothing off the table' over new US tariffs as UK could be among worst hit",
-        "url": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Feb 2026 14:54:58 GMT"
+        "time": "Mon, 23 Feb 2026 16:51:57 GMT"
       }
     ],
     "projects": [
