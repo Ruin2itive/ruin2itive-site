@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-23T13:00:35.975Z",
-  "updated_local": "2/23/2026, 1:00:35 PM",
+  "updated_iso": "2026-02-23T13:24:20.966Z",
+  "updated_local": "2/23/2026, 1:24:20 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Stablecoins Set to Scoop Up $1T in T-Bills by 2028: Standard Chartered",
+        "url": "https://decrypt.co/358819/stablecoins-set-to-scoop-up-1t-in-t-bills-by-2028-standard-chartered",
+        "source": "crypto",
+        "time": "Mon, 23 Feb 2026 13:15:02 +0000"
+      },
       {
         "title": "Australian Police Charge Man Over $3.5M Crypto Investment Scam Targeting Elderly Victims",
         "url": "https://decrypt.co/358816/australian-police-charge-man-over-3-5m-crypto-investment-scam-targeting-elderly-victims",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/358792/ethereum-going-hard-vitalik-buterin-backs-censorship-resistance-upgrade",
         "source": "crypto",
         "time": "Sat, 21 Feb 2026 20:21:03 +0000"
-      },
-      {
-        "title": "Marketers Could Use AI to Make Sure You See Their Ads—Here&#39;s How",
-        "url": "https://decrypt.co/358789/marketers-use-ai-make-sure-you-see-ads",
-        "source": "crypto",
-        "time": "Sat, 21 Feb 2026 17:01:03 +0000"
       }
     ],
     "hacker": [
@@ -48,42 +48,36 @@
         "time": "2/23/2026, 8:22:34 AM"
       },
       {
-        "title": "Sub-$200 Lidar could reshuffle auto sensor economics",
-        "url": "https://spectrum.ieee.org/solid-state-lidar-microvision-adas",
-        "source": "hn",
-        "time": "2/19/2026, 4:23:39 PM"
-      },
-      {
         "title": "Hetzner (European hosting provider) to increase prices by up to 38%",
         "url": "https://old.reddit.com/r/BuyFromEU/comments/1rce0lf/hetzner_european_hosting_provider_to_increase/",
         "source": "hn",
         "time": "2/23/2026, 11:44:10 AM"
       },
       {
-        "title": "I built Timeframe, our family e-paper dashboard",
-        "url": "https://hawksley.org/2026/02/17/timeframe.html",
+        "title": "Sub-$200 Lidar could reshuffle auto sensor economics",
+        "url": "https://spectrum.ieee.org/solid-state-lidar-microvision-adas",
         "source": "hn",
-        "time": "2/22/2026, 7:12:31 PM"
+        "time": "2/19/2026, 4:23:39 PM"
+      },
+      {
+        "title": "VTT Test Donut Lab Battery Reaches 80% Charge in Under 10 Minutes [pdf]",
+        "url": "https://pub-fee113bb711e441db5c353d2d31abbb3.r2.dev/VTT_CR_00092_26.pdf",
+        "source": "hn",
+        "time": "2/23/2026, 1:10:56 PM"
       }
     ],
     "world": [
+      {
+        "title": "The key changes being made to special educational needs - at a glance",
+        "url": "https://www.bbc.com/news/articles/cwyke5n1z4po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Feb 2026 12:47:38 GMT"
+      },
       {
         "title": "Andrew charged taxpayers for massage services when envoy, claim ex-civil servants",
         "url": "https://www.bbc.com/news/articles/cdr232j8kgvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 23 Feb 2026 05:09:45 GMT"
-      },
-      {
-        "title": "Zelensky tells BBC Putin has started WW3 and must be stopped",
-        "url": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 22 Feb 2026 22:00:47 GMT"
-      },
-      {
-        "title": "Steve Rosenberg: Four years into its full-scale war in Ukraine, Russia is feeling the effects",
-        "url": "https://www.bbc.com/news/articles/c4gj20xzw39o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Feb 2026 06:01:59 GMT"
       },
       {
         "title": "BBC sorry for airing racial slur shouted by guest with Tourette's at Baftas",
@@ -92,10 +86,16 @@
         "time": "Mon, 23 Feb 2026 12:44:47 GMT"
       },
       {
-        "title": "Violence erupts in Mexico after killing of country's most wanted drug lord El Mencho",
-        "url": "https://www.bbc.com/news/articles/c795qgejzpxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Zelensky tells BBC Putin has started WW3 and must be stopped",
+        "url": "https://www.bbc.com/news/articles/cvgj9p15y87o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Feb 2026 11:27:45 GMT"
+        "time": "Sun, 22 Feb 2026 22:00:47 GMT"
+      },
+      {
+        "title": "UK set to be among worst hit by Trump's 15% global tariff, analysis suggests",
+        "url": "https://www.bbc.com/news/articles/cx2rv212wwyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Feb 2026 12:08:18 GMT"
       }
     ],
     "projects": [
