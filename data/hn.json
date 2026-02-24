@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-24T08:37:21.300Z"
+    "built_at": "2026-02-24T09:43:46.640Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: AI Headcanon Generator: Instant Ideas, Endless Stories",
+      "url": "https://news.ycombinator.com/item?id=47134986",
+      "date": "2026-02-24T09:43:05.000Z"
+    },
+    {
+      "title": "Ask HN: How are you doing with AI overload?",
+      "url": "https://news.ycombinator.com/item?id=47134969",
+      "date": "2026-02-24T09:39:51.000Z"
+    }
+  ]
 }
