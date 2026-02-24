@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-24T07:45:26.979Z"
+    "built_at": "2026-02-24T08:37:21.300Z"
   },
-  "items": [
-    {
-      "title": "The Engine Behind the Hype",
-      "url": "https://www.onuruzunismail.com/blog/the-engine-behind-the-hype",
-      "date": "2026-02-24T07:41:59.000Z"
-    },
-    {
-      "title": "The FDA creates a quicker path for gene therapies",
-      "url": "https://www.npr.org/2026/02/23/nx-s1-5720948/fda-rare-disease-gene-therapy",
-      "date": "2026-02-24T07:41:17.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
