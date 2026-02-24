@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-24T07:06:57.760Z",
-  "updated_local": "2/24/2026, 7:06:57 AM",
+  "updated_iso": "2026-02-24T07:56:03.179Z",
+  "updated_local": "2/24/2026, 7:56:03 AM",
   "sections": {
     "crypto": [
       {
@@ -48,6 +48,12 @@
         "time": "2/23/2026, 3:36:50 PM"
       },
       {
+        "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
+        "url": "https://github.com/GreatScott/enveil",
+        "source": "hn",
+        "time": "2/24/2026, 5:04:50 AM"
+      },
+      {
         "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
         "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
         "source": "hn",
         "time": "2/23/2026, 11:58:45 PM"
-      },
-      {
-        "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
-        "url": "https://lyra.horse/x86css/",
-        "source": "hn",
-        "time": "2/24/2026, 2:27:14 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Tue, 24 Feb 2026 02:25:41 GMT"
       },
       {
-        "title": "Watch: Lord Mandelson arrives at home after being released on bail",
-        "url": "https://www.bbc.com/news/videos/cx2d7rgj8l9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 24 Feb 2026 04:16:47 GMT"
-      },
-      {
         "title": "Russian soldiers tell BBC they saw fellow troops executed on commanders' orders",
         "url": "https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 24 Feb 2026 06:02:13 GMT"
       },
       {
-        "title": "First British baby born using transplanted womb from deceased donor",
+        "title": "'Anyone who runs is shot': Watch Russian soldiers describe killings of troops who refuse orders",
+        "url": "https://www.bbc.com/news/videos/cx2rql99rwxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 24 Feb 2026 07:32:54 GMT"
+      },
+      {
+        "title": "Bowen: Why Ukraine remains defiant and does not feel close to defeat",
+        "url": "https://www.bbc.com/news/articles/cd9g2ggq4epo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 24 Feb 2026 06:02:26 GMT"
+      },
+      {
+        "title": "First British baby born using transplanted womb from dead donor",
         "url": "https://www.bbc.com/news/articles/cvg53xp5857o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 24 Feb 2026 00:39:50 GMT"
-      },
-      {
-        "title": "Victims 'devastated' by train CCTV failures that allow sex offenders to go untraced",
-        "url": "https://www.bbc.com/news/articles/cwy6746rydro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 24 Feb 2026 06:01:25 GMT"
       }
     ],
     "projects": [
