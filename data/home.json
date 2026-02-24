@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-24T09:51:02.850Z",
-  "updated_local": "2/24/2026, 9:51:02 AM",
+  "updated_iso": "2026-02-24T10:46:22.562Z",
+  "updated_local": "2/24/2026, 10:46:22 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Arizona Senate Advances Bill to Create Digital Assets Reserve Fund",
+        "url": "https://decrypt.co/358954/arizona-senate-advances-bill-to-create-digital-assets-reserve-fund",
+        "source": "crypto",
+        "time": "Tue, 24 Feb 2026 10:30:04 +0000"
+      },
       {
         "title": "Fed Moves to Permanently Drop ‘Reputational Risk’ From Bank Supervision",
         "url": "https://decrypt.co/358938/fed-permanently-drop-reputational-risk-bank-supervision",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/358932/artificial-general-intelligence-already-here-ai-founder",
         "source": "crypto",
         "time": "Mon, 23 Feb 2026 23:44:34 +0000"
-      },
-      {
-        "title": "Critics Mock Anthropic&#39;s Claims Chinese AI Labs Are Stealing Its Data",
-        "url": "https://decrypt.co/358911/critics-mock-anthropics-claims-chinese-ai-labs-stealing-data",
-        "source": "crypto",
-        "time": "Mon, 23 Feb 2026 22:40:40 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,16 @@
         "time": "2/23/2026, 3:36:50 PM"
       },
       {
-        "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
-        "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+        "title": "Diode – Build, program, and simulate hardware",
+        "url": "https://www.withdiode.com/",
         "source": "hn",
-        "time": "2/24/2026, 5:47:23 AM"
+        "time": "2/20/2026, 10:14:13 PM"
+      },
+      {
+        "title": "A distributed queue in a single JSON file on object storage",
+        "url": "https://turbopuffer.com/blog/object-storage-queue",
+        "source": "hn",
+        "time": "2/21/2026, 10:31:37 AM"
       },
       {
         "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
@@ -54,16 +60,10 @@
         "time": "2/24/2026, 5:04:50 AM"
       },
       {
-        "title": "Diode – Build, program, and simulate hardware",
-        "url": "https://www.withdiode.com/",
+        "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+        "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
         "source": "hn",
-        "time": "2/20/2026, 10:14:13 PM"
-      },
-      {
-        "title": "I Ported Coreboot to the ThinkPad X270",
-        "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
-        "source": "hn",
-        "time": "2/23/2026, 11:58:45 PM"
+        "time": "2/24/2026, 5:47:23 AM"
       }
     ],
     "world": [
