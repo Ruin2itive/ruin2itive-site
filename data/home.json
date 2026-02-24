@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-23T23:39:56.844Z",
-  "updated_local": "2/23/2026, 11:39:56 PM",
+  "updated_iso": "2026-02-24T01:58:25.950Z",
+  "updated_local": "2/24/2026, 1:58:25 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Is Artificial General Intelligence Already Here? One AI Founder Thinks So",
+        "url": "https://decrypt.co/358932/artificial-general-intelligence-already-here-ai-founder",
+        "source": "crypto",
+        "time": "Mon, 23 Feb 2026 23:44:34 +0000"
+      },
       {
         "title": "Critics Mock Anthropic&#39;s Claims Chinese AI Labs Are Stealing Its Data",
         "url": "https://decrypt.co/358911/critics-mock-anthropics-claims-chinese-ai-labs-stealing-data",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/358872/ai-trained-jeffrey-epstein-emails-mechaepstein-8000",
         "source": "crypto",
         "time": "Mon, 23 Feb 2026 21:19:23 +0000"
-      },
-      {
-        "title": "Kalshi Clears &#39;Backlog&#39; of Suspicious Activity, Plans to Disclose Actions Against Insider Trading",
-        "url": "https://decrypt.co/358853/kalshi-clears-backlog-suspicious-activity-disclose-insider-trading",
-        "source": "crypto",
-        "time": "Mon, 23 Feb 2026 21:07:42 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "UNIX99, a UNIX-like OS for the TI-99/4A",
-        "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
+        "title": "Shatner is making an album with 35 metal icons",
+        "url": "https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album",
         "source": "hn",
-        "time": "2/23/2026, 8:05:15 PM"
+        "time": "2/24/2026, 12:33:06 AM"
       },
       {
         "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
@@ -48,22 +48,22 @@
         "time": "2/23/2026, 9:44:28 PM"
       },
       {
+        "title": "I Ported Coreboot to the ThinkPad X270",
+        "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
+        "source": "hn",
+        "time": "2/23/2026, 11:58:45 PM"
+      },
+      {
+        "title": "UNIX99, a UNIX-like OS for the TI-99/4A",
+        "url": "https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/",
+        "source": "hn",
+        "time": "2/23/2026, 8:05:15 PM"
+      },
+      {
         "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
         "url": "https://spectrum.ieee.org/age-verification",
         "source": "hn",
         "time": "2/23/2026, 2:22:39 PM"
-      },
-      {
-        "title": "What is f(x) ≤ g(x) + O(1)? Inequalities With Asymptotics",
-        "url": "https://jamesoswald.dev/posts/bigoinequality/",
-        "source": "hn",
-        "time": "2/20/2026, 1:55:08 PM"
-      },
-      {
-        "title": "Show HN: PgDog – Scale Postgres without changing the app",
-        "url": "https://github.com/pgdogdev/pgdog",
-        "source": "hn",
-        "time": "2/23/2026, 3:33:24 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Lord Mandelson arrested on suspicion of misconduct in public office",
         "url": "https://www.bbc.com/news/articles/c8xy5jzrrxzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Feb 2026 19:42:27 GMT"
+        "time": "Tue, 24 Feb 2026 00:13:29 GMT"
       },
       {
         "title": "Watch: Peter Mandelson led away by police from Camden home",
@@ -86,16 +86,16 @@
         "time": "Mon, 23 Feb 2026 21:12:47 GMT"
       },
       {
-        "title": "Nottingham killer watched shooting videos online, inquiry hears",
-        "url": "https://www.bbc.com/news/articles/c20z7n5q1x5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "First British baby born using transplanted womb from deceased donor",
+        "url": "https://www.bbc.com/news/articles/cvg53xp5857o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Feb 2026 18:42:24 GMT"
+        "time": "Tue, 24 Feb 2026 00:39:50 GMT"
       },
       {
-        "title": "BBC sorry for airing racial slur shouted by guest with Tourette's at Baftas",
-        "url": "https://www.bbc.com/news/articles/cz6edwg06n1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Chocolate kept in anti-theft boxes as retailers warn it's being stolen to order",
+        "url": "https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Feb 2026 19:52:52 GMT"
+        "time": "Tue, 24 Feb 2026 00:07:42 GMT"
       }
     ],
     "projects": [
