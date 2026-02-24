@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-24T16:09:59.787Z",
-  "updated_local": "2/24/2026, 4:09:59 PM",
+  "updated_iso": "2026-02-24T17:05:36.109Z",
+  "updated_local": "2/24/2026, 5:05:36 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Trump’s White House Has One View of Crypto Legislation. His Family’s Crypto Company Has Another",
+        "url": "https://decrypt.co/358924/trump-white-house-crypto-market-structure-bill-world-liberty",
+        "source": "crypto",
+        "time": "Tue, 24 Feb 2026 16:33:29 +0000"
+      },
       {
         "title": "Ethereum Foundation Starts Staking Treasury Amid Vitalik Buterin&#39;s ETH Sales",
         "url": "https://decrypt.co/358981/ethereum-foundation-staking-treasury-vitalik-buterin-sales",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/358964/morning-minute-ethereums-next-upgrade-features-censorship-resistance",
         "source": "crypto",
         "time": "Tue, 24 Feb 2026 13:38:00 +0000"
-      },
-      {
-        "title": "Bitcoin&#39;s Path to Recovery &#39;Unclear&#39; Amid Macro Headwinds",
-        "url": "https://decrypt.co/358965/bitcoins-path-to-recovery-unclear-amid-macro-headwinds",
-        "source": "crypto",
-        "time": "Tue, 24 Feb 2026 13:19:04 +0000"
       }
     ],
     "hacker": [
@@ -42,31 +42,37 @@
         "time": "2/24/2026, 1:03:51 PM"
       },
       {
-        "title": "Diode – Build, program, and simulate hardware",
-        "url": "https://www.withdiode.com/",
+        "title": "Software 3.1? – AI Functions",
+        "url": "https://blog.mikegchambers.com/posts/software-31-ai-functions/",
         "source": "hn",
-        "time": "2/20/2026, 10:14:13 PM"
-      },
-      {
-        "title": "Goodbye InnerHTML, Hello SetHTML: Stronger XSS Protection in Firefox 148",
-        "url": "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/",
-        "source": "hn",
-        "time": "2/24/2026, 1:04:16 PM"
-      },
-      {
-        "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
-        "url": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
-        "source": "hn",
-        "time": "2/24/2026, 12:58:14 PM"
+        "time": "2/24/2026, 3:58:08 PM"
       },
       {
         "title": "Samsung Upcycle Promise",
         "url": "https://www.xda-developers.com/samsung-promised-make-old-phones-useful-galaxy-upcycle/",
         "source": "hn",
         "time": "2/23/2026, 5:14:02 PM"
+      },
+      {
+        "title": "Stripe valued at $159B, 2025 annual letter",
+        "url": "https://stripe.com/newsroom/news/stripe-2025-update",
+        "source": "hn",
+        "time": "2/24/2026, 2:37:52 PM"
+      },
+      {
+        "title": "Diode – Build, program, and simulate hardware",
+        "url": "https://www.withdiode.com/",
+        "source": "hn",
+        "time": "2/20/2026, 10:14:13 PM"
       }
     ],
     "world": [
+      {
+        "title": "MPs back move to release files on Andrew's appointment as trade envoy",
+        "url": "https://www.bbc.com/news/articles/c80jd955889o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 24 Feb 2026 16:38:00 GMT"
+      },
       {
         "title": "Russian soldiers tell BBC they saw fellow troops executed on commanders' orders",
         "url": "https://www.bbc.com/news/articles/cz7gw3l395ro?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cy4wd11j0evo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 24 Feb 2026 15:27:35 GMT"
-      },
-      {
-        "title": "Chocolate kept in anti-theft boxes as shops warn it's being stolen to order",
-        "url": "https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 24 Feb 2026 10:39:39 GMT"
       }
     ],
     "projects": [
