@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-24T04:59:18.727Z",
-  "updated_local": "2/24/2026, 4:59:18 AM",
+  "updated_iso": "2026-02-24T05:57:35.203Z",
+  "updated_local": "2/24/2026, 5:57:35 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Fed Moves to Permanently Drop ‘Reputational Risk’ From Bank Supervision",
+        "url": "https://decrypt.co/358938/fed-permanently-drop-reputational-risk-bank-supervision",
+        "source": "crypto",
+        "time": "Tue, 24 Feb 2026 05:29:20 +0000"
+      },
       {
         "title": "Terraform Estate Sues Jane Street Over Trades Tied to 2022 Crypto Market Collapse: WSJ",
         "url": "https://decrypt.co/358936/terraform-estate-sues-jane-street-trades-tied-2022-collapse",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/358911/critics-mock-anthropics-claims-chinese-ai-labs-stealing-data",
         "source": "crypto",
         "time": "Mon, 23 Feb 2026 22:40:40 +0000"
-      },
-      {
-        "title": "Crypto Exchange Backpack Plans to Offer Company Equity to Token Stakers",
-        "url": "https://decrypt.co/358909/crypto-exchange-backpack-offer-equity-token-stakers",
-        "source": "crypto",
-        "time": "Mon, 23 Feb 2026 22:28:58 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
-        "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
-        "source": "hn",
-        "time": "2/24/2026, 3:10:16 AM"
-      },
       {
         "title": "Terence Tao, at 8 years old (1984) [pdf]",
         "url": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
         "source": "hn",
         "time": "2/23/2026, 3:36:50 PM"
+      },
+      {
+        "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
+        "url": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
+        "source": "hn",
+        "time": "2/24/2026, 3:10:16 AM"
       },
       {
         "title": "I Ported Coreboot to the ThinkPad X270",
@@ -60,10 +60,10 @@
         "time": "2/24/2026, 2:27:14 AM"
       },
       {
-        "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
-        "url": "https://spectrum.ieee.org/age-verification",
+        "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
+        "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
         "source": "hn",
-        "time": "2/23/2026, 2:22:39 PM"
+        "time": "2/24/2026, 12:38:02 AM"
       }
     ],
     "world": [
@@ -74,7 +74,7 @@
         "time": "Tue, 24 Feb 2026 02:25:41 GMT"
       },
       {
-        "title": "Watch: Peter Mandelson arrives at home after being released on bail",
+        "title": "Watch: Lord Mandelson arrives at home after being released on bail",
         "url": "https://www.bbc.com/news/videos/cx2d7rgj8l9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 24 Feb 2026 04:16:47 GMT"
@@ -86,16 +86,16 @@
         "time": "Tue, 24 Feb 2026 00:39:50 GMT"
       },
       {
-        "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
-        "url": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Feb 2026 21:12:47 GMT"
-      },
-      {
         "title": "Chocolate kept in anti-theft boxes as retailers warn it's being stolen to order",
         "url": "https://www.bbc.com/news/articles/ce3gqr7p0lqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 24 Feb 2026 00:07:42 GMT"
+      },
+      {
+        "title": "GPs to get £3,000 bonus to maximise  weight loss drug prescriptions",
+        "url": "https://www.bbc.com/news/articles/cddn399l4r9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 24 Feb 2026 01:04:42 GMT"
       }
     ],
     "projects": [
