@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-25T10:58:13.738Z",
-  "updated_local": "2/25/2026, 10:58:13 AM",
+  "updated_iso": "2026-02-25T11:38:57.019Z",
+  "updated_local": "2/25/2026, 11:38:57 AM",
   "sections": {
     "crypto": [
       {
@@ -36,28 +36,28 @@
     ],
     "hacker": [
       {
-        "title": "LLM=True",
-        "url": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
-        "source": "hn",
-        "time": "2/25/2026, 9:05:40 AM"
-      },
-      {
         "title": "Show HN: A real-time strategy game that AI agents can play",
         "url": "https://llmskirmish.com/",
         "source": "hn",
         "time": "2/25/2026, 10:02:45 AM"
       },
       {
+        "title": "Danish government agency to ditch Microsoft software (2025)",
+        "url": "https://therecord.media/denmark-digital-agency-microsoft-digital-independence",
+        "source": "hn",
+        "time": "2/25/2026, 10:16:22 AM"
+      },
+      {
+        "title": "LLM=True",
+        "url": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
+        "source": "hn",
+        "time": "2/25/2026, 9:05:40 AM"
+      },
+      {
         "title": "I'm helping my dog vibe code games",
         "url": "https://www.calebleak.com/posts/dog-game/",
         "source": "hn",
         "time": "2/24/2026, 5:15:17 PM"
-      },
-      {
-        "title": "Vinext – The Next.js API surface, reimplemented on Vite",
-        "url": "https://github.com/cloudflare/vinext",
-        "source": "hn",
-        "time": "2/25/2026, 10:34:41 AM"
       },
       {
         "title": "Pi – A minimal terminal coding harness",
@@ -67,12 +67,6 @@
       }
     ],
     "world": [
-      {
-        "title": "Household energy bills to fall in April after charges shake-up",
-        "url": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 25 Feb 2026 09:49:24 GMT"
-      },
       {
         "title": "Trump's theatrical State of the Union address offers little hint of any change in course",
         "url": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&amp;at_campaign=rss",
@@ -86,16 +80,22 @@
         "time": "Wed, 25 Feb 2026 10:40:47 GMT"
       },
       {
-        "title": "One in four councils to miss food waste collection deadline - find out if yours is one",
-        "url": "https://www.bbc.com/news/articles/cpv8ye887e4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Household energy bills to fall in April after charges shake-up",
+        "url": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Feb 2026 08:41:15 GMT"
+        "time": "Wed, 25 Feb 2026 09:49:24 GMT"
       },
       {
-        "title": "New travel rules kick in - how are dual nationals affected?",
-        "url": "https://www.bbc.com/news/articles/cy57p1v61d1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Tourette's campaigner says BBC 'should have worked harder' to stop slur being aired",
+        "url": "https://www.bbc.com/news/articles/cg4g2ldegdwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Feb 2026 10:07:33 GMT"
+        "time": "Wed, 25 Feb 2026 11:18:48 GMT"
+      },
+      {
+        "title": "Harry and Meghan arrive in Middle East for summit on refugees' needs",
+        "url": "https://www.bbc.com/news/articles/c5ykqg09k6yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 25 Feb 2026 09:42:09 GMT"
       }
     ],
     "projects": [
