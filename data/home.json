@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-25T09:00:16.578Z",
-  "updated_local": "2/25/2026, 9:00:16 AM",
+  "updated_iso": "2026-02-25T09:53:01.657Z",
+  "updated_local": "2/25/2026, 9:53:01 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "Sovereignty in a System Prompt",
-        "url": "https://pop.rdi.sh/sovereignty-in-a-system-prompt/",
+        "title": "LLM=True",
+        "url": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
         "source": "hn",
-        "time": "2/24/2026, 1:38:54 PM"
+        "time": "2/25/2026, 9:05:40 AM"
+      },
+      {
+        "title": "Show HN: LookTake – Try anyone's makeup, outfit, or hairstyle on your photo",
+        "url": "https://about.looktake.io/",
+        "source": "hn",
+        "time": "2/24/2026, 3:57:55 AM"
+      },
+      {
+        "title": "Meta problem with URPF our bundle in Boca raton",
+        "url": "https://metafixthis.com/",
+        "source": "hn",
+        "time": "2/24/2026, 12:12:44 AM"
       },
       {
         "title": "I'm helping my dog vibe code games",
@@ -48,22 +60,10 @@
         "time": "2/24/2026, 5:15:17 PM"
       },
       {
-        "title": "Japanese Death Poems",
-        "url": "https://www.secretorum.life/p/japanese-death-poems-part-3",
+        "title": "Turing Completeness of GNU find",
+        "url": "https://arxiv.org/abs/2602.20762",
         "source": "hn",
-        "time": "2/22/2026, 8:08:18 PM"
-      },
-      {
-        "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
-        "url": "https://github.com/moonshine-ai/moonshine",
-        "source": "hn",
-        "time": "2/24/2026, 9:54:07 PM"
-      },
-      {
-        "title": "Pi – A minimal terminal coding harness",
-        "url": "https://pi.dev",
-        "source": "hn",
-        "time": "2/24/2026, 9:53:59 PM"
+        "time": "2/25/2026, 5:16:39 AM"
       }
     ],
     "world": [
@@ -71,10 +71,10 @@
         "title": "Household energy bills to fall in April after charges shake-up",
         "url": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Feb 2026 08:02:19 GMT"
+        "time": "Wed, 25 Feb 2026 09:49:24 GMT"
       },
       {
-        "title": "Zurcher: President issues patriotic rallying cry with eye on crucial elections",
+        "title": "President issues patriotic rallying cry with eye on crucial elections",
         "url": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 25 Feb 2026 05:56:02 GMT"
@@ -92,10 +92,10 @@
         "time": "Wed, 25 Feb 2026 00:05:49 GMT"
       },
       {
-        "title": "Mandelson's lawyers say he was arrested over 'baseless' claim he was a flight risk",
-        "url": "https://www.bbc.com/news/articles/c05vey47yddo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Disabled woman put in nursing home against her will says she feels 'betrayed'",
+        "url": "https://www.bbc.com/news/articles/czj1ndzz9xyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Feb 2026 08:55:55 GMT"
+        "time": "Wed, 25 Feb 2026 00:41:34 GMT"
       }
     ],
     "projects": [
