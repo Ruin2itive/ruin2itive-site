@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-02-25T11:48:57.489Z",
-  "updated_local": "2/25/2026, 11:48:57 AM",
+  "updated_iso": "2026-02-25T13:01:05.034Z",
+  "updated_local": "2/25/2026, 1:01:05 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Stablecoins Are Eating Everything",
+        "url": "https://decrypt.co/359101/morning-minute-stablecoins-are-eating-everything",
+        "source": "crypto",
+        "time": "Wed, 25 Feb 2026 12:59:33 +0000"
+      },
+      {
+        "title": "Polkadot, Solana Lead Altcoin Surge Ahead of Nvidia Earnings Call",
+        "url": "https://decrypt.co/359098/polkadot-solana-lead-altcoin-surge-ahead-of-nvidia-earnings-call",
+        "source": "crypto",
+        "time": "Wed, 25 Feb 2026 12:20:36 +0000"
+      },
       {
         "title": "Judge Dismisses xAI Trade Secrets Lawsuit Against OpenAI, Allows Refiling",
         "url": "https://decrypt.co/359094/judge-dismisses-xai-trade-secrets-lawsuit-against-openai-allows-refiling",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/359087/bitcoin-ticks-higher-trump-address-broader-risk-sentiment",
         "source": "crypto",
         "time": "Wed, 25 Feb 2026 04:51:57 +0000"
-      },
-      {
-        "title": "Stripe in Early Talks on Potential PayPal Deal: Bloomberg",
-        "url": "https://decrypt.co/359067/stripe-early-talks-potential-paypal-deal",
-        "source": "crypto",
-        "time": "Wed, 25 Feb 2026 02:58:21 +0000"
-      },
-      {
-        "title": "Treasury Sanctions Russian ‘Exploit’ Broker Over Stolen US Cyber Tools",
-        "url": "https://decrypt.co/359064/treasury-sanctions-russian-exploit-broker-stolen-us-cyber-tools",
-        "source": "crypto",
-        "time": "Tue, 24 Feb 2026 23:28:51 +0000"
       }
     ],
     "hacker": [
@@ -54,48 +54,48 @@
         "time": "2/24/2026, 5:15:17 PM"
       },
       {
+        "title": "Read Locks Are Not Your Friends",
+        "url": "https://eventual-consistency.vercel.app/posts/write-locks-faster",
+        "source": "hn",
+        "time": "2/22/2026, 7:40:18 PM"
+      },
+      {
         "title": "LLM=True",
         "url": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
         "source": "hn",
         "time": "2/25/2026, 9:05:40 AM"
-      },
-      {
-        "title": "Pi – A minimal terminal coding harness",
-        "url": "https://pi.dev",
-        "source": "hn",
-        "time": "2/24/2026, 9:53:59 PM"
       }
     ],
     "world": [
       {
-        "title": "Trump's theatrical State of the Union address offers little hint of any change in course",
-        "url": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Commons Speaker passed Mandelson flight risk information to police ahead of arrest",
+        "url": "https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Feb 2026 10:11:20 GMT"
+        "time": "Wed, 25 Feb 2026 12:39:27 GMT"
       },
       {
-        "title": "Fact-checking Trump's longest ever State of the Union",
+        "title": "Trump claims in major speech the US is 'winning again' - is it?",
         "url": "https://www.bbc.com/news/articles/cgmlzg0p8k2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 25 Feb 2026 10:40:47 GMT"
       },
       {
-        "title": "Household energy bills to fall in April after charges shake-up",
-        "url": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "President's theatrical State of the Union address offers little hint of any change in course",
+        "url": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Feb 2026 09:49:24 GMT"
+        "time": "Wed, 25 Feb 2026 10:11:20 GMT"
       },
       {
-        "title": "Tourette's campaigner says BBC 'should have worked harder' to stop slur being aired",
+        "title": "Tourette's campaigner says BBC 'should have worked harder' to stop his slur being aired",
         "url": "https://www.bbc.com/news/articles/cg4g2ldegdwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 25 Feb 2026 11:18:48 GMT"
       },
       {
-        "title": "Harry and Meghan arrive in Middle East for summit on refugees' needs",
-        "url": "https://www.bbc.com/news/articles/c5ykqg09k6yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Household energy bills to fall in April after charges shake-up",
+        "url": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Feb 2026 09:42:09 GMT"
+        "time": "Wed, 25 Feb 2026 12:11:57 GMT"
       }
     ],
     "projects": [
