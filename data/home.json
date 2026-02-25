@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-25T05:59:41.018Z",
-  "updated_local": "2/25/2026, 5:59:41 AM",
+  "updated_iso": "2026-02-25T07:12:46.021Z",
+  "updated_local": "2/25/2026, 7:12:46 AM",
   "sections": {
     "crypto": [
       {
@@ -42,13 +42,19 @@
         "time": "2/24/2026, 5:15:17 PM"
       },
       {
+        "title": "Cl-kawa: Scheme on Java on Common Lisp",
+        "url": "https://github.com/atgreen/cl-kawa",
+        "source": "hn",
+        "time": "2/22/2026, 12:12:39 PM"
+      },
+      {
         "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
         "url": "https://github.com/moonshine-ai/moonshine",
         "source": "hn",
         "time": "2/24/2026, 9:54:07 PM"
       },
       {
-        "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
+        "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
         "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
         "source": "hn",
         "time": "2/24/2026, 10:46:23 PM"
@@ -58,17 +64,17 @@
         "url": "https://pi.dev",
         "source": "hn",
         "time": "2/24/2026, 9:53:59 PM"
-      },
-      {
-        "title": "Mac mini will be made at a new facility in Houston",
-        "url": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
-        "source": "hn",
-        "time": "2/24/2026, 9:13:45 PM"
       }
     ],
     "world": [
       {
-        "title": "Analysis: Trump issues patriotic rallying cry as he faces tough political headwinds",
+        "title": "Typical household energy bills to fall by £117 a year in April",
+        "url": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 25 Feb 2026 07:10:50 GMT"
+      },
+      {
+        "title": "Analysis: Trump issues patriotic rallying cry with eye on crucial elections",
         "url": "https://www.bbc.com/news/articles/cx2d7x6zrwro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 25 Feb 2026 05:56:02 GMT"
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c05vey47yddo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 24 Feb 2026 20:13:35 GMT"
-      },
-      {
-        "title": "Chris Mason: MPs take a new tone on Andrew – but how big is their appetite for radical changes?",
-        "url": "https://www.bbc.com/news/articles/cvgk3gpy34jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 25 Feb 2026 02:45:43 GMT"
       }
     ],
     "projects": [
