@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-25T07:13:19.721Z",
-  "updated_local": "2/25/2026, 7:13:19 AM",
+  "updated_iso": "2026-02-25T08:46:23.688Z",
+  "updated_local": "2/25/2026, 8:46:23 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Sovereignty in a System Prompt",
+        "url": "https://pop.rdi.sh/sovereignty-in-a-system-prompt/",
+        "source": "hn",
+        "time": "2/24/2026, 1:38:54 PM"
+      },
+      {
         "title": "I'm helping my dog vibe code games",
         "url": "https://www.calebleak.com/posts/dog-game/",
         "source": "hn",
         "time": "2/24/2026, 5:15:17 PM"
+      },
+      {
+        "title": "Ed Zitron loses his mind annotating an AI doomer macro memo",
+        "url": "https://www.dropbox.com/scl/fi/1p1n0y1ip48ianok9dvbp/Annotation-The-Global-Intelligence-Crisis.pdf?dl=0&e=1&noscript=1&rlkey=qaar8ea6l5hh6jqls4x6g8q4b",
+        "source": "hn",
+        "time": "2/25/2026, 6:45:24 AM"
       },
       {
         "title": "Cl-kawa: Scheme on Java on Common Lisp",
@@ -52,26 +64,14 @@
         "url": "https://github.com/moonshine-ai/moonshine",
         "source": "hn",
         "time": "2/24/2026, 9:54:07 PM"
-      },
-      {
-        "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
-        "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
-        "source": "hn",
-        "time": "2/24/2026, 10:46:23 PM"
-      },
-      {
-        "title": "Pi – A minimal terminal coding harness",
-        "url": "https://pi.dev",
-        "source": "hn",
-        "time": "2/24/2026, 9:53:59 PM"
       }
     ],
     "world": [
       {
-        "title": "Typical household energy bills to fall by £117 a year in April",
+        "title": "Household energy bills to fall in April after charges shake-up",
         "url": "https://www.bbc.com/news/articles/cx2lpl9lxw2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Feb 2026 07:10:50 GMT"
+        "time": "Wed, 25 Feb 2026 08:02:19 GMT"
       },
       {
         "title": "Analysis: Trump issues patriotic rallying cry with eye on crucial elections",
@@ -83,7 +83,7 @@
         "title": "One in four councils to miss food waste collection deadline - find out if yours is one",
         "url": "https://www.bbc.com/news/articles/cpv8ye887e4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Feb 2026 00:01:58 GMT"
+        "time": "Wed, 25 Feb 2026 08:41:15 GMT"
       },
       {
         "title": "What is the UK's new travel system and how are dual nationals affected?",
