@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-25T15:55:13.071Z"
+    "built_at": "2026-02-25T17:01:09.038Z"
   },
-  "items": [
-    {
-      "title": "HTP",
-      "url": "https://news.ycombinator.com/item?id=47153222",
-      "date": "2026-02-25T15:54:42.000Z"
-    },
-    {
-      "title": "Ask HN: What if your LLM violates a patent?",
-      "url": "https://news.ycombinator.com/item?id=47153221",
-      "date": "2026-02-25T15:54:40.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
