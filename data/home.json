@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-26T22:41:44.600Z",
-  "updated_local": "2/26/2026, 10:41:44 PM",
+  "updated_iso": "2026-02-26T23:27:38.257Z",
+  "updated_local": "2/26/2026, 11:27:38 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "&#39;Private Bitcoin&#39; to Launch on Starknet With Zcash-Like Features",
+        "url": "https://decrypt.co/359344/private-bitcoin-debuts-starknet-zcash-like-features",
+        "source": "crypto",
+        "time": "Thu, 26 Feb 2026 23:01:12 +0000"
+      },
       {
         "title": "Block Stock Pops as Jack Dorsey&#39;s Bitcoin, Payments Company Dumps 4,000 Jobs",
         "url": "https://decrypt.co/359349/block-stock-pops-jack-dorseys-bitcoin-company-dumps-4000-jobs",
@@ -26,20 +32,26 @@
         "url": "https://decrypt.co/359312/morgan-stanley-offer-bitcoin-custody-trading-yield-lending-exec",
         "source": "crypto",
         "time": "Thu, 26 Feb 2026 21:12:52 +0000"
-      },
-      {
-        "title": "Google Drops Nano Banana 2: The New King of AI Image Generation?",
-        "url": "https://decrypt.co/359274/google-nano-banana-2-new-king-ai-image-generation",
-        "source": "crypto",
-        "time": "Thu, 26 Feb 2026 19:21:14 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Statement from Dario Amodei on Our Discussions with the Department of War",
+        "url": "https://www.anthropic.com/news/statement-department-of-war",
+        "source": "hn",
+        "time": "2/26/2026, 10:42:47 PM"
+      },
       {
         "title": "Smartphone Mkt to Decline 13% in '26, Largest Drop Ever Due to Memory Shortage",
         "url": "https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/",
         "source": "hn",
         "time": "2/26/2026, 10:09:45 PM"
+      },
+      {
+        "title": "Layoffs at Block",
+        "url": "https://twitter.com/jack/status/2027129697092731343",
+        "source": "hn",
+        "time": "2/26/2026, 9:17:56 PM"
       },
       {
         "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
@@ -52,26 +64,14 @@
         "url": "https://amplifying.ai/research/claude-code-picks",
         "source": "hn",
         "time": "2/26/2026, 6:12:26 PM"
-      },
-      {
-        "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
-        "url": "https://www.usecardboard.com/",
-        "source": "hn",
-        "time": "2/26/2026, 6:38:38 PM"
-      },
-      {
-        "title": "Layoffs at Block",
-        "url": "https://twitter.com/jack/status/2027129697092731343",
-        "source": "hn",
-        "time": "2/26/2026, 9:17:56 PM"
       }
     ],
     "world": [
       {
-        "title": "MoD launches review into whether Epstein used RAF bases",
-        "url": "https://www.bbc.com/news/articles/c86y466v0x6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How Ghislaine Maxwell brought Bill Clinton into Epstein's orbit",
+        "url": "https://www.bbc.com/news/articles/cp85jdqdyq7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 26 Feb 2026 20:52:51 GMT"
+        "time": "Thu, 26 Feb 2026 22:14:56 GMT"
       },
       {
         "title": "Chris Mason: Gorton and Denton by-election could be a three-way tussle",
@@ -86,16 +86,16 @@
         "time": "Thu, 26 Feb 2026 17:45:33 GMT"
       },
       {
+        "title": "MoD launches review into whether Epstein used RAF bases",
+        "url": "https://www.bbc.com/news/articles/c86y466v0x6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 26 Feb 2026 20:52:51 GMT"
+      },
+      {
         "title": "Soham murderer Ian Huntley treated for serious head injuries after prison workshop attack",
         "url": "https://www.bbc.com/news/articles/c1mjx1grj3yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 26 Feb 2026 17:15:14 GMT"
-      },
-      {
-        "title": "US-Iran talks end after 'significant progress', mediator says",
-        "url": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 26 Feb 2026 21:43:44 GMT"
       }
     ],
     "projects": [
