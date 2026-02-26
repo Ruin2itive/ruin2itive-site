@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-26T13:02:11.874Z",
-  "updated_local": "2/26/2026, 1:02:11 PM",
+  "updated_iso": "2026-02-26T13:26:06.819Z",
+  "updated_local": "2/26/2026, 1:26:06 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Circle Earnings Highlight a Massive Day for Crypto",
+        "url": "https://decrypt.co/359208/morning-minute-circle-earnings-highlight-a-massive-day-for-crypto",
+        "source": "crypto",
+        "time": "Thu, 26 Feb 2026 13:24:21 +0000"
+      },
       {
         "title": "Ethereum Foundation Drafts Seven-Fork ‘Strawmap’ Through 2029",
         "url": "https://decrypt.co/359204/ethereum-foundation-drafts-seven-fork-strawmap-through-2029",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/359186/ethzilla-ethereum-rebrand-share-price-collapse",
         "source": "crypto",
         "time": "Thu, 26 Feb 2026 03:34:44 +0000"
-      },
-      {
-        "title": "Jane Street Speculation Renews Scrutiny of Bitcoin ETF Market Mechanics",
-        "url": "https://decrypt.co/359182/jane-street-speculation-bitcoin-etf-market-mechanics",
-        "source": "crypto",
-        "time": "Thu, 26 Feb 2026 01:57:24 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "2/26/2026, 10:40:45 AM"
       },
       {
-        "title": "Google API keys weren't secrets, but then Gemini changed the rules",
-        "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
-        "source": "hn",
-        "time": "2/25/2026, 7:54:14 PM"
-      },
-      {
         "title": "Fentanyl makeover: Core structural redesign could lead to safer pain medications",
         "url": "https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html",
         "source": "hn",
         "time": "2/26/2026, 12:44:28 PM"
+      },
+      {
+        "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+        "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+        "source": "hn",
+        "time": "2/25/2026, 7:54:14 PM"
       },
       {
         "title": "Show HN: Agent Swarm – Multi-agent self-learning teams (OSS)",
@@ -60,10 +60,10 @@
         "time": "2/26/2026, 12:15:38 PM"
       },
       {
-        "title": "The Physics and Economics of Moving 44 Tonnes at 56mph",
-        "url": "https://www.mikeayles.com/blog/heavy-haulage-basics/",
+        "title": "Technical Excellence Is Not Enough",
+        "url": "https://raccoon.land/posts/technical-excellence-is-not-enough/",
         "source": "hn",
-        "time": "2/23/2026, 10:00:58 PM"
+        "time": "2/26/2026, 9:51:48 AM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 26 Feb 2026 11:59:41 GMT"
+      },
+      {
+        "title": "Soham murderer Ian Huntley seriously injured in prison attack",
+        "url": "https://www.bbc.com/news/articles/c1mjx1grj3yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 26 Feb 2026 13:24:29 GMT"
       },
       {
         "title": "Jersey approves assisted dying law",
@@ -86,16 +92,10 @@
         "time": "Thu, 26 Feb 2026 09:16:54 GMT"
       },
       {
-        "title": "UK asylum claims drop slightly in 2025 as small boat arrivals rise by 13%",
-        "url": "https://www.bbc.com/news/articles/cly07pyde00o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Spain to check Gibraltar arrivals under post-Brexit deal",
+        "url": "https://www.bbc.com/news/articles/cgjz1x5e1xyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 26 Feb 2026 12:48:35 GMT"
-      },
-      {
-        "title": "Soham murderer Ian Huntley seriously injured in prison attack",
-        "url": "https://www.bbc.com/news/articles/c1mjx1grj3yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 26 Feb 2026 12:41:17 GMT"
+        "time": "Thu, 26 Feb 2026 13:01:29 GMT"
       }
     ],
     "projects": [
