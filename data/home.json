@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-25T23:37:37.212Z",
-  "updated_local": "2/25/2026, 11:37:37 PM",
+  "updated_iso": "2026-02-26T01:56:05.793Z",
+  "updated_local": "2/26/2026, 1:56:05 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Anthropic, OpenAI Dial Back Safety Language as AI Race Accelerates",
+        "url": "https://decrypt.co/359179/anthropic-openai-dial-back-safety-language-ai-race",
+        "source": "crypto",
+        "time": "Thu, 26 Feb 2026 01:41:37 +0000"
+      },
       {
         "title": "Nvidia Earnings Results Steady Markets as AI Spending Debate Intensifies",
         "url": "https://decrypt.co/359175/nvidia-earnings-steady-markets-ai-spending-debate-intensifies",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/359134/bitcoin-treasury-company-gd-culture-sell-btc-buy-back-shares",
         "source": "crypto",
         "time": "Wed, 25 Feb 2026 20:12:25 +0000"
-      },
-      {
-        "title": "Bitcoin, Ethereum and Solana Shorts Get Rekt as BTC Price Rebounds Near $69K",
-        "url": "https://decrypt.co/359129/bitcoin-ethereum-solana-shorts-get-rekt-btc-price-rebounds-69k",
-        "source": "crypto",
-        "time": "Wed, 25 Feb 2026 18:14:17 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Banned in California",
-        "url": "https://www.bannedincalifornia.org/",
+        "title": "Jane Street Hit with Terra $40B Insider Trading Suit",
+        "url": "https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/",
         "source": "hn",
-        "time": "2/25/2026, 11:16:40 PM"
+        "time": "2/26/2026, 1:25:49 AM"
       },
       {
         "title": "Jimi Hendrix was a systems engineer",
@@ -48,22 +48,22 @@
         "time": "2/25/2026, 8:16:47 PM"
       },
       {
+        "title": "First Website",
+        "url": "https://info.cern.ch",
+        "source": "hn",
+        "time": "2/25/2026, 11:02:58 PM"
+      },
+      {
         "title": "Making MCP cheaper via CLI",
         "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
         "source": "hn",
         "time": "2/25/2026, 8:29:37 PM"
       },
       {
-        "title": "The Om Programming Language",
-        "url": "https://www.om-language.com/",
+        "title": "Origin of the rule that swap size should be 2x of the physical memory",
+        "url": "https://retrocomputing.stackexchange.com/questions/32492/origin-of-the-rule-that-swap-size-should-be-2x-of-the-physical-memory",
         "source": "hn",
-        "time": "2/25/2026, 5:48:21 PM"
-      },
-      {
-        "title": "Bus stop balancing is fast, cheap, and effective",
-        "url": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
-        "source": "hn",
-        "time": "2/25/2026, 4:31:26 PM"
+        "time": "2/25/2026, 11:09:33 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Wed, 25 Feb 2026 22:35:14 GMT"
       },
       {
-        "title": "Met apologises to Commons Speaker for sharing Mandelson tip-off",
-        "url": "https://www.bbc.com/news/articles/c8d5792yj9qo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Racism and 'poor' staff relationships factors in maternity care failings, report finds",
+        "url": "https://www.bbc.com/news/articles/c30968817q3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Feb 2026 20:30:46 GMT"
+        "time": "Thu, 26 Feb 2026 00:02:14 GMT"
       },
       {
-        "title": "'Jekyll and Hyde' killer guilty of shooting ex-colleague on remote country path",
-        "url": "https://www.bbc.com/news/articles/c39w187jkj1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "There's a solution for e-bike parking chaos - but its not problem free",
+        "url": "https://www.bbc.com/news/articles/c2d1ne15w5go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Feb 2026 16:33:50 GMT"
+        "time": "Thu, 26 Feb 2026 00:05:11 GMT"
       },
       {
-        "title": "UK government denies Chagos Islands deal is paused, after minister said it was",
-        "url": "https://www.bbc.com/news/articles/cr5lqd4g338o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Shot in school uniform: BBC reveals police order led to Gen Z protest killings",
+        "url": "https://www.bbc.com/news/articles/c4g5qx357dzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Feb 2026 16:38:25 GMT"
+        "time": "Thu, 26 Feb 2026 00:02:48 GMT"
       }
     ],
     "projects": [
