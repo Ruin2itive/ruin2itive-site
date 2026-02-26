@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-26T10:43:25.302Z",
-  "updated_local": "2/26/2026, 10:43:25 AM",
+  "updated_iso": "2026-02-26T11:38:37.269Z",
+  "updated_local": "2/26/2026, 11:38:37 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Selling Pressure Weakens as U.S. Spot ETFs Draw in $506M",
+        "url": "https://decrypt.co/359201/bitcoin-selling-pressure-weakens-as-u-s-spot-etfs-draw-in-506m",
+        "source": "crypto",
+        "time": "Thu, 26 Feb 2026 10:58:17 +0000"
+      },
       {
         "title": "OCC Lays Out Framework for Regulated Stablecoins Under GENIUS Act",
         "url": "https://decrypt.co/359188/occ-framework-regulated-stablecoins-genius-act",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/359179/anthropic-openai-dial-back-safety-language-ai-race",
         "source": "crypto",
         "time": "Thu, 26 Feb 2026 01:41:37 +0000"
-      },
-      {
-        "title": "Nvidia Earnings Results Steady Markets as AI Spending Debate Intensifies",
-        "url": "https://decrypt.co/359175/nvidia-earnings-steady-markets-ai-spending-debate-intensifies",
-        "source": "crypto",
-        "time": "Wed, 25 Feb 2026 22:59:46 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "You Want to Visit the UK? You Better Have a Google Play or App Store Account",
+        "url": "https://www.heltweg.org/posts/you-want-to-visit-the-uk-you-better-have-a-google-play-or-app-store-account/",
+        "source": "hn",
+        "time": "2/26/2026, 11:26:10 AM"
+      },
+      {
+        "title": "Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line",
+        "url": "https://gitlab.com/here_forawhile/terminalphone",
+        "source": "hn",
+        "time": "2/26/2026, 10:40:45 AM"
+      },
       {
         "title": "Google API keys weren't secrets, but then Gemini changed the rules",
         "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
@@ -42,28 +54,16 @@
         "time": "2/25/2026, 7:54:14 PM"
       },
       {
+        "title": "Show HN: Better Hub – A better GitHub experience",
+        "url": "https://www.better-hub.com/",
+        "source": "hn",
+        "time": "2/26/2026, 10:08:01 AM"
+      },
+      {
         "title": "Jimi Hendrix was a systems engineer",
         "url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
         "source": "hn",
         "time": "2/25/2026, 8:16:47 PM"
-      },
-      {
-        "title": "How will OpenAI compete?",
-        "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
-        "source": "hn",
-        "time": "2/25/2026, 10:29:25 PM"
-      },
-      {
-        "title": "First Website (1992)",
-        "url": "https://info.cern.ch",
-        "source": "hn",
-        "time": "2/25/2026, 11:02:58 PM"
-      },
-      {
-        "title": "Making MCP cheaper via CLI",
-        "url": "https://kanyilmaz.me/2026/02/23/cli-vs-mcp.html",
-        "source": "hn",
-        "time": "2/25/2026, 8:29:37 PM"
       }
     ],
     "world": [
@@ -72,6 +72,18 @@
         "url": "https://www.bbc.com/news/articles/c30968817q3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 26 Feb 2026 09:16:54 GMT"
+      },
+      {
+        "title": "Watch: BBC on streets of Mexican city gripped by deadly cartel violence",
+        "url": "https://www.bbc.com/news/videos/cqlgz0xk5zyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 25 Feb 2026 22:35:14 GMT"
+      },
+      {
+        "title": "Jersey approves assisted dying law",
+        "url": "https://www.bbc.com/news/articles/c62dnwwgryeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 26 Feb 2026 11:34:29 GMT"
       },
       {
         "title": "Cuba says it shot dead four people on US-registered speedboat",
@@ -84,18 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cy59gznnz0zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 26 Feb 2026 01:18:20 GMT"
-      },
-      {
-        "title": "Watch: BBC on streets of Mexican city gripped by deadly cartel violence",
-        "url": "https://www.bbc.com/news/videos/cqlgz0xk5zyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 25 Feb 2026 22:35:14 GMT"
-      },
-      {
-        "title": "Royal Mail bosses to be called to Parliament over letter delivery failures",
-        "url": "https://www.bbc.com/news/articles/c9dnx445w4do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 26 Feb 2026 09:33:55 GMT"
       }
     ],
     "projects": [
