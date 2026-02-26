@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-26T04:57:53.911Z",
-  "updated_local": "2/26/2026, 4:57:53 AM",
+  "updated_iso": "2026-02-26T05:56:21.100Z",
+  "updated_local": "2/26/2026, 5:56:21 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "OCC Lays Out Framework for Regulated Stablecoins Under GENIUS Act",
+        "url": "https://decrypt.co/359188/occ-framework-regulated-stablecoins-genius-act",
+        "source": "crypto",
+        "time": "Thu, 26 Feb 2026 05:37:12 +0000"
+      },
       {
         "title": "ETHZilla Drops Ethereum Treasury Label in Rebrand After Share Price Collapse",
         "url": "https://decrypt.co/359186/ethzilla-ethereum-rebrand-share-price-collapse",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/359175/nvidia-earnings-steady-markets-ai-spending-debate-intensifies",
         "source": "crypto",
         "time": "Wed, 25 Feb 2026 22:59:46 +0000"
-      },
-      {
-        "title": "Samsung&#39;s Galaxy S26 Billed as First &#39;Agentic AI Phone&#39;—Here&#39;s What That Means",
-        "url": "https://decrypt.co/359150/samsung-galaxy-s26-agentic-ai-phone-gemini-perplexity",
-        "source": "crypto",
-        "time": "Wed, 25 Feb 2026 22:27:59 +0000"
       }
     ],
     "hacker": [
@@ -48,6 +48,12 @@
         "time": "2/25/2026, 8:16:47 PM"
       },
       {
+        "title": "I don't know how you get here from \"predict the next word.\"",
+        "url": "https://www.grumpy-economist.com/p/refine",
+        "source": "hn",
+        "time": "2/26/2026, 4:59:01 AM"
+      },
+      {
         "title": "First Website (1992)",
         "url": "https://info.cern.ch",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://arstechnica.com/gadgets/2026/02/ram-now-represents-35-percent-of-bill-of-materials-for-hp-pcs/",
         "source": "hn",
         "time": "2/26/2026, 2:43:26 AM"
-      },
-      {
-        "title": "Gauss's Weekday Algorithm, Visualized",
-        "url": "https://lukasmetzner.github.io/blog/gauss-weekday.html",
-        "source": "hn",
-        "time": "2/21/2026, 9:49:23 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Thu, 26 Feb 2026 01:18:20 GMT"
       },
       {
-        "title": "Orbán accuses Ukraine of disrupting oil supplies to Hungary",
-        "url": "https://www.bbc.com/news/articles/c5ykq0vqn5go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "There's a solution for e-bike parking chaos - but its not problem-free",
+        "url": "https://www.bbc.com/news/articles/c2d1ne15w5go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 26 Feb 2026 04:08:25 GMT"
+        "time": "Thu, 26 Feb 2026 00:05:11 GMT"
       }
     ],
     "projects": [
