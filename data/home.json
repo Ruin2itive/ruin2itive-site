@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-27T11:39:07.427Z",
-  "updated_local": "2/27/2026, 11:39:07 AM",
+  "updated_iso": "2026-02-27T12:55:38.014Z",
+  "updated_local": "2/27/2026, 12:55:38 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Jack Dorsey Slashes 40% of Block&#39;s Jobs Due to AI",
+        "url": "https://decrypt.co/359395/morning-minute-jack-dorsey-slashes-40-of-blocks-jobs-due-to-ai",
+        "source": "crypto",
+        "time": "Fri, 27 Feb 2026 12:51:59 +0000"
+      },
       {
         "title": "Jane Street Lawsuit Fuels Late Double-Digit Pop in Terra Luna Classic",
         "url": "https://decrypt.co/359367/jane-street-lawsuit-fuels-late-double-digit-pop-in-terra-luna-classic",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/359358/anthropic-wont-lift-ai-safeguards-pentagon-dispute",
         "source": "crypto",
         "time": "Fri, 27 Feb 2026 00:33:58 +0000"
-      },
-      {
-        "title": "Meta’s AI Floods Child Abuse Investigators With &#39;Junk&#39; Tips, Law Enforcement Officials Claim",
-        "url": "https://decrypt.co/359353/metas-ai-child-abuse-investigators-junk-tips",
-        "source": "crypto",
-        "time": "Fri, 27 Feb 2026 00:17:10 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "MitID, Denmarks sole digital ID, has been down for over an hour and counting",
-        "url": "https://www.digitaliser.dk/mitid/nyt-fra-mitid/2026/feb/driftsforstyrrelser-mitid",
-        "source": "hn",
-        "time": "2/27/2026, 10:52:07 AM"
-      },
       {
         "title": "Statement from Dario Amodei on our discussions with the Department of War",
         "url": "https://www.anthropic.com/news/statement-department-of-war",
         "source": "hn",
         "time": "2/26/2026, 10:42:47 PM"
+      },
+      {
+        "title": "Can you reverse engineer our neural network?",
+        "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+        "source": "hn",
+        "time": "2/25/2026, 2:20:13 AM"
       },
       {
         "title": "F-Droid Board of Directors nominations 2026",
@@ -54,16 +54,16 @@
         "time": "2/27/2026, 10:27:29 AM"
       },
       {
-        "title": "Dyson settles forced labour suit in landmark UK case",
-        "url": "https://www.bbc.com/news/articles/cddnry8dnl7o",
+        "title": "The normalization of corruption in organizations (2003) [pdf]",
+        "url": "https://gwern.net/doc/sociology/2003-ashforth.pdf",
         "source": "hn",
-        "time": "2/27/2026, 10:21:40 AM"
+        "time": "2/27/2026, 6:21:23 AM"
       },
       {
-        "title": "Can you reverse engineer our neural network?",
-        "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+        "title": "The Hunt for Dark Breakfast",
+        "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
         "source": "hn",
-        "time": "2/25/2026, 2:20:13 AM"
+        "time": "2/27/2026, 3:49:48 AM"
       }
     ],
     "world": [
@@ -71,31 +71,31 @@
         "title": "From plumber to Parliament, who is the Green Party's new MP?",
         "url": "https://www.bbc.com/news/articles/cwygp3dqenwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 27 Feb 2026 09:56:03 GMT"
+        "time": "Fri, 27 Feb 2026 12:29:17 GMT"
       },
       {
-        "title": "Chris Mason: Green Party win will prompt soul searching within Labour and questions for Starmer",
-        "url": "https://www.bbc.com/news/articles/cy03ydp27nno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: How Green Party victory unfolded",
+        "url": "https://www.bbc.com/news/videos/ceqv07zn94wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 27 Feb 2026 06:06:17 GMT"
+        "time": "Fri, 27 Feb 2026 11:56:04 GMT"
       },
       {
-        "title": "What we know after latest escalation in Pakistan-Afghanistan tensions",
+        "title": "Pakistan strikes Afghanistan and declares 'open war' on Taliban - what we know so far",
         "url": "https://www.bbc.com/news/articles/cj32zx48xvxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 27 Feb 2026 10:50:46 GMT"
+        "time": "Fri, 27 Feb 2026 11:45:02 GMT"
+      },
+      {
+        "title": "Soham murderer Ian Huntley in serious condition after makeshift weapon attack",
+        "url": "https://www.bbc.com/news/articles/c9v01g7vylzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 27 Feb 2026 12:07:45 GMT"
       },
       {
         "title": "Man arrested after Winston Churchill statue defaced with graffiti",
         "url": "https://www.bbc.com/news/articles/c07jm1kp228o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 27 Feb 2026 10:50:47 GMT"
-      },
-      {
-        "title": "Gregg Wallace discontinues data claim against BBC",
-        "url": "https://www.bbc.com/news/articles/cx2ly3p4q7qo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 27 Feb 2026 09:52:10 GMT"
+        "time": "Fri, 27 Feb 2026 12:29:26 GMT"
       }
     ],
     "projects": [
