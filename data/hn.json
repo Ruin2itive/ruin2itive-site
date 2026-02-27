@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-27T19:28:10.361Z"
+    "built_at": "2026-02-27T20:20:39.697Z"
   },
-  "items": [
-    {
-      "title": "Why AI hallucinations make automated SoC triage dangerous",
-      "url": "https://thehgtech.com/articles/ai-soc-analyst-future-2026.html",
-      "date": "2026-02-27T19:27:01.000Z"
-    },
-    {
-      "title": "Red Dwarf creator Rob Grant has died",
-      "url": "https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant",
-      "date": "2026-02-27T19:26:38.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
