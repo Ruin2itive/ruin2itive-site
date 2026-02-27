@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-27T01:18:47.880Z"
+    "built_at": "2026-02-27T04:06:38.539Z"
   },
-  "items": [
-    {
-      "title": "Forget electric bikes, Kawasaki is building an electric horse for production",
-      "url": "https://electrek.co/2026/02/26/forget-electric-bikes-kawasaki-is-building-an-electric-horse-for-actual-production/",
-      "date": "2026-02-27T01:16:58.000Z"
-    },
-    {
-      "title": "Agentic C-Suite",
-      "url": "https://medium.com/@paul.bernard_80815/the-executive-is-the-new-interface-cf7d649b4511",
-      "date": "2026-02-27T01:16:03.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
