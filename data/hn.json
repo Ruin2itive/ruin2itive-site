@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-27T14:35:02.055Z"
+    "built_at": "2026-02-27T15:32:07.241Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Tudumb",
+      "url": "https://spyglass.org/netflix-warner-bros-paramount-deal/",
+      "date": "2026-02-27T15:29:28.000Z"
+    },
+    {
+      "title": "Mondrian Entered the Public Domain. The Estate Disagrees",
+      "url": "https://copyrightlately.com/mondrian-public-domain-controversy/",
+      "date": "2026-02-27T15:28:57.000Z"
+    }
+  ]
 }
