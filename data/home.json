@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-27T17:42:59.771Z",
-  "updated_local": "2/27/2026, 5:42:59 PM",
+  "updated_iso": "2026-02-27T18:40:07.746Z",
+  "updated_local": "2/27/2026, 6:40:07 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Trump Media Weighs Truth Social Spinoff Following Bitcoin, Crypto ETF Moves",
+        "url": "https://decrypt.co/359421/trump-media-weighs-truth-social-spinoff-bitcoin-crypto",
+        "source": "crypto",
+        "time": "Fri, 27 Feb 2026 18:33:13 +0000"
+      },
       {
         "title": "Ethereum Tokens Swiped, Returned After South Korean Tax Service Publishes Wallet Seed Phrases",
         "url": "https://decrypt.co/359404/ethereum-tokens-swiped-returned-south-korean-tax-service",
@@ -26,38 +32,32 @@
         "url": "https://decrypt.co/359401/amazon-nvidia-flood-openai-cash-valuation-730-billion",
         "source": "crypto",
         "time": "Fri, 27 Feb 2026 14:48:25 +0000"
-      },
-      {
-        "title": "DC Scam Center Strike Force Crypto Seizures, Freezes Hit $580M",
-        "url": "https://decrypt.co/359398/dc-scam-center-strike-force-crypto-seizures-freezes-hit-580m",
-        "source": "crypto",
-        "time": "Fri, 27 Feb 2026 13:53:35 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "We deserve a better streams API for JavaScript",
+        "title": "A better streams API is possible for JavaScript",
         "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
         "source": "hn",
         "time": "2/27/2026, 2:02:53 PM"
-      },
-      {
-        "title": "We gave terabytes of CI logs to an LLM",
-        "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
-        "source": "hn",
-        "time": "2/27/2026, 3:41:13 PM"
-      },
-      {
-        "title": "The Pentagon is making a mistake by threatening Anthropic",
-        "url": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake",
-        "source": "hn",
-        "time": "2/27/2026, 3:08:29 PM"
       },
       {
         "title": "Statement from Dario Amodei on our discussions with the Department of War",
         "url": "https://www.anthropic.com/news/statement-department-of-war",
         "source": "hn",
         "time": "2/26/2026, 10:42:47 PM"
+      },
+      {
+        "title": "NASA announces major overhaul of Artemis program amid safety concerns, delays",
+        "url": "https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/",
+        "source": "hn",
+        "time": "2/27/2026, 4:33:39 PM"
+      },
+      {
+        "title": "We gave terabytes of CI logs to an LLM",
+        "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+        "source": "hn",
+        "time": "2/27/2026, 3:41:13 PM"
       },
       {
         "title": "Tenth Circuit: 4th Amendment Doesn't Support Broad Search of Protesters' Devices",
@@ -67,6 +67,12 @@
       }
     ],
     "world": [
+      {
+        "title": "Starmer vows to fight on after historic Green by-election win",
+        "url": "https://www.bbc.com/news/articles/cp8r56vxmn0o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 27 Feb 2026 18:10:29 GMT"
+      },
       {
         "title": "Henry Zeffman: Green victory shows insurgent parties are here to stay",
         "url": "https://www.bbc.com/news/articles/cn0egryw20yo?at_medium=RSS&amp;at_campaign=rss",
@@ -83,19 +89,13 @@
         "title": "Private schools lose legal challenge over VAT changes",
         "url": "https://www.bbc.com/news/articles/c5y4lj1llvjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 27 Feb 2026 16:47:26 GMT"
+        "time": "Fri, 27 Feb 2026 18:06:39 GMT"
       },
       {
         "title": "'We were bullied for years before our son was killed'",
         "url": "https://www.bbc.com/news/articles/c627lx43gezo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 27 Feb 2026 16:19:25 GMT"
-      },
-      {
-        "title": "Cruz Beckham launches music career, having fun amid family drama",
-        "url": "https://www.bbc.com/news/articles/cvg34zn3pywo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 27 Feb 2026 17:01:14 GMT"
       }
     ],
     "projects": [
