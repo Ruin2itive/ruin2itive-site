@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-27T16:32:17.949Z"
+    "built_at": "2026-02-27T17:28:34.673Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Vibe Code your 3D Models",
+      "url": "https://github.com/ierror/synaps-cad",
+      "date": "2026-02-27T17:27:34.000Z"
+    },
+    {
+      "title": "Burger King testing AI headsets to track if employees say 'please', 'thank you'",
+      "url": "https://thehill.com/policy/technology/5757413-burger-king-artificial-intelligence-headsets/",
+      "date": "2026-02-27T17:27:20.000Z"
+    }
+  ]
 }
