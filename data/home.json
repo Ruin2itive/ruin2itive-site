@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-27T19:32:04.530Z",
-  "updated_local": "2/27/2026, 7:32:04 PM",
+  "updated_iso": "2026-02-27T19:40:03.453Z",
+  "updated_local": "2/27/2026, 7:40:03 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Rebound Stalls at $65K as Stocks Fall and Gold Rises",
+        "url": "https://decrypt.co/359420/bitcoin-rebound-stalls-65k-stocks-fall-gold-rises",
+        "source": "crypto",
+        "time": "Fri, 27 Feb 2026 19:33:35 +0000"
+      },
       {
         "title": "Magic Eden Pulls Plug on Bitcoin and Ethereum Support, Doubles Down on Solana",
         "url": "https://decrypt.co/359422/magic-eden-pulls-plug-bitcoin-ethereum-doubles-down-solana",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/359410/ban-on-crypto-privacy-tools-would-be-counterproductive-uk-think-tank",
         "source": "crypto",
         "time": "Fri, 27 Feb 2026 17:20:08 +0000"
-      },
-      {
-        "title": "Minnesota Weighs Total Ban on Bitcoin and Crypto ATMs",
-        "url": "https://decrypt.co/359405/minnesota-weighs-total-ban-bitcoin-crypto-atms",
-        "source": "crypto",
-        "time": "Fri, 27 Feb 2026 16:39:17 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Dan Simmons, author of Hyperion, has died",
-        "url": "https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871",
-        "source": "hn",
-        "time": "2/27/2026, 6:13:39 PM"
-      },
       {
         "title": "A better streams API is possible for JavaScript",
         "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
         "source": "hn",
         "time": "2/27/2026, 2:02:53 PM"
+      },
+      {
+        "title": "Writing a Guide to SDF Fonts",
+        "url": "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/",
+        "source": "hn",
+        "time": "2/27/2026, 6:24:09 PM"
       },
       {
         "title": "Allocating on the Stack",
@@ -54,16 +54,16 @@
         "time": "2/27/2026, 4:34:05 PM"
       },
       {
-        "title": "We gave terabytes of CI logs to an LLM",
-        "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+        "title": "Dan Simmons, author of Hyperion, has died",
+        "url": "https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871",
         "source": "hn",
-        "time": "2/27/2026, 3:41:13 PM"
+        "time": "2/27/2026, 6:13:39 PM"
       },
       {
-        "title": "Writing a Guide to SDF Fonts",
-        "url": "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/",
+        "title": "Don't run OpenClaw on your main machine",
+        "url": "https://blog.skypilot.co/openclaw-on-skypilot/",
         "source": "hn",
-        "time": "2/27/2026, 6:24:09 PM"
+        "time": "2/27/2026, 6:06:26 PM"
       }
     ],
     "world": [
