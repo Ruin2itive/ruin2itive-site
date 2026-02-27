@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-27T15:46:02.537Z",
-  "updated_local": "2/27/2026, 3:46:02 PM",
+  "updated_iso": "2026-02-27T16:38:44.339Z",
+  "updated_local": "2/27/2026, 4:38:44 PM",
   "sections": {
     "crypto": [
       {
@@ -48,36 +48,30 @@
         "time": "2/26/2026, 10:42:47 PM"
       },
       {
-        "title": "Can you reverse engineer our neural network?",
-        "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
-        "source": "hn",
-        "time": "2/25/2026, 2:20:13 AM"
-      },
-      {
         "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
         "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
         "source": "hn",
         "time": "2/27/2026, 3:14:42 PM"
       },
       {
-        "title": "F-Droid Board of Directors nominations 2026",
-        "url": "https://f-droid.org/2026/02/26/board-of-directors-nominations.html",
+        "title": "We gave terabytes of CI logs to an LLM",
+        "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
         "source": "hn",
-        "time": "2/27/2026, 10:27:29 AM"
+        "time": "2/27/2026, 3:41:13 PM"
+      },
+      {
+        "title": "Can you reverse engineer our neural network?",
+        "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+        "source": "hn",
+        "time": "2/25/2026, 2:20:13 AM"
       }
     ],
     "world": [
       {
-        "title": "Green victory shows insurgent parties are here to stay",
+        "title": "Henry Zeffman: Green victory shows insurgent parties are here to stay",
         "url": "https://www.bbc.com/news/articles/cn0egryw20yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 27 Feb 2026 15:38:15 GMT"
-      },
-      {
-        "title": "Watch: How Green Party victory unfolded",
-        "url": "https://www.bbc.com/news/videos/ceqv07zn94wo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 27 Feb 2026 11:56:04 GMT"
       },
       {
         "title": "Soham killer Huntley still in hospital after attack using makeshift weapon",
@@ -92,10 +86,16 @@
         "time": "Fri, 27 Feb 2026 13:26:23 GMT"
       },
       {
-        "title": "How Hollywood and Maga aligned over Warner Bros deal",
-        "url": "https://www.bbc.com/news/articles/ckg1klgl5dko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK withdraws Tehran embassy staff as concern grows over threat of US strikes",
+        "url": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 27 Feb 2026 14:08:11 GMT"
+        "time": "Fri, 27 Feb 2026 16:31:44 GMT"
+      },
+      {
+        "title": "'We were bullied for years before our son was killed'",
+        "url": "https://www.bbc.com/news/articles/c627lx43gezo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 27 Feb 2026 16:19:25 GMT"
       }
     ],
     "projects": [
