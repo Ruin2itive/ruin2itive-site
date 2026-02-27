@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-27T04:06:38.539Z"
+    "built_at": "2026-02-27T05:45:30.073Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Pplx-Embed: Embedding Models for Web-Scale Retrieval",
+      "url": "https://research.perplexity.ai/articles/pplx-embed-state-of-the-art-embedding-models-for-web-scale-retrieval",
+      "date": "2026-02-27T05:43:28.000Z"
+    },
+    {
+      "title": "CoreWeave slides as surging capex, backlog risks overshadow small revenue beat",
+      "url": "https://www.reuters.com/business/coreweave-beats-fourth-quarter-revenue-estimates-2026-02-26/",
+      "date": "2026-02-27T05:37:26.000Z"
+    }
+  ]
 }
