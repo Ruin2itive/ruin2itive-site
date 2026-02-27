@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-27T16:38:44.339Z",
-  "updated_local": "2/27/2026, 4:38:44 PM",
+  "updated_iso": "2026-02-27T16:51:04.176Z",
+  "updated_local": "2/27/2026, 4:51:04 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Minnesota Weighs Total Ban on Bitcoin and Crypto ATMs",
+        "url": "https://decrypt.co/359405/minnesota-weighs-total-ban-bitcoin-crypto-atms",
+        "source": "crypto",
+        "time": "Fri, 27 Feb 2026 16:39:17 +0000"
+      },
       {
         "title": "Amazon, Nvidia Flood OpenAI With Cash as ChatGPT Maker’s Valuation Hits $730 Billion",
         "url": "https://decrypt.co/359401/amazon-nvidia-flood-openai-cash-valuation-730-billion",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/359367/jane-street-lawsuit-fuels-late-double-digit-pop-in-terra-luna-classic",
         "source": "crypto",
         "time": "Fri, 27 Feb 2026 10:31:00 +0000"
-      },
-      {
-        "title": "Elizabeth Warren, OCC Chief Spar Over Trump-Linked Crypto Bank Bid",
-        "url": "https://decrypt.co/359364/elizabeth-warren-occ-chief-spar-over-trump-linked-crypto-bank-bid",
-        "source": "crypto",
-        "time": "Fri, 27 Feb 2026 05:41:57 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
         "source": "hn",
         "time": "2/27/2026, 2:02:53 PM"
+      },
+      {
+        "title": "The Pentagon is making a mistake by threatening Anthropic",
+        "url": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake",
+        "source": "hn",
+        "time": "2/27/2026, 3:08:29 PM"
       },
       {
         "title": "Statement from Dario Amodei on our discussions with the Department of War",
@@ -58,12 +64,6 @@
         "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
         "source": "hn",
         "time": "2/27/2026, 3:41:13 PM"
-      },
-      {
-        "title": "Can you reverse engineer our neural network?",
-        "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
-        "source": "hn",
-        "time": "2/25/2026, 2:20:13 AM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Fri, 27 Feb 2026 12:07:45 GMT"
       },
       {
-        "title": "Why are Afghanistan and Pakistan fighting?",
-        "url": "https://www.bbc.com/news/articles/cdjmrxkwk3mo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 27 Feb 2026 13:26:23 GMT"
-      },
-      {
         "title": "UK withdraws Tehran embassy staff as concern grows over threat of US strikes",
         "url": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/c627lx43gezo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 27 Feb 2026 16:19:25 GMT"
+      },
+      {
+        "title": "Why are Afghanistan and Pakistan fighting?",
+        "url": "https://www.bbc.com/news/articles/cdjmrxkwk3mo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 27 Feb 2026 13:26:23 GMT"
       }
     ],
     "projects": [
