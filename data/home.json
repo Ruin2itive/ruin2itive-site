@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-27T02:45:27.440Z",
-  "updated_local": "2/27/2026, 2:45:27 AM",
+  "updated_iso": "2026-02-27T04:12:43.127Z",
+  "updated_local": "2/27/2026, 4:12:43 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "MARA Shares Rise After Bitcoin Miner Strikes AI Data Center Deal",
+        "url": "https://decrypt.co/359361/mara-shares-rise-bitcoin-miner-strikes-ai-data-center-deal",
+        "source": "crypto",
+        "time": "Fri, 27 Feb 2026 03:00:57 +0000"
+      },
       {
         "title": "Anthropic Won’t Lift AI Safeguards Amid Ongoing Pentagon Dispute: CEO",
         "url": "https://decrypt.co/359358/anthropic-wont-lift-ai-safeguards-pentagon-dispute",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/359352/vitalik-buterin-maps-quantum-upgrade-ethereum",
         "source": "crypto",
         "time": "Thu, 26 Feb 2026 23:42:08 +0000"
-      },
-      {
-        "title": "&#39;Private Bitcoin&#39; to Launch on Starknet With Zcash-Like Features",
-        "url": "https://decrypt.co/359344/private-bitcoin-debuts-starknet-zcash-like-features",
-        "source": "crypto",
-        "time": "Thu, 26 Feb 2026 23:01:12 +0000"
       }
     ],
     "hacker": [
@@ -42,37 +42,31 @@
         "time": "2/26/2026, 10:42:47 PM"
       },
       {
+        "title": "The Hunt for Dark Breakfast – Can we derive breakfasts we have never observed?",
+        "url": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
+        "source": "hn",
+        "time": "2/27/2026, 3:49:48 AM"
+      },
+      {
+        "title": "Google Workers Seek 'Red Lines' on Military A.I., Echoing Anthropic",
+        "url": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
+        "source": "hn",
+        "time": "2/27/2026, 3:08:09 AM"
+      },
+      {
         "title": "Layoffs at Block",
         "url": "https://twitter.com/jack/status/2027129697092731343",
         "source": "hn",
         "time": "2/26/2026, 9:17:56 PM"
       },
       {
-        "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
-        "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-        "source": "hn",
-        "time": "2/26/2026, 3:55:48 PM"
-      },
-      {
         "title": "What Claude Code Chooses",
         "url": "https://amplifying.ai/research/claude-code-picks",
         "source": "hn",
         "time": "2/26/2026, 6:12:26 PM"
-      },
-      {
-        "title": "Will vibe coding end like the maker movement?",
-        "url": "https://read.technically.dev/p/vibe-coding-and-the-maker-movement",
-        "source": "hn",
-        "time": "2/26/2026, 4:07:11 PM"
       }
     ],
     "world": [
-      {
-        "title": "Chris Mason: Gorton and Denton by-election could be a three-way tussle",
-        "url": "https://www.bbc.com/news/articles/cvg3qg20544o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 26 Feb 2026 22:01:46 GMT"
-      },
       {
         "title": "Hillary Clinton tells House panel she 'had no idea' of Epstein's crimes",
         "url": "https://www.bbc.com/news/articles/cd6z3e1vdvzo?at_medium=RSS&amp;at_campaign=rss",
@@ -90,6 +84,12 @@
         "url": "https://www.bbc.com/news/articles/cge82vq9x9ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 27 Feb 2026 00:00:11 GMT"
+      },
+      {
+        "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
+        "url": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 27 Feb 2026 00:06:40 GMT"
       },
       {
         "title": "UK winter nowhere near a record breaker despite floods and storms",
