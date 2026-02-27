@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-02-27T16:51:04.176Z",
-  "updated_local": "2/27/2026, 4:51:04 PM",
+  "updated_iso": "2026-02-27T17:34:10.808Z",
+  "updated_local": "2/27/2026, 5:34:10 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Ethereum Tokens Swiped, Returned After South Korean Tax Service Publishes Wallet Seed Phrases",
+        "url": "https://decrypt.co/359404/ethereum-tokens-swiped-returned-south-korean-tax-service",
+        "source": "crypto",
+        "time": "Fri, 27 Feb 2026 17:20:54 +0000"
+      },
+      {
+        "title": "Ban on Crypto Privacy Tools Would Be Counterproductive: UK Think Tank",
+        "url": "https://decrypt.co/359410/ban-on-crypto-privacy-tools-would-be-counterproductive-uk-think-tank",
+        "source": "crypto",
+        "time": "Fri, 27 Feb 2026 17:20:08 +0000"
+      },
       {
         "title": "Minnesota Weighs Total Ban on Bitcoin and Crypto ATMs",
         "url": "https://decrypt.co/359405/minnesota-weighs-total-ban-bitcoin-crypto-atms",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/359398/dc-scam-center-strike-force-crypto-seizures-freezes-hit-580m",
         "source": "crypto",
         "time": "Fri, 27 Feb 2026 13:53:35 +0000"
-      },
-      {
-        "title": "Morning Minute: Jack Dorsey Slashes 40% of Block&#39;s Jobs Due to AI",
-        "url": "https://decrypt.co/359395/morning-minute-jack-dorsey-slashes-40-of-blocks-jobs-due-to-ai",
-        "source": "crypto",
-        "time": "Fri, 27 Feb 2026 12:51:59 +0000"
-      },
-      {
-        "title": "Jane Street Lawsuit Fuels Late Double-Digit Pop in Terra Luna Classic",
-        "url": "https://decrypt.co/359367/jane-street-lawsuit-fuels-late-double-digit-pop-in-terra-luna-classic",
-        "source": "crypto",
-        "time": "Fri, 27 Feb 2026 10:31:00 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "2/27/2026, 2:02:53 PM"
       },
       {
-        "title": "The Pentagon is making a mistake by threatening Anthropic",
-        "url": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake",
+        "title": "We gave terabytes of CI logs to an LLM",
+        "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
         "source": "hn",
-        "time": "2/27/2026, 3:08:29 PM"
+        "time": "2/27/2026, 3:41:13 PM"
       },
       {
         "title": "Statement from Dario Amodei on our discussions with the Department of War",
@@ -54,16 +54,16 @@
         "time": "2/26/2026, 10:42:47 PM"
       },
       {
-        "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
-        "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
+        "title": "The Pentagon is making a mistake by threatening Anthropic",
+        "url": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake",
         "source": "hn",
-        "time": "2/27/2026, 3:14:42 PM"
+        "time": "2/27/2026, 3:08:29 PM"
       },
       {
-        "title": "We gave terabytes of CI logs to an LLM",
-        "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+        "title": "Tenth Circuit: 4th Amendment Doesn't Support Broad Search of Protesters' Devices",
+        "url": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
         "source": "hn",
-        "time": "2/27/2026, 3:41:13 PM"
+        "time": "2/27/2026, 3:09:04 PM"
       }
     ],
     "world": [
@@ -80,10 +80,10 @@
         "time": "Fri, 27 Feb 2026 12:07:45 GMT"
       },
       {
-        "title": "UK withdraws Tehran embassy staff as concern grows over threat of US strikes",
-        "url": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Private schools lose legal challenge over VAT changes",
+        "url": "https://www.bbc.com/news/articles/c5y4lj1llvjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 27 Feb 2026 16:31:44 GMT"
+        "time": "Fri, 27 Feb 2026 16:47:26 GMT"
       },
       {
         "title": "'We were bullied for years before our son was killed'",
@@ -92,10 +92,10 @@
         "time": "Fri, 27 Feb 2026 16:19:25 GMT"
       },
       {
-        "title": "Why are Afghanistan and Pakistan fighting?",
-        "url": "https://www.bbc.com/news/articles/cdjmrxkwk3mo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Cruz Beckham launches music career, having fun amid family drama",
+        "url": "https://www.bbc.com/news/articles/cvg34zn3pywo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 27 Feb 2026 13:26:23 GMT"
+        "time": "Fri, 27 Feb 2026 17:01:14 GMT"
       }
     ],
     "projects": [
