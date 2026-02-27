@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-02-27T19:40:03.453Z",
-  "updated_local": "2/27/2026, 7:40:03 PM",
+  "updated_iso": "2026-02-27T20:25:47.747Z",
+  "updated_local": "2/27/2026, 8:25:47 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Anthropic &#39;Retires&#39; Claude Opus 3—Then Gives It a Blog to Reflect on Its Existence",
+        "url": "https://decrypt.co/359425/anthropic-retires-claude-opus-3-blog-reflect-existence",
+        "source": "crypto",
+        "time": "Fri, 27 Feb 2026 20:00:40 +0000"
+      },
       {
         "title": "Bitcoin Rebound Stalls at $65K as Stocks Fall and Gold Rises",
         "url": "https://decrypt.co/359420/bitcoin-rebound-stalls-65k-stocks-fall-gold-rises",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/359404/ethereum-tokens-swiped-returned-south-korean-tax-service",
         "source": "crypto",
         "time": "Fri, 27 Feb 2026 17:20:54 +0000"
-      },
-      {
-        "title": "Ban on Crypto Privacy Tools Would Be Counterproductive: UK Think Tank",
-        "url": "https://decrypt.co/359410/ban-on-crypto-privacy-tools-would-be-counterproductive-uk-think-tank",
-        "source": "crypto",
-        "time": "Fri, 27 Feb 2026 17:20:08 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "The Robotic Dexterity Deadlock",
+        "url": "https://www.origami-robotics.com/blog/dexterity-deadlocks.html",
+        "source": "hn",
+        "time": "2/27/2026, 7:51:33 PM"
+      },
       {
         "title": "A better streams API is possible for JavaScript",
         "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
@@ -42,28 +48,22 @@
         "time": "2/27/2026, 2:02:53 PM"
       },
       {
-        "title": "Writing a Guide to SDF Fonts",
-        "url": "https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/",
+        "title": "OpenAI raises $110B on $730B pre-money valuation",
+        "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
         "source": "hn",
-        "time": "2/27/2026, 6:24:09 PM"
+        "time": "2/27/2026, 2:56:05 PM"
       },
       {
-        "title": "Allocating on the Stack",
-        "url": "https://go.dev/blog/allocation-optimizations",
+        "title": "Leaving Google has actively improved my life",
+        "url": "https://pseudosingleton.com/leaving-google-improved-my-life/",
         "source": "hn",
-        "time": "2/27/2026, 4:34:05 PM"
+        "time": "2/27/2026, 7:08:25 PM"
       },
       {
-        "title": "Dan Simmons, author of Hyperion, has died",
-        "url": "https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871",
+        "title": "Let's discuss sandbox isolation",
+        "url": "https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/",
         "source": "hn",
-        "time": "2/27/2026, 6:13:39 PM"
-      },
-      {
-        "title": "Don't run OpenClaw on your main machine",
-        "url": "https://blog.skypilot.co/openclaw-on-skypilot/",
-        "source": "hn",
-        "time": "2/27/2026, 6:06:26 PM"
+        "time": "2/27/2026, 6:49:50 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Starmer vows to fight on after historic Green by-election win",
         "url": "https://www.bbc.com/news/articles/cp8r56vxmn0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 27 Feb 2026 18:10:29 GMT"
+        "time": "Fri, 27 Feb 2026 19:51:18 GMT"
       },
       {
         "title": "Henry Zeffman: Green victory shows insurgent parties are here to stay",
