@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-27T14:50:36.143Z",
-  "updated_local": "2/27/2026, 2:50:36 PM",
+  "updated_iso": "2026-02-27T15:36:00.330Z",
+  "updated_local": "2/27/2026, 3:36:00 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "We deserve a better streams API for JavaScript",
+        "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
+        "source": "hn",
+        "time": "2/27/2026, 2:02:53 PM"
+      },
+      {
         "title": "Statement from Dario Amodei on our discussions with the Department of War",
         "url": "https://www.anthropic.com/news/statement-department-of-war",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "2/25/2026, 2:20:13 AM"
       },
       {
-        "title": "We deserve a better streams API for JavaScript",
-        "url": "https://blog.cloudflare.com/a-better-web-streams-api/",
+        "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
+        "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
         "source": "hn",
-        "time": "2/27/2026, 2:02:53 PM"
+        "time": "2/27/2026, 3:14:42 PM"
       },
       {
         "title": "F-Droid Board of Directors nominations 2026",
         "url": "https://f-droid.org/2026/02/26/board-of-directors-nominations.html",
         "source": "hn",
         "time": "2/27/2026, 10:27:29 AM"
-      },
-      {
-        "title": "An interactive intro to quadtrees",
-        "url": "https://growingswe.com/blog/quadtrees",
-        "source": "hn",
-        "time": "2/24/2026, 5:31:05 PM"
       }
     ],
     "world": [
