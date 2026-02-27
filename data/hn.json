@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-27T20:20:39.697Z"
+    "built_at": "2026-02-27T21:21:48.312Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Heart attack deaths rose between 2011 and 2022 among adults younger than age 55",
+      "url": "https://newsroom.heart.org/news/releases-20260219",
+      "date": "2026-02-27T21:19:48.000Z"
+    },
+    {
+      "title": "Ask HN: What's the best engineering interview process?",
+      "url": "https://news.ycombinator.com/item?id=47185768",
+      "date": "2026-02-27T21:19:44.000Z"
+    }
+  ]
 }
