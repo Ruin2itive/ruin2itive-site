@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-27T13:54:33.333Z"
+    "built_at": "2026-02-27T14:35:02.055Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Shannon – Local desktop app to orchestrate Claude Code agent teams",
-      "url": "https://news.ycombinator.com/item?id=47180506",
-      "date": "2026-02-27T13:54:09.000Z"
-    },
-    {
-      "title": "An Argument The Moon is a PLANET [video]",
-      "url": "https://www.youtube.com/watch?v=xgFKxFX3IwY",
-      "date": "2026-02-27T13:54:06.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
