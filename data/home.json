@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-28T21:29:32.548Z",
-  "updated_local": "2/28/2026, 9:29:32 PM",
+  "updated_iso": "2026-02-28T22:20:55.302Z",
+  "updated_local": "2/28/2026, 10:20:55 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "MinIO Is Dead, Long Live MinIO",
+        "url": "https://blog.vonng.com/en/db/minio-resurrect/",
+        "source": "hn",
+        "time": "2/28/2026, 9:16:53 PM"
+      },
+      {
         "title": "Obsidian Sync now has a headless client",
         "url": "https://help.obsidian.md/sync/headless",
         "source": "hn",
@@ -48,30 +54,24 @@
         "time": "2/26/2026, 4:13:47 AM"
       },
       {
-        "title": "Our Agreement with the Department of War",
-        "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+        "title": "Building a Minimal Transformer for 10-digit Addition",
+        "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
         "source": "hn",
-        "time": "2/28/2026, 8:35:29 PM"
+        "time": "2/28/2026, 10:10:21 PM"
       },
       {
         "title": "Verified Spec-Driven Development (VSDD)",
         "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
         "source": "hn",
         "time": "2/28/2026, 4:58:54 PM"
-      },
-      {
-        "title": "Addressing Antigravity Bans and Reinstating Access",
-        "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
-        "source": "hn",
-        "time": "2/28/2026, 1:50:13 PM"
       }
     ],
     "world": [
       {
-        "title": "What we know so far: Supreme Leader's compound hit and Iran's retaliatory strikes",
+        "title": "What we know so far: Supreme Leader Khamenei killed, Trump says, as Iran launches retaliatory strikes",
         "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 28 Feb 2026 20:06:48 GMT"
+        "time": "Sat, 28 Feb 2026 22:12:38 GMT"
       },
       {
         "title": "Luxury Dubai hotel hit as Iran launches retaliatory strikes across region",
@@ -92,10 +92,10 @@
         "time": "Sat, 28 Feb 2026 19:34:00 GMT"
       },
       {
-        "title": "Bowen: A dangerous moment, but US and Israel see opportunity not to be missed",
-        "url": "https://www.bbc.com/news/articles/cn0z9012291o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Inside Iran, panic as strikes hit but for some it's a moment of relief",
+        "url": "https://www.bbc.com/news/articles/c05v8jzjn40o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 28 Feb 2026 12:17:17 GMT"
+        "time": "Sat, 28 Feb 2026 15:36:27 GMT"
       }
     ],
     "projects": [
