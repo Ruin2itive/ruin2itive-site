@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-28T20:35:05.927Z",
-  "updated_local": "2/28/2026, 8:35:05 PM",
+  "updated_iso": "2026-02-28T21:19:25.665Z",
+  "updated_local": "2/28/2026, 9:19:25 PM",
   "sections": {
     "crypto": [
       {
@@ -48,6 +48,12 @@
         "time": "2/26/2026, 4:13:47 AM"
       },
       {
+        "title": "Our Agreement with the Department of War",
+        "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+        "source": "hn",
+        "time": "2/28/2026, 8:35:29 PM"
+      },
+      {
         "title": "Verified Spec-Driven Development (VSDD)",
         "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
         "source": "hn",
         "time": "2/28/2026, 1:50:13 PM"
-      },
-      {
-        "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
-        "url": "https://github.com/ad-si/Woxi",
-        "source": "hn",
-        "time": "2/25/2026, 6:24:46 PM"
       }
     ],
     "world": [
