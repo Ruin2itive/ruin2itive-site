@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-28T15:20:36.670Z",
-  "updated_local": "2/28/2026, 3:20:36 PM",
+  "updated_iso": "2026-02-28T15:31:53.041Z",
+  "updated_local": "2/28/2026, 3:31:53 PM",
   "sections": {
     "crypto": [
       {
@@ -36,37 +36,43 @@
     ],
     "hacker": [
       {
-        "title": "OpenAI – How to delete your account",
-        "url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
+        "title": "Addressing Antigravity Bans and Reinstating Access",
+        "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
         "source": "hn",
-        "time": "2/28/2026, 10:41:55 AM"
+        "time": "2/28/2026, 1:50:13 PM"
       },
       {
-        "title": "Don't trust AI agents",
-        "url": "https://nanoclaw.dev/blog/nanoclaw-security-model",
+        "title": "What AI coding costs you",
+        "url": "https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/",
         "source": "hn",
-        "time": "2/28/2026, 12:39:32 PM"
+        "time": "2/28/2026, 1:05:03 PM"
       },
       {
-        "title": "Timeline: Anthropic, OpenAI, and U.S. Government",
-        "url": "https://anthropic-timeline.vercel.app",
+        "title": "Woxi: Wolfram Mathematica Reimplementation in Rust",
+        "url": "https://github.com/ad-si/Woxi",
         "source": "hn",
-        "time": "2/28/2026, 1:25:38 PM"
+        "time": "2/25/2026, 6:24:46 PM"
       },
       {
-        "title": "Please do not use auto-scrolling content on the web and in applications",
-        "url": "https://cerovac.com/a11y/2026/01/please-do-not-use-auto-scrolling-content-on-the-web-and-in-applications/",
+        "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
+        "url": "https://nowigetit.us",
         "source": "hn",
-        "time": "2/28/2026, 2:10:04 PM"
+        "time": "2/28/2026, 1:29:36 PM"
       },
       {
-        "title": "Show HN: Decided to play god this morning, so I built an agent civilisation",
-        "url": "https://github.com/nocodemf/werld",
+        "title": "Show HN: Rust-powered document chunker for RAG – 40x faster, O(1) memory",
+        "url": "https://github.com/Krira-Labs/krira-chunker",
         "source": "hn",
-        "time": "2/28/2026, 2:05:27 PM"
+        "time": "2/28/2026, 2:58:02 PM"
       }
     ],
     "world": [
+      {
+        "title": "UK planes 'in the sky' in Middle East as part of defensive operation, PM says",
+        "url": "https://www.bbc.com/news/articles/c20l1v0ldqzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 28 Feb 2026 15:21:18 GMT"
+      },
       {
         "title": "What we know so far",
         "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 28 Feb 2026 13:35:44 GMT"
-      },
-      {
-        "title": "Starmer chairs Cobra meeting over US-Israeli strikes on Iran",
-        "url": "https://www.bbc.com/news/articles/c20l1v0ldqzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 28 Feb 2026 11:49:42 GMT"
       }
     ],
     "projects": [
