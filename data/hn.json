@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-28T12:29:41.875Z"
+    "built_at": "2026-02-28T13:31:45.081Z"
   },
-  "items": [
-    {
-      "title": "When you can't escape an interface, it institutionalises you",
-      "url": "https://timmb.com/when-you-cant-escape-an-interface/",
-      "date": "2026-02-28T12:12:19.000Z"
-    },
-    {
-      "title": "Show HN: AI Agent Team Framework",
-      "url": "https://github.com/danilocaffaro/ai-agent-team-guide",
-      "date": "2026-02-28T12:11:59.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
