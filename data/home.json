@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-28T16:36:33.443Z",
-  "updated_local": "2/28/2026, 4:36:33 PM",
+  "updated_iso": "2026-02-28T17:18:50.410Z",
+  "updated_local": "2/28/2026, 5:18:50 PM",
   "sections": {
     "crypto": [
       {
@@ -48,16 +48,16 @@
         "time": "2/25/2026, 6:24:46 PM"
       },
       {
+        "title": "Obsidian Sync now has a headless client",
+        "url": "https://help.obsidian.md/sync/headless",
+        "source": "hn",
+        "time": "2/28/2026, 4:31:53 PM"
+      },
+      {
         "title": "Addressing Antigravity Bans and Reinstating Access",
         "url": "https://github.com/google-gemini/gemini-cli/discussions/20632",
         "source": "hn",
         "time": "2/28/2026, 1:50:13 PM"
-      },
-      {
-        "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
-        "url": "https://nowigetit.us",
-        "source": "hn",
-        "time": "2/28/2026, 1:29:36 PM"
       },
       {
         "title": "We Will Not Be Divided",
@@ -68,10 +68,22 @@
     ],
     "world": [
       {
-        "title": "What we know so far",
+        "title": "What we know after US and Israel attacks on Iran hit compound of supreme leader",
         "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 28 Feb 2026 15:49:23 GMT"
+      },
+      {
+        "title": "US and Israeli strikes on Iran in maps",
+        "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 28 Feb 2026 16:48:41 GMT"
+      },
+      {
+        "title": "Trump's statement on Iran strikes analysed line by line",
+        "url": "https://www.bbc.com/news/articles/c620d3nnw80o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 28 Feb 2026 16:45:48 GMT"
       },
       {
         "title": "Inside Iran, panic as strikes hit but for some it's a moment of relief",
@@ -84,18 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cn0z9012291o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 28 Feb 2026 12:17:17 GMT"
-      },
-      {
-        "title": "UK planes 'in the sky' in Middle East as part of defensive operation, PM says",
-        "url": "https://www.bbc.com/news/articles/c20l1v0ldqzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 28 Feb 2026 16:03:50 GMT"
-      },
-      {
-        "title": "Iran says it has hit US base in Bahrain, as it launches strikes across region",
-        "url": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 28 Feb 2026 13:35:44 GMT"
       }
     ],
     "projects": [
