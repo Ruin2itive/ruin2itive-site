@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-02-28T14:15:30.710Z"
+    "built_at": "2026-02-28T15:14:46.579Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Debugging Reproducibility Issues in Rust Software",
+      "url": "https://notes.8pit.net/notes/iqfs.html",
+      "date": "2026-02-28T14:32:15.000Z"
+    },
+    {
+      "title": "Seeking Advice on Improving OCR for Watermarked PDFs in My RAG Pipeline",
+      "url": "https://news.ycombinator.com/item?id=47195785",
+      "date": "2026-02-28T14:28:43.000Z"
+    }
+  ]
 }
