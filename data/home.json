@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-01T20:24:51.148Z",
-  "updated_local": "3/1/2026, 8:24:51 PM",
+  "updated_iso": "2026-03-01T20:36:59.036Z",
+  "updated_local": "3/1/2026, 8:36:59 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "3/1/2026, 12:13:03 PM"
       },
       {
+        "title": "Microgpt explained interactively",
+        "url": "https://growingswe.com/blog/microgpt",
+        "source": "hn",
+        "time": "3/1/2026, 9:43:43 AM"
+      },
+      {
         "title": "Microgpt",
         "url": "http://karpathy.github.io/2026/02/12/microgpt/",
         "source": "hn",
@@ -52,12 +58,6 @@
         "url": "https://health.aws.amazon.com/health/status",
         "source": "hn",
         "time": "3/1/2026, 7:24:30 PM"
-      },
-      {
-        "title": "Why XML tags are so fundamental to Claude",
-        "url": "https://glthr.com/XML-fundamental-to-Claude",
-        "source": "hn",
-        "time": "3/1/2026, 2:52:22 PM"
       },
       {
         "title": "When does MCP make sense vs CLI?",
