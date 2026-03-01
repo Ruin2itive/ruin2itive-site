@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-01T02:07:37.467Z",
-  "updated_local": "3/1/2026, 2:07:37 AM",
+  "updated_iso": "2026-03-01T03:17:54.189Z",
+  "updated_local": "3/1/2026, 3:17:54 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Microgpt",
+        "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+        "source": "hn",
+        "time": "3/1/2026, 1:39:26 AM"
+      },
+      {
         "title": "We do not think Anthropic should be designated as a supply chain risk",
         "url": "https://twitter.com/OpenAI/status/2027846016423321831",
         "source": "hn",
@@ -46,12 +52,6 @@
         "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
         "source": "hn",
         "time": "2/28/2026, 10:19:36 PM"
-      },
-      {
-        "title": "MinIO Is Dead, Long Live MinIO",
-        "url": "https://blog.vonng.com/en/db/minio-resurrect/",
-        "source": "hn",
-        "time": "2/28/2026, 9:16:53 PM"
       },
       {
         "title": "Obsidian Sync now has a headless client",
@@ -95,7 +95,7 @@
         "title": "Watch: How US-Israel strikes on Iran unfolded",
         "url": "https://www.bbc.com/news/videos/clyv5rnd8r0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 28 Feb 2026 22:56:36 GMT"
+        "time": "Sun, 01 Mar 2026 02:23:51 GMT"
       }
     ],
     "projects": [
