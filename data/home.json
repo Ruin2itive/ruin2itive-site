@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-01T19:29:19.770Z",
-  "updated_local": "3/1/2026, 7:29:19 PM",
+  "updated_iso": "2026-03-01T20:24:51.148Z",
+  "updated_local": "3/1/2026, 8:24:51 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "The Best AI Tools That Actually Respect Your Privacy",
+        "url": "https://decrypt.co/359454/best-ai-tools-respect-privacy",
+        "source": "crypto",
+        "time": "Sun, 01 Mar 2026 20:01:02 +0000"
+      },
       {
         "title": "You Can Earn Real Bitcoin for Playing This Mining Empire Game—Should You Bother?",
         "url": "https://decrypt.co/359555/earn-real-bitcoin-playing-mining-empire-game-should-you-bother",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/359506/banking-occ-new-stablecoin-yield-rules-coinbase",
         "source": "crypto",
         "time": "Sat, 28 Feb 2026 16:30:16 +0000"
-      },
-      {
-        "title": "Trump Orders Federal Agencies to Dump &#39;Woke&#39; Anthropic AI After Pentagon Dispute",
-        "url": "https://decrypt.co/359453/trump-orders-federal-agencies-dump-woke-anthropic-ai",
-        "source": "crypto",
-        "time": "Fri, 27 Feb 2026 22:09:28 +0000"
       }
     ],
     "hacker": [
@@ -48,22 +48,22 @@
         "time": "3/1/2026, 1:39:26 AM"
       },
       {
-        "title": "Why XML Tags Are So Fundamental to Claude",
+        "title": "Operational issue – Multiple services (UAE)",
+        "url": "https://health.aws.amazon.com/health/status",
+        "source": "hn",
+        "time": "3/1/2026, 7:24:30 PM"
+      },
+      {
+        "title": "Why XML tags are so fundamental to Claude",
         "url": "https://glthr.com/XML-fundamental-to-Claude",
         "source": "hn",
         "time": "3/1/2026, 2:52:22 PM"
       },
       {
-        "title": "Decision trees – the unreasonable power of nested decision rules",
-        "url": "https://mlu-explain.github.io/decision-tree/",
+        "title": "When does MCP make sense vs CLI?",
+        "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
         "source": "hn",
-        "time": "3/1/2026, 8:55:52 AM"
-      },
-      {
-        "title": "Flightradar24 for Ships",
-        "url": "https://atlas.flexport.com/",
-        "source": "hn",
-        "time": "3/1/2026, 11:01:17 AM"
+        "time": "3/1/2026, 4:54:49 PM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.com/news/articles/c86y5540vnno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 01 Mar 2026 14:45:56 GMT"
+      },
+      {
+        "title": "Iran's regime is still intact - the coming days will show if it can hold out",
+        "url": "https://www.bbc.com/news/articles/cx2lgvg5rl1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 01 Mar 2026 18:05:06 GMT"
       },
       {
         "title": "Three ships attacked near Strait of Hormuz as fears grow of oil price rises",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 01 Mar 2026 15:32:26 GMT"
-      },
-      {
-        "title": "In maps: Strikes across Iran and the Middle East",
-        "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 01 Mar 2026 16:58:50 GMT"
       }
     ],
     "projects": [
