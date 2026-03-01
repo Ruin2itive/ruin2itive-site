@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-01T23:21:50.518Z",
-  "updated_local": "3/1/2026, 11:21:50 PM",
+  "updated_iso": "2026-03-01T23:32:12.317Z",
+  "updated_local": "3/1/2026, 11:32:12 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "WebMCP is available for early preview",
+        "url": "https://developer.chrome.com/blog/webmcp-epp",
+        "source": "hn",
+        "time": "3/1/2026, 10:13:58 PM"
+      },
+      {
         "title": "Are the Mysteries of Quantum Mechanics Beginning to Dissolve?",
         "url": "https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/",
         "source": "hn",
@@ -46,12 +52,6 @@
         "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
         "source": "hn",
         "time": "2/24/2026, 8:08:38 PM"
-      },
-      {
-        "title": "WebMCP is available for early preview",
-        "url": "https://developer.chrome.com/blog/webmcp-epp",
-        "source": "hn",
-        "time": "3/1/2026, 10:13:58 PM"
       },
       {
         "title": "Ghostty – Terminal Emulator",
