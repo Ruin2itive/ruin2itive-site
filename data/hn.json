@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-01T15:16:10.693Z"
+    "built_at": "2026-03-01T16:18:54.435Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Did a Restorer Paint Italian Prime Minister Giorgia Meloni into a Church Fresco?",
+      "url": "https://news.artnet.com/art-world/church-fresco-giorgia-meloni-2742134",
+      "date": "2026-03-01T16:18:07.000Z"
+    },
+    {
+      "title": "Show HN: I stopped wireframing pages – I design SaaS products as visual sitemaps",
+      "url": "https://news.ycombinator.com/item?id=47208033",
+      "date": "2026-03-01T16:18:02.000Z"
+    }
+  ]
 }
