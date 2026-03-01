@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-01T14:32:51.885Z",
-  "updated_local": "3/1/2026, 2:32:51 PM",
+  "updated_iso": "2026-03-01T15:21:14.197Z",
+  "updated_local": "3/1/2026, 3:21:14 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "The Legal Strategy Behind Crypto Exchange Backpack&#39;s Token-to-Equity Program",
+        "url": "https://decrypt.co/359510/legal-strategy-behind-crypto-exchange-backpack-token-equity-program",
+        "source": "crypto",
+        "time": "Sun, 01 Mar 2026 14:58:25 +0000"
+      },
       {
         "title": "Bitcoin Recovers Following Plunge as US, Israel Begin Bombing Iran",
         "url": "https://decrypt.co/359528/bitcoin-recovers-following-plunge-as-us-israel-begin-bombing-iran",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/359451/banking-giant-barclays-mulls-crypto-payments-push-bloomberg",
         "source": "crypto",
         "time": "Fri, 27 Feb 2026 21:54:08 +0000"
-      },
-      {
-        "title": "Anthropic &#39;Retires&#39; Claude Opus 3—Then Gives It a Blog to Reflect on Its Existence",
-        "url": "https://decrypt.co/359425/anthropic-retires-claude-opus-3-blog-reflect-existence",
-        "source": "crypto",
-        "time": "Fri, 27 Feb 2026 20:00:40 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,16 @@
         "time": "3/1/2026, 2:09:24 PM"
       },
       {
-        "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
-        "url": "https://99helpers.com/tools/ad-supported-chat",
+        "title": "Ghostty – Terminal Emulator",
+        "url": "https://ghostty.org/docs",
         "source": "hn",
-        "time": "3/1/2026, 11:49:01 AM"
+        "time": "3/1/2026, 12:13:03 PM"
+      },
+      {
+        "title": "AI is making junior devs useless",
+        "url": "https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/",
+        "source": "hn",
+        "time": "3/1/2026, 1:49:21 PM"
       },
       {
         "title": "Microgpt",
@@ -54,42 +60,36 @@
         "time": "3/1/2026, 1:39:26 AM"
       },
       {
-        "title": "Ghostty – Terminal Emulator",
-        "url": "https://ghostty.org/docs",
+        "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
+        "url": "https://99helpers.com/tools/ad-supported-chat",
         "source": "hn",
-        "time": "3/1/2026, 12:13:03 PM"
-      },
-      {
-        "title": "Decision trees – the unreasonable power of nested decision rules",
-        "url": "https://mlu-explain.github.io/decision-tree/",
-        "source": "hn",
-        "time": "3/1/2026, 8:55:52 AM"
+        "time": "3/1/2026, 11:49:01 AM"
       }
     ],
     "world": [
       {
-        "title": "One killed and 11 injured at Dubai and Abu Dhabi airports as Iran strikes region",
+        "title": "The months-long, US-Israeli mission to find and kill Iran's supreme leader",
+        "url": "https://www.bbc.com/news/articles/c86y5540vnno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 01 Mar 2026 14:45:56 GMT"
+      },
+      {
+        "title": "Nine dead in missile attack on Israel as Iran strikes region",
         "url": "https://www.bbc.com/news/articles/c363zkp1pgxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 01 Mar 2026 12:12:02 GMT"
+        "time": "Sun, 01 Mar 2026 14:56:21 GMT"
       },
       {
-        "title": "Trump's bet on Iranian regime change could be his biggest gamble yet",
-        "url": "https://www.bbc.com/news/articles/cn48dwm818no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "In maps: Strikes across Iran and the Middle East",
+        "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 01 Mar 2026 02:22:32 GMT"
-      },
-      {
-        "title": "Lyse Doucet: This is an extraordinary moment Iran has been preparing for",
-        "url": "https://www.bbc.com/news/articles/c98g91wgdd8o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 01 Mar 2026 06:21:42 GMT"
+        "time": "Sun, 01 Mar 2026 14:34:55 GMT"
       },
       {
         "title": "At least 148 dead after reported strike on school, Iran says",
         "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 01 Mar 2026 11:40:44 GMT"
+        "time": "Sun, 01 Mar 2026 14:40:36 GMT"
       },
       {
         "title": "What we know so far about the US-Israeli attacks and Iran's retaliation",
