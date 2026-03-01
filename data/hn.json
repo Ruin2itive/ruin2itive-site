@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-01T14:17:40.744Z"
+    "built_at": "2026-03-01T15:16:10.693Z"
   },
-  "items": [
-    {
-      "title": "Show HN: ApplyGhost – Auto-apply to jobs with quality, not quantity",
-      "url": "https://applyghost.com",
-      "date": "2026-03-01T14:14:18.000Z"
-    },
-    {
-      "title": "Show HN: The L Project- An analysis of over 1600 job rejection emails that I got",
-      "url": "https://rohankhante.substack.com/p/thank-you-for-your-application-breakdown",
-      "date": "2026-03-01T14:09:44.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
