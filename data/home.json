@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-02-28T23:30:50.319Z",
-  "updated_local": "2/28/2026, 11:30:50 PM",
+  "updated_iso": "2026-03-01T02:07:37.467Z",
+  "updated_local": "3/1/2026, 2:07:37 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "MinIO Is Dead, Long Live MinIO",
-        "url": "https://blog.vonng.com/en/db/minio-resurrect/",
+        "title": "We do not think Anthropic should be designated as a supply chain risk",
+        "url": "https://twitter.com/OpenAI/status/2027846016423321831",
         "source": "hn",
-        "time": "2/28/2026, 9:16:53 PM"
+        "time": "2/28/2026, 9:24:16 PM"
       },
       {
         "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
         "url": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
         "source": "hn",
         "time": "2/28/2026, 10:19:36 PM"
+      },
+      {
+        "title": "MinIO Is Dead, Long Live MinIO",
+        "url": "https://blog.vonng.com/en/db/minio-resurrect/",
+        "source": "hn",
+        "time": "2/28/2026, 9:16:53 PM"
       },
       {
         "title": "Obsidian Sync now has a headless client",
@@ -58,44 +64,38 @@
         "url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
         "source": "hn",
         "time": "2/26/2026, 4:13:47 AM"
-      },
-      {
-        "title": "Building a Minimal Transformer for 10-digit Addition",
-        "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
-        "source": "hn",
-        "time": "2/28/2026, 10:10:21 PM"
       }
     ],
     "world": [
       {
-        "title": "What we know so far: Supreme Leader Khamenei killed, Trump says, as Iran launches retaliatory strikes",
+        "title": "What we know so far: Supreme Leader Khamenei killed, as Iran launches retaliatory strikes",
         "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 28 Feb 2026 22:12:38 GMT"
+        "time": "Sun, 01 Mar 2026 02:00:21 GMT"
       },
       {
-        "title": "Luxury Dubai hotel hit as Iran launches retaliatory strikes across region",
-        "url": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Lyse Doucet: This is an extraordinary moment Iran has been preparing for",
+        "url": "https://www.bbc.com/news/articles/c98g91wgdd8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 28 Feb 2026 18:15:02 GMT"
+        "time": "Sun, 01 Mar 2026 01:45:52 GMT"
+      },
+      {
+        "title": "Ayatollah Khamenei's iron grip on power in Iran comes to an end",
+        "url": "https://www.bbc.com/news/articles/c3gdnpjvj4ko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 01 Mar 2026 01:47:42 GMT"
+      },
+      {
+        "title": "Bowen: A dangerous moment, but US and Israel see opportunity not to be missed",
+        "url": "https://www.bbc.com/news/articles/cn0z9012291o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 01 Mar 2026 02:03:31 GMT"
       },
       {
         "title": "Watch: How US-Israel strikes on Iran unfolded",
         "url": "https://www.bbc.com/news/videos/clyv5rnd8r0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 28 Feb 2026 22:56:36 GMT"
-      },
-      {
-        "title": "US and Israeli strikes on Iran in maps",
-        "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 28 Feb 2026 18:09:59 GMT"
-      },
-      {
-        "title": "Iran retaliation raises questions about US air defences",
-        "url": "https://www.bbc.com/news/articles/cg5nm6v2p4no?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 28 Feb 2026 19:34:00 GMT"
       }
     ],
     "projects": [
