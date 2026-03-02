@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-02T01:58:13.436Z",
-  "updated_local": "3/2/2026, 1:58:13 AM",
+  "updated_iso": "2026-03-02T02:48:09.963Z",
+  "updated_local": "3/2/2026, 2:48:09 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "How to talk to anyone, and why you should",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
-        "source": "hn",
-        "time": "2/24/2026, 8:08:38 PM"
-      },
-      {
         "title": "WebMCP is available for early preview",
         "url": "https://developer.chrome.com/blog/webmcp-epp",
         "source": "hn",
@@ -60,10 +54,16 @@
         "time": "3/1/2026, 12:13:03 PM"
       },
       {
-        "title": "Little Free Library Books",
+        "title": "Little Free Library",
         "url": "https://littlefreelibrary.org/",
         "source": "hn",
         "time": "3/1/2026, 10:18:10 PM"
+      },
+      {
+        "title": "Show HN: Timber – Ollama for classical ML models, 336x faster than Python",
+        "url": "https://github.com/kossisoroyce/timber",
+        "source": "hn",
+        "time": "3/2/2026, 12:57:40 AM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Sun, 01 Mar 2026 23:18:27 GMT"
       },
       {
-        "title": "Oil prices jump after ships attacked near Strait of Hormuz",
+        "title": "Oil prices rise after ships attacked near Strait of Hormuz",
         "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 02 Mar 2026 00:36:19 GMT"
+        "time": "Mon, 02 Mar 2026 02:12:41 GMT"
       }
     ],
     "projects": [
