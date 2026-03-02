@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-02T21:42:11.157Z",
-  "updated_local": "3/2/2026, 9:42:11 PM",
+  "updated_iso": "2026-03-02T22:25:15.773Z",
+  "updated_local": "3/2/2026, 10:25:15 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "US Prosecutors Seek $327K Crypto Forfeiture Over Romance Scam",
+        "url": "https://decrypt.co/359666/us-prosecutors-seek-327k-tether-forfeiture-crypto-romance-scam",
+        "source": "crypto",
+        "time": "Mon, 02 Mar 2026 21:43:57 +0000"
+      },
       {
         "title": "OpenAI Claims Safety &#39;Red Lines&#39; in Pentagon Deal—But Users Aren&#39;t Buying It",
         "url": "https://decrypt.co/359649/openai-claims-safety-red-lines-pentagon-deal",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/359636/trump-cftc-appoints-crypto-lawyer-lead-shrinking-enforcement-team",
         "source": "crypto",
         "time": "Mon, 02 Mar 2026 19:29:35 +0000"
-      },
-      {
-        "title": "Nasdaq Wants a Piece of the Prediction Market Biz Too",
-        "url": "https://decrypt.co/359609/nasdaq-prediction-market-contracts",
-        "source": "crypto",
-        "time": "Mon, 02 Mar 2026 19:10:26 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Welcome (back) to Macintosh",
+        "url": "https://take.surf/2026/03/01/welcome-back-to-macintosh",
+        "source": "hn",
+        "time": "3/2/2026, 9:09:47 PM"
+      },
       {
         "title": "Motorola announces a partnership with GrapheneOS",
         "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
         "source": "hn",
         "time": "3/2/2026, 6:48:07 AM"
-      },
-      {
-        "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
-        "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
-        "source": "hn",
-        "time": "3/2/2026, 2:54:58 PM"
       },
       {
         "title": "New iPad Air, powered by M4",
@@ -54,16 +54,16 @@
         "time": "3/2/2026, 2:11:23 PM"
       },
       {
-        "title": "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
-        "url": "https://govbase.com",
+        "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
+        "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
         "source": "hn",
-        "time": "3/2/2026, 5:08:53 PM"
+        "time": "3/2/2026, 2:54:58 PM"
       },
       {
-        "title": "LFortran compiles fpm",
-        "url": "https://lfortran.org/blog/2026/02/lfortran-compiles-fpm/",
+        "title": "British Columbia to end time changes, adopt year-round daylight time",
+        "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
         "source": "hn",
-        "time": "2/28/2026, 12:12:24 AM"
+        "time": "3/2/2026, 8:30:52 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Mon, 02 Mar 2026 21:27:17 GMT"
       },
       {
+        "title": "'Everything has changed': Missile attacks shatter Dubai's safe haven image",
+        "url": "https://www.bbc.com/news/articles/c875rjd990go?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 02 Mar 2026 22:06:27 GMT"
+      },
+      {
         "title": "In maps: Strikes across Iran and the Middle East",
         "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 02 Mar 2026 18:55:18 GMT"
-      },
-      {
-        "title": "Trump's Iran endgame unclear after mixed messaging on war aims",
-        "url": "https://www.bbc.com/news/articles/cm214xk30vxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 02 Mar 2026 19:16:50 GMT"
       }
     ],
     "projects": [
