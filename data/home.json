@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-03-02T14:53:28.556Z",
-  "updated_local": "3/2/2026, 2:53:28 PM",
+  "updated_iso": "2026-03-02T15:40:14.140Z",
+  "updated_local": "3/2/2026, 3:40:14 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Ethereum Price, BitMine Shares Jump as Tom Lee&#39;s Treasury Reports Latest Buy",
+        "url": "https://decrypt.co/359594/ethereum-price-bitmine-shares-jump-tom-lee-treasury-latest-buy",
+        "source": "crypto",
+        "time": "Mon, 02 Mar 2026 15:34:47 +0000"
+      },
+      {
+        "title": "Strategy Spends $200 Million on Bitcoin, Raises STRC Dividend Yet Again",
+        "url": "https://decrypt.co/359593/strategy-spends-200-million-bitcoin-raises-strc-dividend",
+        "source": "crypto",
+        "time": "Mon, 02 Mar 2026 15:22:28 +0000"
+      },
+      {
+        "title": "Anthropic Claude Outage: AI Chatbot Goes Offline Following Trump, Pentagon Blowup",
+        "url": "https://decrypt.co/359590/anthropic-claude-outage-ai-chatbot-offline-trump-pentagon-blowup",
+        "source": "crypto",
+        "time": "Mon, 02 Mar 2026 14:59:38 +0000"
+      },
       {
         "title": "Morning Minute: Bitcoin Crashes, Rebounds as Iran War Begins",
         "url": "https://decrypt.co/359584/morning-minute-bitcoin-crashes-rebounds-as-iran-war-begins",
@@ -14,27 +32,15 @@
         "url": "https://decrypt.co/359581/altcoins-outperform-bitcoin-with-double-digit-weekly-gains",
         "source": "crypto",
         "time": "Mon, 02 Mar 2026 12:36:29 +0000"
-      },
-      {
-        "title": "Anthropic&#39;s AI Used in Iran Strikes After Trump Moved to Cut Ties: WSJ",
-        "url": "https://decrypt.co/359577/anthropics-ai-iran-strikes-trump-moved-to-cut-ties",
-        "source": "crypto",
-        "time": "Mon, 02 Mar 2026 06:07:13 +0000"
-      },
-      {
-        "title": "Finance Minister Pledges Reform After Crypto Handling Failure in Korea",
-        "url": "https://decrypt.co/359574/finance-minister-pledges-reform-crypto-handling-failure-korea",
-        "source": "crypto",
-        "time": "Mon, 02 Mar 2026 05:33:13 +0000"
-      },
-      {
-        "title": "Hyperliquid&#39;s Token Rises as Weekend Iran Shock Finds Few Open Markets",
-        "url": "https://decrypt.co/359570/hyperliquids-token-iran-shock-few-open-markets",
-        "source": "crypto",
-        "time": "Mon, 02 Mar 2026 04:06:02 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Anthropic Cowork feature creates 10GB VM bundle on macOS without warning",
+        "url": "https://github.com/anthropics/claude-code/issues/22543",
+        "source": "hn",
+        "time": "3/2/2026, 2:21:19 PM"
+      },
       {
         "title": "Motorola announces a partnership with GrapheneOS Foundation",
         "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
@@ -54,16 +60,10 @@
         "time": "3/2/2026, 1:38:02 PM"
       },
       {
-        "title": "AMD Am386 released March 2, 1991",
-        "url": "https://dfarq.homeip.net/amd-am386-released-march-2-1991/",
+        "title": "An Interesting Find: STM32 RDP1 Decryptor",
+        "url": "https://carlossless.io/stm32-rdp1-decryptor/",
         "source": "hn",
-        "time": "3/2/2026, 12:56:46 PM"
-      },
-      {
-        "title": "U.S. science agency moves to restrict foreign scientists from its labs",
-        "url": "https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs",
-        "source": "hn",
-        "time": "3/2/2026, 9:20:06 AM"
+        "time": "3/2/2026, 2:12:18 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Mon, 02 Mar 2026 09:43:33 GMT"
       },
       {
-        "title": "'They hit so hard the house was shaking': Iranians describe impact of US-Israel attacks",
-        "url": "https://www.bbc.com/news/articles/cx2jyv3jp01o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Limited flights leave UAE but disruption continues amid Iran strikes",
+        "url": "https://www.bbc.com/news/articles/c3v7ele1k4zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 02 Mar 2026 13:54:20 GMT"
+        "time": "Mon, 02 Mar 2026 15:00:20 GMT"
       }
     ],
     "projects": [
