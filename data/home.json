@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-02T11:36:01.114Z",
-  "updated_local": "3/2/2026, 11:36:01 AM",
+  "updated_iso": "2026-03-02T12:55:01.400Z",
+  "updated_local": "3/2/2026, 12:55:01 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Altcoins Outperform Bitcoin With Double-Digit Weekly Gains",
+        "url": "https://decrypt.co/359581/altcoins-outperform-bitcoin-with-double-digit-weekly-gains",
+        "source": "crypto",
+        "time": "Mon, 02 Mar 2026 12:36:29 +0000"
+      },
       {
         "title": "Anthropic&#39;s AI Used in Iran Strikes After Trump Moved to Cut Ties: WSJ",
         "url": "https://decrypt.co/359577/anthropics-ai-iran-strikes-trump-moved-to-cut-ties",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/359562/what-the-iran-conflict-means-for-bitcoin-price",
         "source": "crypto",
         "time": "Mon, 02 Mar 2026 00:49:10 +0000"
-      },
-      {
-        "title": "The Best AI Tools That Actually Respect Your Privacy",
-        "url": "https://decrypt.co/359454/best-ai-tools-respect-privacy",
-        "source": "crypto",
-        "time": "Sun, 01 Mar 2026 20:01:02 +0000"
       }
     ],
     "hacker": [
@@ -48,36 +48,36 @@
         "time": "3/2/2026, 9:09:44 AM"
       },
       {
+        "title": "Claude Code LSP",
+        "url": "https://karanbansal.in/blog/claude-code-lsp/",
+        "source": "hn",
+        "time": "3/2/2026, 11:47:16 AM"
+      },
+      {
+        "title": "U.S. science agency moves to restrict foreign scientists from its labs",
+        "url": "https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs",
+        "source": "hn",
+        "time": "3/2/2026, 9:20:06 AM"
+      },
+      {
         "title": "Making Video Games in 2025 (without an engine)",
         "url": "https://www.noelberry.ca/posts/making_games_in_2025/",
         "source": "hn",
         "time": "2/27/2026, 4:38:15 AM"
-      },
-      {
-        "title": "Show HN: Omni – Open-source workplace search and chat, built on Postgres",
-        "url": "https://github.com/getomnico/omni",
-        "source": "hn",
-        "time": "3/2/2026, 8:58:14 AM"
-      },
-      {
-        "title": "How to talk to anyone and why you should",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
-        "source": "hn",
-        "time": "3/2/2026, 7:30:12 AM"
       }
     ],
     "world": [
       {
-        "title": "Iranian drone hit RAF base, Cyprus president says",
+        "title": "Two drones headed to RAF base intercepted, Cyprus says",
         "url": "https://www.bbc.com/news/articles/cm2r0q310e3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 02 Mar 2026 10:37:36 GMT"
+        "time": "Mon, 02 Mar 2026 12:07:13 GMT"
       },
       {
         "title": "Oil prices jump and shares fall as conflict escalates",
         "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 02 Mar 2026 09:56:32 GMT"
+        "time": "Mon, 02 Mar 2026 12:51:40 GMT"
       },
       {
         "title": "Video appears to show US F-15 fighter jet crashing in Kuwait",
@@ -92,10 +92,10 @@
         "time": "Sun, 01 Mar 2026 22:19:03 GMT"
       },
       {
-        "title": "Iran's regime is still intact - the coming days will show if it can hold out",
-        "url": "https://www.bbc.com/news/articles/cx2lgvg5rl1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK will allow US to use bases to strike Iranian missile sites, PM says",
+        "url": "https://www.bbc.com/news/articles/cqj9g11p1ezo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 01 Mar 2026 18:05:06 GMT"
+        "time": "Mon, 02 Mar 2026 12:23:50 GMT"
       }
     ],
     "projects": [
