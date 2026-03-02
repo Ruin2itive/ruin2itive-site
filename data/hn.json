@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-02T19:31:46.825Z"
+    "built_at": "2026-03-02T20:28:36.525Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "The global chokepoint in the Strait of Hormuz",
+      "url": "https://www.reuters.com/graphics/IRAN-CRISIS/MAPS/znpnmelervl/",
+      "date": "2026-03-02T20:27:22.000Z"
+    },
+    {
+      "title": "Show HN: CrowPay – add x402 in a few lines, let AI agents pay per request",
+      "url": "https://www.crowpay.ai/",
+      "date": "2026-03-02T20:27:04.000Z"
+    }
+  ]
 }
