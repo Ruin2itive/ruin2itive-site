@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-02T19:36:08.313Z",
-  "updated_local": "3/2/2026, 7:36:08 PM",
+  "updated_iso": "2026-03-02T20:35:40.035Z",
+  "updated_local": "3/2/2026, 8:35:40 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Treasury Firm ProCap Adds $31 Million in BTC as Stock Buybacks Grow",
+        "url": "https://decrypt.co/359646/bitcoin-treasury-firm-procap-adds-31-million-stock-buybacks-grow",
+        "source": "crypto",
+        "time": "Mon, 02 Mar 2026 19:57:49 +0000"
+      },
       {
         "title": "Trump’s CFTC Appoints Crypto Lawyer to Lead Shrinking Enforcement Team",
         "url": "https://decrypt.co/359636/trump-cftc-appoints-crypto-lawyer-lead-shrinking-enforcement-team",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/359626/bitcoin-spikes-near-70k-us-operations-iran",
         "source": "crypto",
         "time": "Mon, 02 Mar 2026 17:52:30 +0000"
-      },
-      {
-        "title": "Calls Mount for UK to Ban Political Donations Made in Crypto",
-        "url": "https://decrypt.co/359598/calls-mount-uk-ban-political-donations-crypto",
-        "source": "crypto",
-        "time": "Mon, 02 Mar 2026 16:47:26 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Show HN: uBlock filter list to blur all Instagram Reels",
+        "url": "https://gist.github.com/shraiwi/009c652da6ce8c99a6e1e0c86fe66886",
+        "source": "hn",
+        "time": "3/2/2026, 7:50:32 PM"
+      },
       {
         "title": "Motorola announces a partnership with GrapheneOS Foundation",
         "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
@@ -42,16 +48,10 @@
         "time": "3/2/2026, 6:48:07 AM"
       },
       {
-        "title": "First-ever in-utero stem cell therapy for fetal spina bifida repair is safe",
+        "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
         "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
         "source": "hn",
         "time": "3/2/2026, 2:54:58 PM"
-      },
-      {
-        "title": "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
-        "url": "https://govbase.com",
-        "source": "hn",
-        "time": "3/2/2026, 5:08:53 PM"
       },
       {
         "title": "New iPad Air, powered by M4",
@@ -60,10 +60,10 @@
         "time": "3/2/2026, 2:11:23 PM"
       },
       {
-        "title": "Bars close and hundreds lose jobs as US firm buys Brewdog in £33M deal",
-        "url": "https://www.bbc.com/news/articles/c05v0p1d0peo",
+        "title": "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
+        "url": "https://govbase.com",
         "source": "hn",
-        "time": "3/2/2026, 6:29:26 PM"
+        "time": "3/2/2026, 5:08:53 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Mon, 02 Mar 2026 18:48:02 GMT"
       },
       {
-        "title": "Will petrol and diesel prices go up now?",
-        "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "What is behind the strategy to take out Iran's leadership?",
+        "url": "https://www.bbc.com/news/articles/cly8gqj9r6go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 02 Mar 2026 13:44:51 GMT"
-      },
-      {
-        "title": "Trump's Iran endgame unclear after mixed messaging on war aims",
-        "url": "https://www.bbc.com/news/articles/cm214xk30vxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 02 Mar 2026 19:16:50 GMT"
+        "time": "Mon, 02 Mar 2026 19:52:20 GMT"
       },
       {
         "title": "In maps: Strikes across Iran and the Middle East",
         "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 02 Mar 2026 18:55:18 GMT"
+      },
+      {
+        "title": "Trump's Iran endgame unclear after mixed messaging on war aims",
+        "url": "https://www.bbc.com/news/articles/cm214xk30vxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 02 Mar 2026 19:16:50 GMT"
       }
     ],
     "projects": [
