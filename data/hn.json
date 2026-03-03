@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-03T17:37:22.579Z"
+    "built_at": "2026-03-03T18:37:49.159Z"
   },
-  "items": [
-    {
-      "title": "What AI-justified mass layoffs reveal about what we were never owed",
-      "url": "https://codeplusconduct.substack.com/p/grateful-for-your-contributions",
-      "date": "2026-03-03T17:36:20.000Z"
-    },
-    {
-      "title": "Show HN: I rewrote an inventory app 4 times over 5 years before releasing v1",
-      "url": "https://upzonehq.com/",
-      "date": "2026-03-03T17:36:10.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
