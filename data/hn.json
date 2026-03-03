@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-03T07:37:20.031Z"
+    "built_at": "2026-03-03T08:31:55.395Z"
   },
-  "items": [
-    {
-      "title": "Arm's Cortex X925: Reaching Desktop Performance",
-      "url": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
-      "date": "2026-03-03T07:34:47.000Z"
-    },
-    {
-      "title": "Odd Lots, some guests are more perfect than others",
-      "url": "https://networked.substack.com/p/on-odd-lots-some-guests-are-more",
-      "date": "2026-03-03T07:32:46.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
