@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-03T07:05:23.947Z",
-  "updated_local": "3/3/2026, 7:05:23 AM",
+  "updated_iso": "2026-03-03T07:40:48.512Z",
+  "updated_local": "3/3/2026, 7:40:48 AM",
   "sections": {
     "crypto": [
       {
@@ -48,12 +48,6 @@
         "time": "3/2/2026, 8:30:52 PM"
       },
       {
-        "title": "Daily Driving GrapheneOS",
-        "url": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
-        "source": "hn",
-        "time": "3/3/2026, 5:18:24 AM"
-      },
-      {
         "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
         "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
         "source": "hn",
@@ -64,20 +58,26 @@
         "url": "https://mitxela.com/projects/screwcounter",
         "source": "hn",
         "time": "2/28/2026, 10:41:33 PM"
+      },
+      {
+        "title": "Daily Driving GrapheneOS",
+        "url": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
+        "source": "hn",
+        "time": "3/3/2026, 5:18:24 AM"
       }
     ],
     "world": [
-      {
-        "title": "Why did US and Israel attack Iran and how long could the war last?",
-        "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 02 Mar 2026 21:36:19 GMT"
-      },
       {
         "title": "Chris Mason: Starmer at odds with Trump in biggest disagreement yet",
         "url": "https://www.bbc.com/news/articles/cy4wgpdllleo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 03 Mar 2026 04:59:39 GMT"
+      },
+      {
+        "title": "Why did US and Israel attack Iran and how long could the war last?",
+        "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 02 Mar 2026 21:36:19 GMT"
       },
       {
         "title": "Texas Trump supporters react to US strikes on Iran",
