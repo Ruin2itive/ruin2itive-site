@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-03T02:51:04.636Z",
-  "updated_local": "3/3/2026, 2:51:04 AM",
+  "updated_iso": "2026-03-03T04:44:25.888Z",
+  "updated_local": "3/3/2026, 4:44:25 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Court Ruling Raises Risk of Nevada Trading Halt for Kalshi, Polymarket",
+        "url": "https://decrypt.co/359769/court-ruling-raises-risk-nevada-trading-halt-kalshi-polymarket",
+        "source": "crypto",
+        "time": "Tue, 03 Mar 2026 04:33:21 +0000"
+      },
       {
         "title": "Inside the Image AI Leap: How Google and ByteDance’s Latest Models Stack Up",
         "url": "https://decrypt.co/359700/image-ai-leap-google-bytedances-latest-models",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/359691/tether-anchorage-deloitte-usat-stablecoin-reserve-report",
         "source": "crypto",
         "time": "Mon, 02 Mar 2026 22:38:28 +0000"
-      },
-      {
-        "title": "Scientists Turn Milk Protein Into a Biodegradable Plastic Alternative—Here&#39;s How",
-        "url": "https://decrypt.co/359669/scientists-turn-milk-protein-biodegradable-plastic-alternative",
-        "source": "crypto",
-        "time": "Mon, 02 Mar 2026 22:29:44 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "The workers behind Meta’s smart glasses can see everything",
+        "title": "A hidden workforce behind Meta’s new smart glasses",
         "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
         "source": "hn",
         "time": "3/2/2026, 10:32:35 PM"
       },
       {
-        "title": "Zuckerberg's internal emails rendered as Facebook Messenger",
-        "url": "https://zuckmail.vercel.app/",
+        "title": "British Columbia is permanently adopting daylight time",
+        "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
         "source": "hn",
-        "time": "3/3/2026, 1:38:35 AM"
+        "time": "3/2/2026, 8:30:52 PM"
       },
       {
         "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
@@ -54,16 +54,16 @@
         "time": "3/2/2026, 9:23:40 PM"
       },
       {
+        "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+        "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+        "source": "hn",
+        "time": "3/3/2026, 1:12:30 AM"
+      },
+      {
         "title": "Seed of Might Color Correction Process (2023) [pdf]",
         "url": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
         "source": "hn",
         "time": "3/2/2026, 10:49:47 PM"
-      },
-      {
-        "title": "Closure of the Weatheradio Service in Canada",
-        "url": "https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/",
-        "source": "hn",
-        "time": "3/2/2026, 11:03:59 PM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Mon, 02 Mar 2026 18:48:02 GMT"
       },
       {
+        "title": "Texas Trump supporters react to US strikes on Iran",
+        "url": "https://www.bbc.com/news/videos/c3wlzn25yj9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 03 Mar 2026 01:35:56 GMT"
+      },
+      {
         "title": "What is behind the strategy to take out Iran's leadership?",
         "url": "https://www.bbc.com/news/articles/cly8gqj9r6go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 02 Mar 2026 18:55:18 GMT"
-      },
-      {
-        "title": "Watch: The third day of the US-Israeli war with Iran",
-        "url": "https://www.bbc.com/news/videos/c23zrpvln04o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 02 Mar 2026 23:21:16 GMT"
       }
     ],
     "projects": [
