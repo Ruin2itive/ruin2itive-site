@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-03T08:31:55.395Z"
+    "built_at": "2026-03-03T09:34:08.430Z"
   },
-  "error": "fetch failed",
-  "items": []
+  "items": [
+    {
+      "title": "What is OpenAI going to do when the truth comes out?",
+      "url": "https://www.platformer.news/openai-pentagon-surveillance-drones-backlash/",
+      "date": "2026-03-03T09:32:13.000Z"
+    },
+    {
+      "title": "Ask HN: How are you structuring Markdown-based context for AI coding agents?",
+      "url": "https://news.ycombinator.com/item?id=47230193",
+      "date": "2026-03-03T09:32:06.000Z"
+    }
+  ]
 }
