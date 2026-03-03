@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-03T04:07:40.753Z"
+    "built_at": "2026-03-03T05:43:07.151Z"
   },
-  "error": "fetch failed",
-  "items": []
+  "items": [
+    {
+      "title": "Claude's Constitution and Asimov's Laws",
+      "url": "https://yadin.com/notes/asimov/",
+      "date": "2026-03-03T05:40:06.000Z"
+    },
+    {
+      "title": "Ask HN: Who needs contributors to EU open source?",
+      "url": "https://news.ycombinator.com/item?id=47228551",
+      "date": "2026-03-03T05:38:53.000Z"
+    }
+  ]
 }
