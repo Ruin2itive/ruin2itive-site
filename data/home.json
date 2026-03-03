@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-03T11:40:16.218Z",
-  "updated_local": "3/3/2026, 11:40:16 AM",
+  "updated_iso": "2026-03-03T12:54:27.103Z",
+  "updated_local": "3/3/2026, 12:54:27 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Four Headwinds Stalling Bitcoin&#39;s $70K Breakout",
+        "url": "https://decrypt.co/359786/four-headwinds-stalling-bitcoins-70k-breakout",
+        "source": "crypto",
+        "time": "Tue, 03 Mar 2026 11:48:25 +0000"
+      },
       {
         "title": "Circle Stock Extends Double-Digit Gains Amid Broader Crypto Rally",
         "url": "https://decrypt.co/359772/circle-stock-extends-double-digit-gains-crypto-rally",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/359697/human-brain-cells-play-doom-cortical-labs-experiment",
         "source": "crypto",
         "time": "Tue, 03 Mar 2026 01:27:22 +0000"
-      },
-      {
-        "title": "Senate Advances Housing Bill With CBDC Ban, Draws White House Backing",
-        "url": "https://decrypt.co/359695/senate-advances-housing-bill-cbdc-ban-draws-white-house",
-        "source": "crypto",
-        "time": "Tue, 03 Mar 2026 00:43:27 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "The beauty and terror of modding Windows",
+        "url": "https://windowsread.me/p/windhawk-explained",
+        "source": "hn",
+        "time": "3/3/2026, 10:49:05 AM"
+      },
+      {
+        "title": "The Xkcd thing, now interactive",
+        "url": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
+        "source": "hn",
+        "time": "3/3/2026, 10:56:52 AM"
+      },
       {
         "title": "Meta’s AI smart glasses and data privacy concerns",
         "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
@@ -52,21 +64,15 @@
         "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
         "source": "hn",
         "time": "3/2/2026, 8:30:52 PM"
-      },
-      {
-        "title": "The beauty and terror of modding Windows",
-        "url": "https://windowsread.me/p/windhawk-explained",
-        "source": "hn",
-        "time": "3/3/2026, 10:49:05 AM"
-      },
-      {
-        "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
-        "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
-        "source": "hn",
-        "time": "3/3/2026, 1:12:30 AM"
       }
     ],
     "world": [
+      {
+        "title": "Gas and oil prices soar and shares tumble as crucial shipping lane threatened",
+        "url": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 03 Mar 2026 11:52:54 GMT"
+      },
       {
         "title": "Chris Mason: Starmer at odds with Trump in biggest disagreement yet",
         "url": "https://www.bbc.com/news/articles/cy4wgpdllleo?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +86,16 @@
         "time": "Tue, 03 Mar 2026 07:49:48 GMT"
       },
       {
-        "title": "Gas and oil prices soar and shares tumble as crucial shipping lane threatened",
-        "url": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Mother says Sarah Everard added to beauty of world",
+        "url": "https://www.bbc.com/news/articles/cm28xp0w7v3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 03 Mar 2026 11:01:15 GMT"
+        "time": "Tue, 03 Mar 2026 12:34:47 GMT"
       },
       {
-        "title": "Watch: How the US-Israel war with Iran is jeopardising shipping",
-        "url": "https://www.bbc.com/news/videos/cvgjnv2y90wo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Bafta host Alan Cumming apologises after 'trauma-triggering' show",
+        "url": "https://www.bbc.com/news/articles/cg5ng48qgn9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 02 Mar 2026 21:21:05 GMT"
-      },
-      {
-        "title": "I can understand why women don't trust the police, says Met chief on Sarah Everard anniversary",
-        "url": "https://www.bbc.com/news/articles/cdr2exyvyxpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 03 Mar 2026 04:01:26 GMT"
+        "time": "Tue, 03 Mar 2026 11:16:36 GMT"
       }
     ],
     "projects": [
