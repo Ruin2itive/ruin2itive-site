@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-03T15:54:43.173Z",
-  "updated_local": "3/3/2026, 3:54:43 PM",
+  "updated_iso": "2026-03-03T16:44:13.782Z",
+  "updated_local": "3/3/2026, 4:44:13 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Miner MARA Says It May Sell BTC Holdings in Strategy Shift",
+        "url": "https://decrypt.co/359806/bitcoin-miner-mara-may-sell-btc-strategy-shift",
+        "source": "crypto",
+        "time": "Tue, 03 Mar 2026 16:37:52 +0000"
+      },
+      {
+        "title": "JPMorgan CEO Jamie Dimon Slams Stablecoin Yield Demands: &#39;The Public Will Pay&#39;",
+        "url": "https://decrypt.co/359799/jpmorgan-ceo-jamie-dimon-slams-stablecoin-yield-demands",
+        "source": "crypto",
+        "time": "Tue, 03 Mar 2026 15:58:36 +0000"
+      },
       {
         "title": "Trump Brothers&#39; American Bitcoin Boosts Mining Capacity Following Q4 Loss",
         "url": "https://decrypt.co/359802/trump-brothers-american-bitcoin-boosts-mining-capacity-q4-loss",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/359789/iranian-exchange-outflows-spiked-to-10-3m-amid-airstrikes-chainalysis",
         "source": "crypto",
         "time": "Tue, 03 Mar 2026 13:18:26 +0000"
-      },
-      {
-        "title": "Morning Minute: The Banks Are Coming for Crypto Custody",
-        "url": "https://decrypt.co/359790/morning-minute-the-banks-are-coming-for-crypto-custody",
-        "source": "crypto",
-        "time": "Tue, 03 Mar 2026 13:00:12 +0000"
-      },
-      {
-        "title": "Four Headwinds Stalling Bitcoin&#39;s $70K Breakout",
-        "url": "https://decrypt.co/359786/four-headwinds-stalling-bitcoins-70k-breakout",
-        "source": "crypto",
-        "time": "Tue, 03 Mar 2026 11:48:25 +0000"
       }
     ],
     "hacker": [
@@ -48,10 +48,10 @@
         "time": "3/3/2026, 12:13:40 PM"
       },
       {
-        "title": "Don't Become an Engineering Manager",
-        "url": "https://newsletter.manager.dev/p/dont-become-an-engineering-manager",
+        "title": "My first science video in 3 years (Pysics Girl)",
+        "url": "https://www.youtube.com/watch?v=B3m3AMRlYfc",
         "source": "hn",
-        "time": "3/3/2026, 2:19:14 PM"
+        "time": "3/3/2026, 2:42:30 PM"
       },
       {
         "title": "The Xkcd thing, now interactive",
@@ -60,24 +60,30 @@
         "time": "3/3/2026, 10:56:52 AM"
       },
       {
-        "title": "Meta’s AI smart glasses and data privacy concerns",
-        "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+        "title": "Claude's Cycles: Claude Opus 4.6 solves a problem posed by Don Knuth [pdf]",
+        "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
         "source": "hn",
-        "time": "3/2/2026, 10:32:35 PM"
+        "time": "3/3/2026, 10:57:42 AM"
       }
     ],
     "world": [
       {
-        "title": "UK considers sending Royal Navy warship to Cyprus",
+        "title": "UK to send Royal Navy warship HMS Dragon to Cyprus",
         "url": "https://www.bbc.com/news/articles/c4g40yp2p13o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 03 Mar 2026 15:41:22 GMT"
+        "time": "Tue, 03 Mar 2026 16:33:17 GMT"
       },
       {
         "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
         "url": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 03 Mar 2026 14:49:05 GMT"
+        "time": "Tue, 03 Mar 2026 16:41:06 GMT"
+      },
+      {
+        "title": "Battered and isolated, Hezbollah drags Lebanon into another war",
+        "url": "https://www.bbc.com/news/articles/c4gq3ykg7pvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 03 Mar 2026 15:42:28 GMT"
       },
       {
         "title": "Watch: Footage from across Iran shows scale of strikes",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cgml4e7p3x2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 03 Mar 2026 14:25:41 GMT"
-      },
-      {
-        "title": "Why Europe's leaders have struggled to speak as one on Iran",
-        "url": "https://www.bbc.com/news/articles/cn8z5zvlz5yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 03 Mar 2026 11:22:20 GMT"
       }
     ],
     "projects": [
