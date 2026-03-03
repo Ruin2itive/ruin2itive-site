@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-03T12:38:32.665Z"
+    "built_at": "2026-03-03T13:54:37.211Z"
   },
-  "items": [
-    {
-      "title": "Building an Autonomous SRE Team with AI Agents: A 5-Day Experiment",
-      "url": "https://medium.com/@beniamin.calota/building-an-autonomous-sre-team-with-ai-agents-a-5-day-experiment-e3644e5a7675",
-      "date": "2026-03-03T12:38:05.000Z"
-    },
-    {
-      "title": "Upgrading OpenClaw to Latest on Jetson Nano with Node 22",
-      "url": "https://brtkwr.com/posts/2026-03-02-upgrading-openclaw-to-latest-node22-on-jetson-nano/",
-      "date": "2026-03-03T12:35:26.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
