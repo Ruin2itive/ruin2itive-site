@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-02T23:35:11.640Z",
-  "updated_local": "3/2/2026, 11:35:11 PM",
+  "updated_iso": "2026-03-03T02:00:40.146Z",
+  "updated_local": "3/3/2026, 2:00:40 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Human Brain Cells Learn to Play Doom in Cortical Labs Experiment",
+        "url": "https://decrypt.co/359697/human-brain-cells-play-doom-cortical-labs-experiment",
+        "source": "crypto",
+        "time": "Tue, 03 Mar 2026 01:27:22 +0000"
+      },
+      {
+        "title": "Senate Advances Housing Bill With CBDC Ban, Draws White House Backing",
+        "url": "https://decrypt.co/359695/senate-advances-housing-bill-cbdc-ban-draws-white-house",
+        "source": "crypto",
+        "time": "Tue, 03 Mar 2026 00:43:27 +0000"
+      },
       {
         "title": "Tether, Anchorage Tap Deloitte for First USAT Stablecoin Reserve Report",
         "url": "https://decrypt.co/359691/tether-anchorage-deloitte-usat-stablecoin-reserve-report",
@@ -20,50 +32,38 @@
         "url": "https://decrypt.co/359666/us-prosecutors-seek-327k-tether-forfeiture-crypto-romance-scam",
         "source": "crypto",
         "time": "Mon, 02 Mar 2026 21:43:57 +0000"
-      },
-      {
-        "title": "OpenAI Claims Safety &#39;Red Lines&#39; in Pentagon Deal—But Users Aren&#39;t Buying It",
-        "url": "https://decrypt.co/359649/openai-claims-safety-red-lines-pentagon-deal",
-        "source": "crypto",
-        "time": "Mon, 02 Mar 2026 21:16:39 +0000"
-      },
-      {
-        "title": "Supreme Court Declines AI Copyright Case, Extending Legal Setback for AI-Generated Works",
-        "url": "https://decrypt.co/359661/supreme-court-declines-ai-copyright-case",
-        "source": "crypto",
-        "time": "Mon, 02 Mar 2026 21:03:45 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "The workers behind Meta's smart glasses can see everything",
+        "title": "The workers behind Meta’s smart glasses can see everything",
         "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
         "source": "hn",
         "time": "3/2/2026, 10:32:35 PM"
+      },
+      {
+        "title": "Seed of Might Color Correction Process (2023) [pdf]",
+        "url": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
+        "source": "hn",
+        "time": "3/2/2026, 10:49:47 PM"
+      },
+      {
+        "title": "Closure of the Weatheradio Service in Canada",
+        "url": "https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/",
+        "source": "hn",
+        "time": "3/2/2026, 11:03:59 PM"
+      },
+      {
+        "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+        "url": "https://www.ntik.me/posts/voice-agent",
+        "source": "hn",
+        "time": "3/2/2026, 9:23:40 PM"
       },
       {
         "title": "Welcome (back) to Macintosh",
         "url": "https://take.surf/2026/03/01/welcome-back-to-macintosh",
         "source": "hn",
         "time": "3/2/2026, 9:09:47 PM"
-      },
-      {
-        "title": "Dragon Ball Color Correction Process [pdf]",
-        "url": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
-        "source": "hn",
-        "time": "3/2/2026, 10:49:47 PM"
-      },
-      {
-        "title": "Closure of the Weatherradio Service in Canada",
-        "url": "https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/",
-        "source": "hn",
-        "time": "3/2/2026, 11:03:59 PM"
-      },
-      {
-        "title": "British Columbia to end time changes, adopt year-round daylight time",
-        "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
-        "source": "hn",
-        "time": "3/2/2026, 8:30:52 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Mon, 02 Mar 2026 21:27:17 GMT"
       },
       {
-        "title": "'Everything has changed': Missile attacks shatter Dubai's safe haven image",
-        "url": "https://www.bbc.com/news/articles/c875rjd990go?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 02 Mar 2026 22:06:27 GMT"
-      },
-      {
         "title": "In maps: Strikes across Iran and the Middle East",
         "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 02 Mar 2026 18:55:18 GMT"
+      },
+      {
+        "title": "Refugee status becomes temporary in asylum shake-up",
+        "url": "https://www.bbc.com/news/articles/cp32ddzdjxko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 02 Mar 2026 17:27:47 GMT"
       }
     ],
     "projects": [
