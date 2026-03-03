@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-03T02:00:40.146Z",
-  "updated_local": "3/3/2026, 2:00:40 AM",
+  "updated_iso": "2026-03-03T02:51:04.636Z",
+  "updated_local": "3/3/2026, 2:51:04 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Inside the Image AI Leap: How Google and ByteDance’s Latest Models Stack Up",
+        "url": "https://decrypt.co/359700/image-ai-leap-google-bytedances-latest-models",
+        "source": "crypto",
+        "time": "Tue, 03 Mar 2026 02:14:28 +0000"
+      },
       {
         "title": "Human Brain Cells Learn to Play Doom in Cortical Labs Experiment",
         "url": "https://decrypt.co/359697/human-brain-cells-play-doom-cortical-labs-experiment",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/359669/scientists-turn-milk-protein-biodegradable-plastic-alternative",
         "source": "crypto",
         "time": "Mon, 02 Mar 2026 22:29:44 +0000"
-      },
-      {
-        "title": "US Prosecutors Seek $327K Crypto Forfeiture Over Romance Scam",
-        "url": "https://decrypt.co/359666/us-prosecutors-seek-327k-tether-forfeiture-crypto-romance-scam",
-        "source": "crypto",
-        "time": "Mon, 02 Mar 2026 21:43:57 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,18 @@
         "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
         "source": "hn",
         "time": "3/2/2026, 10:32:35 PM"
+      },
+      {
+        "title": "Zuckerberg's internal emails rendered as Facebook Messenger",
+        "url": "https://zuckmail.vercel.app/",
+        "source": "hn",
+        "time": "3/3/2026, 1:38:35 AM"
+      },
+      {
+        "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+        "url": "https://www.ntik.me/posts/voice-agent",
+        "source": "hn",
+        "time": "3/2/2026, 9:23:40 PM"
       },
       {
         "title": "Seed of Might Color Correction Process (2023) [pdf]",
@@ -52,18 +64,6 @@
         "url": "https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/",
         "source": "hn",
         "time": "3/2/2026, 11:03:59 PM"
-      },
-      {
-        "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
-        "url": "https://www.ntik.me/posts/voice-agent",
-        "source": "hn",
-        "time": "3/2/2026, 9:23:40 PM"
-      },
-      {
-        "title": "Welcome (back) to Macintosh",
-        "url": "https://take.surf/2026/03/01/welcome-back-to-macintosh",
-        "source": "hn",
-        "time": "3/2/2026, 9:09:47 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Mon, 02 Mar 2026 18:55:18 GMT"
       },
       {
-        "title": "Refugee status becomes temporary in asylum shake-up",
-        "url": "https://www.bbc.com/news/articles/cp32ddzdjxko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: The third day of the US-Israeli war with Iran",
+        "url": "https://www.bbc.com/news/videos/c23zrpvln04o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 02 Mar 2026 17:27:47 GMT"
+        "time": "Mon, 02 Mar 2026 23:21:16 GMT"
       }
     ],
     "projects": [
