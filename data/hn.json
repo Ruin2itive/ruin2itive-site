@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-04T07:33:28.424Z"
+    "built_at": "2026-03-04T08:30:56.268Z"
   },
-  "items": [
-    {
-      "title": "Au Revoir, Eleventy",
-      "url": "https://hamatti.org/posts/au-revoir-eleventy/",
-      "date": "2026-03-04T07:26:49.000Z"
-    },
-    {
-      "title": "RFC 9849. TLS Encrypted Client Hello",
-      "url": "https://www.rfc-editor.org/rfc/rfc9849.html",
-      "date": "2026-03-04T07:25:24.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
