@@ -4,18 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-04T06:37:23.431Z"
+    "built_at": "2026-03-04T07:33:28.424Z"
   },
   "items": [
     {
-      "title": "npmx: a fast, modern browser for the npm registry",
-      "url": "https://npmx.dev/blog/alpha-release",
-      "date": "2026-03-04T06:34:19.000Z"
+      "title": "Au Revoir, Eleventy",
+      "url": "https://hamatti.org/posts/au-revoir-eleventy/",
+      "date": "2026-03-04T07:26:49.000Z"
     },
     {
-      "title": "Feature led building vs. user led building",
-      "url": "https://salah.louizy.com/blog/feature-led-building-vs-user-led-building/",
-      "date": "2026-03-04T06:32:05.000Z"
+      "title": "RFC 9849. TLS Encrypted Client Hello",
+      "url": "https://www.rfc-editor.org/rfc/rfc9849.html",
+      "date": "2026-03-04T07:25:24.000Z"
     }
   ]
 }
