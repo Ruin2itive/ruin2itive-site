@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-04T18:37:21.996Z"
+    "built_at": "2026-03-04T19:32:56.261Z"
   },
-  "items": [
-    {
-      "title": "Rob Grant Obituary on Ganymede and Titan",
-      "url": "https://www.ganymede.tv/2026/03/obituary-rob-grant/",
-      "date": "2026-03-04T18:36:33.000Z"
-    },
-    {
-      "title": "Agent-experience: visual reference to patterns, surfaces, and infrastructure",
-      "url": "https://github.com/ygwyg/agent-experience",
-      "date": "2026-03-04T18:36:01.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
