@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-04T11:38:42.739Z",
-  "updated_local": "3/4/2026, 11:38:42 AM",
+  "updated_iso": "2026-03-04T12:53:20.803Z",
+  "updated_local": "3/4/2026, 12:53:20 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Kraken Secures Access to Fed’s Core Payment Systems: WSJ",
+        "url": "https://decrypt.co/359913/kraken-secures-access-to-feds-core-payment-systems-wsj",
+        "source": "crypto",
+        "time": "Wed, 04 Mar 2026 12:34:30 +0000"
+      },
+      {
+        "title": "Bitcoin Pushes Past $71K, But Can the Rally Last?",
+        "url": "https://decrypt.co/359910/bitcoin-pushes-past-71k-but-can-the-rally-last",
+        "source": "crypto",
+        "time": "Wed, 04 Mar 2026 11:55:53 +0000"
+      },
       {
         "title": "Polymarket Pulls Nuclear Detonation Market Following Public Backlash",
         "url": "https://decrypt.co/359897/polymarket-pulls-nuclear-detonation-market-following-public-backlash",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/359893/corporates-exchanges-stake-ethereum-instead-of-selling",
         "source": "crypto",
         "time": "Wed, 04 Mar 2026 03:13:11 +0000"
-      },
-      {
-        "title": "AI Models Prefer Bitcoin Over Fiat and Stablecoins, Study Finds",
-        "url": "https://decrypt.co/359890/ai-models-prefer-bitcoin-over-fiat-stablecoins-study",
-        "source": "crypto",
-        "time": "Wed, 04 Mar 2026 01:48:45 +0000"
-      },
-      {
-        "title": "Colombian Court Rejects Appeal for AI Writing, Then Gets Flagged By Its Own AI Detector",
-        "url": "https://decrypt.co/359869/colombian-court-rejects-appeal-for-ai-writing-then-gets-flagged-by-its-own-ai-detector",
-        "source": "crypto",
-        "time": "Wed, 04 Mar 2026 00:46:45 +0000"
       }
     ],
     "hacker": [
@@ -60,10 +60,10 @@
         "time": "3/1/2026, 1:47:36 PM"
       },
       {
-        "title": "Better JIT for Postgres",
-        "url": "https://github.com/vladich/pg_jitter",
+        "title": "Bet on German Train Delays",
+        "url": "https://bahn.bet",
         "source": "hn",
-        "time": "3/4/2026, 6:17:10 AM"
+        "time": "3/4/2026, 9:42:20 AM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "UK stock market calms but oil prices rise over fears Iran war may drag on",
         "url": "https://www.bbc.com/news/articles/cwy884ekn0jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 04 Mar 2026 10:12:13 GMT"
+        "time": "Wed, 04 Mar 2026 12:35:17 GMT"
       },
       {
         "title": "Watch: Footage from across Iran shows scale of strikes",
@@ -95,7 +95,7 @@
         "title": "'No to war': Pedro Sánchez hits back as Trump threatens full trade embargo on Spain",
         "url": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 04 Mar 2026 11:28:03 GMT"
+        "time": "Wed, 04 Mar 2026 12:30:50 GMT"
       }
     ],
     "projects": [
