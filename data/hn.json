@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-04T04:02:20.234Z"
+    "built_at": "2026-03-04T05:38:37.796Z"
   },
-  "items": [
-    {
-      "title": "Pipe: Pubsub without the infrastructure. stream data between machines using SSH",
-      "url": "https://pipe.pico.sh/",
-      "date": "2026-03-04T03:55:06.000Z"
-    },
-    {
-      "title": "Show HN: The Janitor – A 58MB Rust static analyzer to block AI-generated PR slop",
-      "url": "https://github.com/GhrammR/the-janitor",
-      "date": "2026-03-04T03:55:00.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
