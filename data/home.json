@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-05T18:14:34.772Z",
-  "updated_local": "3/5/2026, 6:14:34 PM",
+  "updated_iso": "2026-03-05T19:50:38.143Z",
+  "updated_local": "3/5/2026, 7:50:38 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Launches GPT-5.4 Days Just After Last Version as &#39;QuitGPT&#39; Exodus Gains Steam",
+        "url": "https://decrypt.co/360148/openai-launches-gpt-5-4-quitgpt-exodus-gains-steam",
+        "source": "crypto",
+        "time": "Thu, 05 Mar 2026 19:38:49 +0000"
+      },
       {
         "title": "ZeroHash Applies for National Trust Bank Charter as OCC Crypto Pipeline Grows",
         "url": "https://decrypt.co/360095/zerohash-applies-national-trust-bank-charter-occ-crypto-pipeline-grows",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/360120/federal-contractors-son-arrested-charged-with-stealing-46-million-from-us-crypto-stockpile",
         "source": "crypto",
         "time": "Thu, 05 Mar 2026 16:08:42 +0000"
-      },
-      {
-        "title": "Core Scientific Secures Up to $1 Billion From Morgan Stanley for Pivot From Bitcoin Mining to AI",
-        "url": "https://decrypt.co/360117/core-scientifics-secures-1-billion-morgan-stanley-pivot-bitcoin-ai",
-        "source": "crypto",
-        "time": "Thu, 05 Mar 2026 15:33:08 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "3/5/2026, 4:04:54 PM"
       },
       {
-        "title": "Show HN: Jido 2.0, Elixir Agent Framework",
-        "url": "https://jido.run/blog/jido-2-0-is-here",
+        "title": "GPT-5.4",
+        "url": "https://openai.com/index/introducing-gpt-5-4/",
         "source": "hn",
-        "time": "3/5/2026, 3:48:52 PM"
+        "time": "3/5/2026, 6:08:10 PM"
       },
       {
-        "title": "Good software knows when to stop",
-        "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
+        "title": "The Brand Age",
+        "url": "https://paulgraham.com/brandage.html",
         "source": "hn",
-        "time": "3/5/2026, 1:52:43 PM"
+        "time": "3/5/2026, 5:44:10 PM"
       },
       {
         "title": "A GitHub Issue Title Compromised 4k Developer Machines",
@@ -60,10 +60,10 @@
         "time": "3/5/2026, 4:22:01 PM"
       },
       {
-        "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
-        "url": "https://alibaba.github.io/page-agent/",
+        "title": "Show HN: Jido 2.0, Elixir Agent Framework",
+        "url": "https://jido.run/blog/jido-2-0-is-here",
         "source": "hn",
-        "time": "3/5/2026, 5:01:47 PM"
+        "time": "3/5/2026, 3:48:52 PM"
       }
     ],
     "world": [
@@ -71,13 +71,13 @@
         "title": "PM stands by decision not to join strikes on Iran and sends more jets to Qatar",
         "url": "https://www.bbc.com/news/articles/cdr2214nmk8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 05 Mar 2026 18:12:41 GMT"
+        "time": "Thu, 05 Mar 2026 19:01:46 GMT"
       },
       {
-        "title": "Starmer tries to reassure as Iran crisis deepens",
-        "url": "https://www.bbc.com/news/articles/c5ykk1n77nko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Iran's high-risk war strategy seems to centre on endurance and deterrence",
+        "url": "https://www.bbc.com/news/articles/c93jj3gz8x0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 05 Mar 2026 16:01:10 GMT"
+        "time": "Thu, 05 Mar 2026 18:40:22 GMT"
       },
       {
         "title": "Iran school and nearby military base struck multiple times, satellite image reveals",
@@ -86,16 +86,16 @@
         "time": "Thu, 05 Mar 2026 17:46:24 GMT"
       },
       {
-        "title": "How depleted weapons stockpiles could affect the Iran conflict",
-        "url": "https://www.bbc.com/news/articles/cdxzzqe82d2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israelis back war with Iran despite uncertainty and fatigue",
+        "url": "https://www.bbc.com/news/articles/cj6d023rjpzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 04 Mar 2026 20:57:50 GMT"
+        "time": "Thu, 05 Mar 2026 19:24:39 GMT"
       },
       {
-        "title": "Iran targets headquarters of Iranian Kurdish forces in Iraq",
-        "url": "https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Failed asylum seeker families to be offered up to £40k to leave UK",
+        "url": "https://www.bbc.com/news/articles/c0j559146e6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 05 Mar 2026 11:35:09 GMT"
+        "time": "Thu, 05 Mar 2026 16:11:14 GMT"
       }
     ],
     "projects": [
