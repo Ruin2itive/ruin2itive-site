@@ -1,89 +1,83 @@
 {
-  "updated_iso": "2026-03-05T15:57:22.520Z",
-  "updated_local": "3/5/2026, 3:57:22 PM",
+  "updated_iso": "2026-03-05T18:02:23.896Z",
+  "updated_local": "3/5/2026, 6:02:23 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "ZeroHash Applies for National Trust Bank Charter as OCC Crypto Pipeline Grows",
+        "url": "https://decrypt.co/360095/zerohash-applies-national-trust-bank-charter-occ-crypto-pipeline-grows",
+        "source": "crypto",
+        "time": "Thu, 05 Mar 2026 17:28:09 +0000"
+      },
+      {
+        "title": "Cardano&#39;s ADA Token Now Accepted at Spar Supermarkets in Switzerland",
+        "url": "https://decrypt.co/360122/cardano-ada-token-accepted-spar-supermarkets-switzerland",
+        "source": "crypto",
+        "time": "Thu, 05 Mar 2026 16:45:40 +0000"
+      },
+      {
+        "title": "Bitcoin Price Predictions Flip Bullish, But Ethereum Is Still Stuck",
+        "url": "https://decrypt.co/360131/bitcoin-price-predictions-flip-bullish-but-ethereum-stuck",
+        "source": "crypto",
+        "time": "Thu, 05 Mar 2026 16:36:02 +0000"
+      },
+      {
+        "title": "Federal Contractor’s Son Arrested, Charged With Stealing $46 Million From US Crypto Stockpile",
+        "url": "https://decrypt.co/360120/federal-contractors-son-arrested-charged-with-stealing-46-million-from-us-crypto-stockpile",
+        "source": "crypto",
+        "time": "Thu, 05 Mar 2026 16:08:42 +0000"
+      },
       {
         "title": "Core Scientific Secures Up to $1 Billion From Morgan Stanley for Pivot From Bitcoin Mining to AI",
         "url": "https://decrypt.co/360117/core-scientifics-secures-1-billion-morgan-stanley-pivot-bitcoin-ai",
         "source": "crypto",
         "time": "Thu, 05 Mar 2026 15:33:08 +0000"
-      },
-      {
-        "title": "Morning Minute: Kraken Cracks the Fed",
-        "url": "https://decrypt.co/360098/morning-minute-kraken-cracks-the-fed",
-        "source": "crypto",
-        "time": "Thu, 05 Mar 2026 14:28:38 +0000"
-      },
-      {
-        "title": "OKB Token Surges 38% on NYSE’s OKX Investment at $25B Valuation",
-        "url": "https://decrypt.co/360101/okb-token-surges-38-on-nyses-okx-investment-at-25b-valuation",
-        "source": "crypto",
-        "time": "Thu, 05 Mar 2026 14:20:32 +0000"
-      },
-      {
-        "title": "Ethereum ETFs Draw In $169M, Highest Level in Two Months",
-        "url": "https://decrypt.co/360097/ethereum-etfs-draw-in-169m-highest-level-in-two-months",
-        "source": "crypto",
-        "time": "Thu, 05 Mar 2026 12:44:35 +0000"
-      },
-      {
-        "title": "FATF Flags Peer-to-Peer Stablecoin Transfers as Top Money Laundering Risk",
-        "url": "https://decrypt.co/360087/fatf-flags-peer-to-peer-stablecoin-transfers-as-top-money-laundering-risk",
-        "source": "crypto",
-        "time": "Thu, 05 Mar 2026 11:44:53 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Google Safe Browsing missed 84% of phishing sites we found in February",
-        "url": "https://www.norn-labs.com/blog/huginn-report-feb-2026",
+        "title": "Wikipedia in read-only mode following mass admin account compromise",
+        "url": "https://www.wikimediastatus.net",
         "source": "hn",
-        "time": "3/5/2026, 3:03:22 PM"
+        "time": "3/5/2026, 4:04:54 PM"
       },
       {
-        "title": "Judge Orders Government to Begin Refunding More Than $130B in Tariffs",
-        "url": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
+        "title": "Show HN: Jido 2.0, Elixir Agent Framework",
+        "url": "https://jido.run/blog/jido-2-0-is-here",
         "source": "hn",
-        "time": "3/5/2026, 2:05:46 PM"
+        "time": "3/5/2026, 3:48:52 PM"
       },
       {
-        "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
-        "url": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
+        "title": "Good software knows when to stop",
+        "url": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
         "source": "hn",
-        "time": "3/5/2026, 7:43:41 AM"
+        "time": "3/5/2026, 1:52:43 PM"
       },
       {
-        "title": "Fast-Servers",
-        "url": "https://geocar.sdf1.org/fast-servers.html",
+        "title": "A GitHub Issue Title Compromised 4k Developer Machines",
+        "url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
         "source": "hn",
-        "time": "3/5/2026, 2:11:22 PM"
-      },
-      {
-        "title": "Google Workspace CLI",
-        "url": "https://github.com/googleworkspace/cli",
-        "source": "hn",
-        "time": "3/5/2026, 12:22:09 AM"
+        "time": "3/5/2026, 4:22:01 PM"
       }
     ],
     "world": [
       {
-        "title": "First UK government flight departs Middle East after delay",
-        "url": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "PM stands by decision not to join strikes on Iran and sends more jets to Qatar",
+        "url": "https://www.bbc.com/news/articles/cdr2214nmk8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 05 Mar 2026 14:34:00 GMT"
+        "time": "Thu, 05 Mar 2026 16:36:28 GMT"
       },
       {
-        "title": "Checkpoints everywhere and queues for bread: Fear in Iran as US-Israeli strikes intensify",
-        "url": "https://www.bbc.com/news/articles/cj4zze5lzjpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Starmer tries to reassure as Iran crisis deepens",
+        "url": "https://www.bbc.com/news/articles/c5ykk1n77nko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 05 Mar 2026 10:25:02 GMT"
+        "time": "Thu, 05 Mar 2026 16:01:10 GMT"
       },
       {
-        "title": "Healey visits Cyprus after criticism of UK response to drone attacks",
-        "url": "https://www.bbc.com/news/articles/c0e55y0pzgwo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Iran school and nearby military base struck multiple times, satellite image reveals",
+        "url": "https://www.bbc.com/news/articles/c5yqqyly9n0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 05 Mar 2026 14:55:33 GMT"
+        "time": "Thu, 05 Mar 2026 17:46:24 GMT"
       },
       {
         "title": "How depleted weapons stockpiles could affect the Iran conflict",
