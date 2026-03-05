@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-05T01:21:27.689Z"
+    "built_at": "2026-03-05T04:05:40.537Z"
   },
-  "items": [
-    {
-      "title": "An AI avatar is running to represent Indigenous voters in Colombia",
-      "url": "https://restofworld.org/2026/ai-avatar-colombia-political-candidate/",
-      "date": "2026-03-05T01:21:12.000Z"
-    },
-    {
-      "title": "Guild Manager 26 – MMO Management/Spreadsheet SIM",
-      "url": "https://playgm26.com",
-      "date": "2026-03-05T01:19:43.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
