@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-05T02:46:54.823Z",
-  "updated_local": "3/5/2026, 2:46:54 AM",
+  "updated_iso": "2026-03-05T04:15:13.324Z",
+  "updated_local": "3/5/2026, 4:15:13 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Big Tech Joins White House Energy Pledge as Iran Tensions Threaten Higher Costs",
+        "url": "https://decrypt.co/360059/big-tech-white-house-energy-pledge-iran-higher-costs",
+        "source": "crypto",
+        "time": "Thu, 05 Mar 2026 03:37:46 +0000"
+      },
       {
         "title": "How Policy Shifts, Geopolitical Tensions Are Reshaping the Bitcoin Trade",
         "url": "https://decrypt.co/360056/policy-shifts-geopolitical-tensions-reshaping-bitcoin-trade",
@@ -26,17 +32,11 @@
         "url": "https://decrypt.co/360028/bitwise-donates-233k-bitcoin-etf-profits-open-source-btc-developers",
         "source": "crypto",
         "time": "Wed, 04 Mar 2026 21:44:13 +0000"
-      },
-      {
-        "title": "&#39;The Worst Is Behind Us&#39;: Bitcoin Market Conditions Mirror FTX Bottom, Analysts Say",
-        "url": "https://decrypt.co/359970/worst-behind-us-bitcoin-market-conditions-mirror-ftx-bottom-analysts",
-        "source": "crypto",
-        "time": "Wed, 04 Mar 2026 21:22:04 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Googleworkspace/CLI",
+        "title": "Google Workspace CLI",
         "url": "https://github.com/googleworkspace/cli",
         "source": "hn",
         "time": "3/5/2026, 12:22:09 AM"
@@ -54,16 +54,16 @@
         "time": "3/4/2026, 8:16:03 PM"
       },
       {
-        "title": "Chaos and Dystopian news for the dead internet survivors",
-        "url": "https://www.fubardaily.com",
-        "source": "hn",
-        "time": "3/5/2026, 1:50:51 AM"
-      },
-      {
         "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
         "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
         "source": "hn",
         "time": "3/4/2026, 11:51:10 PM"
+      },
+      {
+        "title": "What Python's asyncio primitives get wrong about shared state",
+        "url": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
+        "source": "hn",
+        "time": "3/5/2026, 2:55:57 AM"
       }
     ],
     "world": [
