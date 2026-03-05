@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-05T14:01:52.918Z",
-  "updated_local": "3/5/2026, 2:01:52 PM",
+  "updated_iso": "2026-03-05T14:55:51.138Z",
+  "updated_local": "3/5/2026, 2:55:51 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Kraken Cracks the Fed",
+        "url": "https://decrypt.co/360098/morning-minute-kraken-cracks-the-fed",
+        "source": "crypto",
+        "time": "Thu, 05 Mar 2026 14:28:38 +0000"
+      },
+      {
+        "title": "OKB Token Surges 38% on NYSE’s OKX Investment at $25B Valuation",
+        "url": "https://decrypt.co/360101/okb-token-surges-38-on-nyses-okx-investment-at-25b-valuation",
+        "source": "crypto",
+        "time": "Thu, 05 Mar 2026 14:20:32 +0000"
+      },
       {
         "title": "Ethereum ETFs Draw In $169M, Highest Level in Two Months",
         "url": "https://decrypt.co/360097/ethereum-etfs-draw-in-169m-highest-level-in-two-months",
@@ -20,21 +32,15 @@
         "url": "https://decrypt.co/360079/senator-white-house-corruption-iran-war-predictions-markets",
         "source": "crypto",
         "time": "Thu, 05 Mar 2026 05:42:14 +0000"
-      },
-      {
-        "title": "Canadian Robbed of Crypto via ATM Kiosk, Recovery Efforts Lead to Another Scam Attempt",
-        "url": "https://decrypt.co/360072/canadian-robbed-via-atm-kiosk-recovery-lead-another-scam",
-        "source": "crypto",
-        "time": "Thu, 05 Mar 2026 04:34:58 +0000"
-      },
-      {
-        "title": "Big Tech Joins White House Energy Pledge as Iran Tensions Threaten Higher Costs",
-        "url": "https://decrypt.co/360059/big-tech-white-house-energy-pledge-iran-higher-costs",
-        "source": "crypto",
-        "time": "Thu, 05 Mar 2026 03:37:46 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Judge Orders Government to Begin Refunding More Than $130B in Tariffs",
+        "url": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
+        "source": "hn",
+        "time": "3/5/2026, 2:05:46 PM"
+      },
       {
         "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
         "url": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
@@ -58,15 +64,15 @@
         "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
         "source": "hn",
         "time": "3/5/2026, 5:07:33 AM"
-      },
-      {
-        "title": "World-first gigabit laser link between aircraft and geostationary satellite",
-        "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite",
-        "source": "hn",
-        "time": "3/1/2026, 4:49:46 PM"
       }
     ],
     "world": [
+      {
+        "title": "First UK government flight departs Middle East after delay",
+        "url": "https://www.bbc.com/news/articles/cy4wwd2jlypo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 05 Mar 2026 14:34:00 GMT"
+      },
       {
         "title": "Checkpoints everywhere and queues for bread: Fear in Iran as US-Israeli strikes intensify",
         "url": "https://www.bbc.com/news/articles/cj4zze5lzjpo?at_medium=RSS&amp;at_campaign=rss",
@@ -77,7 +83,7 @@
         "title": "Healey visits Cyprus after criticism of UK response to drone attacks",
         "url": "https://www.bbc.com/news/articles/c0e55y0pzgwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 05 Mar 2026 13:28:54 GMT"
+        "time": "Thu, 05 Mar 2026 14:55:33 GMT"
       },
       {
         "title": "How depleted weapons stockpiles could affect the Iran conflict",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 05 Mar 2026 11:35:09 GMT"
-      },
-      {
-        "title": "In maps: Six days of strikes across the Middle East",
-        "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 05 Mar 2026 11:27:28 GMT"
       }
     ],
     "projects": [
