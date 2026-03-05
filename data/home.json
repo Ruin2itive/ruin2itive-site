@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-05T07:40:47.406Z",
-  "updated_local": "3/5/2026, 7:40:47 AM",
+  "updated_iso": "2026-03-05T08:39:09.693Z",
+  "updated_local": "3/5/2026, 8:39:09 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
+        "url": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
+        "source": "hn",
+        "time": "3/5/2026, 7:43:41 AM"
+      },
+      {
         "title": "Google Workspace CLI",
         "url": "https://github.com/googleworkspace/cli",
         "source": "hn",
@@ -54,21 +60,15 @@
         "time": "3/4/2026, 2:16:41 PM"
       },
       {
-        "title": "Zed new terms required to be 18 years old",
-        "url": "https://zed.dev/terms",
+        "title": "Smalltalk's Browser: Unbeatable, yet Not Enough",
+        "url": "https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/",
         "source": "hn",
-        "time": "3/5/2026, 5:59:37 AM"
-      },
-      {
-        "title": "The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me",
-        "url": "https://tim.blog/2026/03/04/the-self-help-trap/",
-        "source": "hn",
-        "time": "3/5/2026, 6:59:30 AM"
+        "time": "3/5/2026, 7:57:25 AM"
       }
     ],
     "world": [
       {
-        "title": "'Every day feels like a month': Iranians describe life under 'constant' US-Israeli strikes",
+        "title": "'Every day feels like a month': Iranians describe life under US-Israeli strikes",
         "url": "https://www.bbc.com/news/articles/cj4zze5lzjpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 04 Mar 2026 19:31:24 GMT"
@@ -92,10 +92,10 @@
         "time": "Thu, 05 Mar 2026 06:52:36 GMT"
       },
       {
-        "title": "South East Water faces £22m fine for supply failures",
-        "url": "https://www.bbc.com/news/articles/c3v77yzn5gxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US Senate vote fails to rein in Trump war powers on Iran",
+        "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 05 Mar 2026 07:32:49 GMT"
+        "time": "Wed, 04 Mar 2026 23:42:08 GMT"
       }
     ],
     "projects": [
