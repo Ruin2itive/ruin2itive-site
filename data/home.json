@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-05T04:15:13.324Z",
-  "updated_local": "3/5/2026, 4:15:13 AM",
+  "updated_iso": "2026-03-05T04:51:44.793Z",
+  "updated_local": "3/5/2026, 4:51:44 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Canadian Robbed of Crypto via ATM Kiosk, Recovery Efforts Lead to Another Scam Attempt",
+        "url": "https://decrypt.co/360072/canadian-robbed-via-atm-kiosk-recovery-lead-another-scam",
+        "source": "crypto",
+        "time": "Thu, 05 Mar 2026 04:34:58 +0000"
+      },
       {
         "title": "Big Tech Joins White House Energy Pledge as Iran Tensions Threaten Higher Costs",
         "url": "https://decrypt.co/360059/big-tech-white-house-energy-pledge-iran-higher-costs",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/359976/quitgpt-delete-chatgpt-data-privacy-guide",
         "source": "crypto",
         "time": "Wed, 04 Mar 2026 21:57:53 +0000"
-      },
-      {
-        "title": "Bitwise Donates $233K of Bitcoin ETF Profits to Open-Source BTC Developers",
-        "url": "https://decrypt.co/360028/bitwise-donates-233k-bitcoin-etf-profits-open-source-btc-developers",
-        "source": "crypto",
-        "time": "Wed, 04 Mar 2026 21:44:13 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "3/4/2026, 8:16:03 PM"
       },
       {
-        "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
-        "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
-        "source": "hn",
-        "time": "3/4/2026, 11:51:10 PM"
-      },
-      {
         "title": "What Python's asyncio primitives get wrong about shared state",
         "url": "https://www.inngest.com/blog/no-lost-updates-python-asyncio",
         "source": "hn",
         "time": "3/5/2026, 2:55:57 AM"
+      },
+      {
+        "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
+        "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+        "source": "hn",
+        "time": "3/4/2026, 11:51:10 PM"
       }
     ],
     "world": [
