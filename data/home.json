@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-04T23:38:11.868Z",
-  "updated_local": "3/4/2026, 11:38:11 PM",
+  "updated_iso": "2026-03-05T01:57:04.384Z",
+  "updated_local": "3/5/2026, 1:57:04 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "How Policy Shifts, Geopolitical Tensions Are Reshaping the Bitcoin Trade",
+        "url": "https://decrypt.co/360056/policy-shifts-geopolitical-tensions-reshaping-bitcoin-trade",
+        "source": "crypto",
+        "time": "Thu, 05 Mar 2026 01:02:06 +0000"
+      },
+      {
+        "title": "Inside the Ray-Ban Smart Glasses Controversy Plaguing Meta",
+        "url": "https://decrypt.co/360048/ray-ban-smart-glasses-controversy-meta",
+        "source": "crypto",
+        "time": "Thu, 05 Mar 2026 00:51:41 +0000"
+      },
       {
         "title": "Before You Quit ChatGPT, Do This to Take Your Data With You",
         "url": "https://decrypt.co/359976/quitgpt-delete-chatgpt-data-privacy-guide",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/359970/worst-behind-us-bitcoin-market-conditions-mirror-ftx-bottom-analysts",
         "source": "crypto",
         "time": "Wed, 04 Mar 2026 21:22:04 +0000"
-      },
-      {
-        "title": "Google&#39;s Gemini AI Pushed Florida Man to Suicide Amid &#39;Collapsing Reality&#39;, Lawsuit Alleges",
-        "url": "https://decrypt.co/359966/google-gemini-ai-pushed-florida-man-suicide-lawsuit",
-        "source": "crypto",
-        "time": "Wed, 04 Mar 2026 20:53:38 +0000"
-      },
-      {
-        "title": "Dogecoin Pumps as Bitcoin Pops, Reversing Recent DOGE Losing Streak",
-        "url": "https://decrypt.co/359967/dogecoin-pumps-bitcoin-pops-reversing-doge-losing-streak",
-        "source": "crypto",
-        "time": "Wed, 04 Mar 2026 19:20:49 +0000"
       }
     ],
     "hacker": [
@@ -48,22 +48,22 @@
         "time": "3/4/2026, 8:16:03 PM"
       },
       {
-        "title": "BMW Group to deploy humanoid robots in production in Germany for the first time",
-        "url": "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en",
+        "title": "Googleworkspace/CLI",
+        "url": "https://github.com/googleworkspace/cli",
         "source": "hn",
-        "time": "3/4/2026, 9:11:15 PM"
+        "time": "3/5/2026, 12:22:09 AM"
+      },
+      {
+        "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
+        "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+        "source": "hn",
+        "time": "3/4/2026, 11:51:10 PM"
       },
       {
         "title": "Something is afoot in the land of Qwen",
         "url": "https://simonwillison.net/2026/Mar/4/qwen/",
         "source": "hn",
         "time": "3/4/2026, 3:55:34 PM"
-      },
-      {
-        "title": "Humans 40k yrs ago developed a system of conventional signs",
-        "url": "https://www.pnas.org/doi/10.1073/pnas.2520385123",
-        "source": "hn",
-        "time": "3/4/2026, 4:20:36 PM"
       }
     ],
     "world": [
@@ -72,12 +72,6 @@
         "url": "https://www.bbc.com/news/articles/c0e55g03v2zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 04 Mar 2026 16:56:17 GMT"
-      },
-      {
-        "title": "Video of US torpedo hitting Iranian warship released by Pentagon",
-        "url": "https://www.bbc.com/news/videos/cd6zzg2g7vno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 04 Mar 2026 20:56:07 GMT"
       },
       {
         "title": "'Every day feels like a month': Iranians describe life under 'constant' US-Israeli strikes",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/cdxzzkkkwjqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 04 Mar 2026 14:49:22 GMT"
+      },
+      {
+        "title": "MP says she has seen nothing to suspect husband has broken law, after China spying arrests",
+        "url": "https://www.bbc.com/news/articles/c7955ewj7gwo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 04 Mar 2026 18:39:13 GMT"
       }
     ],
     "projects": [
