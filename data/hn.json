@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-06T13:49:15.117Z"
+    "built_at": "2026-03-06T14:31:41.145Z"
   },
-  "items": [
-    {
-      "title": "California's OS Age Verification Law Is a Nothing Burger",
-      "url": "https://lazarusoverlook.com/posts/california-os-age-law/",
-      "date": "2026-03-06T13:47:40.000Z"
-    },
-    {
-      "title": "You Can't Hide a Secret from a Process That Runs as You",
-      "url": "https://danielepolencic.com/hiding-secrets-from-ai-agents",
-      "date": "2026-03-06T13:47:32.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
