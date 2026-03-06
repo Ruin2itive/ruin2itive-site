@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-06T04:03:10.078Z"
+    "built_at": "2026-03-06T05:39:48.755Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Ask HN: Do you have a good solution for isolated workspaces per project?",
+      "url": "https://news.ycombinator.com/item?id=47271254",
+      "date": "2026-03-06T05:33:13.000Z"
+    },
+    {
+      "title": "TeX Live 2026 is available for download now",
+      "url": "https://www.tug.org/texlive/acquire.html",
+      "date": "2026-03-06T05:20:10.000Z"
+    }
+  ]
 }
