@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-06T22:20:30.012Z"
+    "built_at": "2026-03-06T23:20:43.581Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Personalized financial literacy book for your kid",
-      "url": "https://cointales.ai/en/create-your-book",
-      "date": "2026-03-06T22:17:42.000Z"
-    },
-    {
-      "title": "Ask HN: Has anyone built an autonomous AI operator for their side projects?",
-      "url": "https://news.ycombinator.com/item?id=47281854",
-      "date": "2026-03-06T22:17:17.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
