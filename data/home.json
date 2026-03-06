@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-06T05:43:12.592Z",
-  "updated_local": "3/6/2026, 5:43:12 AM",
+  "updated_iso": "2026-03-06T05:53:25.734Z",
+  "updated_local": "3/6/2026, 5:53:25 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "GPT-5.4",
-        "url": "https://openai.com/index/introducing-gpt-5-4/",
-        "source": "hn",
-        "time": "3/5/2026, 6:08:10 PM"
-      },
-      {
         "title": "System76 on Age Verification Laws",
         "url": "https://blog.system76.com/post/system76-on-age-verification/",
         "source": "hn",
         "time": "3/6/2026, 4:12:26 AM"
+      },
+      {
+        "title": "GPT-5.4",
+        "url": "https://openai.com/index/introducing-gpt-5-4/",
+        "source": "hn",
+        "time": "3/5/2026, 6:08:10 PM"
       },
       {
         "title": "Nobody ever got fired for using a struct",
