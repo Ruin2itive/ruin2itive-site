@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-07T10:33:09.192Z",
-  "updated_local": "3/7/2026, 10:33:09 AM",
+  "updated_iso": "2026-03-07T11:18:30.482Z",
+  "updated_local": "3/7/2026, 11:18:30 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "3/6/2026, 11:59:16 PM"
       },
       {
+        "title": "Show HN: Tanstaafl – Pay-to-inbox email on Bitcoin Lightning",
+        "url": "https://tanstaafl.email",
+        "source": "hn",
+        "time": "3/7/2026, 10:27:46 AM"
+      },
+      {
         "title": "UUID package coming to Go standard library",
         "url": "https://github.com/golang/go/issues/62026",
         "source": "hn",
@@ -52,12 +58,6 @@
         "url": "https://changelog.qgis.org/en/version/4.0/",
         "source": "hn",
         "time": "3/7/2026, 8:53:47 AM"
-      },
-      {
-        "title": "this css proves me human",
-        "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
-        "source": "hn",
-        "time": "3/6/2026, 9:52:44 PM"
       }
     ],
     "world": [
@@ -66,6 +66,18 @@
         "url": "https://www.bbc.com/news/articles/c80jmm00379o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 07 Mar 2026 10:13:42 GMT"
+      },
+      {
+        "title": "The legacy of Holly and Jessica's murders: Soham 'won't waste its breath' on Huntley",
+        "url": "https://www.bbc.com/news/articles/c9wnn8nn5p8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 07 Mar 2026 10:03:11 GMT"
+      },
+      {
+        "title": "Canada's PM calls for Andrew to be removed from line of succession",
+        "url": "https://www.bbc.com/news/articles/czd87d0jq37o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 07 Mar 2026 10:37:38 GMT"
       },
       {
         "title": "Armed robots take to the battlefield in Ukraine war",
@@ -78,18 +90,6 @@
         "url": "https://www.bbc.com/news/articles/c4g0dzg6e4mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 06 Mar 2026 17:58:33 GMT"
-      },
-      {
-        "title": "Three women interviewed on suspicion of sex trafficking in Al Fayed investigation",
-        "url": "https://www.bbc.com/news/articles/c2lrwv5p7e7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 06 Mar 2026 21:06:49 GMT"
-      },
-      {
-        "title": "Deadly storms and tornadoes strike US state of Michigan",
-        "url": "https://www.bbc.com/news/videos/cx2r4wdgkzxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 07 Mar 2026 07:08:58 GMT"
       }
     ],
     "projects": [
