@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-06T23:35:27.719Z",
-  "updated_local": "3/6/2026, 11:35:27 PM",
+  "updated_iso": "2026-03-07T01:50:04.970Z",
+  "updated_local": "3/7/2026, 1:50:04 AM",
   "sections": {
     "crypto": [
       {
@@ -36,13 +36,19 @@
     ],
     "hacker": [
       {
+        "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
+        "url": "https://plasma-bigscreen.org",
+        "source": "hn",
+        "time": "3/6/2026, 11:59:16 PM"
+      },
+      {
         "title": "this css proves me human",
         "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
         "source": "hn",
         "time": "3/6/2026, 9:52:44 PM"
       },
       {
-        "title": "C# Strings Silently Kill Your SQL Server Indexes in Dapper",
+        "title": "C# strings silently kill your SQL Server indexes in Dapper",
         "url": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
         "source": "hn",
         "time": "3/6/2026, 10:55:37 PM"
@@ -58,12 +64,6 @@
         "url": "https://www.anthropic.com/news/mozilla-firefox-security",
         "source": "hn",
         "time": "3/6/2026, 11:53:18 AM"
-      },
-      {
-        "title": "Tech employment now significantly worse than the 2008 or 2020 recessions",
-        "url": "https://twitter.com/JosephPolitano/status/2029916364664611242",
-        "source": "hn",
-        "time": "3/6/2026, 5:46:45 PM"
       }
     ],
     "world": [
