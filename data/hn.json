@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-07T05:34:57.727Z"
+    "built_at": "2026-03-07T06:30:01.143Z"
   },
-  "items": [
-    {
-      "title": "How many options fit into a boolean?",
-      "url": "https://herecomesthemoon.net/2025/11/how-many-options-fit-into-a-boolean/",
-      "date": "2026-03-07T05:31:13.000Z"
-    },
-    {
-      "title": "SK lays off nearly 1k workers at Georgia plant amid cooling automaker EV plan",
-      "url": "https://apnews.com/article/georgia-electric-vehicle-battery-manufacturing-layoffs-workers-79a4ec7a5b7f2816f64033f8b3d4898d",
-      "date": "2026-03-07T05:30:39.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
