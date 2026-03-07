@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-07T18:23:18.981Z"
+    "built_at": "2026-03-07T19:16:30.563Z"
   },
-  "items": [
-    {
-      "title": "Show HN: SRA – A new architectural pattern for modern product engineering",
-      "url": "https://github.com/FelixZY/specification-realization-assembly-bible",
-      "date": "2026-03-07T18:21:24.000Z"
-    },
-    {
-      "title": "The Dangerous Illusion of AI Coding? – Jeremy Howard [video]",
-      "url": "https://www.youtube.com/watch?v=dHBEQ-Ryo24",
-      "date": "2026-03-07T18:21:00.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
