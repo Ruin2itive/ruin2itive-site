@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-07T02:37:35.097Z",
-  "updated_local": "3/7/2026, 2:37:35 AM",
+  "updated_iso": "2026-03-07T03:59:17.028Z",
+  "updated_local": "3/7/2026, 3:59:17 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,18 @@
         "time": "3/6/2026, 11:59:16 PM"
       },
       {
+        "title": "UUID package coming to Go standard library",
+        "url": "https://github.com/golang/go/issues/62026",
+        "source": "hn",
+        "time": "3/7/2026, 2:03:21 AM"
+      },
+      {
+        "title": "Can a wealthy family change the course of a deadly brain disease?",
+        "url": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
+        "source": "hn",
+        "time": "3/7/2026, 3:06:58 AM"
+      },
+      {
         "title": "this css proves me human",
         "url": "https://will-keleher.com/posts/this-css-makes-me-human/",
         "source": "hn",
@@ -52,18 +64,6 @@
         "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
         "source": "hn",
         "time": "3/7/2026, 1:17:57 AM"
-      },
-      {
-        "title": "C# strings silently kill your SQL Server indexes in Dapper",
-        "url": "https://consultwithgriff.com/dapper-nvarchar-implicit-conversion-performance-trap",
-        "source": "hn",
-        "time": "3/6/2026, 10:55:37 PM"
-      },
-      {
-        "title": "Galileo's handwritten notes found in ancient astronomy text",
-        "url": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
-        "source": "hn",
-        "time": "3/5/2026, 4:47:27 PM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "Huge US bomber lands at UK air base",
         "url": "https://www.bbc.com/news/articles/c75ekve9yq9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 06 Mar 2026 22:21:53 GMT"
+        "time": "Sat, 07 Mar 2026 03:18:45 GMT"
       },
       {
         "title": "Oil price at two-year high after Qatar warns all Gulf production could stop within days",
