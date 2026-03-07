@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-07T21:14:24.266Z"
+    "built_at": "2026-03-07T22:15:32.492Z"
   },
-  "items": [
-    {
-      "title": "Calif. lawsuit accuses Meta of sending nude video from AI glasses to workers",
-      "url": "https://www.sfgate.com/tech/article/meta-ai-glasses-lawsuit-21960004.php",
-      "date": "2026-03-07T21:13:29.000Z"
-    },
-    {
-      "title": "Show HN: BeyondComments – Find content ideas and signals from YouTube comments",
-      "url": "https://beyondcomments.io",
-      "date": "2026-03-07T21:10:49.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
