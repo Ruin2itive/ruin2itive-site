@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-07T14:22:30.454Z",
-  "updated_local": "3/7/2026, 2:22:30 PM",
+  "updated_iso": "2026-03-07T14:32:44.313Z",
+  "updated_local": "3/7/2026, 2:32:44 PM",
   "sections": {
     "crypto": [
       {
@@ -48,16 +48,16 @@
         "time": "3/6/2026, 11:59:16 PM"
       },
       {
-        "title": "UUID package coming to Go standard library",
-        "url": "https://github.com/golang/go/issues/62026",
-        "source": "hn",
-        "time": "3/7/2026, 2:03:21 AM"
-      },
-      {
         "title": "48x32, a 1536 LED Game Computer (2023)",
         "url": "https://jacquesmattheij.com/48x32-introduction/",
         "source": "hn",
         "time": "3/5/2026, 12:10:42 AM"
+      },
+      {
+        "title": "UUID package coming to Go standard library",
+        "url": "https://github.com/golang/go/issues/62026",
+        "source": "hn",
+        "time": "3/7/2026, 2:03:21 AM"
       }
     ],
     "world": [
