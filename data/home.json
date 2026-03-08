@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-08T15:32:31.770Z",
-  "updated_local": "3/8/2026, 3:32:31 PM",
+  "updated_iso": "2026-03-08T16:26:41.702Z",
+  "updated_local": "3/8/2026, 4:26:41 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI GPT-5.4 vs xAI Grok 4.20: Which AI Chatbot Is Best for You?",
+        "url": "https://decrypt.co/360302/review-openai-gpt-5-4-vs-xai-grok-4-20-which-ai-best-you",
+        "source": "crypto",
+        "time": "Sun, 08 Mar 2026 16:15:32 +0000"
+      },
       {
         "title": "Inside the Quest at Colossus to Replace Visa and Mastercard With KYC-Less Crypto Cards",
         "url": "https://decrypt.co/360147/inside-quest-colossus-replace-visa-mastercard-kyc-less-crypto-cards",
@@ -26,20 +32,20 @@
         "url": "https://decrypt.co/360284/florida-gov-ron-desantis-eyes-state-stablecoin-framework",
         "source": "crypto",
         "time": "Fri, 06 Mar 2026 21:24:45 +0000"
-      },
-      {
-        "title": "&#39;Obscene&#39;: Grammarly&#39;s New AI Tool Offers Writing Feedback From Dead Scholars",
-        "url": "https://decrypt.co/360277/obscene-grammarly-ai-tool-writing-feedback-dead-scholars",
-        "source": "crypto",
-        "time": "Fri, 06 Mar 2026 21:07:39 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Why can't you tune your guitar? (2019)",
-        "url": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
+        "title": "FrameBook",
+        "url": "https://fb.edoo.gg",
         "source": "hn",
-        "time": "3/4/2026, 10:30:27 PM"
+        "time": "3/8/2026, 3:21:09 PM"
+      },
+      {
+        "title": "Living Human Brain Cells Play Doom on a CL1",
+        "url": "https://corticallabs.com/doom.html",
+        "source": "hn",
+        "time": "3/8/2026, 3:07:28 PM"
       },
       {
         "title": "Notes on Writing WASM",
@@ -48,22 +54,16 @@
         "time": "3/8/2026, 9:24:54 AM"
       },
       {
-        "title": "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git",
-        "url": "https://github.com/kantord/blogtato",
+        "title": "What if the Apple ][ had run on Field-Sequential?",
+        "url": "https://nicole.express/2026/the-apple-that-wasnt.html",
         "source": "hn",
-        "time": "3/8/2026, 1:16:14 PM"
+        "time": "3/8/2026, 3:05:40 PM"
       },
       {
-        "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
-        "url": "https://arxiv.org/abs/2603.03823",
+        "title": "Beagle, a source code management system that stores AST trees",
+        "url": "https://github.com/gritzko/librdx/tree/master/be",
         "source": "hn",
-        "time": "3/8/2026, 8:11:50 AM"
-      },
-      {
-        "title": "I ported Linux to the PS5 and turned it into a Steam Machine",
-        "url": "https://xcancel.com/theflow0/status/2030011206040256841",
-        "source": "hn",
-        "time": "3/8/2026, 12:40:14 PM"
+        "time": "3/8/2026, 1:28:26 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "PM is standing up for UK interests, says Cooper after Trump criticism",
         "url": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 08 Mar 2026 11:02:46 GMT"
+        "time": "Sun, 08 Mar 2026 16:04:05 GMT"
       },
       {
         "title": "'Our children paid the ultimate price': The school shooting that changed Britain",
@@ -86,16 +86,16 @@
         "time": "Sun, 08 Mar 2026 14:39:19 GMT"
       },
       {
+        "title": "Unanswered questions as search for Nancy Guthrie enters a new month",
+        "url": "https://www.bbc.com/news/articles/cp32lwy4077o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 08 Mar 2026 15:03:16 GMT"
+      },
+      {
         "title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
         "url": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 08 Mar 2026 12:30:16 GMT"
-      },
-      {
-        "title": "Nicky Campbell: How I've learned that certainty is the thing to really fear",
-        "url": "https://www.bbc.com/news/articles/c1w5z1d447lo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 07 Mar 2026 23:42:31 GMT"
       }
     ],
     "projects": [
