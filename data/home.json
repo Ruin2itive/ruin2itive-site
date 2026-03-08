@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-08T07:37:35.903Z",
-  "updated_local": "3/8/2026, 7:37:35 AM",
+  "updated_iso": "2026-03-08T08:28:59.232Z",
+  "updated_local": "3/8/2026, 8:28:59 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+        "url": "https://arxiv.org/abs/2603.03823",
+        "source": "hn",
+        "time": "3/8/2026, 8:11:50 AM"
+      },
+      {
         "title": "Cloud VM benchmarks 2026",
         "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "3/8/2026, 1:35:21 AM"
       },
       {
-        "title": "CasNum",
-        "url": "https://github.com/0x0mer/CasNum",
-        "source": "hn",
-        "time": "3/7/2026, 8:43:51 PM"
-      },
-      {
-        "title": "MonoGame: A .NET framework for making cross-platform games",
-        "url": "https://github.com/MonoGame/MonoGame",
-        "source": "hn",
-        "time": "3/8/2026, 2:16:02 AM"
-      },
-      {
         "title": "From RGB to L*a*b* color space (2024)",
         "url": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
         "source": "hn",
         "time": "3/4/2026, 9:24:13 AM"
+      },
+      {
+        "title": "CasNum",
+        "url": "https://github.com/0x0mer/CasNum",
+        "source": "hn",
+        "time": "3/7/2026, 8:43:51 PM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "'Our children paid the ultimate price' – How the Dunblane school shooting changed Britain",
         "url": "https://www.bbc.com/news/articles/cp9m8zmxe25o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 08 Mar 2026 01:14:23 GMT"
+        "time": "Sun, 08 Mar 2026 08:20:49 GMT"
       },
       {
         "title": "How I've learned that certainty is the thing to really fear",
