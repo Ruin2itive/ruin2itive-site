@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-08T21:31:59.233Z",
-  "updated_local": "3/8/2026, 9:31:59 PM",
+  "updated_iso": "2026-03-08T22:21:11.732Z",
+  "updated_local": "3/8/2026, 10:21:11 PM",
   "sections": {
     "crypto": [
       {
@@ -36,37 +36,43 @@
     ],
     "hacker": [
       {
-        "title": "Neural Boids",
-        "url": "https://campedersen.com/noid",
-        "source": "hn",
-        "time": "3/8/2026, 8:14:54 PM"
-      },
-      {
         "title": "Agent Safehouse – macOS-native sandboxing for local agents",
         "url": "https://agent-safehouse.dev/",
         "source": "hn",
         "time": "3/8/2026, 8:30:18 PM"
       },
       {
-        "title": "FrameBook",
-        "url": "https://fb.edoo.gg",
+        "title": "Blacksky AppView",
+        "url": "https://github.com/blacksky-algorithms/atproto",
         "source": "hn",
-        "time": "3/8/2026, 3:21:09 PM"
+        "time": "3/8/2026, 9:40:35 PM"
       },
       {
-        "title": "Every Single Board Computer I Tested in 2025",
+        "title": "Every single board computer I tested in 2025",
         "url": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
         "source": "hn",
         "time": "3/5/2026, 12:24:10 PM"
       },
       {
-        "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
-        "url": "https://github.com/BigBodyCobain/Shadowbroker",
+        "title": "We should revisit literate programming in the agent era",
+        "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
         "source": "hn",
-        "time": "3/8/2026, 7:07:33 PM"
+        "time": "3/8/2026, 7:58:15 PM"
+      },
+      {
+        "title": "Microscopes Can See Video on a LaserDisc",
+        "url": "https://www.youtube.com/watch?v=qZuR-772cks",
+        "source": "hn",
+        "time": "3/7/2026, 10:03:37 PM"
       }
     ],
     "world": [
+      {
+        "title": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
+        "url": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 08 Mar 2026 21:51:48 GMT"
+      },
       {
         "title": "'Night turned into day': Iranians tell of strikes on oil depots",
         "url": "https://www.bbc.com/news/articles/clygpxq41l3o?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cp8rp70x4n4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 08 Mar 2026 11:32:56 GMT"
-      },
-      {
-        "title": "Watch: 'This is a moment of grave peril', says UN humanitarian chief",
-        "url": "https://www.bbc.com/news/videos/c9wnevqljd0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 08 Mar 2026 07:05:27 GMT"
       }
     ],
     "projects": [
