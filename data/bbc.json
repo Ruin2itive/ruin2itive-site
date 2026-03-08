@@ -4,18 +4,18 @@
     "label": "bbc",
     "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
     "take": 2,
-    "built_at": "2026-03-08T13:35:19.294Z"
+    "built_at": "2026-03-08T14:18:43.341Z"
   },
   "items": [
+    {
+      "title": "Man dies outside UK's first drug consumption room",
+      "url": "https://www.bbc.com/news/articles/czd827vj880o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-08T14:08:05.000Z"
+    },
     {
       "title": "How the Iraq war's legacy shaped the UK's Iran response",
       "url": "https://www.bbc.co.uk/sounds/play/p0n5cjb2?at_medium=RSS&at_campaign=rss",
       "date": "2026-03-08T13:17:00.000Z"
-    },
-    {
-      "title": "Explosion at US embassy in Oslo may have been terrorism, Norway police say",
-      "url": "https://www.bbc.com/news/articles/c5yjegg892lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-08T12:30:16.000Z"
     }
   ]
 }
