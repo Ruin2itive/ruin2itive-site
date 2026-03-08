@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-08T20:36:32.320Z",
-  "updated_local": "3/8/2026, 8:36:32 PM",
+  "updated_iso": "2026-03-08T21:21:32.326Z",
+  "updated_local": "3/8/2026, 9:21:32 PM",
   "sections": {
     "crypto": [
       {
@@ -36,28 +36,28 @@
     ],
     "hacker": [
       {
+        "title": "Neural Boids",
+        "url": "https://campedersen.com/noid",
+        "source": "hn",
+        "time": "3/8/2026, 8:14:54 PM"
+      },
+      {
+        "title": "Agent Safehouse – macOS-native sandboxing for local agents",
+        "url": "https://agent-safehouse.dev/",
+        "source": "hn",
+        "time": "3/8/2026, 8:30:18 PM"
+      },
+      {
         "title": "FrameBook",
         "url": "https://fb.edoo.gg",
         "source": "hn",
         "time": "3/8/2026, 3:21:09 PM"
       },
       {
-        "title": "WSL Manager",
-        "url": "https://github.com/bostrot/wsl2-distro-manager",
+        "title": "Every Single Board Computer I Tested in 2025",
+        "url": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
         "source": "hn",
-        "time": "3/8/2026, 6:08:36 PM"
-      },
-      {
-        "title": "Why can't you tune your guitar? (2019)",
-        "url": "https://www.ethanhein.com/wp/2019/why-cant-you-tune-your-guitar/",
-        "source": "hn",
-        "time": "3/4/2026, 10:30:27 PM"
-      },
-      {
-        "title": "Living human brain cells play DOOM on a CL1 [video]",
-        "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
-        "source": "hn",
-        "time": "3/8/2026, 3:07:28 PM"
+        "time": "3/5/2026, 12:24:10 PM"
       },
       {
         "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
