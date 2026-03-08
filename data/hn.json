@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-08T20:17:32.916Z"
+    "built_at": "2026-03-08T21:16:26.084Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Open-source AI SaaS to turn long videos into viral shorts",
-      "url": "https://github.com/mutonby/openshorts",
-      "date": "2026-03-08T20:16:43.000Z"
-    },
-    {
-      "title": "Neural Boids",
-      "url": "https://campedersen.com/noid",
-      "date": "2026-03-08T20:14:54.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
