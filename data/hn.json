@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-08T21:16:26.084Z"
+    "built_at": "2026-03-08T22:15:54.913Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Environment Variable Checker",
+      "url": "https://github.com/Chrilleweb/dotenv-diff",
+      "date": "2026-03-08T22:13:49.000Z"
+    },
+    {
+      "title": "Show HN: I built a site where strangers leave kind voice notes for each other",
+      "url": "https://kindvoicenotes.com",
+      "date": "2026-03-08T22:12:44.000Z"
+    }
+  ]
 }
