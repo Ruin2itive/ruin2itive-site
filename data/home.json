@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-08T10:23:24.983Z",
-  "updated_local": "3/8/2026, 10:23:24 AM",
+  "updated_iso": "2026-03-08T10:34:31.234Z",
+  "updated_local": "3/8/2026, 10:34:31 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "3/8/2026, 8:11:50 AM"
       },
       {
+        "title": "Notes on Writing WASM",
+        "url": "https://notes.brooklynzelenka.com/Blog/Notes-on-Writing-Wasm",
+        "source": "hn",
+        "time": "3/8/2026, 9:24:54 AM"
+      },
+      {
         "title": "Cloud VM benchmarks 2026",
         "url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://github.com/astral-sh/uv/pull/17643",
         "source": "hn",
         "time": "3/8/2026, 1:35:21 AM"
-      },
-      {
-        "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
-        "url": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
-        "source": "hn",
-        "time": "3/4/2026, 3:42:49 PM"
       }
     ],
     "world": [
