@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-09T01:22:41.678Z"
+    "built_at": "2026-03-09T04:10:00.386Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Running multiple Claude Code agents in parallel Git worktrees (ChatML)",
-      "url": "https://github.com/chatml/chatml",
-      "date": "2026-03-09T01:21:53.000Z"
-    },
-    {
-      "title": "Show HN: Ajen – Describe a startup, watch AI employees build it",
-      "url": "https://www.ajen.dev/",
-      "date": "2026-03-09T01:19:09.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
