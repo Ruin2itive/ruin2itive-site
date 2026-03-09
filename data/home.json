@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-09T11:39:08.769Z",
-  "updated_local": "3/9/2026, 11:39:08 AM",
+  "updated_iso": "2026-03-09T12:59:06.405Z",
+  "updated_local": "3/9/2026, 12:59:06 PM",
   "sections": {
     "crypto": [
       {
@@ -48,25 +48,37 @@
         "time": "3/9/2026, 9:25:02 AM"
       },
       {
-        "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe",
+        "title": "Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)",
         "url": "https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/",
         "source": "hn",
         "time": "3/9/2026, 10:14:59 AM"
+      },
+      {
+        "title": "Unlocking Python's Cores:Energy Implications of Removing the GIL",
+        "url": "https://arxiv.org/abs/2603.04782",
+        "source": "hn",
+        "time": "3/6/2026, 8:41:37 AM"
       },
       {
         "title": "Agent Safehouse – macOS-native sandboxing for local agents",
         "url": "https://agent-safehouse.dev/",
         "source": "hn",
         "time": "3/8/2026, 8:30:18 PM"
-      },
-      {
-        "title": "Microscopes can see video on a laserdisc",
-        "url": "https://www.youtube.com/watch?v=qZuR-772cks",
-        "source": "hn",
-        "time": "3/7/2026, 10:03:37 PM"
       }
     ],
     "world": [
+      {
+        "title": "Watch: Why the Iran war is pushing up oil prices",
+        "url": "https://www.bbc.com/news/videos/cpv8342e3xvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 09 Mar 2026 12:30:26 GMT"
+      },
+      {
+        "title": "In maps: Ten days of strikes across the Middle East",
+        "url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 09 Mar 2026 11:45:19 GMT"
+      },
       {
         "title": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
         "url": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +86,16 @@
         "time": "Sun, 08 Mar 2026 21:51:48 GMT"
       },
       {
-        "title": "G7 nations to hold emergency meeting on oil as stock markets sink",
-        "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Ukrainian anti-drone 'bullet' that could help defend Gulf",
+        "url": "https://www.bbc.com/news/videos/cpv83ndmezno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 09 Mar 2026 11:19:20 GMT"
-      },
-      {
-        "title": "'Night turned into day': Iranians tell of strikes on oil depots",
-        "url": "https://www.bbc.com/news/articles/clygpxq41l3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 09 Mar 2026 05:40:05 GMT"
+        "time": "Mon, 09 Mar 2026 10:15:06 GMT"
       },
       {
         "title": "Australia urged to protect Iranian football team after Asian Cup elimination",
         "url": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 09 Mar 2026 06:51:18 GMT"
-      },
-      {
-        "title": "Ukrainian drone experts to share their knowledge in the Middle East",
-        "url": "https://www.bbc.com/news/videos/cpv83ndmezno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 09 Mar 2026 10:15:06 GMT"
       }
     ],
     "projects": [
