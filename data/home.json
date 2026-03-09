@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-09T17:53:04.737Z",
-  "updated_local": "3/9/2026, 5:53:04 PM",
+  "updated_iso": "2026-03-09T18:51:07.890Z",
+  "updated_local": "3/9/2026, 6:51:07 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Coinbase Debuts Crypto Futures for European Traders, Including Bitcoin and Ethereum",
+        "url": "https://decrypt.co/360420/coinbase-debuts-crypto-futures-european-traders-bitcoin-ethereum",
+        "source": "crypto",
+        "time": "Mon, 09 Mar 2026 18:21:44 +0000"
+      },
       {
         "title": "Nigel Farage Backs Bitcoin Treasury Firm Chaired By Former Chancellor",
         "url": "https://decrypt.co/360431/nigel-farage-backs-bitcoin-treasury-firm-chaired-by-former-chancellor",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/360397/morning-minute-bitcoin-rebounds-to-69k-as-oil-skyrockets-then-cools",
         "source": "crypto",
         "time": "Mon, 09 Mar 2026 14:15:03 +0000"
-      },
-      {
-        "title": "Ethereum Rises to $2,000 as Tom Lee&#39;s BitMine Tops Up $9 Billion ETH Treasury",
-        "url": "https://decrypt.co/360405/ethereum-rises-2000-tom-lee-bitmine-9-billion-treasury",
-        "source": "crypto",
-        "time": "Mon, 09 Mar 2026 13:56:31 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Building a Procedural Hex Map with Wave Function Collapse",
-        "url": "https://felixturner.github.io/hex-map-wfc/article/",
-        "source": "hn",
-        "time": "3/9/2026, 5:02:22 PM"
-      },
       {
         "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
         "url": "https://fixfest.therestartproject.org/",
@@ -48,16 +42,22 @@
         "time": "3/9/2026, 5:34:27 PM"
       },
       {
-        "title": "Restoring a Sun SPARCstation IPX Part 1: PSU and Nvram",
-        "url": "https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram",
+        "title": "Building a Procedural Hex Map with Wave Function Collapse",
+        "url": "https://felixturner.github.io/hex-map-wfc/article/",
         "source": "hn",
-        "time": "3/9/2026, 3:23:08 PM"
+        "time": "3/9/2026, 5:02:22 PM"
       },
       {
-        "title": "Florida Judge Rules Red Light Camera Tickets Are Unconstitutional",
-        "url": "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional",
+        "title": "JSLinux Now Supports x86_64",
+        "url": "https://bellard.org/jslinux/",
         "source": "hn",
-        "time": "3/9/2026, 5:20:29 PM"
+        "time": "3/9/2026, 4:43:39 PM"
+      },
+      {
+        "title": "Show HN: The Mog Programming Language",
+        "url": "https://moglang.org",
+        "source": "hn",
+        "time": "3/9/2026, 5:57:00 PM"
       }
     ],
     "world": [
@@ -66,12 +66,6 @@
         "url": "https://www.bbc.com/news/articles/cvg548lyjnyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 09 Mar 2026 15:09:05 GMT"
-      },
-      {
-        "title": "Faisal Islam: Oil price spiral may be slowed but not stopped by G7 emergency move",
-        "url": "https://www.bbc.com/news/articles/cz7g5vv2gejo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 09 Mar 2026 13:17:11 GMT"
       },
       {
         "title": "Five Iranian footballers 'in Australian safe house' after Asian Cup protest",
@@ -90,6 +84,12 @@
         "url": "https://www.bbc.com/news/articles/cwy8ldyp2zwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 09 Mar 2026 15:27:35 GMT"
+      },
+      {
+        "title": "Days of disruption expected as Glasgow Central closed after fire near station",
+        "url": "https://www.bbc.com/news/articles/c1w5yjjylzzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 09 Mar 2026 17:51:31 GMT"
       }
     ],
     "projects": [
