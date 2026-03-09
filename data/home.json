@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-08T23:32:22.854Z",
-  "updated_local": "3/8/2026, 11:32:22 PM",
+  "updated_iso": "2026-03-09T01:59:55.587Z",
+  "updated_local": "3/9/2026, 1:59:55 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Price Slips as Oil Surges and US Stock Futures Tumble",
+        "url": "https://decrypt.co/360386/bitcoin-price-oil-surges-stock-futures-tumble",
+        "source": "crypto",
+        "time": "Mon, 09 Mar 2026 00:05:40 +0000"
+      },
       {
         "title": "Smell Fraud? This Telegram App Was Built to Reward Whistleblowers",
         "url": "https://decrypt.co/360294/smell-fraud-telegram-app-built-reward-whistleblowers",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/360213/digisexual-subculture-people-relationships-ai",
         "source": "crypto",
         "time": "Sat, 07 Mar 2026 13:01:02 +0000"
-      },
-      {
-        "title": "Kalshi Sued Over Refusing to Pay Out Prediction Market After Iran Leader&#39;s Death",
-        "url": "https://decrypt.co/360293/kalshi-sued-refusing-pay-out-prediction-market-iran-leader-death",
-        "source": "crypto",
-        "time": "Fri, 06 Mar 2026 22:08:15 +0000"
       }
     ],
     "hacker": [
@@ -42,31 +42,31 @@
         "time": "3/8/2026, 8:30:18 PM"
       },
       {
-        "title": "Blacksky AppView",
-        "url": "https://github.com/blacksky-algorithms/atproto",
-        "source": "hn",
-        "time": "3/8/2026, 9:40:35 PM"
-      },
-      {
-        "title": "We should revisit literate programming in the agent era",
-        "url": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
-        "source": "hn",
-        "time": "3/8/2026, 7:58:15 PM"
-      },
-      {
-        "title": "Microscopes Can See Video on a LaserDisc",
+        "title": "Microscopes can see video on a laserdisc",
         "url": "https://www.youtube.com/watch?v=qZuR-772cks",
         "source": "hn",
         "time": "3/7/2026, 10:03:37 PM"
       },
       {
-        "title": "Every single board computer I tested in 2025",
-        "url": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
+        "title": "PCB devboard the size of a USB-C plug",
+        "url": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
         "source": "hn",
-        "time": "3/5/2026, 12:24:10 PM"
+        "time": "3/8/2026, 5:04:14 AM"
+      },
+      {
+        "title": "Blacksky AppView",
+        "url": "https://github.com/blacksky-algorithms/atproto",
+        "source": "hn",
+        "time": "3/8/2026, 9:40:35 PM"
       }
     ],
     "world": [
+      {
+        "title": "Oil prices surge above $100 and shares slide over Iran war",
+        "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 09 Mar 2026 00:28:40 GMT"
+      },
       {
         "title": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
         "url": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +90,6 @@
         "url": "https://www.bbc.com/news/articles/clyxp780xvro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 08 Mar 2026 16:53:30 GMT"
-      },
-      {
-        "title": "UK opens charter flights booking portal for Britons in Dubai",
-        "url": "https://www.bbc.com/news/articles/cp8rp70x4n4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 08 Mar 2026 11:32:56 GMT"
       }
     ],
     "projects": [
