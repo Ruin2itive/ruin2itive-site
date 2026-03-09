@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-09T12:59:06.405Z",
-  "updated_local": "3/9/2026, 12:59:06 PM",
+  "updated_iso": "2026-03-09T13:23:07.576Z",
+  "updated_local": "3/9/2026, 1:23:07 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Vienna-based Startup Launches AI Pipeline Builder for Gaming Studios",
+        "url": "https://decrypt.co/360385/vienna-startup-ai-pipeline-builder-gaming-studios",
+        "source": "crypto",
+        "time": "Mon, 09 Mar 2026 13:01:02 +0000"
+      },
       {
         "title": "Post-Quantum Shift Could Force Crypto Exchanges to Rethink Wallet Security",
         "url": "https://decrypt.co/360394/post-quantum-shift-crypto-exchanges-wallet-security",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/360386/bitcoin-price-oil-surges-stock-futures-tumble",
         "source": "crypto",
         "time": "Mon, 09 Mar 2026 00:05:40 +0000"
-      },
-      {
-        "title": "Smell Fraud? This Telegram App Was Built to Reward Whistleblowers",
-        "url": "https://decrypt.co/360294/smell-fraud-telegram-app-built-reward-whistleblowers",
-        "source": "crypto",
-        "time": "Sun, 08 Mar 2026 19:01:02 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "3/9/2026, 10:14:59 AM"
       },
       {
+        "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+        "url": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+        "source": "hn",
+        "time": "3/9/2026, 1:01:01 PM"
+      },
+      {
         "title": "Unlocking Python's Cores:Energy Implications of Removing the GIL",
         "url": "https://arxiv.org/abs/2603.04782",
         "source": "hn",
         "time": "3/6/2026, 8:41:37 AM"
-      },
-      {
-        "title": "Agent Safehouse – macOS-native sandboxing for local agents",
-        "url": "https://agent-safehouse.dev/",
-        "source": "hn",
-        "time": "3/8/2026, 8:30:18 PM"
       }
     ],
     "world": [
