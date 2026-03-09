@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-09T12:42:19.576Z"
+    "built_at": "2026-03-09T14:00:38.559Z"
   },
-  "items": [
-    {
-      "title": "Can AI Kill the Venture Capitalist?",
-      "url": "https://www.wired.com/story/ai-kill-venture-capital/",
-      "date": "2026-03-09T12:41:17.000Z"
-    },
-    {
-      "title": "Deecy: Experimental Dreamcast emulator written in Zig",
-      "url": "https://github.com/Senryoku/Deecy",
-      "date": "2026-03-09T12:39:58.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
