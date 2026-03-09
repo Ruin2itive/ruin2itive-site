@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-09T17:41:55.351Z"
+    "built_at": "2026-03-09T18:41:36.496Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: I built an MCP server so Agents can launch RWAs and compliant tokens",
+      "url": "https://github.com/bitbond/token-tool-mcp",
+      "date": "2026-03-09T18:40:44.000Z"
+    },
+    {
+      "title": "Show HN: FeralDeps, local dependency and vulnerability scanner for Java projects",
+      "url": "https://github.com/PardixLabs/feraldeps-core",
+      "date": "2026-03-09T18:39:08.000Z"
+    }
+  ]
 }
