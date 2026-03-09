@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-09T08:35:39.644Z"
+    "built_at": "2026-03-09T09:40:44.983Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: TrustScan – Simplify privacy policies and audit GDPR compliance",
+      "url": "https://trustscan.dev",
+      "date": "2026-03-09T09:31:47.000Z"
+    },
+    {
+      "title": "Every business will have AGI by 2027",
+      "url": "https://nuggetz.ai/articles/every-business-will-have-agi-by-2027",
+      "date": "2026-03-09T09:29:31.000Z"
+    }
+  ]
 }
