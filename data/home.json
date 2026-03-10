@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-10T14:02:44.313Z",
-  "updated_local": "3/10/2026, 2:02:44 PM",
+  "updated_iso": "2026-03-10T14:59:32.579Z",
+  "updated_local": "3/10/2026, 2:59:32 PM",
   "sections": {
     "crypto": [
       {
@@ -42,28 +42,28 @@
         "time": "3/10/2026, 1:38:39 PM"
       },
       {
-        "title": "I put my whole life into a single database",
-        "url": "https://howisfelix.today/",
-        "source": "hn",
-        "time": "3/10/2026, 10:07:48 AM"
-      },
-      {
         "title": "Intel Demos Chip to Compute with Encrypted Data",
         "url": "https://spectrum.ieee.org/fhe-intel",
         "source": "hn",
         "time": "3/10/2026, 1:10:48 PM"
       },
       {
+        "title": "I put my whole life into a single database",
+        "url": "https://howisfelix.today/",
+        "source": "hn",
+        "time": "3/10/2026, 10:07:48 AM"
+      },
+      {
+        "title": "Turing Award winner and former Oxford professor Tony Hoare passed away",
+        "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+        "source": "hn",
+        "time": "3/10/2026, 2:50:16 PM"
+      },
+      {
         "title": "FreeBSD 14.4-Release Announcement",
         "url": "https://www.freebsd.org/releases/14.4R/announce/",
         "source": "hn",
         "time": "3/10/2026, 10:45:09 AM"
-      },
-      {
-        "title": "Sending Jabber/XMPP Messages via HTTP",
-        "url": "https://gultsch.de/posts/xmpp-via-http/",
-        "source": "hn",
-        "time": "3/10/2026, 1:29:21 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Tue, 10 Mar 2026 12:03:44 GMT"
       },
       {
-        "title": "Glasgow Central Station still shut but seems to have avoided major damage from fire",
-        "url": "https://www.bbc.com/news/articles/cvgjqzl7wrzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Eni Aluko wins Joey Barton libel case over X posts",
+        "url": "https://www.bbc.com/news/articles/c8eg2n83y1eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 10 Mar 2026 12:38:06 GMT"
-      },
-      {
-        "title": "U-turn by Streeting sees senior midwife Ockenden appointed to chair maternity inquiry",
-        "url": "https://www.bbc.com/news/articles/c9v0xmngy9jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 10 Mar 2026 13:04:50 GMT"
+        "time": "Tue, 10 Mar 2026 13:27:46 GMT"
       },
       {
         "title": "Simpson and guide Poth win Paralympic silver for GB",
         "url": "https://www.bbc.com/sport/articles/c1l7y1vq02yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 10 Mar 2026 13:09:09 GMT"
+      },
+      {
+        "title": "U-turn by Streeting sees senior midwife Ockenden appointed to chair maternity inquiry",
+        "url": "https://www.bbc.com/news/articles/c9v0xmngy9jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 10 Mar 2026 13:04:50 GMT"
       }
     ],
     "projects": [
