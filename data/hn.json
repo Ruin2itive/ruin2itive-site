@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-10T15:53:48.761Z"
+    "built_at": "2026-03-10T16:50:19.776Z"
   },
-  "items": [
-    {
-      "title": "Scientists reveal controversial plan to launch 50k MIRRORS into space",
-      "url": "https://www.dailymail.co.uk/sciencetech/article-15631695/Scientists-plan-launch-MIRRORS-space.html",
-      "date": "2026-03-10T15:53:19.000Z"
-    },
-    {
-      "title": "The indexing your database has is more important than many realize",
-      "url": "https://faucetdb.ai/blog/mcp-database-benchmark/",
-      "date": "2026-03-10T15:51:47.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
