@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-10T19:36:59.766Z",
-  "updated_local": "3/10/2026, 7:36:59 PM",
+  "updated_iso": "2026-03-10T20:31:42.955Z",
+  "updated_local": "3/10/2026, 8:31:42 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Meta Acquires Moltbook, the Viral Social Network for AI Agents: Report",
+        "url": "https://decrypt.co/360594/meta-acquires-moltbook-viral-social-network-ai-agents",
+        "source": "crypto",
+        "time": "Tue, 10 Mar 2026 19:43:41 +0000"
+      },
       {
         "title": "There&#39;s a Benchmark Test That Measures AI &#39;Bullshit&#39;—Most Models Fail",
         "url": "https://decrypt.co/360596/benchmark-test-measures-ai-bullshit-most-models-fail",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/360556/bitcoin-rises-trump-iran-threats-fed-rate-cut-chances-near-zero",
         "source": "crypto",
         "time": "Tue, 10 Mar 2026 15:26:03 +0000"
-      },
-      {
-        "title": "Hyperliquid Jumps on Margin Upgrade, Oil Trading Frenzy",
-        "url": "https://decrypt.co/360560/hyperliquid-jumps-on-margin-upgrade-oil-trading-frenzy",
-        "source": "crypto",
-        "time": "Tue, 10 Mar 2026 15:19:42 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,16 @@
         "time": "3/10/2026, 2:50:16 PM"
       },
       {
-        "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
-        "url": "https://github.com/RunanywhereAI/rcli",
+        "title": "Agents that run while I sleep",
+        "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
         "source": "hn",
-        "time": "3/10/2026, 5:14:52 PM"
+        "time": "3/10/2026, 7:09:46 PM"
+      },
+      {
+        "title": "RISC-V Is Sloooow",
+        "url": "https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/",
+        "source": "hn",
+        "time": "3/10/2026, 8:11:54 PM"
       },
       {
         "title": "Yann LeCun raises $1B to build AI that understands the physical world",
@@ -54,16 +60,10 @@
         "time": "3/10/2026, 8:46:53 AM"
       },
       {
-        "title": "You Hired the AI to Write the Tests. Of Course They Pass",
-        "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+        "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+        "url": "https://github.com/RunanywhereAI/rcli",
         "source": "hn",
-        "time": "3/10/2026, 7:09:46 PM"
-      },
-      {
-        "title": "Google to Discontinue Widevine Cloud License Service in April 2027",
-        "url": "https://castlabs.com/blog/widevine-retiring-cloud-license-service/",
-        "source": "hn",
-        "time": "3/10/2026, 7:12:22 PM"
+        "time": "3/10/2026, 5:14:52 PM"
       }
     ],
     "world": [
@@ -71,13 +71,13 @@
         "title": "UK warship HMS Dragon departs for eastern Mediterranean",
         "url": "https://www.bbc.com/news/articles/c0k1yyg475ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 10 Mar 2026 17:37:29 GMT"
+        "time": "Tue, 10 Mar 2026 19:39:17 GMT"
       },
       {
-        "title": "Eni Aluko wins Joey Barton libel case over X posts",
-        "url": "https://www.bbc.com/news/articles/c8eg2n83y1eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war",
+        "url": "https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 10 Mar 2026 13:27:46 GMT"
+        "time": "Tue, 10 Mar 2026 19:35:29 GMT"
       },
       {
         "title": "Teen had 'headache' before holiday park deaths",
@@ -86,16 +86,16 @@
         "time": "Tue, 10 Mar 2026 14:38:24 GMT"
       },
       {
-        "title": "Glasgow Central's main station to remain closed until next week after huge fire",
-        "url": "https://www.bbc.com/news/articles/cvgjqzl7wrzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Jury restriction plan clears first hurdle despite Labour dissent",
+        "url": "https://www.bbc.com/news/articles/cpw0eg9q7kwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 10 Mar 2026 17:53:17 GMT"
+        "time": "Tue, 10 Mar 2026 19:39:19 GMT"
       },
       {
-        "title": "The Brits travelling in their thousands to 'Costa del Cheltenham'",
-        "url": "https://www.bbc.com/sport/horse-racing/articles/czx77n5j7y2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Eni Aluko wins Joey Barton libel case over X posts",
+        "url": "https://www.bbc.com/news/articles/c8eg2n83y1eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 10 Mar 2026 17:16:55 GMT"
+        "time": "Tue, 10 Mar 2026 13:27:46 GMT"
       }
     ],
     "projects": [
