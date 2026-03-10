@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-10T13:57:08.177Z"
+    "built_at": "2026-03-10T14:45:04.537Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries",
+      "url": "https://huggingface.co/blog/async-rl-training-landscape",
+      "date": "2026-03-10T14:44:14.000Z"
+    },
+    {
+      "title": "Slatted Headboard on a Single Wooden Bed Frame: Back Support with Natural Flex",
+      "url": "https://dreamhomestore.co.uk/collections/wooden-bed-frames",
+      "date": "2026-03-10T14:43:27.000Z"
+    }
+  ]
 }
