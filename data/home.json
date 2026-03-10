@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-10T17:00:56.557Z",
-  "updated_local": "3/10/2026, 5:00:56 PM",
+  "updated_iso": "2026-03-10T17:53:35.745Z",
+  "updated_local": "3/10/2026, 5:53:35 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,18 @@
         "time": "3/10/2026, 2:50:16 PM"
       },
       {
+        "title": "Show HN: RunAnwhere – Faster AI Inference on Apple Silicon",
+        "url": "https://github.com/RunanywhereAI/rcli",
+        "source": "hn",
+        "time": "3/10/2026, 5:14:52 PM"
+      },
+      {
+        "title": "I built a programming language using Claude Code",
+        "url": "https://ankursethi.com/blog/programming-language-claude-code/",
+        "source": "hn",
+        "time": "3/10/2026, 4:37:29 PM"
+      },
+      {
         "title": "Debian decides not to decide on AI-generated contributions",
         "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
         "source": "hn",
@@ -52,20 +64,20 @@
         "url": "https://spectrum.ieee.org/fhe-intel",
         "source": "hn",
         "time": "3/10/2026, 1:10:48 PM"
-      },
-      {
-        "title": "I put my whole life into a single database",
-        "url": "https://howisfelix.today/",
-        "source": "hn",
-        "time": "3/10/2026, 10:07:48 AM"
       }
     ],
     "world": [
       {
-        "title": "HMS Dragon sets sail from Portsmouth and heads to Cyprus",
-        "url": "https://www.bbc.com/news/videos/cjeng582d13o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK warship HMS Dragon departs for eastern Mediterranean",
+        "url": "https://www.bbc.com/news/articles/c0k1yyg475ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 10 Mar 2026 16:47:23 GMT"
+        "time": "Tue, 10 Mar 2026 17:37:29 GMT"
+      },
+      {
+        "title": "Nottingham triple killer assaulted husband and wife weeks before attacks, inquiry told",
+        "url": "https://www.bbc.com/news/articles/cze094zdelko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 10 Mar 2026 17:36:33 GMT"
       },
       {
         "title": "An 'epidemic' of violence: The women and girls killed by men last year",
@@ -84,12 +96,6 @@
         "url": "https://www.bbc.com/sport/articles/c1l7y1vq02yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 10 Mar 2026 13:09:09 GMT"
-      },
-      {
-        "title": "Italy buys rare Caravaggio portrait for €30m",
-        "url": "https://www.bbc.com/news/articles/c93j2ekgwqko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 10 Mar 2026 15:18:00 GMT"
       }
     ],
     "projects": [
