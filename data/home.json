@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-03-10T14:59:32.579Z",
-  "updated_local": "3/10/2026, 2:59:32 PM",
+  "updated_iso": "2026-03-10T15:58:13.836Z",
+  "updated_local": "3/10/2026, 3:58:13 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Polymarket, Peter Thiel&#39;s Palantir Eye &#39;Surveillance Models&#39; for Sports Prediction Markets",
+        "url": "https://decrypt.co/360558/polymarket-peter-thiel-palantir-surveillance-models-sports-prediction-markets",
+        "source": "crypto",
+        "time": "Tue, 10 Mar 2026 15:43:12 +0000"
+      },
+      {
+        "title": "Bitcoin Rises as Trump Amplifies Iran Threats, Fed Rate Cut Chances Fall Near Zero",
+        "url": "https://decrypt.co/360556/bitcoin-rises-trump-iran-threats-fed-rate-cut-chances-near-zero",
+        "source": "crypto",
+        "time": "Tue, 10 Mar 2026 15:26:03 +0000"
+      },
+      {
+        "title": "Hyperliquid Jumps on Margin Upgrade, Oil Trading Frenzy",
+        "url": "https://decrypt.co/360560/hyperliquid-jumps-on-margin-upgrade-oil-trading-frenzy",
+        "source": "crypto",
+        "time": "Tue, 10 Mar 2026 15:19:42 +0000"
+      },
       {
         "title": "Fake Police Officers Held French Couple at Knifepoint in $1M Bitcoin Robbery",
         "url": "https://decrypt.co/360553/fake-police-officers-held-french-couple-at-knifepoint-in-1m-bitcoin-robbery",
@@ -14,27 +32,15 @@
         "url": "https://decrypt.co/360547/morning-minute-saylor-buys-1-28b-in-bitcoin-powered-by-strc",
         "source": "crypto",
         "time": "Tue, 10 Mar 2026 12:46:44 +0000"
-      },
-      {
-        "title": "UK Government’s Fraud Strategy Paints Crypto as ‘Growing Risk’",
-        "url": "https://decrypt.co/360548/uk-governments-fraud-strategy-paints-crypto-as-growing-risk",
-        "source": "crypto",
-        "time": "Tue, 10 Mar 2026 12:07:44 +0000"
-      },
-      {
-        "title": "Winklevoss Twins Move $130M in Bitcoin to Gemini Hot Wallets: Arkham",
-        "url": "https://decrypt.co/360539/winklevoss-twins-move-130m-in-bitcoin-to-gemini-hot-wallets-arkham",
-        "source": "crypto",
-        "time": "Tue, 10 Mar 2026 11:02:35 +0000"
-      },
-      {
-        "title": "Wall Street Banks Weigh Lawsuit Over Crypto Banking Charters",
-        "url": "https://decrypt.co/360524/wall-street-banks-weigh-lawsuit-over-crypto-banking-charters",
-        "source": "crypto",
-        "time": "Tue, 10 Mar 2026 06:18:23 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Tony Hoare has died",
+        "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+        "source": "hn",
+        "time": "3/10/2026, 2:50:16 PM"
+      },
       {
         "title": "Rebasing in Magit",
         "url": "https://entropicthoughts.com/rebasing-in-magit",
@@ -48,22 +54,16 @@
         "time": "3/10/2026, 1:10:48 PM"
       },
       {
+        "title": "RFC 454545 – Human Em Dash Standard",
+        "url": "https://gist.github.com/bignimbus/a75cc9d703abf0b21a57c0d21a79e2be",
+        "source": "hn",
+        "time": "3/10/2026, 2:37:55 PM"
+      },
+      {
         "title": "I put my whole life into a single database",
         "url": "https://howisfelix.today/",
         "source": "hn",
         "time": "3/10/2026, 10:07:48 AM"
-      },
-      {
-        "title": "Turing Award winner and former Oxford professor Tony Hoare passed away",
-        "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-        "source": "hn",
-        "time": "3/10/2026, 2:50:16 PM"
-      },
-      {
-        "title": "FreeBSD 14.4-Release Announcement",
-        "url": "https://www.freebsd.org/releases/14.4R/announce/",
-        "source": "hn",
-        "time": "3/10/2026, 10:45:09 AM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.com/news/articles/cg5nelp5enpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 10 Mar 2026 06:00:04 GMT"
+      },
+      {
+        "title": "U-turn by Streeting sees senior midwife Ockenden appointed to chair maternity inquiry",
+        "url": "https://www.bbc.com/news/articles/c9v0xmngy9jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 10 Mar 2026 13:04:50 GMT"
       },
       {
         "title": "Inmate charged with murder of Soham killer Ian Huntley",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/sport/articles/c1l7y1vq02yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 10 Mar 2026 13:09:09 GMT"
-      },
-      {
-        "title": "U-turn by Streeting sees senior midwife Ockenden appointed to chair maternity inquiry",
-        "url": "https://www.bbc.com/news/articles/c9v0xmngy9jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 10 Mar 2026 13:04:50 GMT"
       }
     ],
     "projects": [
