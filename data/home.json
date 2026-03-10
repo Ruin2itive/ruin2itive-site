@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-10T05:53:56.642Z",
-  "updated_local": "3/10/2026, 5:53:56 AM",
+  "updated_iso": "2026-03-10T06:45:30.170Z",
+  "updated_local": "3/10/2026, 6:45:30 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Wall Street Banks Weigh Lawsuit Over Crypto Banking Charters",
+        "url": "https://decrypt.co/360524/wall-street-banks-weigh-lawsuit-over-crypto-banking-charters",
+        "source": "crypto",
+        "time": "Tue, 10 Mar 2026 06:18:23 +0000"
+      },
       {
         "title": "Trump&#39;s DOJ Seeks October Retrial for Tornado Cash Developer Roman Storm",
         "url": "https://decrypt.co/360521/trumps-doj-seeks-october-retrial-tornado-cash-developer",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/360493/americans-ai-every-day-most-still-dont-like-it",
         "source": "crypto",
         "time": "Mon, 09 Mar 2026 22:34:03 +0000"
-      },
-      {
-        "title": "Moldova&#39;s Anticorruption Center Alleges $107M Crypto Scheme to Influence Elections",
-        "url": "https://decrypt.co/360396/moldova-107m-crypto-scheme-influence-elections",
-        "source": "crypto",
-        "time": "Mon, 09 Mar 2026 21:50:27 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Two Years of Emacs Solo",
+        "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+        "source": "hn",
+        "time": "3/10/2026, 12:16:44 AM"
+      },
       {
         "title": "Learnings from paying artists royalties for AI-generated art",
         "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
@@ -42,22 +48,16 @@
         "time": "3/10/2026, 2:24:52 AM"
       },
       {
-        "title": "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor",
-        "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+        "title": "Optimizing Top K in Postgres",
+        "url": "https://www.paradedb.com/blog/optimizing-top-k",
         "source": "hn",
-        "time": "3/10/2026, 12:16:44 AM"
+        "time": "3/8/2026, 10:54:17 PM"
       },
       {
         "title": "Building a Procedural Hex Map with Wave Function Collapse",
         "url": "https://felixturner.github.io/hex-map-wfc/article/",
         "source": "hn",
         "time": "3/9/2026, 5:02:22 PM"
-      },
-      {
-        "title": "How we optimized Top K in Postgres",
-        "url": "https://www.paradedb.com/blog/optimizing-top-k",
-        "source": "hn",
-        "time": "3/8/2026, 10:54:17 PM"
       },
       {
         "title": "Show HN: Remotely use my guitar tuner",
@@ -68,16 +68,22 @@
     ],
     "world": [
       {
-        "title": "Rising prices, mixed messages: Iran war is fraught with political risk for Trump",
-        "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Chris Mason: The cost of living is catapulted centre stage yet again",
+        "url": "https://www.bbc.com/news/articles/c4gqyp8q594o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 10 Mar 2026 02:37:46 GMT"
+        "time": "Tue, 10 Mar 2026 06:04:13 GMT"
       },
       {
         "title": "Five Iranian footballers granted Australian visas after anthem protest",
         "url": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 09 Mar 2026 21:46:53 GMT"
+      },
+      {
+        "title": "Rising prices, mixed messages: Iran war is fraught with political risk for Trump",
+        "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 10 Mar 2026 02:37:46 GMT"
       },
       {
         "title": "Faisal Islam: Trump comments may have eased oil price surge, but havoc remains",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cvg548lyjnyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 09 Mar 2026 15:09:05 GMT"
-      },
-      {
-        "title": "RAF jets have taken out two more drones, says Healey",
-        "url": "https://www.bbc.com/news/articles/c0mgyw32j8jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 09 Mar 2026 18:49:15 GMT"
       }
     ],
     "projects": [
