@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-10T12:56:52.835Z",
-  "updated_local": "3/10/2026, 12:56:52 PM",
+  "updated_iso": "2026-03-10T13:20:45.433Z",
+  "updated_local": "3/10/2026, 1:20:45 PM",
   "sections": {
     "crypto": [
       {
@@ -42,12 +42,6 @@
         "time": "3/10/2026, 10:07:48 AM"
       },
       {
-        "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-        "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-        "source": "hn",
-        "time": "3/10/2026, 8:54:53 AM"
-      },
-      {
         "title": "FreeBSD 14.4-Release Announcement",
         "url": "https://www.freebsd.org/releases/14.4R/announce/",
         "source": "hn",
@@ -58,6 +52,18 @@
         "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
         "source": "hn",
         "time": "3/7/2026, 11:28:37 AM"
+      },
+      {
+        "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+        "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+        "source": "hn",
+        "time": "3/10/2026, 8:54:53 AM"
+      },
+      {
+        "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+        "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
+        "source": "hn",
+        "time": "3/10/2026, 10:50:30 AM"
       }
     ],
     "world": [
@@ -80,16 +86,16 @@
         "time": "Tue, 10 Mar 2026 12:38:06 GMT"
       },
       {
-        "title": "Five Iranian footballers granted Australian visas after anthem protest",
-        "url": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 10 Mar 2026 10:38:32 GMT"
-      },
-      {
         "title": "How the 'red v blue school wars' exposed the social media gap between children and parents",
         "url": "https://www.bbc.com/news/articles/cy4wgzdydkeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 10 Mar 2026 00:03:58 GMT"
+      },
+      {
+        "title": "Olivia Dean to headline final day of Radio 1's Big Weekend 2026",
+        "url": "https://www.bbc.com/news/articles/cvgjqv9xyj9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 10 Mar 2026 09:23:47 GMT"
       }
     ],
     "projects": [
