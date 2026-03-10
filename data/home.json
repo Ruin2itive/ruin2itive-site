@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-10T10:53:06.705Z",
-  "updated_local": "3/10/2026, 10:53:06 AM",
+  "updated_iso": "2026-03-10T11:31:30.805Z",
+  "updated_local": "3/10/2026, 11:31:30 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Winklevoss Twins Move $130M in Bitcoin to Gemini Hot Wallets: Arkham",
+        "url": "https://decrypt.co/360539/winklevoss-twins-move-130m-in-bitcoin-to-gemini-hot-wallets-arkham",
+        "source": "crypto",
+        "time": "Tue, 10 Mar 2026 11:02:35 +0000"
+      },
       {
         "title": "Wall Street Banks Weigh Lawsuit Over Crypto Banking Charters",
         "url": "https://decrypt.co/360524/wall-street-banks-weigh-lawsuit-over-crypto-banking-charters",
@@ -26,20 +32,26 @@
         "url": "https://decrypt.co/360512/bitcoin-tentative-signs-iran-conflict-fears-wane",
         "source": "crypto",
         "time": "Tue, 10 Mar 2026 01:21:36 +0000"
-      },
-      {
-        "title": "Americans Use AI Every Day—But Most Still Don&#39;t Like It, New Poll Shows",
-        "url": "https://decrypt.co/360493/americans-ai-every-day-most-still-dont-like-it",
-        "source": "crypto",
-        "time": "Mon, 09 Mar 2026 22:34:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "I put my whole life into a single database",
+        "url": "https://howisfelix.today/",
+        "source": "hn",
+        "time": "3/10/2026, 10:07:48 AM"
+      },
       {
         "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
         "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
         "source": "hn",
         "time": "3/10/2026, 8:54:53 AM"
+      },
+      {
+        "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+        "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
+        "source": "hn",
+        "time": "3/10/2026, 10:50:30 AM"
       },
       {
         "title": "Lotus 1-2-3 on the PC with DOS",
@@ -52,18 +64,6 @@
         "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
         "source": "hn",
         "time": "3/10/2026, 12:16:44 AM"
-      },
-      {
-        "title": "LoGeR – 3D reconstruction from extremely long videos (DeepMind, UC Berkeley)",
-        "url": "https://loger-project.github.io",
-        "source": "hn",
-        "time": "3/10/2026, 6:16:06 AM"
-      },
-      {
-        "title": "Building a Procedural Hex Map with Wave Function Collapse",
-        "url": "https://felixturner.github.io/hex-map-wfc/article/",
-        "source": "hn",
-        "time": "3/9/2026, 5:02:22 PM"
       }
     ],
     "world": [
@@ -77,13 +77,13 @@
         "title": "Inmate charged with murder of Soham killer Ian Huntley",
         "url": "https://www.bbc.com/news/articles/cvg8ll4l7d9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 10 Mar 2026 10:52:35 GMT"
+        "time": "Tue, 10 Mar 2026 11:04:56 GMT"
       },
       {
         "title": "Glasgow Central Station remains closed in aftermath of fire",
         "url": "https://www.bbc.com/news/articles/cvgjqzl7wrzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 10 Mar 2026 10:30:07 GMT"
+        "time": "Tue, 10 Mar 2026 11:29:59 GMT"
       },
       {
         "title": "Five Iranian footballers granted Australian visas after anthem protest",
