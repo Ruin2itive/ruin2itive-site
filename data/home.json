@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-10T19:01:33.716Z",
-  "updated_local": "3/10/2026, 7:01:33 PM",
+  "updated_iso": "2026-03-10T19:36:59.766Z",
+  "updated_local": "3/10/2026, 7:36:59 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "There&#39;s a Benchmark Test That Measures AI &#39;Bullshit&#39;—Most Models Fail",
+        "url": "https://decrypt.co/360596/benchmark-test-measures-ai-bullshit-most-models-fail",
+        "source": "crypto",
+        "time": "Tue, 10 Mar 2026 19:26:45 +0000"
+      },
       {
         "title": "Elon Musk&#39;s X Money App Nears Public Launch, No Sign of Dogecoin",
         "url": "https://decrypt.co/360565/elon-musk-x-money-app-nears-public-launch-no-sign-dogecoin",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/360560/hyperliquid-jumps-on-margin-upgrade-oil-trading-frenzy",
         "source": "crypto",
         "time": "Tue, 10 Mar 2026 15:19:42 +0000"
-      },
-      {
-        "title": "Fake Police Officers Held French Couple at Knifepoint in $1M Bitcoin Robbery",
-        "url": "https://decrypt.co/360553/fake-police-officers-held-french-couple-at-knifepoint-in-1m-bitcoin-robbery",
-        "source": "crypto",
-        "time": "Tue, 10 Mar 2026 13:33:30 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "3/10/2026, 8:46:53 AM"
       },
       {
-        "title": "Debian decides not to decide on AI-generated contributions",
-        "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+        "title": "You Hired the AI to Write the Tests. Of Course They Pass",
+        "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
         "source": "hn",
-        "time": "3/10/2026, 2:53:13 PM"
+        "time": "3/10/2026, 7:09:46 PM"
       },
       {
-        "title": "Billion-Parameter Theories",
-        "url": "https://www.worldgov.org/complexity.html",
+        "title": "Google to Discontinue Widevine Cloud License Service in April 2027",
+        "url": "https://castlabs.com/blog/widevine-retiring-cloud-license-service/",
         "source": "hn",
-        "time": "3/10/2026, 5:49:53 PM"
+        "time": "3/10/2026, 7:12:22 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Tue, 10 Mar 2026 17:37:29 GMT"
       },
       {
-        "title": "Nottingham triple killer assaulted husband and wife weeks before attacks, inquiry told",
-        "url": "https://www.bbc.com/news/articles/cze094zdelko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 10 Mar 2026 17:36:33 GMT"
-      },
-      {
-        "title": "An 'epidemic' of violence: The women and girls killed by men last year",
-        "url": "https://www.bbc.com/news/articles/cg5nelp5enpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 10 Mar 2026 06:00:04 GMT"
-      },
-      {
         "title": "Eni Aluko wins Joey Barton libel case over X posts",
         "url": "https://www.bbc.com/news/articles/c8eg2n83y1eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 10 Mar 2026 13:27:46 GMT"
       },
       {
-        "title": "Simpson and guide Poth win Paralympic silver for GB",
-        "url": "https://www.bbc.com/sport/articles/c1l7y1vq02yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Teen had 'headache' before holiday park deaths",
+        "url": "https://www.bbc.com/news/articles/cwy6046nv00o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 10 Mar 2026 13:09:09 GMT"
+        "time": "Tue, 10 Mar 2026 14:38:24 GMT"
+      },
+      {
+        "title": "Glasgow Central's main station to remain closed until next week after huge fire",
+        "url": "https://www.bbc.com/news/articles/cvgjqzl7wrzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 10 Mar 2026 17:53:17 GMT"
+      },
+      {
+        "title": "The Brits travelling in their thousands to 'Costa del Cheltenham'",
+        "url": "https://www.bbc.com/sport/horse-racing/articles/czx77n5j7y2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 10 Mar 2026 17:16:55 GMT"
       }
     ],
     "projects": [
