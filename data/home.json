@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-10T08:55:58.238Z",
-  "updated_local": "3/10/2026, 8:55:58 AM",
+  "updated_iso": "2026-03-10T09:41:24.624Z",
+  "updated_local": "3/10/2026, 9:41:24 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+        "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+        "source": "hn",
+        "time": "3/10/2026, 8:54:53 AM"
+      },
+      {
         "title": "Lotus 1-2-3 on the PC with DOS",
         "url": "https://stonetools.ghost.io/lotus123-dos/",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "3/10/2026, 12:16:44 AM"
       },
       {
-        "title": "macOS Tahoe windows have different corner radiuses",
-        "url": "https://lapcatsoftware.com/articles/2026/3/1.html",
-        "source": "hn",
-        "time": "3/6/2026, 7:20:18 PM"
-      },
-      {
-        "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
-        "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
-        "source": "hn",
-        "time": "3/9/2026, 11:22:06 PM"
-      },
-      {
         "title": "Optimizing Top K in Postgres",
         "url": "https://www.paradedb.com/blog/optimizing-top-k",
         "source": "hn",
         "time": "3/8/2026, 10:54:17 PM"
+      },
+      {
+        "title": "macOS Tahoe windows have different corner radiuses",
+        "url": "https://lapcatsoftware.com/articles/2026/3/1.html",
+        "source": "hn",
+        "time": "3/6/2026, 7:20:18 PM"
       }
     ],
     "world": [
@@ -74,7 +74,7 @@
         "time": "Tue, 10 Mar 2026 07:00:04 GMT"
       },
       {
-        "title": "Rising prices, mixed messages: Iran war is fraught with political risk for Trump",
+        "title": "Mixed messages from Trump leave more questions than answers over war's end",
         "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 10 Mar 2026 02:37:46 GMT"
