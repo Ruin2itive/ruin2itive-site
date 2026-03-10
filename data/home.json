@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-10T13:20:45.433Z",
-  "updated_local": "3/10/2026, 1:20:45 PM",
+  "updated_iso": "2026-03-10T14:02:44.313Z",
+  "updated_local": "3/10/2026, 2:02:44 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Fake Police Officers Held French Couple at Knifepoint in $1M Bitcoin Robbery",
+        "url": "https://decrypt.co/360553/fake-police-officers-held-french-couple-at-knifepoint-in-1m-bitcoin-robbery",
+        "source": "crypto",
+        "time": "Tue, 10 Mar 2026 13:33:30 +0000"
+      },
       {
         "title": "Morning Minute: Saylor Buys $1.28B in Bitcoin, Powered by STRC",
         "url": "https://decrypt.co/360547/morning-minute-saylor-buys-1-28b-in-bitcoin-powered-by-strc",
@@ -26,20 +32,26 @@
         "url": "https://decrypt.co/360524/wall-street-banks-weigh-lawsuit-over-crypto-banking-charters",
         "source": "crypto",
         "time": "Tue, 10 Mar 2026 06:18:23 +0000"
-      },
-      {
-        "title": "Trump&#39;s DOJ Seeks October Retrial for Tornado Cash Developer Roman Storm",
-        "url": "https://decrypt.co/360521/trumps-doj-seeks-october-retrial-tornado-cash-developer",
-        "source": "crypto",
-        "time": "Tue, 10 Mar 2026 04:46:28 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Rebasing in Magit",
+        "url": "https://entropicthoughts.com/rebasing-in-magit",
+        "source": "hn",
+        "time": "3/10/2026, 1:38:39 PM"
+      },
       {
         "title": "I put my whole life into a single database",
         "url": "https://howisfelix.today/",
         "source": "hn",
         "time": "3/10/2026, 10:07:48 AM"
+      },
+      {
+        "title": "Intel Demos Chip to Compute with Encrypted Data",
+        "url": "https://spectrum.ieee.org/fhe-intel",
+        "source": "hn",
+        "time": "3/10/2026, 1:10:48 PM"
       },
       {
         "title": "FreeBSD 14.4-Release Announcement",
@@ -48,22 +60,10 @@
         "time": "3/10/2026, 10:45:09 AM"
       },
       {
-        "title": "The Gervais Principle, or the Office According to \"The Office\" (2009)",
-        "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+        "title": "Sending Jabber/XMPP Messages via HTTP",
+        "url": "https://gultsch.de/posts/xmpp-via-http/",
         "source": "hn",
-        "time": "3/7/2026, 11:28:37 AM"
-      },
-      {
-        "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-        "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-        "source": "hn",
-        "time": "3/10/2026, 8:54:53 AM"
-      },
-      {
-        "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
-        "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
-        "source": "hn",
-        "time": "3/10/2026, 10:50:30 AM"
+        "time": "3/10/2026, 1:29:21 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Tue, 10 Mar 2026 12:38:06 GMT"
       },
       {
-        "title": "How the 'red v blue school wars' exposed the social media gap between children and parents",
-        "url": "https://www.bbc.com/news/articles/cy4wgzdydkeo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "U-turn by Streeting sees senior midwife Ockenden appointed to chair maternity inquiry",
+        "url": "https://www.bbc.com/news/articles/c9v0xmngy9jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 10 Mar 2026 00:03:58 GMT"
+        "time": "Tue, 10 Mar 2026 13:04:50 GMT"
       },
       {
-        "title": "Olivia Dean to headline final day of Radio 1's Big Weekend 2026",
-        "url": "https://www.bbc.com/news/articles/cvgjqv9xyj9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Simpson and guide Poth win Paralympic silver for GB",
+        "url": "https://www.bbc.com/sport/articles/c1l7y1vq02yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 10 Mar 2026 09:23:47 GMT"
+        "time": "Tue, 10 Mar 2026 13:09:09 GMT"
       }
     ],
     "projects": [
