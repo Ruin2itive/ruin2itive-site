@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-11T06:42:07.078Z"
+    "built_at": "2026-03-11T07:38:48.613Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Access all your apps with a single AI",
-      "url": "https://www.reflexion-labs.com",
-      "date": "2026-03-11T06:36:24.000Z"
-    },
-    {
-      "title": "The Russian explosives plot that targeted the UK",
-      "url": "https://www.bbc.com/news/articles/cpd83zwqlvno",
-      "date": "2026-03-11T06:35:12.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
