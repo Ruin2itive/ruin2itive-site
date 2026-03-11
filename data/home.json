@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-11T17:47:41.107Z",
-  "updated_local": "3/11/2026, 5:47:41 PM",
+  "updated_iso": "2026-03-11T18:51:42.128Z",
+  "updated_local": "3/11/2026, 6:51:42 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Wells Fargo Applies for WFUSD Trademark, Signaling Use in Crypto and Stablecoins",
+        "url": "https://decrypt.co/360734/wells-fargo-wfusd-trademark-signaling-use-crypto-stablecoins",
+        "source": "crypto",
+        "time": "Wed, 11 Mar 2026 18:48:04 +0000"
+      },
+      {
+        "title": "Android Phone Crypto Wallets Could Be at Risk Due to MediaTek Exploit: Ledger",
+        "url": "https://decrypt.co/360722/android-phone-crypto-wallets-could-be-exposed-to-exploit-heres-who-is-at-risk",
+        "source": "crypto",
+        "time": "Wed, 11 Mar 2026 18:08:19 +0000"
+      },
       {
         "title": "Myriad to Use USD1 on BNB Chain as Exclusive Settlement Asset",
         "url": "https://decrypt.co/360708/myriad-to-use-usd1-on-bnb-chain-as-exclusive-settlement-asset",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/360714/top-bitcoin-mining-pool-operator-foundry-zcash",
         "source": "crypto",
         "time": "Wed, 11 Mar 2026 15:51:12 +0000"
-      },
-      {
-        "title": "Mastercard Recruits Binance, Ripple and PayPal for Crypto Partner Program",
-        "url": "https://decrypt.co/360715/mastercard-recruits-binance-ripple-paypal-crypto-partner-program",
-        "source": "crypto",
-        "time": "Wed, 11 Mar 2026 15:31:18 +0000"
-      },
-      {
-        "title": "Brera Stock Plunges Amid Growing Solana Pivot as &#39;Solmate&#39; Firm Dumps Soccer Teams",
-        "url": "https://decrypt.co/360710/brera-stock-plunges-growing-solana-pivot-solmate-firm-dumps-soccer-teams",
-        "source": "crypto",
-        "time": "Wed, 11 Mar 2026 15:14:25 +0000"
       }
     ],
     "hacker": [
@@ -42,31 +42,37 @@
         "time": "3/11/2026, 3:35:50 PM"
       },
       {
-        "title": "Entities enabling scientific fraud at scale are large, resilient, growing (2025)",
-        "url": "https://doi.org/10.1073/pnas.2420092122",
-        "source": "hn",
-        "time": "3/11/2026, 1:32:12 PM"
-      },
-      {
         "title": "Making WebAssembly a first-class language on the Web",
         "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
         "source": "hn",
         "time": "3/11/2026, 4:44:46 AM"
       },
       {
-        "title": "Where Some See Strings, She Sees a Space-Time Made of Fractals",
-        "url": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
+        "title": "Entities enabling scientific fraud at scale are large, resilient, growing (2025)",
+        "url": "https://doi.org/10.1073/pnas.2420092122",
         "source": "hn",
-        "time": "3/11/2026, 3:48:29 PM"
+        "time": "3/11/2026, 1:32:12 PM"
       },
       {
         "title": "BitNet: 100B Param 1-Bit model for local CPUs",
         "url": "https://github.com/microsoft/BitNet",
         "source": "hn",
         "time": "3/11/2026, 12:27:15 PM"
+      },
+      {
+        "title": "Where Some See Strings, She Sees a Space-Time Made of Fractals",
+        "url": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
+        "source": "hn",
+        "time": "3/11/2026, 3:48:29 PM"
       }
     ],
     "world": [
+      {
+        "title": "Starmer was warned of 'reputational risk' over Mandelson's links with Epstein, files show",
+        "url": "https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 11 Mar 2026 18:30:20 GMT"
+      },
       {
         "title": "A 'weirdly rushed' appointment - and other key takeaways from Mandelson files",
         "url": "https://www.bbc.com/news/articles/cm2rg8z6p1vo?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cn0znqkqkdro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 11 Mar 2026 12:54:56 GMT"
-      },
-      {
-        "title": "Tourist attractions call for changes to weather apps over 'misleading' rain icons",
-        "url": "https://www.bbc.com/news/articles/czj18j09wvro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 11 Mar 2026 14:49:28 GMT"
       }
     ],
     "projects": [
