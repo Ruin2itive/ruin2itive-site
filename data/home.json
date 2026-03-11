@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-11T12:56:25.549Z",
-  "updated_local": "3/11/2026, 12:56:25 PM",
+  "updated_iso": "2026-03-11T13:20:11.173Z",
+  "updated_local": "3/11/2026, 1:20:11 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "DOJ Investigating if Iran Used Binance to Evade Sanctions: WSJ",
+        "url": "https://decrypt.co/360680/doj-investigating-if-iran-used-binance-to-evade-sanctions-wsj",
+        "source": "crypto",
+        "time": "Wed, 11 Mar 2026 12:57:05 +0000"
+      },
       {
         "title": "Bitcoin Retreats Under $70K as IEA Weighs Historic Oil Reserve Release",
         "url": "https://decrypt.co/360671/bitcoin-retreats-under-70k-as-iea-weighs-historic-oil-reserve-release",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/360638/ripple-seeks-australian-license-scale-payments",
         "source": "crypto",
         "time": "Wed, 11 Mar 2026 03:15:47 +0000"
-      },
-      {
-        "title": "China Plays the Long Game in AI While US Chases Superintelligence: Brookings",
-        "url": "https://decrypt.co/360642/china-long-game-ai-us-chases-superintelligence-brookings",
-        "source": "crypto",
-        "time": "Wed, 11 Mar 2026 01:52:59 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://github.com/microsoft/BitNet",
         "source": "hn",
         "time": "3/11/2026, 12:27:15 PM"
+      },
+      {
+        "title": "PeppyOS: A simpler alternative to ROS 2 (now with containers support)",
+        "url": "https://peppy.bot/",
+        "source": "hn",
+        "time": "3/8/2026, 10:46:56 AM"
       },
       {
         "title": "Building a TB-303 from Scratch",
@@ -58,12 +64,6 @@
         "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
         "source": "hn",
         "time": "3/11/2026, 5:45:49 AM"
-      },
-      {
-        "title": "Cloudflare crawl endpoint",
-        "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
-        "source": "hn",
-        "time": "3/10/2026, 10:27:15 PM"
       }
     ],
     "world": [
@@ -74,10 +74,10 @@
         "time": "Wed, 11 Mar 2026 12:40:30 GMT"
       },
       {
-        "title": "Boy, 16, arrested after girl stabbed at high school",
+        "title": "Boy, 16, arrested after girl is stabbed at school",
         "url": "https://www.bbc.com/news/articles/c15x1wnd7yqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 11 Mar 2026 12:39:09 GMT"
+        "time": "Wed, 11 Mar 2026 13:10:24 GMT"
       },
       {
         "title": "The Aldi-style disruptors who could be about to shake up the vets market",
@@ -89,7 +89,7 @@
         "title": "March organised by Iran-linked group banned after police request",
         "url": "https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 11 Mar 2026 11:26:54 GMT"
+        "time": "Wed, 11 Mar 2026 13:18:46 GMT"
       },
       {
         "title": "Pop music's bias towards English is fading, says Spotify",
