@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-11T01:17:10.021Z"
+    "built_at": "2026-03-11T04:03:07.155Z"
   },
-  "items": [
-    {
-      "title": "Breaking Control Flow Integrity by Abusing Modern C++ (Coroutines) – BH USA 2025 [video]",
-      "url": "https://www.youtube.com/watch?v=hxIPoi4ONNA",
-      "date": "2026-03-11T01:16:05.000Z"
-    },
-    {
-      "title": "Show HN: ImageHost.ing – burn-after-reading image host on Cloudflare's free tier",
-      "url": "https://imagehost.ing",
-      "date": "2026-03-11T01:16:02.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
