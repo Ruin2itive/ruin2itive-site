@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-11T05:56:24.610Z",
-  "updated_local": "3/11/2026, 5:56:24 AM",
+  "updated_iso": "2026-03-11T06:51:37.042Z",
+  "updated_local": "3/11/2026, 6:51:37 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Tony Hoare has died",
-        "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+        "title": "Create value for others and don’t worry about the returns",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
         "source": "hn",
-        "time": "3/10/2026, 2:50:16 PM"
+        "time": "3/11/2026, 5:45:49 AM"
       },
       {
         "title": "Zig – Type Resolution Redesign and Language Changes",
@@ -54,16 +54,16 @@
         "time": "3/10/2026, 10:33:45 PM"
       },
       {
-        "title": "Cloudflare crawl endpoint",
-        "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
-        "source": "hn",
-        "time": "3/10/2026, 10:27:15 PM"
-      },
-      {
         "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
         "url": "https://github.com/gcv/julia-snail",
         "source": "hn",
         "time": "3/8/2026, 9:27:34 AM"
+      },
+      {
+        "title": "Cloudflare crawl endpoint",
+        "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+        "source": "hn",
+        "time": "3/10/2026, 10:27:15 PM"
       }
     ],
     "world": [
@@ -80,7 +80,7 @@
         "time": "Tue, 10 Mar 2026 19:35:29 GMT"
       },
       {
-        "title": "University tuition fees system is a 'mess', says Clegg",
+        "title": "University tuition fees system is a 'mess', says Sir Nick Clegg",
         "url": "https://www.bbc.com/news/articles/c1e9yyg23dyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 11 Mar 2026 00:02:43 GMT"
@@ -92,10 +92,10 @@
         "time": "Wed, 11 Mar 2026 00:10:20 GMT"
       },
       {
-        "title": "Gale-force winds to batter UK as snow and cold set for comeback",
-        "url": "https://www.bbc.com/weather/articles/cly877pe9l8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Inside the Russian explosives plot that targeted the UK",
+        "url": "https://www.bbc.com/news/articles/cpd83zwqlvno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 11 Mar 2026 00:29:17 GMT"
+        "time": "Wed, 11 Mar 2026 06:00:08 GMT"
       }
     ],
     "projects": [
