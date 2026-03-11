@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-11T02:42:47.236Z",
-  "updated_local": "3/11/2026, 2:42:47 AM",
+  "updated_iso": "2026-03-11T04:08:45.962Z",
+  "updated_local": "3/11/2026, 4:08:45 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Ripple Seeks Australian Financial License to &#39;Scale&#39; Payments Across the Region",
+        "url": "https://decrypt.co/360638/ripple-seeks-australian-license-scale-payments",
+        "source": "crypto",
+        "time": "Wed, 11 Mar 2026 03:15:47 +0000"
+      },
       {
         "title": "China Plays the Long Game in AI While US Chases Superintelligence: Brookings",
         "url": "https://decrypt.co/360642/china-long-game-ai-us-chases-superintelligence-brookings",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/360628/basketball-fun-base-marketplace-nba-star-tristan-thompson-departs",
         "source": "crypto",
         "time": "Tue, 10 Mar 2026 21:55:37 +0000"
-      },
-      {
-        "title": "Why Bitcoin Is on a Path to $1 Million Per Coin: Bitwise",
-        "url": "https://decrypt.co/360626/why-bitcoin-path-1-million-coin-bitwise",
-        "source": "crypto",
-        "time": "Tue, 10 Mar 2026 21:22:57 +0000"
       }
     ],
     "hacker": [
@@ -48,6 +48,12 @@
         "time": "3/10/2026, 10:33:45 PM"
       },
       {
+        "title": "Zig – Type Resolution Redesign and Language Changes",
+        "url": "https://ziglang.org/devlog/2026/#2026-03-10",
+        "source": "hn",
+        "time": "3/11/2026, 1:24:47 AM"
+      },
+      {
         "title": "Cloudflare crawl endpoint",
         "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
         "source": "hn",
@@ -58,20 +64,14 @@
         "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
         "source": "hn",
         "time": "3/10/2026, 7:09:46 PM"
-      },
-      {
-        "title": "Yann LeCun raises $1B to build AI that understands the physical world",
-        "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-        "source": "hn",
-        "time": "3/10/2026, 8:46:53 AM"
       }
     ],
     "world": [
       {
-        "title": "UK warship HMS Dragon departs for eastern Mediterranean",
-        "url": "https://www.bbc.com/news/articles/c0k1yyg475ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Iran war cost will be passed to consumers, shipping giant boss tells BBC",
+        "url": "https://www.bbc.com/news/articles/c5ykzyd0rkyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 10 Mar 2026 19:39:17 GMT"
+        "time": "Wed, 11 Mar 2026 00:27:15 GMT"
       },
       {
         "title": "Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war",
@@ -92,10 +92,10 @@
         "time": "Wed, 11 Mar 2026 00:10:20 GMT"
       },
       {
-        "title": "First Mandelson files expected to be published on Wednesday",
-        "url": "https://www.bbc.com/news/articles/c4gqj5z4qwqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Gale-force winds to batter UK as snow and cold set for comeback",
+        "url": "https://www.bbc.com/weather/articles/cly877pe9l8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 10 Mar 2026 23:09:52 GMT"
+        "time": "Wed, 11 Mar 2026 00:29:17 GMT"
       }
     ],
     "projects": [
