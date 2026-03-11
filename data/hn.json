@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-11T12:41:23.450Z"
+    "built_at": "2026-03-11T14:00:56.317Z"
   },
-  "items": [
-    {
-      "title": "Directory for mail clubs and subscription boxes",
-      "url": "https://www.findmailclubs.com/",
-      "date": "2026-03-11T12:39:59.000Z"
-    },
-    {
-      "title": "Anyone using Cloudflare Workflows in production?",
-      "url": "https://news.ycombinator.com/item?id=47334792",
-      "date": "2026-03-11T12:38:37.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
