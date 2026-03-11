@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-11T22:34:58.219Z",
-  "updated_local": "3/11/2026, 10:34:58 PM",
+  "updated_iso": "2026-03-11T23:23:38.471Z",
+  "updated_local": "3/11/2026, 11:23:38 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
-        "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-        "source": "hn",
-        "time": "3/11/2026, 7:29:29 PM"
-      },
-      {
         "title": "Temporal: A nine-year journey to fix time in JavaScript",
         "url": "https://bloomberg.github.io/js-blog/post/temporal/",
         "source": "hn",
         "time": "3/11/2026, 3:35:50 PM"
+      },
+      {
+        "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+        "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+        "source": "hn",
+        "time": "3/11/2026, 7:29:29 PM"
       },
       {
         "title": "Many SWE-bench-Passing PRs would not be merged",
@@ -54,16 +54,16 @@
         "time": "3/11/2026, 8:56:52 PM"
       },
       {
+        "title": "NemoClaw – Nvidia's upcoming open-source AI agent platform",
+        "url": "https://nemoclaw.bot",
+        "source": "hn",
+        "time": "3/11/2026, 10:26:52 PM"
+      },
+      {
         "title": "Making WebAssembly a first-class language on the Web",
         "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
         "source": "hn",
         "time": "3/11/2026, 4:44:46 AM"
-      },
-      {
-        "title": "Google closes deal to acquire Wiz",
-        "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
-        "source": "hn",
-        "time": "3/11/2026, 2:58:20 PM"
       }
     ],
     "world": [
