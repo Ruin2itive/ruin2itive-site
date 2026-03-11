@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-11T04:03:07.155Z"
+    "built_at": "2026-03-11T05:42:25.639Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "#1 Trending on PeerPush – BasaltSurge",
+      "url": "https://peerpush.net/p/basaltsurge",
+      "date": "2026-03-11T05:40:20.000Z"
+    },
+    {
+      "title": "A writing space that breathes with you",
+      "url": "https://vessel.here.now/",
+      "date": "2026-03-11T05:38:12.000Z"
+    }
+  ]
 }
