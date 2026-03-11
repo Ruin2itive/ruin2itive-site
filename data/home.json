@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-11T07:41:51.626Z",
-  "updated_local": "3/11/2026, 7:41:51 AM",
+  "updated_iso": "2026-03-11T08:38:50.982Z",
+  "updated_local": "3/11/2026, 8:38:50 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Why does AI tell you to use Terminal so much?",
+        "url": "https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/",
+        "source": "hn",
+        "time": "3/11/2026, 8:22:28 AM"
+      },
+      {
         "title": "Create value for others and don’t worry about the returns",
         "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
         "source": "hn",
@@ -54,16 +60,10 @@
         "time": "3/10/2026, 10:33:45 PM"
       },
       {
-        "title": "Cloudflare crawl endpoint",
-        "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+        "title": "TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization",
+        "url": "https://www.hume.ai/blog/opensource-tada",
         "source": "hn",
-        "time": "3/10/2026, 10:27:15 PM"
-      },
-      {
-        "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
-        "url": "https://github.com/gcv/julia-snail",
-        "source": "hn",
-        "time": "3/8/2026, 9:27:34 AM"
+        "time": "3/11/2026, 5:42:55 AM"
       }
     ],
     "world": [
@@ -71,19 +71,19 @@
         "title": "Al Quds Day march to be banned after government approves Met request",
         "url": "https://www.bbc.com/news/articles/cm28gmlvedro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 11 Mar 2026 07:39:09 GMT"
+        "time": "Wed, 11 Mar 2026 08:26:05 GMT"
       },
       {
-        "title": "Steve Rosenberg: Russia seeks diplomatic and economic gains from Iran war",
-        "url": "https://www.bbc.com/news/articles/c4gjyg0djvmo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "The Aldi-style disruptors who could be about to shake up the vets market",
+        "url": "https://www.bbc.com/news/articles/cj6dw3r09x0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 10 Mar 2026 19:35:29 GMT"
+        "time": "Wed, 11 Mar 2026 00:05:06 GMT"
       },
       {
-        "title": "University tuition fees system is a 'mess', says Sir Nick Clegg",
-        "url": "https://www.bbc.com/news/articles/c1e9yyg23dyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "First Mandelson files to be published on Wednesday",
+        "url": "https://www.bbc.com/news/articles/c4gqj5z4qwqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 11 Mar 2026 00:02:43 GMT"
+        "time": "Wed, 11 Mar 2026 08:15:59 GMT"
       },
       {
         "title": "Jeffrey Epstein had two key aides - why do they still control his money and secrets?",
@@ -92,10 +92,10 @@
         "time": "Wed, 11 Mar 2026 00:10:20 GMT"
       },
       {
-        "title": "Inside the Russian explosives plot that targeted the UK",
-        "url": "https://www.bbc.com/news/articles/cpd83zwqlvno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hereditary peers to be removed from Lords as bill passes",
+        "url": "https://www.bbc.com/news/articles/cdxg76rgdp7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 11 Mar 2026 06:00:08 GMT"
+        "time": "Tue, 10 Mar 2026 23:02:32 GMT"
       }
     ],
     "projects": [
