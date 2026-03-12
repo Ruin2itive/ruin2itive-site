@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-12T09:54:45.359Z",
-  "updated_local": "3/12/2026, 9:54:45 AM",
+  "updated_iso": "2026-03-12T10:36:51.130Z",
+  "updated_local": "3/12/2026, 10:36:51 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Miners ‘Sitting on a Gold Mine’ as AI Demand Ramps Up: VanEck",
+        "url": "https://decrypt.co/360836/bitcoin-miners-sitting-on-a-gold-mine-as-ai-demand-ramps-up-vaneck",
+        "source": "crypto",
+        "time": "Thu, 12 Mar 2026 10:29:49 +0000"
+      },
       {
         "title": "Metaplanet Deepens Bitcoin Strategy With $25M Investment Plan, New Venture Arm",
         "url": "https://decrypt.co/360812/metaplanet-bitcoin-strategy-new-venture-arm-investment-plan",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/360788/crypto-traders-hyperliquid-oil-bets-iran-volatility",
         "source": "crypto",
         "time": "Thu, 12 Mar 2026 00:07:42 +0000"
-      },
-      {
-        "title": "Most AI Chatbots Will Help a Teen Plan a Mass Shooting, Study Finds",
-        "url": "https://decrypt.co/360774/ai-chatbots-teen-mass-shooting-violence-ccdh-study",
-        "source": "crypto",
-        "time": "Wed, 11 Mar 2026 21:33:34 +0000"
       }
     ],
     "hacker": [
@@ -54,19 +54,25 @@
         "time": "3/12/2026, 12:22:19 AM"
       },
       {
-        "title": "Temporal: The 9-year journey to fix time in JavaScript",
-        "url": "https://bloomberg.github.io/js-blog/post/temporal/",
+        "title": "Returning to Rails in 2026",
+        "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
         "source": "hn",
-        "time": "3/11/2026, 3:35:50 PM"
+        "time": "3/12/2026, 6:06:46 AM"
       },
       {
-        "title": "Printf-Tac-Toe",
-        "url": "https://github.com/carlini/printf-tac-toe",
+        "title": "Avoiding Trigonometry (2013)",
+        "url": "https://iquilezles.org/articles/noacos/",
         "source": "hn",
-        "time": "3/8/2026, 12:01:07 PM"
+        "time": "3/12/2026, 9:06:57 AM"
       }
     ],
     "world": [
+      {
+        "title": "Lloyds, Bank of Scotland and Halifax apps showing customers other users' transactions",
+        "url": "https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 12 Mar 2026 10:30:15 GMT"
+      },
       {
         "title": "Hundreds of GPs tell BBC they have never refused a fit note for mental health concerns",
         "url": "https://www.bbc.com/news/articles/c20lew24kngo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +80,22 @@
         "time": "Thu, 12 Mar 2026 09:21:42 GMT"
       },
       {
-        "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
-        "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 12 Mar 2026 00:05:52 GMT"
-      },
-      {
         "title": "Minister defends PM's handling of Mandelson appointment",
         "url": "https://www.bbc.com/news/articles/c875nzlv7ddo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 12 Mar 2026 09:22:07 GMT"
-      },
-      {
-        "title": "'It was the stuff of dreams' - Liza Tarbuck leaves Radio 2 Saturday show",
-        "url": "https://www.bbc.com/news/articles/c2lrq2n7l9eo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 12 Mar 2026 04:14:37 GMT"
+        "time": "Thu, 12 Mar 2026 10:30:19 GMT"
       },
       {
         "title": "My phone contents were shared with the police colleague I accused of rape",
         "url": "https://www.bbc.com/news/articles/cq8g9e812z3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 12 Mar 2026 07:44:46 GMT"
+      },
+      {
+        "title": "Draper fights to 'mind-blowing' win over Djokovic",
+        "url": "https://www.bbc.com/sport/tennis/articles/cly09grr65xo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 12 Mar 2026 07:41:51 GMT"
       }
     ],
     "projects": [
