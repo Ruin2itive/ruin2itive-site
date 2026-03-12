@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-12T05:44:40.445Z"
+    "built_at": "2026-03-12T06:43:33.691Z"
   },
-  "items": [
-    {
-      "title": "Kremlin backs covert campaign to keep Viktor Orbán in power",
-      "url": "https://www.ft.com/content/34df20f9-487b-4cb6-9dc9-d676d959d1ed",
-      "date": "2026-03-12T05:43:35.000Z"
-    },
-    {
-      "title": "I'm Rebuilding Mars MIPS for You",
-      "url": "https://webmars.nfiles.top/",
-      "date": "2026-03-12T05:43:02.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
