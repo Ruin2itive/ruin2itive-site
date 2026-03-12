@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-12T08:55:34.352Z",
-  "updated_local": "3/12/2026, 8:55:34 AM",
+  "updated_iso": "2026-03-12T09:40:26.721Z",
+  "updated_local": "3/12/2026, 9:40:26 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "3D-Knitting: The Ultimate Guide",
+        "url": "https://www.oliver-charles.com/pages/3d-knitting",
+        "source": "hn",
+        "time": "3/12/2026, 8:27:16 AM"
+      },
+      {
         "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
         "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
         "source": "hn",
@@ -54,24 +60,18 @@
         "time": "3/11/2026, 3:35:50 PM"
       },
       {
-        "title": "Datahäxan",
-        "url": "https://0dd.company/galleries/witches/7.html",
+        "title": "Printf-Tac-Toe",
+        "url": "https://github.com/carlini/printf-tac-toe",
         "source": "hn",
-        "time": "3/9/2026, 3:48:02 PM"
-      },
-      {
-        "title": "Returning to Rails in 2026",
-        "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-        "source": "hn",
-        "time": "3/12/2026, 6:06:46 AM"
+        "time": "3/8/2026, 12:01:07 PM"
       }
     ],
     "world": [
       {
-        "title": "Hundreds of GPs tell BBC they have never refused a sick note over mental health concerns",
+        "title": "Hundreds of GPs tell BBC they have never refused a fit note over mental health concerns",
         "url": "https://www.bbc.com/news/articles/c20lew24kngo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 12 Mar 2026 00:01:53 GMT"
+        "time": "Thu, 12 Mar 2026 09:21:42 GMT"
       },
       {
         "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
@@ -80,22 +80,22 @@
         "time": "Thu, 12 Mar 2026 00:05:52 GMT"
       },
       {
-        "title": "PM was warned of 'reputational risk' over Mandelson's Epstein links",
-        "url": "https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Minister defends PM's handling of Mandelson appointment",
+        "url": "https://www.bbc.com/news/articles/c875nzlv7ddo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 11 Mar 2026 18:30:20 GMT"
-      },
-      {
-        "title": "Chris Mason: There may be no knockout blows from Mandelson files but it's far from over",
-        "url": "https://www.bbc.com/news/articles/c627x7g2l4vo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 11 Mar 2026 23:54:45 GMT"
+        "time": "Thu, 12 Mar 2026 09:22:07 GMT"
       },
       {
         "title": "'It was the stuff of dreams' - Liza Tarbuck leaves Radio 2 Saturday show",
         "url": "https://www.bbc.com/news/articles/c2lrq2n7l9eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 12 Mar 2026 04:14:37 GMT"
+      },
+      {
+        "title": "My phone contents were shared with the police colleague I accused of rape",
+        "url": "https://www.bbc.com/news/articles/cq8g9e812z3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 12 Mar 2026 07:44:46 GMT"
       }
     ],
     "projects": [
