@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-11T23:34:53.476Z",
-  "updated_local": "3/11/2026, 11:34:53 PM",
+  "updated_iso": "2026-03-12T01:58:27.419Z",
+  "updated_local": "3/12/2026, 1:58:27 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Crypto Traders Turn to Hyperliquid for Oil Bets Amid Iran Volatility",
+        "url": "https://decrypt.co/360788/crypto-traders-hyperliquid-oil-bets-iran-volatility",
+        "source": "crypto",
+        "time": "Thu, 12 Mar 2026 00:07:42 +0000"
+      },
       {
         "title": "Most AI Chatbots Will Help a Teen Plan a Mass Shooting, Study Finds",
         "url": "https://decrypt.co/360774/ai-chatbots-teen-mass-shooting-violence-ccdh-study",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/360739/microsoft-sides-anthropic-against-trump-admin-supply-chain-risk",
         "source": "crypto",
         "time": "Wed, 11 Mar 2026 18:58:59 +0000"
-      },
-      {
-        "title": "Wells Fargo Applies for WFUSD Trademark, Signaling Use in Crypto and Stablecoins",
-        "url": "https://decrypt.co/360734/wells-fargo-wfusd-trademark-signaling-use-crypto-stablecoins",
-        "source": "crypto",
-        "time": "Wed, 11 Mar 2026 18:48:04 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "3/11/2026, 3:35:50 PM"
       },
       {
-        "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
-        "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-        "source": "hn",
-        "time": "3/11/2026, 7:29:29 PM"
-      },
-      {
         "title": "Many SWE-bench-Passing PRs would not be merged",
         "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
         "source": "hn",
         "time": "3/11/2026, 8:56:52 PM"
+      },
+      {
+        "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+        "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+        "source": "hn",
+        "time": "3/11/2026, 7:29:29 PM"
       },
       {
         "title": "Making WebAssembly a first-class language on the Web",
@@ -60,25 +60,13 @@
         "time": "3/11/2026, 4:44:46 AM"
       },
       {
-        "title": "Personal Computer by Perplexity",
-        "url": "https://www.perplexity.ai/personal-computer-waitlist",
+        "title": "Show HN: s@: decentralized social networking over static sites",
+        "url": "http://satproto.org/",
         "source": "hn",
-        "time": "3/11/2026, 6:22:21 PM"
+        "time": "3/12/2026, 12:22:19 AM"
       }
     ],
     "world": [
-      {
-        "title": "Starmer was warned of 'reputational risk' over Mandelson's links with Epstein, files show",
-        "url": "https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 11 Mar 2026 18:30:20 GMT"
-      },
-      {
-        "title": "A 'weirdly rushed' appointment - and other key takeaways from Mandelson files",
-        "url": "https://www.bbc.com/news/articles/cm2rg8z6p1vo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 11 Mar 2026 18:54:27 GMT"
-      },
       {
         "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
         "url": "https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&amp;at_campaign=rss",
@@ -86,16 +74,28 @@
         "time": "Wed, 11 Mar 2026 16:00:34 GMT"
       },
       {
-        "title": "Prison inmate charged with Huntley murder appears in court",
-        "url": "https://www.bbc.com/news/articles/cr5l9d1dv9eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Starmer was warned of 'reputational risk' over Mandelson's links with Epstein, files show",
+        "url": "https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 11 Mar 2026 17:04:45 GMT"
+        "time": "Wed, 11 Mar 2026 18:30:20 GMT"
       },
       {
-        "title": "Alternative to HRT for menopausal hot flushes now on NHS",
-        "url": "https://www.bbc.com/news/articles/cn0znqkqkdro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Chris Mason: Some nuggets but no huge revelations in first batch of Mandelson files",
+        "url": "https://www.bbc.com/news/articles/c627x7g2l4vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 11 Mar 2026 12:54:56 GMT"
+        "time": "Wed, 11 Mar 2026 23:54:45 GMT"
+      },
+      {
+        "title": "Hundreds of GPs tell BBC they have never refused a sick note over mental health concerns",
+        "url": "https://www.bbc.com/news/articles/c20lew24kngo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 12 Mar 2026 00:01:53 GMT"
+      },
+      {
+        "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
+        "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 12 Mar 2026 00:05:52 GMT"
       }
     ],
     "projects": [
