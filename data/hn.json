@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-12T09:35:30.464Z"
+    "built_at": "2026-03-12T10:31:42.620Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Avoiding a Culture of Emergencies",
+      "url": "https://staysaasy.com/management/2026/03/06/avoiding-a-culture-of-emergencies.html",
+      "date": "2026-03-12T10:21:29.000Z"
+    },
+    {
+      "title": "Home Assistant waters my plants",
+      "url": "https://finnian.io/blog/home-assistant-waters-my-plants/",
+      "date": "2026-03-12T10:19:14.000Z"
+    }
+  ]
 }
