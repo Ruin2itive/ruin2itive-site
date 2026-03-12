@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-12T16:52:45.170Z"
+    "built_at": "2026-03-12T17:43:22.472Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "\"I made a website for learning ancient Greek\"",
+      "url": "https://twitter.com/TW1NKD3STR0YER/status/2031954119208943638",
+      "date": "2026-03-12T17:41:36.000Z"
+    },
+    {
+      "title": "Show HN: An application stack Claude coded directly in LLVM IR",
+      "url": "https://github.com/dot-matrix-labs/alien-stack",
+      "date": "2026-03-12T17:41:15.000Z"
+    }
+  ]
 }
