@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-12T04:54:27.992Z",
-  "updated_local": "3/12/2026, 4:54:27 AM",
+  "updated_iso": "2026-03-12T05:50:06.161Z",
+  "updated_local": "3/12/2026, 5:50:06 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Metaplanet Deepens Bitcoin Strategy With $25M Investment Plan, New Venture Arm",
+        "url": "https://decrypt.co/360812/metaplanet-bitcoin-strategy-new-venture-arm-investment-plan",
+        "source": "crypto",
+        "time": "Thu, 12 Mar 2026 05:10:17 +0000"
+      },
       {
         "title": "SEC, CFTC Strike Pact to Coordinate Crypto Rules and Oversight",
         "url": "https://decrypt.co/360807/sec-cftc-strike-pact-coordinate-oversight-crypto-rules",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/360774/ai-chatbots-teen-mass-shooting-violence-ccdh-study",
         "source": "crypto",
         "time": "Wed, 11 Mar 2026 21:33:34 +0000"
-      },
-      {
-        "title": "Ripple Begins Buying Back Shares at $50 Billion Valuation: Bloomberg",
-        "url": "https://decrypt.co/360763/ripple-buying-back-shares-50-billion-valuation-bloomberg",
-        "source": "crypto",
-        "time": "Wed, 11 Mar 2026 20:33:43 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
-        "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-        "source": "hn",
-        "time": "3/12/2026, 3:29:28 AM"
-      },
       {
         "title": "Show HN: s@: decentralized social networking over static sites",
         "url": "http://satproto.org/",
@@ -54,16 +48,22 @@
         "time": "3/11/2026, 3:35:50 PM"
       },
       {
-        "title": "Many SWE-bench-Passing PRs would not be merged",
-        "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
-        "source": "hn",
-        "time": "3/11/2026, 8:56:52 PM"
-      },
-      {
         "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
         "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
         "source": "hn",
         "time": "3/8/2026, 11:44:56 AM"
+      },
+      {
+        "title": "Making WebAssembly a first-class language on the Web",
+        "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+        "source": "hn",
+        "time": "3/11/2026, 4:44:46 AM"
+      },
+      {
+        "title": "WireGuard Is Two Things",
+        "url": "https://www.proxylity.com/articles/wireguard-is-two-things.html",
+        "source": "hn",
+        "time": "3/12/2026, 4:38:49 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Wed, 11 Mar 2026 16:00:34 GMT"
       },
       {
-        "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
-        "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 12 Mar 2026 00:05:52 GMT"
-      },
-      {
         "title": "Hundreds of GPs tell BBC they have never refused a sick note over mental health concerns",
         "url": "https://www.bbc.com/news/articles/c20lew24kngo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 12 Mar 2026 00:01:53 GMT"
       },
       {
-        "title": "Starmer was warned of 'reputational risk' over Mandelson's links with Epstein, files show",
-        "url": "https://www.bbc.com/news/articles/cd70lgywgqqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
+        "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 11 Mar 2026 18:30:20 GMT"
+        "time": "Thu, 12 Mar 2026 00:05:52 GMT"
       },
       {
         "title": "Chris Mason: Some nuggets but no huge revelations in first batch of Mandelson files",
         "url": "https://www.bbc.com/news/articles/c627x7g2l4vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 11 Mar 2026 23:54:45 GMT"
+      },
+      {
+        "title": "Inquiry into student loans launched by MPs",
+        "url": "https://www.bbc.com/news/articles/cdxg70rr2geo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 12 Mar 2026 00:03:21 GMT"
       }
     ],
     "projects": [
