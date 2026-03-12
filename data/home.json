@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-12T02:48:34.998Z",
-  "updated_local": "3/12/2026, 2:48:34 AM",
+  "updated_iso": "2026-03-12T04:19:13.286Z",
+  "updated_local": "3/12/2026, 4:19:13 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Hackers Hijack Bonk.fun Domain, Deploy Wallet-Draining Phishing Prompt",
+        "url": "https://decrypt.co/360805/hackers-hijack-bonk-fun-domain-deploy-wallet-draining-phishing-prompt",
+        "source": "crypto",
+        "time": "Thu, 12 Mar 2026 04:10:58 +0000"
+      },
       {
         "title": "Crypto Traders Turn to Hyperliquid for Oil Bets Amid Iran Volatility",
         "url": "https://decrypt.co/360788/crypto-traders-hyperliquid-oil-bets-iran-volatility",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/360748/grammarly-disables-ai-expert-review-backlash-authors-journalists",
         "source": "crypto",
         "time": "Wed, 11 Mar 2026 19:40:56 +0000"
-      },
-      {
-        "title": "Microsoft Sides With Anthropic Against Trump Admin’s Supply Chain Risk Designation",
-        "url": "https://decrypt.co/360739/microsoft-sides-anthropic-against-trump-admin-supply-chain-risk",
-        "source": "crypto",
-        "time": "Wed, 11 Mar 2026 18:58:59 +0000"
       }
     ],
     "hacker": [
@@ -42,7 +42,7 @@
         "time": "3/12/2026, 12:22:19 AM"
       },
       {
-        "title": "Temporal: A nine-year journey to fix time in JavaScript",
+        "title": "Temporal: The 9-year journey to fix time in JavaScript",
         "url": "https://bloomberg.github.io/js-blog/post/temporal/",
         "source": "hn",
         "time": "3/11/2026, 3:35:50 PM"
@@ -54,10 +54,10 @@
         "time": "3/11/2026, 8:56:52 PM"
       },
       {
-        "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-        "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+        "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
+        "url": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
         "source": "hn",
-        "time": "3/11/2026, 7:29:29 PM"
+        "time": "3/8/2026, 11:44:56 AM"
       },
       {
         "title": "Making WebAssembly a first-class language on the Web",
@@ -68,10 +68,22 @@
     ],
     "world": [
       {
-        "title": "Oil prices rise despite deal to release record amount of reserves",
+        "title": "Oil hits $100 a barrel despite deal to release record amount of reserves",
         "url": "https://www.bbc.com/news/articles/c1w5141vx53o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 12 Mar 2026 02:29:27 GMT"
+        "time": "Thu, 12 Mar 2026 03:04:24 GMT"
+      },
+      {
+        "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
+        "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 12 Mar 2026 00:05:52 GMT"
+      },
+      {
+        "title": "Hundreds of GPs tell BBC they have never refused a sick note over mental health concerns",
+        "url": "https://www.bbc.com/news/articles/c20lew24kngo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 12 Mar 2026 00:01:53 GMT"
       },
       {
         "title": "Starmer was warned of 'reputational risk' over Mandelson's links with Epstein, files show",
@@ -84,18 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c627x7g2l4vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 11 Mar 2026 23:54:45 GMT"
-      },
-      {
-        "title": "Hundreds of GPs tell BBC they have never refused a sick note over mental health concerns",
-        "url": "https://www.bbc.com/news/articles/c20lew24kngo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 12 Mar 2026 00:01:53 GMT"
-      },
-      {
-        "title": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
-        "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 12 Mar 2026 00:05:52 GMT"
       }
     ],
     "projects": [
