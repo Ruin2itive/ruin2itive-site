@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-13T21:26:28.383Z"
+    "built_at": "2026-03-13T22:21:38.728Z"
   },
-  "items": [
-    {
-      "title": "AI, Human Cognition and Knowledge Collapse – Daren Acemoglu",
-      "url": "https://news.ycombinator.com/item?id=47370147",
-      "date": "2026-03-13T21:25:53.000Z"
-    },
-    {
-      "title": "Find the perfect icon for your design",
-      "url": "https://iconsroom.com/",
-      "date": "2026-03-13T21:24:10.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
