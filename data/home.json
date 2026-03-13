@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-13T04:51:40.683Z",
-  "updated_local": "3/13/2026, 4:51:40 AM",
+  "updated_iso": "2026-03-13T05:47:00.227Z",
+  "updated_local": "3/13/2026, 5:47:00 AM",
   "sections": {
     "crypto": [
       {
@@ -36,13 +36,7 @@
     ],
     "hacker": [
       {
-        "title": "Shall I implement it? No",
-        "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
-        "source": "hn",
-        "time": "3/12/2026, 9:01:10 PM"
-      },
-      {
-        "title": "A willingness to look stupid is the most underrated moat in doing creative work",
+        "title": "Willingness to look stupid",
         "url": "https://sharif.io/looking-stupid",
         "source": "hn",
         "time": "3/9/2026, 10:21:58 AM"
@@ -54,16 +48,22 @@
         "time": "3/12/2026, 1:42:04 PM"
       },
       {
-        "title": "Bubble Sorted Amen Break",
-        "url": "https://parametricavocado.itch.io/amen-sorting",
+        "title": "Vite 8.0 Is Out",
+        "url": "https://vite.dev/blog/announcing-vite8",
         "source": "hn",
-        "time": "3/12/2026, 5:13:56 PM"
+        "time": "3/13/2026, 4:36:40 AM"
       },
       {
-        "title": "Can You Instruct a Robot to Make a PBJ Sandwich?",
-        "url": "https://pbj.deliberateinc.com/",
+        "title": "Hyperlinks in Terminal Emulators",
+        "url": "https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda",
         "source": "hn",
-        "time": "3/13/2026, 3:06:37 AM"
+        "time": "3/13/2026, 3:32:18 AM"
+      },
+      {
+        "title": "Shall I implement it? No",
+        "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+        "source": "hn",
+        "time": "3/12/2026, 9:01:10 PM"
       }
     ],
     "world": [
@@ -74,10 +74,10 @@
         "time": "Fri, 13 Mar 2026 02:54:39 GMT"
       },
       {
-        "title": "UK troops at Iraq base shot down Iranian drones, Healey says",
-        "url": "https://www.bbc.com/news/articles/c0e531gve7do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Winners, Sinners and record breakers: 17 fun facts about this year's Oscars",
+        "url": "https://www.bbc.com/news/articles/c1je21lgn5zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 12 Mar 2026 20:12:43 GMT"
+        "time": "Fri, 13 Mar 2026 00:02:30 GMT"
       },
       {
         "title": "Suspect dead after ramming vehicle into synagogue in Michigan",
@@ -86,16 +86,16 @@
         "time": "Fri, 13 Mar 2026 02:18:48 GMT"
       },
       {
-        "title": "Winners, Sinners and record breakers: 17 fun facts about this year's Oscars",
-        "url": "https://www.bbc.com/news/articles/c1je21lgn5zo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 13 Mar 2026 00:02:30 GMT"
-      },
-      {
         "title": "Boy charged over stabbing of teenage girl at Norfolk school",
         "url": "https://www.bbc.com/news/articles/cx247vd1v48o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 13 Mar 2026 00:28:52 GMT"
+      },
+      {
+        "title": "Married at First Sight star says cancer has spread",
+        "url": "https://www.bbc.com/news/articles/c4g8qpp3mpeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 12 Mar 2026 20:32:05 GMT"
       }
     ],
     "projects": [
