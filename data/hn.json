@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-13T12:39:27.736Z"
+    "built_at": "2026-03-13T13:55:15.281Z"
   },
-  "items": [
-    {
-      "title": "Show HN: A modern boarding pass encoder/decoder/scanner (web and library)",
-      "url": "https://github.com/jqssun/iata-api",
-      "date": "2026-03-13T12:38:32.000Z"
-    },
-    {
-      "title": "Which Web Framework Is the Fastest? We Benchmarked 9 of Them",
-      "url": "https://ntnt-lang.org/blog/which-web-framework-is-fastest",
-      "date": "2026-03-13T12:38:19.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
