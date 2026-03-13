@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-13T18:39:30.948Z",
-  "updated_local": "3/13/2026, 6:39:30 PM",
+  "updated_iso": "2026-03-13T18:55:26.223Z",
+  "updated_local": "3/13/2026, 6:55:26 PM",
   "sections": {
     "crypto": [
       {
@@ -42,12 +42,6 @@
         "time": "3/11/2026, 2:34:57 PM"
       },
       {
-        "title": "Your Phone Is an Entire Computer",
-        "url": "https://medhir.com/blog/your-phone-is-an-entire-computer",
-        "source": "hn",
-        "time": "3/13/2026, 6:02:32 PM"
-      },
-      {
         "title": "Can I run AI locally?",
         "url": "https://www.canirun.ai/",
         "source": "hn",
@@ -60,6 +54,12 @@
         "time": "3/13/2026, 5:58:22 PM"
       },
       {
+        "title": "John Carmack about open source and anti-AI activists",
+        "url": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
+        "source": "hn",
+        "time": "3/13/2026, 5:51:34 PM"
+      },
+      {
         "title": "TUI Studio – visual terminal UI design tool",
         "url": "https://tui.studio/",
         "source": "hn",
@@ -67,12 +67,6 @@
       }
     ],
     "world": [
-      {
-        "title": "As hopes of regime change in Iran fade, Netanyahu faces political test",
-        "url": "https://www.bbc.com/news/articles/cvg5yp7v0ppo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 13 Mar 2026 15:35:26 GMT"
-      },
       {
         "title": "First image emerges of Andrew, Mandelson and Epstein together",
         "url": "https://www.bbc.com/news/articles/clyxezdv335o?at_medium=RSS&amp;at_campaign=rss",
@@ -86,16 +80,22 @@
         "time": "Fri, 13 Mar 2026 17:42:49 GMT"
       },
       {
-        "title": "Winners, Sinners and record breakers: 17 fun facts about this year's Oscars",
-        "url": "https://www.bbc.com/news/articles/c1je21lgn5zo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Sheriff in Nancy Guthrie case believes they know kidnapper's motive",
+        "url": "https://www.bbc.com/news/articles/cx2lzlydg93o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 13 Mar 2026 00:02:30 GMT"
+        "time": "Fri, 13 Mar 2026 16:38:09 GMT"
       },
       {
-        "title": "Husband who killed wife and buried her in the garden jailed for life",
-        "url": "https://www.bbc.com/news/articles/cz0gz7xlnkyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Harry Styles breaks his own sales record as new album hits number one",
+        "url": "https://www.bbc.com/news/articles/c8r161p83y8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 13 Mar 2026 12:54:02 GMT"
+        "time": "Fri, 13 Mar 2026 17:46:24 GMT"
+      },
+      {
+        "title": "F1 races in Middle East to be cancelled because of war in Iran",
+        "url": "https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 13 Mar 2026 17:12:12 GMT"
       }
     ],
     "projects": [
