@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-13T04:05:27.357Z"
+    "built_at": "2026-03-13T05:42:41.248Z"
   },
-  "items": [
-    {
-      "title": "From Optician to $62k MRR in 3 Months: AI Code Editors Reshaping SaaS",
-      "url": "https://news.ycombinator.com/item?id=47360567",
-      "date": "2026-03-13T04:04:00.000Z"
-    },
-    {
-      "title": "CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "date": "2026-03-13T04:00:32.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
