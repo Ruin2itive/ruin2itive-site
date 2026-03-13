@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-13T07:39:28.600Z"
+    "built_at": "2026-03-13T08:31:31.628Z"
   },
-  "items": [
-    {
-      "title": "What if compiler errors were an API? (AI-native language demo)",
-      "url": "https://asciinema.org/a/834560",
-      "date": "2026-03-13T07:38:40.000Z"
-    },
-    {
-      "title": "Show HN: YAOS – A 1-click deploy, real-time sync engine for Obsidian",
-      "url": "https://news.ycombinator.com/item?id=47361635",
-      "date": "2026-03-13T07:37:55.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
