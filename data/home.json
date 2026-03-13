@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-13T12:54:51.116Z",
-  "updated_local": "3/13/2026, 12:54:51 PM",
+  "updated_iso": "2026-03-13T13:18:05.986Z",
+  "updated_local": "3/13/2026, 1:18:05 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "TUI Studio – visual terminal UI design tool",
+        "url": "https://tui.studio/",
+        "source": "hn",
+        "time": "3/13/2026, 10:32:45 AM"
+      },
+      {
         "title": "Bucketsquatting is (finally) dead",
         "url": "https://onecloudplease.com/blog/bucketsquatting-is-finally-dead",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "3/13/2026, 10:15:56 AM"
       },
       {
-        "title": "TUI Studio – visual terminal UI design tool",
-        "url": "https://tui.studio/",
-        "source": "hn",
-        "time": "3/13/2026, 10:32:45 AM"
-      },
-      {
-        "title": "Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)",
-        "url": "https://prompt-caching.ai/",
-        "source": "hn",
-        "time": "3/13/2026, 11:38:15 AM"
-      },
-      {
         "title": "Willingness to look stupid",
         "url": "https://sharif.io/looking-stupid",
         "source": "hn",
         "time": "3/9/2026, 10:21:58 AM"
+      },
+      {
+        "title": "Okmain: How to pick an OK main colour of an image",
+        "url": "https://dgroshev.com/blog/okmain/",
+        "source": "hn",
+        "time": "3/9/2026, 2:16:53 PM"
       }
     ],
     "world": [
