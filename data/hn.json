@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-13T22:21:38.728Z"
+    "built_at": "2026-03-13T23:20:34.834Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The AI that taught itself: Researchers show how AI can learn what it never knew",
+      "url": "https://viterbischool.usc.edu/news/2026/03/the-ai-that-taught-itself-usc-researchers-show-how-artificial-intelligence-can-learn-what-it-never-knew/",
+      "date": "2026-03-13T23:16:41.000Z"
+    },
+    {
+      "title": "Execwall – firewall to stop ModelScope CVE-2026-2256 (AI agent command injectn)",
+      "url": "https://news.ycombinator.com/item?id=47371292",
+      "date": "2026-03-13T23:16:15.000Z"
+    }
+  ]
 }
