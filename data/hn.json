@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-14T19:21:19.305Z"
+    "built_at": "2026-03-14T20:19:25.309Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Where Censored Words Find a Safe Haven: Inside Minecraft",
+      "url": "https://www.nytimes.com/2026/03/11/arts/minecraft-uncensored-library-united-states.html",
+      "date": "2026-03-14T20:18:52.000Z"
+    },
+    {
+      "title": "The Washington Post Is Using Reader Data to Set Subscription Prices",
+      "url": "https://washingtonian.com/2026/03/12/the-washington-post-is-using-reader-data-to-set-subscription-prices-how-does-that-work/",
+      "date": "2026-03-14T20:18:41.000Z"
+    }
+  ]
 }
