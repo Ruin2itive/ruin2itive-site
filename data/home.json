@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-13T23:36:49.795Z",
-  "updated_local": "3/13/2026, 11:36:49 PM",
+  "updated_iso": "2026-03-14T01:54:01.380Z",
+  "updated_local": "3/14/2026, 1:54:01 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
+        "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+        "url": "https://claude.com/blog/1m-context-ga",
+        "source": "hn",
+        "time": "3/13/2026, 5:19:01 PM"
+      },
+      {
         "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
         "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
         "source": "hn",
         "time": "3/13/2026, 10:52:05 PM"
-      },
-      {
-        "title": "Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group",
-        "url": "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/",
-        "source": "hn",
-        "time": "3/13/2026, 10:28:04 PM"
       },
       {
         "title": "Can I run AI locally?",
@@ -68,34 +68,34 @@
     ],
     "world": [
       {
-        "title": "First image emerges of Andrew, Mandelson and Epstein together",
-        "url": "https://www.bbc.com/news/articles/clyxezdv335o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'We're not profiteering on fuel. But my staff still face abuse'",
+        "url": "https://www.bbc.com/news/articles/c626mdvn6d5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 13 Mar 2026 17:49:35 GMT"
+        "time": "Fri, 13 Mar 2026 22:42:19 GMT"
       },
       {
-        "title": "Petrol retailers in row with government over 'rip off' accusations",
-        "url": "https://www.bbc.com/news/articles/crk83e2g65no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ethics adviser rejects Tory call for inquiry into PM over Mandelson appointment",
+        "url": "https://www.bbc.com/news/articles/cy57zv3l0nvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 13 Mar 2026 17:42:49 GMT"
+        "time": "Fri, 13 Mar 2026 22:17:38 GMT"
       },
       {
-        "title": "Sheriff in Nancy Guthrie case believes they know kidnapper's motive",
-        "url": "https://www.bbc.com/news/articles/cx2lzlydg93o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "F1 races in Middle East to be cancelled because of war in Iran",
+        "url": "https://www.bbc.com/sport/formula1/articles/c875vw1lwjzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 13 Mar 2026 16:38:09 GMT"
-      },
-      {
-        "title": "Two more horses die on final day of Cheltenham",
-        "url": "https://www.bbc.com/news/articles/cd709jel19xo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 13 Mar 2026 19:02:58 GMT"
+        "time": "Fri, 13 Mar 2026 17:12:12 GMT"
       },
       {
         "title": "Pink Floyd guitar sold for record-breaking $14.6m",
         "url": "https://www.bbc.com/news/articles/cr45v7ey91eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 13 Mar 2026 21:50:22 GMT"
+      },
+      {
+        "title": "Doomed hereditary peers spy chance to stay in the Lords",
+        "url": "https://www.bbc.com/news/articles/c89kjql73kqo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 14 Mar 2026 01:41:13 GMT"
       }
     ],
     "projects": [
