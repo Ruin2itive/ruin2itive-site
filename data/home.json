@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-14T11:32:05.400Z",
-  "updated_local": "3/14/2026, 11:32:05 AM",
+  "updated_iso": "2026-03-14T12:47:04.566Z",
+  "updated_local": "3/14/2026, 12:47:04 PM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Claude Code conducts A/B tests on core features",
+        "url": "https://backnotprop.com/blog/do-not-ab-test-my-workflow/",
+        "source": "hn",
+        "time": "3/14/2026, 11:46:29 AM"
+      },
+      {
         "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
         "url": "https://claude.com/blog/1m-context-ga",
         "source": "hn",
         "time": "3/13/2026, 5:19:01 PM"
+      },
+      {
+        "title": "XML Is a Cheap DSL",
+        "url": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
+        "source": "hn",
+        "time": "3/14/2026, 11:59:13 AM"
       },
       {
         "title": "Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About",
@@ -48,22 +60,10 @@
         "time": "3/11/2026, 6:21:58 PM"
       },
       {
-        "title": "A Survival Guide to a PhD (2016)",
-        "url": "http://karpathy.github.io/2016/09/07/phd/",
+        "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
+        "url": "https://github.com/drojaazu/megadev",
         "source": "hn",
-        "time": "3/10/2026, 2:16:51 AM"
-      },
-      {
-        "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-        "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-        "source": "hn",
-        "time": "3/13/2026, 12:31:09 PM"
-      },
-      {
-        "title": "You gotta think outside the hypercube",
-        "url": "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
-        "source": "hn",
-        "time": "3/10/2026, 2:18:21 PM"
+        "time": "3/14/2026, 9:04:39 AM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Sat, 14 Mar 2026 01:41:13 GMT"
       },
       {
-        "title": "We're not profiteering on fuel. But my staff still face abuse",
-        "url": "https://www.bbc.com/news/articles/c626mdvn6d5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 13 Mar 2026 22:42:19 GMT"
-      },
-      {
         "title": "'Like a trap you can't escape': The women who regret being mothers",
         "url": "https://www.bbc.com/news/articles/cvgkvge4rkmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/cly096jzkdno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 14 Mar 2026 10:49:09 GMT"
+      },
+      {
+        "title": "Body of man found in wheelie bin 'after being hit by car'",
+        "url": "https://www.bbc.com/news/articles/cn4gexxyzevo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 14 Mar 2026 12:20:02 GMT"
       }
     ],
     "projects": [
