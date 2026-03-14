@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-14T04:49:28.707Z",
-  "updated_local": "3/14/2026, 4:49:28 AM",
+  "updated_iso": "2026-03-14T05:43:39.618Z",
+  "updated_local": "3/14/2026, 5:43:39 AM",
   "sections": {
     "crypto": [
       {
@@ -48,6 +48,12 @@
         "time": "3/13/2026, 12:46:10 PM"
       },
       {
+        "title": "Emacs and Vim in the Age of AI",
+        "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+        "source": "hn",
+        "time": "3/10/2026, 4:21:32 AM"
+      },
+      {
         "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
         "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://channelsurfer.tv",
         "source": "hn",
         "time": "3/11/2026, 2:34:57 PM"
-      },
-      {
-        "title": "Optimizing Content for Agents",
-        "url": "https://cra.mr/optimizing-content-for-agents/",
-        "source": "hn",
-        "time": "3/14/2026, 2:27:00 AM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Fri, 13 Mar 2026 17:12:12 GMT"
       },
       {
-        "title": "Austrian glaciers disintegrating due to climate change, say scientists",
-        "url": "https://www.bbc.com/news/articles/cd038pgrr1yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 13 Mar 2026 19:09:48 GMT"
-      },
-      {
         "title": "Doomed hereditary peers spy chance to stay in the Lords",
         "url": "https://www.bbc.com/news/articles/c89kjql73kqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 14 Mar 2026 01:41:13 GMT"
+      },
+      {
+        "title": "Austrian glaciers disintegrating due to climate change, say scientists",
+        "url": "https://www.bbc.com/news/articles/cd038pgrr1yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 13 Mar 2026 19:09:48 GMT"
       }
     ],
     "projects": [
