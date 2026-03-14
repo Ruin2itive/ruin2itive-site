@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-14T09:25:15.704Z"
+    "built_at": "2026-03-14T10:20:17.684Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "React Quizzes for Preparing Interviews",
+      "url": "https://www.reactchallenges.com/quizzes",
+      "date": "2026-03-14T10:16:33.000Z"
+    },
+    {
+      "title": "You've got the LLMs to code, now you need the glue",
+      "url": "https://codin.ro/youve-got-the-llms-to-code-now-you-need-the-glue-1-n/",
+      "date": "2026-03-14T10:16:00.000Z"
+    }
+  ]
 }
