@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-14T12:47:04.566Z",
-  "updated_local": "3/14/2026, 12:47:04 PM",
+  "updated_iso": "2026-03-14T13:10:24.750Z",
+  "updated_local": "3/14/2026, 1:10:24 PM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Claude Code conducts A/B tests on core features",
-        "url": "https://backnotprop.com/blog/do-not-ab-test-my-workflow/",
+        "title": "XML Is a Cheap DSL",
+        "url": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
         "source": "hn",
-        "time": "3/14/2026, 11:46:29 AM"
+        "time": "3/14/2026, 11:59:13 AM"
       },
       {
         "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
         "url": "https://claude.com/blog/1m-context-ga",
         "source": "hn",
         "time": "3/13/2026, 5:19:01 PM"
-      },
-      {
-        "title": "XML Is a Cheap DSL",
-        "url": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
-        "source": "hn",
-        "time": "3/14/2026, 11:59:13 AM"
       },
       {
         "title": "Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About",
@@ -64,6 +58,12 @@
         "url": "https://github.com/drojaazu/megadev",
         "source": "hn",
         "time": "3/14/2026, 9:04:39 AM"
+      },
+      {
+        "title": "Claude Code conducts A/B tests on core features",
+        "url": "https://backnotprop.com/blog/do-not-ab-test-my-workflow/",
+        "source": "hn",
+        "time": "3/14/2026, 11:46:29 AM"
       }
     ],
     "world": [
