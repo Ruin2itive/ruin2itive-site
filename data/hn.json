@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-14T18:27:16.418Z"
+    "built_at": "2026-03-14T19:21:19.305Z"
   },
-  "items": [
-    {
-      "title": "Loupe: Lightweight dev tracing for LLM apps",
-      "url": "https://matt-harrison.com/posts/14-3-26-loupe/",
-      "date": "2026-03-14T18:25:50.000Z"
-    },
-    {
-      "title": "WA income tax clears House after 24-hour debate",
-      "url": "https://www.seattletimes.com/seattle-news/politics/wa-income-tax-passes-house-after-24-hour-debate/#comments",
-      "date": "2026-03-14T18:22:22.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
