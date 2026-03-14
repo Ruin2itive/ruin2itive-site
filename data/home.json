@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-14T07:33:38.718Z",
-  "updated_local": "3/14/2026, 7:33:38 AM",
+  "updated_iso": "2026-03-14T08:33:24.393Z",
+  "updated_local": "3/14/2026, 8:33:24 AM",
   "sections": {
     "crypto": [
       {
@@ -42,12 +42,6 @@
         "time": "3/13/2026, 5:19:01 PM"
       },
       {
-        "title": "Can I run AI locally?",
-        "url": "https://www.canirun.ai/",
-        "source": "hn",
-        "time": "3/13/2026, 12:46:10 PM"
-      },
-      {
         "title": "A Survival Guide to a PhD (2016)",
         "url": "http://karpathy.github.io/2016/09/07/phd/",
         "source": "hn",
@@ -64,6 +58,12 @@
         "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
         "source": "hn",
         "time": "3/13/2026, 12:31:09 PM"
+      },
+      {
+        "title": "You gotta think outside the hypercube",
+        "url": "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
+        "source": "hn",
+        "time": "3/10/2026, 2:18:21 PM"
       }
     ],
     "world": [
@@ -74,16 +74,16 @@
         "time": "Sat, 14 Mar 2026 03:49:14 GMT"
       },
       {
+        "title": "Doomed hereditary peers spy chance to stay in the Lords",
+        "url": "https://www.bbc.com/news/articles/c89kjql73kqo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 14 Mar 2026 01:41:13 GMT"
+      },
+      {
         "title": "Rescuers blame weather and 'underprepared skiers' for rise in Alps avalanche deaths",
         "url": "https://www.bbc.com/news/articles/cev7111kx9wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 14 Mar 2026 05:59:09 GMT"
-      },
-      {
-        "title": "Ethics adviser rejects Tory call for inquiry into PM over Mandelson appointment",
-        "url": "https://www.bbc.com/news/articles/cy57zv3l0nvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 13 Mar 2026 22:17:38 GMT"
       },
       {
         "title": "'We're not profiteering on fuel. But my staff still face abuse'",
@@ -92,10 +92,10 @@
         "time": "Fri, 13 Mar 2026 22:42:19 GMT"
       },
       {
-        "title": "Doomed hereditary peers spy chance to stay in the Lords",
-        "url": "https://www.bbc.com/news/articles/c89kjql73kqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Under drone fire, exiled Kurds wait to confront Iranian regime",
+        "url": "https://www.bbc.com/news/articles/c79505804lpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 14 Mar 2026 01:41:13 GMT"
+        "time": "Fri, 13 Mar 2026 22:02:39 GMT"
       }
     ],
     "projects": [
