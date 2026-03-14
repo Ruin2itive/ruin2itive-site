@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-14T13:43:35.804Z",
-  "updated_local": "3/14/2026, 1:43:35 PM",
+  "updated_iso": "2026-03-14T14:27:11.138Z",
+  "updated_local": "3/14/2026, 2:27:11 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Hit a Major Milestone—Most Miners Won&#39;t Be Around for the Next One",
+        "url": "https://decrypt.co/361137/bitcoin-major-milestone-miners",
+        "source": "crypto",
+        "time": "Sat, 14 Mar 2026 14:07:30 +0000"
+      },
       {
         "title": "FBI Investigating After Malware Found Lurking in Steam PC Games",
         "url": "https://decrypt.co/361070/fbi-investigating-malware-steam-pc-games",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/361056/billionaire-investor-stanley-druckenmiller-bullish-stablecoin-growth",
         "source": "crypto",
         "time": "Fri, 13 Mar 2026 18:05:45 +0000"
-      },
-      {
-        "title": "US Treasury Sanctions Alleged $800 Million North Korean IT Worker Fraud Operation",
-        "url": "https://decrypt.co/361043/us-treasury-sanctions-alleged-800-million-north-korean-fraud-operation",
-        "source": "crypto",
-        "time": "Fri, 13 Mar 2026 16:37:44 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "3/11/2026, 6:21:58 PM"
       },
       {
-        "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
-        "url": "https://github.com/drojaazu/megadev",
-        "source": "hn",
-        "time": "3/14/2026, 9:04:39 AM"
-      },
-      {
         "title": "Python: The Optimization Ladder",
         "url": "https://cemrehancavdar.com/2026/03/10/optimization-ladder/",
         "source": "hn",
         "time": "3/10/2026, 7:22:39 PM"
+      },
+      {
+        "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
+        "url": "https://github.com/drojaazu/megadev",
+        "source": "hn",
+        "time": "3/14/2026, 9:04:39 AM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Sat, 14 Mar 2026 10:49:09 GMT"
       },
       {
-        "title": "Body of man found in wheelie bin 'after being hit by car'",
-        "url": "https://www.bbc.com/news/articles/cn4gexxyzevo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hamas urges key ally Iran to halt attacks on Gulf states",
+        "url": "https://www.bbc.com/news/articles/cvg3xk6xgyzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 14 Mar 2026 12:20:02 GMT"
+        "time": "Sat, 14 Mar 2026 13:34:17 GMT"
       }
     ],
     "projects": [
