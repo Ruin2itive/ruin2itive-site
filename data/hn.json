@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-14T05:39:48.764Z"
+    "built_at": "2026-03-14T06:37:11.128Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Identity of artist Banksy uncovered following investigation",
+      "url": "https://www.rte.ie/news/2026/0313/1563268-banksy-reuters-investigation/",
+      "date": "2026-03-14T06:34:59.000Z"
+    },
+    {
+      "title": "Claude AI Gets Weirdly Slow After 9 PM (I Noticed It While Reviewing Code)",
+      "url": "https://news.ycombinator.com/item?id=47373935",
+      "date": "2026-03-14T06:31:43.000Z"
+    }
+  ]
 }
