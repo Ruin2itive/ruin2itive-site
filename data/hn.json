@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-15T20:20:11.069Z"
+    "built_at": "2026-03-15T21:21:18.381Z"
   },
-  "items": [
-    {
-      "title": "Show HN: ObservAgent – Observability for Claude Code(cost, tools, subagents)",
-      "url": "https://darshannere.github.io/observagent/",
-      "date": "2026-03-15T20:18:36.000Z"
-    },
-    {
-      "title": "EIOU, an open source P2P payment protocol",
-      "url": "https://eiou.org/",
-      "date": "2026-03-15T20:16:10.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
