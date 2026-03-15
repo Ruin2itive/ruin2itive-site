@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-15T03:23:30.180Z",
-  "updated_local": "3/15/2026, 3:23:30 AM",
+  "updated_iso": "2026-03-15T05:03:51.552Z",
+  "updated_local": "3/15/2026, 5:03:51 AM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
+        "title": "Rack-Mount Hydroponics",
+        "url": "https://sa.lj.am/rack-mount-hydroponics/",
+        "source": "hn",
+        "time": "3/15/2026, 4:23:43 AM"
+      },
+      {
+        "title": "Mathematics Distillation Challenge – Equational Theories",
+        "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
+        "source": "hn",
+        "time": "3/14/2026, 9:38:37 AM"
+      },
+      {
         "title": "Ageless Linux – Software for humans of indeterminate age",
         "url": "https://agelesslinux.org/",
         "source": "hn",
         "time": "3/14/2026, 10:10:26 PM"
       },
       {
-        "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
-        "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
-        "source": "hn",
-        "time": "3/15/2026, 2:48:33 AM"
-      },
-      {
-        "title": "How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection",
-        "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-        "source": "hn",
-        "time": "3/15/2026, 12:15:10 AM"
-      },
-      {
-        "title": "Airbus is preparing two uncrewed combat aircraft",
-        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
-        "source": "hn",
-        "time": "3/14/2026, 11:10:24 PM"
-      },
-      {
         "title": "Tree Search Distillation for Language Models Using PPO",
         "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
         "source": "hn",
         "time": "3/15/2026, 12:51:55 AM"
+      },
+      {
+        "title": "SBCL Fibers – Lightweight Cooperative Threads",
+        "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
+        "source": "hn",
+        "time": "3/14/2026, 11:22:39 PM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Sun, 15 Mar 2026 00:40:19 GMT"
       },
       {
+        "title": "Officials could gain police-style powers to tackle fly-tippers",
+        "url": "https://www.bbc.com/news/articles/c8d5z7rd5mpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 15 Mar 2026 03:09:22 GMT"
+      },
+      {
         "title": "We expect government help in a crisis. Will Reeves intervene on energy bills this time?",
         "url": "https://www.bbc.com/news/articles/cvgky84z6lro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cd6zdg737gpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 14 Mar 2026 22:44:26 GMT"
-      },
-      {
-        "title": "Officials could gain police-style powers to tackle fly-tippers",
-        "url": "https://www.bbc.com/news/articles/c8d5z7rd5mpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 15 Mar 2026 03:09:22 GMT"
       }
     ],
     "projects": [
