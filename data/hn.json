@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-15T01:44:53.481Z"
+    "built_at": "2026-03-15T04:26:52.205Z"
   },
-  "items": [
-    {
-      "title": "Department of War Official Demos Palantir Tooling",
-      "url": "https://www.youtube.com/watch?v=yrtDgoqWmgM",
-      "date": "2026-03-15T01:42:09.000Z"
-    },
-    {
-      "title": "Why AI agents need to learn to read the room",
-      "url": "https://ideas.fin.ai/p/why-ai-agents-need-to-learn-to-read",
-      "date": "2026-03-15T01:42:01.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
