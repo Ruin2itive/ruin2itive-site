@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-15T02:10:40.584Z",
-  "updated_local": "3/15/2026, 2:10:40 AM",
+  "updated_iso": "2026-03-15T03:23:30.180Z",
+  "updated_local": "3/15/2026, 3:23:30 AM",
   "sections": {
     "crypto": [
       {
@@ -42,10 +42,16 @@
         "time": "3/14/2026, 10:10:26 PM"
       },
       {
-        "title": "Federal Surveillance Tech Becomes Mandatory in New Cars by 2027",
-        "url": "https://www.gadgetreview.com/federal-surveillance-tech-becomes-mandatory-in-new-cars-by-2027",
+        "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
+        "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
         "source": "hn",
-        "time": "3/15/2026, 1:27:25 AM"
+        "time": "3/15/2026, 2:48:33 AM"
+      },
+      {
+        "title": "How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection",
+        "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+        "source": "hn",
+        "time": "3/15/2026, 12:15:10 AM"
       },
       {
         "title": "Airbus is preparing two uncrewed combat aircraft",
@@ -54,16 +60,10 @@
         "time": "3/14/2026, 11:10:24 PM"
       },
       {
-        "title": "Show HN: Han – A Korean programming language written in Rust",
-        "url": "https://github.com/xodn348/han",
+        "title": "Tree Search Distillation for Language Models Using PPO",
+        "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
         "source": "hn",
-        "time": "3/14/2026, 9:27:33 PM"
-      },
-      {
-        "title": "Hazardous substances found in all headphones tested by ToxFREE project",
-        "url": "https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals",
-        "source": "hn",
-        "time": "3/14/2026, 11:00:05 PM"
+        "time": "3/15/2026, 12:51:55 AM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Sun, 15 Mar 2026 00:40:19 GMT"
       },
       {
-        "title": "Harry and Meghan accuse royal author of 'deranged conspiracy'",
-        "url": "https://www.bbc.com/news/articles/c3v7qpnx73yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 14 Mar 2026 16:16:15 GMT"
-      },
-      {
         "title": "We expect government help in a crisis. Will Reeves intervene on energy bills this time?",
         "url": "https://www.bbc.com/news/articles/cvgky84z6lro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/cd6zdg737gpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 14 Mar 2026 22:44:26 GMT"
+      },
+      {
+        "title": "Officials could gain police-style powers to tackle fly-tippers",
+        "url": "https://www.bbc.com/news/articles/c8d5z7rd5mpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 15 Mar 2026 03:09:22 GMT"
       }
     ],
     "projects": [
