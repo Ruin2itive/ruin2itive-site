@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-15T13:11:25.598Z",
-  "updated_local": "3/15/2026, 1:11:25 PM",
+  "updated_iso": "2026-03-15T13:45:39.036Z",
+  "updated_local": "3/15/2026, 1:45:39 PM",
   "sections": {
     "crypto": [
       {
@@ -36,37 +36,43 @@
     ],
     "hacker": [
       {
+        "title": "A Theory of the World as run by large adult children",
+        "url": "https://tomclancy.info/harold-and-george.html",
+        "source": "hn",
+        "time": "3/15/2026, 12:48:17 PM"
+      },
+      {
+        "title": "A Visual Introduction to Machine Learning (2015)",
+        "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+        "source": "hn",
+        "time": "3/15/2026, 10:47:35 AM"
+      },
+      {
         "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
         "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
         "source": "hn",
         "time": "3/15/2026, 10:15:47 AM"
       },
       {
-        "title": "A Visual Introduction to Machine Learning",
-        "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+        "title": "100 hour gap between a vibecoded prototype and a working product",
+        "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
         "source": "hn",
-        "time": "3/15/2026, 10:47:35 AM"
-      },
-      {
-        "title": "Generating All 32-Bit Primes (Part I)",
-        "url": "https://hnlyman.github.io/pages/prime32_I.html",
-        "source": "hn",
-        "time": "3/15/2026, 11:42:01 AM"
+        "time": "3/15/2026, 12:09:30 PM"
       },
       {
         "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
         "url": "https://signet.watch",
         "source": "hn",
         "time": "3/15/2026, 12:01:00 PM"
-      },
-      {
-        "title": "Rack-mount hydroponics",
-        "url": "https://sa.lj.am/rack-mount-hydroponics/",
-        "source": "hn",
-        "time": "3/15/2026, 4:23:43 AM"
       }
     ],
     "world": [
+      {
+        "title": "UK looking at 'any options' to secure key oil route through Strait of Hormuz",
+        "url": "https://www.bbc.com/news/articles/cj0dlvl086eo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 15 Mar 2026 13:28:29 GMT"
+      },
       {
         "title": "We will intervene on energy bills if necessary, says Miliband",
         "url": "https://www.bbc.com/news/articles/cj4z7zr4kd8o?at_medium=RSS&amp;at_campaign=rss",
@@ -86,16 +92,10 @@
         "time": "Sun, 15 Mar 2026 12:00:35 GMT"
       },
       {
-        "title": "UK must build own nuclear missiles to end reliance on US, say Lib Dems",
-        "url": "https://www.bbc.com/news/articles/cy0dz1k0rr4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Police share details of tattoos as they trace man found dead in bin",
+        "url": "https://www.bbc.com/news/articles/cly0dpl0438o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 15 Mar 2026 11:54:12 GMT"
-      },
-      {
-        "title": "Kimi Antonelli wins his first Formula 1 race at Chinese Grand Prix",
-        "url": "https://www.bbc.com/sport/formula1/articles/czx4l44d53eo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 15 Mar 2026 08:55:39 GMT"
+        "time": "Sun, 15 Mar 2026 13:02:51 GMT"
       }
     ],
     "projects": [
