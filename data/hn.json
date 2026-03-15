@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-15T17:21:29.610Z"
+    "built_at": "2026-03-15T18:28:50.972Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Selling Laptop.bot domain to host OpenClaw",
+      "url": "https://www.namecheap.com/domains/registration/results/?domain=laptop.bot",
+      "date": "2026-03-15T18:26:58.000Z"
+    },
+    {
+      "title": "IssuePilot",
+      "url": "https://news.ycombinator.com/item?id=47390274",
+      "date": "2026-03-15T18:25:41.000Z"
+    }
+  ]
 }
