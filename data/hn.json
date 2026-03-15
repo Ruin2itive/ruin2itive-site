@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-15T16:23:29.422Z"
+    "built_at": "2026-03-15T17:21:29.610Z"
   },
-  "items": [
-    {
-      "title": "Life is hard, have a token. (2025)",
-      "url": "https://getvouchsafe.org/blog/2025-10-08.html",
-      "date": "2026-03-15T16:21:45.000Z"
-    },
-    {
-      "title": "Show HN: Bash Theft Auto – a GTA-inspired open-world crime game in pure Bash",
-      "url": "https://news.ycombinator.com/item?id=47388888",
-      "date": "2026-03-15T16:21:37.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
