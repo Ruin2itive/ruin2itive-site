@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-16T09:57:41.952Z"
+    "built_at": "2026-03-16T10:52:47.723Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Death by Clawd: The SaaSpocalypse Survival Scanner",
+      "url": "https://deathbyclawd.com/",
+      "date": "2026-03-16T10:47:08.000Z"
+    },
+    {
+      "title": "Show HN: Axiom – A native iOS HUD for your SaaS metrics",
+      "url": "https://apps.apple.com/us/app/axiom-metrics-dashboard/id6758957032",
+      "date": "2026-03-16T10:42:09.000Z"
+    }
+  ]
 }
