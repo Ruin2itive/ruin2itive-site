@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-16T15:58:18.799Z"
+    "built_at": "2026-03-16T17:02:42.942Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "CachyOS dethrones Arch as the top desktop distro for Linux gamers on ProtonDB",
+      "url": "https://www.xda-developers.com/cachyos-dethrones-arch-as-the-top-desktop-distro-for-linux-gamers-on-protondb/",
+      "date": "2026-03-16T17:01:57.000Z"
+    },
+    {
+      "title": "The Claude Code Workflow Cheatsheet: Stop Prompting, Start Configuring",
+      "url": "https://roboticforce.io/blog/claude-code-workflow-cheatsheet",
+      "date": "2026-03-16T17:01:34.000Z"
+    }
+  ]
 }
