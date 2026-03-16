@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-16T20:50:05.085Z",
-  "updated_local": "3/16/2026, 8:50:05 PM",
+  "updated_iso": "2026-03-16T21:37:57.443Z",
+  "updated_local": "3/16/2026, 9:37:57 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Man Alleges Wife Stole $172 Million in Bitcoin After &#39;Covertly Recording&#39; Him",
+        "url": "https://decrypt.co/361291/man-alleges-wife-stole-171-million-bitcoin-covertly-recording",
+        "source": "crypto",
+        "time": "Mon, 16 Mar 2026 21:37:01 +0000"
+      },
+      {
+        "title": "IBM Opens Quantum Hardware to Researchers as Bitcoin Security Threat Looms",
+        "url": "https://decrypt.co/361286/ibm-opens-quantum-hardware-researchers-bitcoin-security-threat",
+        "source": "crypto",
+        "time": "Mon, 16 Mar 2026 21:04:15 +0000"
+      },
       {
         "title": "Ethereum Founder Vitalik Buterin Wants Running a Node to Feel Less Like Rocket Science",
         "url": "https://decrypt.co/361240/ethereum-vitalik-buterin-running-node-less-like-rocket-science",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/361275/sec-drops-case-bitclout-founder-nader-al-naji",
         "source": "crypto",
         "time": "Mon, 16 Mar 2026 19:07:29 +0000"
-      },
-      {
-        "title": "Trump-Backed World Liberty Puts $5.3 Million Price Tag on &#39;Guaranteed Access&#39; to Team",
-        "url": "https://decrypt.co/361259/trump-backed-world-liberty-5-million-price-tag-access-team",
-        "source": "crypto",
-        "time": "Mon, 16 Mar 2026 17:42:45 +0000"
-      },
-      {
-        "title": "&#39;Operation Atlantic&#39;: US Secret Service Teams With UK, Canada to Stop Crypto Fraud",
-        "url": "https://decrypt.co/361245/operation-atlantic-secret-service-uk-canada-stop-crypto-fraud",
-        "source": "crypto",
-        "time": "Mon, 16 Mar 2026 16:48:37 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
         "source": "hn",
         "time": "3/16/2026, 6:12:32 PM"
+      },
+      {
+        "title": "Beyond Meat CEO 'It's Just Not the Moment for Plant-Based Meat' After Rebrand",
+        "url": "https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/",
+        "source": "hn",
+        "time": "3/16/2026, 8:59:49 PM"
       },
       {
         "title": "The “small web” is bigger than you might think",
@@ -58,15 +64,15 @@
         "url": "https://arxiv.org/abs/2603.12229",
         "source": "hn",
         "time": "3/16/2026, 5:19:13 PM"
-      },
-      {
-        "title": "Why I love FreeBSD",
-        "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
-        "source": "hn",
-        "time": "3/16/2026, 11:23:14 AM"
       }
     ],
     "world": [
+      {
+        "title": "Family 'beyond devastated' by meningitis death as hundreds get antibiotics",
+        "url": "https://www.bbc.com/news/articles/cp9mdxz4dd2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 16 Mar 2026 21:01:41 GMT"
+      },
       {
         "title": "What are the symptoms of meningitis and is there a vaccine?",
         "url": "https://www.bbc.com/news/articles/c7432klgyldo?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c7952d4dwd8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 16 Mar 2026 11:13:19 GMT"
-      },
-      {
-        "title": "King hits the DJ decks on city arts venue visit",
-        "url": "https://www.bbc.com/news/articles/c9q58x3vxp3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 16 Mar 2026 15:48:42 GMT"
       }
     ],
     "projects": [
