@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-16T14:17:21.552Z"
+    "built_at": "2026-03-16T15:58:18.799Z"
   },
-  "items": [
-    {
-      "title": "Reverse Captcha for Agents",
-      "url": "https://github.com/mondaycom/HATCHA",
-      "date": "2026-03-16T13:12:10.000Z"
-    },
-    {
-      "title": "Why Isn't Anyone Panicking?",
-      "url": "https://martinvol.pe/blog/2026/03/15/why-nobody-is-packicking-USA-Iran-war/",
-      "date": "2026-03-16T13:10:46.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
