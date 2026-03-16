@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-16T09:08:06.383Z",
-  "updated_local": "3/16/2026, 9:08:06 AM",
+  "updated_iso": "2026-03-16T10:04:50.914Z",
+  "updated_local": "3/16/2026, 10:04:50 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "3/15/2026, 9:22:16 PM"
       },
       {
+        "title": "Starlink Mini as a Failover",
+        "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
+        "source": "hn",
+        "time": "3/16/2026, 8:07:29 AM"
+      },
+      {
         "title": "How I write software with LLMs",
         "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
         "source": "hn",
@@ -52,12 +58,6 @@
         "url": "https://thatshubham.com/blog/news-audit",
         "source": "hn",
         "time": "3/15/2026, 7:25:18 PM"
-      },
-      {
-        "title": "Starlink Mini as a Failover",
-        "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
-        "source": "hn",
-        "time": "3/16/2026, 8:07:29 AM"
       },
       {
         "title": "Chrome DevTools MCP (2025)",
