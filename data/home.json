@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-16T17:58:39.157Z",
-  "updated_local": "3/16/2026, 5:58:39 PM",
+  "updated_iso": "2026-03-16T19:15:05.509Z",
+  "updated_local": "3/16/2026, 7:15:05 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "SEC Drops Case Against BitClout Founder Nader Al-Naji",
+        "url": "https://decrypt.co/361275/sec-drops-case-bitclout-founder-nader-al-naji",
+        "source": "crypto",
+        "time": "Mon, 16 Mar 2026 19:07:29 +0000"
+      },
       {
         "title": "Trump-Backed World Liberty Puts $5.3 Million Price Tag on &#39;Guaranteed Access&#39; to Team",
         "url": "https://decrypt.co/361259/trump-backed-world-liberty-5-million-price-tag-access-team",
@@ -26,17 +32,17 @@
         "url": "https://decrypt.co/361241/crypto-funds-pull-in-1b-for-third-straight-week-as-u-s-investors-drive-demand",
         "source": "crypto",
         "time": "Mon, 16 Mar 2026 15:33:29 +0000"
-      },
-      {
-        "title": "Ethereum Price Hits 6-Week High as Tom Lee&#39;s BitMine Reveals Latest ETH Buy",
-        "url": "https://decrypt.co/361236/ethereum-price-6-week-high-tom-lee-bitmine-eth-buy",
-        "source": "crypto",
-        "time": "Mon, 16 Mar 2026 15:17:43 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Kevin Boone: The \"small web\" is bigger than you might think",
+        "title": "Jemalloc un-abandoned by Meta",
+        "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+        "source": "hn",
+        "time": "3/16/2026, 6:12:32 PM"
+      },
+      {
+        "title": "The “small web” is bigger than you might think",
         "url": "https://kevinboone.me/small_web_is_big.html",
         "source": "hn",
         "time": "3/16/2026, 5:17:57 PM"
@@ -54,10 +60,10 @@
         "time": "3/16/2026, 3:25:36 PM"
       },
       {
-        "title": "I Love FreeBSD",
-        "url": "https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/",
+        "title": "Where does engineering go? Retreat findings and insights [pdf]",
+        "url": "https://www.thoughtworks.com/content/dam/thoughtworks/documents/report/tw_future%20_of_software_development_retreat_%20key_takeaways.pdf",
         "source": "hn",
-        "time": "3/16/2026, 11:23:14 AM"
+        "time": "3/11/2026, 8:40:51 PM"
       }
     ],
     "world": [
@@ -65,7 +71,7 @@
         "title": "What are the symptoms of meningitis and is there a vaccine?",
         "url": "https://www.bbc.com/news/articles/c7432klgyldo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 16 Mar 2026 14:59:08 GMT"
+        "time": "Mon, 16 Mar 2026 17:58:38 GMT"
       },
       {
         "title": "Wary allies show there's no quick fix to Trump's Iran crisis",
