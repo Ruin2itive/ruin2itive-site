@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-16T06:15:55.654Z"
+    "built_at": "2026-03-16T08:03:30.635Z"
   },
-  "items": [
-    {
-      "title": "I Paid $300 for Career Coaching. Here's What I Should Have Done Instead",
-      "url": "https://www.tumblr.com/login_required/wonderfullysacredtrap",
-      "date": "2026-03-16T06:12:36.000Z"
-    },
-    {
-      "title": "Try not to get scammed while looking for work",
-      "url": "https://trysound.io/try-not-to-get-scammed-while-looking-for-work/",
-      "date": "2026-03-16T06:11:02.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
