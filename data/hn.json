@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-17T15:57:36.488Z"
+    "built_at": "2026-03-17T17:03:10.653Z"
   },
-  "items": [
-    {
-      "title": "ServiceNow CEO prevê 30% de desemprego entre Gen Z por causa da IA",
-      "url": "https://fortune.com/2026/03/17/servicenow-ceo-bill-mcdermott-gen-z-graduates-face-30-unemployment-next-couple-of-years-ai-takes-over/",
-      "date": "2026-03-17T15:57:07.000Z"
-    },
-    {
-      "title": "ClawBlink: Create background AI agents from Telegram or WhatsApp chat",
-      "url": "https://github.com/Merwynkumar/clawblink",
-      "date": "2026-03-17T15:57:05.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
