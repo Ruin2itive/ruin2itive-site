@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-17T09:54:31.601Z",
-  "updated_local": "3/17/2026, 9:54:31 AM",
+  "updated_iso": "2026-03-17T10:50:30.676Z",
+  "updated_local": "3/17/2026, 10:50:30 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Buenos Aires Court Orders Polymarket Blocked in Argentina",
+        "url": "https://decrypt.co/361340/buenos-aires-court-orders-polymarket-blocked-in-argentina",
+        "source": "crypto",
+        "time": "Tue, 17 Mar 2026 10:29:35 +0000"
+      },
       {
         "title": "Minors Sue xAI in California Over Alleged Grok Deepfake Images",
         "url": "https://decrypt.co/361331/minors-sue-xai-california-alleged-grok-deepfake-images",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/361303/chatgpt-cure-dogs-cancer-complicated",
         "source": "crypto",
         "time": "Mon, 16 Mar 2026 22:54:24 +0000"
-      },
-      {
-        "title": "Pokémon Go Players Helped Map the World—Now That Data Is Training Delivery Robots",
-        "url": "https://decrypt.co/361302/pokemon-go-map-world-now-data-training-robots",
-        "source": "crypto",
-        "time": "Mon, 16 Mar 2026 22:23:22 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Kagi Small Web",
+        "url": "https://kagi.com/smallweb/",
+        "source": "hn",
+        "time": "3/17/2026, 9:53:53 AM"
+      },
       {
         "title": "Kagi Translate now supports LinkedIn Speak as an output language",
         "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
@@ -54,16 +60,10 @@
         "time": "3/13/2026, 4:20:00 PM"
       },
       {
-        "title": "Grace Hopper's Revenge",
-        "url": "https://www.thefuriousopposites.com/p/grace-hoppers-revenge",
+        "title": "Building a Shell",
+        "url": "https://healeycodes.com/building-a-shell",
         "source": "hn",
-        "time": "3/17/2026, 9:26:48 AM"
-      },
-      {
-        "title": "Meta’s renewed commitment to jemalloc",
-        "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-        "source": "hn",
-        "time": "3/16/2026, 6:12:32 PM"
+        "time": "3/17/2026, 9:52:34 AM"
       }
     ],
     "world": [
