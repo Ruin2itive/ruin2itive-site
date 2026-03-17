@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-17T19:51:00.697Z"
+    "built_at": "2026-03-17T20:31:24.590Z"
   },
-  "items": [
-    {
-      "title": "Solid-state EV batteries that can achieve 800 miles of range becoming a reality",
-      "url": "https://electrek.co/2026/03/17/solid-state-ev-batteries-with-800-miles-range-become-reality/",
-      "date": "2026-03-17T19:49:08.000Z"
-    },
-    {
-      "title": "Egnram: Persistent memory system for AI coding agents",
-      "url": "https://github.com/Gentleman-Programming/engram",
-      "date": "2026-03-17T19:49:02.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
