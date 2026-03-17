@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-16T23:38:02.602Z",
-  "updated_local": "3/16/2026, 11:38:02 PM",
+  "updated_iso": "2026-03-17T01:58:55.238Z",
+  "updated_local": "3/17/2026, 1:58:55 AM",
   "sections": {
     "crypto": [
       {
@@ -36,7 +36,13 @@
     ],
     "hacker": [
       {
-        "title": "Leanstral: Open-Source foundation for trustworthy vibe-coding",
+        "title": "US SEC preparing to scrap quarterly reporting requirement",
+        "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+        "source": "hn",
+        "time": "3/17/2026, 12:02:35 AM"
+      },
+      {
+        "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
         "url": "https://mistral.ai/news/leanstral",
         "source": "hn",
         "time": "3/16/2026, 8:59:40 PM"
@@ -58,15 +64,15 @@
         "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
         "source": "hn",
         "time": "3/16/2026, 5:13:27 PM"
-      },
-      {
-        "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
-        "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
-        "source": "hn",
-        "time": "3/16/2026, 1:09:58 PM"
       }
     ],
     "world": [
+      {
+        "title": "Chris Mason: Why Starmer thinks he's called it right on war despite Trump barbs",
+        "url": "https://www.bbc.com/news/articles/cn9e0zr5qy2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 17 Mar 2026 01:56:53 GMT"
+      },
       {
         "title": "Family 'beyond devastated' by meningitis death as hundreds get antibiotics",
         "url": "https://www.bbc.com/news/articles/cp9mdxz4dd2o?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +80,22 @@
         "time": "Mon, 16 Mar 2026 22:28:24 GMT"
       },
       {
-        "title": "What are the symptoms of meningitis and is there a vaccine?",
-        "url": "https://www.bbc.com/news/articles/c7432klgyldo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Afghanistan accuses Pakistan of killing hundreds in hospital strike",
+        "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 16 Mar 2026 17:58:38 GMT"
+        "time": "Mon, 16 Mar 2026 23:22:48 GMT"
       },
       {
-        "title": "Wary allies show there's no quick fix to Trump's Iran crisis",
-        "url": "https://www.bbc.com/news/articles/c8r17plnvy3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Will Scotland be the first nation in the UK to legalise assisted dying?",
+        "url": "https://www.bbc.com/news/articles/cg5nrv7nm56o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 16 Mar 2026 17:34:13 GMT"
+        "time": "Mon, 16 Mar 2026 22:58:20 GMT"
       },
       {
-        "title": "Key Oscars moments as snubbed Chalamet becomes butt of jokes",
-        "url": "https://www.bbc.com/news/articles/cp9mg90k78eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Reeves vows to stop UK tech from 'drifting abroad'",
+        "url": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 16 Mar 2026 10:32:03 GMT"
-      },
-      {
-        "title": "Car park firm NCP collapses with nearly 700 jobs at risk",
-        "url": "https://www.bbc.com/news/articles/c2e48zl4j7ko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 16 Mar 2026 17:13:28 GMT"
+        "time": "Tue, 17 Mar 2026 00:01:07 GMT"
       }
     ],
     "projects": [
