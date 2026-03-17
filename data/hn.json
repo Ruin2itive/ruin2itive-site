@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-17T22:25:28.867Z"
+    "built_at": "2026-03-17T23:25:10.253Z"
   },
-  "items": [
-    {
-      "title": "How Gregory Bovino became a face of Trump's deportations and ended his career",
-      "url": "https://apnews.com/article/bovino-retirement-trump-immigration-border-patrol-67c94e813f6725c63ed4c0701990dcae",
-      "date": "2026-03-17T22:23:31.000Z"
-    },
-    {
-      "title": "Krasis LLM Runtime – run large LLM models on a single GPU",
-      "url": "https://github.com/brontoguana/krasis",
-      "date": "2026-03-17T22:19:21.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
