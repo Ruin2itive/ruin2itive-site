@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-17T17:13:35.120Z",
-  "updated_local": "3/17/2026, 5:13:35 PM",
+  "updated_iso": "2026-03-17T17:56:59.829Z",
+  "updated_local": "3/17/2026, 5:56:59 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "PayPal Expands PYUSD Stablecoin Globally as Supply Tops $4 Billion",
+        "url": "https://decrypt.co/361422/paypal-expands-pyusd-stablecoin-globally-as-supply-tops-4-billion",
+        "source": "crypto",
+        "time": "Tue, 17 Mar 2026 17:46:10 +0000"
+      },
+      {
+        "title": "Democrats Target Prediction Market Insider Trading, Claim Trump Allies Are Profiting",
+        "url": "https://decrypt.co/361398/senate-democrats-war-related-prediction-markets-trump-insiders-profiting",
+        "source": "crypto",
+        "time": "Tue, 17 Mar 2026 17:18:36 +0000"
+      },
       {
         "title": "Allium Brings 65TB of Data from Bitcoin, Ethereum, Sui and More to Walrus",
         "url": "https://decrypt.co/361390/allium-brings-65tb-of-data-from-bitcoin-ethereum-sui-and-more-to-walrus",
@@ -20,26 +32,14 @@
         "url": "https://decrypt.co/361323/altman-world-coinbase-open-protocol-verify-humans-ai",
         "source": "crypto",
         "time": "Tue, 17 Mar 2026 15:01:03 +0000"
-      },
-      {
-        "title": "Morning Minute: Strategy&#39;s $1.58B Buy Pushes Bitcoin to $75k",
-        "url": "https://decrypt.co/361363/morning-minute-strategys-1-58b-buy-pushes-btc-to-75k",
-        "source": "crypto",
-        "time": "Tue, 17 Mar 2026 13:54:25 +0000"
-      },
-      {
-        "title": "Mastercard to Acquire Stablecoin Tech Firm BVNK for Up to $1.8 Billion",
-        "url": "https://decrypt.co/361371/mastercard-acquire-stablecoin-tech-firm-bvnk-1-8-billion",
-        "source": "crypto",
-        "time": "Tue, 17 Mar 2026 13:42:18 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Give Django your time and money, not your tokens",
-        "url": "https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/",
+        "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+        "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
         "source": "hn",
-        "time": "3/16/2026, 3:12:50 PM"
+        "time": "3/17/2026, 3:16:29 PM"
       },
       {
         "title": "Kagi Small Web",
@@ -54,16 +54,16 @@
         "time": "3/17/2026, 2:28:37 PM"
       },
       {
-        "title": "OpenSUSE Kalpa",
-        "url": "https://kalpadesktop.org/",
-        "source": "hn",
-        "time": "3/17/2026, 1:54:17 PM"
-      },
-      {
         "title": "FFmpeg 8.1",
         "url": "https://ffmpeg.org/index.html#pr8.1",
         "source": "hn",
         "time": "3/17/2026, 2:51:57 PM"
+      },
+      {
+        "title": "Finding a CPU Design Bug in the Xbox 360 (2018)",
+        "url": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
+        "source": "hn",
+        "time": "3/13/2026, 1:40:21 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Tue, 17 Mar 2026 16:43:34 GMT"
       },
       {
+        "title": "Watch: Iranians show daily life under air strikes and regime crackdown",
+        "url": "https://www.bbc.com/news/videos/cgk2lk86y3mo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 17 Mar 2026 17:04:20 GMT"
+      },
+      {
+        "title": "Why is MenB vaccine not given to teenagers in UK and should they be offered it?",
+        "url": "https://www.bbc.com/news/articles/c3rzg0vg947o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 17 Mar 2026 14:49:17 GMT"
+      },
+      {
         "title": "Focus must remain on Ukraine despite Iran war, PM says as he meets President Zelensky",
         "url": "https://www.bbc.com/news/articles/c15xeyny73wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Mar 2026 16:18:37 GMT"
-      },
-      {
-        "title": "Mayors to gain more spending power under Reeves tax plans",
-        "url": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 17 Mar 2026 15:43:04 GMT"
+        "time": "Tue, 17 Mar 2026 17:17:19 GMT"
       },
       {
         "title": "Prince William joins Greg James on Comic Relief tandem bike ride",
         "url": "https://www.bbc.com/news/articles/c3rzgg8wp52o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 17 Mar 2026 14:34:38 GMT"
-      },
-      {
-        "title": "'Many people fooled' by AI wedding pics, says Zendaya",
-        "url": "https://www.bbc.com/news/articles/clyz7llp4k2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 17 Mar 2026 14:29:29 GMT"
       }
     ],
     "projects": [
