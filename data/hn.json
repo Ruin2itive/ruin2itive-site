@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-17T20:31:24.590Z"
+    "built_at": "2026-03-17T21:29:58.923Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Italy warns stricken Russian tanker could explode in Med at any time",
+      "url": "https://www.bbc.com/news/articles/cn9e9dxw3e1o",
+      "date": "2026-03-17T21:29:15.000Z"
+    },
+    {
+      "title": "Garry Tan's Claude Code Setup",
+      "url": "https://github.com/garrytan/gstack/tree/main",
+      "date": "2026-03-17T21:28:35.000Z"
+    }
+  ]
 }
