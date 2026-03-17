@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-17T08:42:04.698Z"
+    "built_at": "2026-03-17T09:47:58.895Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Millwright: Smarter Tool Selection from Agent Experience",
+      "url": "https://minor.gripe/posts/2026-03-13-millwright_smarter_tool_selection_with_adaptive_toolsheds/",
+      "date": "2026-03-17T09:46:03.000Z"
+    },
+    {
+      "title": "Gleam v1.15.0 has been published",
+      "url": "https://gleam.run/news/upgrading-hex-security/",
+      "date": "2026-03-17T09:42:55.000Z"
+    }
+  ]
 }
