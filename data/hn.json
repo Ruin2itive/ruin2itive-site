@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-17T01:23:16.500Z"
+    "built_at": "2026-03-17T04:11:18.035Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Skill-Crypt – encrypted skill sharing between AI agents over XMTP",
-      "url": "https://github.com/skillcrypt-alt/skill-crypt",
-      "date": "2026-03-17T01:21:30.000Z"
-    },
-    {
-      "title": "She Hoped Ketamine Would Rewire Her Brain. She Didn't Live to See It Work",
-      "url": "https://www.wsj.com/health/wellness/ketamine-telehealth-dangers-4a7bc8da",
-      "date": "2026-03-17T01:20:36.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
