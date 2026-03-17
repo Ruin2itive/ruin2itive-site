@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-17T09:03:56.124Z",
-  "updated_local": "3/17/2026, 9:03:56 AM",
+  "updated_iso": "2026-03-17T09:54:31.601Z",
+  "updated_local": "3/17/2026, 9:54:31 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+        "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+        "source": "hn",
+        "time": "3/17/2026, 4:39:42 AM"
+      },
+      {
         "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
         "url": "https://mistral.ai/news/leanstral",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "3/13/2026, 4:20:00 PM"
       },
       {
+        "title": "Grace Hopper's Revenge",
+        "url": "https://www.thefuriousopposites.com/p/grace-hoppers-revenge",
+        "source": "hn",
+        "time": "3/17/2026, 9:26:48 AM"
+      },
+      {
         "title": "Meta’s renewed commitment to jemalloc",
         "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
         "source": "hn",
         "time": "3/16/2026, 6:12:32 PM"
-      },
-      {
-        "title": "The “small web” is bigger than you might think",
-        "url": "https://kevinboone.me/small_web_is_big.html",
-        "source": "hn",
-        "time": "3/16/2026, 5:17:57 PM"
-      },
-      {
-        "title": "The American Healthcare Conundrum",
-        "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
-        "source": "hn",
-        "time": "3/16/2026, 5:13:27 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Tue, 17 Mar 2026 01:56:53 GMT"
       },
       {
-        "title": "Will Scotland be the first nation in the UK to legalise assisted dying?",
-        "url": "https://www.bbc.com/news/articles/cg5nrv7nm56o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
+        "url": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Mar 2026 06:15:03 GMT"
+        "time": "Tue, 17 Mar 2026 08:10:24 GMT"
       },
       {
-        "title": "Reeves vows to stop UK tech from 'drifting abroad'",
+        "title": "Quantum computing and AI to get £2.5bn to stop UK tech 'drifting abroad', Reeves vows",
         "url": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 17 Mar 2026 07:19:27 GMT"
       },
       {
-        "title": "Dozens killed after Afghanistan rehab centre struck",
+        "title": "Dozens killed in air strike on Kabul rehab centre blamed on Pakistan",
         "url": "https://www.bbc.com/news/articles/c4g8n7e0l40o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 17 Mar 2026 06:19:03 GMT"
       },
       {
-        "title": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
-        "url": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Spring to make a comeback with warmest day of the year forecast",
+        "url": "https://www.bbc.com/weather/articles/cp8r3kgjmd5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Mar 2026 08:10:24 GMT"
+        "time": "Tue, 17 Mar 2026 00:56:20 GMT"
       }
     ],
     "projects": [
