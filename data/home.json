@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-17T22:42:44.222Z",
-  "updated_local": "3/17/2026, 10:42:44 PM",
+  "updated_iso": "2026-03-17T23:30:49.582Z",
+  "updated_local": "3/17/2026, 11:30:49 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Nvidia’s DLSS 5 Launch Sparks Meme Frenzy as Gamers Balk at AI ‘Neural Rendering’",
+        "url": "https://decrypt.co/361465/nvidias-dlss-5-sparks-meme-frenzy-ai",
+        "source": "crypto",
+        "time": "Tue, 17 Mar 2026 22:45:41 +0000"
+      },
       {
         "title": "Crypto Gift Card Platform Bitrefill Discloses Hack, Points Finger at North Korean Groups",
         "url": "https://decrypt.co/361462/crypto-gift-card-platform-bitrefill-hack-north-korean-groups",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/361449/phantom-cftc-regulated-derivatives-markets",
         "source": "crypto",
         "time": "Tue, 17 Mar 2026 20:35:27 +0000"
-      },
-      {
-        "title": "SEC Declares &#39;Most Crypto Assets&#39; Not Securities, Including Staking, Airdrops and Bitcoin Mining",
-        "url": "https://decrypt.co/361446/sec-most-crypto-assets-not-securities-staking-airdrops-bitcoin-mining",
-        "source": "crypto",
-        "time": "Tue, 17 Mar 2026 20:05:00 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "3/17/2026, 6:59:50 PM"
       },
       {
-        "title": "Python 3.15's JIT is now back on track",
-        "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-        "source": "hn",
-        "time": "3/17/2026, 6:37:27 PM"
-      },
-      {
         "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
         "url": "https://github.com/gsd-build/get-shit-done",
         "source": "hn",
         "time": "3/17/2026, 8:23:39 PM"
+      },
+      {
+        "title": "Python 3.15's JIT is now back on track",
+        "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+        "source": "hn",
+        "time": "3/17/2026, 6:37:27 PM"
       },
       {
         "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
@@ -60,13 +60,19 @@
         "time": "3/17/2026, 3:16:29 PM"
       },
       {
-        "title": "Warranty Void If Regenerated",
-        "url": "https://nearzero.software/p/warranty-void-if-regenerated",
+        "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
+        "url": "https://www.youtube.com/watch?v=3Ploi723hg4",
         "source": "hn",
-        "time": "3/17/2026, 8:39:19 PM"
+        "time": "3/13/2026, 7:14:46 PM"
       }
     ],
     "world": [
+      {
+        "title": "Zelensky calls for Trump and Starmer to meet and find common ground",
+        "url": "https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 17 Mar 2026 23:15:26 GMT"
+      },
       {
         "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
         "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&amp;at_campaign=rss",
@@ -83,19 +89,13 @@
         "title": "Morocco awarded Africa Cup of Nations title after Senegal win overturned",
         "url": "https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Mar 2026 22:28:57 GMT"
+        "time": "Tue, 17 Mar 2026 22:48:29 GMT"
       },
       {
         "title": "'Explosive' meningitis outbreak unprecedented – officials",
         "url": "https://www.bbc.com/news/articles/cev7rl437epo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 17 Mar 2026 21:54:24 GMT"
-      },
-      {
-        "title": "Was response to 'unprecedented' outbreak too slow?",
-        "url": "https://www.bbc.com/news/articles/cjd9dk2v0z3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 17 Mar 2026 18:33:47 GMT"
       }
     ],
     "projects": [
