@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-17T07:50:12.572Z"
+    "built_at": "2026-03-17T08:42:04.698Z"
   },
-  "items": [
-    {
-      "title": "Velvet-auth – Production-ready auth plugin for Elysia and Bun",
-      "url": "https://github.com/raloonsoc/velvet-auth",
-      "date": "2026-03-17T07:44:54.000Z"
-    },
-    {
-      "title": "C++ Algorithms Library",
-      "url": "https://en.cppreference.com/w/cpp/algorithm.html",
-      "date": "2026-03-17T07:42:42.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
