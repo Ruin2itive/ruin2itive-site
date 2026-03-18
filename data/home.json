@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-18T22:40:01.290Z",
-  "updated_local": "3/18/2026, 10:40:01 PM",
+  "updated_iso": "2026-03-18T23:29:12.127Z",
+  "updated_local": "3/18/2026, 11:29:12 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,18 @@
         "time": "3/18/2026, 8:45:54 PM"
       },
       {
+        "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+        "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+        "source": "hn",
+        "time": "3/15/2026, 3:59:09 PM"
+      },
+      {
+        "title": "Website to post Claude fuck ups",
+        "url": "https://claudedidwhat.wtf",
+        "source": "hn",
+        "time": "3/18/2026, 11:08:14 PM"
+      },
+      {
         "title": "OpenRocket",
         "url": "https://openrocket.info/",
         "source": "hn",
@@ -52,18 +64,6 @@
         "url": "https://susam.net/wander/",
         "source": "hn",
         "time": "3/18/2026, 7:43:13 AM"
-      },
-      {
-        "title": "Rob Pike’s Rules of Programming (1989)",
-        "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-        "source": "hn",
-        "time": "3/18/2026, 9:59:54 AM"
-      },
-      {
-        "title": "Nvidia NemoClaw",
-        "url": "https://github.com/NVIDIA/NemoClaw",
-        "source": "hn",
-        "time": "3/18/2026, 3:31:07 PM"
       }
     ],
     "world": [
