@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-18T05:04:16.029Z",
-  "updated_local": "3/18/2026, 5:04:16 AM",
+  "updated_iso": "2026-03-18T06:01:47.601Z",
+  "updated_local": "3/18/2026, 6:01:47 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Depot Flags Control &#39;Weaknesses&#39; as Connecticut Halts Its Operations",
+        "url": "https://decrypt.co/361479/bitcoin-depot-flags-control-weaknesses-connecticut-halts-operations",
+        "source": "crypto",
+        "time": "Wed, 18 Mar 2026 05:58:39 +0000"
+      },
       {
         "title": "Democrats Press Meta Over Facial Recognition Plans for Smart Glasses",
         "url": "https://decrypt.co/361477/democrats-press-meta-facial-recognition-plans-smart-glasses",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/361456/tim-scott-crypto-bill-stablecoin-yield-compromise",
         "source": "crypto",
         "time": "Tue, 17 Mar 2026 21:09:30 +0000"
-      },
-      {
-        "title": "Arizona Files Charges Against Kalshi, Calling Prediction Market an &#39;Illegal Gambling Operation&#39;",
-        "url": "https://decrypt.co/361452/arizona-files-charges-kalshi-prediction-market-illegal-gambling",
-        "source": "crypto",
-        "time": "Tue, 17 Mar 2026 20:56:52 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "SSH has no Host header",
+        "url": "https://blog.exe.dev/ssh-host-header",
+        "source": "hn",
+        "time": "3/18/2026, 5:18:02 AM"
+      },
+      {
+        "title": "Have a Fucking Website",
+        "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+        "source": "hn",
+        "time": "3/18/2026, 3:53:42 AM"
+      },
       {
         "title": "More than 135 open hardware devices flashable with your own firmware",
         "url": "https://openhardware.directory",
@@ -48,22 +60,10 @@
         "time": "3/17/2026, 6:59:50 PM"
       },
       {
-        "title": "Have a Fucking Website",
-        "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-        "source": "hn",
-        "time": "3/18/2026, 3:53:42 AM"
-      },
-      {
         "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
         "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
         "source": "hn",
         "time": "3/17/2026, 3:16:29 PM"
-      },
-      {
-        "title": "Python 3.15's JIT is now back on track",
-        "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-        "source": "hn",
-        "time": "3/17/2026, 6:37:27 PM"
       }
     ],
     "world": [
