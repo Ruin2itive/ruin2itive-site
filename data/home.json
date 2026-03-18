@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-18T02:03:03.221Z",
-  "updated_local": "3/18/2026, 2:03:03 AM",
+  "updated_iso": "2026-03-18T02:55:01.026Z",
+  "updated_local": "3/18/2026, 2:55:01 AM",
   "sections": {
     "crypto": [
       {
@@ -54,16 +54,16 @@
         "time": "3/17/2026, 3:16:29 PM"
       },
       {
-        "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
-        "url": "https://github.com/gsd-build/get-shit-done",
-        "source": "hn",
-        "time": "3/17/2026, 8:23:39 PM"
-      },
-      {
         "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
         "url": "https://github.com/adammiribyan/zeroboot",
         "source": "hn",
         "time": "3/17/2026, 1:43:44 PM"
+      },
+      {
+        "title": "Mistral AI Releases Forge",
+        "url": "https://mistral.ai/news/forge",
+        "source": "hn",
+        "time": "3/17/2026, 9:04:26 PM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Tue, 17 Mar 2026 23:15:26 GMT"
       },
       {
-        "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
-        "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 18 Mar 2026 01:55:06 GMT"
-      },
-      {
         "title": "Total repression and air strikes bring unrelenting dread for Iranians",
         "url": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 18 Mar 2026 00:23:36 GMT"
+      },
+      {
+        "title": "Higgs Boson breakthrough was UK triumph, but British physics faces 'catastrophic' cuts",
+        "url": "https://www.bbc.com/news/articles/czr0zmzzp84o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 18 Mar 2026 01:57:13 GMT"
       }
     ],
     "projects": [
