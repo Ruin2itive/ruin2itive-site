@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-18T09:53:44.158Z",
-  "updated_local": "3/18/2026, 9:53:44 AM",
+  "updated_iso": "2026-03-18T10:51:31.694Z",
+  "updated_local": "3/18/2026, 10:51:31 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Rob Pike's 5 Rules of Programming",
+        "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+        "source": "hn",
+        "time": "3/18/2026, 9:59:54 AM"
+      },
+      {
         "title": "JPEG Compression",
         "url": "https://www.sophielwang.com/blog/jpeg",
         "source": "hn",
         "time": "3/14/2026, 1:31:48 AM"
+      },
+      {
+        "title": "Kagi is contemplating the removal of the assistant from its professional tier",
+        "url": "https://kagifeedback.org/d/10116-kagi-assistant-standalone-subscription",
+        "source": "hn",
+        "time": "3/18/2026, 9:56:48 AM"
       },
       {
         "title": "Write up of my homebrew CPU build",
@@ -52,18 +64,6 @@
         "url": "https://mistral.ai/news/forge",
         "source": "hn",
         "time": "3/17/2026, 9:04:26 PM"
-      },
-      {
-        "title": "Celebrating Tony Hoare's mark on computer science",
-        "url": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
-        "source": "hn",
-        "time": "3/18/2026, 6:31:14 AM"
-      },
-      {
-        "title": "A Decade of Slug",
-        "url": "https://terathon.com/blog/decade-slug.html",
-        "source": "hn",
-        "time": "3/17/2026, 6:59:50 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Wed, 18 Mar 2026 03:24:20 GMT"
       },
       {
-        "title": "Ukraine faces missile shortage due to Middle East war, says Zelensky",
-        "url": "https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 18 Mar 2026 07:56:49 GMT"
-      },
-      {
         "title": "Angela Rayner's explosive speech reignites leadership speculation",
         "url": "https://www.bbc.com/news/articles/cpd8d10n9x5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 18 Mar 2026 09:21:14 GMT"
+      },
+      {
+        "title": "Ukraine faces missile shortage due to Middle East war, says Zelensky",
+        "url": "https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 18 Mar 2026 07:56:49 GMT"
       }
     ],
     "projects": [
