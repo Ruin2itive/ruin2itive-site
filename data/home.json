@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-17T23:40:05.453Z",
-  "updated_local": "3/17/2026, 11:40:05 PM",
+  "updated_iso": "2026-03-18T02:03:03.221Z",
+  "updated_local": "3/18/2026, 2:03:03 AM",
   "sections": {
     "crypto": [
       {
@@ -42,12 +42,6 @@
         "time": "3/17/2026, 6:59:50 PM"
       },
       {
-        "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
-        "url": "https://github.com/gsd-build/get-shit-done",
-        "source": "hn",
-        "time": "3/17/2026, 8:23:39 PM"
-      },
-      {
         "title": "Python 3.15's JIT is now back on track",
         "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
         "source": "hn",
@@ -60,13 +54,25 @@
         "time": "3/17/2026, 3:16:29 PM"
       },
       {
-        "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
-        "url": "https://www.youtube.com/watch?v=3Ploi723hg4",
+        "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+        "url": "https://github.com/gsd-build/get-shit-done",
         "source": "hn",
-        "time": "3/13/2026, 7:14:46 PM"
+        "time": "3/17/2026, 8:23:39 PM"
+      },
+      {
+        "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+        "url": "https://github.com/adammiribyan/zeroboot",
+        "source": "hn",
+        "time": "3/17/2026, 1:43:44 PM"
       }
     ],
     "world": [
+      {
+        "title": "Scotland's assisted dying bill rejected after emotional debate",
+        "url": "https://www.bbc.com/news/articles/c33j3nd1kvko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 18 Mar 2026 00:04:34 GMT"
+      },
       {
         "title": "Zelensky calls for Trump and Starmer to meet and find common ground",
         "url": "https://www.bbc.com/news/articles/cp8r813x66jo?at_medium=RSS&amp;at_campaign=rss",
@@ -77,25 +83,19 @@
         "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
         "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Mar 2026 21:48:08 GMT"
+        "time": "Wed, 18 Mar 2026 01:55:06 GMT"
       },
       {
-        "title": "Watch: Iranians show daily life under air strikes and regime crackdown",
-        "url": "https://www.bbc.com/news/videos/cgk2lk86y3mo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Total repression and air strikes bring unrelenting dread for Iranians",
+        "url": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Mar 2026 17:04:20 GMT"
+        "time": "Wed, 18 Mar 2026 00:07:36 GMT"
       },
       {
         "title": "Morocco awarded Africa Cup of Nations title after Senegal win overturned",
         "url": "https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Mar 2026 23:35:15 GMT"
-      },
-      {
-        "title": "'Explosive' meningitis outbreak unprecedented – officials",
-        "url": "https://www.bbc.com/news/articles/cev7rl437epo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 17 Mar 2026 21:54:24 GMT"
+        "time": "Wed, 18 Mar 2026 00:23:36 GMT"
       }
     ],
     "projects": [
