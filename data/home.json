@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-18T19:14:19.063Z",
-  "updated_local": "3/18/2026, 7:14:19 PM",
+  "updated_iso": "2026-03-18T19:46:57.210Z",
+  "updated_local": "3/18/2026, 7:46:57 PM",
   "sections": {
     "crypto": [
       {
@@ -48,25 +48,31 @@
         "time": "3/15/2026, 12:20:14 PM"
       },
       {
-        "title": "2025 Turing award given for quantum information science",
-        "url": "https://awards.acm.org/about/2025-turing",
-        "source": "hn",
-        "time": "3/18/2026, 10:10:01 AM"
-      },
-      {
         "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
         "url": "https://huggingface.co/datasets/open-index/hacker-news",
         "source": "hn",
         "time": "3/14/2026, 5:12:03 PM"
       },
       {
-        "title": "AI coding is gambling",
-        "url": "https://notes.visaint.space/ai-coding-is-gambling/",
+        "title": "Wanter – A tiny, decentralised tool to explore the small web",
+        "url": "https://susam.net/wander/",
         "source": "hn",
-        "time": "3/18/2026, 5:22:02 PM"
+        "time": "3/18/2026, 7:43:13 AM"
+      },
+      {
+        "title": "2025 Turing award given for quantum information science",
+        "url": "https://awards.acm.org/about/2025-turing",
+        "source": "hn",
+        "time": "3/18/2026, 10:10:01 AM"
       }
     ],
     "world": [
+      {
+        "title": "All doctors in England warned to watch for meningitis symptoms after Kent outbreak",
+        "url": "https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 18 Mar 2026 18:41:54 GMT"
+      },
       {
         "title": "Why has this meningitis outbreak spread so fast?",
         "url": "https://www.bbc.com/news/articles/cqlglkprv0qo?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/weather/articles/crl4g65wzepo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 18 Mar 2026 15:41:47 GMT"
-      },
-      {
-        "title": "King Charles greets Nigerian president in Windsor sunshine",
-        "url": "https://www.bbc.com/news/articles/cedzqqp9x2do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 18 Mar 2026 14:58:11 GMT"
       }
     ],
     "projects": [
