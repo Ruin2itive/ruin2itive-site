@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-18T18:01:55.489Z",
-  "updated_local": "3/18/2026, 6:01:55 PM",
+  "updated_iso": "2026-03-18T19:14:19.063Z",
+  "updated_local": "3/18/2026, 7:14:19 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin, Ethereum Waver as Fed Holds Interest Rates Steady",
+        "url": "https://decrypt.co/361603/bitcoin-ethereum-waver-fed-holds-interest-rates-steady",
+        "source": "crypto",
+        "time": "Wed, 18 Mar 2026 18:11:15 +0000"
+      },
       {
         "title": "Myriad Traders Slash Spring Rally Chances as Bitcoin, Ethereum Slide",
         "url": "https://decrypt.co/361599/myriad-traders-slash-spring-rally-chances-as-bitcoin-ethereum-slide",
@@ -26,35 +32,35 @@
         "url": "https://decrypt.co/361574/pudgy-penguins-launched-a-new-game-crypto-scammers-made-a-fake-version",
         "source": "crypto",
         "time": "Wed, 18 Mar 2026 16:50:11 +0000"
-      },
-      {
-        "title": "Stripe-Backed Tempo Network Launches With Focus on AI Agent Payments",
-        "url": "https://decrypt.co/361573/stripe-backed-tempo-network-launches-ai-agent-payments",
-        "source": "crypto",
-        "time": "Wed, 18 Mar 2026 16:43:03 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Death to Scroll Fade",
-        "url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
+        "title": "Rob Pike's Rules of Programming (1989)",
+        "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
         "source": "hn",
-        "time": "3/18/2026, 3:23:58 PM"
+        "time": "3/18/2026, 9:59:54 AM"
       },
       {
-        "title": "Snowflake AI Escapes Sandbox and Executes Malware",
-        "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
+        "title": "OpenRocket",
+        "url": "https://openrocket.info/",
         "source": "hn",
-        "time": "3/18/2026, 3:30:07 PM"
+        "time": "3/15/2026, 12:20:14 PM"
       },
       {
-        "title": "A tiny, decentralised tool to explore the small web",
-        "url": "https://codeberg.org/susam/wander",
+        "title": "2025 Turing award given for quantum information science",
+        "url": "https://awards.acm.org/about/2025-turing",
         "source": "hn",
-        "time": "3/18/2026, 3:57:48 PM"
+        "time": "3/18/2026, 10:10:01 AM"
       },
       {
-        "title": "AI Coding Is Gambling",
+        "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
+        "url": "https://huggingface.co/datasets/open-index/hacker-news",
+        "source": "hn",
+        "time": "3/14/2026, 5:12:03 PM"
+      },
+      {
+        "title": "AI coding is gambling",
         "url": "https://notes.visaint.space/ai-coding-is-gambling/",
         "source": "hn",
         "time": "3/18/2026, 5:22:02 PM"
@@ -86,10 +92,10 @@
         "time": "Wed, 18 Mar 2026 15:41:47 GMT"
       },
       {
-        "title": "Sony removes 135,000 deepfakes of its artists' music",
-        "url": "https://www.bbc.com/news/articles/cy57593gxe0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "King Charles greets Nigerian president in Windsor sunshine",
+        "url": "https://www.bbc.com/news/articles/cedzqqp9x2do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Mar 2026 17:19:41 GMT"
+        "time": "Wed, 18 Mar 2026 14:58:11 GMT"
       }
     ],
     "projects": [
