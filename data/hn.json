@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-18T16:02:42.152Z"
+    "built_at": "2026-03-18T17:54:44.144Z"
   },
-  "items": [
-    {
-      "title": "Jensen says Nvidia has received orders from Chinese customers for H200 GPUs",
-      "url": "https://www.tomshardware.com/tech-industry/nvidia-has-received-pos-from-chinese-customers",
-      "date": "2026-03-18T16:02:04.000Z"
-    },
-    {
-      "title": "Show HN: BendClaw – Distributed AgentOS Written in Rust",
-      "url": "https://github.com/EvotAI/bendclaw",
-      "date": "2026-03-18T16:01:56.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
