@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-17T23:25:10.253Z"
+    "built_at": "2026-03-18T01:26:45.335Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Reddit New Post 3",
+      "url": "https://old.reddit.com/r/PisequaltoNP/comments/1rwq38m/pnp_solving_sat_via_transcendent_reduction/",
+      "date": "2026-03-18T01:25:40.000Z"
+    },
+    {
+      "title": "Startup Is Probably Dead on Arrival",
+      "url": "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/",
+      "date": "2026-03-18T01:23:53.000Z"
+    }
+  ]
 }
