@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-18T13:07:42.132Z",
-  "updated_local": "3/18/2026, 1:07:42 PM",
+  "updated_iso": "2026-03-18T13:45:04.429Z",
+  "updated_local": "3/18/2026, 1:45:04 PM",
   "sections": {
     "crypto": [
       {
@@ -42,18 +42,6 @@
         "time": "3/18/2026, 9:59:54 AM"
       },
       {
-        "title": "Measuring progress toward AGI: A cognitive framework",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/measuring-agi-cognitive-framework/",
-        "source": "hn",
-        "time": "3/18/2026, 11:44:44 AM"
-      },
-      {
-        "title": "JPEG Compression",
-        "url": "https://www.sophielwang.com/blog/jpeg",
-        "source": "hn",
-        "time": "3/14/2026, 1:31:48 AM"
-      },
-      {
         "title": "Nightingale – open-source karaoke app that works with any song on your computer",
         "url": "https://nightingale.cafe/",
         "source": "hn",
@@ -64,11 +52,23 @@
         "url": "https://machinelearningplus.com/python/101-pandas-exercises-python-interactive/",
         "source": "hn",
         "time": "3/13/2026, 6:05:23 PM"
+      },
+      {
+        "title": "JPEG Compression",
+        "url": "https://www.sophielwang.com/blog/jpeg",
+        "source": "hn",
+        "time": "3/14/2026, 1:31:48 AM"
+      },
+      {
+        "title": "Write up of my homebrew CPU build",
+        "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
+        "source": "hn",
+        "time": "3/15/2026, 5:36:48 PM"
       }
     ],
     "world": [
       {
-        "title": "Senegal say 'fight is far from over' after Africa Cup of Nations win overturned",
+        "title": "Senegal government alleges corruption after Morocco awarded Africa Cup of Nations following appeal",
         "url": "https://www.bbc.com/sport/football/articles/cwygyq495j8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 18 Mar 2026 12:54:19 GMT"
@@ -92,10 +92,10 @@
         "time": "Wed, 18 Mar 2026 07:56:49 GMT"
       },
       {
-        "title": "Total repression and air strikes bring unrelenting dread for Iranians",
-        "url": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Adoption system leaves too many parents isolated, government admits after BBC investigation",
+        "url": "https://www.bbc.com/news/articles/cddn18v959qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Mar 2026 00:07:36 GMT"
+        "time": "Wed, 18 Mar 2026 05:57:25 GMT"
       }
     ],
     "projects": [
