@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-18T23:29:12.127Z",
-  "updated_local": "3/18/2026, 11:29:12 PM",
+  "updated_iso": "2026-03-18T23:37:33.047Z",
+  "updated_local": "3/18/2026, 11:37:33 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Coalition Urges OpenAI to Scrap AI Ballot Measure Over Child Safety Concerns",
+        "url": "https://decrypt.co/361638/coalition-openai-scrap-ai-ballot-measure-child-safety",
+        "source": "crypto",
+        "time": "Wed, 18 Mar 2026 23:32:31 +0000"
+      },
       {
         "title": "Algorand Foundation Cuts 25% of Staff as Crypto Industry Layoffs Grow",
         "url": "https://decrypt.co/361625/algorand-foundation-cuts-staff-crypto-industry-layoffs-grow",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/361603/bitcoin-ethereum-waver-fed-holds-interest-rates-steady",
         "source": "crypto",
         "time": "Wed, 18 Mar 2026 18:11:15 +0000"
-      },
-      {
-        "title": "Myriad Traders Slash Spring Rally Chances as Bitcoin, Ethereum Slide",
-        "url": "https://decrypt.co/361599/myriad-traders-slash-spring-rally-chances-as-bitcoin-ethereum-slide",
-        "source": "crypto",
-        "time": "Wed, 18 Mar 2026 17:47:02 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "3/18/2026, 8:45:54 PM"
       },
       {
-        "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
-        "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-        "source": "hn",
-        "time": "3/15/2026, 3:59:09 PM"
-      },
-      {
         "title": "Website to post Claude fuck ups",
         "url": "https://claudedidwhat.wtf",
         "source": "hn",
         "time": "3/18/2026, 11:08:14 PM"
+      },
+      {
+        "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+        "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+        "source": "hn",
+        "time": "3/15/2026, 3:59:09 PM"
       },
       {
         "title": "OpenRocket",
