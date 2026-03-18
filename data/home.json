@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-18T16:58:03.934Z",
-  "updated_local": "3/18/2026, 4:58:03 PM",
+  "updated_iso": "2026-03-18T17:12:06.218Z",
+  "updated_local": "3/18/2026, 5:12:06 PM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,16 @@
         "time": "3/18/2026, 3:23:58 PM"
       },
       {
-        "title": "A tiny, decentralised tool to explore the small web",
-        "url": "https://codeberg.org/susam/wander",
-        "source": "hn",
-        "time": "3/18/2026, 3:57:48 PM"
-      },
-      {
         "title": "Snowflake AI Escapes Sandbox and Executes Malware",
         "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
         "source": "hn",
         "time": "3/18/2026, 3:30:07 PM"
+      },
+      {
+        "title": "A tiny, decentralised tool to explore the small web",
+        "url": "https://codeberg.org/susam/wander",
+        "source": "hn",
+        "time": "3/18/2026, 3:57:48 PM"
       },
       {
         "title": "Rob Pike's Rules of Programming (1989)",
@@ -60,10 +60,10 @@
         "time": "3/18/2026, 9:59:54 AM"
       },
       {
-        "title": "Machine Payments Protocol (MPP)",
-        "url": "https://stripe.com/blog/machine-payments-protocol",
+        "title": "Nvidia NemoClaw",
+        "url": "https://github.com/NVIDIA/NemoClaw",
         "source": "hn",
-        "time": "3/18/2026, 3:24:12 PM"
+        "time": "3/18/2026, 3:31:07 PM"
       }
     ],
     "world": [
