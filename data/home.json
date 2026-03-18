@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-18T02:55:01.026Z",
-  "updated_local": "3/18/2026, 2:55:01 AM",
+  "updated_iso": "2026-03-18T04:54:41.753Z",
+  "updated_local": "3/18/2026, 4:54:41 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Democrats Press Meta Over Facial Recognition Plans for Smart Glasses",
+        "url": "https://decrypt.co/361477/democrats-press-meta-facial-recognition-plans-smart-glasses",
+        "source": "crypto",
+        "time": "Wed, 18 Mar 2026 04:22:09 +0000"
+      },
       {
         "title": "Nvidia’s DLSS 5 Launch Sparks Meme Frenzy as Gamers Balk at AI ‘Neural Rendering’",
         "url": "https://decrypt.co/361465/nvidias-dlss-5-sparks-meme-frenzy-ai",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/361452/arizona-files-charges-kalshi-prediction-market-illegal-gambling",
         "source": "crypto",
         "time": "Tue, 17 Mar 2026 20:56:52 +0000"
-      },
-      {
-        "title": "CFTC Clears Phantom to Connect Users to Regulated Derivatives Markets",
-        "url": "https://decrypt.co/361449/phantom-cftc-regulated-derivatives-markets",
-        "source": "crypto",
-        "time": "Tue, 17 Mar 2026 20:35:27 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "More than 135 open hardware devices flashable with your own firmware",
+        "url": "https://openhardware.directory",
+        "source": "hn",
+        "time": "3/13/2026, 9:04:35 PM"
+      },
       {
         "title": "A Decade of Slug",
         "url": "https://terathon.com/blog/decade-slug.html",
         "source": "hn",
         "time": "3/17/2026, 6:59:50 PM"
-      },
-      {
-        "title": "Python 3.15's JIT is now back on track",
-        "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-        "source": "hn",
-        "time": "3/17/2026, 6:37:27 PM"
       },
       {
         "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
@@ -54,10 +54,10 @@
         "time": "3/17/2026, 3:16:29 PM"
       },
       {
-        "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
-        "url": "https://github.com/adammiribyan/zeroboot",
+        "title": "Python 3.15's JIT is now back on track",
+        "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
         "source": "hn",
-        "time": "3/17/2026, 1:43:44 PM"
+        "time": "3/17/2026, 6:37:27 PM"
       },
       {
         "title": "Mistral AI Releases Forge",
@@ -67,6 +67,12 @@
       }
     ],
     "world": [
+      {
+        "title": "Total repression and air strikes bring unrelenting dread for Iranians",
+        "url": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 18 Mar 2026 00:07:36 GMT"
+      },
       {
         "title": "Scotland's assisted dying bill rejected after emotional debate",
         "url": "https://www.bbc.com/news/articles/c33j3nd1kvko?at_medium=RSS&amp;at_campaign=rss",
@@ -80,16 +86,10 @@
         "time": "Tue, 17 Mar 2026 23:15:26 GMT"
       },
       {
-        "title": "Total repression and air strikes bring unrelenting dread for Iranians",
-        "url": "https://www.bbc.com/news/articles/cn9e0wrglgdo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 18 Mar 2026 00:07:36 GMT"
-      },
-      {
         "title": "Morocco awarded Africa Cup of Nations title after Senegal win overturned",
         "url": "https://www.bbc.com/sport/football/articles/ce949glzzglo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Mar 2026 00:23:36 GMT"
+        "time": "Wed, 18 Mar 2026 03:24:20 GMT"
       },
       {
         "title": "Higgs Boson breakthrough was UK triumph, but British physics faces 'catastrophic' cuts",
