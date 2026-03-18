@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-18T05:57:51.444Z"
+    "built_at": "2026-03-18T07:02:08.449Z"
   },
-  "items": [
-    {
-      "title": "Undone Computer Science",
-      "url": "https://www.undonecs.org/",
-      "date": "2026-03-18T05:54:21.000Z"
-    },
-    {
-      "title": "I Don't Know ML. Claude Does. 0.871 F1 on Predicting Linux Game Compatibility",
-      "url": "https://getjump.me/posts/01-protondb-compatibility-ml-x-claude/",
-      "date": "2026-03-18T05:54:00.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
