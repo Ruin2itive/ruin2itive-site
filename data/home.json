@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-19T07:09:13.021Z",
-  "updated_local": "3/19/2026, 7:09:13 AM",
+  "updated_iso": "2026-03-19T08:39:52.746Z",
+  "updated_local": "3/19/2026, 8:39:52 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "A sufficiently detailed spec is code",
-        "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-        "source": "hn",
-        "time": "3/19/2026, 2:23:17 AM"
-      },
-      {
         "title": "Cook: A simple CLI for orchestrating Claude Code",
         "url": "https://rjcorwin.github.io/cook/",
         "source": "hn",
         "time": "3/19/2026, 2:20:34 AM"
+      },
+      {
+        "title": "Conway's Game of Life, in real life",
+        "url": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
+        "source": "hn",
+        "time": "3/19/2026, 3:55:03 AM"
       },
       {
         "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
@@ -60,10 +60,10 @@
         "time": "3/18/2026, 8:45:54 PM"
       },
       {
-        "title": "Conway's Game of Life, in real life",
-        "url": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
+        "title": "OpenRocket",
+        "url": "https://openrocket.info/",
         "source": "hn",
-        "time": "3/19/2026, 3:55:03 AM"
+        "time": "3/15/2026, 12:20:14 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Thu, 19 Mar 2026 04:17:14 GMT"
       },
       {
-        "title": "US aircraft carrier to sail to Crete for repairs after fire on board",
-        "url": "https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Pay grows at slowest rate in more than five years",
+        "url": "https://www.bbc.com/news/articles/cn0z0x82r00o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Mar 2026 00:44:57 GMT"
+        "time": "Thu, 19 Mar 2026 08:05:59 GMT"
       },
       {
-        "title": "Two men charged with allegedly spying on London Jewish community for Iran",
-        "url": "https://www.bbc.com/news/articles/cwygyvrwq89o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "World's longest coastal path opens in England",
+        "url": "https://www.bbc.com/news/articles/cy0dxexdd8xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Mar 2026 21:58:34 GMT"
+        "time": "Thu, 19 Mar 2026 02:36:02 GMT"
       },
       {
-        "title": "Warm settled weather set to continue into the weekend",
-        "url": "https://www.bbc.com/weather/articles/crm8mexxlm7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Designer' dog owners report more problem behaviours, vets warn",
+        "url": "https://www.bbc.com/news/articles/cwyx81517jxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Mar 2026 06:33:19 GMT"
+        "time": "Thu, 19 Mar 2026 01:53:52 GMT"
       }
     ],
     "projects": [
