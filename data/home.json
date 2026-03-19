@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-19T05:01:34.345Z",
-  "updated_local": "3/19/2026, 5:01:34 AM",
+  "updated_iso": "2026-03-19T05:56:48.882Z",
+  "updated_local": "3/19/2026, 5:56:48 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Nasdaq Wins SEC Approval to Trade Tokenized Securities in Pilot Program",
+        "url": "https://decrypt.co/361654/nasdaq-wins-sec-approval-tokenized-securities-pilot-program",
+        "source": "crypto",
+        "time": "Thu, 19 Mar 2026 05:35:26 +0000"
+      },
+      {
+        "title": "OpenClaw Developers Lured in GitHub Phishing Campaign Targeting Crypto Wallets",
+        "url": "https://decrypt.co/361646/openclaw-developers-lured-github-phishing-campaign",
+        "source": "crypto",
+        "time": "Thu, 19 Mar 2026 05:07:25 +0000"
+      },
       {
         "title": "Why Bitcoin Is Falling Despite $1.1 Billion in ETF Inflows",
         "url": "https://decrypt.co/361644/why-bitcoin-falling-despite-1-1-billion-etf-inflows",
@@ -20,27 +32,9 @@
         "url": "https://decrypt.co/361625/algorand-foundation-cuts-staff-crypto-industry-layoffs-grow",
         "source": "crypto",
         "time": "Wed, 18 Mar 2026 21:00:02 +0000"
-      },
-      {
-        "title": "Trump White House Registers Aliens.gov—Is the UFO File Drop Imminent?",
-        "url": "https://decrypt.co/361606/trumps-white-house-registers-aliens-gov-ufo-file-drop-imminent",
-        "source": "crypto",
-        "time": "Wed, 18 Mar 2026 20:41:27 +0000"
-      },
-      {
-        "title": "From Coinbase to Ripple: The Biggest Crypto Cases Dumped by Trump&#39;s SEC",
-        "url": "https://decrypt.co/308273/trump-sec-ending-crypto-lawsuits-investigations",
-        "source": "crypto",
-        "time": "Wed, 18 Mar 2026 20:20:10 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Cook: A simple CLI for orchestrating Claude Code",
-        "url": "https://rjcorwin.github.io/cook/",
-        "source": "hn",
-        "time": "3/19/2026, 2:20:34 AM"
-      },
       {
         "title": "A sufficiently detailed spec is code",
         "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
@@ -48,10 +42,16 @@
         "time": "3/19/2026, 2:23:17 AM"
       },
       {
-        "title": "Austin’s surge of new housing construction drove down rents",
-        "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+        "title": "Cook: A simple CLI for orchestrating Claude Code",
+        "url": "https://rjcorwin.github.io/cook/",
         "source": "hn",
-        "time": "3/19/2026, 12:15:39 AM"
+        "time": "3/19/2026, 2:20:34 AM"
+      },
+      {
+        "title": "What 81,000 people want from AI",
+        "url": "https://www.anthropic.com/features/81k-interviews",
+        "source": "hn",
+        "time": "3/19/2026, 5:00:56 AM"
       },
       {
         "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
@@ -60,10 +60,10 @@
         "time": "3/15/2026, 3:59:09 PM"
       },
       {
-        "title": "Warranty Void If Regenerated",
-        "url": "https://nearzero.software/p/warranty-void-if-regenerated",
+        "title": "Austin’s surge of new housing construction drove down rents",
+        "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
         "source": "hn",
-        "time": "3/18/2026, 8:45:54 PM"
+        "time": "3/19/2026, 12:15:39 AM"
       }
     ],
     "world": [
