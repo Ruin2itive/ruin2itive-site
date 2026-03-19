@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-19T02:56:24.513Z",
-  "updated_local": "3/19/2026, 2:56:24 AM",
+  "updated_iso": "2026-03-19T04:52:23.189Z",
+  "updated_local": "3/19/2026, 4:52:23 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Why Bitcoin Is Falling Despite $1.1 Billion in ETF Inflows",
+        "url": "https://decrypt.co/361644/why-bitcoin-falling-despite-1-1-billion-etf-inflows",
+        "source": "crypto",
+        "time": "Thu, 19 Mar 2026 03:23:37 +0000"
+      },
       {
         "title": "Coalition Urges OpenAI to Scrap AI Ballot Measure Over Child Safety Concerns",
         "url": "https://decrypt.co/361638/coalition-openai-scrap-ai-ballot-measure-child-safety",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/308273/trump-sec-ending-crypto-lawsuits-investigations",
         "source": "crypto",
         "time": "Wed, 18 Mar 2026 20:20:10 +0000"
-      },
-      {
-        "title": "Bitcoin, Ethereum Waver as Fed Holds Interest Rates Steady",
-        "url": "https://decrypt.co/361603/bitcoin-ethereum-waver-fed-holds-interest-rates-steady",
-        "source": "crypto",
-        "time": "Wed, 18 Mar 2026 18:11:15 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Cook: A simple CLI for orchestrating Claude Code",
+        "url": "https://rjcorwin.github.io/cook/",
+        "source": "hn",
+        "time": "3/19/2026, 2:20:34 AM"
+      },
       {
         "title": "Austin’s surge of new housing construction drove down rents",
         "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
@@ -42,16 +48,10 @@
         "time": "3/19/2026, 12:15:39 AM"
       },
       {
-        "title": "Autoresearch for SAT Solvers",
-        "url": "https://github.com/iliazintchenko/agent-sat",
+        "title": "A sufficiently detailed spec is code",
+        "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
         "source": "hn",
-        "time": "3/19/2026, 12:40:32 AM"
-      },
-      {
-        "title": "Warranty Void If Regenerated",
-        "url": "https://nearzero.software/p/warranty-void-if-regenerated",
-        "source": "hn",
-        "time": "3/18/2026, 8:45:54 PM"
+        "time": "3/19/2026, 2:23:17 AM"
       },
       {
         "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
@@ -60,10 +60,10 @@
         "time": "3/15/2026, 3:59:09 PM"
       },
       {
-        "title": "OpenRocket",
-        "url": "https://openrocket.info/",
+        "title": "Warranty Void If Regenerated",
+        "url": "https://nearzero.software/p/warranty-void-if-regenerated",
         "source": "hn",
-        "time": "3/15/2026, 12:20:14 PM"
+        "time": "3/18/2026, 8:45:54 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "All doctors in England warned to watch for meningitis symptoms after Kent outbreak",
         "url": "https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Mar 2026 18:41:54 GMT"
+        "time": "Thu, 19 Mar 2026 04:17:14 GMT"
       },
       {
         "title": "Why has this meningitis outbreak spread so fast?",
