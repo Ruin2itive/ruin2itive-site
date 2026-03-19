@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-18T23:37:33.047Z",
-  "updated_local": "3/18/2026, 11:37:33 PM",
+  "updated_iso": "2026-03-19T02:04:01.647Z",
+  "updated_local": "3/19/2026, 2:04:01 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Austin’s surge of new housing construction drove down rents",
+        "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+        "source": "hn",
+        "time": "3/19/2026, 12:15:39 AM"
+      },
+      {
+        "title": "Autoresearch for SAT Solvers",
+        "url": "https://github.com/iliazintchenko/agent-sat",
+        "source": "hn",
+        "time": "3/19/2026, 12:40:32 AM"
+      },
+      {
         "title": "Warranty Void If Regenerated",
         "url": "https://nearzero.software/p/warranty-void-if-regenerated",
         "source": "hn",
         "time": "3/18/2026, 8:45:54 PM"
-      },
-      {
-        "title": "Website to post Claude fuck ups",
-        "url": "https://claudedidwhat.wtf",
-        "source": "hn",
-        "time": "3/18/2026, 11:08:14 PM"
       },
       {
         "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
@@ -54,16 +60,10 @@
         "time": "3/15/2026, 3:59:09 PM"
       },
       {
-        "title": "OpenRocket",
-        "url": "https://openrocket.info/",
+        "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
+        "url": "https://github.com/alainnothere/llm-circuit-finder",
         "source": "hn",
-        "time": "3/15/2026, 12:20:14 PM"
-      },
-      {
-        "title": "Wander – A tiny, decentralised tool to explore the small web",
-        "url": "https://susam.net/wander/",
-        "source": "hn",
-        "time": "3/18/2026, 7:43:13 AM"
+        "time": "3/18/2026, 9:31:12 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Wed, 18 Mar 2026 21:58:34 GMT"
       },
       {
-        "title": "Fly tippers in England face clearing up own rubbish as punishment",
-        "url": "https://www.bbc.com/news/articles/c9dn770n1deo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US aircraft carrier to sail to Crete for repairs after fire on board",
+        "url": "https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Mar 2026 17:13:28 GMT"
+        "time": "Thu, 19 Mar 2026 00:44:57 GMT"
       },
       {
-        "title": "King praises 'living bridge' with Nigeria at glitzy banquet",
-        "url": "https://www.bbc.com/news/articles/cedzqqp9x2do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Impact of Iran war expected to bring hold in interest rates",
+        "url": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Mar 2026 21:24:14 GMT"
+        "time": "Thu, 19 Mar 2026 00:10:32 GMT"
       }
     ],
     "projects": [
