@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-19T05:56:48.882Z",
-  "updated_local": "3/19/2026, 5:56:48 AM",
+  "updated_iso": "2026-03-19T07:01:59.627Z",
+  "updated_local": "3/19/2026, 7:01:59 AM",
   "sections": {
     "crypto": [
       {
@@ -48,42 +48,36 @@
         "time": "3/19/2026, 2:20:34 AM"
       },
       {
-        "title": "What 81,000 people want from AI",
-        "url": "https://www.anthropic.com/features/81k-interviews",
-        "source": "hn",
-        "time": "3/19/2026, 5:00:56 AM"
-      },
-      {
         "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
         "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
         "source": "hn",
         "time": "3/15/2026, 3:59:09 PM"
       },
       {
-        "title": "Austin’s surge of new housing construction drove down rents",
-        "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+        "title": "Warranty Void If Regenerated",
+        "url": "https://nearzero.software/p/warranty-void-if-regenerated",
         "source": "hn",
-        "time": "3/19/2026, 12:15:39 AM"
+        "time": "3/18/2026, 8:45:54 PM"
+      },
+      {
+        "title": "Conway's Game of Life, in real life",
+        "url": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
+        "source": "hn",
+        "time": "3/19/2026, 3:55:03 AM"
       }
     ],
     "world": [
+      {
+        "title": "How the Iran war has left Europe facing yet another energy crisis",
+        "url": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 19 Mar 2026 05:59:49 GMT"
+      },
       {
         "title": "All doctors in England warned to watch for meningitis symptoms after Kent outbreak",
         "url": "https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 19 Mar 2026 04:17:14 GMT"
-      },
-      {
-        "title": "Why has this meningitis outbreak spread so fast?",
-        "url": "https://www.bbc.com/news/articles/cqlglkprv0qo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 18 Mar 2026 16:34:33 GMT"
-      },
-      {
-        "title": "Two men charged with allegedly spying on London Jewish community for Iran",
-        "url": "https://www.bbc.com/news/articles/cwygyvrwq89o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 18 Mar 2026 21:58:34 GMT"
       },
       {
         "title": "US aircraft carrier to sail to Crete for repairs after fire on board",
@@ -92,10 +86,16 @@
         "time": "Thu, 19 Mar 2026 00:44:57 GMT"
       },
       {
-        "title": "Impact of Iran war expected to bring hold in interest rates",
-        "url": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Two men charged with allegedly spying on London Jewish community for Iran",
+        "url": "https://www.bbc.com/news/articles/cwygyvrwq89o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Mar 2026 00:10:32 GMT"
+        "time": "Wed, 18 Mar 2026 21:58:34 GMT"
+      },
+      {
+        "title": "Warm settled weather set to continue into the weekend",
+        "url": "https://www.bbc.com/weather/articles/crm8mexxlm7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 19 Mar 2026 06:33:19 GMT"
       }
     ],
     "projects": [
