@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-19T20:50:09.174Z",
-  "updated_local": "3/19/2026, 8:50:09 PM",
+  "updated_iso": "2026-03-19T21:33:56.781Z",
+  "updated_local": "3/19/2026, 9:33:56 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Microsoft Launches MAI-Image-2 Text-to-Image Model—And It&#39;s Better Than Expected",
+        "url": "https://decrypt.co/361791/microsoft-mai-image-2-text-image-model-review",
+        "source": "crypto",
+        "time": "Thu, 19 Mar 2026 21:14:17 +0000"
+      },
+      {
+        "title": "Fake FBI Crypto Tokens Are Being Used to Threaten Tron Users, Authorities Warn",
+        "url": "https://decrypt.co/361819/fake-fbi-crypto-tokens-used-threaten-tron-users-authorities-warn",
+        "source": "crypto",
+        "time": "Thu, 19 Mar 2026 20:53:01 +0000"
+      },
       {
         "title": "Solana Treasury Forward Industries Uses Loan to Buy Back Shares After 89% Price Dive",
         "url": "https://decrypt.co/361789/solana-treasury-forward-industries-loan-buy-back-shares",
@@ -20,21 +32,15 @@
         "url": "https://decrypt.co/361769/morgan-stanley-prepares-bitcoin-etf-nyse-arca-launch-msbt",
         "source": "crypto",
         "time": "Thu, 19 Mar 2026 20:08:19 +0000"
-      },
-      {
-        "title": "XRP Treasury Firm Evernorth Inches Closer to Public Listing With $685 Million Stash",
-        "url": "https://decrypt.co/361771/xrp-treasury-firm-evernorth-public-listing-685-million-stash",
-        "source": "crypto",
-        "time": "Thu, 19 Mar 2026 19:51:47 +0000"
-      },
-      {
-        "title": "First Working Quantum Battery Proves Bigger Really Does Mean Faster",
-        "url": "https://decrypt.co/361772/first-working-quantum-battery-csiro-australia",
-        "source": "crypto",
-        "time": "Thu, 19 Mar 2026 19:41:29 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Waymo Safety Impact",
+        "url": "https://waymo.com/safety/impact/",
+        "source": "hn",
+        "time": "3/19/2026, 8:13:35 PM"
+      },
       {
         "title": "Astral to Join OpenAI",
         "url": "https://astral.sh/blog/openai",
@@ -42,16 +48,10 @@
         "time": "3/19/2026, 1:05:50 PM"
       },
       {
-        "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
-        "url": "https://github.com/KittenML/KittenTTS",
+        "title": "Tesla: Failure of the FSD's degradation detection system [pdf]",
+        "url": "https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf",
         "source": "hn",
-        "time": "3/19/2026, 3:56:06 PM"
-      },
-      {
-        "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
-        "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
-        "source": "hn",
-        "time": "3/16/2026, 10:56:13 PM"
+        "time": "3/19/2026, 8:09:02 PM"
       },
       {
         "title": "Google details new 24-hour process to sideload unverified Android apps",
@@ -60,10 +60,10 @@
         "time": "3/19/2026, 5:16:04 PM"
       },
       {
-        "title": "Noq: n0's new QUIC implementation in Rust",
-        "url": "https://www.iroh.computer/blog/noq-announcement",
+        "title": "Cockpit is a web-based graphical interface for servers",
+        "url": "https://github.com/cockpit-project/cockpit",
         "source": "hn",
-        "time": "3/19/2026, 6:17:15 PM"
+        "time": "3/19/2026, 8:33:02 PM"
       }
     ],
     "world": [
