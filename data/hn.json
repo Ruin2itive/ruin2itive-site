@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-19T12:43:36.649Z"
+    "built_at": "2026-03-19T14:04:00.526Z"
   },
-  "items": [
-    {
-      "title": "Show HN: AIIR: track AI-assisted Git commits with cryptographic receipts",
-      "url": "https://github.com/invariant-systems-ai/aiir",
-      "date": "2026-03-19T12:40:45.000Z"
-    },
-    {
-      "title": "Ramtrack.eu – RAM Price Intelligence",
-      "url": "https://ramtrack.eu",
-      "date": "2026-03-19T12:39:46.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
