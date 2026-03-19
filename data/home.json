@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-19T19:46:37.576Z",
-  "updated_local": "3/19/2026, 7:46:37 PM",
+  "updated_iso": "2026-03-19T20:35:10.462Z",
+  "updated_local": "3/19/2026, 8:35:10 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morgan Stanley Prepares Bitcoin ETF for NYSE Arca Launch, Picking MSBT Ticker",
+        "url": "https://decrypt.co/361769/morgan-stanley-prepares-bitcoin-etf-nyse-arca-launch-msbt",
+        "source": "crypto",
+        "time": "Thu, 19 Mar 2026 20:08:19 +0000"
+      },
+      {
+        "title": "XRP Treasury Firm Evernorth Inches Closer to Public Listing With $685 Million Stash",
+        "url": "https://decrypt.co/361771/xrp-treasury-firm-evernorth-public-listing-685-million-stash",
+        "source": "crypto",
+        "time": "Thu, 19 Mar 2026 19:51:47 +0000"
+      },
       {
         "title": "First Working Quantum Battery Proves Bigger Really Does Mean Faster",
         "url": "https://decrypt.co/361772/first-working-quantum-battery-csiro-australia",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/361719/blackrock-staked-ethereum-fund-tops-250-million-in-its-first-week",
         "source": "crypto",
         "time": "Thu, 19 Mar 2026 18:07:35 +0000"
-      },
-      {
-        "title": "MLB Signs Exclusive Polymarket Deal, &#39;Integrity Framework&#39; Agreement With CFTC",
-        "url": "https://decrypt.co/361727/mlb-exclusive-polymarket-deal-integrity-framework-agreement-cftc",
-        "source": "crypto",
-        "time": "Thu, 19 Mar 2026 17:40:22 +0000"
-      },
-      {
-        "title": "What Are Coin Mixers and How Do They Work?",
-        "url": "https://decrypt.co/resources/what-are-coin-mixers-tornado-cash-how-do-they-work",
-        "source": "crypto",
-        "time": "Thu, 19 Mar 2026 17:10:46 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "3/19/2026, 1:05:50 PM"
       },
       {
-        "title": "An update on Steam / GOG changes for OpenTTD",
-        "url": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
+        "title": "Anthropic takes legal action against OpenCode",
+        "url": "https://github.com/anomalyco/opencode/pull/18186",
         "source": "hn",
-        "time": "3/19/2026, 5:27:17 PM"
+        "time": "3/19/2026, 7:37:26 PM"
       },
       {
         "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
@@ -54,10 +54,10 @@
         "time": "3/19/2026, 3:56:06 PM"
       },
       {
-        "title": "Noq: n0's new QUIC implementation in Rust",
-        "url": "https://www.iroh.computer/blog/noq-announcement",
+        "title": "An update on Steam / GOG changes for OpenTTD",
+        "url": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
         "source": "hn",
-        "time": "3/19/2026, 6:17:15 PM"
+        "time": "3/19/2026, 5:27:17 PM"
       },
       {
         "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
