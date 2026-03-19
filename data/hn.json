@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-19T01:26:51.048Z"
+    "built_at": "2026-03-19T04:15:31.847Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Meta Confronts Rogue AI Agents After Data Exposure",
+      "url": "https://www.findarticles.com/meta-confronts-rogue-ai-agents-after-data-exposure/",
+      "date": "2026-03-19T04:10:27.000Z"
+    },
+    {
+      "title": "Can Reese's have too many pieces? The line-extension conundrum",
+      "url": "https://www.ft.com/content/5b54115e-ff07-4063-a335-50834f6d79a3",
+      "date": "2026-03-19T04:10:09.000Z"
+    }
+  ]
 }
