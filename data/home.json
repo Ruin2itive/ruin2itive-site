@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-19T16:56:17.637Z",
-  "updated_local": "3/19/2026, 4:56:17 PM",
+  "updated_iso": "2026-03-19T17:52:55.815Z",
+  "updated_local": "3/19/2026, 5:52:55 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "MLB Signs Exclusive Polymarket Deal, &#39;Integrity Framework&#39; Agreement With CFTC",
+        "url": "https://decrypt.co/361727/mlb-exclusive-polymarket-deal-integrity-framework-agreement-cftc",
+        "source": "crypto",
+        "time": "Thu, 19 Mar 2026 17:40:22 +0000"
+      },
+      {
+        "title": "What Are Coin Mixers and How Do They Work?",
+        "url": "https://decrypt.co/resources/what-are-coin-mixers-tornado-cash-how-do-they-work",
+        "source": "crypto",
+        "time": "Thu, 19 Mar 2026 17:10:46 +0000"
+      },
       {
         "title": "UK to Dissolve Crypto Exchange Accused of Aiding Iranian Sanctions Evasion",
         "url": "https://decrypt.co/361725/uk-to-dissolve-crypto-exchange-accused-of-aiding-iranian-sanctions-evasion",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/361721/extreme-fear-hits-crypto-markets-after-bitcoin-gives-up-75k-spike",
         "source": "crypto",
         "time": "Thu, 19 Mar 2026 16:08:27 +0000"
-      },
-      {
-        "title": "Crypto.com Slashes Workforce by 12% in &#39;Enterprise-Wide AI&#39; Pivot",
-        "url": "https://decrypt.co/361693/crypto-com-slashes-workforce-by-12-in-enterprise-wide-ai-pivot",
-        "source": "crypto",
-        "time": "Thu, 19 Mar 2026 12:59:39 +0000"
-      },
-      {
-        "title": "Morning Minute: Markets Tumble as Iran War Escalates",
-        "url": "https://decrypt.co/361685/morning-minute-markets-tumble-as-iran-war-escalates",
-        "source": "crypto",
-        "time": "Thu, 19 Mar 2026 12:25:54 +0000"
       }
     ],
     "hacker": [
@@ -48,6 +48,12 @@
         "time": "3/19/2026, 3:56:06 PM"
       },
       {
+        "title": "An update on Steam / GOG changes for OpenTTD",
+        "url": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
+        "source": "hn",
+        "time": "3/19/2026, 5:27:17 PM"
+      },
+      {
         "title": "OpenBSD: PF queues break the 4 Gbps barrier",
         "url": "https://undeadly.org/cgi?action=article;sid=20260319125859",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://consequence.net/2019/07/juggalo-makeup-facial-recognition/",
         "source": "hn",
         "time": "3/19/2026, 1:02:35 PM"
-      },
-      {
-        "title": "macOS 26 breaks custom DNS settings including .internal",
-        "url": "https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a",
-        "source": "hn",
-        "time": "3/19/2026, 3:06:58 PM"
       }
     ],
     "world": [
