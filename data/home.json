@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-20T22:26:56.759Z",
-  "updated_local": "3/20/2026, 10:26:56 PM",
+  "updated_iso": "2026-03-20T22:37:46.882Z",
+  "updated_local": "3/20/2026, 10:37:46 PM",
   "sections": {
     "crypto": [
       {
@@ -48,6 +48,12 @@
         "time": "3/20/2026, 7:16:13 PM"
       },
       {
+        "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
+        "url": "https://www.openui.com/blog/rust-wasm-parser",
+        "source": "hn",
+        "time": "3/20/2026, 9:48:06 PM"
+      },
+      {
         "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
         "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://github.com/FormerLab/fortransky",
         "source": "hn",
         "time": "3/20/2026, 10:06:51 PM"
-      },
-      {
-        "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
-        "url": "https://www.openui.com/blog/rust-wasm-parser",
-        "source": "hn",
-        "time": "3/20/2026, 9:48:06 PM"
       }
     ],
     "world": [
