@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-20T20:42:30.179Z",
-  "updated_local": "3/20/2026, 8:42:30 PM",
+  "updated_iso": "2026-03-20T21:28:09.101Z",
+  "updated_local": "3/20/2026, 9:28:09 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Has Stabilized, But Investors Are Paying Up for Downside Protection: VanEck",
+        "url": "https://decrypt.co/361939/bitcoin-stabilized-investors-paying-downside-protection-vaneck",
+        "source": "crypto",
+        "time": "Fri, 20 Mar 2026 20:47:07 +0000"
+      },
       {
         "title": "Man Pleads Guilty to Using AI to Generate $8 Million in Fraudulent Streaming Music Royalties",
         "url": "https://decrypt.co/361940/man-pleads-guilty-ai-generate-8-million-fraudulent-streaming-music-royalties",
@@ -26,20 +32,26 @@
         "url": "https://decrypt.co/361918/kalshi-raises-1-billion-double-valuation-22-billion-reports",
         "source": "crypto",
         "time": "Fri, 20 Mar 2026 18:30:50 +0000"
-      },
-      {
-        "title": "White House AI Proposal Seeks to Override State Laws, Avoid New Regulator",
-        "url": "https://decrypt.co/361929/white-house-ai-proposal-override-state-laws-avoid-new-regulator",
-        "source": "crypto",
-        "time": "Fri, 20 Mar 2026 17:56:24 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Our commitment to Windows quality",
+        "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
+        "source": "hn",
+        "time": "3/20/2026, 7:16:13 PM"
+      },
       {
         "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
         "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
         "source": "hn",
         "time": "3/20/2026, 1:01:56 PM"
+      },
+      {
+        "title": "OpenCode – The open source AI coding agent",
+        "url": "https://opencode.ai/",
+        "source": "hn",
+        "time": "3/20/2026, 9:03:52 PM"
       },
       {
         "title": "Attention Residuals",
@@ -48,22 +60,10 @@
         "time": "3/20/2026, 6:23:41 PM"
       },
       {
-        "title": "VisiCalc Reconstructed",
-        "url": "https://zserge.com/posts/visicalc/",
+        "title": "Show HN: I made an email app inspired by Arc browser",
+        "url": "https://demo.define.app",
         "source": "hn",
-        "time": "3/17/2026, 10:39:55 AM"
-      },
-      {
-        "title": "The Los Angeles Aqueduct Is Wild",
-        "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
-        "source": "hn",
-        "time": "3/17/2026, 6:43:53 PM"
-      },
-      {
-        "title": "Parallel Perl – autoparallelizing interpreter with JIT",
-        "url": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
-        "source": "hn",
-        "time": "3/18/2026, 11:59:05 AM"
+        "time": "3/20/2026, 6:06:20 PM"
       }
     ],
     "world": [
