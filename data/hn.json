@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-20T05:45:45.468Z"
+    "built_at": "2026-03-20T06:44:01.952Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Draw RDF exports Draw.io diagrams to RDF graphs",
+      "url": "https://app.diagrams.net",
+      "date": "2026-03-20T06:36:37.000Z"
+    },
+    {
+      "title": "Alibaba, Tencent Shares Lose $66B as AI Vision Falls Flat",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-20/alibaba-tencent-shed-66-billion-after-ai-vision-falls-flat",
+      "date": "2026-03-20T06:32:49.000Z"
+    }
+  ]
 }
