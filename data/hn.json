@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-20T20:23:39.081Z"
+    "built_at": "2026-03-20T21:23:56.856Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Closure of Hormuz is 'greatest global energy security threat in history'",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/03/20/closure-of-strait-of-hormuz-is-greatest-global-energy-security-threat-in-history-warns-iea-chief_6751653_19.html",
+      "date": "2026-03-20T21:23:31.000Z"
+    },
+    {
+      "title": "CBS News Radio to Shut Down",
+      "url": "https://www.cbsnews.com/news/cbs-news-radio-to-shut-down/",
+      "date": "2026-03-20T21:23:19.000Z"
+    }
+  ]
 }
