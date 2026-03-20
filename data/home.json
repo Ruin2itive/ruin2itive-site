@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-20T10:36:04.043Z",
-  "updated_local": "3/20/2026, 10:36:04 AM",
+  "updated_iso": "2026-03-20T10:49:56.263Z",
+  "updated_local": "3/20/2026, 10:49:56 AM",
   "sections": {
     "crypto": [
       {
@@ -54,16 +54,16 @@
         "time": "3/17/2026, 3:16:39 PM"
       },
       {
+        "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
+        "url": "https://arxiv.org/abs/2603.09229",
+        "source": "hn",
+        "time": "3/17/2026, 5:38:26 AM"
+      },
+      {
         "title": "Push events into a running session with channels",
         "url": "https://code.claude.com/docs/en/channels",
         "source": "hn",
         "time": "3/20/2026, 12:22:08 AM"
-      },
-      {
-        "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
-        "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
-        "source": "hn",
-        "time": "3/20/2026, 1:09:45 AM"
       }
     ],
     "world": [
