@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-20T04:54:20.359Z",
-  "updated_local": "3/20/2026, 4:54:20 AM",
+  "updated_iso": "2026-03-20T05:50:48.546Z",
+  "updated_local": "3/20/2026, 5:50:48 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Kentucky Senate Urged to Strip Hardware Wallet Provision From Crypto Bill",
+        "url": "https://decrypt.co/361870/kentucky-senate-strip-hardware-wallet-provision-crypto-bill",
+        "source": "crypto",
+        "time": "Fri, 20 Mar 2026 05:03:38 +0000"
+      },
       {
         "title": "Nvidia Deepens Grip on Cloud AI With Major AWS Chip Deal",
         "url": "https://decrypt.co/361867/nvidia-deepens-grip-cloud-ai-major-aws-chip-deal",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/361791/microsoft-mai-image-2-text-image-model-review",
         "source": "crypto",
         "time": "Thu, 19 Mar 2026 21:14:17 +0000"
-      },
-      {
-        "title": "Fake FBI Crypto Tokens Are Being Used to Threaten Tron Users, Authorities Warn",
-        "url": "https://decrypt.co/361819/fake-fbi-crypto-tokens-used-threaten-tron-users-authorities-warn",
-        "source": "crypto",
-        "time": "Thu, 19 Mar 2026 20:53:01 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "ArXiv Declares Independence from Cornell",
+        "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+        "source": "hn",
+        "time": "3/20/2026, 4:24:11 AM"
+      },
       {
         "title": "Push events into a running session with channels",
         "url": "https://code.claude.com/docs/en/channels",
         "source": "hn",
         "time": "3/20/2026, 12:22:08 AM"
-      },
-      {
-        "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
-        "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
-        "source": "hn",
-        "time": "3/20/2026, 1:09:45 AM"
       },
       {
         "title": "Google details new 24-hour process to sideload unverified Android apps",
@@ -54,24 +54,24 @@
         "time": "3/19/2026, 5:16:04 PM"
       },
       {
+        "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+        "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+        "source": "hn",
+        "time": "3/20/2026, 1:09:45 AM"
+      },
+      {
         "title": "Drugwars for the TI-82/83/83 Calculators (2011)",
         "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
         "source": "hn",
         "time": "3/20/2026, 12:26:47 AM"
-      },
-      {
-        "title": "Cockpit is a web-based graphical interface for servers",
-        "url": "https://github.com/cockpit-project/cockpit",
-        "source": "hn",
-        "time": "3/19/2026, 8:33:02 PM"
       }
     ],
     "world": [
       {
-        "title": "Huge queues for meningitis B jabs as vaccination scheme expanded",
-        "url": "https://www.bbc.com/news/articles/cwyk44px2j5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Family of teen who died in meningitis outbreak says loss is 'immeasurable'",
+        "url": "https://www.bbc.com/news/articles/c2d8gjejrgpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Mar 2026 18:09:26 GMT"
+        "time": "Fri, 20 Mar 2026 05:00:58 GMT"
       },
       {
         "title": "Sir John Curtice: Why Labour's Brexit focus has shifted from Leavers to Remainers",
