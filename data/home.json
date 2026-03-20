@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-20T10:49:56.263Z",
-  "updated_local": "3/20/2026, 10:49:56 AM",
+  "updated_iso": "2026-03-20T11:29:50.283Z",
+  "updated_local": "3/20/2026, 11:29:50 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,18 @@
         "time": "3/20/2026, 4:24:11 AM"
       },
       {
+        "title": "AI (2014)",
+        "url": "https://blog.samaltman.com/ai",
+        "source": "hn",
+        "time": "3/20/2026, 11:10:17 AM"
+      },
+      {
+        "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
+        "url": "https://arxiv.org/abs/2603.09229",
+        "source": "hn",
+        "time": "3/17/2026, 5:38:26 AM"
+      },
+      {
         "title": "Google details new 24-hour process to sideload unverified Android apps",
         "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
         "source": "hn",
@@ -52,18 +64,6 @@
         "url": "https://ayosec.github.io/ffmpeg-drawvg/",
         "source": "hn",
         "time": "3/17/2026, 3:16:39 PM"
-      },
-      {
-        "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
-        "url": "https://arxiv.org/abs/2603.09229",
-        "source": "hn",
-        "time": "3/17/2026, 5:38:26 AM"
-      },
-      {
-        "title": "Push events into a running session with channels",
-        "url": "https://code.claude.com/docs/en/channels",
-        "source": "hn",
-        "time": "3/20/2026, 12:22:08 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Fri, 20 Mar 2026 00:01:51 GMT"
       },
       {
-        "title": "Warning UK borrowing rise makes energy bill help harder",
-        "url": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Typical energy bill forecast to rise by £332 a year in July",
+        "url": "https://www.bbc.com/news/articles/cede1nn8wp5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 20 Mar 2026 10:16:58 GMT"
+        "time": "Fri, 20 Mar 2026 10:43:30 GMT"
+      },
+      {
+        "title": "Norway's crown princess breaks silence on Epstein links: 'I was manipulated and deceived'",
+        "url": "https://www.bbc.com/news/articles/cde5y63y3n7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 20 Mar 2026 10:43:00 GMT"
+      },
+      {
+        "title": "Lab-grown food pipe offers new hope for young patients",
+        "url": "https://www.bbc.com/news/articles/c4gdvv8j2j1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 20 Mar 2026 10:41:40 GMT"
       },
       {
         "title": "The Salt Path author confirms she wrote secret first book - despite claiming to be debut writer",
         "url": "https://www.bbc.com/news/articles/cj32vx61x6lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 20 Mar 2026 06:12:02 GMT"
-      },
-      {
-        "title": "Tailgating at football matches to become criminal offence",
-        "url": "https://www.bbc.com/sport/football/articles/cj0v8z7pm6eo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 20 Mar 2026 00:01:16 GMT"
-      },
-      {
-        "title": "Trump's Pearl Harbor remark overshadows Japan PM visit",
-        "url": "https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 20 Mar 2026 09:55:19 GMT"
       }
     ],
     "projects": [
