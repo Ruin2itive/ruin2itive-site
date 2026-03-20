@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-20T15:52:34.036Z",
-  "updated_local": "3/20/2026, 3:52:34 PM",
+  "updated_iso": "2026-03-20T16:41:10.970Z",
+  "updated_local": "3/20/2026, 4:41:10 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "Oregon School Cell Phone Ban: 'Engaged Students, Joyful Teachers'",
+        "url": "https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/",
+        "source": "hn",
+        "time": "3/20/2026, 3:39:19 PM"
+      },
+      {
+        "title": "VisiCalc Reconstructed",
+        "url": "https://zserge.com/posts/visicalc/",
+        "source": "hn",
+        "time": "3/17/2026, 10:39:55 AM"
+      },
+      {
         "title": "ArXiv declares independence from Cornell",
         "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
         "source": "hn",
@@ -48,22 +60,10 @@
         "time": "3/20/2026, 11:03:27 AM"
       },
       {
-        "title": "VisiCalc Reconstructed",
-        "url": "https://zserge.com/posts/visicalc/",
-        "source": "hn",
-        "time": "3/17/2026, 10:39:55 AM"
-      },
-      {
         "title": "The Los Angeles Aqueduct Is Wild",
         "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
         "source": "hn",
         "time": "3/17/2026, 6:43:53 PM"
-      },
-      {
-        "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
-        "url": "https://arxiv.org/abs/2603.09229",
-        "source": "hn",
-        "time": "3/17/2026, 5:38:26 AM"
       }
     ],
     "world": [
@@ -71,7 +71,13 @@
         "title": "Iranian man arrested trying to enter Faslane nuclear base",
         "url": "https://www.bbc.com/news/articles/c80mej47xz0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 20 Mar 2026 13:44:02 GMT"
+        "time": "Fri, 20 Mar 2026 16:03:24 GMT"
+      },
+      {
+        "title": "'I feel so grateful to be alive': Meningitis survivor speaks to the BBC",
+        "url": "https://www.bbc.com/news/videos/cp3ld6dq4d1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 20 Mar 2026 16:31:06 GMT"
       },
       {
         "title": "Civil case against Gerry Adams over IRA bombings withdrawn",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cd9vdel17wqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 20 Mar 2026 12:13:43 GMT"
-      },
-      {
-        "title": "Tenerife hit by snow as Storm Therese brings wind and rain to Canary Islands",
-        "url": "https://www.bbc.com/weather/articles/cr51n7yd7v5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 20 Mar 2026 13:26:59 GMT"
       }
     ],
     "projects": [
