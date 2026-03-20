@@ -4,18 +4,18 @@
     "label": "bbc",
     "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
     "take": 2,
-    "built_at": "2026-03-20T19:32:56.437Z"
+    "built_at": "2026-03-20T20:23:44.457Z"
   },
   "items": [
+    {
+      "title": "Ukraine-Hungary oil pipeline row threatens EU loan",
+      "url": "https://www.bbc.com/news/articles/cr71rkeg7xxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-03-20T20:16:29.000Z"
+    },
     {
       "title": "Reform suspends Scotland candidate less than a day after he was announced",
       "url": "https://www.bbc.com/news/articles/cj375v264rko?at_medium=RSS&at_campaign=rss",
       "date": "2026-03-20T18:54:55.000Z"
-    },
-    {
-      "title": "Watch: Israeli strike next to British journalist is not AI-generated",
-      "url": "https://www.bbc.com/news/videos/c62k8xgjkggo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-20T18:52:38.000Z"
     }
   ]
 }
