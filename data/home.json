@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-20T01:58:14.479Z",
-  "updated_local": "3/20/2026, 1:58:14 AM",
+  "updated_iso": "2026-03-20T02:47:30.715Z",
+  "updated_local": "3/20/2026, 2:47:30 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Claude Code: Channels",
+        "title": "Push events into a running session with channels",
         "url": "https://code.claude.com/docs/en/channels",
         "source": "hn",
         "time": "3/20/2026, 12:22:08 AM"
-      },
-      {
-        "title": "Wayland set the Linux Desktop back by 10 years",
-        "url": "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years",
-        "source": "hn",
-        "time": "3/20/2026, 12:01:40 AM"
       },
       {
         "title": "Astral to Join OpenAI",
@@ -60,10 +54,16 @@
         "time": "3/19/2026, 5:16:04 PM"
       },
       {
-        "title": "Cockpit is a web-based graphical interface for servers",
-        "url": "https://github.com/cockpit-project/cockpit",
+        "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+        "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
         "source": "hn",
-        "time": "3/19/2026, 8:33:02 PM"
+        "time": "3/20/2026, 1:09:45 AM"
+      },
+      {
+        "title": "Drugwars for the TI-82/83/83 Calculators",
+        "url": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+        "source": "hn",
+        "time": "3/20/2026, 12:26:47 AM"
       }
     ],
     "world": [
