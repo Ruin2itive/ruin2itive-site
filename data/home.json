@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-20T19:36:10.757Z",
-  "updated_local": "3/20/2026, 7:36:10 PM",
+  "updated_iso": "2026-03-20T20:30:13.135Z",
+  "updated_local": "3/20/2026, 8:30:13 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Nevada Becomes First State to Ban Prediction Market Kalshi—At Least for Now",
+        "url": "https://decrypt.co/361938/nevada-first-state-ban-prediction-market-kalshi",
+        "source": "crypto",
+        "time": "Fri, 20 Mar 2026 20:16:45 +0000"
+      },
       {
         "title": "OpenAI Plans to Merge ChatGPT, Codex and Atlas Into One &#39;Superapp&#39;: WSJ",
         "url": "https://decrypt.co/361925/openai-superapp-chatgpt-codex-atlas-merger-anthropic",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/361920/eightco-boosts-openai-investment-bitmine-tom-lee-joins-board",
         "source": "crypto",
         "time": "Fri, 20 Mar 2026 17:48:49 +0000"
-      },
-      {
-        "title": "Gemini Faces Class-Action Suit Over Prediction Market Pivot, Plummeting Stock Price",
-        "url": "https://decrypt.co/361922/gemini-faces-class-action-suit-prediction-market-stock-price",
-        "source": "crypto",
-        "time": "Fri, 20 Mar 2026 17:34:01 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "3/20/2026, 1:01:56 PM"
       },
       {
+        "title": "Attention Residuals",
+        "url": "https://github.com/MoonshotAI/Attention-Residuals",
+        "source": "hn",
+        "time": "3/20/2026, 6:23:41 PM"
+      },
+      {
         "title": "VisiCalc Reconstructed",
         "url": "https://zserge.com/posts/visicalc/",
         "source": "hn",
         "time": "3/17/2026, 10:39:55 AM"
-      },
-      {
-        "title": "ArXiv declares independence from Cornell",
-        "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-        "source": "hn",
-        "time": "3/20/2026, 4:24:11 AM"
       },
       {
         "title": "The Los Angeles Aqueduct Is Wild",
@@ -60,10 +60,10 @@
         "time": "3/17/2026, 6:43:53 PM"
       },
       {
-        "title": "Attention Residuals",
-        "url": "https://github.com/MoonshotAI/Attention-Residuals",
+        "title": "Parallel Perl – autoparallelizing interpreter with JIT",
+        "url": "https://perl.petamem.com/gpw2026/perl-mit-ai-gpw2026.html#/4/1/1",
         "source": "hn",
-        "time": "3/20/2026, 6:23:41 PM"
+        "time": "3/18/2026, 11:59:05 AM"
       }
     ],
     "world": [
