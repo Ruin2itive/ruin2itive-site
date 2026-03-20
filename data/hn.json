@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-20T15:35:51.138Z"
+    "built_at": "2026-03-20T16:34:09.527Z"
   },
-  "items": [
-    {
-      "title": "Time to end the 'uncontrolled experiment' of social media on kids scientists say",
-      "url": "https://www.theregister.com/2026/03/19/social_media_bad_for_kids/",
-      "date": "2026-03-20T15:34:43.000Z"
-    },
-    {
-      "title": "Using Claude Code to help me write",
-      "url": "https://andrewpwheeler.com/2026/03/20/using-claude-code-to-help-me-write/",
-      "date": "2026-03-20T15:34:41.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
