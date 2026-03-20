@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-20T21:38:07.986Z",
-  "updated_local": "3/20/2026, 9:38:07 PM",
+  "updated_iso": "2026-03-20T22:26:56.759Z",
+  "updated_local": "3/20/2026, 10:26:56 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "OpenCode – The open source AI coding agent",
+        "url": "https://opencode.ai/",
+        "source": "hn",
+        "time": "3/20/2026, 9:03:52 PM"
+      },
+      {
         "title": "Our commitment to Windows quality",
         "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
         "source": "hn",
@@ -48,36 +54,24 @@
         "time": "3/20/2026, 1:01:56 PM"
       },
       {
-        "title": "OpenCode – The open source AI coding agent",
-        "url": "https://opencode.ai/",
+        "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
+        "url": "https://github.com/FormerLab/fortransky",
         "source": "hn",
-        "time": "3/20/2026, 9:03:52 PM"
+        "time": "3/20/2026, 10:06:51 PM"
       },
       {
-        "title": "A Japanese Glossary of Chopsticks Faux Pas",
-        "url": "https://www.nippon.com/en/japan-data/h01362/",
+        "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
+        "url": "https://www.openui.com/blog/rust-wasm-parser",
         "source": "hn",
-        "time": "3/20/2026, 8:54:57 PM"
-      },
-      {
-        "title": "Attention Residuals",
-        "url": "https://github.com/MoonshotAI/Attention-Residuals",
-        "source": "hn",
-        "time": "3/20/2026, 6:23:41 PM"
+        "time": "3/20/2026, 9:48:06 PM"
       }
     ],
     "world": [
       {
-        "title": "Dame Jenni Murray, former BBC Woman's Hour presenter, dies at 75",
-        "url": "https://www.bbc.com/news/articles/cpwj8e25ddgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK allows US to use bases to strike Strait of Hormuz targets",
+        "url": "https://www.bbc.com/news/articles/c36rny6xgppo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 20 Mar 2026 18:34:23 GMT"
-      },
-      {
-        "title": "Iranian man arrested trying to enter Faslane nuclear base",
-        "url": "https://www.bbc.com/news/articles/c80mej47xz0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 20 Mar 2026 16:03:24 GMT"
+        "time": "Fri, 20 Mar 2026 20:22:08 GMT"
       },
       {
         "title": "Work from home and drive more slowly to save energy, global body urges",
@@ -86,16 +80,22 @@
         "time": "Fri, 20 Mar 2026 15:05:03 GMT"
       },
       {
+        "title": "Dame Jenni Murray, former BBC Woman's Hour presenter, dies at 75",
+        "url": "https://www.bbc.com/news/articles/cpwj8e25ddgo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 20 Mar 2026 18:34:23 GMT"
+      },
+      {
+        "title": "'I feel so grateful to be alive,' says Kent University meningitis survivor",
+        "url": "https://www.bbc.com/news/videos/cp3ld6dq4d1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 20 Mar 2026 16:31:06 GMT"
+      },
+      {
         "title": "Chuck Norris, martial artist and Hollywood movie star, dies aged 86",
         "url": "https://www.bbc.com/news/articles/c0le8e5jg1xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 20 Mar 2026 20:41:21 GMT"
-      },
-      {
-        "title": "Reform suspends Scotland candidate less than a day after he was announced",
-        "url": "https://www.bbc.com/news/articles/cj375v264rko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 20 Mar 2026 18:54:55 GMT"
       }
     ],
     "projects": [
