@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-21T11:17:13.456Z"
+    "built_at": "2026-03-21T12:31:59.809Z"
   },
-  "items": [
-    {
-      "title": "Study finds that we could lose science if publishers go bankrupt (2024)",
-      "url": "https://arstechnica.com/science/2024/03/study-finds-that-we-could-lose-science-if-publishers-go-bankrupt/",
-      "date": "2026-03-21T11:16:36.000Z"
-    },
-    {
-      "title": "Systemd's New Feature Brings Age Verification Option to Linux",
-      "url": "https://itsfoss.com/news/systemd-age-verification/",
-      "date": "2026-03-21T11:11:42.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
