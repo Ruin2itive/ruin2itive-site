@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-21T04:43:45.430Z",
-  "updated_local": "3/21/2026, 4:43:45 AM",
+  "updated_iso": "2026-03-21T05:39:14.851Z",
+  "updated_local": "3/21/2026, 5:39:14 AM",
   "sections": {
     "crypto": [
       {
@@ -48,22 +48,22 @@
         "time": "3/20/2026, 2:33:41 PM"
       },
       {
-        "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
-        "url": "https://www.openui.com/blog/rust-wasm-parser",
-        "source": "hn",
-        "time": "3/20/2026, 9:48:06 PM"
-      },
-      {
-        "title": "Ghostling",
-        "url": "https://github.com/ghostty-org/ghostling",
-        "source": "hn",
-        "time": "3/20/2026, 10:11:37 PM"
-      },
-      {
         "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
         "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
         "source": "hn",
         "time": "3/20/2026, 1:01:56 PM"
+      },
+      {
+        "title": "A Japanese glossary of chopsticks faux pas",
+        "url": "https://www.nippon.com/en/japan-data/h01362/",
+        "source": "hn",
+        "time": "3/20/2026, 8:54:57 PM"
+      },
+      {
+        "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+        "url": "https://www.openui.com/blog/rust-wasm-parser",
+        "source": "hn",
+        "time": "3/20/2026, 9:48:06 PM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Sat, 21 Mar 2026 00:54:44 GMT"
       },
       {
-        "title": "Dame Jenni Murray, former BBC Woman's Hour presenter, dies at 75",
-        "url": "https://www.bbc.com/news/articles/cpwj8e25ddgo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 20 Mar 2026 18:34:23 GMT"
-      },
-      {
         "title": "Elon Musk misled Twitter investors, jury finds",
         "url": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/c62541e29z9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 21 Mar 2026 01:03:01 GMT"
+      },
+      {
+        "title": "Traitors and Idris Elba help Comic Relief raise £30m",
+        "url": "https://www.bbc.com/news/articles/cvg3gnlwn10o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 21 Mar 2026 00:50:46 GMT"
       }
     ],
     "projects": [
