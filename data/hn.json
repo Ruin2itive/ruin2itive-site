@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-21T05:07:00.654Z"
+    "built_at": "2026-03-21T06:33:34.753Z"
   },
-  "items": [
-    {
-      "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
-      "url": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
-      "date": "2026-03-21T05:06:11.000Z"
-    },
-    {
-      "title": "Israel and Weapons of Mass Destruction",
-      "url": "https://en.wikipedia.org/wiki/Israel_and_weapons_of_mass_destruction",
-      "date": "2026-03-21T05:04:02.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
