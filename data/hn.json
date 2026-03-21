@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-21T08:22:50.389Z"
+    "built_at": "2026-03-21T09:24:50.205Z"
   },
-  "items": [
-    {
-      "title": "Colosseum gets a fresh look recreates the footprints of long-gone columns",
-      "url": "https://apnews.com/article/italy-colosseum-restoration-tourism-rome-032cac4377572b89263247a038395c11",
-      "date": "2026-03-21T08:15:41.000Z"
-    },
-    {
-      "title": "Google internet service outage reports spike in San Francisco",
-      "url": "https://www.sfchronicle.com/bayarea/article/google-fiber-outage-downdetector-22088107.php",
-      "date": "2026-03-21T08:13:13.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
