@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-21T07:39:24.627Z",
-  "updated_local": "3/21/2026, 7:39:24 AM",
+  "updated_iso": "2026-03-21T08:30:59.696Z",
+  "updated_local": "3/21/2026, 8:30:59 AM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Google adds 24-hour wait and mandatory reboot to Android sideloading flow",
-        "url": "https://android-developers.googleblog.com/2025/08/elevating-android-security.html",
-        "source": "hn",
-        "time": "3/21/2026, 6:03:46 AM"
-      },
-      {
         "title": "OpenCode – Open source AI coding agent",
         "url": "https://opencode.ai/",
         "source": "hn",
         "time": "3/20/2026, 9:03:52 PM"
-      },
-      {
-        "title": "Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords",
-        "url": "https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/",
-        "source": "hn",
-        "time": "3/21/2026, 5:06:11 AM"
       },
       {
         "title": "Mamba-3",
@@ -60,10 +48,22 @@
         "time": "3/17/2026, 10:45:12 PM"
       },
       {
-        "title": "Fujifilm X RAW STUDIO webapp clone",
-        "url": "https://github.com/eggricesoy/filmkit",
+        "title": "FFmpeg 101 (2024)",
+        "url": "https://blogs.igalia.com/llepage/ffmpeg-101/",
         "source": "hn",
-        "time": "3/19/2026, 4:49:33 AM"
+        "time": "3/21/2026, 2:47:13 AM"
+      },
+      {
+        "title": "Molly Guard",
+        "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
+        "source": "hn",
+        "time": "3/20/2026, 2:33:41 PM"
+      },
+      {
+        "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+        "url": "https://www.openui.com/blog/rust-wasm-parser",
+        "source": "hn",
+        "time": "3/20/2026, 9:48:06 PM"
       }
     ],
     "world": [
