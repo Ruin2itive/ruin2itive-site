@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-21T19:18:08.474Z"
+    "built_at": "2026-03-21T20:17:42.085Z"
   },
-  "items": [
-    {
-      "title": "Is 'Vibe Physics' the Future?",
-      "url": "https://physicsworld.com/a/is-vibe-physics-the-future/",
-      "date": "2026-03-21T19:17:10.000Z"
-    },
-    {
-      "title": "Nvidia Open-Sources OpenShell: Agent Runtime with Security Guardrails",
-      "url": "https://nvidianews.nvidia.com/news/ai-agents",
-      "date": "2026-03-21T19:16:43.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
