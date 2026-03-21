@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-21T13:37:16.417Z"
+    "built_at": "2026-03-21T14:20:06.057Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "\"Give up Hack Club\": about the kids non-profit",
+      "url": "https://bafybeiew6lmntuivdzarz4rpscuhnkrpe4qpxi5xyel3jrzcvndulvl6gy.ipfs.dweb.link/#r",
+      "date": "2026-03-21T14:18:05.000Z"
+    },
+    {
+      "title": "Compositor for Windows 0.6",
+      "url": "https://compositorapp.com/blog/2026-03-21/Compositor-Windows-06/",
+      "date": "2026-03-21T14:15:46.000Z"
+    }
+  ]
 }
