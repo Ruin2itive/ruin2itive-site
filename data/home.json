@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-21T04:04:37.825Z",
-  "updated_local": "3/21/2026, 4:04:37 AM",
+  "updated_iso": "2026-03-21T04:43:45.430Z",
+  "updated_local": "3/21/2026, 4:43:45 AM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,16 @@
         "time": "3/20/2026, 9:03:52 PM"
       },
       {
-        "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
-        "url": "https://www.openui.com/blog/rust-wasm-parser",
-        "source": "hn",
-        "time": "3/20/2026, 9:48:06 PM"
-      },
-      {
         "title": "Molly Guard",
         "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
         "source": "hn",
         "time": "3/20/2026, 2:33:41 PM"
+      },
+      {
+        "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+        "url": "https://www.openui.com/blog/rust-wasm-parser",
+        "source": "hn",
+        "time": "3/20/2026, 9:48:06 PM"
       },
       {
         "title": "Ghostling",
