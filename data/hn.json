@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-21T06:33:34.753Z"
+    "built_at": "2026-03-21T07:28:17.750Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Page-Agent.js: The GUI Agent Living in Your Webpage",
+      "url": "https://github.com/alibaba/page-agent",
+      "date": "2026-03-21T07:22:55.000Z"
+    },
+    {
+      "title": "The Displacement of Cognitive Labor and What Comes After",
+      "url": "https://sahajgarg.github.io/blog/cognitive-labor/",
+      "date": "2026-03-21T07:21:01.000Z"
+    }
+  ]
 }
