@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-22T20:18:14.501Z"
+    "built_at": "2026-03-22T21:18:59.359Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Inner Warden, self-defending server with eBPF and AI",
+      "url": "https://www.innerwarden.com/",
+      "date": "2026-03-22T21:16:02.000Z"
+    },
+    {
+      "title": "Describe an app in one sentence, get it built and shipped within minutes",
+      "url": "https://bubbling.dev/",
+      "date": "2026-03-22T21:15:19.000Z"
+    }
+  ]
 }
