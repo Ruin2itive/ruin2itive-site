@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-22T22:17:49.784Z"
+    "built_at": "2026-03-22T23:19:59.412Z"
   },
-  "items": [
-    {
-      "title": "They're Vibe-Coding Spam Now",
-      "url": "https://tedium.co/2026/02/25/vibe-coded-email-spam/",
-      "date": "2026-03-22T22:11:54.000Z"
-    },
-    {
-      "title": "The Necessity of Being | An essay beyond the simulation.",
-      "url": "https://simontlbt.substack.com/p/the-necessity-of-being",
-      "date": "2026-03-22T22:07:59.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
