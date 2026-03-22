@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-22T19:19:50.533Z"
+    "built_at": "2026-03-22T20:18:14.501Z"
   },
-  "items": [
-    {
-      "title": "Why Spotify AI more than music will be the secret to keeping subscribers",
-      "url": "https://www.cnbc.com/2026/03/22/spotify-apple-amazon-streaming-music-ai.html",
-      "date": "2026-03-22T19:16:01.000Z"
-    },
-    {
-      "title": "buddy",
-      "url": "https://github.com/tavmem/buddy",
-      "date": "2026-03-22T19:13:48.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
