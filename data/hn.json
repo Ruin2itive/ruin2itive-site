@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-22T05:47:40.083Z"
+    "built_at": "2026-03-22T06:40:55.032Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Passport Globe (See where your passport takes you)",
-      "url": "https://hariharan.uno/globe",
-      "date": "2026-03-22T05:43:36.000Z"
-    },
-    {
-      "title": "Show HN: TMA1 – Local-first observability for LLM agents",
-      "url": "https://tma1.ai/",
-      "date": "2026-03-22T05:42:32.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
