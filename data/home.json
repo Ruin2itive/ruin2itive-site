@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-22T11:31:30.157Z",
-  "updated_local": "3/22/2026, 11:31:30 AM",
+  "updated_iso": "2026-03-22T12:47:37.255Z",
+  "updated_local": "3/22/2026, 12:47:37 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
+        "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
+        "url": "https://github.com/danveloper/flash-moe",
+        "source": "hn",
+        "time": "3/22/2026, 11:30:03 AM"
+      },
+      {
         "title": "Hormuz Minesweeper – Are you tired of winning?",
         "url": "https://hormuz.pythonic.ninja/",
         "source": "hn",
         "time": "3/22/2026, 9:00:37 AM"
-      },
-      {
-        "title": "The three pillars of JavaScript bloat",
-        "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
-        "source": "hn",
-        "time": "3/22/2026, 2:04:31 AM"
       },
       {
         "title": "25 Years of Eggs",
@@ -60,10 +60,10 @@
         "time": "3/19/2026, 7:51:07 PM"
       },
       {
-        "title": "Tinybox – A powerful computer for deep learning",
-        "url": "https://tinygrad.org/#tinybox",
+        "title": "The three pillars of JavaScript bloat",
+        "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
         "source": "hn",
-        "time": "3/21/2026, 8:08:37 PM"
+        "time": "3/22/2026, 2:04:31 AM"
       }
     ],
     "world": [
@@ -71,7 +71,13 @@
         "title": "No assessment Iran could strike London, UK minister says",
         "url": "https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 22 Mar 2026 11:11:43 GMT"
+        "time": "Sun, 22 Mar 2026 12:18:03 GMT"
+      },
+      {
+        "title": "Energy bills rise 'inescapable' if prices stay high, says British Gas boss",
+        "url": "https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 22 Mar 2026 11:54:01 GMT"
       },
       {
         "title": "Trump at a crossroads as US weighs tough options in Iran",
@@ -86,16 +92,10 @@
         "time": "Sun, 22 Mar 2026 00:02:35 GMT"
       },
       {
-        "title": "Food prices likely to rise due to Iran war, farmers' union says",
-        "url": "https://www.bbc.com/news/articles/cy413ke31d8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Police officer dies in crash and colleague critically ill",
+        "url": "https://www.bbc.com/news/articles/cx230myz673o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 21 Mar 2026 18:41:31 GMT"
-      },
-      {
-        "title": "Pop megastars BTS electrify historic centre of Seoul with comeback concert",
-        "url": "https://www.bbc.com/news/articles/cj371jr203ko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 21 Mar 2026 22:01:05 GMT"
+        "time": "Sun, 22 Mar 2026 11:50:48 GMT"
       }
     ],
     "projects": [
