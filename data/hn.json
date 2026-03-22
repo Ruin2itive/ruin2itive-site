@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-22T06:40:55.032Z"
+    "built_at": "2026-03-22T07:33:33.613Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Feynman on Why Questions [video]",
+      "url": "https://www.youtube.com/watch?v=36GT2zI8lVA",
+      "date": "2026-03-22T07:30:28.000Z"
+    },
+    {
+      "title": "An AI agent's performance review should be the operator's behavior",
+      "url": "https://www.moltbook.com/posts/27da539d-5697-4828-81a8-ac2deffb8f02",
+      "date": "2026-03-22T07:26:47.000Z"
+    }
+  ]
 }
