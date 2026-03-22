@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-22T08:32:29.389Z",
-  "updated_local": "3/22/2026, 8:32:29 AM",
+  "updated_iso": "2026-03-22T08:46:49.588Z",
+  "updated_local": "3/22/2026, 8:46:49 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "3/22/2026, 2:04:31 AM"
       },
       {
+        "title": "My first patch to the Linux kernel",
+        "url": "https://pooladkhay.com/posts/first-kernel-patch/",
+        "source": "hn",
+        "time": "3/19/2026, 7:51:07 PM"
+      },
+      {
         "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
         "url": "https://zenodo.org/records/18976656",
         "source": "hn",
@@ -52,12 +58,6 @@
         "url": "https://tinygrad.org/#tinybox",
         "source": "hn",
         "time": "3/21/2026, 8:08:37 PM"
-      },
-      {
-        "title": "My first patch to the Linux kernel",
-        "url": "https://pooladkhay.com/posts/first-kernel-patch/",
-        "source": "hn",
-        "time": "3/19/2026, 7:51:07 PM"
       },
       {
         "title": "Some things just take time",
