@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-22T11:17:53.197Z"
+    "built_at": "2026-03-22T12:33:38.139Z"
   },
-  "items": [
-    {
-      "title": "Calendrical Calculations",
-      "url": "https://en.wikipedia.org/wiki/Calendrical_Calculations",
-      "date": "2026-03-22T11:14:13.000Z"
-    },
-    {
-      "title": "When machines pay machines, who bills the machine?",
-      "url": "https://www.billingbird.io/p/when-machines-pay-machines-who-bills",
-      "date": "2026-03-22T11:13:17.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
