@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-22T01:26:28.772Z"
+    "built_at": "2026-03-22T04:12:36.677Z"
   },
-  "items": [
-    {
-      "title": "Neurotrace, The extension I built but never used",
-      "url": "https://news.ycombinator.com/item?id=47473462",
-      "date": "2026-03-22T01:25:57.000Z"
-    },
-    {
-      "title": "Package Manager Mirroring – Andrew Nesbitt",
-      "url": "https://nesbitt.io/2026/03/20/package-manager-mirroring.html",
-      "date": "2026-03-22T01:24:10.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
