@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-22T12:33:38.139Z"
+    "built_at": "2026-03-22T13:38:42.783Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Loops Starter Kits",
+      "url": "https://blog.joinloops.org/introducing-starter-kits/",
+      "date": "2026-03-22T13:38:06.000Z"
+    },
+    {
+      "title": "164 Man Years in 3 Man Months",
+      "url": "https://devarch.ai",
+      "date": "2026-03-22T13:37:27.000Z"
+    }
+  ]
 }
