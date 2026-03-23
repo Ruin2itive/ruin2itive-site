@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-23T07:23:45.831Z",
-  "updated_local": "3/23/2026, 7:23:45 AM",
+  "updated_iso": "2026-03-23T08:53:13.731Z",
+  "updated_local": "3/23/2026, 8:53:13 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "POSSE – Publish on your Own Site, Syndicate Elsewhere",
+        "url": "https://indieweb.org/POSSE",
+        "source": "hn",
+        "time": "3/23/2026, 8:29:27 AM"
+      },
+      {
         "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
         "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
         "source": "hn",
@@ -58,26 +64,14 @@
         "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
         "source": "hn",
         "time": "3/22/2026, 7:02:43 PM"
-      },
-      {
-        "title": "The future of version control",
-        "url": "https://bramcohen.com/p/manyana",
-        "source": "hn",
-        "time": "3/22/2026, 3:16:28 PM"
       }
     ],
     "world": [
       {
-        "title": "UN issues new climate warning as El Niño looms",
+        "title": "Earth being 'pushed beyond its limits' as record energy imbalance heats planet, UN warns",
         "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 23 Mar 2026 04:06:22 GMT"
-      },
-      {
-        "title": "Plane and ground vehicle collide at New York's LaGuardia airport halting flights",
-        "url": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Mar 2026 07:02:57 GMT"
       },
       {
         "title": "British couple in Iran prison say situation is 'life-threatening'",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/cm28jj22kg3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 23 Mar 2026 00:05:18 GMT"
+      },
+      {
+        "title": "France's Socialists hold on to power in major cities in election boost for mainstream",
+        "url": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 22 Mar 2026 23:27:59 GMT"
       }
     ],
     "projects": [
