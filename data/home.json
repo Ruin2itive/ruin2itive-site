@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-03-23T17:03:06.649Z",
-  "updated_local": "3/23/2026, 5:03:06 PM",
+  "updated_iso": "2026-03-23T18:52:59.811Z",
+  "updated_local": "3/23/2026, 6:52:59 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Will MrBeast Push Crypto on Kids? Senator Warren Raises Alarm Over Banking App",
+        "url": "https://decrypt.co/362062/will-mrbeast-push-crypto-kids-senator-warren",
+        "source": "crypto",
+        "time": "Mon, 23 Mar 2026 18:43:38 +0000"
+      },
+      {
+        "title": "Sam Bankman-Fried Court Letter Under Scrutiny As Parents Call For Clemency",
+        "url": "https://decrypt.co/362060/sam-bankman-fried-court-letter-under-scrutiny-as-parents-call-for-clemency",
+        "source": "crypto",
+        "time": "Mon, 23 Mar 2026 18:15:19 +0000"
+      },
+      {
+        "title": "Arrest Made in Violent Kidnapping of Ledger Founder for Crypto Ransom: Report",
+        "url": "https://decrypt.co/362037/arrest-violent-kidnapping-ledger-founder-crypto-ransom-report",
+        "source": "crypto",
+        "time": "Mon, 23 Mar 2026 17:11:13 +0000"
+      },
       {
         "title": "European Bitcoin Treasury H100 Aims to Triple BTC Stash by Acquiring Two Firms",
         "url": "https://decrypt.co/361998/european-bitcoin-treasury-h100-triple-btc-stash-acquiring-firms",
@@ -14,24 +32,6 @@
         "url": "https://decrypt.co/362018/senators-bipartisan-bill-outlaw-sports-prediction-markets",
         "source": "crypto",
         "time": "Mon, 23 Mar 2026 15:48:26 +0000"
-      },
-      {
-        "title": "Ethereum Price Jumps on Iran Optimism as Tom Lee&#39;s BitMine Adds to $10 Billion Stash",
-        "url": "https://decrypt.co/361995/ethereum-price-jumps-iran-optimism-tom-lee-bitmine-10-billion-treasury",
-        "source": "crypto",
-        "time": "Mon, 23 Mar 2026 15:19:58 +0000"
-      },
-      {
-        "title": "Strategy Unveils $44 Billion Plan to Buy More Bitcoin, Driven By MSTR and STRC Shares",
-        "url": "https://decrypt.co/361999/strategy-unveils-44-billion-plan-buy-more-bitcoin",
-        "source": "crypto",
-        "time": "Mon, 23 Mar 2026 14:56:03 +0000"
-      },
-      {
-        "title": "Crypto Markets Grapple With Volatility as ETFs Shed $177M Last Week",
-        "url": "https://decrypt.co/361992/crypto-markets-grapple-with-volatility-as-etfs-shed-177m-last-week",
-        "source": "crypto",
-        "time": "Mon, 23 Mar 2026 13:03:26 +0000"
       }
     ],
     "hacker": [
@@ -42,31 +42,37 @@
         "time": "3/23/2026, 2:30:10 PM"
       },
       {
-        "title": "Is it a pint?",
-        "url": "https://isitapint.com/",
+        "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+        "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
         "source": "hn",
-        "time": "3/23/2026, 4:13:40 PM"
+        "time": "3/22/2026, 9:45:14 AM"
       },
       {
-        "title": "Show HN: Threadprocs – executables sharing one address space (0-copy pointers)",
-        "url": "https://github.com/jer-irl/threadprocs",
+        "title": "The machine didn't take your craft. You gave it up",
+        "url": "https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/",
         "source": "hn",
-        "time": "3/23/2026, 4:08:01 PM"
-      },
-      {
-        "title": "Bombadil: Property-based testing for web UIs",
-        "url": "https://github.com/antithesishq/bombadil",
-        "source": "hn",
-        "time": "3/19/2026, 8:53:36 AM"
+        "time": "3/23/2026, 6:27:57 PM"
       },
       {
         "title": "Cyber.mil serving file downloads using TLS certificate which expired 3 days ago",
         "url": "https://www.cyber.mil/stigs/downloads",
         "source": "hn",
         "time": "3/23/2026, 3:25:04 PM"
+      },
+      {
+        "title": "BIO: The Bao I/O Coprocessor",
+        "url": "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/",
+        "source": "hn",
+        "time": "3/20/2026, 7:20:49 PM"
       }
     ],
     "world": [
+      {
+        "title": "Arson attack on Jewish charity ambulances investigated by counter-terror police",
+        "url": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Mar 2026 17:22:04 GMT"
+      },
       {
         "title": "'Stop, stop, stop': Listen to LaGuardia control tower audio during collision",
         "url": "https://www.bbc.com/news/videos/clyer72wn85o?at_medium=RSS&amp;at_campaign=rss",
@@ -77,7 +83,7 @@
         "title": "PM warns against 'false comfort' of thinking Iran war will end quickly",
         "url": "https://www.bbc.com/news/articles/cy01l49kkgdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Mar 2026 16:46:51 GMT"
+        "time": "Mon, 23 Mar 2026 17:07:32 GMT"
       },
       {
         "title": "HS2 trains could run slower than planned to save money",
@@ -86,16 +92,10 @@
         "time": "Mon, 23 Mar 2026 16:39:09 GMT"
       },
       {
-        "title": "How a content creator hoped a YouTube alibi would help him avoid justice for murder",
+        "title": "How a YouTuber used a fake live stream to cover up the murder of his pregnant partner",
         "url": "https://www.bbc.com/news/articles/c4g8d8pz0xyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 23 Mar 2026 16:08:35 GMT"
-      },
-      {
-        "title": "Is ex-Google boss Matt Brittin the right person to steer the BBC?",
-        "url": "https://www.bbc.com/news/articles/ce9mz082y5go?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Mar 2026 13:50:02 GMT"
       }
     ],
     "projects": [
