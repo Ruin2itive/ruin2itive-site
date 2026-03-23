@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-23T19:06:18.555Z",
-  "updated_local": "3/23/2026, 7:06:18 PM",
+  "updated_iso": "2026-03-23T19:47:23.043Z",
+  "updated_local": "3/23/2026, 7:47:23 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-        "url": "https://twitter.com/anemll/status/2035901335984611412",
-        "source": "hn",
-        "time": "3/23/2026, 2:30:10 PM"
-      },
-      {
         "title": "I tried Karpathy's Autoresearch on an old research project",
         "url": "https://ykumar.me/blog/eclip-autoresearch/",
         "source": "hn",
         "time": "3/23/2026, 6:40:58 PM"
+      },
+      {
+        "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+        "url": "https://twitter.com/anemll/status/2035901335984611412",
+        "source": "hn",
+        "time": "3/23/2026, 2:30:10 PM"
       },
       {
         "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
@@ -54,16 +54,16 @@
         "time": "3/22/2026, 9:45:14 AM"
       },
       {
-        "title": "BIO: The Bao I/O Coprocessor",
-        "url": "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/",
+        "title": "The quadratic problem nobody fixed",
+        "url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
         "source": "hn",
-        "time": "3/20/2026, 7:20:49 PM"
+        "time": "3/19/2026, 6:40:02 PM"
       },
       {
-        "title": "Cyber.mil serving file downloads using TLS certificate which expired 3 days ago",
-        "url": "https://www.cyber.mil/stigs/downloads",
+        "title": "Local Stack Archived their GitHub repo and requires an account to run",
+        "url": "https://github.com/localstack/localstack",
         "source": "hn",
-        "time": "3/23/2026, 3:25:04 PM"
+        "time": "3/23/2026, 6:57:08 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Arson attack on Jewish charity ambulances investigated by counter-terror police",
         "url": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Mar 2026 18:55:27 GMT"
+        "time": "Mon, 23 Mar 2026 19:32:24 GMT"
       },
       {
         "title": "'Stop, stop, stop': Listen to LaGuardia control tower audio during collision",
