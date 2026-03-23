@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-23T18:52:59.811Z",
-  "updated_local": "3/23/2026, 6:52:59 PM",
+  "updated_iso": "2026-03-23T19:06:18.555Z",
+  "updated_local": "3/23/2026, 7:06:18 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Fake Influencers to Compete for Real Money in &#39;AI Personality of the Year&#39; Challenge",
+        "url": "https://decrypt.co/362047/ai-influencers-real-money-personality-of-the-year",
+        "source": "crypto",
+        "time": "Mon, 23 Mar 2026 18:57:49 +0000"
+      },
       {
         "title": "Will MrBeast Push Crypto on Kids? Senator Warren Raises Alarm Over Banking App",
         "url": "https://decrypt.co/362062/will-mrbeast-push-crypto-kids-senator-warren",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/361998/european-bitcoin-treasury-h100-triple-btc-stash-acquiring-firms",
         "source": "crypto",
         "time": "Mon, 23 Mar 2026 16:32:27 +0000"
-      },
-      {
-        "title": "Senators Reveal Bipartisan Bill to Outlaw Sports Prediction Markets",
-        "url": "https://decrypt.co/362018/senators-bipartisan-bill-outlaw-sports-prediction-markets",
-        "source": "crypto",
-        "time": "Mon, 23 Mar 2026 15:48:26 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "3/23/2026, 2:30:10 PM"
       },
       {
+        "title": "I tried Karpathy's Autoresearch on an old research project",
+        "url": "https://ykumar.me/blog/eclip-autoresearch/",
+        "source": "hn",
+        "time": "3/23/2026, 6:40:58 PM"
+      },
+      {
         "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
         "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
         "source": "hn",
         "time": "3/22/2026, 9:45:14 AM"
       },
       {
-        "title": "The machine didn't take your craft. You gave it up",
-        "url": "https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/",
+        "title": "BIO: The Bao I/O Coprocessor",
+        "url": "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/",
         "source": "hn",
-        "time": "3/23/2026, 6:27:57 PM"
+        "time": "3/20/2026, 7:20:49 PM"
       },
       {
         "title": "Cyber.mil serving file downloads using TLS certificate which expired 3 days ago",
         "url": "https://www.cyber.mil/stigs/downloads",
         "source": "hn",
         "time": "3/23/2026, 3:25:04 PM"
-      },
-      {
-        "title": "BIO: The Bao I/O Coprocessor",
-        "url": "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/",
-        "source": "hn",
-        "time": "3/20/2026, 7:20:49 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Arson attack on Jewish charity ambulances investigated by counter-terror police",
         "url": "https://www.bbc.com/news/articles/cwyj1p49gdpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Mar 2026 17:22:04 GMT"
+        "time": "Mon, 23 Mar 2026 18:55:27 GMT"
       },
       {
         "title": "'Stop, stop, stop': Listen to LaGuardia control tower audio during collision",
@@ -80,22 +80,22 @@
         "time": "Mon, 23 Mar 2026 15:04:25 GMT"
       },
       {
-        "title": "PM warns against 'false comfort' of thinking Iran war will end quickly",
-        "url": "https://www.bbc.com/news/articles/cy01l49kkgdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "British supplement maker Huel bought by Danone for reported €1bn",
+        "url": "https://www.bbc.com/news/articles/czre7pl600go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Mar 2026 17:07:32 GMT"
-      },
-      {
-        "title": "HS2 trains could run slower than planned to save money",
-        "url": "https://www.bbc.com/news/articles/czex3lj077xo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Mar 2026 16:39:09 GMT"
+        "time": "Mon, 23 Mar 2026 15:50:44 GMT"
       },
       {
         "title": "How a YouTuber used a fake live stream to cover up the murder of his pregnant partner",
         "url": "https://www.bbc.com/news/articles/c4g8d8pz0xyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 23 Mar 2026 16:08:35 GMT"
+      },
+      {
+        "title": "Slovenia becomes first EU country to introduce fuel rationing",
+        "url": "https://www.bbc.com/news/articles/c77m4zx6zvmo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Mar 2026 17:45:25 GMT"
       }
     ],
     "projects": [
