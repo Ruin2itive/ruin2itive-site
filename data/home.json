@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-23T11:41:38.687Z",
-  "updated_local": "3/23/2026, 11:41:38 AM",
+  "updated_iso": "2026-03-23T13:03:39.386Z",
+  "updated_local": "3/23/2026, 1:03:39 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Bitcoin Rips as Iran Strikes Postponed",
+        "url": "https://decrypt.co/361988/morning-minute-bitcoin-rips-as-iran-strikes-postponed",
+        "source": "crypto",
+        "time": "Mon, 23 Mar 2026 12:19:58 +0000"
+      },
+      {
+        "title": "Bitcoin Tops $71,000 as Trump Postpones Iran Power Plant Strike Plans",
+        "url": "https://decrypt.co/361987/bitcoin-tops-71000-as-trump-postpones-iran-power-plant-strike-plans",
+        "source": "crypto",
+        "time": "Mon, 23 Mar 2026 12:11:15 +0000"
+      },
       {
         "title": "Resolv Labs Stablecoin Depegs, Plunges 74% After $25M Exploit",
         "url": "https://decrypt.co/361984/resolv-labs-stablecoin-depegs-plunges-74-after-25m-exploit",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/361976/what-to-expect-this-weeks-house-committee-tokenization",
         "source": "crypto",
         "time": "Mon, 23 Mar 2026 05:44:34 +0000"
-      },
-      {
-        "title": "Bitcoin Price Slides but Holds Up Better Than Stocks as Oil Shock Continues",
-        "url": "https://decrypt.co/361973/bitcoin-price-holds-up-better-stocks-oil-shock-continues",
-        "source": "crypto",
-        "time": "Mon, 23 Mar 2026 00:41:36 +0000"
-      },
-      {
-        "title": "How AI Is Being Used to Clear Court Backlogs in LA",
-        "url": "https://decrypt.co/361852/ai-enters-courtroom-los-angeles-pilot-program",
-        "source": "crypto",
-        "time": "Sun, 22 Mar 2026 13:01:03 +0000"
       }
     ],
     "hacker": [
@@ -48,43 +48,25 @@
         "time": "3/23/2026, 8:29:27 AM"
       },
       {
+        "title": "GitHub appears to be struggling with measly three nines availability",
+        "url": "https://www.theregister.com/2026/02/10/github_outages/",
+        "source": "hn",
+        "time": "3/23/2026, 10:39:39 AM"
+      },
+      {
+        "title": "Attractive students no longer receive better results as classes moved online",
+        "url": "https://www.sciencedirect.com/science/article/pii/S016517652200283X",
+        "source": "hn",
+        "time": "3/23/2026, 11:31:19 AM"
+      },
+      {
         "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
         "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
         "source": "hn",
         "time": "3/22/2026, 6:23:40 PM"
-      },
-      {
-        "title": "Tin Can, a 'landline' for kids",
-        "url": "https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9",
-        "source": "hn",
-        "time": "3/20/2026, 2:02:14 PM"
-      },
-      {
-        "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
-        "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
-        "source": "hn",
-        "time": "3/22/2026, 7:02:43 PM"
       }
     ],
     "world": [
-      {
-        "title": "British couple in Iran prison say situation is 'life-threatening'",
-        "url": "https://www.bbc.com/news/articles/cew72ll8245o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Mar 2026 06:11:00 GMT"
-      },
-      {
-        "title": "UN warns Earth's climate being 'pushed beyond its limits' as El Niño looms",
-        "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Mar 2026 04:06:22 GMT"
-      },
-      {
-        "title": "Heat pumps work for me - but they're not yet a money saver",
-        "url": "https://www.bbc.com/news/articles/ce358gkx9vpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Mar 2026 00:04:45 GMT"
-      },
       {
         "title": "'We can't justify a £52 lunch': Middle-income families cut back on days out",
         "url": "https://www.bbc.com/news/articles/ckg3g11z6d8o?at_medium=RSS&amp;at_campaign=rss",
@@ -92,10 +74,28 @@
         "time": "Mon, 23 Mar 2026 06:03:22 GMT"
       },
       {
-        "title": "Grisly or just country life? The mole trapping photos dividing social media",
-        "url": "https://www.bbc.com/news/articles/cm28jj22kg3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How an island became first in the world to eradicate ferrets",
+        "url": "https://www.bbc.com/news/articles/cre1jly1ny2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Mar 2026 00:05:18 GMT"
+        "time": "Mon, 23 Mar 2026 00:00:16 GMT"
+      },
+      {
+        "title": "Hospital apology over boy's death after trainee doctor pierced artery",
+        "url": "https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Mar 2026 03:01:09 GMT"
+      },
+      {
+        "title": "Ryan Gosling's Project Hail Mary becomes 2026's biggest box office debut",
+        "url": "https://www.bbc.com/news/articles/c5y7gxqpplvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Mar 2026 12:31:29 GMT"
+      },
+      {
+        "title": "HS2 train speeds could be cut to save money",
+        "url": "https://www.bbc.com/news/articles/czex3lj077xo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Mar 2026 11:21:02 GMT"
       }
     ],
     "projects": [
