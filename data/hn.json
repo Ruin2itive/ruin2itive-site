@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-23T20:31:09.526Z"
+    "built_at": "2026-03-23T21:28:53.187Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
+      "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+      "date": "2026-03-23T21:28:02.000Z"
+    },
+    {
+      "title": "Things are about to get zany in tech",
+      "url": "https://malloryloar.substack.com/p/hotel-hallway-art-vs-starry-night",
+      "date": "2026-03-23T21:26:06.000Z"
+    }
+  ]
 }
