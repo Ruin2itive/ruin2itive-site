@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-23T19:47:23.043Z",
-  "updated_local": "3/23/2026, 7:47:23 PM",
+  "updated_iso": "2026-03-23T20:36:15.562Z",
+  "updated_local": "3/23/2026, 8:36:15 PM",
   "sections": {
     "crypto": [
       {
@@ -36,7 +36,7 @@
     ],
     "hacker": [
       {
-        "title": "I tried Karpathy's Autoresearch on an old research project",
+        "title": "Autoresearch on an old research idea",
         "url": "https://ykumar.me/blog/eclip-autoresearch/",
         "source": "hn",
         "time": "3/23/2026, 6:40:58 PM"
@@ -48,22 +48,22 @@
         "time": "3/23/2026, 2:30:10 PM"
       },
       {
+        "title": "Local Stack Archived their GitHub repo and requires an account to run",
+        "url": "https://github.com/localstack/localstack",
+        "source": "hn",
+        "time": "3/23/2026, 6:57:08 PM"
+      },
+      {
         "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
         "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
         "source": "hn",
         "time": "3/22/2026, 9:45:14 AM"
       },
       {
-        "title": "The quadratic problem nobody fixed",
+        "title": "Finding all regex matches has always been O(n²)",
         "url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
         "source": "hn",
         "time": "3/19/2026, 6:40:02 PM"
-      },
-      {
-        "title": "Local Stack Archived their GitHub repo and requires an account to run",
-        "url": "https://github.com/localstack/localstack",
-        "source": "hn",
-        "time": "3/23/2026, 6:57:08 PM"
       }
     ],
     "world": [
@@ -74,13 +74,13 @@
         "time": "Mon, 23 Mar 2026 19:32:24 GMT"
       },
       {
-        "title": "'Stop, stop, stop': Listen to LaGuardia control tower audio during collision",
-        "url": "https://www.bbc.com/news/videos/clyer72wn85o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Like the plane got cut in half': Eyewitnesses describe chaos of LaGuardia crash",
+        "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Mar 2026 15:04:25 GMT"
+        "time": "Mon, 23 Mar 2026 19:28:28 GMT"
       },
       {
-        "title": "British supplement maker Huel bought by Danone for reported €1bn",
+        "title": "British supplement maker Huel bought by Danone for €1bn",
         "url": "https://www.bbc.com/news/articles/czre7pl600go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 23 Mar 2026 15:50:44 GMT"
