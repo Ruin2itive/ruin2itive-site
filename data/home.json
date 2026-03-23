@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-23T13:40:55.465Z",
-  "updated_local": "3/23/2026, 1:40:55 PM",
+  "updated_iso": "2026-03-23T14:53:04.645Z",
+  "updated_local": "3/23/2026, 2:53:04 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Bombadil: Property-based testing for web UIs by Antithesis",
+        "url": "https://github.com/antithesishq/bombadil",
+        "source": "hn",
+        "time": "3/19/2026, 8:53:36 AM"
+      },
+      {
         "title": "Migrating to the EU",
         "url": "https://rz01.org/eu-migration/",
         "source": "hn",
@@ -48,36 +54,30 @@
         "time": "3/23/2026, 8:29:27 AM"
       },
       {
-        "title": "Bombadil: Property-based testing for web UIs by Antithesis",
-        "url": "https://github.com/antithesishq/bombadil",
-        "source": "hn",
-        "time": "3/19/2026, 8:53:36 AM"
-      },
-      {
-        "title": "Attractive students no longer receive better results as classes moved online",
-        "url": "https://www.sciencedirect.com/science/article/pii/S016517652200283X",
-        "source": "hn",
-        "time": "3/23/2026, 11:31:19 AM"
-      },
-      {
         "title": "GitHub appears to be struggling with measly three nines availability",
         "url": "https://www.theregister.com/2026/02/10/github_outages/",
         "source": "hn",
         "time": "3/23/2026, 10:39:39 AM"
+      },
+      {
+        "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+        "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+        "source": "hn",
+        "time": "3/22/2026, 6:23:40 PM"
       }
     ],
     "world": [
       {
-        "title": "'We can't justify a £52 lunch': Middle-income families cut back on days out",
-        "url": "https://www.bbc.com/news/articles/ckg3g11z6d8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "HS2 trains could run slower than planned to save money",
+        "url": "https://www.bbc.com/news/articles/czex3lj077xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Mar 2026 06:03:22 GMT"
+        "time": "Mon, 23 Mar 2026 13:50:09 GMT"
       },
       {
-        "title": "How Woody the wonderdog helped an island become the world's first to eradicate ferrets",
-        "url": "https://www.bbc.com/news/articles/cre1jly1ny2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Is ex-Google boss Matt Brittin the right person to steer the BBC?",
+        "url": "https://www.bbc.com/news/articles/ce9mz082y5go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Mar 2026 00:00:16 GMT"
+        "time": "Mon, 23 Mar 2026 13:50:02 GMT"
       },
       {
         "title": "Hospital apology over boy's death after trainee doctor pierced artery",
@@ -86,16 +86,16 @@
         "time": "Mon, 23 Mar 2026 03:01:09 GMT"
       },
       {
-        "title": "Ryan Gosling's Project Hail Mary becomes 2026's biggest box office debut",
-        "url": "https://www.bbc.com/news/articles/c5y7gxqpplvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How Woody the wonderdog helped an island become the world's first to eradicate ferrets",
+        "url": "https://www.bbc.com/news/articles/cre1jly1ny2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Mar 2026 12:31:29 GMT"
+        "time": "Mon, 23 Mar 2026 00:00:16 GMT"
       },
       {
-        "title": "HS2 train speeds could be cut to save money",
-        "url": "https://www.bbc.com/news/articles/czex3lj077xo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'We can't justify a £52 lunch': Middle-income families cut back on days out",
+        "url": "https://www.bbc.com/news/articles/ckg3g11z6d8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Mar 2026 11:21:02 GMT"
+        "time": "Mon, 23 Mar 2026 14:23:52 GMT"
       }
     ],
     "projects": [
