@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-23T11:01:29.853Z",
-  "updated_local": "3/23/2026, 11:01:29 AM",
+  "updated_iso": "2026-03-23T11:41:38.687Z",
+  "updated_local": "3/23/2026, 11:41:38 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Resolv Labs Stablecoin Depegs, Plunges 74% After $25M Exploit",
+        "url": "https://decrypt.co/361984/resolv-labs-stablecoin-depegs-plunges-74-after-25m-exploit",
+        "source": "crypto",
+        "time": "Mon, 23 Mar 2026 11:02:59 +0000"
+      },
       {
         "title": "CoinDCX Rebukes Fraud Allegations, Points to Impersonation Scam in Police Probe",
         "url": "https://decrypt.co/361979/coindcx-fraud-allegations-impersonation-scam-police-probe",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/361852/ai-enters-courtroom-los-angeles-pilot-program",
         "source": "crypto",
         "time": "Sun, 22 Mar 2026 13:01:03 +0000"
-      },
-      {
-        "title": "The 7 Largest Publicly Traded Ethereum Treasury Firms",
-        "url": "https://decrypt.co/335519/7-largest-publicly-traded-ethereum-treasury-firms",
-        "source": "crypto",
-        "time": "Sat, 21 Mar 2026 17:49:34 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "I Built an AI Receptionist for a Luxury Mechanic Shop – Part 1",
-        "url": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
+        "title": "Migrating to the EU",
+        "url": "https://rz01.org/eu-migration/",
         "source": "hn",
-        "time": "3/23/2026, 10:32:33 AM"
+        "time": "3/23/2026, 10:17:32 AM"
       },
       {
         "title": "POSSE – Publish on your Own Site, Syndicate Elsewhere",
@@ -48,31 +48,25 @@
         "time": "3/23/2026, 8:29:27 AM"
       },
       {
-        "title": "Migrating to the EU",
-        "url": "https://rz01.org/eu-migration/",
-        "source": "hn",
-        "time": "3/23/2026, 10:17:32 AM"
-      },
-      {
         "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
         "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
         "source": "hn",
         "time": "3/22/2026, 6:23:40 PM"
       },
       {
-        "title": "Walmart: ChatGPT checkout converted 3x worse than website",
-        "url": "https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071",
+        "title": "Tin Can, a 'landline' for kids",
+        "url": "https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9",
         "source": "hn",
-        "time": "3/19/2026, 7:42:35 PM"
+        "time": "3/20/2026, 2:02:14 PM"
+      },
+      {
+        "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
+        "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
+        "source": "hn",
+        "time": "3/22/2026, 7:02:43 PM"
       }
     ],
     "world": [
-      {
-        "title": "Watch: CCTV shows ambulance attack suspects before vehicle engulfed in flames",
-        "url": "https://www.bbc.com/news/videos/cwyvxdl7x3xo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Mar 2026 06:43:12 GMT"
-      },
       {
         "title": "British couple in Iran prison say situation is 'life-threatening'",
         "url": "https://www.bbc.com/news/articles/cew72ll8245o?at_medium=RSS&amp;at_campaign=rss",
@@ -84,6 +78,12 @@
         "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 23 Mar 2026 04:06:22 GMT"
+      },
+      {
+        "title": "Heat pumps work for me - but they're not yet a money saver",
+        "url": "https://www.bbc.com/news/articles/ce358gkx9vpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Mar 2026 00:04:45 GMT"
       },
       {
         "title": "'We can't justify a £52 lunch': Middle-income families cut back on days out",
