@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-23T15:04:57.118Z",
-  "updated_local": "3/23/2026, 3:04:57 PM",
+  "updated_iso": "2026-03-23T15:58:27.158Z",
+  "updated_local": "3/23/2026, 3:58:27 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Senators Reveal Bipartisan Bill to Outlaw Sports Prediction Markets",
+        "url": "https://decrypt.co/362018/senators-bipartisan-bill-outlaw-sports-prediction-markets",
+        "source": "crypto",
+        "time": "Mon, 23 Mar 2026 15:48:26 +0000"
+      },
+      {
+        "title": "Ethereum Price Jumps on Iran Optimism as Tom Lee&#39;s BitMine Adds to $10 Billion Stash",
+        "url": "https://decrypt.co/361995/ethereum-price-jumps-iran-optimism-tom-lee-bitmine-10-billion-treasury",
+        "source": "crypto",
+        "time": "Mon, 23 Mar 2026 15:19:58 +0000"
+      },
       {
         "title": "Strategy Unveils $44 Billion Plan to Buy More Bitcoin, Driven By MSTR and STRC Shares",
         "url": "https://decrypt.co/361999/strategy-unveils-44-billion-plan-buy-more-bitcoin",
@@ -20,21 +32,27 @@
         "url": "https://decrypt.co/361988/morning-minute-bitcoin-rips-as-iran-strikes-postponed",
         "source": "crypto",
         "time": "Mon, 23 Mar 2026 12:19:58 +0000"
-      },
-      {
-        "title": "Bitcoin Tops $71,000 as Trump Postpones Iran Power Plant Strike Plans",
-        "url": "https://decrypt.co/361987/bitcoin-tops-71000-as-trump-postpones-iran-power-plant-strike-plans",
-        "source": "crypto",
-        "time": "Mon, 23 Mar 2026 12:11:15 +0000"
-      },
-      {
-        "title": "Resolv Labs Stablecoin Depegs, Plunges 74% After $25M Exploit",
-        "url": "https://decrypt.co/361984/resolv-labs-stablecoin-depegs-plunges-74-after-25m-exploit",
-        "source": "crypto",
-        "time": "Mon, 23 Mar 2026 11:02:59 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Cyber.mil serving file downloads using TLS certificate which expired 3 days ago",
+        "url": "https://www.cyber.mil/stigs/downloads",
+        "source": "hn",
+        "time": "3/23/2026, 3:25:04 PM"
+      },
+      {
+        "title": "If Dspy is so great, why isn't anyone using it?",
+        "url": "https://skylarbpayne.com/posts/dspy-engineering-patterns/",
+        "source": "hn",
+        "time": "3/23/2026, 2:52:52 PM"
+      },
+      {
+        "title": "Study: 'Security Fatigue' May Weaken Digital Defenses",
+        "url": "https://www.albany.edu/news-center/news/2026-study-security-fatigue-may-weaken-digital-defenses",
+        "source": "hn",
+        "time": "3/23/2026, 2:36:30 PM"
+      },
       {
         "title": "Bombadil: Property-based testing for web UIs by Antithesis",
         "url": "https://github.com/antithesishq/bombadil",
@@ -46,24 +64,6 @@
         "url": "https://rz01.org/eu-migration/",
         "source": "hn",
         "time": "3/23/2026, 10:17:32 AM"
-      },
-      {
-        "title": "POSSE – Publish on your Own Site, Syndicate Elsewhere",
-        "url": "https://indieweb.org/POSSE",
-        "source": "hn",
-        "time": "3/23/2026, 8:29:27 AM"
-      },
-      {
-        "title": "GitHub appears to be struggling with measly three nines availability",
-        "url": "https://www.theregister.com/2026/02/10/github_outages/",
-        "source": "hn",
-        "time": "3/23/2026, 10:39:39 AM"
-      },
-      {
-        "title": "An Unsolicited Guide to Being a Researcher [pdf]",
-        "url": "https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf",
-        "source": "hn",
-        "time": "3/19/2026, 10:00:42 AM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Mon, 23 Mar 2026 03:01:09 GMT"
       },
       {
-        "title": "How Woody the wonderdog helped an island become the world's first to eradicate ferrets",
-        "url": "https://www.bbc.com/news/articles/cre1jly1ny2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Mar 2026 00:00:16 GMT"
-      },
-      {
         "title": "'We can't justify a £52 lunch': Middle-income families cut back on days out",
         "url": "https://www.bbc.com/news/articles/ckg3g11z6d8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 23 Mar 2026 14:23:52 GMT"
+      },
+      {
+        "title": "OnlyFans owner Leonid Radvinsky dies at 43",
+        "url": "https://www.bbc.com/news/articles/c33le6yv7pno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Mar 2026 15:23:00 GMT"
       }
     ],
     "projects": [
