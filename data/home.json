@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-23T20:48:48.900Z",
-  "updated_local": "3/23/2026, 8:48:48 PM",
+  "updated_iso": "2026-03-23T21:34:37.952Z",
+  "updated_local": "3/23/2026, 9:34:37 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Polymarket, Kalshi Make Moves to Counter Insider Trading as Scrutiny Grows",
+        "url": "https://decrypt.co/362121/polymarket-kalshi-make-moves-counter-insider-trading",
+        "source": "crypto",
+        "time": "Mon, 23 Mar 2026 21:07:31 +0000"
+      },
+      {
+        "title": "Bitcoin Price Recovery Paints Familiar Pattern—And That’s the Problem: Analysis",
+        "url": "https://decrypt.co/362087/bitcoin-price-pattern-market-crash-analysis",
+        "source": "crypto",
+        "time": "Mon, 23 Mar 2026 20:54:30 +0000"
+      },
       {
         "title": "Why Other Bitcoin Treasury Firms Are Betting on Strategy&#39;s &#39;iPhone Moment&#39;",
         "url": "https://decrypt.co/362070/why-bitcoin-treasury-firms-betting-strategy-iphone-moment",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/362062/will-mrbeast-push-crypto-kids-senator-warren",
         "source": "crypto",
         "time": "Mon, 23 Mar 2026 18:43:38 +0000"
-      },
-      {
-        "title": "Sam Bankman-Fried Court Letter Under Scrutiny As Parents Call For Clemency",
-        "url": "https://decrypt.co/362060/sam-bankman-fried-court-letter-under-scrutiny-as-parents-call-for-clemency",
-        "source": "crypto",
-        "time": "Mon, 23 Mar 2026 18:15:19 +0000"
-      },
-      {
-        "title": "Arrest Made in Violent Kidnapping of Ledger Founder for Crypto Ransom: Report",
-        "url": "https://decrypt.co/362037/arrest-violent-kidnapping-ledger-founder-crypto-ransom-report",
-        "source": "crypto",
-        "time": "Mon, 23 Mar 2026 17:11:13 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,18 @@
         "url": "https://ykumar.me/blog/eclip-autoresearch/",
         "source": "hn",
         "time": "3/23/2026, 6:40:58 PM"
+      },
+      {
+        "title": "The Minimalist Entrepreneur – Claude Code Skills",
+        "url": "https://github.com/slavingia/skills",
+        "source": "hn",
+        "time": "3/23/2026, 9:11:27 PM"
+      },
+      {
+        "title": "How I'm Productive with Claude Code",
+        "url": "https://neilkakkar.com/productive-with-claude-code.html",
+        "source": "hn",
+        "time": "3/23/2026, 8:49:10 PM"
       },
       {
         "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
@@ -52,18 +64,6 @@
         "url": "https://github.com/localstack/localstack",
         "source": "hn",
         "time": "3/23/2026, 6:57:08 PM"
-      },
-      {
-        "title": "Finding all regex matches has always been O(n²)",
-        "url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
-        "source": "hn",
-        "time": "3/19/2026, 6:40:02 PM"
-      },
-      {
-        "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
-        "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
-        "source": "hn",
-        "time": "3/22/2026, 9:45:14 AM"
       }
     ],
     "world": [
@@ -74,10 +74,16 @@
         "time": "Mon, 23 Mar 2026 19:32:24 GMT"
       },
       {
-        "title": "'Like the plane got cut in half': Eyewitnesses describe chaos of LaGuardia crash",
+        "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
         "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Mar 2026 19:28:28 GMT"
+        "time": "Mon, 23 Mar 2026 21:13:47 GMT"
+      },
+      {
+        "title": "'Stop, stop, stop': Listen to LaGuardia control tower audio during collision",
+        "url": "https://www.bbc.com/news/videos/clyer72wn85o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Mar 2026 15:04:25 GMT"
       },
       {
         "title": "British supplement maker Huel bought by Danone for €1bn",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c4g8d8pz0xyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 23 Mar 2026 16:08:35 GMT"
-      },
-      {
-        "title": "Slovenia becomes first EU country to introduce fuel rationing",
-        "url": "https://www.bbc.com/news/articles/c77m4zx6zvmo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Mar 2026 17:45:25 GMT"
       }
     ],
     "projects": [
