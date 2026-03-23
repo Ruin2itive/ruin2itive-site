@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-23T19:42:27.028Z"
+    "built_at": "2026-03-23T20:31:09.526Z"
   },
-  "items": [
-    {
-      "title": "Show HN: LLMs battle it out trading futures",
-      "url": "https://arena.dbj.is/",
-      "date": "2026-03-23T19:39:05.000Z"
-    },
-    {
-      "title": "LLM Proxy for Agent Containers",
-      "url": "https://github.com/calebfaruki/tightbeam",
-      "date": "2026-03-23T19:38:37.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
