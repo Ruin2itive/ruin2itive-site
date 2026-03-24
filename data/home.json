@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-24T20:39:26.053Z",
-  "updated_local": "3/24/2026, 8:39:26 PM",
+  "updated_iso": "2026-03-24T20:52:07.111Z",
+  "updated_local": "3/24/2026, 8:52:07 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Circle Stock Dives as Rival Tether Secures Big Four Audit, Crypto Bill Threatens Stablecoin Yield",
+        "url": "https://decrypt.co/362215/circle-stock-dives-tether-big-four-audit-crypto-bill-stablecoin-yield",
+        "source": "crypto",
+        "time": "Tue, 24 Mar 2026 20:48:55 +0000"
+      },
       {
         "title": "&#39;Fortnite&#39; Maker Epic Games Reveals Mass Layoffs, Says AI Isn’t to Blame",
         "url": "https://decrypt.co/362229/fortnite-maker-epic-games-mass-layoffs-ai-isnt-blame",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/362188/bmo-first-bank-cme-tokenized-cash-platform-google-cloud",
         "source": "crypto",
         "time": "Tue, 24 Mar 2026 16:54:17 +0000"
-      },
-      {
-        "title": "Bitcoin Has Likely Bottomed as Strategy Shows Resilience Amid Plunge: Bernstein",
-        "url": "https://decrypt.co/362201/bitcoin-likely-bottomed-strategy-shows-resilience-bernstein",
-        "source": "crypto",
-        "time": "Tue, 24 Mar 2026 16:28:00 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Is anybody else bored of talking about AI?",
-        "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+        "title": "GitHub is once again down",
+        "url": "https://www.githubstatus.com/incidents/kp06czybl7dw",
         "source": "hn",
-        "time": "3/24/2026, 8:31:08 PM"
+        "time": "3/24/2026, 8:23:34 PM"
       },
       {
         "title": "Apple Business",
@@ -54,16 +54,16 @@
         "time": "3/24/2026, 5:30:42 PM"
       },
       {
+        "title": "Is anybody else bored of talking about AI?",
+        "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+        "source": "hn",
+        "time": "3/24/2026, 8:31:08 PM"
+      },
+      {
         "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
         "url": "https://github.com/t8/hypura",
         "source": "hn",
         "time": "3/24/2026, 4:02:22 PM"
-      },
-      {
-        "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-        "url": "https://github.com/BerriAI/litellm/issues/24512",
-        "source": "hn",
-        "time": "3/24/2026, 12:06:29 PM"
       }
     ],
     "world": [
