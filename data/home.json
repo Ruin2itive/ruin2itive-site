@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-24T21:36:15.932Z",
-  "updated_local": "3/24/2026, 9:36:15 PM",
+  "updated_iso": "2026-03-24T21:47:01.048Z",
+  "updated_local": "3/24/2026, 9:47:01 PM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "GitHub is once again down",
-        "url": "https://www.githubstatus.com/incidents/kp06czybl7dw",
-        "source": "hn",
-        "time": "3/24/2026, 8:23:34 PM"
-      },
-      {
         "title": "Apple Business",
         "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
         "source": "hn",
@@ -54,16 +48,22 @@
         "time": "3/24/2026, 5:30:42 PM"
       },
       {
-        "title": "Is anybody else bored of talking about AI?",
-        "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
-        "source": "hn",
-        "time": "3/24/2026, 8:31:08 PM"
-      },
-      {
         "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
         "url": "https://github.com/BerriAI/litellm/issues/24512",
         "source": "hn",
         "time": "3/24/2026, 12:06:29 PM"
+      },
+      {
+        "title": "Welcome to FastMCP",
+        "url": "https://gofastmcp.com/getting-started/welcome",
+        "source": "hn",
+        "time": "3/24/2026, 7:53:51 PM"
+      },
+      {
+        "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
+        "url": "https://github.com/t8/hypura",
+        "source": "hn",
+        "time": "3/24/2026, 4:02:22 PM"
       }
     ],
     "world": [
