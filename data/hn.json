@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-24T15:59:16.814Z"
+    "built_at": "2026-03-24T17:03:40.343Z"
   },
-  "items": [
-    {
-      "title": "Integrating Rust into ML Workflows",
-      "url": "https://www.animaj.com/post/animaj-supercharging-ml-workflows-with-rust-integration",
-      "date": "2026-03-24T15:58:11.000Z"
-    },
-    {
-      "title": "No Terms. No Conditions",
-      "url": "https://notermsnoconditions.com",
-      "date": "2026-03-24T15:58:04.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
