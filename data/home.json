@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-24T04:22:24.203Z",
-  "updated_local": "3/24/2026, 4:22:24 AM",
+  "updated_iso": "2026-03-24T05:01:18.210Z",
+  "updated_local": "3/24/2026, 5:01:18 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Australian Pension Fund Weighs Crypto Access Amid Market Volatility",
+        "url": "https://decrypt.co/362149/australian-pension-fund-weighs-crypto-market-volatility",
+        "source": "crypto",
+        "time": "Tue, 24 Mar 2026 04:54:27 +0000"
+      },
+      {
+        "title": "Balancer Labs Winds Down Months After $128M DeFi Exploit",
+        "url": "https://decrypt.co/362141/balancer-labs-winds-down-128m-defi-exploit",
+        "source": "crypto",
+        "time": "Tue, 24 Mar 2026 04:36:39 +0000"
+      },
       {
         "title": "Protesters Rally Outside OpenAI, Anthropic, and xAI Offices Over Industry Concerns",
         "url": "https://decrypt.co/362129/protesters-rally-openai-anthropic-xai-offices",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/362087/bitcoin-price-pattern-market-crash-analysis",
         "source": "crypto",
         "time": "Mon, 23 Mar 2026 20:54:30 +0000"
-      },
-      {
-        "title": "Why Other Bitcoin Treasury Firms Are Betting on Strategy&#39;s &#39;iPhone Moment&#39;",
-        "url": "https://decrypt.co/362070/why-bitcoin-treasury-firms-betting-strategy-iphone-moment",
-        "source": "crypto",
-        "time": "Mon, 23 Mar 2026 20:40:36 +0000"
-      },
-      {
-        "title": "Fake Influencers to Compete for Real Money in &#39;AI Personality of the Year&#39; Challenge",
-        "url": "https://decrypt.co/362047/ai-influencers-real-money-personality-of-the-year",
-        "source": "crypto",
-        "time": "Mon, 23 Mar 2026 18:57:49 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
         "source": "hn",
         "time": "3/24/2026, 1:53:09 AM"
+      },
+      {
+        "title": "Box of Secrets: Discreetly modding an apartment intercom with Matter",
+        "url": "https://www.jackhogan.me/blog/box-of-secrets/",
+        "source": "hn",
+        "time": "3/24/2026, 4:11:46 AM"
       },
       {
         "title": "Autoresearch on an old research idea",
@@ -58,12 +64,6 @@
         "url": "https://twitter.com/anemll/status/2035901335984611412",
         "source": "hn",
         "time": "3/23/2026, 2:30:10 PM"
-      },
-      {
-        "title": "Pompeii's battle scars linked to an ancient 'machine gun'",
-        "url": "https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html",
-        "source": "hn",
-        "time": "3/20/2026, 12:02:00 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Tue, 24 Mar 2026 00:33:51 GMT"
       },
       {
-        "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
-        "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Heat pumps for all new homes and plug-in solar in green tech drive",
+        "url": "https://www.bbc.com/news/articles/czjw7klkjm2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Mar 2026 21:13:47 GMT"
-      },
-      {
-        "title": "Watch: How the deadly LaGuardia Airport crash unfolded",
-        "url": "https://www.bbc.com/news/videos/czxrv4pqx72o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Mar 2026 22:17:26 GMT"
+        "time": "Tue, 24 Mar 2026 01:10:12 GMT"
       },
       {
         "title": "Inside the alleged Russian operation to trigger anti-government protests in Angola",
         "url": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 24 Mar 2026 00:18:10 GMT"
+      },
+      {
+        "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
+        "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Mar 2026 21:13:47 GMT"
       }
     ],
     "projects": [
