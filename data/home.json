@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-24T17:54:34.832Z",
-  "updated_local": "3/24/2026, 5:54:34 PM",
+  "updated_iso": "2026-03-24T19:00:41.516Z",
+  "updated_local": "3/24/2026, 7:00:41 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Russian Hacker Jailed for 81 Months Over $9M Ransomware Attacks",
+        "url": "https://decrypt.co/362217/russian-hacker-jailed-for-81-months-over-9m-ransomware-attacks",
+        "source": "crypto",
+        "time": "Tue, 24 Mar 2026 18:47:14 +0000"
+      },
+      {
+        "title": "CFTC Unveils Innovation Task Force Focused on Crypto, AI and Prediction Markets",
+        "url": "https://decrypt.co/362212/cftc-unveils-innovation-task-force-crypto-ai-prediction-markets",
+        "source": "crypto",
+        "time": "Tue, 24 Mar 2026 18:23:37 +0000"
+      },
       {
         "title": "BMO Is First Bank to Join CME&#39;s Tokenized Cash Platform on Google Cloud",
         "url": "https://decrypt.co/362188/bmo-first-bank-cme-tokenized-cash-platform-google-cloud",
@@ -20,53 +32,47 @@
         "url": "https://decrypt.co/362187/tether-audited-big-four-accounting-firm-wont-say-which-one",
         "source": "crypto",
         "time": "Tue, 24 Mar 2026 14:52:08 +0000"
-      },
-      {
-        "title": "Wall Street&#39;s Crypto Ties Deepen as NYSE Taps Securitize for Tokenized Securities",
-        "url": "https://decrypt.co/362185/wall-streets-crypto-ties-deepen-nyse-securitize-tokenized-securities",
-        "source": "crypto",
-        "time": "Tue, 24 Mar 2026 14:47:00 +0000"
-      },
-      {
-        "title": "Mastercard, Western Union, Worldpay Building With New Solana Enterprise Platform",
-        "url": "https://decrypt.co/362183/mastercard-western-union-worldpay-building-solana-enterprise-platform",
-        "source": "crypto",
-        "time": "Tue, 24 Mar 2026 13:55:04 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "LiteLLM Python package compromised by supply-chain attack",
-        "url": "https://github.com/BerriAI/litellm/issues/24512",
+        "title": "Arm AGI CPU",
+        "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
         "source": "hn",
-        "time": "3/24/2026, 12:36:20 PM"
+        "time": "3/24/2026, 5:30:42 PM"
       },
       {
-        "title": "Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe",
+        "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
         "url": "https://github.com/t8/hypura",
         "source": "hn",
         "time": "3/24/2026, 4:02:22 PM"
       },
       {
-        "title": "Hypothesis, Antithesis, Synthesis",
-        "url": "https://antithesis.com/blog/2026/hegel/",
+        "title": "Apple Business",
+        "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
         "source": "hn",
-        "time": "3/24/2026, 3:28:17 PM"
+        "time": "3/24/2026, 3:29:41 PM"
+      },
+      {
+        "title": "ARM AGI CPU: Specs and SKUs",
+        "url": "https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/",
+        "source": "hn",
+        "time": "3/24/2026, 5:59:16 PM"
       },
       {
         "title": "No Terms. No Conditions",
         "url": "https://notermsnoconditions.com",
         "source": "hn",
         "time": "3/24/2026, 3:58:04 PM"
-      },
-      {
-        "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
-        "url": "https://www.emailmd.dev/",
-        "source": "hn",
-        "time": "3/24/2026, 4:26:00 PM"
       }
     ],
     "world": [
+      {
+        "title": "Small window open for US-Iran talks, but swift end to war still unlikely",
+        "url": "https://www.bbc.com/news/articles/c895xljyzewo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 24 Mar 2026 18:04:04 GMT"
+      },
       {
         "title": "Reeves plans energy bill help for those 'who need it most'",
         "url": "https://www.bbc.com/news/articles/cr516nmer5eo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +80,22 @@
         "time": "Tue, 24 Mar 2026 15:46:00 GMT"
       },
       {
-        "title": "Oil traders bet millions minutes before Trump's Iran talks post",
-        "url": "https://www.bbc.com/news/articles/cg547ljepvzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Mohamed Salah to leave Liverpool at end of season",
+        "url": "https://www.bbc.com/sport/football/articles/c0e7ww12w2qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 24 Mar 2026 13:35:46 GMT"
+        "time": "Tue, 24 Mar 2026 18:57:40 GMT"
       },
       {
         "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
         "url": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 24 Mar 2026 17:32:20 GMT"
+        "time": "Tue, 24 Mar 2026 18:12:36 GMT"
       },
       {
         "title": "Transgender girls told to leave Girlguiding groups by September",
         "url": "https://www.bbc.com/news/articles/cx2rn250ddjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 24 Mar 2026 13:32:10 GMT"
-      },
-      {
-        "title": "Married at First Sight star Mel Schilling dies at 54",
-        "url": "https://www.bbc.com/news/articles/c8ejk0z430jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 24 Mar 2026 13:14:52 GMT"
       }
     ],
     "projects": [
