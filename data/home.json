@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-25T13:06:09.933Z",
-  "updated_local": "3/25/2026, 1:06:09 PM",
+  "updated_iso": "2026-03-25T13:42:19.191Z",
+  "updated_local": "3/25/2026, 1:42:19 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "3/25/2026, 8:52:50 AM"
       },
       {
+        "title": "Local LLM by Ente",
+        "url": "https://ente.com/blog/ensu/",
+        "source": "hn",
+        "time": "3/25/2026, 12:49:14 PM"
+      },
+      {
         "title": "TurboQuant: Redefining AI efficiency with extreme compression",
         "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
         "source": "hn",
@@ -54,12 +60,6 @@
         "time": "3/24/2026, 8:01:05 PM"
       },
       {
-        "title": "Looking at Unity made me understand the point of C++ coroutines",
-        "url": "https://mropert.github.io/2026/03/20/unity_cpp_coroutines/",
-        "source": "hn",
-        "time": "3/21/2026, 11:19:28 PM"
-      },
-      {
         "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
         "url": "https://v-os.dev",
         "source": "hn",
@@ -68,16 +68,16 @@
     ],
     "world": [
       {
+        "title": "Ex-Google boss confirmed as new BBC director general",
+        "url": "https://www.bbc.com/news/articles/cjd97evn2gko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 25 Mar 2026 13:30:05 GMT"
+      },
+      {
         "title": "Hospital waited two days before raising alarm about meningitis outbreak, BBC learns",
         "url": "https://www.bbc.com/news/articles/cp8dnxln3y5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 25 Mar 2026 10:56:47 GMT"
-      },
-      {
-        "title": "Two men arrested over Jewish charity ambulance arson attacks",
-        "url": "https://www.bbc.com/news/articles/c3v6rx6dxz6o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 25 Mar 2026 11:13:58 GMT"
       },
       {
         "title": "Ex-justice minister admits possessing crystal meth and cannabis",
@@ -92,10 +92,10 @@
         "time": "Wed, 25 Mar 2026 12:59:33 GMT"
       },
       {
-        "title": "NHS dentistry is rotting. Will the plan to fix it work?",
-        "url": "https://www.bbc.com/news/articles/cr41lg6ddelo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Olivia Dean, Lola Young and Lily Allen nominated in top songwriting awards",
+        "url": "https://www.bbc.com/news/articles/cy417pmvrvro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Mar 2026 01:26:40 GMT"
+        "time": "Wed, 25 Mar 2026 12:54:54 GMT"
       }
     ],
     "projects": [
