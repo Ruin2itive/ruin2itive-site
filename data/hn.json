@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-25T12:50:59.968Z"
+    "built_at": "2026-03-25T14:14:16.706Z"
   },
-  "items": [
-    {
-      "title": "Sony-Honda JV Scraps Afeela EV Plans",
-      "url": "https://www.reuters.com/world/asia-pacific/sony-honda-mobility-cancels-ev-development-refund-early-buyers-2026-03-25/",
-      "date": "2026-03-25T12:50:16.000Z"
-    },
-    {
-      "title": "Spooky-chess: a Rust/Python library with variable board sizes",
-      "url": "https://github.com/snowdrop4/spooky-chess",
-      "date": "2026-03-25T12:50:15.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
