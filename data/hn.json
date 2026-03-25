@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-25T16:02:18.490Z"
+    "built_at": "2026-03-25T17:52:02.631Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "The FCC bans all routers made outside the U.S.",
+      "url": "https://mashable.com/article/us-fcc-foreign-router-ban",
+      "date": "2026-03-25T17:51:08.000Z"
+    },
+    {
+      "title": "I bought the MacBook Neo and it sucks",
+      "url": "https://alexandmanu.com/blog/the-macbook-neo-disappointment/",
+      "date": "2026-03-25T17:50:47.000Z"
+    }
+  ]
 }
