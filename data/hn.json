@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-25T18:45:46.936Z"
+    "built_at": "2026-03-25T19:40:45.560Z"
   },
-  "items": [
-    {
-      "title": "Anthropic won't acknowledge my prior art notice",
-      "url": "https://gist.github.com/Alienfader/9140a7311164d37a90f16600a1e4b6f1",
-      "date": "2026-03-25T18:45:01.000Z"
-    },
-    {
-      "title": "Post-AGI Vocabulary",
-      "url": "https://gist.github.com/alpeware/21a0a962ff6947069dc02ccb949f18cd",
-      "date": "2026-03-25T18:44:52.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
