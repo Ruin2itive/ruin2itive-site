@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-25T07:52:12.873Z"
+    "built_at": "2026-03-25T08:40:45.204Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Teaching AI to Verify Sources",
+      "url": "https://alganet.github.io/blog/2026-03-25-05-Teaching-AI-to-Verify-Sources.html",
+      "date": "2026-03-25T08:40:01.000Z"
+    },
+    {
+      "title": "Show HN: Native, Structured and Long-Term Memory Plugin for OpenClaw",
+      "url": "https://docs.byterover.dev/autonomous-agents/openclaw",
+      "date": "2026-03-25T08:38:17.000Z"
+    }
+  ]
 }
