@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-25T21:31:20.373Z"
+    "built_at": "2026-03-25T22:27:46.984Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Amazon's unprecedented gamble on AI redemption might just work",
+      "url": "https://economist.com/business/2026/03/25/amazons-unprecedented-gamble-on-ai-redemption-might-just-work",
+      "date": "2026-03-25T22:26:38.000Z"
+    },
+    {
+      "title": "Meta and YouTube found negligent in landmark social media addiction case",
+      "url": "https://www.theverge.com/policy/900654/meta-google-instagram-youtube-social-media-addiction-trial-kgm-jury-decision",
+      "date": "2026-03-25T22:26:04.000Z"
+    }
+  ]
 }
