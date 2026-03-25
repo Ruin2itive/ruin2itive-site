@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-25T06:57:48.521Z"
+    "built_at": "2026-03-25T07:52:12.873Z"
   },
-  "items": [
-    {
-      "title": "Can we have a more \"social\" media?",
-      "url": "https://profpatsch.de/essays/a-more-social-media",
-      "date": "2026-03-25T06:57:07.000Z"
-    },
-    {
-      "title": "The Age of Verification",
-      "url": "https://contextbento.substack.com/p/the-age-of-verification",
-      "date": "2026-03-25T06:52:41.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
