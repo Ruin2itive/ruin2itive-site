@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-25T11:39:57.585Z",
-  "updated_local": "3/25/2026, 11:39:57 AM",
+  "updated_iso": "2026-03-25T11:50:58.492Z",
+  "updated_local": "3/25/2026, 11:50:58 AM",
   "sections": {
     "crypto": [
       {
@@ -54,25 +54,19 @@
         "time": "3/25/2026, 5:00:54 AM"
       },
       {
+        "title": "Looking at Unity made me understand the point of C++ coroutines",
+        "url": "https://mropert.github.io/2026/03/20/unity_cpp_coroutines/",
+        "source": "hn",
+        "time": "3/21/2026, 11:19:28 PM"
+      },
+      {
         "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
         "url": "https://v-os.dev",
         "source": "hn",
         "time": "3/25/2026, 3:17:06 AM"
-      },
-      {
-        "title": "Goodbye to Sora",
-        "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-        "source": "hn",
-        "time": "3/24/2026, 8:01:05 PM"
       }
     ],
     "world": [
-      {
-        "title": "Two men arrested over Jewish charity ambulance arson attacks",
-        "url": "https://www.bbc.com/news/articles/c3v6rx6dxz6o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 25 Mar 2026 11:13:58 GMT"
-      },
       {
         "title": "Hospital waited two days before raising alarm about meningitis outbreak, BBC learns",
         "url": "https://www.bbc.com/news/articles/cp8dnxln3y5o?at_medium=RSS&amp;at_campaign=rss",
@@ -80,10 +74,16 @@
         "time": "Wed, 25 Mar 2026 10:56:47 GMT"
       },
       {
-        "title": "'He liked the fear in our eyes,' Epstein survivors tell BBC",
-        "url": "https://www.bbc.com/news/articles/cy81n9wexx6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Two men arrested over Jewish charity ambulance arson attacks",
+        "url": "https://www.bbc.com/news/articles/c3v6rx6dxz6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Mar 2026 06:00:23 GMT"
+        "time": "Wed, 25 Mar 2026 11:13:58 GMT"
+      },
+      {
+        "title": "Ex-justice minister admits possessing crystal meth and cannabis",
+        "url": "https://www.bbc.com/news/articles/cn8dgxz54yno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 25 Mar 2026 11:33:26 GMT"
       },
       {
         "title": "'I hugged armed man to stop him bombing hospital'",
@@ -92,10 +92,10 @@
         "time": "Wed, 25 Mar 2026 02:00:25 GMT"
       },
       {
-        "title": "Ex-justice minister admits possessing crystal meth and cannabis",
-        "url": "https://www.bbc.com/news/articles/cn8dgxz54yno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "NHS dentistry is rotting. Will the plan to fix it work?",
+        "url": "https://www.bbc.com/news/articles/cr41lg6ddelo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Mar 2026 11:33:26 GMT"
+        "time": "Wed, 25 Mar 2026 01:26:40 GMT"
       }
     ],
     "projects": [
