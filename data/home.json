@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-25T13:42:19.191Z",
-  "updated_local": "3/25/2026, 1:42:19 PM",
+  "updated_iso": "2026-03-25T14:57:28.506Z",
+  "updated_local": "3/25/2026, 2:57:28 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "President Trump Names Meta, Nvidia CEOs to White House Tech and Science Council",
+        "url": "https://decrypt.co/362313/trump-names-meta-nvidia-ceos-white-house-tech-science-council",
+        "source": "crypto",
+        "time": "Wed, 25 Mar 2026 14:27:01 +0000"
+      },
       {
         "title": "Bitcoin ETFs Draw in $2.5B in a Month, Close to Erasing YTD Losses",
         "url": "https://decrypt.co/362301/bitcoin-etfs-draw-in-2-5b-in-a-month-close-to-erasing-ytd-losses",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/362265/baltimore-sues-x-xai-grok-deepfakes",
         "source": "crypto",
         "time": "Wed, 25 Mar 2026 05:21:16 +0000"
-      },
-      {
-        "title": "Bitcoin Depot CEO Departs Amid Broader Crypto ATM Crackdown",
-        "url": "https://decrypt.co/362262/bitcoin-depot-ceo-departs-broader-crypto-atm-crackdown",
-        "source": "crypto",
-        "time": "Wed, 25 Mar 2026 04:11:26 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Apple Just Lost Me",
+        "url": "https://andregarzia.com/2026/03/apple-just-lost-me.html",
+        "source": "hn",
+        "time": "3/25/2026, 2:20:24 PM"
+      },
+      {
+        "title": "Local LLM App by Ente",
+        "url": "https://ente.com/blog/ensu/",
+        "source": "hn",
+        "time": "3/25/2026, 12:49:14 PM"
+      },
       {
         "title": "Meta told to pay $375M for misleading users over child safety",
         "url": "https://www.bbc.com/news/articles/cql75dn07n2o",
@@ -42,28 +54,16 @@
         "time": "3/25/2026, 8:52:50 AM"
       },
       {
-        "title": "Local LLM by Ente",
-        "url": "https://ente.com/blog/ensu/",
+        "title": "My Astrophotography in the Movie Project Hail Mary",
+        "url": "https://rpastro.square.site/s/stories/phm",
         "source": "hn",
-        "time": "3/25/2026, 12:49:14 PM"
+        "time": "3/22/2026, 2:28:06 PM"
       },
       {
         "title": "TurboQuant: Redefining AI efficiency with extreme compression",
         "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
         "source": "hn",
         "time": "3/25/2026, 5:00:54 AM"
-      },
-      {
-        "title": "Goodbye to Sora",
-        "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-        "source": "hn",
-        "time": "3/24/2026, 8:01:05 PM"
-      },
-      {
-        "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
-        "url": "https://v-os.dev",
-        "source": "hn",
-        "time": "3/25/2026, 3:17:06 AM"
       }
     ],
     "world": [
@@ -80,13 +80,7 @@
         "time": "Wed, 25 Mar 2026 10:56:47 GMT"
       },
       {
-        "title": "Ex-justice minister admits possessing crystal meth and cannabis",
-        "url": "https://www.bbc.com/news/articles/cn8dgxz54yno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 25 Mar 2026 13:04:43 GMT"
-      },
-      {
-        "title": "'I hugged armed man to stop him bombing hospital'",
+        "title": "Bravery medal recipient 'hugged armed man to stop him bombing hospital'",
         "url": "https://www.bbc.com/news/articles/c9q58xq9lxzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 25 Mar 2026 12:59:33 GMT"
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/cy417pmvrvro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 25 Mar 2026 12:54:54 GMT"
+      },
+      {
+        "title": "Two men arrested over Jewish charity ambulance arson attacks",
+        "url": "https://www.bbc.com/news/articles/c3v6rx6dxz6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 25 Mar 2026 14:21:44 GMT"
       }
     ],
     "projects": [
