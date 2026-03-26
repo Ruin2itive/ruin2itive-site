@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-26T03:19:00.279Z",
-  "updated_local": "3/26/2026, 3:19:00 AM",
+  "updated_iso": "2026-03-26T05:04:26.390Z",
+  "updated_local": "3/26/2026, 5:04:26 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Nvidia to Face Class Action Lawsuit Over Alleged Crypto Mining Revenue Gaps",
+        "url": "https://decrypt.co/362410/nvidia-class-action-lawsuit-alleged-crypto-mining-revenue-gaps",
+        "source": "crypto",
+        "time": "Thu, 26 Mar 2026 04:56:00 +0000"
+      },
+      {
+        "title": "Crypto Case Over Money Transmitter Laws Dismissed by US Judge",
+        "url": "https://decrypt.co/362408/crypto-money-transmitter-laws-dismissed-us-judge",
+        "source": "crypto",
+        "time": "Thu, 26 Mar 2026 04:25:13 +0000"
+      },
       {
         "title": "Australia Lays Groundwork for Tokenized Asset Markets After RBA Project",
         "url": "https://decrypt.co/362391/australia-tokenized-asset-markets-rba-project",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/362356/google-2029-deadline-quantum-threat-problem-bitcoin",
         "source": "crypto",
         "time": "Wed, 25 Mar 2026 21:31:04 +0000"
-      },
-      {
-        "title": "$15 Billion in Bitcoin Options Expire Friday as Trump&#39;s Iran Deadline Looms",
-        "url": "https://decrypt.co/362352/15-billion-bitcoin-options-expire-friday-trump-iran-deadline",
-        "source": "crypto",
-        "time": "Wed, 25 Mar 2026 20:19:02 +0000"
-      },
-      {
-        "title": "F1 Champion McLaren Racing Joins Hedera Council to Help Govern Network",
-        "url": "https://decrypt.co/362341/f1-champion-mclaren-racing-hedera-council-govern-network",
-        "source": "crypto",
-        "time": "Wed, 25 Mar 2026 19:22:44 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "3/25/2026, 9:11:57 PM"
       },
       {
-        "title": "False claims in a widely-cited paper. No corrections. No consequences",
-        "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/?unapproved=2412259&moderation-hash=80fae7fdc82aee50eb3cb14cd8c0b080#comment-2412259",
-        "source": "hn",
-        "time": "3/26/2026, 12:46:31 AM"
-      },
-      {
         "title": "ARC-AGI-3",
         "url": "https://arcprize.org/arc-agi/3",
         "source": "hn",
         "time": "3/25/2026, 6:16:03 PM"
       },
       {
-        "title": "Two Studies in Compiler Optimisations",
-        "url": "https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/",
-        "source": "hn",
-        "time": "3/22/2026, 3:34:44 PM"
-      },
-      {
         "title": "My astrophotography in the movie Project Hail Mary",
         "url": "https://rpastro.square.site/s/stories/phm",
         "source": "hn",
         "time": "3/22/2026, 2:28:06 PM"
+      },
+      {
+        "title": "False claims in a widely-cited paper",
+        "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
+        "source": "hn",
+        "time": "3/26/2026, 12:46:31 AM"
+      },
+      {
+        "title": "Two studies in compiler optimisations",
+        "url": "https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/",
+        "source": "hn",
+        "time": "3/22/2026, 3:34:44 PM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Wed, 25 Mar 2026 22:59:23 GMT"
       },
       {
+        "title": "Chris Mason: How will the UK respond to US court verdict on social media?",
+        "url": "https://www.bbc.com/news/articles/c0q90kekw08o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 26 Mar 2026 03:40:16 GMT"
+      },
+      {
         "title": "British forces preparing to board Russian shadow fleet ships in UK waters",
         "url": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cevkg7k01j2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 25 Mar 2026 20:32:12 GMT"
-      },
-      {
-        "title": "Peers defy government by pushing for UK social media ban for under-16s",
-        "url": "https://www.bbc.com/news/articles/ce84xjl0gx8o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 25 Mar 2026 22:45:43 GMT"
       }
     ],
     "projects": [
