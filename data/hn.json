@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-26T11:43:21.152Z"
+    "built_at": "2026-03-26T12:56:31.023Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "I use CLI agents daily. They are capable – but they don't understand my product",
+      "url": "https://www.indiehackers.com/post/i-use-claude-code-and-codex-cli-daily-they-are-incredible-but-they-still-dont-understand-my-product-so-i-m-building-the-missing-layer-efa8e6da5c",
+      "date": "2026-03-26T12:54:47.000Z"
+    },
+    {
+      "title": "The Marginal Revolution: Rise and Decline, and the Pending AI Revolution",
+      "url": "https://tylercowen.com/marginal-revolution-generative-book/",
+      "date": "2026-03-26T12:53:10.000Z"
+    }
+  ]
 }
