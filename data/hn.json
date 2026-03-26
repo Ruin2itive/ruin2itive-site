@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-26T07:57:24.408Z"
+    "built_at": "2026-03-26T08:54:32.486Z"
   },
-  "items": [
-    {
-      "title": "Spectre GCR Mac emulator for Atari ST manual (1989)",
-      "url": "https://archive.org/details/Spectre_GCR_Manual_Macintosh_emulator_1989",
-      "date": "2026-03-26T07:55:17.000Z"
-    },
-    {
-      "title": "Gerard of Cremona",
-      "url": "https://en.wikipedia.org/wiki/Gerard_of_Cremona",
-      "date": "2026-03-26T07:52:39.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
