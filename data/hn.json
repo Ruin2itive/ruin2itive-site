@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-26T10:45:04.583Z"
+    "built_at": "2026-03-26T11:43:21.152Z"
   },
-  "items": [
-    {
-      "title": "Why China insists on internal unity and international harmony",
-      "url": "https://aeon.co/essays/why-china-insists-on-internal-unity-and-international-harmony",
-      "date": "2026-03-26T10:43:26.000Z"
-    },
-    {
-      "title": "Meta's $27B AI data center is causing chaos in small town Louisiana",
-      "url": "https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana/",
-      "date": "2026-03-26T10:42:50.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
