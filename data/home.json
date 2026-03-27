@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-27T14:59:40.330Z",
-  "updated_local": "3/27/2026, 2:59:40 PM",
+  "updated_iso": "2026-03-27T15:51:28.069Z",
+  "updated_local": "3/27/2026, 3:51:28 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Cathie Wood&#39;s Ark Invest Dumps Meta, Nvidia and Bitcoin ETF Shares in Major Tech Sell-Off",
+        "url": "https://decrypt.co/362580/cathie-woods-ark-invest-dumps-meta-nvidia-bitcoin-etf-shares",
+        "source": "crypto",
+        "time": "Fri, 27 Mar 2026 15:18:48 +0000"
+      },
+      {
+        "title": "Binance Australia Hit With $6.9M Fine After Investors Lose Millions on Derivatives",
+        "url": "https://decrypt.co/362582/binance-australia-6-9m-fine-investors-lose-millions",
+        "source": "crypto",
+        "time": "Fri, 27 Mar 2026 15:00:18 +0000"
+      },
       {
         "title": "Morning Minute: Fannie Mae Accepts Crypto for Mortgages",
         "url": "https://decrypt.co/362565/morning-minute-fannie-mae-accepts-crypto-for-mortgages",
@@ -20,21 +32,15 @@
         "url": "https://decrypt.co/362556/tether-taps-kpmg-for-first-big-four-usdt-audit-amid-u-s-expansion-push",
         "source": "crypto",
         "time": "Fri, 27 Mar 2026 09:41:36 +0000"
-      },
-      {
-        "title": "India Arrests Suspect Tied to Myanmar Crypto Scam Compounds",
-        "url": "https://decrypt.co/362553/india-arrests-suspect-tied-to-myanmar-crypto-scam-compounds",
-        "source": "crypto",
-        "time": "Fri, 27 Mar 2026 06:05:55 +0000"
-      },
-      {
-        "title": "What Rising US Bond Yields Mean for Bitcoin",
-        "url": "https://decrypt.co/362551/what-rising-us-bond-yields-mean-for-bitcoin",
-        "source": "crypto",
-        "time": "Fri, 27 Mar 2026 05:07:27 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Anatomy of the .claude/ Folder",
+        "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+        "source": "hn",
+        "time": "3/27/2026, 2:35:45 PM"
+      },
       {
         "title": "The 'Paperwork Flood': How I Drowned a Bureaucrat Before Dinner",
         "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
@@ -42,28 +48,22 @@
         "time": "3/27/2026, 12:46:49 PM"
       },
       {
-        "title": "A Faster Alternative to Jq",
-        "url": "https://micahkepe.com/blog/jsongrep/",
+        "title": "Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot",
+        "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
         "source": "hn",
-        "time": "3/27/2026, 7:12:26 AM"
+        "time": "3/27/2026, 1:49:51 PM"
       },
       {
-        "title": "Hong Kong Police Can Now Demand Phone Passwords Under New Security Rules",
-        "url": "https://www.gadgetreview.com/hong-kong-police-can-now-demand-phone-passwords-under-new-security-rules",
+        "title": "Iran-linked hackers claim breach of FBI director's personal email",
+        "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
         "source": "hn",
-        "time": "3/27/2026, 1:57:36 PM"
+        "time": "3/27/2026, 2:38:28 PM"
       },
       {
-        "title": "Hold on to Your Hardware",
-        "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
+        "title": "Special desk for people who work at home with a cat",
+        "url": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
         "source": "hn",
-        "time": "3/27/2026, 10:10:41 AM"
-      },
-      {
-        "title": "Schedule tasks on the web",
-        "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
-        "source": "hn",
-        "time": "3/27/2026, 4:47:15 AM"
+        "time": "3/27/2026, 3:31:20 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Fri, 27 Mar 2026 09:24:27 GMT"
       },
       {
+        "title": "'I'd never get anything done': Parents on limiting screen time for under-5s",
+        "url": "https://www.bbc.com/news/articles/c1eqzqwxq8wo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 27 Mar 2026 14:50:13 GMT"
+      },
+      {
         "title": "Afghan asylum seeker jailed for raping girl, 12",
         "url": "https://www.bbc.com/news/articles/c4g4x2zyer2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 27 Mar 2026 13:12:01 GMT"
-      },
-      {
-        "title": "Mum took own life after a forced adoption - now I want an apology",
-        "url": "https://www.bbc.com/news/articles/cpwj2nrnwwyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 27 Mar 2026 05:59:36 GMT"
       }
     ],
     "projects": [
