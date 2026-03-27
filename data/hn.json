@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-27T01:44:40.852Z"
+    "built_at": "2026-03-27T04:28:27.519Z"
   },
-  "items": [
-    {
-      "title": "Experiment: I built an AI that lets you explore your possible future selves",
-      "url": "https://medium.com/activated-thinker/explow-me-ai-now-lets-you-meet-and-talk-to-your-future-selves-9026da54e668",
-      "date": "2026-03-27T01:43:46.000Z"
-    },
-    {
-      "title": "Scientists Filmed a Whale Birth. The Surprise: Mom Had Many Helpers",
-      "url": "https://www.nytimes.com/2026/03/26/climate/sperm-whale-birth-assistance.html",
-      "date": "2026-03-27T01:42:32.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
