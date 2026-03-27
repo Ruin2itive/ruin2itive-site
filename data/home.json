@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-27T07:20:37.685Z",
-  "updated_local": "3/27/2026, 7:20:37 AM",
+  "updated_iso": "2026-03-27T08:51:12.839Z",
+  "updated_local": "3/27/2026, 8:51:12 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "A Faster Alternative to Jq",
+        "url": "https://micahkepe.com/blog/jsongrep/",
+        "source": "hn",
+        "time": "3/27/2026, 7:12:26 AM"
+      },
+      {
         "title": "Schedule tasks on the web",
         "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
         "source": "hn",
@@ -48,27 +54,21 @@
         "time": "3/27/2026, 7:00:49 AM"
       },
       {
-        "title": "Why so many control rooms were seafoam green (2025)",
-        "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
+        "title": "21,864 Yugoslavian .yu Domains",
+        "url": "https://jacobfilipp.com/yu/",
         "source": "hn",
-        "time": "3/25/2026, 3:46:29 PM"
+        "time": "3/23/2026, 3:30:23 PM"
       },
       {
         "title": "Apple discontinues the Mac Pro",
         "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
         "source": "hn",
         "time": "3/26/2026, 9:04:50 PM"
-      },
-      {
-        "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
-        "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
-        "source": "hn",
-        "time": "3/26/2026, 10:41:25 PM"
       }
     ],
     "world": [
       {
-        "title": "Under-5s should not be on screens more than an hour a day, parents told in new advice",
+        "title": "Parents told under-5s should not be on screens more than an hour a day",
         "url": "https://www.bbc.com/news/articles/c1d936n7445o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 27 Mar 2026 06:49:53 GMT"
@@ -80,22 +80,22 @@
         "time": "Fri, 27 Mar 2026 00:13:09 GMT"
       },
       {
-        "title": "Mandelson personal phone messages requested for files release",
+        "title": "Officials to ask Mandelson to hand over personal phone messages for release",
         "url": "https://www.bbc.com/news/articles/czexpw3wgxeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 27 Mar 2026 02:21:40 GMT"
+        "time": "Fri, 27 Mar 2026 08:16:15 GMT"
+      },
+      {
+        "title": "Just Eat and Autotrader among firms investigated in fake reviews probe",
+        "url": "https://www.bbc.com/news/articles/cj37eeyz0epo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 27 Mar 2026 08:27:54 GMT"
       },
       {
         "title": "How Russia's threat forced Germany to radically rethink its military",
         "url": "https://www.bbc.com/news/articles/cvge7r31989o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 27 Mar 2026 05:59:20 GMT"
-      },
-      {
-        "title": "Bright future for Wales despite end of World Cup dream, says coach Bellamy",
-        "url": "https://www.bbc.com/sport/football/articles/cx235x4xynjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 27 Mar 2026 00:08:55 GMT"
       }
     ],
     "projects": [
