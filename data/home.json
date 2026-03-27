@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-27T03:22:17.920Z",
-  "updated_local": "3/27/2026, 3:22:17 AM",
+  "updated_iso": "2026-03-27T05:05:33.569Z",
+  "updated_local": "3/27/2026, 5:05:33 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Judge Blocks Pentagon From Branding Anthropic a National Security Threat",
+        "url": "https://decrypt.co/362548/judge-blocks-pentagon-anthropic-national-security-threat",
+        "source": "crypto",
+        "time": "Fri, 27 Mar 2026 04:16:49 +0000"
+      },
       {
         "title": "David Sacks Leaves White House Crypto Role With Key Legislation Still Unresolved",
         "url": "https://decrypt.co/362531/david-sacks-leaves-white-house-crypto-role-legislation",
@@ -26,26 +32,26 @@
         "url": "https://decrypt.co/362516/bitcoin-ethereum-slip-as-trump-says-hes-not-desperate-to-end-iran-war",
         "source": "crypto",
         "time": "Thu, 26 Mar 2026 20:41:25 +0000"
-      },
-      {
-        "title": "Wikipedia Bans AI-Generated Text in Articles Under New Editing Policy",
-        "url": "https://decrypt.co/362510/wikipedia-bans-ai-articles-new-editing-policy",
-        "source": "crypto",
-        "time": "Thu, 26 Mar 2026 19:59:06 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
-        "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+        "title": "Schedule Claude Code tasks on the web",
+        "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
         "source": "hn",
-        "time": "3/26/2026, 10:41:25 PM"
+        "time": "3/27/2026, 4:47:15 AM"
       },
       {
         "title": "Why so many control rooms were seafoam green (2025)",
         "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
         "source": "hn",
         "time": "3/25/2026, 3:46:29 PM"
+      },
+      {
+        "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+        "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+        "source": "hn",
+        "time": "3/26/2026, 10:41:25 PM"
       },
       {
         "title": "Apple discontinues the Mac Pro",
@@ -58,26 +64,20 @@
         "url": "https://www.symbolica.ai/blog/arc-agi-3",
         "source": "hn",
         "time": "3/27/2026, 1:32:10 AM"
-      },
-      {
-        "title": "Agent-to-Agent Pair Programming",
-        "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
-        "source": "hn",
-        "time": "3/27/2026, 1:47:55 AM"
       }
     ],
     "world": [
       {
-        "title": "Beyond oil: The crucial exports blocked by Hormuz closure",
-        "url": "https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 27 Mar 2026 01:25:17 GMT"
-      },
-      {
-        "title": "Under-5s should not be on screens for more than an hour a day, parents told in new government advice",
+        "title": "Under-5s should not be on screens more than an hour a day, parents told in government advice",
         "url": "https://www.bbc.com/news/articles/c1d936n7445o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 27 Mar 2026 03:21:17 GMT"
+      },
+      {
+        "title": "Three charts that are warning signs flashing for Trump on Iran war",
+        "url": "https://www.bbc.com/news/articles/c3w384px52no?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 27 Mar 2026 00:13:09 GMT"
       },
       {
         "title": "Mandelson personal phone messages requested for files release",
@@ -92,10 +92,10 @@
         "time": "Fri, 27 Mar 2026 00:52:51 GMT"
       },
       {
-        "title": "Olivia Dean's streak continues as she wins big at Mobo Awards",
-        "url": "https://www.bbc.com/news/articles/clyerj082p1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Bright future for Wales despite end of World Cup dream, says coach Bellamy",
+        "url": "https://www.bbc.com/sport/football/articles/cx235x4xynjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 26 Mar 2026 22:44:17 GMT"
+        "time": "Fri, 27 Mar 2026 00:08:55 GMT"
       }
     ],
     "projects": [
