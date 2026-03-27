@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-27T09:47:02.471Z"
+    "built_at": "2026-03-27T10:40:12.369Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Lines of Python to fix mangled copy-paste from Claude Code",
-      "url": "https://news.ycombinator.com/item?id=47540678",
-      "date": "2026-03-27T09:46:08.000Z"
-    },
-    {
-      "title": "Ronda Rousey Fights Like an Outlier (2015)",
-      "url": "https://fivethirtyeight.com/features/ronda-rousey-fights-like-an-outlier/",
-      "date": "2026-03-27T09:45:23.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
