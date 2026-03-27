@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-27T19:06:23.772Z",
-  "updated_local": "3/27/2026, 7:06:23 PM",
+  "updated_iso": "2026-03-27T19:39:37.325Z",
+  "updated_local": "3/27/2026, 7:39:37 PM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
+        "title": "Telnyx package compromised on PyPI",
+        "url": "https://www.aikido.dev/blog/telnyx-pypi-compromised-teampcp-canisterworm",
+        "source": "hn",
+        "time": "3/27/2026, 6:13:57 PM"
+      },
+      {
         "title": "Anatomy of the .claude/ folder",
         "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
         "source": "hn",
         "time": "3/27/2026, 2:35:45 PM"
       },
       {
-        "title": "PyPI package telnyx has been compromised in yet another supply chain attack",
-        "url": "https://www.aikido.dev/blog/telnyx-pypi-compromised-teampcp-canisterworm",
+        "title": "Make macOS consistently bad (unironically)",
+        "url": "https://lr0.org/blog/p/macos/",
         "source": "hn",
-        "time": "3/27/2026, 6:13:57 PM"
+        "time": "3/27/2026, 7:15:19 PM"
       },
       {
-        "title": "Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot",
+        "title": "Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot",
         "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
         "source": "hn",
         "time": "3/27/2026, 1:49:51 PM"
       },
       {
-        "title": "Sand from Different Beaches in the World",
-        "url": "https://magnifiedsand.com/",
+        "title": "Vibe-Coded Ext4 for OpenBSD",
+        "url": "https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/",
         "source": "hn",
-        "time": "3/23/2026, 6:59:03 PM"
-      },
-      {
-        "title": "Desk for people who work at home with a cat",
-        "url": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
-        "source": "hn",
-        "time": "3/27/2026, 3:31:20 PM"
+        "time": "3/27/2026, 6:51:06 PM"
       }
     ],
     "world": [
@@ -83,7 +83,7 @@
         "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
         "url": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 27 Mar 2026 18:43:35 GMT"
+        "time": "Fri, 27 Mar 2026 19:21:19 GMT"
       },
       {
         "title": "No evidence of 'family voting' in Gorton and Denton by-election",
