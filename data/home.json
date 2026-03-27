@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-27T05:05:33.569Z",
-  "updated_local": "3/27/2026, 5:05:33 AM",
+  "updated_iso": "2026-03-27T05:45:57.534Z",
+  "updated_local": "3/27/2026, 5:45:57 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "What Rising US Bond Yields Mean for Bitcoin",
+        "url": "https://decrypt.co/362551/what-rising-us-bond-yields-mean-for-bitcoin",
+        "source": "crypto",
+        "time": "Fri, 27 Mar 2026 05:07:27 +0000"
+      },
       {
         "title": "Judge Blocks Pentagon From Branding Anthropic a National Security Threat",
         "url": "https://decrypt.co/362548/judge-blocks-pentagon-anthropic-national-security-threat",
@@ -26,17 +32,11 @@
         "url": "https://decrypt.co/362525/first-sora-now-sexy-chat-openai-cancels-erotic-chatgpt-mode",
         "source": "crypto",
         "time": "Thu, 26 Mar 2026 21:15:20 +0000"
-      },
-      {
-        "title": "Bitcoin, Ethereum Slip as Trump Says He&#39;s &#39;Not Desperate&#39; to End Iran War",
-        "url": "https://decrypt.co/362516/bitcoin-ethereum-slip-as-trump-says-hes-not-desperate-to-end-iran-war",
-        "source": "crypto",
-        "time": "Thu, 26 Mar 2026 20:41:25 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Schedule Claude Code tasks on the web",
+        "title": "Schedule tasks on the web",
         "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
         "source": "hn",
         "time": "3/27/2026, 4:47:15 AM"
@@ -48,16 +48,16 @@
         "time": "3/25/2026, 3:46:29 PM"
       },
       {
-        "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
-        "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
-        "source": "hn",
-        "time": "3/26/2026, 10:41:25 PM"
-      },
-      {
         "title": "Apple discontinues the Mac Pro",
         "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
         "source": "hn",
         "time": "3/26/2026, 9:04:50 PM"
+      },
+      {
+        "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+        "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+        "source": "hn",
+        "time": "3/26/2026, 10:41:25 PM"
       },
       {
         "title": "From 0% to 36% on Day 1 of ARC-AGI-3",
