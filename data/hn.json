@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-28T14:25:32.538Z"
+    "built_at": "2026-03-28T15:24:24.037Z"
   },
-  "items": [
-    {
-      "title": "You can't imitation-learn how to continual-learn",
-      "url": "https://www.lesswrong.com/posts/9rCTjbJpZB4KzqhiQ/you-can-t-imitation-learn-how-to-continual-learn",
-      "date": "2026-03-28T14:25:06.000Z"
-    },
-    {
-      "title": "Don Cheli – AI writes tests before seeing the code (TDD as iron law)",
-      "url": "https://github.com/doncheli/don-cheli-sdd",
-      "date": "2026-03-28T14:24:06.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
