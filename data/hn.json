@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-28T04:12:30.175Z"
+    "built_at": "2026-03-28T05:52:04.750Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "What happens when you clone mice for 20 years straight?",
+      "url": "https://denovo.substack.com/p/what-happens-when-you-clone-mice",
+      "date": "2026-03-28T05:47:21.000Z"
+    },
+    {
+      "title": "Atomic Rockets – Build your own spaceship",
+      "url": "https://projectrho.com/public_html/rocket/heatrad.php",
+      "date": "2026-03-28T05:43:51.000Z"
+    }
+  ]
 }
