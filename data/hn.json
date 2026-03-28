@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-28T07:39:55.676Z"
+    "built_at": "2026-03-28T08:30:16.479Z"
   },
-  "items": [
-    {
-      "title": "TUI for Vibe Coders",
-      "url": "https://github.com/hritupitu/vibetui/tree/main",
-      "date": "2026-03-28T07:28:43.000Z"
-    },
-    {
-      "title": "Reducing our monorepo size to improve developer velocity",
-      "url": "https://dropbox.tech/infrastructure/reducing-our-monorepo-size-to-improve-developer-velocity",
-      "date": "2026-03-28T07:27:59.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
