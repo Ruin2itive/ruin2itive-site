@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-28T01:23:55.654Z"
+    "built_at": "2026-03-28T04:12:30.175Z"
   },
-  "items": [
-    {
-      "title": "(12 Hours) How Does a Computer Work? [video]",
-      "url": "https://www.youtube.com/watch?v=rl0jkP9kOMw",
-      "date": "2026-03-28T01:19:24.000Z"
-    },
-    {
-      "title": "Godot-Rust v0.5 Release",
-      "url": "https://godot-rust.github.io/dev/march-2026-update/",
-      "date": "2026-03-28T01:16:53.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
