@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-28T08:30:16.479Z"
+    "built_at": "2026-03-28T09:29:17.141Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "I left YouTube two years ago. Time to come back [video]",
+      "url": "https://www.youtube.com/watch?v=Yz3lSKgz4q8",
+      "date": "2026-03-28T09:22:11.000Z"
+    },
+    {
+      "title": "Nicholas Carlini – Black-hat LLMs – [un]prompted 2026 [video]",
+      "url": "https://www.youtube.com/watch?v=1sd26pWhfmg",
+      "date": "2026-03-28T09:18:50.000Z"
+    }
+  ]
 }
