@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-29T19:30:55.455Z",
-  "updated_local": "3/29/2026, 7:30:55 PM",
+  "updated_iso": "2026-03-29T19:39:22.765Z",
+  "updated_local": "3/29/2026, 7:39:22 PM",
   "sections": {
     "crypto": [
       {
@@ -54,19 +54,25 @@
         "time": "3/28/2026, 4:52:45 PM"
       },
       {
+        "title": "Typing and Keyboards",
+        "url": "https://lzon.ca/posts/series/grateful/typing-and-keyboards/",
+        "source": "hn",
+        "time": "3/29/2026, 6:37:39 PM"
+      },
+      {
         "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
         "url": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/",
         "source": "hn",
         "time": "3/26/2026, 3:17:17 PM"
-      },
-      {
-        "title": "Neovim 0.12.0",
-        "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
-        "source": "hn",
-        "time": "3/29/2026, 5:39:55 PM"
       }
     ],
     "world": [
+      {
+        "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
+        "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 29 Mar 2026 00:02:46 GMT"
+      },
       {
         "title": "Counter-terror police join Derby car incident investigation",
         "url": "https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&amp;at_campaign=rss",
@@ -74,10 +80,10 @@
         "time": "Sun, 29 Mar 2026 18:53:34 GMT"
       },
       {
-        "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
-        "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Tudor leaves Spurs after just 44 days in charge",
+        "url": "https://www.bbc.com/sport/football/articles/cz0g57p8512o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 29 Mar 2026 00:02:46 GMT"
+        "time": "Sun, 29 Mar 2026 14:39:04 GMT"
       },
       {
         "title": "Councils pressed to use universal parking app to cut 'unfair' fines",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 29 Mar 2026 17:09:00 GMT"
-      },
-      {
-        "title": "Tudor leaves Spurs after just 44 days in charge",
-        "url": "https://www.bbc.com/sport/football/articles/cz0g57p8512o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 29 Mar 2026 14:39:04 GMT"
       }
     ],
     "projects": [
