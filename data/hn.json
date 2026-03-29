@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-29T01:46:37.751Z"
+    "built_at": "2026-03-29T04:31:33.146Z"
   },
-  "items": [
-    {
-      "title": "Turing Complete",
-      "url": "https://store.steampowered.com/app/1444480/Turing_Complete/",
-      "date": "2026-03-29T01:44:55.000Z"
-    },
-    {
-      "title": "Meet The 'Corporate Bro' Making Millions Satirizing Tech Sales",
-      "url": "https://www.wsj.com/business/media/meet-the-corporate-bro-making-millions-satirizing-tech-sales-dccaf132",
-      "date": "2026-03-29T01:44:05.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
