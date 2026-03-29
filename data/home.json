@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-29T17:39:50.771Z",
-  "updated_local": "3/29/2026, 5:39:50 PM",
+  "updated_iso": "2026-03-29T18:39:55.582Z",
+  "updated_local": "3/29/2026, 6:39:55 PM",
   "sections": {
     "crypto": [
       {
@@ -42,10 +42,16 @@
         "time": "3/29/2026, 4:12:22 PM"
       },
       {
-        "title": "Nitrile and latex gloves may cause overestimation of microplastics",
-        "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+        "title": "C++26 is done ISO C++ standards meeting, Trip Report",
+        "url": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
         "source": "hn",
-        "time": "3/29/2026, 9:46:58 AM"
+        "time": "3/29/2026, 5:46:12 PM"
+      },
+      {
+        "title": "Pretext: TypeScript library for multiline text measurement and layout",
+        "url": "https://github.com/chenglou/pretext",
+        "source": "hn",
+        "time": "3/28/2026, 4:52:45 PM"
       },
       {
         "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
@@ -54,16 +60,10 @@
         "time": "3/26/2026, 3:17:17 PM"
       },
       {
-        "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-        "url": "https://github.com/austin-weeks/miasma",
+        "title": "Neovim 0.12.0",
+        "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
         "source": "hn",
-        "time": "3/29/2026, 10:10:12 AM"
-      },
-      {
-        "title": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
-        "url": "https://github.com/DavidHavoc/ayaFlow",
-        "source": "hn",
-        "time": "3/29/2026, 3:28:27 PM"
+        "time": "3/29/2026, 5:39:55 PM"
       }
     ],
     "world": [
