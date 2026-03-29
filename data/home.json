@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-29T13:13:55.331Z",
-  "updated_local": "3/29/2026, 1:13:55 PM",
+  "updated_iso": "2026-03-29T13:52:25.970Z",
+  "updated_local": "3/29/2026, 1:52:25 PM",
   "sections": {
     "crypto": [
       {
@@ -48,12 +48,6 @@
         "time": "3/29/2026, 10:10:12 AM"
       },
       {
-        "title": "The Cloud: The dystopian book that changed Germany (2022)",
-        "url": "https://www.bbc.com/culture/article/20221101-the-cloud-the-nuclear-novel-that-shaped-germany",
-        "source": "hn",
-        "time": "3/29/2026, 12:24:56 PM"
-      },
-      {
         "title": "Founder of GitLab battles cancer by founding companies",
         "url": "https://sytse.com/cancer/",
         "source": "hn",
@@ -64,6 +58,12 @@
         "url": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
         "source": "hn",
         "time": "3/25/2026, 11:35:47 PM"
+      },
+      {
+        "title": "Show HN: Create a full language server in Go with 3.17 spec support",
+        "url": "https://github.com/owenrumney/go-lsp",
+        "source": "hn",
+        "time": "3/24/2026, 9:56:07 PM"
       }
     ],
     "world": [
