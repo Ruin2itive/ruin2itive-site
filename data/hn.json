@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-29T07:48:15.368Z"
+    "built_at": "2026-03-29T08:31:50.355Z"
   },
-  "items": [
-    {
-      "title": "Ask HN: Non-AI, engineering blogs? 2026",
-      "url": "https://news.ycombinator.com/item?id=47561150",
-      "date": "2026-03-29T07:43:27.000Z"
-    },
-    {
-      "title": "I built an agent orchestrator within tmux",
-      "url": "https://twitter.com/Palanikannan_M/status/2038155724317208753",
-      "date": "2026-03-29T07:42:49.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
