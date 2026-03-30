@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-30T19:50:47.624Z"
+    "built_at": "2026-03-30T20:37:06.823Z"
   },
-  "items": [
-    {
-      "title": "Broadly stable atmospheric CO2 and CH4 levels over the past 3M years",
-      "url": "https://www.nature.com/articles/s41586-025-10032-y",
-      "date": "2026-03-30T19:50:06.000Z"
-    },
-    {
-      "title": "Wikipedia, AI, maps, and education tools running on your own hardware",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "date": "2026-03-30T19:49:32.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
