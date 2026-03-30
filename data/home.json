@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-29T23:41:14.370Z",
-  "updated_local": "3/29/2026, 11:41:14 PM",
+  "updated_iso": "2026-03-30T02:22:49.609Z",
+  "updated_local": "3/30/2026, 2:22:49 AM",
   "sections": {
     "crypto": [
       {
@@ -36,24 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "ChatGPT Won't Let You Type Until Cloudflare Reads Your React State",
-        "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-        "source": "hn",
-        "time": "3/29/2026, 8:21:05 PM"
-      },
-      {
-        "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
-        "url": "https://github.com/anthropics/claude-code/issues/40710",
-        "source": "hn",
-        "time": "3/29/2026, 10:15:06 PM"
-      },
-      {
-        "title": "Coding Agents Could Make Free Software Matter Again",
-        "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
-        "source": "hn",
-        "time": "3/29/2026, 10:21:34 PM"
-      },
-      {
         "title": "The Cognitive Dark Forest",
         "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
         "source": "hn",
@@ -64,26 +46,44 @@
         "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
         "source": "hn",
         "time": "3/29/2026, 4:12:22 PM"
+      },
+      {
+        "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+        "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+        "source": "hn",
+        "time": "3/29/2026, 8:21:05 PM"
+      },
+      {
+        "title": "15 Years of Forking",
+        "url": "https://www.waterfox.com/blog/15-years-of-forking/",
+        "source": "hn",
+        "time": "3/27/2026, 5:22:11 PM"
+      },
+      {
+        "title": "Philly courts will ban all smart eyeglasses starting next week",
+        "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
+        "source": "hn",
+        "time": "3/30/2026, 1:38:17 AM"
       }
     ],
     "world": [
       {
-        "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
-        "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Oil rises above $115 and Asia stocks slide as Iran war escalates",
+        "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 29 Mar 2026 00:02:46 GMT"
-      },
-      {
-        "title": "Counter-terror police join Derby car incident investigation",
-        "url": "https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 29 Mar 2026 21:22:13 GMT"
+        "time": "Mon, 30 Mar 2026 01:45:22 GMT"
       },
       {
         "title": "Compensation details for millions of drivers set to be revealed",
         "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 29 Mar 2026 23:04:10 GMT"
+      },
+      {
+        "title": "Counter-terror police join Derby car incident investigation",
+        "url": "https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 29 Mar 2026 21:22:13 GMT"
       },
       {
         "title": "Councils pressed to use universal parking app to cut 'unfair' fines",
@@ -95,7 +95,7 @@
         "title": "Australian fugitive shot dead by police after seven months on the run",
         "url": "https://www.bbc.com/news/articles/c93e4gxn22wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 29 Mar 2026 23:31:10 GMT"
+        "time": "Mon, 30 Mar 2026 02:01:39 GMT"
       }
     ],
     "projects": [
