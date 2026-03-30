@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-30T20:37:06.823Z"
+    "built_at": "2026-03-30T21:35:11.749Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "US Army paratroopers arrive in Middle East as buildup intensifies",
+      "url": "http://reuters.com/world/middle-east/thousands-us-army-paratroopers-arrive-middle-east-buildup-intensifies-2026-03-30/",
+      "date": "2026-03-30T21:33:19.000Z"
+    },
+    {
+      "title": "Mathematical methods and human thought in the age of AI",
+      "url": "https://terrytao.wordpress.com/2026/03/29/mathematical-methods-and-human-thought-in-the-age-of-ai/",
+      "date": "2026-03-30T21:32:57.000Z"
+    }
+  ]
 }
