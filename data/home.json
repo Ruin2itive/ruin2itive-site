@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-30T16:04:28.231Z",
-  "updated_local": "3/30/2026, 4:04:28 PM",
+  "updated_iso": "2026-03-30T17:06:15.759Z",
+  "updated_local": "3/30/2026, 5:06:15 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Trump Brothers&#39; American Bitcoin Hits BTC Milestone as Stock Falls to Lowest Price Since IPO",
+        "url": "https://decrypt.co/362712/trump-bros-american-bitcoin-milestone-stock-falls-lowest-price-ipo",
+        "source": "crypto",
+        "time": "Mon, 30 Mar 2026 16:52:43 +0000"
+      },
+      {
+        "title": "Ethereum Foundation Backs &#39;Economic Zone&#39; to Solve Fragmentation Issues",
+        "url": "https://decrypt.co/362711/ethereum-economic-zone-solve-layer-2-fragmentation",
+        "source": "crypto",
+        "time": "Mon, 30 Mar 2026 16:44:14 +0000"
+      },
       {
         "title": "Tom Lee&#39;s BitMine Adds More Ethereum as Strategy Takes a Break From Bitcoin Buying",
         "url": "https://decrypt.co/362702/tom-lee-bitmine-adds-ethereum-strategy-takes-break-bitcoin-buying",
@@ -20,23 +32,11 @@
         "url": "https://decrypt.co/362696/bitcoin-etfs-bleed-290m-as-risk-off-mood-deepens",
         "source": "crypto",
         "time": "Mon, 30 Mar 2026 05:40:46 +0000"
-      },
-      {
-        "title": "Three Reasons Why Circle’s Stock Is Under Pressure",
-        "url": "https://decrypt.co/362694/three-reasons-why-circles-stock-is-under-pressure",
-        "source": "crypto",
-        "time": "Mon, 30 Mar 2026 04:20:35 +0000"
-      },
-      {
-        "title": "What’s on the Ethereum Roadmap: Glamsterdam, Hegota and Beyond",
-        "url": "https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond",
-        "source": "crypto",
-        "time": "Sun, 29 Mar 2026 16:01:04 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "How to Turn Anything into a Router",
+        "title": "How to turn anything into a router",
         "url": "https://nbailey.ca/post/router/",
         "source": "hn",
         "time": "3/30/2026, 1:28:54 PM"
@@ -48,16 +48,16 @@
         "time": "3/30/2026, 1:14:27 PM"
       },
       {
-        "title": "72% of the dollar's purchasing power was destroyed in just four episodes",
-        "url": "https://eco3min.fr/en/us-inflation-is-not-linear/",
-        "source": "hn",
-        "time": "3/30/2026, 2:49:58 PM"
-      },
-      {
         "title": "CodingFont: A game to help you pick a coding font",
         "url": "https://www.codingfont.com/",
         "source": "hn",
         "time": "3/30/2026, 3:16:35 PM"
+      },
+      {
+        "title": "Bitwarden Integrates with OneCLI Agent Vault",
+        "url": "https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli",
+        "source": "hn",
+        "time": "3/30/2026, 3:59:01 PM"
       },
       {
         "title": "\"Over 1.5 million GitHub PRs have had ads injected into them by Copilot\"",
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.com/news/articles/ckge1yn50y8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 30 Mar 2026 13:48:04 GMT"
+      },
+      {
+        "title": "Mills' abrupt sacking creates another headache for the BBC",
+        "url": "https://www.bbc.com/news/articles/clyr1z4kre0o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 30 Mar 2026 16:41:48 GMT"
       },
       {
         "title": "What was the 1970s oil crisis, and are we heading for something worse?",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cy81eryy125o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 30 Mar 2026 13:31:52 GMT"
-      },
-      {
-        "title": "Why is Nasa going back to the Moon?",
-        "url": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 29 Mar 2026 23:50:21 GMT"
       }
     ],
     "projects": [
