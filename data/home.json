@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-30T11:00:11.795Z",
-  "updated_local": "3/30/2026, 11:00:11 AM",
+  "updated_iso": "2026-03-30T11:59:57.453Z",
+  "updated_local": "3/30/2026, 11:59:57 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Ghostmoon.app – The Swiss Army Knife for your macOS menu bar",
+        "url": "https://www.mgrunwald.com/ghostmoon/",
+        "source": "hn",
+        "time": "3/30/2026, 11:25:50 AM"
+      },
+      {
         "title": "The curious case of retro demo scene graphics",
         "url": "https://www.datagubbe.se/aipixels/",
         "source": "hn",
         "time": "3/30/2026, 5:27:18 AM"
       },
       {
-        "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-        "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+        "title": "MCP is great, you're just using it wrong",
+        "url": "https://techstackups.com/comparisons/mcp-is-solving-the-wrong-problem/",
         "source": "hn",
-        "time": "3/29/2026, 8:21:05 PM"
+        "time": "3/30/2026, 10:37:02 AM"
       },
       {
         "title": "I use excalidraw to manage my diagrams for my blog",
@@ -54,16 +60,10 @@
         "time": "3/30/2026, 7:17:06 AM"
       },
       {
-        "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-        "url": "https://dani2442.github.io/posts/continuous-rl/",
+        "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+        "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
         "source": "hn",
-        "time": "3/30/2026, 7:34:04 AM"
-      },
-      {
-        "title": "VHDL's Crown Jewel",
-        "url": "https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/",
-        "source": "hn",
-        "time": "3/30/2026, 4:39:15 AM"
+        "time": "3/29/2026, 8:21:05 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Scott Mills sacked from BBC Radio 2 over 'personal conduct'",
         "url": "https://www.bbc.com/news/articles/ckge1yn50y8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 30 Mar 2026 10:59:17 GMT"
+        "time": "Mon, 30 Mar 2026 11:21:37 GMT"
       },
       {
         "title": "Car finance compensation details to be revealed with average payout of £700 expected",
@@ -92,7 +92,7 @@
         "time": "Mon, 30 Mar 2026 07:07:15 GMT"
       },
       {
-        "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
+        "title": "Why is Nasa going back to the Moon?",
         "url": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 29 Mar 2026 23:50:21 GMT"
