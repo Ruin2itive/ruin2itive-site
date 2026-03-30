@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-30T16:03:48.926Z"
+    "built_at": "2026-03-30T17:45:37.513Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Modalyze – Modal Manager for React",
+      "url": "https://github.com/kaundur/modalyze",
+      "date": "2026-03-30T17:44:16.000Z"
+    },
+    {
+      "title": "Show HN: Appsec.fi – Interactive AppSec training matched to your stack",
+      "url": "https://appsec.fi/en",
+      "date": "2026-03-30T17:44:13.000Z"
+    }
+  ]
 }
