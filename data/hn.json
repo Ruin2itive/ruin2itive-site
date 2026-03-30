@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-30T13:00:13.815Z"
+    "built_at": "2026-03-30T14:56:53.714Z"
   },
-  "error": "fetch failed",
-  "items": []
+  "items": [
+    {
+      "title": "50 Years of Thinking Different",
+      "url": "https://www.apple.com/50-years-of-thinking-different/",
+      "date": "2026-03-30T14:54:23.000Z"
+    },
+    {
+      "title": "Zero Ambient Authority: The Principle That Should Govern Every AI Agent",
+      "url": "https://grith.ai/blog/zero-ambient-authority-ai-agents",
+      "date": "2026-03-30T14:54:02.000Z"
+    }
+  ]
 }
