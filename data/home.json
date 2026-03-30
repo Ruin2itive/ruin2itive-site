@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-30T05:22:42.203Z",
-  "updated_local": "3/30/2026, 5:22:42 AM",
+  "updated_iso": "2026-03-30T06:03:50.937Z",
+  "updated_local": "3/30/2026, 6:03:50 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin ETFs Bleed $290M as ‘Risk-Off’ Mood Deepens",
+        "url": "https://decrypt.co/362696/bitcoin-etfs-bleed-290m-as-risk-off-mood-deepens",
+        "source": "crypto",
+        "time": "Mon, 30 Mar 2026 05:40:46 +0000"
+      },
       {
         "title": "Three Reasons Why Circle’s Stock Is Under Pressure",
         "url": "https://decrypt.co/362694/three-reasons-why-circles-stock-is-under-pressure",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/362632/why-gamestop-bitcoin-covered-call-strategy",
         "source": "crypto",
         "time": "Sat, 28 Mar 2026 16:32:04 +0000"
-      },
-      {
-        "title": "Anthropic&#39;s &#39;Most Capable&#39; AI Model Claude Mythos Leaks, Deemed Major Cybersecurity Threat",
-        "url": "https://decrypt.co/362606/anthropic-most-capable-ai-model-claude-mythos-leaks",
-        "source": "crypto",
-        "time": "Fri, 27 Mar 2026 18:27:12 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Copilot Edited an Ad into My PR",
+        "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+        "source": "hn",
+        "time": "3/30/2026, 4:04:31 AM"
+      },
+      {
+        "title": "HD Audio Driver for Windows 98SE / Me",
+        "url": "https://github.com/andrew-hoffman/wdmhda",
+        "source": "hn",
+        "time": "3/30/2026, 5:01:07 AM"
+      },
       {
         "title": "ChatGPT won't let you type until Cloudflare reads your React state",
         "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
@@ -42,36 +54,24 @@
         "time": "3/29/2026, 8:21:05 PM"
       },
       {
+        "title": "VHDL's Crown Jewel",
+        "url": "https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/",
+        "source": "hn",
+        "time": "3/30/2026, 4:39:15 AM"
+      },
+      {
         "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
         "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
         "source": "hn",
         "time": "3/29/2026, 4:12:22 PM"
-      },
-      {
-        "title": "Philly courts will ban all smart eyeglasses starting next week",
-        "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
-        "source": "hn",
-        "time": "3/30/2026, 1:38:17 AM"
-      },
-      {
-        "title": "15 Years of Forking",
-        "url": "https://www.waterfox.com/blog/15-years-of-forking/",
-        "source": "hn",
-        "time": "3/27/2026, 5:22:11 PM"
-      },
-      {
-        "title": "Copilot Edited an Ad into My PR",
-        "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
-        "source": "hn",
-        "time": "3/30/2026, 4:04:31 AM"
       }
     ],
     "world": [
       {
-        "title": "Oil rises above $115 and Asia shares slide as Iran war enters fifth week",
-        "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Compensation details for millions of drivers set to be revealed",
+        "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 30 Mar 2026 03:34:37 GMT"
+        "time": "Sun, 29 Mar 2026 23:04:10 GMT"
       },
       {
         "title": "'I dread the phone ringing': Inside the kennels responding to vicious XL bully attacks",
@@ -80,22 +80,22 @@
         "time": "Mon, 30 Mar 2026 05:00:09 GMT"
       },
       {
-        "title": "Compensation details for millions of drivers set to be revealed",
-        "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 29 Mar 2026 23:04:10 GMT"
-      },
-      {
         "title": "Australian fugitive shot dead by police after seven months on the run",
         "url": "https://www.bbc.com/news/articles/c93e4gxn22wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 30 Mar 2026 02:01:39 GMT"
+        "time": "Mon, 30 Mar 2026 06:01:59 GMT"
       },
       {
-        "title": "Counter-terror police join Derby car incident investigation",
+        "title": "Counter-terror team join investigation after pedestrians hit by car in Derby",
         "url": "https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 29 Mar 2026 21:22:13 GMT"
+      },
+      {
+        "title": "Seven years since Emiliano Sala's death, what has changed for the 'wild west' of football transfers?",
+        "url": "https://www.bbc.com/news/articles/c93eqg9wnx0o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 30 Mar 2026 05:14:27 GMT"
       }
     ],
     "projects": [
