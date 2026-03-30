@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-30T03:31:25.550Z",
-  "updated_local": "3/30/2026, 3:31:25 AM",
+  "updated_iso": "2026-03-30T05:22:42.203Z",
+  "updated_local": "3/30/2026, 5:22:42 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Three Reasons Why Circle’s Stock Is Under Pressure",
+        "url": "https://decrypt.co/362694/three-reasons-why-circles-stock-is-under-pressure",
+        "source": "crypto",
+        "time": "Mon, 30 Mar 2026 04:20:35 +0000"
+      },
       {
         "title": "What’s on the Ethereum Roadmap: Glamsterdam, Hegota and Beyond",
         "url": "https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond",
@@ -26,32 +32,14 @@
         "url": "https://decrypt.co/362606/anthropic-most-capable-ai-model-claude-mythos-leaks",
         "source": "crypto",
         "time": "Fri, 27 Mar 2026 18:27:12 +0000"
-      },
-      {
-        "title": "NYSE Parent Company Finalizes Polymarket Investment, Totaling $1.6 Billion",
-        "url": "https://decrypt.co/362596/nyse-parent-company-finalizes-polymarket-investment-1-6-billion",
-        "source": "crypto",
-        "time": "Fri, 27 Mar 2026 17:38:11 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays",
-        "url": "https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/",
+        "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+        "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
         "source": "hn",
-        "time": "3/30/2026, 1:43:20 AM"
-      },
-      {
-        "title": "The Cognitive Dark Forest",
-        "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
-        "source": "hn",
-        "time": "3/29/2026, 7:36:21 PM"
-      },
-      {
-        "title": "Philly courts will ban all smart eyeglasses starting next week",
-        "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
-        "source": "hn",
-        "time": "3/30/2026, 1:38:17 AM"
+        "time": "3/29/2026, 8:21:05 PM"
       },
       {
         "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
@@ -60,18 +48,36 @@
         "time": "3/29/2026, 4:12:22 PM"
       },
       {
-        "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-        "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+        "title": "Philly courts will ban all smart eyeglasses starting next week",
+        "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
         "source": "hn",
-        "time": "3/29/2026, 8:21:05 PM"
+        "time": "3/30/2026, 1:38:17 AM"
+      },
+      {
+        "title": "15 Years of Forking",
+        "url": "https://www.waterfox.com/blog/15-years-of-forking/",
+        "source": "hn",
+        "time": "3/27/2026, 5:22:11 PM"
+      },
+      {
+        "title": "Copilot Edited an Ad into My PR",
+        "url": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
+        "source": "hn",
+        "time": "3/30/2026, 4:04:31 AM"
       }
     ],
     "world": [
       {
-        "title": "Oil rises above $115 and Asia shares slide as Iran war escalates",
+        "title": "Oil rises above $115 and Asia shares slide as Iran war enters fifth week",
         "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 30 Mar 2026 01:45:22 GMT"
+        "time": "Mon, 30 Mar 2026 03:34:37 GMT"
+      },
+      {
+        "title": "'I dread the phone ringing': Inside the kennels responding to vicious XL bully attacks",
+        "url": "https://www.bbc.com/news/articles/cewzw812dd1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 30 Mar 2026 05:00:09 GMT"
       },
       {
         "title": "Compensation details for millions of drivers set to be revealed",
@@ -80,22 +86,16 @@
         "time": "Sun, 29 Mar 2026 23:04:10 GMT"
       },
       {
-        "title": "Counter-terror police join Derby car incident investigation",
-        "url": "https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 29 Mar 2026 21:22:13 GMT"
-      },
-      {
-        "title": "Councils pressed to use universal parking app to cut 'unfair' fines",
-        "url": "https://www.bbc.com/news/articles/cvgep3ryp9po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 29 Mar 2026 19:02:35 GMT"
-      },
-      {
         "title": "Australian fugitive shot dead by police after seven months on the run",
         "url": "https://www.bbc.com/news/articles/c93e4gxn22wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 30 Mar 2026 02:01:39 GMT"
+      },
+      {
+        "title": "Counter-terror police join Derby car incident investigation",
+        "url": "https://www.bbc.com/news/articles/cn78v1yg7p1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 29 Mar 2026 21:22:13 GMT"
       }
     ],
     "projects": [
