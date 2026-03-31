@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-31T20:35:44.811Z"
+    "built_at": "2026-03-31T21:31:42.358Z"
   },
-  "items": [
-    {
-      "title": "Open Swarm, open source platform for running AI agents in parallel",
-      "url": "https://github.com/openswarm-ai/openswarm",
-      "date": "2026-03-31T20:33:36.000Z"
-    },
-    {
-      "title": "A personal knowledge graph builder, applied to Bible study",
-      "url": "https://www.bibletrace.com",
-      "date": "2026-03-31T20:32:57.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
