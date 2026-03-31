@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-03-31T19:57:42.219Z",
-  "updated_local": "3/31/2026, 7:57:42 PM",
+  "updated_iso": "2026-03-31T20:49:49.378Z",
+  "updated_local": "3/31/2026, 8:49:49 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "California Tightens AI Contract Rules as Fight With Trump Admin Grows",
+        "url": "https://decrypt.co/362968/california-tightens-ai-contract-rules-fight-trump-admin",
+        "source": "crypto",
+        "time": "Tue, 31 Mar 2026 20:18:45 +0000"
+      },
+      {
+        "title": "Latin America’s Mercado Libre Pulls the Plug on Its Crypto Coin",
+        "url": "https://decrypt.co/362958/latin-america-mercado-libre-pulls-plug-crypto-coin",
+        "source": "crypto",
+        "time": "Tue, 31 Mar 2026 20:12:38 +0000"
+      },
+      {
+        "title": "Zcash Vulnerability That Put Millions of Dollars of ZEC at Risk Has Been Fixed",
+        "url": "https://decrypt.co/362957/zcash-devs-patch-vulnerability-millions-dollars-zec-risk",
+        "source": "crypto",
+        "time": "Tue, 31 Mar 2026 20:03:13 +0000"
+      },
       {
         "title": "Bitcoin, Crypto Stocks Climb on Reports That Iran&#39;s President Is &#39;Ready to End War&#39;",
         "url": "https://decrypt.co/362913/bitcon-crypto-stocks-climb-reports-iranian-president-end-war",
@@ -14,24 +32,6 @@
         "url": "https://decrypt.co/362941/tethers-usat-stablecoin-expands-ethereum-mainnet-celo",
         "source": "crypto",
         "time": "Tue, 31 Mar 2026 18:35:41 +0000"
-      },
-      {
-        "title": "Anthropic Accidentally Leaked Claude Code&#39;s Source—The Internet Is Keeping It Forever",
-        "url": "https://decrypt.co/362917/anthropic-accidentally-leaked-claude-code-source-internet-keeping-forever",
-        "source": "crypto",
-        "time": "Tue, 31 Mar 2026 18:02:56 +0000"
-      },
-      {
-        "title": "Stablecoin Market to Hit $2 Trillion in 2028 Even as Velocity Doubles: Standard Chartered",
-        "url": "https://decrypt.co/362882/stablecoin-market-2-trillion-2028-velocity-doubles-standard-chartered",
-        "source": "crypto",
-        "time": "Tue, 31 Mar 2026 17:41:59 +0000"
-      },
-      {
-        "title": "&#39;Massive Disruptive Potential&#39;: Benchmark Initiates Securitize Coverage With Buy Rating",
-        "url": "https://decrypt.co/362904/massive-disruptive-potential-benchmark-securitize-coverage-buy-rating",
-        "source": "crypto",
-        "time": "Tue, 31 Mar 2026 16:31:42 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "3/31/2026, 9:00:40 AM"
       },
       {
+        "title": "Accelerating the Next Phase of AI",
+        "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+        "source": "hn",
+        "time": "3/31/2026, 8:07:30 PM"
+      },
+      {
         "title": "Cohere Transcribe: Speech Recognition",
         "url": "https://cohere.com/blog/transcribe",
         "source": "hn",
         "time": "3/31/2026, 4:27:02 PM"
-      },
-      {
-        "title": "Slop is not necessarily the future",
-        "url": "https://www.greptile.com/blog/ai-slopware-future",
-        "source": "hn",
-        "time": "3/31/2026, 2:32:26 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "More UK troops to be sent to Middle East, defence secretary announces",
         "url": "https://www.bbc.com/news/articles/c7vq76g45rvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 31 Mar 2026 16:17:08 GMT"
+        "time": "Tue, 31 Mar 2026 20:25:20 GMT"
       },
       {
         "title": "Teenage boy at centre of Scott Mills sexual offences investigation was under 16, police say",
@@ -80,10 +80,10 @@
         "time": "Tue, 31 Mar 2026 19:56:59 GMT"
       },
       {
-        "title": "Diplomatic challenges facing King on US visit",
-        "url": "https://www.bbc.com/news/articles/c3w3dpgjzj8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Prince Harry's latest feud with the press is over (for now). Here are seven key takeaways",
+        "url": "https://www.bbc.com/news/articles/cde5dk2d9j8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 31 Mar 2026 18:08:52 GMT"
+        "time": "Tue, 31 Mar 2026 18:13:13 GMT"
       },
       {
         "title": "British billionaire to donate £190m to Cambridge University",
@@ -92,10 +92,10 @@
         "time": "Tue, 31 Mar 2026 17:36:45 GMT"
       },
       {
-        "title": "Amateur rapper whose XL bully killed his mother-in-law jailed for 10 years",
-        "url": "https://www.bbc.com/news/articles/c4gx2lv8888o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK and France extend talks over new small boats deal",
+        "url": "https://www.bbc.com/news/articles/c3exveglpe3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 31 Mar 2026 16:53:26 GMT"
+        "time": "Tue, 31 Mar 2026 20:45:08 GMT"
       }
     ],
     "projects": [
