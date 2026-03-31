@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-31T20:52:22.858Z",
-  "updated_local": "3/31/2026, 8:52:22 PM",
+  "updated_iso": "2026-03-31T21:37:34.827Z",
+  "updated_local": "3/31/2026, 9:37:34 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Crypto Startup Uses Polymarket to Bet on Its Own Fundraise, Blindsiding Backers",
+        "url": "https://decrypt.co/362977/crypto-startup-polymarket-bet-fundraise-blindsiding-backers",
+        "source": "crypto",
+        "time": "Tue, 31 Mar 2026 21:07:24 +0000"
+      },
+      {
+        "title": "If You Hold Solana on Magic Eden&#39;s Wallet, It&#39;s Time to Move It or Lose It",
+        "url": "https://decrypt.co/362979/if-you-hold-solana-magic-eden-wallet-time-to-move",
+        "source": "crypto",
+        "time": "Tue, 31 Mar 2026 21:06:15 +0000"
+      },
       {
         "title": "California Tightens AI Contract Rules as Fight With Trump Admin Grows",
         "url": "https://decrypt.co/362968/california-tightens-ai-contract-rules-fight-trump-admin",
@@ -20,26 +32,14 @@
         "url": "https://decrypt.co/362957/zcash-devs-patch-vulnerability-millions-dollars-zec-risk",
         "source": "crypto",
         "time": "Tue, 31 Mar 2026 20:03:13 +0000"
-      },
-      {
-        "title": "Bitcoin, Crypto Stocks Climb on Reports That Iran&#39;s President Is &#39;Ready to End War&#39;",
-        "url": "https://decrypt.co/362913/bitcon-crypto-stocks-climb-reports-iranian-president-end-war",
-        "source": "crypto",
-        "time": "Tue, 31 Mar 2026 19:08:05 +0000"
-      },
-      {
-        "title": "Tether&#39;s USAT Stablecoin Expands Beyond Ethereum Mainnet to Celo",
-        "url": "https://decrypt.co/362941/tethers-usat-stablecoin-expands-ethereum-mainnet-celo",
-        "source": "crypto",
-        "time": "Tue, 31 Mar 2026 18:35:41 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "GitHub's Historic Uptime",
-        "url": "https://damrnelson.github.io/github-historical-uptime/",
+        "title": "OpenAI raises $122B",
+        "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
         "source": "hn",
-        "time": "3/31/2026, 7:01:29 PM"
+        "time": "3/31/2026, 8:07:30 PM"
       },
       {
         "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
@@ -48,22 +48,22 @@
         "time": "3/31/2026, 1:04:30 PM"
       },
       {
-        "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-        "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+        "title": "GitHub's Historic Uptime",
+        "url": "https://damrnelson.github.io/github-historical-uptime/",
         "source": "hn",
-        "time": "3/31/2026, 9:00:40 AM"
+        "time": "3/31/2026, 7:01:29 PM"
+      },
+      {
+        "title": "Ministack (Replacement for LocalStack)",
+        "url": "https://ministack.org/",
+        "source": "hn",
+        "time": "3/31/2026, 8:48:15 PM"
       },
       {
         "title": "Cohere Transcribe: Speech Recognition",
         "url": "https://cohere.com/blog/transcribe",
         "source": "hn",
         "time": "3/31/2026, 4:27:02 PM"
-      },
-      {
-        "title": "Slop is not necessarily the future",
-        "url": "https://www.greptile.com/blog/ai-slopware-future",
-        "source": "hn",
-        "time": "3/31/2026, 2:32:26 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Tue, 31 Mar 2026 19:56:59 GMT"
       },
       {
+        "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
+        "url": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 31 Mar 2026 21:08:35 GMT"
+      },
+      {
         "title": "Prince Harry's latest feud with the press is over (for now). Here are seven key takeaways",
         "url": "https://www.bbc.com/news/articles/cde5dk2d9j8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 31 Mar 2026 18:13:13 GMT"
       },
       {
-        "title": "British billionaire to donate £190m to Cambridge University",
-        "url": "https://www.bbc.com/news/articles/c5y8gdwqklxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 31 Mar 2026 17:36:45 GMT"
-      },
-      {
         "title": "UK and France extend talks over new small boats deal",
         "url": "https://www.bbc.com/news/articles/c3exveglpe3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 31 Mar 2026 20:45:08 GMT"
+        "time": "Tue, 31 Mar 2026 21:25:21 GMT"
       }
     ],
     "projects": [
