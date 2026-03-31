@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-31T14:27:05.036Z"
+    "built_at": "2026-03-31T16:00:33.872Z"
   },
-  "items": [
-    {
-      "title": "Google C++ Style Guide",
-      "url": "https://google.github.io/styleguide/cppguide.html",
-      "date": "2026-03-31T14:25:59.000Z"
-    },
-    {
-      "title": "Microsoft: Copilot is for entertainment purposes only",
-      "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
-      "date": "2026-03-31T14:25:37.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
