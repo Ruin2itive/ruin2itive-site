@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-31T09:57:38.998Z"
+    "built_at": "2026-03-31T10:51:44.659Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Introducing Kern: AI agents built for coworking",
+      "url": "https://kern-ai.com/blog/introducing-kern",
+      "date": "2026-03-31T10:40:04.000Z"
+    },
+    {
+      "title": "Are there enough EV chargers near you?",
+      "url": "https://www.evcourse.com/chargers",
+      "date": "2026-03-31T10:37:31.000Z"
+    }
+  ]
 }
