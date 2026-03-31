@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-31T05:07:43.177Z",
-  "updated_local": "3/31/2026, 5:07:43 AM",
+  "updated_iso": "2026-03-31T05:48:01.676Z",
+  "updated_local": "3/31/2026, 5:48:01 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "New US Rule Seeks to Open $8T Retirement Market to Crypto",
+        "url": "https://decrypt.co/362838/new-us-rule-open-8t-retirement-market-crypto",
+        "source": "crypto",
+        "time": "Tue, 31 Mar 2026 05:46:15 +0000"
+      },
       {
         "title": "US Charges Hacker Behind $53 Million Uranium Finance Exploit",
         "url": "https://decrypt.co/362836/us-charges-hacker-53-million-uranium-finance-exploit",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/362802/senators-reveal-mined-america-bill-boost-bitcoin-mining-trump-reserve",
         "source": "crypto",
         "time": "Mon, 30 Mar 2026 21:15:17 +0000"
-      },
-      {
-        "title": "Chainlink Labs, Anchorage Digital Back New Crypto Super PAC Ahead of Midterms",
-        "url": "https://decrypt.co/362795/chainlink-labs-anchorage-digital-back-crypto-super-pac-midterms",
-        "source": "crypto",
-        "time": "Mon, 30 Mar 2026 21:01:13 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "3/31/2026, 2:54:17 AM"
       },
       {
-        "title": "Universal Claude.md – cut Claude output tokens",
-        "url": "https://github.com/drona23/claude-token-efficient",
-        "source": "hn",
-        "time": "3/31/2026, 1:23:34 AM"
-      },
-      {
         "title": "Ollama is now powered by MLX on Apple Silicon in preview",
         "url": "https://ollama.com/blog/mlx",
         "source": "hn",
         "time": "3/31/2026, 3:40:45 AM"
+      },
+      {
+        "title": "Universal Claude.md – cut Claude output tokens",
+        "url": "https://github.com/drona23/claude-token-efficient",
+        "source": "hn",
+        "time": "3/31/2026, 1:23:34 AM"
       },
       {
         "title": "Artemis II is not safe to fly",
@@ -60,10 +60,10 @@
         "time": "3/31/2026, 2:23:50 AM"
       },
       {
-        "title": "Semantic – Reducing LLM \"Agent Loops\" by 27.78% via AST Logic Graphs",
-        "url": "https://github.com/concensure/Semantic",
+        "title": "Google's 200M-parameter time-series foundation model with 16k context",
+        "url": "https://github.com/google-research/timesfm",
         "source": "hn",
-        "time": "3/31/2026, 3:50:07 AM"
+        "time": "3/31/2026, 5:21:59 AM"
       }
     ],
     "world": [
