@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-31T21:31:42.358Z"
+    "built_at": "2026-03-31T22:27:35.187Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Atlassian's Pragmatic Drag and Drop",
+      "url": "https://github.com/atlassian/pragmatic-drag-and-drop",
+      "date": "2026-03-31T22:18:02.000Z"
+    },
+    {
+      "title": "More than half of the U.S. says AI is likely to harm them",
+      "url": "https://www.latimes.com/business/story/2026-03-31/more-than-half-of-u-s-says-ai-is-likely-to-harm-them",
+      "date": "2026-03-31T22:17:14.000Z"
+    }
+  ]
 }
