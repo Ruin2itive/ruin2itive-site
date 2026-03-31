@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-31T03:21:10.765Z",
-  "updated_local": "3/31/2026, 3:21:10 AM",
+  "updated_iso": "2026-03-31T05:07:43.177Z",
+  "updated_local": "3/31/2026, 5:07:43 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "US Charges Hacker Behind $53 Million Uranium Finance Exploit",
+        "url": "https://decrypt.co/362836/us-charges-hacker-53-million-uranium-finance-exploit",
+        "source": "crypto",
+        "time": "Tue, 31 Mar 2026 05:04:06 +0000"
+      },
       {
         "title": "Senator Questions SEC Over Treatment of Trump-Linked Crypto Businesses",
         "url": "https://decrypt.co/362821/senator-questions-sec-treatment-trump-linked-crypto",
@@ -26,44 +32,38 @@
         "url": "https://decrypt.co/362795/chainlink-labs-anchorage-digital-back-crypto-super-pac-midterms",
         "source": "crypto",
         "time": "Mon, 30 Mar 2026 21:01:13 +0000"
-      },
-      {
-        "title": "Bitcoin Flashes &#39;Warning Sign&#39; With Nearly Half of BTC Supply Sitting at a Loss: Report",
-        "url": "https://decrypt.co/362797/bitcoin-warning-sign-nearly-half-btc-supply-sitting-loss",
-        "source": "crypto",
-        "time": "Mon, 30 Mar 2026 20:19:59 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Universal Claude.md – cut Claude output tokens by 63%",
+        "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
+        "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+        "source": "hn",
+        "time": "3/31/2026, 2:54:17 AM"
+      },
+      {
+        "title": "Universal Claude.md – cut Claude output tokens",
         "url": "https://github.com/drona23/claude-token-efficient",
         "source": "hn",
         "time": "3/31/2026, 1:23:34 AM"
       },
       {
-        "title": "Fedware: Government apps that spy harder than the apps they ban",
-        "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+        "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+        "url": "https://ollama.com/blog/mlx",
         "source": "hn",
-        "time": "3/30/2026, 6:16:00 PM"
+        "time": "3/31/2026, 3:40:45 AM"
       },
       {
-        "title": "Android Developer Verification",
-        "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+        "title": "Artemis II is not safe to fly",
+        "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
         "source": "hn",
-        "time": "3/30/2026, 10:05:21 PM"
+        "time": "3/31/2026, 2:23:50 AM"
       },
       {
-        "title": "Do your own writing",
-        "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+        "title": "Semantic – Reducing LLM \"Agent Loops\" by 27.78% via AST Logic Graphs",
+        "url": "https://github.com/concensure/Semantic",
         "source": "hn",
-        "time": "3/30/2026, 12:39:56 PM"
-      },
-      {
-        "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
-        "url": "https://anishathalye.com/macbook-touchscreen/",
-        "source": "hn",
-        "time": "3/30/2026, 7:22:33 PM"
+        "time": "3/31/2026, 3:50:07 AM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Mon, 30 Mar 2026 23:09:50 GMT"
       },
       {
-        "title": "Millions of drivers mis-sold car finance to receive average £829 in compensation",
-        "url": "https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'I knew something wasn't right': Wrong sperm given to families by IVF clinics",
+        "url": "https://www.bbc.com/news/articles/c74v5jd5zkjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 30 Mar 2026 18:59:19 GMT"
+        "time": "Tue, 31 Mar 2026 04:54:51 GMT"
       },
       {
-        "title": "Beatrice and Eugenie won't be at royal Easter service",
-        "url": "https://www.bbc.com/news/articles/cx247087ejko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Labour to overhaul non-crime hate incident rules",
+        "url": "https://www.bbc.com/news/articles/c80m7xyl0xgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 30 Mar 2026 17:15:02 GMT"
+        "time": "Tue, 31 Mar 2026 03:19:55 GMT"
       }
     ],
     "projects": [
