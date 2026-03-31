@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-03-31T06:12:07.973Z"
+    "built_at": "2026-03-31T08:03:46.505Z"
   },
-  "items": [
-    {
-      "title": "Hand-Drawn Style in PowerPoint",
-      "url": "https://pptcrafter.wordpress.com/2019/09/24/hand-drawn-style-in-powerpoint/",
-      "date": "2026-03-31T06:11:46.000Z"
-    },
-    {
-      "title": "Corebot 26.03 released with Intel Pantherlake support",
-      "url": "https://blogs.coreboot.org/blog/2026/03/30/coreboot-26-03-release/",
-      "date": "2026-03-31T06:11:25.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
