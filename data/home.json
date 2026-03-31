@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-31T17:09:17.842Z",
-  "updated_local": "3/31/2026, 5:09:17 PM",
+  "updated_iso": "2026-03-31T17:55:02.318Z",
+  "updated_local": "3/31/2026, 5:55:02 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Stablecoin Market to Hit $2 Trillion in 2028 Even as Velocity Doubles: Standard Chartered",
+        "url": "https://decrypt.co/362882/stablecoin-market-2-trillion-2028-velocity-doubles-standard-chartered",
+        "source": "crypto",
+        "time": "Tue, 31 Mar 2026 17:41:59 +0000"
+      },
       {
         "title": "&#39;Massive Disruptive Potential&#39;: Benchmark Initiates Securitize Coverage With Buy Rating",
         "url": "https://decrypt.co/362904/massive-disruptive-potential-benchmark-securitize-coverage-buy-rating",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/362842/uniblock-raises-5-2m-to-unify-blockchain-infrastructure",
         "source": "crypto",
         "time": "Tue, 31 Mar 2026 13:01:04 +0000"
-      },
-      {
-        "title": "Google Quantum Paper Boosts Odds of Bitcoin ‘Q-Day’ by 2032, Researchers Warn",
-        "url": "https://decrypt.co/362856/google-quantum-paper-boosts-odds-of-bitcoin-q-day-by-2032-researchers-warn",
-        "source": "crypto",
-        "time": "Tue, 31 Mar 2026 12:26:26 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+        "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+        "source": "hn",
+        "time": "3/31/2026, 9:00:40 AM"
+      },
+      {
+        "title": "Cohere Transcribe: Speech Recognition",
+        "url": "https://cohere.com/blog/transcribe",
+        "source": "hn",
+        "time": "3/31/2026, 4:27:02 PM"
+      },
       {
         "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
         "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
@@ -48,22 +60,10 @@
         "time": "3/31/2026, 12:50:23 PM"
       },
       {
-        "title": "Cohere Transcribe: Speech Recognition",
-        "url": "https://cohere.com/blog/transcribe",
+        "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
+        "url": "https://github.com/jkool702/forkrun",
         "source": "hn",
-        "time": "3/31/2026, 4:27:02 PM"
-      },
-      {
-        "title": "A Love Letter to 'Girl Games'",
-        "url": "https://aftermath.site/a-love-letter-to-girl-games/",
-        "source": "hn",
-        "time": "3/25/2026, 7:10:26 PM"
-      },
-      {
-        "title": "GitHub Monaspace Case Study",
-        "url": "https://lettermatic.com/custom/monaspace-case-study",
-        "source": "hn",
-        "time": "3/31/2026, 3:01:35 PM"
+        "time": "3/27/2026, 12:12:20 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Tue, 31 Mar 2026 16:39:12 GMT"
       },
       {
-        "title": "'Something wasn't right': Wrong sperm given to UK families by IVF clinics in northern Cyprus",
-        "url": "https://www.bbc.com/news/articles/c74v5jd5zkjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Taylor Swift pays homage to Elizabeth Taylor with surprise music video",
+        "url": "https://www.bbc.com/news/articles/cvg0743ve3do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 31 Mar 2026 04:54:51 GMT"
+        "time": "Tue, 31 Mar 2026 15:26:13 GMT"
       }
     ],
     "projects": [
