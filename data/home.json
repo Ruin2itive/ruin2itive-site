@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-03-31T09:12:07.354Z",
-  "updated_local": "3/31/2026, 9:12:07 AM",
+  "updated_iso": "2026-03-31T10:07:33.966Z",
+  "updated_local": "3/31/2026, 10:07:33 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "3/31/2026, 2:54:17 AM"
       },
       {
+        "title": "Claude Code full source code leaked on NPM",
+        "url": "https://github.com/chatgptprojects/claude-code",
+        "source": "hn",
+        "time": "3/31/2026, 9:40:12 AM"
+      },
+      {
         "title": "Ollama is now powered by MLX on Apple Silicon in preview",
         "url": "https://ollama.com/blog/mlx",
         "source": "hn",
@@ -58,32 +64,14 @@
         "url": "https://github.com/drona23/claude-token-efficient",
         "source": "hn",
         "time": "3/31/2026, 1:23:34 AM"
-      },
-      {
-        "title": "Google's 200M-parameter time-series foundation model with 16k context",
-        "url": "https://github.com/google-research/timesfm",
-        "source": "hn",
-        "time": "3/31/2026, 5:21:59 AM"
       }
     ],
     "world": [
       {
-        "title": "Scott Mills questioned by police in 2018 over sexual offence allegations against teenage boy",
+        "title": "Scott Mills questioned by police in 2018 over historical sex offence allegations against teenage boy",
         "url": "https://www.bbc.com/news/articles/cwykq2lqjw7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 31 Mar 2026 06:44:48 GMT"
-      },
-      {
-        "title": "Starmer gives doctors 48 hours to cancel strike or lose new jobs package",
-        "url": "https://www.bbc.com/news/articles/c23909pge35o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 31 Mar 2026 06:50:04 GMT"
-      },
-      {
-        "title": "Hundreds of my abusers are still out there, says victim as grooming inquiry launched",
-        "url": "https://www.bbc.com/news/articles/cpvxr7wv74mo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 31 Mar 2026 08:10:54 GMT"
       },
       {
         "title": "New bin rules begin in England but not all councils are ready",
@@ -96,6 +84,18 @@
         "url": "https://www.bbc.com/news/articles/c74v5jd5zkjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 31 Mar 2026 04:54:51 GMT"
+      },
+      {
+        "title": "Hundreds of my abusers are still out there, says victim as grooming inquiry launched",
+        "url": "https://www.bbc.com/news/articles/cpvxr7wv74mo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 31 Mar 2026 08:10:54 GMT"
+      },
+      {
+        "title": "Starmer gives doctors 48 hours to cancel strike or lose new jobs package",
+        "url": "https://www.bbc.com/news/articles/c23909pge35o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 31 Mar 2026 06:50:04 GMT"
       }
     ],
     "projects": [
