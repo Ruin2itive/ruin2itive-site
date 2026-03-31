@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-03-31T17:55:02.318Z",
-  "updated_local": "3/31/2026, 5:55:02 PM",
+  "updated_iso": "2026-03-31T19:00:10.035Z",
+  "updated_local": "3/31/2026, 7:00:10 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Tether&#39;s USAT Stablecoin Expands Beyond Ethereum Mainnet to Celo",
+        "url": "https://decrypt.co/362941/tethers-usat-stablecoin-expands-ethereum-mainnet-celo",
+        "source": "crypto",
+        "time": "Tue, 31 Mar 2026 18:35:41 +0000"
+      },
+      {
+        "title": "Anthropic Accidentally Leaked Claude Code&#39;s Source—The Internet Is Keeping It Forever",
+        "url": "https://decrypt.co/362917/anthropic-accidentally-leaked-claude-code-source-internet-keeping-forever",
+        "source": "crypto",
+        "time": "Tue, 31 Mar 2026 18:02:56 +0000"
+      },
       {
         "title": "Stablecoin Market to Hit $2 Trillion in 2028 Even as Velocity Doubles: Standard Chartered",
         "url": "https://decrypt.co/362882/stablecoin-market-2-trillion-2028-velocity-doubles-standard-chartered",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/362883/nakamoto-shares-new-low-bitcoin-treasury-firm-sells-btc",
         "source": "crypto",
         "time": "Tue, 31 Mar 2026 15:25:56 +0000"
-      },
-      {
-        "title": "US Users Barred From KuCoin After $500K CFTC Settlement",
-        "url": "https://decrypt.co/362873/us-users-barred-from-kucoin-after-500k-cftc-settlement",
-        "source": "crypto",
-        "time": "Tue, 31 Mar 2026 13:34:36 +0000"
-      },
-      {
-        "title": "Uniblock Raises $5.2M to Unify Blockchain Infrastructure",
-        "url": "https://decrypt.co/362842/uniblock-raises-5-2m-to-unify-blockchain-infrastructure",
-        "source": "crypto",
-        "time": "Tue, 31 Mar 2026 13:01:04 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "3/31/2026, 9:00:40 AM"
       },
       {
+        "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+        "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+        "source": "hn",
+        "time": "3/31/2026, 1:04:30 PM"
+      },
+      {
         "title": "Cohere Transcribe: Speech Recognition",
         "url": "https://cohere.com/blog/transcribe",
         "source": "hn",
         "time": "3/31/2026, 4:27:02 PM"
-      },
-      {
-        "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
-        "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-        "source": "hn",
-        "time": "3/31/2026, 2:54:17 AM"
       },
       {
         "title": "Open source CAD in the browser (Solvespace)",
@@ -60,10 +60,10 @@
         "time": "3/31/2026, 12:50:23 PM"
       },
       {
-        "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
-        "url": "https://github.com/jkool702/forkrun",
+        "title": "Good code will still win",
+        "url": "https://www.greptile.com/blog/ai-slopware-future",
         "source": "hn",
-        "time": "3/27/2026, 12:12:20 PM"
+        "time": "3/31/2026, 2:32:26 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Tue, 31 Mar 2026 15:03:44 GMT"
       },
       {
+        "title": "Diplomatic challenges facing King on US visit",
+        "url": "https://www.bbc.com/news/articles/c3w3dpgjzj8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 31 Mar 2026 18:08:52 GMT"
+      },
+      {
+        "title": "British billionaire to donate £190m to Cambridge University",
+        "url": "https://www.bbc.com/news/articles/c5y8gdwqklxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 31 Mar 2026 17:36:45 GMT"
+      },
+      {
         "title": "Amateur rapper whose XL bully killed his mother-in-law jailed for 10 years",
         "url": "https://www.bbc.com/news/articles/c4gx2lv8888o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 31 Mar 2026 16:53:26 GMT"
-      },
-      {
-        "title": "Labour suspends outspoken backbench MP Karl Turner",
-        "url": "https://www.bbc.com/news/articles/cg54v6p98rjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 31 Mar 2026 16:39:12 GMT"
-      },
-      {
-        "title": "Taylor Swift pays homage to Elizabeth Taylor with surprise music video",
-        "url": "https://www.bbc.com/news/articles/cvg0743ve3do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 31 Mar 2026 15:26:13 GMT"
       }
     ],
     "projects": [
