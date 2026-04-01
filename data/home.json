@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-01T10:12:13.697Z",
-  "updated_local": "4/1/2026, 10:12:13 AM",
+  "updated_iso": "2026-04-01T10:53:34.029Z",
+  "updated_local": "4/1/2026, 10:53:34 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "CERN levels up with new superconducting karts",
-        "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-        "source": "hn",
-        "time": "4/1/2026, 7:27:13 AM"
-      },
-      {
         "title": "Claude Code Unpacked : A visual guide",
         "url": "https://ccunpacked.dev/",
         "source": "hn",
         "time": "4/1/2026, 5:15:37 AM"
+      },
+      {
+        "title": "CERN levels up with new superconducting karts",
+        "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
+        "source": "hn",
+        "time": "4/1/2026, 7:27:13 AM"
       },
       {
         "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
@@ -54,16 +54,16 @@
         "time": "3/30/2026, 6:45:58 AM"
       },
       {
+        "title": "Intuiting Pratt Parsing",
+        "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
+        "source": "hn",
+        "time": "3/30/2026, 12:31:52 PM"
+      },
+      {
         "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
         "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
         "source": "hn",
         "time": "4/1/2026, 5:21:48 AM"
-      },
-      {
-        "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
-        "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
-        "source": "hn",
-        "time": "3/28/2026, 9:04:06 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Wed, 01 Apr 2026 08:15:36 GMT"
       },
       {
-        "title": "Weight-loss jabs will be offered on NHS for people at risk of further heart attacks",
-        "url": "https://www.bbc.com/news/articles/cz90595pgzlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Minimum wage rises to £12.71 an hour as firms warn of impact",
+        "url": "https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 31 Mar 2026 23:01:43 GMT"
+        "time": "Wed, 01 Apr 2026 08:26:08 GMT"
       }
     ],
     "projects": [
