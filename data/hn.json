@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-01T08:11:49.983Z"
+    "built_at": "2026-04-01T10:01:05.352Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Stack Detector – a clean, fast tech stack analyzer (5K+ scans)",
-      "url": "https://news.ycombinator.com/item?id=47598203",
-      "date": "2026-04-01T08:11:15.000Z"
-    },
-    {
-      "title": "Robotaxi Outage in China Leaves Passengers Stranded on Highways",
-      "url": "https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/",
-      "date": "2026-04-01T08:09:54.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
