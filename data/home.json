@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-01T13:17:54.662Z",
-  "updated_local": "4/1/2026, 1:17:54 PM",
+  "updated_iso": "2026-04-01T13:58:25.046Z",
+  "updated_local": "4/1/2026, 1:58:25 PM",
   "sections": {
     "crypto": [
       {
@@ -36,28 +36,28 @@
     ],
     "hacker": [
       {
+        "title": "Is BGP Safe Yet? No. Test Your ISP",
+        "url": "https://isbgpsafeyet.com/",
+        "source": "hn",
+        "time": "4/1/2026, 1:10:29 PM"
+      },
+      {
         "title": "Claude Code Unpacked : A visual guide",
         "url": "https://ccunpacked.dev/",
         "source": "hn",
         "time": "4/1/2026, 5:15:37 AM"
       },
       {
-        "title": "CERN levels up with new superconducting karts",
-        "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
-        "source": "hn",
-        "time": "4/1/2026, 7:27:13 AM"
-      },
-      {
-        "title": "Show HN: Sycamore – next gen Rust UI library powered by fine-grained reactivity",
+        "title": "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
         "url": "https://sycamore.dev",
         "source": "hn",
         "time": "4/1/2026, 12:30:18 PM"
       },
       {
-        "title": "I Quit. The Clankers Won",
-        "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
+        "title": "CERN levels up with new superconducting karts",
+        "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
         "source": "hn",
-        "time": "4/1/2026, 9:00:34 AM"
+        "time": "4/1/2026, 7:27:13 AM"
       },
       {
         "title": "Intuiting Pratt Parsing",
@@ -92,7 +92,7 @@
         "time": "Wed, 01 Apr 2026 08:15:36 GMT"
       },
       {
-        "title": "Mass robotaxi malfunction halts traffic in Chinese city",
+        "title": "Multiple driverless cars come to a halt in Wuhan in 'system malfunction'",
         "url": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 01 Apr 2026 11:34:31 GMT"
