@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-01T06:01:02.945Z",
-  "updated_local": "4/1/2026, 6:01:02 AM",
+  "updated_iso": "2026-04-01T07:17:55.547Z",
+  "updated_local": "4/1/2026, 7:17:55 AM",
   "sections": {
     "crypto": [
       {
@@ -42,36 +42,42 @@
         "time": "4/1/2026, 5:15:37 AM"
       },
       {
+        "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
+        "url": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
+        "source": "hn",
+        "time": "4/1/2026, 6:05:57 AM"
+      },
+      {
         "title": "Neanderthals survived on a knife's edge for 350k years",
         "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
         "source": "hn",
         "time": "4/1/2026, 1:12:12 AM"
       },
       {
+        "title": "Chess in SQL",
+        "url": "https://www.dbpro.app/blog/chess-in-pure-sql",
+        "source": "hn",
+        "time": "3/29/2026, 1:25:16 PM"
+      },
+      {
         "title": "TinyLoRA – Learning to Reason in 13 Parameters",
         "url": "https://arxiv.org/abs/2602.04118",
         "source": "hn",
         "time": "3/27/2026, 12:11:12 PM"
-      },
-      {
-        "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
-        "url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
-        "source": "hn",
-        "time": "3/28/2026, 9:04:06 PM"
-      },
-      {
-        "title": "TruffleRuby",
-        "url": "https://chrisseaton.com/truffleruby/",
-        "source": "hn",
-        "time": "3/28/2026, 6:39:39 PM"
       }
     ],
     "world": [
       {
-        "title": "Energy bill support would be based on household income, Reeves says",
+        "title": "Energy bill help would be based on household income, Reeves says",
         "url": "https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 01 Apr 2026 05:30:31 GMT"
+        "time": "Wed, 01 Apr 2026 06:12:24 GMT"
+      },
+      {
+        "title": "'It's going to be a great show': Crowds gather for countdown to Nasa’s Artemis launch",
+        "url": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 01 Apr 2026 00:00:18 GMT"
       },
       {
         "title": "Man charged after seven people hit by car in Derby",
@@ -86,16 +92,10 @@
         "time": "Tue, 31 Mar 2026 23:01:43 GMT"
       },
       {
-        "title": "'It's going to be a great show': Crowds gathering on Florida's Space Coast for Artemis launch",
-        "url": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 01 Apr 2026 00:00:18 GMT"
-      },
-      {
         "title": "Pay rise for 2.7 million people as minimum wage increase comes into force",
         "url": "https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 31 Mar 2026 23:01:15 GMT"
+        "time": "Wed, 01 Apr 2026 07:10:36 GMT"
       }
     ],
     "projects": [
