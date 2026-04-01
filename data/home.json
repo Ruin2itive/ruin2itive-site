@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-01T02:27:22.589Z",
-  "updated_local": "4/1/2026, 2:27:22 AM",
+  "updated_iso": "2026-04-01T03:33:53.095Z",
+  "updated_local": "4/1/2026, 3:33:53 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "We intercepted the White House app's traffic. 77% of requests go to 3rd parties",
+        "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
+        "source": "hn",
+        "time": "4/1/2026, 1:58:45 AM"
+      },
+      {
         "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
         "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
         "source": "hn",
@@ -54,16 +60,10 @@
         "time": "3/28/2026, 6:39:39 PM"
       },
       {
-        "title": "A dot a day keeps the clutter away",
-        "url": "https://scottlawsonbc.com/post/dot-system",
+        "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
+        "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security",
         "source": "hn",
-        "time": "3/31/2026, 9:15:01 PM"
-      },
-      {
-        "title": "Ministack (Replacement for LocalStack)",
-        "url": "https://ministack.org/",
-        "source": "hn",
-        "time": "3/31/2026, 8:48:15 PM"
+        "time": "4/1/2026, 1:18:51 AM"
       }
     ],
     "world": [
