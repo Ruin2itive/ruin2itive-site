@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-01T09:02:14.029Z",
-  "updated_local": "4/1/2026, 9:02:14 AM",
+  "updated_iso": "2026-04-01T10:12:13.697Z",
+  "updated_local": "4/1/2026, 10:12:13 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "DOJ Charges 10 Foreign Nationals Over Crypto ‘Wash Trading’ Scheme",
+        "url": "https://decrypt.co/362999/doj-charges-10-foreign-nationals-over-crypto-wash-trading-scheme",
+        "source": "crypto",
+        "time": "Wed, 01 Apr 2026 09:59:19 +0000"
+      },
       {
         "title": "Watch Out Bitcoin: Cryptography-Breaking Quantum Computers May Be Closer Than Expected, Says Caltech",
         "url": "https://decrypt.co/362988/cryptography-breaking-quantum-computers-closer-expected-caltech-bitcoin",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/362968/california-tightens-ai-contract-rules-fight-trump-admin",
         "source": "crypto",
         "time": "Tue, 31 Mar 2026 20:18:45 +0000"
-      },
-      {
-        "title": "Latin America’s Mercado Libre Pulls the Plug on Its Crypto Coin",
-        "url": "https://decrypt.co/362958/latin-america-mercado-libre-pulls-plug-crypto-coin",
-        "source": "crypto",
-        "time": "Tue, 31 Mar 2026 20:12:38 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Claude Code Unpacked : A visual guide",
-        "url": "https://ccunpacked.dev/",
-        "source": "hn",
-        "time": "4/1/2026, 5:15:37 AM"
-      },
       {
         "title": "CERN levels up with new superconducting karts",
         "url": "https://home.cern/news/news/engineering/cern-levels-new-superconducting-karts",
         "source": "hn",
         "time": "4/1/2026, 7:27:13 AM"
+      },
+      {
+        "title": "Claude Code Unpacked : A visual guide",
+        "url": "https://ccunpacked.dev/",
+        "source": "hn",
+        "time": "4/1/2026, 5:15:37 AM"
       },
       {
         "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
@@ -54,10 +54,10 @@
         "time": "3/30/2026, 6:45:58 AM"
       },
       {
-        "title": "Neanderthals survived on a knife's edge for 350k years",
-        "url": "https://www.science.org/content/article/neanderthals-survived-knife-s-edge-350-000-years",
+        "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+        "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
         "source": "hn",
-        "time": "4/1/2026, 1:12:12 AM"
+        "time": "4/1/2026, 5:21:48 AM"
       },
       {
         "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 01 Apr 2026 08:07:51 GMT"
+      },
+      {
+        "title": "Watch Carol Kirkwood's emotional goodbye and funniest moments as she leaves the BBC",
+        "url": "https://www.bbc.com/news/videos/cp38qjvl7d5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 01 Apr 2026 08:30:03 GMT"
       },
       {
         "title": "'It's going to be a great show': Crowds gather for countdown to Nasa’s Artemis launch",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cz90595pgzlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 31 Mar 2026 23:01:43 GMT"
-      },
-      {
-        "title": "Minimum wage rises to £12.71 an hour as firms warn of impact",
-        "url": "https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 01 Apr 2026 08:26:08 GMT"
       }
     ],
     "projects": [
