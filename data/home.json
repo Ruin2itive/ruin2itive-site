@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-01T20:00:07.589Z",
-  "updated_local": "4/1/2026, 8:00:07 PM",
+  "updated_iso": "2026-04-01T20:55:42.009Z",
+  "updated_local": "4/1/2026, 8:55:42 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
+        "url": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
+        "source": "crypto",
+        "time": "Wed, 01 Apr 2026 20:13:38 +0000"
+      },
       {
         "title": "Google&#39;s Veo 3.1 Lite Cuts API Costs in Half as OpenAI&#39;s Sora Exits the Market",
         "url": "https://decrypt.co/363077/google-veo-3-1-lite-cuts-api-costs-half-openai-sora",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/363058/cambodia-extradites-alleged-huione-crypto-scam-kingpin-to-china-report",
         "source": "crypto",
         "time": "Wed, 01 Apr 2026 16:57:17 +0000"
-      },
-      {
-        "title": "The Quantum Threat to Bitcoin Dividing Crypto",
-        "url": "https://decrypt.co/363030/the-quantum-threat-to-bitcoin-dividing-crypto",
-        "source": "crypto",
-        "time": "Wed, 01 Apr 2026 16:31:04 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Signing data structures the wrong way",
+        "url": "https://blog.foks.pub/posts/domain-separation-in-idl/",
+        "source": "hn",
+        "time": "4/1/2026, 7:52:00 PM"
+      },
+      {
+        "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
+        "url": "https://github.com/hauntsaninja/git_bayesect",
+        "source": "hn",
+        "time": "3/28/2026, 8:32:01 PM"
+      },
       {
         "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
         "url": "https://blog.cloudflare.com/emdash-wordpress/",
@@ -46,18 +58,6 @@
         "url": "https://github.com/SharpAI/SwiftLM",
         "source": "hn",
         "time": "4/1/2026, 6:06:00 PM"
-      },
-      {
-        "title": "You're still signing data structures the wrong way",
-        "url": "https://blog.foks.pub/posts/domain-separation-in-idl/",
-        "source": "hn",
-        "time": "4/1/2026, 7:52:00 PM"
-      },
-      {
-        "title": "AI for American-produced cement and concrete",
-        "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-        "source": "hn",
-        "time": "4/1/2026, 5:17:24 PM"
       }
     ],
     "world": [
