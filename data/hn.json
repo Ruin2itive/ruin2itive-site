@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-01T21:35:13.075Z"
+    "built_at": "2026-04-01T22:29:40.880Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Politics Keeps D.C.'S Autonomous Vehicles Roadblocked",
+      "url": "https://www.city-journal.org/article/autonomous-vehicles-waymo-washington-dc",
+      "date": "2026-04-01T22:21:28.000Z"
+    },
+    {
+      "title": "Age of Invention: Why Scotland Succeeded",
+      "url": "https://www.ageofinvention.xyz/p/age-of-invention-why-scotland-succeeded",
+      "date": "2026-04-01T22:21:12.000Z"
+    }
+  ]
 }
