@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-01T21:52:15.352Z",
-  "updated_local": "4/1/2026, 9:52:15 PM",
+  "updated_iso": "2026-04-01T22:35:29.826Z",
+  "updated_local": "4/1/2026, 10:35:29 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "DRAM pricing is killing the hobbyist SBC market",
+        "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+        "source": "hn",
+        "time": "4/1/2026, 9:36:41 PM"
+      },
+      {
+        "title": "Swappa.com for GrapheneOS compatible devices – Stay Away",
+        "url": "https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away",
+        "source": "hn",
+        "time": "4/1/2026, 9:59:14 PM"
+      },
+      {
         "title": "Signing data structures the wrong way",
         "url": "https://blog.foks.pub/posts/domain-separation-in-idl/",
         "source": "hn",
         "time": "4/1/2026, 7:52:00 PM"
-      },
-      {
-        "title": "The revenge of the data scientist",
-        "url": "https://hamel.dev/blog/posts/revenge/",
-        "source": "hn",
-        "time": "3/28/2026, 7:12:37 PM"
       },
       {
         "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
@@ -54,10 +60,10 @@
         "time": "3/28/2026, 8:32:01 PM"
       },
       {
-        "title": "Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM",
-        "url": "https://flight-viz.com",
+        "title": "The revenge of the data scientist",
+        "url": "https://hamel.dev/blog/posts/revenge/",
         "source": "hn",
-        "time": "4/1/2026, 5:34:16 PM"
+        "time": "3/28/2026, 7:12:37 PM"
       }
     ],
     "world": [
