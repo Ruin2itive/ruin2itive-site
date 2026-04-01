@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-03-31T23:41:35.896Z",
-  "updated_local": "3/31/2026, 11:41:35 PM",
+  "updated_iso": "2026-04-01T02:27:22.589Z",
+  "updated_local": "4/1/2026, 2:27:22 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Watch Out Bitcoin: Cryptography-Breaking Quantum Computers May Be Closer Than Expected, Says Caltech",
+        "url": "https://decrypt.co/362988/cryptography-breaking-quantum-computers-closer-expected-caltech-bitcoin",
+        "source": "crypto",
+        "time": "Wed, 01 Apr 2026 00:50:54 +0000"
+      },
       {
         "title": "Crypto Startup Uses Polymarket to Bet on Its Own Fundraise, Blindsiding Backers",
         "url": "https://decrypt.co/362977/crypto-startup-polymarket-bet-fundraise-blindsiding-backers",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/362958/latin-america-mercado-libre-pulls-plug-crypto-coin",
         "source": "crypto",
         "time": "Tue, 31 Mar 2026 20:12:38 +0000"
-      },
-      {
-        "title": "Zcash Vulnerability That Put Millions of Dollars of ZEC at Risk Has Been Fixed",
-        "url": "https://decrypt.co/362957/zcash-devs-patch-vulnerability-millions-dollars-zec-risk",
-        "source": "crypto",
-        "time": "Tue, 31 Mar 2026 20:03:13 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,16 @@
         "time": "3/31/2026, 1:04:30 PM"
       },
       {
-        "title": "Ministack (Replacement for LocalStack)",
-        "url": "https://ministack.org/",
+        "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+        "url": "https://arxiv.org/abs/2602.04118",
         "source": "hn",
-        "time": "3/31/2026, 8:48:15 PM"
+        "time": "3/27/2026, 12:11:12 PM"
+      },
+      {
+        "title": "TruffleRuby",
+        "url": "https://chrisseaton.com/truffleruby/",
+        "source": "hn",
+        "time": "3/28/2026, 6:39:39 PM"
       },
       {
         "title": "A dot a day keeps the clutter away",
@@ -54,16 +60,10 @@
         "time": "3/31/2026, 9:15:01 PM"
       },
       {
-        "title": "OpenAI closes funding round at an $852B valuation",
-        "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+        "title": "Ministack (Replacement for LocalStack)",
+        "url": "https://ministack.org/",
         "source": "hn",
-        "time": "3/31/2026, 8:07:30 PM"
-      },
-      {
-        "title": "4D Doom",
-        "url": "https://github.com/danieldugas/HYPERHELL",
-        "source": "hn",
-        "time": "3/27/2026, 10:19:34 PM"
+        "time": "3/31/2026, 8:48:15 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Tue, 31 Mar 2026 22:24:19 GMT"
       },
       {
-        "title": "Teenage boy at centre of Scott Mills sexual offences investigation was under 16, police say",
-        "url": "https://www.bbc.com/news/articles/cwykq2lqjw7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 31 Mar 2026 19:56:59 GMT"
-      },
-      {
         "title": "Weight-loss jabs will be offered on NHS for people at risk of further heart  attacks",
         "url": "https://www.bbc.com/news/articles/cz90595pgzlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 31 Mar 2026 23:01:43 GMT"
       },
       {
-        "title": "Prince Harry's latest feud with the press is over (for now). Here are seven key takeaways",
-        "url": "https://www.bbc.com/news/articles/cde5dk2d9j8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "What it's like to be on Florida's Space Coast ahead of Artemis launch",
+        "url": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 31 Mar 2026 18:13:13 GMT"
+        "time": "Wed, 01 Apr 2026 00:00:18 GMT"
+      },
+      {
+        "title": "Failed experiment as England get grim glimpse of life without Kane",
+        "url": "https://www.bbc.com/sport/football/articles/c070185ygpno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 31 Mar 2026 22:42:16 GMT"
       }
     ],
     "projects": [
