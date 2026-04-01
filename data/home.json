@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-01T10:53:34.029Z",
-  "updated_local": "4/1/2026, 10:53:34 AM",
+  "updated_iso": "2026-04-01T11:52:02.823Z",
+  "updated_local": "4/1/2026, 11:52:02 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Crypto Fund Manager CoinShares Begins Trading on Nasdaq via SPAC Deal",
+        "url": "https://decrypt.co/362991/crypto-fund-manager-coinshares-begins-trading-nasdaq-spac-deal",
+        "source": "crypto",
+        "time": "Wed, 01 Apr 2026 11:01:03 +0000"
+      },
       {
         "title": "DOJ Charges 10 Foreign Nationals Over Crypto ‘Wash Trading’ Scheme",
         "url": "https://decrypt.co/362999/doj-charges-10-foreign-nationals-over-crypto-wash-trading-scheme",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/362979/if-you-hold-solana-magic-eden-wallet-time-to-move",
         "source": "crypto",
         "time": "Tue, 31 Mar 2026 21:06:15 +0000"
-      },
-      {
-        "title": "California Tightens AI Contract Rules as Fight With Trump Admin Grows",
-        "url": "https://decrypt.co/362968/california-tightens-ai-contract-rules-fight-trump-admin",
-        "source": "crypto",
-        "time": "Tue, 31 Mar 2026 20:18:45 +0000"
       }
     ],
     "hacker": [
@@ -48,42 +48,42 @@
         "time": "4/1/2026, 7:27:13 AM"
       },
       {
-        "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
-        "url": "https://github.com/yannick-cw/korb",
-        "source": "hn",
-        "time": "3/30/2026, 6:45:58 AM"
-      },
-      {
         "title": "Intuiting Pratt Parsing",
         "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
         "source": "hn",
         "time": "3/30/2026, 12:31:52 PM"
       },
       {
-        "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
-        "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+        "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+        "url": "https://github.com/yannick-cw/korb",
         "source": "hn",
-        "time": "4/1/2026, 5:21:48 AM"
+        "time": "3/30/2026, 6:45:58 AM"
+      },
+      {
+        "title": "Solar panels at Lidl? Plug-in versions set to appear in shops",
+        "url": "https://www.thisismoney.co.uk/money/bills/article-15673955/Solar-panels-Lidl-Plug-versions-set-appear-shops-MONTHS.html",
+        "source": "hn",
+        "time": "4/1/2026, 8:36:16 AM"
       }
     ],
     "world": [
       {
-        "title": "Energy bill help would be based on household income, Reeves says",
-        "url": "https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK will seek closer ties with EU in light of Iran war, Starmer says",
+        "url": "https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 01 Apr 2026 08:07:51 GMT"
+        "time": "Wed, 01 Apr 2026 11:21:09 GMT"
       },
       {
-        "title": "Watch Carol Kirkwood's emotional goodbye and funniest moments as she leaves the BBC",
-        "url": "https://www.bbc.com/news/videos/cp38qjvl7d5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Weather looks favourable for Artemis launch despite cloud",
+        "url": "https://www.bbc.com/weather/articles/cj6w4p106klo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 01 Apr 2026 08:30:03 GMT"
+        "time": "Wed, 01 Apr 2026 09:22:22 GMT"
       },
       {
-        "title": "'It's going to be a great show': Crowds gather for countdown to Nasa’s Artemis launch",
-        "url": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "BBC knew about Scott Mills sexual offences investigation in 2017",
+        "url": "https://www.bbc.com/news/articles/cwywvrye76lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 01 Apr 2026 00:00:18 GMT"
+        "time": "Wed, 01 Apr 2026 11:39:40 GMT"
       },
       {
         "title": "Estate agents accuse Rightmove of charging excessive fees",
@@ -92,10 +92,10 @@
         "time": "Wed, 01 Apr 2026 08:15:36 GMT"
       },
       {
-        "title": "Minimum wage rises to £12.71 an hour as firms warn of impact",
-        "url": "https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Mass robotaxi malfunction halts traffic in Chinese city",
+        "url": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 01 Apr 2026 08:26:08 GMT"
+        "time": "Wed, 01 Apr 2026 11:34:31 GMT"
       }
     ],
     "projects": [
