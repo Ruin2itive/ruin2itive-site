@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-01T11:56:51.902Z",
-  "updated_local": "4/1/2026, 11:56:51 AM",
+  "updated_iso": "2026-04-01T13:17:54.662Z",
+  "updated_local": "4/1/2026, 1:17:54 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Algorand, Stable Lead Double-Digit Altcoin Surge as Bitcoin Tops $69K",
+        "url": "https://decrypt.co/363004/algorand-stable-lead-double-digit-altcoin-surge-as-bitcoin-tops-69k",
+        "source": "crypto",
+        "time": "Wed, 01 Apr 2026 11:59:14 +0000"
+      },
       {
         "title": "Crypto Fund Manager CoinShares Begins Trading on Nasdaq via SPAC Deal",
         "url": "https://decrypt.co/362991/crypto-fund-manager-coinshares-begins-trading-nasdaq-spac-deal",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/362977/crypto-startup-polymarket-bet-fundraise-blindsiding-backers",
         "source": "crypto",
         "time": "Tue, 31 Mar 2026 21:07:24 +0000"
-      },
-      {
-        "title": "If You Hold Solana on Magic Eden&#39;s Wallet, It&#39;s Time to Move It or Lose It",
-        "url": "https://decrypt.co/362979/if-you-hold-solana-magic-eden-wallet-time-to-move",
-        "source": "crypto",
-        "time": "Tue, 31 Mar 2026 21:06:15 +0000"
       }
     ],
     "hacker": [
@@ -48,30 +48,30 @@
         "time": "4/1/2026, 7:27:13 AM"
       },
       {
+        "title": "Show HN: Sycamore – next gen Rust UI library powered by fine-grained reactivity",
+        "url": "https://sycamore.dev",
+        "source": "hn",
+        "time": "4/1/2026, 12:30:18 PM"
+      },
+      {
+        "title": "I Quit. The Clankers Won",
+        "url": "https://dbushell.com/2026/04/01/i-quit-the-clankers-won/",
+        "source": "hn",
+        "time": "4/1/2026, 9:00:34 AM"
+      },
+      {
         "title": "Intuiting Pratt Parsing",
         "url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
         "source": "hn",
         "time": "3/30/2026, 12:31:52 PM"
-      },
-      {
-        "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
-        "url": "https://github.com/yannick-cw/korb",
-        "source": "hn",
-        "time": "3/30/2026, 6:45:58 AM"
-      },
-      {
-        "title": "Solar panels at Lidl? Plug-in versions set to appear in shops",
-        "url": "https://www.thisismoney.co.uk/money/bills/article-15673955/Solar-panels-Lidl-Plug-versions-set-appear-shops-MONTHS.html",
-        "source": "hn",
-        "time": "4/1/2026, 8:36:16 AM"
       }
     ],
     "world": [
       {
-        "title": "UK will seek closer ties with EU in light of Iran war, Starmer says",
-        "url": "https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "BBC knew about Scott Mills sexual offences investigation in 2017",
+        "url": "https://www.bbc.com/news/articles/cwywvrye76lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 01 Apr 2026 11:21:09 GMT"
+        "time": "Wed, 01 Apr 2026 12:20:51 GMT"
       },
       {
         "title": "Weather looks favourable for Artemis launch despite cloud",
@@ -80,10 +80,10 @@
         "time": "Wed, 01 Apr 2026 09:22:22 GMT"
       },
       {
-        "title": "BBC knew about Scott Mills sexual offences investigation in 2017",
-        "url": "https://www.bbc.com/news/articles/cwywvrye76lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK will seek closer ties with EU in light of Iran war, Starmer says",
+        "url": "https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 01 Apr 2026 11:52:55 GMT"
+        "time": "Wed, 01 Apr 2026 11:21:09 GMT"
       },
       {
         "title": "Estate agents accuse Rightmove of charging excessive fees",
