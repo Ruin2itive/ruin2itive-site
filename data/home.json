@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-02T22:40:33.569Z",
-  "updated_local": "4/2/2026, 10:40:33 PM",
+  "updated_iso": "2026-04-02T23:32:54.186Z",
+  "updated_local": "4/2/2026, 11:32:54 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Naoris Launches Post-Quantum Blockchain as Bitcoin, Ethereum Devs Scramble to Face Threat",
+        "url": "https://decrypt.co/363207/naoris-launches-post-quantum-blockchain-bitcoin-ethereum",
+        "source": "crypto",
+        "time": "Thu, 02 Apr 2026 23:00:05 +0000"
+      },
       {
         "title": "USDC Stablecoin Issuer Circle Unveils New Token to Give Bitcoin More Utility",
         "url": "https://decrypt.co/363199/usdc-stablecoin-issuer-circle-give-bitcoin-utility",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
         "source": "crypto",
         "time": "Thu, 02 Apr 2026 19:04:39 +0000"
-      },
-      {
-        "title": "Google Jumps Back Into the Open Source AI Race With Gemma 4",
-        "url": "https://decrypt.co/363178/google-gemma-4-open-source-ai",
-        "source": "crypto",
-        "time": "Thu, 02 Apr 2026 18:18:58 +0000"
       }
     ],
     "hacker": [
@@ -48,25 +48,37 @@
         "time": "4/2/2026, 6:22:03 PM"
       },
       {
-        "title": "Cursor 3",
-        "url": "https://cursor.com/blog/cursor-3",
-        "source": "hn",
-        "time": "4/2/2026, 6:13:41 PM"
-      },
-      {
         "title": "Artemis II's toilet is a moon mission milestone",
         "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
         "source": "hn",
         "time": "4/2/2026, 2:37:12 AM"
       },
       {
-        "title": "George Goble has died",
-        "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
+        "title": "Cursor 3",
+        "url": "https://cursor.com/blog/cursor-3",
         "source": "hn",
-        "time": "4/2/2026, 6:21:08 PM"
+        "time": "4/2/2026, 6:13:41 PM"
+      },
+      {
+        "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
+        "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
+        "source": "hn",
+        "time": "4/2/2026, 4:00:27 PM"
       }
     ],
     "world": [
+      {
+        "title": "Marmalade to be re-branded in post-Brexit food deal",
+        "url": "https://www.bbc.com/news/articles/c0e53x475qjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 02 Apr 2026 23:03:38 GMT"
+      },
+      {
+        "title": "Police offered support to tackle rising threats against MPs",
+        "url": "https://www.bbc.com/news/articles/c8ej47g6w3jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 02 Apr 2026 23:24:53 GMT"
+      },
       {
         "title": "Trump removes US Attorney General Pam Bondi",
         "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&amp;at_campaign=rss",
@@ -84,18 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 02 Apr 2026 13:41:27 GMT"
-      },
-      {
-        "title": "Funeral fraudster who kept bodies and ashes was 'living beyond his means', ex-worker says",
-        "url": "https://www.bbc.com/news/articles/c80ddxmlm8vo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 02 Apr 2026 17:01:19 GMT"
-      },
-      {
-        "title": "Judge dismisses most of Blake Lively's claims in harassment lawsuit against Baldoni",
-        "url": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 02 Apr 2026 22:14:44 GMT"
       }
     ],
     "projects": [
