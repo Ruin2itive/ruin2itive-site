@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-02T18:54:52.784Z",
-  "updated_local": "4/2/2026, 6:54:52 PM",
+  "updated_iso": "2026-04-02T19:07:26.352Z",
+  "updated_local": "4/2/2026, 7:07:26 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Drift Protocol&#39;s $285 Million Exploit on Solana Raises Questions Over DeFi Security",
+        "url": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
+        "source": "crypto",
+        "time": "Thu, 02 Apr 2026 19:04:39 +0000"
+      },
       {
         "title": "Google Jumps Back Into the Open Source AI Race With Gemma 4",
         "url": "https://decrypt.co/363178/google-gemma-4-open-source-ai",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/363164/ai-could-become-2000-times-more-efficient-by-copying-the-brain-study",
         "source": "crypto",
         "time": "Thu, 02 Apr 2026 17:00:32 +0000"
-      },
-      {
-        "title": "Quantum-Powered Crypto Mining Is Here—But It Won&#39;t Help You Mine Bitcoin",
-        "url": "https://decrypt.co/363148/quantum-powered-crypto-mining-here-wont-help-you-mine-bitcoin",
-        "source": "crypto",
-        "time": "Thu, 02 Apr 2026 16:31:57 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "4/2/2026, 4:10:54 PM"
       },
       {
-        "title": "Qwen3.6-Plus: Towards real world agents",
-        "url": "https://qwen.ai/blog?id=qwen3.6",
-        "source": "hn",
-        "time": "4/2/2026, 2:28:52 PM"
-      },
-      {
         "title": "Tailscale's New macOS Home",
         "url": "https://tailscale.com/blog/macos-notch-escape",
         "source": "hn",
         "time": "4/2/2026, 6:22:03 PM"
+      },
+      {
+        "title": "Qwen3.6-Plus: Towards real world agents",
+        "url": "https://qwen.ai/blog?id=qwen3.6",
+        "source": "hn",
+        "time": "4/2/2026, 2:28:52 PM"
       },
       {
         "title": "George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting",
