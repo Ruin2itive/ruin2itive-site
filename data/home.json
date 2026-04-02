@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-02T11:03:13.768Z",
-  "updated_local": "4/2/2026, 11:03:13 AM",
+  "updated_iso": "2026-04-02T13:09:45.040Z",
+  "updated_local": "4/2/2026, 1:09:45 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Metaplanet Adds 5,075 BTC in Q1, Becomes Third Largest Bitcoin Treasury",
+        "url": "https://decrypt.co/363114/metaplanet-adds-5075-btc-in-q1-becomes-third-largest-bitcoin-treasury",
+        "source": "crypto",
+        "time": "Thu, 02 Apr 2026 12:24:18 +0000"
+      },
+      {
+        "title": "Coinbase CLO: Clarity Act Deal on Stablecoin Yield &#39;Very Close&#39;",
+        "url": "https://decrypt.co/363115/coinbase-clo-clarity-act-deal-on-stablecoin-yield-very-close",
+        "source": "crypto",
+        "time": "Thu, 02 Apr 2026 11:26:57 +0000"
+      },
       {
         "title": "Bitcoin, Gold, and U.S. Stocks Dive as Trump Pledges to Hit Iran ‘Extremely Hard’",
         "url": "https://decrypt.co/363111/bitcoin-gold-and-u-s-stocks-dive-as-trump-pledges-to-hit-iran-extremely-hard",
@@ -20,21 +32,21 @@
         "url": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
         "source": "crypto",
         "time": "Wed, 01 Apr 2026 20:13:38 +0000"
-      },
-      {
-        "title": "Google&#39;s Veo 3.1 Lite Cuts API Costs in Half as OpenAI&#39;s Sora Exits the Market",
-        "url": "https://decrypt.co/363077/google-veo-3-1-lite-cuts-api-costs-half-openai-sora",
-        "source": "crypto",
-        "time": "Wed, 01 Apr 2026 19:47:28 +0000"
-      },
-      {
-        "title": "Elon Musk’s SpaceX Files Confidentially for Record-Breaking $1.75 Trillion IPO",
-        "url": "https://decrypt.co/363074/elon-musk-spacex-files-ipo",
-        "source": "crypto",
-        "time": "Wed, 01 Apr 2026 19:05:57 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+        "url": "https://lemonade-server.ai",
+        "source": "hn",
+        "time": "4/2/2026, 11:04:51 AM"
+      },
+      {
+        "title": "Inside Nepal's Fake Rescue Racket",
+        "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+        "source": "hn",
+        "time": "4/2/2026, 11:40:41 AM"
+      },
       {
         "title": "IBM Announces Strategic Collaboration with Arm",
         "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
@@ -42,60 +54,48 @@
         "time": "4/2/2026, 8:48:44 AM"
       },
       {
-        "title": "Men are ditching TV for YouTube as AI usage and social media fatigue grow",
-        "url": "https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed",
+        "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+        "url": "https://undark.org/2026/04/01/sweden-schools-books/",
         "source": "hn",
-        "time": "4/2/2026, 9:43:08 AM"
+        "time": "4/2/2026, 10:50:00 AM"
       },
       {
         "title": "Bringing Clojure programming to Enterprise (2021)",
         "url": "https://blogit.michelin.io/clojure-programming/",
         "source": "hn",
         "time": "4/2/2026, 8:19:11 AM"
-      },
-      {
-        "title": "Artemis II Launch Day Updates",
-        "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-        "source": "hn",
-        "time": "4/1/2026, 5:11:31 PM"
-      },
-      {
-        "title": "Gone (Almost) Phishin'",
-        "url": "https://ma.tt/2026/03/gone-almost-phishin/",
-        "source": "hn",
-        "time": "3/31/2026, 5:11:39 AM"
       }
     ],
     "world": [
       {
-        "title": "Trump leaves key questions unanswered as he seeks to calm nerves over war",
-        "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 02 Apr 2026 03:22:51 GMT"
-      },
-      {
-        "title": "'Oh my goodness, that is spectacular':  Watch BBC science editor react to launch",
-        "url": "https://www.bbc.com/news/videos/c05d6pprdleo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 02 Apr 2026 08:40:55 GMT"
-      },
-      {
         "title": "Funeral director admits preventing 30 burials and theft",
         "url": "https://www.bbc.com/news/articles/c70kenjyjr8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Apr 2026 10:53:15 GMT"
+        "time": "Thu, 02 Apr 2026 12:54:09 GMT"
       },
       {
-        "title": "UK to host virtual summit on reopening the Strait of Hormuz",
-        "url": "https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How memories of my grandma are tainted by funeral boss's crimes",
+        "url": "https://www.bbc.com/news/articles/c4gdp4n6nqvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Apr 2026 08:48:07 GMT"
+        "time": "Thu, 02 Apr 2026 10:54:03 GMT"
       },
       {
         "title": "Storm Dave set to batter UK with gales and blizzards over Easter weekend",
         "url": "https://www.bbc.com/weather/articles/ce3d7n10ypyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 02 Apr 2026 10:57:39 GMT"
+      },
+      {
+        "title": "Petrol and diesel prices see biggest rise on record in March",
+        "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 02 Apr 2026 07:41:37 GMT"
+      },
+      {
+        "title": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
+        "url": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 02 Apr 2026 12:44:07 GMT"
       }
     ],
     "projects": [
