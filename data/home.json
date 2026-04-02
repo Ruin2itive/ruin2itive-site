@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-02T13:46:38.141Z",
-  "updated_local": "4/2/2026, 1:46:38 PM",
+  "updated_iso": "2026-04-02T14:54:09.046Z",
+  "updated_local": "4/2/2026, 2:54:09 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "US Attorney&#39;s Office Recovers $600K in Crypto Fraud Scheme Targeting Ledger Wallet Owners",
+        "url": "https://decrypt.co/363126/us-attorneys-office-recovers-600k-crypto-fraud-scheme-ledger-wallets",
+        "source": "crypto",
+        "time": "Thu, 02 Apr 2026 14:39:31 +0000"
+      },
       {
         "title": "Metaplanet Adds 5,075 BTC in Q1, Becomes Third Largest Bitcoin Treasury",
         "url": "https://decrypt.co/363114/metaplanet-adds-5075-btc-in-q1-becomes-third-largest-bitcoin-treasury",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/363089/volatility-shares-everaged-crypto-etfs-three-altcoins",
         "source": "crypto",
         "time": "Wed, 01 Apr 2026 21:08:22 +0000"
-      },
-      {
-        "title": "Solana DeFi Exchange Drift Protocol Exploited, Upwards of $285 Million Stolen",
-        "url": "https://decrypt.co/363087/solana-drift-protocol-exploited-285-million",
-        "source": "crypto",
-        "time": "Wed, 01 Apr 2026 20:13:38 +0000"
       }
     ],
     "hacker": [
@@ -54,10 +54,10 @@
         "time": "4/2/2026, 11:40:41 AM"
       },
       {
-        "title": "Sweden goes back to basics, swapping screens for books in the classroom",
-        "url": "https://undark.org/2026/04/01/sweden-schools-books/",
+        "title": "Qwen3.6-Plus: Towards Real World Agents",
+        "url": "https://qwen.ai/blog?id=qwen3.6",
         "source": "hn",
-        "time": "4/2/2026, 10:50:00 AM"
+        "time": "4/2/2026, 2:28:52 PM"
       },
       {
         "title": "IBM Announces Strategic Collaboration with Arm",
@@ -68,34 +68,34 @@
     ],
     "world": [
       {
-        "title": "Funeral director admits preventing 30 burials and theft",
+        "title": "Funeral director who kept bodies for months admits 30 counts of preventing lawful burial",
         "url": "https://www.bbc.com/news/articles/c70kenjyjr8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Apr 2026 13:09:30 GMT"
+        "time": "Thu, 02 Apr 2026 13:49:36 GMT"
       },
       {
-        "title": "How memories of my grandma are tainted by funeral boss's crimes",
+        "title": "We thought we'd buried my grandma, but her body was still at the funeral home",
         "url": "https://www.bbc.com/news/articles/c4gdp4n6nqvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 02 Apr 2026 10:54:03 GMT"
       },
       {
-        "title": "Storm Dave set to batter UK with gales and blizzards over Easter weekend",
-        "url": "https://www.bbc.com/weather/articles/ce3d7n10ypyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Artemis II is in orbit - what happens next?",
+        "url": "https://www.bbc.com/news/articles/c7vqre914pzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Apr 2026 10:57:39 GMT"
-      },
-      {
-        "title": "Petrol and diesel prices see biggest rise on record in March",
-        "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 02 Apr 2026 07:41:37 GMT"
+        "time": "Thu, 02 Apr 2026 12:20:34 GMT"
       },
       {
         "title": "Fifa is charging up to $10,990 for World Cup final tickets in first open sale",
         "url": "https://www.bbc.com/sport/football/articles/ce8lzj0rprpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 02 Apr 2026 13:10:43 GMT"
+      },
+      {
+        "title": "Storm Dave set to batter UK with gales and blizzards over Easter weekend",
+        "url": "https://www.bbc.com/weather/articles/ce3d7n10ypyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 02 Apr 2026 10:57:39 GMT"
       }
     ],
     "projects": [
