@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-02T06:07:32.466Z"
+    "built_at": "2026-04-02T08:00:31.032Z"
   },
-  "items": [
-    {
-      "title": "drrdrr – Free, no app, no db, CLI > Phone Notifications",
-      "url": "https://github.com/abishekvenkat/drrdrr",
-      "date": "2026-04-02T06:06:14.000Z"
-    },
-    {
-      "title": "I'm Suing Anthropic for Unauthorized Use of My Personality",
-      "url": "https://www.lesswrong.com/posts/zuAfLrApKg4CExzTw/i-m-suing-anthropic-for-unauthorized-use-of-my-personality",
-      "date": "2026-04-02T06:00:43.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
