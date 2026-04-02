@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-02T13:09:45.040Z",
-  "updated_local": "4/2/2026, 1:09:45 PM",
+  "updated_iso": "2026-04-02T13:46:38.141Z",
+  "updated_local": "4/2/2026, 1:46:38 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "LinkedIn Is Illegally Searching Your Computer",
+        "url": "https://browsergate.eu/",
+        "source": "hn",
+        "time": "4/2/2026, 1:09:09 PM"
+      },
+      {
         "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
         "url": "https://lemonade-server.ai",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "4/2/2026, 11:40:41 AM"
       },
       {
-        "title": "IBM Announces Strategic Collaboration with Arm",
-        "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-        "source": "hn",
-        "time": "4/2/2026, 8:48:44 AM"
-      },
-      {
         "title": "Sweden goes back to basics, swapping screens for books in the classroom",
         "url": "https://undark.org/2026/04/01/sweden-schools-books/",
         "source": "hn",
         "time": "4/2/2026, 10:50:00 AM"
       },
       {
-        "title": "Bringing Clojure programming to Enterprise (2021)",
-        "url": "https://blogit.michelin.io/clojure-programming/",
+        "title": "IBM Announces Strategic Collaboration with Arm",
+        "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
         "source": "hn",
-        "time": "4/2/2026, 8:19:11 AM"
+        "time": "4/2/2026, 8:48:44 AM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Funeral director admits preventing 30 burials and theft",
         "url": "https://www.bbc.com/news/articles/c70kenjyjr8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Apr 2026 12:54:09 GMT"
+        "time": "Thu, 02 Apr 2026 13:09:30 GMT"
       },
       {
         "title": "How memories of my grandma are tainted by funeral boss's crimes",
@@ -92,10 +92,10 @@
         "time": "Thu, 02 Apr 2026 07:41:37 GMT"
       },
       {
-        "title": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
-        "url": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Fifa is charging up to $10,990 for World Cup final tickets in first open sale",
+        "url": "https://www.bbc.com/sport/football/articles/ce8lzj0rprpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Apr 2026 12:44:07 GMT"
+        "time": "Thu, 02 Apr 2026 13:10:43 GMT"
       }
     ],
     "projects": [
