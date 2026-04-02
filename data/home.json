@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-02T05:01:18.699Z",
-  "updated_local": "4/2/2026, 5:01:18 AM",
+  "updated_iso": "2026-04-02T05:45:00.758Z",
+  "updated_local": "4/2/2026, 5:45:00 AM",
   "sections": {
     "crypto": [
       {
@@ -42,10 +42,16 @@
         "time": "4/1/2026, 5:11:31 PM"
       },
       {
-        "title": "Your sign-up form is a weapon",
+        "title": "Subscription bombing and how to mitigate it",
         "url": "https://bytemash.net/posts/subscription-bombing-your-signup-form-is-a-weapon/",
         "source": "hn",
         "time": "4/2/2026, 4:08:05 AM"
+      },
+      {
+        "title": "The Claude Code Leak",
+        "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
+        "source": "hn",
+        "time": "4/2/2026, 2:26:05 AM"
       },
       {
         "title": "Quantum computing bombshells that are not April Fools",
@@ -58,20 +64,20 @@
         "url": "https://github.com/ocaml/ocaml/pull/14701",
         "source": "hn",
         "time": "4/1/2026, 11:35:02 PM"
-      },
-      {
-        "title": "The Claude Code Leak",
-        "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
-        "source": "hn",
-        "time": "4/2/2026, 2:26:05 AM"
       }
     ],
     "world": [
       {
-        "title": "BBC sacked Scott Mills after learning alleged victim in police investigation was under 16",
-        "url": "https://www.bbc.com/news/articles/c4gv7yj71llo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch the moment Artemis II blasts into space on historic mission",
+        "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Apr 2026 04:42:14 GMT"
+        "time": "Wed, 01 Apr 2026 23:00:39 GMT"
+      },
+      {
+        "title": "'We go for all humanity' - emotional moment as Artemis II launches",
+        "url": "https://www.bbc.com/news/articles/cz90yp7w104o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 02 Apr 2026 03:09:08 GMT"
       },
       {
         "title": "Doctors lose new jobs package as strike to go ahead",
@@ -80,22 +86,16 @@
         "time": "Wed, 01 Apr 2026 23:29:39 GMT"
       },
       {
-        "title": "The delicate question of where responsibility lies for safety on our mountains",
-        "url": "https://www.bbc.com/news/articles/cz0e105yk23o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "BBC sacked Scott Mills after learning alleged victim in police investigation was under 16",
+        "url": "https://www.bbc.com/news/articles/c4gv7yj71llo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 01 Apr 2026 23:08:09 GMT"
+        "time": "Thu, 02 Apr 2026 04:42:14 GMT"
       },
       {
-        "title": "Motability drivers 'horrified' by compulsory black-box trackers",
-        "url": "https://www.bbc.com/news/articles/c203n6qx3ego?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Record monthly rise in petrol and diesel prices, says RAC",
+        "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 01 Apr 2026 23:09:18 GMT"
-      },
-      {
-        "title": "New laws to make it easier to cancel subscriptions",
-        "url": "https://www.bbc.com/news/articles/cvg0v36ek2go?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 01 Apr 2026 23:10:34 GMT"
+        "time": "Wed, 01 Apr 2026 23:59:00 GMT"
       }
     ],
     "projects": [
