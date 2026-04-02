@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-02T19:07:26.352Z",
-  "updated_local": "4/2/2026, 7:07:26 PM",
+  "updated_iso": "2026-04-02T19:49:20.342Z",
+  "updated_local": "4/2/2026, 7:49:20 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Elon Musk&#39;s X Is Making Big Changes to Combat Crypto Scams",
+        "url": "https://decrypt.co/363194/elon-musk-x-making-changes-combat-crypto-scams",
+        "source": "crypto",
+        "time": "Thu, 02 Apr 2026 19:21:15 +0000"
+      },
       {
         "title": "Drift Protocol&#39;s $285 Million Exploit on Solana Raises Questions Over DeFi Security",
         "url": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/363171/trump-admin-backs-prediction-markets-lawsuits-illinois-arizona-connecticut",
         "source": "crypto",
         "time": "Thu, 02 Apr 2026 17:25:01 +0000"
-      },
-      {
-        "title": "AI Could Become 2,000 Times More Efficient by Copying the Brain: Study",
-        "url": "https://decrypt.co/363164/ai-could-become-2000-times-more-efficient-by-copying-the-brain-study",
-        "source": "crypto",
-        "time": "Thu, 02 Apr 2026 17:00:32 +0000"
       }
     ],
     "hacker": [
@@ -48,25 +48,31 @@
         "time": "4/2/2026, 6:22:03 PM"
       },
       {
-        "title": "Qwen3.6-Plus: Towards real world agents",
-        "url": "https://qwen.ai/blog?id=qwen3.6",
-        "source": "hn",
-        "time": "4/2/2026, 2:28:52 PM"
-      },
-      {
         "title": "George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting",
         "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
         "source": "hn",
         "time": "4/2/2026, 6:21:08 PM"
       },
       {
-        "title": "LinkedIn is illegally searching your computer",
-        "url": "https://browsergate.eu/",
+        "title": "Qwen3.6-Plus: Towards real world agents",
+        "url": "https://qwen.ai/blog?id=qwen3.6",
         "source": "hn",
-        "time": "4/2/2026, 1:09:09 PM"
+        "time": "4/2/2026, 2:28:52 PM"
+      },
+      {
+        "title": "Yggdrasil Network",
+        "url": "https://yggdrasil-network.github.io/",
+        "source": "hn",
+        "time": "4/2/2026, 6:15:19 PM"
       }
     ],
     "world": [
+      {
+        "title": "Trump removes US Attorney General Pam Bondi",
+        "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 02 Apr 2026 19:26:56 GMT"
+      },
       {
         "title": "Funeral director who kept bodies for months admits 30 counts of preventing lawful burial",
         "url": "https://www.bbc.com/news/articles/c70kenjyjr8o?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +86,16 @@
         "time": "Thu, 02 Apr 2026 17:01:19 GMT"
       },
       {
-        "title": "Prince William praises £20m milestone for Bowelbabe fund",
-        "url": "https://www.bbc.com/news/articles/c4gvd994x15o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Investigation into IVF clinics in northern Cyprus after UK families given wrong sperm",
+        "url": "https://www.bbc.com/news/articles/ce9mx2ggdg3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Apr 2026 15:53:47 GMT"
+        "time": "Thu, 02 Apr 2026 15:02:13 GMT"
       },
       {
         "title": "Tiger Woods crash bodycam footage released by police",
         "url": "https://www.bbc.com/sport/golf/articles/c393zx19xemo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Apr 2026 17:32:09 GMT"
-      },
-      {
-        "title": "Storm Dave set to batter UK with gales and blizzards over Easter weekend",
-        "url": "https://www.bbc.com/weather/articles/ce3d7n10ypyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 02 Apr 2026 10:57:39 GMT"
+        "time": "Thu, 02 Apr 2026 19:33:36 GMT"
       }
     ],
     "projects": [
