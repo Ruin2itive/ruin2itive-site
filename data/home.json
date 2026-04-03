@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-03T09:05:32.537Z",
-  "updated_local": "4/3/2026, 9:05:32 AM",
+  "updated_iso": "2026-04-03T09:51:24.717Z",
+  "updated_local": "4/3/2026, 9:51:24 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Proton Meet Isn't What They Told You It Was",
+        "url": "https://www.sambent.com/proton-meet-isnt-what-they-told-you/",
+        "source": "hn",
+        "time": "4/3/2026, 8:59:45 AM"
+      },
+      {
         "title": "Google releases Gemma 4 open models",
         "url": "https://deepmind.google/models/gemma/gemma-4/",
         "source": "hn",
         "time": "4/2/2026, 4:10:54 PM"
+      },
+      {
+        "title": "ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO",
+        "url": "https://www.espressif.com/en/news/ESP32_S31_Release",
+        "source": "hn",
+        "time": "3/29/2026, 9:39:23 AM"
       },
       {
         "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
@@ -52,18 +64,6 @@
         "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
         "source": "hn",
         "time": "3/29/2026, 12:07:24 PM"
-      },
-      {
-        "title": "ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO",
-        "url": "https://www.espressif.com/en/news/ESP32_S31_Release",
-        "source": "hn",
-        "time": "3/29/2026, 9:39:23 AM"
-      },
-      {
-        "title": "Tailscale's new macOS home",
-        "url": "https://tailscale.com/blog/macos-notch-escape",
-        "source": "hn",
-        "time": "4/2/2026, 6:22:03 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
         "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 03 Apr 2026 09:04:56 GMT"
+        "time": "Fri, 03 Apr 2026 09:29:01 GMT"
       },
       {
         "title": "'Trust us, you look amazing': Artemis II astronauts speak from space",
