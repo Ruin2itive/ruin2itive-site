@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-03T09:45:45.197Z"
+    "built_at": "2026-04-03T10:36:15.450Z"
   },
-  "items": [
-    {
-      "title": "I built an AI data extraction engine and E2E encrypted SMS router in Rust",
-      "url": "https://news.ycombinator.com/item?id=47624769",
-      "date": "2026-04-03T09:43:08.000Z"
-    },
-    {
-      "title": "Tree Calculus",
-      "url": "https://treecalcul.us/",
-      "date": "2026-04-03T09:42:05.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
