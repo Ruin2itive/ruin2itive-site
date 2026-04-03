@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-03T10:36:15.450Z"
+    "built_at": "2026-04-03T11:32:46.635Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Where did the 'Oh-My-God' particle come from?",
+      "url": "https://www.scientificamerican.com/article/where-did-the-oh-my-god-particle-come-from/",
+      "date": "2026-04-03T11:31:53.000Z"
+    },
+    {
+      "title": "Netflix just released its first public AI model, because why not",
+      "url": "https://efficienist.com/netflix-just-release-its-first-public-ai-model-because-why-not/",
+      "date": "2026-04-03T11:29:53.000Z"
+    }
+  ]
 }
