@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-03T14:53:44.033Z",
-  "updated_local": "4/3/2026, 2:53:44 PM",
+  "updated_iso": "2026-04-03T15:37:24.678Z",
+  "updated_local": "4/3/2026, 3:37:24 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Miner Riot Platforms Sells Over $250 Million Worth of BTC",
+        "url": "https://decrypt.co/363255/bitcoin-miner-riot-platforms-sells-250-million-btc",
+        "source": "crypto",
+        "time": "Fri, 03 Apr 2026 14:53:57 +0000"
+      },
       {
         "title": "Ethereum Foundation Stakes $93M Worth of ETH, Nears Strategic Target",
         "url": "https://decrypt.co/363253/ethereum-foundation-stakes-93m-worth-of-eth-nears-strategic-target",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/363233/polymarket-inks-us-canada-deal-with-european-soccer-league-laliga",
         "source": "crypto",
         "time": "Fri, 03 Apr 2026 10:11:54 +0000"
-      },
-      {
-        "title": "Naoris Launches Post-Quantum Blockchain as Bitcoin, Ethereum Devs Scramble to Face Threat",
-        "url": "https://decrypt.co/363207/naoris-launches-post-quantum-blockchain-bitcoin-ethereum",
-        "source": "crypto",
-        "time": "Thu, 02 Apr 2026 23:00:05 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Solar and batteries can power the world",
+        "url": "https://nworbmot.org/blog/solar-battery-world.html",
+        "source": "hn",
+        "time": "4/3/2026, 2:29:26 PM"
+      },
       {
         "title": "Show HN: I built a frontpage for personal blogs",
         "url": "https://text.blogosphere.app/",
@@ -42,22 +48,16 @@
         "time": "4/3/2026, 12:33:45 PM"
       },
       {
+        "title": "Marc Andreessen is wrong about introspection",
+        "url": "https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/",
+        "source": "hn",
+        "time": "4/3/2026, 2:29:12 PM"
+      },
+      {
         "title": "Big-Endian Testing with QEMU",
         "url": "https://www.hanshq.net/big-endian-qemu.html",
         "source": "hn",
         "time": "4/3/2026, 1:28:58 PM"
-      },
-      {
-        "title": "Show HN: ctx – an Agentic Development Environment (ADE)",
-        "url": "https://ctx.rs",
-        "source": "hn",
-        "time": "4/3/2026, 1:45:02 PM"
-      },
-      {
-        "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
-        "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
-        "source": "hn",
-        "time": "4/3/2026, 9:35:16 AM"
       },
       {
         "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
@@ -89,13 +89,13 @@
         "title": "M&S boss calls for more action on crime and abuse of staff",
         "url": "https://www.bbc.com/news/articles/crk16j2j1ygo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 03 Apr 2026 07:29:13 GMT"
+        "time": "Fri, 03 Apr 2026 15:04:31 GMT"
       },
       {
-        "title": "No positive drug tests during Winter Olympics, for first time in 28 years",
-        "url": "https://www.bbc.com/sport/articles/ce8jzpj6nyko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Italy's famed Uffizi admits cyber-attack but denies security breach",
+        "url": "https://www.bbc.com/news/articles/cy51wzeq6g5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 03 Apr 2026 10:18:59 GMT"
+        "time": "Fri, 03 Apr 2026 15:04:39 GMT"
       }
     ],
     "projects": [
