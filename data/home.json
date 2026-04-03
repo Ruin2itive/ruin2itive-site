@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-03T21:42:40.504Z",
-  "updated_local": "4/3/2026, 9:42:40 PM",
+  "updated_iso": "2026-04-03T22:31:19.436Z",
+  "updated_local": "4/3/2026, 10:31:19 PM",
   "sections": {
     "crypto": [
       {
@@ -48,22 +48,22 @@
         "time": "4/3/2026, 5:22:20 PM"
       },
       {
-        "title": "Show HN: I built a frontpage for personal blogs",
-        "url": "https://text.blogosphere.app/",
+        "title": "Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C",
+        "url": "https://github.com/cmc-labo/tinyos-rtos",
         "source": "hn",
-        "time": "4/3/2026, 12:33:45 PM"
-      },
-      {
-        "title": "How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)",
-        "url": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
-        "source": "hn",
-        "time": "4/3/2026, 6:54:11 PM"
+        "time": "4/3/2026, 9:46:26 PM"
       },
       {
         "title": "What changes when you turn a Linux box into a router",
         "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
         "source": "hn",
         "time": "3/31/2026, 1:13:20 PM"
+      },
+      {
+        "title": "Show HN: I built a frontpage for personal blogs",
+        "url": "https://text.blogosphere.app/",
+        "source": "hn",
+        "time": "4/3/2026, 12:33:45 PM"
       }
     ],
     "world": [
@@ -74,10 +74,16 @@
         "time": "Fri, 03 Apr 2026 13:16:33 GMT"
       },
       {
+        "title": "Three charged over Jewish charity ambulance fires",
+        "url": "https://www.bbc.com/news/articles/cz0ey7z2jx3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 03 Apr 2026 22:00:12 GMT"
+      },
+      {
         "title": "Artemis II crew take 'spectacular' image of Earth",
         "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 03 Apr 2026 18:25:25 GMT"
+        "time": "Fri, 03 Apr 2026 21:44:31 GMT"
       },
       {
         "title": "Starmer's cost-of-living adviser calls for fuel duty cut extension",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 03 Apr 2026 20:43:33 GMT"
-      },
-      {
-        "title": "Trump seeks $1.5tn for defence alongside domestic spending cuts",
-        "url": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 03 Apr 2026 15:45:25 GMT"
       }
     ],
     "projects": [
