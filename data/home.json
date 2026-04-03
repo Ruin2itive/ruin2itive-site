@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-03T09:51:24.717Z",
-  "updated_local": "4/3/2026, 9:51:24 AM",
+  "updated_iso": "2026-04-03T10:40:48.293Z",
+  "updated_local": "4/3/2026, 10:40:48 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Polymarket Inks US, Canada Deal with European Soccer League LaLiga",
+        "url": "https://decrypt.co/363233/polymarket-inks-us-canada-deal-with-european-soccer-league-laliga",
+        "source": "crypto",
+        "time": "Fri, 03 Apr 2026 10:11:54 +0000"
+      },
       {
         "title": "Naoris Launches Post-Quantum Blockchain as Bitcoin, Ethereum Devs Scramble to Face Threat",
         "url": "https://decrypt.co/363207/naoris-launches-post-quantum-blockchain-bitcoin-ethereum",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/363194/elon-musk-x-making-changes-combat-crypto-scams",
         "source": "crypto",
         "time": "Thu, 02 Apr 2026 19:21:15 +0000"
-      },
-      {
-        "title": "Drift Protocol&#39;s $285 Million Exploit on Solana Raises Questions Over DeFi Security",
-        "url": "https://decrypt.co/363176/drift-protocol-285-million-exploit-solana-defi-security",
-        "source": "crypto",
-        "time": "Thu, 02 Apr 2026 19:04:39 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Proton Meet Isn't What They Told You It Was",
-        "url": "https://www.sambent.com/proton-meet-isnt-what-they-told-you/",
+        "title": "Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps",
+        "url": "https://only-eu.eu/en/",
         "source": "hn",
-        "time": "4/3/2026, 8:59:45 AM"
+        "time": "4/3/2026, 9:37:24 AM"
       },
       {
         "title": "Google releases Gemma 4 open models",
@@ -48,22 +48,22 @@
         "time": "4/2/2026, 4:10:54 PM"
       },
       {
+        "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+        "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
+        "source": "hn",
+        "time": "4/3/2026, 9:35:16 AM"
+      },
+      {
+        "title": "Proton Meet Isn't What They Told You It Was",
+        "url": "https://www.sambent.com/proton-meet-isnt-what-they-told-you/",
+        "source": "hn",
+        "time": "4/3/2026, 8:59:45 AM"
+      },
+      {
         "title": "ESP32-S31: 320MHz 2C RV32IMAFCP+CLIC, 512KB SRAM, GbE, 802.11ax, 61 GPIO",
         "url": "https://www.espressif.com/en/news/ESP32_S31_Release",
         "source": "hn",
         "time": "3/29/2026, 9:39:23 AM"
-      },
-      {
-        "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
-        "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-        "source": "hn",
-        "time": "4/2/2026, 4:00:27 PM"
-      },
-      {
-        "title": "The True Shape of Io's Steeple Mountain",
-        "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
-        "source": "hn",
-        "time": "3/29/2026, 12:07:24 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Fri, 03 Apr 2026 07:29:13 GMT"
       },
       {
+        "title": "Funeral boss will pay for what he did, says baby's mum",
+        "url": "https://www.bbc.com/news/articles/cy01w2yjzr8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 03 Apr 2026 09:45:55 GMT"
+      },
+      {
         "title": "Trump removes US Attorney General Pam Bondi",
         "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 03 Apr 2026 00:31:27 GMT"
-      },
-      {
-        "title": "Crisis staff found 'unforgivable scene' at convicted undertaker's funeral home",
-        "url": "https://www.bbc.com/news/articles/cvg33l4g88lo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 02 Apr 2026 23:12:49 GMT"
       }
     ],
     "projects": [
