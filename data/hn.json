@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-03T15:34:18.581Z"
+    "built_at": "2026-04-03T16:31:05.655Z"
   },
-  "items": [
-    {
-      "title": "Show HN: LoreSpec – Structured knowledge extraction from AI conversations",
-      "url": "https://lorespec.org/",
-      "date": "2026-04-03T15:33:19.000Z"
-    },
-    {
-      "title": "Micro – One endpoint. 30 tools. Any AI agent",
-      "url": "https://micro.mu/developers.html",
-      "date": "2026-04-03T15:30:02.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
