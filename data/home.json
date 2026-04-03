@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-03T17:42:41.419Z",
-  "updated_local": "4/3/2026, 5:42:41 PM",
+  "updated_iso": "2026-04-03T18:43:30.221Z",
+  "updated_local": "4/3/2026, 6:43:30 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Miner MARA Slashes 15% of Workforce After Selling $1.1 Billion in BTC",
+        "url": "https://decrypt.co/363263/bitcoin-miner-mara-slashes-workforce-selling-billion-btc",
+        "source": "crypto",
+        "time": "Fri, 03 Apr 2026 18:29:20 +0000"
+      },
+      {
+        "title": "Myriad Traders Predict US Boots in Iran After Downed Fighter Jet Prompts Rescue Mission",
+        "url": "https://decrypt.co/363303/myriad-traders-predict-us-boots-iran-downed-fighter-jet",
+        "source": "crypto",
+        "time": "Fri, 03 Apr 2026 18:13:43 +0000"
+      },
       {
         "title": "Decentralized Email Service Dmail to Shut Down, Token Hits New Low",
         "url": "https://decrypt.co/363289/decentralized-email-service-dmail-shut-down-token-new-low",
@@ -20,21 +32,15 @@
         "url": "https://decrypt.co/363260/we-are-ready-to-speak-drift-beckons-north-korea-linked-hackers-following-285m-exploit",
         "source": "crypto",
         "time": "Fri, 03 Apr 2026 16:34:12 +0000"
-      },
-      {
-        "title": "What Is Q-Day? The Quantum Threat to Bitcoin Explained",
-        "url": "https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained",
-        "source": "crypto",
-        "time": "Fri, 03 Apr 2026 16:33:05 +0000"
-      },
-      {
-        "title": "Where Next for Bitcoin After Worst Quarter Since 2018?",
-        "url": "https://decrypt.co/363259/where-next-for-bitcoin-after-worst-quarter-since-2018",
-        "source": "crypto",
-        "time": "Fri, 03 Apr 2026 15:51:25 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "iNaturalist",
+        "url": "https://www.inaturalist.org/",
+        "source": "hn",
+        "time": "4/3/2026, 5:22:20 PM"
+      },
       {
         "title": "Show HN: I built a frontpage for personal blogs",
         "url": "https://text.blogosphere.app/",
@@ -42,10 +48,10 @@
         "time": "4/3/2026, 12:33:45 PM"
       },
       {
-        "title": "iNaturalist",
-        "url": "https://www.inaturalist.org/",
+        "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+        "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
         "source": "hn",
-        "time": "4/3/2026, 5:22:20 PM"
+        "time": "4/2/2026, 6:24:29 PM"
       },
       {
         "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
@@ -54,16 +60,10 @@
         "time": "3/29/2026, 8:55:46 PM"
       },
       {
-        "title": "Big-Endian Testing with QEMU",
-        "url": "https://www.hanshq.net/big-endian-qemu.html",
+        "title": "Go on Embedded Systems and WebAssembly",
+        "url": "https://tinygo.org/",
         "source": "hn",
-        "time": "4/3/2026, 1:28:58 PM"
-      },
-      {
-        "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
-        "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
-        "source": "hn",
-        "time": "4/3/2026, 9:35:16 AM"
+        "time": "4/3/2026, 4:57:09 PM"
       }
     ],
     "world": [
@@ -74,13 +74,13 @@
         "time": "Fri, 03 Apr 2026 13:16:33 GMT"
       },
       {
-        "title": "Watch: Artemis II's journey so far as it leaves Earth's orbit",
-        "url": "https://www.bbc.com/news/videos/cpqxn8zx8ydo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Artemis II crew take 'spectacular' image of Earth",
+        "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 03 Apr 2026 13:06:18 GMT"
+        "time": "Fri, 03 Apr 2026 18:25:25 GMT"
       },
       {
-        "title": "Boy, 14, shot dead in Woolwich named",
+        "title": "Boy, 14, shot dead in Woolwich named as three teens held",
         "url": "https://www.bbc.com/news/articles/cj40ekewqrgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 03 Apr 2026 16:56:42 GMT"
