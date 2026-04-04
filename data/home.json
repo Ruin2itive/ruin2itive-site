@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-04T13:14:37.658Z",
-  "updated_local": "4/4/2026, 1:14:37 PM",
+  "updated_iso": "2026-04-04T13:52:11.874Z",
+  "updated_local": "4/4/2026, 1:52:11 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Apple: Embarrassingly Simple Self-Distillation Improves Code Generation",
+        "title": "Simple self-distillation improves code generation",
         "url": "https://arxiv.org/abs/2604.01193",
         "source": "hn",
         "time": "4/4/2026, 10:26:21 AM"
-      },
-      {
-        "title": "The CMS is dead. Long live the CMS",
-        "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
-        "source": "hn",
-        "time": "4/4/2026, 11:24:30 AM"
       },
       {
         "title": "Some Unusual Trees",
@@ -58,9 +52,27 @@
         "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
         "source": "hn",
         "time": "4/3/2026, 7:35:02 PM"
+      },
+      {
+        "title": "The CMS is dead. Long live the CMS",
+        "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
+        "source": "hn",
+        "time": "4/4/2026, 11:24:30 AM"
       }
     ],
     "world": [
+      {
+        "title": "Amber wind warning issued as Storm Dave set to hit parts of UK",
+        "url": "https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 04 Apr 2026 13:39:54 GMT"
+      },
+      {
+        "title": "Fourth suspect arrested over Jewish charity ambulance arson attack",
+        "url": "https://www.bbc.com/news/articles/clyjrrl17j1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 04 Apr 2026 13:37:47 GMT"
+      },
       {
         "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
         "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&amp;at_campaign=rss",
@@ -68,28 +80,16 @@
         "time": "Sat, 04 Apr 2026 06:42:48 GMT"
       },
       {
-        "title": "Amber wind warning issued as Storm Dave set to hit parts of UK",
-        "url": "https://www.bbc.com/news/articles/cg40xx110peo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russian attack on Ukraine market kills five",
+        "url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 04 Apr 2026 13:02:10 GMT"
+        "time": "Sat, 04 Apr 2026 13:13:36 GMT"
       },
       {
         "title": "State pension age starts rising to 67 - here's how much you get and when",
         "url": "https://www.bbc.com/news/articles/cx2e7e90kneo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 03 Apr 2026 23:27:52 GMT"
-      },
-      {
-        "title": "Five Met Police officers taken off duty after bag of weapons is left in the street",
-        "url": "https://www.bbc.com/news/articles/cjd8y33ze08o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 04 Apr 2026 06:46:54 GMT"
-      },
-      {
-        "title": "After 16 years in power, could Viktor Orban finally be unseated?",
-        "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 03 Apr 2026 23:04:24 GMT"
       }
     ],
     "projects": [
