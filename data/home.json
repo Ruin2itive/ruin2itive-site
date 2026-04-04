@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-04T10:43:14.904Z",
-  "updated_local": "4/4/2026, 10:43:14 AM",
+  "updated_iso": "2026-04-04T11:27:13.193Z",
+  "updated_local": "4/4/2026, 11:27:13 AM",
   "sections": {
     "crypto": [
       {
@@ -36,48 +36,36 @@
     ],
     "hacker": [
       {
-        "title": "Artemis II crew take “spectacular” image of Earth",
-        "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-        "source": "hn",
-        "time": "4/3/2026, 7:35:02 PM"
-      },
-      {
         "title": "Some Unusual Trees",
         "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
         "source": "hn",
         "time": "4/4/2026, 9:04:19 AM"
       },
       {
-        "title": "GitHub has DMCA'd nearly all forks of the official Claude-code repo",
-        "url": "https://github.com/anthropics/claude-code/forks",
+        "title": "Artemis II crew take “spectacular” image of Earth",
+        "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
         "source": "hn",
-        "time": "3/31/2026, 11:41:42 PM"
+        "time": "4/3/2026, 7:35:02 PM"
       },
       {
         "title": "iNaturalist",
         "url": "https://www.inaturalist.org/",
         "source": "hn",
         "time": "4/3/2026, 5:22:20 PM"
+      },
+      {
+        "title": "OpenClaw privilege escalation vulnerability",
+        "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
+        "source": "hn",
+        "time": "4/3/2026, 4:21:32 PM"
       }
     ],
     "world": [
-      {
-        "title": "Three charged over Jewish charity ambulance fires",
-        "url": "https://www.bbc.com/news/articles/cz0ey7z2jx3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 03 Apr 2026 22:35:16 GMT"
-      },
       {
         "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
         "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 04 Apr 2026 06:42:48 GMT"
-      },
-      {
-        "title": "After 16 years in power, could Viktor Orban finally be unseated?",
-        "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 03 Apr 2026 23:04:24 GMT"
       },
       {
         "title": "State pension age starts rising to 67 - here's how much you get and when",
@@ -86,10 +74,22 @@
         "time": "Fri, 03 Apr 2026 23:27:52 GMT"
       },
       {
+        "title": "Trump seeks $152m to reopen notorious Alcatraz prison",
+        "url": "https://www.bbc.com/news/articles/c3dlpk0zzy1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 04 Apr 2026 09:17:10 GMT"
+      },
+      {
         "title": "Five Met Police officers taken off duty after bag of weapons is left in the street",
         "url": "https://www.bbc.com/news/articles/cjd8y33ze08o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 04 Apr 2026 06:46:54 GMT"
+      },
+      {
+        "title": "After 16 years in power, could Viktor Orban finally be unseated?",
+        "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 03 Apr 2026 23:04:24 GMT"
       }
     ],
     "projects": [
