@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-03T23:42:27.755Z",
-  "updated_local": "4/3/2026, 11:42:27 PM",
+  "updated_iso": "2026-04-04T02:00:41.753Z",
+  "updated_local": "4/4/2026, 2:00:41 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Artemis II crew take 'spectacular' image of Earth",
+        "title": "Artemis II crew take “spectacular” image of Earth",
         "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
         "source": "hn",
         "time": "4/3/2026, 7:35:02 PM"
-      },
-      {
-        "title": "iNaturalist",
-        "url": "https://www.inaturalist.org/",
-        "source": "hn",
-        "time": "4/3/2026, 5:22:20 PM"
       },
       {
         "title": "Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C",
@@ -54,10 +48,16 @@
         "time": "4/3/2026, 9:46:26 PM"
       },
       {
-        "title": "What changes when you turn a Linux box into a router",
-        "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+        "title": "iNaturalist",
+        "url": "https://www.inaturalist.org/",
         "source": "hn",
-        "time": "3/31/2026, 1:13:20 PM"
+        "time": "4/3/2026, 5:22:20 PM"
+      },
+      {
+        "title": "Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",
+        "url": "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans",
+        "source": "hn",
+        "time": "4/3/2026, 11:26:44 PM"
       }
     ],
     "world": [
@@ -80,16 +80,16 @@
         "time": "Fri, 03 Apr 2026 23:04:24 GMT"
       },
       {
-        "title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
-        "url": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 03 Apr 2026 20:43:33 GMT"
-      },
-      {
         "title": "Faced with new energy shock, Europe asks if reviving nuclear is the answer",
         "url": "https://www.bbc.com/news/articles/c4g8k8vq8gno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 03 Apr 2026 23:14:04 GMT"
+      },
+      {
+        "title": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
+        "url": "https://www.bbc.com/news/articles/cew70wjvv9do?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 03 Apr 2026 20:43:33 GMT"
       }
     ],
     "projects": [
