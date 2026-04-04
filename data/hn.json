@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-04T11:23:06.781Z"
+    "built_at": "2026-04-04T12:37:18.301Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Forking mods to add interactive mode",
+      "url": "https://mil.ad/blog/2026/interactive-mods.html",
+      "date": "2026-04-04T12:33:15.000Z"
+    },
+    {
+      "title": "Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11",
+      "url": "https://adashape.com",
+      "date": "2026-04-04T12:33:14.000Z"
+    }
+  ]
 }
