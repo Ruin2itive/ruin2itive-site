@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-05T01:48:08.219Z"
+    "built_at": "2026-04-05T04:31:46.155Z"
   },
-  "items": [
-    {
-      "title": "Demonstrating Real Time AV2 Decoding on Consumer Laptops",
-      "url": "http://aomedia.org/blog%20posts/Demonstrating-Real-Time-AV2-Decoding-on-Consumer-Laptops/",
-      "date": "2026-04-05T01:32:28.000Z"
-    },
-    {
-      "title": "Show HN: Lagsim – Simulate real network conditions (3G, WiFi, Starlink)",
-      "url": "https://github.com/rs/lagsim",
-      "date": "2026-04-05T01:26:35.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
