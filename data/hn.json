@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-05T04:31:46.155Z"
+    "built_at": "2026-04-05T06:10:36.442Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The SimCity Planning Commission Handbook (2024)",
+      "url": "https://www.thomas-huehn.com/simcity/",
+      "date": "2026-04-05T06:09:13.000Z"
+    },
+    {
+      "title": "Polygraph: Signature generation algorithms for polymorphic worms (2005)",
+      "url": "https://github.com/sporksmith/polygraph",
+      "date": "2026-04-05T06:09:00.000Z"
+    }
+  ]
 }
