@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-05T17:29:03.380Z",
-  "updated_local": "4/5/2026, 5:29:03 PM",
+  "updated_iso": "2026-04-05T17:40:10.944Z",
+  "updated_local": "4/5/2026, 5:40:10 PM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,16 @@
         "time": "4/5/2026, 2:18:12 PM"
       },
       {
-        "title": "Codex is switching to API pricing based usage for all users",
-        "url": "https://help.openai.com/en/articles/20001106-codex-rate-card",
-        "source": "hn",
-        "time": "4/5/2026, 3:58:08 PM"
-      },
-      {
         "title": "Eight years of wanting, three months of building with AI",
         "url": "https://lalitm.com/post/building-syntaqlite-ai/",
         "source": "hn",
         "time": "4/5/2026, 12:43:47 PM"
+      },
+      {
+        "title": "Codex is switching to API pricing based usage for all users",
+        "url": "https://help.openai.com/en/articles/20001106-codex-rate-card",
+        "source": "hn",
+        "time": "4/5/2026, 3:58:08 PM"
       },
       {
         "title": "A tail-call interpreter in (nightly) Rust",
@@ -60,7 +60,7 @@
         "time": "4/5/2026, 3:18:01 PM"
       },
       {
-        "title": "A Claude Code skill that makes Claude talk like a caveman, cutting token use",
+        "title": "Caveman: Why use many token when few token do trick",
         "url": "https://github.com/JuliusBrussee/caveman",
         "source": "hn",
         "time": "4/5/2026, 8:56:18 AM"
