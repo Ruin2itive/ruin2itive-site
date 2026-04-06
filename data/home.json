@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-06T07:27:11.024Z",
-  "updated_local": "4/6/2026, 7:27:11 AM",
+  "updated_iso": "2026-04-06T08:25:51.747Z",
+  "updated_local": "4/6/2026, 8:25:51 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "SideX – A Tauri-based port of Visual Studio Code",
-        "url": "https://github.com/Sidenai/sidex",
-        "source": "hn",
-        "time": "4/6/2026, 6:49:42 AM"
-      },
-      {
         "title": "Show HN: I built a tiny LLM to demystify how language models work",
         "url": "https://github.com/arman-bd/guppylm",
         "source": "hn",
@@ -54,16 +48,22 @@
         "time": "4/5/2026, 6:45:53 PM"
       },
       {
-        "title": "Show HN: I made a YouTube search form with advanced filters",
-        "url": "https://playlists.at/youtube/search/",
-        "source": "hn",
-        "time": "4/6/2026, 12:18:26 AM"
-      },
-      {
         "title": "An open-source 240-antenna array to bounce signals off the Moon",
         "url": "https://moonrf.com/",
         "source": "hn",
         "time": "4/6/2026, 3:22:42 AM"
+      },
+      {
+        "title": "The 1987 game “The Last Ninja” was 40 kilobytes",
+        "url": "https://twitter.com/exQUIZitely/status/2040777977521398151",
+        "source": "hn",
+        "time": "4/6/2026, 3:03:22 AM"
+      },
+      {
+        "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+        "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+        "source": "hn",
+        "time": "4/5/2026, 5:27:41 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Sun, 05 Apr 2026 23:00:58 GMT"
       },
       {
-        "title": "'Two weeks will make such a difference': UK first as Northern Ireland brings in miscarriage leave",
+        "title": "Don't put off treatment during doctors' strike, NHS tells patients",
+        "url": "https://www.bbc.com/news/articles/c5y9j02dvq5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 06 Apr 2026 08:14:25 GMT"
+      },
+      {
+        "title": "Northern Ireland becomes first in UK to give parents two weeks paid leave for miscarriage",
         "url": "https://www.bbc.com/news/articles/c9d4g24y5x8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 06 Apr 2026 04:44:13 GMT"
-      },
-      {
-        "title": "Pepsi withdraws as UK festival sponsor after Kanye West backlash",
-        "url": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 05 Apr 2026 19:58:17 GMT"
       }
     ],
     "projects": [
