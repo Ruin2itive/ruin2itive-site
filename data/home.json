@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-06T13:39:13.462Z",
-  "updated_local": "4/6/2026, 1:39:13 PM",
+  "updated_iso": "2026-04-06T14:44:24.175Z",
+  "updated_local": "4/6/2026, 2:44:24 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Tom Lee’s BitMine Nears 4% of Ethereum Supply as ETH Price Hits Weekly High",
+        "url": "https://decrypt.co/363378/tom-lee-bitmine-4-percent-ethereum-supply-eth-price-weekly-high",
+        "source": "crypto",
+        "time": "Mon, 06 Apr 2026 14:29:58 +0000"
+      },
       {
         "title": "Strategy Resumes Bitcoin Treasury Buys With $330M Purchase",
         "url": "https://decrypt.co/363373/strategy-resumes-bitcoin-treasury-buys-with-330m-purchase",
@@ -26,20 +32,26 @@
         "url": "https://decrypt.co/363364/north-korean-hackers-spent-six-months-infiltrating-drift-before-285m-exploit",
         "source": "crypto",
         "time": "Mon, 06 Apr 2026 09:52:05 +0000"
-      },
-      {
-        "title": "Bitcoin Hits Weekly High Over $69K on US-Iran Ceasefire Hopes as Oil Slides",
-        "url": "https://decrypt.co/363361/bitcoin-hits-weekly-high-over-69k-on-us-iran-ceasefire-hopes-as-oil-slides",
-        "source": "crypto",
-        "time": "Mon, 06 Apr 2026 09:08:48 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "I Won't Download Your App. The Web Version Is A-OK",
+        "url": "https://www.0xsid.com/blog/wont-download-your-app",
+        "source": "hn",
+        "time": "4/6/2026, 2:31:29 PM"
+      },
       {
         "title": "What Being Ripped Off Taught Me",
         "url": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
         "source": "hn",
         "time": "4/6/2026, 12:53:41 PM"
+      },
+      {
+        "title": "Germany Doxes \"UNKN,\" Head of RU Ransomware Gangs REvil, GandCrab",
+        "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+        "source": "hn",
+        "time": "4/6/2026, 1:52:37 PM"
       },
       {
         "title": "Show HN: I built a tiny LLM to demystify how language models work",
@@ -48,31 +60,13 @@
         "time": "4/6/2026, 12:20:12 AM"
       },
       {
-        "title": "France pulls last gold held in US for $15B gain",
-        "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
+        "title": "The Team Behind a Pro-Iran, Lego-Themed Viral-Video Campaign",
+        "url": "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign",
         "source": "hn",
-        "time": "4/6/2026, 8:03:43 AM"
-      },
-      {
-        "title": "Gemma 4 on iPhone",
-        "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-        "source": "hn",
-        "time": "4/5/2026, 6:45:53 PM"
-      },
-      {
-        "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
-        "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
-        "source": "hn",
-        "time": "4/5/2026, 5:27:41 PM"
+        "time": "4/6/2026, 2:01:09 PM"
       }
     ],
     "world": [
-      {
-        "title": "How rescue of US airman in remote part of Iran unfolded",
-        "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 06 Apr 2026 12:22:21 GMT"
-      },
       {
         "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
         "url": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&amp;at_campaign=rss",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 06 Apr 2026 11:48:29 GMT"
+      },
+      {
+        "title": "Pressure mounts over Kanye West's UK festival appearance",
+        "url": "https://www.bbc.com/news/articles/cwywnkdn3zno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 06 Apr 2026 13:00:29 GMT"
       }
     ],
     "projects": [
