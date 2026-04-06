@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-06T10:02:32.292Z"
+    "built_at": "2026-04-06T11:41:50.404Z"
   },
-  "items": [
-    {
-      "title": "Hello",
-      "url": "https://hacker-news.firebaseio.com/v0/newstories.json?print=pretty",
-      "date": "2026-04-06T09:59:09.000Z"
-    },
-    {
-      "title": "Show HN: Free AI Business Name Generator with Domain Screening",
-      "url": "https://noetron.ai/namegen",
-      "date": "2026-04-06T09:56:37.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
