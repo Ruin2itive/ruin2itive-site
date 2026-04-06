@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-06T20:48:57.092Z",
-  "updated_local": "4/6/2026, 8:48:57 PM",
+  "updated_iso": "2026-04-06T21:36:15.610Z",
+  "updated_local": "4/6/2026, 9:36:15 PM",
   "sections": {
     "crypto": [
       {
@@ -36,26 +36,14 @@
     ],
     "hacker": [
       {
-        "title": "Battle for Wesnoth: open-source, turn-based strategy game",
-        "url": "https://www.wesnoth.org",
-        "source": "hn",
-        "time": "4/6/2026, 5:37:38 PM"
-      },
-      {
-        "title": "A macOS kernel bug can cause OpenClaw to stop working after 49.7 days",
-        "url": "https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking",
-        "source": "hn",
-        "time": "4/6/2026, 8:20:54 PM"
-      },
-      {
-        "title": "Show HN: Ghost Pepper – 100% local hold-to-talk speech-to-text for macOS",
+        "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
         "url": "https://github.com/matthartman/ghost-pepper",
         "source": "hn",
         "time": "4/6/2026, 7:50:16 PM"
       },
       {
-        "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
-        "url": "https://www.freestyle.sh",
+        "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+        "url": "https://www.freestyle.sh/",
         "source": "hn",
         "time": "4/6/2026, 4:32:11 PM"
       },
@@ -64,6 +52,18 @@
         "url": "https://words.filippo.io/crqc-timeline/",
         "source": "hn",
         "time": "4/6/2026, 3:31:20 PM"
+      },
+      {
+        "title": "Show HN: GovAuctions lets you browse government auctions at once",
+        "url": "https://www.govauctions.app/",
+        "source": "hn",
+        "time": "4/6/2026, 4:21:46 PM"
+      },
+      {
+        "title": "Got kicked out of uni and had the cops called for a social media website I made",
+        "url": "https://monyatwu.com/blog/iitsocial/",
+        "source": "hn",
+        "time": "4/6/2026, 6:10:41 PM"
       }
     ],
     "world": [
@@ -71,13 +71,7 @@
         "title": "Wireless Festival boss defends Kanye West booking and asks people to forgive rapper",
         "url": "https://www.bbc.com/news/articles/cwyvr08l7lzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 06 Apr 2026 20:47:13 GMT"
-      },
-      {
-        "title": "Benefits and pensions rise as two-child cap ends",
-        "url": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 05 Apr 2026 23:00:58 GMT"
+        "time": "Mon, 06 Apr 2026 21:31:06 GMT"
       },
       {
         "title": "Don't put off treatment during doctors' strike, NHS tells patients",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/cddqm316mvjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 06 Apr 2026 18:01:24 GMT"
+      },
+      {
+        "title": "Warmest weather of the year expected with 24C this week",
+        "url": "https://www.bbc.com/weather/articles/cn7866klrp2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 06 Apr 2026 17:03:44 GMT"
       }
     ],
     "projects": [
