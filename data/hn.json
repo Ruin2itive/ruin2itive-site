@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-06T20:30:41.133Z"
+    "built_at": "2026-04-06T21:31:05.681Z"
   },
-  "items": [
-    {
-      "title": "AI dataset filter (free for now)",
-      "url": "https://datasetfilter.com/",
-      "date": "2026-04-06T20:29:20.000Z"
-    },
-    {
-      "title": "Show HN: Sidebar based/tabbed tiling window manager for macOS",
-      "url": "https://github.com/zimengxiong/winmux/",
-      "date": "2026-04-06T20:28:52.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
