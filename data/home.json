@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-07T09:16:27.493Z",
-  "updated_local": "4/7/2026, 9:16:27 AM",
+  "updated_iso": "2026-04-07T10:13:50.204Z",
+  "updated_local": "4/7/2026, 10:13:50 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin ETFs Add $471M in Biggest One-Day Haul Since February",
+        "url": "https://decrypt.co/363483/bitcoin-etfs-add-471m-in-biggest-one-day-haul-since-february",
+        "source": "crypto",
+        "time": "Tue, 07 Apr 2026 09:46:25 +0000"
+      },
       {
         "title": "Jamie Dimon Says AI Will Impact &#39;Virtually Every Function&#39; at JPMorgan Chase",
         "url": "https://decrypt.co/363441/jamie-dimon-ai-impact-virtually-every-function-jpmorgan",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/363432/tokenized-stocks-first-on-chain-vote-galaxy-shareholders",
         "source": "crypto",
         "time": "Mon, 06 Apr 2026 19:01:41 +0000"
-      },
-      {
-        "title": "Altcoin Resilience Signals &#39;Compelling Entry Points&#39; for Crypto Markets: Grayscale",
-        "url": "https://decrypt.co/363426/altcoin-resilience-compelling-entry-points-crypto-markets-grayscale",
-        "source": "crypto",
-        "time": "Mon, 06 Apr 2026 18:27:54 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "4/6/2026, 7:50:16 PM"
       },
       {
+        "title": "Three hundred synths, 3 hardware projects, and one app",
+        "url": "https://midi.guide/blog/three-hunded-synths-one-app/",
+        "source": "hn",
+        "time": "4/7/2026, 5:12:25 AM"
+      },
+      {
         "title": "Solod – A subset of Go that translates to C",
         "url": "https://github.com/solod-dev/solod",
         "source": "hn",
         "time": "4/7/2026, 12:48:01 AM"
-      },
-      {
-        "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-        "url": "https://github.com/anthropics/claude-code/issues/42796",
-        "source": "hn",
-        "time": "4/6/2026, 1:50:35 PM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 06 Apr 2026 23:04:23 GMT"
+      },
+      {
+        "title": "Artemis II crew head for home after travelling further from Earth than anyone before",
+        "url": "https://www.bbc.com/news/articles/cx23p6j5gxgo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 07 Apr 2026 06:33:58 GMT"
       },
       {
         "title": "Disruption expected as six-day doctors' strike begins",
@@ -83,19 +89,13 @@
         "title": "Kanye offers to meet Jewish community in UK after Wireless controversy",
         "url": "https://www.bbc.com/news/articles/cly79lrrz4lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 07 Apr 2026 08:45:14 GMT"
+        "time": "Tue, 07 Apr 2026 09:36:04 GMT"
       },
       {
         "title": "Warmest weather of the year expected with 25C on Wednesday",
         "url": "https://www.bbc.com/weather/articles/cn7866klrp2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 07 Apr 2026 06:54:54 GMT"
-      },
-      {
-        "title": "More than 1,700 Brits who fell ill in Cape Verde join action against Tui",
-        "url": "https://www.bbc.com/news/articles/c70d8dn1nrpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 07 Apr 2026 05:05:49 GMT"
       }
     ],
     "projects": [
