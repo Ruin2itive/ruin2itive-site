@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-07T05:51:02.618Z",
-  "updated_local": "4/7/2026, 5:51:02 AM",
+  "updated_iso": "2026-04-07T07:13:34.330Z",
+  "updated_local": "4/7/2026, 7:13:34 AM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
+        "title": "My Experience as a Rice Farmer",
+        "url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
+        "source": "hn",
+        "time": "4/2/2026, 1:53:55 PM"
+      },
+      {
         "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
         "url": "https://github.com/matthartman/ghost-pepper",
         "source": "hn",
         "time": "4/6/2026, 7:50:16 PM"
       },
       {
-        "title": "Solod – A Subset of Go That Translates to C",
+        "title": "Solod – A subset of Go that translates to C",
         "url": "https://github.com/solod-dev/solod",
         "source": "hn",
         "time": "4/7/2026, 12:48:01 AM"
-      },
-      {
-        "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
-        "url": "https://www.freestyle.sh/",
-        "source": "hn",
-        "time": "4/6/2026, 4:32:11 PM"
-      },
-      {
-        "title": "A cryptography engineer's perspective on quantum computing timelines",
-        "url": "https://words.filippo.io/crqc-timeline/",
-        "source": "hn",
-        "time": "4/6/2026, 3:31:20 PM"
       },
       {
         "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
         "url": "https://github.com/anthropics/claude-code/issues/42796",
         "source": "hn",
         "time": "4/6/2026, 1:50:35 PM"
+      },
+      {
+        "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+        "url": "https://www.freestyle.sh/",
+        "source": "hn",
+        "time": "4/6/2026, 4:32:11 PM"
       }
     ],
     "world": [
@@ -74,7 +74,7 @@
         "time": "Tue, 07 Apr 2026 01:03:27 GMT"
       },
       {
-        "title": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough",
+        "title": "Little sign of breakthrough as Trump's Iran deadline nears",
         "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 06 Apr 2026 23:04:23 GMT"
@@ -83,19 +83,19 @@
         "title": "Disruption expected as six-day doctors' strike begins",
         "url": "https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 06 Apr 2026 23:02:51 GMT"
+        "time": "Tue, 07 Apr 2026 06:38:07 GMT"
+      },
+      {
+        "title": "Kanye offers to meet Jewish community in UK after Wireless controversy",
+        "url": "https://www.bbc.com/news/articles/cly79lrrz4lo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 07 Apr 2026 07:06:55 GMT"
       },
       {
         "title": "More than 1,700 Brits who fell ill in Cape Verde join action against Tui",
         "url": "https://www.bbc.com/news/articles/c70d8dn1nrpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 07 Apr 2026 05:05:49 GMT"
-      },
-      {
-        "title": "China is winning one AI race, the US another - but either might pull ahead",
-        "url": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 07 Apr 2026 05:13:12 GMT"
       }
     ],
     "projects": [
