@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-07T11:07:15.799Z",
-  "updated_local": "4/7/2026, 11:07:15 AM",
+  "updated_iso": "2026-04-07T11:52:39.239Z",
+  "updated_local": "4/7/2026, 11:52:39 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Whale Moves $20M to Binance Amid Broader Selling Pressure",
+        "url": "https://decrypt.co/363488/bitcoin-whale-moves-20m-to-binance-amid-broader-selling-pressure",
+        "source": "crypto",
+        "time": "Tue, 07 Apr 2026 11:41:43 +0000"
+      },
       {
         "title": "Bitcoin ETFs Add $471M in Biggest One-Day Haul Since February",
         "url": "https://decrypt.co/363483/bitcoin-etfs-add-471m-in-biggest-one-day-haul-since-february",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/363431/openai-global-shift-labor-taxation-ai-sam-altman",
         "source": "crypto",
         "time": "Mon, 06 Apr 2026 19:01:49 +0000"
-      },
-      {
-        "title": "Tokenized Stocks Take Next Step With First On-Chain Vote for Galaxy Shareholders",
-        "url": "https://decrypt.co/363432/tokenized-stocks-first-on-chain-vote-galaxy-shareholders",
-        "source": "crypto",
-        "time": "Mon, 06 Apr 2026 19:01:41 +0000"
       }
     ],
     "hacker": [
@@ -42,31 +42,37 @@
         "time": "4/7/2026, 9:57:39 AM"
       },
       {
-        "title": "Every GPU That Mattered",
-        "url": "https://sheets.works/data-viz/every-gpu",
-        "source": "hn",
-        "time": "4/7/2026, 8:38:17 AM"
-      },
-      {
         "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
         "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
         "source": "hn",
         "time": "4/7/2026, 10:25:12 AM"
       },
       {
-        "title": "My Experience as a Rice Farmer",
-        "url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
+        "title": "LLM may be standardizing human expression – and subtly influencing how we think",
+        "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
         "source": "hn",
-        "time": "4/2/2026, 1:53:55 PM"
+        "time": "4/7/2026, 11:29:02 AM"
       },
       {
-        "title": "Blackholing My Email",
-        "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
+        "title": "Every GPU That Mattered",
+        "url": "https://sheets.works/data-viz/every-gpu",
         "source": "hn",
-        "time": "4/7/2026, 8:42:05 AM"
+        "time": "4/7/2026, 8:38:17 AM"
+      },
+      {
+        "title": "Identify a London Underground Line just by listening to it",
+        "url": "https://tubesoundquiz.com/",
+        "source": "hn",
+        "time": "4/7/2026, 10:08:25 AM"
       }
     ],
     "world": [
+      {
+        "title": "Artemis II crew head for home after travelling further from Earth than anyone before",
+        "url": "https://www.bbc.com/news/articles/cx23p6j5gxgo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 07 Apr 2026 06:33:58 GMT"
+      },
       {
         "title": "Watch: Artemis II's historic lunar flyby... in 90 seconds",
         "url": "https://www.bbc.com/news/videos/c3exp80x7vqo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,16 +80,10 @@
         "time": "Tue, 07 Apr 2026 10:56:44 GMT"
       },
       {
-        "title": "Disruption expected as six-day doctors' strike begins",
-        "url": "https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 07 Apr 2026 08:33:02 GMT"
-      },
-      {
         "title": "Plan 2 student loan interest rates capped at 6% in England",
         "url": "https://www.bbc.com/news/articles/crr1e5zqdyko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 07 Apr 2026 10:27:41 GMT"
+        "time": "Tue, 07 Apr 2026 11:21:16 GMT"
       },
       {
         "title": "Ex-footballer Barton denies golf club attack",
@@ -92,10 +92,10 @@
         "time": "Tue, 07 Apr 2026 10:26:48 GMT"
       },
       {
-        "title": "Warmest weather of the year expected with 25C on Wednesday",
-        "url": "https://www.bbc.com/weather/articles/cn7866klrp2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Disruption expected as six-day doctors' strike begins",
+        "url": "https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 07 Apr 2026 06:54:54 GMT"
+        "time": "Tue, 07 Apr 2026 08:33:02 GMT"
       }
     ],
     "projects": [
