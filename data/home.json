@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-07T15:19:27.389Z",
-  "updated_local": "4/7/2026, 3:19:27 PM",
+  "updated_iso": "2026-04-07T16:56:27.702Z",
+  "updated_local": "4/7/2026, 4:56:27 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Phone Logs Show Seven Calls Between Milei and LIBRA Backer on Launch Night: Report",
+        "url": "https://decrypt.co/363504/phone-logs-show-seven-calls-between-milei-and-libra-backer-on-launch-night-report",
+        "source": "crypto",
+        "time": "Tue, 07 Apr 2026 15:21:36 +0000"
+      },
       {
         "title": "XRP ETFs Outpace Bitcoin as Crypto Funds Bounce Back After Down Week",
         "url": "https://decrypt.co/363501/xrp-etfs-outpace-bitcoin-crypto-funds-bounce-back-down-week",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/363440/devs-claude-talk-like-caveman-cut-costs-work-better",
         "source": "crypto",
         "time": "Tue, 07 Apr 2026 13:01:02 +0000"
-      },
-      {
-        "title": "$11.4B Lost to Crypto Scams in 2025: FBI Internet Crime Report",
-        "url": "https://decrypt.co/363486/11-4b-lost-to-crypto-scams-in-2025-fbi-internet-crime-report",
-        "source": "crypto",
-        "time": "Tue, 07 Apr 2026 12:51:51 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "4/7/2026, 11:07:44 AM"
       },
       {
+        "title": "Cloudflare targets 2029 for full post-quantum security",
+        "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
+        "source": "hn",
+        "time": "4/7/2026, 2:07:34 PM"
+      },
+      {
+        "title": "Moving fast in hardware: lessons from lab to $100M ARR",
+        "url": "https://blog.zacka.io/p/simplify-then-add-lightness-bc4",
+        "source": "hn",
+        "time": "4/7/2026, 3:07:38 PM"
+      },
+      {
+        "title": "Google open-sources experimental agent orchestration testbed Scion",
+        "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
+        "source": "hn",
+        "time": "4/7/2026, 1:39:15 PM"
+      },
+      {
         "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
         "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
         "source": "hn",
         "time": "4/7/2026, 10:25:12 AM"
-      },
-      {
-        "title": "Claude Code is locking people out for hours",
-        "url": "https://github.com/anthropics/claude-code/issues/44257",
-        "source": "hn",
-        "time": "4/7/2026, 3:04:23 PM"
-      },
-      {
-        "title": "Dropping Cloudflare for Bunny.net",
-        "url": "https://jola.dev/posts/dropping-cloudflare",
-        "source": "hn",
-        "time": "4/7/2026, 1:23:05 PM"
-      },
-      {
-        "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
-        "url": "https://www.intofarlands.com/atlasofarda",
-        "source": "hn",
-        "time": "4/7/2026, 12:12:15 PM"
       }
     ],
     "world": [
@@ -74,16 +74,10 @@
         "time": "Tue, 07 Apr 2026 14:51:07 GMT"
       },
       {
-        "title": "Artemis II crew head for home after travelling further from Earth than anyone before",
-        "url": "https://www.bbc.com/news/articles/cx23p6j5gxgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Has Artemis II shown we can land on the Moon again?",
+        "url": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 07 Apr 2026 06:33:58 GMT"
-      },
-      {
-        "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
-        "url": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 07 Apr 2026 14:53:18 GMT"
+        "time": "Tue, 07 Apr 2026 15:23:05 GMT"
       },
       {
         "title": "Plan 2 student loan interest rates capped at 6% in England",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/c05d1j0q9jro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 07 Apr 2026 12:49:01 GMT"
+      },
+      {
+        "title": "Temperatures hit 25C making it the warmest day in the UK for six months",
+        "url": "https://www.bbc.com/weather/articles/cn7866klrp2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 07 Apr 2026 06:54:54 GMT"
       }
     ],
     "projects": [
