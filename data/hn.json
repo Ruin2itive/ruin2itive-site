@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-07T08:07:04.796Z"
+    "built_at": "2026-04-07T10:01:29.113Z"
   },
-  "items": [
-    {
-      "title": "Ask HN: Make AI Filter for Hacker News",
-      "url": "https://news.ycombinator.com/item?id=47672065",
-      "date": "2026-04-07T08:03:40.000Z"
-    },
-    {
-      "title": "So You Think You Have a Power Law – Well Isn't That Special? (2007)",
-      "url": "https://bactra.org/weblog/491.html",
-      "date": "2026-04-07T07:58:30.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
