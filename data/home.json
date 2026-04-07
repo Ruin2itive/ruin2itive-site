@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-07T10:13:50.204Z",
-  "updated_local": "4/7/2026, 10:13:50 AM",
+  "updated_iso": "2026-04-07T11:07:15.799Z",
+  "updated_local": "4/7/2026, 11:07:15 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Are We Idiocracy Yet?",
+        "url": "https://idiocracy.wtf/",
+        "source": "hn",
+        "time": "4/7/2026, 9:57:39 AM"
+      },
+      {
         "title": "Every GPU That Mattered",
         "url": "https://sheets.works/data-viz/every-gpu",
         "source": "hn",
         "time": "4/7/2026, 8:38:17 AM"
+      },
+      {
+        "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+        "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+        "source": "hn",
+        "time": "4/7/2026, 10:25:12 AM"
       },
       {
         "title": "My Experience as a Rice Farmer",
@@ -48,36 +60,18 @@
         "time": "4/2/2026, 1:53:55 PM"
       },
       {
-        "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
-        "url": "https://github.com/matthartman/ghost-pepper",
+        "title": "Blackholing My Email",
+        "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
         "source": "hn",
-        "time": "4/6/2026, 7:50:16 PM"
-      },
-      {
-        "title": "Three hundred synths, 3 hardware projects, and one app",
-        "url": "https://midi.guide/blog/three-hunded-synths-one-app/",
-        "source": "hn",
-        "time": "4/7/2026, 5:12:25 AM"
-      },
-      {
-        "title": "Solod – A subset of Go that translates to C",
-        "url": "https://github.com/solod-dev/solod",
-        "source": "hn",
-        "time": "4/7/2026, 12:48:01 AM"
+        "time": "4/7/2026, 8:42:05 AM"
       }
     ],
     "world": [
       {
-        "title": "Anthony Zurcher: Little sign of breakthrough as Trump's Iran deadline nears",
-        "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Artemis II's historic lunar flyby... in 90 seconds",
+        "url": "https://www.bbc.com/news/videos/c3exp80x7vqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 06 Apr 2026 23:04:23 GMT"
-      },
-      {
-        "title": "Artemis II crew head for home after travelling further from Earth than anyone before",
-        "url": "https://www.bbc.com/news/articles/cx23p6j5gxgo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 07 Apr 2026 06:33:58 GMT"
+        "time": "Tue, 07 Apr 2026 10:56:44 GMT"
       },
       {
         "title": "Disruption expected as six-day doctors' strike begins",
@@ -86,10 +80,16 @@
         "time": "Tue, 07 Apr 2026 08:33:02 GMT"
       },
       {
-        "title": "Kanye offers to meet Jewish community in UK after Wireless controversy",
-        "url": "https://www.bbc.com/news/articles/cly79lrrz4lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Plan 2 student loan interest rates capped at 6% in England",
+        "url": "https://www.bbc.com/news/articles/crr1e5zqdyko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 07 Apr 2026 09:36:04 GMT"
+        "time": "Tue, 07 Apr 2026 10:27:41 GMT"
+      },
+      {
+        "title": "Ex-footballer Barton denies golf club attack",
+        "url": "https://www.bbc.com/news/articles/c05d1j0q9jro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 07 Apr 2026 10:26:48 GMT"
       },
       {
         "title": "Warmest weather of the year expected with 25C on Wednesday",
