@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-07T20:38:49.422Z"
+    "built_at": "2026-04-07T21:36:14.758Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Open-source GDPR router for LLMs detects PII, forces EU-only inference",
+      "url": "https://github.com/mahadillahm4di-cyber/mh-gdpr-ai.eu",
+      "date": "2026-04-07T21:35:41.000Z"
+    },
+    {
+      "title": "From Hierarchy to Intelligence",
+      "url": "https://sequoiacap.com/article/from-hierarchy-to-intelligence/",
+      "date": "2026-04-07T21:35:34.000Z"
+    }
+  ]
 }
