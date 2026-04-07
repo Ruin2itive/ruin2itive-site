@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-04-07T13:50:59.656Z",
-  "updated_local": "4/7/2026, 1:50:59 PM",
+  "updated_iso": "2026-04-07T15:05:39.539Z",
+  "updated_local": "4/7/2026, 3:05:39 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "XRP ETFs Outpace Bitcoin as Crypto Funds Bounce Back After Down Week",
+        "url": "https://decrypt.co/363501/xrp-etfs-outpace-bitcoin-crypto-funds-bounce-back-down-week",
+        "source": "crypto",
+        "time": "Tue, 07 Apr 2026 14:56:18 +0000"
+      },
+      {
+        "title": "CME Set to Launch Avalanche, Sui Futures Ahead of 24/7 Crypto Derivatives Trading Shift",
+        "url": "https://decrypt.co/363498/cme-avalanche-sui-futures-247-crypto-derivatives-shift",
+        "source": "crypto",
+        "time": "Tue, 07 Apr 2026 14:42:59 +0000"
+      },
+      {
+        "title": "Proposed Ethereum Standard Aims to Help AI Agents Execute Complex DeFi Trades",
+        "url": "https://decrypt.co/363473/proposed-ethereum-standard-ai-agents-execute-complex-defi-trades",
+        "source": "crypto",
+        "time": "Tue, 07 Apr 2026 14:01:03 +0000"
+      },
       {
         "title": "Devs Are Making Claude Talk Like a Caveman to Cut Costs—And It Works",
         "url": "https://decrypt.co/363440/devs-claude-talk-like-caveman-cut-costs-work-better",
@@ -14,33 +32,9 @@
         "url": "https://decrypt.co/363486/11-4b-lost-to-crypto-scams-in-2025-fbi-internet-crime-report",
         "source": "crypto",
         "time": "Tue, 07 Apr 2026 12:51:51 +0000"
-      },
-      {
-        "title": "Morning Minute: Ceasefire Hopes Rise, Fall Along with Bitcoin",
-        "url": "https://decrypt.co/363491/morning-minute-ceasefire-hopes-rise-fall-along-with-bitcoin",
-        "source": "crypto",
-        "time": "Tue, 07 Apr 2026 12:03:34 +0000"
-      },
-      {
-        "title": "Bitcoin Whale Moves $20M to Binance Amid Broader Selling Pressure",
-        "url": "https://decrypt.co/363488/bitcoin-whale-moves-20m-to-binance-amid-broader-selling-pressure",
-        "source": "crypto",
-        "time": "Tue, 07 Apr 2026 11:41:43 +0000"
-      },
-      {
-        "title": "Bitcoin ETFs Add $471M in Biggest One-Day Haul Since February",
-        "url": "https://decrypt.co/363483/bitcoin-etfs-add-471m-in-biggest-one-day-haul-since-february",
-        "source": "crypto",
-        "time": "Tue, 07 Apr 2026 09:46:25 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Dropping Cloudflare for Bunny.net",
-        "url": "https://jola.dev/posts/dropping-cloudflare",
-        "source": "hn",
-        "time": "4/7/2026, 1:23:05 PM"
-      },
       {
         "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
         "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
@@ -60,10 +54,16 @@
         "time": "4/7/2026, 12:12:15 PM"
       },
       {
-        "title": "Show HN: Pion/handoff – Move WebRTC out of browser and into Go",
-        "url": "https://github.com/pion/handoff",
+        "title": "Dropping Cloudflare for Bunny.net",
+        "url": "https://jola.dev/posts/dropping-cloudflare",
         "source": "hn",
-        "time": "4/7/2026, 12:01:51 PM"
+        "time": "4/7/2026, 1:23:05 PM"
+      },
+      {
+        "title": "Every GPU That Mattered",
+        "url": "https://sheets.works/data-viz/every-gpu",
+        "source": "hn",
+        "time": "4/7/2026, 8:38:17 AM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul",
         "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 07 Apr 2026 13:03:54 GMT"
+        "time": "Tue, 07 Apr 2026 14:51:07 GMT"
       },
       {
         "title": "Artemis II crew head for home after travelling further from Earth than anyone before",
@@ -80,10 +80,10 @@
         "time": "Tue, 07 Apr 2026 06:33:58 GMT"
       },
       {
-        "title": "Watch: Artemis II's historic lunar flyby... in 90 seconds",
-        "url": "https://www.bbc.com/news/videos/c3exp80x7vqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
+        "url": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 07 Apr 2026 10:56:44 GMT"
+        "time": "Tue, 07 Apr 2026 14:53:18 GMT"
       },
       {
         "title": "Plan 2 student loan interest rates capped at 6% in England",
