@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-07T16:47:22.007Z"
+    "built_at": "2026-04-07T17:52:02.394Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Sorry kid, drones are for war now",
+      "url": "https://www.theverge.com/news/906306/fcc-drone-ban-who-will-replace-dji-in-us-antigravity-hoverair-skydio",
+      "date": "2026-04-07T17:50:49.000Z"
+    },
+    {
+      "title": "Ask HN: Are You Using Finetuning?",
+      "url": "https://news.ycombinator.com/item?id=47678862",
+      "date": "2026-04-07T17:49:40.000Z"
+    }
+  ]
 }
