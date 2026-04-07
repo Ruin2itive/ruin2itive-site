@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-07T03:22:10.808Z",
-  "updated_local": "4/7/2026, 3:22:10 AM",
+  "updated_iso": "2026-04-07T05:07:42.657Z",
+  "updated_local": "4/7/2026, 5:07:42 AM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "VOID: Video Object and Interaction Deletion",
-        "url": "https://github.com/Netflix/void-model",
+        "title": "Solod – A Subset of Go That Translates to C",
+        "url": "https://github.com/solod-dev/solod",
         "source": "hn",
-        "time": "4/3/2026, 3:38:53 PM"
+        "time": "4/7/2026, 12:48:01 AM"
       },
       {
         "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
         "url": "https://github.com/matthartman/ghost-pepper",
         "source": "hn",
         "time": "4/6/2026, 7:50:16 PM"
-      },
-      {
-        "title": "Solod – A Subset of Go That Translates to C",
-        "url": "https://github.com/solod-dev/solod",
-        "source": "hn",
-        "time": "4/7/2026, 12:48:01 AM"
       },
       {
         "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
@@ -64,14 +58,20 @@
         "url": "https://words.filippo.io/crqc-timeline/",
         "source": "hn",
         "time": "4/6/2026, 3:31:20 PM"
+      },
+      {
+        "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+        "url": "https://github.com/anthropics/claude-code/issues/42796",
+        "source": "hn",
+        "time": "4/6/2026, 1:50:35 PM"
       }
     ],
     "world": [
       {
-        "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
-        "url": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Artemis II mission loses contact with Earth for 40 minutes",
+        "url": "https://www.bbc.com/news/videos/cp38vg5knveo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 06 Apr 2026 21:55:50 GMT"
+        "time": "Tue, 07 Apr 2026 01:03:27 GMT"
       },
       {
         "title": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough",
@@ -86,16 +86,16 @@
         "time": "Mon, 06 Apr 2026 23:02:51 GMT"
       },
       {
-        "title": "Australia's most-decorated soldier arrested over alleged war crimes",
+        "title": "Australia's most-decorated living soldier arrested over alleged war crimes",
         "url": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 07 Apr 2026 03:21:29 GMT"
+        "time": "Tue, 07 Apr 2026 04:05:07 GMT"
       },
       {
-        "title": "Illegal rave shut down as police face 'violent and hostile' crowd",
-        "url": "https://www.bbc.com/news/articles/cddqm316mvjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "JD Vance due in Hungary to back Orban's re-election bid",
+        "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 06 Apr 2026 18:01:24 GMT"
+        "time": "Tue, 07 Apr 2026 01:45:41 GMT"
       }
     ],
     "projects": [
