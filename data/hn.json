@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-07T13:03:02.094Z"
+    "built_at": "2026-04-07T15:01:34.687Z"
   },
-  "items": [
-    {
-      "title": "CLI that gives AI agents structured SEO data for any URL – SGNL",
-      "url": "https://github.com/stoyan-koychev/sgnl-cli",
-      "date": "2026-04-07T13:02:11.000Z"
-    },
-    {
-      "title": "Show HN: A social feed with no algo where communities decide what gets seen",
-      "url": "https://veridonia.com",
-      "date": "2026-04-07T13:02:08.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
