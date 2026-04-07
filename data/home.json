@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-06T23:44:54.320Z",
-  "updated_local": "4/6/2026, 11:44:54 PM",
+  "updated_iso": "2026-04-07T02:10:58.623Z",
+  "updated_local": "4/7/2026, 2:10:58 AM",
   "sections": {
     "crypto": [
       {
@@ -42,28 +42,28 @@
         "time": "4/6/2026, 7:50:16 PM"
       },
       {
+        "title": "Solod – A Subset of Go That Translates to C",
+        "url": "https://github.com/solod-dev/solod",
+        "source": "hn",
+        "time": "4/7/2026, 12:48:01 AM"
+      },
+      {
+        "title": "Netflix Void Model: Video Object and Interaction Deletion",
+        "url": "https://github.com/Netflix/void-model",
+        "source": "hn",
+        "time": "4/3/2026, 3:38:53 PM"
+      },
+      {
         "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
         "url": "https://www.freestyle.sh/",
         "source": "hn",
         "time": "4/6/2026, 4:32:11 PM"
       },
       {
-        "title": "Sam Altman may control our future – can he be trusted?",
-        "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
-        "source": "hn",
-        "time": "4/6/2026, 10:36:57 AM"
-      },
-      {
         "title": "A cryptography engineer's perspective on quantum computing timelines",
         "url": "https://words.filippo.io/crqc-timeline/",
         "source": "hn",
         "time": "4/6/2026, 3:31:20 PM"
-      },
-      {
-        "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-        "url": "https://github.com/kitfunso/hippo-memory",
-        "source": "hn",
-        "time": "4/6/2026, 9:49:34 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Mon, 06 Apr 2026 21:55:50 GMT"
       },
       {
-        "title": "Trump's Hormuz ultimatum nears - with little indication Iran is on board",
+        "title": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough",
         "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 06 Apr 2026 23:04:23 GMT"
-      },
-      {
-        "title": "Wireless Festival boss defends Kanye West booking and asks people to forgive rapper",
-        "url": "https://www.bbc.com/news/articles/cwyvr08l7lzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 06 Apr 2026 21:31:06 GMT"
-      },
-      {
-        "title": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
-        "url": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 06 Apr 2026 18:07:46 GMT"
       },
       {
         "title": "Disruption expected as six-day doctors' strike begins",
         "url": "https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 06 Apr 2026 23:02:51 GMT"
+      },
+      {
+        "title": "Warmest weather of the year expected with 24C this week",
+        "url": "https://www.bbc.com/weather/articles/cn7866klrp2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 06 Apr 2026 17:03:44 GMT"
+      },
+      {
+        "title": "Illegal rave shut down as police face 'violent and hostile' crowd",
+        "url": "https://www.bbc.com/news/articles/cddqm316mvjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 06 Apr 2026 18:01:24 GMT"
       }
     ],
     "projects": [
