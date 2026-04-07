@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-07T17:58:02.422Z",
-  "updated_local": "4/7/2026, 5:58:02 PM",
+  "updated_iso": "2026-04-07T19:13:25.842Z",
+  "updated_local": "4/7/2026, 7:13:25 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Solana Foundation to Help Secure DeFi Protocols Following $285 Million Drift Hack",
+        "url": "https://decrypt.co/363521/solana-foundation-help-secure-defi-protocols-285-million-drift-hack",
+        "source": "crypto",
+        "time": "Tue, 07 Apr 2026 18:11:18 +0000"
+      },
       {
         "title": "Phone Logs Show Seven Calls Between Milei and LIBRA Backer on Launch Night: Report",
         "url": "https://decrypt.co/363504/phone-logs-show-seven-calls-between-milei-and-libra-backer-on-launch-night-report",
@@ -26,32 +32,26 @@
         "url": "https://decrypt.co/363473/proposed-ethereum-standard-ai-agents-execute-complex-defi-trades",
         "source": "crypto",
         "time": "Tue, 07 Apr 2026 14:01:03 +0000"
-      },
-      {
-        "title": "Devs Are Making Claude Talk Like a Caveman to Cut Costs—And It Works",
-        "url": "https://decrypt.co/363440/devs-claude-talk-like-caveman-cut-costs-work-better",
-        "source": "crypto",
-        "time": "Tue, 07 Apr 2026 13:01:02 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Project Glasswing: Securing critical software for the AI era",
+        "url": "https://www.anthropic.com/glasswing",
+        "source": "hn",
+        "time": "4/7/2026, 6:09:34 PM"
+      },
+      {
+        "title": "System Card: Claude Mythos Preview [pdf]",
+        "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+        "source": "hn",
+        "time": "4/7/2026, 6:18:36 PM"
+      },
       {
         "title": "GLM-5.1: Towards Long-Horizon Tasks",
         "url": "https://z.ai/blog/glm-5.1",
         "source": "hn",
         "time": "4/7/2026, 4:32:15 PM"
-      },
-      {
-        "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
-        "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-        "source": "hn",
-        "time": "4/7/2026, 11:07:44 AM"
-      },
-      {
-        "title": "Cloudflare targets 2029 for full post-quantum security",
-        "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
-        "source": "hn",
-        "time": "4/7/2026, 2:07:34 PM"
       },
       {
         "title": "Cambodia unveils a statue of famous landmine-sniffing rat Magawa",
@@ -60,24 +60,24 @@
         "time": "4/7/2026, 5:23:43 PM"
       },
       {
-        "title": "Google open-sources experimental agent orchestration testbed Scion",
-        "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
+        "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
+        "url": "https://red.anthropic.com/2026/mythos-preview/",
         "source": "hn",
-        "time": "4/7/2026, 1:39:15 PM"
+        "time": "4/7/2026, 6:11:31 PM"
       }
     ],
     "world": [
       {
+        "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
+        "url": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 07 Apr 2026 17:15:34 GMT"
+      },
+      {
         "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
         "url": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 07 Apr 2026 17:21:45 GMT"
-      },
-      {
-        "title": "One gunman killed and two injured in shooting at Israeli consulate in Istanbul",
-        "url": "https://www.bbc.com/news/articles/c3exp8j7yz4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 07 Apr 2026 14:51:07 GMT"
+        "time": "Tue, 07 Apr 2026 18:37:19 GMT"
       },
       {
         "title": "Has Artemis II shown we can land on the Moon again?",
@@ -86,10 +86,10 @@
         "time": "Tue, 07 Apr 2026 15:23:05 GMT"
       },
       {
-        "title": "Plan 2 student loan interest rates capped at 6% in England",
-        "url": "https://www.bbc.com/news/articles/crr1e5zqdyko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Bill Gates set to testify before US Congress in Epstein investigation",
+        "url": "https://www.bbc.com/news/articles/cx2vdekdweqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 07 Apr 2026 11:21:16 GMT"
+        "time": "Tue, 07 Apr 2026 18:40:52 GMT"
       },
       {
         "title": "Strictly star will not face rape charges, police say",
