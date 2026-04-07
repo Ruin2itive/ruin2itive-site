@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-07T18:52:58.538Z"
+    "built_at": "2026-04-07T19:52:18.395Z"
   },
-  "items": [
-    {
-      "title": "Six People. 236 Episodes. 1 Coffee Shop. – Friends visualised",
-      "url": "https://sheets.works/data-viz/friends",
-      "date": "2026-04-07T18:51:31.000Z"
-    },
-    {
-      "title": "A graph of Trump's contradictions that builds itself using a local LLM",
-      "url": "https://biglystable.com",
-      "date": "2026-04-07T18:51:26.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
