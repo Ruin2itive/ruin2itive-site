@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-08T11:53:32.766Z",
-  "updated_local": "4/8/2026, 11:53:32 AM",
+  "updated_iso": "2026-04-08T13:17:26.103Z",
+  "updated_local": "4/8/2026, 1:17:26 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "White House Council of Economic Advisers: Stablecoin Yield Doesn’t Threaten Small Banks",
+        "url": "https://decrypt.co/363633/white-house-council-of-economic-advisers-stablecoin-yield-doesnt-threaten-small-banks",
+        "source": "crypto",
+        "time": "Wed, 08 Apr 2026 12:54:38 +0000"
+      },
+      {
+        "title": "Morning Minute: Crypto Soars, Oil Tumbles on 2-Week Ceasefire",
+        "url": "https://decrypt.co/363624/morning-minute-crypto-soars-oil-tumbles-on-2-week-ceasefire",
+        "source": "crypto",
+        "time": "Wed, 08 Apr 2026 12:08:48 +0000"
+      },
       {
         "title": "Bitcoin Spikes Over $72K as Trump Announces Conditional Ceasefire With Iran",
         "url": "https://decrypt.co/363611/bitcoin-spikes-over-72k-as-trump-announces-conditional-ceasefire-with-iran",
@@ -20,50 +32,38 @@
         "url": "https://decrypt.co/363577/trump-doj-rejects-tornado-cash-developer-argument-dismissal",
         "source": "crypto",
         "time": "Tue, 07 Apr 2026 21:10:12 +0000"
-      },
-      {
-        "title": "Aave Token Falls Near 2-Year Low as Risk Management Firm Becomes Latest to Depart",
-        "url": "https://decrypt.co/363566/aave-token-near-2-year-low-risk-management-firm-departs",
-        "source": "crypto",
-        "time": "Tue, 07 Apr 2026 20:40:41 +0000"
-      },
-      {
-        "title": "FDIC Reveals Proposed Rules for Stablecoin Issuers Under GENIUS Act",
-        "url": "https://decrypt.co/363570/fdic-proposed-rules-stablecoin-issuers-genius-act",
-        "source": "crypto",
-        "time": "Tue, 07 Apr 2026 20:25:03 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "The Git Commands I Run Before Reading Any Code",
+        "title": "Git commands I run before reading any code",
         "url": "https://piechowski.io/post/git-commands-before-reading-code/",
         "source": "hn",
         "time": "4/8/2026, 8:53:42 AM"
       },
       {
-        "title": "Veracrypt Project Update",
+        "title": "Veracrypt project update",
         "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
         "source": "hn",
         "time": "4/8/2026, 7:23:39 AM"
       },
       {
-        "title": "I've Sold Out",
+        "title": "I've sold out",
         "url": "https://mariozechner.at/posts/2026-04-08-ive-sold-out/",
         "source": "hn",
         "time": "4/8/2026, 9:21:38 AM"
       },
       {
-        "title": "Revision Demoparty 2026: Razor1911 [video]",
-        "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
+        "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+        "url": "https://arxiv.org/abs/2604.05091",
         "source": "hn",
-        "time": "4/8/2026, 5:34:08 AM"
+        "time": "4/8/2026, 12:19:00 PM"
       },
       {
-        "title": "Project Glasswing: Securing critical software for the AI era",
-        "url": "https://www.anthropic.com/glasswing",
+        "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+        "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
         "source": "hn",
-        "time": "4/7/2026, 6:09:34 PM"
+        "time": "4/8/2026, 8:50:37 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Wed, 08 Apr 2026 03:30:55 GMT"
       },
       {
+        "title": "Faisal Islam: Pause in attacks is welcome but the economic scars will last",
+        "url": "https://www.bbc.com/news/articles/c5yx4e9d8pdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 08 Apr 2026 12:44:15 GMT"
+      },
+      {
+        "title": "Watch: When will fuel prices go down?",
+        "url": "https://www.bbc.com/news/videos/c62je685v3vo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 08 Apr 2026 11:23:35 GMT"
+      },
+      {
+        "title": "Israel carries out large wave of air strikes across Lebanon",
+        "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 08 Apr 2026 13:13:46 GMT"
+      },
+      {
         "title": "What we know about the two-week ceasefire between the US and Iran",
         "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 08 Apr 2026 11:00:53 GMT"
-      },
-      {
-        "title": "Oil prices plunge on agreement to reopen Strait of Hormuz",
-        "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 08 Apr 2026 08:15:36 GMT"
-      },
-      {
-        "title": "Israel strikes southern Lebanon after US-Iran ceasefire",
-        "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 08 Apr 2026 10:49:37 GMT"
-      },
-      {
-        "title": "Watch: Iranians gather in Tehran following ceasefire announcement",
-        "url": "https://www.bbc.com/news/videos/cgldg5nn9d8o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 08 Apr 2026 11:29:33 GMT"
+        "time": "Wed, 08 Apr 2026 12:36:05 GMT"
       }
     ],
     "projects": [
