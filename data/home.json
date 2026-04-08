@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-04-08T18:12:57.130Z",
-  "updated_local": "4/8/2026, 6:12:57 PM",
+  "updated_iso": "2026-04-08T19:36:44.548Z",
+  "updated_local": "4/8/2026, 7:36:44 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Stablecoin Trading Volume Could Skyrocket to $1.5 Quadrillion by 2035: Chainalysis",
+        "url": "https://decrypt.co/363685/stablecoin-trading-volume-skyrocket-1-5-quadrillion-2035-chainalysis",
+        "source": "crypto",
+        "time": "Wed, 08 Apr 2026 19:06:15 +0000"
+      },
+      {
+        "title": "Bitcoin Pioneer Adam Back, Bernstein Say Quantum Threat to BTC Isn’t Existential",
+        "url": "https://decrypt.co/363680/bitcoin-pioneer-adam-back-bernstein-quantum-threat-not-existential",
+        "source": "crypto",
+        "time": "Wed, 08 Apr 2026 18:58:03 +0000"
+      },
+      {
+        "title": "OpenAI Publishes Child Safety Blueprint to Address AI-Enabled Exploitation",
+        "url": "https://decrypt.co/363681/openai-child-safety-blueprint-ai-exploitation",
+        "source": "crypto",
+        "time": "Wed, 08 Apr 2026 18:51:32 +0000"
+      },
       {
         "title": "Hyperliquid Traders Face Widespread Liquidations as Oil Prices Collapse",
         "url": "https://decrypt.co/363660/hyperliquid-traders-face-widespread-liquidations-oil-prices-collapse",
@@ -14,29 +32,11 @@
         "url": "https://decrypt.co/363654/cloudflare-targets-2029-quantum-safe-internet-threat-bitcoin-looms",
         "source": "crypto",
         "time": "Wed, 08 Apr 2026 17:44:54 +0000"
-      },
-      {
-        "title": "Potential Insiders Made $600K Predicting US and Iran Ceasefire on Polymarket: Bubblemaps",
-        "url": "https://decrypt.co/363656/potential-insiders-600k-predicting-us-iran-ceasefire-polymarket-bubblemaps",
-        "source": "crypto",
-        "time": "Wed, 08 Apr 2026 17:17:31 +0000"
-      },
-      {
-        "title": "Partner of Trump-Backed World Liberty Linked to Sanctioned Cambodian Scam Company: Report",
-        "url": "https://decrypt.co/363617/partner-trump-backed-world-liberty-sanctioned-cambodian-scam-company",
-        "source": "crypto",
-        "time": "Wed, 08 Apr 2026 16:10:22 +0000"
-      },
-      {
-        "title": "Adam Back Denies He&#39;s Satoshi Nakamoto After NYT Names Him as Bitcoin Creator",
-        "url": "https://decrypt.co/363649/adam-back-denies-bitcoin-creator-satoshi-nakamoto-nyt-expose",
-        "source": "crypto",
-        "time": "Wed, 08 Apr 2026 16:00:34 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "I Ported Mac OS X to the Nintendo Wii",
+        "title": "I ported Mac OS X to the Nintendo Wii",
         "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
         "source": "hn",
         "time": "4/8/2026, 3:40:00 PM"
@@ -48,22 +48,22 @@
         "time": "4/8/2026, 8:53:42 AM"
       },
       {
-        "title": "Muse Spark: Scaling Towards Personal Superintelligence",
+        "title": "Understanding the Kalman filter with a simple radar example",
+        "url": "https://kalmanfilter.net",
+        "source": "hn",
+        "time": "4/8/2026, 5:11:46 PM"
+      },
+      {
+        "title": "Muse Spark: Scaling towards personal superintelligence",
         "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
         "source": "hn",
         "time": "4/8/2026, 4:01:32 PM"
       },
       {
-        "title": "They're Made Out of Meat (1991)",
-        "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
+        "title": "Show HN: Orange Juice – Small UX improvements that make HN easier to read",
+        "url": "http://oj-hn.com/",
         "source": "hn",
-        "time": "4/8/2026, 11:20:50 AM"
-      },
-      {
-        "title": "Veracrypt project update",
-        "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-        "source": "hn",
-        "time": "4/8/2026, 7:23:39 AM"
+        "time": "4/8/2026, 6:08:52 PM"
       }
     ],
     "world": [
@@ -89,13 +89,13 @@
         "title": "Israel backs US-Iran ceasefire but Netanyahu's war goals remain unfulfilled",
         "url": "https://www.bbc.com/news/articles/c79j7jnnpz1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 08 Apr 2026 18:02:37 GMT"
+        "time": "Wed, 08 Apr 2026 18:30:58 GMT"
       },
       {
-        "title": "What we know about the two-week ceasefire between the US and Iran",
-        "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Starmer says a lot of work remains to make US-Iran ceasefire hold",
+        "url": "https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 08 Apr 2026 14:14:08 GMT"
+        "time": "Wed, 08 Apr 2026 16:11:26 GMT"
       }
     ],
     "projects": [
