@@ -4,18 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-08T11:46:49.044Z"
+    "built_at": "2026-04-08T13:04:29.463Z"
   },
   "items": [
     {
-      "title": "SpecLock – Your Claude.md is a suggestion. This makes it a law",
-      "url": "https://github.com/sgroy10/speclock",
-      "date": "2026-04-08T11:45:31.000Z"
+      "title": "We Forgot How to Make Some Nuclear Bomb Parts",
+      "url": "https://cdn.lanl.gov/files/nwj2-09_62c62.pdf#page=22",
+      "date": "2026-04-08T13:03:48.000Z"
     },
     {
-      "title": "Anatomy of a GitHub Actions Supply Chain Attack Targeting MCP Repos",
-      "url": "https://www.wshoffner.dev/blog/anatomy-of-a-github-actions-supply-chain-attack-targeting-mcp-repos",
-      "date": "2026-04-08T11:43:37.000Z"
+      "title": "We audited Claude Code and confirmed RCE via environment variable injection",
+      "url": "https://audited.xyz/blog/claude-code",
+      "date": "2026-04-08T13:02:07.000Z"
     }
   ]
 }
