@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-08T15:02:45.827Z"
+    "built_at": "2026-04-08T16:53:09.341Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The Oldschool PC Font Pack",
+      "url": "https://int10h.org/oldschool-pc-fonts/",
+      "date": "2026-04-08T16:52:11.000Z"
+    },
+    {
+      "title": "Are file systems all you need?",
+      "url": "https://onyx.app/blog/file-search-vs-hybrid-search",
+      "date": "2026-04-08T16:52:00.000Z"
+    }
+  ]
 }
