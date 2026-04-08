@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-08T08:58:50.368Z",
-  "updated_local": "4/8/2026, 8:58:50 AM",
+  "updated_iso": "2026-04-08T09:14:24.330Z",
+  "updated_local": "4/8/2026, 9:14:24 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Veracrypt Project Update",
+        "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+        "source": "hn",
+        "time": "4/8/2026, 7:23:39 AM"
+      },
+      {
         "title": "Revision Demoparty 2026: Razor1911 [video]",
         "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
         "source": "hn",
@@ -52,12 +58,6 @@
         "url": "https://www.nasa.gov/gallery/lunar-flyby/",
         "source": "hn",
         "time": "4/7/2026, 3:03:18 PM"
-      },
-      {
-        "title": "Veracrypt Project Update",
-        "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-        "source": "hn",
-        "time": "4/8/2026, 7:23:39 AM"
       },
       {
         "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under two",
