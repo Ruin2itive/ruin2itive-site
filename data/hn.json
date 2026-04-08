@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-08T20:35:11.237Z"
+    "built_at": "2026-04-08T21:35:31.256Z"
   },
-  "items": [
-    {
-      "title": "Anthropic's AI to Help Apple Find iOS, macOS, and Safari Vulnerabilities",
-      "url": "https://www.macrumors.com/2026/04/08/apple-anthropic-project-glasswing/",
-      "date": "2026-04-08T20:34:18.000Z"
-    },
-    {
-      "title": "Show HN: The go-to Python package for App Reviews",
-      "url": "https://github.com/firattamurcw/app-reviews",
-      "date": "2026-04-08T20:33:59.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
