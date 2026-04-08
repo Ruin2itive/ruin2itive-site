@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-08T15:20:31.246Z",
-  "updated_local": "4/8/2026, 3:20:31 PM",
+  "updated_iso": "2026-04-08T16:59:29.179Z",
+  "updated_local": "4/8/2026, 4:59:29 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Partner of Trump-Backed World Liberty Linked to Sanctioned Cambodian Scam Company: Report",
+        "url": "https://decrypt.co/363617/partner-trump-backed-world-liberty-sanctioned-cambodian-scam-company",
+        "source": "crypto",
+        "time": "Wed, 08 Apr 2026 16:10:22 +0000"
+      },
+      {
+        "title": "Adam Back Denies He&#39;s Satoshi Nakamoto After NYT Names Him as Bitcoin Creator",
+        "url": "https://decrypt.co/363649/adam-back-denies-bitcoin-creator-satoshi-nakamoto-nyt-expose",
+        "source": "crypto",
+        "time": "Wed, 08 Apr 2026 16:00:34 +0000"
+      },
       {
         "title": "Moo Deng Meme Coin Rises After Man Fined for Entering Viral Pygmy Hippo&#39;s Den",
         "url": "https://decrypt.co/363645/moo-deng-meme-coin-rises-man-fined-entering-pygmy-hippo-den",
@@ -20,21 +32,21 @@
         "url": "https://decrypt.co/363641/iran-bitcoin-payments-oil-ships-seeking-hormuz-passage",
         "source": "crypto",
         "time": "Wed, 08 Apr 2026 14:28:09 +0000"
-      },
-      {
-        "title": "Bitcoin Surged Overnight After Iran Ceasefire—This New &#39;AfterDark&#39; ETF Would&#39;ve Caught the Move",
-        "url": "https://decrypt.co/363636/bitcoin-surged-overnight-iran-ceasefire-afterdark-etf-wouldve-caught-move",
-        "source": "crypto",
-        "time": "Wed, 08 Apr 2026 13:57:38 +0000"
-      },
-      {
-        "title": "White House Council of Economic Advisers: Stablecoin Yield Doesn’t Threaten Small Banks",
-        "url": "https://decrypt.co/363633/white-house-council-of-economic-advisers-stablecoin-yield-doesnt-threaten-small-banks",
-        "source": "crypto",
-        "time": "Wed, 08 Apr 2026 12:54:38 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "I Ported Mac OS X to the Nintendo Wii",
+        "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+        "source": "hn",
+        "time": "4/8/2026, 3:40:00 PM"
+      },
+      {
+        "title": "Muse Spark – Meta Superintelligence Labs",
+        "url": "https://meta.ai/",
+        "source": "hn",
+        "time": "4/8/2026, 4:05:54 PM"
+      },
       {
         "title": "Git commands I run before reading any code",
         "url": "https://piechowski.io/post/git-commands-before-reading-code/",
@@ -42,28 +54,16 @@
         "time": "4/8/2026, 8:53:42 AM"
       },
       {
+        "title": "Muse Spark: Scaling Towards Personal Superintelligence",
+        "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+        "source": "hn",
+        "time": "4/8/2026, 4:01:32 PM"
+      },
+      {
         "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
         "url": "https://arxiv.org/abs/2604.05091",
         "source": "hn",
         "time": "4/8/2026, 12:19:00 PM"
-      },
-      {
-        "title": "Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters",
-        "url": "https://rival.tips/research/model-similarity",
-        "source": "hn",
-        "time": "4/8/2026, 2:06:03 PM"
-      },
-      {
-        "title": "They're Made Out of Meat (1991)",
-        "url": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
-        "source": "hn",
-        "time": "4/8/2026, 11:20:50 AM"
-      },
-      {
-        "title": "Veracrypt project update",
-        "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-        "source": "hn",
-        "time": "4/8/2026, 7:23:39 AM"
       }
     ],
     "world": [
@@ -74,16 +74,16 @@
         "time": "Wed, 08 Apr 2026 03:30:55 GMT"
       },
       {
+        "title": "Why it could take months for fuel and food prices to return to normal",
+        "url": "https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 08 Apr 2026 14:07:41 GMT"
+      },
+      {
         "title": "Faisal Islam: Pause in attacks is welcome but the economic scars will last",
         "url": "https://www.bbc.com/news/articles/c5yx4e9d8pdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 08 Apr 2026 12:44:15 GMT"
-      },
-      {
-        "title": "Will the ceasefire have any impact on UK fuel and food prices?",
-        "url": "https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 08 Apr 2026 14:07:41 GMT"
       },
       {
         "title": "Israel carries out large wave of air strikes across Lebanon",
