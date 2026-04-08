@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-08T05:51:50.782Z",
-  "updated_local": "4/8/2026, 5:51:50 AM",
+  "updated_iso": "2026-04-08T07:16:18.493Z",
+  "updated_local": "4/8/2026, 7:16:18 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Sonnet 4.6 Elevated Rate of Errors",
+        "url": "https://status.claude.com/incidents/lhws0phdvzz3",
+        "source": "hn",
+        "time": "4/8/2026, 6:34:54 AM"
+      },
+      {
         "title": "Project Glasswing: Securing critical software for the AI era",
         "url": "https://www.anthropic.com/glasswing",
         "source": "hn",
@@ -54,21 +60,15 @@
         "time": "4/8/2026, 3:03:33 AM"
       },
       {
-        "title": "Slightly safer vibecoding by adopting old hacker habits",
-        "url": "http://addxorrol.blogspot.com/2026/03/slightly-safer-vibecoding-by-adopting.html",
+        "title": "Revision Demoparty 2026: Razor1911 [video]",
+        "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
         "source": "hn",
-        "time": "4/3/2026, 1:53:15 AM"
-      },
-      {
-        "title": "Native Americans had dice 12k years ago",
-        "url": "https://www.nbcnews.com/science/science-news/native-americans-dice-games-probability-study-rcna266426",
-        "source": "hn",
-        "time": "4/4/2026, 12:59:08 AM"
+        "time": "4/8/2026, 5:34:08 AM"
       }
     ],
     "world": [
       {
-        "title": "Iran ceasefire deal a partial win for Trump - but at a high cost",
+        "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
         "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 08 Apr 2026 03:30:55 GMT"
@@ -80,22 +80,22 @@
         "time": "Wed, 08 Apr 2026 02:58:55 GMT"
       },
       {
-        "title": "How Pakistan helped secure a fragile ceasefire between the US and Iran",
-        "url": "https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 08 Apr 2026 05:03:31 GMT"
-      },
-      {
-        "title": "Oil plunges after US-Iran ceasefire deal to reopen Strait of Hormuz",
+        "title": "Oil prices plunge on US-Iran ceasefire deal to reopen Strait of Hormuz",
         "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 08 Apr 2026 03:24:53 GMT"
       },
       {
-        "title": "Why the Strait of Hormuz matters so much in the Iran war",
-        "url": "https://www.bbc.com/news/articles/c78n6p09pzno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Starmer to visit Middle East after US and Iran reach ceasefire deal",
+        "url": "https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 08 Apr 2026 01:01:29 GMT"
+        "time": "Wed, 08 Apr 2026 07:09:22 GMT"
+      },
+      {
+        "title": "How Pakistan helped secure a fragile ceasefire between the US and Iran",
+        "url": "https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 08 Apr 2026 05:03:31 GMT"
       }
     ],
     "projects": [
