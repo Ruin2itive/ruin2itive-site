@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-08T13:04:29.463Z"
+    "built_at": "2026-04-08T15:02:45.827Z"
   },
-  "items": [
-    {
-      "title": "We Forgot How to Make Some Nuclear Bomb Parts",
-      "url": "https://cdn.lanl.gov/files/nwj2-09_62c62.pdf#page=22",
-      "date": "2026-04-08T13:03:48.000Z"
-    },
-    {
-      "title": "We audited Claude Code and confirmed RCE via environment variable injection",
-      "url": "https://audited.xyz/blog/claude-code",
-      "date": "2026-04-08T13:02:07.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
