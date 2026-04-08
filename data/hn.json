@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-08T01:47:03.075Z"
+    "built_at": "2026-04-08T04:31:00.904Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Omni Voice – AI Voice Cloning and Text-to-Speech Platform",
-      "url": "https://omnivoice.app",
-      "date": "2026-04-08T01:44:52.000Z"
-    },
-    {
-      "title": "Training SOTA vulnerability discovery agents through RL",
-      "url": "https://depthfirst.com/post/dfs-mini1-agent",
-      "date": "2026-04-08T01:44:23.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
