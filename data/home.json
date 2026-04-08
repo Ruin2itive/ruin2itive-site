@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-08T19:57:38.659Z",
-  "updated_local": "4/8/2026, 7:57:38 PM",
+  "updated_iso": "2026-04-08T20:51:43.061Z",
+  "updated_local": "4/8/2026, 8:51:43 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Miner Cango Sells $143 Million in BTC, Slashes Production Costs",
+        "url": "https://decrypt.co/363730/bitcoin-miner-cango-sells-143-million-btc-slashes-production-costs",
+        "source": "crypto",
+        "time": "Wed, 08 Apr 2026 20:41:30 +0000"
+      },
+      {
+        "title": "Meta Launches Muse Spark, Its Most Capable AI Yet—But Gemini 3.1 Pro Still Leads the Pack",
+        "url": "https://decrypt.co/363691/meta-muse-spark-most-capable-ai-gemini-pro-still-leads",
+        "source": "crypto",
+        "time": "Wed, 08 Apr 2026 20:07:25 +0000"
+      },
       {
         "title": "Treasury Outlines How Stablecoin Rules Will Fight Illicit Finance Under GENIUS Act",
         "url": "https://decrypt.co/363690/treasury-outlines-stablecoin-rules-fight-illicit-finance-under-genius-act",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/363685/stablecoin-trading-volume-skyrocket-1-5-quadrillion-2035-chainalysis",
         "source": "crypto",
         "time": "Wed, 08 Apr 2026 19:06:15 +0000"
-      },
-      {
-        "title": "Bitcoin Pioneer Adam Back, Bernstein Say Quantum Threat to BTC Isn’t Existential",
-        "url": "https://decrypt.co/363680/bitcoin-pioneer-adam-back-bernstein-quantum-threat-not-existential",
-        "source": "crypto",
-        "time": "Wed, 08 Apr 2026 18:58:03 +0000"
-      },
-      {
-        "title": "OpenAI Publishes Child Safety Blueprint to Address AI-Enabled Exploitation",
-        "url": "https://decrypt.co/363681/openai-child-safety-blueprint-ai-exploitation",
-        "source": "crypto",
-        "time": "Wed, 08 Apr 2026 18:51:32 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
         "source": "hn",
         "time": "4/8/2026, 3:40:00 PM"
+      },
+      {
+        "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+        "url": "https://werwolv.net/posts/usb_for_sw_devs/",
+        "source": "hn",
+        "time": "4/8/2026, 7:23:34 PM"
       },
       {
         "title": "Git commands I run before reading any code",
@@ -58,12 +64,6 @@
         "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
         "source": "hn",
         "time": "4/8/2026, 4:01:32 PM"
-      },
-      {
-        "title": "I've been waiting over a month for Anthropic support to respond",
-        "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
-        "source": "hn",
-        "time": "4/8/2026, 5:44:25 PM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.com/news/articles/c62l597wl0yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 08 Apr 2026 17:05:54 GMT"
+      },
+      {
+        "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
+        "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 08 Apr 2026 20:49:30 GMT"
       },
       {
         "title": "Why fuel and food prices could still be affected for months",
@@ -86,16 +92,10 @@
         "time": "Wed, 08 Apr 2026 17:21:31 GMT"
       },
       {
-        "title": "Israel backs US-Iran ceasefire but Netanyahu's war goals remain unfulfilled",
-        "url": "https://www.bbc.com/news/articles/c79j7jnnpz1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Why ceasefire deal with US has unsettled Iran's hardliners",
+        "url": "https://www.bbc.com/news/articles/c5ywpe2yyg3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 08 Apr 2026 18:30:58 GMT"
-      },
-      {
-        "title": "Starmer says a lot of work remains to make US-Iran ceasefire hold",
-        "url": "https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 08 Apr 2026 16:11:26 GMT"
+        "time": "Wed, 08 Apr 2026 17:16:37 GMT"
       }
     ],
     "projects": [
