@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-08T10:01:08.416Z"
+    "built_at": "2026-04-08T11:46:49.044Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "SpecLock – Your Claude.md is a suggestion. This makes it a law",
+      "url": "https://github.com/sgroy10/speclock",
+      "date": "2026-04-08T11:45:31.000Z"
+    },
+    {
+      "title": "Anatomy of a GitHub Actions Supply Chain Attack Targeting MCP Repos",
+      "url": "https://www.wshoffner.dev/blog/anatomy-of-a-github-actions-supply-chain-attack-targeting-mcp-repos",
+      "date": "2026-04-08T11:43:37.000Z"
+    }
+  ]
 }
