@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-09T19:16:00.489Z"
+    "built_at": "2026-04-09T20:41:26.055Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Electrumd: A minimalist Electrum server written in C",
+      "url": "https://codeberg.org/rpmodell/electrumd",
+      "date": "2026-04-09T20:40:00.000Z"
+    },
+    {
+      "title": "Every Gemma 4 model in one chat. Try it in 60 seconds and see how we built it",
+      "url": "https://seqpu.com/UseGemma4In60Seconds/",
+      "date": "2026-04-09T20:39:49.000Z"
+    }
+  ]
 }
