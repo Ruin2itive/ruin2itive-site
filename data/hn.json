@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-08T23:31:46.386Z"
+    "built_at": "2026-04-09T01:26:25.494Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "AI and the Human Voice",
+      "url": "https://gilest.org/notes/2026/human-ai/",
+      "date": "2026-04-09T01:23:19.000Z"
+    },
+    {
+      "title": "Edalex Celebrates Double Recognition at 2026 EdTech Cool Tool Awards",
+      "url": "https://www.edalex.com/news/edalex-rich-skill-descriptor-rsd-library-openrsd-integrated-new-muzzy-lane-release-ai-driven-skillbuild-platform/",
+      "date": "2026-04-09T01:21:20.000Z"
+    }
+  ]
 }
