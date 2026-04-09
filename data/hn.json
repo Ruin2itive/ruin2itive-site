@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-09T11:48:38.333Z"
+    "built_at": "2026-04-09T13:05:13.044Z"
   },
-  "items": [
-    {
-      "title": "Support Betterbird",
-      "url": "https://www.betterbird.eu/end-of-year/",
-      "date": "2026-04-09T11:47:29.000Z"
-    },
-    {
-      "title": "Gomoku (5 in a Row) in Zig (Minimax with Alpha-Beta Pruning) Zig/WASM",
-      "url": "https://github.com/begoon/gomoku-zig/",
-      "date": "2026-04-09T11:46:17.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
