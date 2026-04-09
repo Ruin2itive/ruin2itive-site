@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-09T16:22:27.930Z",
-  "updated_local": "4/9/2026, 4:22:27 PM",
+  "updated_iso": "2026-04-09T17:05:19.664Z",
+  "updated_local": "4/9/2026, 5:05:19 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Is Iran Collecting Hormuz Tolls in Bitcoin? This Crypto Intelligence Firm Is Skeptical",
+        "url": "https://decrypt.co/363828/iran-hormuz-tolls-bitcoin-crypto-intelligence-firm-skeptical",
+        "source": "crypto",
+        "time": "Thu, 09 Apr 2026 16:55:31 +0000"
+      },
       {
         "title": "Treasury Secretary Bessent Slams Crypto Industry &#39;Nihilists&#39; as Clarity Act Remains in Limbo",
         "url": "https://decrypt.co/363821/treasury-secretary-bessent-slams-crypto-industry-nihilists-as-clarity-act-remains-in-limbo",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/363809/stablecoin-giant-tether-launches-toolkit-for-building-local-offline-ai-apps",
         "source": "crypto",
         "time": "Thu, 09 Apr 2026 15:09:32 +0000"
-      },
-      {
-        "title": "Bithumb Files to Seize Bitcoin From Holdouts After $43B Blunder",
-        "url": "https://decrypt.co/363804/bithumb-files-to-seize-bitcoin-from-holdouts-after-43b-blunder",
-        "source": "crypto",
-        "time": "Thu, 09 Apr 2026 15:02:22 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "The Pentagon Threatened Pope Leo XIV's Ambassador with the Avignon Papacy",
+        "url": "https://www.thelettersfromleo.com/p/the-pentagon-threatened-pope-leo",
+        "source": "hn",
+        "time": "4/9/2026, 4:46:11 PM"
+      },
       {
         "title": "Vercel Claude Code plugin wants to read your prompt",
         "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
@@ -42,10 +48,10 @@
         "time": "4/9/2026, 3:17:27 PM"
       },
       {
-        "title": "Emperor penguin and Antarctic fur seal now endangered",
-        "url": "https://iucn.org/press-release/202604/emperor-penguin-and-antarctic-fur-seal-now-endangered-due-climate-change-iucn",
+        "title": "I built a Cargo-like build tool for C/C++",
+        "url": "https://github.com/randerson112/craft",
         "source": "hn",
-        "time": "4/9/2026, 3:55:09 PM"
+        "time": "4/9/2026, 4:04:54 PM"
       },
       {
         "title": "Meta removes ads for social media addiction litigation",
@@ -58,12 +64,6 @@
         "url": "https://obdev.at/products/littlesnitch-linux/index.html",
         "source": "hn",
         "time": "4/9/2026, 12:26:08 AM"
-      },
-      {
-        "title": "A WebGPU Implementation of Augmented Vertex Block Descent",
-        "url": "https://github.com/jure/webphysics",
-        "source": "hn",
-        "time": "4/9/2026, 12:01:31 PM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "UK says Russia ran submarine operation over cables and pipelines",
         "url": "https://www.bbc.com/news/articles/cre13qn9z7do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 09 Apr 2026 16:21:21 GMT"
+        "time": "Thu, 09 Apr 2026 16:40:07 GMT"
       },
       {
         "title": "Pub thief jailed for stealing handbag with £2m Fabergé egg inside",
@@ -86,16 +86,16 @@
         "time": "Thu, 09 Apr 2026 13:27:46 GMT"
       },
       {
-        "title": "Petrol and diesel prices rise again as concerns grow over ceasefire",
-        "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 09 Apr 2026 13:49:04 GMT"
-      },
-      {
         "title": "Best-selling The Housemaid author Freida McFadden reveals true identity",
         "url": "https://www.bbc.com/news/articles/ckgelr2pk0lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 09 Apr 2026 09:35:01 GMT"
+      },
+      {
+        "title": "Petrol and diesel prices rise again as concerns grow over ceasefire",
+        "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 09 Apr 2026 13:49:04 GMT"
       }
     ],
     "projects": [
