@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-09T19:03:30.778Z",
-  "updated_local": "4/9/2026, 7:03:30 PM",
+  "updated_iso": "2026-04-09T20:04:38.409Z",
+  "updated_local": "4/9/2026, 8:04:38 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "YouTube Now Lets You Create Your Own AI Deepfakes",
+        "url": "https://decrypt.co/363852/youtube-now-lets-you-create-ai-deepfakes",
+        "source": "crypto",
+        "time": "Thu, 09 Apr 2026 19:18:34 +0000"
+      },
       {
         "title": "OpenAI Says Enterprise AI Is Already 40% of Its Revenue Amid ‘Agentic Workflow’ Shift",
         "url": "https://decrypt.co/363844/openai-enterprise-ai-revenue-agentic-workflows",
@@ -26,52 +32,46 @@
         "url": "https://decrypt.co/363819/solo-bitcoin-miner-hits-jackpot-225k-btc-reward",
         "source": "crypto",
         "time": "Thu, 09 Apr 2026 17:14:40 +0000"
-      },
-      {
-        "title": "Is Iran Collecting Hormuz Tolls in Bitcoin? This Crypto Intelligence Firm Is Skeptical",
-        "url": "https://decrypt.co/363828/iran-hormuz-tolls-bitcoin-crypto-intelligence-firm-skeptical",
-        "source": "crypto",
-        "time": "Thu, 09 Apr 2026 16:55:31 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "What Game Engines Know About Data That Databases Forgot",
-        "url": "https://nockawa.github.io/blog/what-game-engines-know-about-data/",
+        "title": "PicoZ80 – Drop-In Z80 Replacement",
+        "url": "https://eaw.app/picoz80/",
         "source": "hn",
-        "time": "4/9/2026, 6:10:33 PM"
-      },
-      {
-        "title": "Show HN: I built a Cargo-like build tool for C/C++",
-        "url": "https://github.com/randerson112/craft",
-        "source": "hn",
-        "time": "4/9/2026, 4:04:54 PM"
-      },
-      {
-        "title": "Research-Driven Agents: What Happens When Your Agent Reads Before It Codes",
-        "url": "https://blog.skypilot.co/research-driven-agents/",
-        "source": "hn",
-        "time": "4/9/2026, 4:58:49 PM"
-      },
-      {
-        "title": "EFF is leaving X",
-        "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
-        "source": "hn",
-        "time": "4/9/2026, 5:08:04 PM"
+        "time": "4/9/2026, 6:53:20 PM"
       },
       {
         "title": "Hegel, a universal property-based testing protocol and family of PBT libraries",
         "url": "https://hegel.dev",
         "source": "hn",
         "time": "4/9/2026, 6:37:45 PM"
+      },
+      {
+        "title": "The Future of Everything Is Lies, I Guess: Part 3 – Culture",
+        "url": "https://aphyr.com/posts/413-the-future-of-everything-is-lies-i-guess-culture",
+        "source": "hn",
+        "time": "4/9/2026, 1:33:33 PM"
+      },
+      {
+        "title": "Bitmap fonts make computers feel like computers again",
+        "url": "https://korigamik.dev/blog/bitmap_fonts/",
+        "source": "hn",
+        "time": "4/9/2026, 7:17:05 PM"
+      },
+      {
+        "title": "Research-Driven Agents: What Happens When Your Agent Reads Before It Codes",
+        "url": "https://blog.skypilot.co/research-driven-agents/",
+        "source": "hn",
+        "time": "4/9/2026, 4:58:49 PM"
       }
     ],
     "world": [
       {
-        "title": "'Endless fears': Even if fighting stops, the damage to Iran's children will endure",
-        "url": "https://www.bbc.com/news/articles/ce84ngmjz8zo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Melania Trump says rumours linking her to Epstein 'need to stop'",
+        "url": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 09 Apr 2026 16:06:39 GMT"
+        "time": "Thu, 09 Apr 2026 19:54:30 GMT"
       },
       {
         "title": "UK says Russia ran submarine operation over cables and pipelines",
@@ -80,16 +80,16 @@
         "time": "Thu, 09 Apr 2026 17:09:57 GMT"
       },
       {
-        "title": "Melania Trump says rumours linking her to Epstein 'need to stop'",
-        "url": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 09 Apr 2026 18:59:44 GMT"
-      },
-      {
         "title": "Pub thief jailed for stealing handbag with £2m Fabergé egg inside",
         "url": "https://www.bbc.com/news/articles/cj6098jngryo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 09 Apr 2026 17:21:30 GMT"
+      },
+      {
+        "title": "Israeli strikes on Lebanon are wrong and should stop, PM says",
+        "url": "https://www.bbc.com/news/articles/c93enywd10ro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 09 Apr 2026 19:29:36 GMT"
       },
       {
         "title": "Best-selling The Housemaid author Freida McFadden reveals true identity",
