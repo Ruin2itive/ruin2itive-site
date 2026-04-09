@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-09T06:16:22.184Z"
+    "built_at": "2026-04-09T08:14:53.750Z"
   },
-  "items": [
-    {
-      "title": "I built an open-source research lab that reads papers and iterates autonomously",
-      "url": "https://github.com/dimalik/arcana",
-      "date": "2026-04-09T06:15:15.000Z"
-    },
-    {
-      "title": "Think out loud. Your ideas get structure",
-      "url": "https://naumu.ai/",
-      "date": "2026-04-09T06:10:54.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
