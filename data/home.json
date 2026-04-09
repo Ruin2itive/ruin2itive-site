@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-09T09:19:54.041Z",
-  "updated_local": "4/9/2026, 9:19:54 AM",
+  "updated_iso": "2026-04-09T10:56:54.341Z",
+  "updated_local": "4/9/2026, 10:56:54 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "BitMEX Co-Founder Ben Delo Reveals $5.4M Donation to Farage’s Reform UK",
+        "url": "https://decrypt.co/363769/bitmex-co-founder-ben-delo-reveals-5-4m-donation-to-farages-reform-uk",
+        "source": "crypto",
+        "time": "Thu, 09 Apr 2026 10:26:40 +0000"
+      },
+      {
+        "title": "Morgan Stanley Bitcoin ETF Draws In $31M on First Trading Day",
+        "url": "https://decrypt.co/363766/morgan-stanley-bitcoin-etf-draws-in-31m-on-first-trading-day",
+        "source": "crypto",
+        "time": "Thu, 09 Apr 2026 09:27:42 +0000"
+      },
       {
         "title": "Bitcoin Depot ATM Operator Says $3.6 Million in BTC Stolen in Corporate Hack",
         "url": "https://decrypt.co/363734/bitcoin-depot-atm-operator-3-6-million-btc-stolen-security-breach",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/363730/bitcoin-miner-cango-sells-143-million-btc-slashes-production-costs",
         "source": "crypto",
         "time": "Wed, 08 Apr 2026 20:41:30 +0000"
-      },
-      {
-        "title": "Meta Launches Muse Spark, Its Most Capable AI Yet—But Gemini 3.1 Pro Still Leads the Pack",
-        "url": "https://decrypt.co/363691/meta-muse-spark-most-capable-ai-gemini-pro-still-leads",
-        "source": "crypto",
-        "time": "Wed, 08 Apr 2026 20:07:25 +0000"
-      },
-      {
-        "title": "Treasury Outlines How Stablecoin Rules Will Fight Illicit Finance Under GENIUS Act",
-        "url": "https://decrypt.co/363690/treasury-outlines-stablecoin-rules-fight-illicit-finance-under-genius-act",
-        "source": "crypto",
-        "time": "Wed, 08 Apr 2026 19:42:29 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "4/9/2026, 12:26:08 AM"
       },
       {
-        "title": "Open Source Security at Astral",
-        "url": "https://astral.sh/blog/open-source-security-at-astral",
+        "title": "Help Keep Thunderbird Alive",
+        "url": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
         "source": "hn",
-        "time": "4/9/2026, 4:11:55 AM"
+        "time": "4/9/2026, 7:27:25 AM"
       },
       {
         "title": "I ported Mac OS X to the Nintendo Wii",
@@ -54,16 +54,16 @@
         "time": "4/8/2026, 3:40:00 PM"
       },
       {
-        "title": "Haunted Paper Toys",
-        "url": "http://ravensblight.com/papertoys.html",
+        "title": "Open Source Security at Astral",
+        "url": "https://astral.sh/blog/open-source-security-at-astral",
         "source": "hn",
-        "time": "4/6/2026, 10:09:00 AM"
+        "time": "4/9/2026, 4:11:55 AM"
       },
       {
-        "title": "The Importance of Being Idle",
-        "url": "https://theamericanscholar.org/the-importance-of-being-idle/",
+        "title": "Creating the Futurescape for the Fifth Element [2019]",
+        "url": "https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element",
         "source": "hn",
-        "time": "4/6/2026, 8:33:03 PM"
+        "time": "4/9/2026, 9:11:37 AM"
       }
     ],
     "world": [
@@ -83,7 +83,7 @@
         "title": "Four people die trying to board boat in Channel crossing attempt",
         "url": "https://www.bbc.com/news/articles/cgmenyllyz7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 09 Apr 2026 09:01:42 GMT"
+        "time": "Thu, 09 Apr 2026 10:48:14 GMT"
       },
       {
         "title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
@@ -95,7 +95,7 @@
         "title": "Oil prices rise as concerns grow over 'fragile' US-Iran ceasefire",
         "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 09 Apr 2026 09:16:29 GMT"
+        "time": "Thu, 09 Apr 2026 09:55:31 GMT"
       }
     ],
     "projects": [
