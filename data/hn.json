@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-09T08:14:53.750Z"
+    "built_at": "2026-04-09T10:06:03.392Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "BoxWallet v0.3.4",
+      "url": "https://github.com/richardltc/boxwallet2",
+      "date": "2026-04-09T10:01:33.000Z"
+    },
+    {
+      "title": "Ask HN: Local-first meetings recorder and transcriber?",
+      "url": "https://news.ycombinator.com/item?id=47701485",
+      "date": "2026-04-09T10:00:53.000Z"
+    }
+  ]
 }
