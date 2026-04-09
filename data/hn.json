@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-09T13:05:13.044Z"
+    "built_at": "2026-04-09T15:15:26.492Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Claude mythos is the first model Anthropic didn't release",
+      "url": "https://blog.alcazarsec.com/tech/posts/claude-mythos-the-first-model-anthropic-didnt-really-release",
+      "date": "2026-04-09T15:14:36.000Z"
+    },
+    {
+      "title": "The Dark Factory Harness: From Autonomous Hill-Climbing to Autonomous Research",
+      "url": "https://sotaverified.org/blog/improving-autoresearch-dark-factory-harness",
+      "date": "2026-04-09T15:14:33.000Z"
+    }
+  ]
 }
