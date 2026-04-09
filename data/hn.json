@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-09T17:59:52.903Z"
+    "built_at": "2026-04-09T19:16:00.489Z"
   },
-  "items": [
-    {
-      "title": "Crane Ledger – Headless Accounting API with REST, GraphQL, and MCP",
-      "url": "https://craneledger.ai",
-      "date": "2026-04-09T17:59:20.000Z"
-    },
-    {
-      "title": "Show HN: Open-source, machine-bound licensing with a single POST request",
-      "url": "https://github.com/archergate/archergate",
-      "date": "2026-04-09T17:58:28.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
