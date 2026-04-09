@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-09T18:02:49.758Z",
-  "updated_local": "4/9/2026, 6:02:49 PM",
+  "updated_iso": "2026-04-09T19:03:30.778Z",
+  "updated_local": "4/9/2026, 7:03:30 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Says Enterprise AI Is Already 40% of Its Revenue Amid ‘Agentic Workflow’ Shift",
+        "url": "https://decrypt.co/363844/openai-enterprise-ai-revenue-agentic-workflows",
+        "source": "crypto",
+        "time": "Thu, 09 Apr 2026 18:39:12 +0000"
+      },
       {
         "title": "Meta, CoreWeave Shares Rise After Expanding $21 Billion AI Cloud Deal",
         "url": "https://decrypt.co/363838/meta-coreweave-shares-rise-expanding-21-billion-ai-cloud-deal",
@@ -26,15 +32,27 @@
         "url": "https://decrypt.co/363828/iran-hormuz-tolls-bitcoin-crypto-intelligence-firm-skeptical",
         "source": "crypto",
         "time": "Thu, 09 Apr 2026 16:55:31 +0000"
-      },
-      {
-        "title": "Treasury Secretary Bessent Slams Crypto Industry &#39;Nihilists&#39; as Clarity Act Remains in Limbo",
-        "url": "https://decrypt.co/363821/treasury-secretary-bessent-slams-crypto-industry-nihilists-as-clarity-act-remains-in-limbo",
-        "source": "crypto",
-        "time": "Thu, 09 Apr 2026 16:18:37 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "What Game Engines Know About Data That Databases Forgot",
+        "url": "https://nockawa.github.io/blog/what-game-engines-know-about-data/",
+        "source": "hn",
+        "time": "4/9/2026, 6:10:33 PM"
+      },
+      {
+        "title": "Show HN: I built a Cargo-like build tool for C/C++",
+        "url": "https://github.com/randerson112/craft",
+        "source": "hn",
+        "time": "4/9/2026, 4:04:54 PM"
+      },
+      {
+        "title": "Research-Driven Agents: What Happens When Your Agent Reads Before It Codes",
+        "url": "https://blog.skypilot.co/research-driven-agents/",
+        "source": "hn",
+        "time": "4/9/2026, 4:58:49 PM"
+      },
       {
         "title": "EFF is leaving X",
         "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
@@ -42,28 +60,10 @@
         "time": "4/9/2026, 5:08:04 PM"
       },
       {
-        "title": "Top laptops to use with FreeBSD",
-        "url": "https://freebsdfoundation.github.io/freebsd-laptop-testing/",
+        "title": "Hegel, a universal property-based testing protocol and family of PBT libraries",
+        "url": "https://hegel.dev",
         "source": "hn",
-        "time": "4/9/2026, 9:17:25 AM"
-      },
-      {
-        "title": "Introduction to Nintendo DS Programming",
-        "url": "https://www.patater.com/files/projects/manual/manual.html",
-        "source": "hn",
-        "time": "4/8/2026, 5:22:42 AM"
-      },
-      {
-        "title": "Doing Impressions: Monet's Early Caricatures (ca. late 1850s)",
-        "url": "https://publicdomainreview.org/collection/claude-monet-caricatures/",
-        "source": "hn",
-        "time": "4/6/2026, 3:11:45 PM"
-      },
-      {
-        "title": "Show HN: I built a Cargo-like build tool for C/C++",
-        "url": "https://github.com/randerson112/craft",
-        "source": "hn",
-        "time": "4/9/2026, 4:04:54 PM"
+        "time": "4/9/2026, 6:37:45 PM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Thu, 09 Apr 2026 17:09:57 GMT"
       },
       {
+        "title": "Melania Trump says rumours linking her to Epstein 'need to stop'",
+        "url": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 09 Apr 2026 18:59:44 GMT"
+      },
+      {
         "title": "Pub thief jailed for stealing handbag with £2m Fabergé egg inside",
         "url": "https://www.bbc.com/news/articles/cj6098jngryo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/ckgelr2pk0lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 09 Apr 2026 09:35:01 GMT"
-      },
-      {
-        "title": "Petrol and diesel prices rise again as concerns grow over ceasefire",
-        "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 09 Apr 2026 13:49:04 GMT"
       }
     ],
     "projects": [
