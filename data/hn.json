@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-10T18:41:04.827Z"
+    "built_at": "2026-04-10T19:38:04.127Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "OpenPGL Becomes an Academy Software Foundation Project",
+      "url": "https://www.aswf.io/news/openpgl-becomes-an-academy-software-foundation-project/",
+      "date": "2026-04-10T19:34:12.000Z"
+    },
+    {
+      "title": "Franklin's bad ads for Apple ][ clones and the beloved impersonator they depict",
+      "url": "https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/",
+      "date": "2026-04-10T19:33:08.000Z"
+    }
+  ]
 }
