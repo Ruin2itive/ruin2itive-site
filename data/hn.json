@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-10T08:17:53.268Z"
+    "built_at": "2026-04-10T10:02:28.147Z"
   },
-  "items": [
-    {
-      "title": "Ask HN: Am I disloyal for not wanting to share my system prompts?",
-      "url": "https://news.ycombinator.com/item?id=47715109",
-      "date": "2026-04-10T08:16:43.000Z"
-    },
-    {
-      "title": "Zero-build privacy policies with Astro",
-      "url": "https://www.openpolicy.sh/blog/no-build-astro",
-      "date": "2026-04-10T08:13:38.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
