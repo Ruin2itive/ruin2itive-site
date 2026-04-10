@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-09T23:46:54.767Z",
-  "updated_local": "4/9/2026, 11:46:54 PM",
+  "updated_iso": "2026-04-10T02:24:47.599Z",
+  "updated_local": "4/10/2026, 2:24:47 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "&#39;Operation Atlantic&#39;: US and UK Team With Firms to Trace, Freeze Millions in Stolen Crypto",
+        "url": "https://decrypt.co/363878/operation-atlantic-us-uk-agencies-trace-freeze-millions-stolen-crypto",
+        "source": "crypto",
+        "time": "Fri, 10 Apr 2026 00:01:18 +0000"
+      },
       {
         "title": "TD Cuts Bitcoin Giant Strategy&#39;s Price Target, Calls Ethereum Treasury Sharplink a ‘Buy’",
         "url": "https://decrypt.co/363902/td-cuts-bitcoin-giant-strategy-price-target-ethereum-treasury-sharplink-buy",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/363858/openai-cyber-model-anthropic-mythos",
         "source": "crypto",
         "time": "Thu, 09 Apr 2026 20:27:49 +0000"
-      },
-      {
-        "title": "Bitcoin and Ethereum Open Interest Rises, Signaling Renewed Risk Appetite: CryptoQuant",
-        "url": "https://decrypt.co/363865/bitcoin-ethereum-open-interest-rises-renewed-risk-appetite",
-        "source": "crypto",
-        "time": "Thu, 09 Apr 2026 20:12:48 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Many African families spend fortunes burying their dead",
-        "url": "https://davidoks.blog/p/how-funerals-keep-africa-poor",
-        "source": "hn",
-        "time": "4/9/2026, 10:10:10 PM"
-      },
       {
         "title": "Native Instant Space Switching on macOS",
         "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
         "source": "hn",
         "time": "4/9/2026, 7:48:26 PM"
+      },
+      {
+        "title": "How NASA Built Artemis II’s Fault-Tolerant Computer",
+        "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+        "source": "hn",
+        "time": "4/9/2026, 3:12:40 PM"
       },
       {
         "title": "Charcuterie – Visual similarity Unicode explorer",
@@ -54,30 +54,36 @@
         "time": "4/9/2026, 8:12:07 PM"
       },
       {
-        "title": "Reverse engineering Gemini's SynthID detection",
-        "url": "https://github.com/aloshdenny/reverse-SynthID",
-        "source": "hn",
-        "time": "4/9/2026, 8:10:25 PM"
-      },
-      {
         "title": "PicoZ80 – Drop-In Z80 Replacement",
         "url": "https://eaw.app/picoz80/",
         "source": "hn",
         "time": "4/9/2026, 6:53:20 PM"
+      },
+      {
+        "title": "Generative Art over the Years",
+        "url": "https://blog.veitheller.de/Generative_art_over_the_years.html",
+        "source": "hn",
+        "time": "4/7/2026, 2:25:23 PM"
       }
     ],
     "world": [
-      {
-        "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
-        "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 09 Apr 2026 23:01:47 GMT"
-      },
       {
         "title": "'We should not be at the mercy of events abroad' - Starmer",
         "url": "https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 09 Apr 2026 22:51:51 GMT"
+      },
+      {
+        "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
+        "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 10 Apr 2026 02:10:44 GMT"
+      },
+      {
+        "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+        "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 09 Apr 2026 23:01:47 GMT"
       },
       {
         "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/videos/c0e7dz0zwd0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 09 Apr 2026 19:00:43 GMT"
-      },
-      {
-        "title": "Pub thief jailed for stealing handbag with £2m Fabergé egg inside",
-        "url": "https://www.bbc.com/news/articles/cj6098jngryo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 09 Apr 2026 17:21:30 GMT"
       }
     ],
     "projects": [
