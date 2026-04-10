@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-10T17:41:26.946Z"
+    "built_at": "2026-04-10T18:41:04.827Z"
   },
-  "items": [
-    {
-      "title": "Alibaba shifts towards revenue over open-source AI",
-      "url": "https://www.ft.com/content/b39da303-3188-447b-8b65-3dd8dad8b59a",
-      "date": "2026-04-10T17:36:47.000Z"
-    },
-    {
-      "title": "Waymo ride, now arriving in Nashville",
-      "url": "https://waymo.com/blog/2026/04/your-waymo-ride-now-arriving-in-nashville/",
-      "date": "2026-04-10T17:35:54.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
