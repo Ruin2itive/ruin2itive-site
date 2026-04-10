@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-10T13:41:18.011Z",
-  "updated_local": "4/10/2026, 1:41:18 PM",
+  "updated_iso": "2026-04-10T14:46:06.792Z",
+  "updated_local": "4/10/2026, 2:46:06 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Bitcoin Breaks $73K as Strategy&#39;s STRC Bid Grows",
+        "url": "https://decrypt.co/363923/morning-minute-bitcoin-breaks-73k-strategy-strc-bid-grows",
+        "source": "crypto",
+        "time": "Fri, 10 Apr 2026 14:04:43 +0000"
+      },
       {
         "title": "&#39;Operation Atlantic&#39;: US and UK Team With Firms to Trace, Freeze Millions in Stolen Crypto",
         "url": "https://decrypt.co/363878/operation-atlantic-us-uk-agencies-trace-freeze-millions-stolen-crypto",
@@ -26,26 +32,26 @@
         "url": "https://decrypt.co/363869/pepe-follow-dogecoin-wall-street-etf-investors-arent-buying-meme-hype",
         "source": "crypto",
         "time": "Thu, 09 Apr 2026 21:19:39 +0000"
-      },
-      {
-        "title": "OpenAI Plans Advanced Cybersecurity Product—With &#39;Trusted Access&#39; Only",
-        "url": "https://decrypt.co/363858/openai-cyber-model-anthropic-mythos",
-        "source": "crypto",
-        "time": "Thu, 09 Apr 2026 20:27:49 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths",
-        "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+        "title": "Mysteries of Dropbox: Property-Based Testing of a Distributed Sync Service [pdf]",
+        "url": "https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf",
         "source": "hn",
-        "time": "4/10/2026, 1:08:43 PM"
+        "time": "4/7/2026, 2:41:08 PM"
       },
       {
         "title": "Intel 486 CPU announced April 10, 1989",
         "url": "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/",
         "source": "hn",
         "time": "4/10/2026, 12:03:34 PM"
+      },
+      {
+        "title": "Protected quantum gates using qubit doublons in dynamical optical lattices",
+        "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
+        "source": "hn",
+        "time": "4/10/2026, 4:04:57 AM"
       },
       {
         "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
@@ -58,26 +64,20 @@
         "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
         "source": "hn",
         "time": "4/9/2026, 3:12:40 PM"
-      },
-      {
-        "title": "ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity",
-        "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
-        "source": "hn",
-        "time": "4/10/2026, 4:04:57 AM"
       }
     ],
     "world": [
       {
-        "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
-        "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Iran conflict will define us for a generation, says PM",
+        "url": "https://www.bbc.com/news/articles/cr71ld371j5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 09 Apr 2026 23:01:47 GMT"
+        "time": "Fri, 10 Apr 2026 13:20:08 GMT"
       },
       {
         "title": "Man arrested after baby girl dies from dog bite",
         "url": "https://www.bbc.com/news/articles/cy915wr1074o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 10 Apr 2026 13:00:39 GMT"
+        "time": "Fri, 10 Apr 2026 14:20:49 GMT"
       },
       {
         "title": "Man jailed for killing abused wife who jumped from bridge",
@@ -92,10 +92,10 @@
         "time": "Fri, 10 Apr 2026 08:37:05 GMT"
       },
       {
-        "title": "Simple guide: How the Iran war is affecting the cost of holidays, food and clothes",
-        "url": "https://www.bbc.co.uk/news/resources/idt-8ea95b22-220c-44be-8704-c41cdff0df66?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Parents' fury at Army's delay to report missing son",
+        "url": "https://www.bbc.com/news/articles/cly7d9px7leo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 10 Apr 2026 00:00:00 GMT"
+        "time": "Fri, 10 Apr 2026 07:58:43 GMT"
       }
     ],
     "projects": [
