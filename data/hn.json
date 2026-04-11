@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-11T01:28:14.398Z"
+    "built_at": "2026-04-11T04:14:05.337Z"
   },
-  "items": [
-    {
-      "title": "Request Camel Numbering",
-      "url": "https://gov.om/w/request-camel-numbering",
-      "date": "2026-04-11T01:15:40.000Z"
-    },
-    {
-      "title": "Git per sviluppatori: guida completa dai comandi base al workflow professionale",
-      "url": "https://donatodelpeschio.it/blog/git-guida-completa-comandi-workflow",
-      "date": "2026-04-11T01:15:35.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
