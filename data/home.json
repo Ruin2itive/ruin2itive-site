@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-10T23:44:38.100Z",
-  "updated_local": "4/10/2026, 11:44:38 PM",
+  "updated_iso": "2026-04-11T02:05:00.063Z",
+  "updated_local": "4/11/2026, 2:05:00 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Filing the Corners Off MacBooks",
+        "title": "Filing the corners off my MacBooks",
         "url": "https://kentwalters.com/posts/corners/",
         "source": "hn",
         "time": "4/10/2026, 10:16:40 PM"
+      },
+      {
+        "title": "Artemis II safely splashes down",
+        "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
+        "source": "hn",
+        "time": "4/11/2026, 12:10:51 AM"
       },
       {
         "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
@@ -54,48 +60,42 @@
         "time": "4/10/2026, 3:37:28 PM"
       },
       {
-        "title": "Has Mythos just broken the deal that kept the internet safe?",
-        "url": "https://martinalderson.com/posts/has-mythos-just-broken-the-deal-that-kept-the-internet-safe/",
+        "title": "Installing Every* Firefox Extension",
+        "url": "https://jack.cab/blog/every-firefox-extension",
         "source": "hn",
-        "time": "4/10/2026, 11:09:17 PM"
-      },
-      {
-        "title": "WireGuard makes new Windows release following Microsoft signing resolution",
-        "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
-        "source": "hn",
-        "time": "4/10/2026, 3:49:52 PM"
+        "time": "4/10/2026, 9:56:33 PM"
       }
     ],
     "world": [
       {
-        "title": "The five big sticking points in US-Iran talks",
-        "url": "https://www.bbc.com/news/articles/cx2wyn8wdz0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Back to Earth: What happens to the Artemis II astronauts now?",
+        "url": "https://www.bbc.com/news/articles/cpwjvgv2d4no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 10 Apr 2026 18:13:25 GMT"
+        "time": "Sat, 11 Apr 2026 00:38:27 GMT"
+      },
+      {
+        "title": "Artemis II mission was a triumph. Now comes the hard part",
+        "url": "https://www.bbc.com/news/articles/cj0v119zp19o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 11 Apr 2026 00:38:44 GMT"
+      },
+      {
+        "title": "Watch the Artemis II re-entry: Separation, blackout, then splashdown",
+        "url": "https://www.bbc.com/news/videos/c4gxw3xmzeyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 11 Apr 2026 00:45:38 GMT"
+      },
+      {
+        "title": "Historic Vance-Ghalibaf talks must bridge deep distrust",
+        "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 10 Apr 2026 23:46:49 GMT"
       },
       {
         "title": "British man, 77, dies after tourist bus crashes in Canary Islands",
         "url": "https://www.bbc.com/news/articles/c75kv5vz66yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 10 Apr 2026 20:16:20 GMT"
-      },
-      {
-        "title": "UK shelves Chagos deal after Trump opposition",
-        "url": "https://www.bbc.com/news/articles/c04x1lg1lygo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 10 Apr 2026 22:17:49 GMT"
-      },
-      {
-        "title": "Man arrested after baby girl dies from dog bite",
-        "url": "https://www.bbc.com/news/articles/cy915wr1074o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 10 Apr 2026 14:20:49 GMT"
-      },
-      {
-        "title": "Melania Trump's speech propels Epstein crisis back to forefront",
-        "url": "https://www.bbc.com/news/articles/cwy3w9y8gyjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 10 Apr 2026 21:13:45 GMT"
       }
     ],
     "projects": [
