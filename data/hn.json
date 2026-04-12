@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-12T21:26:32.098Z"
+    "built_at": "2026-04-12T22:25:45.946Z"
   },
-  "items": [
-    {
-      "title": "Maine set to become first state with data center ban",
-      "url": "https://www.cnbc.com/2026/04/09/maine-data-center-ban.html",
-      "date": "2026-04-12T21:19:34.000Z"
-    },
-    {
-      "title": "Orban ousted after 16 years as Hungarians flock to pro-EU rival",
-      "url": "https://www.reuters.com/world/europe/orban-ousted-after-16-years-hungarians-flock-pro-eu-rival-2026-04-12/",
-      "date": "2026-04-12T21:18:42.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
