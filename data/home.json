@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-12T12:57:58.945Z",
-  "updated_local": "4/12/2026, 12:57:58 PM",
+  "updated_iso": "2026-04-12T13:19:14.383Z",
+  "updated_local": "4/12/2026, 1:19:14 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "There’s a Way to Make Bitcoin Safe From Quantum Without a Fork, Researchers Say",
+        "url": "https://decrypt.co/364092/quantum-safe-bitcoin-transactions-without-fork",
+        "source": "crypto",
+        "time": "Sun, 12 Apr 2026 13:01:03 +0000"
+      },
       {
         "title": "&#39;Not Going to Stop at Bitcoin&#39;: Morgan Stanley Weighs Tokenization, Tax Solutions in Crypto Push",
         "url": "https://decrypt.co/364030/not-going-stop-bitcoin-morgan-stanley-weighs-tokenization-tax-solutions",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/364036/space-invaders-clone-game-pays-real-bitcoin-skilled-lucky-rich",
         "source": "crypto",
         "time": "Fri, 10 Apr 2026 20:52:57 +0000"
-      },
-      {
-        "title": "Suspect Arrested After Molotov Cocktail Thrown at Sam Altman’s San Francisco Home",
-        "url": "https://decrypt.co/364007/suspect-arrested-molotov-cocktail-sam-altman-san-francisco",
-        "source": "crypto",
-        "time": "Fri, 10 Apr 2026 18:44:54 +0000"
       }
     ],
     "hacker": [
@@ -40,12 +40,6 @@
         "url": "https://chriswhocodes.com/vm-options-explorer.html",
         "source": "hn",
         "time": "4/12/2026, 10:29:26 AM"
-      },
-      {
-        "title": "Why weekends are under threat",
-        "url": "https://thehustle.co/originals/why-weekends-are-under-threat",
-        "source": "hn",
-        "time": "4/12/2026, 12:43:56 PM"
       },
       {
         "title": "Happy Map",
@@ -60,6 +54,12 @@
         "time": "4/12/2026, 8:38:11 AM"
       },
       {
+        "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+        "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+        "source": "hn",
+        "time": "4/12/2026, 9:16:35 AM"
+      },
+      {
         "title": "An Interview with Pat Gelsinger",
         "url": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
         "source": "hn",
@@ -68,10 +68,10 @@
     ],
     "world": [
       {
-        "title": "Starmer urges US and Iran to 'find way through' after peace talks falter",
-        "url": "https://www.bbc.com/news/articles/c3dlmdl1v57o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "After Iran talks falter, will Trump escalate or negotiate?",
+        "url": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 12 Apr 2026 10:39:51 GMT"
+        "time": "Sun, 12 Apr 2026 12:48:01 GMT"
       },
       {
         "title": "Woman raped by several men outside church",
@@ -86,16 +86,16 @@
         "time": "Sun, 12 Apr 2026 12:02:31 GMT"
       },
       {
+        "title": "Murder charge over Primrose Hill stabbing",
+        "url": "https://www.bbc.com/news/articles/cx2dgmz20p1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 12 Apr 2026 13:09:31 GMT"
+      },
+      {
         "title": "Golden eagles to return to English skies as government backs reintroduction",
         "url": "https://www.bbc.com/news/articles/cje4zlxqkqdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 11 Apr 2026 23:19:46 GMT"
-      },
-      {
-        "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
-        "url": "https://www.bbc.com/news/articles/c75kx5dw395o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 12 Apr 2026 10:07:58 GMT"
       }
     ],
     "projects": [
