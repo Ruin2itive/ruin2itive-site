@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-12T09:56:22.510Z",
-  "updated_local": "4/12/2026, 9:56:22 AM",
+  "updated_iso": "2026-04-12T10:36:42.892Z",
+  "updated_local": "4/12/2026, 10:36:42 AM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-        "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
-        "source": "hn",
-        "time": "4/12/2026, 9:16:35 AM"
-      },
-      {
-        "title": "Small models also found the vulnerabilities that Mythos found",
-        "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-        "source": "hn",
-        "time": "4/11/2026, 4:47:28 PM"
-      },
-      {
         "title": "An Interview with Pat Gelsinger",
         "url": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
         "source": "hn",
         "time": "4/9/2026, 5:19:10 PM"
+      },
+      {
+        "title": "Tofolli gates are all you need",
+        "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
+        "source": "hn",
+        "time": "4/7/2026, 9:40:57 AM"
       },
       {
         "title": "I run multiple $10K MRR companies on a $20/month tech stack",
@@ -60,10 +54,16 @@
         "time": "4/12/2026, 6:00:00 AM"
       },
       {
-        "title": "Tofolli gates are all you need",
-        "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
+        "title": "Apple update looks like Czech mate for locked-out iPhone user",
+        "url": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
         "source": "hn",
-        "time": "4/7/2026, 9:40:57 AM"
+        "time": "4/12/2026, 8:38:56 AM"
+      },
+      {
+        "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+        "source": "hn",
+        "time": "4/11/2026, 7:15:56 PM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Sat, 11 Apr 2026 23:12:58 GMT"
       },
       {
-        "title": "More than 500 arrests at Palestine Action protest",
-        "url": "https://www.bbc.com/news/articles/cp38z9lylddo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 11 Apr 2026 22:57:16 GMT"
-      },
-      {
         "title": "Hungarians vote in big numbers on whether to end Orbán rule and elect rival",
         "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 11 Apr 2026 23:13:23 GMT"
+      },
+      {
+        "title": "More than 500 arrests at Palestine Action protest",
+        "url": "https://www.bbc.com/news/articles/cp38z9lylddo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 12 Apr 2026 10:33:03 GMT"
       }
     ],
     "projects": [
