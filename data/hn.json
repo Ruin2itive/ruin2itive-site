@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-12T13:55:35.281Z"
+    "built_at": "2026-04-12T14:36:00.549Z"
   },
-  "items": [
-    {
-      "title": "Ask HN: What's your experience with PoW captchas against form spam?",
-      "url": "https://news.ycombinator.com/item?id=47739684",
-      "date": "2026-04-12T13:54:26.000Z"
-    },
-    {
-      "title": "A full-featured terminal user interface for hledger plain-text accounting",
-      "url": "https://github.com/thesmokinator/hledger-textual",
-      "date": "2026-04-12T13:52:27.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
