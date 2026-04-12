@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-12T08:53:21.051Z"
+    "built_at": "2026-04-12T09:38:51.230Z"
   },
-  "items": [
-    {
-      "title": "A Deep Dive into Tinygrad AI Compiler",
-      "url": "https://tinyblog-phi.vercel.app/tinygrad",
-      "date": "2026-04-12T08:48:11.000Z"
-    },
-    {
-      "title": "Strait of Hormuz Gameplay Demo [video]",
-      "url": "https://www.youtube.com/watch?v=XVY7WAT4OdE",
-      "date": "2026-04-12T08:47:38.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
