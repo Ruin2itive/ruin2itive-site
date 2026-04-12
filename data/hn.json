@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-12T15:29:47.019Z"
+    "built_at": "2026-04-12T16:29:16.199Z"
   },
-  "error": "fetch failed",
-  "items": []
+  "items": [
+    {
+      "title": "How Beyond Meat sank from a $14B plant-based protein powerhouse to a penny stock",
+      "url": "https://www.marketwatch.com/story/how-beyond-meat-sank-from-a-14-billion-plant-based-protein-powerhouse-to-a-penny-stock-464c9781",
+      "date": "2026-04-12T16:27:08.000Z"
+    },
+    {
+      "title": "IBM to pay $17M in anti-DEI settlement",
+      "url": "https://www.cnn.com/2026/04/10/business/ibm-settlement-dei-lawsuit",
+      "date": "2026-04-12T16:26:02.000Z"
+    }
+  ]
 }
