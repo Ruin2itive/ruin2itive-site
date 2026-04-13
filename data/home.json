@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-13T02:31:46.313Z",
-  "updated_local": "4/13/2026, 2:31:46 AM",
+  "updated_iso": "2026-04-13T03:43:21.691Z",
+  "updated_local": "4/13/2026, 3:43:21 AM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,16 @@
     ],
     "hacker": [
       {
+        "title": "All elementary functions from a single binary operator",
+        "url": "https://arxiv.org/abs/2603.21852",
+        "source": "hn",
+        "time": "4/13/2026, 1:49:32 AM"
+      },
+      {
         "title": "Taking on CUDA with ROCm: 'One Step After Another'",
         "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
         "source": "hn",
         "time": "4/12/2026, 10:38:45 PM"
-      },
-      {
-        "title": "Bring Back Idiomatic Design (2023)",
-        "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-        "source": "hn",
-        "time": "4/12/2026, 12:21:26 PM"
-      },
-      {
-        "title": "DIY Soft Drinks",
-        "url": "https://blinry.org/diy-soft-drinks/",
-        "source": "hn",
-        "time": "4/12/2026, 4:38:43 PM"
       },
       {
         "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
@@ -60,10 +54,16 @@
         "time": "4/12/2026, 5:25:44 PM"
       },
       {
-        "title": "A Perfectable Programming Language",
-        "url": "https://alok.github.io/lean-pages/perfectable-lean/",
+        "title": "Bring Back Idiomatic Design (2023)",
+        "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
         "source": "hn",
-        "time": "4/12/2026, 9:11:24 PM"
+        "time": "4/12/2026, 12:21:26 PM"
+      },
+      {
+        "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
+        "url": "https://arxiv.org/abs/2604.07902",
+        "source": "hn",
+        "time": "4/12/2026, 9:14:30 AM"
       }
     ],
     "world": [
@@ -71,16 +71,16 @@
         "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
         "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 13 Apr 2026 00:32:46 GMT"
+        "time": "Mon, 13 Apr 2026 02:52:39 GMT"
       },
       {
-        "title": "'A truly historic moment': Hungarian opposition wins election landslide",
-        "url": "https://www.bbc.com/news/videos/c2lwrjwg29lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Viktor Orbán's Hungarian experiment runs out of steam",
+        "url": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 13 Apr 2026 00:52:46 GMT"
+        "time": "Mon, 13 Apr 2026 01:58:32 GMT"
       },
       {
-        "title": "McIlroy proves he really is free by defending Masters title",
+        "title": "McIlroy defends Masters title, underlining why he is one of the game's greats",
         "url": "https://www.bbc.com/sport/golf/articles/cgqkgvxgv2xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 12 Apr 2026 23:16:50 GMT"
