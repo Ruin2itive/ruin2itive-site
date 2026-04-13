@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-13T14:46:32.870Z",
-  "updated_local": "4/13/2026, 2:46:32 PM",
+  "updated_iso": "2026-04-13T16:10:44.924Z",
+  "updated_local": "4/13/2026, 4:10:44 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Foundry Launches Zcash Mining Pool Alongside Industry-Leading Bitcoin Pool",
+        "url": "https://decrypt.co/364124/foundry-launches-zcash-mining-pool-bitcoin",
+        "source": "crypto",
+        "time": "Mon, 13 Apr 2026 15:21:38 +0000"
+      },
       {
         "title": "Tom Lee’s BitMine Makes Biggest Ethereum Buy Since December",
         "url": "https://decrypt.co/364119/tom-lees-bitmine-biggest-ethereum-buy-since-december",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/364047/want-claude-opus-ai-potato-pc-next-best-bet",
         "source": "crypto",
         "time": "Sun, 12 Apr 2026 17:13:01 +0000"
-      },
-      {
-        "title": "There’s a Way to Make Bitcoin Safe From Quantum Without a Fork, Researchers Say",
-        "url": "https://decrypt.co/364092/quantum-safe-bitcoin-transactions-without-fork",
-        "source": "crypto",
-        "time": "Sun, 12 Apr 2026 13:01:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Building a CLI for All of Cloudflare",
+        "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+        "source": "hn",
+        "time": "4/13/2026, 3:44:02 PM"
+      },
       {
         "title": "Servo is now available on crates.io",
         "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
@@ -42,28 +48,22 @@
         "time": "4/13/2026, 12:12:22 PM"
       },
       {
-        "title": "Android now stops you sharing your location in photos",
-        "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+        "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+        "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
         "source": "hn",
-        "time": "4/13/2026, 11:48:15 AM"
+        "time": "4/13/2026, 3:31:06 PM"
+      },
+      {
+        "title": "Make Tmux Pretty and Usable",
+        "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+        "source": "hn",
+        "time": "4/13/2026, 2:48:55 PM"
       },
       {
         "title": "All elementary functions from a single binary operator",
         "url": "https://arxiv.org/abs/2603.21852",
         "source": "hn",
         "time": "4/13/2026, 1:49:32 AM"
-      },
-      {
-        "title": "The economics of software teams: Why most engineering orgs are flying blind",
-        "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
-        "source": "hn",
-        "time": "4/13/2026, 5:45:32 AM"
-      },
-      {
-        "title": "I went to America's worst national parks so you don't have to",
-        "url": "https://substack.com/home/post/p-193626949",
-        "source": "hn",
-        "time": "4/13/2026, 12:29:35 PM"
       }
     ],
     "world": [
@@ -74,16 +74,16 @@
         "time": "Mon, 13 Apr 2026 13:46:41 GMT"
       },
       {
-        "title": "Starmer seeks closer ties with EU - and doesn't mind reopening Brexit divisions",
-        "url": "https://www.bbc.com/news/articles/c0rxj4yygdwo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 13 Apr 2026 12:13:42 GMT"
-      },
-      {
-        "title": "EasyJet passengers describe EU border 'nightmare'",
+        "title": "EasyJet passengers describe EU border 'nightmare' after flight leaves without them",
         "url": "https://www.bbc.com/news/articles/cn897e8280do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 13 Apr 2026 12:56:34 GMT"
+      },
+      {
+        "title": "Henry Zeffman: Starmer seeks closer ties with EU - and doesn't mind reopening Brexit divisions",
+        "url": "https://www.bbc.com/news/articles/c0rxj4yygdwo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 13 Apr 2026 12:13:42 GMT"
       },
       {
         "title": "US judge dismisses $10bn Trump defamation suit against Wall Street Journal",
