@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-13T13:06:42.834Z"
+    "built_at": "2026-04-13T15:09:32.321Z"
   },
-  "items": [
-    {
-      "title": "Renovate and Dependabot: The New Malware Delivery System",
-      "url": "https://blog.gitguardian.com/renovate-dependabot-the-new-malware-delivery-system/",
-      "date": "2026-04-13T13:05:07.000Z"
-    },
-    {
-      "title": "Most people who ride bikes have no idea how to shift gears",
-      "url": "https://maxmautner.com/2026/04/11/gear-shifting.html",
-      "date": "2026-04-13T13:04:03.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
