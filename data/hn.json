@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-13T09:29:26.409Z"
+    "built_at": "2026-04-13T11:11:14.204Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Century-bandwidth antenna reinvented,patented after 18 yrs with decade bandwidth",
+      "url": "https://ieeexplore.ieee.org/document/1715264",
+      "date": "2026-04-13T11:09:09.000Z"
+    },
+    {
+      "title": "Show HN: Species.app – A visual spaced-repetition engine for taxonomy",
+      "url": "https://news.ycombinator.com/item?id=47750352",
+      "date": "2026-04-13T11:08:09.000Z"
+    }
+  ]
 }
