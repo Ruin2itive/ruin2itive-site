@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-13T22:37:00.890Z"
+    "built_at": "2026-04-13T23:36:14.521Z"
   },
-  "items": [
-    {
-      "title": "I built an API that turns any image into a shoppable recommendation engine",
-      "url": "https://youzu.ai",
-      "date": "2026-04-13T22:25:29.000Z"
-    },
-    {
-      "title": "Booking.com confirms hackers accessed customers' data",
-      "url": "https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data/",
-      "date": "2026-04-13T22:24:36.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
