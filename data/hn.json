@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-13T07:12:53.852Z"
+    "built_at": "2026-04-13T09:29:26.409Z"
   },
-  "items": [
-    {
-      "title": "If You're Only Running One Claude Code Session, You're Not Going Fast Enough",
-      "url": "https://www.scape.work/blog/you-are-not-going-fast-enough",
-      "date": "2026-04-13T07:10:12.000Z"
-    },
-    {
-      "title": "We built a Green Screen Remover tool to automate batch green screen removal",
-      "url": "https://ugcmaker.io/green-screen-remover",
-      "date": "2026-04-13T07:09:05.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
