@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-13T06:23:13.631Z",
-  "updated_local": "4/13/2026, 6:23:13 AM",
+  "updated_iso": "2026-04-13T08:00:00.080Z",
+  "updated_local": "4/13/2026, 8:00:00 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind",
+        "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+        "source": "hn",
+        "time": "4/13/2026, 5:45:32 AM"
+      },
+      {
         "title": "All elementary functions from a single binary operator",
         "url": "https://arxiv.org/abs/2603.21852",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "4/12/2026, 10:38:45 PM"
       },
       {
-        "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
-        "url": "https://arxiv.org/abs/2604.07902",
-        "source": "hn",
-        "time": "4/12/2026, 9:14:30 AM"
-      },
-      {
-        "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-        "url": "https://boringbar.app/",
-        "source": "hn",
-        "time": "4/12/2026, 5:25:44 PM"
-      },
-      {
         "title": "Bring Back Idiomatic Design (2023)",
         "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
         "source": "hn",
         "time": "4/12/2026, 12:21:26 PM"
+      },
+      {
+        "title": "DIY Soft Drinks",
+        "url": "https://blinry.org/diy-soft-drinks/",
+        "source": "hn",
+        "time": "4/12/2026, 4:38:43 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
         "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 13 Apr 2026 02:52:39 GMT"
+        "time": "Mon, 13 Apr 2026 06:25:29 GMT"
       },
       {
         "title": "Viktor Orbán's Hungarian experiment runs out of steam",
@@ -83,19 +83,19 @@
         "title": "UK could adopt EU single market rules under new legislation",
         "url": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 13 Apr 2026 04:00:34 GMT"
-      },
-      {
-        "title": "McIlroy defends Masters title, underlining why he is one of the game's greats",
-        "url": "https://www.bbc.com/sport/golf/articles/cgqkgvxgv2xo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 12 Apr 2026 23:16:50 GMT"
+        "time": "Mon, 13 Apr 2026 06:51:45 GMT"
       },
       {
         "title": "The surprising reality of how teenage girls still define themselves",
         "url": "https://www.bbc.com/news/articles/c62je1g000eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 12 Apr 2026 23:06:03 GMT"
+      },
+      {
+        "title": "Rachel Zegler's heroes, prizes for Paddington and more moments from the Olivier Awards",
+        "url": "https://www.bbc.com/news/articles/c78rjxj19mno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 12 Apr 2026 22:13:28 GMT"
       }
     ],
     "projects": [
