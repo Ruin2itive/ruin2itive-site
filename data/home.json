@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-13T14:01:39.709Z",
-  "updated_local": "4/13/2026, 2:01:39 PM",
+  "updated_iso": "2026-04-13T14:46:32.870Z",
+  "updated_local": "4/13/2026, 2:46:32 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Tom Lee’s BitMine Makes Biggest Ethereum Buy Since December",
+        "url": "https://decrypt.co/364119/tom-lees-bitmine-biggest-ethereum-buy-since-december",
+        "source": "crypto",
+        "time": "Mon, 13 Apr 2026 14:32:36 +0000"
+      },
+      {
+        "title": "Morning Minute: Relentless Sellers, War Volatility Keep Bitcoin Down",
+        "url": "https://decrypt.co/364107/morning-minute-relentless-sellers-war-volatility-keep-bitcoin-down",
+        "source": "crypto",
+        "time": "Mon, 13 Apr 2026 14:05:31 +0000"
+      },
       {
         "title": "Strategy&#39;s Bitcoin Stockpile Nears BlackRock&#39;s ETF Holdings After $1 Billion BTC Buy",
         "url": "https://decrypt.co/364114/strategy-bitcoin-stockpile-nears-blackrocks-etf-holdings-1-billion-buy",
@@ -20,21 +32,15 @@
         "url": "https://decrypt.co/364092/quantum-safe-bitcoin-transactions-without-fork",
         "source": "crypto",
         "time": "Sun, 12 Apr 2026 13:01:03 +0000"
-      },
-      {
-        "title": "&#39;Not Going to Stop at Bitcoin&#39;: Morgan Stanley Weighs Tokenization, Tax Solutions in Crypto Push",
-        "url": "https://decrypt.co/364030/not-going-stop-bitcoin-morgan-stanley-weighs-tokenization-tax-solutions",
-        "source": "crypto",
-        "time": "Sat, 11 Apr 2026 16:33:12 +0000"
-      },
-      {
-        "title": "New Tools Aim to Make AI &#39;Vibe Coding&#39; Safer for Crypto",
-        "url": "https://decrypt.co/364080/asi-alliance-matterhorn-ai-tools-vibe-coding-crypto",
-        "source": "crypto",
-        "time": "Sat, 11 Apr 2026 15:01:02 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Servo is now available on crates.io",
+        "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+        "source": "hn",
+        "time": "4/13/2026, 12:12:22 PM"
+      },
       {
         "title": "Android now stops you sharing your location in photos",
         "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
@@ -42,28 +48,22 @@
         "time": "4/13/2026, 11:48:15 AM"
       },
       {
-        "title": "AI could be the end of the digital wave, not the next big thing",
-        "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+        "title": "All elementary functions from a single binary operator",
+        "url": "https://arxiv.org/abs/2603.21852",
         "source": "hn",
-        "time": "4/13/2026, 12:29:39 PM"
+        "time": "4/13/2026, 1:49:32 AM"
       },
       {
-        "title": "They See Your Photos",
-        "url": "https://theyseeyourphotos.com/",
+        "title": "The economics of software teams: Why most engineering orgs are flying blind",
+        "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
         "source": "hn",
-        "time": "4/13/2026, 1:27:51 PM"
+        "time": "4/13/2026, 5:45:32 AM"
       },
       {
         "title": "I went to America's worst national parks so you don't have to",
         "url": "https://substack.com/home/post/p-193626949",
         "source": "hn",
         "time": "4/13/2026, 12:29:35 PM"
-      },
-      {
-        "title": "All elementary functions from a single binary operator",
-        "url": "https://arxiv.org/abs/2603.21852",
-        "source": "hn",
-        "time": "4/13/2026, 1:49:32 AM"
       }
     ],
     "world": [
@@ -74,16 +74,10 @@
         "time": "Mon, 13 Apr 2026 13:46:41 GMT"
       },
       {
-        "title": "PM embraces Brexit divisions as he seeks closer ties with Europe",
+        "title": "Starmer seeks closer ties with EU - and doesn't mind reopening Brexit divisions",
         "url": "https://www.bbc.com/news/articles/c0rxj4yygdwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 13 Apr 2026 12:13:42 GMT"
-      },
-      {
-        "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
-        "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 13 Apr 2026 11:03:12 GMT"
       },
       {
         "title": "EasyJet passengers describe EU border 'nightmare'",
@@ -92,10 +86,16 @@
         "time": "Mon, 13 Apr 2026 12:56:34 GMT"
       },
       {
-        "title": "Where does McIlroy rank among golf's greats after Masters defence?",
-        "url": "https://www.bbc.com/sport/golf/articles/cz78ge3g77qo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US judge dismisses $10bn Trump defamation suit against Wall Street Journal",
+        "url": "https://www.bbc.com/news/articles/c995j57xepmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 13 Apr 2026 04:16:11 GMT"
+        "time": "Mon, 13 Apr 2026 14:30:27 GMT"
+      },
+      {
+        "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+        "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 13 Apr 2026 11:03:12 GMT"
       }
     ],
     "projects": [
