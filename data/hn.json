@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-13T19:09:00.174Z"
+    "built_at": "2026-04-13T20:44:33.509Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "I solved variable naming by making it someone else's problem",
+      "url": "https://cursedvars.com/api",
+      "date": "2026-04-13T20:42:57.000Z"
+    },
+    {
+      "title": "Show HN: Continual Learning with .md",
+      "url": "https://github.com/SunAndClouds/ReadMe",
+      "date": "2026-04-13T20:42:19.000Z"
+    }
+  ]
 }
