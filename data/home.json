@@ -1,51 +1,57 @@
 {
-  "updated_iso": "2026-04-13T16:19:40.961Z",
-  "updated_local": "4/13/2026, 4:19:40 PM",
+  "updated_iso": "2026-04-13T17:58:53.440Z",
+  "updated_local": "4/13/2026, 5:58:53 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Anthropic Claude Mythos: Serious Threat or Overhyped? AI Security Institute Weighs In",
+        "url": "https://decrypt.co/364141/anthropic-claude-mythos-serious-threat-overhyped-ai-security-institute",
+        "source": "crypto",
+        "time": "Mon, 13 Apr 2026 17:45:50 +0000"
+      },
+      {
+        "title": "Forget the Dead-Eyed Cartoon—Meta Is Building a Photorealistic AI Clone of Zuckerberg",
+        "url": "https://decrypt.co/364142/meta-photorealistic-ai-clone-zuckerberg",
+        "source": "crypto",
+        "time": "Mon, 13 Apr 2026 17:41:24 +0000"
+      },
+      {
+        "title": "Surging Bitcoin, Ethereum ETF Investments Drive Crypto Funds to Best Week Since January",
+        "url": "https://decrypt.co/364130/surging-bitcoin-ethereum-etf-investments-crypto-funds-best-week-since-january",
+        "source": "crypto",
+        "time": "Mon, 13 Apr 2026 17:00:15 +0000"
+      },
+      {
+        "title": "Justin Sun Bashes Trump Family&#39;s World Liberty, Claims Investors Used as &#39;Personal ATM&#39;",
+        "url": "https://decrypt.co/364137/justin-sun-bashes-trump-world-liberty-financial-investors-personal-atm",
+        "source": "crypto",
+        "time": "Mon, 13 Apr 2026 16:51:10 +0000"
+      },
       {
         "title": "Crypto Hacker Mints $1.1 Billion in Polkadot via Ethereum Bridge, But Can Only Cash Out $237K",
         "url": "https://decrypt.co/364131/crypto-hacker-mints-billion-polkadot-ethereum-bridge-cashes-out-237k",
         "source": "crypto",
         "time": "Mon, 13 Apr 2026 16:09:57 +0000"
-      },
-      {
-        "title": "Foundry Launches Zcash Mining Pool Alongside Industry-Leading Bitcoin Pool",
-        "url": "https://decrypt.co/364124/foundry-launches-zcash-mining-pool-bitcoin",
-        "source": "crypto",
-        "time": "Mon, 13 Apr 2026 15:21:38 +0000"
-      },
-      {
-        "title": "Tom Lee’s BitMine Makes Biggest Ethereum Buy Since December",
-        "url": "https://decrypt.co/364119/tom-lees-bitmine-biggest-ethereum-buy-since-december",
-        "source": "crypto",
-        "time": "Mon, 13 Apr 2026 14:32:36 +0000"
-      },
-      {
-        "title": "Morning Minute: Relentless Sellers, War Volatility Keep Bitcoin Down",
-        "url": "https://decrypt.co/364107/morning-minute-relentless-sellers-war-volatility-keep-bitcoin-down",
-        "source": "crypto",
-        "time": "Mon, 13 Apr 2026 14:05:31 +0000"
-      },
-      {
-        "title": "Strategy&#39;s Bitcoin Stockpile Nears BlackRock&#39;s ETF Holdings After $1 Billion BTC Buy",
-        "url": "https://decrypt.co/364114/strategy-bitcoin-stockpile-nears-blackrocks-etf-holdings-1-billion-buy",
-        "source": "crypto",
-        "time": "Mon, 13 Apr 2026 13:42:41 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Building a CLI for All of Cloudflare",
-        "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-        "source": "hn",
-        "time": "4/13/2026, 3:44:02 PM"
-      },
       {
         "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
         "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
         "source": "hn",
         "time": "4/13/2026, 3:31:06 PM"
+      },
+      {
+        "title": "The Future of Everything Is Lies, I Guess: Safety",
+        "url": "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
+        "source": "hn",
+        "time": "4/13/2026, 4:23:09 PM"
+      },
+      {
+        "title": "Building a CLI for All of Cloudflare",
+        "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+        "source": "hn",
+        "time": "4/13/2026, 3:44:02 PM"
       },
       {
         "title": "Servo is now available on crates.io",
@@ -54,19 +60,19 @@
         "time": "4/13/2026, 12:12:22 PM"
       },
       {
-        "title": "Make Tmux Pretty and Usable",
+        "title": "Make Tmux Pretty and Usable (2024)",
         "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
         "source": "hn",
         "time": "4/13/2026, 2:48:55 PM"
-      },
-      {
-        "title": "All elementary functions from a single binary operator",
-        "url": "https://arxiv.org/abs/2603.21852",
-        "source": "hn",
-        "time": "4/13/2026, 1:49:32 AM"
       }
     ],
     "world": [
+      {
+        "title": "Southport killer's parents failed in 'moral duty' to report son",
+        "url": "https://www.bbc.com/news/articles/cx2rgyeqv1yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 13 Apr 2026 17:49:05 GMT"
+      },
       {
         "title": "Five key failures of killer's parents and agencies ahead of Southport attack",
         "url": "https://www.bbc.com/news/articles/c239zz1m324o?at_medium=RSS&amp;at_campaign=rss",
@@ -86,16 +92,10 @@
         "time": "Mon, 13 Apr 2026 12:13:42 GMT"
       },
       {
-        "title": "Ex-Nigerian oil minister denies taking bribes",
-        "url": "https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
+        "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 13 Apr 2026 16:05:59 GMT"
-      },
-      {
-        "title": "US judge dismisses $10bn Trump defamation suit against Wall Street Journal",
-        "url": "https://www.bbc.com/news/articles/c995j57xepmo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 13 Apr 2026 14:30:27 GMT"
+        "time": "Mon, 13 Apr 2026 17:32:43 GMT"
       }
     ],
     "projects": [
