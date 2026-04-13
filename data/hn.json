@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-13T17:56:30.661Z"
+    "built_at": "2026-04-13T19:09:00.174Z"
   },
-  "items": [
-    {
-      "title": "Google engineering appears to have the same AI adoption footprint as John Deere",
-      "url": "https://twitter.com/Steve_Yegge/status/2043747998740689171",
-      "date": "2026-04-13T17:55:25.000Z"
-    },
-    {
-      "title": "Apple's iCloud as the back end for an iOS and Android family safety app",
-      "url": "https://www.brykk.app/",
-      "date": "2026-04-13T17:54:41.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
