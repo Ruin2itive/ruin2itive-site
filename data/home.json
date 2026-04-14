@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-13T23:53:47.632Z",
-  "updated_local": "4/13/2026, 11:53:47 PM",
+  "updated_iso": "2026-04-14T02:25:55.532Z",
+  "updated_local": "4/14/2026, 2:25:55 AM",
   "sections": {
     "crypto": [
       {
@@ -36,7 +36,7 @@
     ],
     "hacker": [
       {
-        "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+        "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
         "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
         "source": "hn",
         "time": "4/13/2026, 5:54:39 PM"
@@ -48,30 +48,36 @@
         "time": "4/13/2026, 8:36:49 PM"
       },
       {
-        "title": "The tech jobs bust is real. Don't blame AI (yet)",
-        "url": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
+        "title": "Lean proved this program correct; then I found a bug",
+        "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
         "source": "hn",
-        "time": "4/13/2026, 9:02:21 PM"
+        "time": "4/14/2026, 12:25:08 AM"
+      },
+      {
+        "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+        "url": "https://github.com/fabienmillet/WiiFin",
+        "source": "hn",
+        "time": "4/13/2026, 11:33:18 PM"
       },
       {
         "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
         "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
         "source": "hn",
         "time": "4/13/2026, 3:31:06 PM"
-      },
-      {
-        "title": "How to make Firefox builds 17% faster",
-        "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
-        "source": "hn",
-        "time": "4/13/2026, 6:50:08 PM"
       }
     ],
     "world": [
       {
-        "title": "Southport killer's parents failed in 'moral duty' to report son, public inquiry finds",
-        "url": "https://www.bbc.com/news/articles/cx2rgyeqv1yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Lebanon enters talks with Israel but with no cards to play",
+        "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 13 Apr 2026 19:26:15 GMT"
+        "time": "Mon, 13 Apr 2026 23:26:46 GMT"
+      },
+      {
+        "title": "Former Nato chief to say UK's national security 'in peril'",
+        "url": "https://www.bbc.com/news/articles/cje4n5ppgw7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 14 Apr 2026 02:13:47 GMT"
       },
       {
         "title": "Five key failures of killer's parents and agencies ahead of Southport attack",
@@ -80,22 +86,16 @@
         "time": "Mon, 13 Apr 2026 13:46:41 GMT"
       },
       {
-        "title": "EasyJet passengers describe EU border 'nightmare' after flight leaves without them",
-        "url": "https://www.bbc.com/news/articles/cn897e8280do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How Trump’s Jesus-like image and feud with the Pope are sparking backlash",
+        "url": "https://www.bbc.com/news/videos/c624dy3pgg2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 13 Apr 2026 12:56:34 GMT"
+        "time": "Mon, 13 Apr 2026 21:45:42 GMT"
       },
       {
-        "title": "Henry Zeffman: Starmer seeks closer ties with EU - and doesn't mind reopening Brexit divisions",
-        "url": "https://www.bbc.com/news/articles/c0rxj4yygdwo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Harry and Meghan arrive in Australia for four-day tour",
+        "url": "https://www.bbc.com/news/articles/cvgk3vpyzdqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 13 Apr 2026 12:13:42 GMT"
-      },
-      {
-        "title": "Ex-Nigerian oil minister denies taking bribes",
-        "url": "https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 13 Apr 2026 16:05:59 GMT"
+        "time": "Tue, 14 Apr 2026 00:14:27 GMT"
       }
     ],
     "projects": [
