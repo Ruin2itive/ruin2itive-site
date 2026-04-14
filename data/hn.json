@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-14T21:01:12.111Z"
+    "built_at": "2026-04-14T22:38:27.636Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Secure private networking for users, nodes, agents, Workers – Cloudflare Mesh",
+      "url": "https://blog.cloudflare.com/mesh/",
+      "date": "2026-04-14T22:31:35.000Z"
+    },
+    {
+      "title": "Contra Byrnes on UV and Cancer",
+      "url": "https://hedonicescalator.substack.com/p/contra-byrnes-on-uv-and-cancer",
+      "date": "2026-04-14T22:30:57.000Z"
+    }
+  ]
 }
