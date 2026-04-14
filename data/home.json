@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-14T12:03:26.608Z",
-  "updated_local": "4/14/2026, 12:03:26 PM",
+  "updated_iso": "2026-04-14T13:21:53.503Z",
+  "updated_local": "4/14/2026, 1:21:53 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "What is jj and why should I care?",
+        "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+        "source": "hn",
+        "time": "4/14/2026, 10:33:39 AM"
+      },
+      {
         "title": "DaVinci Resolve – Photo",
         "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
         "source": "hn",
@@ -54,19 +60,19 @@
         "time": "4/14/2026, 3:06:27 AM"
       },
       {
-        "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-        "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+        "title": "Backblaze has stopped backing up your data",
+        "url": "https://rareese.com/posts/backblaze/",
         "source": "hn",
-        "time": "4/13/2026, 5:54:39 PM"
-      },
-      {
-        "title": "Introspective Diffusion Language Models",
-        "url": "https://introspective-diffusion.github.io/",
-        "source": "hn",
-        "time": "4/14/2026, 7:57:33 AM"
+        "time": "4/14/2026, 8:30:27 AM"
       }
     ],
     "world": [
+      {
+        "title": "UK faces biggest hit to growth from Iran war of major economies, IMF says",
+        "url": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 14 Apr 2026 13:00:43 GMT"
+      },
       {
         "title": "US blockade of Iranian ports explained in two minutes",
         "url": "https://www.bbc.com/news/videos/cd9vg5vggvqo?at_medium=RSS&amp;at_campaign=rss",
@@ -77,7 +83,7 @@
         "title": "Former Nato chief warns UK security 'in peril' as he accuses Starmer of 'corrosive complacency'",
         "url": "https://www.bbc.com/news/articles/cje4n5ppgw7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 14 Apr 2026 11:14:07 GMT"
+        "time": "Tue, 14 Apr 2026 12:30:20 GMT"
       },
       {
         "title": "We will name police and social workers unless action taken, Southport families lawyer says",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c9d44ld97dyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 14 Apr 2026 11:42:05 GMT"
-      },
-      {
-        "title": "Ian Huntley died from prison attack head injury, inquest hears",
-        "url": "https://www.bbc.com/news/articles/cnv883dd25no?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 14 Apr 2026 11:05:17 GMT"
       }
     ],
     "projects": [
