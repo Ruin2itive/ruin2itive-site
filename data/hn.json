@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-14T11:53:11.108Z"
+    "built_at": "2026-04-14T13:08:05.989Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Host, share, promote and track release artifacts via your coding agent",
-      "url": "https://jfrog.com/fly/",
-      "date": "2026-04-14T11:49:03.000Z"
-    },
-    {
-      "title": "ASI-Evolve: AI Accelerates AI",
-      "url": "https://arxiv.org/abs/2603.29640",
-      "date": "2026-04-14T11:49:01.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
