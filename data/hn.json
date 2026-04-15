@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-15T22:35:25.187Z"
+    "built_at": "2026-04-15T23:35:48.684Z"
   },
-  "items": [
-    {
-      "title": "KTaO3-Based Supercurrent Diode",
-      "url": "https://pubs.acs.org/doi/10.1021/acs.nanolett.5c05590",
-      "date": "2026-04-15T22:32:22.000Z"
-    },
-    {
-      "title": "I built a simple site to organize JJS moveset codes",
-      "url": "https://jjsbuilder.com/",
-      "date": "2026-04-15T22:31:29.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
