@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-15T02:23:54.621Z",
-  "updated_local": "4/15/2026, 2:23:54 AM",
+  "updated_iso": "2026-04-15T03:31:34.078Z",
+  "updated_local": "4/15/2026, 3:31:34 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "Stop Flock",
-        "url": "https://stopflock.com",
-        "source": "hn",
-        "time": "4/14/2026, 9:56:05 PM"
-      },
-      {
         "title": "Claude Code Routines",
         "url": "https://code.claude.com/docs/en/routines",
         "source": "hn",
@@ -54,16 +48,22 @@
         "time": "4/14/2026, 1:46:31 PM"
       },
       {
+        "title": "Stop Flock",
+        "url": "https://stopflock.com",
+        "source": "hn",
+        "time": "4/14/2026, 9:56:05 PM"
+      },
+      {
         "title": "The Orange Pi 6 Plus",
         "url": "https://taoofmac.com/space/reviews/2026/04/11/1900",
         "source": "hn",
         "time": "4/11/2026, 5:48:02 PM"
       },
       {
-        "title": "Fuck the cloud (2009)",
-        "url": "https://ascii.textfiles.com/archives/1717",
+        "title": "A communist Apple II and fourteen years of not knowing what you're testing",
+        "url": "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/",
         "source": "hn",
-        "time": "4/14/2026, 10:00:11 PM"
+        "time": "4/10/2026, 10:36:24 PM"
       }
     ],
     "world": [
@@ -71,13 +71,13 @@
         "title": "Trump hints Iran talks could resume this week as US port blockade continues",
         "url": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 14 Apr 2026 22:53:41 GMT"
+        "time": "Wed, 15 Apr 2026 02:58:25 GMT"
       },
       {
-        "title": "UK faces biggest hit to growth from Iran war of major economies, IMF says",
-        "url": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
+        "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 14 Apr 2026 17:18:19 GMT"
+        "time": "Tue, 14 Apr 2026 19:47:53 GMT"
       },
       {
         "title": "Help to Buy mostly helped high earners, IFS says",
@@ -86,16 +86,16 @@
         "time": "Tue, 14 Apr 2026 23:03:25 GMT"
       },
       {
-        "title": "King not meeting Epstein survivors, but state visit could help ease US-UK tensions",
-        "url": "https://www.bbc.com/news/articles/cvg44q1zdeno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 15 Apr 2026 01:05:46 GMT"
-      },
-      {
         "title": "'I'm not being listened to' - new health plan launched as women say they are still ignored",
         "url": "https://www.bbc.com/news/articles/cm2kke1jn8xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 15 Apr 2026 00:03:56 GMT"
+      },
+      {
+        "title": "250 missing after migrant boat sinks in Indian Ocean",
+        "url": "https://www.bbc.com/news/articles/cz6778j78vlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 15 Apr 2026 01:28:08 GMT"
       }
     ],
     "projects": [
