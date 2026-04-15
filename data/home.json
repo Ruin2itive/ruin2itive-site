@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-15T03:31:34.078Z",
-  "updated_local": "4/15/2026, 3:31:34 AM",
+  "updated_iso": "2026-04-15T05:22:00.839Z",
+  "updated_local": "4/15/2026, 5:22:00 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Saying Goodbye to Agile",
+        "url": "https://lewiscampbell.tech/blog/260414.html",
+        "source": "hn",
+        "time": "4/15/2026, 4:45:37 AM"
+      },
+      {
         "title": "Claude Code Routines",
         "url": "https://code.claude.com/docs/en/routines",
         "source": "hn",
         "time": "4/14/2026, 4:54:33 PM"
+      },
+      {
+        "title": "Dependency cooldowns turn you into a free-rider",
+        "url": "https://calpaterson.com/deps.html",
+        "source": "hn",
+        "time": "4/15/2026, 2:03:12 AM"
       },
       {
         "title": "Rare concert recordings are landing on the Internet Archive",
@@ -48,30 +60,24 @@
         "time": "4/14/2026, 1:46:31 PM"
       },
       {
-        "title": "Stop Flock",
-        "url": "https://stopflock.com",
+        "title": "Not all elementary functions can be expressed with exp-minus-log",
+        "url": "https://www.stylewarning.com/posts/not-all-elementary/",
         "source": "hn",
-        "time": "4/14/2026, 9:56:05 PM"
-      },
-      {
-        "title": "The Orange Pi 6 Plus",
-        "url": "https://taoofmac.com/space/reviews/2026/04/11/1900",
-        "source": "hn",
-        "time": "4/11/2026, 5:48:02 PM"
-      },
-      {
-        "title": "A communist Apple II and fourteen years of not knowing what you're testing",
-        "url": "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/",
-        "source": "hn",
-        "time": "4/10/2026, 10:36:24 PM"
+        "time": "4/15/2026, 1:59:18 AM"
       }
     ],
     "world": [
       {
-        "title": "Trump hints Iran talks could resume this week as US port blockade continues",
-        "url": "https://www.bbc.com/news/articles/c20ddnz4w5lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds",
+        "url": "https://www.bbc.com/news/articles/c937wldkkw8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 15 Apr 2026 02:58:25 GMT"
+        "time": "Wed, 15 Apr 2026 04:58:25 GMT"
+      },
+      {
+        "title": "Watch: Legal adviser helps undercover reporter pretend to be gay for asylum claim",
+        "url": "https://www.bbc.com/news/videos/cjd89jy7lp7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 15 Apr 2026 05:00:15 GMT"
       },
       {
         "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cm2kke1jn8xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 15 Apr 2026 00:03:56 GMT"
-      },
-      {
-        "title": "250 missing after migrant boat sinks in Indian Ocean",
-        "url": "https://www.bbc.com/news/articles/cz6778j78vlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 15 Apr 2026 01:28:08 GMT"
       }
     ],
     "projects": [
