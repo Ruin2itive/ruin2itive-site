@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-15T08:23:57.825Z"
+    "built_at": "2026-04-15T10:10:21.547Z"
   },
-  "items": [
-    {
-      "title": "Rosetta Code – Programming Chrestomathy",
-      "url": "https://rosettacode.org/wiki/Rosetta_Code",
-      "date": "2026-04-15T08:20:28.000Z"
-    },
-    {
-      "title": "Gradient Bang: a multiplayer game built with LLMs",
-      "url": "https://www.gradient-bang.com/",
-      "date": "2026-04-15T08:20:09.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
