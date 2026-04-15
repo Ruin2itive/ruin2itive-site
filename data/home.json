@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-15T10:23:05.621Z",
-  "updated_local": "4/15/2026, 10:23:05 AM",
+  "updated_iso": "2026-04-15T10:57:30.999Z",
+  "updated_local": "4/15/2026, 10:57:30 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin ETFs Draw $411M After BTC Hits $75K, But Analysts Urge Caution",
+        "url": "https://decrypt.co/364423/bitcoin-etfs-draw-411m-after-btc-hits-75k-but-analysts-urge-caution",
+        "source": "crypto",
+        "time": "Wed, 15 Apr 2026 10:42:06 +0000"
+      },
       {
         "title": "Trump Is Hosting Another Meme Coin Gala—The Price for VIP Access Is Down 90%",
         "url": "https://decrypt.co/364382/trump-meme-coin-gala-cheaper-vip-access",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/364344/gemopus-gemma-4-claude-opus-style-local-ai",
         "source": "crypto",
         "time": "Tue, 14 Apr 2026 18:30:43 +0000"
-      },
-      {
-        "title": "Fed Chair Nominee Kevin Warsh Discloses Vast Wealth, Investments in Polymarket and SpaceX",
-        "url": "https://decrypt.co/364336/fed-chair-nominee-kevin-warsh-discloses-investments-polymarket-spacex",
-        "source": "crypto",
-        "time": "Tue, 14 Apr 2026 17:39:07 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "4/15/2026, 9:41:19 AM"
       },
       {
-        "title": "Fixing a 20-year-old bug in Enlightenment E16",
-        "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
-        "source": "hn",
-        "time": "4/15/2026, 4:47:00 AM"
-      },
-      {
         "title": "Good Sleep, Good Learning (2012)",
         "url": "https://super-memory.com/articles/sleep.htm",
         "source": "hn",
         "time": "4/15/2026, 9:11:18 AM"
+      },
+      {
+        "title": "Fixing a 20-year-old bug in Enlightenment E16",
+        "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
+        "source": "hn",
+        "time": "4/15/2026, 4:47:00 AM"
       },
       {
         "title": "Claude Code Routines",
@@ -60,10 +60,10 @@
         "time": "4/14/2026, 4:54:33 PM"
       },
       {
-        "title": "Wacli – WhatsApp CLI: sync, search, send",
-        "url": "https://github.com/steipete/wacli",
+        "title": "My AI-Assisted Workflow",
+        "url": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
         "source": "hn",
-        "time": "4/15/2026, 7:04:45 AM"
+        "time": "4/15/2026, 7:08:18 AM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds",
         "url": "https://www.bbc.com/news/articles/c937wldkkw8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 15 Apr 2026 09:35:24 GMT"
+        "time": "Wed, 15 Apr 2026 10:51:04 GMT"
       },
       {
         "title": "Watch: Reporter told to pose as gay for asylum claim",
@@ -80,22 +80,22 @@
         "time": "Wed, 15 Apr 2026 05:00:15 GMT"
       },
       {
-        "title": "Chris Mason: Iran war has trapped Labour in a vicious circle",
-        "url": "https://www.bbc.com/news/articles/ce8ll6pyvdzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 15 Apr 2026 05:20:51 GMT"
-      },
-      {
         "title": "AA and BSM ordered to refund learner drivers for hidden fees",
         "url": "https://www.bbc.com/news/articles/c07000dzg9do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 15 Apr 2026 09:34:15 GMT"
+        "time": "Wed, 15 Apr 2026 10:37:00 GMT"
       },
       {
         "title": "Watch: Moment gunman tackled by school principal in Oklahoma",
         "url": "https://www.bbc.com/news/videos/c8dll87rrm4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 15 Apr 2026 09:03:51 GMT"
+      },
+      {
+        "title": "Australia's richest person must share part of her mining fortunes, court rules",
+        "url": "https://www.bbc.com/news/articles/cq5990nqjg2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 15 Apr 2026 04:40:30 GMT"
       }
     ],
     "projects": [
