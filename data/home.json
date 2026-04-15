@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-15T12:00:49.256Z",
-  "updated_local": "4/15/2026, 12:00:49 PM",
+  "updated_iso": "2026-04-15T13:47:30.444Z",
+  "updated_local": "4/15/2026, 1:47:30 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Elizabeth Warren Warns Elon Musk&#39;s X Money Threatens &#39;Stability of the Financial System&#39;",
+        "url": "https://decrypt.co/364430/elizabeth-warren-warns-elon-musks-x-money-threatens-stability-of-the-financial-system",
+        "source": "crypto",
+        "time": "Wed, 15 Apr 2026 12:26:42 +0000"
+      },
+      {
+        "title": "Morning Minute: The Next Fed Chair Has a Crypto Portfolio",
+        "url": "https://decrypt.co/364429/morning-minute-the-next-fed-chair-has-a-crypto-portfolio",
+        "source": "crypto",
+        "time": "Wed, 15 Apr 2026 12:14:40 +0000"
+      },
       {
         "title": "Virginia Governor Signs Law Protecting Dormant Crypto From Forced Liquidation",
         "url": "https://decrypt.co/364426/virginia-governor-signs-law-protecting-dormant-crypto-from-forced-liquidation",
@@ -20,21 +32,21 @@
         "url": "https://decrypt.co/364382/trump-meme-coin-gala-cheaper-vip-access",
         "source": "crypto",
         "time": "Tue, 14 Apr 2026 22:12:04 +0000"
-      },
-      {
-        "title": "Ethereum DeFi Exchange CoW Swap Pauses Protocol Following Website Compromise",
-        "url": "https://decrypt.co/364377/ethereum-defi-exchange-cow-swap-website-compromise",
-        "source": "crypto",
-        "time": "Tue, 14 Apr 2026 21:37:18 +0000"
-      },
-      {
-        "title": "Visa Joins Stripe&#39;s Tempo Payments Network as &#39;Anchor&#39; Validator",
-        "url": "https://decrypt.co/364369/visa-backs-stripes-tempo-payments-network-anchor-validator",
-        "source": "crypto",
-        "time": "Tue, 14 Apr 2026 20:26:14 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Keep Android Open",
+        "url": "https://keepandroidopen.org/cta/",
+        "source": "hn",
+        "time": "4/15/2026, 12:47:36 PM"
+      },
+      {
+        "title": "God Sleeps in the Minerals",
+        "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+        "source": "hn",
+        "time": "4/15/2026, 1:08:10 PM"
+      },
       {
         "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
         "url": "https://prog21.dadgum.com/30.html",
@@ -42,28 +54,16 @@
         "time": "4/15/2026, 9:41:19 AM"
       },
       {
+        "title": "Show HN: Every CEO and CFO change at US public companies, live from SEC",
+        "url": "https://tracksuccession.com/explore",
+        "source": "hn",
+        "time": "4/15/2026, 12:51:04 PM"
+      },
+      {
         "title": "Good Sleep, Good Learning (2012)",
         "url": "https://super-memory.com/articles/sleep.htm",
         "source": "hn",
         "time": "4/15/2026, 9:11:18 AM"
-      },
-      {
-        "title": "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
-        "url": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
-        "source": "hn",
-        "time": "4/12/2026, 3:26:24 PM"
-      },
-      {
-        "title": "Fixing a 20-year-old bug in Enlightenment E16",
-        "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
-        "source": "hn",
-        "time": "4/15/2026, 4:47:00 AM"
-      },
-      {
-        "title": "Claude Code Routines",
-        "url": "https://code.claude.com/docs/en/routines",
-        "source": "hn",
-        "time": "4/14/2026, 4:54:33 PM"
       }
     ],
     "world": [
@@ -74,10 +74,16 @@
         "time": "Wed, 15 Apr 2026 11:02:17 GMT"
       },
       {
-        "title": "Watch: Reporter told to pose as gay for asylum claim",
-        "url": "https://www.bbc.com/news/videos/cjd89jy7lp7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Bogus websites, staged protests and pretend atheists: Inside the fake asylum industry",
+        "url": "https://www.bbc.com/news/articles/c86eew6jpjgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 15 Apr 2026 05:00:15 GMT"
+        "time": "Wed, 15 Apr 2026 10:40:56 GMT"
+      },
+      {
+        "title": "Starmer 'not going to yield' to pressure from Trump on Iran war",
+        "url": "https://www.bbc.com/news/articles/cdxdd7ddzgdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 15 Apr 2026 13:25:06 GMT"
       },
       {
         "title": "AA and BSM ordered to refund learner drivers for hidden fees",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/videos/c8dll87rrm4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 15 Apr 2026 09:03:51 GMT"
-      },
-      {
-        "title": "Australia's richest person must share part of her mining fortunes, court rules",
-        "url": "https://www.bbc.com/news/articles/cq5990nqjg2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 15 Apr 2026 04:40:30 GMT"
       }
     ],
     "projects": [
