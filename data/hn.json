@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-16T10:09:55.118Z"
+    "built_at": "2026-04-16T11:54:05.777Z"
   },
-  "items": [
-    {
-      "title": "World of Logotypes Volume 1: Al Cooper",
-      "url": "https://archive.org/details/WorldOfLogotypes",
-      "date": "2026-04-16T10:09:14.000Z"
-    },
-    {
-      "title": "Show HN: Interactive flow fields for resting-state brain activity",
-      "url": "https://github.com/Pixedar/MindVisualizer",
-      "date": "2026-04-16T10:04:58.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
