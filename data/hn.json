@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-16T01:56:56.807Z"
+    "built_at": "2026-04-16T04:49:48.983Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Engels' Pause and the Permanent Underclass",
+      "url": "https://www.fabricatedknowledge.com/p/mythos-and-engels-pause",
+      "date": "2026-04-16T04:45:42.000Z"
+    },
+    {
+      "title": "Microsoft faces fresh Windows Recall security concerns",
+      "url": "https://www.theverge.com/report/912101/microsoft-windows-recall-new-security-concerns-response",
+      "date": "2026-04-16T04:43:26.000Z"
+    }
+  ]
 }
