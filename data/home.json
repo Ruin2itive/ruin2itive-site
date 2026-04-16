@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-16T13:26:10.680Z",
-  "updated_local": "4/16/2026, 1:26:10 PM",
+  "updated_iso": "2026-04-16T15:02:52.825Z",
+  "updated_local": "4/16/2026, 3:02:52 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "French Police Rescue Mother and Child After $400K Crypto Ransom Kidnapping",
+        "url": "https://decrypt.co/364582/french-police-rescue-mother-child-400k-crypto-ransom-kidnapping",
+        "source": "crypto",
+        "time": "Thu, 16 Apr 2026 14:46:38 +0000"
+      },
+      {
+        "title": "Snap Cuts 1,000 Jobs, Aims to Save $500 Million as AI Reshapes Operations",
+        "url": "https://decrypt.co/364581/snap-cuts-1000-jobs-save-500-million-ai-reshapes-operations",
+        "source": "crypto",
+        "time": "Thu, 16 Apr 2026 14:28:33 +0000"
+      },
       {
         "title": "Morning Minute: Bitcoin Devs Propose New Quantum Solution",
         "url": "https://decrypt.co/364570/morning-minute-bitcoin-devs-propose-new-quantum-solution",
@@ -20,26 +32,26 @@
         "url": "https://decrypt.co/364565/exchange-inflows-spike-as-bitcoin-faces-76k-headwinds",
         "source": "crypto",
         "time": "Thu, 16 Apr 2026 11:33:43 +0000"
-      },
-      {
-        "title": "Adam Back Pushes for Optional Upgrades to Quantum-Proof Bitcoin",
-        "url": "https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin",
-        "source": "crypto",
-        "time": "Thu, 16 Apr 2026 10:45:27 +0000"
-      },
-      {
-        "title": "Google&#39;s Latest AI Update Makes Industrial Robots Way Smarter—Here&#39;s How",
-        "url": "https://decrypt.co/364521/google-ai-update-makes-industrial-robots-way-smarter",
-        "source": "crypto",
-        "time": "Wed, 15 Apr 2026 21:31:35 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
-        "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
+        "title": "Claude Opus 4.7",
+        "url": "https://www.anthropic.com/news/claude-opus-4-7",
         "source": "hn",
-        "time": "4/16/2026, 12:13:30 PM"
+        "time": "4/16/2026, 2:23:50 PM"
+      },
+      {
+        "title": "Cloudflare Email Service",
+        "url": "https://blog.cloudflare.com/email-for-agents/",
+        "source": "hn",
+        "time": "4/16/2026, 1:21:53 PM"
+      },
+      {
+        "title": "Mozilla Thunderbolt",
+        "url": "https://www.thunderbolt.io/",
+        "source": "hn",
+        "time": "4/16/2026, 1:01:36 PM"
       },
       {
         "title": "IPv6 traffic crosses the 50% mark",
@@ -48,16 +60,10 @@
         "time": "4/15/2026, 11:59:49 AM"
       },
       {
-        "title": "Darkbloom – Private inference on idle Macs",
-        "url": "https://darkbloom.dev",
+        "title": "The Future of Everything Is Lies, I Guess: Where Do We Go from Here?",
+        "url": "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here",
         "source": "hn",
-        "time": "4/16/2026, 4:06:39 AM"
-      },
-      {
-        "title": "AI cybersecurity is not proof of work",
-        "url": "https://antirez.com/news/163",
-        "source": "hn",
-        "time": "4/16/2026, 10:48:00 AM"
+        "time": "4/16/2026, 1:32:13 PM"
       }
     ],
     "world": [
@@ -65,7 +71,7 @@
         "title": "Home Office investigating after BBC finds migrants making false claims to stay in UK",
         "url": "https://www.bbc.com/news/articles/c0q92lg9ln5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 16 Apr 2026 13:25:10 GMT"
+        "time": "Thu, 16 Apr 2026 14:02:49 GMT"
       },
       {
         "title": "Migrants making false domestic abuse claims to stay in UK, BBC investigation reveals",
@@ -74,22 +80,22 @@
         "time": "Thu, 16 Apr 2026 04:58:15 GMT"
       },
       {
-        "title": "Covid jabs huge success, but work needed on trust in vaccines - key findings from Covid report",
+        "title": "Rollout of Covid vaccines an extraordinary feat, inquiry report finds",
+        "url": "https://www.bbc.com/news/articles/cp8dpjx1yvmo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 16 Apr 2026 14:39:07 GMT"
+      },
+      {
+        "title": "Key findings from Covid inquiry report on vaccines",
         "url": "https://www.bbc.com/news/articles/ce3dp52l70zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 16 Apr 2026 13:02:12 GMT"
       },
       {
-        "title": "Church warden murder conviction quashed",
-        "url": "https://www.bbc.com/news/articles/c93elnv973ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Former Arsenal goalkeeper Alex Manninger dies after car struck by train in Austria",
+        "url": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 16 Apr 2026 12:10:03 GMT"
-      },
-      {
-        "title": "Breakthrough £90,000 Alzheimer's drugs unlikely to benefit patients, report suggests",
-        "url": "https://www.bbc.com/news/articles/cql77wlqlx7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 16 Apr 2026 08:01:52 GMT"
+        "time": "Thu, 16 Apr 2026 13:53:25 GMT"
       }
     ],
     "projects": [
