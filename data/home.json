@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-16T11:00:43.989Z",
-  "updated_local": "4/16/2026, 11:00:43 AM",
+  "updated_iso": "2026-04-16T12:04:00.063Z",
+  "updated_local": "4/16/2026, 12:04:00 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "UK Sets Path to Crypto Regulation With FCA Consultation",
+        "url": "https://decrypt.co/364568/uk-sets-path-to-crypto-regulation-with-fca-consultation",
+        "source": "crypto",
+        "time": "Thu, 16 Apr 2026 11:57:45 +0000"
+      },
+      {
+        "title": "Exchange Inflows Spike as Bitcoin Faces $76K Headwinds",
+        "url": "https://decrypt.co/364565/exchange-inflows-spike-as-bitcoin-faces-76k-headwinds",
+        "source": "crypto",
+        "time": "Thu, 16 Apr 2026 11:33:43 +0000"
+      },
       {
         "title": "Adam Back Pushes for Optional Upgrades to Quantum-Proof Bitcoin",
         "url": "https://decrypt.co/364562/adam-back-pushes-for-optional-upgrades-to-quantum-proof-bitcoin",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/364518/will-maine-governor-janet-mills-sign-first-ai-data-center-ban",
         "source": "crypto",
         "time": "Wed, 15 Apr 2026 21:14:00 +0000"
-      },
-      {
-        "title": "You Switched to Claude Over Surveillance Fears. Now It Wants Your Passport",
-        "url": "https://decrypt.co/364509/claude-anthropic-government-id-kyc-privacy",
-        "source": "crypto",
-        "time": "Wed, 15 Apr 2026 20:37:38 +0000"
-      },
-      {
-        "title": "World Liberty Wants WLFI Locked Beyond Trump&#39;s Second Term—Investors Aren&#39;t Thrilled",
-        "url": "https://decrypt.co/364504/world-liberty-wants-wlfi-locked-beyond-trump-second-term",
-        "source": "crypto",
-        "time": "Wed, 15 Apr 2026 20:32:18 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,18 @@
         "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
         "source": "hn",
         "time": "4/15/2026, 11:59:49 AM"
+      },
+      {
+        "title": "Codex Hacked a Samsung TV",
+        "url": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
+        "source": "hn",
+        "time": "4/16/2026, 10:44:45 AM"
+      },
+      {
+        "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
+        "url": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf",
+        "source": "hn",
+        "time": "4/16/2026, 10:57:13 AM"
       },
       {
         "title": "Darkbloom – Private inference on idle Macs",
@@ -52,18 +64,6 @@
         "url": "https://daedal.io/@thomzane/116410863009847575",
         "source": "hn",
         "time": "4/16/2026, 3:44:38 AM"
-      },
-      {
-        "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
-        "url": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf",
-        "source": "hn",
-        "time": "4/16/2026, 10:57:13 AM"
-      },
-      {
-        "title": "SDL bans AI-written commits",
-        "url": "https://github.com/libsdl-org/SDL/issues/15350",
-        "source": "hn",
-        "time": "4/16/2026, 9:40:43 AM"
       }
     ],
     "world": [
@@ -74,22 +74,22 @@
         "time": "Thu, 16 Apr 2026 04:58:15 GMT"
       },
       {
-        "title": "UK prepares for food shortages in worst case scenario as Iran war continues",
-        "url": "https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 16 Apr 2026 10:47:22 GMT"
-      },
-      {
         "title": "Breakthrough £90,000 Alzheimer's drugs unlikely to benefit patients, report suggests",
         "url": "https://www.bbc.com/news/articles/cql77wlqlx7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 16 Apr 2026 08:01:52 GMT"
       },
       {
-        "title": "'I was the most trolled person in the world,' Meghan says during Australia visit",
-        "url": "https://www.bbc.com/news/articles/c8r48l0kd2do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Church warden murder conviction quashed",
+        "url": "https://www.bbc.com/news/articles/c93elnv973ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 16 Apr 2026 08:24:35 GMT"
+        "time": "Thu, 16 Apr 2026 11:34:51 GMT"
+      },
+      {
+        "title": "UK prepares for food shortages in worst case scenario as Iran war continues",
+        "url": "https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 16 Apr 2026 12:00:18 GMT"
       },
       {
         "title": "Why cheap power could matter more than clean power in the push for net zero",
