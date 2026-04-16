@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-16T20:40:14.159Z"
+    "built_at": "2026-04-16T21:39:37.939Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Claude Opus 4.7's new tokenizer: 1.47x on English, 1.01x on Chinese",
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "date": "2026-04-16T21:38:11.000Z"
+    },
+    {
+      "title": "We're AvantiRMG – helping practices profit and increase revenue",
+      "url": "https://avantirmg.com/",
+      "date": "2026-04-16T21:37:45.000Z"
+    }
+  ]
 }
