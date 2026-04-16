@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-16T12:04:00.063Z",
-  "updated_local": "4/16/2026, 12:04:00 PM",
+  "updated_iso": "2026-04-16T13:26:10.680Z",
+  "updated_local": "4/16/2026, 1:26:10 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Bitcoin Devs Propose New Quantum Solution",
+        "url": "https://decrypt.co/364570/morning-minute-bitcoin-devs-propose-new-quantum-solution",
+        "source": "crypto",
+        "time": "Thu, 16 Apr 2026 12:04:17 +0000"
+      },
       {
         "title": "UK Sets Path to Crypto Regulation With FCA Consultation",
         "url": "https://decrypt.co/364568/uk-sets-path-to-crypto-regulation-with-fca-consultation",
@@ -26,32 +32,20 @@
         "url": "https://decrypt.co/364521/google-ai-update-makes-industrial-robots-way-smarter",
         "source": "crypto",
         "time": "Wed, 15 Apr 2026 21:31:35 +0000"
-      },
-      {
-        "title": "Will Maine Governor Janet Mills Sign Nation&#39;s First AI Data Center Ban Into Law?",
-        "url": "https://decrypt.co/364518/will-maine-governor-janet-mills-sign-first-ai-data-center-ban",
-        "source": "crypto",
-        "time": "Wed, 15 Apr 2026 21:14:00 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
+        "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
+        "source": "hn",
+        "time": "4/16/2026, 12:13:30 PM"
+      },
       {
         "title": "IPv6 traffic crosses the 50% mark",
         "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
         "source": "hn",
         "time": "4/15/2026, 11:59:49 AM"
-      },
-      {
-        "title": "Codex Hacked a Samsung TV",
-        "url": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
-        "source": "hn",
-        "time": "4/16/2026, 10:44:45 AM"
-      },
-      {
-        "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
-        "url": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf",
-        "source": "hn",
-        "time": "4/16/2026, 10:57:13 AM"
       },
       {
         "title": "Darkbloom – Private inference on idle Macs",
@@ -60,42 +54,42 @@
         "time": "4/16/2026, 4:06:39 AM"
       },
       {
-        "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
-        "url": "https://daedal.io/@thomzane/116410863009847575",
+        "title": "AI cybersecurity is not proof of work",
+        "url": "https://antirez.com/news/163",
         "source": "hn",
-        "time": "4/16/2026, 3:44:38 AM"
+        "time": "4/16/2026, 10:48:00 AM"
       }
     ],
     "world": [
       {
-        "title": "Migrants making false domestic abuse claims to stay in UK, BBC investigation finds",
+        "title": "Home Office investigating after BBC finds migrants making false claims to stay in UK",
+        "url": "https://www.bbc.com/news/articles/c0q92lg9ln5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 16 Apr 2026 13:25:10 GMT"
+      },
+      {
+        "title": "Migrants making false domestic abuse claims to stay in UK, BBC investigation reveals",
         "url": "https://www.bbc.com/news/articles/crl19dzdd38o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 16 Apr 2026 04:58:15 GMT"
+      },
+      {
+        "title": "Covid jabs huge success, but work needed on trust in vaccines - key findings from Covid report",
+        "url": "https://www.bbc.com/news/articles/ce3dp52l70zo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 16 Apr 2026 13:02:12 GMT"
+      },
+      {
+        "title": "Church warden murder conviction quashed",
+        "url": "https://www.bbc.com/news/articles/c93elnv973ro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 16 Apr 2026 12:10:03 GMT"
       },
       {
         "title": "Breakthrough £90,000 Alzheimer's drugs unlikely to benefit patients, report suggests",
         "url": "https://www.bbc.com/news/articles/cql77wlqlx7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 16 Apr 2026 08:01:52 GMT"
-      },
-      {
-        "title": "Church warden murder conviction quashed",
-        "url": "https://www.bbc.com/news/articles/c93elnv973ro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 16 Apr 2026 11:34:51 GMT"
-      },
-      {
-        "title": "UK prepares for food shortages in worst case scenario as Iran war continues",
-        "url": "https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 16 Apr 2026 12:00:18 GMT"
-      },
-      {
-        "title": "Why cheap power could matter more than clean power in the push for net zero",
-        "url": "https://www.bbc.com/news/articles/c86ey5n9vx9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 15 Apr 2026 23:20:22 GMT"
       }
     ],
     "projects": [
