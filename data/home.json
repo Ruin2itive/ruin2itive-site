@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-17T15:59:04.127Z",
-  "updated_local": "4/17/2026, 3:59:04 PM",
+  "updated_iso": "2026-04-17T17:01:37.275Z",
+  "updated_local": "4/17/2026, 5:01:37 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "US Government Moves Bitcoin Tied to $9 Billion Bitfinex Hack",
+        "url": "https://decrypt.co/364730/us-government-moves-bitcoin-9-billion-bitfinex-hack",
+        "source": "crypto",
+        "time": "Fri, 17 Apr 2026 16:47:35 +0000"
+      },
       {
         "title": "Dogecoin Gold? A DOGE-Themed Company Is Joining the Tokenized Gold Rush",
         "url": "https://decrypt.co/364739/dogecoin-gold-company-joining-tokenized-rush",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/364723/kraken-parent-payward-acquire-derivatives-exchange-bitnomial-550-million",
         "source": "crypto",
         "time": "Fri, 17 Apr 2026 14:01:20 +0000"
-      },
-      {
-        "title": "SEC Officials Push US Crypto Ambitions in Debut Podcast Episode",
-        "url": "https://decrypt.co/364720/sec-officials-push-us-crypto-ambitions-in-debut-podcast-episode",
-        "source": "crypto",
-        "time": "Fri, 17 Apr 2026 12:39:01 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
         "source": "hn",
         "time": "4/17/2026, 3:04:09 PM"
+      },
+      {
+        "title": "Claude Opus 4.7 costs 20–30% more per session",
+        "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+        "source": "hn",
+        "time": "4/17/2026, 3:29:36 PM"
       },
       {
         "title": "Isaac Asimov: The Last Question (1956)",
@@ -54,12 +60,6 @@
         "time": "4/17/2026, 2:41:49 PM"
       },
       {
-        "title": "Healthchecks.io Now Uses Self-Hosted Object Storage",
-        "url": "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/",
-        "source": "hn",
-        "time": "4/17/2026, 2:29:11 PM"
-      },
-      {
         "title": "NIST gives up enriching most CVEs",
         "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
         "source": "hn",
@@ -68,16 +68,22 @@
     ],
     "world": [
       {
+        "title": "'Staggering' I was not told Mandelson failed vetting, says PM",
+        "url": "https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 17 Apr 2026 16:23:47 GMT"
+      },
+      {
         "title": "Key questions facing government over Mandelson checks",
         "url": "https://www.bbc.com/news/articles/c9qd2gjrv4ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 17 Apr 2026 14:07:05 GMT"
+        "time": "Fri, 17 Apr 2026 16:07:50 GMT"
       },
       {
         "title": "Paul Quinn guilty of 2003 rape that saw innocent man jailed for 17 years",
         "url": "https://www.bbc.com/news/articles/c145vjr3j8ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 17 Apr 2026 15:49:29 GMT"
+        "time": "Fri, 17 Apr 2026 16:02:59 GMT"
       },
       {
         "title": "Former Radio 1 DJ and Live Aid presenter Andy Kershaw dies aged 66",
@@ -86,16 +92,10 @@
         "time": "Fri, 17 Apr 2026 12:08:18 GMT"
       },
       {
-        "title": "Kensington Gardens shut after claims of drones near Israeli embassy",
-        "url": "https://www.bbc.com/news/articles/cj60p6zldzgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "No evidence Epsom rape took place as reported, say police",
+        "url": "https://www.bbc.com/news/articles/clyxp4q5k93o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 17 Apr 2026 15:34:09 GMT"
-      },
-      {
-        "title": "Nursery worker jailed over death of toddler restrained during nap time",
-        "url": "https://www.bbc.com/news/articles/ckgwp7kgrgxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 17 Apr 2026 15:26:24 GMT"
+        "time": "Fri, 17 Apr 2026 15:54:00 GMT"
       }
     ],
     "projects": [
