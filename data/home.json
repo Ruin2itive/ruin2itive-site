@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-17T21:54:42.057Z",
-  "updated_local": "4/17/2026, 9:54:42 PM",
+  "updated_iso": "2026-04-17T22:36:40.129Z",
+  "updated_local": "4/17/2026, 10:36:40 PM",
   "sections": {
     "crypto": [
       {
@@ -42,10 +42,16 @@
         "time": "4/17/2026, 3:04:09 PM"
       },
       {
-        "title": "Measuring Claude 4.7's tokenizer costs",
-        "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+        "title": "I'm spending 3 months coding the old way",
+        "url": "https://miguelconner.substack.com/p/im-coding-by-hand",
         "source": "hn",
-        "time": "4/17/2026, 3:29:36 PM"
+        "time": "4/17/2026, 4:19:53 PM"
+      },
+      {
+        "title": "A simplified model of Fil-C",
+        "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+        "source": "hn",
+        "time": "4/17/2026, 9:38:20 PM"
       },
       {
         "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
@@ -54,16 +60,10 @@
         "time": "4/17/2026, 6:17:01 PM"
       },
       {
-        "title": "I'm spending 3 months coding the old way",
-        "url": "https://miguelconner.substack.com/p/im-coding-by-hand",
+        "title": "Measuring Claude 4.7's tokenizer costs",
+        "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
         "source": "hn",
-        "time": "4/17/2026, 4:19:53 PM"
-      },
-      {
-        "title": "Show HN: Smol machines – subsecond coldstart, portable virtual machines",
-        "url": "https://github.com/smol-machines/smolvm",
-        "source": "hn",
-        "time": "4/17/2026, 5:18:58 PM"
+        "time": "4/17/2026, 3:29:36 PM"
       }
     ],
     "world": [
