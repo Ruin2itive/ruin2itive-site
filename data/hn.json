@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-17T10:07:25.044Z"
+    "built_at": "2026-04-17T11:43:50.519Z"
   },
-  "items": [
-    {
-      "title": "M5Stack CardputerZero – Pocket Raspberry Pi Computer for Hackers",
-      "url": "https://shop.m5stack.com/pages/m5-cardputerzero",
-      "date": "2026-04-17T10:05:14.000Z"
-    },
-    {
-      "title": "The Skills That Matter Now",
-      "url": "https://jasonrobert.dev/blog/2026-04-10-the-skills-that-matter-now/",
-      "date": "2026-04-17T10:03:32.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
