@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-17T10:54:22.016Z",
-  "updated_local": "4/17/2026, 10:54:22 AM",
+  "updated_iso": "2026-04-17T11:50:49.883Z",
+  "updated_local": "4/17/2026, 11:50:49 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Circle Hit With Class Action Lawsuit Over $285M Drift Protocol Hack",
+        "url": "https://decrypt.co/364710/circle-hit-with-class-action-lawsuit-over-285m-drift-protocol-hack",
+        "source": "crypto",
+        "time": "Fri, 17 Apr 2026 11:10:35 +0000"
+      },
       {
         "title": "Quantum Proposal Won’t Save Satoshi’s Bitcoin, Says Cardano Founder Hoskinson",
         "url": "https://decrypt.co/364676/cardano-charles-hoskinson-bitcoin-quantum-debate",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/364656/russian-crypto-exchange-grinex-halts-trading-13m-exploit",
         "source": "crypto",
         "time": "Thu, 16 Apr 2026 20:35:39 +0000"
-      },
-      {
-        "title": "Federal AI Use Soars, But Bottlenecks Threaten Momentum Amid Public Skepticism: Brookings",
-        "url": "https://decrypt.co/364659/federal-ai-use-soars-bottlenecks-threaten-momentum-skepticism",
-        "source": "crypto",
-        "time": "Thu, 16 Apr 2026 20:23:08 +0000"
       }
     ],
     "hacker": [
@@ -48,22 +48,22 @@
         "time": "4/16/2026, 2:23:50 PM"
       },
       {
-        "title": "Codex for almost everything",
-        "url": "https://openai.com/index/codex-for-almost-everything/",
-        "source": "hn",
-        "time": "4/16/2026, 5:12:19 PM"
-      },
-      {
         "title": "FIM – Linux framebuffer image viewer",
         "url": "https://www.nongnu.org/fbi-improved/",
         "source": "hn",
         "time": "4/17/2026, 7:20:46 AM"
       },
       {
-        "title": "A Python Interpreter Written in Python",
-        "url": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
+        "title": "Codex for almost everything",
+        "url": "https://openai.com/index/codex-for-almost-everything/",
         "source": "hn",
-        "time": "4/13/2026, 5:25:50 PM"
+        "time": "4/16/2026, 5:12:19 PM"
+      },
+      {
+        "title": "CadQuery is an open-source Python library for building 3D CAD models",
+        "url": "https://cadquery.github.io/",
+        "source": "hn",
+        "time": "4/14/2026, 11:20:39 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Fri, 17 Apr 2026 10:37:05 GMT"
       },
       {
-        "title": "Singer D4vd arrested on suspicion of murdering teenage girl",
-        "url": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Avengers reassemble and Ariana meets the Fockers - Hollywood studios preview new movies",
+        "url": "https://www.bbc.com/news/articles/cwyk2xrkvnzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 17 Apr 2026 08:15:50 GMT"
+        "time": "Fri, 17 Apr 2026 08:30:34 GMT"
       }
     ],
     "projects": [
