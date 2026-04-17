@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-17T22:36:40.129Z",
-  "updated_local": "4/17/2026, 10:36:40 PM",
+  "updated_iso": "2026-04-17T22:52:51.258Z",
+  "updated_local": "4/17/2026, 10:52:51 PM",
   "sections": {
     "crypto": [
       {
@@ -42,12 +42,6 @@
         "time": "4/17/2026, 3:04:09 PM"
       },
       {
-        "title": "I'm spending 3 months coding the old way",
-        "url": "https://miguelconner.substack.com/p/im-coding-by-hand",
-        "source": "hn",
-        "time": "4/17/2026, 4:19:53 PM"
-      },
-      {
         "title": "A simplified model of Fil-C",
         "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
         "source": "hn",
@@ -64,9 +58,21 @@
         "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
         "source": "hn",
         "time": "4/17/2026, 3:29:36 PM"
+      },
+      {
+        "title": "I'm spending 3 months coding the old way",
+        "url": "https://miguelconner.substack.com/p/im-coding-by-hand",
+        "source": "hn",
+        "time": "4/17/2026, 4:19:53 PM"
       }
     ],
     "world": [
+      {
+        "title": "Iran says Strait of Hormuz is 'open' but tracking shows few ships moving",
+        "url": "https://www.bbc.com/news/articles/cwydexp39ddo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 17 Apr 2026 22:26:00 GMT"
+      },
       {
         "title": "'Staggering' I was not told Mandelson failed vetting, says PM",
         "url": "https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 17 Apr 2026 17:48:13 GMT"
-      },
-      {
-        "title": "Clair Obscur takes top Bafta Games Award but misses out on clean sweep",
-        "url": "https://www.bbc.com/news/articles/cpqx3z0gz0wo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 17 Apr 2026 21:37:04 GMT"
       }
     ],
     "projects": [
