@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-17T16:45:54.337Z"
+    "built_at": "2026-04-17T17:42:08.923Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Playdate won't have games using Generative AI assets",
+      "url": "https://www.gamedeveloper.com/production/panic-won-t-release-playdate-titles-that-use-some-forms-of-generative-ai",
+      "date": "2026-04-17T17:41:05.000Z"
+    },
+    {
+      "title": "Controversial FISA program extended by House but only until April 30",
+      "url": "https://www.cbsnews.com/news/controversial-surveillance-program-extended-by-house-but-only-until-april-30/",
+      "date": "2026-04-17T17:40:26.000Z"
+    }
+  ]
 }
