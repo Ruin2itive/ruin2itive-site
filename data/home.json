@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-18T05:45:46.500Z",
-  "updated_local": "4/18/2026, 5:45:46 AM",
+  "updated_iso": "2026-04-18T07:04:52.749Z",
+  "updated_local": "4/18/2026, 7:04:52 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+        "url": "https://victorpoughon.github.io/interval-calculator/",
+        "source": "hn",
+        "time": "4/18/2026, 1:15:43 AM"
+      },
+      {
         "title": "Claude Design",
         "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "4/15/2026, 1:49:15 PM"
       },
       {
-        "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-        "url": "https://victorpoughon.github.io/interval-calculator/",
+        "title": "Measuring Claude 4.7's tokenizer costs",
+        "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
         "source": "hn",
-        "time": "4/18/2026, 1:15:43 AM"
+        "time": "4/17/2026, 3:29:36 PM"
       },
       {
         "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
         "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
         "source": "hn",
         "time": "4/17/2026, 6:17:01 PM"
-      },
-      {
-        "title": "Spending 3 months coding by hand",
-        "url": "https://miguelconner.substack.com/p/im-coding-by-hand",
-        "source": "hn",
-        "time": "4/17/2026, 4:19:53 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Fri, 17 Apr 2026 16:39:42 GMT"
       },
       {
+        "title": "Mortgage rates show signs of falling after Iran war peak",
+        "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 17 Apr 2026 23:33:10 GMT"
+      },
+      {
         "title": "'I'm the lucky one' - more than one in three young men now live with their parents",
         "url": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 17 Apr 2026 23:16:33 GMT"
-      },
-      {
-        "title": "Swinney predicts SNP majority at Holyrood election",
-        "url": "https://www.bbc.com/news/articles/c9wq2jvqqxvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 18 Apr 2026 05:00:24 GMT"
       }
     ],
     "projects": [
