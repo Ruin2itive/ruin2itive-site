@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-18T21:26:49.307Z"
+    "built_at": "2026-04-18T22:26:13.782Z"
   },
-  "items": [
-    {
-      "title": "Israel kills two UNICEF water truck drivers in Gaza",
-      "url": "https://www.unicef.org/press-releases/statement-unicef-killing-two-water-truck-drivers-gaza-strip-0",
-      "date": "2026-04-18T21:22:49.000Z"
-    },
-    {
-      "title": "_Generic Printf() in Standard C23",
-      "url": "https://codeberg.org/Flying-Toast/gprintf",
-      "date": "2026-04-18T21:12:34.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
