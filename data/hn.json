@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-17T23:32:18.223Z"
+    "built_at": "2026-04-18T01:44:48.399Z"
   },
-  "items": [
-    {
-      "title": "Japan's Cherry Blossom Database, 1,200 Years Old, Has a New Keeper",
-      "url": "https://www.nytimes.com/2026/04/17/climate/japan-cherry-blossom-database-scientist.html",
-      "date": "2026-04-17T23:22:38.000Z"
-    },
-    {
-      "title": "OSS code review, in the era of LLMs",
-      "url": "https://blog.ezyang.com/2026/04/oss-code-review-in-the-era-of-llms/",
-      "date": "2026-04-17T23:20:58.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
