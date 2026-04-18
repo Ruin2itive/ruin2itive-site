@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-18T01:44:48.399Z"
+    "built_at": "2026-04-18T04:26:11.017Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The Digital Ouija Effect – Emergent Behavior in AI Models",
+      "url": "https://kennethreitz.org/essays/2026-04-17-the_digital_ouija_effect",
+      "date": "2026-04-18T04:11:53.000Z"
+    },
+    {
+      "title": "Why AI Needs a Sense of Smell",
+      "url": "https://www.noemamag.com/why-ai-needs-a-sense-of-smell/",
+      "date": "2026-04-18T04:11:38.000Z"
+    }
+  ]
 }
