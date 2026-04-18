@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-18T22:45:26.414Z",
-  "updated_local": "4/18/2026, 10:45:26 PM",
+  "updated_iso": "2026-04-18T23:32:56.084Z",
+  "updated_local": "4/18/2026, 11:32:56 PM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Any Color You Like: NIST Scientists Create 'Any Wavelength' Lasers",
+        "title": "NIST scientists create 'any wavelength' lasers",
         "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
         "source": "hn",
         "time": "4/18/2026, 8:54:17 PM"
+      },
+      {
+        "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+        "url": "https://tokens.billchambers.me/leaderboard",
+        "source": "hn",
+        "time": "4/18/2026, 4:05:43 PM"
       },
       {
         "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
@@ -58,12 +64,6 @@
         "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
         "source": "hn",
         "time": "4/18/2026, 8:42:29 PM"
-      },
-      {
-        "title": "Modern Common Lisp with FSET",
-        "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
-        "source": "hn",
-        "time": "4/15/2026, 2:38:38 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Sat, 18 Apr 2026 12:32:35 GMT"
       },
       {
-        "title": "What people in power think the impact of the Iran war will be",
-        "url": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "New charity to remember Queen Elizabeth 100 years since her birth",
+        "url": "https://www.bbc.com/news/articles/cre1l2q7329o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 18 Apr 2026 05:00:15 GMT"
+        "time": "Sat, 18 Apr 2026 23:00:01 GMT"
       },
       {
-        "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
-        "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Scammers are becoming ever more sophisticated - this is what the fightback looks like",
+        "url": "https://www.bbc.com/news/articles/cj60pl5g4z4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 18 Apr 2026 18:09:57 GMT"
+        "time": "Sat, 18 Apr 2026 23:02:48 GMT"
       }
     ],
     "projects": [
