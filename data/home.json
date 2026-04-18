@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-18T07:21:13.101Z",
-  "updated_local": "4/18/2026, 7:21:13 AM",
+  "updated_iso": "2026-04-18T08:47:24.240Z",
+  "updated_local": "4/18/2026, 8:47:24 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Category Theory Illustrated – Orders",
+        "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
+        "source": "hn",
+        "time": "4/18/2026, 6:40:47 AM"
+      },
+      {
+        "title": "Amiga Graphics",
+        "url": "https://amiga.lychesis.net/",
+        "source": "hn",
+        "time": "4/18/2026, 6:20:04 AM"
+      },
+      {
         "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
         "url": "https://victorpoughon.github.io/interval-calculator/",
         "source": "hn",
         "time": "4/18/2026, 1:15:43 AM"
-      },
-      {
-        "title": "Why is IPv6 so complicated?",
-        "url": "https://github.com/becarpenter/misc/blob/main/why6why.md",
-        "source": "hn",
-        "time": "4/18/2026, 6:33:29 AM"
       },
       {
         "title": "Claude Design",
@@ -54,24 +60,18 @@
         "time": "4/17/2026, 3:04:09 PM"
       },
       {
-        "title": "Category Theory Illustrated – Orders",
-        "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
+        "title": "The simple geometry behind any road",
+        "url": "https://sandboxspirit.com/blog/simple-geometry-of-roads/",
         "source": "hn",
-        "time": "4/18/2026, 6:40:47 AM"
-      },
-      {
-        "title": "Towards trust in Emacs",
-        "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
-        "source": "hn",
-        "time": "4/15/2026, 1:49:15 PM"
+        "time": "4/16/2026, 3:09:50 AM"
       }
     ],
     "world": [
       {
-        "title": "'Staggering' I was not told Mandelson failed vetting, says PM",
-        "url": "https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Senior official ousted over Mandelson security row to face MPs",
+        "url": "https://www.bbc.com/news/articles/c0kryzd8l7no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 18 Apr 2026 00:00:19 GMT"
+        "time": "Sat, 18 Apr 2026 08:14:00 GMT"
       },
       {
         "title": "Chris Mason: Mandelson saga is a messy palaver - and the questions continue to swirl",
@@ -92,10 +92,10 @@
         "time": "Fri, 17 Apr 2026 23:16:33 GMT"
       },
       {
-        "title": "A man wrongfully served 17 years for rape. Now another man has been convicted",
-        "url": "https://www.bbc.com/news/articles/cq6jq12dmmro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80%",
+        "url": "https://www.bbc.com/news/articles/c4g84nxwz8wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 17 Apr 2026 16:39:42 GMT"
+        "time": "Fri, 17 Apr 2026 23:35:23 GMT"
       }
     ],
     "projects": [
