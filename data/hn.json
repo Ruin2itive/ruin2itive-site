@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-18T16:30:35.415Z"
+    "built_at": "2026-04-18T17:29:56.151Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: DOMPrompter – click a DOM element, get a structured AI coding prompt",
+      "url": "https://news.ycombinator.com/item?id=47817715",
+      "date": "2026-04-18T17:28:12.000Z"
+    },
+    {
+      "title": "List of people imprisoned for editing Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_people_imprisoned_for_editing_Wikipedia",
+      "date": "2026-04-18T17:27:31.000Z"
+    }
+  ]
 }
