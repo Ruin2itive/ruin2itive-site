@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-18T15:47:11.976Z",
-  "updated_local": "4/18/2026, 3:47:11 PM",
+  "updated_iso": "2026-04-18T16:37:46.635Z",
+  "updated_local": "4/18/2026, 4:37:46 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "What Is Q-Day? The Quantum Threat to Bitcoin Explained",
+        "url": "https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained",
+        "source": "crypto",
+        "time": "Sat, 18 Apr 2026 15:53:16 +0000"
+      },
       {
         "title": "OpenAI&#39;s New AI Model Rosalind Could Shave Years Off Drug Discovery. You Probably Can&#39;t Use It",
         "url": "https://decrypt.co/364783/openai-gpt-rosalind-drug-discovery-life-sciences-model",
@@ -26,17 +32,11 @@
         "url": "https://decrypt.co/364782/rep-sheri-biggs-doubles-down-bitcoin-250k-blackrock-etf",
         "source": "crypto",
         "time": "Fri, 17 Apr 2026 20:05:47 +0000"
-      },
-      {
-        "title": "Sam Altman&#39;s World Teams With Zoom, Tinder to Better Verify Humans in the AI Age",
-        "url": "https://decrypt.co/364774/sam-altman-world-zoom-tinder-better-verify-humans-ai-age",
-        "source": "crypto",
-        "time": "Fri, 17 Apr 2026 19:39:44 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime",
+        "title": "Migrating from DigitalOcean to Hetzner",
         "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
         "source": "hn",
         "time": "4/18/2026, 1:29:04 PM"
@@ -48,22 +48,22 @@
         "time": "4/18/2026, 11:42:37 AM"
       },
       {
+        "title": "Fuzix OS",
+        "url": "https://www.fuzix.org/",
+        "source": "hn",
+        "time": "4/18/2026, 3:24:18 PM"
+      },
+      {
+        "title": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
+        "url": "https://www.sumida-aquarium.com/special/sokanzu/en/2026/",
+        "source": "hn",
+        "time": "4/15/2026, 7:56:31 PM"
+      },
+      {
         "title": "Why Japan has such good railways",
         "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
         "source": "hn",
         "time": "4/18/2026, 12:29:06 PM"
-      },
-      {
-        "title": "Michael Rabin has died",
-        "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
-        "source": "hn",
-        "time": "4/15/2026, 6:07:46 PM"
-      },
-      {
-        "title": "Amiga Graphics Archive",
-        "url": "https://amiga.lychesis.net/",
-        "source": "hn",
-        "time": "4/18/2026, 6:20:04 AM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Sat, 18 Apr 2026 12:32:35 GMT"
       },
       {
-        "title": "At least two dead as gunman opens fire and takes hostages in Kyiv",
-        "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 18 Apr 2026 15:35:35 GMT"
-      },
-      {
         "title": "What people in power think the impact of the Iran war will be",
         "url": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 18 Apr 2026 05:00:15 GMT"
       },
       {
-        "title": "Counter-terror police investigate another London arson attack",
-        "url": "https://www.bbc.com/news/articles/cqxl1qr11q2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "At least five killed in Kyiv as gunman opens fire and takes hostages",
+        "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 18 Apr 2026 13:06:50 GMT"
+        "time": "Sat, 18 Apr 2026 16:08:42 GMT"
+      },
+      {
+        "title": "Coachella campers are turning tents fancy - and not all Brits are happy",
+        "url": "https://www.bbc.com/news/articles/c2032x399w1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 17 Apr 2026 23:05:09 GMT"
       }
     ],
     "projects": [
