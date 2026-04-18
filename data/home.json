@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-18T07:04:52.749Z",
-  "updated_local": "4/18/2026, 7:04:52 AM",
+  "updated_iso": "2026-04-18T07:21:13.101Z",
+  "updated_local": "4/18/2026, 7:21:13 AM",
   "sections": {
     "crypto": [
       {
@@ -42,28 +42,28 @@
         "time": "4/18/2026, 1:15:43 AM"
       },
       {
+        "title": "Why is IPv6 so complicated?",
+        "url": "https://github.com/becarpenter/misc/blob/main/why6why.md",
+        "source": "hn",
+        "time": "4/18/2026, 6:33:29 AM"
+      },
+      {
         "title": "Claude Design",
         "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
         "source": "hn",
         "time": "4/17/2026, 3:04:09 PM"
       },
       {
+        "title": "Category Theory Illustrated – Orders",
+        "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
+        "source": "hn",
+        "time": "4/18/2026, 6:40:47 AM"
+      },
+      {
         "title": "Towards trust in Emacs",
         "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
         "source": "hn",
         "time": "4/15/2026, 1:49:15 PM"
-      },
-      {
-        "title": "Measuring Claude 4.7's tokenizer costs",
-        "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-        "source": "hn",
-        "time": "4/17/2026, 3:29:36 PM"
-      },
-      {
-        "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
-        "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
-        "source": "hn",
-        "time": "4/17/2026, 6:17:01 PM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Fri, 17 Apr 2026 21:17:43 GMT"
       },
       {
-        "title": "A man wrongfully served 17 years for rape. Now another man has been convicted",
-        "url": "https://www.bbc.com/news/articles/cq6jq12dmmro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 17 Apr 2026 16:39:42 GMT"
-      },
-      {
         "title": "Mortgage rates show signs of falling after Iran war peak",
         "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 17 Apr 2026 23:16:33 GMT"
+      },
+      {
+        "title": "A man wrongfully served 17 years for rape. Now another man has been convicted",
+        "url": "https://www.bbc.com/news/articles/cq6jq12dmmro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 17 Apr 2026 16:39:42 GMT"
       }
     ],
     "projects": [
