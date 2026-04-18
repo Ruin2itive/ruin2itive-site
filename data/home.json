@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-18T03:22:07.891Z",
-  "updated_local": "4/18/2026, 3:22:07 AM",
+  "updated_iso": "2026-04-18T05:04:57.153Z",
+  "updated_local": "4/18/2026, 5:04:57 AM",
   "sections": {
     "crypto": [
       {
@@ -42,10 +42,16 @@
         "time": "4/17/2026, 3:04:09 PM"
       },
       {
-        "title": "A simplified model of Fil-C",
-        "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+        "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+        "url": "https://victorpoughon.github.io/interval-calculator/",
         "source": "hn",
-        "time": "4/17/2026, 9:38:20 PM"
+        "time": "4/18/2026, 1:15:43 AM"
+      },
+      {
+        "title": "Towards trust in Emacs",
+        "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
+        "source": "hn",
+        "time": "4/15/2026, 1:49:15 PM"
       },
       {
         "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
@@ -54,25 +60,13 @@
         "time": "4/17/2026, 6:17:01 PM"
       },
       {
-        "title": "Towards Trust in Emacs",
-        "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
+        "title": "A simplified model of Fil-C",
+        "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
         "source": "hn",
-        "time": "4/15/2026, 1:49:15 PM"
-      },
-      {
-        "title": "Measuring Claude 4.7's tokenizer costs",
-        "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-        "source": "hn",
-        "time": "4/17/2026, 3:29:36 PM"
+        "time": "4/17/2026, 9:38:20 PM"
       }
     ],
     "world": [
-      {
-        "title": "Iran says Strait of Hormuz is 'open' but tracking shows few ships moving",
-        "url": "https://www.bbc.com/news/articles/cwydexp39ddo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 17 Apr 2026 22:26:00 GMT"
-      },
       {
         "title": "'Staggering' I was not told Mandelson failed vetting, says PM",
         "url": "https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&amp;at_campaign=rss",
@@ -92,10 +86,16 @@
         "time": "Fri, 17 Apr 2026 16:39:42 GMT"
       },
       {
-        "title": "Irish fugitive and alleged crime boss Daniel Kinahan arrested in Dubai",
-        "url": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'I'm the lucky one' - more than one in three young men now live with their parents",
+        "url": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 17 Apr 2026 17:48:13 GMT"
+        "time": "Fri, 17 Apr 2026 23:16:33 GMT"
+      },
+      {
+        "title": "Swinney predicts SNP majority at Holyrood election",
+        "url": "https://www.bbc.com/news/articles/c9wq2jvqqxvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 18 Apr 2026 05:00:24 GMT"
       }
     ],
     "projects": [
