@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-18T22:26:13.782Z"
+    "built_at": "2026-04-18T23:27:16.289Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Construction delays hit 40% of US data centers planned for 2026",
+      "url": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/",
+      "date": "2026-04-18T23:26:31.000Z"
+    },
+    {
+      "title": "A more efficient implementation of Shor's algorithm",
+      "url": "https://lwn.net/Articles/1066156/",
+      "date": "2026-04-18T23:25:55.000Z"
+    }
+  ]
 }
