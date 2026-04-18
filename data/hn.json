@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-18T10:33:43.249Z"
+    "built_at": "2026-04-18T11:28:51.789Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Tomb Raider Studio Faces Fourth Round of Layoffs in Just 12 Months",
+      "url": "https://kotaku.com/tomb-raider-remake-crystal-dynamics-layoffs-2000680096",
+      "date": "2026-04-18T11:27:20.000Z"
+    },
+    {
+      "title": "Atlassian's new data collection policy protects rich customers, AI eats the rest",
+      "url": "https://www.theregister.com/2026/04/18/atlassians_new_data_collection_policy/",
+      "date": "2026-04-18T11:26:16.000Z"
+    }
+  ]
 }
