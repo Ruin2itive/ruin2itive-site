@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-19T10:32:39.298Z"
+    "built_at": "2026-04-19T11:29:18.196Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Vigil",
+      "url": "https://github.com/KultMember6Banger/vigil",
+      "date": "2026-04-19T11:25:11.000Z"
+    },
+    {
+      "title": "Show HN: OpenClawdex – Open-Source Orchestrator UI for Claude Code and Codex",
+      "url": "https://github.com/alekseyrozh/openclawdex",
+      "date": "2026-04-19T11:24:10.000Z"
+    }
+  ]
 }
