@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-19T04:49:35.604Z"
+    "built_at": "2026-04-19T06:25:37.768Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Customer Reviews can be represented through Voice capture/generation",
-      "url": "https://customersvoices.com",
-      "date": "2026-04-19T04:42:41.000Z"
-    },
-    {
-      "title": "Garbage Collection Without Unsafe Code",
-      "url": "https://fitzgen.com/2024/02/06/safe-gc.html",
-      "date": "2026-04-19T04:41:59.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
