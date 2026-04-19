@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-19T17:29:28.599Z"
+    "built_at": "2026-04-19T18:37:28.071Z"
   },
-  "items": [
-    {
-      "title": "The Imperative of Mastering Writing and Coding in the Age of Automation",
-      "url": "https://fodysoft.com/blog/learn-coding/",
-      "date": "2026-04-19T17:28:33.000Z"
-    },
-    {
-      "title": "Software Driven Drive Lights",
-      "url": "https://bumblingelectron.blogspot.com/2026/04/creating-drive-lights-on-gpio-linux-only.html",
-      "date": "2026-04-19T17:27:43.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
