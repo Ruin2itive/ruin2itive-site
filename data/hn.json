@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-19T08:02:13.944Z"
+    "built_at": "2026-04-19T09:40:10.517Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Hero Engineering: In Defense of Unreasonable Optimizations",
+      "url": "https://deancalver.substack.com/p/hero-engineering-in-defense-of-unreasonable",
+      "date": "2026-04-19T09:35:51.000Z"
+    },
+    {
+      "title": "Edit store price tags using Flipper Zero",
+      "url": "https://github.com/i12bp8/TagTinker",
+      "date": "2026-04-19T09:26:04.000Z"
+    }
+  ]
 }
