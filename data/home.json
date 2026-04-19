@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-19T16:37:47.084Z",
-  "updated_local": "4/19/2026, 4:37:47 PM",
+  "updated_iso": "2026-04-19T16:52:38.376Z",
+  "updated_local": "4/19/2026, 4:52:38 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "The 10 Public Companies With the Biggest Bitcoin Portfolios",
+        "url": "https://decrypt.co/47061/public-companies-biggest-bitcoin-portfolios",
+        "source": "crypto",
+        "time": "Sun, 19 Apr 2026 16:45:06 +0000"
+      },
       {
         "title": "AI Traffic to US Retailers Jumps 393% in Q1 as Agentic Shoppers Outspend Humans",
         "url": "https://decrypt.co/364733/ai-traffic-us-retailers-jumps-q1-agentic-shoppers-outspend-humans",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/364783/openai-gpt-rosalind-drug-discovery-life-sciences-model",
         "source": "crypto",
         "time": "Sat, 18 Apr 2026 13:01:03 +0000"
-      },
-      {
-        "title": "Bitcoin Cracks 7-Month Ceiling. Can Bulls Push It Higher?",
-        "url": "https://decrypt.co/364793/bitcoin-btc-price-breaks-seven-month-resistance",
-        "source": "crypto",
-        "time": "Fri, 17 Apr 2026 21:11:36 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Archive of Byte magazine, starting with issue #1 in 1975",
-        "url": "https://archive.org/details/byte-magazine-1975-09",
-        "source": "hn",
-        "time": "4/17/2026, 2:07:28 PM"
-      },
       {
         "title": "Vercel Says Internal Systems Hit in Breach",
         "url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
@@ -48,16 +42,22 @@
         "time": "4/19/2026, 3:23:39 PM"
       },
       {
-        "title": "Notes from the SF Peptide Scene",
-        "url": "https://12gramsofcarbon.com/p/notes-from-the-sf-peptide-scene",
+        "title": "Archive of Byte magazine, starting with issue #1 in 1975",
+        "url": "https://archive.org/details/byte-magazine-1975-09",
         "source": "hn",
-        "time": "4/19/2026, 2:43:07 PM"
+        "time": "4/17/2026, 2:07:28 PM"
       },
       {
         "title": "Nanopass Framework: Clean Compiler Creation Language",
         "url": "https://nanopass.org/",
         "source": "hn",
         "time": "4/15/2026, 11:38:22 AM"
+      },
+      {
+        "title": "Notion leaks email addresses of all editors of any public page",
+        "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+        "source": "hn",
+        "time": "4/19/2026, 3:20:01 PM"
       },
       {
         "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
@@ -86,16 +86,16 @@
         "time": "Sun, 19 Apr 2026 09:44:41 GMT"
       },
       {
-        "title": "Jesy Nelson appeals after car with medical equipment for daughters is stolen",
-        "url": "https://www.bbc.com/news/articles/cg40dqe4265o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 19 Apr 2026 11:22:35 GMT"
-      },
-      {
         "title": "Thousands of Parisians evacuated as WW2 bomb detonated",
         "url": "https://www.bbc.com/news/articles/c4gxv3874vjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 19 Apr 2026 15:50:48 GMT"
+      },
+      {
+        "title": "Jesy Nelson appeals after car with medical equipment for daughters is stolen",
+        "url": "https://www.bbc.com/news/articles/cg40dqe4265o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 19 Apr 2026 11:22:35 GMT"
       }
     ],
     "projects": [
