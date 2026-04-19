@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-19T15:47:41.603Z",
-  "updated_local": "4/19/2026, 3:47:41 PM",
+  "updated_iso": "2026-04-19T16:37:47.084Z",
+  "updated_local": "4/19/2026, 4:37:47 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "AI Traffic to US Retailers Jumps 393% in Q1 as Agentic Shoppers Outspend Humans",
+        "url": "https://decrypt.co/364733/ai-traffic-us-retailers-jumps-q1-agentic-shoppers-outspend-humans",
+        "source": "crypto",
+        "time": "Sun, 19 Apr 2026 16:01:41 +0000"
+      },
       {
         "title": "GalaxyOne Head Wants Retail Investors to Stake More, Predict Less",
         "url": "https://decrypt.co/364817/galaxyone-head-wants-retail-investors-stake-more-predict-less",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/364793/bitcoin-btc-price-breaks-seven-month-resistance",
         "source": "crypto",
         "time": "Fri, 17 Apr 2026 21:11:36 +0000"
-      },
-      {
-        "title": "You Can Now Use XRP on Solana—Here&#39;s How",
-        "url": "https://decrypt.co/364792/you-can-now-use-xrp-solana-how",
-        "source": "crypto",
-        "time": "Fri, 17 Apr 2026 20:40:39 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Vercel Says Internal Systems Hit in Breach",
-        "url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
-        "source": "hn",
-        "time": "4/19/2026, 3:23:39 PM"
-      },
       {
         "title": "Archive of Byte magazine, starting with issue #1 in 1975",
         "url": "https://archive.org/details/byte-magazine-1975-09",
         "source": "hn",
         "time": "4/17/2026, 2:07:28 PM"
+      },
+      {
+        "title": "Vercel Says Internal Systems Hit in Breach",
+        "url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
+        "source": "hn",
+        "time": "4/19/2026, 3:23:39 PM"
       },
       {
         "title": "Notes from the SF Peptide Scene",
@@ -68,10 +68,16 @@
     ],
     "world": [
       {
-        "title": "Chief Rabbi says attacks 'gathering momentum' after new synagogue arson attempt",
+        "title": "Chief Rabbi says attacks 'gathering momentum' after another synagogue targeted",
         "url": "https://www.bbc.com/news/articles/ce35qwk9k5do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 19 Apr 2026 14:39:54 GMT"
+      },
+      {
+        "title": "Attempted murder arrest after car hits pedestrians in central London",
+        "url": "https://www.bbc.com/news/articles/cm2kgvlrmdeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 19 Apr 2026 15:48:52 GMT"
       },
       {
         "title": "Starmer would have blocked Mandelson over vetting failure, ministers say",
@@ -80,22 +86,16 @@
         "time": "Sun, 19 Apr 2026 09:44:41 GMT"
       },
       {
-        "title": "Watch: Runners v robots at China half marathon",
-        "url": "https://www.bbc.com/news/videos/cz0e54yrppno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 19 Apr 2026 08:46:34 GMT"
-      },
-      {
-        "title": "Attempted murder arrest after car hits pedestrians in central London",
-        "url": "https://www.bbc.com/news/articles/cm2kgvlrmdeo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 19 Apr 2026 12:36:30 GMT"
-      },
-      {
         "title": "Jesy Nelson appeals after car with medical equipment for daughters is stolen",
         "url": "https://www.bbc.com/news/articles/cg40dqe4265o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 19 Apr 2026 11:22:35 GMT"
+      },
+      {
+        "title": "Thousands of Parisians evacuated as WW2 bomb detonated",
+        "url": "https://www.bbc.com/news/articles/c4gxv3874vjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 19 Apr 2026 15:50:48 GMT"
       }
     ],
     "projects": [
