@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-20T06:23:27.141Z",
-  "updated_local": "4/20/2026, 6:23:27 AM",
+  "updated_iso": "2026-04-20T08:03:50.719Z",
+  "updated_local": "4/20/2026, 8:03:50 AM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
+        "title": "SDF Public Access Unix System",
+        "url": "https://sdf.org/?ssh",
+        "source": "hn",
+        "time": "4/18/2026, 8:48:35 PM"
+      },
+      {
+        "title": "Stripe's Payment APIs: the first 10 years (2020)",
+        "url": "https://stripe.dev/blog/payment-api-design",
+        "source": "hn",
+        "time": "4/20/2026, 5:05:43 AM"
+      },
+      {
+        "title": "Ben Lerner's Big Feelings",
+        "url": "https://www.vulture.com/article/ben-lerner-transcription-interview.html",
+        "source": "hn",
+        "time": "4/16/2026, 5:43:09 AM"
+      },
+      {
         "title": "Vercel April 2026 security incident",
         "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
         "source": "hn",
         "time": "4/19/2026, 2:14:38 PM"
       },
       {
-        "title": "A Brief History of Fish Sauce",
-        "url": "https://www.legalnomads.com/fish-sauce/",
+        "title": "Zero-copy protobuf and ConnectRPC for Rust",
+        "url": "https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02",
         "source": "hn",
-        "time": "4/19/2026, 8:32:53 AM"
-      },
-      {
-        "title": "Stop trying to engineer your way out of listening to people",
-        "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
-        "source": "hn",
-        "time": "4/19/2026, 8:09:09 PM"
-      },
-      {
-        "title": "Claude Token Counter, now with model comparisons",
-        "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
-        "source": "hn",
-        "time": "4/20/2026, 12:56:40 AM"
-      },
-      {
-        "title": "The Bromine Chokepoint",
-        "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
-        "source": "hn",
-        "time": "4/19/2026, 5:44:03 PM"
+        "time": "4/17/2026, 12:29:37 AM"
       }
     ],
     "world": [
