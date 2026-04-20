@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-20T08:03:50.719Z",
-  "updated_local": "4/20/2026, 8:03:50 AM",
+  "updated_iso": "2026-04-20T09:12:29.742Z",
+  "updated_local": "4/20/2026, 9:12:29 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "GitHub's Fake Star Economy",
+        "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+        "source": "hn",
+        "time": "4/20/2026, 8:26:52 AM"
+      },
+      {
+        "title": "OpenClaw isn't fooling me. I remember MS-DOS",
+        "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
+        "source": "hn",
+        "time": "4/20/2026, 7:49:48 AM"
+      },
+      {
         "title": "SDF Public Access Unix System",
         "url": "https://sdf.org/?ssh",
         "source": "hn",
@@ -48,30 +60,18 @@
         "time": "4/20/2026, 5:05:43 AM"
       },
       {
-        "title": "Ben Lerner's Big Feelings",
-        "url": "https://www.vulture.com/article/ben-lerner-transcription-interview.html",
+        "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
+        "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
         "source": "hn",
-        "time": "4/16/2026, 5:43:09 AM"
-      },
-      {
-        "title": "Vercel April 2026 security incident",
-        "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-        "source": "hn",
-        "time": "4/19/2026, 2:14:38 PM"
-      },
-      {
-        "title": "Zero-copy protobuf and ConnectRPC for Rust",
-        "url": "https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02",
-        "source": "hn",
-        "time": "4/17/2026, 12:29:37 AM"
+        "time": "4/17/2026, 8:14:30 PM"
       }
     ],
     "world": [
       {
-        "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
-        "url": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US releases video of forces seizing Iranian ship",
+        "url": "https://www.bbc.com/news/videos/c3w30l6qz49o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 19 Apr 2026 21:09:06 GMT"
+        "time": "Mon, 20 Apr 2026 07:29:42 GMT"
       },
       {
         "title": "Spat at, threatened and kidnapped: British Jews tell of rising antisemitism",
@@ -80,16 +80,16 @@
         "time": "Mon, 20 Apr 2026 05:00:02 GMT"
       },
       {
-        "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
-        "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 20 Apr 2026 04:10:40 GMT"
-      },
-      {
         "title": "The insider trading suspicions looming over Trump's presidency",
         "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 20 Apr 2026 05:13:58 GMT"
+      },
+      {
+        "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
+        "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 20 Apr 2026 08:26:46 GMT"
       },
       {
         "title": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
