@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-20T09:12:29.742Z",
-  "updated_local": "4/20/2026, 9:12:29 AM",
+  "updated_iso": "2026-04-20T10:46:24.096Z",
+  "updated_local": "4/20/2026, 10:46:24 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Coinbase Tests AI Agents Modeled on ‘Legendary’ Former Execs",
+        "url": "https://decrypt.co/364866/coinbase-tests-ai-agents-modeled-on-legendary-former-execs",
+        "source": "crypto",
+        "time": "Mon, 20 Apr 2026 10:31:03 +0000"
+      },
       {
         "title": "Kelp DAO Exploit Sparks Aave Liquidity Crunch, $6.2 Billion Withdrawal Panic",
         "url": "https://decrypt.co/364849/kelp-dao-exploit-aave-liquidity-crunch-6-2-billion-withdrawal-panic",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/364817/galaxyone-head-wants-retail-investors-stake-more-predict-less",
         "source": "crypto",
         "time": "Sat, 18 Apr 2026 19:44:48 +0000"
-      },
-      {
-        "title": "What Is Q-Day? The Quantum Threat to Bitcoin Explained",
-        "url": "https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained",
-        "source": "crypto",
-        "time": "Sat, 18 Apr 2026 15:53:16 +0000"
       }
     ],
     "hacker": [
@@ -48,22 +48,22 @@
         "time": "4/20/2026, 7:49:48 AM"
       },
       {
+        "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
+        "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
+        "source": "hn",
+        "time": "4/17/2026, 8:14:30 PM"
+      },
+      {
         "title": "SDF Public Access Unix System",
         "url": "https://sdf.org/?ssh",
         "source": "hn",
         "time": "4/18/2026, 8:48:35 PM"
       },
       {
-        "title": "Stripe's Payment APIs: the first 10 years (2020)",
-        "url": "https://stripe.dev/blog/payment-api-design",
+        "title": "Vercel April 2026 security incident",
+        "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
         "source": "hn",
-        "time": "4/20/2026, 5:05:43 AM"
-      },
-      {
-        "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
-        "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
-        "source": "hn",
-        "time": "4/17/2026, 8:14:30 PM"
+        "time": "4/19/2026, 2:14:38 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Mon, 20 Apr 2026 05:13:58 GMT"
       },
       {
-        "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
-        "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 20 Apr 2026 08:26:46 GMT"
-      },
-      {
         "title": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
         "url": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 19 Apr 2026 23:07:52 GMT"
+      },
+      {
+        "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
+        "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 20 Apr 2026 08:26:46 GMT"
       }
     ],
     "projects": [
