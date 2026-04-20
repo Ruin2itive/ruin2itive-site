@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-20T20:43:42.042Z"
+    "built_at": "2026-04-20T21:39:32.050Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Benchmarking open-weight models for security research",
+      "url": "https://dualuse.dev/posts/benchmarking-open-models-for-security-research",
+      "date": "2026-04-20T21:38:34.000Z"
+    },
+    {
+      "title": "Show HN: MCPfinder – An MCP server that finds and installs other MCP servers",
+      "url": "https://mcpfinder.dev/",
+      "date": "2026-04-20T21:38:18.000Z"
+    }
+  ]
 }
