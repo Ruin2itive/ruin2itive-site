@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-20T15:11:39.561Z"
+    "built_at": "2026-04-20T16:57:08.601Z"
   },
-  "items": [
-    {
-      "title": "The Peoples of America",
-      "url": "https://www.palladiummag.com/2026/04/16/the-peoples-of-america/",
-      "date": "2026-04-20T15:10:46.000Z"
-    },
-    {
-      "title": "Building an OPNsense router",
-      "url": "https://clintonboys.com/projects/homelab/04-router/",
-      "date": "2026-04-20T15:10:01.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
