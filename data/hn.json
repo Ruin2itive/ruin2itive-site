@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-20T19:57:30.042Z"
+    "built_at": "2026-04-20T20:43:42.042Z"
   },
-  "items": [
-    {
-      "title": "Trying and Failing with Claude",
-      "url": "https://www.uncorrelatedcontents.com/blog/trying-and-failing-with-claude",
-      "date": "2026-04-20T19:54:24.000Z"
-    },
-    {
-      "title": "Review: How Africa Works",
-      "url": "https://www.worksinprogress.news/p/review-how-africa-works",
-      "date": "2026-04-20T19:54:05.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
