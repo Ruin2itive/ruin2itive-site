@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-20T10:46:24.096Z",
-  "updated_local": "4/20/2026, 10:46:24 AM",
+  "updated_iso": "2026-04-20T11:25:15.043Z",
+  "updated_local": "4/20/2026, 11:25:15 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "‘Highly Sophisticated,’ AI-Powered Hackers Behind Vercel Breach: CEO",
+        "url": "https://decrypt.co/364869/highly-sophisticated-ai-powered-hackers-behind-vercel-breach-ceo",
+        "source": "crypto",
+        "time": "Mon, 20 Apr 2026 10:53:01 +0000"
+      },
       {
         "title": "Coinbase Tests AI Agents Modeled on ‘Legendary’ Former Execs",
         "url": "https://decrypt.co/364866/coinbase-tests-ai-agents-modeled-on-legendary-former-execs",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/364733/ai-traffic-us-retailers-jumps-q1-agentic-shoppers-outspend-humans",
         "source": "crypto",
         "time": "Sun, 19 Apr 2026 16:01:41 +0000"
-      },
-      {
-        "title": "GalaxyOne Head Wants Retail Investors to Stake More, Predict Less",
-        "url": "https://decrypt.co/364817/galaxyone-head-wants-retail-investors-stake-more-predict-less",
-        "source": "crypto",
-        "time": "Sat, 18 Apr 2026 19:44:48 +0000"
       }
     ],
     "hacker": [
@@ -40,12 +40,6 @@
         "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
         "source": "hn",
         "time": "4/20/2026, 8:26:52 AM"
-      },
-      {
-        "title": "OpenClaw isn't fooling me. I remember MS-DOS",
-        "url": "https://www.flyingpenguin.com/build-an-openclaw-free-secure-always-on-local-ai-agent/",
-        "source": "hn",
-        "time": "4/20/2026, 7:49:48 AM"
       },
       {
         "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
@@ -60,10 +54,16 @@
         "time": "4/18/2026, 8:48:35 PM"
       },
       {
-        "title": "Vercel April 2026 security incident",
-        "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+        "title": "NSA is using Anthropic's Mythos despite blacklist",
+        "url": "https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/",
         "source": "hn",
-        "time": "4/19/2026, 2:14:38 PM"
+        "time": "4/20/2026, 10:00:35 AM"
+      },
+      {
+        "title": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
+        "url": "https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/",
+        "source": "hn",
+        "time": "4/17/2026, 9:03:09 PM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Mon, 20 Apr 2026 05:00:02 GMT"
       },
       {
-        "title": "The insider trading suspicions looming over Trump's presidency",
-        "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 20 Apr 2026 05:13:58 GMT"
-      },
-      {
         "title": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
         "url": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -95,7 +89,13 @@
         "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
         "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 20 Apr 2026 08:26:46 GMT"
+        "time": "Mon, 20 Apr 2026 11:18:49 GMT"
+      },
+      {
+        "title": "Travelodge 'extremely sorry' for giving stranger key to couple's room",
+        "url": "https://www.bbc.com/news/articles/ce8lp2ny3rro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 20 Apr 2026 05:05:02 GMT"
       }
     ],
     "projects": [
