@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-20T14:04:13.412Z",
-  "updated_local": "4/20/2026, 2:04:13 PM",
+  "updated_iso": "2026-04-20T14:48:27.967Z",
+  "updated_local": "4/20/2026, 2:48:27 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Tom Lee&#39;s BitMine Nears Major Milestone With Largest Ethereum Buy This Year",
+        "url": "https://decrypt.co/364887/tom-lee-bitmine-nears-milestone-largest-ethereum-buy-this-year",
+        "source": "crypto",
+        "time": "Mon, 20 Apr 2026 14:45:33 +0000"
+      },
       {
         "title": "Strategy Adds $2.5 Billion in Bitcoin as STRC Dividend Traders Drive Largest Buy Since 2024",
         "url": "https://decrypt.co/364883/strategy-2-5-billion-bitcoin-strc-dividend-traders-drive-largest-buy-2024",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/364869/highly-sophisticated-ai-powered-hackers-behind-vercel-breach-ceo",
         "source": "crypto",
         "time": "Mon, 20 Apr 2026 10:53:01 +0000"
-      },
-      {
-        "title": "Coinbase Tests AI Agents Modeled on ‘Legendary’ Former Execs",
-        "url": "https://decrypt.co/364866/coinbase-tests-ai-agents-modeled-on-legendary-former-execs",
-        "source": "crypto",
-        "time": "Mon, 20 Apr 2026 10:31:03 +0000"
       }
     ],
     "hacker": [
@@ -42,37 +42,31 @@
         "time": "4/20/2026, 1:40:28 PM"
       },
       {
+        "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+        "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+        "source": "hn",
+        "time": "4/20/2026, 2:05:34 PM"
+      },
+      {
+        "title": "All phones sold in the EU to have replaceable batteries from 2027",
+        "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+        "source": "hn",
+        "time": "4/20/2026, 1:41:25 PM"
+      },
+      {
         "title": "ggsql: A Grammar of Graphics for SQL",
         "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
         "source": "hn",
         "time": "4/20/2026, 12:51:20 PM"
       },
       {
-        "title": "GitHub's Fake Star Economy",
-        "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+        "title": "Atlassian Enables Default Data Collection to Train AI",
+        "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
         "source": "hn",
-        "time": "4/20/2026, 8:26:52 AM"
-      },
-      {
-        "title": "M 7.4 earthquake – 100 km ENE of Miyako, Japan",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
-        "source": "hn",
-        "time": "4/20/2026, 10:04:40 AM"
-      },
-      {
-        "title": "10 years ago, someone wrote a test for servo that included an expiry in 2026",
-        "url": "https://mastodon.social/@jdm_/116429380667467307",
-        "source": "hn",
-        "time": "4/19/2026, 7:19:48 PM"
+        "time": "4/20/2026, 12:23:39 PM"
       }
     ],
     "world": [
-      {
-        "title": "US releases video of forces seizing Iranian ship",
-        "url": "https://www.bbc.com/news/videos/c3w30l6qz49o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 20 Apr 2026 07:29:42 GMT"
-      },
       {
         "title": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
         "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&amp;at_campaign=rss",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 20 Apr 2026 12:56:03 GMT"
+      },
+      {
+        "title": "Travelodge 'extremely sorry' for giving stranger key to couple's room",
+        "url": "https://www.bbc.com/news/articles/ce8lp2ny3rro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 20 Apr 2026 05:05:02 GMT"
       }
     ],
     "projects": [
