@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-20T16:57:08.601Z"
+    "built_at": "2026-04-20T17:55:25.766Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Now you can run Steam games in Linux on some handhelds that ship with Android",
+      "url": "https://liliputing.com/now-you-can-run-steam-games-in-linux-on-some-handhelds-that-ship-with-android/",
+      "date": "2026-04-20T17:53:27.000Z"
+    },
+    {
+      "title": "RLMs are the new reasoning models",
+      "url": "https://raw.works/rlms-are-the-new-reasoning-models/",
+      "date": "2026-04-20T17:52:50.000Z"
+    }
+  ]
 }
