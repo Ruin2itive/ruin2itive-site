@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-20T14:48:27.967Z",
-  "updated_local": "4/20/2026, 2:48:27 PM",
+  "updated_iso": "2026-04-20T16:07:32.975Z",
+  "updated_local": "4/20/2026, 4:07:32 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Ocean Network Builds ‘Airbnb for Compute’ Network Using Idle GPUs",
+        "url": "https://decrypt.co/364596/ocean-network-builds-airbnb-for-compute-network-using-idle-gpus",
+        "source": "crypto",
+        "time": "Mon, 20 Apr 2026 16:01:04 +0000"
+      },
+      {
+        "title": "Coinbase Now Lets UK Users Borrow Against Their Bitcoin and Ethereum",
+        "url": "https://decrypt.co/364890/coinbase-now-lets-uk-users-borrow-against-their-bitcoin-and-ethereum",
+        "source": "crypto",
+        "time": "Mon, 20 Apr 2026 15:29:41 +0000"
+      },
       {
         "title": "Tom Lee&#39;s BitMine Nears Major Milestone With Largest Ethereum Buy This Year",
         "url": "https://decrypt.co/364887/tom-lee-bitmine-nears-milestone-largest-ethereum-buy-this-year",
@@ -20,32 +32,26 @@
         "url": "https://decrypt.co/364875/morning-minute-defis-future-in-question-after-292m-kelpdao-exploit",
         "source": "crypto",
         "time": "Mon, 20 Apr 2026 12:33:51 +0000"
-      },
-      {
-        "title": "LayerZero Pins $292M KelpDAO Bridge Hack on North Korea’s Lazarus Group",
-        "url": "https://decrypt.co/364872/layerzero-pins-292m-kelpdao-bridge-hack-on-north-koreas-lazarus-group",
-        "source": "crypto",
-        "time": "Mon, 20 Apr 2026 11:35:44 +0000"
-      },
-      {
-        "title": "‘Highly Sophisticated,’ AI-Powered Hackers Behind Vercel Breach: CEO",
-        "url": "https://decrypt.co/364869/highly-sophisticated-ai-powered-hackers-behind-vercel-breach-ceo",
-        "source": "crypto",
-        "time": "Mon, 20 Apr 2026 10:53:01 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Show HN: Saunas lower nighttime heart rate more than exercise (n=59,000)",
-        "url": "https://tryterra.co/research/sauna-effect-on-heart-rate",
-        "source": "hn",
-        "time": "4/20/2026, 1:40:28 PM"
-      },
       {
         "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
         "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
         "source": "hn",
         "time": "4/20/2026, 2:05:34 PM"
+      },
+      {
+        "title": "I prompted ChatGPT, Claude, Perplexity, and Gemini and watched my Nginx logs",
+        "url": "https://surfacedby.com/blog/nginx-logs-ai-traffic-vs-referral-traffic",
+        "source": "hn",
+        "time": "4/20/2026, 3:22:01 PM"
+      },
+      {
+        "title": "Atlassian Enables Default Data Collection to Train AI",
+        "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+        "source": "hn",
+        "time": "4/20/2026, 12:23:39 PM"
       },
       {
         "title": "All phones sold in the EU to have replaceable batteries from 2027",
@@ -58,12 +64,6 @@
         "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
         "source": "hn",
         "time": "4/20/2026, 12:51:20 PM"
-      },
-      {
-        "title": "Atlassian Enables Default Data Collection to Train AI",
-        "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
-        "source": "hn",
-        "time": "4/20/2026, 12:23:39 PM"
       }
     ],
     "world": [
@@ -71,25 +71,25 @@
         "title": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
         "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 20 Apr 2026 12:53:36 GMT"
+        "time": "Mon, 20 Apr 2026 14:54:21 GMT"
+      },
+      {
+        "title": "'Huge relief' as students given loans 'in error' get repayment reprieve",
+        "url": "https://www.bbc.com/news/articles/c0e7jjwzn7eo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 20 Apr 2026 16:07:01 GMT"
+      },
+      {
+        "title": "Amy Winehouse's dad loses court case over auction",
+        "url": "https://www.bbc.com/news/articles/cr71kp5318vo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 20 Apr 2026 11:27:19 GMT"
       },
       {
         "title": "Spat at, threatened and kidnapped: British Jews tell of rising antisemitism",
         "url": "https://www.bbc.com/news/articles/cwyxxjgdn94o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 20 Apr 2026 05:00:02 GMT"
-      },
-      {
-        "title": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
-        "url": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 19 Apr 2026 23:07:52 GMT"
-      },
-      {
-        "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
-        "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 20 Apr 2026 12:56:03 GMT"
       },
       {
         "title": "Travelodge 'extremely sorry' for giving stranger key to couple's room",
