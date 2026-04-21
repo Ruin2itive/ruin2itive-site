@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-20T23:53:22.348Z",
-  "updated_local": "4/20/2026, 11:53:22 PM",
+  "updated_iso": "2026-04-21T02:27:53.108Z",
+  "updated_local": "4/21/2026, 2:27:53 AM",
   "sections": {
     "crypto": [
       {
@@ -42,28 +42,28 @@
         "time": "4/20/2026, 8:39:32 PM"
       },
       {
+        "title": "How to Make a Fast Dynamic Language Interpreter",
+        "url": "https://zef-lang.dev/implementation",
+        "source": "hn",
+        "time": "4/21/2026, 12:48:07 AM"
+      },
+      {
         "title": "Jujutsu megamerges for fun and profit",
         "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
         "source": "hn",
         "time": "4/20/2026, 9:32:10 PM"
       },
       {
-        "title": "Even 'uncensored' models can't say what they want",
-        "url": "https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html",
-        "source": "hn",
-        "time": "4/20/2026, 10:43:29 PM"
-      },
-      {
-        "title": "Soul Player C64 – A real transformer running on a 1 MHz Commodore 64",
-        "url": "https://github.com/gizmo64k/soulplayer-c64",
-        "source": "hn",
-        "time": "4/20/2026, 7:51:07 PM"
-      },
-      {
         "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
         "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
         "source": "hn",
         "time": "4/20/2026, 2:05:34 PM"
+      },
+      {
+        "title": "Kimi vendor verifier – verify accuracy of inference providers",
+        "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
+        "source": "hn",
+        "time": "4/20/2026, 6:39:53 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Mon, 20 Apr 2026 17:00:45 GMT"
       },
       {
-        "title": "Trump says US will not lift Hormuz blockade until deal made with Iran",
-        "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Petrol thefts surge as Iran war pushes up fuel costs",
+        "url": "https://www.bbc.com/news/articles/cx2drmm1mglo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 20 Apr 2026 21:52:12 GMT"
-      },
-      {
-        "title": "Phones to be banned in schools by law in England under government plans",
-        "url": "https://www.bbc.com/news/articles/c5y7vd6gpq1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 20 Apr 2026 20:53:11 GMT"
+        "time": "Mon, 20 Apr 2026 23:04:23 GMT"
       },
       {
         "title": "Apple names new chief executive to replace Tim Cook",
         "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 20 Apr 2026 22:55:39 GMT"
+      },
+      {
+        "title": "Government to propose electricity price changes in clean power push",
+        "url": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 21 Apr 2026 00:51:30 GMT"
       }
     ],
     "projects": [
