@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-21T10:25:28.415Z",
-  "updated_local": "4/21/2026, 10:25:28 AM",
+  "updated_iso": "2026-04-21T11:04:38.508Z",
+  "updated_local": "4/21/2026, 11:04:38 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Resistance at $78K and $83K Could Cap Rally: Schwab",
+        "url": "https://decrypt.co/365001/bitcoin-resistance-at-78k-and-83k-could-cap-rally-schwab",
+        "source": "crypto",
+        "time": "Tue, 21 Apr 2026 11:00:29 +0000"
+      },
       {
         "title": "Arbitrum Security Council Freezes $71.5M in Ethereum linked to $292M KelpDAO Exploit",
         "url": "https://decrypt.co/364981/arbitrum-security-council-freezes-71-5m-in-ethereum-linked-to-292m-kelpdao-exploit",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/364948/alibaba-qwen-3-6-max-preview-most-powerful-model",
         "source": "crypto",
         "time": "Mon, 20 Apr 2026 21:24:53 +0000"
-      },
-      {
-        "title": "UK Gas Firm Faces Pushback Over Plans to Mine Bitcoin",
-        "url": "https://decrypt.co/364944/uk-gas-firm-faces-pushback-plans-mine-bitcoin",
-        "source": "crypto",
-        "time": "Mon, 20 Apr 2026 20:16:57 +0000"
       }
     ],
     "hacker": [
@@ -48,10 +48,10 @@
         "time": "4/21/2026, 3:43:03 AM"
       },
       {
-        "title": "Louis Zocchi, inventor of the d100, has died",
-        "url": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
+        "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+        "url": "https://codemix.com/graph",
         "source": "hn",
-        "time": "4/21/2026, 6:19:15 AM"
+        "time": "4/21/2026, 10:33:24 AM"
       },
       {
         "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
@@ -60,13 +60,19 @@
         "time": "4/20/2026, 2:14:52 PM"
       },
       {
-        "title": "The Beauty of Bonsai Styles",
-        "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
+        "title": "Louis Zocchi, inventor of the d100, has died",
+        "url": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
         "source": "hn",
-        "time": "4/21/2026, 4:31:30 AM"
+        "time": "4/21/2026, 6:19:15 AM"
       }
     ],
     "world": [
+      {
+        "title": "Key takeaways from sacked official at heart of Mandelson vetting row",
+        "url": "https://www.bbc.com/news/articles/cdxk5e570qxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 21 Apr 2026 10:52:44 GMT"
+      },
       {
         "title": "Unemployment rate unexpectedly falls as fewer students look for work",
         "url": "https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&amp;at_campaign=rss",
@@ -86,16 +92,10 @@
         "time": "Tue, 21 Apr 2026 09:34:38 GMT"
       },
       {
-        "title": "Boy, 17, charged with Kenton synagogue arson",
-        "url": "https://www.bbc.com/news/articles/c4gdmee362ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Madonna offers reward for missing Coachella costume worn during Sabrina Carpenter guest slot",
+        "url": "https://www.bbc.com/news/articles/crm19j48wnno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 21 Apr 2026 09:02:57 GMT"
-      },
-      {
-        "title": "Apple names new boss to replace Tim Cook after 15 years",
-        "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 21 Apr 2026 05:57:56 GMT"
+        "time": "Tue, 21 Apr 2026 10:29:05 GMT"
       }
     ],
     "projects": [
