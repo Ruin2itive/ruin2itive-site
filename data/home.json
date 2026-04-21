@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-21T12:04:41.002Z",
-  "updated_local": "4/21/2026, 12:04:41 PM",
+  "updated_iso": "2026-04-21T13:22:26.057Z",
+  "updated_local": "4/21/2026, 1:22:26 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bank of Korea&#39;s New Governor Prioritizes CBDCs Over Stablecoins in First Policy Address",
+        "url": "https://decrypt.co/365016/bank-of-koreas-new-governor-prioritizes-cbdcs-over-stablecoins-in-first-policy-address",
+        "source": "crypto",
+        "time": "Tue, 21 Apr 2026 13:02:10 +0000"
+      },
+      {
+        "title": "Iran Scammers Demand Bitcoin, USDT for Transit Through Strait of Hormuz: Report",
+        "url": "https://decrypt.co/365010/iran-scammers-demand-bitcoin-usdt-for-transit-through-strait-of-hormuz-report",
+        "source": "crypto",
+        "time": "Tue, 21 Apr 2026 12:37:42 +0000"
+      },
       {
         "title": "Morning Minute: Saylor&#39;s $2.54B Buy Buoys Bitcoin",
         "url": "https://decrypt.co/365006/morning-minute-saylors-2-54b-buy-buoys-bitcoin",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/365001/bitcoin-resistance-at-78k-and-83k-could-cap-rally-schwab",
         "source": "crypto",
         "time": "Tue, 21 Apr 2026 11:00:29 +0000"
-      },
-      {
-        "title": "Arbitrum Security Council Freezes $71.5M in Ethereum linked to $292M KelpDAO Exploit",
-        "url": "https://decrypt.co/364981/arbitrum-security-council-freezes-71-5m-in-ethereum-linked-to-292m-kelpdao-exploit",
-        "source": "crypto",
-        "time": "Tue, 21 Apr 2026 09:55:42 +0000"
-      },
-      {
-        "title": "Playdate Gaming Handheld Maker Bans Generative AI Tools for Development",
-        "url": "https://decrypt.co/364960/playdate-gaming-handheld-maker-bans-generative-ai-tools",
-        "source": "crypto",
-        "time": "Mon, 20 Apr 2026 21:41:59 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://lawsofsoftwareengineering.com",
         "source": "hn",
         "time": "4/21/2026, 11:04:56 AM"
+      },
+      {
+        "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+        "url": "https://vidstudio.app/video-editor",
+        "source": "hn",
+        "time": "4/21/2026, 11:58:16 AM"
       },
       {
         "title": "John Ternus to become Apple CEO",
@@ -54,24 +60,24 @@
         "time": "4/21/2026, 10:33:24 AM"
       },
       {
-        "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-        "url": "https://docs.openclaw.ai/providers/anthropic",
+        "title": "Tim Cook's Impeccable Timing",
+        "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
         "source": "hn",
-        "time": "4/21/2026, 3:43:03 AM"
-      },
-      {
-        "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
-        "url": "http://mnt.stanleylieber.com/reform/",
-        "source": "hn",
-        "time": "4/20/2026, 2:14:52 PM"
+        "time": "4/21/2026, 11:30:03 AM"
       }
     ],
     "world": [
       {
-        "title": "Key takeaways from sacked official at heart of Mandelson vetting row",
-        "url": "https://www.bbc.com/news/articles/cdxk5e570qxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Henry Zeffman: Robbins's revelations are a dangerous moment for Starmer",
+        "url": "https://www.bbc.com/news/articles/c895jpwl9gpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 21 Apr 2026 10:52:44 GMT"
+        "time": "Tue, 21 Apr 2026 12:16:18 GMT"
+      },
+      {
+        "title": "Arrests over planned arson attack on Jewish community",
+        "url": "https://www.bbc.com/news/articles/ckgw0xzk1jvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 21 Apr 2026 13:18:51 GMT"
       },
       {
         "title": "Unemployment rate unexpectedly falls as fewer students look for work",
@@ -80,22 +86,16 @@
         "time": "Tue, 21 Apr 2026 11:20:19 GMT"
       },
       {
-        "title": "Men guilty of church drive-by shooting murder",
-        "url": "https://www.bbc.com/news/articles/c5ylw4q5jv2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 21 Apr 2026 11:49:29 GMT"
-      },
-      {
         "title": "Smoking ban for people born after 2008 in the UK agreed",
         "url": "https://www.bbc.com/news/articles/cn08jy6w0l5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 21 Apr 2026 11:39:52 GMT"
       },
       {
-        "title": "Madonna offers reward for missing Coachella costume worn during Sabrina Carpenter guest slot",
-        "url": "https://www.bbc.com/news/articles/crm19j48wnno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "£1m accessible route isn't accessible because of 15 stone steps and stiles",
+        "url": "https://www.bbc.com/news/articles/cgk04l0zjzxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 21 Apr 2026 10:29:05 GMT"
+        "time": "Tue, 21 Apr 2026 11:32:54 GMT"
       }
     ],
     "projects": [
