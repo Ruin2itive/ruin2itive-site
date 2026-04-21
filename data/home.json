@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-21T20:09:53.253Z",
-  "updated_local": "4/21/2026, 8:09:53 PM",
+  "updated_iso": "2026-04-21T21:42:51.118Z",
+  "updated_local": "4/21/2026, 9:42:51 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Strategy Now Holds $62 Billion in Bitcoin—These Are Its Biggest BTC Buys",
+        "url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
+        "source": "crypto",
+        "time": "Tue, 21 Apr 2026 20:33:50 +0000"
+      },
+      {
+        "title": "Revolut Targeting $200 Billion Valuation in IPO—But Not Until 2028: FT",
+        "url": "https://decrypt.co/365069/revolut-targeting-200-billion-valuation-ipo-not-until-2028",
+        "source": "crypto",
+        "time": "Tue, 21 Apr 2026 20:23:06 +0000"
+      },
       {
         "title": "Google Fixes AI Coding Tool Flaw That Let Attackers Execute Malicious Code: Report",
         "url": "https://decrypt.co/365068/google-fixes-ai-coding-tool-flaw-attackers-execute-malicious-code",
@@ -20,21 +32,15 @@
         "url": "https://decrypt.co/365049/tether-stablecoin-dominance-over-circle-usdc-major-crypto-hacks",
         "source": "crypto",
         "time": "Tue, 21 Apr 2026 18:34:42 +0000"
-      },
-      {
-        "title": "Mississippi Law School Requires AI Training as Courts Grapple With the Tech",
-        "url": "https://decrypt.co/365063/mississippi-law-school-ai-training-courts",
-        "source": "crypto",
-        "time": "Tue, 21 Apr 2026 18:34:06 +0000"
-      },
-      {
-        "title": "This Frankenstein AI Merges Claude Opus, GLM and Qwen—And Outperforms Top Models",
-        "url": "https://decrypt.co/365033/frankenstein-ai-claude-opus-glm-qwen-free",
-        "source": "crypto",
-        "time": "Tue, 21 Apr 2026 17:55:23 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "I don't want your PRs anymore",
+        "url": "https://dpc.pw/posts/i-dont-want-your-prs-anymore/",
+        "source": "hn",
+        "time": "4/21/2026, 8:21:40 PM"
+      },
       {
         "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
         "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
@@ -48,22 +54,16 @@
         "time": "4/21/2026, 5:33:50 PM"
       },
       {
-        "title": "Cal.diy: open-source community edition of cal.com",
-        "url": "https://github.com/calcom/cal.diy",
+        "title": "California has more money than projected after admin miscalculated state budget",
+        "url": "https://www.kcra.com/article/california-more-money-than-projected-newsom-miscalculated-budget/71056376",
         "source": "hn",
-        "time": "4/21/2026, 5:58:21 PM"
+        "time": "4/21/2026, 8:28:57 PM"
       },
       {
-        "title": "Framework Laptop 13 Pro",
-        "url": "https://frame.work/laptop13pro",
+        "title": "10 years: Stephen's Sausage Roll still one of the most influential puzzle games",
+        "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
         "source": "hn",
-        "time": "4/21/2026, 6:00:34 PM"
-      },
-      {
-        "title": "Laws of Software Engineering",
-        "url": "https://lawsofsoftwareengineering.com",
-        "source": "hn",
-        "time": "4/21/2026, 11:04:56 AM"
+        "time": "4/18/2026, 10:53:42 AM"
       }
     ],
     "world": [
@@ -83,7 +83,7 @@
         "title": "Boy, 17, pleads guilty to synagogue arson attack",
         "url": "https://www.bbc.com/news/articles/c86exglegwno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 21 Apr 2026 19:32:00 GMT"
+        "time": "Tue, 21 Apr 2026 21:02:54 GMT"
       },
       {
         "title": "Smoking ban for people born after 2008 in the UK agreed",
@@ -92,10 +92,10 @@
         "time": "Tue, 21 Apr 2026 11:39:52 GMT"
       },
       {
-        "title": "Court challenge over Met Police's use of live facial recognition lost",
-        "url": "https://www.bbc.com/news/articles/cq59x4vv954o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How Leicester went from Premier League champions to League One in a decade",
+        "url": "https://www.bbc.com/sport/football/articles/cm2kkr9dkrlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 21 Apr 2026 16:35:57 GMT"
+        "time": "Tue, 21 Apr 2026 20:39:29 GMT"
       }
     ],
     "projects": [
