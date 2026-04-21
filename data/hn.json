@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-21T13:08:18.894Z"
+    "built_at": "2026-04-21T15:05:58.705Z"
   },
-  "items": [
-    {
-      "title": "AI Tool Rips Off Open Source Software Without Violating Copyright",
-      "url": "https://www.404media.co/this-ai-tool-rips-off-open-source-software-without-violating-copyright/",
-      "date": "2026-04-21T13:07:27.000Z"
-    },
-    {
-      "title": "Adobe Unveils Agents for Businesses Amid Threat of AI Disruption",
-      "url": "https://www.wsj.com/cio-journal/adobe-unveils-agents-for-businesses-amid-threat-of-ai-disruption-d3cf479c",
-      "date": "2026-04-21T13:06:55.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
