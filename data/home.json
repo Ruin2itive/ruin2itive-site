@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-21T20:01:30.625Z",
-  "updated_local": "4/21/2026, 8:01:30 PM",
+  "updated_iso": "2026-04-21T20:09:53.253Z",
+  "updated_local": "4/21/2026, 8:09:53 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Google Fixes AI Coding Tool Flaw That Let Attackers Execute Malicious Code: Report",
+        "url": "https://decrypt.co/365068/google-fixes-ai-coding-tool-flaw-attackers-execute-malicious-code",
+        "source": "crypto",
+        "time": "Tue, 21 Apr 2026 20:02:05 +0000"
+      },
       {
         "title": "Prediction Market Giants Kalshi, Polymarket Eye Perpetual Futures Push: Report",
         "url": "https://decrypt.co/365070/prediction-market-giants-kalshi-polymarket-perpetual-futures",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/365033/frankenstein-ai-claude-opus-glm-qwen-free",
         "source": "crypto",
         "time": "Tue, 21 Apr 2026 17:55:23 +0000"
-      },
-      {
-        "title": "New York Sues Coinbase and Gemini Over Prediction Markets, Seeking Billions in Damages",
-        "url": "https://decrypt.co/365048/new-york-sues-coinbase-gemini-prediction-market-offerings",
-        "source": "crypto",
-        "time": "Tue, 21 Apr 2026 17:36:45 +0000"
       }
     ],
     "hacker": [
@@ -48,12 +48,6 @@
         "time": "4/21/2026, 5:33:50 PM"
       },
       {
-        "title": "OpenAI Livestream",
-        "url": "https://openai.com/live/",
-        "source": "hn",
-        "time": "4/21/2026, 6:50:00 PM"
-      },
-      {
         "title": "Cal.diy: open-source community edition of cal.com",
         "url": "https://github.com/calcom/cal.diy",
         "source": "hn",
@@ -64,6 +58,12 @@
         "url": "https://frame.work/laptop13pro",
         "source": "hn",
         "time": "4/21/2026, 6:00:34 PM"
+      },
+      {
+        "title": "Laws of Software Engineering",
+        "url": "https://lawsofsoftwareengineering.com",
+        "source": "hn",
+        "time": "4/21/2026, 11:04:56 AM"
       }
     ],
     "world": [
