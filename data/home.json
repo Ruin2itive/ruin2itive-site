@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-21T09:23:46.502Z",
-  "updated_local": "4/21/2026, 9:23:46 AM",
+  "updated_iso": "2026-04-21T10:25:28.415Z",
+  "updated_local": "4/21/2026, 10:25:28 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Arbitrum Security Council Freezes $71.5M in Ethereum linked to $292M KelpDAO Exploit",
+        "url": "https://decrypt.co/364981/arbitrum-security-council-freezes-71-5m-in-ethereum-linked-to-292m-kelpdao-exploit",
+        "source": "crypto",
+        "time": "Tue, 21 Apr 2026 09:55:42 +0000"
+      },
       {
         "title": "Playdate Gaming Handheld Maker Bans Generative AI Tools for Development",
         "url": "https://decrypt.co/364960/playdate-gaming-handheld-maker-bans-generative-ai-tools",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/364944/uk-gas-firm-faces-pushback-plans-mine-bitcoin",
         "source": "crypto",
         "time": "Mon, 20 Apr 2026 20:16:57 +0000"
-      },
-      {
-        "title": "Palantir Faces Backlash Over AI-Driven Military Doctrine",
-        "url": "https://decrypt.co/364935/palantir-backlash-ai-driven-military-doctrine",
-        "source": "crypto",
-        "time": "Mon, 20 Apr 2026 18:43:10 +0000"
       }
     ],
     "hacker": [
@@ -48,16 +48,16 @@
         "time": "4/21/2026, 3:43:03 AM"
       },
       {
-        "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-        "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-        "source": "hn",
-        "time": "4/21/2026, 4:12:12 AM"
-      },
-      {
         "title": "Louis Zocchi, inventor of the d100, has died",
         "url": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
         "source": "hn",
         "time": "4/21/2026, 6:19:15 AM"
+      },
+      {
+        "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
+        "url": "http://mnt.stanleylieber.com/reform/",
+        "source": "hn",
+        "time": "4/20/2026, 2:14:52 PM"
       },
       {
         "title": "The Beauty of Bonsai Styles",
@@ -71,13 +71,19 @@
         "title": "Unemployment rate unexpectedly falls as fewer students look for work",
         "url": "https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 21 Apr 2026 08:56:49 GMT"
+        "time": "Tue, 21 Apr 2026 09:34:49 GMT"
       },
       {
         "title": "Petrol thefts surge as Iran war pushes up fuel costs",
         "url": "https://www.bbc.com/news/articles/cx2drmm1mglo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 21 Apr 2026 08:59:03 GMT"
+      },
+      {
+        "title": "Smoking ban for people born after 2008 in the UK agreed",
+        "url": "https://www.bbc.com/news/articles/cn08jy6w0l5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 21 Apr 2026 09:34:38 GMT"
       },
       {
         "title": "Boy, 17, charged with Kenton synagogue arson",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 21 Apr 2026 05:57:56 GMT"
-      },
-      {
-        "title": "King says late Queen may have been 'troubled deeply' by world we live in",
-        "url": "https://www.bbc.com/news/articles/cz9077ezlpno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 21 Apr 2026 07:53:43 GMT"
       }
     ],
     "projects": [
