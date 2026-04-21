@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-21T16:17:07.171Z",
-  "updated_local": "4/21/2026, 4:17:07 PM",
+  "updated_iso": "2026-04-21T16:58:51.995Z",
+  "updated_local": "4/21/2026, 4:58:51 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Amazon Will Invest Up to $25 Billion More in Anthropic as AI Demand Surges",
+        "url": "https://decrypt.co/365034/amazon-invest-25-billion-anthropic-ai-demand-surges",
+        "source": "crypto",
+        "time": "Tue, 21 Apr 2026 16:21:45 +0000"
+      },
       {
         "title": "DoorDash to Pay Delivery Workers in Stablecoins via Stripe&#39;s Tempo Blockchain",
         "url": "https://decrypt.co/365028/doordash-pay-delivery-workers-tablecoins-stripe-tempo-blockchain",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/365016/bank-of-koreas-new-governor-prioritizes-cbdcs-over-stablecoins-in-first-policy-address",
         "source": "crypto",
         "time": "Tue, 21 Apr 2026 13:02:10 +0000"
-      },
-      {
-        "title": "Iran Scammers Demand Bitcoin, USDT for Transit Through Strait of Hormuz: Report",
-        "url": "https://decrypt.co/365010/iran-scammers-demand-bitcoin-usdt-for-transit-through-strait-of-hormuz-report",
-        "source": "crypto",
-        "time": "Tue, 21 Apr 2026 12:37:42 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Laws of Software Engineering",
-        "url": "https://lawsofsoftwareengineering.com",
-        "source": "hn",
-        "time": "4/21/2026, 11:04:56 AM"
-      },
       {
         "title": "Original GrapheneOS responses to WIRED fact checker",
         "url": "https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker",
@@ -48,16 +42,22 @@
         "time": "4/21/2026, 3:04:24 PM"
       },
       {
-        "title": "As Oceans Warm, Great White Sharks Are Overheating",
-        "url": "https://e360.yale.edu/digest/great-white-sharks-climate",
+        "title": "Laws of Software Engineering",
+        "url": "https://lawsofsoftwareengineering.com",
         "source": "hn",
-        "time": "4/21/2026, 2:48:55 PM"
+        "time": "4/21/2026, 11:04:56 AM"
       },
       {
         "title": "Tim Cook's Impeccable Timing",
         "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
         "source": "hn",
         "time": "4/21/2026, 11:30:03 AM"
+      },
+      {
+        "title": "Show HN: GoModel – an open-source AI gateway in Go; 44x lighter than LiteLLM",
+        "url": "https://github.com/ENTERPILOT/GOModel/",
+        "source": "hn",
+        "time": "4/21/2026, 2:11:53 PM"
       },
       {
         "title": "Fusion Power Plant Simulator",
@@ -80,22 +80,22 @@
         "time": "Tue, 21 Apr 2026 15:59:20 GMT"
       },
       {
-        "title": "Court challenge over Met Police's use of live facial recognition thrown out",
+        "title": "Smoking ban for people born after 2008 in the UK agreed",
+        "url": "https://www.bbc.com/news/articles/cn08jy6w0l5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 21 Apr 2026 11:39:52 GMT"
+      },
+      {
+        "title": "Court challenge over Met Police's use of live facial recognition lost",
         "url": "https://www.bbc.com/news/articles/cq59x4vv954o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 21 Apr 2026 15:42:25 GMT"
+        "time": "Tue, 21 Apr 2026 16:35:57 GMT"
       },
       {
-        "title": "Mass trial for 486 alleged MS-13 gang members begins in El Salvador",
-        "url": "https://www.bbc.com/news/articles/c20ql985gryo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Migrant first to be convicted under new crossing law",
+        "url": "https://www.bbc.com/news/articles/clyel62lk6xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 21 Apr 2026 12:48:09 GMT"
-      },
-      {
-        "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
-        "url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 21 Apr 2026 16:13:27 GMT"
+        "time": "Tue, 21 Apr 2026 16:43:07 GMT"
       }
     ],
     "projects": [
