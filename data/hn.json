@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-21T20:41:26.849Z"
+    "built_at": "2026-04-21T21:38:38.818Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "MCPorter – Call MCPs from TypeScript or as CLI",
+      "url": "https://github.com/steipete/mcporter",
+      "date": "2026-04-21T21:30:08.000Z"
+    },
+    {
+      "title": "WireGuard for Windows Reaches v1.0",
+      "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009580.html",
+      "date": "2026-04-21T21:26:25.000Z"
+    }
+  ]
 }
