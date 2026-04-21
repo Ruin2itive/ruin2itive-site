@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-20T23:36:06.380Z"
+    "built_at": "2026-04-21T01:53:40.676Z"
   },
-  "items": [
-    {
-      "title": "It's not just Apple News study finds rampant bias on Google News, Yahoo and Bing",
-      "url": "https://nypost.com/2026/04/20/business/its-not-just-apple-news-left-wing-bias-rampant-on-google-news-yahoo-and-bing-bombshell-study/",
-      "date": "2026-04-20T23:35:29.000Z"
-    },
-    {
-      "title": "Making RAM at Home [video]",
-      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-      "date": "2026-04-20T23:35:06.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
