@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-22T07:43:25.055Z",
-  "updated_local": "4/22/2026, 7:43:25 AM",
+  "updated_iso": "2026-04-22T08:52:51.779Z",
+  "updated_local": "4/22/2026, 8:52:51 AM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,16 @@
         "time": "4/20/2026, 11:35:06 PM"
       },
       {
-        "title": "XOR'ing a register with itself is the idiom for zeroing it out. Why not sub?",
-        "url": "https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247",
-        "source": "hn",
-        "time": "4/22/2026, 6:38:05 AM"
-      },
-      {
         "title": "ChatGPT Images 2.0",
         "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
         "source": "hn",
         "time": "4/21/2026, 6:50:00 PM"
+      },
+      {
+        "title": "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
+        "url": "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics",
+        "source": "hn",
+        "time": "4/19/2026, 11:53:31 AM"
       },
       {
         "title": "Acetaminophen vs. ibuprofen",
@@ -60,18 +60,24 @@
         "time": "4/20/2026, 3:21:16 PM"
       },
       {
-        "title": "Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
-        "url": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/",
+        "title": "Laws of Software Engineering",
+        "url": "https://lawsofsoftwareengineering.com",
         "source": "hn",
-        "time": "4/21/2026, 10:19:49 AM"
+        "time": "4/21/2026, 11:04:56 AM"
       }
     ],
     "world": [
       {
-        "title": "PM sends 'chill' through civil service, union boss says",
+        "title": "UK inflation rate rises to 3.3% in March after Iran war pushes up fuel prices",
+        "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 22 Apr 2026 08:38:11 GMT"
+      },
+      {
+        "title": "PM sends 'chill' through civil service, its union boss says",
         "url": "https://www.bbc.com/news/articles/c1krxlvjezro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 22 Apr 2026 07:40:00 GMT"
+        "time": "Wed, 22 Apr 2026 08:07:16 GMT"
       },
       {
         "title": "I was left with an £8,000 vet bill when my insurer cancelled my pet policy",
@@ -89,13 +95,7 @@
         "title": "Ideal conditions to see peak of Lyrid meteor shower in UK",
         "url": "https://www.bbc.com/weather/articles/cede7gpjn85o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 21 Apr 2026 23:04:07 GMT"
-      },
-      {
-        "title": "Bird flu vaccine trial against potential pandemic strain begins",
-        "url": "https://www.bbc.com/news/articles/cy41z0yj8mjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 21 Apr 2026 23:00:08 GMT"
+        "time": "Wed, 22 Apr 2026 08:35:52 GMT"
       }
     ],
     "projects": [
