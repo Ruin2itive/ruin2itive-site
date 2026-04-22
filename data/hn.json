@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-22T15:06:02.069Z"
+    "built_at": "2026-04-22T16:51:10.839Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Qwen Lens Studio – multimodal app on Qwen3.6-35B-A3B, runs on Ollama",
-      "url": "https://github.com/dakshjain-1616/Qwen-Lens-Studio",
-      "date": "2026-04-22T15:04:36.000Z"
-    },
-    {
-      "title": "Simulation of the Hormuz crisis after Iran seizure of 2 ships with 6 LLM agents",
-      "url": "https://colab.research.google.com/github/VincenzoManto/Doxa/blob/main/notebooks/doxa.ipynb",
-      "date": "2026-04-22T15:03:21.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
