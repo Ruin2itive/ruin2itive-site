@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-22T10:24:55.574Z",
-  "updated_local": "4/22/2026, 10:24:55 AM",
+  "updated_iso": "2026-04-22T11:02:41.633Z",
+  "updated_local": "4/22/2026, 11:02:41 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "PENGU Notches Double-Digit Gains as Bitcoin Hits $78K Amid $418M Liquidation Spree",
+        "url": "https://decrypt.co/365109/pengu-notches-double-digit-gains-as-bitcoin-hits-78k-amid-418m-liquidation-spree",
+        "source": "crypto",
+        "time": "Wed, 22 Apr 2026 10:49:24 +0000"
+      },
       {
         "title": "Justin Sun Sues Trump-Backed World Liberty Financial Over Frozen Tokens",
         "url": "https://decrypt.co/365106/justin-sun-sues-trump-backed-world-liberty-financial-over-frozen-tokens",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/365080/core-scientific-3-3-billion-junk-bond-sale-pivot-bitcoin-mining-ai",
         "source": "crypto",
         "time": "Tue, 21 Apr 2026 21:53:33 +0000"
-      },
-      {
-        "title": "Strategy Now Holds $62 Billion in Bitcoin—These Are Its Biggest BTC Buys",
-        "url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
-        "source": "crypto",
-        "time": "Tue, 21 Apr 2026 20:33:50 +0000"
       }
     ],
     "hacker": [
@@ -54,31 +54,19 @@
         "time": "4/21/2026, 6:50:00 PM"
       },
       {
+        "title": "How the Heck Does GPS Work?",
+        "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
+        "source": "hn",
+        "time": "4/22/2026, 9:22:05 AM"
+      },
+      {
         "title": "All your agents are going async",
         "url": "https://zknill.io/posts/all-your-agents-are-going-async/",
         "source": "hn",
         "time": "4/20/2026, 11:18:57 AM"
-      },
-      {
-        "title": "Garbage Collection Without Unsafe Code",
-        "url": "https://fitzgen.com/2024/02/06/safe-gc.html",
-        "source": "hn",
-        "time": "4/19/2026, 4:41:59 AM"
       }
     ],
     "world": [
-      {
-        "title": "UK inflation rate rises to 3.3% in March after Iran war pushes up fuel prices",
-        "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 22 Apr 2026 08:38:11 GMT"
-      },
-      {
-        "title": "PM sends 'chill' through civil service, its union boss says",
-        "url": "https://www.bbc.com/news/articles/c1krxlvjezro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 22 Apr 2026 09:28:49 GMT"
-      },
       {
         "title": "McDonald's boss on abuse claims: 'I don't want to talk about the past'",
         "url": "https://www.bbc.com/news/articles/cp9v3lk34yvo?at_medium=RSS&amp;at_campaign=rss",
@@ -86,10 +74,22 @@
         "time": "Wed, 22 Apr 2026 10:18:15 GMT"
       },
       {
+        "title": "UK inflation rate rises to 3.3% in March after Iran war pushes up fuel prices",
+        "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 22 Apr 2026 08:38:11 GMT"
+      },
+      {
         "title": "I was left with an £8,000 vet bill when my insurer cancelled my pet policy",
         "url": "https://www.bbc.com/news/articles/cn4vkw1lrz0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 21 Apr 2026 23:38:38 GMT"
+      },
+      {
+        "title": "Hay fever misery does last longer - here is how to cope",
+        "url": "https://www.bbc.com/news/articles/cqj8kk0z0l5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 22 Apr 2026 10:41:51 GMT"
       },
       {
         "title": "'Superstar' runners praised for helping exhausted man finish marathon",
