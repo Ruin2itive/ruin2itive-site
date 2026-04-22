@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-22T16:51:10.839Z"
+    "built_at": "2026-04-22T17:54:15.178Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "GPT-Proxy Backdoor in NPM and PyPI Turns Servers into Chinese LLM Relays",
+      "url": "https://www.aikido.dev/blog/gpt-proxy-backdoor-npm-pypi-chinese-llm-relay",
+      "date": "2026-04-22T17:51:33.000Z"
+    },
+    {
+      "title": "Coding Models Are Doing Too Much",
+      "url": "https://nrehiew.github.io/blog/minimal_editing/",
+      "date": "2026-04-22T17:51:17.000Z"
+    }
+  ]
 }
