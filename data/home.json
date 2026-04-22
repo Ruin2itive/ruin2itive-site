@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-21T23:44:06.924Z",
-  "updated_local": "4/21/2026, 11:44:06 PM",
+  "updated_iso": "2026-04-22T02:26:00.853Z",
+  "updated_local": "4/22/2026, 2:26:00 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Anthropic&#39;s Claude Mythos AI Finds 271 Vulnerabilities in Firefox—Yes, It&#39;s Seriously Powerful",
+        "url": "https://decrypt.co/365099/anthropic-claude-mythos-ai-271-vulnerabilities-firefox-seriously-powerful",
+        "source": "crypto",
+        "time": "Wed, 22 Apr 2026 02:06:41 +0000"
+      },
       {
         "title": "Coinbase Flags Proof-of-Stake Chains Like Ethereum, Solana as Potential Quantum Risks",
         "url": "https://decrypt.co/365079/coinbase-proof-of-stake-blockchains-ethereum-solana-quantum-risk",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/365069/revolut-targeting-200-billion-valuation-ipo-not-until-2028",
         "source": "crypto",
         "time": "Tue, 21 Apr 2026 20:23:06 +0000"
-      },
-      {
-        "title": "Google Fixes AI Coding Tool Flaw That Let Attackers Execute Malicious Code: Report",
-        "url": "https://decrypt.co/365068/google-fixes-ai-coding-tool-flaw-attackers-execute-malicious-code",
-        "source": "crypto",
-        "time": "Tue, 21 Apr 2026 20:02:05 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,18 @@
         "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
         "source": "hn",
         "time": "4/21/2026, 6:50:00 PM"
+      },
+      {
+        "title": "Windows Server 2025 Runs Better on ARM",
+        "url": "https://jasoneckert.github.io/myblog/server-2025-arm64/",
+        "source": "hn",
+        "time": "4/19/2026, 4:28:31 AM"
+      },
+      {
+        "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+        "url": "https://twitter.com/spacex/status/2046713419978453374",
+        "source": "hn",
+        "time": "4/21/2026, 10:13:18 PM"
       },
       {
         "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
@@ -52,18 +64,6 @@
         "url": "https://www.brex.com/crabtrap",
         "source": "hn",
         "time": "4/21/2026, 3:29:16 PM"
-      },
-      {
-        "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
-        "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
-        "source": "hn",
-        "time": "4/18/2026, 10:53:42 AM"
-      },
-      {
-        "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
-        "url": "https://britannica11.org/",
-        "source": "hn",
-        "time": "4/21/2026, 5:33:50 PM"
       }
     ],
     "world": [
@@ -74,22 +74,22 @@
         "time": "Tue, 21 Apr 2026 17:00:20 GMT"
       },
       {
-        "title": "Bird flu vaccine trial against potential pandemic strain begins",
-        "url": "https://www.bbc.com/news/articles/cy41z0yj8mjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "I was left with an £8,000 vet bill when my insurer cancelled my pet policy",
+        "url": "https://www.bbc.com/news/articles/cn4vkw1lrz0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 21 Apr 2026 23:00:08 GMT"
-      },
-      {
-        "title": "Boy, 17, pleads guilty to synagogue arson attack",
-        "url": "https://www.bbc.com/news/articles/c86exglegwno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 21 Apr 2026 21:02:54 GMT"
+        "time": "Tue, 21 Apr 2026 23:38:38 GMT"
       },
       {
         "title": "Why police are seeking to arrest billionaire K-pop mogul behind BTS",
         "url": "https://www.bbc.com/news/articles/cz78zj74548o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 21 Apr 2026 22:28:21 GMT"
+      },
+      {
+        "title": "Bird flu vaccine trial against potential pandemic strain begins",
+        "url": "https://www.bbc.com/news/articles/cy41z0yj8mjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 21 Apr 2026 23:00:08 GMT"
       },
       {
         "title": "How Leicester went from Premier League champions to League One in a decade",
