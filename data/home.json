@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-22T09:18:31.294Z",
-  "updated_local": "4/22/2026, 9:18:31 AM",
+  "updated_iso": "2026-04-22T10:24:55.574Z",
+  "updated_local": "4/22/2026, 10:24:55 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Justin Sun Sues Trump-Backed World Liberty Financial Over Frozen Tokens",
+        "url": "https://decrypt.co/365106/justin-sun-sues-trump-backed-world-liberty-financial-over-frozen-tokens",
+        "source": "crypto",
+        "time": "Wed, 22 Apr 2026 10:17:04 +0000"
+      },
       {
         "title": "Anthropic&#39;s Claude Mythos AI Finds 271 Vulnerabilities in Firefox—Yes, It&#39;s Seriously Powerful",
         "url": "https://decrypt.co/365099/anthropic-claude-mythos-ai-271-vulnerabilities-firefox-seriously-powerful",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
         "source": "crypto",
         "time": "Tue, 21 Apr 2026 20:33:50 +0000"
-      },
-      {
-        "title": "Revolut Targeting $200 Billion Valuation in IPO—But Not Until 2028: FT",
-        "url": "https://decrypt.co/365069/revolut-targeting-200-billion-valuation-ipo-not-until-2028",
-        "source": "crypto",
-        "time": "Tue, 21 Apr 2026 20:23:06 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Windows 9x Subsystem for Linux",
+        "url": "https://social.hails.org/@hailey/116446826733136456",
+        "source": "hn",
+        "time": "4/22/2026, 9:52:52 AM"
+      },
       {
         "title": "Making RAM at Home [video]",
         "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
@@ -48,22 +54,16 @@
         "time": "4/21/2026, 6:50:00 PM"
       },
       {
-        "title": "Contact Lens Uses Microfluidics to Monitor and Treat Glaucoma",
-        "url": "https://spectrum.ieee.org/smart-contact-lens-glaucoma-microfluidics",
+        "title": "All your agents are going async",
+        "url": "https://zknill.io/posts/all-your-agents-are-going-async/",
         "source": "hn",
-        "time": "4/19/2026, 11:53:31 AM"
+        "time": "4/20/2026, 11:18:57 AM"
       },
       {
         "title": "Garbage Collection Without Unsafe Code",
         "url": "https://fitzgen.com/2024/02/06/safe-gc.html",
         "source": "hn",
         "time": "4/19/2026, 4:41:59 AM"
-      },
-      {
-        "title": "Laws of Software Engineering",
-        "url": "https://lawsofsoftwareengineering.com",
-        "source": "hn",
-        "time": "4/21/2026, 11:04:56 AM"
       }
     ],
     "world": [
@@ -77,7 +77,13 @@
         "title": "PM sends 'chill' through civil service, its union boss says",
         "url": "https://www.bbc.com/news/articles/c1krxlvjezro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 22 Apr 2026 08:07:16 GMT"
+        "time": "Wed, 22 Apr 2026 09:28:49 GMT"
+      },
+      {
+        "title": "McDonald's boss on abuse claims: 'I don't want to talk about the past'",
+        "url": "https://www.bbc.com/news/articles/cp9v3lk34yvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 22 Apr 2026 10:18:15 GMT"
       },
       {
         "title": "I was left with an £8,000 vet bill when my insurer cancelled my pet policy",
@@ -86,16 +92,10 @@
         "time": "Tue, 21 Apr 2026 23:38:38 GMT"
       },
       {
-        "title": "How Leicester went from Premier League champions to League One in a decade",
-        "url": "https://www.bbc.com/sport/football/articles/cm2kkr9dkrlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Superstar' runners praised for helping exhausted man finish marathon",
+        "url": "https://www.bbc.com/news/articles/cj0v632yddzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 21 Apr 2026 20:39:29 GMT"
-      },
-      {
-        "title": "Ideal conditions to see peak of Lyrid meteor shower in UK",
-        "url": "https://www.bbc.com/weather/articles/cede7gpjn85o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 22 Apr 2026 08:35:52 GMT"
+        "time": "Wed, 22 Apr 2026 09:50:06 GMT"
       }
     ],
     "projects": [
