@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-23T12:03:58.007Z",
-  "updated_local": "4/23/2026, 12:03:58 PM",
+  "updated_iso": "2026-04-23T13:24:41.437Z",
+  "updated_local": "4/23/2026, 1:24:41 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "&#39;Excellent Window&#39; for Strategic Accumulation as Bitcoin Risk Indicator Flips Bullish",
+        "url": "https://decrypt.co/365244/excellent-window-for-strategic-accumulation-as-bitcoin-risk-indicator-flips-bullish",
+        "source": "crypto",
+        "time": "Thu, 23 Apr 2026 12:41:04 +0000"
+      },
       {
         "title": "Morning Minute: Bitcoin Clears $79,000, Then Reverses",
         "url": "https://decrypt.co/365243/morning-minute-bitcoin-clears-79000-then-reverses",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/365221/us-government-runs-bitcoin-node-not-mining-btc",
         "source": "crypto",
         "time": "Wed, 22 Apr 2026 21:46:02 +0000"
-      },
-      {
-        "title": "OpenAI Launches Workspace Agents Feature in ChatGPT",
-        "url": "https://decrypt.co/365220/openai-workspace-agents-feature-chatgpt",
-        "source": "crypto",
-        "time": "Wed, 22 Apr 2026 21:38:38 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Surveillance vendors caught abusing access to telcos to track people's locations",
+        "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+        "source": "hn",
+        "time": "4/23/2026, 12:12:03 PM"
+      },
+      {
+        "title": "Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite",
+        "url": "https://github.com/russellromney/honker",
+        "source": "hn",
+        "time": "4/23/2026, 11:53:11 AM"
+      },
       {
         "title": "I am building a cloud",
         "url": "https://crawshaw.io/blog/building-a-cloud",
@@ -42,31 +54,25 @@
         "time": "4/23/2026, 4:44:19 AM"
       },
       {
+        "title": "Sneaky spam in conversational replies to blog posts",
+        "url": "https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/",
+        "source": "hn",
+        "time": "4/23/2026, 11:50:25 AM"
+      },
+      {
         "title": "Alberta startup sells no-tech tractors for half price",
         "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
         "source": "hn",
         "time": "4/22/2026, 4:29:25 PM"
-      },
-      {
-        "title": "Your hex editor should color-code bytes",
-        "url": "https://simonomi.dev/blog/color-code-your-bytes/",
-        "source": "hn",
-        "time": "4/21/2026, 9:52:09 AM"
-      },
-      {
-        "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-        "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-        "source": "hn",
-        "time": "4/22/2026, 8:27:31 PM"
-      },
-      {
-        "title": "Fundamental Theorem of Calculus",
-        "url": "https://david.alvarezrosa.com/posts/fundamental-theorem-of-calculus/",
-        "source": "hn",
-        "time": "4/23/2026, 1:09:56 AM"
       }
     ],
     "world": [
+      {
+        "title": "Health data of 500,000 people offered for sale online in China after UK Biobank breach",
+        "url": "https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 23 Apr 2026 11:45:41 GMT"
+      },
       {
         "title": "High Street mini-marts selling cocaine, cannabis and prescription drugs, BBC secret filming reveals",
         "url": "https://www.bbc.com/news/articles/c62l429w2pko?at_medium=RSS&amp;at_campaign=rss",
@@ -83,19 +89,13 @@
         "title": "Riot police to deploy on French beaches under new deal to stop illegal Channel migrant crossings",
         "url": "https://www.bbc.com/news/articles/cz0ev7enk2lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 23 Apr 2026 10:54:49 GMT"
+        "time": "Thu, 23 Apr 2026 12:22:40 GMT"
       },
       {
-        "title": "Senior Lucy Letby hospital boss arrested",
+        "title": "Senior manager who worked at Lucy Letby's hospital arrested",
         "url": "https://www.bbc.com/news/articles/c5ylnvpg3l9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 23 Apr 2026 11:22:18 GMT"
-      },
-      {
-        "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
-        "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 23 Apr 2026 04:25:30 GMT"
       }
     ],
     "projects": [
