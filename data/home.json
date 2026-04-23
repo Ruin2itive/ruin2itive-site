@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-23T07:48:45.444Z",
-  "updated_local": "4/23/2026, 7:48:45 AM",
+  "updated_iso": "2026-04-23T08:58:46.882Z",
+  "updated_local": "4/23/2026, 8:58:46 AM",
   "sections": {
     "crypto": [
       {
@@ -54,16 +54,16 @@
         "time": "4/22/2026, 8:27:31 PM"
       },
       {
+        "title": "Your hex editor should color-code bytes",
+        "url": "https://simonomi.dev/blog/color-code-your-bytes/",
+        "source": "hn",
+        "time": "4/21/2026, 9:52:09 AM"
+      },
+      {
         "title": "We found a stable Firefox identifier linking all your private Tor identities",
         "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
         "source": "hn",
         "time": "4/22/2026, 5:35:03 PM"
-      },
-      {
-        "title": "Ars Technica: Our newsroom AI policy",
-        "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-        "source": "hn",
-        "time": "4/23/2026, 5:14:05 AM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Thu, 23 Apr 2026 05:02:00 GMT"
       },
       {
-        "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
-        "url": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 22 Apr 2026 21:23:25 GMT"
-      },
-      {
         "title": "Riot police to deploy on French beaches under new deal to stop illegal Channel migrant crossings",
         "url": "https://www.bbc.com/news/articles/cz0ev7enk2lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 23 Apr 2026 00:26:58 GMT"
+        "time": "Thu, 23 Apr 2026 08:03:29 GMT"
       },
       {
-        "title": "'My instinct was to help him': Runners help exhausted man finish Boston Marathon",
-        "url": "https://www.bbc.com/news/videos/cj0v65l4y9yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
+        "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 23 Apr 2026 01:33:15 GMT"
+        "time": "Thu, 23 Apr 2026 04:25:30 GMT"
+      },
+      {
+        "title": "Why golf courses are in the crosshairs of Britain's housing crisis",
+        "url": "https://www.bbc.com/news/articles/ce8jjne5ereo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 23 Apr 2026 00:31:17 GMT"
       }
     ],
     "projects": [
