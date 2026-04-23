@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-23T11:55:25.630Z"
+    "built_at": "2026-04-23T13:09:40.000Z"
   },
-  "items": [
-    {
-      "title": "NativeWright – Patchright browser daemon for AI coding agents",
-      "url": "https://github.com/lipski-lite/nativewright",
-      "date": "2026-04-23T11:49:00.000Z"
-    },
-    {
-      "title": "Commenting and Approving Pull Requests",
-      "url": "https://www.jakeworth.com/posts/on-commenting-and-approving-pull-requests/",
-      "date": "2026-04-23T11:47:46.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
