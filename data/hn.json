@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-23T08:52:19.913Z"
+    "built_at": "2026-04-23T10:17:01.327Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Schotter – Georg Nees – Part 1",
+      "url": "https://zellyn.com/2024/06/schotter-1/",
+      "date": "2026-04-23T10:16:01.000Z"
+    },
+    {
+      "title": "Teams as Transformation Reactors",
+      "url": "https://gyrator.io/en/",
+      "date": "2026-04-23T10:15:47.000Z"
+    }
+  ]
 }
