@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-23T06:57:44.030Z"
+    "built_at": "2026-04-23T08:52:19.913Z"
   },
-  "items": [
-    {
-      "title": "Signaling Is the Intelligence",
-      "url": "https://eversoleken.substack.com/p/signaling-is-the-intelligence",
-      "date": "2026-04-23T06:55:47.000Z"
-    },
-    {
-      "title": "The Log Is the Database",
-      "url": "https://blog.canoozie.net/the-log-is-the-database/",
-      "date": "2026-04-23T06:48:46.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
