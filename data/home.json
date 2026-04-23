@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-04-23T17:39:59.816Z",
-  "updated_local": "4/23/2026, 5:39:59 PM",
+  "updated_iso": "2026-04-23T19:05:12.698Z",
+  "updated_local": "4/23/2026, 7:05:12 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Says Its New ChatGPT for Doctors Outperforms Humans in Clinical Tasks",
+        "url": "https://decrypt.co/365328/openai-says-chatgpt-doctors-outperforms-humans-clinical-tasks",
+        "source": "crypto",
+        "time": "Thu, 23 Apr 2026 18:30:11 +0000"
+      },
+      {
+        "title": "Tencent&#39;s New Hy3 AI Model Is the Most Efficient Chinese LLM No One&#39;s Talking About",
+        "url": "https://decrypt.co/365297/tencent-hy3-preview-open-source-moe-model",
+        "source": "crypto",
+        "time": "Thu, 23 Apr 2026 18:18:08 +0000"
+      },
+      {
+        "title": "Fold Launches &#39;Bitcoin Bonus&#39; Program for Employers Following Steak &#39;n Shake Debut",
+        "url": "https://decrypt.co/365295/fold-bitcoin-bonus-program-employers-steak-shake",
+        "source": "crypto",
+        "time": "Thu, 23 Apr 2026 17:51:54 +0000"
+      },
       {
         "title": "Founder of Solana Token Launchpad Believe Arrested on Assault, Strangulation Charges",
         "url": "https://decrypt.co/365292/founder-solana-token-launchpad-believe-arrested",
@@ -14,56 +32,38 @@
         "url": "https://decrypt.co/365285/white-house-accuses-china-industrial-scale-theft-american-ai-models",
         "source": "crypto",
         "time": "Thu, 23 Apr 2026 15:33:09 +0000"
-      },
-      {
-        "title": "Sam Bankman-Fried Withdraws Motion for New Trial, Denies Ghostwriting Allegations",
-        "url": "https://decrypt.co/365277/sam-bankman-fried-withdraws-motion-new-trial-denies-ghostwriting",
-        "source": "crypto",
-        "time": "Thu, 23 Apr 2026 15:21:41 +0000"
-      },
-      {
-        "title": "French Weather Agency Alerts Police to Sensor ‘Interference’ After $35K Polymarket Payouts",
-        "url": "https://decrypt.co/365276/french-weather-agency-alerts-police-to-sensor-interference-after-35k-polymarket-payouts",
-        "source": "crypto",
-        "time": "Thu, 23 Apr 2026 14:58:52 +0000"
-      },
-      {
-        "title": "Tether Freezes $344 Million in USDT Stablecoins Flagged for Illicit Activity",
-        "url": "https://decrypt.co/365278/tether-freezes-344-million-usdt-stablecoins-flagged-illicit-activity",
-        "source": "crypto",
-        "time": "Thu, 23 Apr 2026 14:50:16 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "France confirms data breach at government agency that manages citizens' IDs",
-        "url": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
+        "title": "GPT-5.5",
+        "url": "https://openai.com/index/introducing-gpt-5-5/",
         "source": "hn",
-        "time": "4/23/2026, 3:59:55 PM"
+        "time": "4/23/2026, 6:01:39 PM"
       },
       {
-        "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+        "title": "An update on recent Claude Code quality reports",
+        "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+        "source": "hn",
+        "time": "4/23/2026, 5:48:38 PM"
+      },
+      {
+        "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
         "url": "https://socket.dev/blog/bitwarden-cli-compromised",
         "source": "hn",
         "time": "4/23/2026, 2:17:08 PM"
       },
       {
-        "title": "'Hairdryer used to trick weather sensor' to win $34,000 Polymarket bet",
-        "url": "https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/",
+        "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+        "url": "https://blog.meshcore.io/2026/04/23/the-split",
         "source": "hn",
-        "time": "4/23/2026, 5:01:01 PM"
+        "time": "4/23/2026, 4:55:13 PM"
       },
       {
-        "title": "A DIY Watch You Can Actually Wear",
-        "url": "https://www.hackster.io/news/a-diy-watch-you-can-actually-wear-8f91c2dac682",
+        "title": "Incident with multple GitHub services",
+        "url": "https://www.githubstatus.com/incidents/myrbk7jvvs6p",
         "source": "hn",
-        "time": "4/21/2026, 8:52:33 AM"
-      },
-      {
-        "title": "I am building a cloud",
-        "url": "https://crawshaw.io/blog/building-a-cloud",
-        "source": "hn",
-        "time": "4/23/2026, 4:44:19 AM"
+        "time": "4/23/2026, 4:21:55 PM"
       }
     ],
     "world": [
@@ -77,7 +77,13 @@
         "title": "Police arrest two over alleged drug sales through shops in West Midlands after BBC investigation",
         "url": "https://www.bbc.com/news/articles/c3w3v77l23xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 23 Apr 2026 15:59:40 GMT"
+        "time": "Thu, 23 Apr 2026 18:15:21 GMT"
+      },
+      {
+        "title": "Masked Iranian forces appear to seize ships in staged video",
+        "url": "https://www.bbc.com/news/videos/cp86g5m8vyyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 23 Apr 2026 18:15:28 GMT"
       },
       {
         "title": "Rapist who infected men and boys with HIV jailed",
@@ -86,16 +92,10 @@
         "time": "Thu, 23 Apr 2026 15:53:36 GMT"
       },
       {
-        "title": "Health data of 500,000 people offered for sale online in China after UK Biobank breach",
-        "url": "https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Proxy attacks in UK a real and growing concern, says PM",
+        "url": "https://www.bbc.com/news/articles/clyxlnzrq41o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 23 Apr 2026 11:45:41 GMT"
-      },
-      {
-        "title": "Huge chunk of glacier blocks Everest route in peak climbing season",
-        "url": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 23 Apr 2026 16:52:44 GMT"
+        "time": "Thu, 23 Apr 2026 18:50:58 GMT"
       }
     ],
     "projects": [
