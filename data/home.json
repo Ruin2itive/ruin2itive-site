@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-24T05:33:02.104Z",
-  "updated_local": "4/24/2026, 5:33:02 AM",
+  "updated_iso": "2026-04-24T06:16:55.100Z",
+  "updated_local": "4/24/2026, 6:16:55 AM",
   "sections": {
     "crypto": [
       {
@@ -48,12 +48,6 @@
         "time": "4/24/2026, 2:26:23 AM"
       },
       {
-        "title": "A quick look at Mythos run on Firefox: too much hype?",
-        "url": "https://xark.es/b/mythos-firefox-150",
-        "source": "hn",
-        "time": "4/24/2026, 3:12:30 AM"
-      },
-      {
         "title": "GPT-5.5",
         "url": "https://openai.com/index/introducing-gpt-5-5/",
         "source": "hn",
@@ -64,20 +58,26 @@
         "url": "https://www.anthropic.com/engineering/april-23-postmortem",
         "source": "hn",
         "time": "4/23/2026, 5:48:38 PM"
+      },
+      {
+        "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+        "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+        "source": "hn",
+        "time": "4/23/2026, 2:17:08 PM"
       }
     ],
     "world": [
       {
-        "title": "Epstein housed abuse victims in London flats, BBC reveals",
+        "title": "Epstein housed victims in London flats after Met chose not to investigate him, BBC reveals",
         "url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 24 Apr 2026 05:00:03 GMT"
       },
       {
-        "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
-        "url": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Steve Rosenberg: Kremlin's tightening grip on internet fuels public discontent",
+        "url": "https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 24 Apr 2026 03:03:55 GMT"
+        "time": "Fri, 24 Apr 2026 05:00:29 GMT"
       },
       {
         "title": "Stock markets are too high and set to fall, says Bank of England deputy",
