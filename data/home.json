@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-24T13:20:06.489Z",
-  "updated_local": "4/24/2026, 1:20:06 PM",
+  "updated_iso": "2026-04-24T13:58:22.354Z",
+  "updated_local": "4/24/2026, 1:58:22 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Meta Agrees to Deploy Millions of Amazon AI Chips in Deal Worth Billions",
+        "url": "https://decrypt.co/365441/meta-agrees-deploy-millions-amazon-ai-chips-deal-worth-billions",
+        "source": "crypto",
+        "time": "Fri, 24 Apr 2026 13:39:46 +0000"
+      },
       {
         "title": "Morning Minute: Soldier Arrested for $400K Polymarket Insider Bet on Maduro Raid",
         "url": "https://decrypt.co/365436/morning-minute-soldier-arrested-for-400k-polymarket-insider-bet-on-maduro-raid",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/365397/us-soldier-charged-400k-polymarket-insider-trading-maduro-removal",
         "source": "crypto",
         "time": "Thu, 23 Apr 2026 22:48:28 +0000"
-      },
-      {
-        "title": "Anthropic Beats OpenAI on Secondary Markets With $1 Trillion Implied Valuation",
-        "url": "https://decrypt.co/365384/anthropic-1-trillion-valuation-secondary-markets-openai",
-        "source": "crypto",
-        "time": "Thu, 23 Apr 2026 21:38:28 +0000"
       }
     ],
     "hacker": [
@@ -40,12 +40,6 @@
         "url": "https://www.bmj.com/content/393/bmj.s781",
         "source": "hn",
         "time": "4/24/2026, 11:09:36 AM"
-      },
-      {
-        "title": "The operating cost of adult and gambling startups",
-        "url": "https://orchidfiles.com/stigma-is-a-tax-on-every-operational-decision/",
-        "source": "hn",
-        "time": "4/24/2026, 12:27:18 PM"
       },
       {
         "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
@@ -60,10 +54,16 @@
         "time": "4/24/2026, 8:28:47 AM"
       },
       {
-        "title": "Aspartame is not that bad?",
-        "url": "https://dynomight.net/aspartame/",
+        "title": "DeepSeek v4",
+        "url": "https://api-docs.deepseek.com/",
         "source": "hn",
-        "time": "4/24/2026, 11:58:39 AM"
+        "time": "4/24/2026, 3:01:21 AM"
+      },
+      {
+        "title": "Mounting tar archives as a filesystem in WebAssembly",
+        "url": "https://jeroen.github.io/notes/webassembly-tar/",
+        "source": "hn",
+        "time": "4/24/2026, 10:13:26 AM"
       }
     ],
     "world": [
@@ -80,16 +80,16 @@
         "time": "Fri, 24 Apr 2026 05:00:03 GMT"
       },
       {
+        "title": "The assisted dying bill has failed - but the debate isn't over",
+        "url": "https://www.bbc.com/news/articles/cm2k59l2l02o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 24 Apr 2026 13:16:18 GMT"
+      },
+      {
         "title": "Steve Rosenberg: Kremlin's tightening grip on internet fuels Russian discontent",
         "url": "https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 24 Apr 2026 05:00:29 GMT"
-      },
-      {
-        "title": "Stock markets are too high and set to fall, says Bank of England deputy",
-        "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 24 Apr 2026 09:03:21 GMT"
       },
       {
         "title": "Running marathons for our girls has made us closer, say dads of Southport victims",
