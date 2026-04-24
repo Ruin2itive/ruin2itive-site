@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-23T23:37:49.613Z"
+    "built_at": "2026-04-24T01:56:54.499Z"
   },
-  "items": [
-    {
-      "title": "Why Everything's a Subscription – and Why That May Be Good for You",
-      "url": "https://www.magiclasso.co/insights/why-everythings-a-subscription/",
-      "date": "2026-04-23T23:37:02.000Z"
-    },
-    {
-      "title": "Bitwarden engineers who had the compromised Checkmarx VSCode extension got hit",
-      "url": "https://old.reddit.com/r/selfhosted/comments/1stjtay/comment/ohvbj63/",
-      "date": "2026-04-23T23:35:45.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
