@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-24T11:14:09.901Z",
-  "updated_local": "4/24/2026, 11:14:09 AM",
+  "updated_iso": "2026-04-24T11:55:10.462Z",
+  "updated_local": "4/24/2026, 11:55:10 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Soldier Arrested for $400K Polymarket Insider Bet on Maduro Raid",
+        "url": "https://decrypt.co/365436/morning-minute-soldier-arrested-for-400k-polymarket-insider-bet-on-maduro-raid",
+        "source": "crypto",
+        "time": "Fri, 24 Apr 2026 11:42:15 +0000"
+      },
+      {
+        "title": "Aave Leads ‘DeFi United’ Push to Contain $292M KelpDAO Fallout",
+        "url": "https://decrypt.co/365431/aave-leads-defi-united-push-to-contain-292m-kelpdao-fallout",
+        "source": "crypto",
+        "time": "Fri, 24 Apr 2026 11:24:33 +0000"
+      },
       {
         "title": "Trump Says World Becoming a ‘Casino’ as Soldier Charged Over Polymarket Maduro Bets",
         "url": "https://decrypt.co/365428/trump-says-world-becoming-a-casino-as-soldier-charged-over-polymarket-maduro-bets",
@@ -20,21 +32,15 @@
         "url": "https://decrypt.co/365384/anthropic-1-trillion-valuation-secondary-markets-openai",
         "source": "crypto",
         "time": "Thu, 23 Apr 2026 21:38:28 +0000"
-      },
-      {
-        "title": "Google Maps Lets Filmmakers Scout Movie Scenes Using AI and Street View Data",
-        "url": "https://decrypt.co/365326/google-maps-filmmakers-scout-movie-scenes-ai-street-view-data",
-        "source": "crypto",
-        "time": "Thu, 23 Apr 2026 21:09:59 +0000"
-      },
-      {
-        "title": "Meta Will Lay Off 8,000 Employees as AI Focus Intensifies",
-        "url": "https://decrypt.co/365366/meta-lay-off-8000-employees-ai-focus-intensifies",
-        "source": "crypto",
-        "time": "Thu, 23 Apr 2026 20:29:44 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "UK Biobank leak: Health details of 500 000 people are offered for sale",
+        "url": "https://www.bmj.com/content/393/bmj.s781",
+        "source": "hn",
+        "time": "4/24/2026, 11:09:36 AM"
+      },
       {
         "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
         "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
@@ -42,42 +48,36 @@
         "time": "4/24/2026, 9:17:57 AM"
       },
       {
+        "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
+        "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
+        "source": "hn",
+        "time": "4/24/2026, 10:48:14 AM"
+      },
+      {
+        "title": "nowhere: an entire website encoded in a URL",
+        "url": "https://hostednowhere.com/",
+        "source": "hn",
+        "time": "4/24/2026, 10:44:09 AM"
+      },
+      {
         "title": "DeepSeek v4",
         "url": "https://api-docs.deepseek.com/",
         "source": "hn",
         "time": "4/24/2026, 3:01:21 AM"
-      },
-      {
-        "title": "Spinel: Ruby AOT Native Compiler",
-        "url": "https://github.com/matz/spinel",
-        "source": "hn",
-        "time": "4/24/2026, 8:28:47 AM"
-      },
-      {
-        "title": "Why I Write (1946)",
-        "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
-        "source": "hn",
-        "time": "4/24/2026, 2:26:23 AM"
-      },
-      {
-        "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
-        "url": "https://ynarwal.github.io/how-llms-work/",
-        "source": "hn",
-        "time": "4/24/2026, 6:48:53 AM"
       }
     ],
     "world": [
+      {
+        "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
+        "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 24 Apr 2026 11:54:43 GMT"
+      },
       {
         "title": "Epstein housed victims in London flats after Met chose not to investigate him, BBC reveals",
         "url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 24 Apr 2026 05:00:03 GMT"
-      },
-      {
-        "title": "Steve Rosenberg: Kremlin's tightening grip on internet fuels Russian discontent",
-        "url": "https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 24 Apr 2026 05:00:29 GMT"
       },
       {
         "title": "Ringo Starr: 'I made all my mistakes on stage'",
@@ -86,16 +86,16 @@
         "time": "Thu, 23 Apr 2026 23:05:11 GMT"
       },
       {
+        "title": "Steve Rosenberg: Kremlin's tightening grip on internet fuels Russian discontent",
+        "url": "https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 24 Apr 2026 05:00:29 GMT"
+      },
+      {
         "title": "How Lineker and Neville became rival media moguls",
         "url": "https://www.bbc.com/sport/football/articles/cm293m3mr7zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 24 Apr 2026 09:21:26 GMT"
-      },
-      {
-        "title": "Running marathons for our girls has made us closer, say dads of Southport victims",
-        "url": "https://www.bbc.com/news/articles/cj37d4gzz4xo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 24 Apr 2026 00:18:40 GMT"
       }
     ],
     "projects": [
