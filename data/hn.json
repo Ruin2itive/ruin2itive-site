@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-24T01:56:54.499Z"
+    "built_at": "2026-04-24T04:52:43.918Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Tremendous Iranian Invasion: A Text Misadventure",
+      "url": "https://news.ycombinator.com/item?id=47885689",
+      "date": "2026-04-24T04:51:38.000Z"
+    },
+    {
+      "title": "Essential Voice by Nothing",
+      "url": "https://nothing.community/d/56167-introducing-essential-voice",
+      "date": "2026-04-24T04:50:03.000Z"
+    }
+  ]
 }
