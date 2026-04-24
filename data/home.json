@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-24T06:16:55.100Z",
-  "updated_local": "4/24/2026, 6:16:55 AM",
+  "updated_iso": "2026-04-24T08:00:11.389Z",
+  "updated_local": "4/24/2026, 8:00:11 AM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,16 @@
         "time": "4/24/2026, 3:01:21 AM"
       },
       {
+        "title": "Composition Shouldn't be this Hard",
+        "url": "https://www.cambra.dev/blog/announcement/",
+        "source": "hn",
+        "time": "4/24/2026, 7:22:31 AM"
+      },
+      {
         "title": "Why I Write (1946)",
         "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
         "source": "hn",
         "time": "4/24/2026, 2:26:23 AM"
-      },
-      {
-        "title": "GPT-5.5",
-        "url": "https://openai.com/index/introducing-gpt-5-5/",
-        "source": "hn",
-        "time": "4/23/2026, 6:01:39 PM"
       },
       {
         "title": "An update on recent Claude Code quality reports",
@@ -60,10 +60,10 @@
         "time": "4/23/2026, 5:48:38 PM"
       },
       {
-        "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-        "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+        "title": "GPT-5.5",
+        "url": "https://openai.com/index/introducing-gpt-5-5/",
         "source": "hn",
-        "time": "4/23/2026, 2:17:08 PM"
+        "time": "4/23/2026, 6:01:39 PM"
       }
     ],
     "world": [
@@ -74,7 +74,7 @@
         "time": "Fri, 24 Apr 2026 05:00:03 GMT"
       },
       {
-        "title": "Steve Rosenberg: Kremlin's tightening grip on internet fuels public discontent",
+        "title": "Steve Rosenberg: Kremlin's tightening grip on internet fuels Russian discontent",
         "url": "https://www.bbc.com/news/articles/cr510de17jlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 24 Apr 2026 05:00:29 GMT"
@@ -83,19 +83,19 @@
         "title": "Stock markets are too high and set to fall, says Bank of England deputy",
         "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 23 Apr 2026 23:15:25 GMT"
-      },
-      {
-        "title": "Assisted dying bill to run out of time as Lords hold final debate",
-        "url": "https://www.bbc.com/news/articles/cgk0vz5e2zxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 24 Apr 2026 00:01:59 GMT"
+        "time": "Fri, 24 Apr 2026 07:34:26 GMT"
       },
       {
         "title": "Ringo Starr: 'I made all my mistakes on stage'",
         "url": "https://www.bbc.com/news/articles/cp8645d9lvyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 23 Apr 2026 23:05:11 GMT"
+      },
+      {
+        "title": "Staff at UK's largest Pride event allege bullying and misconduct under sacked CEO",
+        "url": "https://www.bbc.com/news/articles/cn9qwyelgjwo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 24 Apr 2026 05:58:29 GMT"
       }
     ],
     "projects": [
