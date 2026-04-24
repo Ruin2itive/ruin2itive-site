@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-23T23:57:13.663Z",
-  "updated_local": "4/23/2026, 11:57:13 PM",
+  "updated_iso": "2026-04-24T02:30:00.505Z",
+  "updated_local": "4/24/2026, 2:30:00 AM",
   "sections": {
     "crypto": [
       {
@@ -60,10 +60,10 @@
         "time": "4/23/2026, 4:55:13 PM"
       },
       {
-        "title": "An update on recent Claude Code quality reports",
-        "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+        "title": "TorchTPU: Running PyTorch Natively on TPUs at Google Scale",
+        "url": "https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/",
         "source": "hn",
-        "time": "4/23/2026, 5:48:38 PM"
+        "time": "4/23/2026, 8:53:27 PM"
       }
     ],
     "world": [
@@ -74,10 +74,16 @@
         "time": "Thu, 23 Apr 2026 17:36:11 GMT"
       },
       {
-        "title": "Police arrest two over alleged drug sales through shops in West Midlands after BBC investigation",
-        "url": "https://www.bbc.com/news/articles/c3w3v77l23xo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Assisted dying bill to run out of time as Lords hold final debate",
+        "url": "https://www.bbc.com/news/articles/cgk0vz5e2zxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 23 Apr 2026 18:15:21 GMT"
+        "time": "Fri, 24 Apr 2026 00:01:59 GMT"
+      },
+      {
+        "title": "Ringo Starr: 'I made all my mistakes on stage'",
+        "url": "https://www.bbc.com/news/articles/cp8645d9lvyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 23 Apr 2026 23:05:11 GMT"
       },
       {
         "title": "Stock markets are too high and set to fall, says Bank of England deputy",
@@ -86,16 +92,10 @@
         "time": "Thu, 23 Apr 2026 23:15:25 GMT"
       },
       {
-        "title": "Rapist who infected men and boys with HIV jailed",
-        "url": "https://www.bbc.com/news/articles/ckg98qjrllqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Southport dads: 'Running for our girls has made us like brothers'",
+        "url": "https://www.bbc.com/news/articles/cj37d4gzz4xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 23 Apr 2026 15:53:36 GMT"
-      },
-      {
-        "title": "PM's ex-chief of staff says he doesn't recognise claims about his behaviour",
-        "url": "https://www.bbc.com/news/articles/cy01r3jedgdo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 23 Apr 2026 21:13:58 GMT"
+        "time": "Fri, 24 Apr 2026 00:18:40 GMT"
       }
     ],
     "projects": [
