@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-24T10:59:28.066Z"
+    "built_at": "2026-04-24T12:00:04.566Z"
   },
-  "items": [
-    {
-      "title": "Hear your agent suffer through your code",
-      "url": "https://github.com/AndrewVos/endless-toil",
-      "date": "2026-04-24T10:58:45.000Z"
-    },
-    {
-      "title": "A Hundred Robots Are Running a Bio Lab",
-      "url": "https://www.corememory.com/p/a-hundred-robots-are-running-a-bio-medra-michelle-lee",
-      "date": "2026-04-24T10:54:40.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
