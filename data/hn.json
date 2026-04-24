@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-24T13:51:10.805Z"
+    "built_at": "2026-04-24T15:02:22.532Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Warner Bros. Discovery shareholders approve Paramount acquisition",
+      "url": "https://www.cnbc.com/2026/04/23/warner-bros-discovery-shareholder-vote-paramount-deal.html",
+      "date": "2026-04-24T15:00:51.000Z"
+    },
+    {
+      "title": "How to Make Everyone in Your Vicinity Fear and Despise You (2018)",
+      "url": "https://www.currentaffairs.org/news/2018/06/how-to-make-everyone-in-your-vicinity-secretly-fear-and-despise-you",
+      "date": "2026-04-24T15:00:09.000Z"
+    }
+  ]
 }
