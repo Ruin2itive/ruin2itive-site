@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-24T19:44:51.435Z"
+    "built_at": "2026-04-24T20:38:04.254Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "A New Type of Neuroplasticity Rewires the Brain After a Single Experience",
+      "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
+      "date": "2026-04-24T20:37:40.000Z"
+    },
+    {
+      "title": "Coding agents have no moat",
+      "url": "https://tombedor.dev/coding-agents-have-no-moat/",
+      "date": "2026-04-24T20:36:13.000Z"
+    }
+  ]
 }
