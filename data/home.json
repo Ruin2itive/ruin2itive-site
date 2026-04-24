@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-24T19:05:47.212Z",
-  "updated_local": "4/24/2026, 7:05:47 PM",
+  "updated_iso": "2026-04-24T19:50:36.212Z",
+  "updated_local": "4/24/2026, 7:50:36 PM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+        "url": "https://developers.openai.com/api/docs/changelog",
+        "source": "hn",
+        "time": "4/24/2026, 6:23:32 PM"
+      },
+      {
         "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
         "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
         "source": "hn",
         "time": "4/24/2026, 2:28:52 PM"
+      },
+      {
+        "title": "SFO Quiet Airport (2025)",
+        "url": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
+        "source": "hn",
+        "time": "4/24/2026, 6:29:53 PM"
       },
       {
         "title": "SDL Now Supports DOS",
@@ -52,18 +64,6 @@
         "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
         "source": "hn",
         "time": "4/24/2026, 3:59:19 PM"
-      },
-      {
-        "title": "SFO Quiet Airport (2025)",
-        "url": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
-        "source": "hn",
-        "time": "4/24/2026, 6:29:53 PM"
-      },
-      {
-        "title": "DeepSeek v4",
-        "url": "https://api-docs.deepseek.com/",
-        "source": "hn",
-        "time": "4/24/2026, 3:01:21 AM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Fri, 24 Apr 2026 13:26:07 GMT"
       },
       {
-        "title": "The assisted dying bill has failed but the debate isn't over",
-        "url": "https://www.bbc.com/news/articles/cm2k59l2l02o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'My living nightmare': Rob Reiner's son on how he found out parents were dead",
+        "url": "https://www.bbc.com/news/articles/c74v2enw8l7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 24 Apr 2026 15:45:51 GMT"
+        "time": "Fri, 24 Apr 2026 18:02:54 GMT"
       },
       {
-        "title": "Man given life sentence for rape and religiously aggravated assault of Sikh woman",
-        "url": "https://www.bbc.com/news/articles/cpqxrzr29pxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK cyber chiefs say it's time to ditch passwords for passkeys - what are they?",
+        "url": "https://www.bbc.com/news/articles/cq8wnzly5j5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 24 Apr 2026 15:15:04 GMT"
+        "time": "Fri, 24 Apr 2026 14:40:23 GMT"
       }
     ],
     "projects": [
