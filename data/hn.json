@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-24T18:42:26.671Z"
+    "built_at": "2026-04-24T19:44:51.435Z"
   },
-  "items": [
-    {
-      "title": "Wsl9x: Windows 9x Subsystem for Linux",
-      "url": "https://codeberg.org/hails/wsl9x",
-      "date": "2026-04-24T18:41:32.000Z"
-    },
-    {
-      "title": "Mercedes-Benz and Liquid AI Partner to Scale Embedded In-Car Intelligence",
-      "url": "https://www.businesswire.com/news/home/20260423009970/en/Mercedes-Benz-and-Liquid-AI-Partner-to-Scale-Embedded-In-Car-Intelligence-in-North-America",
-      "date": "2026-04-24T18:39:54.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
