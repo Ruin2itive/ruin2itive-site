@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-25T13:22:57.545Z",
-  "updated_local": "4/25/2026, 1:22:57 PM",
+  "updated_iso": "2026-04-25T14:39:42.640Z",
+  "updated_local": "4/25/2026, 2:39:42 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+        "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+        "source": "hn",
+        "time": "4/22/2026, 1:46:23 PM"
+      },
+      {
         "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
         "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
         "source": "hn",
         "time": "4/25/2026, 5:56:12 AM"
       },
       {
-        "title": "1-Bit Hokusai's \"The Great Wave\"",
-        "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+        "title": "Martin Galway's music source files from 1980's Commodore 64 games",
+        "url": "https://github.com/MartinGalway/C64_music",
         "source": "hn",
-        "time": "4/22/2026, 1:46:23 PM"
+        "time": "4/25/2026, 10:46:14 AM"
       },
       {
         "title": "Google plans to invest up to $40B in Anthropic",
@@ -54,16 +60,10 @@
         "time": "4/24/2026, 4:04:41 PM"
       },
       {
-        "title": "How to Implement an FPS Counter",
-        "url": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
+        "title": "Lambda Calculus Benchmark for AI",
+        "url": "https://victortaelin.github.io/lambench/",
         "source": "hn",
-        "time": "4/22/2026, 1:31:17 AM"
-      },
-      {
-        "title": "Martin Galway's music source files from 1980's Commodore 64 games",
-        "url": "https://github.com/MartinGalway/C64_music",
-        "source": "hn",
-        "time": "4/25/2026, 10:46:14 AM"
+        "time": "4/25/2026, 11:16:23 AM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Sat, 25 Apr 2026 13:21:37 GMT"
       },
       {
+        "title": "Princess Catherine pays tribute to war dead of Australia and New Zealand",
+        "url": "https://www.bbc.com/news/articles/c3dlgz3mm39o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 25 Apr 2026 13:52:39 GMT"
+      },
+      {
         "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
         "url": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 24 Apr 2026 23:28:09 GMT"
-      },
-      {
-        "title": "Tensions flare in heated I'm A Celebrity live final",
-        "url": "https://www.bbc.com/news/articles/cy8138z5zn7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 25 Apr 2026 09:33:37 GMT"
       }
     ],
     "projects": [
