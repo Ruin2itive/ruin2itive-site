@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-25T03:24:00.520Z",
-  "updated_local": "4/25/2026, 3:24:00 AM",
+  "updated_iso": "2026-04-25T05:09:45.669Z",
+  "updated_local": "4/25/2026, 5:09:45 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,18 @@
         "time": "4/24/2026, 4:04:41 PM"
       },
       {
+        "title": "Turbo Vision 2.0 – a modern port",
+        "url": "https://github.com/magiblot/tvision",
+        "source": "hn",
+        "time": "4/25/2026, 4:18:01 AM"
+      },
+      {
+        "title": "Oxford All Souls College General Examination [pdf]",
+        "url": "https://www.asc.ox.ac.uk/sites/default/files/2025-10/General%202025.pdf",
+        "source": "hn",
+        "time": "4/25/2026, 4:36:27 AM"
+      },
+      {
         "title": "Paraloid B-72",
         "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
         "source": "hn",
@@ -52,27 +64,9 @@
         "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
         "source": "hn",
         "time": "4/22/2026, 2:55:49 AM"
-      },
-      {
-        "title": "My audio interface has SSH enabled by default",
-        "url": "https://hhh.hn/rodecaster-duo-fw/",
-        "source": "hn",
-        "time": "4/24/2026, 7:30:46 PM"
-      },
-      {
-        "title": "Iliad fragment found in Roman-era mummy",
-        "url": "https://www.thehistoryblog.com/archives/75877",
-        "source": "hn",
-        "time": "4/22/2026, 2:18:35 PM"
       }
     ],
     "world": [
-      {
-        "title": "Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks",
-        "url": "https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 24 Apr 2026 22:02:50 GMT"
-      },
       {
         "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
         "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&amp;at_campaign=rss",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/ce35xkgjqd5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 24 Apr 2026 23:36:58 GMT"
+      },
+      {
+        "title": "Man charged with murder of Kamonnan Thiamphanit after extradition",
+        "url": "https://www.bbc.com/news/articles/ce9mkxy0drro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 25 Apr 2026 01:27:05 GMT"
       }
     ],
     "projects": [
