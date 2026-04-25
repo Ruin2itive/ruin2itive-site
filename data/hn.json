@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-25T18:38:53.951Z"
+    "built_at": "2026-04-25T19:39:01.788Z"
   },
-  "items": [
-    {
-      "title": "Today's harness is Tomorrow's Prompt",
-      "url": "https://tanay.co.in/blog/todays-harness-is-tomorrows-prompt",
-      "date": "2026-04-25T18:38:11.000Z"
-    },
-    {
-      "title": "Show HN: Mdspec – auto sync your md files from GitHub repos with wikis",
-      "url": "https://mdspec.dev",
-      "date": "2026-04-25T18:37:52.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
