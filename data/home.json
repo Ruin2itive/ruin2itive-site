@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-25T11:45:51.799Z",
-  "updated_local": "4/25/2026, 11:45:51 AM",
+  "updated_iso": "2026-04-25T13:00:16.239Z",
+  "updated_local": "4/25/2026, 1:00:16 PM",
   "sections": {
     "crypto": [
       {
@@ -54,19 +54,25 @@
         "time": "4/22/2026, 1:31:17 AM"
       },
       {
-        "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-        "url": "https://github.com/nex-crm/wuphf",
-        "source": "hn",
-        "time": "4/25/2026, 8:53:53 AM"
-      },
-      {
         "title": "A 3D Body from Eight Questions – No Photo, No GPU",
         "url": "https://clad.you/blog/posts/questionnaire-mlp/",
         "source": "hn",
         "time": "4/22/2026, 12:20:01 PM"
+      },
+      {
+        "title": "Lambda Calculus Benchmark for AI",
+        "url": "https://victortaelin.github.io/lambench/",
+        "source": "hn",
+        "time": "4/25/2026, 11:16:23 AM"
       }
     ],
     "world": [
+      {
+        "title": "Relish and dread as Starmer 'shambles' hangs over Scotland and Wales elections",
+        "url": "https://www.bbc.com/news/articles/cq59xvdzjv7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 25 Apr 2026 12:07:54 GMT"
+      },
       {
         "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
         "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +86,16 @@
         "time": "Sat, 25 Apr 2026 10:10:21 GMT"
       },
       {
-        "title": "Tensions flare in heated I'm A Celebrity live final",
-        "url": "https://www.bbc.com/news/articles/cy8138z5zn7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 25 Apr 2026 09:33:37 GMT"
-      },
-      {
         "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
         "url": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 24 Apr 2026 23:28:09 GMT"
       },
       {
-        "title": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
-        "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Tensions flare in heated I'm A Celebrity live final",
+        "url": "https://www.bbc.com/news/articles/cy8138z5zn7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 25 Apr 2026 11:21:03 GMT"
+        "time": "Sat, 25 Apr 2026 09:33:37 GMT"
       }
     ],
     "projects": [
