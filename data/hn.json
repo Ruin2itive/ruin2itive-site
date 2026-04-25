@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-25T14:44:52.372Z"
+    "built_at": "2026-04-25T15:33:42.307Z"
   },
-  "items": [
-    {
-      "title": "Show HN: SherifDB, a databe written in Golang under 500 LOC",
-      "url": "https://emmanuel326.github.io/blogs/sheriffdb.html",
-      "date": "2026-04-25T14:42:42.000Z"
-    },
-    {
-      "title": "Jumping into cold water can stop your heart",
-      "url": "https://jorgenmelau.substack.com/p/the-first-sixty-seconds",
-      "date": "2026-04-25T14:42:05.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
