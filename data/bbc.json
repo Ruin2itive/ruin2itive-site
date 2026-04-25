@@ -4,18 +4,18 @@
     "label": "bbc",
     "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
     "take": 2,
-    "built_at": "2026-04-25T22:28:38.661Z"
+    "built_at": "2026-04-25T23:30:17.404Z"
   },
   "items": [
-    {
-      "title": "Watch: Match of the Day",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-26T07:30:00.000Z"
-    },
     {
       "title": "O'Sullivan leads Higgins, Williams loses to Hawkins",
       "url": "https://www.bbc.com/sport/snooker/articles/c87w95jxjelo?at_medium=RSS&at_campaign=rss",
       "date": "2026-04-25T22:03:16.000Z"
+    },
+    {
+      "title": "'It's not done' - Arsenal back up Rice's words with crucial win",
+      "url": "https://www.bbc.com/sport/football/articles/c17v4j9pdz2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-25T21:43:38.000Z"
     }
   ]
 }
