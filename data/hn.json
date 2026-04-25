@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-25T11:33:00.025Z"
+    "built_at": "2026-04-25T12:44:05.348Z"
   },
-  "items": [
-    {
-      "title": "The Stress of Elite Chess Is Wearing Down the Game's Champions",
-      "url": "https://thewalrus.ca/the-stress-of-elite-chess-is-wearing-down-the-games-champions/",
-      "date": "2026-04-25T11:31:59.000Z"
-    },
-    {
-      "title": "\"There's No Such Thing as Plain Text\" – Dylan Beattie",
-      "url": "https://www.slideshare.net/slideshow/theres-no-such-thing-as-plain-text-dylan-beattie/249952971",
-      "date": "2026-04-25T11:30:47.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
