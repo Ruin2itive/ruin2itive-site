@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-25T16:33:15.154Z"
+    "built_at": "2026-04-25T17:32:02.140Z"
   },
-  "items": [
-    {
-      "title": "Shipping the OpenClaw Stack in Public",
-      "url": "https://agentbot.sh",
-      "date": "2026-04-25T16:30:19.000Z"
-    },
-    {
-      "title": "The Case for Fixing Everything",
-      "url": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
-      "date": "2026-04-25T16:30:10.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
