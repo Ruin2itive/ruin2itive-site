@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-25T19:39:01.788Z"
+    "built_at": "2026-04-25T20:30:36.971Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Agent-World: Scaling RW Environment Synthesis for General Agent Intelligence",
+      "url": "https://agent-tars-world.github.io/-/",
+      "date": "2026-04-25T20:30:11.000Z"
+    },
+    {
+      "title": "Context Is Finite. Who Maintains It?",
+      "url": "https://blog.gchinis.com/posts/2026/04/self-organizing-agents/",
+      "date": "2026-04-25T20:29:24.000Z"
+    }
+  ]
 }
