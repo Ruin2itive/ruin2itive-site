@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-25T06:16:34.009Z"
+    "built_at": "2026-04-25T08:01:03.271Z"
   },
-  "items": [
-    {
-      "title": "ChatGPT Recommends the Same 3 Companies to Every B2B Buyer. Until They Specify",
-      "url": "https://growtika.com/blog/chatgpt-b2b-persona-recommendations",
-      "date": "2026-04-25T06:15:08.000Z"
-    },
-    {
-      "title": "Ubuntu 26.04 LTS (Resolute Raccoon)",
-      "url": "https://releases.ubuntu.com/resolute/",
-      "date": "2026-04-25T06:14:11.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
