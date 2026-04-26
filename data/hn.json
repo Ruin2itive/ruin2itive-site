@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-26T16:34:12.591Z"
+    "built_at": "2026-04-26T17:32:48.517Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: realistic_blas: Exact infinite-precision LA, useful errs, f64 fast path",
+      "url": "https://github.com/timschmidt/realistic_blas",
+      "date": "2026-04-26T17:29:49.000Z"
+    },
+    {
+      "title": "SensibleJS – Reactive UI in ~10KB with Plain HTML Attributes",
+      "url": "https://github.com/ricardoaponte/sensiblejs",
+      "date": "2026-04-26T17:29:14.000Z"
+    }
+  ]
 }
