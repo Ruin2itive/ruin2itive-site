@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-26T14:00:49.814Z"
+    "built_at": "2026-04-26T15:35:58.295Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Legendary Qualcomm, Apple, and Nuvia alumni form new CPU startup – Nuvacore",
+      "url": "https://www.tomshardware.com/pc-components/cpus/legendary-qualcomm-apple-and-nuvia-alumni-form-new-cpu-startup-nuvacore-promises-to-rewrite-the-rules-of-silicon",
+      "date": "2026-04-26T15:35:08.000Z"
+    },
+    {
+      "title": "Show HN: Knock-Knock v2 – Visualizing bot attacks in multi-protocol Technicolor",
+      "url": "https://v2.knock-knock.net",
+      "date": "2026-04-26T15:34:07.000Z"
+    }
+  ]
 }
