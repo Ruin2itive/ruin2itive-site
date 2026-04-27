@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-27T17:20:12.039Z",
-  "updated_local": "4/27/2026, 5:20:12 PM",
+  "updated_iso": "2026-04-27T18:11:55.869Z",
+  "updated_local": "4/27/2026, 6:11:55 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Google Employees Demand CEO Block Military AI Contracts in Open Letter",
+        "url": "https://decrypt.co/365674/google-employees-demand-ceo-block-military-ai-contracts-in-open-letter",
+        "source": "crypto",
+        "time": "Mon, 27 Apr 2026 17:44:42 +0000"
+      },
+      {
+        "title": "Publicly Traded Strive Buys $60 Million in Bitcoin, Plans BTC Business Summit",
+        "url": "https://decrypt.co/365672/publicly-traded-strive-buys-60-million-bitcoin-business-summit",
+        "source": "crypto",
+        "time": "Mon, 27 Apr 2026 17:37:43 +0000"
+      },
       {
         "title": "Trump Walks Back Prediction Market Criticism, Says &#39;Smart People&#39; He Knows Like Them",
         "url": "https://decrypt.co/365657/trump-prediction-markets-smart-people-like-them",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/365648/litecoin-rewrites-transaction-history-exploit-apologizes-social-posts",
         "source": "crypto",
         "time": "Mon, 27 Apr 2026 16:40:50 +0000"
-      },
-      {
-        "title": "OpenAI&#39;s Sam Altman Apologizes for Not Alerting Police Before Tumbler Ridge Mass Shooting",
-        "url": "https://decrypt.co/365645/openai-sam-altman-apologizes-not-alerting-police-tumbler-ridge-mass-shooting",
-        "source": "crypto",
-        "time": "Mon, 27 Apr 2026 16:05:57 +0000"
-      },
-      {
-        "title": "China Blocks Meta&#39;s $2 Billion Acquisition of AI Startup Manus",
-        "url": "https://decrypt.co/365644/china-blocks-meta-2-billion-acquisition-ai-startup-manus",
-        "source": "crypto",
-        "time": "Mon, 27 Apr 2026 15:38:46 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "4/27/2026, 1:22:42 PM"
       },
       {
-        "title": "\"Why not just use Lean?\"",
+        "title": "“Why not just use Lean?”",
         "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
         "source": "hn",
         "time": "4/27/2026, 2:24:53 PM"
       },
       {
-        "title": "The Woes of Sanitizing SVGs",
+        "title": "Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards",
+        "url": "https://github.com/Hanqaqa/Easyduino",
+        "source": "hn",
+        "time": "4/27/2026, 5:45:02 PM"
+      },
+      {
+        "title": "Networking changes coming in macOS 27",
+        "url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
+        "source": "hn",
+        "time": "4/27/2026, 3:36:12 PM"
+      },
+      {
+        "title": "The woes of sanitizing SVGs",
         "url": "https://muffin.ink/blog/scratch-svg-sanitization/",
         "source": "hn",
         "time": "4/27/2026, 3:31:36 PM"
-      },
-      {
-        "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-        "url": "https://app.oravys.com/blog/mercor-breach-2026",
-        "source": "hn",
-        "time": "4/27/2026, 9:57:10 AM"
-      },
-      {
-        "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-        "url": "https://github.com/dirac-run/dirac",
-        "source": "hn",
-        "time": "4/27/2026, 12:35:55 PM"
       }
     ],
     "world": [
@@ -71,13 +71,7 @@
         "title": "Starmer faces vote on inquiry over Mandelson vetting claims",
         "url": "https://www.bbc.com/news/articles/c3r3r2vzjp1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 27 Apr 2026 16:27:09 GMT"
-      },
-      {
-        "title": "Trump says King will be 'very safe' during US visit after security talks",
-        "url": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 27 Apr 2026 09:19:11 GMT"
+        "time": "Mon, 27 Apr 2026 17:47:42 GMT"
       },
       {
         "title": "Claire's closes all 154 stores in UK and Ireland with loss of 1,300 jobs",
@@ -95,7 +89,13 @@
         "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
         "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 27 Apr 2026 16:24:30 GMT"
+        "time": "Mon, 27 Apr 2026 17:32:15 GMT"
+      },
+      {
+        "title": "How Kenya's Sabastian Sawe broke the two-hour barrier at London Marathon",
+        "url": "https://www.bbc.com/sport/athletics/articles/cp383n09030o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 27 Apr 2026 11:49:24 GMT"
       }
     ],
     "projects": [
