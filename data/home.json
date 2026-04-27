@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-27T15:45:51.148Z",
-  "updated_local": "4/27/2026, 3:45:51 PM",
+  "updated_iso": "2026-04-27T16:48:11.924Z",
+  "updated_local": "4/27/2026, 4:48:11 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Litecoin Rewrites Transaction History After Exploit, Apologizes for Social Posts",
+        "url": "https://decrypt.co/365648/litecoin-rewrites-transaction-history-exploit-apologizes-social-posts",
+        "source": "crypto",
+        "time": "Mon, 27 Apr 2026 16:40:50 +0000"
+      },
+      {
+        "title": "OpenAI&#39;s Sam Altman Apologizes for Not Alerting Police Before Tumbler Ridge Mass Shooting",
+        "url": "https://decrypt.co/365645/openai-sam-altman-apologizes-not-alerting-police-tumbler-ridge-mass-shooting",
+        "source": "crypto",
+        "time": "Mon, 27 Apr 2026 16:05:57 +0000"
+      },
       {
         "title": "China Blocks Meta&#39;s $2 Billion Acquisition of AI Startup Manus",
         "url": "https://decrypt.co/365644/china-blocks-meta-2-billion-acquisition-ai-startup-manus",
@@ -20,23 +32,11 @@
         "url": "https://decrypt.co/365619/tom-lees-bitmine-biggest-ethereum-buy-december-eth-milestone",
         "source": "crypto",
         "time": "Mon, 27 Apr 2026 14:21:54 +0000"
-      },
-      {
-        "title": "Bitcoin Giant Strategy&#39;s Buying Pace Falls 91% Amid STRC Cooldown",
-        "url": "https://decrypt.co/365620/bitcoin-giant-strategy-buying-pace-falls-strc-cooldown",
-        "source": "crypto",
-        "time": "Mon, 27 Apr 2026 13:57:33 +0000"
-      },
-      {
-        "title": "Money Launderer Sentenced to 70 Months Over $263M Crypto Social-Engineering Scheme",
-        "url": "https://decrypt.co/365606/money-launderer-sentenced-to-70-months-over-263m-crypto-social-engineering-scheme",
-        "source": "crypto",
-        "time": "Mon, 27 Apr 2026 13:08:03 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Microsoft to stop sharing revenue with main AI partner OpenAI",
+        "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
         "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
         "source": "hn",
         "time": "4/27/2026, 1:22:42 PM"
@@ -48,10 +48,10 @@
         "time": "4/27/2026, 2:24:53 PM"
       },
       {
-        "title": "Pgbackrest is no longer being maintained",
-        "url": "https://github.com/pgbackrest/pgbackrest",
+        "title": "The Woes of Sanitizing SVGs",
+        "url": "https://muffin.ink/blog/scratch-svg-sanitization/",
         "source": "hn",
-        "time": "4/27/2026, 10:56:34 AM"
+        "time": "4/27/2026, 3:31:36 PM"
       },
       {
         "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
@@ -71,7 +71,7 @@
         "title": "Starmer faces vote on inquiry over Mandelson vetting claims",
         "url": "https://www.bbc.com/news/articles/c3r3r2vzjp1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 27 Apr 2026 15:05:23 GMT"
+        "time": "Mon, 27 Apr 2026 16:27:09 GMT"
       },
       {
         "title": "Trump says King will be 'very safe' during US visit after security talks",
@@ -80,22 +80,22 @@
         "time": "Mon, 27 Apr 2026 09:19:11 GMT"
       },
       {
-        "title": "Healthy life expectancy in UK falls by two years in past decade",
-        "url": "https://www.bbc.com/news/articles/c20q07w3gl9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 27 Apr 2026 07:34:48 GMT"
-      },
-      {
-        "title": "Claire's closes 154 stores with loss of 1,300 jobs",
+        "title": "Claire's closes all 154 stores in UK and Ireland with loss of 1,300 jobs",
         "url": "https://www.bbc.com/news/articles/cg4047qnpk2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 27 Apr 2026 15:36:44 GMT"
+        "time": "Mon, 27 Apr 2026 16:36:50 GMT"
       },
       {
-        "title": "How Kenya's Sabastian Sawe broke the two-hour barrier at London Marathon",
-        "url": "https://www.bbc.com/sport/athletics/articles/cp383n09030o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "When Attenborough met the gorillas - the story behind his iconic TV moment",
+        "url": "https://www.bbc.com/news/articles/ce9n794g42zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 27 Apr 2026 11:49:24 GMT"
+        "time": "Mon, 27 Apr 2026 16:05:56 GMT"
+      },
+      {
+        "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
+        "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 27 Apr 2026 16:24:30 GMT"
       }
     ],
     "projects": [
