@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-27T16:45:18.904Z"
+    "built_at": "2026-04-27T18:01:06.281Z"
   },
-  "items": [
-    {
-      "title": "Claude Desktop Buddy",
-      "url": "https://github.com/anthropics/claude-desktop-buddy",
-      "date": "2026-04-27T16:43:31.000Z"
-    },
-    {
-      "title": "Intentional Inefficiency in Software Design",
-      "url": "https://support.cch.com/oss/ml/kb/solution/Why-is-the-CPU-usage-on-my-CCH-ProSystem-fx-Scan-Administrator-at-100",
-      "date": "2026-04-27T16:42:45.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
