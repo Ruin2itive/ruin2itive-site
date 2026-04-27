@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-27T23:51:41.663Z",
-  "updated_local": "4/27/2026, 11:51:41 PM",
+  "updated_iso": "2026-04-27T23:59:14.970Z",
+  "updated_local": "4/27/2026, 11:59:14 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-        "source": "hn",
-        "time": "4/27/2026, 1:22:42 PM"
-      },
-      {
         "title": "New Integrated by Design FreeBSD Book",
         "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
         "source": "hn",
         "time": "4/27/2026, 11:14:26 PM"
+      },
+      {
+        "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+        "source": "hn",
+        "time": "4/27/2026, 1:22:42 PM"
       },
       {
         "title": "Is my blue your blue?",
@@ -60,10 +60,10 @@
         "time": "4/27/2026, 8:44:16 PM"
       },
       {
-        "title": "Easyduino: Open Source PCB Devboards for KiCad",
-        "url": "https://github.com/Hanqaqa/Easyduino",
+        "title": "Talkie: a 13B vintage language model from 1930",
+        "url": "https://talkie-lm.com/introducing-talkie",
         "source": "hn",
-        "time": "4/27/2026, 5:45:02 PM"
+        "time": "4/27/2026, 9:55:48 PM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Mon, 27 Apr 2026 21:06:18 GMT"
       },
       {
+        "title": "My tenant owes £15,000 in rent, but I can't get them out of the property",
+        "url": "https://www.bbc.com/news/articles/c30r5z3vdydo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 27 Apr 2026 23:56:45 GMT"
+      },
+      {
         "title": "Claire's closes all 154 stores in UK and Ireland with loss of 1,300 jobs",
         "url": "https://www.bbc.com/news/articles/cg4047qnpk2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/ce9n794g42zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 27 Apr 2026 16:05:56 GMT"
-      },
-      {
-        "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
-        "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 27 Apr 2026 21:14:23 GMT"
       }
     ],
     "projects": [
