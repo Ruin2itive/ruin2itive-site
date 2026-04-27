@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-27T22:01:27.685Z",
-  "updated_local": "4/27/2026, 10:01:27 PM",
+  "updated_iso": "2026-04-27T23:51:41.663Z",
+  "updated_local": "4/27/2026, 11:51:41 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Elon Musk’s Fight With Colorado Over AI Law Hits Pause as State Considers Revisions",
+        "url": "https://decrypt.co/365751/elon-musk-colorado-ai-law-pause-state-considers-revisions",
+        "source": "crypto",
+        "time": "Mon, 27 Apr 2026 22:22:51 +0000"
+      },
       {
         "title": "Aave-Led &#39;DeFi United&#39; Relief Effort Raises $300 Million to Cover Kelp DAO Exploit Losses",
         "url": "https://decrypt.co/365724/aave-led-defi-united-relief-effort-raises-300m-kelp-dao-losses",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/365720/taylor-swift-trademarks-voice-mage-fight-ai-fakes",
         "source": "crypto",
         "time": "Mon, 27 Apr 2026 20:07:06 +0000"
-      },
-      {
-        "title": "Fed Confirms What Tech Developers Have Feared for Two Years",
-        "url": "https://decrypt.co/365693/fed-confirms-tech-developers-fears-ai-jobs",
-        "source": "crypto",
-        "time": "Mon, 27 Apr 2026 19:53:51 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "NPM Website Is Down",
-        "url": "https://status.npmjs.org",
-        "source": "hn",
-        "time": "4/27/2026, 9:26:25 PM"
-      },
       {
         "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
         "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
@@ -48,7 +42,19 @@
         "time": "4/27/2026, 1:22:42 PM"
       },
       {
-        "title": "Three men are facing 44 charges in Toronto SMS Blaster arrests",
+        "title": "New Integrated by Design FreeBSD Book",
+        "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
+        "source": "hn",
+        "time": "4/27/2026, 11:14:26 PM"
+      },
+      {
+        "title": "Is my blue your blue?",
+        "url": "https://ismy.blue/",
+        "source": "hn",
+        "time": "4/27/2026, 8:24:33 PM"
+      },
+      {
+        "title": "Three men are facing charges in Toronto SMS Blaster arrests",
         "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
         "source": "hn",
         "time": "4/27/2026, 8:44:16 PM"
@@ -58,15 +64,15 @@
         "url": "https://github.com/Hanqaqa/Easyduino",
         "source": "hn",
         "time": "4/27/2026, 5:45:02 PM"
-      },
-      {
-        "title": "Is my blue your blue?",
-        "url": "https://ismy.blue/",
-        "source": "hn",
-        "time": "4/27/2026, 8:24:33 PM"
       }
     ],
     "world": [
+      {
+        "title": "Suspect charged with attempted assassination of Trump at Washington dinner",
+        "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 27 Apr 2026 22:17:51 GMT"
+      },
       {
         "title": "Starmer faces vote on inquiry over Mandelson vetting claims",
         "url": "https://www.bbc.com/news/articles/c3r3r2vzjp1o?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 27 Apr 2026 21:14:23 GMT"
-      },
-      {
-        "title": "How Kenya's Sabastian Sawe broke the two-hour barrier at London Marathon",
-        "url": "https://www.bbc.com/sport/athletics/articles/cp383n09030o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 27 Apr 2026 11:49:24 GMT"
       }
     ],
     "projects": [
