@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-27T11:01:37.109Z",
-  "updated_local": "4/27/2026, 11:01:37 AM",
+  "updated_iso": "2026-04-27T11:51:57.553Z",
+  "updated_local": "4/27/2026, 11:51:57 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "France Charges 88, Including Minors, in Crypto ‘Wrench Attack’ Crackdown",
+        "url": "https://decrypt.co/365596/france-charges-88-including-minors-in-crypto-wrench-attack-crackdown",
+        "source": "crypto",
+        "time": "Mon, 27 Apr 2026 11:26:44 +0000"
+      },
       {
         "title": "Western Union to Launch Solana-Based Stablecoin Plus ‘Stable Card’ Next Month",
         "url": "https://decrypt.co/365593/western-union-to-launch-solana-based-stablecoin-plus-stable-card-next-month",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/365489/elon-musk-grok-most-likely-ai-reinforce-delusions-study",
         "source": "crypto",
         "time": "Sat, 25 Apr 2026 19:01:03 +0000"
-      },
-      {
-        "title": "Bitcoin Hit Its Highest Price Since January—Why VanEck Analysts See More Potential Gains",
-        "url": "https://decrypt.co/365556/bitcoin-highest-price-january-why-vaneck-analysts-more-gains",
-        "source": "crypto",
-        "time": "Sat, 25 Apr 2026 16:31:33 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Pgbackrest is no longer being maintained",
+        "url": "https://github.com/pgbackrest/pgbackrest",
+        "source": "hn",
+        "time": "4/27/2026, 10:56:34 AM"
+      },
+      {
+        "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
+        "url": "https://github.com/WeebLabs/DSPi",
+        "source": "hn",
+        "time": "4/25/2026, 1:28:29 PM"
+      },
       {
         "title": "Flipdiscs",
         "url": "https://flipdisc.io",
@@ -48,22 +60,10 @@
         "time": "4/26/2026, 8:41:06 PM"
       },
       {
-        "title": "Bob Odenkirk would like to remind you that life is a meaningless farce",
-        "url": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
+        "title": "TurboQuant: A first-principles walkthrough",
+        "url": "https://arkaung.github.io/interactive-turboquant/",
         "source": "hn",
-        "time": "4/26/2026, 12:42:11 PM"
-      },
-      {
-        "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
-        "url": "https://github.com/WeebLabs/DSPi",
-        "source": "hn",
-        "time": "4/25/2026, 1:28:29 PM"
-      },
-      {
-        "title": "AI should elevate your thinking, not replace it",
-        "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-        "source": "hn",
-        "time": "4/26/2026, 8:03:12 PM"
+        "time": "4/27/2026, 1:54:32 AM"
       }
     ],
     "world": [
@@ -74,16 +74,16 @@
         "time": "Mon, 27 Apr 2026 09:19:11 GMT"
       },
       {
-        "title": "UK's biggest ever environmental pollution claim reaches High Court",
-        "url": "https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 26 Apr 2026 23:01:47 GMT"
-      },
-      {
-        "title": "UK healthy life expectancy falls by two years in past decade",
+        "title": "Healthy life expectancy in UK falls by two years in past decade",
         "url": "https://www.bbc.com/news/articles/c20q07w3gl9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 27 Apr 2026 07:34:48 GMT"
+      },
+      {
+        "title": "Labour figures criticise calls for inquiry into PM's Mandelson claims",
+        "url": "https://www.bbc.com/news/articles/c3r3r2vzjp1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 27 Apr 2026 11:26:28 GMT"
       },
       {
         "title": "Arson arrest after fire at packed-out LGBT+ club",
