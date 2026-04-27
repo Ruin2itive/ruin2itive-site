@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-27T10:54:48.060Z"
+    "built_at": "2026-04-27T12:17:22.489Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "How the Current X Chat Protocol Works",
+      "url": "https://david.nepozitek.cz/blog/can-elon-musk-read-your-x-chat-messages/",
+      "date": "2026-04-27T12:16:33.000Z"
+    },
+    {
+      "title": "Output Isn't Design",
+      "url": "https://linear.app/now/output-isn-t-design",
+      "date": "2026-04-27T12:15:26.000Z"
+    }
+  ]
 }
