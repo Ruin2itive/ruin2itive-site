@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-27T02:02:45.518Z"
+    "built_at": "2026-04-27T05:46:15.624Z"
   },
-  "items": [
-    {
-      "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
-      "url": "https://github.com/evanklem/evanflow",
-      "date": "2026-04-27T01:56:39.000Z"
-    },
-    {
-      "title": "TurboQuant: A First-Principles Walkthrough",
-      "url": "https://arkaung.github.io/interactive-turboquant/",
-      "date": "2026-04-27T01:54:32.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
