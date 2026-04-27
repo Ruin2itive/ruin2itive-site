@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-27T18:01:06.281Z"
+    "built_at": "2026-04-27T20:04:21.238Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Oracle Corporation Emerges as AI Shot-Caller",
+      "url": "http://tommyatomsjr.blogspot.com/2026/04/oracle-corporation-transforms-into-ai.html",
+      "date": "2026-04-27T20:01:32.000Z"
+    },
+    {
+      "title": "Show HN: Open-source Semrush alternative just passed 1.6k stars",
+      "url": "https://openseo.so/",
+      "date": "2026-04-27T20:00:53.000Z"
+    }
+  ]
 }
