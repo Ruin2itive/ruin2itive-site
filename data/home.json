@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-28T20:14:07.792Z",
-  "updated_local": "4/28/2026, 8:14:07 PM",
+  "updated_iso": "2026-04-28T20:23:25.025Z",
+  "updated_local": "4/28/2026, 8:23:25 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Google DeepMind Veteran Raises $1.1 Billion to Build AI That Isn’t Trained With Human Data",
+        "url": "https://decrypt.co/365853/google-deepmind-veteran-raises-1-1-billion-ai-isnt-trained-human-data",
+        "source": "crypto",
+        "time": "Tue, 28 Apr 2026 20:13:48 +0000"
+      },
       {
         "title": "Soldier Charged in Polymarket Insider Trading Case Pleads Not Guilty",
         "url": "https://decrypt.co/365858/soldier-charged-polymarket-insider-trading-case-pleads-not-guilty",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/365847/aave-compound-unveil-technical-plan-to-address-fallout-from-290m-kelp-dao-hack",
         "source": "crypto",
         "time": "Tue, 28 Apr 2026 17:36:01 +0000"
-      },
-      {
-        "title": "Stablecoin Giant Tether Reveals Plans for Modular Bitcoin Mining Hardware",
-        "url": "https://decrypt.co/365840/stablecoin-giant-tether-modular-bitcoin-mining-hardware",
-        "source": "crypto",
-        "time": "Tue, 28 Apr 2026 16:50:38 +0000"
       }
     ],
     "hacker": [
@@ -48,22 +48,22 @@
         "time": "4/28/2026, 7:24:43 PM"
       },
       {
-        "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-        "url": "https://github.com/localsend/localsend",
-        "source": "hn",
-        "time": "4/28/2026, 11:54:20 AM"
-      },
-      {
         "title": "A playable DOOM MCP app",
         "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
         "source": "hn",
         "time": "4/28/2026, 7:08:47 PM"
       },
       {
-        "title": "C, Just In Time!",
-        "url": "https://dyne.org/cjit/",
+        "title": "Waymo in Portland",
+        "url": "https://waymo.com/blog/shorts/waymo-in-portland/",
         "source": "hn",
-        "time": "4/28/2026, 7:10:14 PM"
+        "time": "4/28/2026, 6:08:13 PM"
+      },
+      {
+        "title": "Warp is now Open-Source",
+        "url": "https://github.com/warpdotdev/warp",
+        "source": "hn",
+        "time": "4/28/2026, 5:09:41 PM"
       }
     ],
     "world": [
