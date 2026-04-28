@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-28T08:10:13.577Z"
+    "built_at": "2026-04-28T10:56:57.147Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "ChatGPT Outperforms Top Students in Japan's Elite University Entrance Exams",
+      "url": "https://www.tokyoweekender.com/japan-life/chatgpt-outperforms-top-students-in-japan/",
+      "date": "2026-04-28T10:54:42.000Z"
+    },
+    {
+      "title": "Norwegian Government (Nav) just crossed 3000 public repos on GitHub",
+      "url": "https://norwegian-public-organizations.vercel.app/",
+      "date": "2026-04-28T10:54:29.000Z"
+    }
+  ]
 }
