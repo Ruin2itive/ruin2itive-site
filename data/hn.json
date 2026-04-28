@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-27T23:44:12.118Z"
+    "built_at": "2026-04-28T02:09:15.551Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The remarkable Renaissance of high-frequency traders",
+      "url": "https://www.ft.com/content/83b2a4b3-bdc6-4eb0-a87c-293c383b5994",
+      "date": "2026-04-28T02:07:42.000Z"
+    },
+    {
+      "title": "Colorful Nuclide Chart",
+      "url": "https://people.physics.anu.edu.au/~ecs103/chart/",
+      "date": "2026-04-28T02:04:20.000Z"
+    }
+  ]
 }
