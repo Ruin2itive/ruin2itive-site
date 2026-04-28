@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-27T23:59:14.970Z",
-  "updated_local": "4/27/2026, 11:59:14 PM",
+  "updated_iso": "2026-04-28T02:44:25.240Z",
+  "updated_local": "4/28/2026, 2:44:25 AM",
   "sections": {
     "crypto": [
       {
@@ -36,42 +36,54 @@
     ],
     "hacker": [
       {
-        "title": "New Integrated by Design FreeBSD Book",
-        "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
-        "source": "hn",
-        "time": "4/27/2026, 11:14:26 PM"
-      },
-      {
         "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
         "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
         "source": "hn",
         "time": "4/27/2026, 1:22:42 PM"
       },
       {
-        "title": "Is my blue your blue?",
-        "url": "https://ismy.blue/",
+        "title": "Integrated by Design",
+        "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
         "source": "hn",
-        "time": "4/27/2026, 8:24:33 PM"
-      },
-      {
-        "title": "Three men are facing charges in Toronto SMS Blaster arrests",
-        "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
-        "source": "hn",
-        "time": "4/27/2026, 8:44:16 PM"
+        "time": "4/27/2026, 11:14:26 PM"
       },
       {
         "title": "Talkie: a 13B vintage language model from 1930",
         "url": "https://talkie-lm.com/introducing-talkie",
         "source": "hn",
         "time": "4/27/2026, 9:55:48 PM"
+      },
+      {
+        "title": "Meetings are forcing functions",
+        "url": "https://www.mooreds.com/wordpress/archives/3734",
+        "source": "hn",
+        "time": "4/26/2026, 3:12:04 AM"
+      },
+      {
+        "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+        "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+        "source": "hn",
+        "time": "4/27/2026, 8:44:16 PM"
       }
     ],
     "world": [
       {
+        "title": "King to defend 'democratic values' as US state visit begins",
+        "url": "https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 28 Apr 2026 01:44:46 GMT"
+      },
+      {
         "title": "Suspect charged with attempted assassination of Trump at Washington dinner",
         "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 27 Apr 2026 22:17:51 GMT"
+        "time": "Tue, 28 Apr 2026 00:41:48 GMT"
+      },
+      {
+        "title": "Political violence jolts the US once again - with a familiar response",
+        "url": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 28 Apr 2026 00:19:49 GMT"
       },
       {
         "title": "Starmer faces vote on inquiry over Mandelson vetting claims",
@@ -84,18 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c30r5z3vdydo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 27 Apr 2026 23:56:45 GMT"
-      },
-      {
-        "title": "Claire's closes all 154 stores in UK and Ireland with loss of 1,300 jobs",
-        "url": "https://www.bbc.com/news/articles/cg4047qnpk2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 27 Apr 2026 16:36:50 GMT"
-      },
-      {
-        "title": "When Attenborough met the gorillas - the story behind his iconic TV moment",
-        "url": "https://www.bbc.com/news/articles/ce9n794g42zo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 27 Apr 2026 16:05:56 GMT"
       }
     ],
     "projects": [
