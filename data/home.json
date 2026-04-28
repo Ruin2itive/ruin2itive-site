@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-28T09:30:20.362Z",
-  "updated_local": "4/28/2026, 9:30:20 AM",
+  "updated_iso": "2026-04-28T11:03:25.981Z",
+  "updated_local": "4/28/2026, 11:03:25 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Jack Dorsey&#39;s Block Discloses $2.2B Bitcoin Holdings in Q1 Proof-of-Reserves Report",
+        "url": "https://decrypt.co/365771/jack-dorseys-block-discloses-2-2b-bitcoin-holdings-in-q1-proof-of-reserves-report",
+        "source": "crypto",
+        "time": "Tue, 28 Apr 2026 10:50:18 +0000"
+      },
       {
         "title": "Elon Musk’s Fight With Colorado Over AI Law Hits Pause as State Considers Revisions",
         "url": "https://decrypt.co/365751/elon-musk-colorado-ai-law-pause-state-considers-revisions",
@@ -26,20 +32,26 @@
         "url": "https://decrypt.co/365712/bitcoin-developer-reassign-coins-linked-satoshi-nakamoto-hard-fork",
         "source": "crypto",
         "time": "Mon, 27 Apr 2026 20:15:29 +0000"
-      },
-      {
-        "title": "Taylor Swift Seeks Trademarks for Her Voice and Image to Fight AI Fakes",
-        "url": "https://decrypt.co/365720/taylor-swift-trademarks-voice-mage-fight-ai-fakes",
-        "source": "crypto",
-        "time": "Mon, 27 Apr 2026 20:07:06 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "An Update on GitHub Availability",
+        "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+        "source": "hn",
+        "time": "4/28/2026, 10:05:03 AM"
+      },
       {
         "title": "GTFOBins",
         "url": "https://gtfobins.org/",
         "source": "hn",
         "time": "4/28/2026, 6:27:39 AM"
+      },
+      {
+        "title": "The Social Edge of Intellgience: Individual Gain, Collective Loss",
+        "url": "https://www.theideasletter.org/essay/the-social-edge-of-intelligence/",
+        "source": "hn",
+        "time": "4/28/2026, 10:08:38 AM"
       },
       {
         "title": "Talkie: a 13B vintage language model from 1930",
@@ -48,25 +60,19 @@
         "time": "4/27/2026, 9:55:48 PM"
       },
       {
-        "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+        "title": "The World's Most Complex Machine",
+        "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
         "source": "hn",
-        "time": "4/27/2026, 1:22:42 PM"
-      },
-      {
-        "title": "Can You Find the Comet?",
-        "url": "https://apod.nasa.gov/apod/ap260427.html",
-        "source": "hn",
-        "time": "4/27/2026, 7:59:37 AM"
-      },
-      {
-        "title": "Is my blue your blue?",
-        "url": "https://ismy.blue/",
-        "source": "hn",
-        "time": "4/27/2026, 8:24:33 PM"
+        "time": "4/25/2026, 12:47:32 PM"
       }
     ],
     "world": [
+      {
+        "title": "No way to raise Mandelson concerns, former senior official says",
+        "url": "https://www.bbc.com/news/articles/c4g8x7vez4no?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 28 Apr 2026 10:12:00 GMT"
+      },
       {
         "title": "UK and US always find ways to come together, King to tell Congress",
         "url": "https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&amp;at_campaign=rss",
@@ -74,22 +80,16 @@
         "time": "Tue, 28 Apr 2026 08:25:45 GMT"
       },
       {
-        "title": "BP profits more than double as Iran war sends oil prices higher",
-        "url": "https://www.bbc.com/news/articles/c2eveyvgn9no?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 28 Apr 2026 09:28:56 GMT"
-      },
-      {
-        "title": "US cycle of political violence goes into overdrive after third Trump assassination attempt",
-        "url": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 28 Apr 2026 00:19:49 GMT"
-      },
-      {
         "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
         "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 28 Apr 2026 06:09:43 GMT"
+      },
+      {
+        "title": "Man admits plotting attack on Taylor Swift concert in Vienna",
+        "url": "https://www.bbc.com/news/articles/c05d5qgprjzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 28 Apr 2026 10:08:01 GMT"
       },
       {
         "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
