@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-28T18:46:27.160Z",
-  "updated_local": "4/28/2026, 6:46:27 PM",
+  "updated_iso": "2026-04-28T20:14:07.792Z",
+  "updated_local": "4/28/2026, 8:14:07 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Soldier Charged in Polymarket Insider Trading Case Pleads Not Guilty",
+        "url": "https://decrypt.co/365858/soldier-charged-polymarket-insider-trading-case-pleads-not-guilty",
+        "source": "crypto",
+        "time": "Tue, 28 Apr 2026 19:21:17 +0000"
+      },
+      {
+        "title": "Google Signs AI Deal With Pentagon for Classified Work as Employees Object",
+        "url": "https://decrypt.co/365857/google-ai-deal-pentagon-classified-work",
+        "source": "crypto",
+        "time": "Tue, 28 Apr 2026 19:13:30 +0000"
+      },
       {
         "title": "IREN Price Target Cut as Bernstein Sees Firm Dumping Bitcoin Mining for AI",
         "url": "https://decrypt.co/365852/iren-price-target-cut-as-bernstein-sees-firm-dumping-bitcoin-mining-for-ai",
@@ -20,21 +32,21 @@
         "url": "https://decrypt.co/365840/stablecoin-giant-tether-modular-bitcoin-mining-hardware",
         "source": "crypto",
         "time": "Tue, 28 Apr 2026 16:50:38 +0000"
-      },
-      {
-        "title": "Inside Trump’s Meme Coin Bash: Foreign Guests, Iran War Riffs, and Mar-a-Lago Charm",
-        "url": "https://decrypt.co/365830/inside-trump-meme-coin-bash-foreign-guests-iran-war-mar-a-lago",
-        "source": "crypto",
-        "time": "Tue, 28 Apr 2026 15:46:15 +0000"
-      },
-      {
-        "title": "Hyperliquid Gains Counter $216 Million Q1 Loss at Novogratz&#39;s Galaxy Digital",
-        "url": "https://decrypt.co/365814/hyperliquid-gains-counter-216m-q1-loss-galaxy-digital",
-        "source": "crypto",
-        "time": "Tue, 28 Apr 2026 15:27:39 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Ghostty is leaving GitHub",
+        "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+        "source": "hn",
+        "time": "4/28/2026, 7:44:52 PM"
+      },
+      {
+        "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+        "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+        "source": "hn",
+        "time": "4/28/2026, 7:24:43 PM"
+      },
       {
         "title": "Localsend: An open-source cross-platform alternative to AirDrop",
         "url": "https://github.com/localsend/localsend",
@@ -42,31 +54,25 @@
         "time": "4/28/2026, 11:54:20 AM"
       },
       {
-        "title": "Waymo in Portland",
-        "url": "https://waymo.com/blog/shorts/waymo-in-portland/",
+        "title": "A playable DOOM MCP app",
+        "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
         "source": "hn",
-        "time": "4/28/2026, 6:08:13 PM"
+        "time": "4/28/2026, 7:08:47 PM"
       },
       {
-        "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
-        "url": "https://github.com/microsoft/VibeVoice",
+        "title": "C, Just In Time!",
+        "url": "https://dyne.org/cjit/",
         "source": "hn",
-        "time": "4/28/2026, 11:56:04 AM"
-      },
-      {
-        "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
-        "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
-        "source": "hn",
-        "time": "4/28/2026, 4:06:01 PM"
-      },
-      {
-        "title": "Claude.ai is unavailable",
-        "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
-        "source": "hn",
-        "time": "4/28/2026, 6:01:21 PM"
+        "time": "4/28/2026, 7:10:14 PM"
       }
     ],
     "world": [
+      {
+        "title": "PM won't face inquiry over claims he misled MPs on Mandelson vetting",
+        "url": "https://www.bbc.com/news/articles/cx21lx9ne83o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 28 Apr 2026 18:48:48 GMT"
+      },
       {
         "title": "I made 'serious mistake' advising Starmer to appoint Mandelson, PM's ex-top adviser McSweeney says",
         "url": "https://www.bbc.com/news/articles/czx26yz7kxzo?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +86,16 @@
         "time": "Tue, 28 Apr 2026 16:24:45 GMT"
       },
       {
-        "title": "America's special relationship 'probably Israel', says UK ambassador to US",
-        "url": "https://www.bbc.com/news/articles/c1l25qd43nro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 28 Apr 2026 17:31:00 GMT"
-      },
-      {
         "title": "More UK deaths than births expected every year from now on",
         "url": "https://www.bbc.com/news/articles/ckgpjd2zzl8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 28 Apr 2026 17:22:29 GMT"
       },
       {
-        "title": "Path cleared for Everest climbers after huge ice block",
-        "url": "https://www.bbc.com/news/articles/cn0p2xp18yko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "America's special relationship 'probably Israel', says UK ambassador to US",
+        "url": "https://www.bbc.com/news/articles/c1l25qd43nro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 28 Apr 2026 16:59:47 GMT"
+        "time": "Tue, 28 Apr 2026 18:53:55 GMT"
       }
     ],
     "projects": [
