@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-28T04:00:06.862Z",
-  "updated_local": "4/28/2026, 4:00:06 AM",
+  "updated_iso": "2026-04-28T05:57:19.018Z",
+  "updated_local": "4/28/2026, 5:57:19 AM",
   "sections": {
     "crypto": [
       {
@@ -42,33 +42,33 @@
         "time": "4/27/2026, 9:55:48 PM"
       },
       {
+        "title": "San Francisco, AI capital of the world, is an economic laggard",
+        "url": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard",
+        "source": "hn",
+        "time": "4/28/2026, 4:32:42 AM"
+      },
+      {
         "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
         "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
         "source": "hn",
         "time": "4/27/2026, 1:22:42 PM"
       },
       {
-        "title": "Integrated by Design",
-        "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
+        "title": "Pgrx: Build Postgres Extensions with Rust",
+        "url": "https://github.com/pgcentralfoundation/pgrx",
         "source": "hn",
-        "time": "4/27/2026, 11:14:26 PM"
+        "time": "4/25/2026, 8:16:19 AM"
       },
       {
-        "title": "Claire's closes all 154 stores in UK and Ireland with loss of 1,300 jobs",
-        "url": "https://www.bbc.com/news/articles/cg4047qnpk2o",
+        "title": "Mo RAM, Mo Problems (2025)",
+        "url": "https://fabiensanglard.net/curse/",
         "source": "hn",
-        "time": "4/28/2026, 3:23:25 AM"
-      },
-      {
-        "title": "Meetings are forcing functions",
-        "url": "https://www.mooreds.com/wordpress/archives/3734",
-        "source": "hn",
-        "time": "4/26/2026, 3:12:04 AM"
+        "time": "4/25/2026, 3:41:54 PM"
       }
     ],
     "world": [
       {
-        "title": "King to defend 'democratic values' as US state visit begins",
+        "title": "King to defend democratic values as US state visit begins",
         "url": "https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 28 Apr 2026 01:44:46 GMT"
@@ -86,16 +86,16 @@
         "time": "Tue, 28 Apr 2026 00:19:49 GMT"
       },
       {
-        "title": "Starmer faces vote on inquiry over Mandelson vetting claims",
-        "url": "https://www.bbc.com/news/articles/c3r3r2vzjp1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 28 Apr 2026 03:57:51 GMT"
-      },
-      {
         "title": "My tenant owes £15,000 in rent, but I can't get them out of the property",
         "url": "https://www.bbc.com/news/articles/c30r5z3vdydo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 27 Apr 2026 23:56:45 GMT"
+      },
+      {
+        "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
+        "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 28 Apr 2026 04:17:34 GMT"
       }
     ],
     "projects": [
