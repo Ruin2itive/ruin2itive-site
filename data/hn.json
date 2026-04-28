@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-28T05:51:47.815Z"
+    "built_at": "2026-04-28T08:10:13.577Z"
   },
-  "items": [
-    {
-      "title": "Pompeii archaeologists use AI to reconstruct man killed in volcano's eruption",
-      "url": "https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption",
-      "date": "2026-04-28T05:45:32.000Z"
-    },
-    {
-      "title": "Show HN: Nat-zero – Scale-to-zero NAT instances for AWS (Terraform module)",
-      "url": "https://machine.dev/blog/nat-zero-scale-to-zero-nat-instances/",
-      "date": "2026-04-28T05:42:11.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
