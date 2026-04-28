@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-28T06:40:17.884Z",
-  "updated_local": "4/28/2026, 6:40:17 AM",
+  "updated_iso": "2026-04-28T08:30:30.185Z",
+  "updated_local": "4/28/2026, 8:30:30 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "GTFOBins",
+        "url": "https://gtfobins.org/",
+        "source": "hn",
+        "time": "4/28/2026, 6:27:39 AM"
+      },
+      {
         "title": "Talkie: a 13B vintage language model from 1930",
         "url": "https://talkie-lm.com/introducing-talkie",
         "source": "hn",
@@ -48,54 +54,48 @@
         "time": "4/27/2026, 1:22:42 PM"
       },
       {
-        "title": "Pgrx: Build Postgres Extensions with Rust",
-        "url": "https://github.com/pgcentralfoundation/pgrx",
-        "source": "hn",
-        "time": "4/25/2026, 8:16:19 AM"
-      },
-      {
         "title": "Is my blue your blue?",
         "url": "https://ismy.blue/",
         "source": "hn",
         "time": "4/27/2026, 8:24:33 PM"
       },
       {
-        "title": "Mo RAM, Mo Problems (2025)",
-        "url": "https://fabiensanglard.net/curse/",
+        "title": "Can You Find the Comet?",
+        "url": "https://apod.nasa.gov/apod/ap260427.html",
         "source": "hn",
-        "time": "4/25/2026, 3:41:54 PM"
+        "time": "4/27/2026, 7:59:37 AM"
       }
     ],
     "world": [
       {
-        "title": "King to defend democratic values as US state visit begins",
+        "title": "UK and US always find ways to come together, King to tell Congress",
         "url": "https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 28 Apr 2026 01:44:46 GMT"
+        "time": "Tue, 28 Apr 2026 08:25:45 GMT"
       },
       {
         "title": "BP profits more than double as Iran war sends oil prices higher",
         "url": "https://www.bbc.com/news/articles/c2eveyvgn9no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 28 Apr 2026 06:36:33 GMT"
+        "time": "Tue, 28 Apr 2026 08:15:28 GMT"
       },
       {
-        "title": "Suspect charged with attempted assassination of Trump at Washington dinner",
-        "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 28 Apr 2026 00:41:48 GMT"
-      },
-      {
-        "title": "Political violence jolts the US once again - with a familiar response",
+        "title": "US cycle of political violence goes into overdrive after third Trump assassination attempt",
         "url": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 28 Apr 2026 00:19:49 GMT"
       },
       {
-        "title": "My tenant owes £15,000 in rent, but I can't get them out of the property",
-        "url": "https://www.bbc.com/news/articles/c30r5z3vdydo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
+        "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 27 Apr 2026 23:56:45 GMT"
+        "time": "Tue, 28 Apr 2026 06:09:43 GMT"
+      },
+      {
+        "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
+        "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 28 Apr 2026 07:17:06 GMT"
       }
     ],
     "projects": [
