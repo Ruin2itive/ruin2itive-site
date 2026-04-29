@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-29T19:22:17.269Z",
-  "updated_local": "4/29/2026, 7:22:17 PM",
+  "updated_iso": "2026-04-29T19:47:18.116Z",
+  "updated_local": "4/29/2026, 7:47:18 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Celsius Founder Alex Mashinsky Banned From Crypto Industry in $10 Million FTC Settlement",
+        "url": "https://decrypt.co/366077/celsius-founder-alex-mashinsky-banned-crypto-industry-10m-ftc-settlement",
+        "source": "crypto",
+        "time": "Wed, 29 Apr 2026 19:39:10 +0000"
+      },
+      {
+        "title": "This AI Was Trained Only on Pre-1930 Text. We Asked It About Hitler, Stocks, and the Future",
+        "url": "https://decrypt.co/366015/talkie-1930-ai-model-pre-1931-training-hitler-stocks",
+        "source": "crypto",
+        "time": "Wed, 29 Apr 2026 19:38:03 +0000"
+      },
       {
         "title": "White House Weighs Reinstating Anthropic for Federal Use Amid Pentagon Fight: Report",
         "url": "https://decrypt.co/366010/white-house-weighs-reinstating-anthropic-federal-use",
@@ -20,32 +32,20 @@
         "url": "https://decrypt.co/365990/tether-farage-undisclosed-gift-reform-uk-crypto-funding",
         "source": "crypto",
         "time": "Wed, 29 Apr 2026 17:29:11 +0000"
-      },
-      {
-        "title": "OpenAI Sued Over Failure to Warn Police Before Tumbler Ridge Mass Shooting",
-        "url": "https://decrypt.co/365986/openai-sued-failure-warn-police-tumbler-ridge-mass-shooting",
-        "source": "crypto",
-        "time": "Wed, 29 Apr 2026 16:38:48 +0000"
-      },
-      {
-        "title": "Canadian Government Pushes for Sweeping Ban on Bitcoin, Crypto ATMs",
-        "url": "https://decrypt.co/365983/canadian-government-pushes-sweeping-ban-bitcoin-crypto-atms",
-        "source": "crypto",
-        "time": "Wed, 29 Apr 2026 16:20:39 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Zed 1.0",
-        "url": "https://zed.dev/blog/zed-1-0",
-        "source": "hn",
-        "time": "4/29/2026, 2:34:19 PM"
-      },
       {
         "title": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
         "url": "https://github.com/anthropics/claude-code/issues/53262",
         "source": "hn",
         "time": "4/29/2026, 6:54:31 PM"
+      },
+      {
+        "title": "Zed 1.0",
+        "url": "https://zed.dev/blog/zed-1-0",
+        "source": "hn",
+        "time": "4/29/2026, 2:34:19 PM"
       },
       {
         "title": "Copy Fail – CVE-2026-31431",
@@ -54,16 +54,16 @@
         "time": "4/29/2026, 6:13:53 PM"
       },
       {
+        "title": "\"People who don't use AI will be left behind\"",
+        "url": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/",
+        "source": "hn",
+        "time": "4/29/2026, 7:15:52 PM"
+      },
+      {
         "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
         "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
         "source": "hn",
         "time": "4/29/2026, 4:16:39 PM"
-      },
-      {
-        "title": "We need a federation of forges",
-        "url": "https://blog.tangled.org/federation/",
-        "source": "hn",
-        "time": "4/29/2026, 2:00:59 PM"
       }
     ],
     "world": [
