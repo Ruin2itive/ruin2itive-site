@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-29T04:33:46.744Z",
-  "updated_local": "4/29/2026, 4:33:46 AM",
+  "updated_iso": "2026-04-29T05:53:11.075Z",
+  "updated_local": "4/29/2026, 5:53:11 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "4/28/2026, 7:44:52 PM"
       },
       {
+        "title": "Bugs Rust won't catch",
+        "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+        "source": "hn",
+        "time": "4/29/2026, 2:19:11 AM"
+      },
+      {
         "title": "Before GitHub",
         "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
         "source": "hn",
@@ -52,12 +58,6 @@
         "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
         "source": "hn",
         "time": "4/28/2026, 11:54:14 PM"
-      },
-      {
-        "title": "Bugs Rust won't catch",
-        "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-        "source": "hn",
-        "time": "4/29/2026, 2:19:11 AM"
       },
       {
         "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
@@ -80,22 +80,22 @@
         "time": "Tue, 28 Apr 2026 23:17:58 GMT"
       },
       {
-        "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
-        "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Al Fayed survivor was modern slavery victim, says Home Office",
+        "url": "https://www.bbc.com/news/articles/c4g0qer941jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 28 Apr 2026 15:55:46 GMT"
-      },
-      {
-        "title": "Starmer sees off inquiry call - but he doesn't escape unscathed",
-        "url": "https://www.bbc.com/news/articles/cze25j9p1k7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 28 Apr 2026 21:54:08 GMT"
+        "time": "Wed, 29 Apr 2026 05:00:12 GMT"
       },
       {
         "title": "Early care scheme could prevent thousands of miscarriages a year",
         "url": "https://www.bbc.com/news/articles/c62r8lzgnk2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 28 Apr 2026 23:47:41 GMT"
+      },
+      {
+        "title": "Starmer sees off inquiry call - but he doesn't escape unscathed",
+        "url": "https://www.bbc.com/news/articles/cze25j9p1k7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 28 Apr 2026 21:54:08 GMT"
       }
     ],
     "projects": [
