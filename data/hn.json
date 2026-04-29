@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-29T22:50:33.483Z"
+    "built_at": "2026-04-29T23:46:22.106Z"
   },
-  "items": [
-    {
-      "title": "CVE-2026-3854",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-3854",
-      "date": "2026-04-29T22:48:48.000Z"
-    },
-    {
-      "title": "Our doc-driven engineering playbook",
-      "url": "https://productnow.ai/blogs/engineering-playbook",
-      "date": "2026-04-29T22:47:55.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
