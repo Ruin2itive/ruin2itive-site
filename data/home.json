@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-29T10:54:47.291Z",
-  "updated_local": "4/29/2026, 10:54:47 AM",
+  "updated_iso": "2026-04-29T12:16:09.815Z",
+  "updated_local": "4/29/2026, 12:16:09 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Paul Tudor Jones Calls Bitcoin Strongest Inflation Hedge",
+        "url": "https://decrypt.co/365934/morning-minute-paul-tudor-jones-calls-bitcoin-strongest-inflation-hedge",
+        "source": "crypto",
+        "time": "Wed, 29 Apr 2026 11:55:03 +0000"
+      },
+      {
+        "title": "Ethereum ICO Whale Who Turned $3,100 Into $23M Wakes Up After a Decade",
+        "url": "https://decrypt.co/365926/ethereum-ico-whale-who-turned-3100-into-23m-wakes-up-after-a-decade",
+        "source": "crypto",
+        "time": "Wed, 29 Apr 2026 11:27:57 +0000"
+      },
       {
         "title": "Judge Shoots Down Sam Bankman-Fried&#39;s Bid for New Trial",
         "url": "https://decrypt.co/365915/judge-shoots-down-sam-bankman-frieds-bid-for-new-trial",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/365894/woman-71-months-prison-bitcoin-investment-fraud-targeting-elderly-victims",
         "source": "crypto",
         "time": "Tue, 28 Apr 2026 22:01:02 +0000"
-      },
-      {
-        "title": "OpenClaw Insider Builds the Enterprise Safety Layer the Project Never Shipped",
-        "url": "https://decrypt.co/365888/red-hat-tank-os-openclaw-enterprise-security",
-        "source": "crypto",
-        "time": "Tue, 28 Apr 2026 21:46:02 +0000"
-      },
-      {
-        "title": "CFTC Backs Prediction Markets in Yet Another Lawsuit Against a State",
-        "url": "https://decrypt.co/365889/cftc-prediction-markets-lawsuit-wisconsin",
-        "source": "crypto",
-        "time": "Tue, 28 Apr 2026 21:21:51 +0000"
       }
     ],
     "hacker": [
@@ -48,25 +48,37 @@
         "time": "4/28/2026, 7:44:52 PM"
       },
       {
-        "title": "Show HN: Rip.so – a graveyard for dead internet things",
-        "url": "https://rip.so",
-        "source": "hn",
-        "time": "4/29/2026, 9:21:32 AM"
-      },
-      {
         "title": "Bugs Rust won't catch",
         "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
         "source": "hn",
         "time": "4/29/2026, 2:19:11 AM"
       },
       {
-        "title": "HardenedBSD Is Now Officially on Radicle",
-        "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
+        "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
+        "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
         "source": "hn",
-        "time": "4/29/2026, 6:38:44 AM"
+        "time": "4/29/2026, 11:42:46 AM"
+      },
+      {
+        "title": "Show HN: Rip.so – a graveyard for dead internet things",
+        "url": "https://rip.so",
+        "source": "hn",
+        "time": "4/29/2026, 9:21:32 AM"
       }
     ],
     "world": [
+      {
+        "title": "'If it wasn't for us, you'd be speaking French', King and Trump joke at dinner",
+        "url": "https://www.bbc.com/news/videos/c332ng27x1jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 29 Apr 2026 11:41:37 GMT"
+      },
+      {
+        "title": "Police raid religious group over allegations of sexual offences, forced marriage and slavery",
+        "url": "https://www.bbc.com/news/articles/c759n2lnxz0o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 29 Apr 2026 11:57:08 GMT"
+      },
       {
         "title": "Eleven cancers on the rise in young people - scientists find first clue on why it's happening",
         "url": "https://www.bbc.com/news/articles/crepdjdj0z4o?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +86,16 @@
         "time": "Tue, 28 Apr 2026 23:40:52 GMT"
       },
       {
-        "title": "Jokes, gifts and a state dinner: Washington rolls out red carpet for King and Queen",
-        "url": "https://www.bbc.com/news/videos/cz92w28k0jpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "University wins record freedom of speech fine challenge",
+        "url": "https://www.bbc.com/news/articles/cp8pnwyy0zjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Apr 2026 02:12:49 GMT"
+        "time": "Wed, 29 Apr 2026 12:02:38 GMT"
       },
       {
-        "title": "Police raid religious group in modern slavery inquiry",
-        "url": "https://www.bbc.com/news/articles/c759n2lnxz0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "William and Catherine share new photo to mark 15th wedding anniversary",
+        "url": "https://www.bbc.com/news/articles/cqxpj51vlxwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Apr 2026 10:33:39 GMT"
-      },
-      {
-        "title": "A fresh financial crisis may be coming - it won't play out like the last one",
-        "url": "https://www.bbc.com/news/articles/cp3p5l0nyevo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 28 Apr 2026 23:17:58 GMT"
-      },
-      {
-        "title": "Early care scheme could prevent thousands of miscarriages a year",
-        "url": "https://www.bbc.com/news/articles/c62r8lzgnk2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 28 Apr 2026 23:47:41 GMT"
+        "time": "Wed, 29 Apr 2026 11:34:04 GMT"
       }
     ],
     "projects": [
