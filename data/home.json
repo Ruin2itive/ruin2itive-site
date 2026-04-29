@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-29T08:13:28.552Z",
-  "updated_local": "4/29/2026, 8:13:28 AM",
+  "updated_iso": "2026-04-29T10:13:58.812Z",
+  "updated_local": "4/29/2026, 10:13:58 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Judge Shoots Down Sam Bankman-Fried&#39;s Bid for New Trial",
+        "url": "https://decrypt.co/365915/judge-shoots-down-sam-bankman-frieds-bid-for-new-trial",
+        "source": "crypto",
+        "time": "Wed, 29 Apr 2026 09:55:18 +0000"
+      },
       {
         "title": "AI Agent Deletes Startup’s Database in 9 Seconds, Founder Says",
         "url": "https://decrypt.co/365897/ai-agent-deletes-startup-database-9-seconds-founder-says",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/365889/cftc-prediction-markets-lawsuit-wisconsin",
         "source": "crypto",
         "time": "Tue, 28 Apr 2026 21:21:51 +0000"
-      },
-      {
-        "title": "Dead Internet? A Third of New Websites Are AI-Generated, Says Stanford",
-        "url": "https://decrypt.co/365864/one-third-new-websites-ai-generated-study",
-        "source": "crypto",
-        "time": "Tue, 28 Apr 2026 20:32:26 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "4/28/2026, 7:44:52 PM"
       },
       {
+        "title": "Soft launch of open-source code platform for government",
+        "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+        "source": "hn",
+        "time": "4/29/2026, 9:14:37 AM"
+      },
+      {
         "title": "Bugs Rust won't catch",
         "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
         "source": "hn",
         "time": "4/29/2026, 2:19:11 AM"
       },
       {
+        "title": "Show HN: Rip.so – a graveyard for dead internet things",
+        "url": "https://rip.so",
+        "source": "hn",
+        "time": "4/29/2026, 9:21:32 AM"
+      },
+      {
         "title": "HardenedBSD Is Now Officially on Radicle",
         "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
         "source": "hn",
         "time": "4/29/2026, 6:38:44 AM"
-      },
-      {
-        "title": "How ChatGPT serves ads",
-        "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-        "source": "hn",
-        "time": "4/28/2026, 11:54:14 PM"
-      },
-      {
-        "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
-        "url": "https://github.com/rocky-data/rocky",
-        "source": "hn",
-        "time": "4/28/2026, 2:35:59 PM"
       }
     ],
     "world": [
@@ -71,19 +71,13 @@
         "title": "Five takeaways from the King's historic address to Congress",
         "url": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Apr 2026 06:23:28 GMT"
+        "time": "Wed, 29 Apr 2026 08:48:08 GMT"
       },
       {
-        "title": "Eleven cancers on the rise in young people - scientists find first clue why it's happening",
+        "title": "Eleven cancers on the rise in young people - scientists find first clue on why it's happening",
         "url": "https://www.bbc.com/news/articles/crepdjdj0z4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 28 Apr 2026 23:40:52 GMT"
-      },
-      {
-        "title": "Starmer sees off inquiry call - but he doesn't escape unscathed",
-        "url": "https://www.bbc.com/news/articles/cze25j9p1k7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 28 Apr 2026 21:54:08 GMT"
       },
       {
         "title": "A fresh financial crisis may be coming - it won't play out like the last one",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/c4g0qer941jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 29 Apr 2026 05:00:12 GMT"
+      },
+      {
+        "title": "Early care scheme could prevent thousands of miscarriages a year",
+        "url": "https://www.bbc.com/news/articles/c62r8lzgnk2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 28 Apr 2026 23:47:41 GMT"
       }
     ],
     "projects": [
