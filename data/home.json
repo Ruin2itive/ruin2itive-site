@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-29T00:01:07.293Z",
-  "updated_local": "4/29/2026, 12:01:07 AM",
+  "updated_iso": "2026-04-29T02:48:42.910Z",
+  "updated_local": "4/29/2026, 2:48:42 AM",
   "sections": {
     "crypto": [
       {
@@ -42,28 +42,28 @@
         "time": "4/28/2026, 7:44:52 PM"
       },
       {
+        "title": "Claude system prompt bug wastes user money and bricks managed agents",
+        "url": "https://github.com/anthropics/claude-code/issues/49363",
+        "source": "hn",
+        "time": "4/28/2026, 11:59:57 PM"
+      },
+      {
+        "title": "How ChatGPT serves ads",
+        "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+        "source": "hn",
+        "time": "4/28/2026, 11:54:14 PM"
+      },
+      {
         "title": "Before GitHub",
         "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
         "source": "hn",
         "time": "4/28/2026, 9:17:40 PM"
       },
       {
-        "title": "Carrot Disclosure: Forgejo",
-        "url": "https://dustri.org/b/carrot-disclosure-forgejo.html",
+        "title": "We decreased our LLM costs with Opus",
+        "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
         "source": "hn",
-        "time": "4/28/2026, 10:14:29 PM"
-      },
-      {
-        "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-        "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-        "source": "hn",
-        "time": "4/28/2026, 7:24:43 PM"
-      },
-      {
-        "title": "Intel Arc Pro B70 Review",
-        "url": "https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/",
-        "source": "hn",
-        "time": "4/24/2026, 4:44:49 AM"
+        "time": "4/29/2026, 12:57:12 AM"
       }
     ],
     "world": [
@@ -71,7 +71,13 @@
         "title": "Five takeaways from the King's historic address to Congress",
         "url": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 28 Apr 2026 23:53:53 GMT"
+        "time": "Wed, 29 Apr 2026 01:32:41 GMT"
+      },
+      {
+        "title": "A fresh financial crisis may be coming - it won't play out like the last one",
+        "url": "https://www.bbc.com/news/articles/cp3p5l0nyevo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 28 Apr 2026 23:17:58 GMT"
       },
       {
         "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c62r8lzgnk2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 28 Apr 2026 23:47:41 GMT"
-      },
-      {
-        "title": "America's special relationship 'probably Israel', says UK ambassador to US",
-        "url": "https://www.bbc.com/news/articles/c1l25qd43nro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 28 Apr 2026 23:54:21 GMT"
       }
     ],
     "projects": [
