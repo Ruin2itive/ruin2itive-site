@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-28T23:46:48.658Z"
+    "built_at": "2026-04-29T02:10:22.049Z"
   },
-  "items": [
-    {
-      "title": "GameNova – Turn text prompts into playable 3D games in 60 seconds",
-      "url": "https://www.gamenova.io",
-      "date": "2026-04-28T23:46:06.000Z"
-    },
-    {
-      "title": "Show HN: Niimbot Label Printer desktop app with Pretix integration",
-      "url": "https://github.com/ooguz/niimbot-printer",
-      "date": "2026-04-28T23:44:34.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
