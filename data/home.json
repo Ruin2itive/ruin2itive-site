@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-29T15:22:11.561Z",
-  "updated_local": "4/29/2026, 3:22:11 PM",
+  "updated_iso": "2026-04-29T17:26:12.248Z",
+  "updated_local": "4/29/2026, 5:26:12 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Sued Over Failure to Warn Police Before Tumbler Ridge Mass Shooting",
+        "url": "https://decrypt.co/365986/openai-sued-failure-warn-police-tumbler-ridge-mass-shooting",
+        "source": "crypto",
+        "time": "Wed, 29 Apr 2026 16:38:48 +0000"
+      },
+      {
+        "title": "Canadian Government Pushes for Sweeping Ban on Bitcoin, Crypto ATMs",
+        "url": "https://decrypt.co/365983/canadian-government-pushes-sweeping-ban-bitcoin-crypto-atms",
+        "source": "crypto",
+        "time": "Wed, 29 Apr 2026 16:20:39 +0000"
+      },
       {
         "title": "MoonPay Launches Institutional Division, Acquires Crypto Key Management Firm Sodot",
         "url": "https://decrypt.co/365975/moonpay-launches-institutional-division-sodot-acquisition",
@@ -20,23 +32,11 @@
         "url": "https://decrypt.co/365968/visa-base-polygon-canton-arc-tempo-stablecoin-settlement-program",
         "source": "crypto",
         "time": "Wed, 29 Apr 2026 14:43:32 +0000"
-      },
-      {
-        "title": "Computershare Taps Securitize to Tokenize Thousands of Company Stocks on Wall Street",
-        "url": "https://decrypt.co/365960/computershare-taps-securitize-tokenize-thousands-companies-wall-street",
-        "source": "crypto",
-        "time": "Wed, 29 Apr 2026 14:33:26 +0000"
-      },
-      {
-        "title": "Bitcoin&#39;s Upside Capped by $82K Sell Wall as UAE’s OPEC Exit Triggers Risk Sell-Off",
-        "url": "https://decrypt.co/365942/bitcoins-upside-capped-by-82k-sell-wall-as-uaes-opec-exit-triggers-risk-sell-off",
-        "source": "crypto",
-        "time": "Wed, 29 Apr 2026 13:44:51 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Zed is 1.0",
+        "title": "Zed 1.0",
         "url": "https://zed.dev/blog/zed-1-0",
         "source": "hn",
         "time": "4/29/2026, 2:34:19 PM"
@@ -48,54 +48,54 @@
         "time": "4/29/2026, 2:00:59 PM"
       },
       {
+        "title": "Why AI companies want you to be afraid of them",
+        "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
+        "source": "hn",
+        "time": "4/29/2026, 3:26:01 PM"
+      },
+      {
+        "title": "FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies",
+        "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+        "source": "hn",
+        "time": "4/29/2026, 4:16:39 PM"
+      },
+      {
         "title": "Soft launch of open-source code platform for government",
         "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
         "source": "hn",
         "time": "4/29/2026, 9:14:37 AM"
-      },
-      {
-        "title": "Ghostty is leaving GitHub",
-        "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-        "source": "hn",
-        "time": "4/28/2026, 7:44:52 PM"
-      },
-      {
-        "title": "Letting AI play my game – building an agentic test harness to help play-testing",
-        "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
-        "source": "hn",
-        "time": "4/29/2026, 12:43:12 PM"
       }
     ],
     "world": [
       {
-        "title": "Will King's US visit lead to lasting reset in relations with UK?",
-        "url": "https://www.bbc.com/news/articles/cwy2xyvx109o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: How the Golders Green attack unfolded",
+        "url": "https://www.bbc.com/news/videos/cddp47gj07yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Apr 2026 12:36:50 GMT"
+        "time": "Wed, 29 Apr 2026 16:50:10 GMT"
+      },
+      {
+        "title": "The subtle messages hidden in the King's speeches",
+        "url": "https://www.bbc.com/news/articles/c5y73ndv83qo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 29 Apr 2026 13:11:33 GMT"
       },
       {
         "title": "Nine arrested after allegations of modern slavery and forced marriage in religious group",
         "url": "https://www.bbc.com/news/articles/c759n2lnxz0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Apr 2026 15:12:40 GMT"
+        "time": "Wed, 29 Apr 2026 16:23:11 GMT"
       },
       {
-        "title": "University of Sussex wins court challenge to overturn £585,000 freedom of speech fine",
-        "url": "https://www.bbc.com/news/articles/cp8pnwyy0zjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How UAE's exit could affect Opec's influence over the oil price",
+        "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Apr 2026 12:43:08 GMT"
+        "time": "Wed, 29 Apr 2026 16:37:08 GMT"
       },
       {
-        "title": "Eleven cancers on the rise in young people - scientists find first clue on why it's happening",
-        "url": "https://www.bbc.com/news/articles/crepdjdj0z4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Stephen Fry sues tech conference for up to £100,000 after falling off stage",
+        "url": "https://www.bbc.com/news/articles/cvgzr2yy6vro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 28 Apr 2026 23:40:52 GMT"
-      },
-      {
-        "title": "Farage received £5m from donor before he became MP",
-        "url": "https://www.bbc.com/news/articles/cn5pr0gp3gro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 29 Apr 2026 13:10:09 GMT"
+        "time": "Wed, 29 Apr 2026 16:45:24 GMT"
       }
     ],
     "projects": [
