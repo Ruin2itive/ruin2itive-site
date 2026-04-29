@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-29T17:45:16.792Z",
-  "updated_local": "4/29/2026, 5:45:16 PM",
+  "updated_iso": "2026-04-29T19:22:17.269Z",
+  "updated_local": "4/29/2026, 7:22:17 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "White House Weighs Reinstating Anthropic for Federal Use Amid Pentagon Fight: Report",
+        "url": "https://decrypt.co/366010/white-house-weighs-reinstating-anthropic-federal-use",
+        "source": "crypto",
+        "time": "Wed, 29 Apr 2026 18:32:34 +0000"
+      },
+      {
+        "title": "Bitcoin, Ethereum Dip as Fed Holds Rates Steady for Third Straight Time",
+        "url": "https://decrypt.co/366008/bitcoin-ethereum-dip-fed-holds-rates-steady-third-straight-time",
+        "source": "crypto",
+        "time": "Wed, 29 Apr 2026 18:14:42 +0000"
+      },
       {
         "title": "Tether Stakeholder Gave Farage Undisclosed $6.7M Gift Amid Reform UK Crypto Funding Scrutiny",
         "url": "https://decrypt.co/365990/tether-farage-undisclosed-gift-reform-uk-crypto-funding",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/365983/canadian-government-pushes-sweeping-ban-bitcoin-crypto-atms",
         "source": "crypto",
         "time": "Wed, 29 Apr 2026 16:20:39 +0000"
-      },
-      {
-        "title": "MoonPay Launches Institutional Division, Acquires Crypto Key Management Firm Sodot",
-        "url": "https://decrypt.co/365975/moonpay-launches-institutional-division-sodot-acquisition",
-        "source": "crypto",
-        "time": "Wed, 29 Apr 2026 15:20:43 +0000"
-      },
-      {
-        "title": "Polymarket Eyes US Return for Crypto Exchange as Lone CFTC Chair Weighs Approval​​​​​​​​​​​​​​​​",
-        "url": "https://decrypt.co/365970/polymarket-eyes-us-return-for-crypto-exchange-as-lone-cftc-chair-weighs-approval",
-        "source": "crypto",
-        "time": "Wed, 29 Apr 2026 15:01:02 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,16 @@
         "time": "4/29/2026, 2:34:19 PM"
       },
       {
-        "title": "We need a federation of forges",
-        "url": "https://blog.tangled.org/federation/",
+        "title": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
+        "url": "https://github.com/anthropics/claude-code/issues/53262",
         "source": "hn",
-        "time": "4/29/2026, 2:00:59 PM"
+        "time": "4/29/2026, 6:54:31 PM"
+      },
+      {
+        "title": "Copy Fail – CVE-2026-31431",
+        "url": "https://copy.fail/",
+        "source": "hn",
+        "time": "4/29/2026, 6:13:53 PM"
       },
       {
         "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
@@ -54,16 +60,10 @@
         "time": "4/29/2026, 4:16:39 PM"
       },
       {
-        "title": "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
-        "url": "https://deepmind.google/research/publications/231971/",
+        "title": "We need a federation of forges",
+        "url": "https://blog.tangled.org/federation/",
         "source": "hn",
-        "time": "4/29/2026, 5:30:15 PM"
-      },
-      {
-        "title": "Third Editor Fired in Elsevier's Citation Cartel Crackdown",
-        "url": "https://www.chrisbrunet.com/p/third-editor-fired-in-elseviers-citation",
-        "source": "hn",
-        "time": "4/29/2026, 3:45:25 PM"
+        "time": "4/29/2026, 2:00:59 PM"
       }
     ],
     "world": [
@@ -83,19 +83,19 @@
         "title": "Nine arrested after allegations of modern slavery and forced marriage in religious group",
         "url": "https://www.bbc.com/news/articles/c759n2lnxz0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Apr 2026 16:23:11 GMT"
+        "time": "Wed, 29 Apr 2026 18:38:15 GMT"
       },
       {
-        "title": "How UAE's exit could affect Opec's influence over the oil price",
-        "url": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "New images show suspect taking selfies before Washington press dinner shooting",
+        "url": "https://www.bbc.com/news/articles/cm2p99n35z4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Apr 2026 16:37:08 GMT"
+        "time": "Wed, 29 Apr 2026 16:06:00 GMT"
       },
       {
-        "title": "Stephen Fry sues tech conference for up to £100,000 after falling off stage",
-        "url": "https://www.bbc.com/news/articles/cvgzr2yy6vro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hereditary peers' last hurrah as 700-year-old system abolished",
+        "url": "https://www.bbc.com/news/articles/ckgp5j5gpplo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Apr 2026 16:45:24 GMT"
+        "time": "Wed, 29 Apr 2026 18:45:22 GMT"
       }
     ],
     "projects": [
