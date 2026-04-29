@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-29T02:10:22.049Z"
+    "built_at": "2026-04-29T05:47:09.360Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: ShareNova – Browser file sharing, no account, no limits, no storage",
+      "url": "https://sharenova.io",
+      "date": "2026-04-29T05:45:15.000Z"
+    },
+    {
+      "title": "I built OWASP-style security skill packs for LLM apps (NPM install)",
+      "url": "https://www.npmjs.com/package/miii-security",
+      "date": "2026-04-29T05:43:50.000Z"
+    }
+  ]
 }
