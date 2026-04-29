@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-29T10:48:06.156Z"
+    "built_at": "2026-04-29T12:11:59.148Z"
   },
-  "items": [
-    {
-      "title": "W2A – Open Protocol for Agent Perception",
-      "url": "https://github.com/machinepulse-ai/world2agent",
-      "date": "2026-04-29T10:41:57.000Z"
-    },
-    {
-      "title": "iPhone Memory Costs Set to Quadruple by 2027",
-      "url": "https://www.macrumors.com/2026/04/29/iphone-memory-costs-quadruple-2027/",
-      "date": "2026-04-29T10:41:39.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
