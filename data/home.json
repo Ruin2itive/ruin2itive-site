@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-29T21:14:28.142Z",
-  "updated_local": "4/29/2026, 9:14:28 PM",
+  "updated_iso": "2026-04-29T22:54:53.127Z",
+  "updated_local": "4/29/2026, 10:54:53 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Google and Microsoft Just Proved the AI Trade Is Alive—While OpenAI Is Sweating",
+        "url": "https://decrypt.co/366100/google-microsoft-ai-trade-openai-revenue-estimates",
+        "source": "crypto",
+        "time": "Wed, 29 Apr 2026 22:14:49 +0000"
+      },
+      {
+        "title": "Labor Department Launches AI Apprenticeship Portal as Trump Admin Continues AI Policy Push",
+        "url": "https://decrypt.co/366097/labor-department-ai-apprenticeship-portal",
+        "source": "crypto",
+        "time": "Wed, 29 Apr 2026 21:22:39 +0000"
+      },
       {
         "title": "Mayo Clinic Says AI Can Detect Pancreatic Cancer Years Before Human Doctors",
         "url": "https://decrypt.co/366095/mayo-clinic-says-ai-can-detect-pancreatic-cancer-years-before-human-doctors",
@@ -20,27 +32,9 @@
         "url": "https://decrypt.co/366087/meta-launches-usdc-stablecoin-creator-payouts-on-solana-and-polygon-via-stripe",
         "source": "crypto",
         "time": "Wed, 29 Apr 2026 20:10:14 +0000"
-      },
-      {
-        "title": "Celsius Founder Alex Mashinsky Banned From Crypto Industry in $10 Million FTC Settlement",
-        "url": "https://decrypt.co/366077/celsius-founder-alex-mashinsky-banned-crypto-industry-10m-ftc-settlement",
-        "source": "crypto",
-        "time": "Wed, 29 Apr 2026 19:39:10 +0000"
-      },
-      {
-        "title": "This AI Was Trained Only on Pre-1930 Text. We Asked It About Hitler, Stocks, and the Future",
-        "url": "https://decrypt.co/366015/talkie-1930-ai-model-pre-1931-training-hitler-stocks",
-        "source": "crypto",
-        "time": "Wed, 29 Apr 2026 19:38:03 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
-        "url": "https://github.com/anthropics/claude-code/issues/53262",
-        "source": "hn",
-        "time": "4/29/2026, 6:54:31 PM"
-      },
       {
         "title": "Zed 1.0",
         "url": "https://zed.dev/blog/zed-1-0",
@@ -54,10 +48,16 @@
         "time": "4/29/2026, 6:13:53 PM"
       },
       {
-        "title": "Alphabet Announces First Quarter 2026 Results",
-        "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-First-Quarter-2026-Results-2026-X-ge4Dm6bf/default.aspx",
+        "title": "Germany has become the largest ammunition producer in the world",
+        "url": "https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/",
         "source": "hn",
-        "time": "4/29/2026, 8:20:58 PM"
+        "time": "4/29/2026, 9:58:46 PM"
+      },
+      {
+        "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+        "url": "https://github.com/anthropics/claude-code/issues/53262",
+        "source": "hn",
+        "time": "4/29/2026, 6:54:31 PM"
       },
       {
         "title": "OpenTrafficMap",
@@ -68,16 +68,22 @@
     ],
     "world": [
       {
-        "title": "Watch: How the Golders Green attack unfolded",
-        "url": "https://www.bbc.com/news/videos/cddp47gj07yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Police declare terrorist incident after two Jewish men stabbed in London",
+        "url": "https://www.bbc.com/news/articles/clypz81pg9go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Apr 2026 16:50:10 GMT"
+        "time": "Wed, 29 Apr 2026 21:35:29 GMT"
+      },
+      {
+        "title": "Watch: Met Police body-worn footage of Golders Green arrest",
+        "url": "https://www.bbc.com/news/videos/c332v47mmd2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 29 Apr 2026 21:53:51 GMT"
       },
       {
         "title": "King and Queen lay flowers at 9/11 Memorial in New York",
         "url": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Apr 2026 19:53:23 GMT"
+        "time": "Wed, 29 Apr 2026 21:31:49 GMT"
       },
       {
         "title": "New images show suspect taking selfies before Washington press dinner shooting",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/ckgp5j5gpplo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 29 Apr 2026 18:45:22 GMT"
-      },
-      {
-        "title": "Stephen Fry sues tech conference for up to £100,000 after falling off stage",
-        "url": "https://www.bbc.com/news/articles/cvgzr2yy6vro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 29 Apr 2026 16:45:24 GMT"
       }
     ],
     "projects": [
