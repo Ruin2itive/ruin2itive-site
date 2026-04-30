@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-29T23:46:22.106Z"
+    "built_at": "2026-04-30T02:10:34.199Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Generation Alpha",
+      "url": "https://en.wikipedia.org/wiki/Generation_Alpha",
+      "date": "2026-04-30T02:08:58.000Z"
+    },
+    {
+      "title": "Musk Says He 'Was a Fool' to Provide OpenAI's Early Funding",
+      "url": "https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html",
+      "date": "2026-04-30T02:08:51.000Z"
+    }
+  ]
 }
