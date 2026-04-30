@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-30T12:09:50.263Z"
+    "built_at": "2026-04-30T15:01:41.045Z"
   },
-  "items": [
-    {
-      "title": "Merchantoria.com – Payment and Merchant providers comparison aggregator",
-      "url": "https://merchantoria.com",
-      "date": "2026-04-30T12:09:07.000Z"
-    },
-    {
-      "title": "Is tech's AI spending working?",
-      "url": "https://www.latimes.com/business/story/2026-04-29/trillion-dollar-question-is-techs-massive-ai-spending-actually-working",
-      "date": "2026-04-30T12:05:58.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
