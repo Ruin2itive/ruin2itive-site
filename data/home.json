@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-30T12:13:58.430Z",
-  "updated_local": "4/30/2026, 12:13:58 PM",
+  "updated_iso": "2026-04-30T14:19:06.215Z",
+  "updated_local": "4/30/2026, 2:19:06 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Bitcoin Falls After Powell&#39;s Likely Final FOMC",
+        "url": "https://decrypt.co/366109/morning-minute-bitcoin-falls-after-powells-likely-final-fomc",
+        "source": "crypto",
+        "time": "Thu, 30 Apr 2026 13:48:15 +0000"
+      },
       {
         "title": "Google and Microsoft Just Proved the AI Trade Is Alive—While OpenAI Is Sweating",
         "url": "https://decrypt.co/366100/google-microsoft-ai-trade-openai-revenue-estimates",
@@ -26,15 +32,27 @@
         "url": "https://decrypt.co/366090/key-senator-clarity-act-vote-hurdles-remain",
         "source": "crypto",
         "time": "Wed, 29 Apr 2026 20:31:47 +0000"
-      },
-      {
-        "title": "Meta Launches USDC Stablecoin Creator Payouts on Solana and Polygon via Stripe",
-        "url": "https://decrypt.co/366087/meta-launches-usdc-stablecoin-creator-payouts-on-solana-and-polygon-via-stripe",
-        "source": "crypto",
-        "time": "Wed, 29 Apr 2026 20:10:14 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Belgium stops decommissioning nuclear power plants",
+        "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+        "source": "hn",
+        "time": "4/30/2026, 12:17:14 PM"
+      },
+      {
+        "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
+        "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
+        "source": "hn",
+        "time": "4/30/2026, 1:07:42 PM"
+      },
+      {
+        "title": "I aggregated 28 US Government auction sites into one search",
+        "url": "https://bidprowl.com",
+        "source": "hn",
+        "time": "4/30/2026, 12:24:53 PM"
+      },
       {
         "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
         "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
@@ -42,60 +60,42 @@
         "time": "4/30/2026, 10:31:17 AM"
       },
       {
-        "title": "Mozilla's Opposition to Chrome's Prompt API",
-        "url": "https://github.com/mozilla/standards-positions/issues/1213",
+        "title": "The FCC is about to ban 21% of its test labs today. I mapped them all",
+        "url": "https://markready.io/blog/fcc-accredited-test-labs-complete-guide",
         "source": "hn",
-        "time": "4/30/2026, 7:43:55 AM"
-      },
-      {
-        "title": "Where the goblins came from",
-        "url": "https://openai.com/index/where-the-goblins-came-from/",
-        "source": "hn",
-        "time": "4/30/2026, 3:21:04 AM"
-      },
-      {
-        "title": "Noctua releases official 3D CAD models for its cooling fans",
-        "url": "https://www.noctua.at/en/3d-cad-models",
-        "source": "hn",
-        "time": "4/27/2026, 9:35:07 PM"
-      },
-      {
-        "title": "Zed 1.0",
-        "url": "https://zed.dev/blog/zed-1-0",
-        "source": "hn",
-        "time": "4/29/2026, 2:34:19 PM"
+        "time": "4/30/2026, 1:45:10 PM"
       }
     ],
     "world": [
       {
-        "title": "Watch: Met Police body-worn footage of Golders Green arrest",
-        "url": "https://www.bbc.com/news/videos/c332v47mmd2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Protesters jeer as Starmer arrives in Golders Green",
+        "url": "https://www.bbc.com/news/videos/c62xgrlpw2no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Apr 2026 21:53:51 GMT"
+        "time": "Thu, 30 Apr 2026 12:49:50 GMT"
+      },
+      {
+        "title": "Interest rates held at 3.75% as Bank of England hints at future rises over Iran war",
+        "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 30 Apr 2026 12:34:53 GMT"
       },
       {
         "title": "Oil price jumps after report Trump to be given new Iran options",
         "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Apr 2026 10:50:19 GMT"
+        "time": "Thu, 30 Apr 2026 12:59:04 GMT"
       },
       {
         "title": "Neo-Nazi guilty of terror charge after MI5 sting",
         "url": "https://www.bbc.com/news/articles/cy4145vexypo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Apr 2026 11:55:37 GMT"
+        "time": "Thu, 30 Apr 2026 12:19:48 GMT"
       },
       {
         "title": "Have the royals got their mojo back from US visit?",
         "url": "https://www.bbc.com/news/articles/cqxpr404053o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 30 Apr 2026 03:48:53 GMT"
-      },
-      {
-        "title": "'We will kill you and burn your house': Council staff under attack from High Street gangs",
-        "url": "https://www.bbc.com/news/articles/cdxplq92rx1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 30 Apr 2026 05:00:04 GMT"
       }
     ],
     "projects": [
