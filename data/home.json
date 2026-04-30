@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-30T20:58:10.166Z",
-  "updated_local": "4/30/2026, 8:58:10 PM",
+  "updated_iso": "2026-04-30T22:01:20.081Z",
+  "updated_local": "4/30/2026, 10:01:20 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Mistral AI Drops New Open-Source Model. The Internet Is Not Impressed, Except for One Thing",
+        "url": "https://decrypt.co/366275/mistral-ai-open-source-model-agents-internet-not-impressed",
+        "source": "crypto",
+        "time": "Thu, 30 Apr 2026 21:31:03 +0000"
+      },
       {
         "title": "Elon Musk Says xAI Used OpenAI Models to Train Grok",
         "url": "https://decrypt.co/366274/elon-musk-xai-used-openai-models-train-grok",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/366247/ubuntu-linux-adding-ai-features-users-worried",
         "source": "crypto",
         "time": "Thu, 30 Apr 2026 19:33:26 +0000"
-      },
-      {
-        "title": "Senate Votes to Ban Senators and Staff From Using Prediction Markets",
-        "url": "https://decrypt.co/366243/senate-votes-ban-senators-staff-using-prediction-markets",
-        "source": "crypto",
-        "time": "Thu, 30 Apr 2026 19:16:38 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
         "source": "hn",
         "time": "4/30/2026, 8:27:22 PM"
+      },
+      {
+        "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+        "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
+        "source": "hn",
+        "time": "4/30/2026, 7:40:20 PM"
       },
       {
         "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
@@ -54,19 +60,19 @@
         "time": "4/30/2026, 4:09:26 PM"
       },
       {
-        "title": "CopyFail was not disclosed to Gentoo developer",
-        "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+        "title": "Apple reports second quarter results",
+        "url": "https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/",
         "source": "hn",
-        "time": "4/30/2026, 4:43:47 PM"
-      },
-      {
-        "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
-        "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
-        "source": "hn",
-        "time": "4/30/2026, 7:40:20 PM"
+        "time": "4/30/2026, 8:33:48 PM"
       }
     ],
     "world": [
+      {
+        "title": "UK terrorism threat level raised to severe after Golders Green attack",
+        "url": "https://www.bbc.com/news/articles/cq6p4pz6p62o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 30 Apr 2026 21:18:19 GMT"
+      },
       {
         "title": "It's a miracle I survived, Golders Green victim tells BBC",
         "url": "https://www.bbc.com/news/articles/cdxprzdjewjo?at_medium=RSS&amp;at_campaign=rss",
@@ -89,13 +95,7 @@
         "title": "Trump to remove whisky tariffs after King's visit",
         "url": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Apr 2026 20:34:22 GMT"
-      },
-      {
-        "title": "Banksy confirms he's behind statue in central London",
-        "url": "https://www.bbc.com/news/articles/c5y9wlnwl85o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 30 Apr 2026 17:12:41 GMT"
+        "time": "Thu, 30 Apr 2026 21:45:57 GMT"
       }
     ],
     "projects": [
