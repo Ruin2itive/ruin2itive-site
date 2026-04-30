@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-30T10:53:31.803Z",
-  "updated_local": "4/30/2026, 10:53:31 AM",
+  "updated_iso": "2026-04-30T11:45:15.684Z",
+  "updated_local": "4/30/2026, 11:45:15 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "Where the goblins came from",
-        "url": "https://openai.com/index/where-the-goblins-came-from/",
-        "source": "hn",
-        "time": "4/30/2026, 3:21:04 AM"
-      },
-      {
         "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
         "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
         "source": "hn",
         "time": "4/30/2026, 10:31:17 AM"
+      },
+      {
+        "title": "Mozilla's Opposition to Chrome's Prompt API",
+        "url": "https://github.com/mozilla/standards-positions/issues/1213",
+        "source": "hn",
+        "time": "4/30/2026, 7:43:55 AM"
+      },
+      {
+        "title": "Where the goblins came from",
+        "url": "https://openai.com/index/where-the-goblins-came-from/",
+        "source": "hn",
+        "time": "4/30/2026, 3:21:04 AM"
       },
       {
         "title": "Noctua releases official 3D CAD models for its cooling fans",
@@ -58,12 +64,6 @@
         "url": "https://zed.dev/blog/zed-1-0",
         "source": "hn",
         "time": "4/29/2026, 2:34:19 PM"
-      },
-      {
-        "title": "The Zig project's rationale for their anti-AI contribution policy",
-        "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-        "source": "hn",
-        "time": "4/30/2026, 2:15:47 AM"
       }
     ],
     "world": [
@@ -95,7 +95,7 @@
         "title": "Neo-Nazi guilty of terror charge after MI5 sting",
         "url": "https://www.bbc.com/news/articles/cy4145vexypo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Apr 2026 10:47:42 GMT"
+        "time": "Thu, 30 Apr 2026 11:42:04 GMT"
       }
     ],
     "projects": [
