@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-30T16:26:15.988Z",
-  "updated_local": "4/30/2026, 4:26:15 PM",
+  "updated_iso": "2026-04-30T17:18:39.956Z",
+  "updated_local": "4/30/2026, 5:18:39 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Polymarket Launches Market Integrity Tools Following Soldier’s Insider Trading Arrest",
+        "url": "https://decrypt.co/366177/polymarket-launches-market-integrity-tools-following-soldiers-insider-trading-arrest",
+        "source": "crypto",
+        "time": "Thu, 30 Apr 2026 17:11:02 +0000"
+      },
+      {
+        "title": "MegaETH Token Launches as Ethereum Layer-2 Network&#39;s Novel Rewards System Is Tested",
+        "url": "https://decrypt.co/366164/megaeth-token-launches-ethereum-layer-2-novel-rewards-system",
+        "source": "crypto",
+        "time": "Thu, 30 Apr 2026 16:26:01 +0000"
+      },
       {
         "title": "Twenty-One Weighs Mergers With Strike, Elektron to Create Publicly Traded Bitcoin Giant",
         "url": "https://decrypt.co/366165/twenty-one-weighs-mergers-strike-elektron-publicly-traded-bitcoin-giant",
@@ -20,26 +32,26 @@
         "url": "https://decrypt.co/366109/morning-minute-bitcoin-falls-after-powells-likely-final-fomc",
         "source": "crypto",
         "time": "Thu, 30 Apr 2026 13:48:15 +0000"
-      },
-      {
-        "title": "Google and Microsoft Just Proved the AI Trade Is Alive—While OpenAI Is Sweating",
-        "url": "https://decrypt.co/366100/google-microsoft-ai-trade-openai-revenue-estimates",
-        "source": "crypto",
-        "time": "Wed, 29 Apr 2026 22:14:49 +0000"
-      },
-      {
-        "title": "Labor Department Launches AI Apprenticeship Portal as Trump Admin Continues AI Policy Push",
-        "url": "https://decrypt.co/366097/labor-department-ai-apprenticeship-portal",
-        "source": "crypto",
-        "time": "Wed, 29 Apr 2026 21:22:39 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+        "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+        "source": "hn",
+        "time": "4/30/2026, 3:31:40 PM"
+      },
       {
         "title": "Belgium stops decommissioning nuclear power plants",
         "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
         "source": "hn",
         "time": "4/30/2026, 12:17:14 PM"
+      },
+      {
+        "title": "The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'",
+        "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+        "source": "hn",
+        "time": "4/30/2026, 4:41:00 PM"
       },
       {
         "title": "How an Oil Refinery Works",
@@ -48,36 +60,24 @@
         "time": "4/30/2026, 1:54:20 PM"
       },
       {
-        "title": "Spain's parliament will act against massive IP blockages by LaLiga",
-        "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+        "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+        "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
         "source": "hn",
-        "time": "4/30/2026, 3:31:40 PM"
-      },
-      {
-        "title": "I aggregated 28 US Government auction sites into one search",
-        "url": "https://bidprowl.com",
-        "source": "hn",
-        "time": "4/30/2026, 12:24:53 PM"
-      },
-      {
-        "title": "You can beat the binary search",
-        "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-        "source": "hn",
-        "time": "4/27/2026, 5:52:12 PM"
+        "time": "4/30/2026, 4:09:26 PM"
       }
     ],
     "world": [
       {
-        "title": "Watch: Protesters jeer as Starmer visits first responders in Golders Green",
-        "url": "https://www.bbc.com/news/videos/c62xgrlpw2no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "It's a miracle I survived, Golders Green victim tells BBC",
+        "url": "https://www.bbc.com/news/articles/cdxprzdjewjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Apr 2026 12:49:50 GMT"
+        "time": "Thu, 30 Apr 2026 16:39:49 GMT"
       },
       {
         "title": "Teens who lured man to beach to kill him sentenced to between five and seven years' custody",
         "url": "https://www.bbc.com/news/articles/c1m290e0x3xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Apr 2026 15:28:53 GMT"
+        "time": "Thu, 30 Apr 2026 16:31:50 GMT"
       },
       {
         "title": "Interest rates held at 3.75% as Bank of England hints at future rises over Iran war",
@@ -95,7 +95,7 @@
         "title": "Banksy confirms he's behind statue in central London",
         "url": "https://www.bbc.com/news/articles/c5y9wlnwl85o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Apr 2026 15:31:29 GMT"
+        "time": "Thu, 30 Apr 2026 17:12:41 GMT"
       }
     ],
     "projects": [
