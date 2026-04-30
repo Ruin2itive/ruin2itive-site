@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-30T03:54:14.937Z",
-  "updated_local": "4/30/2026, 3:54:14 AM",
+  "updated_iso": "2026-04-30T05:56:48.364Z",
+  "updated_local": "4/30/2026, 5:56:48 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Where the Goblins Came From",
+        "title": "Where the goblins came from",
         "url": "https://openai.com/index/where-the-goblins-came-from/",
         "source": "hn",
         "time": "4/30/2026, 3:21:04 AM"
+      },
+      {
+        "title": "Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs",
+        "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+        "source": "hn",
+        "time": "4/30/2026, 3:11:51 AM"
       },
       {
         "title": "Craig Venter has died",
@@ -54,25 +60,13 @@
         "time": "4/29/2026, 2:34:19 PM"
       },
       {
-        "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
-        "url": "https://burrito.bio/essays/biology-is-a-burrito",
+        "title": "Functional Programmers need to take a look at Zig",
+        "url": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
         "source": "hn",
-        "time": "4/30/2026, 3:24:41 AM"
-      },
-      {
-        "title": "Copy Fail",
-        "url": "https://copy.fail/",
-        "source": "hn",
-        "time": "4/29/2026, 6:13:53 PM"
+        "time": "4/30/2026, 3:11:33 AM"
       }
     ],
     "world": [
-      {
-        "title": "Police declare terrorist incident after two Jewish men stabbed in London",
-        "url": "https://www.bbc.com/news/articles/clypz81pg9go?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 30 Apr 2026 00:29:54 GMT"
-      },
       {
         "title": "Watch: Met Police body-worn footage of Golders Green arrest",
         "url": "https://www.bbc.com/news/videos/c332v47mmd2o?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +74,28 @@
         "time": "Wed, 29 Apr 2026 21:53:51 GMT"
       },
       {
-        "title": "King and Queen lay flowers at 9/11 Memorial in New York",
-        "url": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'We will kill you and burn your house': Council staff under attack from High Street gangs",
+        "url": "https://www.bbc.com/news/articles/cdxplq92rx1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Apr 2026 23:33:22 GMT"
+        "time": "Thu, 30 Apr 2026 05:00:04 GMT"
+      },
+      {
+        "title": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
+        "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 30 Apr 2026 04:06:01 GMT"
+      },
+      {
+        "title": "Have the royals got their mojo back from US visit?",
+        "url": "https://www.bbc.com/news/articles/cqxpr404053o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 30 Apr 2026 03:48:53 GMT"
       },
       {
         "title": "The city caught in the middle of the big energy shift debate",
         "url": "https://www.bbc.com/news/articles/c1k239p409po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 30 Apr 2026 00:08:10 GMT"
-      },
-      {
-        "title": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
-        "url": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 30 Apr 2026 01:46:52 GMT"
       }
     ],
     "projects": [
