@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-04-30T15:07:55.977Z",
-  "updated_local": "4/30/2026, 3:07:55 PM",
+  "updated_iso": "2026-04-30T16:26:15.988Z",
+  "updated_local": "4/30/2026, 4:26:15 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Twenty-One Weighs Mergers With Strike, Elektron to Create Publicly Traded Bitcoin Giant",
+        "url": "https://decrypt.co/366165/twenty-one-weighs-mergers-strike-elektron-publicly-traded-bitcoin-giant",
+        "source": "crypto",
+        "time": "Thu, 30 Apr 2026 15:46:25 +0000"
+      },
       {
         "title": "Gemini Gains Key CFTC Approval to Expand Prediction Market, Perps Offerings",
         "url": "https://decrypt.co/366159/gemini-cftc-approval-expand-prediction-market-perps-offerings",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/366097/labor-department-ai-apprenticeship-portal",
         "source": "crypto",
         "time": "Wed, 29 Apr 2026 21:22:39 +0000"
-      },
-      {
-        "title": "Mayo Clinic Says AI Can Detect Pancreatic Cancer Years Before Human Doctors",
-        "url": "https://decrypt.co/366095/mayo-clinic-says-ai-can-detect-pancreatic-cancer-years-before-human-doctors",
-        "source": "crypto",
-        "time": "Wed, 29 Apr 2026 21:01:08 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "4/30/2026, 12:17:14 PM"
       },
       {
-        "title": "Meta in row after workers who saw smart glasses users having sex lose jobs",
-        "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
+        "title": "How an Oil Refinery Works",
+        "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
         "source": "hn",
-        "time": "4/30/2026, 1:07:42 PM"
+        "time": "4/30/2026, 1:54:20 PM"
       },
       {
-        "title": "The FCC is about to ban 21% of its test labs today. I mapped them all",
-        "url": "https://markready.io/blog/fcc-accredited-test-labs-complete-guide",
+        "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+        "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
         "source": "hn",
-        "time": "4/30/2026, 1:45:10 PM"
+        "time": "4/30/2026, 3:31:40 PM"
       },
       {
         "title": "I aggregated 28 US Government auction sites into one search",
@@ -60,10 +60,10 @@
         "time": "4/30/2026, 12:24:53 PM"
       },
       {
-        "title": "How an Oil Refinery Works",
-        "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+        "title": "You can beat the binary search",
+        "url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
         "source": "hn",
-        "time": "4/30/2026, 1:54:20 PM"
+        "time": "4/27/2026, 5:52:12 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Thu, 30 Apr 2026 12:49:50 GMT"
       },
       {
+        "title": "Teens who lured man to beach to kill him sentenced to between five and seven years' custody",
+        "url": "https://www.bbc.com/news/articles/c1m290e0x3xo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 30 Apr 2026 15:28:53 GMT"
+      },
+      {
         "title": "Interest rates held at 3.75% as Bank of England hints at future rises over Iran war",
         "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 30 Apr 2026 15:02:26 GMT"
       },
       {
-        "title": "Trainee driver crashes bus into River Seine in Paris",
+        "title": "Trainee driver crashes bus into River Seine near Paris",
         "url": "https://www.bbc.com/news/articles/cm2pyxpwmdro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Apr 2026 14:54:47 GMT"
+        "time": "Thu, 30 Apr 2026 15:34:09 GMT"
       },
       {
         "title": "Banksy confirms he's behind statue in central London",
         "url": "https://www.bbc.com/news/articles/c5y9wlnwl85o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Apr 2026 14:26:07 GMT"
-      },
-      {
-        "title": "Saudi Arabia to stop funding LIV Golf next season",
-        "url": "https://www.bbc.com/sport/golf/articles/cp3p9we4v0yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 30 Apr 2026 13:38:45 GMT"
+        "time": "Thu, 30 Apr 2026 15:31:29 GMT"
       }
     ],
     "projects": [
