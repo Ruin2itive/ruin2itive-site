@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-30T17:18:39.956Z",
-  "updated_local": "4/30/2026, 5:18:39 PM",
+  "updated_iso": "2026-04-30T18:16:50.621Z",
+  "updated_local": "4/30/2026, 6:16:50 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Agentic Memory: Walrus Takes On AI&#39;s Next Big Bottleneck",
+        "url": "https://decrypt.co/365834/agentic-memory-walrus-takes-on-ais-next-big-bottleneck",
+        "source": "crypto",
+        "time": "Thu, 30 Apr 2026 17:31:07 +0000"
+      },
+      {
+        "title": "Crypto Is the Most Muted Topic on Elon Musk’s X, Ahead of Politics: Product Head",
+        "url": "https://decrypt.co/366176/crypto-most-muted-topic-elon-musk-x-product-head",
+        "source": "crypto",
+        "time": "Thu, 30 Apr 2026 17:21:05 +0000"
+      },
       {
         "title": "Polymarket Launches Market Integrity Tools Following Soldier’s Insider Trading Arrest",
         "url": "https://decrypt.co/366177/polymarket-launches-market-integrity-tools-following-soldiers-insider-trading-arrest",
@@ -20,26 +32,20 @@
         "url": "https://decrypt.co/366165/twenty-one-weighs-mergers-strike-elektron-publicly-traded-bitcoin-giant",
         "source": "crypto",
         "time": "Thu, 30 Apr 2026 15:46:25 +0000"
-      },
-      {
-        "title": "Gemini Gains Key CFTC Approval to Expand Prediction Market, Perps Offerings",
-        "url": "https://decrypt.co/366159/gemini-cftc-approval-expand-prediction-market-perps-offerings",
-        "source": "crypto",
-        "time": "Thu, 30 Apr 2026 15:02:13 +0000"
-      },
-      {
-        "title": "Morning Minute: Bitcoin Falls After Powell&#39;s Likely Final FOMC",
-        "url": "https://decrypt.co/366109/morning-minute-bitcoin-falls-after-powells-likely-final-fomc",
-        "source": "crypto",
-        "time": "Thu, 30 Apr 2026 13:48:15 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Spain's parliament will act against massive IP blockages by LaLiga",
-        "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+        "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+        "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
         "source": "hn",
-        "time": "4/30/2026, 3:31:40 PM"
+        "time": "4/30/2026, 4:41:00 PM"
+      },
+      {
+        "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+        "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+        "source": "hn",
+        "time": "4/30/2026, 4:09:26 PM"
       },
       {
         "title": "Belgium stops decommissioning nuclear power plants",
@@ -48,22 +54,16 @@
         "time": "4/30/2026, 12:17:14 PM"
       },
       {
-        "title": "The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'",
-        "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+        "title": "I built a Game Boy emulator in F#",
+        "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
         "source": "hn",
-        "time": "4/30/2026, 4:41:00 PM"
+        "time": "4/30/2026, 5:14:21 PM"
       },
       {
-        "title": "How an Oil Refinery Works",
-        "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
+        "title": "CopyFail Was Not Disclosed to Distros",
+        "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
         "source": "hn",
-        "time": "4/30/2026, 1:54:20 PM"
-      },
-      {
-        "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-        "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-        "source": "hn",
-        "time": "4/30/2026, 4:09:26 PM"
+        "time": "4/30/2026, 4:43:47 PM"
       }
     ],
     "world": [
