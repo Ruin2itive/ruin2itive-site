@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-04-30T19:17:57.262Z",
-  "updated_local": "4/30/2026, 7:17:57 PM",
+  "updated_iso": "2026-04-30T20:14:11.568Z",
+  "updated_local": "4/30/2026, 8:14:11 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Rolls Out Advanced Account Security for ChatGPT Users",
+        "url": "https://decrypt.co/366262/openai-advanced-account-security-chatgpt-users",
+        "source": "crypto",
+        "time": "Thu, 30 Apr 2026 19:51:43 +0000"
+      },
+      {
+        "title": "Ubuntu Linux Is Adding AI Features—Its Users Are Worried",
+        "url": "https://decrypt.co/366247/ubuntu-linux-adding-ai-features-users-worried",
+        "source": "crypto",
+        "time": "Thu, 30 Apr 2026 19:33:26 +0000"
+      },
       {
         "title": "Senate Votes to Ban Senators and Staff From Using Prediction Markets",
         "url": "https://decrypt.co/366243/senate-votes-ban-senators-staff-using-prediction-markets",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/366197/openai-explains-chatgpt-mention-goblins",
         "source": "crypto",
         "time": "Thu, 30 Apr 2026 18:16:37 +0000"
-      },
-      {
-        "title": "Agentic Memory: Walrus Takes On AI&#39;s Next Big Bottleneck",
-        "url": "https://decrypt.co/365834/agentic-memory-walrus-takes-on-ais-next-big-bottleneck",
-        "source": "crypto",
-        "time": "Thu, 30 Apr 2026 17:31:07 +0000"
-      },
-      {
-        "title": "Crypto Is the Most Muted Topic on Elon Musk’s X, Ahead of Politics: Product Head",
-        "url": "https://decrypt.co/366176/crypto-most-muted-topic-elon-musk-x-product-head",
-        "source": "crypto",
-        "time": "Thu, 30 Apr 2026 17:21:05 +0000"
       }
     ],
     "hacker": [
@@ -48,16 +48,16 @@
         "time": "4/30/2026, 4:09:26 PM"
       },
       {
+        "title": "CopyFail was not disclosed to Gentoo developer",
+        "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+        "source": "hn",
+        "time": "4/30/2026, 4:43:47 PM"
+      },
+      {
         "title": "I built a Game Boy emulator in F#",
         "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
         "source": "hn",
         "time": "4/30/2026, 5:14:21 PM"
-      },
-      {
-        "title": "CopyFail Was Not Disclosed to Distros",
-        "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-        "source": "hn",
-        "time": "4/30/2026, 4:43:47 PM"
       },
       {
         "title": "Belgium stops decommissioning nuclear power plants",
@@ -86,16 +86,16 @@
         "time": "Thu, 30 Apr 2026 18:48:46 GMT"
       },
       {
-        "title": "Trump to lift some whisky tariffs after King's visit",
+        "title": "Trump to remove whisky tariffs after King's visit",
         "url": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Apr 2026 19:10:24 GMT"
+        "time": "Thu, 30 Apr 2026 19:46:03 GMT"
       },
       {
-        "title": "Trainee driver crashes bus into River Seine near Paris",
-        "url": "https://www.bbc.com/news/articles/cm2pyxpwmdro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Banksy confirms he's behind statue in central London",
+        "url": "https://www.bbc.com/news/articles/c5y9wlnwl85o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Apr 2026 15:34:09 GMT"
+        "time": "Thu, 30 Apr 2026 17:12:41 GMT"
       }
     ],
     "projects": [
