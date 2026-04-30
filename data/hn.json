@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-04-30T05:51:03.768Z"
+    "built_at": "2026-04-30T08:07:12.410Z"
   },
-  "items": [
-    {
-      "title": "Experimenting with an ISP-style model for AI usage",
-      "url": "https://news.ycombinator.com/item?id=47958635",
-      "date": "2026-04-30T05:49:19.000Z"
-    },
-    {
-      "title": "Tracking Migration to the United States",
-      "url": "https://trackmigrations.org",
-      "date": "2026-04-30T05:49:08.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
