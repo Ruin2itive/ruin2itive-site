@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-04-30T23:57:49.143Z",
-  "updated_local": "4/30/2026, 11:57:49 PM",
+  "updated_iso": "2026-05-01T02:51:59.402Z",
+  "updated_local": "5/1/2026, 2:51:59 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Rivian allows you to disable all internet connectivity",
-        "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+        "title": "OpenWarp",
+        "url": "https://openwarp.zerx.dev",
         "source": "hn",
-        "time": "4/30/2026, 8:27:22 PM"
-      },
-      {
-        "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
-        "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
-        "source": "hn",
-        "time": "4/30/2026, 7:40:20 PM"
+        "time": "5/1/2026, 2:10:46 AM"
       },
       {
         "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
@@ -60,10 +54,16 @@
         "time": "4/29/2026, 5:09:03 PM"
       },
       {
-        "title": "CopyFail was not disclosed to distro developers?",
+        "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
         "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
         "source": "hn",
         "time": "4/30/2026, 4:43:47 PM"
+      },
+      {
+        "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+        "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+        "source": "hn",
+        "time": "4/30/2026, 4:09:26 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "UK terrorism threat level raised to severe after Golders Green attack",
         "url": "https://www.bbc.com/news/articles/cq6p4pz6p62o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Apr 2026 21:18:19 GMT"
+        "time": "Fri, 01 May 2026 02:24:27 GMT"
       },
       {
         "title": "'I held down Golders Green suspect' says volunteer who grabbed ankle",
@@ -83,7 +83,7 @@
         "title": "New footage shows how Trump dinner gunman charged through security in four seconds",
         "url": "https://www.bbc.com/news/articles/c4g7rmrlm17o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Apr 2026 23:39:06 GMT"
+        "time": "Fri, 01 May 2026 02:39:06 GMT"
       },
       {
         "title": "UK should not keep changing prime ministers, warns John Major",
