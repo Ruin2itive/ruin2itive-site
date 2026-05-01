@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-01T06:15:09.348Z",
-  "updated_local": "5/1/2026, 6:15:09 AM",
+  "updated_iso": "2026-05-01T07:29:57.349Z",
+  "updated_local": "5/1/2026, 7:29:57 AM",
   "sections": {
     "crypto": [
       {
@@ -48,6 +48,12 @@
         "time": "4/29/2026, 5:09:03 PM"
       },
       {
+        "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+        "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+        "source": "hn",
+        "time": "4/29/2026, 11:35:40 AM"
+      },
+      {
         "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
         "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
         "source": "hn",
         "time": "4/30/2026, 4:09:26 PM"
-      },
-      {
-        "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
-        "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
-        "source": "hn",
-        "time": "4/29/2026, 1:28:47 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Fri, 01 May 2026 02:39:06 GMT"
       },
       {
-        "title": "UK should not keep changing prime ministers, warns John Major",
-        "url": "https://www.bbc.com/news/articles/cgepy0xw1nzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 30 Apr 2026 23:44:54 GMT"
-      },
-      {
-        "title": "Fertiliser boss says Iran war puts 10 billion meals a week at risk",
+        "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
         "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 01 May 2026 05:51:18 GMT"
+        "time": "Fri, 01 May 2026 07:10:02 GMT"
       },
       {
-        "title": "King arrives in Bermuda after ending US trip with visit to small town America",
-        "url": "https://www.bbc.com/news/articles/cdrpjm47jv4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Labour's London squeeze exposes a fragmented modern British politics",
+        "url": "https://www.bbc.com/news/articles/cwy2vlww2ezo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 01 May 2026 02:19:06 GMT"
+        "time": "Fri, 01 May 2026 06:09:47 GMT"
       },
       {
         "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
         "url": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 01 May 2026 05:04:08 GMT"
+      },
+      {
+        "title": "The struggle to get hold of medication in England is set to get worse",
+        "url": "https://www.bbc.com/news/articles/c202jqn3jzro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 01 May 2026 00:23:00 GMT"
       }
     ],
     "projects": [
