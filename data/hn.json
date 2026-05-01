@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-01T19:00:14.362Z"
+    "built_at": "2026-05-01T20:08:13.636Z"
   },
-  "items": [
-    {
-      "title": "A desktop that bends to me",
-      "url": "https://isene.org/2026/05/Agency.html",
-      "date": "2026-05-01T18:59:45.000Z"
-    },
-    {
-      "title": "Numbers and the launch algorithm of an indie game that was featured on itch.io",
-      "url": "https://blog.luden.io/how-we-stayed-on-the-front-page-of-itch-io-for-over-a-month-8e0d0cf1cc17",
-      "date": "2026-05-01T18:58:45.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
