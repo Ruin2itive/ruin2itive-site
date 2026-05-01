@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-01T04:09:30.977Z",
-  "updated_local": "5/1/2026, 4:09:30 AM",
+  "updated_iso": "2026-05-01T06:15:09.348Z",
+  "updated_local": "5/1/2026, 6:15:09 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "Show HN: Winpodx – run Windows apps on Linux as native windows",
-        "url": "https://github.com/kernalix7/winpodx",
-        "source": "hn",
-        "time": "5/1/2026, 2:23:43 AM"
-      },
-      {
         "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
         "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
         "source": "hn",
@@ -64,21 +58,15 @@
         "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
         "source": "hn",
         "time": "4/30/2026, 4:09:26 PM"
+      },
+      {
+        "title": "Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac",
+        "url": "https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica",
+        "source": "hn",
+        "time": "4/29/2026, 1:28:47 PM"
       }
     ],
     "world": [
-      {
-        "title": "Public told 'be alert, not alarmed' as terror threat level raised after Golders Green attack",
-        "url": "https://www.bbc.com/news/articles/cq6p4pz6p62o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 01 May 2026 03:41:25 GMT"
-      },
-      {
-        "title": "'I held down Golders Green suspect' says volunteer who grabbed ankle",
-        "url": "https://www.bbc.com/news/articles/cn7pyp13y8no?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 30 Apr 2026 20:54:50 GMT"
-      },
       {
         "title": "New footage shows how Trump dinner gunman charged through security in four seconds",
         "url": "https://www.bbc.com/news/articles/c4g7rmrlm17o?at_medium=RSS&amp;at_campaign=rss",
@@ -95,7 +83,19 @@
         "title": "Fertiliser boss says Iran war puts 10 billion meals a week at risk",
         "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Apr 2026 23:08:09 GMT"
+        "time": "Fri, 01 May 2026 05:51:18 GMT"
+      },
+      {
+        "title": "King arrives in Bermuda after ending US trip with visit to small town America",
+        "url": "https://www.bbc.com/news/articles/cdrpjm47jv4o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 01 May 2026 02:19:06 GMT"
+      },
+      {
+        "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
+        "url": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 01 May 2026 05:04:08 GMT"
       }
     ],
     "projects": [
