@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-01T09:54:14.404Z",
-  "updated_local": "5/1/2026, 9:54:14 AM",
+  "updated_iso": "2026-05-01T10:39:41.581Z",
+  "updated_local": "5/1/2026, 10:39:41 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "South Korean Court Lifts Bithumb&#39;s Six-Month Business Suspension",
+        "url": "https://decrypt.co/366292/south-korean-court-lifts-bithumbs-six-month-business-suspension",
+        "source": "crypto",
+        "time": "Fri, 01 May 2026 10:32:10 +0000"
+      },
       {
         "title": "Mistral AI Drops New Open-Source Model. The Internet Is Not Impressed, Except for One Thing",
         "url": "https://decrypt.co/366275/mistral-ai-open-source-model-agents-internet-not-impressed",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/366262/openai-advanced-account-security-chatgpt-users",
         "source": "crypto",
         "time": "Thu, 30 Apr 2026 19:51:43 +0000"
-      },
-      {
-        "title": "Ubuntu Linux Is Adding AI Features—Its Users Are Worried",
-        "url": "https://decrypt.co/366247/ubuntu-linux-adding-ai-features-users-worried",
-        "source": "crypto",
-        "time": "Thu, 30 Apr 2026 19:33:26 +0000"
       }
     ],
     "hacker": [
@@ -48,25 +48,37 @@
         "time": "4/28/2026, 3:51:37 PM"
       },
       {
+        "title": "If I could make my own GitHub",
+        "url": "https://matduggan.com/if-i-could-make-my-own-github/",
+        "source": "hn",
+        "time": "5/1/2026, 6:21:01 AM"
+      },
+      {
         "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
         "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
         "source": "hn",
         "time": "4/30/2026, 4:41:00 PM"
-      },
-      {
-        "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
-        "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
-        "source": "hn",
-        "time": "4/29/2026, 11:35:40 AM"
-      },
-      {
-        "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-        "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-        "source": "hn",
-        "time": "4/30/2026, 4:43:47 PM"
       }
     ],
     "world": [
+      {
+        "title": "Man appears in court charged with attempted murder of two Jewish men",
+        "url": "https://www.bbc.com/news/articles/c3r2lr434wlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 01 May 2026 10:29:21 GMT"
+      },
+      {
+        "title": "Superdry co-founder found guilty of rape",
+        "url": "https://www.bbc.com/news/articles/czx2gwpe9evo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 01 May 2026 10:38:24 GMT"
+      },
+      {
+        "title": "Labour's London squeeze exposes a fragmented British politics",
+        "url": "https://www.bbc.com/news/articles/cwy2vlww2ezo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 01 May 2026 06:09:47 GMT"
+      },
       {
         "title": "New footage shows how Trump dinner gunman charged through security in four seconds",
         "url": "https://www.bbc.com/news/articles/c4g7rmrlm17o?at_medium=RSS&amp;at_campaign=rss",
@@ -78,24 +90,6 @@
         "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 01 May 2026 08:41:52 GMT"
-      },
-      {
-        "title": "Labour's London squeeze exposes a fragmented British politics",
-        "url": "https://www.bbc.com/news/articles/cwy2vlww2ezo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 01 May 2026 06:09:47 GMT"
-      },
-      {
-        "title": "The Renters' Rights Act is here - this is what it means for tenants and landlords",
-        "url": "https://www.bbc.com/news/articles/cqjwqp72y7ro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 30 Apr 2026 16:42:58 GMT"
-      },
-      {
-        "title": "Why hundreds of everyday medicines are now so hard to get",
-        "url": "https://www.bbc.com/news/articles/c202jqn3jzro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 01 May 2026 00:23:00 GMT"
       }
     ],
     "projects": [
