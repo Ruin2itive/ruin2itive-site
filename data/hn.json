@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-01T21:44:19.101Z"
+    "built_at": "2026-05-01T22:41:37.911Z"
   },
-  "items": [
-    {
-      "title": "Asdas",
-      "url": "https://news.ycombinator.com/item?id=47980794",
-      "date": "2026-05-01T21:42:53.000Z"
-    },
-    {
-      "title": "Update concerning DDoS attack on Canonical and Ubuntu",
-      "url": "https://discourse.ubuntu.com/t/update-concerning-ddos-attack-on-canonical-and-ubuntu/81482",
-      "date": "2026-05-01T21:42:38.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
