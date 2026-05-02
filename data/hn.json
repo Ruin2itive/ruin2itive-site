@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-02T18:46:07.968Z"
+    "built_at": "2026-05-02T19:49:02.410Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Ubuntu is going all in on Generative AI and other Linux distros might follow",
+      "url": "https://www.neowin.net/news/ubuntu-is-going-all-in-on-generative-ai-and-other-linux-distros-might-follow/",
+      "date": "2026-05-02T19:41:45.000Z"
+    },
+    {
+      "title": "Man takes robot to airport, gets ticket for it, it gets on plane",
+      "url": "https://twitter.com/scottbudman/status/2050321131467653197",
+      "date": "2026-05-02T19:39:43.000Z"
+    }
+  ]
 }
