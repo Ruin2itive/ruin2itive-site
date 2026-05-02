@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-02T10:52:56.599Z"
+    "built_at": "2026-05-02T11:38:55.424Z"
   },
-  "items": [
-    {
-      "title": "How to Disagree (2008)",
-      "url": "https://www.paulgraham.com/disagree.html",
-      "date": "2026-05-02T10:49:33.000Z"
-    },
-    {
-      "title": "Graham's Hierarchy of Disagreement",
-      "url": "https://commons.wikimedia.org/wiki/File:Graham%27s_Hierarchy_of_Disagreement-en.svg",
-      "date": "2026-05-02T10:48:25.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
