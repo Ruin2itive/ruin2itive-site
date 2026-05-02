@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-02T19:11:41.802Z",
-  "updated_local": "5/2/2026, 7:11:41 PM",
+  "updated_iso": "2026-05-02T19:54:27.162Z",
+  "updated_local": "5/2/2026, 7:54:27 PM",
   "sections": {
     "crypto": [
       {
@@ -36,28 +36,28 @@
     ],
     "hacker": [
       {
-        "title": "NetHack 5.0.0",
-        "url": "https://nethack.org/v500/release.html",
-        "source": "hn",
-        "time": "5/2/2026, 6:03:42 PM"
-      },
-      {
-        "title": "Videolan Dav2d",
+        "title": "Dav2d",
         "url": "https://code.videolan.org/videolan/dav2d",
         "source": "hn",
         "time": "5/2/2026, 5:32:29 PM"
-      },
-      {
-        "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
-        "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
-        "source": "hn",
-        "time": "5/2/2026, 3:38:17 PM"
       },
       {
         "title": "Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
         "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
         "source": "hn",
         "time": "4/30/2026, 9:12:23 AM"
+      },
+      {
+        "title": "NetHack 5.0.0",
+        "url": "https://nethack.org/v500/release.html",
+        "source": "hn",
+        "time": "5/2/2026, 6:03:42 PM"
+      },
+      {
+        "title": "Unsigned Sizes: A Five Year Mistake",
+        "url": "https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/",
+        "source": "hn",
+        "time": "5/2/2026, 6:40:19 PM"
       },
       {
         "title": "Flue is a TypeScript framework for building the next generation of agents",
