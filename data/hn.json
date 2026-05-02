@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-02T02:01:30.444Z"
+    "built_at": "2026-05-02T05:29:34.781Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Raspberry Pi 5 gets LLM smarts with AI HAT+ 2",
+      "url": "https://www.theregister.com/2026/01/15/pi_5_ai_hat_2/",
+      "date": "2026-05-02T05:15:15.000Z"
+    },
+    {
+      "title": "Show HN: Stop playing my matchstick puzzles, start building your own in seconds",
+      "url": "https://mathstick.github.io",
+      "date": "2026-05-02T05:04:39.000Z"
+    }
+  ]
 }
