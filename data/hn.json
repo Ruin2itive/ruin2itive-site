@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-02T22:32:08.743Z"
+    "built_at": "2026-05-02T23:35:33.053Z"
   },
-  "items": [
-    {
-      "title": "To Make Orchestras More Diverse, End Blind Auditions",
-      "url": "https://www.nytimes.com/2020/07/16/arts/music/blind-auditions-orchestras-race.html",
-      "date": "2026-05-02T22:30:17.000Z"
-    },
-    {
-      "title": "Meta faces New Mexico trial that could force change to Facebook, other platforms",
-      "url": "https://www.reuters.com/legal/government/meta-faces-new-mexico-trial-that-could-force-changes-facebook-other-platforms-2026-05-02/",
-      "date": "2026-05-02T22:21:36.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
