@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-02T17:38:05.860Z"
+    "built_at": "2026-05-02T18:46:07.968Z"
   },
-  "items": [
-    {
-      "title": "Squaring the Circle on Employee Equity",
-      "url": "https://blog.baldassari.me/employee-equity/",
-      "date": "2026-05-02T17:37:38.000Z"
-    },
-    {
-      "title": "MicroGPT Running at 50k Tkps on Cyclone V FPGA (Pure Hardware)",
-      "url": "https://github.com/Luthiraa/TALOS-V2",
-      "date": "2026-05-02T17:36:03.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
