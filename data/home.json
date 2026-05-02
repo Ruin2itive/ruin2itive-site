@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-02T10:50:00.054Z",
-  "updated_local": "5/2/2026, 10:50:00 AM",
+  "updated_iso": "2026-05-02T11:42:45.135Z",
+  "updated_local": "5/2/2026, 11:42:45 AM",
   "sections": {
     "crypto": [
       {
@@ -48,12 +48,6 @@
         "time": "5/2/2026, 4:38:04 AM"
       },
       {
-        "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-        "url": "https://mljar.com/",
-        "source": "hn",
-        "time": "5/2/2026, 10:21:31 AM"
-      },
-      {
         "title": "Why are there both TMP and TEMP environment variables? (2015)",
         "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
         "source": "hn",
@@ -64,6 +58,12 @@
         "url": "https://github.com/bruin-data/dac",
         "source": "hn",
         "time": "4/29/2026, 2:37:20 PM"
+      },
+      {
+        "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+        "url": "https://iesna.eu/?wasm=skyglow_demo",
+        "source": "hn",
+        "time": "5/2/2026, 9:08:18 AM"
       }
     ],
     "world": [
@@ -74,10 +74,10 @@
         "time": "Sat, 02 May 2026 10:25:06 GMT"
       },
       {
-        "title": "'I bought a baseball cap to hide my kippah': Jews observe first Shabbat after Golders Green attack",
-        "url": "https://www.bbc.com/news/articles/c3w2qp5gzn0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Winners, losers and a PM on the brink - what to expect in next week's elections",
+        "url": "https://www.bbc.com/news/articles/c0q2z7v3ly5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 02 May 2026 05:00:19 GMT"
+        "time": "Sat, 02 May 2026 11:03:41 GMT"
       },
       {
         "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
@@ -89,13 +89,13 @@
         "title": "Celebrity Traitors line-up announced - 21 famous faces set to enter castle",
         "url": "https://www.bbc.com/news/articles/c5yx5w43jzko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 02 May 2026 09:57:46 GMT"
+        "time": "Sat, 02 May 2026 10:53:57 GMT"
       },
       {
-        "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-        "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'I bought a baseball cap to hide my kippah': Jews observe first Shabbat after Golders Green attack",
+        "url": "https://www.bbc.com/news/articles/c3w2qp5gzn0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 02 May 2026 09:41:07 GMT"
+        "time": "Sat, 02 May 2026 05:00:19 GMT"
       }
     ],
     "projects": [
