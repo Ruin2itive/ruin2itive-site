@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-01T23:43:42.390Z"
+    "built_at": "2026-05-02T02:01:30.444Z"
   },
-  "items": [
-    {
-      "title": "Oregon's Non-Affiliated Surge and the Socialist Realignment Nobody Talks About",
-      "url": "https://fullstack.ing/posts/the-flight-from-party-oregons-non-affiliated-surge-and-the-socialist-realignment-nobody-talks-about",
-      "date": "2026-05-01T23:36:44.000Z"
-    },
-    {
-      "title": "Humanity on the Page",
-      "url": "https://www.commonwealmagazine.org/writing-artificial-intelligence-ai-rand-richards-cooper",
-      "date": "2026-05-01T23:36:40.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
