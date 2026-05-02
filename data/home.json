@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-02T15:43:06.950Z",
-  "updated_local": "5/2/2026, 3:43:06 PM",
+  "updated_iso": "2026-05-02T15:56:15.644Z",
+  "updated_local": "5/2/2026, 3:56:15 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "LLMs consistently pick resumes they generate over ones by humans or other models",
+        "url": "https://arxiv.org/abs/2509.00462",
+        "source": "hn",
+        "time": "5/2/2026, 3:28:13 PM"
+      },
+      {
         "title": "How fast is a macOS VM, and how small could it be?",
         "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
         "source": "hn",
@@ -52,12 +58,6 @@
         "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
         "source": "hn",
         "time": "5/2/2026, 4:38:04 AM"
-      },
-      {
-        "title": "LLMs consistently pick resumes they generate over ones by humans or other models",
-        "url": "https://arxiv.org/abs/2509.00462",
-        "source": "hn",
-        "time": "5/2/2026, 3:28:13 PM"
       },
       {
         "title": "Refusal in Language Models Is Mediated by a Single Direction",
