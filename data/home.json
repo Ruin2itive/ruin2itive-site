@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-03T09:26:44.957Z",
-  "updated_local": "5/3/2026, 9:26:44 AM",
+  "updated_iso": "2026-05-03T10:02:18.668Z",
+  "updated_local": "5/3/2026, 10:02:18 AM",
   "sections": {
     "crypto": [
       {
@@ -30,25 +30,19 @@
     ],
     "hacker": [
       {
-        "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+        "title": "A couple million lines of Haskell: Production engineering at Mercury",
         "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
         "source": "hn",
         "time": "5/3/2026, 12:01:14 AM"
       },
       {
-        "title": "This Month in Ladybird - April 2026",
+        "title": "This Month in Ladybird – April 2026",
         "url": "https://ladybird.org/newsletter/2026-04-30/",
         "source": "hn",
         "time": "5/2/2026, 8:46:30 PM"
       },
       {
-        "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-        "url": "https://acai.sh/blog/specsmaxxing",
-        "source": "hn",
-        "time": "5/3/2026, 6:33:38 AM"
-      },
-      {
-        "title": "Forging ZK proofs to mint arbitrary DUSK tokens",
+        "title": "Unverified Evaluations in Dusk's PLONK",
         "url": "https://osec.io/blog/2026-04-30-unverified-evaluations-dusk-plonk/",
         "source": "hn",
         "time": "4/30/2026, 7:14:41 PM"
@@ -58,6 +52,12 @@
         "url": "https://code.videolan.org/videolan/dav2d",
         "source": "hn",
         "time": "5/2/2026, 5:32:29 PM"
+      },
+      {
+        "title": "Six Years Perfecting Maps on WatchOS",
+        "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+        "source": "hn",
+        "time": "5/2/2026, 9:14:29 PM"
       }
     ],
     "world": [
