@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-03T07:21:51.748Z",
-  "updated_local": "5/3/2026, 7:21:51 AM",
+  "updated_iso": "2026-05-03T08:05:10.848Z",
+  "updated_local": "5/3/2026, 8:05:10 AM",
   "sections": {
     "crypto": [
       {
@@ -30,6 +30,12 @@
     ],
     "hacker": [
       {
+        "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+        "url": "https://acai.sh/blog/specsmaxxing",
+        "source": "hn",
+        "time": "5/3/2026, 6:33:38 AM"
+      },
+      {
         "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
         "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
         "source": "hn",
@@ -52,12 +58,6 @@
         "url": "https://code.videolan.org/videolan/dav2d",
         "source": "hn",
         "time": "5/2/2026, 5:32:29 PM"
-      },
-      {
-        "title": "Six Years Perfecting Maps on WatchOS",
-        "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-        "source": "hn",
-        "time": "5/2/2026, 9:14:29 PM"
       }
     ],
     "world": [
