@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-03T05:51:04.600Z"
+    "built_at": "2026-05-03T07:51:02.976Z"
   },
-  "items": [
-    {
-      "title": "Yann LeCun's Billion Dollar Bet [video]",
-      "url": "https://www.youtube.com/watch?v=kYkIdXwW2AE",
-      "date": "2026-05-03T05:48:50.000Z"
-    },
-    {
-      "title": "Show HN: Stay Lean – Calorie Navigation",
-      "url": "https://apps.apple.com/us/app/stay-lean-calorie-navigation/id6762153463",
-      "date": "2026-05-03T05:47:44.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
