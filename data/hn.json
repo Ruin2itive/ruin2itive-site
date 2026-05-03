@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-03T07:51:02.976Z"
+    "built_at": "2026-05-03T09:15:26.068Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Vintage LLMs",
+      "url": "https://github.com/entanglr/awesome-vintage-llms",
+      "date": "2026-05-03T09:14:37.000Z"
+    },
+    {
+      "title": "Technology helps observers understand how iconic artworks were created",
+      "url": "https://www.psu.edu/news/information-sciences-and-technology/story/technology-helps-observers-understand-how-iconic-artworks",
+      "date": "2026-05-03T09:12:59.000Z"
+    }
+  ]
 }
