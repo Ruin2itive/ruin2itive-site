@@ -1,45 +1,57 @@
 {
-  "updated_iso": "2026-05-03T02:44:21.010Z",
-  "updated_local": "5/3/2026, 2:44:21 AM",
+  "updated_iso": "2026-05-03T04:01:12.029Z",
+  "updated_local": "5/3/2026, 4:01:12 AM",
   "sections": {
     "crypto": [
       {
-        "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!",
-        "url": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
+        "title": "Visit Decrypt - Crypto News",
+        "url": "https://decrypt.co/",
         "source": "crypto",
-        "time": "Fri, 23 Jan 2026 16:40:55 +0000"
+        "time": ""
       },
       {
-        "title": "From Stellar to Canton: How Franklin Templeton Adopted Tokenization",
-        "url": "https://decrypt.co/videos/interviews/ZJJKjnAR/from-stellar-to-canton-how-franklin-templeton-adopted-tokenization",
+        "title": "Bitcoin News",
+        "url": "https://decrypt.co/price/bitcoin",
         "source": "crypto",
-        "time": "Thu, 22 Jan 2026 18:29:30 +0000"
+        "time": ""
       },
       {
-        "title": "Trump’s speech at Davos gives small boost to Crypto! Saylor buys $2.13B BTC! Blondish Interview!",
-        "url": "https://decrypt.co/videos/interviews/nWmEOl4c/trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-buys-213b-btc-blondish-interview",
+        "title": "Ethereum News",
+        "url": "https://decrypt.co/price/ethereum",
         "source": "crypto",
-        "time": "Wed, 21 Jan 2026 16:17:26 +0000"
+        "time": ""
       },
       {
-        "title": "Trump Tariffs 3: Return of the Bull Market! NYSE Tokenising, what that means for $Hype! Claude Meme Meta!",
-        "url": "https://decrypt.co/videos/interviews/O1HZN4PH/trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-what-that-means-for-hype-claude-meme-meta",
+        "title": "NFT News",
+        "url": "https://decrypt.co/learn/what-are-nfts-non-fungible-tokens",
         "source": "crypto",
-        "time": "Tue, 20 Jan 2026 18:12:06 +0000"
+        "time": ""
+      },
+      {
+        "title": "DeFi News",
+        "url": "https://decrypt.co/learn/what-is-defi",
+        "source": "crypto",
+        "time": ""
       }
     ],
     "hacker": [
       {
-        "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-        "url": "https://github.com/microsoft/vscode/pull/310226",
+        "title": "Open Source Does Not Imply Open Community",
+        "url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
         "source": "hn",
-        "time": "5/2/2026, 7:57:26 PM"
+        "time": "5/3/2026, 2:36:09 AM"
       },
       {
         "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
         "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
         "source": "hn",
         "time": "5/3/2026, 12:01:14 AM"
+      },
+      {
+        "title": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
+        "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
+        "source": "hn",
+        "time": "5/3/2026, 1:22:41 AM"
       },
       {
         "title": "This Month in Ladybird - April 2026",
@@ -52,12 +64,6 @@
         "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
         "source": "hn",
         "time": "5/2/2026, 9:14:29 PM"
-      },
-      {
-        "title": "Dav2d",
-        "url": "https://code.videolan.org/videolan/dav2d",
-        "source": "hn",
-        "time": "5/2/2026, 5:32:29 PM"
       }
     ],
     "world": [
