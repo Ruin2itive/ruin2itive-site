@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-03T18:46:10.031Z"
+    "built_at": "2026-05-03T19:49:04.399Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "New portable technology detects GPS spoofing in real time",
+      "url": "https://www.ornl.gov/news/ornls-breakthrough-detector-protects-trucking-shipments-gps-deception",
+      "date": "2026-05-03T19:48:31.000Z"
+    },
+    {
+      "title": "My favorite adversarial review prompt",
+      "url": "https://blog.fsck.com/2026/05/01/adversarial-review/",
+      "date": "2026-05-03T19:48:14.000Z"
+    }
+  ]
 }
