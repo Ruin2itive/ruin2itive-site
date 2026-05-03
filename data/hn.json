@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-03T17:40:08.420Z"
+    "built_at": "2026-05-03T18:46:10.031Z"
   },
-  "items": [
-    {
-      "title": "Maybe AI Isn't a Bubble After All",
-      "url": "https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/",
-      "date": "2026-05-03T17:39:38.000Z"
-    },
-    {
-      "title": "Collaborative Editing in CodeMirror",
-      "url": "https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html",
-      "date": "2026-05-03T17:39:17.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
