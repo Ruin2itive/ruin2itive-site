@@ -1,52 +1,34 @@
 {
-  "updated_iso": "2026-05-03T05:57:15.046Z",
-  "updated_local": "5/3/2026, 5:57:15 AM",
+  "updated_iso": "2026-05-03T07:21:51.748Z",
+  "updated_local": "5/3/2026, 7:21:51 AM",
   "sections": {
     "crypto": [
       {
-        "title": "Visit Decrypt - Crypto News",
-        "url": "https://decrypt.co/",
+        "title": "Trump sues JPMorgan for $5B! Ledger prepares for $4B IPO! “Crypto Adoption is no longer reversible” says PWC!",
+        "url": "https://decrypt.co/videos/interviews/VpBdSuOE/trump-sues-jpmorgan-for-5b-ledger-prepares-for-4b-ipo-crypto-adoption-is-no-longer-reversible-says-pwc",
         "source": "crypto",
-        "time": ""
+        "time": "Fri, 23 Jan 2026 16:40:55 +0000"
       },
       {
-        "title": "Bitcoin News",
-        "url": "https://decrypt.co/price/bitcoin",
+        "title": "From Stellar to Canton: How Franklin Templeton Adopted Tokenization",
+        "url": "https://decrypt.co/videos/interviews/ZJJKjnAR/from-stellar-to-canton-how-franklin-templeton-adopted-tokenization",
         "source": "crypto",
-        "time": ""
+        "time": "Thu, 22 Jan 2026 18:29:30 +0000"
       },
       {
-        "title": "Ethereum News",
-        "url": "https://decrypt.co/price/ethereum",
+        "title": "Trump’s speech at Davos gives small boost to Crypto! Saylor buys $2.13B BTC! Blondish Interview!",
+        "url": "https://decrypt.co/videos/interviews/nWmEOl4c/trumps-speech-at-davos-gives-small-boost-to-crypto-saylor-buys-213b-btc-blondish-interview",
         "source": "crypto",
-        "time": ""
+        "time": "Wed, 21 Jan 2026 16:17:26 +0000"
       },
       {
-        "title": "NFT News",
-        "url": "https://decrypt.co/learn/what-are-nfts-non-fungible-tokens",
+        "title": "Trump Tariffs 3: Return of the Bull Market! NYSE Tokenising, what that means for $Hype! Claude Meme Meta!",
+        "url": "https://decrypt.co/videos/interviews/O1HZN4PH/trump-tariffs-3-return-of-the-bull-market-nyse-tokenising-what-that-means-for-hype-claude-meme-meta",
         "source": "crypto",
-        "time": ""
-      },
-      {
-        "title": "DeFi News",
-        "url": "https://decrypt.co/learn/what-is-defi",
-        "source": "crypto",
-        "time": ""
+        "time": "Tue, 20 Jan 2026 18:12:06 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-        "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-        "source": "hn",
-        "time": "5/3/2026, 4:05:28 AM"
-      },
-      {
-        "title": "Clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-        "url": "https://www.bbc.com/news/articles/cvgzk91leweo",
-        "source": "hn",
-        "time": "5/3/2026, 1:22:41 AM"
-      },
       {
         "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
         "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
@@ -58,6 +40,18 @@
         "url": "https://ladybird.org/newsletter/2026-04-30/",
         "source": "hn",
         "time": "5/2/2026, 8:46:30 PM"
+      },
+      {
+        "title": "The IBM Granite 4.1 family of models",
+        "url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
+        "source": "hn",
+        "time": "4/30/2026, 2:01:26 PM"
+      },
+      {
+        "title": "Dav2d",
+        "url": "https://code.videolan.org/videolan/dav2d",
+        "source": "hn",
+        "time": "5/2/2026, 5:32:29 PM"
       },
       {
         "title": "Six Years Perfecting Maps on WatchOS",
@@ -74,10 +68,10 @@
         "time": "Sun, 03 May 2026 00:03:32 GMT"
       },
       {
-        "title": "Airlines can cancel flights in advance over fuel shortages, under new plans",
+        "title": "Airlines can cancel flights in advance over fuel shortages under new plans",
         "url": "https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 02 May 2026 21:35:09 GMT"
+        "time": "Sun, 03 May 2026 07:12:25 GMT"
       },
       {
         "title": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
@@ -92,10 +86,10 @@
         "time": "Sat, 02 May 2026 23:19:27 GMT"
       },
       {
-        "title": "Winners, losers and a PM on the brink - what to expect in next week's elections",
-        "url": "https://www.bbc.com/news/articles/c0q2z7v3ly5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "From beds to LED masks, is the red light craze giving us more than just a warm glow?",
+        "url": "https://www.bbc.com/news/articles/c2lw59jrdkxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 02 May 2026 11:03:41 GMT"
+        "time": "Sat, 02 May 2026 23:00:30 GMT"
       }
     ],
     "projects": [
