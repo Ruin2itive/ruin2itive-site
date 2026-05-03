@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-03T22:54:01.029Z",
-  "updated_local": "5/3/2026, 10:54:01 PM",
+  "updated_iso": "2026-05-03T23:42:22.709Z",
+  "updated_local": "5/3/2026, 11:42:22 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+        "url": "https://github.com/aattaran/deepclaude",
+        "source": "hn",
+        "time": "5/3/2026, 10:13:20 PM"
+      },
+      {
         "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
         "url": "https://partyon.xyz/@nullagent/116499715071759135",
         "source": "hn",
         "time": "5/3/2026, 6:03:14 PM"
       },
       {
-        "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-        "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+        "title": "The 'Hidden' Costs of Great Abstractions",
+        "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
         "source": "hn",
-        "time": "5/3/2026, 12:30:50 AM"
+        "time": "5/3/2026, 11:12:02 PM"
       },
       {
         "title": "Southwest Headquarters Tour",
@@ -58,12 +64,6 @@
         "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
         "source": "hn",
         "time": "5/1/2026, 1:38:27 PM"
-      },
-      {
-        "title": "A desktop made for one",
-        "url": "https://isene.org/2026/05/Audience-of-One.html",
-        "source": "hn",
-        "time": "5/3/2026, 3:32:05 PM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 03 May 2026 21:28:09 GMT"
+      },
+      {
+        "title": "The threat to summer holidays looming from jet fuel shortages",
+        "url": "https://www.bbc.com/news/articles/c86d9v28qxxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 03 May 2026 23:03:41 GMT"
       },
       {
         "title": "Man and woman die and three injured in house blast",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c1420e1p1l0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 03 May 2026 21:30:03 GMT"
-      },
-      {
-        "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-        "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 03 May 2026 08:41:23 GMT"
       }
     ],
     "projects": [
