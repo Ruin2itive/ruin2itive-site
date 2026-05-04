@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-05-04T15:13:50.938Z",
-  "updated_local": "5/4/2026, 3:13:50 PM",
+  "updated_iso": "2026-05-04T16:01:13.849Z",
+  "updated_local": "5/4/2026, 4:01:13 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "DTCC Reveals Launch Plans for Tokenization Service With Wall Street Giants Onboard",
+        "url": "https://decrypt.co/366646/dtcc-reveals-launch-tokenization-service-wall-street-giants-onboard",
+        "source": "crypto",
+        "time": "Mon, 04 May 2026 15:52:13 +0000"
+      },
+      {
+        "title": "BitMine Buys $240 Million in Ethereum as Tom Lee Heralds Arrival of &#39;Crypto Spring&#39;",
+        "url": "https://decrypt.co/366639/bitmine-buys-240-million-ethereum-tom-lee-heralds-crypto-spring",
+        "source": "crypto",
+        "time": "Mon, 04 May 2026 15:19:59 +0000"
+      },
       {
         "title": "Strategy Skips Bitcoin Buy as BTC Hits $80K for First Time Since January",
         "url": "https://decrypt.co/366624/strategy-skips-bitcoin-buy-btc-80k-first-time-since-january",
@@ -20,21 +32,27 @@
         "url": "https://decrypt.co/366627/gamestop-makes-55-5-billion-offer-acquire-ebay",
         "source": "crypto",
         "time": "Mon, 04 May 2026 13:50:55 +0000"
-      },
-      {
-        "title": "Morning Minute: Bitcoin Clears $80K, Reverses on Iran Missile Strike",
-        "url": "https://decrypt.co/366623/morning-minute-bitcoin-clears-80k-reverses-iran-missile-strike",
-        "source": "crypto",
-        "time": "Mon, 04 May 2026 13:19:36 +0000"
-      },
-      {
-        "title": "How Canton Network Lets Institutions Guard Against DeFi Security Risks: Digital Asset CEO",
-        "url": "https://decrypt.co/366086/how-canton-network-lets-institutions-guard-against-defi-security-risks",
-        "source": "crypto",
-        "time": "Sun, 03 May 2026 20:20:00 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+        "url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
+        "source": "hn",
+        "time": "5/4/2026, 3:10:41 PM"
+      },
+      {
+        "title": "Redis array: short story of a long development process",
+        "url": "https://antirez.com/news/164",
+        "source": "hn",
+        "time": "5/4/2026, 2:23:07 PM"
+      },
+      {
+        "title": "How Monero's proof of work works",
+        "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
+        "source": "hn",
+        "time": "5/4/2026, 2:10:50 PM"
+      },
       {
         "title": "Talking to 35 Strangers at the Gym",
         "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
@@ -46,33 +64,9 @@
         "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
         "source": "hn",
         "time": "5/4/2026, 12:53:46 PM"
-      },
-      {
-        "title": "GameStop makes $55.5B takeover offer for eBay",
-        "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-        "source": "hn",
-        "time": "5/4/2026, 9:31:12 AM"
-      },
-      {
-        "title": "Newton's law of gravity passes its biggest test",
-        "url": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
-        "source": "hn",
-        "time": "5/4/2026, 12:52:57 PM"
-      },
-      {
-        "title": "How Monero's proof of work works",
-        "url": "https://blog.alcazarsec.com/tech/posts/how-moneros-proof-of-work-works",
-        "source": "hn",
-        "time": "5/4/2026, 2:10:50 PM"
       }
     ],
     "world": [
-      {
-        "title": "The threat to summer holidays looming from jet fuel shortages",
-        "url": "https://www.bbc.com/news/articles/c86d9v28qxxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 03 May 2026 23:03:41 GMT"
-      },
       {
         "title": "Some Iranians fear the regime is now more entrenched - and ready for revenge",
         "url": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&amp;at_campaign=rss",
@@ -86,10 +80,16 @@
         "time": "Mon, 04 May 2026 15:03:13 GMT"
       },
       {
-        "title": "Thousands could benefit from cancer jab that cuts treatment time to minutes",
-        "url": "https://www.bbc.com/news/articles/cx214vld41ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Princess Eugenie expecting third child this summer",
+        "url": "https://www.bbc.com/news/articles/clyp246d9k1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 03 May 2026 23:10:56 GMT"
+        "time": "Mon, 04 May 2026 10:35:36 GMT"
+      },
+      {
+        "title": "Two arrested over arson attack at Golders Green memorial",
+        "url": "https://www.bbc.com/news/articles/c9v3kvjxr4mo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 04 May 2026 15:58:29 GMT"
       },
       {
         "title": "What an empty car park tells us about the UK's debt problem",
