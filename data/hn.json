@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-04T12:21:13.856Z"
+    "built_at": "2026-05-04T15:05:41.639Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Building a new enterprise AI services company with Blackstone, H&F, and Goldman",
+      "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "date": "2026-05-04T15:04:59.000Z"
+    },
+    {
+      "title": "You Were Tricked: An 8000 Word Response to Lars Lofgren's Viral Codesmith Piece",
+      "url": "https://michaelnovati.substack.com/p/a-response-to-lars-lofgrens-codesmith",
+      "date": "2026-05-04T15:03:00.000Z"
+    }
+  ]
 }
