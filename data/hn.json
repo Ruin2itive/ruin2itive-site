@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-04T10:58:50.392Z"
+    "built_at": "2026-05-04T12:21:13.856Z"
   },
-  "items": [
-    {
-      "title": "Story of Two GPUs: Characterizing the Resilience of Hopper H100 and Ampere A100",
-      "url": "https://arxiv.org/abs/2503.11901",
-      "date": "2026-05-04T10:48:47.000Z"
-    },
-    {
-      "title": "The bottleneck was never the code",
-      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
-      "date": "2026-05-04T10:46:15.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
