@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-05-04T20:13:02.391Z",
-  "updated_local": "5/4/2026, 8:13:02 PM",
+  "updated_iso": "2026-05-04T21:14:39.637Z",
+  "updated_local": "5/4/2026, 9:14:39 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Haun Ventures Raises $1 Billion Fund for the Intersection of Crypto and AI Agents",
+        "url": "https://decrypt.co/366728/haun-ventures-raises-1-billion-fund-intersection-crypto-tech-ai-agents",
+        "source": "crypto",
+        "time": "Mon, 04 May 2026 20:32:03 +0000"
+      },
+      {
+        "title": "DeepClaude Lets You Run Claude Code With DeepSeek&#39;s Brain for 17x Cheaper",
+        "url": "https://decrypt.co/366729/deepclaude-run-claude-code-deepseek-brain-17x-cheaper",
+        "source": "crypto",
+        "time": "Mon, 04 May 2026 20:19:37 +0000"
+      },
       {
         "title": "US Government Says China&#39;s Best AI Models Lag Behind. Experts Aren&#39;t So Sure",
         "url": "https://decrypt.co/366685/us-says-china-best-ai-models-lag-behind-experts-not-sure",
@@ -20,26 +32,14 @@
         "url": "https://decrypt.co/366680/banks-stay-tight-lipped-as-senators-reveal-proposed-clarity-act-stablecoin-deal",
         "source": "crypto",
         "time": "Mon, 04 May 2026 18:01:52 +0000"
-      },
-      {
-        "title": "Western Union Launches USDPT Stablecoin on Solana via Anchorage Digital",
-        "url": "https://decrypt.co/366677/western-union-usdpt-stablecoin-solana-anchorage-digital",
-        "source": "crypto",
-        "time": "Mon, 04 May 2026 17:31:33 +0000"
-      },
-      {
-        "title": "&#39;This Is Fine&#39; Creator Says AI Startup Stole His Meme for Subway Ads",
-        "url": "https://decrypt.co/366650/this-is-fine-creator-ai-startup-stole-meme-subway-ads",
-        "source": "crypto",
-        "time": "Mon, 04 May 2026 17:12:59 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability",
-        "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+        "title": "How OpenAI delivers low-latency voice AI at scale",
+        "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
         "source": "hn",
-        "time": "5/4/2026, 5:46:32 PM"
+        "time": "5/4/2026, 7:42:47 PM"
       },
       {
         "title": "I am worried about Bun",
@@ -48,16 +48,16 @@
         "time": "5/4/2026, 4:45:00 PM"
       },
       {
+        "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+        "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+        "source": "hn",
+        "time": "5/4/2026, 5:46:32 PM"
+      },
+      {
         "title": "Talking to strangers at the gym",
         "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
         "source": "hn",
         "time": "5/4/2026, 11:41:02 AM"
-      },
-      {
-        "title": "How OpenAI delivers low-latency voice AI at scale",
-        "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-        "source": "hn",
-        "time": "5/4/2026, 7:42:47 PM"
       },
       {
         "title": "GameStop makes $55.5B takeover offer for eBay",
@@ -77,19 +77,19 @@
         "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
         "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 04 May 2026 19:00:40 GMT"
+        "time": "Mon, 04 May 2026 21:04:20 GMT"
+      },
+      {
+        "title": "Blake Lively and Justin Baldoni settle lawsuit over It Ends With Us film",
+        "url": "https://www.bbc.com/news/articles/c936q7np647o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 04 May 2026 21:12:49 GMT"
       },
       {
         "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
         "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 04 May 2026 16:07:57 GMT"
-      },
-      {
-        "title": "Britney Spears pleads guilty to reckless driving after arrest",
-        "url": "https://www.bbc.com/news/articles/ce9p09e5vnro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 04 May 2026 17:11:56 GMT"
       },
       {
         "title": "Two arrested over arson attack at Golders Green memorial",
