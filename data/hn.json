@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-05T22:51:23.364Z"
+    "built_at": "2026-05-05T23:41:10.841Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Whole-body ultrasound captures full cross-sections in 10 seconds",
+      "url": "https://medicalxpress.com/news/2026-04-body-ultrasound-captures-full-sections.html",
+      "date": "2026-05-05T23:35:10.000Z"
+    },
+    {
+      "title": "DeepSeek V4 Pro: The First Chinese Model at the Frontier",
+      "url": "https://foodtruckbench.com/blog/deepseek-v4-pro",
+      "date": "2026-05-05T23:33:31.000Z"
+    }
+  ]
 }
