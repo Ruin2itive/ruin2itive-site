@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-05T03:38:57.877Z",
-  "updated_local": "5/5/2026, 3:38:57 AM",
+  "updated_iso": "2026-05-05T04:14:58.459Z",
+  "updated_local": "5/5/2026, 4:14:58 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Bun is being ported from Zig to Rust",
-        "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-        "source": "hn",
-        "time": "5/5/2026, 1:08:17 AM"
-      },
-      {
         "title": "What I'm Hearing About Cognitive Debt (So Far)",
         "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
         "source": "hn",
         "time": "5/5/2026, 2:08:21 AM"
+      },
+      {
+        "title": "Bun is being ported from Zig to Rust",
+        "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+        "source": "hn",
+        "time": "5/5/2026, 1:08:17 AM"
       },
       {
         "title": "How OpenAI delivers low-latency voice AI at scale",
@@ -54,16 +54,16 @@
         "time": "5/4/2026, 7:42:47 PM"
       },
       {
+        "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+        "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+        "source": "hn",
+        "time": "5/5/2026, 3:43:08 AM"
+      },
+      {
         "title": "Pulitzer Prize Winner in International Reporting",
         "url": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
         "source": "hn",
         "time": "5/5/2026, 2:22:21 AM"
-      },
-      {
-        "title": "Talking to strangers at the gym",
-        "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-        "source": "hn",
-        "time": "5/4/2026, 11:41:02 AM"
       }
     ],
     "world": [
@@ -71,19 +71,7 @@
         "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
         "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 05 May 2026 01:50:39 GMT"
-      },
-      {
-        "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
-        "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 04 May 2026 21:33:17 GMT"
-      },
-      {
-        "title": "The most talked-about looks at this year's Met Gala",
-        "url": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 05 May 2026 02:46:40 GMT"
+        "time": "Tue, 05 May 2026 04:09:40 GMT"
       },
       {
         "title": "Starmer to host Downing Street summit to address antisemitism",
@@ -92,10 +80,22 @@
         "time": "Tue, 05 May 2026 00:38:20 GMT"
       },
       {
+        "title": "The most talked-about looks at this year's Met Gala",
+        "url": "https://www.bbc.com/news/articles/c5y9wq9y0p1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 05 May 2026 04:05:39 GMT"
+      },
+      {
         "title": "Blake Lively and Justin Baldoni settle lawsuit over It Ends With Us film",
         "url": "https://www.bbc.com/news/articles/c936q7np647o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 04 May 2026 22:05:37 GMT"
+      },
+      {
+        "title": "Second hantavirus case confirmed after three die in suspected cruise ship outbreak",
+        "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 05 May 2026 01:14:04 GMT"
       }
     ],
     "projects": [
