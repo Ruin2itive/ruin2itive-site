@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-05-05T14:18:20.204Z",
-  "updated_local": "5/5/2026, 2:18:20 PM",
+  "updated_iso": "2026-05-05T16:23:00.981Z",
+  "updated_local": "5/5/2026, 4:23:00 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "US Government Will Vet Pre-Release AI Models From Google, xAI and Microsoft",
+        "url": "https://decrypt.co/366810/us-government-vet-pre-release-ai-models-google-xai-microsoft",
+        "source": "crypto",
+        "time": "Tue, 05 May 2026 16:21:55 +0000"
+      },
+      {
+        "title": "Bitcoin ETFs Draw Investment Surge After Brief Lull Threatens Winning Streak",
+        "url": "https://decrypt.co/366796/bitcoin-etfs-draw-investment-surge-lull-threatens-winning-streak",
+        "source": "crypto",
+        "time": "Tue, 05 May 2026 15:01:30 +0000"
+      },
       {
         "title": "Andreessen Horowitz Raises $2.2 Billion to Fund Next Wave of Crypto Startups",
         "url": "https://decrypt.co/366788/andreessen-horowitz-raises-2-2-billion-fund-crypto-startups",
@@ -20,32 +32,26 @@
         "url": "https://decrypt.co/366765/coinbase-cuts-14-of-staff-amid-crypto-down-market-ai-adoption-ceo",
         "source": "crypto",
         "time": "Tue, 05 May 2026 12:18:41 +0000"
-      },
-      {
-        "title": "Morning Minute: Crypto VC Haun Raises $1B Despite Market Slump",
-        "url": "https://decrypt.co/366761/morning-minute-crypto-vc-haun-raises-1b-despite-market-slump",
-        "source": "crypto",
-        "time": "Tue, 05 May 2026 11:44:08 +0000"
-      },
-      {
-        "title": "TON Surges 36% as Telegram ‘Replaces’ TON Foundation",
-        "url": "https://decrypt.co/366754/ton-surges-36-as-telegram-replaces-ton-foundation",
-        "source": "crypto",
-        "time": "Tue, 05 May 2026 11:34:11 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
-        "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
+        "title": "Agents for financial services and insurance",
+        "url": "https://www.anthropic.com/news/finance-agents",
         "source": "hn",
-        "time": "5/5/2026, 12:28:28 PM"
+        "time": "5/5/2026, 3:05:47 PM"
       },
       {
-        "title": "AI Product Graveyard",
-        "url": "https://tooldirectory.ai/ai-graveyard",
+        "title": "Three Inverse Laws of AI",
+        "url": "https://susam.net/inverse-laws-of-robotics.html",
         "source": "hn",
-        "time": "5/5/2026, 1:00:47 PM"
+        "time": "5/5/2026, 3:27:18 PM"
+      },
+      {
+        "title": "Yet Another GitHub Incident",
+        "url": "https://www.githubstatus.com/incidents/1j40g94rn22j",
+        "source": "hn",
+        "time": "5/5/2026, 2:21:18 PM"
       },
       {
         "title": "Async Rust never left the MVP state",
@@ -58,32 +64,26 @@
         "url": "https://distr.sh/blog/running-docker-in-production/",
         "source": "hn",
         "time": "4/30/2026, 1:21:43 PM"
-      },
-      {
-        "title": "Simple Meta-Harness on Islo.dev",
-        "url": "https://zozo123.github.io/meta-harness-on-islo-page/",
-        "source": "hn",
-        "time": "5/5/2026, 1:55:45 PM"
       }
     ],
     "world": [
       {
-        "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all out war",
+        "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
         "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 05 May 2026 11:38:03 GMT"
       },
       {
-        "title": "All of society must tackle 'crisis' of antisemitism, Starmer says",
-        "url": "https://www.bbc.com/news/articles/czd2l55d1e7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Woman and ex-partner killed in Bristol house explosion named",
+        "url": "https://www.bbc.com/news/articles/cx21q55gz12o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 05 May 2026 14:15:20 GMT"
+        "time": "Tue, 05 May 2026 15:54:11 GMT"
       },
       {
-        "title": "Palestine Action activists guilty of criminal damage",
-        "url": "https://www.bbc.com/news/articles/cm2p99rxr5po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hate crime prosecutions to be fast-tracked after antisemitic attacks",
+        "url": "https://www.bbc.com/news/articles/cz72eye5zzeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 05 May 2026 14:12:33 GMT"
+        "time": "Tue, 05 May 2026 16:21:17 GMT"
       },
       {
         "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
@@ -92,10 +92,10 @@
         "time": "Tue, 05 May 2026 14:13:22 GMT"
       },
       {
-        "title": "Dangerous baby-sleep advice given to parents by self-described experts, secret filming reveals",
-        "url": "https://www.bbc.com/news/articles/ce84e1vn1l2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Palestine Action activists guilty of criminal damage",
+        "url": "https://www.bbc.com/news/articles/cm2p99rxr5po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 05 May 2026 05:01:18 GMT"
+        "time": "Tue, 05 May 2026 15:49:11 GMT"
       }
     ],
     "projects": [
