@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-05T21:56:15.942Z"
+    "built_at": "2026-05-05T22:51:23.364Z"
   },
-  "items": [
-    {
-      "title": "AI Tools Directory and Comparison Platform",
-      "url": "https://comparatif.ai-explorer.io",
-      "date": "2026-05-05T21:55:33.000Z"
-    },
-    {
-      "title": "Kowloon Walled City Rebuilt in Japan (2013)",
-      "url": "https://randomwire.com/kowloon-walled-city-rebuilt-in-japan/",
-      "date": "2026-05-05T21:54:13.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
