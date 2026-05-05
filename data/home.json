@@ -1,40 +1,46 @@
 {
-  "updated_iso": "2026-05-05T20:12:56.477Z",
-  "updated_local": "5/5/2026, 8:12:56 PM",
+  "updated_iso": "2026-05-05T21:59:20.620Z",
+  "updated_local": "5/5/2026, 9:59:20 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "&#39;Moment of Danger&#39;: Anthropic CEO Warns of Cyber Risk Window as AI Uncovers Software Flaws",
+        "url": "https://decrypt.co/366891/anthropic-warns-cyber-risk-window-ai-uncovers-flaws",
+        "source": "crypto",
+        "time": "Tue, 05 May 2026 21:36:03 +0000"
+      },
+      {
+        "title": "How Solana Exchange Drift Plans to Repay Users After $295 Million Crypto Hack",
+        "url": "https://decrypt.co/366897/how-solana-exchange-drift-repay-users-295-million-crypto-hack",
+        "source": "crypto",
+        "time": "Tue, 05 May 2026 21:25:23 +0000"
+      },
+      {
+        "title": "A Blues-Singing AI Frog Is Taking Over TikTok Brazil",
+        "url": "https://decrypt.co/366884/blues-singing-ai-frog-taking-over-tiktok-brazil",
+        "source": "crypto",
+        "time": "Tue, 05 May 2026 21:12:52 +0000"
+      },
+      {
+        "title": "Strategy Posts $12.5 Billion Q1 Loss as Bitcoin Slump Hammers Massive Holdings",
+        "url": "https://decrypt.co/366882/strategy-posts-12-5-billion-q1-loss-bitcoin-slump-hammers-holdings",
+        "source": "crypto",
+        "time": "Tue, 05 May 2026 20:42:57 +0000"
+      },
       {
         "title": "Solana and Google Cloud Launch Stablecoin Payments Service for AI Agents",
         "url": "https://decrypt.co/366876/solana-google-cloud-launch-stablecoin-payments-service-ai-agents",
         "source": "crypto",
         "time": "Tue, 05 May 2026 20:10:09 +0000"
-      },
-      {
-        "title": "Cybercrime Might Be the One Job AI Isn’t Taking, Study Suggests",
-        "url": "https://decrypt.co/366855/cybercrime-hacking-ai-study",
-        "source": "crypto",
-        "time": "Tue, 05 May 2026 19:16:24 +0000"
-      },
-      {
-        "title": "OpenAI Just Upgraded ChatGPT&#39;s Default Model—Here&#39;s What GPT-5.5 Instant Actually Does",
-        "url": "https://decrypt.co/366842/openai-upgraded-chatgpt-default-model-what-gpt-5-5-instant-does",
-        "source": "crypto",
-        "time": "Tue, 05 May 2026 18:29:40 +0000"
-      },
-      {
-        "title": "Pennsylvania Sues Character.AI Over Chatbot Posing as Licensed Psychiatrist",
-        "url": "https://decrypt.co/366833/pennsylvania-sues-character-ai-chatbot-posing-licensed-psychiatrist",
-        "source": "crypto",
-        "time": "Tue, 05 May 2026 18:20:26 +0000"
-      },
-      {
-        "title": "French Chipmaker Sequans Dumps Half Its Bitcoin as Treasury Hype Meets Reality",
-        "url": "https://decrypt.co/366834/french-chipmaker-sequans-dumps-bitcoin",
-        "source": "crypto",
-        "time": "Tue, 05 May 2026 17:39:39 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": ".de TLD offline due to DNSSEC?",
+        "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+        "source": "hn",
+        "time": "5/5/2026, 8:16:35 PM"
+      },
       {
         "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
@@ -54,12 +60,6 @@
         "time": "5/5/2026, 4:34:48 PM"
       },
       {
-        "title": "EEVblog: The 555 Timer is 55 years old [video]",
-        "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-        "source": "hn",
-        "time": "5/5/2026, 3:47:18 PM"
-      },
-      {
         "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
         "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
         "source": "hn",
@@ -74,28 +74,28 @@
         "time": "Tue, 05 May 2026 11:38:03 GMT"
       },
       {
+        "title": "Cruise ship with hantavirus outbreak to sail to Canary Islands",
+        "url": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 05 May 2026 21:44:38 GMT"
+      },
+      {
         "title": "Woman, 35, died in explosion after ex-partner 'forced entry' into her home",
         "url": "https://www.bbc.com/news/articles/cx21q55gz12o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 05 May 2026 17:25:19 GMT"
       },
       {
+        "title": "'Nothing will bring back my son': How 10 minutes of bombing by Israel shattered lives in Lebanon",
+        "url": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 05 May 2026 21:22:31 GMT"
+      },
+      {
         "title": "Hate crime prosecutions to be fast-tracked after antisemitic attacks",
         "url": "https://www.bbc.com/news/articles/cz72eye5zzeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 05 May 2026 16:56:37 GMT"
-      },
-      {
-        "title": "Hantavirus may have spread between passengers on cruise ship, WHO says",
-        "url": "https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 05 May 2026 16:38:50 GMT"
-      },
-      {
-        "title": "Palestine Action activists guilty of criminal damage",
-        "url": "https://www.bbc.com/news/articles/cm2p99rxr5po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 05 May 2026 18:11:03 GMT"
       }
     ],
     "projects": [
