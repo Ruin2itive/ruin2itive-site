@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-05T22:07:00.753Z",
-  "updated_local": "5/5/2026, 10:07:00 PM",
+  "updated_iso": "2026-05-05T23:02:54.996Z",
+  "updated_local": "5/5/2026, 11:02:54 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Kelp Blames LayerZero for $292 Million Hack, Plans Switch to Chainlink",
+        "url": "https://decrypt.co/366903/kelp-layerzero-292-million-hack-plans-move-chainlink",
+        "source": "crypto",
+        "time": "Tue, 05 May 2026 22:31:56 +0000"
+      },
       {
         "title": "CME Gearing Up to Launch Bitcoin Volatility Futures Independent From BTC’s Price",
         "url": "https://decrypt.co/366894/cme-launch-bitcoin-volatility-futures-independent-btc-price",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/366884/blues-singing-ai-frog-taking-over-tiktok-brazil",
         "source": "crypto",
         "time": "Tue, 05 May 2026 21:12:52 +0000"
-      },
-      {
-        "title": "Strategy Posts $12.5 Billion Q1 Loss as Bitcoin Slump Hammers Massive Holdings",
-        "url": "https://decrypt.co/366882/strategy-posts-12-5-billion-q1-loss-bitcoin-slump-hammers-holdings",
-        "source": "crypto",
-        "time": "Tue, 05 May 2026 20:42:57 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "5/5/2026, 8:16:35 PM"
       },
       {
-        "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-        "source": "hn",
-        "time": "5/5/2026, 4:14:17 PM"
-      },
-      {
         "title": "Write some software, give it away for free",
         "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
         "source": "hn",
         "time": "5/5/2026, 9:26:50 PM"
+      },
+      {
+        "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+        "source": "hn",
+        "time": "5/5/2026, 4:14:17 PM"
       },
       {
         "title": "Computer Use is 45x more expensive than structured APIs",
@@ -60,13 +60,19 @@
         "time": "5/5/2026, 4:34:48 PM"
       },
       {
-        "title": "Three Inverse Laws of AI",
-        "url": "https://susam.net/inverse-laws-of-robotics.html",
+        "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+        "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
         "source": "hn",
-        "time": "5/5/2026, 3:27:18 PM"
+        "time": "5/5/2026, 7:34:55 AM"
       }
     ],
     "world": [
+      {
+        "title": "Offensive stage of Iran war is over, US Secretary of State Rubio says",
+        "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 05 May 2026 22:17:44 GMT"
+      },
       {
         "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
         "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 05 May 2026 21:22:31 GMT"
-      },
-      {
-        "title": "Hate crime prosecutions to be fast-tracked after antisemitic attacks",
-        "url": "https://www.bbc.com/news/articles/cz72eye5zzeo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 05 May 2026 16:56:37 GMT"
       }
     ],
     "projects": [
