@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-06T08:10:56.484Z"
+    "built_at": "2026-05-06T10:59:01.092Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Are you addicted to your AI chatbot?",
+      "url": "https://science.ubc.ca/news/2026-04/are-you-addicted-your-ai-chatbot-it-might-be-design",
+      "date": "2026-05-06T10:57:21.000Z"
+    },
+    {
+      "title": "Designing Data-Intensive Applications: The Cloud and Doing the Right Thing",
+      "url": "https://newsletter.pragmaticengineer.com/p/designing-data-intensive-applications-book-excerpt",
+      "date": "2026-05-06T10:55:46.000Z"
+    }
+  ]
 }
