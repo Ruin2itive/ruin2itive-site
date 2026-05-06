@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-06T02:39:21.195Z",
-  "updated_local": "5/6/2026, 2:39:21 AM",
+  "updated_iso": "2026-05-06T03:57:00.087Z",
+  "updated_local": "5/6/2026, 3:57:00 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,18 @@
         "time": "5/5/2026, 8:16:35 PM"
       },
       {
+        "title": "Telus Uses AI to Alter Call-Agent Accents",
+        "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+        "source": "hn",
+        "time": "5/6/2026, 1:38:44 AM"
+      },
+      {
+        "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+        "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+        "source": "hn",
+        "time": "5/6/2026, 3:10:33 AM"
+      },
+      {
         "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
         "source": "hn",
@@ -52,18 +64,6 @@
         "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
         "source": "hn",
         "time": "5/5/2026, 9:26:50 PM"
-      },
-      {
-        "title": "Three Inverse Laws of AI",
-        "url": "https://susam.net/inverse-laws-of-robotics.html",
-        "source": "hn",
-        "time": "5/5/2026, 3:27:18 PM"
-      },
-      {
-        "title": "StarFighter 16-Inch",
-        "url": "https://us.starlabs.systems/pages/starfighter",
-        "source": "hn",
-        "time": "5/6/2026, 2:03:44 AM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 06 May 2026 02:18:45 GMT"
+      },
+      {
+        "title": "What we know about Trump's 'Project Freedom' in Strait of Hormuz",
+        "url": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 06 May 2026 02:23:36 GMT"
       },
       {
         "title": "Cruise ship with hantavirus outbreak to sail to Canary Islands",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c759z9w7z3yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 06 May 2026 00:15:28 GMT"
-      },
-      {
-        "title": "'Nothing will bring back my son': How 10 minutes of bombing by Israel shattered lives in Lebanon",
-        "url": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 05 May 2026 21:22:31 GMT"
       }
     ],
     "projects": [
