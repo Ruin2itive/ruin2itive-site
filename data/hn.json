@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-06T05:49:55.582Z"
+    "built_at": "2026-05-06T08:10:56.484Z"
   },
-  "items": [
-    {
-      "title": "Pennsylvania sues Character.AI over claims chatbot posed as doctor",
-      "url": "https://www.npr.org/2026/05/05/nx-s1-5812861/characterai-chatbot-medical-advice-pennsylvania-lawsuit",
-      "date": "2026-05-06T05:43:16.000Z"
-    },
-    {
-      "title": "Math Behind \"AI Will Replace Engineers\" Is Embarrassingly Wrong",
-      "url": "https://www.youtube.com/watch?v=ItSLny8on5I",
-      "date": "2026-05-06T05:41:58.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
