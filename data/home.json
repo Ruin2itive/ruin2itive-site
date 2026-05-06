@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-06T03:57:00.087Z",
-  "updated_local": "5/6/2026, 3:57:00 AM",
+  "updated_iso": "2026-05-06T05:55:38.402Z",
+  "updated_local": "5/6/2026, 5:55:38 AM",
   "sections": {
     "crypto": [
       {
@@ -36,45 +36,39 @@
     ],
     "hacker": [
       {
-        "title": ".de TLD offline due to DNSSEC?",
-        "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-        "source": "hn",
-        "time": "5/5/2026, 8:16:35 PM"
-      },
-      {
-        "title": "Telus Uses AI to Alter Call-Agent Accents",
-        "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-        "source": "hn",
-        "time": "5/6/2026, 1:38:44 AM"
-      },
-      {
         "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
         "url": "https://blog.cloudflare.com/agents-stripe-projects/",
         "source": "hn",
         "time": "5/6/2026, 3:10:33 AM"
       },
       {
+        "title": "StarFighter 16-Inch",
+        "url": "https://us.starlabs.systems/pages/starfighter",
+        "source": "hn",
+        "time": "5/6/2026, 2:03:44 AM"
+      },
+      {
+        "title": ".de TLD offline due to DNSSEC?",
+        "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+        "source": "hn",
+        "time": "5/5/2026, 8:16:35 PM"
+      },
+      {
+        "title": "Industry-Leading 245TB Micron 6600 Ion Data Center SSD Now Shipping",
+        "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+        "source": "hn",
+        "time": "5/6/2026, 3:37:51 AM"
+      },
+      {
         "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
         "source": "hn",
         "time": "5/5/2026, 4:14:17 PM"
-      },
-      {
-        "title": "Write some software, give it away for free",
-        "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-        "source": "hn",
-        "time": "5/5/2026, 9:26:50 PM"
       }
     ],
     "world": [
       {
-        "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
-        "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 06 May 2026 02:18:45 GMT"
-      },
-      {
-        "title": "What we know about Trump's 'Project Freedom' in Strait of Hormuz",
+        "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
         "url": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 06 May 2026 02:23:36 GMT"
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/c759z9w7z3yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 06 May 2026 00:15:28 GMT"
+      },
+      {
+        "title": "'Nothing will bring back my son': How 10 minutes of bombing by Israel shattered lives in Lebanon",
+        "url": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 05 May 2026 21:22:31 GMT"
       }
     ],
     "projects": [
