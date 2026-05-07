@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-07T21:48:40.687Z"
+    "built_at": "2026-05-07T22:54:08.349Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "America's Math Crisis",
+      "url": "https://time.com/article/2026/05/05/america-math-crisis/",
+      "date": "2026-05-07T22:51:35.000Z"
+    },
+    {
+      "title": "Writers Are Going to Extremes to Prove They Didn't Use AI",
+      "url": "https://www.wsj.com/tech/ai/writers-are-going-to-extremes-to-prove-they-didnt-use-ai-46e7c3f7",
+      "date": "2026-05-07T22:51:04.000Z"
+    }
+  ]
 }
