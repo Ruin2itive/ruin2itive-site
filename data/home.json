@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-07T20:12:20.883Z",
-  "updated_local": "5/7/2026, 8:12:20 PM",
+  "updated_iso": "2026-05-07T20:20:46.354Z",
+  "updated_local": "5/7/2026, 8:20:46 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "5/7/2026, 2:06:10 PM"
       },
       {
+        "title": "Dirtyfrag: Universal Linux LPE",
+        "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+        "source": "hn",
+        "time": "5/7/2026, 7:21:32 PM"
+      },
+      {
         "title": "Agents need control flow, not more prompts",
         "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://deepmind.google/blog/alphaevolve-impact/",
         "source": "hn",
         "time": "5/7/2026, 3:02:20 PM"
-      },
-      {
-        "title": "Dirtyfrag: Universal Linux LPE",
-        "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-        "source": "hn",
-        "time": "5/7/2026, 7:21:32 PM"
       }
     ],
     "world": [
