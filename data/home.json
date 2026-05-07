@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-07T06:08:02.498Z",
-  "updated_local": "5/7/2026, 6:08:02 AM",
+  "updated_iso": "2026-05-07T06:46:01.683Z",
+  "updated_local": "5/7/2026, 6:46:01 AM",
   "sections": {
     "crypto": [
       {
@@ -42,12 +42,6 @@
         "time": "5/6/2026, 3:44:13 PM"
       },
       {
-        "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-        "url": "https://aniket.foo/posts/20260505-netboot/",
-        "source": "hn",
-        "time": "5/7/2026, 3:13:24 AM"
-      },
-      {
         "title": "Appearing productive in the workplace",
         "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
         "source": "hn",
@@ -60,6 +54,12 @@
         "time": "5/7/2026, 2:18:23 AM"
       },
       {
+        "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+        "url": "https://aniket.foo/posts/20260505-netboot/",
+        "source": "hn",
+        "time": "5/7/2026, 3:13:24 AM"
+      },
+      {
         "title": "SQLite Is a Library of Congress Recommended Storage Format",
         "url": "https://sqlite.org/locrsf.html",
         "source": "hn",
@@ -68,10 +68,10 @@
     ],
     "world": [
       {
-        "title": "Two Britons self-isolating in UK after leaving hantavirus cruise ship early",
+        "title": "Two Britons self-isolating in UK after leaving hantavirus cruise ship",
         "url": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 07 May 2026 06:07:13 GMT"
+        "time": "Thu, 07 May 2026 06:18:39 GMT"
       },
       {
         "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
@@ -92,10 +92,10 @@
         "time": "Thu, 07 May 2026 05:01:20 GMT"
       },
       {
-        "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
-        "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ukraine is a global surrogacy hub - but that could be about to end",
+        "url": "https://www.bbc.com/news/articles/clyp4kp687go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 06 May 2026 19:58:04 GMT"
+        "time": "Thu, 07 May 2026 05:02:12 GMT"
       }
     ],
     "projects": [
