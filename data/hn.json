@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-07T11:02:34.141Z"
+    "built_at": "2026-05-07T13:46:33.006Z"
   },
-  "items": [
-    {
-      "title": "Show HN: AICW Video open-source to cut video into clips with captions, voiceover",
-      "url": "https://github.com/aicw-io/aicw-video",
-      "date": "2026-05-07T10:59:08.000Z"
-    },
-    {
-      "title": "Open-Ended Survey? Definition, Benefits, AI Analysis and How to Create One",
-      "url": "https://figshare.com/articles/journal_contribution/_sup_strong_What_Is_an_Open-Ended_Survey_Definition_Benefits_AI_Analysis_How_to_Create_One_strong_sup_/32201577",
-      "date": "2026-05-07T10:56:59.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
