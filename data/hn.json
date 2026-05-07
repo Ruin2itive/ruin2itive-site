@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-07T20:08:10.100Z"
+    "built_at": "2026-05-07T21:48:40.687Z"
   },
-  "items": [
-    {
-      "title": "Ask HN: Would you use a government digital ID to sign on to HN?",
-      "url": "https://news.ycombinator.com/item?id=48054198",
-      "date": "2026-05-07T20:07:17.000Z"
-    },
-    {
-      "title": "Firefox integrates an ad-blocker, but not to block ads",
-      "url": "https://www.theregister.com/software/2026/05/06/firefox-integrates-an-ad-blocker-but-not-to-block-ads/5230420",
-      "date": "2026-05-07T20:06:06.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
