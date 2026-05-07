@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-05-07T18:54:08.547Z",
-  "updated_local": "5/7/2026, 6:54:08 PM",
+  "updated_iso": "2026-05-07T20:12:20.883Z",
+  "updated_local": "5/7/2026, 8:12:20 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "IMF Warns AI Will Supercharge Cyberattacks on Global Financial System",
+        "url": "https://decrypt.co/367178/imf-warns-ai-supercharge-cyberattacks-global-financial-system",
+        "source": "crypto",
+        "time": "Thu, 07 May 2026 19:44:22 +0000"
+      },
+      {
+        "title": "Your AI Chatbot May Be Leaking Your Chats to Meta, TikTok and Google",
+        "url": "https://decrypt.co/367164/your-ai-chatbot-leaking-chats-meta-tiktok-google",
+        "source": "crypto",
+        "time": "Thu, 07 May 2026 19:06:46 +0000"
+      },
       {
         "title": "21Shares Debuts First ETF Focused on Canton Network Crypto Token",
         "url": "https://decrypt.co/367153/21shares-first-etf-focused-canton-network-crypto-token",
@@ -20,32 +32,14 @@
         "url": "https://decrypt.co/367150/trump-backed-american-bitcoin-shares-fall-82-million-q1-loss",
         "source": "crypto",
         "time": "Thu, 07 May 2026 17:35:56 +0000"
-      },
-      {
-        "title": "Amazon Teams With Coinbase and Stripe to Let AI Agents Pay With Stablecoins",
-        "url": "https://decrypt.co/367125/amazon-coinbase-stripe-ai-agents-pay-stablecoins",
-        "source": "crypto",
-        "time": "Thu, 07 May 2026 16:32:16 +0000"
-      },
-      {
-        "title": "Tether&#39;s Medical AI Runs on Your Phone and Outperforms Models 16x Its Size",
-        "url": "https://decrypt.co/367127/tether-medical-ai-runs-on-phone-outperforms-models-16x",
-        "source": "crypto",
-        "time": "Thu, 07 May 2026 16:01:23 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "The map that keeps Burning Man honest",
+        "title": "The Burning Man MOOP Map",
         "url": "https://www.not-ship.com/burning-man-moop/",
         "source": "hn",
         "time": "5/7/2026, 2:06:10 PM"
-      },
-      {
-        "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-        "url": "https://deepmind.google/blog/alphaevolve-impact/",
-        "source": "hn",
-        "time": "5/7/2026, 3:02:20 PM"
       },
       {
         "title": "Agents need control flow, not more prompts",
@@ -54,16 +48,22 @@
         "time": "5/7/2026, 4:43:35 PM"
       },
       {
-        "title": "DeepSeek 4 Flash local inference engine for Metal",
-        "url": "https://github.com/antirez/ds4",
-        "source": "hn",
-        "time": "5/7/2026, 3:40:24 PM"
-      },
-      {
         "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
         "url": "https://www.anthropic.com/research/natural-language-autoencoders",
         "source": "hn",
         "time": "5/7/2026, 5:54:02 PM"
+      },
+      {
+        "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+        "url": "https://deepmind.google/blog/alphaevolve-impact/",
+        "source": "hn",
+        "time": "5/7/2026, 3:02:20 PM"
+      },
+      {
+        "title": "Dirtyfrag: Universal Linux LPE",
+        "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+        "source": "hn",
+        "time": "5/7/2026, 7:21:32 PM"
       }
     ],
     "world": [
