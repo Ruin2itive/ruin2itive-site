@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-05-07T09:41:59.631Z",
-  "updated_local": "5/7/2026, 9:41:59 AM",
+  "updated_iso": "2026-05-07T11:45:15.172Z",
+  "updated_local": "5/7/2026, 11:45:15 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Morgan Stanley Is Coming for Coinbase",
+        "url": "https://decrypt.co/367069/morning-minute-morgan-stanley-is-coming-for-coinbase",
+        "source": "crypto",
+        "time": "Thu, 07 May 2026 11:35:21 +0000"
+      },
+      {
+        "title": "DeFi Platform TrustedVolumes Hit by $6.7M Exploit",
+        "url": "https://decrypt.co/367070/defi-platform-trustedvolumes-hit-by-6-7m-exploit",
+        "source": "crypto",
+        "time": "Thu, 07 May 2026 11:25:55 +0000"
+      },
+      {
+        "title": "Hardware Wallet Thief Gets 78 Months in Prison Over $250M Crypto &#39;Heist&#39;",
+        "url": "https://decrypt.co/367066/hardware-wallet-thief-gets-78-months-in-prison-over-250m-crypto-heist",
+        "source": "crypto",
+        "time": "Thu, 07 May 2026 09:42:17 +0000"
+      },
       {
         "title": "Chrome Is Quietly Installing a 4GB AI Model on Your Computer—And Putting It Back If You Delete It",
         "url": "https://decrypt.co/367060/chrome-quietly-installing-4gb-ai-model-computer",
@@ -14,24 +32,6 @@
         "url": "https://decrypt.co/367048/ai-chemistry-instructions-build-molecule",
         "source": "crypto",
         "time": "Wed, 06 May 2026 21:31:03 +0000"
-      },
-      {
-        "title": "Bitcoin, Ethereum &#39;Q-Day&#39; Quantum Threat Could Arrive as Soon as 2030: Report",
-        "url": "https://decrypt.co/367047/bitcoin-ethereum-q-day-quantum-threat-could-arrive-2030",
-        "source": "crypto",
-        "time": "Wed, 06 May 2026 21:07:08 +0000"
-      },
-      {
-        "title": "Elon Musk&#39;s SpaceX Will Help Power Anthropic&#39;s Claude in Surprise AI Deal",
-        "url": "https://decrypt.co/367035/elon-musk-spacex-power-anthropic-claude-surprise-ai-deal",
-        "source": "crypto",
-        "time": "Wed, 06 May 2026 20:23:19 +0000"
-      },
-      {
-        "title": "Bittrex Wants Its $24 Million Settlement Back, Now That the SEC Is Pro-Crypto",
-        "url": "https://decrypt.co/367038/bittrex-wants-24-million-settlement-back-sec-pro-crypto",
-        "source": "crypto",
-        "time": "Wed, 06 May 2026 19:31:48 +0000"
       }
     ],
     "hacker": [
@@ -60,10 +60,10 @@
         "time": "5/7/2026, 2:18:23 AM"
       },
       {
-        "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-        "url": "https://aniket.foo/posts/20260505-netboot/",
+        "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
+        "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
         "source": "hn",
-        "time": "5/7/2026, 3:13:24 AM"
+        "time": "5/4/2026, 8:28:24 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Two Britons self-isolating in UK after leaving hantavirus cruise ship",
         "url": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 07 May 2026 09:12:24 GMT"
+        "time": "Thu, 07 May 2026 10:49:30 GMT"
       },
       {
         "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
@@ -92,10 +92,10 @@
         "time": "Thu, 07 May 2026 07:54:50 GMT"
       },
       {
-        "title": "Serving Met officer and four ex-officers investigated for handling of Al Fayed allegations",
-        "url": "https://www.bbc.com/news/articles/crepwqzppqgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US judge releases Jeffrey Epstein's purported suicide note",
+        "url": "https://www.bbc.com/news/articles/cd7pd0rqwreo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 07 May 2026 05:01:20 GMT"
+        "time": "Thu, 07 May 2026 11:14:59 GMT"
       }
     ],
     "projects": [
