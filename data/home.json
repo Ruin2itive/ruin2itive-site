@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-05-07T11:55:29.158Z",
-  "updated_local": "5/7/2026, 11:55:29 AM",
+  "updated_iso": "2026-05-07T14:03:07.729Z",
+  "updated_local": "5/7/2026, 2:03:07 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Kraken Parent Acquires Asian Stablecoin Firm Reap for $600 Million: Bloomberg",
+        "url": "https://decrypt.co/367094/kraken-parent-acquires-asian-stablecoin-firm-reap-600-million",
+        "source": "crypto",
+        "time": "Thu, 07 May 2026 13:48:34 +0000"
+      },
+      {
+        "title": "Bitcoin ETFs Post 5-Week Buying Streak as Hedges Unwind, Institutional Appetite Returns",
+        "url": "https://decrypt.co/367090/bitcoin-etfs-post-5-week-buying-streak-as-hedges-unwind-institutional-appetite-returns",
+        "source": "crypto",
+        "time": "Thu, 07 May 2026 12:56:14 +0000"
+      },
+      {
+        "title": "White House Targets July 4 for Clarity Act Passage: Crypto Adviser",
+        "url": "https://decrypt.co/367075/white-house-targets-july-4-for-clarity-act-passage-crypto-adviser",
+        "source": "crypto",
+        "time": "Thu, 07 May 2026 12:07:38 +0000"
+      },
       {
         "title": "Morning Minute: Morgan Stanley Is Coming for Coinbase",
         "url": "https://decrypt.co/367069/morning-minute-morgan-stanley-is-coming-for-coinbase",
@@ -14,27 +32,15 @@
         "url": "https://decrypt.co/367070/defi-platform-trustedvolumes-hit-by-6-7m-exploit",
         "source": "crypto",
         "time": "Thu, 07 May 2026 11:25:55 +0000"
-      },
-      {
-        "title": "Hardware Wallet Thief Gets 78 Months in Prison Over $250M Crypto &#39;Heist&#39;",
-        "url": "https://decrypt.co/367066/hardware-wallet-thief-gets-78-months-in-prison-over-250m-crypto-heist",
-        "source": "crypto",
-        "time": "Thu, 07 May 2026 09:42:17 +0000"
-      },
-      {
-        "title": "Chrome Is Quietly Installing a 4GB AI Model on Your Computer—And Putting It Back If You Delete It",
-        "url": "https://decrypt.co/367060/chrome-quietly-installing-4gb-ai-model-computer",
-        "source": "crypto",
-        "time": "Wed, 06 May 2026 22:01:02 +0000"
-      },
-      {
-        "title": "This AI Reads Your Chemistry Instructions and Finds the Best Way to Build You a Molecule",
-        "url": "https://decrypt.co/367048/ai-chemistry-instructions-build-molecule",
-        "source": "crypto",
-        "time": "Wed, 06 May 2026 21:31:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+        "url": "https://ratex.lites.dev/",
+        "source": "hn",
+        "time": "5/4/2026, 4:19:31 PM"
+      },
       {
         "title": "Valve releases Steam Controller CAD files under Creative Commons license",
         "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
@@ -42,10 +48,10 @@
         "time": "5/6/2026, 3:44:13 PM"
       },
       {
-        "title": "Appearing productive in the workplace",
-        "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+        "title": "Indian matchbox labels as a visual archive",
+        "url": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
         "source": "hn",
-        "time": "5/6/2026, 4:18:29 PM"
+        "time": "5/4/2026, 2:08:27 PM"
       },
       {
         "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
@@ -54,48 +60,42 @@
         "time": "5/4/2026, 8:28:24 PM"
       },
       {
-        "title": "SQLite Is a Library of Congress Recommended Storage Format",
-        "url": "https://sqlite.org/locrsf.html",
+        "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+        "url": "https://ahk.cardor.dev",
         "source": "hn",
-        "time": "5/6/2026, 9:58:43 PM"
-      },
-      {
-        "title": "Permacomputing Principles",
-        "url": "https://permacomputing.net/principles/",
-        "source": "hn",
-        "time": "5/7/2026, 2:18:23 AM"
+        "time": "5/7/2026, 10:45:59 AM"
       }
     ],
     "world": [
       {
-        "title": "Two Britons self-isolating in UK after leaving hantavirus cruise ship",
-        "url": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Major rail disruption expected in southern England until end of day",
+        "url": "https://www.bbc.com/news/articles/ckgp8yjllx1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 07 May 2026 10:49:30 GMT"
+        "time": "Thu, 07 May 2026 12:43:24 GMT"
       },
       {
-        "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
-        "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Man arrested for selling Morgan McSweeney's stolen phone",
+        "url": "https://www.bbc.com/news/articles/cpvp48x2d70o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 07 May 2026 04:06:33 GMT"
+        "time": "Thu, 07 May 2026 12:25:00 GMT"
       },
       {
-        "title": "The AI fitness instructors selling unreal gains",
-        "url": "https://www.bbc.com/sport/articles/c5ye7dnxv86o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Superdry co-founder James Holder jailed for rape",
+        "url": "https://www.bbc.com/news/articles/c9v3ynljwnwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 07 May 2026 05:15:08 GMT"
+        "time": "Thu, 07 May 2026 14:01:43 GMT"
       },
       {
-        "title": "Watch: Drone delivers first Amazon parcels in UK",
-        "url": "https://www.bbc.com/news/videos/c0l21992z75o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Tenerife resident calls docking of hantavirus ship 'reckless'",
+        "url": "https://www.bbc.com/news/videos/c4g8pexx029o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 07 May 2026 07:54:50 GMT"
+        "time": "Thu, 07 May 2026 12:37:14 GMT"
       },
       {
-        "title": "US judge releases Jeffrey Epstein's purported suicide note",
-        "url": "https://www.bbc.com/news/articles/cd7pd0rqwreo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "The Only Way Is Essex star Jake Hall dies aged 35",
+        "url": "https://www.bbc.com/news/articles/cdrpxe18ke5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 07 May 2026 11:14:59 GMT"
+        "time": "Thu, 07 May 2026 12:20:02 GMT"
       }
     ],
     "projects": [
