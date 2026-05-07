@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-07T06:46:01.683Z",
-  "updated_local": "5/7/2026, 6:46:01 AM",
+  "updated_iso": "2026-05-07T09:29:47.555Z",
+  "updated_local": "5/7/2026, 9:29:47 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+        "url": "https://unsloth.ai/blog/nvidia-collab",
+        "source": "hn",
+        "time": "5/7/2026, 7:15:11 AM"
+      },
+      {
         "title": "Valve releases Steam Controller CAD files under Creative Commons license",
         "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
         "source": "hn",
@@ -54,12 +60,6 @@
         "time": "5/7/2026, 2:18:23 AM"
       },
       {
-        "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-        "url": "https://aniket.foo/posts/20260505-netboot/",
-        "source": "hn",
-        "time": "5/7/2026, 3:13:24 AM"
-      },
-      {
         "title": "SQLite Is a Library of Congress Recommended Storage Format",
         "url": "https://sqlite.org/locrsf.html",
         "source": "hn",
@@ -71,7 +71,7 @@
         "title": "Two Britons self-isolating in UK after leaving hantavirus cruise ship",
         "url": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 07 May 2026 06:18:39 GMT"
+        "time": "Thu, 07 May 2026 09:12:24 GMT"
       },
       {
         "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
@@ -80,22 +80,22 @@
         "time": "Thu, 07 May 2026 04:06:33 GMT"
       },
       {
-        "title": "Shocking stories of nursery abuse have emerged. Could cameras really prevent more?",
-        "url": "https://www.bbc.com/news/articles/czx2kn4n5wxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "The AI fitness instructors selling unreal gains",
+        "url": "https://www.bbc.com/sport/articles/c5ye7dnxv86o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 06 May 2026 22:59:03 GMT"
+        "time": "Thu, 07 May 2026 05:15:08 GMT"
+      },
+      {
+        "title": "Watch: Drone delivers first Amazon parcels in UK",
+        "url": "https://www.bbc.com/news/videos/c0l21992z75o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 07 May 2026 07:54:50 GMT"
       },
       {
         "title": "Serving Met officer and four ex-officers investigated for handling of Al Fayed allegations",
         "url": "https://www.bbc.com/news/articles/crepwqzppqgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 07 May 2026 05:01:20 GMT"
-      },
-      {
-        "title": "Ukraine is a global surrogacy hub - but that could be about to end",
-        "url": "https://www.bbc.com/news/articles/clyp4kp687go?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 07 May 2026 05:02:12 GMT"
       }
     ],
     "projects": [
