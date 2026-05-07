@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-07T16:01:02.985Z"
+    "built_at": "2026-05-07T18:17:53.529Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Meta Research: ProgramBench",
+      "url": "https://github.com/facebookresearch/ProgramBench",
+      "date": "2026-05-07T18:17:33.000Z"
+    },
+    {
+      "title": "Welsh Labour faces 'existential' change as party braces for May election defeat",
+      "url": "https://www.theguardian.com/politics/2026/apr/28/welsh-labour-may-elections-senedd-plaid-cymru-reform-uk",
+      "date": "2026-05-07T18:17:22.000Z"
+    }
+  ]
 }
