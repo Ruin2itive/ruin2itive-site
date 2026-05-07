@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-07T03:56:36.233Z",
-  "updated_local": "5/7/2026, 3:56:36 AM",
+  "updated_iso": "2026-05-07T06:08:02.498Z",
+  "updated_local": "5/7/2026, 6:08:02 AM",
   "sections": {
     "crypto": [
       {
@@ -42,10 +42,10 @@
         "time": "5/6/2026, 3:44:13 PM"
       },
       {
-        "title": "Permacomputing Principles",
-        "url": "https://permacomputing.net/principles/",
+        "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+        "url": "https://aniket.foo/posts/20260505-netboot/",
         "source": "hn",
-        "time": "5/7/2026, 2:18:23 AM"
+        "time": "5/7/2026, 3:13:24 AM"
       },
       {
         "title": "Appearing productive in the workplace",
@@ -54,16 +54,16 @@
         "time": "5/6/2026, 4:18:29 PM"
       },
       {
-        "title": "The Vatican's Website in Latin",
-        "url": "https://www.vatican.va/latin/latin_index.html",
+        "title": "Permacomputing Principles",
+        "url": "https://permacomputing.net/principles/",
         "source": "hn",
-        "time": "5/7/2026, 1:26:03 AM"
+        "time": "5/7/2026, 2:18:23 AM"
       },
       {
-        "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-        "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+        "title": "SQLite Is a Library of Congress Recommended Storage Format",
+        "url": "https://sqlite.org/locrsf.html",
         "source": "hn",
-        "time": "5/6/2026, 3:06:37 PM"
+        "time": "5/6/2026, 9:58:43 PM"
       }
     ],
     "world": [
@@ -71,31 +71,31 @@
         "title": "Two Britons self-isolating in UK after leaving hantavirus cruise ship early",
         "url": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 07 May 2026 03:07:25 GMT"
+        "time": "Thu, 07 May 2026 06:07:13 GMT"
       },
       {
-        "title": "What is hantavirus and how does it spread? Key questions after outbreak",
-        "url": "https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
+        "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 07 May 2026 01:33:04 GMT"
+        "time": "Thu, 07 May 2026 04:06:33 GMT"
+      },
+      {
+        "title": "Shocking stories of nursery abuse have emerged. Could cameras really prevent more?",
+        "url": "https://www.bbc.com/news/articles/czx2kn4n5wxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 06 May 2026 22:59:03 GMT"
+      },
+      {
+        "title": "Serving Met officer and four ex-officers investigated for handling of Al Fayed allegations",
+        "url": "https://www.bbc.com/news/articles/crepwqzppqgo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 07 May 2026 05:01:20 GMT"
       },
       {
         "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
         "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 06 May 2026 19:58:04 GMT"
-      },
-      {
-        "title": "Can CCTV really stop children being abused in nurseries?",
-        "url": "https://www.bbc.com/news/articles/czx2kn4n5wxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 06 May 2026 22:59:03 GMT"
-      },
-      {
-        "title": "Iran considering US proposal to end war, official says",
-        "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 06 May 2026 21:27:59 GMT"
       }
     ],
     "projects": [
