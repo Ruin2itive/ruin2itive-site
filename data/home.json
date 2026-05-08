@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-07T23:00:15.883Z",
-  "updated_local": "5/7/2026, 11:00:15 PM",
+  "updated_iso": "2026-05-08T00:00:35.407Z",
+  "updated_local": "5/8/2026, 12:00:35 AM",
   "sections": {
     "crypto": [
       {
@@ -28,7 +28,7 @@
         "time": "Thu, 07 May 2026 20:54:20 +0000"
       },
       {
-        "title": "Chrome Deletes Its Own Privacy Promise for Sneaky On-Device AI",
+        "title": "Chrome Deleted Its Own Privacy Promise for Sneaky On-Device AI",
         "url": "https://decrypt.co/367193/chrome-removes-privacy-claim-gemini-nano-google",
         "source": "crypto",
         "time": "Thu, 07 May 2026 20:52:05 +0000"
@@ -42,6 +42,18 @@
         "time": "5/7/2026, 7:21:32 PM"
       },
       {
+        "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+        "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+        "source": "hn",
+        "time": "5/7/2026, 10:22:21 PM"
+      },
+      {
+        "title": "Maybe you shouldn't install new software for a bit",
+        "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+        "source": "hn",
+        "time": "5/7/2026, 11:02:11 PM"
+      },
+      {
         "title": "The Burning Man MOOP Map",
         "url": "https://www.not-ship.com/burning-man-moop/",
         "source": "hn",
@@ -52,18 +64,6 @@
         "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
         "source": "hn",
         "time": "5/7/2026, 4:43:35 PM"
-      },
-      {
-        "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
-        "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-        "source": "hn",
-        "time": "5/7/2026, 10:22:21 PM"
-      },
-      {
-        "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-        "url": "https://deepmind.google/blog/alphaevolve-impact/",
-        "source": "hn",
-        "time": "5/7/2026, 3:02:20 PM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Thu, 07 May 2026 21:00:27 GMT"
       },
       {
-        "title": "David Attenborough says he is 'overwhelmed' by 100th birthday messages",
-        "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 07 May 2026 16:00:10 GMT"
-      },
-      {
         "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
         "url": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/c4g0d1wp6g8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 07 May 2026 22:39:19 GMT"
+      },
+      {
+        "title": "English clubs reach all three European finals for first time",
+        "url": "https://www.bbc.com/sport/football/articles/c5yr4vle9w2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 07 May 2026 22:24:29 GMT"
       }
     ],
     "projects": [
