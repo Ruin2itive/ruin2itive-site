@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-08T00:01:52.965Z",
-  "updated_local": "5/8/2026, 12:01:52 AM",
+  "updated_iso": "2026-05-08T04:14:58.516Z",
+  "updated_local": "5/8/2026, 4:14:58 AM",
   "sections": {
     "crypto": [
       {
@@ -36,13 +36,7 @@
     ],
     "hacker": [
       {
-        "title": "Dirtyfrag: Universal Linux LPE",
-        "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-        "source": "hn",
-        "time": "5/7/2026, 7:21:32 PM"
-      },
-      {
-        "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+        "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
         "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
         "source": "hn",
         "time": "5/7/2026, 10:22:21 PM"
@@ -54,19 +48,31 @@
         "time": "5/7/2026, 11:02:11 PM"
       },
       {
-        "title": "The Burning Man MOOP Map",
+        "title": "Dirtyfrag: Universal Linux LPE",
+        "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+        "source": "hn",
+        "time": "5/7/2026, 7:21:32 PM"
+      },
+      {
+        "title": "Cloudflare to cut about 20% workforce",
+        "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+        "source": "hn",
+        "time": "5/7/2026, 8:23:37 PM"
+      },
+      {
+        "title": "The map that keeps Burning Man honest",
         "url": "https://www.not-ship.com/burning-man-moop/",
         "source": "hn",
         "time": "5/7/2026, 2:06:10 PM"
-      },
-      {
-        "title": "Agents need control flow, not more prompts",
-        "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-        "source": "hn",
-        "time": "5/7/2026, 4:43:35 PM"
       }
     ],
     "world": [
+      {
+        "title": "Election results so far at a glance - and what's still to come",
+        "url": "https://www.bbc.com/news/articles/cvgz155y9exo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 08 May 2026 03:59:03 GMT"
+      },
       {
         "title": "When will we know the results for the England, Scotland and Wales elections?",
         "url": "https://www.bbc.com/news/articles/c62nq678nyzo?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +86,16 @@
         "time": "Thu, 07 May 2026 21:00:27 GMT"
       },
       {
-        "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
-        "url": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Six things to watch out for in the Scottish election",
+        "url": "https://www.bbc.com/news/articles/cn4pyrnmplgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 07 May 2026 17:55:08 GMT"
+        "time": "Thu, 07 May 2026 22:15:45 GMT"
       },
       {
-        "title": "Man charged with allegedly threatening Andrew Mountbatten-Windsor",
-        "url": "https://www.bbc.com/news/articles/c4g0d1wp6g8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+        "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 07 May 2026 22:39:19 GMT"
-      },
-      {
-        "title": "English clubs reach all three European finals for first time",
-        "url": "https://www.bbc.com/sport/football/articles/c5yr4vle9w2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 07 May 2026 22:24:29 GMT"
+        "time": "Fri, 08 May 2026 02:07:54 GMT"
       }
     ],
     "projects": [
