@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-08T16:24:27.157Z",
-  "updated_local": "5/8/2026, 4:24:27 PM",
+  "updated_iso": "2026-05-08T18:08:22.279Z",
+  "updated_local": "5/8/2026, 6:08:22 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Miner IREN Secures $3.4 Billion Nvidia AI Deal, With $2.1 Billion Share Option",
+        "url": "https://decrypt.co/367289/bitcoin-miner-iren-secures-3-4-billion-nvidia-ai-deal",
+        "source": "crypto",
+        "time": "Fri, 08 May 2026 17:02:38 +0000"
+      },
       {
         "title": "ECB’s Lagarde Pushes Back on Euro Stablecoins, Warns of ‘Structural Weaknesses’",
         "url": "https://decrypt.co/367265/ecbs-lagarde-pushes-back-on-euro-stablecoins-warns-of-structural-weaknesses",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/367258/bitcoin-price-crashes-near-zero-revolut-third-party-disruption",
         "source": "crypto",
         "time": "Fri, 08 May 2026 14:29:52 +0000"
-      },
-      {
-        "title": "XRP New Addresses, Active Supply Plunge Amid Shift to ‘Institutional Rails’",
-        "url": "https://decrypt.co/367253/xrp-new-addresses-active-supply-plunge-amid-shift-to-institutional-rails",
-        "source": "crypto",
-        "time": "Fri, 08 May 2026 13:34:29 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Google Cloud Fraud Defence is just WEI repackaged",
+        "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+        "source": "hn",
+        "time": "5/8/2026, 1:56:10 PM"
+      },
+      {
+        "title": "Cartoon Network Flash Games",
+        "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+        "source": "hn",
+        "time": "5/8/2026, 4:29:52 PM"
+      },
       {
         "title": "Serving a Website on a Raspberry Pi Zero Running in RAM",
         "url": "https://btxx.org/posts/memory/",
@@ -52,18 +64,6 @@
         "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
         "source": "hn",
         "time": "5/8/2026, 2:14:31 PM"
-      },
-      {
-        "title": "Google Cloud Fraud Defence is just WEI repackaged",
-        "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-        "source": "hn",
-        "time": "5/8/2026, 1:56:10 PM"
-      },
-      {
-        "title": "Poland is now among the 20 largest economies",
-        "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-        "source": "hn",
-        "time": "5/8/2026, 12:30:05 PM"
       }
     ],
     "world": [
@@ -77,25 +77,25 @@
         "title": "What latest election results show us in maps and charts",
         "url": "https://www.bbc.com/news/articles/c0ljrp76ywxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 08 May 2026 16:12:23 GMT"
+        "time": "Fri, 08 May 2026 17:56:46 GMT"
       },
       {
-        "title": "Election results so far - and what's still to come",
-        "url": "https://www.bbc.com/news/articles/cvgz155y9exo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Reform election gains show shift in British politics, says Farage",
+        "url": "https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 08 May 2026 15:16:53 GMT"
+        "time": "Fri, 08 May 2026 14:46:14 GMT"
       },
       {
-        "title": "Iran accuses US of 'reckless military adventure'",
-        "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Five election moments you may have missed",
+        "url": "https://www.bbc.com/news/articles/c5y84453d9qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 08 May 2026 16:11:06 GMT"
+        "time": "Fri, 08 May 2026 16:56:45 GMT"
       },
       {
-        "title": "Third British national has suspected hantavirus infection, government says",
+        "title": "Britons on virus-hit cruise ship will be tested before charter flight back to UK",
         "url": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 08 May 2026 06:03:23 GMT"
+        "time": "Fri, 08 May 2026 17:57:28 GMT"
       }
     ],
     "projects": [
