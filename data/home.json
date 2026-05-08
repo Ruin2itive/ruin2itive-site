@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-05-08T10:44:39.505Z",
-  "updated_local": "5/8/2026, 10:44:39 AM",
+  "updated_iso": "2026-05-08T12:07:11.591Z",
+  "updated_local": "5/8/2026, 12:07:11 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Coinbase Misses Earnings on Surprise Loss",
+        "url": "https://decrypt.co/367241/morning-minute-coinbase-misses-earnings-on-surprise-loss",
+        "source": "crypto",
+        "time": "Fri, 08 May 2026 11:52:46 +0000"
+      },
+      {
+        "title": "Arbitrum DAO Votes to Unlock $70 Million for Kelp DAO Exploit Relief",
+        "url": "https://decrypt.co/367238/arbitrum-dao-votes-to-unlock-70-million-for-kelp-dao-exploit-relief",
+        "source": "crypto",
+        "time": "Fri, 08 May 2026 11:21:37 +0000"
+      },
       {
         "title": "AUSTRAC Launches Supervision Campaigns as Australia&#39;s Crypto Regulatory Reforms Kick In",
         "url": "https://decrypt.co/367236/austrac-launches-supervision-campaigns-as-australias-crypto-regulatory-reforms-kick-in",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/367215/trump-sons-havent-abandoned-world-liberty-financial",
         "source": "crypto",
         "time": "Thu, 07 May 2026 22:01:03 +0000"
-      },
-      {
-        "title": "Coinbase Shares Slide as Crypto Giant Reports $394 Million Q1 Loss",
-        "url": "https://decrypt.co/367216/coinbase-shares-slide-crypto-giant-reports-394-million-q1-loss",
-        "source": "crypto",
-        "time": "Thu, 07 May 2026 21:24:36 +0000"
-      },
-      {
-        "title": "Tom Lee Says BitMine May Slow Ethereum Buys After Amassing Nearly $12 Billion of ETH",
-        "url": "https://decrypt.co/367192/tom-lee-bitmine-slow-ethereum-buys-12-billion-eth",
-        "source": "crypto",
-        "time": "Thu, 07 May 2026 20:54:20 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
         "source": "hn",
         "time": "5/7/2026, 10:22:21 PM"
+      },
+      {
+        "title": "Nintendo announces price increases for Nintendo Switch 2",
+        "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
+        "source": "hn",
+        "time": "5/8/2026, 6:56:13 AM"
       },
       {
         "title": "Cloudflare to cut about 20% workforce",
@@ -54,16 +60,10 @@
         "time": "5/7/2026, 11:02:11 PM"
       },
       {
-        "title": "Dirtyfrag: Universal Linux LPE",
-        "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+        "title": "ClojureScript Gets Async/Await",
+        "url": "https://clojurescript.org/news/2026-05-07-release",
         "source": "hn",
-        "time": "5/7/2026, 7:21:32 PM"
-      },
-      {
-        "title": "Nintendo announces price increases for Nintendo Switch 2",
-        "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
-        "source": "hn",
-        "time": "5/8/2026, 6:56:13 AM"
+        "time": "5/8/2026, 7:04:24 AM"
       }
     ],
     "world": [
@@ -71,13 +71,13 @@
         "title": "Chris Mason: What the results tell us so far",
         "url": "https://www.bbc.com/news/articles/cvgz8d556zpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 08 May 2026 09:22:40 GMT"
+        "time": "Fri, 08 May 2026 11:29:08 GMT"
       },
       {
-        "title": "What early election results show us in maps and charts",
+        "title": "What latest election results show us in maps and charts",
         "url": "https://www.bbc.com/news/articles/c0ljrp76ywxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 08 May 2026 08:58:20 GMT"
+        "time": "Fri, 08 May 2026 11:33:45 GMT"
       },
       {
         "title": "Sir John Curtice: First results shows how fragmented UK politics has become",
@@ -86,16 +86,16 @@
         "time": "Fri, 08 May 2026 08:13:16 GMT"
       },
       {
-        "title": "When will we know the full results?",
-        "url": "https://www.bbc.com/news/articles/c62nq678nyzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Election results so far at a glance - and what's still to come",
+        "url": "https://www.bbc.com/news/articles/cvgz155y9exo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 08 May 2026 08:48:36 GMT"
+        "time": "Fri, 08 May 2026 10:52:29 GMT"
       },
       {
-        "title": "Quiz: Which facial feature almost stopped Attenborough's TV career?",
-        "url": "https://www.bbc.com/news/articles/c1e2pdw1808o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Third British national has suspected hantavirus infection, government says",
+        "url": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 07 May 2026 10:14:14 GMT"
+        "time": "Fri, 08 May 2026 06:03:23 GMT"
       }
     ],
     "projects": [
