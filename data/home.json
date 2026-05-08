@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-05-08T20:11:34.599Z",
-  "updated_local": "5/8/2026, 8:11:34 PM",
+  "updated_iso": "2026-05-08T21:57:37.327Z",
+  "updated_local": "5/8/2026, 9:57:37 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Banking Industry Says Clarity Act Stablecoin Proposal Would Enable &#39;Evasion&#39;",
+        "url": "https://decrypt.co/367351/banking-industry-clarity-act-stablecoin-evasion",
+        "source": "crypto",
+        "time": "Fri, 08 May 2026 21:47:36 +0000"
+      },
+      {
+        "title": "TeraWulf&#39;s AI Compute Revenue Outpaces Bitcoin Mining Amid $427 Million Loss",
+        "url": "https://decrypt.co/367309/terawulfs-ai-compute-revenue-outpaces-bitcoin-mining-amid-427-million-loss",
+        "source": "crypto",
+        "time": "Fri, 08 May 2026 20:29:14 +0000"
+      },
+      {
+        "title": "Intel Stock Hits All-Time High After Preliminary Chip Deal With Apple",
+        "url": "https://decrypt.co/367320/intel-all-time-high-chip-deal-apple",
+        "source": "crypto",
+        "time": "Fri, 08 May 2026 20:17:26 +0000"
+      },
       {
         "title": "Elizabeth Warren Wants Meta to Spill All on Stablecoin Plans Ahead of Clarity Act Votes",
         "url": "https://decrypt.co/367314/elizabeth-warren-meta-stablecoin-plans-clarity-act-votes",
@@ -14,64 +32,52 @@
         "url": "https://decrypt.co/367298/will-strategy-sell-bitcoin-myriad-traders-convinced-saylor-comments",
         "source": "crypto",
         "time": "Fri, 08 May 2026 19:16:46 +0000"
-      },
-      {
-        "title": "Trump Admin Launches Pentagon UFO Website With Declassified Files",
-        "url": "https://decrypt.co/367300/trump-admin-launches-pentagon-ufo-website-declassified",
-        "source": "crypto",
-        "time": "Fri, 08 May 2026 18:45:45 +0000"
-      },
-      {
-        "title": "Kraken Parent Payward Applies for OCC National Trust Bank Charter",
-        "url": "https://decrypt.co/367299/kraken-parent-payward-applies-occ-national-trust-bank-charter",
-        "source": "crypto",
-        "time": "Fri, 08 May 2026 18:31:39 +0000"
-      },
-      {
-        "title": "Bitcoin Miner IREN Secures $3.4 Billion Nvidia AI Deal, With $2.1 Billion Share Option",
-        "url": "https://decrypt.co/367289/bitcoin-miner-iren-secures-3-4-billion-nvidia-ai-deal",
-        "source": "crypto",
-        "time": "Fri, 08 May 2026 17:02:38 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Lets Encrypt Stopping Issuance for Potential Incident",
-        "url": "https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3",
+        "title": "Google broke reCAPTCHA for de-googled Android users",
+        "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
         "source": "hn",
-        "time": "5/8/2026, 7:45:28 PM"
+        "time": "5/8/2026, 6:45:58 PM"
       },
       {
-        "title": "Google Cloud Fraud Defence is just WEI repackaged",
-        "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-        "source": "hn",
-        "time": "5/8/2026, 1:56:10 PM"
-      },
-      {
-        "title": "AI Is Breaking Two Vulnerability Cultures",
+        "title": "AI is breaking two vulnerability cultures",
         "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
         "source": "hn",
         "time": "5/8/2026, 5:55:08 PM"
       },
       {
-        "title": "What we lost the last time code got cheap",
-        "url": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
+        "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+        "url": "https://ze3tar.github.io/post-zcrx.html",
         "source": "hn",
-        "time": "5/8/2026, 6:53:08 PM"
+        "time": "5/8/2026, 7:40:39 PM"
       },
       {
         "title": "Cartoon Network Flash Games",
         "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
         "source": "hn",
         "time": "5/8/2026, 4:29:52 PM"
+      },
+      {
+        "title": "Non-determinism is an issue with patching CVEs",
+        "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
+        "source": "hn",
+        "time": "5/8/2026, 9:23:07 PM"
       }
     ],
     "world": [
       {
+        "title": "Plaid Cymru ready to run Wales, leader says, after party wins Senedd vote",
+        "url": "https://www.bbc.com/news/articles/cdrpxvz61vko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 08 May 2026 21:24:20 GMT"
+      },
+      {
         "title": "Analysis: Many Labour MPs are blaming the boss for elections body blow",
         "url": "https://www.bbc.com/news/articles/c5yxr7zng6po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 08 May 2026 19:57:20 GMT"
+        "time": "Fri, 08 May 2026 20:54:06 GMT"
       },
       {
         "title": "Sir John Curtice: Election results show politics in the UK has fragmented",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c4g08e97523o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 08 May 2026 19:05:16 GMT"
-      },
-      {
-        "title": "Five election moments you may have missed",
-        "url": "https://www.bbc.com/news/articles/c5y84453d9qo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 08 May 2026 16:56:45 GMT"
       }
     ],
     "projects": [
