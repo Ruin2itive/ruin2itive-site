@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-08T17:04:58.207Z"
+    "built_at": "2026-05-08T19:06:23.127Z"
   },
-  "items": [
-    {
-      "title": "The Download: AI malaise and babymaking tech",
-      "url": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/",
-      "date": "2026-05-08T17:03:56.000Z"
-    },
-    {
-      "title": "Reproducing all of Schmidhuber's papers with Claude",
-      "url": "https://cybertronai.github.io/schmidhuber-problems/visual-tour.html",
-      "date": "2026-05-08T17:02:28.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
