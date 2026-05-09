@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-09T19:52:04.646Z"
+    "built_at": "2026-05-09T20:36:23.219Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "API Hell",
+      "url": "https://neonwalker.dev/posts/api-hell/",
+      "date": "2026-05-09T20:36:00.000Z"
+    },
+    {
+      "title": "The Atari 800 – By Paul Lefebvre",
+      "url": "https://www.goto10retro.com/p/inside-the-atari-800",
+      "date": "2026-05-09T20:35:54.000Z"
+    }
+  ]
 }
