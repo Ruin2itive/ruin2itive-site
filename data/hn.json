@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-09T02:08:24.631Z"
+    "built_at": "2026-05-09T05:41:24.543Z"
   },
-  "items": [
-    {
-      "title": "Nvidia introduces back end for CUDA kernels in Rust",
-      "url": "https://github.com/NVlabs/cuda-oxide",
-      "date": "2026-05-09T01:52:15.000Z"
-    },
-    {
-      "title": "Ask Hacker News: AI music with feedback",
-      "url": "https://news.ycombinator.com/item?id=48070959",
-      "date": "2026-05-09T01:50:14.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
