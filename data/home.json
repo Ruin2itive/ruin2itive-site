@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-09T00:03:44.708Z",
-  "updated_local": "5/9/2026, 12:03:44 AM",
+  "updated_iso": "2026-05-09T04:21:16.175Z",
+  "updated_local": "5/9/2026, 4:21:16 AM",
   "sections": {
     "crypto": [
       {
@@ -42,28 +42,28 @@
         "time": "5/8/2026, 6:45:58 PM"
       },
       {
-        "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-        "url": "https://ze3tar.github.io/post-zcrx.html",
+        "title": "OpenAI's WebRTC problem",
+        "url": "https://moq.dev/blog/webrtc-is-the-problem/",
         "source": "hn",
-        "time": "5/8/2026, 7:40:39 PM"
+        "time": "5/7/2026, 5:11:59 PM"
       },
       {
-        "title": "AI is breaking two vulnerability cultures",
-        "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+        "title": "Mythical Man Month",
+        "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
         "source": "hn",
-        "time": "5/8/2026, 5:55:08 PM"
+        "time": "5/7/2026, 7:20:55 AM"
       },
       {
-        "title": "Cartoon Network Flash Games",
-        "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+        "title": "Bitter Lessons from the ISSpresso",
+        "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
         "source": "hn",
-        "time": "5/8/2026, 4:29:52 PM"
+        "time": "5/6/2026, 7:09:29 PM"
       },
       {
-        "title": "AWS North Virginia data center outage – recovery to take hours",
-        "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+        "title": "The React2Shell Story",
+        "url": "https://lachlan.nz/blog/the-react2shell-story/",
         "source": "hn",
-        "time": "5/8/2026, 3:31:58 AM"
+        "time": "5/8/2026, 4:39:48 PM"
       }
     ],
     "world": [
@@ -71,13 +71,19 @@
         "title": "Starmer under pressure as Labour suffers heavy election losses including historic Wales defeat",
         "url": "https://www.bbc.com/news/articles/cz62dwe30wdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 08 May 2026 23:13:58 GMT"
+        "time": "Sat, 09 May 2026 01:27:14 GMT"
       },
       {
         "title": "Plaid Cymru ready to run Wales, leader says, after party wins Senedd vote",
         "url": "https://www.bbc.com/news/articles/cdrpxvz61vko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 08 May 2026 21:24:20 GMT"
+      },
+      {
+        "title": "SNP wins Scottish election as Reform and Labour tie for second",
+        "url": "https://www.bbc.com/news/articles/ckgp5ryv4qno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 09 May 2026 00:55:02 GMT"
       },
       {
         "title": "Analysis: Many Labour MPs are blaming the boss for elections body blow",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 08 May 2026 22:34:46 GMT"
-      },
-      {
-        "title": "Polanski says two-party politics 'dead' after election gains for Greens",
-        "url": "https://www.bbc.com/news/articles/c4g08e97523o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 08 May 2026 19:05:16 GMT"
       }
     ],
     "projects": [
