@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-09T21:54:38.761Z",
-  "updated_local": "5/9/2026, 9:54:38 PM",
+  "updated_iso": "2026-05-09T22:40:49.829Z",
+  "updated_local": "5/9/2026, 10:40:49 PM",
   "sections": {
     "crypto": [
       {
@@ -42,12 +42,6 @@
         "time": "5/9/2026, 10:12:55 AM"
       },
       {
-        "title": "FreeBSD: Local Privilege Escalation via Execve()",
-        "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-        "source": "hn",
-        "time": "5/9/2026, 8:31:21 PM"
-      },
-      {
         "title": "Internet Archive Switzerland",
         "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
         "source": "hn",
@@ -64,6 +58,12 @@
         "url": "https://zed.dev/theme-builder",
         "source": "hn",
         "time": "5/9/2026, 5:30:39 PM"
+      },
+      {
+        "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+        "url": "https://github.com/nooga/let-go",
+        "source": "hn",
+        "time": "5/9/2026, 5:52:13 PM"
       }
     ],
     "world": [
