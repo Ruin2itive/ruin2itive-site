@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-09T05:41:24.543Z"
+    "built_at": "2026-05-09T07:45:47.100Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Caligra c100 Developer Terminal – Industrial design of computer hardware",
+      "url": "https://www.pentagram.com/work/caligra-c100-developer-terminal",
+      "date": "2026-05-09T07:38:24.000Z"
+    },
+    {
+      "title": "NREL best research cell (photovoltaic) efficiency chart [pdf]",
+      "url": "https://nrel.gov/media/docs/libraries/pv/cell-pv-eff.pdf",
+      "date": "2026-05-09T07:35:15.000Z"
+    }
+  ]
 }
