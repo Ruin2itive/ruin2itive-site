@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-09T18:58:03.938Z",
-  "updated_local": "5/9/2026, 6:58:03 PM",
+  "updated_iso": "2026-05-09T19:15:11.524Z",
+  "updated_local": "5/9/2026, 7:15:11 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Bun ported to Rust in 6 days",
+        "url": "https://xunroll.com/thread/2053047748191232310",
+        "source": "hn",
+        "time": "5/9/2026, 6:47:58 PM"
+      },
+      {
         "title": "Internet Archive Switzerland",
         "url": "https://internetarchive.ch/",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://github.com/navid-m/flightsim",
         "source": "hn",
         "time": "5/6/2026, 9:58:05 PM"
-      },
-      {
-        "title": "LLMs corrupt your documents when you delegate",
-        "url": "https://arxiv.org/abs/2604.15597",
-        "source": "hn",
-        "time": "5/9/2026, 8:44:34 AM"
       }
     ],
     "world": [
