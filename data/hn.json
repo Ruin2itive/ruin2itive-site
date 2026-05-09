@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-09T14:16:54.962Z"
+    "built_at": "2026-05-09T15:43:00.328Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Endara – One endpoint for all your MCP servers",
+      "url": "https://endara.ai/",
+      "date": "2026-05-09T15:42:35.000Z"
+    },
+    {
+      "title": "Adola: Reducing LLM input tokens by 70%",
+      "url": "https://adola.app/",
+      "date": "2026-05-09T15:42:26.000Z"
+    }
+  ]
 }
