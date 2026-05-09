@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-09T04:28:58.722Z",
-  "updated_local": "5/9/2026, 4:28:58 AM",
+  "updated_iso": "2026-05-09T07:05:17.760Z",
+  "updated_local": "5/9/2026, 7:05:17 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "A recent experience with ChatGPT 5.5 Pro",
+        "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+        "source": "hn",
+        "time": "5/9/2026, 2:41:42 AM"
+      },
+      {
+        "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+        "url": "https://twitter.com/trq212/status/2052809885763747935",
+        "source": "hn",
+        "time": "5/9/2026, 4:53:52 AM"
+      },
+      {
         "title": "Google broke reCAPTCHA for de-googled Android users",
         "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
         "source": "hn",
@@ -52,27 +64,9 @@
         "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
         "source": "hn",
         "time": "5/7/2026, 7:20:55 AM"
-      },
-      {
-        "title": "Bitter Lessons from the ISSpresso",
-        "url": "https://mceglowski.substack.com/p/bitter-lessons-from-the-isspresso",
-        "source": "hn",
-        "time": "5/6/2026, 7:09:29 PM"
-      },
-      {
-        "title": "AI is breaking two vulnerability cultures",
-        "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-        "source": "hn",
-        "time": "5/8/2026, 5:55:08 PM"
       }
     ],
     "world": [
-      {
-        "title": "Starmer under pressure as Labour suffers heavy election losses including historic Wales defeat",
-        "url": "https://www.bbc.com/news/articles/cz62dwe30wdo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 09 May 2026 01:27:14 GMT"
-      },
       {
         "title": "Plaid Cymru ready to run Wales, leader says, after party wins Senedd vote",
         "url": "https://www.bbc.com/news/articles/cdrpxvz61vko?at_medium=RSS&amp;at_campaign=rss",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 08 May 2026 22:34:46 GMT"
+      },
+      {
+        "title": "No leadership pressure on Badenoch despite Tory losses",
+        "url": "https://www.bbc.com/news/articles/cnvp5rqrde3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 08 May 2026 22:26:48 GMT"
       }
     ],
     "projects": [
