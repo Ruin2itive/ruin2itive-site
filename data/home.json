@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-09T17:03:29.508Z",
-  "updated_local": "5/9/2026, 5:03:29 PM",
+  "updated_iso": "2026-05-09T17:49:42.301Z",
+  "updated_local": "5/9/2026, 5:49:42 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Australian Police Seize Millions in Bitcoin From Alleged Darknet Marketplace Operator",
+        "url": "https://decrypt.co/367363/australian-police-seize-millions-bitcoin-darknet-marketplace-operator",
+        "source": "crypto",
+        "time": "Sat, 09 May 2026 17:24:07 +0000"
+      },
       {
         "title": "Olympic Sprinter Can&#39;t Outrun Charges in UK Crypto Fraud Investigation",
         "url": "https://decrypt.co/367353/olympic-sprinter-cant-outrun-charges-uk-crypto-fraud",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/367320/intel-all-time-high-chip-deal-apple",
         "source": "crypto",
         "time": "Fri, 08 May 2026 20:17:26 +0000"
-      },
-      {
-        "title": "Elizabeth Warren Wants Meta to Spill All on Stablecoin Plans Ahead of Clarity Act Votes",
-        "url": "https://decrypt.co/367314/elizabeth-warren-meta-stablecoin-plans-clarity-act-votes",
-        "source": "crypto",
-        "time": "Fri, 08 May 2026 19:38:44 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://internetarchive.ch/",
         "source": "hn",
         "time": "5/9/2026, 12:00:30 PM"
+      },
+      {
+        "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+        "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+        "source": "hn",
+        "time": "5/9/2026, 5:06:46 PM"
       },
       {
         "title": "PipeDream on the Acorn Archimedes",
@@ -54,12 +60,6 @@
         "time": "5/9/2026, 1:48:32 PM"
       },
       {
-        "title": "Google broke reCAPTCHA for de-googled Android users",
-        "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-        "source": "hn",
-        "time": "5/8/2026, 6:45:58 PM"
-      },
-      {
         "title": "LLMs Corrupt Your Documents When You Delegate",
         "url": "https://arxiv.org/abs/2604.15597",
         "source": "hn",
@@ -68,10 +68,10 @@
     ],
     "world": [
       {
-        "title": "SNP leader John Swinney rules out Holyrood talks with Reform UK",
-        "url": "https://www.bbc.com/news/articles/cddpevvv97jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How Reform won votes from Swansea to Sunderland",
+        "url": "https://www.bbc.com/news/articles/cwy2nz4gwj5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 09 May 2026 16:30:54 GMT"
+        "time": "Sat, 09 May 2026 17:00:08 GMT"
       },
       {
         "title": "Labour MPs have put Starmer on notice after election battering. Can he turn it around?",
@@ -86,16 +86,16 @@
         "time": "Sat, 09 May 2026 15:20:15 GMT"
       },
       {
-        "title": "We welcome scrutiny, Reform UK says after major election gains",
-        "url": "https://www.bbc.com/news/articles/cz62d2482x1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "SNP leader John Swinney rules out Holyrood talks with Reform UK",
+        "url": "https://www.bbc.com/news/articles/cddpevvv97jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 09 May 2026 11:22:03 GMT"
+        "time": "Sat, 09 May 2026 16:30:54 GMT"
       },
       {
-        "title": "Lib Dems offer alternative to extremes of Reform and Greens, Davey says",
-        "url": "https://www.bbc.com/news/articles/c2029ljyq25o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Plaid Cymru wants to run minority Welsh government, leader says",
+        "url": "https://www.bbc.com/news/articles/cdrpxvz61vko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 09 May 2026 13:50:23 GMT"
+        "time": "Sat, 09 May 2026 13:53:20 GMT"
       }
     ],
     "projects": [
