@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-10T11:42:54.988Z"
+    "built_at": "2026-05-10T13:00:17.251Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Super ISO Updater",
-      "url": "https://github.com/JoshuaVandaele/SuperISOUpdater",
-      "date": "2026-05-10T11:39:32.000Z"
-    },
-    {
-      "title": "Show HN: Pace-coach watches your typing rhythm and nudges when stressed",
-      "url": "https://github.com/job-almekinders/pace-coach",
-      "date": "2026-05-10T11:39:07.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
