@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-10T23:00:51.101Z",
-  "updated_local": "5/10/2026, 11:00:51 PM",
+  "updated_iso": "2026-05-10T23:50:47.788Z",
+  "updated_local": "5/10/2026, 11:50:47 PM",
   "sections": {
     "crypto": [
       {
@@ -54,10 +54,16 @@
         "time": "5/10/2026, 5:43:10 PM"
       },
       {
-        "title": "Why modern parents feel more sleep deprived than our ancestors did",
-        "url": "https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep",
+        "title": "Running local models on an M4 with 24GB memory",
+        "url": "https://jola.dev/posts/running-local-models-on-m4",
         "source": "hn",
-        "time": "5/10/2026, 9:36:52 PM"
+        "time": "5/10/2026, 11:09:10 PM"
+      },
+      {
+        "title": "Obsidian plugin was abused to deploy a remote access trojan",
+        "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+        "source": "hn",
+        "time": "5/10/2026, 10:02:43 PM"
       }
     ],
     "world": [
