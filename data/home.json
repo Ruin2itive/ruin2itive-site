@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-10T10:12:18.293Z",
-  "updated_local": "5/10/2026, 10:12:18 AM",
+  "updated_iso": "2026-05-10T11:05:31.985Z",
+  "updated_local": "5/10/2026, 11:05:31 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Idempotency Is Easy Until the Second Request Is Different",
+        "url": "https://blog.dochia.dev/blog/idempotency/",
+        "source": "hn",
+        "time": "5/7/2026, 11:02:28 AM"
+      },
+      {
         "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
         "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
         "source": "hn",
@@ -54,36 +60,30 @@
         "time": "5/10/2026, 3:01:44 AM"
       },
       {
-        "title": "Rotten Dot Com",
-        "url": "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/",
+        "title": "We see something that works, and then we understand it",
+        "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
         "source": "hn",
-        "time": "5/10/2026, 8:25:55 AM"
-      },
-      {
-        "title": "Idempotency Is Easy Until the Second Request Is Different",
-        "url": "https://blog.dochia.dev/blog/idempotency/",
-        "source": "hn",
-        "time": "5/7/2026, 11:02:28 AM"
+        "time": "5/6/2026, 3:15:23 PM"
       }
     ],
     "world": [
       {
-        "title": "Is Starmer's leadership under serious threat?",
-        "url": "https://www.bbc.com/news/articles/c8d81m665q5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 10 May 2026 00:25:14 GMT"
-      },
-      {
         "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
         "url": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 10 May 2026 08:49:02 GMT"
+        "time": "Sun, 10 May 2026 10:45:13 GMT"
       },
       {
         "title": "Spain starts evacuating virus-hit cruise ship in Tenerife",
         "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 10 May 2026 10:01:58 GMT"
+        "time": "Sun, 10 May 2026 10:57:22 GMT"
+      },
+      {
+        "title": "Antisemitism 'a problem for all of us to fix', religious leaders say in letter",
+        "url": "https://www.bbc.com/news/articles/cy92v3j999yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 09 May 2026 23:05:48 GMT"
       },
       {
         "title": "Steve Rosenberg: This year's Victory Day parade in Moscow felt very different",
@@ -92,10 +92,10 @@
         "time": "Sat, 09 May 2026 17:25:53 GMT"
       },
       {
-        "title": "Teachers in England to vote on striking over pay",
-        "url": "https://www.bbc.com/news/articles/crlpdgxe317o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Plaid Cymru's Rhun ap Iorwerth hopes to be first minister on Tuesday",
+        "url": "https://www.bbc.com/news/articles/c62rnglzv2eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 09 May 2026 18:14:57 GMT"
+        "time": "Sun, 10 May 2026 10:58:58 GMT"
       }
     ],
     "projects": [
