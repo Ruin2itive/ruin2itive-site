@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-10T17:42:53.520Z"
+    "built_at": "2026-05-10T18:49:59.815Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Lies, damned lies, and Elastic's benchmarks",
+      "url": "https://www.gouthamve.dev/lies-damned-lies-and-elastics-benchmarks/",
+      "date": "2026-05-10T18:48:08.000Z"
+    },
+    {
+      "title": "Stoa – open substrate for agent-readable SaaS (spec, runtime, registry)",
+      "url": "https://stoa.tryvext.com/",
+      "date": "2026-05-10T18:46:52.000Z"
+    }
+  ]
 }
