@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-10T11:05:31.985Z",
-  "updated_local": "5/10/2026, 11:05:31 AM",
+  "updated_iso": "2026-05-10T11:49:44.884Z",
+  "updated_local": "5/10/2026, 11:49:44 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Space Cadet Pinball on Linux",
+        "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+        "source": "hn",
+        "time": "5/10/2026, 11:22:02 AM"
+      },
+      {
         "title": "Idempotency Is Easy Until the Second Request Is Different",
         "url": "https://blog.dochia.dev/blog/idempotency/",
         "source": "hn",
@@ -54,16 +60,10 @@
         "time": "5/7/2026, 12:40:35 PM"
       },
       {
-        "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-        "url": "https://github.com/imtomt/ymawky",
+        "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+        "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
         "source": "hn",
-        "time": "5/10/2026, 3:01:44 AM"
-      },
-      {
-        "title": "We see something that works, and then we understand it",
-        "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
-        "source": "hn",
-        "time": "5/6/2026, 3:15:23 PM"
+        "time": "5/7/2026, 12:09:47 PM"
       }
     ],
     "world": [
@@ -83,7 +83,7 @@
         "title": "Antisemitism 'a problem for all of us to fix', religious leaders say in letter",
         "url": "https://www.bbc.com/news/articles/cy92v3j999yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 09 May 2026 23:05:48 GMT"
+        "time": "Sun, 10 May 2026 11:07:36 GMT"
       },
       {
         "title": "Steve Rosenberg: This year's Victory Day parade in Moscow felt very different",
@@ -95,7 +95,7 @@
         "title": "Plaid Cymru's Rhun ap Iorwerth hopes to be first minister on Tuesday",
         "url": "https://www.bbc.com/news/articles/c62rnglzv2eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 10 May 2026 10:58:58 GMT"
+        "time": "Sun, 10 May 2026 11:42:26 GMT"
       }
     ],
     "projects": [
