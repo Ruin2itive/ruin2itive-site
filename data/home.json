@@ -1,37 +1,37 @@
 {
-  "updated_iso": "2026-05-11T13:46:52.107Z",
-  "updated_local": "5/11/2026, 1:46:52 PM",
+  "updated_iso": "2026-05-11T16:08:24.705Z",
+  "updated_local": "5/11/2026, 4:08:24 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Just Launched a Consulting Arm to Help Companies Deploy AI",
+        "url": "https://decrypt.co/367403/openai-launched-consulting-arm-help-companies-deploy-ai",
+        "source": "crypto",
+        "time": "Mon, 11 May 2026 15:15:15 +0000"
+      },
+      {
+        "title": "Tom Lee’s BitMine Slows Ethereum Buying Pace, Adding $62 Million in ETH",
+        "url": "https://decrypt.co/367398/tom-lee-bitmine-slows-ethereum-buying-pace-62-million-eth",
+        "source": "crypto",
+        "time": "Mon, 11 May 2026 15:03:28 +0000"
+      },
+      {
+        "title": "Bank of England Chief Flags ‘Coming Wrestle&#39; With US on Stablecoin Oversight",
+        "url": "https://decrypt.co/367399/bank-of-england-chief-flags-coming-wrestle-with-us-on-stablecoin-oversight",
+        "source": "crypto",
+        "time": "Mon, 11 May 2026 14:49:12 +0000"
+      },
+      {
+        "title": "Ripple Lands $200 Million Financing Facility to Expand Institutional Crypto Brokerage",
+        "url": "https://decrypt.co/367396/ripple-200-million-financing-facility-expand-institutional-crypto-brokerage",
+        "source": "crypto",
+        "time": "Mon, 11 May 2026 14:01:32 +0000"
+      },
       {
         "title": "MoonPay Acquires Dawn Labs, Launches AI Trading Copilot for Prediction Markets",
         "url": "https://decrypt.co/367333/moonpay-acquires-dawn-labs-ai-trading-copilot-prediction-markets",
         "source": "crypto",
         "time": "Mon, 11 May 2026 13:19:30 +0000"
-      },
-      {
-        "title": "Strategy Resumes Bitcoin Buys as Saylor Shifts Focus to &#39;Never Be a Net Seller&#39;",
-        "url": "https://decrypt.co/367391/strategy-resumes-bitcoin-buys-as-saylor-shifts-focus-to-never-be-a-net-seller",
-        "source": "crypto",
-        "time": "Mon, 11 May 2026 13:05:35 +0000"
-      },
-      {
-        "title": "Morning Minute: The Clarity Act Markup Comes May 14",
-        "url": "https://decrypt.co/367385/morning-minute-the-clarity-act-markup-comes-may-14",
-        "source": "crypto",
-        "time": "Mon, 11 May 2026 12:42:48 +0000"
-      },
-      {
-        "title": "Circle Raises $222M in Arc Token Presale at $3B Valuation",
-        "url": "https://decrypt.co/367386/circle-raises-222m-in-arc-token-presale-at-3b-valuation",
-        "source": "crypto",
-        "time": "Mon, 11 May 2026 12:31:50 +0000"
-      },
-      {
-        "title": "Crypto Funds Add $858M as Clarity Act Drives Market Optimism",
-        "url": "https://decrypt.co/367382/crypto-funds-add-858m-as-clarity-act-drives-market-optimism",
-        "source": "crypto",
-        "time": "Mon, 11 May 2026 11:31:38 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "5/11/2026, 10:13:04 AM"
       },
       {
+        "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+        "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+        "source": "hn",
+        "time": "5/10/2026, 5:05:05 PM"
+      },
+      {
         "title": "Hardware Attestation as Monopoly Enabler",
         "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
         "source": "hn",
         "time": "5/10/2026, 5:54:02 PM"
       },
       {
+        "title": "Gmail registration now requires scanning a QR code and sending a text message",
+        "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+        "source": "hn",
+        "time": "5/11/2026, 7:26:54 AM"
+      },
+      {
         "title": "Local AI needs to be the norm",
         "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
         "source": "hn",
         "time": "5/10/2026, 5:19:28 PM"
-      },
-      {
-        "title": "I'm going back to writing code by hand",
-        "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-        "source": "hn",
-        "time": "5/11/2026, 1:23:51 AM"
-      },
-      {
-        "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
-        "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
-        "source": "hn",
-        "time": "5/9/2026, 12:42:22 AM"
       }
     ],
     "world": [
@@ -74,16 +74,16 @@
         "time": "Mon, 11 May 2026 13:09:32 GMT"
       },
       {
-        "title": "Tourist hotspot at 'end of the world' denies causing hantavirus outbreak",
-        "url": "https://www.bbc.com/news/articles/cx21ej471g2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 10 May 2026 20:05:53 GMT"
-      },
-      {
-        "title": "British passengers from hantavirus-hit cruise ship isolating in hospital",
+        "title": "British passengers from cruise ship isolating in hospital",
         "url": "https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 11 May 2026 12:12:38 GMT"
+        "time": "Mon, 11 May 2026 14:59:48 GMT"
+      },
+      {
+        "title": "Washington correspondents'  dinner shooting suspect pleads not guilty",
+        "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 11 May 2026 14:52:12 GMT"
       },
       {
         "title": "Martin Lewis delivers emotional speech, and nine other Bafta TV moments",
@@ -92,10 +92,10 @@
         "time": "Mon, 11 May 2026 02:10:32 GMT"
       },
       {
-        "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-        "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ovo energy customers urged not to panic as takeover planned",
+        "url": "https://www.bbc.com/news/articles/cn4pl91npjdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 11 May 2026 01:55:13 GMT"
+        "time": "Mon, 11 May 2026 15:39:32 GMT"
       }
     ],
     "projects": [
