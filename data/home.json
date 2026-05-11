@@ -1,40 +1,58 @@
 {
-  "updated_iso": "2026-05-11T16:31:46.417Z",
-  "updated_local": "5/11/2026, 4:31:46 PM",
+  "updated_iso": "2026-05-11T18:57:07.069Z",
+  "updated_local": "5/11/2026, 6:57:07 PM",
   "sections": {
     "crypto": [
       {
-        "title": "Ethereum Firm Sharplink Posts $686 Million Loss, Kicks Off $125M Yield Fund With Galaxy",
-        "url": "https://decrypt.co/367408/ethereum-firm-sharplink-686-million-loss-125m-fund-galaxy",
+        "title": "Major Solana Upgrade Alpenglow Begins Testing Ahead of Full Rollout",
+        "url": "https://decrypt.co/367470/solana-alpenglow-upgrade-begins-testing-ahead-full-rollout",
         "source": "crypto",
-        "time": "Mon, 11 May 2026 16:11:30 +0000"
+        "time": "Mon, 11 May 2026 18:45:09 +0000"
       },
       {
-        "title": "OpenAI Just Launched a Consulting Arm to Help Companies Deploy AI",
-        "url": "https://decrypt.co/367403/openai-launched-consulting-arm-help-companies-deploy-ai",
+        "title": "Binance Says AI Defenses Blocked $10.5 Billion in Crypto Fraud Over 15 Months",
+        "url": "https://decrypt.co/367469/binance-ai-defenses-blocked-10-5-billion-crypto-fraud",
         "source": "crypto",
-        "time": "Mon, 11 May 2026 15:15:15 +0000"
+        "time": "Mon, 11 May 2026 18:25:54 +0000"
       },
       {
-        "title": "Tom Lee’s BitMine Slows Ethereum Buying Pace, Adding $62 Million in ETH",
-        "url": "https://decrypt.co/367398/tom-lee-bitmine-slows-ethereum-buying-pace-62-million-eth",
+        "title": "Anthropic Says &#39;Evil&#39; AI Portrayals in Sci-Fi Caused Claude&#39;s Blackmail Problem",
+        "url": "https://decrypt.co/367437/anthropic-evil-ai-portrayals-training-data-claude-blackmail",
         "source": "crypto",
-        "time": "Mon, 11 May 2026 15:03:28 +0000"
+        "time": "Mon, 11 May 2026 17:37:01 +0000"
       },
       {
-        "title": "Bank of England Chief Flags ‘Coming Wrestle&#39; With US on Stablecoin Oversight",
-        "url": "https://decrypt.co/367399/bank-of-england-chief-flags-coming-wrestle-with-us-on-stablecoin-oversight",
+        "title": "Keel Infrastructure Posts $145 Million Loss as Firm Completes Pivot From Bitcoin Miner to AI",
+        "url": "https://decrypt.co/367447/keel-infrastructure-posts-145-million-loss-pivot-bitcoin-miner-ai",
         "source": "crypto",
-        "time": "Mon, 11 May 2026 14:49:12 +0000"
+        "time": "Mon, 11 May 2026 17:25:41 +0000"
       },
       {
-        "title": "Ripple Lands $200 Million Financing Facility to Expand Institutional Crypto Brokerage",
-        "url": "https://decrypt.co/367396/ripple-200-million-financing-facility-expand-institutional-crypto-brokerage",
+        "title": "Kash Patel Touts AI Overhaul of FBI Crime-Fighting Operations",
+        "url": "https://decrypt.co/367431/kash-patel-ai-overhaul-fbi-crime-fighting-operations",
         "source": "crypto",
-        "time": "Mon, 11 May 2026 14:01:32 +0000"
+        "time": "Mon, 11 May 2026 17:07:08 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+        "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+        "source": "hn",
+        "time": "5/11/2026, 3:55:07 PM"
+      },
+      {
+        "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
+        "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
+        "source": "hn",
+        "time": "5/11/2026, 6:12:38 PM"
+      },
+      {
+        "title": "Nullsoft, 1997-2004 (2004)",
+        "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+        "source": "hn",
+        "time": "5/8/2026, 8:00:44 AM"
+      },
       {
         "title": "Ratty – A terminal emulator with inline 3D graphics",
         "url": "https://ratty-term.org/",
@@ -46,24 +64,6 @@
         "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
         "source": "hn",
         "time": "5/10/2026, 5:05:05 PM"
-      },
-      {
-        "title": "Hardware Attestation as Monopoly Enabler",
-        "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-        "source": "hn",
-        "time": "5/10/2026, 5:54:02 PM"
-      },
-      {
-        "title": "Gmail registration now requires scanning a QR code and sending a text message",
-        "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-        "source": "hn",
-        "time": "5/11/2026, 7:26:54 AM"
-      },
-      {
-        "title": "Amália and the Future of European Portuguese LLMs",
-        "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
-        "source": "hn",
-        "time": "5/8/2026, 4:34:45 PM"
       }
     ],
     "world": [
@@ -71,31 +71,31 @@
         "title": "Analysis: Has Starmer done enough to save his premiership?",
         "url": "https://www.bbc.com/news/articles/c3r2pr95yq0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 11 May 2026 16:09:46 GMT"
+        "time": "Mon, 11 May 2026 17:49:51 GMT"
       },
       {
-        "title": "British passengers from cruise ship isolating in hospital",
+        "title": "British passengers from hantavirus-hit cruise ship isolating in hospital",
         "url": "https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 11 May 2026 14:59:48 GMT"
       },
       {
-        "title": "Washington correspondents'  dinner shooting suspect pleads not guilty",
-        "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Macron interrupts speaker to tell audience to be quiet",
+        "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 11 May 2026 14:52:12 GMT"
+        "time": "Mon, 11 May 2026 16:10:18 GMT"
       },
       {
-        "title": "Martin Lewis delivers emotional speech, and nine other Bafta TV moments",
-        "url": "https://www.bbc.com/news/articles/c8e86ykkx5jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Pupils hopeless and crying after 'poorly worded' Higher Maths exam",
+        "url": "https://www.bbc.com/news/articles/cx21j20l9wlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 11 May 2026 02:10:32 GMT"
+        "time": "Mon, 11 May 2026 16:13:30 GMT"
       },
       {
-        "title": "Wordle to become TV quiz show with Savannah Guthrie as host",
-        "url": "https://www.bbc.com/news/articles/czd2vpdr9g6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump says Iran ceasefire is on 'massive life support'",
+        "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 11 May 2026 15:12:33 GMT"
+        "time": "Mon, 11 May 2026 18:17:34 GMT"
       }
     ],
     "projects": [
