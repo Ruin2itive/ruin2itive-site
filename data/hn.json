@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-11T16:25:34.356Z"
+    "built_at": "2026-05-11T18:51:58.504Z"
   },
-  "items": [
-    {
-      "title": "OfficeOS: Open-source infrastructure for scaling and managing AI agents",
-      "url": "https://github.com/officeos-co/officeos",
-      "date": "2026-05-11T16:24:32.000Z"
-    },
-    {
-      "title": "Facts and Fiction: Stories Stripped Away by Book Bans",
-      "url": "https://pen.org/report/facts-fiction/",
-      "date": "2026-05-11T16:24:00.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
