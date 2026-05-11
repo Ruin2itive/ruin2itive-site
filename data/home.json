@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-11T22:05:38.720Z",
-  "updated_local": "5/11/2026, 10:05:38 PM",
+  "updated_iso": "2026-05-11T23:02:51.988Z",
+  "updated_local": "5/11/2026, 11:02:51 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity",
+        "url": "https://decrypt.co/367506/openai-launches-daybreak-ai-cybersecurity",
+        "source": "crypto",
+        "time": "Mon, 11 May 2026 22:30:36 +0000"
+      },
       {
         "title": "Baidu&#39;s New AI Is Already Beating Top Models and Cost 94% Less to Build",
         "url": "https://decrypt.co/367493/baidu-ai-model-cost-less-train-beating-everyone-china",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/367477/hackers-ai-zero-day-exploit-google",
         "source": "crypto",
         "time": "Mon, 11 May 2026 19:49:10 +0000"
-      },
-      {
-        "title": "Major Solana Upgrade Alpenglow Begins Testing Ahead of Full Rollout",
-        "url": "https://decrypt.co/367470/solana-alpenglow-upgrade-begins-testing-ahead-full-rollout",
-        "source": "crypto",
-        "time": "Mon, 11 May 2026 18:45:09 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "5/11/2026, 9:08:25 PM"
       },
       {
-        "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
-        "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+        "title": "Google says criminal hackers used AI to find a major software flaw",
+        "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
         "source": "hn",
-        "time": "5/11/2026, 8:51:57 PM"
+        "time": "5/11/2026, 1:20:14 PM"
       },
       {
         "title": "Library for fast mapping of Java records to native memory",
@@ -54,24 +54,24 @@
         "time": "5/11/2026, 7:33:31 PM"
       },
       {
-        "title": "Google says criminal hackers used AI to find a major software flaw",
-        "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-        "source": "hn",
-        "time": "5/11/2026, 1:20:14 PM"
-      },
-      {
         "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
         "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
         "source": "hn",
         "time": "5/11/2026, 5:53:08 PM"
+      },
+      {
+        "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
+        "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+        "source": "hn",
+        "time": "5/11/2026, 8:51:57 PM"
       }
     ],
     "world": [
       {
-        "title": "British passengers from hantavirus-hit cruise ship isolating in hospital",
-        "url": "https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Last passengers leave virus-hit cruise ship as three more test positive",
+        "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 11 May 2026 20:00:28 GMT"
+        "time": "Mon, 11 May 2026 20:49:14 GMT"
       },
       {
         "title": "Watch: Macron interrupts speaker to tell audience to be quiet",
