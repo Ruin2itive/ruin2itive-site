@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-11T18:51:58.504Z"
+    "built_at": "2026-05-11T20:27:27.727Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: E2a – Open-source Email gateway for AI agents",
+      "url": "https://github.com/Mnexa-AI/e2a",
+      "date": "2026-05-11T20:26:17.000Z"
+    },
+    {
+      "title": "Quillions: How Money Laundering Won",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n09/john-lanchester/squillions",
+      "date": "2026-05-11T20:26:09.000Z"
+    }
+  ]
 }
