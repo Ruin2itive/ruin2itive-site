@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-05-12T09:46:17.207Z",
-  "updated_local": "5/12/2026, 9:46:17 AM",
+  "updated_iso": "2026-05-12T11:52:29.921Z",
+  "updated_local": "5/12/2026, 11:52:29 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Senate Banking Panel Releases CLARITY Act Draft Ahead of Thursday Markup",
+        "url": "https://decrypt.co/367533/senate-banking-panel-releases-clarity-act-draft-ahead-of-thursday-markup",
+        "source": "crypto",
+        "time": "Tue, 12 May 2026 11:48:47 +0000"
+      },
+      {
+        "title": "Is This Bitcoin Bear Market Different? Analysts Weigh In",
+        "url": "https://decrypt.co/367529/is-this-bitcoin-bear-market-different-analysts-weigh-in",
+        "source": "crypto",
+        "time": "Tue, 12 May 2026 11:25:04 +0000"
+      },
+      {
+        "title": "Three Indicted Over ‘Brazen’ Crypto Wrench Attack Spree in California",
+        "url": "https://decrypt.co/367513/three-indicted-over-brazen-crypto-wrench-attack-spree-in-california",
+        "source": "crypto",
+        "time": "Tue, 12 May 2026 10:19:50 +0000"
+      },
       {
         "title": "OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity",
         "url": "https://decrypt.co/367506/openai-launches-daybreak-ai-cybersecurity",
@@ -14,32 +32,14 @@
         "url": "https://decrypt.co/367493/baidu-ai-model-cost-less-train-beating-everyone-china",
         "source": "crypto",
         "time": "Mon, 11 May 2026 21:46:16 +0000"
-      },
-      {
-        "title": "Circle Gives AI Agents USDC Stablecoin Powers Alongside $222M Arc Token Sale",
-        "url": "https://decrypt.co/367490/circle-ai-agents-usdc-stablecoin-powers-222m-arc-token-sale",
-        "source": "crypto",
-        "time": "Mon, 11 May 2026 21:15:46 +0000"
-      },
-      {
-        "title": "Clarity Act Vote Set for Thursday: Here&#39;s Where the Crypto Bill Stands",
-        "url": "https://decrypt.co/367487/clarity-act-vote-set-here-where-crypto-bill-stands",
-        "source": "crypto",
-        "time": "Mon, 11 May 2026 20:46:03 +0000"
-      },
-      {
-        "title": "Hackers Used AI to Build a Zero-Day Exploit That Bypasses Two-Factor Authentication: Google",
-        "url": "https://decrypt.co/367477/hackers-ai-zero-day-exploit-google",
-        "source": "crypto",
-        "time": "Mon, 11 May 2026 19:49:10 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Postmortem: TanStack NPM supply-chain compromise",
-        "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+        "title": "Learning Software Architecture",
+        "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
         "source": "hn",
-        "time": "5/11/2026, 9:08:25 PM"
+        "time": "5/12/2026, 9:30:21 AM"
       },
       {
         "title": "Screenshots of Old Desktop OSes",
@@ -48,30 +48,42 @@
         "time": "5/12/2026, 5:11:24 AM"
       },
       {
-        "title": "Learning Software Architecture",
-        "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+        "title": "Postmortem: TanStack NPM supply-chain compromise",
+        "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
         "source": "hn",
-        "time": "5/12/2026, 9:30:21 AM"
+        "time": "5/11/2026, 9:08:25 PM"
+      },
+      {
+        "title": "Toxicity on Social Media – The Noisy Room",
+        "url": "https://thenoisyroom.com",
+        "source": "hn",
+        "time": "5/12/2026, 7:31:38 AM"
       },
       {
         "title": "They Live (1988) inspired Adblocker",
         "url": "https://github.com/davmlaw/they_live_adblocker",
         "source": "hn",
         "time": "5/12/2026, 12:37:54 AM"
-      },
-      {
-        "title": "If AI writes your code, why use Python?",
-        "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-        "source": "hn",
-        "time": "5/11/2026, 8:45:55 PM"
       }
     ],
     "world": [
       {
+        "title": "Henry Zeffman: PM puts himself back in the game for now",
+        "url": "https://www.bbc.com/news/articles/clypl327620o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 12 May 2026 11:39:19 GMT"
+      },
+      {
         "title": "BBC unmasks key people smuggler in network behind most small boat crossings",
         "url": "https://www.bbc.com/news/articles/cp3pl5093wpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 12 May 2026 08:27:25 GMT"
+        "time": "Tue, 12 May 2026 11:01:34 GMT"
+      },
+      {
+        "title": "No sign of larger hantavirus outbreak, says UN health agency",
+        "url": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 12 May 2026 09:35:32 GMT"
       },
       {
         "title": "Green Party admits Polanski may have failed to pay council tax",
@@ -84,18 +96,6 @@
         "url": "https://www.bbc.com/news/articles/ckgpl9zdw3po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 11 May 2026 23:08:21 GMT"
-      },
-      {
-        "title": "No sign of larger hantavirus outbreak, says UN health agency",
-        "url": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 12 May 2026 09:35:32 GMT"
-      },
-      {
-        "title": "US in closely guarded talks to open new bases in Greenland",
-        "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 12 May 2026 09:31:45 GMT"
       }
     ],
     "projects": [
