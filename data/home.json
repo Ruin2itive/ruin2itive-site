@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-12T12:02:48.678Z",
-  "updated_local": "5/12/2026, 12:02:48 PM",
+  "updated_iso": "2026-05-12T14:20:59.007Z",
+  "updated_local": "5/12/2026, 2:20:59 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "North Korean Crypto Hackers Stole $2.1B in 2025, 60% of All Losses: CertiK",
+        "url": "https://decrypt.co/367527/north-korean-crypto-hackers-stole-2-1b-in-2025-60-of-all-losses-certik",
+        "source": "crypto",
+        "time": "Tue, 12 May 2026 13:01:06 +0000"
+      },
       {
         "title": "Morning Minute: Circle Stock Soars After Q1 Beat, $222M Arc Raise",
         "url": "https://decrypt.co/367530/morning-minute-circle-stock-soars-after-q1-beat-222m-arc-raise",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/367513/three-indicted-over-brazen-crypto-wrench-attack-spree-in-california",
         "source": "crypto",
         "time": "Tue, 12 May 2026 10:19:50 +0000"
-      },
-      {
-        "title": "OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity",
-        "url": "https://decrypt.co/367506/openai-launches-daybreak-ai-cybersecurity",
-        "source": "crypto",
-        "time": "Mon, 11 May 2026 22:30:36 +0000"
       }
     ],
     "hacker": [
@@ -42,60 +42,60 @@
         "time": "5/12/2026, 9:30:21 AM"
       },
       {
+        "title": "Rendering the Sky, Sunsets, and Planets",
+        "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+        "source": "hn",
+        "time": "5/12/2026, 1:26:46 PM"
+      },
+      {
         "title": "Screenshots of Old Desktop OSes",
         "url": "http://www.typewritten.org/Media/",
         "source": "hn",
         "time": "5/12/2026, 5:11:24 AM"
       },
       {
-        "title": "Postmortem: TanStack NPM supply-chain compromise",
-        "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+        "title": "Profiling.sampling – Statistical Profiler",
+        "url": "https://docs.python.org/3.15/library/profiling.sampling.html#module-profiling.sampling",
         "source": "hn",
-        "time": "5/11/2026, 9:08:25 PM"
+        "time": "5/10/2026, 11:19:03 AM"
       },
       {
         "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
         "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
         "source": "hn",
         "time": "5/12/2026, 11:00:07 AM"
-      },
-      {
-        "title": "Toxicity on Social Media – The Noisy Room",
-        "url": "https://thenoisyroom.com",
-        "source": "hn",
-        "time": "5/12/2026, 7:31:38 AM"
       }
     ],
     "world": [
       {
-        "title": "Henry Zeffman: PM puts himself back in the game for now",
+        "title": "Henry Zeffman: Keir Starmer fights back for now",
         "url": "https://www.bbc.com/news/articles/clypl327620o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 12 May 2026 11:39:19 GMT"
+        "time": "Tue, 12 May 2026 13:50:45 GMT"
+      },
+      {
+        "title": "Jess Phillips's resignation letter in full",
+        "url": "https://www.bbc.com/news/articles/cglpz89265jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 12 May 2026 12:22:38 GMT"
+      },
+      {
+        "title": "At a glance: Starmer grapples with leadership crisis",
+        "url": "https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 12 May 2026 14:18:49 GMT"
+      },
+      {
+        "title": "UK borrowing costs jump as uncertainty over PM's future continues",
+        "url": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 12 May 2026 14:15:23 GMT"
       },
       {
         "title": "BBC unmasks key people smuggler in network behind most small boat crossings",
         "url": "https://www.bbc.com/news/articles/cp3pl5093wpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 12 May 2026 11:01:34 GMT"
-      },
-      {
-        "title": "No sign of larger hantavirus outbreak, says UN health agency",
-        "url": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 12 May 2026 09:35:32 GMT"
-      },
-      {
-        "title": "Green Party admits Polanski may have failed to pay council tax",
-        "url": "https://www.bbc.com/news/articles/cy02wdzrg6jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 12 May 2026 09:18:19 GMT"
-      },
-      {
-        "title": "US in closely guarded talks to open new bases in Greenland",
-        "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 12 May 2026 11:44:16 GMT"
       }
     ],
     "projects": [
