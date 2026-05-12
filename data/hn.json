@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-11T23:54:58.645Z"
+    "built_at": "2026-05-12T02:13:29.668Z"
   },
-  "items": [
-    {
-      "title": "Mistral AI's NPM package was compromised",
-      "url": "https://github.com/mistralai/client-ts/issues/217",
-      "date": "2026-05-11T23:45:10.000Z"
-    },
-    {
-      "title": "Senior Product Engineer",
-      "url": "https://revieve.factorialhr.com/job_posting/product-engineer-299899",
-      "date": "2026-05-11T23:41:39.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
