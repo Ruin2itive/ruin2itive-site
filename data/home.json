@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-05-12T15:43:32.151Z",
-  "updated_local": "5/12/2026, 3:43:32 PM",
+  "updated_iso": "2026-05-12T17:09:01.080Z",
+  "updated_local": "5/12/2026, 5:09:01 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
+        "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
+        "source": "crypto",
+        "time": "Tue, 12 May 2026 17:04:02 +0000"
+      },
+      {
+        "title": "Franklin Templeton, Kraken Parent Payward Team Up to Tokenize Wall Street Products",
+        "url": "https://decrypt.co/367568/franklin-templeton-kraken-payward-team-tokenize-wall-street",
+        "source": "crypto",
+        "time": "Tue, 12 May 2026 15:52:58 +0000"
+      },
       {
         "title": "Bhutan Moves $8.1M in Bitcoin as Sell-Off Continues",
         "url": "https://decrypt.co/367551/bhutan-moves-8-1m-in-bitcoin-as-sell-off-continues",
@@ -20,32 +32,20 @@
         "url": "https://decrypt.co/367527/north-korean-crypto-hackers-stole-2-1b-in-2025-60-of-all-losses-certik",
         "source": "crypto",
         "time": "Tue, 12 May 2026 13:01:06 +0000"
-      },
-      {
-        "title": "Morning Minute: Circle Stock Soars After Q1 Beat, $222M Arc Raise",
-        "url": "https://decrypt.co/367530/morning-minute-circle-stock-soars-after-q1-beat-222m-arc-raise",
-        "source": "crypto",
-        "time": "Tue, 12 May 2026 11:55:03 +0000"
-      },
-      {
-        "title": "Senate Banking Panel Releases CLARITY Act Draft Ahead of Thursday Markup",
-        "url": "https://decrypt.co/367533/senate-banking-panel-releases-clarity-act-draft-ahead-of-thursday-markup",
-        "source": "crypto",
-        "time": "Tue, 12 May 2026 11:48:47 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Bambu Lab is abusing the open source social contract",
-        "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-        "source": "hn",
-        "time": "5/12/2026, 2:54:41 PM"
-      },
       {
         "title": "Rendering the Sky, Sunsets, and Planets",
         "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
         "source": "hn",
         "time": "5/12/2026, 1:26:46 PM"
+      },
+      {
+        "title": "Bambu Lab is abusing the open source social contract",
+        "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+        "source": "hn",
+        "time": "5/12/2026, 2:54:41 PM"
       },
       {
         "title": "Learning Software Architecture",
@@ -54,36 +54,36 @@
         "time": "5/12/2026, 9:30:21 AM"
       },
       {
-        "title": "Screenshots of Old Desktop OSes",
-        "url": "http://www.typewritten.org/Media/",
+        "title": "The Future of Obsidian Plugins",
+        "url": "https://obsidian.md/blog/future-of-plugins/",
         "source": "hn",
-        "time": "5/12/2026, 5:11:24 AM"
+        "time": "5/12/2026, 3:45:54 PM"
       },
       {
-        "title": "Postmortem: TanStack NPM supply-chain compromise",
-        "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+        "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+        "url": "https://voker.ai",
         "source": "hn",
-        "time": "5/11/2026, 9:08:25 PM"
+        "time": "5/12/2026, 3:45:20 PM"
       }
     ],
     "world": [
       {
-        "title": "Henry Zeffman: Keir Starmer fights back for now",
-        "url": "https://www.bbc.com/news/articles/clypl327620o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "The potential challengers to Keir Starmer",
+        "url": "https://www.bbc.com/news/articles/c3e2n7xn14xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 12 May 2026 13:50:45 GMT"
+        "time": "Tue, 12 May 2026 15:47:35 GMT"
       },
       {
-        "title": "Jess Phillips's resignation letter in full",
+        "title": "Read all the ministers' resignation letters in full",
         "url": "https://www.bbc.com/news/articles/cglpz89265jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 12 May 2026 12:22:38 GMT"
+        "time": "Tue, 12 May 2026 16:59:57 GMT"
       },
       {
-        "title": "At a glance: Starmer grapples with leadership crisis",
-        "url": "https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Which Labour MPs have come out against Starmer?",
+        "url": "https://www.bbc.com/news/articles/cgepqxj30pqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 12 May 2026 15:32:47 GMT"
+        "time": "Tue, 12 May 2026 16:25:58 GMT"
       },
       {
         "title": "Watch: Reporters shout questions at ministers leaving No 10",
@@ -92,10 +92,10 @@
         "time": "Tue, 12 May 2026 14:21:31 GMT"
       },
       {
-        "title": "BBC unmasks key people smuggler in network behind most small boat crossings",
-        "url": "https://www.bbc.com/news/articles/cp3pl5093wpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Crisis in Great Britain!' How global media is reporting Starmer's fight for survival",
+        "url": "https://www.bbc.com/news/articles/crkp67pdy81o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 12 May 2026 11:01:34 GMT"
+        "time": "Tue, 12 May 2026 14:20:07 GMT"
       }
     ],
     "projects": [
