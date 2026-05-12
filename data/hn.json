@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-12T11:13:58.584Z"
+    "built_at": "2026-05-12T14:00:49.288Z"
   },
-  "items": [
-    {
-      "title": "Robots We Saw at Kazakhstan's AI Conference",
-      "url": "https://www.siliconimist.com/p/robots-of-gitex-kazakhstans-ai-conference",
-      "date": "2026-05-12T11:13:06.000Z"
-    },
-    {
-      "title": "CERN KiCad Libraries",
-      "url": "https://gitlab.com/ohwr/cern-kicad-libs",
-      "date": "2026-05-12T11:07:58.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
