@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-11T23:56:05.522Z",
-  "updated_local": "5/11/2026, 11:56:05 PM",
+  "updated_iso": "2026-05-12T03:21:44.636Z",
+  "updated_local": "5/12/2026, 3:21:44 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "TanStack NPM Packages Compromised",
-        "url": "https://github.com/TanStack/router/issues/7383",
+        "title": "Postmortem: TanStack npm supply-chain compromise",
+        "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
         "source": "hn",
         "time": "5/11/2026, 9:08:25 PM"
+      },
+      {
+        "title": "Claude Platform on AWS",
+        "url": "https://claude.com/blog/claude-platform-on-aws",
+        "source": "hn",
+        "time": "5/12/2026, 1:24:29 AM"
+      },
+      {
+        "title": "If AI writes your code, why use Python?",
+        "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+        "source": "hn",
+        "time": "5/11/2026, 8:45:55 PM"
       },
       {
         "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
@@ -48,54 +60,42 @@
         "time": "5/11/2026, 5:53:08 PM"
       },
       {
-        "title": "Library for fast mapping of Java records to native memory",
-        "url": "https://github.com/mamba-studio/TypedMemory",
+        "title": "Show HN: A modern Music Player Daemon based on Rockbox firmware",
+        "url": "https://github.com/tsirysndr/rockbox-zig",
         "source": "hn",
-        "time": "5/11/2026, 7:33:31 PM"
-      },
-      {
-        "title": "Google says criminal hackers used AI to find a major software flaw",
-        "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-        "source": "hn",
-        "time": "5/11/2026, 1:20:14 PM"
-      },
-      {
-        "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
-        "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-        "source": "hn",
-        "time": "5/11/2026, 8:51:57 PM"
+        "time": "5/9/2026, 1:03:33 PM"
       }
     ],
     "world": [
       {
-        "title": "Last passengers leave virus-hit cruise ship as three more test positive",
-        "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Cabinet split as Mahmood calls on Starmer to set out timetable to go",
+        "url": "https://www.bbc.com/news/articles/c7v9r38d24do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 11 May 2026 20:49:14 GMT"
+        "time": "Tue, 12 May 2026 03:07:35 GMT"
       },
       {
-        "title": "Watch: Macron interrupts speaker to tell audience to be quiet",
-        "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Chris Mason: PM confronts his most difficult day as party revolts",
+        "url": "https://www.bbc.com/news/articles/cn9py15w5yxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 11 May 2026 16:10:18 GMT"
+        "time": "Tue, 12 May 2026 00:32:38 GMT"
       },
       {
         "title": "Trump says Iran ceasefire is on 'massive life support'",
         "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 11 May 2026 18:17:34 GMT"
+        "time": "Tue, 12 May 2026 00:59:12 GMT"
       },
       {
-        "title": "Pupils hopeless and crying after 'poorly worded' Higher Maths exam",
-        "url": "https://www.bbc.com/news/articles/cx21j20l9wlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How the Trump-Xi summit could set superpower relations for many years to come",
+        "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 11 May 2026 16:13:30 GMT"
+        "time": "Mon, 11 May 2026 23:20:53 GMT"
       },
       {
-        "title": "Campbell's Bluebird back on Coniston Water almost 60 years after fatal record attempt",
-        "url": "https://www.bbc.com/news/articles/c4g5r0yydl2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Last passengers leave virus-hit cruise ship as three more test positive",
+        "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 11 May 2026 16:04:35 GMT"
+        "time": "Mon, 11 May 2026 20:49:14 GMT"
       }
     ],
     "projects": [
