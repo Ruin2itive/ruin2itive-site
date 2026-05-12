@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-12T20:44:42.937Z",
-  "updated_local": "5/12/2026, 8:44:42 PM",
+  "updated_iso": "2026-05-12T21:17:43.633Z",
+  "updated_local": "5/12/2026, 9:17:43 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Fake OpenAI Repo Hit #1 on Hugging Face—And Stole Passwords While It Trended",
+        "url": "https://decrypt.co/367659/fake-openai-repo-hugging-face-stole-passwords",
+        "source": "crypto",
+        "time": "Tue, 12 May 2026 20:46:59 +0000"
+      },
       {
         "title": "Android Is About to Get a Lot Smarter With Google AI Boosts—Here&#39;s How",
         "url": "https://decrypt.co/367648/android-smarter-google-ai-boosts-heres-how",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/367614/anthropic-openai-warn-unauthorized-ai-startup-stock-worthless-spv",
         "source": "crypto",
         "time": "Tue, 12 May 2026 18:07:43 +0000"
-      },
-      {
-        "title": "Wall Street&#39;s Clearinghouse DTCC Enlists Chainlink for Collateral Management",
-        "url": "https://decrypt.co/367600/wall-streets-clearinghouse-dtcc-chainlink-collateral-management",
-        "source": "crypto",
-        "time": "Tue, 12 May 2026 17:34:51 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "5/12/2026, 5:37:36 PM"
       },
       {
-        "title": "The Rise of the Bullshittery",
-        "url": "https://xn--gckvb8fzb.com/the-rise-of-the-bullshittery/",
+        "title": "How to make your text look futuristic (2016)",
+        "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
         "source": "hn",
-        "time": "5/12/2026, 7:18:30 PM"
+        "time": "5/12/2026, 8:16:26 PM"
       },
       {
         "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
@@ -54,16 +54,16 @@
         "time": "5/12/2026, 6:12:28 PM"
       },
       {
-        "title": "How to make your text look futuristic",
-        "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-        "source": "hn",
-        "time": "5/12/2026, 8:16:26 PM"
-      },
-      {
         "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
         "url": "https://github.com/cactus-compute/needle",
         "source": "hn",
         "time": "5/12/2026, 6:03:11 PM"
+      },
+      {
+        "title": "Why senior developers fail to communicate their expertise",
+        "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+        "source": "hn",
+        "time": "5/12/2026, 3:08:40 PM"
       }
     ],
     "world": [
