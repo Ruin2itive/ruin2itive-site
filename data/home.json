@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-05-12T18:07:07.282Z",
-  "updated_local": "5/12/2026, 6:07:07 PM",
+  "updated_iso": "2026-05-12T19:48:04.173Z",
+  "updated_local": "5/12/2026, 7:48:04 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Miner MARA Sells $1.5 Billion in BTC, Reports $1.26 Billion Q1 Loss",
+        "url": "https://decrypt.co/367650/bitcoin-miner-mara-sells-1-5-billion-btc-q1-loss",
+        "source": "crypto",
+        "time": "Tue, 12 May 2026 19:45:02 +0000"
+      },
+      {
+        "title": "Ethereum Developers Propose Fix to &#39;Blind Signing&#39; Risk Tied to Massive Losses",
+        "url": "https://decrypt.co/367646/ethereum-developers-propose-fix-blind-signing-risk-massive-losses",
+        "source": "crypto",
+        "time": "Tue, 12 May 2026 19:38:22 +0000"
+      },
+      {
+        "title": "Anthropic and OpenAI Warn Buyers: Unauthorized AI Startup Shares May Be Worthless",
+        "url": "https://decrypt.co/367614/anthropic-openai-warn-unauthorized-ai-startup-stock-worthless-spv",
+        "source": "crypto",
+        "time": "Tue, 12 May 2026 18:07:43 +0000"
+      },
       {
         "title": "Wall Street&#39;s Clearinghouse DTCC Enlists Chainlink for Collateral Management",
         "url": "https://decrypt.co/367600/wall-streets-clearinghouse-dtcc-chainlink-collateral-management",
@@ -14,56 +32,38 @@
         "url": "https://decrypt.co/367601/openai-faces-lawsuit-chatgpt-encouraged-teens-fatal-overdose",
         "source": "crypto",
         "time": "Tue, 12 May 2026 17:18:54 +0000"
-      },
-      {
-        "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
-        "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
-        "source": "crypto",
-        "time": "Tue, 12 May 2026 17:04:02 +0000"
-      },
-      {
-        "title": "Franklin Templeton, Kraken Parent Payward Team Up to Tokenize Wall Street Products",
-        "url": "https://decrypt.co/367568/franklin-templeton-kraken-payward-team-tokenize-wall-street",
-        "source": "crypto",
-        "time": "Tue, 12 May 2026 15:52:58 +0000"
-      },
-      {
-        "title": "Bhutan Moves $8.1M in Bitcoin as Sell-Off Continues",
-        "url": "https://decrypt.co/367551/bhutan-moves-8-1m-in-bitcoin-as-sell-off-continues",
-        "source": "crypto",
-        "time": "Tue, 12 May 2026 14:38:55 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Instructure pays ransom to Canvas hackers",
-        "url": "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/05/11/instructure-pays-ransom-canvas-hackers",
-        "source": "hn",
-        "time": "5/12/2026, 2:56:31 AM"
-      },
-      {
-        "title": "Rendering the Sky, Sunsets, and Planets",
-        "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-        "source": "hn",
-        "time": "5/12/2026, 1:26:46 PM"
-      },
-      {
-        "title": "Googlebook: Designed for Gemini Intelligence – Coming Fall 2026 – Googlebook",
+        "title": "Googlebook",
         "url": "https://googlebook.google/",
         "source": "hn",
         "time": "5/12/2026, 5:37:36 PM"
       },
       {
-        "title": "Bambu Lab is abusing the open source social contract",
-        "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+        "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+        "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
         "source": "hn",
-        "time": "5/12/2026, 2:54:41 PM"
+        "time": "5/12/2026, 6:12:28 PM"
       },
       {
         "title": "Why senior developers fail to communicate their expertise",
         "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
         "source": "hn",
         "time": "5/12/2026, 3:08:40 PM"
+      },
+      {
+        "title": "The Future of Obsidian Plugins",
+        "url": "https://obsidian.md/blog/future-of-plugins/",
+        "source": "hn",
+        "time": "5/12/2026, 3:45:54 PM"
+      },
+      {
+        "title": "Rendering the Sky, Sunsets, and Planets",
+        "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+        "source": "hn",
+        "time": "5/12/2026, 1:26:46 PM"
       }
     ],
     "world": [
@@ -83,7 +83,7 @@
         "title": "All the Labour MPs who have come out against Starmer, and the ones who want him to stay",
         "url": "https://www.bbc.com/news/articles/cgepqxj30pqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 12 May 2026 17:28:37 GMT"
+        "time": "Tue, 12 May 2026 19:04:48 GMT"
       },
       {
         "title": "Watch: Reporters shout questions at ministers leaving No 10",
