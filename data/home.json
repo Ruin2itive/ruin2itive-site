@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-13T10:37:48.315Z",
-  "updated_local": "5/13/2026, 10:37:48 AM",
+  "updated_iso": "2026-05-13T13:09:54.104Z",
+  "updated_local": "5/13/2026, 1:09:54 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: CPI Comes In Hot; Stocks, Crypto Shrug",
+        "url": "https://decrypt.co/367731/morning-minute-cpi-comes-in-hot-stocks-crypto-shrug",
+        "source": "crypto",
+        "time": "Wed, 13 May 2026 11:43:04 +0000"
+      },
       {
         "title": "Hackers Insert Malware Into Mistral AI Software Download",
         "url": "https://decrypt.co/367683/hackers-insert-malware-mistral-ai",
@@ -26,76 +32,70 @@
         "url": "https://decrypt.co/367659/fake-openai-repo-hugging-face-stole-passwords",
         "source": "crypto",
         "time": "Tue, 12 May 2026 20:46:59 +0000"
-      },
-      {
-        "title": "Android Is About to Get a Lot Smarter With Google AI Boosts—Here&#39;s How",
-        "url": "https://decrypt.co/367648/android-smarter-google-ai-boosts-heres-how",
-        "source": "crypto",
-        "time": "Tue, 12 May 2026 20:35:35 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-        "url": "https://arxiv.org/abs/2605.08419",
+        "title": "I Moved My Digital Stack to Europe",
+        "url": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
         "source": "hn",
-        "time": "5/13/2026, 4:25:03 AM"
+        "time": "5/13/2026, 11:42:20 AM"
       },
       {
-        "title": "Restore full BambuNetwork support for Bambu Lab printers",
-        "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+        "title": "Why I'm leaving GitHub for Forgejo",
+        "url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
         "source": "hn",
-        "time": "5/12/2026, 9:55:21 PM"
+        "time": "5/13/2026, 12:54:00 PM"
       },
       {
-        "title": "Googlebook",
-        "url": "https://googlebook.google/",
+        "title": "Preserving Fisher-Price Pixter",
+        "url": "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter",
         "source": "hn",
-        "time": "5/12/2026, 5:37:36 PM"
-      },
-      {
-        "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-        "url": "https://github.com/cactus-compute/needle",
-        "source": "hn",
-        "time": "5/12/2026, 6:03:11 PM"
+        "time": "5/11/2026, 6:52:48 AM"
       },
       {
         "title": "New stainless steel can survive conditions for hydrogen production in seawater",
         "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
         "source": "hn",
         "time": "5/11/2026, 1:05:59 AM"
+      },
+      {
+        "title": "Restore full BambuNetwork support for Bambu Lab printers",
+        "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+        "source": "hn",
+        "time": "5/12/2026, 9:55:21 PM"
       }
     ],
     "world": [
       {
-        "title": "Watch: Wes Streeting leaves No 10 - minutes after arrival",
-        "url": "https://www.bbc.com/news/videos/c7v9l6dm43do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Pomp and ceremony as King delivers speech in Parliament",
+        "url": "https://www.bbc.com/news/videos/cn7p2rd12pgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 13 May 2026 08:05:59 GMT"
+        "time": "Wed, 13 May 2026 12:07:39 GMT"
       },
       {
-        "title": "Chris Mason: Why a quick meeting is overshadowing the King's Speech",
-        "url": "https://www.bbc.com/news/articles/cn7p2yl8j73o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "The King's Speech at a glance",
+        "url": "https://www.bbc.com/news/articles/clypj215wgpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 13 May 2026 10:21:24 GMT"
+        "time": "Wed, 13 May 2026 11:13:34 GMT"
       },
       {
-        "title": "The potential challengers to Keir Starmer",
-        "url": "https://www.bbc.com/news/articles/c3e2n7xn14xo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: What next after the King's Speech?",
+        "url": "https://www.bbc.com/news/videos/crepv72x5xqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 13 May 2026 01:31:58 GMT"
+        "time": "Wed, 13 May 2026 12:22:50 GMT"
       },
       {
-        "title": "Starmer must go before next election, say Labour-backing unions",
-        "url": "https://www.bbc.com/news/articles/crrp252prwdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Standards watchdog launches probe into £5m Farage gift",
+        "url": "https://www.bbc.com/news/articles/c0l26g01703o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 13 May 2026 09:56:28 GMT"
+        "time": "Wed, 13 May 2026 12:41:04 GMT"
       },
       {
-        "title": "A decade on, Trump returns to a stronger and more assertive China",
-        "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Ciao Kate': Crowds cheer Catherine's comeback tour to Italy",
+        "url": "https://www.bbc.com/news/articles/cx21nlwrd49o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 12 May 2026 22:07:51 GMT"
+        "time": "Wed, 13 May 2026 11:56:55 GMT"
       }
     ],
     "projects": [
