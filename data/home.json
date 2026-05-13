@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-12T22:58:56.877Z",
-  "updated_local": "5/12/2026, 10:58:56 PM",
+  "updated_iso": "2026-05-13T00:08:13.453Z",
+  "updated_local": "5/13/2026, 12:08:13 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Kraftwerk's radical 1976 track",
+        "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+        "source": "hn",
+        "time": "5/12/2026, 11:13:01 PM"
+      },
+      {
         "title": "Googlebook",
         "url": "https://googlebook.google/",
         "source": "hn",
         "time": "5/12/2026, 5:37:36 PM"
+      },
+      {
+        "title": "Restore full BambuNetwork support for Bambu Lab printers",
+        "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+        "source": "hn",
+        "time": "5/12/2026, 9:55:21 PM"
       },
       {
         "title": "How to make your text look futuristic (2016)",
@@ -52,26 +64,20 @@
         "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
         "source": "hn",
         "time": "5/12/2026, 6:12:28 PM"
-      },
-      {
-        "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-        "url": "https://github.com/cactus-compute/needle",
-        "source": "hn",
-        "time": "5/12/2026, 6:03:11 PM"
-      },
-      {
-        "title": "Why senior developers fail to communicate their expertise",
-        "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-        "source": "hn",
-        "time": "5/12/2026, 3:08:40 PM"
       }
     ],
     "world": [
       {
-        "title": "Starmer to meet Streeting on Wednesday as leadership crisis divides Labour",
+        "title": "Starmer to meet Streeting as leadership crisis divides Labour",
         "url": "https://www.bbc.com/news/articles/cx21jkmxd42o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 12 May 2026 22:00:51 GMT"
+      },
+      {
+        "title": "Starmer prepares for King's Speech as he faces leadership crisis",
+        "url": "https://www.bbc.com/news/articles/c4gvd81681qo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 12 May 2026 21:31:21 GMT"
       },
       {
         "title": "The potential challengers to Keir Starmer",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cgepqxj30pqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 12 May 2026 19:48:25 GMT"
-      },
-      {
-        "title": "Read all the ministers' resignation letters in full",
-        "url": "https://www.bbc.com/news/articles/cglpz89265jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 12 May 2026 16:59:57 GMT"
       }
     ],
     "projects": [
