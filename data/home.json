@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-13T20:44:04.363Z",
-  "updated_local": "5/13/2026, 8:44:04 PM",
+  "updated_iso": "2026-05-13T21:40:44.250Z",
+  "updated_local": "5/13/2026, 9:40:44 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Rally Cut Short as Profit-Taking Rises, US Demand Falls: CryptoQuant",
+        "url": "https://decrypt.co/367787/bitcoin-rally-cut-short-profit-taking-rises-us-demand-falls-cryptoquant",
+        "source": "crypto",
+        "time": "Wed, 13 May 2026 21:30:46 +0000"
+      },
       {
         "title": "Myriad Adopts Chainlink as Official Oracle Platform to Power New Crypto Prediction Markets",
         "url": "https://decrypt.co/367581/myriad-adopts-chainlink-as-official-oracle-platform-to-power-new-crypto-prediction-markets",
@@ -26,17 +32,23 @@
         "url": "https://decrypt.co/367770/bitcoin-firm-metaplanet-725-million-loss-delays-preferred-share",
         "source": "crypto",
         "time": "Wed, 13 May 2026 17:33:52 +0000"
-      },
-      {
-        "title": "UK Treasury: Digital Assets Have Potential for &#39;Complete Transformation&#39; of Markets",
-        "url": "https://decrypt.co/367773/uk-treasury-digital-assets-have-potential-for-complete-transformation-of-markets",
-        "source": "crypto",
-        "time": "Wed, 13 May 2026 17:26:19 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Princeton mandates proctoring in-person exams, upending 133 years of precedent",
+        "title": "Setting up a free *.city.state.us locality domain (2025)",
+        "url": "https://fredchan.org/blog/locality-domains-guide/",
+        "source": "hn",
+        "time": "5/13/2026, 2:45:18 PM"
+      },
+      {
+        "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+        "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+        "source": "hn",
+        "time": "5/10/2026, 8:54:06 PM"
+      },
+      {
+        "title": "In-person examinations at Princeton will be proctored starting July 1",
         "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
         "source": "hn",
         "time": "5/13/2026, 8:12:16 PM"
@@ -48,27 +60,21 @@
         "time": "5/13/2026, 7:59:35 PM"
       },
       {
-        "title": "Setting up a free *.city.state.us locality domain (2025)",
-        "url": "https://fredchan.org/blog/locality-domains-guide/",
-        "source": "hn",
-        "time": "5/13/2026, 2:45:18 PM"
-      },
-      {
         "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
         "url": "https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/",
         "source": "hn",
         "time": "5/13/2026, 6:30:51 PM"
-      },
-      {
-        "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-        "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-        "source": "hn",
-        "time": "5/10/2026, 8:54:06 PM"
       }
     ],
     "world": [
       {
-        "title": "Chris Mason: Starmer hopes to save his job with promise of change - and warnings of chaos",
+        "title": "Starmer warns against leadership contest in pleas to ministers and MPs",
+        "url": "https://www.bbc.com/news/articles/cvgzv4eqdrno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 13 May 2026 21:39:37 GMT"
+      },
+      {
+        "title": "Chris Mason: Big moment ahead for Streeting to decide whether to go for it",
         "url": "https://www.bbc.com/news/articles/c392djn3zzdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 13 May 2026 18:18:37 GMT"
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c0l26g01703o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 13 May 2026 17:16:22 GMT"
-      },
-      {
-        "title": "Met Police prepares armoured vehicles and 4,000 officers for dual London protests",
-        "url": "https://www.bbc.com/news/articles/c172n5e0prko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 13 May 2026 18:07:58 GMT"
       }
     ],
     "projects": [
