@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-13T17:10:03.488Z"
+    "built_at": "2026-05-13T19:43:27.022Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "CC-Ledger: anatomy of your Claude Code spend",
+      "url": "https://ccledger.dev",
+      "date": "2026-05-13T19:41:58.000Z"
+    },
+    {
+      "title": "How to Build Safe AI (Without Making the AI Safe)",
+      "url": "https://whattotelltherobot.com/p/how-to-build-safe-ai-without-making",
+      "date": "2026-05-13T19:41:40.000Z"
+    }
+  ]
 }
