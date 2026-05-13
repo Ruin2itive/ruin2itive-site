@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-13T04:53:53.757Z",
-  "updated_local": "5/13/2026, 4:53:53 AM",
+  "updated_iso": "2026-05-13T07:47:36.517Z",
+  "updated_local": "5/13/2026, 7:47:36 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+        "url": "https://arxiv.org/abs/2605.08419",
+        "source": "hn",
+        "time": "5/13/2026, 4:25:03 AM"
+      },
+      {
         "title": "Restore full BambuNetwork support for Bambu Lab printers",
         "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
         "source": "hn",
         "time": "5/12/2026, 9:55:21 PM"
+      },
+      {
+        "title": "The vi family",
+        "url": "https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
+        "source": "hn",
+        "time": "5/6/2026, 7:51:16 AM"
       },
       {
         "title": "Googlebook",
@@ -52,18 +64,6 @@
         "url": "https://github.com/cactus-compute/needle",
         "source": "hn",
         "time": "5/12/2026, 6:03:11 PM"
-      },
-      {
-        "title": "Kraftwerk's radical 1976 track",
-        "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-        "source": "hn",
-        "time": "5/12/2026, 11:13:01 PM"
-      },
-      {
-        "title": "My graduation cap runs Rust",
-        "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
-        "source": "hn",
-        "time": "5/13/2026, 12:04:21 AM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Tue, 12 May 2026 22:07:35 GMT"
       },
       {
+        "title": "How would a Labour leadership contest work?",
+        "url": "https://www.bbc.com/news/articles/c3631k30xjlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 13 May 2026 07:13:54 GMT"
+      },
+      {
         "title": "All the Labour MPs who have come out against Starmer, and the ones who want him to stay",
         "url": "https://www.bbc.com/news/articles/cgepqxj30pqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 13 May 2026 01:50:32 GMT"
-      },
-      {
-        "title": "Read all the ministers' resignation letters in full",
-        "url": "https://www.bbc.com/news/articles/cglpz89265jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 12 May 2026 16:59:57 GMT"
       }
     ],
     "projects": [
