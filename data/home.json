@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-05-14T20:40:10.157Z",
-  "updated_local": "5/14/2026, 8:40:10 PM",
+  "updated_iso": "2026-05-14T22:08:58.846Z",
+  "updated_local": "5/14/2026, 10:08:58 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Pushes New ChatGPT Safety Features as Lawsuits Mount",
+        "url": "https://decrypt.co/367937/openai-new-chatgpt-safety-features-lawsuits-investigations",
+        "source": "crypto",
+        "time": "Thu, 14 May 2026 21:43:50 +0000"
+      },
+      {
+        "title": "Apple Mac M5 System Exploited With Anthropic&#39;s Claude Mythos AI, Researchers Claim",
+        "url": "https://decrypt.co/367925/apple-mac-m5-system-exploited-anthropic-claude-mythos-ai",
+        "source": "crypto",
+        "time": "Thu, 14 May 2026 21:16:53 +0000"
+      },
+      {
+        "title": "NFL All Day Stops Issuing NFTs as Dapper Labs Signals Future Plans With League",
+        "url": "https://decrypt.co/367926/nfl-all-day-stops-issuing-nfts-dapper-labs-future-plans-league",
+        "source": "crypto",
+        "time": "Thu, 14 May 2026 21:04:00 +0000"
+      },
       {
         "title": "Bitcoin Firm Strive Unveils Daily Dividend Payments for SATA Preferred Shares",
         "url": "https://decrypt.co/367878/bitcoin-firm-strive-daily-dividend-payments-preferred-share",
@@ -14,24 +32,6 @@
         "url": "https://decrypt.co/367916/kimi-webbridge-ai-agents-browser-local",
         "source": "crypto",
         "time": "Thu, 14 May 2026 19:49:37 +0000"
-      },
-      {
-        "title": "ChatGPT Is Losing Ground to Rivals—Here Are Some Numbers",
-        "url": "https://decrypt.co/367884/chatgpt-losing-ground-anthrophic-google-numbers",
-        "source": "crypto",
-        "time": "Thu, 14 May 2026 18:44:58 +0000"
-      },
-      {
-        "title": "OpenAI Confirms Security Breach Linked to AI Malware Campaign",
-        "url": "https://decrypt.co/367883/openai-confirms-security-breach-ai-malware-campaign",
-        "source": "crypto",
-        "time": "Thu, 14 May 2026 18:30:33 +0000"
-      },
-      {
-        "title": "Kraken to Migrate Wrapped Bitcoin Tech to Chainlink as LayerZero Exodus Expands",
-        "url": "https://decrypt.co/367880/kraken-migrate-wrapped-bitcoin-chainlink-layerzero-exodus",
-        "source": "crypto",
-        "time": "Thu, 14 May 2026 18:09:49 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "5/14/2026, 5:08:00 PM"
       },
       {
-        "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-        "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+        "title": "Amazonbot is finally respecting robots.txt",
+        "url": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
         "source": "hn",
-        "time": "5/14/2026, 3:47:31 PM"
+        "time": "5/14/2026, 8:22:35 PM"
       },
       {
         "title": "First public macOS kernel memory corruption exploit on Apple M5",
@@ -54,19 +54,25 @@
         "time": "5/14/2026, 6:25:09 PM"
       },
       {
+        "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+        "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+        "source": "hn",
+        "time": "5/14/2026, 3:47:31 PM"
+      },
+      {
         "title": "New Nginx Exploit",
         "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
         "source": "hn",
         "time": "5/14/2026, 5:17:48 PM"
-      },
-      {
-        "title": "The AI Zombification of Universities",
-        "url": "https://www.thenewcritic.com/p/the-great-zombification",
-        "source": "hn",
-        "time": "5/14/2026, 6:37:08 PM"
       }
     ],
     "world": [
+      {
+        "title": "Watch: The day Labour's potential leadership race began to heat up",
+        "url": "https://www.bbc.com/news/videos/c3w2ngny1v6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 14 May 2026 20:41:36 GMT"
+      },
       {
         "title": "Key excerpts from Streeting's resignation letter as he quits as health secretary",
         "url": "https://www.bbc.com/news/articles/c626wvqy1yzo?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 14 May 2026 13:33:20 GMT"
-      },
-      {
-        "title": "Former imam sentenced to life for sexual assaults",
-        "url": "https://www.bbc.com/news/articles/cdrpk4end65o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 14 May 2026 14:44:45 GMT"
       }
     ],
     "projects": [
