@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-14T19:29:00.590Z"
+    "built_at": "2026-05-14T21:03:14.538Z"
   },
-  "items": [
-    {
-      "title": "Latvian government collapses amid dispute over breaches by Ukrainian drones",
-      "url": "https://www.washingtonpost.com/world/2026/05/14/latvian-government-collapses-amid-dispute-over-breaches-by-ukrainian-drones/",
-      "date": "2026-05-14T19:28:05.000Z"
-    },
-    {
-      "title": "Postgres minor releases closing 11 CVEs",
-      "url": "https://www.postgresql.org/about/news/postgresql-184-1710-1614-1518-and-1423-released-3297/",
-      "date": "2026-05-14T19:26:06.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
