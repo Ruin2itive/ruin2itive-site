@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-14T03:23:15.539Z",
-  "updated_local": "5/14/2026, 3:23:15 AM",
+  "updated_iso": "2026-05-14T04:04:40.576Z",
+  "updated_local": "5/14/2026, 4:04:40 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Scorched Earth 2000 is back",
+        "title": "Scorched Earth 2000 – Web",
         "url": "http://www.scorch2000.com/web/",
         "source": "hn",
         "time": "5/14/2026, 12:41:29 AM"
+      },
+      {
+        "title": "Cisco Workforce Reductions",
+        "url": "https://blogs.cisco.com/news/our-path-forward",
+        "source": "hn",
+        "time": "5/14/2026, 1:38:05 AM"
       },
       {
         "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
@@ -54,16 +60,10 @@
         "time": "5/13/2026, 2:45:18 PM"
       },
       {
-        "title": "Cisco Workforce Reductions",
-        "url": "https://blogs.cisco.com/news/our-path-forward",
+        "title": "Claude for Small Business",
+        "url": "https://www.anthropic.com/news/claude-for-small-business",
         "source": "hn",
-        "time": "5/14/2026, 1:38:05 AM"
-      },
-      {
-        "title": "A History of IDEs at Google",
-        "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-        "source": "hn",
-        "time": "5/9/2026, 11:14:18 AM"
+        "time": "5/14/2026, 3:59:35 AM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Wed, 13 May 2026 18:18:37 GMT"
       },
       {
-        "title": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
-        "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 13 May 2026 23:22:07 GMT"
-      },
-      {
         "title": "Why is Donald Trump in China? BBC explains",
         "url": "https://www.bbc.com/news/videos/clypvn70783o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 13 May 2026 23:03:15 GMT"
+      },
+      {
+        "title": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
+        "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 13 May 2026 23:22:07 GMT"
       }
     ],
     "projects": [
