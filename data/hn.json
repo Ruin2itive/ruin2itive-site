@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-14T04:37:26.120Z"
+    "built_at": "2026-05-14T07:37:29.422Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "After 8 years, I rewrote my open-source PyTorch curvature library",
+      "url": "https://github.com/noahgolmant/pytorch-hessian-eigenthings",
+      "date": "2026-05-14T07:36:20.000Z"
+    },
+    {
+      "title": "Show HN: Kubesearch, search through Kubernetes YAMLs from homelabs",
+      "url": "https://kubesearch.dev/",
+      "date": "2026-05-14T07:35:34.000Z"
+    }
+  ]
 }
