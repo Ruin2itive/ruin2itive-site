@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-13T22:58:53.992Z"
+    "built_at": "2026-05-14T00:02:04.252Z"
   },
-  "items": [
-    {
-      "title": "Software Engineers Are Obsolete",
-      "url": "https://idiallo.com/blog/everyone-is-better-than-you",
-      "date": "2026-05-13T22:57:36.000Z"
-    },
-    {
-      "title": "Robyx-AI, Your AI staff, managed from chat",
-      "url": "https://github.com/terrordrummer/robyx-ai",
-      "date": "2026-05-13T22:55:21.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
