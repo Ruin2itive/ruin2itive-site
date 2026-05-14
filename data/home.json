@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-14T04:04:40.576Z",
-  "updated_local": "5/14/2026, 4:04:40 AM",
+  "updated_iso": "2026-05-14T06:43:56.368Z",
+  "updated_local": "5/14/2026, 6:43:56 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
+        "title": "Claude for Small Business",
+        "url": "https://www.anthropic.com/news/claude-for-small-business",
+        "source": "hn",
+        "time": "5/14/2026, 3:59:35 AM"
+      },
+      {
         "title": "Scorched Earth 2000 – Web",
         "url": "http://www.scorch2000.com/web/",
         "source": "hn",
         "time": "5/14/2026, 12:41:29 AM"
-      },
-      {
-        "title": "Cisco Workforce Reductions",
-        "url": "https://blogs.cisco.com/news/our-path-forward",
-        "source": "hn",
-        "time": "5/14/2026, 1:38:05 AM"
       },
       {
         "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
@@ -54,25 +54,19 @@
         "time": "5/10/2026, 8:54:06 PM"
       },
       {
-        "title": "Setting up a free *.city.state.us locality domain (2025)",
-        "url": "https://fredchan.org/blog/locality-domains-guide/",
+        "title": "Cisco workforce reductions",
+        "url": "https://blogs.cisco.com/news/our-path-forward",
         "source": "hn",
-        "time": "5/13/2026, 2:45:18 PM"
+        "time": "5/14/2026, 1:38:05 AM"
       },
       {
-        "title": "Claude for Small Business",
-        "url": "https://www.anthropic.com/news/claude-for-small-business",
+        "title": "Arena AI Model ELO History",
+        "url": "https://mayerwin.github.io/AI-Arena-History/",
         "source": "hn",
-        "time": "5/14/2026, 3:59:35 AM"
+        "time": "5/14/2026, 3:19:05 AM"
       }
     ],
     "world": [
-      {
-        "title": "Starmer warns of 'chaos' amid speculation about challenge",
-        "url": "https://www.bbc.com/news/articles/cvgzv4eqdrno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 13 May 2026 21:39:37 GMT"
-      },
       {
         "title": "Chris Mason: Big moment ahead for Streeting to decide whether to go for it",
         "url": "https://www.bbc.com/news/articles/c392djn3zzdo?at_medium=RSS&amp;at_campaign=rss",
@@ -80,13 +74,7 @@
         "time": "Wed, 13 May 2026 18:18:37 GMT"
       },
       {
-        "title": "Why is Donald Trump in China? BBC explains",
-        "url": "https://www.bbc.com/news/videos/clypvn70783o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 13 May 2026 22:14:23 GMT"
-      },
-      {
-        "title": "Higher Europe air fares 'inevitable', says industry head",
+        "title": "Higher Europe air fares inevitable due to Iran war, says industry lead",
         "url": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 13 May 2026 23:03:15 GMT"
@@ -96,6 +84,18 @@
         "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 13 May 2026 23:22:07 GMT"
+      },
+      {
+        "title": "Met Police prepares armoured vehicles and 4,000 officers for dual London protests",
+        "url": "https://www.bbc.com/news/articles/c172n5e0prko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 13 May 2026 18:07:58 GMT"
+      },
+      {
+        "title": "Cuba has run out of diesel and oil, energy minister says",
+        "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 14 May 2026 04:26:09 GMT"
       }
     ],
     "projects": [
