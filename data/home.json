@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-14T10:27:40.461Z",
-  "updated_local": "5/14/2026, 10:27:40 AM",
+  "updated_iso": "2026-05-14T11:50:09.148Z",
+  "updated_local": "5/14/2026, 11:50:09 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin ETFs Shed $630M in Largest Daily Exit Since January",
+        "url": "https://decrypt.co/367822/bitcoin-etfs-shed-630m-in-largest-daily-exit-since-january",
+        "source": "crypto",
+        "time": "Thu, 14 May 2026 10:56:18 +0000"
+      },
       {
         "title": "Bitcoin Owner Claims Claude AI Cracked Lost Wallet Password, Netting $400K in BTC",
         "url": "https://decrypt.co/367796/claude-ai-cracked-lost-bitcoin-wallet-owner-claims",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/367784/crypto-friendly-kevin-warsh-confirmed-fed-chair-replace-jerome-powell",
         "source": "crypto",
         "time": "Wed, 13 May 2026 19:40:07 +0000"
-      },
-      {
-        "title": "Senators File Clarity Act Amendments on DeFi, Trump Family, and Jeffrey Epstein",
-        "url": "https://decrypt.co/367781/clarity-act-amendments-defi-trump-family-jeffrey-epstein",
-        "source": "crypto",
-        "time": "Wed, 13 May 2026 19:35:48 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://www.anthropic.com/news/claude-for-small-business",
         "source": "hn",
         "time": "5/14/2026, 3:59:35 AM"
+      },
+      {
+        "title": "Show HN: Running the second public ODoH relay",
+        "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
+        "source": "hn",
+        "time": "5/14/2026, 10:44:50 AM"
       },
       {
         "title": "Scorched Earth 2000 – Web",
@@ -58,12 +64,6 @@
         "url": "https://classic7.lol/",
         "source": "hn",
         "time": "5/14/2026, 7:03:18 AM"
-      },
-      {
-        "title": "Setting up a free *.city.state.us locality domain (2025)",
-        "url": "https://fredchan.org/blog/locality-domains-guide/",
-        "source": "hn",
-        "time": "5/13/2026, 2:45:18 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Thu, 14 May 2026 09:53:21 GMT"
       },
       {
-        "title": "Watch: What happened on day one of Trump's China visit?",
+        "title": "Troops, cheering children and Temple of Heaven tour - day one of Trump's China visit",
         "url": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 14 May 2026 07:13:24 GMT"
       },
       {
-        "title": "Streeting hails NHS progress as key hospital waiting time milestone met",
+        "title": "Three women who died off Brighton beach identified",
+        "url": "https://www.bbc.com/news/articles/c5y9k2z81n7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 14 May 2026 11:16:15 GMT"
+      },
+      {
+        "title": "'We're right on track,' says Streeting as key target for hospital waiting times hit",
         "url": "https://www.bbc.com/news/articles/cvgzv0j19vvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 14 May 2026 09:45:45 GMT"
-      },
-      {
-        "title": "Madonna, Shakira & BTS to headline World Cup half-time show",
-        "url": "https://www.bbc.com/sport/football/articles/c5yrl54561do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 14 May 2026 07:31:25 GMT"
       }
     ],
     "projects": [
