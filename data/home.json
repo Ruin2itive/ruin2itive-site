@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-05-14T11:50:09.148Z",
-  "updated_local": "5/14/2026, 11:50:09 AM",
+  "updated_iso": "2026-05-14T12:58:23.416Z",
+  "updated_local": "5/14/2026, 12:58:23 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin’s Dip Below $80K Could Be ‘Short-Lived’ as STRC Cycle Looms",
+        "url": "https://decrypt.co/367828/bitcoins-dip-below-80k-could-be-short-lived-as-strc-cycle-looms",
+        "source": "crypto",
+        "time": "Thu, 14 May 2026 12:49:20 +0000"
+      },
+      {
+        "title": "Morning Minute: What’s At Stake with Trump in Beijing",
+        "url": "https://decrypt.co/367825/morning-minute-whats-at-stake-with-trump-in-beijing",
+        "source": "crypto",
+        "time": "Thu, 14 May 2026 11:57:13 +0000"
+      },
       {
         "title": "Bitcoin ETFs Shed $630M in Largest Daily Exit Since January",
         "url": "https://decrypt.co/367822/bitcoin-etfs-shed-630m-in-largest-daily-exit-since-january",
@@ -20,27 +32,9 @@
         "url": "https://decrypt.co/367787/bitcoin-rally-cut-short-profit-taking-rises-us-demand-falls-cryptoquant",
         "source": "crypto",
         "time": "Wed, 13 May 2026 21:30:46 +0000"
-      },
-      {
-        "title": "Myriad Adopts Chainlink as Official Oracle Platform to Power New Crypto Prediction Markets",
-        "url": "https://decrypt.co/367581/myriad-adopts-chainlink-as-official-oracle-platform-to-power-new-crypto-prediction-markets",
-        "source": "crypto",
-        "time": "Wed, 13 May 2026 19:56:02 +0000"
-      },
-      {
-        "title": "Crypto-Friendly Kevin Warsh Confirmed as Fed Chair to Replace Jerome Powell",
-        "url": "https://decrypt.co/367784/crypto-friendly-kevin-warsh-confirmed-fed-chair-replace-jerome-powell",
-        "source": "crypto",
-        "time": "Wed, 13 May 2026 19:40:07 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Claude for Small Business",
-        "url": "https://www.anthropic.com/news/claude-for-small-business",
-        "source": "hn",
-        "time": "5/14/2026, 3:59:35 AM"
-      },
       {
         "title": "Show HN: Running the second public ODoH relay",
         "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
@@ -48,54 +42,60 @@
         "time": "5/14/2026, 10:44:50 AM"
       },
       {
+        "title": "Claude for Small Business",
+        "url": "https://www.anthropic.com/news/claude-for-small-business",
+        "source": "hn",
+        "time": "5/14/2026, 3:59:35 AM"
+      },
+      {
+        "title": "Myths about /dev/urandom (2014)",
+        "url": "https://www.2uo.de/myths-about-urandom/",
+        "source": "hn",
+        "time": "5/14/2026, 11:26:22 AM"
+      },
+      {
+        "title": "The Tree House: A voyage to the source of a backyard dream",
+        "url": "https://www.laphamsquarterly.org/roundtable/tree-house",
+        "source": "hn",
+        "time": "5/11/2026, 7:41:02 PM"
+      },
+      {
         "title": "Scorched Earth 2000 – Web",
         "url": "http://www.scorch2000.com/web/",
         "source": "hn",
         "time": "5/14/2026, 12:41:29 AM"
-      },
-      {
-        "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-        "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-        "source": "hn",
-        "time": "5/10/2026, 8:54:06 PM"
-      },
-      {
-        "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
-        "url": "https://classic7.lol/",
-        "source": "hn",
-        "time": "5/14/2026, 7:03:18 AM"
       }
     ],
     "world": [
       {
-        "title": "Chris Mason: Potential leadership challengers jostle for position",
-        "url": "https://www.bbc.com/news/articles/c232pz403dko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Where we need vision, we have a vacuum' - read Streeting's resignation letter in full",
+        "url": "https://www.bbc.com/news/articles/ce8p7p83vdzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 14 May 2026 07:37:46 GMT"
+        "time": "Thu, 14 May 2026 12:18:58 GMT"
+      },
+      {
+        "title": "At a glance: Starmer fights to stay on as prime minister",
+        "url": "https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 14 May 2026 12:28:55 GMT"
+      },
+      {
+        "title": "How would a Labour leadership contest work?",
+        "url": "https://www.bbc.com/news/articles/c3631k30xjlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 14 May 2026 12:50:12 GMT"
+      },
+      {
+        "title": "The potential challengers to Keir Starmer",
+        "url": "https://www.bbc.com/news/articles/c3e2n7xn14xo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 14 May 2026 12:29:26 GMT"
       },
       {
         "title": "UK economy sees surprise growth in March despite Iran war",
         "url": "https://www.bbc.com/news/articles/cx213n20njzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 14 May 2026 09:53:21 GMT"
-      },
-      {
-        "title": "Troops, cheering children and Temple of Heaven tour - day one of Trump's China visit",
-        "url": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 14 May 2026 07:13:24 GMT"
-      },
-      {
-        "title": "Three women who died off Brighton beach identified",
-        "url": "https://www.bbc.com/news/articles/c5y9k2z81n7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 14 May 2026 11:16:15 GMT"
-      },
-      {
-        "title": "'We're right on track,' says Streeting as key target for hospital waiting times hit",
-        "url": "https://www.bbc.com/news/articles/cvgzv0j19vvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 14 May 2026 09:45:45 GMT"
       }
     ],
     "projects": [
