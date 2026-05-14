@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-05-14T14:06:09.220Z",
-  "updated_local": "5/14/2026, 2:06:09 PM",
+  "updated_iso": "2026-05-14T15:27:02.290Z",
+  "updated_local": "5/14/2026, 3:27:02 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Firm Nakamoto&#39;s Stock Hits New Low After Posting $239M Loss, Selling More BTC",
+        "url": "https://decrypt.co/367854/bitcoin-firm-nakamoto-stock-new-low-239-million-loss-selling-btc",
+        "source": "crypto",
+        "time": "Thu, 14 May 2026 15:09:28 +0000"
+      },
+      {
+        "title": "Reform UK&#39;s Nigel Farage Faces Standards Probe Over Tether Billionaire&#39;s $6.7 Million Gift",
+        "url": "https://decrypt.co/367821/reform-uks-nigel-farage-faces-standards-probe-tether-billionaires-gift",
+        "source": "crypto",
+        "time": "Thu, 14 May 2026 14:25:26 +0000"
+      },
       {
         "title": "Bank of England Softens ‘Overly Conservative’ Stablecoin Plans Amid Industry Pressure",
         "url": "https://decrypt.co/367831/bank-of-england-softens-overly-conservative-stablecoin-plans-amid-industry-pressure",
@@ -20,32 +32,20 @@
         "url": "https://decrypt.co/367828/bitcoins-dip-below-80k-could-be-short-lived-as-strc-cycle-looms",
         "source": "crypto",
         "time": "Thu, 14 May 2026 12:49:20 +0000"
-      },
-      {
-        "title": "Morning Minute: What’s At Stake with Trump in Beijing",
-        "url": "https://decrypt.co/367825/morning-minute-whats-at-stake-with-trump-in-beijing",
-        "source": "crypto",
-        "time": "Thu, 14 May 2026 11:57:13 +0000"
-      },
-      {
-        "title": "Bitcoin ETFs Shed $630M in Largest Daily Exit Since January",
-        "url": "https://decrypt.co/367822/bitcoin-etfs-shed-630m-in-largest-daily-exit-since-january",
-        "source": "crypto",
-        "time": "Thu, 14 May 2026 10:56:18 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
-        "url": "https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought",
-        "source": "hn",
-        "time": "5/14/2026, 1:17:57 PM"
-      },
       {
         "title": "Computer Hobby Movement in Canada",
         "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
         "source": "hn",
         "time": "5/14/2026, 12:57:27 PM"
+      },
+      {
+        "title": "MIT: 20% drop in incoming graduate students",
+        "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+        "source": "hn",
+        "time": "5/14/2026, 2:51:14 PM"
       },
       {
         "title": "Show HN: Running the second public ODoH relay",
@@ -60,10 +60,10 @@
         "time": "5/14/2026, 3:59:35 AM"
       },
       {
-        "title": "The European Union backs Italy's right to make Meta pay for news",
-        "url": "https://www.niemanlab.org/2026/05/the-eu-backs-italys-right-to-make-meta-pay-for-news/",
+        "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
+        "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
         "source": "hn",
-        "time": "5/14/2026, 11:38:46 AM"
+        "time": "5/14/2026, 2:49:48 PM"
       }
     ],
     "world": [
@@ -74,16 +74,10 @@
         "time": "Thu, 14 May 2026 12:18:58 GMT"
       },
       {
-        "title": "Watch: Streeting's resigned - what now?",
-        "url": "https://www.bbc.com/news/videos/cd7pyw001xxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 14 May 2026 13:39:06 GMT"
-      },
-      {
         "title": "At a glance: Starmer fights to stay on as prime minister",
         "url": "https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 14 May 2026 12:28:55 GMT"
+        "time": "Thu, 14 May 2026 14:26:12 GMT"
       },
       {
         "title": "The potential challengers to Keir Starmer",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/clyprjddgj3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 14 May 2026 13:08:42 GMT"
+      },
+      {
+        "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+        "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 14 May 2026 13:02:13 GMT"
       }
     ],
     "projects": [
