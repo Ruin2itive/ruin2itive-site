@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-14T20:39:49.651Z",
-  "updated_local": "5/14/2026, 8:39:49 PM",
+  "updated_iso": "2026-05-14T20:40:10.157Z",
+  "updated_local": "5/14/2026, 8:40:10 PM",
   "sections": {
     "crypto": [
       {
@@ -48,16 +48,16 @@
         "time": "5/14/2026, 3:47:31 PM"
       },
       {
-        "title": "New Nginx Exploit",
-        "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-        "source": "hn",
-        "time": "5/14/2026, 5:17:48 PM"
-      },
-      {
         "title": "First public macOS kernel memory corruption exploit on Apple M5",
         "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
         "source": "hn",
         "time": "5/14/2026, 6:25:09 PM"
+      },
+      {
+        "title": "New Nginx Exploit",
+        "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+        "source": "hn",
+        "time": "5/14/2026, 5:17:48 PM"
       },
       {
         "title": "The AI Zombification of Universities",
