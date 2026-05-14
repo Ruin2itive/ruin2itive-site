@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-05-14T12:58:23.416Z",
-  "updated_local": "5/14/2026, 12:58:23 PM",
+  "updated_iso": "2026-05-14T14:06:09.220Z",
+  "updated_local": "5/14/2026, 2:06:09 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bank of England Softens ‘Overly Conservative’ Stablecoin Plans Amid Industry Pressure",
+        "url": "https://decrypt.co/367831/bank-of-england-softens-overly-conservative-stablecoin-plans-amid-industry-pressure",
+        "source": "crypto",
+        "time": "Thu, 14 May 2026 13:10:39 +0000"
+      },
+      {
+        "title": "Tezos Tests Post-Quantum Privacy as Founder Slams &#39;Half-Baked&#39; Bitcoin Quantum Theories",
+        "url": "https://decrypt.co/367795/tezos-post-quantum-privacy-founder-slams-half-baked-bitcoin-theories",
+        "source": "crypto",
+        "time": "Thu, 14 May 2026 13:01:03 +0000"
+      },
       {
         "title": "Bitcoin’s Dip Below $80K Could Be ‘Short-Lived’ as STRC Cycle Looms",
         "url": "https://decrypt.co/367828/bitcoins-dip-below-80k-could-be-short-lived-as-strc-cycle-looms",
@@ -20,21 +32,21 @@
         "url": "https://decrypt.co/367822/bitcoin-etfs-shed-630m-in-largest-daily-exit-since-january",
         "source": "crypto",
         "time": "Thu, 14 May 2026 10:56:18 +0000"
-      },
-      {
-        "title": "Bitcoin Owner Claims Claude AI Cracked Lost Wallet Password, Netting $400K in BTC",
-        "url": "https://decrypt.co/367796/claude-ai-cracked-lost-bitcoin-wallet-owner-claims",
-        "source": "crypto",
-        "time": "Wed, 13 May 2026 22:06:29 +0000"
-      },
-      {
-        "title": "Bitcoin Rally Cut Short as Profit-Taking Rises, US Demand Falls: CryptoQuant",
-        "url": "https://decrypt.co/367787/bitcoin-rally-cut-short-profit-taking-rises-us-demand-falls-cryptoquant",
-        "source": "crypto",
-        "time": "Wed, 13 May 2026 21:30:46 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought",
+        "url": "https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought",
+        "source": "hn",
+        "time": "5/14/2026, 1:17:57 PM"
+      },
+      {
+        "title": "Computer Hobby Movement in Canada",
+        "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
+        "source": "hn",
+        "time": "5/14/2026, 12:57:27 PM"
+      },
       {
         "title": "Show HN: Running the second public ODoH relay",
         "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
@@ -48,22 +60,10 @@
         "time": "5/14/2026, 3:59:35 AM"
       },
       {
-        "title": "Myths about /dev/urandom (2014)",
-        "url": "https://www.2uo.de/myths-about-urandom/",
+        "title": "The European Union backs Italy's right to make Meta pay for news",
+        "url": "https://www.niemanlab.org/2026/05/the-eu-backs-italys-right-to-make-meta-pay-for-news/",
         "source": "hn",
-        "time": "5/14/2026, 11:26:22 AM"
-      },
-      {
-        "title": "The Tree House: A voyage to the source of a backyard dream",
-        "url": "https://www.laphamsquarterly.org/roundtable/tree-house",
-        "source": "hn",
-        "time": "5/11/2026, 7:41:02 PM"
-      },
-      {
-        "title": "Scorched Earth 2000 – Web",
-        "url": "http://www.scorch2000.com/web/",
-        "source": "hn",
-        "time": "5/14/2026, 12:41:29 AM"
+        "time": "5/14/2026, 11:38:46 AM"
       }
     ],
     "world": [
@@ -74,16 +74,16 @@
         "time": "Thu, 14 May 2026 12:18:58 GMT"
       },
       {
+        "title": "Watch: Streeting's resigned - what now?",
+        "url": "https://www.bbc.com/news/videos/cd7pyw001xxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 14 May 2026 13:39:06 GMT"
+      },
+      {
         "title": "At a glance: Starmer fights to stay on as prime minister",
         "url": "https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 14 May 2026 12:28:55 GMT"
-      },
-      {
-        "title": "How would a Labour leadership contest work?",
-        "url": "https://www.bbc.com/news/articles/c3631k30xjlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 14 May 2026 12:50:12 GMT"
       },
       {
         "title": "The potential challengers to Keir Starmer",
@@ -92,10 +92,10 @@
         "time": "Thu, 14 May 2026 12:29:26 GMT"
       },
       {
-        "title": "UK economy sees surprise growth in March despite Iran war",
-        "url": "https://www.bbc.com/news/articles/cx213n20njzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK economy sees surprising growth - these six charts explain what is going on",
+        "url": "https://www.bbc.com/news/articles/clyprjddgj3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 14 May 2026 09:53:21 GMT"
+        "time": "Thu, 14 May 2026 13:08:42 GMT"
       }
     ],
     "projects": [
