@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-15T18:21:38.812Z",
-  "updated_local": "5/15/2026, 6:21:38 PM",
+  "updated_iso": "2026-05-15T18:45:16.095Z",
+  "updated_local": "5/15/2026, 6:45:16 PM",
   "sections": {
     "crypto": [
       {
@@ -42,10 +42,10 @@
         "time": "5/15/2026, 4:15:36 PM"
       },
       {
-        "title": "A 0-click exploit chain for the Pixel 10",
-        "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+        "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+        "url": "https://github.com/oven-sh/bun/issues/30719",
         "source": "hn",
-        "time": "5/15/2026, 1:39:54 PM"
+        "time": "5/15/2026, 4:51:25 PM"
       },
       {
         "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
@@ -54,19 +54,25 @@
         "time": "5/15/2026, 5:15:58 PM"
       },
       {
+        "title": "A 0-click exploit chain for the Pixel 10",
+        "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+        "source": "hn",
+        "time": "5/15/2026, 1:39:54 PM"
+      },
+      {
         "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
         "url": "https://github.com/neilsonnn/image-blaster",
         "source": "hn",
         "time": "5/15/2026, 3:42:37 PM"
-      },
-      {
-        "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
-        "url": "https://github.com/oven-sh/bun/issues/30719",
-        "source": "hn",
-        "time": "5/15/2026, 4:51:25 PM"
       }
     ],
     "world": [
+      {
+        "title": "Burnham cleared to run for selection in pivotal by-election",
+        "url": "https://www.bbc.com/news/articles/ckgp2e0rrj4o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 15 May 2026 18:06:45 GMT"
+      },
       {
         "title": "What does Makerfield think of by-election and can Burnham win?",
         "url": "https://www.bbc.com/news/articles/cyv26e7yd89o?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 15 May 2026 17:57:12 GMT"
-      },
-      {
-        "title": "Five Italians die during cave scuba dive in Maldives",
-        "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 15 May 2026 15:59:48 GMT"
       }
     ],
     "projects": [
