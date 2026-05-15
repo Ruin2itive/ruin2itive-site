@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-15T09:46:13.926Z",
-  "updated_local": "5/15/2026, 9:46:13 AM",
+  "updated_iso": "2026-05-15T11:26:08.860Z",
+  "updated_local": "5/15/2026, 11:26:08 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "THORChain’s RUNE Token Plunges Double Digits After $10M Exploit, Trading Halt",
+        "url": "https://decrypt.co/367943/thorchains-rune-token-plunges-double-digits-after-10m-exploit-trading-halt",
+        "source": "crypto",
+        "time": "Fri, 15 May 2026 10:58:24 +0000"
+      },
       {
         "title": "OpenAI Pushes New ChatGPT Safety Features as Lawsuits Mount",
         "url": "https://decrypt.co/367937/openai-new-chatgpt-safety-features-lawsuits-investigations",
@@ -26,44 +32,38 @@
         "url": "https://decrypt.co/367878/bitcoin-firm-strive-daily-dividend-payments-preferred-share",
         "source": "crypto",
         "time": "Thu, 14 May 2026 19:53:51 +0000"
-      },
-      {
-        "title": "Kimi WebBridge Lets AI Agents Drive Your Browser—And Keep Your Data Local",
-        "url": "https://decrypt.co/367916/kimi-webbridge-ai-agents-browser-local",
-        "source": "crypto",
-        "time": "Thu, 14 May 2026 19:49:37 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Explore Wikipedia Like a Windows XP Desktop",
+        "url": "https://explorer.samismith.com/",
+        "source": "hn",
+        "time": "5/15/2026, 8:45:36 AM"
+      },
+      {
+        "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+        "url": "https://github.com/Andyyyy64/whichllm",
+        "source": "hn",
+        "time": "5/15/2026, 9:19:24 AM"
+      },
+      {
+        "title": "O(x)Caml in Space",
+        "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+        "source": "hn",
+        "time": "5/15/2026, 10:55:51 AM"
+      },
+      {
+        "title": "UK sovereign LLM inference",
+        "url": "https://relax.ai/docs",
+        "source": "hn",
+        "time": "5/15/2026, 9:27:26 AM"
+      },
       {
         "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
         "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
         "source": "hn",
         "time": "5/14/2026, 5:08:00 PM"
-      },
-      {
-        "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
-        "url": "https://github.com/GlycemicGPT/GlycemicGPT",
-        "source": "hn",
-        "time": "5/15/2026, 4:48:23 AM"
-      },
-      {
-        "title": "Building ML framework with Rust and Category Theory",
-        "url": "https://hghalebi.github.io/category_theory_transformer_rs/",
-        "source": "hn",
-        "time": "5/14/2026, 4:24:28 PM"
-      },
-      {
-        "title": "A few words on DS4",
-        "url": "https://antirez.com/news/165",
-        "source": "hn",
-        "time": "5/14/2026, 10:29:12 PM"
-      },
-      {
-        "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-        "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-        "source": "hn",
-        "time": "5/15/2026, 3:56:14 AM"
       }
     ],
     "world": [
@@ -71,13 +71,7 @@
         "title": "Analysis: Andy Burnham's route back to Commons is clearer - but can he win in Makerfield?",
         "url": "https://www.bbc.com/news/articles/cx21x2rpm12o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 15 May 2026 00:17:31 GMT"
-      },
-      {
-        "title": "Watch: The day Labour's potential leadership race began to heat up",
-        "url": "https://www.bbc.com/news/videos/c3w2ngny1v6o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 14 May 2026 20:41:36 GMT"
+        "time": "Fri, 15 May 2026 10:47:30 GMT"
       },
       {
         "title": "Brutal raid on woman's birthday party highlights rise of Russian vigilante group",
@@ -86,16 +80,22 @@
         "time": "Fri, 15 May 2026 00:04:45 GMT"
       },
       {
-        "title": "'Don't swim' warnings in place at nearly all of England's official river bathing sites",
-        "url": "https://www.bbc.com/news/articles/cvgzvqq9345o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump and Xi conclude 'very successful' talks but no deals announced",
+        "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 15 May 2026 04:13:45 GMT"
+        "time": "Fri, 15 May 2026 11:18:32 GMT"
       },
       {
         "title": "Five Italians die during cave scuba dive in Maldives",
         "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 15 May 2026 07:38:17 GMT"
+      },
+      {
+        "title": "Anti-immigration AI videos traced to overseas fakers, BBC finds",
+        "url": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 15 May 2026 05:01:37 GMT"
       }
     ],
     "projects": [
