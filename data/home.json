@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-05-15T16:55:57.747Z",
-  "updated_local": "5/15/2026, 4:55:57 PM",
+  "updated_iso": "2026-05-15T18:21:38.812Z",
+  "updated_local": "5/15/2026, 6:21:38 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Depot Flashes Bankruptcy Warning as ATM Revenue Falls, Regulatory Scrutiny Grows",
+        "url": "https://decrypt.co/368035/bitcoin-depot-bankruptcy-warning-atm-revenue-falls-regulatory-scrutiny",
+        "source": "crypto",
+        "time": "Fri, 15 May 2026 18:05:44 +0000"
+      },
+      {
+        "title": "AI Agents Turn to Digital Arson, Crime in Shared Virtual World: Study",
+        "url": "https://decrypt.co/368030/ai-agents-crime-arson-self-deletion-simulation",
+        "source": "crypto",
+        "time": "Fri, 15 May 2026 17:34:40 +0000"
+      },
+      {
+        "title": "Bitcoin Miner IREN Closes $3 Billion Convertible Notes Offering to Fuel AI Transformation",
+        "url": "https://decrypt.co/368028/bitcoin-miner-iren-3-billion-convertible-notes-offering-ai-ambitions-grow",
+        "source": "crypto",
+        "time": "Fri, 15 May 2026 17:28:55 +0000"
+      },
       {
         "title": "Tether Billionaire Enters UK&#39;s Richest People List Amid Farage Gift Inquiry",
         "url": "https://decrypt.co/368016/tether-billionaire-enters-uks-richest-people-list-amid-farage-gift-inquiry",
@@ -14,24 +32,6 @@
         "url": "https://decrypt.co/368007/strategy-moves-retire-1-5-billion-convertible-debt-could-sell-bitcoin",
         "source": "crypto",
         "time": "Fri, 15 May 2026 14:50:25 +0000"
-      },
-      {
-        "title": "Getting Started With Myriad",
-        "url": "https://decrypt.co/resources/getting-started-with-myriad",
-        "source": "crypto",
-        "time": "Fri, 15 May 2026 14:25:19 +0000"
-      },
-      {
-        "title": "Gemini Stock Jumps on Revenue Rise, $100M Bitcoin Investment From Winklevoss Capital",
-        "url": "https://decrypt.co/367978/gemini-stock-jumps-revenue-rise-100m-bitcoin-investment-winklevoss",
-        "source": "crypto",
-        "time": "Fri, 15 May 2026 14:11:42 +0000"
-      },
-      {
-        "title": "Bitcoin Shrugs Off CLARITY Gains as Institutions Sell Amid Surging Treasury Yields",
-        "url": "https://decrypt.co/367952/bitcoin-shrugs-off-clarity-gains-as-institutions-sell-amid-surging-treasury-yields",
-        "source": "crypto",
-        "time": "Fri, 15 May 2026 13:00:30 +0000"
       }
     ],
     "hacker": [
@@ -48,36 +48,36 @@
         "time": "5/15/2026, 1:39:54 PM"
       },
       {
-        "title": "The sigmoids won't save you",
-        "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
+        "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+        "url": "https://github.com/gdevic/FPGA-Calculator",
         "source": "hn",
-        "time": "5/15/2026, 10:51:13 AM"
+        "time": "5/15/2026, 5:15:58 PM"
       },
       {
-        "title": "I built Zenith: a live local-first fixed viewport planetarium",
-        "url": "https://smorgasb.org/zenith-tech/",
+        "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+        "url": "https://github.com/neilsonnn/image-blaster",
         "source": "hn",
-        "time": "5/15/2026, 3:45:11 PM"
+        "time": "5/15/2026, 3:42:37 PM"
       },
       {
-        "title": "O(x)Caml in Space",
-        "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+        "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+        "url": "https://github.com/oven-sh/bun/issues/30719",
         "source": "hn",
-        "time": "5/15/2026, 10:55:51 AM"
+        "time": "5/15/2026, 4:51:25 PM"
       }
     ],
     "world": [
       {
-        "title": "What does Makerfield make of by-election and can Burnham win?",
+        "title": "What does Makerfield think of by-election and can Burnham win?",
         "url": "https://www.bbc.com/news/articles/cyv26e7yd89o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 15 May 2026 16:28:00 GMT"
+        "time": "Fri, 15 May 2026 17:00:34 GMT"
       },
       {
-        "title": "Trump says he 'made no commitment either way' to Xi on Taiwan",
+        "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
         "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 15 May 2026 14:13:36 GMT"
+        "time": "Fri, 15 May 2026 17:50:59 GMT"
       },
       {
         "title": "Teenager's family 'heartbroken' by meningitis death",
@@ -86,16 +86,16 @@
         "time": "Fri, 15 May 2026 15:31:42 GMT"
       },
       {
+        "title": "Judge declares another mistrial in Harvey Weinstein New York rape charge",
+        "url": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 15 May 2026 17:57:12 GMT"
+      },
+      {
         "title": "Five Italians die during cave scuba dive in Maldives",
         "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 15 May 2026 15:59:48 GMT"
-      },
-      {
-        "title": "NHS staff accessed Southport victims' records 'inappropriately', hospital trust admits",
-        "url": "https://www.bbc.com/news/articles/cgmpz1mxzd9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 15 May 2026 11:03:39 GMT"
       }
     ],
     "projects": [
