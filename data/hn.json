@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-15T22:46:53.442Z"
+    "built_at": "2026-05-15T23:47:33.920Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "I recreated the experience of reading the morning sports section",
+      "url": "https://thesportspage.app",
+      "date": "2026-05-15T23:45:26.000Z"
+    },
+    {
+      "title": "ExploitGym: Can AI agents turn bugs into exploits?",
+      "url": "https://arxiv.org/abs/2605.11086",
+      "date": "2026-05-15T23:41:26.000Z"
+    }
+  ]
 }
