@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-05-15T18:45:16.095Z",
-  "updated_local": "5/15/2026, 6:45:16 PM",
+  "updated_iso": "2026-05-15T20:14:44.859Z",
+  "updated_local": "5/15/2026, 8:14:44 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "President Trump Discloses Coinbase, Robinhood and Bitcoin Mining Stock Trades",
+        "url": "https://decrypt.co/368084/president-trump-discloses-coinbase-robinhood-bitcoin-mining-stock-trades",
+        "source": "crypto",
+        "time": "Fri, 15 May 2026 19:48:45 +0000"
+      },
+      {
+        "title": "Packs of Empty Waymos Are Weirding Out Atlanta Neighborhood",
+        "url": "https://decrypt.co/368058/atlanta-residents-wake-up-to-empty-waymos-circling-their-neighborhood",
+        "source": "crypto",
+        "time": "Fri, 15 May 2026 18:56:26 +0000"
+      },
+      {
+        "title": "ChatGPT Can Now See Your Bank Account—Here&#39;s What That Actually Means",
+        "url": "https://decrypt.co/368039/chatgpt-see-bank-account-what-actually-means",
+        "source": "crypto",
+        "time": "Fri, 15 May 2026 18:46:24 +0000"
+      },
       {
         "title": "Bitcoin Depot Flashes Bankruptcy Warning as ATM Revenue Falls, Regulatory Scrutiny Grows",
         "url": "https://decrypt.co/368035/bitcoin-depot-bankruptcy-warning-atm-revenue-falls-regulatory-scrutiny",
@@ -14,24 +32,6 @@
         "url": "https://decrypt.co/368030/ai-agents-crime-arson-self-deletion-simulation",
         "source": "crypto",
         "time": "Fri, 15 May 2026 17:34:40 +0000"
-      },
-      {
-        "title": "Bitcoin Miner IREN Closes $3 Billion Convertible Notes Offering to Fuel AI Transformation",
-        "url": "https://decrypt.co/368028/bitcoin-miner-iren-3-billion-convertible-notes-offering-ai-ambitions-grow",
-        "source": "crypto",
-        "time": "Fri, 15 May 2026 17:28:55 +0000"
-      },
-      {
-        "title": "Tether Billionaire Enters UK&#39;s Richest People List Amid Farage Gift Inquiry",
-        "url": "https://decrypt.co/368016/tether-billionaire-enters-uks-richest-people-list-amid-farage-gift-inquiry",
-        "source": "crypto",
-        "time": "Fri, 15 May 2026 16:24:52 +0000"
-      },
-      {
-        "title": "Bitcoin Giant Strategy Moves to Retire $1.5 Billion in Convertible Debt, Says It Could Sell BTC",
-        "url": "https://decrypt.co/368007/strategy-moves-retire-1-5-billion-convertible-debt-could-sell-bitcoin",
-        "source": "crypto",
-        "time": "Fri, 15 May 2026 14:50:25 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,10 @@
         "time": "5/15/2026, 4:15:36 PM"
       },
       {
-        "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
-        "url": "https://github.com/oven-sh/bun/issues/30719",
+        "title": "WinCE64 – Windows CE 2.11 for N64",
+        "url": "https://github.com/ThroatyMumbo/WinCE64",
         "source": "hn",
-        "time": "5/15/2026, 4:51:25 PM"
-      },
-      {
-        "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
-        "url": "https://github.com/gdevic/FPGA-Calculator",
-        "source": "hn",
-        "time": "5/15/2026, 5:15:58 PM"
+        "time": "5/15/2026, 7:23:29 PM"
       },
       {
         "title": "A 0-click exploit chain for the Pixel 10",
@@ -60,10 +54,16 @@
         "time": "5/15/2026, 1:39:54 PM"
       },
       {
-        "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
-        "url": "https://github.com/neilsonnn/image-blaster",
+        "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+        "url": "https://github.com/oven-sh/bun/issues/30719",
         "source": "hn",
-        "time": "5/15/2026, 3:42:37 PM"
+        "time": "5/15/2026, 4:51:25 PM"
+      },
+      {
+        "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+        "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+        "source": "hn",
+        "time": "5/15/2026, 5:28:24 PM"
       }
     ],
     "world": [
@@ -89,13 +89,13 @@
         "title": "Teenager's family 'heartbroken' by meningitis death",
         "url": "https://www.bbc.com/news/articles/cy42jn311y1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 15 May 2026 15:31:42 GMT"
+        "time": "Fri, 15 May 2026 19:05:50 GMT"
       },
       {
-        "title": "Judge declares another mistrial in Harvey Weinstein New York rape charge",
+        "title": "Judge declares another mistrial in Harvey Weinstein New York rape case",
         "url": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 15 May 2026 17:57:12 GMT"
+        "time": "Fri, 15 May 2026 19:10:59 GMT"
       }
     ],
     "projects": [
