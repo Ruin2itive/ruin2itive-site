@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-15T04:56:21.106Z",
-  "updated_local": "5/15/2026, 4:56:21 AM",
+  "updated_iso": "2026-05-15T06:53:22.612Z",
+  "updated_local": "5/15/2026, 6:53:22 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "UK Government Kicks Out Palantir",
+        "url": "https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/",
+        "source": "hn",
+        "time": "5/15/2026, 6:16:05 AM"
+      },
+      {
         "title": "Mullvad exit IPs are surprisingly identifying",
         "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
         "source": "hn",
@@ -54,12 +60,6 @@
         "time": "5/14/2026, 5:08:00 PM"
       },
       {
-        "title": "A few words on DS4",
-        "url": "https://antirez.com/news/165",
-        "source": "hn",
-        "time": "5/14/2026, 10:29:12 PM"
-      },
-      {
         "title": "Access to frontier AI will soon be limited by economic and security constraints",
         "url": "https://writing.antonleicht.me/p/cut-off",
         "source": "hn",
@@ -68,10 +68,16 @@
     ],
     "world": [
       {
-        "title": "Burnham to make bid to return as MP as pressure mounts on Starmer",
-        "url": "https://www.bbc.com/news/articles/c1l2e325zvgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Analysis: Andy Burnham's route back to the Commons is clearer - but one big hurdle remains",
+        "url": "https://www.bbc.com/news/articles/cx21x2rpm12o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 14 May 2026 22:20:31 GMT"
+        "time": "Fri, 15 May 2026 00:17:31 GMT"
+      },
+      {
+        "title": "Watch: The day Labour's potential leadership race began to heat up",
+        "url": "https://www.bbc.com/news/videos/c3w2ngny1v6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 14 May 2026 20:41:36 GMT"
       },
       {
         "title": "Brutal raid on woman's birthday party highlights rise of Russian vigilante group",
@@ -80,22 +86,16 @@
         "time": "Fri, 15 May 2026 00:04:45 GMT"
       },
       {
-        "title": "Royal finances face a cut. But will much really change?",
-        "url": "https://www.bbc.com/news/articles/c4g0e92dp6ko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 14 May 2026 23:11:07 GMT"
-      },
-      {
-        "title": "'Don't swim' at 12 of 14 river bathing sites, as more locations announced",
+        "title": "'Don't swim' warnings in place at nearly all of England's official river bathing sites",
         "url": "https://www.bbc.com/news/articles/cvgzvqq9345o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 15 May 2026 04:13:45 GMT"
       },
       {
-        "title": "Hundreds of comedians unpaid by one of UK's biggest comedy festivals",
-        "url": "https://www.bbc.com/news/articles/czx2ypgwxx7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "British Gas pays £20m to settle probe into force-fitting of prepayment meters",
+        "url": "https://www.bbc.com/news/articles/cq8p7l1y59lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 14 May 2026 23:35:12 GMT"
+        "time": "Fri, 15 May 2026 06:37:19 GMT"
       }
     ],
     "projects": [
