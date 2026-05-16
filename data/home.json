@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-16T23:01:43.780Z",
-  "updated_local": "5/16/2026, 11:01:43 PM",
+  "updated_iso": "2026-05-16T23:51:00.755Z",
+  "updated_local": "5/16/2026, 11:51:00 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "MCP Hello Page",
-        "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
-        "source": "hn",
-        "time": "5/16/2026, 10:25:33 PM"
-      },
-      {
         "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
         "url": "https://crates.io/crates/zerostack/1.0.0",
         "source": "hn",
         "time": "5/16/2026, 10:23:50 PM"
+      },
+      {
+        "title": "MCP Hello Page",
+        "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+        "source": "hn",
+        "time": "5/16/2026, 10:25:33 PM"
       },
       {
         "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
@@ -60,10 +60,10 @@
         "time": "5/13/2026, 10:37:39 AM"
       },
       {
-        "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-        "url": "https://nvlabs.github.io/Sana/WM/",
+        "title": "I tried to make Claude make me money on open-source bounties",
+        "url": "https://github.com/ztc00/algora-scout/blob/main/POST.md",
         "source": "hn",
-        "time": "5/16/2026, 12:06:21 PM"
+        "time": "5/16/2026, 10:13:54 PM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Sat, 16 May 2026 15:57:33 GMT"
       },
       {
+        "title": "Is it harder than ever to be prime minister?",
+        "url": "https://www.bbc.com/news/articles/cqjpe7q0j1xo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 16 May 2026 23:26:41 GMT"
+      },
+      {
         "title": "Tens of thousands join rival marches in London",
         "url": "https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c5yegmxv883o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 16 May 2026 22:00:13 GMT"
-      },
-      {
-        "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
-        "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 16 May 2026 15:01:40 GMT"
       }
     ],
     "projects": [
