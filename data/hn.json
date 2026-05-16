@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-16T16:49:40.532Z"
+    "built_at": "2026-05-16T17:50:01.553Z"
   },
-  "error": "fetch failed",
-  "items": []
+  "items": [
+    {
+      "title": "OpenIQ",
+      "url": "https://abhirame.github.io/posts/openiq/",
+      "date": "2026-05-16T17:47:07.000Z"
+    },
+    {
+      "title": "Book Club: 100 best novels of all time",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/12/the-100-best-novels-of-all-time",
+      "date": "2026-05-16T17:43:18.000Z"
+    }
+  ]
 }
