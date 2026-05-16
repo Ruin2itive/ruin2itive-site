@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-16T22:41:58.278Z",
-  "updated_local": "5/16/2026, 10:41:58 PM",
+  "updated_iso": "2026-05-16T23:01:43.780Z",
+  "updated_local": "5/16/2026, 11:01:43 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "MCP Hello Page",
+        "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+        "source": "hn",
+        "time": "5/16/2026, 10:25:33 PM"
+      },
+      {
+        "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+        "url": "https://crates.io/crates/zerostack/1.0.0",
+        "source": "hn",
+        "time": "5/16/2026, 10:23:50 PM"
+      },
+      {
         "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
         "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
         "source": "hn",
@@ -52,18 +64,6 @@
         "url": "https://nvlabs.github.io/Sana/WM/",
         "source": "hn",
         "time": "5/16/2026, 12:06:21 PM"
-      },
-      {
-        "title": "A molecule with half-Möbius topology",
-        "url": "https://www.science.org/doi/10.1126/science.aea3321",
-        "source": "hn",
-        "time": "5/12/2026, 3:28:31 PM"
-      },
-      {
-        "title": "MCP Hello Page",
-        "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
-        "source": "hn",
-        "time": "5/16/2026, 10:25:33 PM"
       }
     ],
     "world": [
