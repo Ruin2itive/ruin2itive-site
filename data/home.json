@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-16T11:01:00.706Z",
-  "updated_local": "5/16/2026, 11:01:00 AM",
+  "updated_iso": "2026-05-16T11:58:06.846Z",
+  "updated_local": "5/16/2026, 11:58:06 AM",
   "sections": {
     "crypto": [
       {
@@ -54,19 +54,25 @@
         "time": "5/15/2026, 4:15:36 PM"
       },
       {
-        "title": "We've made the world too complicated",
-        "url": "https://user8.bearblog.dev/the-world-is-too-complicated/",
-        "source": "hn",
-        "time": "5/16/2026, 8:25:17 AM"
-      },
-      {
         "title": "Frontier AI has broken the open CTF format",
         "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
         "source": "hn",
         "time": "5/16/2026, 7:01:55 AM"
+      },
+      {
+        "title": "I believe there are entire companies right now under AI psychosis",
+        "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+        "source": "hn",
+        "time": "5/15/2026, 8:26:47 PM"
       }
     ],
     "world": [
+      {
+        "title": "Tens of thousands descend on London for rival protests",
+        "url": "https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 16 May 2026 11:52:49 GMT"
+      },
       {
         "title": "The race to replace Starmer is on - but he still faces a momentous choice",
         "url": "https://www.bbc.com/news/articles/cx213m1d82lo?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +86,16 @@
         "time": "Sat, 16 May 2026 05:53:41 GMT"
       },
       {
-        "title": "Thousands of officers deployed as crowds gather for London protests",
-        "url": "https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 16 May 2026 10:52:02 GMT"
-      },
-      {
         "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
         "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 15 May 2026 23:04:33 GMT"
       },
       {
-        "title": "Call for more meningitis vaccines after teen dies",
-        "url": "https://www.bbc.com/news/articles/c99lg2d4r84o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Eurovision final: Sex, violins and seven other things to look out for",
+        "url": "https://www.bbc.com/news/articles/c1d2qe73ly7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 16 May 2026 09:11:40 GMT"
+        "time": "Fri, 15 May 2026 23:04:54 GMT"
       }
     ],
     "projects": [
