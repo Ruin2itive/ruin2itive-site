@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-16T10:56:06.705Z"
+    "built_at": "2026-05-16T11:45:51.408Z"
   },
-  "items": [
-    {
-      "title": "Linkup – Swipe to find cofounders, developers, designers and startup teammates",
-      "url": "https://linkup-nine-ruddy.vercel.app/",
-      "date": "2026-05-16T10:54:31.000Z"
-    },
-    {
-      "title": "The Iliad Intensive Course Materials",
-      "url": "https://www.lesswrong.com/posts/dWQnLi7AoKo3paBXF/the-iliad-intensive-course-materials",
-      "date": "2026-05-16T10:54:27.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
