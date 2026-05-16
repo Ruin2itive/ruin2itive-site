@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-16T18:53:20.278Z"
+    "built_at": "2026-05-16T19:58:26.802Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Breaking the code: Multi-level learning in the Eurovision Song Contest",
+      "url": "https://royalsocietypublishing.org/rsos/article/13/4/251727/481541/Breaking-the-code-Multi-level-learning-in-the",
+      "date": "2026-05-16T19:57:27.000Z"
+    },
+    {
+      "title": "Linux devs are fighting the new age-gated internet",
+      "url": "https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source",
+      "date": "2026-05-16T19:55:41.000Z"
+    }
+  ]
 }
