@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-16T20:50:34.607Z"
+    "built_at": "2026-05-16T21:41:00.249Z"
   },
-  "items": [
-    {
-      "title": "Analysis of changes in the Bun codebase after the rewrite from Zig to Rust",
-      "url": "https://kant2002.github.io/en/llm/2026/05/16/bun-pr-analysis-en.html",
-      "date": "2026-05-16T20:49:28.000Z"
-    },
-    {
-      "title": "Vulnerability Cve-2026-7412",
-      "url": "https://db.gcve.eu/vuln/cve-2026-7412",
-      "date": "2026-05-16T20:48:00.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
