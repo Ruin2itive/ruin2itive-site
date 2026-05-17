@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-17T16:48:40.760Z"
+    "built_at": "2026-05-17T17:52:01.703Z"
   },
-  "items": [
-    {
-      "title": "Where Have All the Cycles Gone? [video]",
-      "url": "https://www.youtube.com/watch?v=B-aDBB34o6Y",
-      "date": "2026-05-17T16:43:29.000Z"
-    },
-    {
-      "title": "Show HN: Typeset sitelen pona and copy a PNG (for toki pona speakers)",
-      "url": "https://sitelen.vercel.app/",
-      "date": "2026-05-17T16:41:26.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
