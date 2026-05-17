@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-17T15:57:35.261Z",
-  "updated_local": "5/17/2026, 3:57:35 PM",
+  "updated_iso": "2026-05-17T17:01:26.960Z",
+  "updated_local": "5/17/2026, 5:01:26 PM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "I don't think AI will make your processes go faster",
-        "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-        "source": "hn",
-        "time": "5/17/2026, 12:13:45 PM"
-      },
-      {
-        "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-        "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-        "source": "hn",
-        "time": "5/17/2026, 11:49:31 AM"
-      },
-      {
         "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
         "url": "https://github.com/tech4bot/rk3562deb",
         "source": "hn",
         "time": "5/17/2026, 1:16:27 PM"
+      },
+      {
+        "title": "I don't think AI will make your processes go faster",
+        "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+        "source": "hn",
+        "time": "5/17/2026, 12:13:45 PM"
       },
       {
         "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
@@ -64,6 +58,12 @@
         "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
         "source": "hn",
         "time": "5/17/2026, 11:49:46 AM"
+      },
+      {
+        "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+        "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+        "source": "hn",
+        "time": "5/17/2026, 11:49:31 AM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Sat, 16 May 2026 23:26:41 GMT"
       },
       {
-        "title": "Forty-three arrests after £4.5m police operation to keep rival London protests apart",
-        "url": "https://www.bbc.com/news/articles/ckgpznn202po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 17 May 2026 09:50:34 GMT"
-      },
-      {
         "title": "'Look Mum, one point': How the UK keeps getting Eurovision wrong",
         "url": "https://www.bbc.com/news/articles/cy72e81dp28o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 17 May 2026 13:31:00 GMT"
+      },
+      {
+        "title": "Scotland rugby great Scott Hastings dies at 61",
+        "url": "https://www.bbc.com/sport/rugby-union/articles/ce8p60nj9e9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 17 May 2026 16:22:02 GMT"
       }
     ],
     "projects": [
