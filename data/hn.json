@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-17T17:52:01.703Z"
+    "built_at": "2026-05-17T18:56:46.456Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Subscription Bombing: Email Under Attack",
+      "url": "https://cacm.acm.org/practice/subscription-bombing-email-under-attack/",
+      "date": "2026-05-17T18:54:19.000Z"
+    },
+    {
+      "title": "Memo from Orson Welles on Touch of Evil (1957)",
+      "url": "https://wellesnet.com/touch_memo1.htm",
+      "date": "2026-05-17T18:54:11.000Z"
+    }
+  ]
 }
