@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-17T07:37:07.414Z",
-  "updated_local": "5/17/2026, 7:37:07 AM",
+  "updated_iso": "2026-05-17T09:03:01.235Z",
+  "updated_local": "5/17/2026, 9:03:01 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Playing Atari ST Music on the Amiga with Zero CPU",
+        "url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+        "source": "hn",
+        "time": "5/17/2026, 8:00:04 AM"
+      },
+      {
         "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
         "url": "https://crates.io/crates/zerostack/1.0.0",
         "source": "hn",
         "time": "5/16/2026, 10:23:50 PM"
+      },
+      {
+        "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+        "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+        "source": "hn",
+        "time": "5/17/2026, 6:17:26 AM"
       },
       {
         "title": "Colossus: The Forbin Project",
@@ -52,18 +64,6 @@
         "url": "https://maurycyz.com/projects/mcusite/",
         "source": "hn",
         "time": "5/17/2026, 1:25:26 AM"
-      },
-      {
-        "title": "A nicer voltmeter clock",
-        "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-        "source": "hn",
-        "time": "5/16/2026, 10:45:16 PM"
-      },
-      {
-        "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-        "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-        "source": "hn",
-        "time": "5/17/2026, 6:17:26 AM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Sun, 17 May 2026 02:13:36 GMT"
       },
       {
+        "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+        "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 17 May 2026 07:21:03 GMT"
+      },
+      {
         "title": "North of England Olympic bid for 2040s being assessed",
         "url": "https://www.bbc.com/sport/olympics/articles/clypl9pzy6jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 16 May 2026 23:02:43 GMT"
-      },
-      {
-        "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
-        "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 17 May 2026 07:08:26 GMT"
       }
     ],
     "projects": [
