@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-17T04:10:37.988Z",
-  "updated_local": "5/17/2026, 4:10:37 AM",
+  "updated_iso": "2026-05-17T06:21:26.321Z",
+  "updated_local": "5/17/2026, 6:21:26 AM",
   "sections": {
     "crypto": [
       {
@@ -48,16 +48,16 @@
         "time": "5/17/2026, 1:25:26 AM"
       },
       {
+        "title": "Colossus: The Forbin Project",
+        "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+        "source": "hn",
+        "time": "5/14/2026, 10:30:16 PM"
+      },
+      {
         "title": "A nicer voltmeter clock",
         "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
         "source": "hn",
         "time": "5/16/2026, 10:45:16 PM"
-      },
-      {
-        "title": "Unknowable Math Can Help Hide Secrets",
-        "url": "https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/",
-        "source": "hn",
-        "time": "5/13/2026, 4:09:00 PM"
       },
       {
         "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
@@ -68,13 +68,7 @@
     ],
     "world": [
       {
-        "title": "Labour leadership jostling puts Brexit back under political spotlight",
-        "url": "https://www.bbc.com/news/articles/c5y7l265pe8o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 17 May 2026 02:14:13 GMT"
-      },
-      {
-        "title": "Is it harder than ever to be prime minister?",
+        "title": "The UK is churning through leaders. Is the country becoming harder to govern?",
         "url": "https://www.bbc.com/news/articles/cqjpe7q0j1xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 16 May 2026 23:26:41 GMT"
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/sport/olympics/articles/clypl9pzy6jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 16 May 2026 23:02:43 GMT"
+      },
+      {
+        "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
+        "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 17 May 2026 02:55:08 GMT"
       }
     ],
     "projects": [
