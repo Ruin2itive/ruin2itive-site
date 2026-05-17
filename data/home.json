@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-17T09:03:01.235Z",
-  "updated_local": "5/17/2026, 9:03:01 AM",
+  "updated_iso": "2026-05-17T09:54:56.546Z",
+  "updated_local": "5/17/2026, 9:54:56 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "Playing Atari ST Music on the Amiga with Zero CPU",
-        "url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
-        "source": "hn",
-        "time": "5/17/2026, 8:00:04 AM"
-      },
-      {
         "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
         "url": "https://crates.io/crates/zerostack/1.0.0",
         "source": "hn",
@@ -58,6 +52,12 @@
         "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
         "source": "hn",
         "time": "5/14/2026, 10:30:16 PM"
+      },
+      {
+        "title": "A nicer voltmeter clock",
+        "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+        "source": "hn",
+        "time": "5/16/2026, 10:45:16 PM"
       },
       {
         "title": "Hosting a website on an 8-bit microcontroller",
@@ -92,10 +92,10 @@
         "time": "Sun, 17 May 2026 07:21:03 GMT"
       },
       {
-        "title": "North of England Olympic bid for 2040s being assessed",
-        "url": "https://www.bbc.com/sport/olympics/articles/clypl9pzy6jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Forty-three arrests after £4.5m police operation to keep rival London protests apart",
+        "url": "https://www.bbc.com/news/articles/ckgpznn202po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 16 May 2026 23:02:43 GMT"
+        "time": "Sun, 17 May 2026 09:50:34 GMT"
       }
     ],
     "projects": [
