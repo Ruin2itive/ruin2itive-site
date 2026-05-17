@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-17T13:49:53.067Z",
-  "updated_local": "5/17/2026, 1:49:53 PM",
+  "updated_iso": "2026-05-17T14:54:29.029Z",
+  "updated_local": "5/17/2026, 2:54:29 PM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
-        "title": "Native all the way, until you need text",
-        "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-        "source": "hn",
-        "time": "5/17/2026, 11:49:46 AM"
-      },
-      {
         "title": "I don't think AI will make your processes go faster",
         "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
         "source": "hn",
         "time": "5/17/2026, 12:13:45 PM"
       },
       {
+        "title": "Native all the way, until you need text",
+        "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+        "source": "hn",
+        "time": "5/17/2026, 11:49:46 AM"
+      },
+      {
+        "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+        "url": "https://github.com/tech4bot/rk3562deb",
+        "source": "hn",
+        "time": "5/17/2026, 1:16:27 PM"
+      },
+      {
+        "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+        "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+        "source": "hn",
+        "time": "5/17/2026, 1:42:30 PM"
+      },
+      {
         "title": "Apple Silicon costs more than OpenRouter",
         "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
         "source": "hn",
         "time": "5/17/2026, 12:09:23 PM"
-      },
-      {
-        "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
-        "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
-        "source": "hn",
-        "time": "5/17/2026, 1:22:14 PM"
-      },
-      {
-        "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-        "url": "https://crates.io/crates/zerostack/1.0.0",
-        "source": "hn",
-        "time": "5/16/2026, 10:23:50 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Sun, 17 May 2026 02:13:36 GMT"
       },
       {
-        "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-        "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How worrying is the Ebola outbreak in DR Congo?",
+        "url": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 17 May 2026 11:28:02 GMT"
+        "time": "Sun, 17 May 2026 13:31:00 GMT"
       }
     ],
     "projects": [
