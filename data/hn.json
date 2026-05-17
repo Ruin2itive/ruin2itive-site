@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-17T13:06:53.418Z"
+    "built_at": "2026-05-17T14:49:55.546Z"
   },
-  "items": [
-    {
-      "title": "Nim-Presto – REST API Framework for Nim Language",
-      "url": "https://news.ycombinator.com/item?id=48168588",
-      "date": "2026-05-17T13:05:34.000Z"
-    },
-    {
-      "title": "Intel Core i9-14900KF reaches 9.2Ghz setting a new CPU frequency world record",
-      "url": "https://www.notebookcheck.net/Intel-Core-i9-14900KF-reaches-9-2Ghz-setting-a-new-CPU-frequency-world-record.1298605.0.html",
-      "date": "2026-05-17T13:01:50.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
