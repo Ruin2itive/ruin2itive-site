@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-18T11:28:55.362Z",
-  "updated_local": "5/18/2026, 11:28:55 AM",
+  "updated_iso": "2026-05-18T13:17:19.224Z",
+  "updated_local": "5/18/2026, 1:17:19 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Bitcoin Slides Back to $77K on Rising Bond Yields, Oil Spike",
+        "url": "https://decrypt.co/368159/morning-minute-bitcoin-slides-back-to-77k-on-rising-bond-yields-oil-spike",
+        "source": "crypto",
+        "time": "Mon, 18 May 2026 12:05:32 +0000"
+      },
       {
         "title": "Bitcoin Slides Under $77K as Crypto Liquidations Top $672M Amid Bond Sell-Off",
         "url": "https://decrypt.co/368156/bitcoin-slides-under-77k-as-crypto-liquidations-top-672m-amid-bond-sell-off",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
         "source": "crypto",
         "time": "Sun, 17 May 2026 20:32:07 +0000"
-      },
-      {
-        "title": "Justin Sun-Led Liberland Micronation Awards Ethereum Founder Vitalik Buterin Its Top Honor",
-        "url": "https://decrypt.co/368116/justin-sun-liberland-awards-ethereum-founder-vitalik-buterin-top-honor",
-        "source": "crypto",
-        "time": "Sat, 16 May 2026 17:34:01 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "I automated opt-outs for 500 data broker sites (open source)",
+        "url": "https://github.com/stephenlthorn/auto-identity-remove",
+        "source": "hn",
+        "time": "5/18/2026, 11:32:42 AM"
+      },
+      {
+        "title": "WHO declares major outbreak of Ebola virus species an international emergency",
+        "url": "https://www.science.org/content/article/major-outbreak-rare-ebola-virus-species-northern-congo-alarms-scientists",
+        "source": "hn",
+        "time": "5/18/2026, 10:28:42 AM"
+      },
       {
         "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
         "url": "http://www.csl.sri.com/users/neumann/psos.pdf",
@@ -42,42 +54,30 @@
         "time": "5/18/2026, 9:40:51 AM"
       },
       {
+        "title": "Dogme 25 – Vow of Chastity",
+        "url": "https://dogma25.dk/",
+        "source": "hn",
+        "time": "5/18/2026, 10:05:52 AM"
+      },
+      {
         "title": "GenCAD",
         "url": "https://gencad.github.io/",
         "source": "hn",
         "time": "5/17/2026, 9:40:35 PM"
-      },
-      {
-        "title": "Where Are the Vibecoded Photoshops?",
-        "url": "https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/",
-        "source": "hn",
-        "time": "5/18/2026, 9:28:56 AM"
-      },
-      {
-        "title": "Crystals found inside wreckage from the first nuclear bomb test",
-        "url": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/",
-        "source": "hn",
-        "time": "5/15/2026, 11:54:33 PM"
-      },
-      {
-        "title": "It is time to give up the dualism introduced by the debate on consciousness",
-        "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-        "source": "hn",
-        "time": "5/18/2026, 2:59:34 AM"
       }
     ],
     "world": [
+      {
+        "title": "Bodies of missing Italian divers found in Maldives",
+        "url": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 18 May 2026 11:54:17 GMT"
+      },
       {
         "title": "UK companies linked to payments for small boat crossings, BBC finds",
         "url": "https://www.bbc.com/news/articles/c626znvne0xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 18 May 2026 05:00:33 GMT"
-      },
-      {
-        "title": "Bodies of missing Italian divers found in Maldives",
-        "url": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 18 May 2026 11:20:00 GMT"
       },
       {
         "title": "Are baby boomers like me the luckiest generation in history?",
@@ -89,13 +89,13 @@
         "title": "UK growth forecast upgraded by IMF but risks remain",
         "url": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 18 May 2026 11:00:35 GMT"
+        "time": "Mon, 18 May 2026 13:04:20 GMT"
       },
       {
-        "title": "Parents could face bigger fines for child's crimes under youth justice shake-up",
-        "url": "https://www.bbc.com/news/articles/cx21p5qp23xo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Prince William selling 20% of duchy property for housing and nature projects",
+        "url": "https://www.bbc.com/news/articles/ce8pg8ryjkzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 18 May 2026 10:25:27 GMT"
+        "time": "Mon, 18 May 2026 13:10:31 GMT"
       }
     ],
     "projects": [
