@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-18T20:30:38.280Z"
+    "built_at": "2026-05-18T21:26:02.043Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "The Melancholy of Slaying Monsters",
+      "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+      "date": "2026-05-18T21:25:16.000Z"
+    },
+    {
+      "title": "Show HN: Onionfutures.com: transferable contracts for future delivery of onions",
+      "url": "https://onionfutures.com/",
+      "date": "2026-05-18T21:24:36.000Z"
+    }
+  ]
 }
