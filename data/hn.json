@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-18T18:34:28.699Z"
+    "built_at": "2026-05-18T19:31:47.528Z"
   },
-  "items": [
-    {
-      "title": "Iosevka and Berkeley = Ioskeley",
-      "url": "https://github.com/ahatem/IoskeleyMono",
-      "date": "2026-05-18T18:34:08.000Z"
-    },
-    {
-      "title": "Show HN: Gambling/math/typing for screen time (iOS)",
-      "url": "https://apps.apple.com/us/app/second-thought-less-scrolling/id6749641307",
-      "date": "2026-05-18T18:32:57.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
