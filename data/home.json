@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-18T19:38:09.073Z",
-  "updated_local": "5/18/2026, 7:38:09 PM",
+  "updated_iso": "2026-05-18T20:33:59.394Z",
+  "updated_local": "5/18/2026, 8:33:59 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Swan Bitcoin Hit With Nearly $1 Billion Lawsuit Over Prime Trust Collapse",
+        "url": "https://decrypt.co/368244/swan-bitcoin-nearly-1-billion-lawsuit-prime-trust-collapse",
+        "source": "crypto",
+        "time": "Mon, 18 May 2026 19:48:36 +0000"
+      },
       {
         "title": "This Open-Source Phone AI Agent Sees, Hears and Acts—All Without Touching the Cloud",
         "url": "https://decrypt.co/368238/oppo-x-omniclaw-android-ai-agent",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/368226/ethereum-founder-vitalik-buterin-ai-verification-secure-crypto-networks",
         "source": "crypto",
         "time": "Mon, 18 May 2026 17:34:57 +0000"
-      },
-      {
-        "title": "Hive Shares Hit Highest Price This Year After Bitcoin Miner Unveils Ontario &#39;AI Gigafactory&#39;",
-        "url": "https://decrypt.co/368187/hive-shares-highest-price-2026-bitcoin-miner-ontario-ai-gigafactory",
-        "source": "crypto",
-        "time": "Mon, 18 May 2026 16:48:58 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Haiku OS runs on M1 Macs now",
+        "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
+        "source": "hn",
+        "time": "5/18/2026, 6:30:55 PM"
+      },
       {
         "title": "Anthropic acquires Stainless",
         "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
@@ -42,10 +48,10 @@
         "time": "5/18/2026, 5:01:21 PM"
       },
       {
-        "title": "Haiku OS runs on M1 Macs now",
-        "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
+        "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+        "url": "https://hyperpolyglot.org/lisp",
         "source": "hn",
-        "time": "5/18/2026, 6:30:55 PM"
+        "time": "5/18/2026, 7:27:25 PM"
       },
       {
         "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
@@ -54,16 +60,10 @@
         "time": "5/18/2026, 3:24:19 PM"
       },
       {
-        "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-        "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+        "title": "We let AIs run radio stations",
+        "url": "https://andonlabs.com/blog/andon-fm",
         "source": "hn",
-        "time": "5/18/2026, 5:38:22 PM"
-      },
-      {
-        "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-        "url": "https://github.com/zakirullin/files.md",
-        "source": "hn",
-        "time": "5/18/2026, 1:33:33 PM"
+        "time": "5/18/2026, 6:12:18 PM"
       }
     ],
     "world": [
@@ -80,7 +80,7 @@
         "time": "Mon, 18 May 2026 17:03:24 GMT"
       },
       {
-        "title": "Jury tosses Elon Musk's lawsuit against OpenAI and its boss Sam Altman",
+        "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
         "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 18 May 2026 19:18:58 GMT"
@@ -89,13 +89,13 @@
         "title": "Trump says he called off new Iran attack at request of Gulf states",
         "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 18 May 2026 19:37:25 GMT"
+        "time": "Mon, 18 May 2026 20:25:42 GMT"
       },
       {
-        "title": "Bodies of missing Italian divers found in Maldives",
-        "url": "https://www.bbc.com/news/articles/c332mngz25vo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Man City preparing for Guardiola departure",
+        "url": "https://www.bbc.com/sport/football/articles/c0k28522472o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 18 May 2026 16:51:09 GMT"
+        "time": "Mon, 18 May 2026 20:30:07 GMT"
       }
     ],
     "projects": [
