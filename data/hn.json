@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-18T00:31:32.250Z"
+    "built_at": "2026-05-18T01:39:34.639Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Apple announced the iPhone 17e with a chip developed in Israel",
+      "url": "https://www.jpost.com/consumerism/article-888680",
+      "date": "2026-05-18T01:37:53.000Z"
+    },
+    {
+      "title": "Show HN: How to Kill the Dead Internet",
+      "url": "https://chromewebstore.google.com/detail/d-slop/cnjeckkgbjgfledbphbobjabnfjnheef",
+      "date": "2026-05-18T01:35:17.000Z"
+    }
+  ]
 }
