@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-17T23:20:53.199Z",
-  "updated_local": "5/17/2026, 11:20:53 PM",
+  "updated_iso": "2026-05-18T00:45:18.095Z",
+  "updated_local": "5/18/2026, 12:45:18 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "KuCoin Australia’s ‘Evolution’ Showcases Regulatory Focus, Mastercard Launch",
+        "url": "https://decrypt.co/367114/kucoin-australias-evolution-showcases-regulatory-focus-mastercard-launch",
+        "source": "crypto",
+        "time": "Mon, 18 May 2026 00:01:03 +0000"
+      },
       {
         "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
         "url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
@@ -26,32 +32,20 @@
         "url": "https://decrypt.co/368105/drake-calls-sam-bankman-frieds-release-critically-panned-album",
         "source": "crypto",
         "time": "Fri, 15 May 2026 21:10:56 +0000"
-      },
-      {
-        "title": "Lombard Finance Dumps LayerZero, Will Use Chainlink to Power $1 Billion in Bitcoin Assets",
-        "url": "https://decrypt.co/368100/lombard-finance-dumps-layerzero-chainlink-1-billion-bitcoin-assets",
-        "source": "crypto",
-        "time": "Fri, 15 May 2026 20:54:03 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
-        "url": "https://spectrum.ieee.org/payphone-voip",
+        "title": "GenCAD",
+        "url": "https://gencad.github.io/",
         "source": "hn",
-        "time": "5/17/2026, 7:39:10 PM"
+        "time": "5/17/2026, 9:40:35 PM"
       },
       {
-        "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-        "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+        "title": "Design posters showcasing your country's electrical grid",
+        "url": "https://github.com/open-energy-transition/grid2poster",
         "source": "hn",
-        "time": "5/17/2026, 9:45:30 PM"
-      },
-      {
-        "title": "Prolog Coding Horror",
-        "url": "https://www.metalevel.at/prolog/horror",
-        "source": "hn",
-        "time": "5/17/2026, 9:15:51 PM"
+        "time": "5/17/2026, 10:47:05 PM"
       },
       {
         "title": "ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations",
@@ -60,10 +54,16 @@
         "time": "5/17/2026, 9:56:40 PM"
       },
       {
-        "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
-        "url": "https://xca-attacks.github.io/fabricked/",
+        "title": "Prolog Coding Horror",
+        "url": "https://www.metalevel.at/prolog/horror",
         "source": "hn",
-        "time": "5/17/2026, 10:23:30 PM"
+        "time": "5/17/2026, 9:15:51 PM"
+      },
+      {
+        "title": "Jank now has its own custom IR",
+        "url": "https://jank-lang.org/blog/2026-05-08-optimization/",
+        "source": "hn",
+        "time": "5/15/2026, 5:17:04 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Sun, 17 May 2026 11:11:31 GMT"
       },
       {
-        "title": "The UK is churning through leaders. Is the country becoming harder to govern?",
-        "url": "https://www.bbc.com/news/articles/cqjpe7q0j1xo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 16 May 2026 23:26:41 GMT"
-      },
-      {
         "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
         "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 17 May 2026 19:23:20 GMT"
       },
       {
-        "title": "How worrying is the Ebola outbreak in DR Congo?",
-        "url": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+        "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 17 May 2026 18:06:31 GMT"
+        "time": "Sun, 17 May 2026 23:02:56 GMT"
       },
       {
-        "title": "Scotland rugby great Scott Hastings dies at 61",
-        "url": "https://www.bbc.com/sport/rugby-union/articles/ce8p60nj9e9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Am I part of the luckiest generation in history?",
+        "url": "https://www.bbc.com/news/articles/cj6pyk7e3w4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 17 May 2026 16:22:02 GMT"
+        "time": "Sun, 17 May 2026 23:11:37 GMT"
+      },
+      {
+        "title": "HS2 failings blamed on high-speed focus and political pressure",
+        "url": "https://www.bbc.com/news/articles/c936xeeye41o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 17 May 2026 23:07:57 GMT"
       }
     ],
     "projects": [
