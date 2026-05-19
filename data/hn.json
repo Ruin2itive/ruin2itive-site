@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-19T13:00:55.205Z"
+    "built_at": "2026-05-19T15:02:43.502Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Google Analytics is the wrong tool for your indie project and here's why",
+      "url": "https://statjot.com/blog/google-analytics-alternative",
+      "date": "2026-05-19T15:01:50.000Z"
+    },
+    {
+      "title": "Why Agents Suddenly Need a Sandbox [video]",
+      "url": "https://www.youtube.com/watch?v=hkEH_fTH8iI",
+      "date": "2026-05-19T15:01:32.000Z"
+    }
+  ]
 }
