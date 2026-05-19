@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-19T17:50:23.688Z"
+    "built_at": "2026-05-19T18:35:02.806Z"
   },
-  "items": [
-    {
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "date": "2026-05-19T17:49:50.000Z"
-    },
-    {
-      "title": "Chime CEO: Pursuing bank charter is 'a when, not if'",
-      "url": "https://www.bankingdive.com/news/chime-ceo-bank-charter-fintech/820621/",
-      "date": "2026-05-19T17:49:22.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
