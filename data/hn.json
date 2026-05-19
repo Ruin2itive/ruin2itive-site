@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-19T07:09:52.626Z"
+    "built_at": "2026-05-19T09:06:19.420Z"
   },
-  "items": [
-    {
-      "title": "Pythagorean Addition",
-      "url": "https://entropicthoughts.com/pythagorean-addition",
-      "date": "2026-05-19T07:07:12.000Z"
-    },
-    {
-      "title": "The programmer whose code underpins the Interne",
-      "url": "https://www.scientificamerican.com/article/the-programmer-whose-code-underpins-the-internet/",
-      "date": "2026-05-19T07:06:23.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
