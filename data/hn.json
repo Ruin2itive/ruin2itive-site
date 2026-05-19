@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-19T20:32:40.978Z"
+    "built_at": "2026-05-19T21:29:58.514Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Trump's deal with government ends his tax audits",
+      "url": "https://www.justice.gov/opa/media/1441216/dl",
+      "date": "2026-05-19T21:28:33.000Z"
+    },
+    {
+      "title": "Ask HN: How are people managing multi-node WireGuard deployments?",
+      "url": "https://news.ycombinator.com/item?id=48199920",
+      "date": "2026-05-19T21:27:50.000Z"
+    }
+  ]
 }
