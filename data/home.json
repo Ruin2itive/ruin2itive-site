@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-19T03:10:15.007Z",
-  "updated_local": "5/19/2026, 3:10:15 AM",
+  "updated_iso": "2026-05-19T03:20:05.744Z",
+  "updated_local": "5/19/2026, 3:20:05 AM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,16 @@
         "time": "5/18/2026, 11:03:02 PM"
       },
       {
+        "title": "Peter Salus has died",
+        "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+        "source": "hn",
+        "time": "5/19/2026, 2:56:42 AM"
+      },
+      {
         "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
         "url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
         "source": "hn",
         "time": "5/14/2026, 3:30:36 PM"
-      },
-      {
-        "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
-        "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-        "source": "hn",
-        "time": "5/18/2026, 11:18:10 PM"
       },
       {
         "title": "Anthropic acquires Stainless",
@@ -60,10 +60,10 @@
         "time": "5/18/2026, 5:01:21 PM"
       },
       {
-        "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-        "url": "https://archestra.ai/blog/only-responsible-ai",
+        "title": "The last six months in LLMs in five minutes",
+        "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
         "source": "hn",
-        "time": "5/18/2026, 3:24:19 PM"
+        "time": "5/19/2026, 1:30:42 AM"
       }
     ],
     "world": [
