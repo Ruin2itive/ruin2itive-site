@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-19T09:24:12.610Z",
-  "updated_local": "5/19/2026, 9:24:12 AM",
+  "updated_iso": "2026-05-19T11:06:04.181Z",
+  "updated_local": "5/19/2026, 11:06:04 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Ohio Man Gets 9 Years for $10M Bitcoin Trading Ponzi Scheme",
+        "url": "https://decrypt.co/368310/ohio-man-gets-9-years-for-10m-bitcoin-trading-ponzi-scheme",
+        "source": "crypto",
+        "time": "Tue, 19 May 2026 10:16:57 +0000"
+      },
       {
         "title": "Lawyers Apologize After Fake Claude-Generated Quotes Appear in Trump Layoffs Case",
         "url": "https://decrypt.co/368287/lawyers-apologize-fake-claude-generated-quotes-trump-layoffs-case",
@@ -26,26 +32,26 @@
         "url": "https://decrypt.co/368244/swan-bitcoin-nearly-1-billion-lawsuit-prime-trust-collapse",
         "source": "crypto",
         "time": "Mon, 18 May 2026 19:48:36 +0000"
-      },
-      {
-        "title": "This Open-Source Phone AI Agent Sees, Hears and Acts—All Without Touching the Cloud",
-        "url": "https://decrypt.co/368238/oppo-x-omniclaw-android-ai-agent",
-        "source": "crypto",
-        "time": "Mon, 18 May 2026 19:13:41 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "The last six months in LLMs in five minutes",
-        "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+        "title": "Gaussian Splat of a Strawberry",
+        "url": "https://superspl.at/scene/84df8849",
         "source": "hn",
-        "time": "5/19/2026, 1:30:42 AM"
+        "time": "5/19/2026, 10:38:47 AM"
       },
       {
-        "title": "Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
-        "url": "https://www.kv4p.com/",
+        "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
+        "url": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
         "source": "hn",
-        "time": "5/16/2026, 4:49:15 PM"
+        "time": "5/17/2026, 3:25:23 AM"
+      },
+      {
+        "title": "Polypad",
+        "url": "https://polypad.amplify.com/",
+        "source": "hn",
+        "time": "5/17/2026, 7:20:14 AM"
       },
       {
         "title": "Peter Neumann has died",
@@ -54,24 +60,24 @@
         "time": "5/19/2026, 3:17:45 AM"
       },
       {
-        "title": "Click (2016)",
-        "url": "https://clickclickclick.click/",
+        "title": "The last six months in LLMs in five minutes",
+        "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
         "source": "hn",
-        "time": "5/18/2026, 11:03:02 PM"
-      },
-      {
-        "title": "The lasting influence of Netscape Time",
-        "url": "https://thehistoryoftheweb.com/the-lasting-influence-of-netscape-time/",
-        "source": "hn",
-        "time": "5/17/2026, 1:22:57 AM"
+        "time": "5/19/2026, 1:30:42 AM"
       }
     ],
     "world": [
       {
-        "title": "Married at First Sight UK rape allegations 'serious', says government",
+        "title": "Married at First Sight UK rape allegations serious, says government",
         "url": "https://www.bbc.com/news/articles/c62xv7n4xwdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 19 May 2026 08:40:08 GMT"
+      },
+      {
+        "title": "Watch: Channel 4 boss asked if she will apologise to MAFS UK women",
+        "url": "https://www.bbc.com/news/videos/c052881dmylo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 19 May 2026 09:30:51 GMT"
       },
       {
         "title": "New High Street crime unit to target gangs fronting shops after BBC investigation",
@@ -80,22 +86,16 @@
         "time": "Tue, 19 May 2026 07:53:14 GMT"
       },
       {
-        "title": "Wrongly jailed Malkinson tells BBC: 'I've been cheated, very badly cheated'",
+        "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
+        "url": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 19 May 2026 10:58:23 GMT"
+      },
+      {
+        "title": "Wrongly jailed Malkinson says demand for legal fees is 'penny-pinching'",
         "url": "https://www.bbc.com/news/articles/c74r1x7dj8go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 19 May 2026 05:02:20 GMT"
-      },
-      {
-        "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
-        "url": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 18 May 2026 21:09:07 GMT"
-      },
-      {
-        "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
-        "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 19 May 2026 07:07:55 GMT"
+        "time": "Tue, 19 May 2026 10:54:53 GMT"
       }
     ],
     "projects": [
