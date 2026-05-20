@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-05-20T11:10:23.738Z",
-  "updated_local": "5/20/2026, 11:10:23 AM",
+  "updated_iso": "2026-05-20T12:55:19.039Z",
+  "updated_local": "5/20/2026, 12:55:19 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Markets Flip Green Overnight Ahead of NVDA Earnings",
+        "url": "https://decrypt.co/368432/morning-minute-markets-flip-green-overnight-ahead-of-nvda-earnings",
+        "source": "crypto",
+        "time": "Wed, 20 May 2026 12:20:36 +0000"
+      },
+      {
+        "title": "Trump Orders Fed to Review Crypto Firms’ Access to Master Accounts",
+        "url": "https://decrypt.co/368431/trump-orders-fed-to-review-crypto-firms-access-to-master-accounts",
+        "source": "crypto",
+        "time": "Wed, 20 May 2026 12:15:20 +0000"
+      },
       {
         "title": "Trump&#39;s Truth Social Pulls Bitcoin ETF Application From SEC Review",
         "url": "https://decrypt.co/368428/trumps-truth-social-pulls-bitcoin-etf-application-from-sec-review",
@@ -20,26 +32,14 @@
         "url": "https://decrypt.co/368406/minnesota-bans-prediction-markets-sued-trump-admin-hours-later",
         "source": "crypto",
         "time": "Tue, 19 May 2026 21:29:51 +0000"
-      },
-      {
-        "title": "Americans Arrested in Japan for Entering Punch the Monkey’s Zoo Home to Promote Meme Coin",
-        "url": "https://decrypt.co/368383/men-arrested-japan-entering-punch-monkey-zoo-enclosure-meme-coin",
-        "source": "crypto",
-        "time": "Tue, 19 May 2026 20:26:23 +0000"
-      },
-      {
-        "title": "Bitcoin Miners Emerge as Unlikely Power Brokers in AI Infrastructure Race, Says Bernstein",
-        "url": "https://decrypt.co/368381/bitcoin-miners-unlikely-power-brokers-ai-infrastructure-race-bernstein",
-        "source": "crypto",
-        "time": "Tue, 19 May 2026 19:35:23 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Learnings from 100K lines of Rust with AI (2025)",
-        "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+        "title": "Map of Metal",
+        "url": "https://mapofmetal.com/",
         "source": "hn",
-        "time": "5/20/2026, 10:04:28 AM"
+        "time": "5/20/2026, 10:47:20 AM"
       },
       {
         "title": "Everything in C is undefined behavior",
@@ -48,22 +48,22 @@
         "time": "5/20/2026, 6:07:22 AM"
       },
       {
-        "title": "Gemini 3.5 Flash",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+        "title": "College students drown out AI-praising commencement speeches with boos",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
         "source": "hn",
-        "time": "5/19/2026, 5:43:45 PM"
+        "time": "5/20/2026, 11:51:32 AM"
       },
       {
-        "title": "FiveThirtyEight articles on the Internet Archive",
-        "url": "https://fivethirtyeightindex.com/",
+        "title": "Qwen3.7-Max: The Agent Frontier",
+        "url": "https://qwen.ai/blog?id=qwen3.7",
         "source": "hn",
-        "time": "5/20/2026, 1:34:19 AM"
+        "time": "5/20/2026, 10:35:02 AM"
       },
       {
-        "title": "I’ve built a virtual museum with nearly every operating system you can think of",
-        "url": "https://virtualosmuseum.org/",
+        "title": "Nobody understands the point of hybrid cars [video]",
+        "url": "https://www.youtube.com/watch?v=KnUFH5GX_fI",
         "source": "hn",
-        "time": "5/19/2026, 3:53:38 PM"
+        "time": "5/18/2026, 6:27:47 AM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 20 May 2026 08:30:20 GMT"
+      },
+      {
+        "title": "Channel 4 boss 'deeply sorry' over MAFS UK rape allegations",
+        "url": "https://www.bbc.com/news/articles/clyp50kg9k8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 20 May 2026 11:36:57 GMT"
       },
       {
         "title": "Inflation falls to 2.8% but is expected to rise from here",
@@ -83,19 +89,13 @@
         "title": "Arsenal fans and players celebrate title at Emirates at 5am",
         "url": "https://www.bbc.com/sport/football/articles/ce3pwrrnvd6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 20 May 2026 09:00:53 GMT"
+        "time": "Wed, 20 May 2026 11:18:59 GMT"
       },
       {
         "title": "Kylie Minogue reveals she had second cancer diagnosis in 2021",
         "url": "https://www.bbc.com/news/articles/ckgpydgklneo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 20 May 2026 09:25:22 GMT"
-      },
-      {
-        "title": "MPs ask Channel 4 for answers over 'horrifying' Married At First Sight allegations",
-        "url": "https://www.bbc.com/news/articles/clyp50kg9k8o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 20 May 2026 10:31:07 GMT"
       }
     ],
     "projects": [
