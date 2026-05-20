@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-20T22:37:18.657Z",
-  "updated_local": "5/20/2026, 10:37:18 PM",
+  "updated_iso": "2026-05-20T23:29:41.052Z",
+  "updated_local": "5/20/2026, 11:29:41 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Shai-Hulud: What to Know About the Malware Spreading Through Software Pipelines",
+        "url": "https://decrypt.co/368477/shai-hulud-what-know-malware-spreading-software-pipelines",
+        "source": "crypto",
+        "time": "Wed, 20 May 2026 23:00:04 +0000"
+      },
       {
         "title": "SpaceX IPO Filing Shows Musk Building an AI and Space Infrastructure Giant",
         "url": "https://decrypt.co/368573/spacex-ipo-filing-elon-musk-ai-space-infrastructure-giant",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/368543/artificial-womb-growing-mammals-one-yard-line-colossal-ceo",
         "source": "crypto",
         "time": "Wed, 20 May 2026 20:40:55 +0000"
-      },
-      {
-        "title": "US Treasury Sanctions Sinaloa Cartel Over Crypto-Fueled Fentanyl Trafficking",
-        "url": "https://decrypt.co/368532/us-treasury-sanctions-sinaloa-cartel-crypto-fueled-fentanyl-trafficking",
-        "source": "crypto",
-        "time": "Wed, 20 May 2026 19:54:26 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Google Declaring War on the Web",
-        "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
-        "source": "hn",
-        "time": "5/20/2026, 9:33:18 PM"
-      },
       {
         "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
         "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
@@ -54,16 +48,22 @@
         "time": "5/20/2026, 1:43:37 PM"
       },
       {
-        "title": "Starship's Twelfth Flight Test",
-        "url": "https://www.spacex.com/launches/starship-flight-12",
-        "source": "hn",
-        "time": "5/20/2026, 9:41:54 PM"
-      },
-      {
         "title": "Flipper One Tech Specs",
         "url": "https://docs.flipper.net/one/general/tech-specs",
         "source": "hn",
         "time": "5/20/2026, 6:33:56 PM"
+      },
+      {
+        "title": "How fast is N tokens per second really?",
+        "url": "https://mikeveerman.github.io/tokenspeed/",
+        "source": "hn",
+        "time": "5/18/2026, 2:04:38 AM"
+      },
+      {
+        "title": "Starship's Twelfth Flight Test",
+        "url": "https://www.spacex.com/launches/starship-flight-12",
+        "source": "hn",
+        "time": "5/20/2026, 9:41:54 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Wed, 20 May 2026 20:23:02 GMT"
       },
       {
-        "title": "Fuel duty freeze extended until the end of the year",
-        "url": "https://www.bbc.com/news/articles/c3021md6jq6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Why illegal children's homes are being paid up to £2m per child by councils",
+        "url": "https://www.bbc.com/news/articles/cwy2vxp48y8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 20 May 2026 13:21:45 GMT"
+        "time": "Wed, 20 May 2026 23:10:10 GMT"
       },
       {
-        "title": "Southampton lose appeal against play-off expulsion",
-        "url": "https://www.bbc.com/sport/football/articles/cn4p284ny2ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
+        "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 20 May 2026 21:15:29 GMT"
+        "time": "Wed, 20 May 2026 17:18:16 GMT"
       },
       {
-        "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
-        "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+        "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 20 May 2026 20:11:02 GMT"
+        "time": "Wed, 20 May 2026 23:28:28 GMT"
       }
     ],
     "projects": [
