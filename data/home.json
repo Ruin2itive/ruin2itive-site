@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-20T18:59:20.767Z",
-  "updated_local": "5/20/2026, 6:59:20 PM",
+  "updated_iso": "2026-05-20T19:45:44.332Z",
+  "updated_local": "5/20/2026, 7:45:44 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Qwen 3.7 Max Preview: What Alibaba&#39;s New AI Gets Right and Where It Falls Short",
+        "url": "https://decrypt.co/368499/alibaba-qwen-3-7-max-preview-review",
+        "source": "crypto",
+        "time": "Wed, 20 May 2026 19:10:44 +0000"
+      },
       {
         "title": "OpenAI Set to File for IPO Within Days, Targeting September Listing: WSJ",
         "url": "https://decrypt.co/368498/openai-file-ipo-targeting-september-listing-wsj",
@@ -26,20 +32,20 @@
         "url": "https://decrypt.co/368458/tether-bitcoin-treasury-xxi-twenty-one-softbank-buyout",
         "source": "crypto",
         "time": "Wed, 20 May 2026 16:12:53 +0000"
-      },
-      {
-        "title": "South Carolina Passes Law Banning CBDCs While Protecting Crypto Users, Bitcoin Miners",
-        "url": "https://decrypt.co/368455/south-carolina-law-banning-cbdc-protecting-crypto-users-bitcoin-miners",
-        "source": "crypto",
-        "time": "Wed, 20 May 2026 15:08:53 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Incident Report: May 19, 2026 – GCP Account Suspension",
-        "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
         "source": "hn",
-        "time": "5/20/2026, 8:37:55 AM"
+        "time": "5/20/2026, 7:05:30 PM"
+      },
+      {
+        "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+        "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+        "source": "hn",
+        "time": "5/20/2026, 1:43:37 PM"
       },
       {
         "title": "How fast is N tokens per second really?",
@@ -54,16 +60,10 @@
         "time": "5/20/2026, 10:35:02 AM"
       },
       {
-        "title": "SBCL: the ultimate assembly code breadboard (2014)",
-        "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
+        "title": "Why is Inkwell stuck in review",
+        "url": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
         "source": "hn",
-        "time": "5/20/2026, 3:39:48 PM"
-      },
-      {
-        "title": "Saying Goodbye to Asm.js",
-        "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
-        "source": "hn",
-        "time": "5/20/2026, 12:01:56 PM"
+        "time": "5/20/2026, 5:30:15 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Wed, 20 May 2026 13:21:45 GMT"
       },
       {
-        "title": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
-        "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "London bus driver dies after assault on bridge",
+        "url": "https://www.bbc.com/news/articles/clypnj4dnk5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 20 May 2026 17:18:16 GMT"
+        "time": "Wed, 20 May 2026 19:42:46 GMT"
       },
       {
-        "title": "Streeting warns Labour risks losing fight against 'nationalism'",
-        "url": "https://www.bbc.com/news/articles/cpvp7r80v22o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK agrees £3.7bn trade deal with six Gulf states",
+        "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 20 May 2026 17:59:44 GMT"
+        "time": "Wed, 20 May 2026 19:41:50 GMT"
       }
     ],
     "projects": [
