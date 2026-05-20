@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-20T11:03:49.170Z",
-  "updated_local": "5/20/2026, 11:03:49 AM",
+  "updated_iso": "2026-05-20T11:10:23.738Z",
+  "updated_local": "5/20/2026, 11:10:23 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Everything in C is undefined behavior",
-        "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
-        "source": "hn",
-        "time": "5/20/2026, 6:07:22 AM"
-      },
-      {
         "title": "Learnings from 100K lines of Rust with AI (2025)",
         "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
         "source": "hn",
         "time": "5/20/2026, 10:04:28 AM"
+      },
+      {
+        "title": "Everything in C is undefined behavior",
+        "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+        "source": "hn",
+        "time": "5/20/2026, 6:07:22 AM"
       },
       {
         "title": "Gemini 3.5 Flash",
