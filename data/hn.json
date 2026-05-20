@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-20T17:01:28.792Z"
+    "built_at": "2026-05-20T18:45:24.173Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "If an LLM is too expensive it won't be next year",
+      "url": "http://liveatthewitchtrials.blogspot.com/2026/05/if-llm-is-too-expensive-it-wont-be-next.html",
+      "date": "2026-05-20T18:38:53.000Z"
+    },
+    {
+      "title": "Citor: A header-only C++20 thread pool tuned for sub-us dispatch",
+      "url": "https://github.com/Lallapallooza/citor",
+      "date": "2026-05-20T18:36:39.000Z"
+    }
+  ]
 }
