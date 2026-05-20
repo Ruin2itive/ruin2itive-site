@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-20T09:04:42.933Z"
+    "built_at": "2026-05-20T11:00:50.861Z"
   },
-  "items": [
-    {
-      "title": "Blood Pumping Mechanism of the Hoof",
-      "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
-      "date": "2026-05-20T09:03:44.000Z"
-    },
-    {
-      "title": "Show HN: Agent thread – Share claude code and codex sessions as public links",
-      "url": "https://agent-thread.com",
-      "date": "2026-05-20T09:03:12.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
