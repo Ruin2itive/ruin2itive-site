@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-20T01:13:35.683Z",
-  "updated_local": "5/20/2026, 1:13:35 AM",
+  "updated_iso": "2026-05-20T01:43:42.911Z",
+  "updated_local": "5/20/2026, 1:43:42 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "5/19/2026, 5:43:45 PM"
       },
       {
+        "title": "Railway Blocked by Google Cloud",
+        "url": "https://status.railway.com/?date=20260519",
+        "source": "hn",
+        "time": "5/20/2026, 12:23:54 AM"
+      },
+      {
         "title": "I’ve built a virtual museum with nearly every operating system you can think of",
         "url": "https://virtualosmuseum.org/",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://openai.com/index/advancing-content-provenance/",
         "source": "hn",
         "time": "5/19/2026, 7:34:30 PM"
-      },
-      {
-        "title": "Railway Blocked by Google Cloud",
-        "url": "https://status.railway.com/?date=20260519",
-        "source": "hn",
-        "time": "5/20/2026, 12:23:54 AM"
       }
     ],
     "world": [
@@ -95,7 +95,7 @@
         "title": "Trump-backed challenger defeats Republican rebel Massie in primary",
         "url": "https://www.bbc.com/news/articles/cwy2vw8j0ddo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 20 May 2026 00:49:29 GMT"
+        "time": "Wed, 20 May 2026 01:28:37 GMT"
       }
     ],
     "projects": [
