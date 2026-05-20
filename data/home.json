@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-05-20T17:18:21.412Z",
-  "updated_local": "5/20/2026, 5:18:21 PM",
+  "updated_iso": "2026-05-20T18:50:38.768Z",
+  "updated_local": "5/20/2026, 6:50:38 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Set to File for IPO Within Days, Targeting September Listing: WSJ",
+        "url": "https://decrypt.co/368498/openai-file-ipo-targeting-september-listing-wsj",
+        "source": "crypto",
+        "time": "Wed, 20 May 2026 18:45:17 +0000"
+      },
+      {
+        "title": "Google&#39;s Stock Fell on Its Best I/O in Years. Here&#39;s Why BofA Is Still Buying",
+        "url": "https://decrypt.co/368481/google-stock-ai-gemini-why-bofa-bank-america-still-buying",
+        "source": "crypto",
+        "time": "Wed, 20 May 2026 18:04:50 +0000"
+      },
       {
         "title": "GitHub Confirms 3,800 Internal Repos Stolen Through Poisoned VS Code Extension",
         "url": "https://decrypt.co/368476/github-confirms-3800-internal-repos-stolen-poisoned-vs-code-extension",
@@ -20,26 +32,20 @@
         "url": "https://decrypt.co/368455/south-carolina-law-banning-cbdc-protecting-crypto-users-bitcoin-miners",
         "source": "crypto",
         "time": "Wed, 20 May 2026 15:08:53 +0000"
-      },
-      {
-        "title": "AI Watchdog Warns of &#39;Rogue Deployment&#39; Risk at Top Labs, With Capabilities Growing Fast",
-        "url": "https://decrypt.co/368451/ai-watchdog-warns-rogue-deployment-risk-top-labs-capabilities-growing-fast",
-        "source": "crypto",
-        "time": "Wed, 20 May 2026 14:26:20 +0000"
-      },
-      {
-        "title": "HYPE Surges 101% This Year: What’s Driving Hyperliquid’s Growth?",
-        "url": "https://decrypt.co/368443/hype-surges-101-this-year-whats-driving-hyperliquids-growth",
-        "source": "crypto",
-        "time": "Wed, 20 May 2026 14:02:37 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "SBCL: the ultimate assembly code breadboard (2014)",
-        "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
+        "title": "Incident Report: May 19, 2026 – GCP Account Suspension",
+        "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
         "source": "hn",
-        "time": "5/20/2026, 3:39:48 PM"
+        "time": "5/20/2026, 8:37:55 AM"
+      },
+      {
+        "title": "How fast is N tokens per second really?",
+        "url": "https://mikeveerman.github.io/tokenspeed/",
+        "source": "hn",
+        "time": "5/18/2026, 2:04:38 AM"
       },
       {
         "title": "Qwen3.7-Max: The Agent Frontier",
@@ -48,36 +54,30 @@
         "time": "5/20/2026, 10:35:02 AM"
       },
       {
+        "title": "SBCL: the ultimate assembly code breadboard (2014)",
+        "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
+        "source": "hn",
+        "time": "5/20/2026, 3:39:48 PM"
+      },
+      {
         "title": "Saying Goodbye to Asm.js",
         "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
         "source": "hn",
         "time": "5/20/2026, 12:01:56 PM"
-      },
-      {
-        "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
-        "url": "https://www.alqst.org/ar/posts/1190",
-        "source": "hn",
-        "time": "5/20/2026, 12:43:41 PM"
-      },
-      {
-        "title": "Map of Metal",
-        "url": "https://mapofmetal.com/",
-        "source": "hn",
-        "time": "5/20/2026, 10:47:20 AM"
       }
     ],
     "world": [
-      {
-        "title": "Women who died in sea off Brighton were sisters",
-        "url": "https://www.bbc.com/news/articles/c62dn5r4elqo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 20 May 2026 16:57:28 GMT"
-      },
       {
         "title": "Russian jets 'dangerously' intercept RAF spy plane over Black Sea",
         "url": "https://www.bbc.com/news/articles/cq8p40e2zx1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 20 May 2026 16:00:05 GMT"
+      },
+      {
+        "title": "Women who died in sea off Brighton were sisters",
+        "url": "https://www.bbc.com/news/articles/c62dn5r4elqo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 20 May 2026 18:43:41 GMT"
       },
       {
         "title": "Fuel duty freeze extended until the end of the year",
@@ -89,13 +89,13 @@
         "title": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
         "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 20 May 2026 16:42:05 GMT"
+        "time": "Wed, 20 May 2026 17:18:16 GMT"
       },
       {
-        "title": "Channel 4 boss 'deeply sorry' over MAFS UK rape allegations",
-        "url": "https://www.bbc.com/news/articles/clyp50kg9k8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Streeting warns Labour risks losing fight against nationalism",
+        "url": "https://www.bbc.com/news/articles/cpvp7r80v22o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 20 May 2026 17:05:12 GMT"
+        "time": "Wed, 20 May 2026 17:59:44 GMT"
       }
     ],
     "projects": [
