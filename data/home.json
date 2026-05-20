@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-20T07:28:54.805Z",
-  "updated_local": "5/20/2026, 7:28:54 AM",
+  "updated_iso": "2026-05-20T09:10:54.935Z",
+  "updated_local": "5/20/2026, 9:10:54 AM",
   "sections": {
     "crypto": [
       {
@@ -36,18 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "Everything in C is undefined behavior",
-        "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
-        "source": "hn",
-        "time": "5/20/2026, 6:07:22 AM"
-      },
-      {
-        "title": "Railway Blocked by Google Cloud",
-        "url": "https://status.railway.com/?date=20260519",
-        "source": "hn",
-        "time": "5/20/2026, 12:23:54 AM"
-      },
-      {
         "title": "FiveThirtyEight articles on the Internet Archive",
         "url": "https://fivethirtyeightindex.com/",
         "source": "hn",
@@ -64,38 +52,50 @@
         "url": "https://virtualosmuseum.org/",
         "source": "hn",
         "time": "5/19/2026, 3:53:38 PM"
+      },
+      {
+        "title": "Infomaniak transitions to a foundation model to protect user data privacy",
+        "url": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
+        "source": "hn",
+        "time": "5/20/2026, 5:43:51 AM"
+      },
+      {
+        "title": "Google changes its search box",
+        "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+        "source": "hn",
+        "time": "5/19/2026, 6:34:27 PM"
       }
     ],
     "world": [
       {
+        "title": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
+        "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 20 May 2026 08:30:20 GMT"
+      },
+      {
+        "title": "Inflation falls to 2.8% but is expected to rise from here",
+        "url": "https://www.bbc.com/news/articles/c4g0e0p4p2go?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 20 May 2026 07:57:19 GMT"
+      },
+      {
+        "title": "Arsenal fans and players celebrate title at Emirates at 5am",
+        "url": "https://www.bbc.com/sport/football/articles/ce3pwrrnvd6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 20 May 2026 09:00:53 GMT"
+      },
+      {
         "title": "UK loosens Russian oil sanctions as fuel prices rise",
         "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 20 May 2026 07:14:20 GMT"
-      },
-      {
-        "title": "Twenty-two years in the making - how Arsenal celebrated title win",
-        "url": "https://www.bbc.com/sport/football/articles/ce3pwrrnvd6o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 19 May 2026 22:16:08 GMT"
-      },
-      {
-        "title": "UK should set maximum working temperature rules, advisers say",
-        "url": "https://www.bbc.com/news/articles/cm2p1j4y0kro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 19 May 2026 23:40:12 GMT"
+        "time": "Wed, 20 May 2026 08:13:07 GMT"
       },
       {
         "title": "Boss of Sarah Ferguson-linked firm used royal links to threaten worker with jail",
         "url": "https://www.bbc.com/news/articles/c4g8kv7ykv8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 20 May 2026 05:00:59 GMT"
-      },
-      {
-        "title": "Was Married at First Sight UK an 'accident waiting to happen'?",
-        "url": "https://www.bbc.com/news/articles/c172x2vkxl5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 20 May 2026 05:52:59 GMT"
       }
     ],
     "projects": [
