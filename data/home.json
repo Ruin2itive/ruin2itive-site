@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-20T05:31:19.850Z",
-  "updated_local": "5/20/2026, 5:31:19 AM",
+  "updated_iso": "2026-05-20T07:16:55.393Z",
+  "updated_local": "5/20/2026, 7:16:55 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Everything in C is undefined behavior",
+        "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+        "source": "hn",
+        "time": "5/20/2026, 6:07:22 AM"
+      },
+      {
         "title": "Railway Blocked by Google Cloud",
         "url": "https://status.railway.com/?date=20260519",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://virtualosmuseum.org/",
         "source": "hn",
         "time": "5/19/2026, 3:53:38 PM"
-      },
-      {
-        "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
-        "url": "https://github.com/wiltodelta/remove-ai-watermarks",
-        "source": "hn",
-        "time": "5/19/2026, 10:30:31 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "UK loosens Russian oil sanctions as fuel prices rise",
         "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 20 May 2026 01:58:01 GMT"
+        "time": "Wed, 20 May 2026 07:14:20 GMT"
       },
       {
         "title": "Twenty-two years in the making - how Arsenal celebrated title win",
@@ -80,22 +80,22 @@
         "time": "Tue, 19 May 2026 22:16:08 GMT"
       },
       {
-        "title": "Was Married at First Sight UK an 'accident waiting to happen'?",
-        "url": "https://www.bbc.com/news/articles/c172x2vkxl5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK should set maximum working temperature rules, advisers say",
+        "url": "https://www.bbc.com/news/articles/cm2p1j4y0kro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 20 May 2026 00:18:16 GMT"
-      },
-      {
-        "title": "Trump-backed challenger defeats Republican rebel Massie in primary",
-        "url": "https://www.bbc.com/news/articles/cwy2vw8j0ddo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 20 May 2026 01:28:37 GMT"
+        "time": "Tue, 19 May 2026 23:40:12 GMT"
       },
       {
         "title": "Boss of Sarah Ferguson-linked firm used royal links to threaten worker with jail",
         "url": "https://www.bbc.com/news/articles/c4g8kv7ykv8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 20 May 2026 05:00:59 GMT"
+      },
+      {
+        "title": "Was Married at First Sight UK an 'accident waiting to happen'?",
+        "url": "https://www.bbc.com/news/articles/c172x2vkxl5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 20 May 2026 05:52:59 GMT"
       }
     ],
     "projects": [
