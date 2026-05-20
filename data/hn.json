@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-20T15:03:33.629Z"
+    "built_at": "2026-05-20T17:01:28.792Z"
   },
-  "items": [
-    {
-      "title": "The AI x TechBio Bingo Card: A framework for what \"good\" looks like for startups",
-      "url": "https://mmc.vc/research/the-ai-x-techbio-bingo/",
-      "date": "2026-05-20T14:59:07.000Z"
-    },
-    {
-      "title": "DeepClause \"Turbo DML\" Agent Harness",
-      "url": "https://deepclause.substack.com/p/deepclause-turbo-dml-agent-harness",
-      "date": "2026-05-20T14:56:15.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
