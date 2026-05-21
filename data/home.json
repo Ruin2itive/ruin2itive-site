@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-21T09:20:36.875Z",
-  "updated_local": "5/21/2026, 9:20:36 AM",
+  "updated_iso": "2026-05-21T11:06:37.178Z",
+  "updated_local": "5/21/2026, 11:06:37 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "Google officially announces that ads will be included in AI Mode search results",
+        "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+        "source": "hn",
+        "time": "5/21/2026, 9:49:46 AM"
+      },
+      {
+        "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+        "url": "https://github.com/helvesec/rmux",
+        "source": "hn",
+        "time": "5/21/2026, 9:22:00 AM"
+      },
+      {
         "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
         "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
         "source": "hn",
@@ -48,18 +60,6 @@
         "time": "5/20/2026, 1:43:37 PM"
       },
       {
-        "title": "Vivaldi 8.0",
-        "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
-        "source": "hn",
-        "time": "5/21/2026, 7:21:55 AM"
-      },
-      {
-        "title": "Haskell Foundation 2026 Update",
-        "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
-        "source": "hn",
-        "time": "5/21/2026, 2:13:23 AM"
-      },
-      {
         "title": "Show HN: I reverse engineered Apple's video wallpapers",
         "url": "https://github.com/kageroumado/phosphene",
         "source": "hn",
@@ -68,16 +68,10 @@
     ],
     "world": [
       {
-        "title": "TikTok and YouTube 'not safe enough' for kids, says regulator",
-        "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 21 May 2026 07:10:42 GMT"
-      },
-      {
         "title": "Free bus trips for children in England this August as part of Reeves's cost-of-living plan",
         "url": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 21 May 2026 06:14:46 GMT"
+        "time": "Thu, 21 May 2026 10:44:11 GMT"
       },
       {
         "title": "Chris Mason: Reeves' summer savings drive won't stretch to energy bills",
@@ -86,16 +80,22 @@
         "time": "Thu, 21 May 2026 07:44:15 GMT"
       },
       {
-        "title": "Wes Streeting pledges wealth tax as part of leadership pitch",
-        "url": "https://www.bbc.com/news/articles/cm2pxz7de41o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "NHS trust sacks staff over attacks victims' records",
+        "url": "https://www.bbc.com/news/articles/cgrpdkevvnko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 21 May 2026 07:52:24 GMT"
+        "time": "Thu, 21 May 2026 11:03:50 GMT"
       },
       {
-        "title": "EasyJet boss says summer flights won't  be hit by jet fuel shortages",
+        "title": "EasyJet boss says summer flights won't be hit by jet fuel shortages",
         "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 21 May 2026 08:23:31 GMT"
+        "time": "Thu, 21 May 2026 11:03:00 GMT"
+      },
+      {
+        "title": "TikTok and YouTube 'not safe enough' for kids, says regulator",
+        "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 21 May 2026 07:10:42 GMT"
       }
     ],
     "projects": [
