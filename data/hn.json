@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-21T17:40:28.795Z"
+    "built_at": "2026-05-21T18:36:21.320Z"
   },
-  "items": [
-    {
-      "title": "Ask HN: What AI prompts have you found most reliable for actual work?",
-      "url": "https://news.ycombinator.com/item?id=48226384",
-      "date": "2026-05-21T17:39:23.000Z"
-    },
-    {
-      "title": "Ask HN: Is HN Blocking Mullvad VPN?",
-      "url": "https://news.ycombinator.com/item?id=48226369",
-      "date": "2026-05-21T17:38:23.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
