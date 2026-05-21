@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-05-21T17:03:12.743Z",
-  "updated_local": "5/21/2026, 5:03:12 PM",
+  "updated_iso": "2026-05-21T17:42:56.617Z",
+  "updated_local": "5/21/2026, 5:42:56 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Nvidia Beats, Stock Dumps—BofA Says Buy the Dip",
+        "url": "https://decrypt.co/368650/bofa-nvidia-buy-top-pick-350-target",
+        "source": "crypto",
+        "time": "Thu, 21 May 2026 17:39:17 +0000"
+      },
+      {
+        "title": "US Government Makes $2 Billion Bet on Quantum Computing as Threat to Bitcoin Grows",
+        "url": "https://decrypt.co/368647/us-government-2-billion-bet-quantum-computing-bitcoin-threat-grows",
+        "source": "crypto",
+        "time": "Thu, 21 May 2026 17:24:00 +0000"
+      },
       {
         "title": "Crypto Exchange Kraken Secures VARA License to Launch in Dubai",
         "url": "https://decrypt.co/368643/crypto-exchange-kraken-secures-vara-license-launch-dubai",
@@ -20,32 +32,20 @@
         "url": "https://decrypt.co/368608/crypto-exchange-blockchain-com-files-ipo-us",
         "source": "crypto",
         "time": "Thu, 21 May 2026 14:58:19 +0000"
-      },
-      {
-        "title": "Bitcoin ATM Firm CoinFlip Blasts &#39;Meritless&#39; Lawsuit as Missouri Demands Restitution for Seniors",
-        "url": "https://decrypt.co/368606/bitcoin-atm-coinflip-blasts-meritless-lawsuit-missouri-restitution-seniors",
-        "source": "crypto",
-        "time": "Thu, 21 May 2026 14:43:49 +0000"
-      },
-      {
-        "title": "Syndicate Labs Shuts Down as Crypto Cuts and Closures Mount",
-        "url": "https://decrypt.co/368607/syndicate-labs-shuts-down-as-crypto-cuts-and-closures-mount",
-        "source": "crypto",
-        "time": "Thu, 21 May 2026 14:33:50 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Project Hail Mary – Stellar Navigation Chart",
+        "url": "https://valhovey.github.io/gaia-mary/",
+        "source": "hn",
+        "time": "5/21/2026, 4:23:11 PM"
+      },
       {
         "title": "Flipper One – we need your help",
         "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
         "source": "hn",
         "time": "5/21/2026, 11:03:38 AM"
-      },
-      {
-        "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
-        "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
-        "source": "hn",
-        "time": "5/21/2026, 4:30:47 PM"
       },
       {
         "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
@@ -54,16 +54,16 @@
         "time": "5/21/2026, 2:01:37 PM"
       },
       {
+        "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
+        "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
+        "source": "hn",
+        "time": "5/21/2026, 4:30:47 PM"
+      },
+      {
         "title": "Python 3.15: features that didn't make the headlines",
         "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
         "source": "hn",
         "time": "5/21/2026, 11:10:11 AM"
-      },
-      {
-        "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
-        "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-        "source": "hn",
-        "time": "5/21/2026, 9:49:46 AM"
       }
     ],
     "world": [
@@ -80,10 +80,10 @@
         "time": "Thu, 21 May 2026 13:47:10 GMT"
       },
       {
-        "title": "NHS trust sacks staff over accessing Nottingham attacks victims' records",
-        "url": "https://www.bbc.com/news/articles/cgrpdkevvnko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Toilets and changing rooms must be used on basis of biological sex, guidance confirms",
+        "url": "https://www.bbc.com/news/articles/c0e2rj3zj02o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 21 May 2026 16:28:42 GMT"
+        "time": "Thu, 21 May 2026 17:37:06 GMT"
       },
       {
         "title": "UK migration drops to 171,000 - almost half 2024's figure",
@@ -92,10 +92,10 @@
         "time": "Thu, 21 May 2026 14:15:34 GMT"
       },
       {
-        "title": "Tui ends sponsorship of Channel 4's Married at First Sight",
-        "url": "https://www.bbc.com/news/articles/cvgzp9e1v38o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Foden and 'shocked' Maguire to miss out on World Cup squad",
+        "url": "https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 21 May 2026 12:35:38 GMT"
+        "time": "Thu, 21 May 2026 17:09:51 GMT"
       }
     ],
     "projects": [
