@@ -1,40 +1,46 @@
 {
-  "updated_iso": "2026-05-21T13:23:03.175Z",
-  "updated_local": "5/21/2026, 1:23:03 PM",
+  "updated_iso": "2026-05-21T15:08:18.149Z",
+  "updated_local": "5/21/2026, 3:08:18 PM",
   "sections": {
     "crypto": [
       {
-        "title": "Terraform Accuses Jane Street of Leveraging Secret Telegram Group",
+        "title": "Crypto Exchange Blockchain.com Files for IPO in the US",
+        "url": "https://decrypt.co/368608/crypto-exchange-blockchain-com-files-ipo-us",
+        "source": "crypto",
+        "time": "Thu, 21 May 2026 14:58:19 +0000"
+      },
+      {
+        "title": "Bitcoin ATM Firm CoinFlip Blasts &#39;Meritless&#39; Lawsuit as Missouri Demands Restitution for Seniors",
+        "url": "https://decrypt.co/368606/bitcoin-atm-coinflip-blasts-meritless-lawsuit-missouri-restitution-seniors",
+        "source": "crypto",
+        "time": "Thu, 21 May 2026 14:43:49 +0000"
+      },
+      {
+        "title": "Syndicate Labs Shuts Down as Crypto Cuts and Closures Mount",
+        "url": "https://decrypt.co/368607/syndicate-labs-shuts-down-as-crypto-cuts-and-closures-mount",
+        "source": "crypto",
+        "time": "Thu, 21 May 2026 14:33:50 +0000"
+      },
+      {
+        "title": "Why DeFi Keeps Losing Millions to Exploits",
+        "url": "https://decrypt.co/368591/why-defi-keeps-losing-millions-to-exploits",
+        "source": "crypto",
+        "time": "Thu, 21 May 2026 14:01:04 +0000"
+      },
+      {
+        "title": "Terraform Accuses Jane Street of Using Insider Telegram Group Ahead of $40B UST-LUNA Collapse",
         "url": "https://decrypt.co/368599/terraform-accuses-jane-street-of-leveraging-secret-telegram-group",
         "source": "crypto",
         "time": "Thu, 21 May 2026 12:40:49 +0000"
-      },
-      {
-        "title": "Morning Minute: SpaceX Files for IPO, Shares Surprising BTC Portfolio",
-        "url": "https://decrypt.co/368596/morning-minute-spacex-files-for-ipo-shares-surprising-btc-portfolio",
-        "source": "crypto",
-        "time": "Thu, 21 May 2026 12:03:40 +0000"
-      },
-      {
-        "title": "HYPE Jumps Double Digits as Hyperliquid ETFs Add $25.5M",
-        "url": "https://decrypt.co/368593/hype-jumps-double-digits-as-hyperliquid-etfs-add-25-5m",
-        "source": "crypto",
-        "time": "Thu, 21 May 2026 11:27:44 +0000"
-      },
-      {
-        "title": "Bitcoin Firm Nakamoto Plots 1-for-40 Stock Split Following 99% Price Plunge",
-        "url": "https://decrypt.co/368562/bitcoin-firm-nakamoto-stock-split-99-price-plunge",
-        "source": "crypto",
-        "time": "Thu, 21 May 2026 01:21:18 +0000"
-      },
-      {
-        "title": "Shai-Hulud: What to Know About the Malware Spreading Through Software Pipelines",
-        "url": "https://decrypt.co/368477/shai-hulud-what-know-malware-spreading-software-pipelines",
-        "source": "crypto",
-        "time": "Wed, 20 May 2026 23:00:04 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "AI is just unauthorised plagiarism at a bigger scale",
+        "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+        "source": "hn",
+        "time": "5/21/2026, 1:38:12 PM"
+      },
       {
         "title": "Flipper One – we need your help",
         "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
@@ -42,16 +48,10 @@
         "time": "5/21/2026, 11:03:38 AM"
       },
       {
-        "title": "Python 3.15: features that didn't make the headlines",
-        "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+        "title": "Google's Antigravity Bait and Switch",
+        "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
         "source": "hn",
-        "time": "5/21/2026, 11:10:11 AM"
-      },
-      {
-        "title": "Gemini randomly dumped its system prompt",
-        "url": "https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c",
-        "source": "hn",
-        "time": "5/21/2026, 1:04:21 PM"
+        "time": "5/21/2026, 1:50:59 PM"
       },
       {
         "title": "Google officially announces that ads will be included in AI Mode search results",
@@ -60,10 +60,10 @@
         "time": "5/21/2026, 9:49:46 AM"
       },
       {
-        "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
-        "url": "https://github.com/helvesec/rmux",
+        "title": "Python 3.15: features that didn't make the headlines",
+        "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
         "source": "hn",
-        "time": "5/21/2026, 9:22:00 AM"
+        "time": "5/21/2026, 11:10:11 AM"
       }
     ],
     "world": [
@@ -71,31 +71,31 @@
         "title": "Cheaper theme park tickets and children's meals as VAT to be cut for some attractions this summer",
         "url": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 21 May 2026 13:06:19 GMT"
+        "time": "Thu, 21 May 2026 14:43:39 GMT"
+      },
+      {
+        "title": "Late Queen was 'very keen' for Andrew to be given trade envoy role",
+        "url": "https://www.bbc.com/news/articles/cm2pjg397l2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 21 May 2026 13:47:10 GMT"
       },
       {
         "title": "NHS trust sacks staff over accessing Nottingham attacks victims' records",
         "url": "https://www.bbc.com/news/articles/cgrpdkevvnko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 21 May 2026 11:34:49 GMT"
+        "time": "Thu, 21 May 2026 14:47:07 GMT"
       },
       {
         "title": "UK migration drops to 171,000 - almost half 2024's figure",
         "url": "https://www.bbc.com/news/articles/clyp1ekd584o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 21 May 2026 11:27:20 GMT"
+        "time": "Thu, 21 May 2026 14:15:34 GMT"
       },
       {
         "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
         "url": "https://www.bbc.com/news/articles/c70989jrdweo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 21 May 2026 12:29:37 GMT"
-      },
-      {
-        "title": "TUI ends sponsorship of Channel 4's Married at First Sight",
-        "url": "https://www.bbc.com/news/articles/cvgzp9e1v38o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 21 May 2026 12:35:38 GMT"
       }
     ],
     "projects": [
