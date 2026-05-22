@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-22T13:05:25.323Z",
-  "updated_local": "5/22/2026, 1:05:25 PM",
+  "updated_iso": "2026-05-22T13:48:56.351Z",
+  "updated_local": "5/22/2026, 1:48:56 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Mark Cuban Sells His Bitcoin",
+        "url": "https://decrypt.co/368742/morning-minute-mark-cuban-sells-his-bitcoin",
+        "source": "crypto",
+        "time": "Fri, 22 May 2026 13:05:45 +0000"
+      },
       {
         "title": "Polymarket Hit By ‘Internal Top-Up’ Wallet Exploit, $700K Drained",
         "url": "https://decrypt.co/368740/polymarket-hit-by-internal-top-up-wallet-exploit-700k-drained",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/368721/nearly-500b-bitcoin-exposed-future-quantum-computing-attacks-glassnode",
         "source": "crypto",
         "time": "Thu, 21 May 2026 23:00:04 +0000"
-      },
-      {
-        "title": "Prominent Ethereum Dev Proposes $1 Billion ETH Organization With Leader Who &#39;Wants to Fight&#39;",
-        "url": "https://decrypt.co/368694/prominent-ethereum-dev-proposes-1-billion-eth-organization",
-        "source": "crypto",
-        "time": "Thu, 21 May 2026 22:08:36 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "5/22/2026, 11:28:08 AM"
       },
       {
-        "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-        "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-        "source": "hn",
-        "time": "5/22/2026, 10:38:26 AM"
-      },
-      {
         "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
         "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
         "source": "hn",
         "time": "5/22/2026, 11:45:24 AM"
       },
       {
-        "title": "Chess Invariants",
-        "url": "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html",
+        "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+        "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
         "source": "hn",
-        "time": "5/22/2026, 11:06:52 AM"
+        "time": "5/22/2026, 10:38:26 AM"
       },
       {
-        "title": "Project Hail Mary – Stellar Navigation Chart",
-        "url": "https://valhovey.github.io/gaia-mary/",
+        "title": "The AI Elephant in the Room",
+        "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
         "source": "hn",
-        "time": "5/21/2026, 4:23:11 PM"
+        "time": "5/22/2026, 1:22:42 PM"
+      },
+      {
+        "title": "Breakthroughs for batteries could soon make them better",
+        "url": "https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better",
+        "source": "hn",
+        "time": "5/22/2026, 11:39:37 AM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 22 May 2026 12:56:06 GMT"
+      },
+      {
+        "title": "Foden, Palmer, Alexander-Arnold to miss World Cup",
+        "url": "https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 22 May 2026 11:33:47 GMT"
       },
       {
         "title": "Parents of Southport survivors say anonymity has erased their girls from the story",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 22 May 2026 10:56:32 GMT"
-      },
-      {
-        "title": "Guardiola says 'nothing is eternal' as Man City confirm exit after 10 years",
-        "url": "https://www.bbc.com/sport/football/articles/cx21y7023qxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 22 May 2026 11:56:20 GMT"
       }
     ],
     "projects": [
