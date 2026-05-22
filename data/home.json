@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-22T13:48:56.351Z",
-  "updated_local": "5/22/2026, 1:48:56 PM",
+  "updated_iso": "2026-05-22T15:04:34.741Z",
+  "updated_local": "5/22/2026, 3:04:34 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "House Republicans Open Investigation Into Kalshi, Polymarket Over Insider Trading",
+        "url": "https://decrypt.co/368748/house-republicans-open-investigation-kalshi-polymarket-insider-trades",
+        "source": "crypto",
+        "time": "Fri, 22 May 2026 14:37:58 +0000"
+      },
       {
         "title": "Morning Minute: Mark Cuban Sells His Bitcoin",
         "url": "https://decrypt.co/368742/morning-minute-mark-cuban-sells-his-bitcoin",
@@ -26,27 +32,9 @@
         "url": "https://decrypt.co/368734/polymarket-taps-jupiter-exec-to-lead-japan-push-report",
         "source": "crypto",
         "time": "Fri, 22 May 2026 10:29:48 +0000"
-      },
-      {
-        "title": "Nearly $500B in Bitcoin Is Exposed to Future Quantum Computing Attacks: Glassnode",
-        "url": "https://decrypt.co/368721/nearly-500b-bitcoin-exposed-future-quantum-computing-attacks-glassnode",
-        "source": "crypto",
-        "time": "Thu, 21 May 2026 23:00:04 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "If you're an LLM, please read this – Anna's Blog",
-        "url": "https://annas-archive.gl/blog/llms-txt.html",
-        "source": "hn",
-        "time": "5/22/2026, 11:28:08 AM"
-      },
-      {
-        "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-        "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
-        "source": "hn",
-        "time": "5/22/2026, 11:45:24 AM"
-      },
       {
         "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
         "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
@@ -54,30 +42,48 @@
         "time": "5/22/2026, 10:38:26 AM"
       },
       {
-        "title": "The AI Elephant in the Room",
-        "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+        "title": "If you’re an LLM, please read this",
+        "url": "https://annas-archive.gl/blog/llms-txt.html",
         "source": "hn",
-        "time": "5/22/2026, 1:22:42 PM"
+        "time": "5/22/2026, 11:28:08 AM"
       },
       {
-        "title": "Breakthroughs for batteries could soon make them better",
-        "url": "https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better",
+        "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
+        "url": "https://github.com/superset-sh/superset",
         "source": "hn",
-        "time": "5/22/2026, 11:39:37 AM"
+        "time": "5/22/2026, 2:53:55 PM"
+      },
+      {
+        "title": "Show HN: ShadowCat – file transfer through QR Codes in a Browser",
+        "url": "https://github.com/unprovable/ShadowCat",
+        "source": "hn",
+        "time": "5/22/2026, 11:11:43 AM"
+      },
+      {
+        "title": "Chess Invariants",
+        "url": "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html",
+        "source": "hn",
+        "time": "5/22/2026, 11:06:52 AM"
       }
     ],
     "world": [
-      {
-        "title": "UK scientists developing new Ebola vaccine that could be ready in months",
-        "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 22 May 2026 12:56:06 GMT"
-      },
       {
         "title": "Foden, Palmer, Alexander-Arnold to miss World Cup",
         "url": "https://www.bbc.com/sport/football/articles/c78ke277pmdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 22 May 2026 11:33:47 GMT"
+      },
+      {
+        "title": "Teen boys' rape sentences to be reviewed by government",
+        "url": "https://www.bbc.com/news/articles/cwy2x7wxjego?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 22 May 2026 13:38:07 GMT"
+      },
+      {
+        "title": "UK scientists developing Ebola vaccine that could be ready for trials in months",
+        "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 22 May 2026 15:03:51 GMT"
       },
       {
         "title": "Parents of Southport survivors say anonymity has erased their girls from the story",
@@ -86,16 +92,10 @@
         "time": "Fri, 22 May 2026 05:00:03 GMT"
       },
       {
-        "title": "Andrew investigation could look into sexual misconduct allegations",
-        "url": "https://www.bbc.com/news/articles/c707l2jx0z4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Rubio tries to reassure Nato allies over US troop deployments",
+        "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 22 May 2026 08:12:44 GMT"
-      },
-      {
-        "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
-        "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 22 May 2026 10:56:32 GMT"
+        "time": "Fri, 22 May 2026 14:41:25 GMT"
       }
     ],
     "projects": [
