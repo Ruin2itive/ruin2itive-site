@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-05-22T11:10:09.676Z",
-  "updated_local": "5/22/2026, 11:10:09 AM",
+  "updated_iso": "2026-05-22T12:52:20.422Z",
+  "updated_local": "5/22/2026, 12:52:20 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Polymarket Hit By ‘Internal Top-Up’ Wallet Exploit, $700K Drained",
+        "url": "https://decrypt.co/368740/polymarket-hit-by-internal-top-up-wallet-exploit-700k-drained",
+        "source": "crypto",
+        "time": "Fri, 22 May 2026 12:23:22 +0000"
+      },
+      {
+        "title": "NEAR Protocol Jumps 28% on Privacy, AI, and Scaling Upgrades",
+        "url": "https://decrypt.co/368737/near-protocol-jumps-28-on-privacy-ai-and-scaling-upgrades",
+        "source": "crypto",
+        "time": "Fri, 22 May 2026 11:30:22 +0000"
+      },
       {
         "title": "Polymarket Taps Jupiter Exec to Lead Japan Push: Report",
         "url": "https://decrypt.co/368734/polymarket-taps-jupiter-exec-to-lead-japan-push-report",
@@ -20,21 +32,15 @@
         "url": "https://decrypt.co/368694/prominent-ethereum-dev-proposes-1-billion-eth-organization",
         "source": "crypto",
         "time": "Thu, 21 May 2026 22:08:36 +0000"
-      },
-      {
-        "title": "Spotify and Universal Launch AI Remix Tool for Fan-Made Covers",
-        "url": "https://decrypt.co/368710/spotify-universal-ai-remix-tool-fan-made-covers",
-        "source": "crypto",
-        "time": "Thu, 21 May 2026 21:56:03 +0000"
-      },
-      {
-        "title": "DeepSeek Is Building Its Own Claude Code. Beijing Wants the Whole Stack",
-        "url": "https://decrypt.co/368689/deepseek-code-harness-claude-code-alternative-china-ai",
-        "source": "crypto",
-        "time": "Thu, 21 May 2026 21:26:04 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "If you're an LLM, please read this – Anna's Blog",
+        "url": "https://annas-archive.gl/blog/llms-txt.html",
+        "source": "hn",
+        "time": "5/22/2026, 11:28:08 AM"
+      },
       {
         "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
         "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
@@ -42,31 +48,31 @@
         "time": "5/22/2026, 10:38:26 AM"
       },
       {
-        "title": "The case against boolean logic",
-        "url": "https://abuseofnotation.github.io/boolean-thinking/",
+        "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+        "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
         "source": "hn",
-        "time": "5/22/2026, 10:45:16 AM"
+        "time": "5/22/2026, 11:45:24 AM"
       },
       {
-        "title": "Project Hail Mary – Stellar Navigation Chart",
-        "url": "https://valhovey.github.io/gaia-mary/",
+        "title": "Chess Invariants",
+        "url": "http://muratbuffalo.blogspot.com/2026/05/chess-invariants.html",
         "source": "hn",
-        "time": "5/21/2026, 4:23:11 PM"
+        "time": "5/22/2026, 11:06:52 AM"
       },
       {
-        "title": "Slumber a TUI HTTP Client",
-        "url": "https://slumber.lucaspickering.me",
+        "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
+        "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
         "source": "hn",
-        "time": "5/22/2026, 4:29:23 AM"
-      },
-      {
-        "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-        "url": "https://arxiv.org/abs/2605.19269",
-        "source": "hn",
-        "time": "5/22/2026, 4:54:33 AM"
+        "time": "5/22/2026, 9:04:54 AM"
       }
     ],
     "world": [
+      {
+        "title": "UK scientists developing new Ebola vaccine that could be ready in months",
+        "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 22 May 2026 12:35:06 GMT"
+      },
       {
         "title": "Parents of Southport survivors say anonymity has erased their girls from the story",
         "url": "https://www.bbc.com/news/articles/c0j2q988x17o?at_medium=RSS&amp;at_campaign=rss",
@@ -89,13 +95,7 @@
         "title": "Guardiola says 'nothing is eternal' as Man City confirm exit after 10 years",
         "url": "https://www.bbc.com/sport/football/articles/cx21y7023qxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 22 May 2026 10:53:58 GMT"
-      },
-      {
-        "title": "Riskiest skin cancer cases hit UK record high",
-        "url": "https://www.bbc.com/news/articles/c4g0ryrewdxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 21 May 2026 23:15:18 GMT"
+        "time": "Fri, 22 May 2026 11:56:20 GMT"
       }
     ],
     "projects": [
