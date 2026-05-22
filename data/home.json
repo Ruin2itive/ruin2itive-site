@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-22T07:28:55.403Z",
-  "updated_local": "5/22/2026, 7:28:55 AM",
+  "updated_iso": "2026-05-22T09:09:13.388Z",
+  "updated_local": "5/22/2026, 9:09:13 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-        "url": "https://arxiv.org/abs/2605.19269",
-        "source": "hn",
-        "time": "5/22/2026, 4:54:33 AM"
-      },
-      {
         "title": "Project Hail Mary – Stellar Navigation Chart",
         "url": "https://valhovey.github.io/gaia-mary/",
         "source": "hn",
         "time": "5/21/2026, 4:23:11 PM"
+      },
+      {
+        "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+        "url": "https://arxiv.org/abs/2605.19269",
+        "source": "hn",
+        "time": "5/22/2026, 4:54:33 AM"
       },
       {
         "title": "Slumber a TUI HTTP Client",
@@ -60,10 +60,10 @@
         "time": "5/20/2026, 3:47:26 PM"
       },
       {
-        "title": "Cleve Moler has died",
-        "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+        "title": "We should get rid of average CPU utilization",
+        "url": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/",
         "source": "hn",
-        "time": "5/22/2026, 2:35:54 AM"
+        "time": "5/22/2026, 8:15:42 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Fri, 22 May 2026 05:00:03 GMT"
       },
       {
-        "title": "Andrew investigation police renew call for information",
+        "title": "Andrew investigation could look into sexual misconduct allegations",
         "url": "https://www.bbc.com/news/articles/c707l2jx0z4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 22 May 2026 05:01:03 GMT"
+        "time": "Fri, 22 May 2026 08:12:44 GMT"
+      },
+      {
+        "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
+        "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 22 May 2026 09:08:01 GMT"
       },
       {
         "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
         "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 22 May 2026 00:10:44 GMT"
+        "time": "Fri, 22 May 2026 08:13:13 GMT"
       },
       {
         "title": "Riskiest skin cancer cases hit UK record high",
         "url": "https://www.bbc.com/news/articles/c4g0ryrewdxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 21 May 2026 23:15:18 GMT"
-      },
-      {
-        "title": "Prepare for half-term queues at Dover due to EU border process, port says",
-        "url": "https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 21 May 2026 23:05:13 GMT"
       }
     ],
     "projects": [
