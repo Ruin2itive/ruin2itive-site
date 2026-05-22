@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-22T19:31:34.312Z"
+    "built_at": "2026-05-22T20:32:08.913Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "you_can::turn_off_the_borrow_checker",
+      "url": "https://docs.rs/you-can/latest/you_can/attr.turn_off_the_borrow_checker.html",
+      "date": "2026-05-22T20:31:04.000Z"
+    },
+    {
+      "title": "Private Credit Pricing: Are Prosecutors Opening Up Pandora's Box?",
+      "url": "https://www.morningstar.com/alternative-investments/private-credit-pricing-are-prosecutors-opening-up-pandoras-box",
+      "date": "2026-05-22T20:30:50.000Z"
+    }
+  ]
 }
