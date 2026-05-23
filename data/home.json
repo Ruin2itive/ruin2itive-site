@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-23T11:31:41.795Z",
-  "updated_local": "5/23/2026, 11:31:41 AM",
+  "updated_iso": "2026-05-23T12:23:05.805Z",
+  "updated_local": "5/23/2026, 12:23:05 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "80386 Microcode Disassembled",
+        "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+        "source": "hn",
+        "time": "5/23/2026, 12:11:43 PM"
+      },
+      {
         "title": "Shipping a laptop to a refugee camp in Uganda",
         "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
         "source": "hn",
@@ -48,30 +54,24 @@
         "time": "5/23/2026, 6:32:00 AM"
       },
       {
-        "title": "Why Japanese companies do so many different things",
-        "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+        "title": "US tech firms share Dutch regulator officials' names with Senate",
+        "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
         "source": "hn",
-        "time": "5/22/2026, 3:22:04 PM"
+        "time": "5/23/2026, 10:57:14 AM"
       },
       {
-        "title": "The quadratic sandwich",
-        "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
+        "title": "Making Deep Learning Go Brrrr from First Principles",
+        "url": "https://horace.io/brrr_intro.html",
         "source": "hn",
-        "time": "5/20/2026, 12:06:56 PM"
-      },
-      {
-        "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-        "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
-        "source": "hn",
-        "time": "5/23/2026, 8:24:57 AM"
+        "time": "5/23/2026, 11:50:22 AM"
       }
     ],
     "world": [
       {
-        "title": "France suspends extra EU border checks at Dover after hours-long queues",
-        "url": "https://www.bbc.com/news/articles/cp3p2ver9k6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Government spends 25 times more on benefits than jobs for young people, says Milburn",
+        "url": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 23 May 2026 11:04:22 GMT"
+        "time": "Sat, 23 May 2026 12:00:31 GMT"
       },
       {
         "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
@@ -92,10 +92,10 @@
         "time": "Sat, 23 May 2026 07:44:14 GMT"
       },
       {
-        "title": "Ebola experts and survivor from outbreak a decade ago warn lessons must be learnt",
-        "url": "https://www.bbc.com/news/articles/cj3p2rdx0l8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK officials suggested single market for goods with Europe",
+        "url": "https://www.bbc.com/news/articles/cr5plpm3g2ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 22 May 2026 23:07:41 GMT"
+        "time": "Sat, 23 May 2026 03:47:28 GMT"
       }
     ],
     "projects": [
