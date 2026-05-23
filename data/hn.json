@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-23T10:30:11.274Z"
+    "built_at": "2026-05-23T11:25:54.352Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "OpenCode is using CPU for doing nothing",
+      "url": "https://github.com/anomalyco/opencode/issues/19466",
+      "date": "2026-05-23T11:23:59.000Z"
+    },
+    {
+      "title": "Bruce Balfour's favorite science fiction novels about Mars colonization",
+      "url": "https://bookdna.com/best-books/science-fiction-about-mars-colonization",
+      "date": "2026-05-23T11:23:31.000Z"
+    }
+  ]
 }
