@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-23T08:40:37.235Z"
+    "built_at": "2026-05-23T09:33:34.078Z"
   },
-  "items": [
-    {
-      "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
-      "url": "https://ohwr.org/projects/white-rabbit/",
-      "date": "2026-05-23T08:38:44.000Z"
-    },
-    {
-      "title": "Show HN: Ifmhy – An Internationalization Version of Fmhy",
-      "url": "https://ifmhy.org/",
-      "date": "2026-05-23T08:38:29.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
