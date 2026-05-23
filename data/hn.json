@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-23T03:03:27.470Z"
+    "built_at": "2026-05-23T05:13:54.519Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The Fonts of the U.S. Federal Courts",
+      "url": "https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts",
+      "date": "2026-05-23T05:12:45.000Z"
+    },
+    {
+      "title": "Microsoft's new multi-model agentic security system tops leading benchmark",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/",
+      "date": "2026-05-23T05:06:23.000Z"
+    }
+  ]
 }
