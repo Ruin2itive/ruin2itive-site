@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-23T14:38:25.646Z",
-  "updated_local": "5/23/2026, 2:38:25 PM",
+  "updated_iso": "2026-05-23T15:26:17.229Z",
+  "updated_local": "5/23/2026, 3:26:17 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Argentina Launched an AI to Predict the Future. It Couldn&#39;t Predict a Typo",
+        "url": "https://decrypt.co/368860/argentina-ai-predict-future",
+        "source": "crypto",
+        "time": "Sat, 23 May 2026 15:01:04 +0000"
+      },
       {
         "title": "3 Wacky Hermes Skills You Should Try",
         "url": "https://decrypt.co/368188/3-wacky-hermes-skills-you-should-try",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/368807/microsoft-fara15-open-source-ai-beats-openai-gemini",
         "source": "crypto",
         "time": "Fri, 22 May 2026 20:31:03 +0000"
-      },
-      {
-        "title": "Kalshi Debuts &#39;Fair Markets&#39; Lobby Group as Congress Opens Insider Trading Probe",
-        "url": "https://decrypt.co/368803/kalshi-fair-markets-lobby-group-congress-opens-insider-trading-probe",
-        "source": "crypto",
-        "time": "Fri, 22 May 2026 20:01:52 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "5/23/2026, 1:03:43 PM"
       },
       {
-        "title": "I Miss Terry Pratchett",
-        "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
-        "source": "hn",
-        "time": "5/23/2026, 12:35:28 PM"
-      },
-      {
         "title": "80386 Microcode Disassembled",
         "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
         "source": "hn",
         "time": "5/23/2026, 12:11:43 PM"
+      },
+      {
+        "title": "Oura says it gets government demands for user data. Will it share how many?",
+        "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+        "source": "hn",
+        "time": "5/23/2026, 2:09:57 PM"
       },
       {
         "title": "Making Deep Learning Go Brrrr from First Principles",
@@ -60,13 +60,19 @@
         "time": "5/23/2026, 11:50:22 AM"
       },
       {
-        "title": "Solving the \"Zork\" Mystery",
-        "url": "https://www.dpolakovic.space/blogs/zork-part2",
+        "title": "I Miss Terry Pratchett",
+        "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
         "source": "hn",
-        "time": "5/19/2026, 7:56:58 PM"
+        "time": "5/23/2026, 12:35:28 PM"
       }
     ],
     "world": [
+      {
+        "title": "France suspends extra EU border checks at Dover after hours-long queues",
+        "url": "https://www.bbc.com/news/articles/cp3p2ver9k6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 23 May 2026 14:16:28 GMT"
+      },
       {
         "title": "'Shameful' more spent on benefits than jobs for young people, says Milburn",
         "url": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&amp;at_campaign=rss",
@@ -74,10 +80,10 @@
         "time": "Sat, 23 May 2026 12:00:31 GMT"
       },
       {
-        "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
-        "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hottest day of year so far as temperatures soar on bank holiday weekend",
+        "url": "https://www.bbc.com/weather/articles/crmp8dlyz3ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 23 May 2026 13:40:31 GMT"
+        "time": "Sat, 23 May 2026 14:46:07 GMT"
       },
       {
         "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
@@ -86,16 +92,10 @@
         "time": "Sat, 23 May 2026 14:24:48 GMT"
       },
       {
-        "title": "'Suddenly I could see myself': Why breast reductions are more popular now",
-        "url": "https://www.bbc.com/news/articles/c3d2k4xz42no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "At least 82 killed in Chinese coal mine explosion, state media reports",
+        "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 22 May 2026 23:06:41 GMT"
-      },
-      {
-        "title": "Hot weather to intensify in UK over bank holiday weekend",
-        "url": "https://www.bbc.com/weather/articles/crmp8dlyz3ko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 22 May 2026 23:04:54 GMT"
+        "time": "Sat, 23 May 2026 15:18:40 GMT"
       }
     ],
     "projects": [
