@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-24T16:28:52.105Z",
-  "updated_local": "5/24/2026, 4:28:52 PM",
+  "updated_iso": "2026-05-24T17:23:40.404Z",
+  "updated_local": "5/24/2026, 5:23:40 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "AI Startup Says It Will Pay People $2,000 a Month to Masturbate—Yes, Really",
+        "url": "https://decrypt.co/368866/ai-startup-pay-people-2000-month-masturbate",
+        "source": "crypto",
+        "time": "Sun, 24 May 2026 16:37:04 +0000"
+      },
       {
         "title": "Firefox&#39;s Big Redesign Gives You a Button to Kill All the AI",
         "url": "https://decrypt.co/368867/firefox-redesign-kill-ai-button-project-nova",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/368188/3-wacky-hermes-skills-you-should-try",
         "source": "crypto",
         "time": "Sat, 23 May 2026 13:01:04 +0000"
-      },
-      {
-        "title": "Kash Patel-Linked Apparel Store Goes Dark After Pushing Crypto-Stealing Malware",
-        "url": "https://decrypt.co/368856/kash-patel-apparel-store-goes-dark-crypto-malware",
-        "source": "crypto",
-        "time": "Fri, 22 May 2026 21:13:00 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-        "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-        "source": "hn",
-        "time": "5/24/2026, 1:02:06 PM"
-      },
       {
         "title": "Usborne 1980s Computer Books",
         "url": "https://usborne.com/us/books/computer-and-coding-books",
@@ -48,27 +42,33 @@
         "time": "5/24/2026, 3:43:00 PM"
       },
       {
+        "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+        "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+        "source": "hn",
+        "time": "5/24/2026, 4:31:29 PM"
+      },
+      {
+        "title": "Ruby for Good",
+        "url": "https://ti.to/codeforgood/rubyforgood",
+        "source": "hn",
+        "time": "5/24/2026, 3:49:19 PM"
+      },
+      {
+        "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+        "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+        "source": "hn",
+        "time": "5/24/2026, 1:02:06 PM"
+      },
+      {
         "title": "Mastering Dyalog APL",
         "url": "https://mastering.dyalog.com/README.html",
         "source": "hn",
         "time": "5/24/2026, 11:42:15 AM"
-      },
-      {
-        "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-        "url": "https://arxiv.org/abs/2605.06445",
-        "source": "hn",
-        "time": "5/24/2026, 12:55:53 PM"
-      },
-      {
-        "title": "Childhood Computing",
-        "url": "https://susam.net/childhood-computing.html",
-        "source": "hn",
-        "time": "5/24/2026, 12:07:34 PM"
       }
     ],
     "world": [
       {
-        "title": "Keir Starmer says rape of two girls by boys spared custody 'appalling'",
+        "title": "Starmer says case of girls raped by boys spared custody 'appalling'",
         "url": "https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 24 May 2026 14:51:08 GMT"
@@ -80,22 +80,22 @@
         "time": "Sun, 24 May 2026 12:03:30 GMT"
       },
       {
-        "title": "'Six eggs used to be £1' - why everyday essentials cost so much more now",
-        "url": "https://www.bbc.com/news/articles/cd6pw4zg5p9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Heatwave conditions met in eight parts of England as record-breaking temperatures forecast",
+        "url": "https://www.bbc.com/weather/articles/c86dy6468epo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 24 May 2026 01:02:55 GMT"
+        "time": "Sun, 24 May 2026 16:00:51 GMT"
+      },
+      {
+        "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+        "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 24 May 2026 16:50:46 GMT"
       },
       {
         "title": "It's like the Olympics, except steroids are allowed",
         "url": "https://www.bbc.com/news/articles/cedpz1zqp8po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 24 May 2026 04:46:07 GMT"
-      },
-      {
-        "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-        "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 24 May 2026 13:02:02 GMT"
       }
     ],
     "projects": [
