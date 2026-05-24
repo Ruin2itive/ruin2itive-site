@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-24T00:32:12.395Z"
+    "built_at": "2026-05-24T01:39:24.026Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "A simple AI agent in Java",
+      "url": "https://github.com/machineswillrise/jagent",
+      "date": "2026-05-24T01:35:48.000Z"
+    },
+    {
+      "title": "Scan any codebase in 3s, then verify what your AI builds",
+      "url": "https://github.com/anatomia-dev/anatomia",
+      "date": "2026-05-24T01:30:26.000Z"
+    }
+  ]
 }
