@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-24T19:28:57.626Z"
+    "built_at": "2026-05-24T20:19:30.074Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Voxxy – a minimal, fast voice-to-text app for macOS",
+      "url": "https://www.voxxy.io",
+      "date": "2026-05-24T20:17:08.000Z"
+    },
+    {
+      "title": "Anita Calculators: The Technology Explained",
+      "url": "http://www.anita-calculators.info/html/the_technology_explained.html",
+      "date": "2026-05-24T20:16:13.000Z"
+    }
+  ]
 }
