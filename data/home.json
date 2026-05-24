@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-24T15:31:10.823Z",
-  "updated_local": "5/24/2026, 3:31:10 PM",
+  "updated_iso": "2026-05-24T16:23:26.159Z",
+  "updated_local": "5/24/2026, 4:23:26 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Microsoft's 6502 BASIC is now Open Source (2025)",
-        "url": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
-        "source": "hn",
-        "time": "5/24/2026, 1:16:33 PM"
-      },
-      {
         "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
         "url": "https://esengine.github.io/DeepSeek-Reasonix/",
         "source": "hn",
         "time": "5/24/2026, 1:02:06 PM"
+      },
+      {
+        "title": "Usborne 1980s Computer Books",
+        "url": "https://usborne.com/us/books/computer-and-coding-books",
+        "source": "hn",
+        "time": "5/24/2026, 3:43:00 PM"
       },
       {
         "title": "Mastering Dyalog APL",
@@ -54,30 +54,30 @@
         "time": "5/24/2026, 11:42:15 AM"
       },
       {
-        "title": "Childhood Computing",
-        "url": "https://susam.net/childhood-computing.html",
-        "source": "hn",
-        "time": "5/24/2026, 12:07:34 PM"
-      },
-      {
         "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
         "url": "https://arxiv.org/abs/2605.06445",
         "source": "hn",
         "time": "5/24/2026, 12:55:53 PM"
+      },
+      {
+        "title": "Childhood Computing",
+        "url": "https://susam.net/childhood-computing.html",
+        "source": "hn",
+        "time": "5/24/2026, 12:07:34 PM"
       }
     ],
     "world": [
       {
-        "title": "Girl raped by boys spared jail tells BBC judge's decision was like 'rock in my face'",
-        "url": "https://www.bbc.com/news/articles/cjrp98285yvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Keir Starmer says rape of two girls by boys spared custody 'appalling'",
+        "url": "https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 24 May 2026 13:31:09 GMT"
+        "time": "Sun, 24 May 2026 14:51:08 GMT"
       },
       {
-        "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-        "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Why did I put myself through the pain of going to court, rape victim tells BBC",
+        "url": "https://www.bbc.com/news/videos/ce9pmyz7jrxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 24 May 2026 13:02:02 GMT"
+        "time": "Sun, 24 May 2026 12:03:30 GMT"
       },
       {
         "title": "'Six eggs used to be £1' - why everyday essentials cost so much more now",
@@ -92,10 +92,10 @@
         "time": "Sun, 24 May 2026 04:46:07 GMT"
       },
       {
-        "title": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
-        "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+        "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 23 May 2026 23:24:03 GMT"
+        "time": "Sun, 24 May 2026 13:02:02 GMT"
       }
     ],
     "projects": [
