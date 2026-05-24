@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-24T10:31:56.627Z"
+    "built_at": "2026-05-24T11:27:57.325Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Productivity Paradox",
+      "url": "https://en.wikipedia.org/wiki/Productivity_paradox",
+      "date": "2026-05-24T11:26:41.000Z"
+    },
+    {
+      "title": "Supercharge Claude Code, Cursor, Codex with Semantic Code Intelligence",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "date": "2026-05-24T11:25:10.000Z"
+    }
+  ]
 }
