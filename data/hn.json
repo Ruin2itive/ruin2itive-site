@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-24T22:18:14.339Z"
+    "built_at": "2026-05-24T23:20:54.865Z"
   },
-  "items": [
-    {
-      "title": "My Vaporwave inspired personal website",
-      "url": "https://www.zohaib.cc/",
-      "date": "2026-05-24T22:17:00.000Z"
-    },
-    {
-      "title": "San Francisco immigration court shuts down after purge of judges",
-      "url": "https://apnews.com/article/san-francisco-immigration-court-closed-asylum-8a0946a7cd4bcc9bd925d075cabef44a",
-      "date": "2026-05-24T22:12:48.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
