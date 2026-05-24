@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-24T03:04:19.865Z"
+    "built_at": "2026-05-24T05:18:30.591Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "AI Can Do Anything",
+      "url": "https://clawdcursor.com",
+      "date": "2026-05-24T05:17:23.000Z"
+    },
+    {
+      "title": "Does bulk memmove speed up std:remove_if? (No.)",
+      "url": "https://quuxplusone.github.io/blog/2026/05/23/chunked-remove/",
+      "date": "2026-05-24T05:17:13.000Z"
+    }
+  ]
 }
