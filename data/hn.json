@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-24T09:36:07.511Z"
+    "built_at": "2026-05-24T10:31:56.627Z"
   },
-  "items": [
-    {
-      "title": "Computer-Use-Linux",
-      "url": "https://news.ycombinator.com/item?id=48255883",
-      "date": "2026-05-24T09:34:06.000Z"
-    },
-    {
-      "title": "Built a email agent for founders which never sleeps",
-      "url": "https://news.ycombinator.com/item?id=48255879",
-      "date": "2026-05-24T09:33:33.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
