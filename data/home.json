@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-24T18:31:57.494Z",
-  "updated_local": "5/24/2026, 6:31:57 PM",
+  "updated_iso": "2026-05-24T19:31:05.681Z",
+  "updated_local": "5/24/2026, 7:31:05 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Strategy Now Holds $65 Billion in Bitcoin—These Are Its Biggest BTC Buys",
+        "url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
+        "source": "crypto",
+        "time": "Sun, 24 May 2026 18:53:09 +0000"
+      },
       {
         "title": "AI Startup Says It Will Pay People $2,000 a Month to Masturbate—Yes, Really",
         "url": "https://decrypt.co/368866/ai-startup-pay-people-2000-month-masturbate",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/368860/argentina-ai-predict-future",
         "source": "crypto",
         "time": "Sat, 23 May 2026 15:01:04 +0000"
-      },
-      {
-        "title": "3 Wacky Hermes Skills You Should Try",
-        "url": "https://decrypt.co/368188/3-wacky-hermes-skills-you-should-try",
-        "source": "crypto",
-        "time": "Sat, 23 May 2026 13:01:04 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-        "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-        "source": "hn",
-        "time": "5/24/2026, 4:31:29 PM"
-      },
       {
         "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
         "url": "https://esengine.github.io/DeepSeek-Reasonix/",
         "source": "hn",
         "time": "5/24/2026, 1:02:06 PM"
+      },
+      {
+        "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+        "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+        "source": "hn",
+        "time": "5/24/2026, 4:31:29 PM"
       },
       {
         "title": "Ruby for Good",
@@ -60,10 +60,10 @@
         "time": "5/24/2026, 12:55:53 PM"
       },
       {
-        "title": "Mastering Dyalog APL",
-        "url": "https://mastering.dyalog.com/README.html",
+        "title": "Claude Is Not Your Architect. Stop Letting It Pretend",
+        "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
         "source": "hn",
-        "time": "5/24/2026, 11:42:15 AM"
+        "time": "5/24/2026, 6:28:11 PM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Sun, 24 May 2026 12:03:30 GMT"
       },
       {
+        "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
+        "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 24 May 2026 19:19:17 GMT"
+      },
+      {
         "title": "Heatwave conditions met in eight parts of England as record-breaking temperatures forecast",
         "url": "https://www.bbc.com/weather/articles/c86dy6468epo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 24 May 2026 16:50:46 GMT"
-      },
-      {
-        "title": "It's like the Olympics, except steroids are allowed",
-        "url": "https://www.bbc.com/news/articles/cedpz1zqp8po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 24 May 2026 04:46:07 GMT"
       }
     ],
     "projects": [
