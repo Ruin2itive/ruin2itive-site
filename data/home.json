@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-24T17:23:40.404Z",
-  "updated_local": "5/24/2026, 5:23:40 PM",
+  "updated_iso": "2026-05-24T18:24:18.442Z",
+  "updated_local": "5/24/2026, 6:24:18 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Usborne 1980s Computer Books",
-        "url": "https://usborne.com/us/books/computer-and-coding-books",
-        "source": "hn",
-        "time": "5/24/2026, 3:43:00 PM"
-      },
-      {
         "title": "Memory has grown to nearly two-thirds of AI chip component costs",
         "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
         "source": "hn",
         "time": "5/24/2026, 4:31:29 PM"
+      },
+      {
+        "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+        "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+        "source": "hn",
+        "time": "5/24/2026, 1:02:06 PM"
       },
       {
         "title": "Ruby for Good",
@@ -54,10 +54,10 @@
         "time": "5/24/2026, 3:49:19 PM"
       },
       {
-        "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-        "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+        "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+        "url": "https://arxiv.org/abs/2605.06445",
         "source": "hn",
-        "time": "5/24/2026, 1:02:06 PM"
+        "time": "5/24/2026, 12:55:53 PM"
       },
       {
         "title": "Mastering Dyalog APL",
