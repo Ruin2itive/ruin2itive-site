@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-24T20:27:51.223Z",
-  "updated_local": "5/24/2026, 8:27:51 PM",
+  "updated_iso": "2026-05-24T21:20:32.625Z",
+  "updated_local": "5/24/2026, 9:20:32 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay",
+        "url": "https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay",
+        "source": "crypto",
+        "time": "Sun, 24 May 2026 21:01:04 +0000"
+      },
       {
         "title": "Strategy Now Holds $65 Billion in Bitcoin—These Are Its Biggest BTC Buys",
         "url": "https://decrypt.co/292448/microstrategy-biggest-bitcoin-buys",
@@ -26,32 +32,26 @@
         "url": "https://decrypt.co/368912/bitcoin-drops-75k-crypto-liquidations-near-1-billion",
         "source": "crypto",
         "time": "Sat, 23 May 2026 16:22:30 +0000"
-      },
-      {
-        "title": "Argentina Launched an AI to Predict the Future. It Couldn&#39;t Predict a Typo",
-        "url": "https://decrypt.co/368860/argentina-ai-predict-future",
-        "source": "crypto",
-        "time": "Sat, 23 May 2026 15:01:04 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Migrating from Go to Rust",
+        "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+        "source": "hn",
+        "time": "5/24/2026, 6:31:42 PM"
+      },
+      {
+        "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
+        "url": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
+        "source": "hn",
+        "time": "5/24/2026, 7:12:46 PM"
+      },
       {
         "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
         "url": "https://esengine.github.io/DeepSeek-Reasonix/",
         "source": "hn",
         "time": "5/24/2026, 1:02:06 PM"
-      },
-      {
-        "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-        "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-        "source": "hn",
-        "time": "5/24/2026, 4:31:29 PM"
-      },
-      {
-        "title": "Ruby for Good",
-        "url": "https://ti.to/codeforgood/rubyforgood",
-        "source": "hn",
-        "time": "5/24/2026, 3:49:19 PM"
       },
       {
         "title": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
@@ -60,10 +60,10 @@
         "time": "5/24/2026, 6:56:09 PM"
       },
       {
-        "title": "Claude Is Not Your Architect. Stop Letting It Pretend",
-        "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+        "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+        "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
         "source": "hn",
-        "time": "5/24/2026, 6:28:11 PM"
+        "time": "5/24/2026, 4:31:29 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Sun, 24 May 2026 20:26:26 GMT"
       },
       {
-        "title": "Heatwave conditions met in eight parts of England as record-breaking temperatures forecast",
+        "title": "Heatwave conditions met in parts of England as record-breaking temperatures forecast",
         "url": "https://www.bbc.com/weather/articles/c86dy6468epo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 24 May 2026 16:00:51 GMT"
       },
       {
-        "title": "Ebola outbreak poses massive challenges, warns senior charity official",
-        "url": "https://www.bbc.com/news/articles/cy421wgr2mpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+        "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 24 May 2026 17:46:14 GMT"
+        "time": "Sun, 24 May 2026 21:02:08 GMT"
       }
     ],
     "projects": [
