@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-24T18:20:12.784Z"
+    "built_at": "2026-05-24T19:28:57.626Z"
   },
-  "items": [
-    {
-      "title": "Show HN: I'm 17 and built a tool that scores all stocks against Buffett criteria",
-      "url": "https://invest-like.com",
-      "date": "2026-05-24T18:18:16.000Z"
-    },
-    {
-      "title": "Venture Capitalist John Doerr Says AI Is the Biggest Tech 'Tsunami'",
-      "url": "https://www.wsj.com/tech/ai/john-doerr-ai-opinion-1d64ee60",
-      "date": "2026-05-24T18:15:49.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
