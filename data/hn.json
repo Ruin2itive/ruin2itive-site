@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-23T23:18:25.148Z"
+    "built_at": "2026-05-24T00:32:12.395Z"
   },
-  "items": [
-    {
-      "title": "My I3-Emacs Integration",
-      "url": "https://khz.ac/software/i3-integration.html",
-      "date": "2026-05-23T23:13:42.000Z"
-    },
-    {
-      "title": "Experimental Drug Retatrutide Yields Dramatic Weight Loss",
-      "url": "https://www.nytimes.com/2026/05/21/science/retatrutide-weight-loss-drug.html",
-      "date": "2026-05-23T23:13:12.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
