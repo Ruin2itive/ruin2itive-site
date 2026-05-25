@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-25T11:30:56.557Z",
-  "updated_local": "5/25/2026, 11:30:56 AM",
+  "updated_iso": "2026-05-25T13:12:05.841Z",
+  "updated_local": "5/25/2026, 1:12:05 PM",
   "sections": {
     "crypto": [
       {
@@ -36,37 +36,43 @@
     ],
     "hacker": [
       {
+        "title": "Search engines alternatives now that Google isn't Google anymore",
+        "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+        "source": "hn",
+        "time": "5/25/2026, 12:27:11 PM"
+      },
+      {
         "title": "Magnifica Humanitas (Encyclical Letter)",
         "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
         "source": "hn",
         "time": "5/25/2026, 10:11:29 AM"
       },
       {
-        "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+        "title": "Leave Me Behind",
+        "url": "http://androidessence.com/leave-me-behind/",
         "source": "hn",
-        "time": "5/23/2026, 1:37:02 AM"
+        "time": "5/25/2026, 12:03:54 PM"
       },
       {
-        "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
-        "url": "https://www.tinyvolt.com/geomatic",
+        "title": "GPT Guesses Between 1 and 100",
+        "url": "https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100",
         "source": "hn",
-        "time": "5/25/2026, 8:25:00 AM"
+        "time": "5/25/2026, 11:46:09 AM"
       },
       {
-        "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-        "url": "https://audiomass.co/?multitrack=1",
+        "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+        "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
         "source": "hn",
-        "time": "5/24/2026, 3:25:43 PM"
-      },
-      {
-        "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-        "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-        "source": "hn",
-        "time": "5/24/2026, 1:02:06 PM"
+        "time": "5/25/2026, 9:43:03 AM"
       }
     ],
     "world": [
+      {
+        "title": "The questions raised by the Murrell embezzlement controversy",
+        "url": "https://www.bbc.com/news/articles/c74dd82w943o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 25 May 2026 11:08:57 GMT"
+      },
       {
         "title": "Deal with US not imminent, Iran says",
         "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&amp;at_campaign=rss",
@@ -77,7 +83,7 @@
         "title": "Oil prices slide on hopes of US-Iran peace deal",
         "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 25 May 2026 10:39:18 GMT"
+        "time": "Mon, 25 May 2026 13:05:56 GMT"
       },
       {
         "title": "Greek swimmer only athlete to beat world record at controversial Enhanced Games",
@@ -86,16 +92,10 @@
         "time": "Mon, 25 May 2026 07:49:56 GMT"
       },
       {
-        "title": "EasyJet flight diverts to Rome over power bank in luggage",
-        "url": "https://www.bbc.com/news/articles/cg7p3pdl8m7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "German YouTuber retains cheese roll champion title",
+        "url": "https://www.bbc.com/news/articles/c98rrde2d9no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 24 May 2026 19:10:32 GMT"
-      },
-      {
-        "title": "Starmer 'appalled' by case of boys spared jail after raping teenage girls",
-        "url": "https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 25 May 2026 10:14:43 GMT"
+        "time": "Mon, 25 May 2026 13:06:08 GMT"
       }
     ],
     "projects": [
