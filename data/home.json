@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-25T03:22:27.111Z",
-  "updated_local": "5/25/2026, 3:22:27 AM",
+  "updated_iso": "2026-05-25T05:34:56.916Z",
+  "updated_local": "5/25/2026, 5:34:56 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "The Eternal Sloptember",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+        "source": "hn",
+        "time": "5/25/2026, 3:47:24 AM"
+      },
+      {
         "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
         "url": "https://audiomass.co/?multitrack=1",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "5/24/2026, 1:02:06 PM"
       },
       {
-        "title": "A fundamental principle of aeronautical engineering has been overturned",
-        "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+        "title": "Migrating from Go to Rust",
+        "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
         "source": "hn",
-        "time": "5/24/2026, 7:10:26 PM"
+        "time": "5/24/2026, 6:31:42 PM"
       },
       {
-        "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
-        "url": "https://ohwr.org/projects/white-rabbit/",
+        "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
         "source": "hn",
-        "time": "5/23/2026, 8:38:44 AM"
-      },
-      {
-        "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-        "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-        "source": "hn",
-        "time": "5/24/2026, 4:31:29 PM"
+        "time": "5/23/2026, 1:37:02 AM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
         "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 25 May 2026 03:15:09 GMT"
+        "time": "Mon, 25 May 2026 04:16:33 GMT"
       },
       {
         "title": "UK braces for hottest May day on record as 30C heat continues",
