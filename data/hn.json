@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-24T23:20:54.865Z"
+    "built_at": "2026-05-25T00:33:13.081Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "What were your favorite classic iPod games?",
+      "url": "https://news.ycombinator.com/item?id=48262399",
+      "date": "2026-05-25T00:32:22.000Z"
+    },
+    {
+      "title": "'What Matters Most'–Google Is Changing Your Gmail Inbox",
+      "url": "https://www.forbes.com/sites/zakdoffman/2026/05/23/what-matters-most-google-is-changing-your-gmail-inbox/",
+      "date": "2026-05-25T00:23:52.000Z"
+    }
+  ]
 }
