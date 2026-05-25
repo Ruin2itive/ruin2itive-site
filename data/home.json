@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-25T05:34:56.916Z",
-  "updated_local": "5/25/2026, 5:34:56 AM",
+  "updated_iso": "2026-05-25T05:42:41.180Z",
+  "updated_local": "5/25/2026, 5:42:41 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "The Eternal Sloptember",
-        "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-        "source": "hn",
-        "time": "5/25/2026, 3:47:24 AM"
-      },
-      {
         "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
         "url": "https://audiomass.co/?multitrack=1",
         "source": "hn",
@@ -64,6 +58,12 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
         "source": "hn",
         "time": "5/23/2026, 1:37:02 AM"
+      },
+      {
+        "title": "Bug 1950764: Work Around Crash on Intel Raptor Lake CPU",
+        "url": "https://phabricator.services.mozilla.com/D301917",
+        "source": "hn",
+        "time": "5/22/2026, 10:43:04 PM"
       }
     ],
     "world": [
