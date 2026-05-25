@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-25T03:05:19.597Z"
+    "built_at": "2026-05-25T05:30:59.426Z"
   },
-  "items": [
-    {
-      "title": "MetalBench – Benchmark for Apple Silicon's Metal Shading Lang",
-      "url": "https://github.com/Lazarus-931/MetalBench",
-      "date": "2026-05-25T03:03:24.000Z"
-    },
-    {
-      "title": "Irb-autosuggestions: Fish-like autosuggestions for irb",
-      "url": "https://github.com/unurgunite/irb-autosuggestions",
-      "date": "2026-05-25T03:02:17.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
