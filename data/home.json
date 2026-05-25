@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-25T07:52:21.835Z",
-  "updated_local": "5/25/2026, 7:52:21 AM",
+  "updated_iso": "2026-05-25T09:23:27.058Z",
+  "updated_local": "5/25/2026, 9:23:27 AM",
   "sections": {
     "crypto": [
       {
@@ -36,13 +36,7 @@
     ],
     "hacker": [
       {
-        "title": "Jira Is Turing-Complete",
-        "url": "https://seriot.ch/computation/jira.html",
-        "source": "hn",
-        "time": "5/25/2026, 3:54:14 AM"
-      },
-      {
-        "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)",
+        "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
         "source": "hn",
         "time": "5/23/2026, 1:37:02 AM"
@@ -54,16 +48,22 @@
         "time": "5/24/2026, 3:25:43 PM"
       },
       {
-        "title": "I love my Bluetooth keyboard",
-        "url": "https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/",
-        "source": "hn",
-        "time": "5/22/2026, 7:04:25 PM"
-      },
-      {
         "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
         "url": "https://esengine.github.io/DeepSeek-Reasonix/",
         "source": "hn",
         "time": "5/24/2026, 1:02:06 PM"
+      },
+      {
+        "title": "Migrating from Go to Rust",
+        "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+        "source": "hn",
+        "time": "5/24/2026, 6:31:42 PM"
+      },
+      {
+        "title": "Jira Is Turing-Complete",
+        "url": "https://seriot.ch/computation/jira.html",
+        "source": "hn",
+        "time": "5/25/2026, 3:54:14 AM"
       }
     ],
     "world": [
@@ -71,13 +71,13 @@
         "title": "Rubio says 'solid' Iran deal may come on Monday",
         "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 25 May 2026 06:41:43 GMT"
+        "time": "Mon, 25 May 2026 08:28:12 GMT"
       },
       {
         "title": "Oil prices slide on hopes of US-Iran peace deal",
         "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 25 May 2026 07:16:37 GMT"
+        "time": "Mon, 25 May 2026 08:38:44 GMT"
       },
       {
         "title": "How Saudi Arabia's spending spree reached the end of the line",
