@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-25T09:33:53.733Z",
-  "updated_local": "5/25/2026, 9:33:53 AM",
+  "updated_iso": "2026-05-25T11:24:42.632Z",
+  "updated_local": "5/25/2026, 11:24:42 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Magnifica Humanitas (Encyclical Letter)",
+        "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+        "source": "hn",
+        "time": "5/25/2026, 10:11:29 AM"
+      },
+      {
         "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
         "source": "hn",
@@ -58,44 +64,38 @@
         "url": "https://esengine.github.io/DeepSeek-Reasonix/",
         "source": "hn",
         "time": "5/24/2026, 1:02:06 PM"
-      },
-      {
-        "title": "Migrating from Go to Rust",
-        "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-        "source": "hn",
-        "time": "5/24/2026, 6:31:42 PM"
       }
     ],
     "world": [
       {
-        "title": "Rubio says 'solid' Iran deal may come on Monday",
+        "title": "Deal with US not imminent, Iran says",
         "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 25 May 2026 08:28:12 GMT"
+        "time": "Mon, 25 May 2026 11:17:49 GMT"
       },
       {
         "title": "Oil prices slide on hopes of US-Iran peace deal",
         "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 25 May 2026 08:38:44 GMT"
+        "time": "Mon, 25 May 2026 10:39:18 GMT"
       },
       {
-        "title": "How Saudi Arabia's spending spree reached the end of the line",
-        "url": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Greek swimmer only athlete to beat world record at controversial Enhanced Games",
+        "url": "https://www.bbc.com/sport/articles/cx211xyd298o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 25 May 2026 01:08:39 GMT"
+        "time": "Mon, 25 May 2026 07:49:56 GMT"
       },
       {
-        "title": "RAF jet carrying defence secretary has signal jammed near Russian border",
-        "url": "https://www.bbc.com/news/articles/clyp0jrxv7ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "EasyJet flight diverts to Rome over power bank in luggage",
+        "url": "https://www.bbc.com/news/articles/cg7p3pdl8m7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 24 May 2026 21:30:13 GMT"
+        "time": "Sun, 24 May 2026 19:10:32 GMT"
       },
       {
-        "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
-        "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Sun, superstars and other takeaways from Radio 1's Big Weekend",
+        "url": "https://www.bbc.com/news/articles/cj6p0wx70rxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 24 May 2026 21:02:08 GMT"
+        "time": "Mon, 25 May 2026 09:55:09 GMT"
       }
     ],
     "projects": [
