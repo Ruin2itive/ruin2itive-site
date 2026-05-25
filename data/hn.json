@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-25T05:30:59.426Z"
+    "built_at": "2026-05-25T07:30:07.870Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Theseus: Translating Win32 to WASM",
+      "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
+      "date": "2026-05-25T07:26:20.000Z"
+    },
+    {
+      "title": "Scaling Akvorado BMP Rib with Sharding",
+      "url": "https://vincent.bernat.ch/en/blog/2026-akvorado-rib-sharding",
+      "date": "2026-05-25T07:22:15.000Z"
+    }
+  ]
 }
