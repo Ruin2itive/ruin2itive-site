@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-25T16:42:16.539Z"
+    "built_at": "2026-05-25T17:32:14.856Z"
   },
-  "items": [
-    {
-      "title": "Introducing USB4STREAM Protocol for Linux – Opening Up Some Nifty Uses for USB4",
-      "url": "https://www.phoronix.com/news/Intel-Linux-USB4STREAM",
-      "date": "2026-05-25T16:41:32.000Z"
-    },
-    {
-      "title": "RSS2BSKY",
-      "url": "https://codeberg.org/nesges/rss2bsky",
-      "date": "2026-05-25T16:39:51.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
