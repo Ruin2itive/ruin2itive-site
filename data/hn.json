@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-25T18:31:37.550Z"
+    "built_at": "2026-05-25T19:30:58.339Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Japanese security guard finds fame as designer of duct tape signs",
+      "url": "https://www.reuters.com/world/asia-pacific/japanese-security-guard-finds-fame-designer-duct-tape-signs-2026-05-25/",
+      "date": "2026-05-25T19:28:37.000Z"
+    },
+    {
+      "title": "Show HN: HypeCheck – I built a tool that fact-checks supplement marketing",
+      "url": "https://hypecheck.io/",
+      "date": "2026-05-25T19:24:37.000Z"
+    }
+  ]
 }
