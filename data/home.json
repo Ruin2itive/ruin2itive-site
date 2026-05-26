@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-05-26T20:47:23.486Z",
-  "updated_local": "5/26/2026, 8:47:23 PM",
+  "updated_iso": "2026-05-26T21:34:03.988Z",
+  "updated_local": "5/26/2026, 9:34:03 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Someone Just Destroyed $8.2 Million in Bitcoin—Why?",
+        "url": "https://decrypt.co/369099/someone-burned-8-million-bitcoin-destroyed-why",
+        "source": "crypto",
+        "time": "Tue, 26 May 2026 21:19:34 +0000"
+      },
+      {
+        "title": "This Half-Gigabyte AI Model Runs Local Agents on Your Phone",
+        "url": "https://decrypt.co/369068/openbmb-minicpm5-half-gigabyte-ai-model-local-agents-phone",
+        "source": "crypto",
+        "time": "Tue, 26 May 2026 20:59:20 +0000"
+      },
       {
         "title": "Ethereum Firm Sharplink, Solana Treasury Forward Industries Joining Russell 2000, 3000 Indexes",
         "url": "https://decrypt.co/369095/ethereum-sharplink-solana-forward-industries-russell-2000-3000",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/369043/spain-blocks-prediction-markets-kalshi-polymarket-potential-violations",
         "source": "crypto",
         "time": "Tue, 26 May 2026 19:14:11 +0000"
-      },
-      {
-        "title": "AI Chatbots Show Bias Toward Catholicism, Researchers Say",
-        "url": "https://decrypt.co/369045/ai-chatbots-claude-chatgpt-bias-catholicism-pope-leo",
-        "source": "crypto",
-        "time": "Tue, 26 May 2026 18:59:10 +0000"
-      },
-      {
-        "title": "TeraWulf Stock Pops as Bitcoin Miner Acquires Kentucky Site to Meet AI Power Demands",
-        "url": "https://decrypt.co/369053/terawulf-bitcoin-miner-kentucky-site-ai-power-demands",
-        "source": "crypto",
-        "time": "Tue, 26 May 2026 18:23:18 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "5/22/2026, 5:17:43 PM"
       },
       {
+        "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+        "url": "https://github.com/logannye/rosalind",
+        "source": "hn",
+        "time": "5/21/2026, 1:55:13 PM"
+      },
+      {
         "title": "The Ballad of TIGIT",
         "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
         "source": "hn",
         "time": "5/26/2026, 3:47:32 PM"
-      },
-      {
-        "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-        "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-        "source": "hn",
-        "time": "5/26/2026, 1:08:13 PM"
       }
     ],
     "world": [
@@ -71,7 +71,19 @@
         "title": "UK's hottest May day record broken for second day in a row",
         "url": "https://www.bbc.com/news/articles/clypp7ljvpvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 26 May 2026 18:38:03 GMT"
+        "time": "Tue, 26 May 2026 21:25:46 GMT"
+      },
+      {
+        "title": "Labour has 'no coherent plan' for country, says Blair",
+        "url": "https://www.bbc.com/news/articles/cx211r9nm3lo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 26 May 2026 21:00:44 GMT"
+      },
+      {
+        "title": "Nasa unveils next steps to build permanent Moon base",
+        "url": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 26 May 2026 20:25:50 GMT"
       },
       {
         "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
@@ -80,22 +92,10 @@
         "time": "Tue, 26 May 2026 15:15:29 GMT"
       },
       {
-        "title": "Sentences of boys spared custody over rape referred to Court of Appeal",
-        "url": "https://www.bbc.com/news/articles/c5y779yeq0eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'We knew somebody would die': Teenage patients 'ignored' before fatal NHS trust failures",
+        "url": "https://www.bbc.com/news/articles/c995yr1520ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 26 May 2026 13:03:36 GMT"
-      },
-      {
-        "title": "Almost 1,000 migrants cross Channel over bank holiday",
-        "url": "https://www.bbc.com/news/articles/cy422k3z83vo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 26 May 2026 16:39:41 GMT"
-      },
-      {
-        "title": "'Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal",
-        "url": "https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 26 May 2026 15:04:39 GMT"
+        "time": "Tue, 26 May 2026 21:18:44 GMT"
       }
     ],
     "projects": [
