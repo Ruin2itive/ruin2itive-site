@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-26T03:04:16.091Z"
+    "built_at": "2026-05-26T05:19:57.650Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The CRPG Renaissance, Part 1: Fallout",
+      "url": "https://www.filfre.net/2025/01/the-crpg-renaissance-part-1-fallout/",
+      "date": "2026-05-26T05:18:13.000Z"
+    },
+    {
+      "title": "Will MySpace ever lose its monopoly? (2007)",
+      "url": "https://www.theguardian.com/technology/2007/feb/08/business.comment",
+      "date": "2026-05-26T05:17:18.000Z"
+    }
+  ]
 }
