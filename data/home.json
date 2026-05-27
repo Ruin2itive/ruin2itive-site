@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-27T18:59:31.544Z",
-  "updated_local": "5/27/2026, 6:59:31 PM",
+  "updated_iso": "2026-05-27T19:42:37.336Z",
+  "updated_local": "5/27/2026, 7:42:37 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "DeepSeek, Xiaomi Just Made Frontier AI 99% Cheaper. American Labs Went the Other Way",
+        "url": "https://decrypt.co/369202/deepseek-xiaomi-frontier-ai-cheaper-american-labs-other-way",
+        "source": "crypto",
+        "time": "Wed, 27 May 2026 19:31:08 +0000"
+      },
       {
         "title": "Cash App Now Supports Stablecoins, Despite Bitcoin Maxi Jack Dorsey&#39;s &#39;Gatekeeper&#39; Gripes",
         "url": "https://decrypt.co/369199/cash-app-supports-stablecoins-bitcoin-maxi-jack-dorsey-gatekeeper-gripes",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/369187/sofi-launches-sofiusd-stablecoin-ethereum-solana",
         "source": "crypto",
         "time": "Wed, 27 May 2026 17:08:09 +0000"
-      },
-      {
-        "title": "Kraken Now Lets You Earn Yield on Bitcoin Holdings via Lending Vaults",
-        "url": "https://decrypt.co/369169/kraken-earn-yield-bitcoin-holdings-lending-vaults",
-        "source": "crypto",
-        "time": "Wed, 27 May 2026 15:42:59 +0000"
       }
     ],
     "hacker": [
@@ -48,6 +48,12 @@
         "time": "5/27/2026, 5:36:29 PM"
       },
       {
+        "title": "What Apple and Google are doing to your push notifications",
+        "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+        "source": "hn",
+        "time": "5/27/2026, 7:24:10 PM"
+      },
+      {
         "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
         "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
         "source": "hn",
@@ -58,20 +64,14 @@
         "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
         "source": "hn",
         "time": "5/27/2026, 3:36:09 PM"
-      },
-      {
-        "title": "Mini Micro Fantasy Computer",
-        "url": "https://miniscript.org/MiniMicro/index.html#about",
-        "source": "hn",
-        "time": "5/27/2026, 9:56:02 AM"
       }
     ],
     "world": [
       {
-        "title": "Burnham accuses Blair of ignoring inequality as he hits back at ex-PM",
+        "title": "Burnham and Streeting accuse Blair of ignoring inequality as they hit back at ex-PM",
         "url": "https://www.bbc.com/news/articles/ckgp4llnn12o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 27 May 2026 14:49:16 GMT"
+        "time": "Wed, 27 May 2026 19:27:47 GMT"
       },
       {
         "title": "Safety warning after nine water-related deaths during heatwave",
@@ -92,10 +92,10 @@
         "time": "Wed, 27 May 2026 15:37:47 GMT"
       },
       {
-        "title": "Almost 500,000 Russian soldiers killed in Ukraine war, GCHQ says",
-        "url": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'It's not a nice world to bring children into': Births fall to the lowest level in 50 years",
+        "url": "https://www.bbc.com/news/articles/cvgzdq23xpgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 27 May 2026 15:59:57 GMT"
+        "time": "Wed, 27 May 2026 16:45:27 GMT"
       }
     ],
     "projects": [
