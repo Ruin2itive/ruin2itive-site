@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-27T18:44:20.756Z"
+    "built_at": "2026-05-27T19:40:26.929Z"
   },
-  "items": [
-    {
-      "title": "Dependabot PRs can cost you $48,000 a year",
-      "url": "https://patchwave.ai/",
-      "date": "2026-05-27T18:42:46.000Z"
-    },
-    {
-      "title": "SpaceX IPO: How It Could Hit Your Pension",
-      "url": "https://freedomisntfree.co.uk/articles/spacex-ipo-uk",
-      "date": "2026-05-27T18:41:46.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
