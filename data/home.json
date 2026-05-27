@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-05-27T17:15:24.195Z",
-  "updated_local": "5/27/2026, 5:15:24 PM",
+  "updated_iso": "2026-05-27T18:49:21.999Z",
+  "updated_local": "5/27/2026, 6:49:21 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Foundation Pledges $250 Million to Help Cushion AI&#39;s Economic Disruption",
+        "url": "https://decrypt.co/369195/openai-foundation-pledges-250-million-ai-economic-disruption",
+        "source": "crypto",
+        "time": "Wed, 27 May 2026 17:43:14 +0000"
+      },
+      {
+        "title": "YouTube Makes AI Content Labels More Prominent as Google Pushes Video Remix Tools",
+        "url": "https://decrypt.co/369190/youtube-ai-content-labels-more-prominent-google-pushes-video-remix-tools",
+        "source": "crypto",
+        "time": "Wed, 27 May 2026 17:35:22 +0000"
+      },
       {
         "title": "SoFi Launches SoFiUSD Stablecoin Across Ethereum and Solana",
         "url": "https://decrypt.co/369187/sofi-launches-sofiusd-stablecoin-ethereum-solana",
@@ -20,38 +32,26 @@
         "url": "https://decrypt.co/369102/huawei-claw-anything-ai-agent-benchmark",
         "source": "crypto",
         "time": "Wed, 27 May 2026 15:22:51 +0000"
-      },
-      {
-        "title": "Mastercard Secures New York BitLicense in Push for Stablecoins, Tokenized Deposits",
-        "url": "https://decrypt.co/369158/mastercard-secures-new-york-bitlicense-stablecoins-tokenized-deposits",
-        "source": "crypto",
-        "time": "Wed, 27 May 2026 14:58:02 +0000"
-      },
-      {
-        "title": "Robinhood Opens Platform to AI Agents for Stock Trading and Credit Card Spending",
-        "url": "https://decrypt.co/369153/robinhood-opens-platform-ai-agents-stock-trading-credit-card-spending",
-        "source": "crypto",
-        "time": "Wed, 27 May 2026 13:43:18 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "I'm Tired of Talking to AI",
-        "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+        "title": "I think Anthropic and OpenAI have found product-market fit",
+        "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
         "source": "hn",
-        "time": "5/27/2026, 10:43:25 AM"
+        "time": "5/27/2026, 4:39:13 PM"
       },
       {
-        "title": "PostHog will train AI models with your data (opted-in by default)",
-        "url": "https://posthog.com/blog/training-ai-models",
+        "title": "SimCity 3k in 4k (2025)",
+        "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
         "source": "hn",
-        "time": "5/27/2026, 4:08:42 PM"
+        "time": "5/27/2026, 5:36:29 PM"
       },
       {
-        "title": "Tech CEOs are apparently suffering from AI psychosis",
-        "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+        "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+        "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
         "source": "hn",
-        "time": "5/27/2026, 3:20:47 PM"
+        "time": "5/27/2026, 4:28:41 PM"
       },
       {
         "title": "Last.fm is now independent",
@@ -60,10 +60,10 @@
         "time": "5/27/2026, 3:36:09 PM"
       },
       {
-        "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-        "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+        "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+        "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
         "source": "hn",
-        "time": "5/27/2026, 4:28:41 PM"
+        "time": "5/27/2026, 5:24:25 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Wed, 27 May 2026 14:49:16 GMT"
       },
       {
-        "title": "Family of mum, 30, shot dead outside Sheffield bar pay tribute to 'beautiful soul'",
-        "url": "https://www.bbc.com/news/articles/c0q2yle5e0yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 27 May 2026 15:37:47 GMT"
-      },
-      {
         "title": "Safety warning after nine water-related deaths during heatwave",
         "url": "https://www.bbc.com/news/articles/cp8plymvm47o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 27 May 2026 15:59:01 GMT"
       },
       {
+        "title": "Trump says US 'not satisfied' with Iran deal yet",
+        "url": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 27 May 2026 17:37:33 GMT"
+      },
+      {
+        "title": "Family of mum, 30, shot dead outside Sheffield bar pay tribute to 'beautiful soul'",
+        "url": "https://www.bbc.com/news/articles/c0q2yle5e0yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 27 May 2026 15:37:47 GMT"
+      },
+      {
         "title": "Almost 500,000 Russian soldiers killed in Ukraine war, GCHQ says",
         "url": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 27 May 2026 15:59:57 GMT"
-      },
-      {
-        "title": "Resident doctors in England to strike for 16th time over pay",
-        "url": "https://www.bbc.com/news/articles/c8xw2vvlxeko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 27 May 2026 15:16:45 GMT"
       }
     ],
     "projects": [
