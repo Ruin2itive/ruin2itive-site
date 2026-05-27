@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-27T22:31:37.798Z"
+    "built_at": "2026-05-27T23:27:29.922Z"
   },
-  "error": "fetch failed",
-  "items": []
+  "items": [
+    {
+      "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
+      "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
+      "date": "2026-05-27T23:23:29.000Z"
+    },
+    {
+      "title": "Google Engineer Charged with Insider Trading on Polymarket",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/google-engineer-charged-insider-trading-210904147.html",
+      "date": "2026-05-27T23:21:29.000Z"
+    }
+  ]
 }
