@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-27T19:40:26.929Z"
+    "built_at": "2026-05-27T21:33:57.084Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Apex: A Fast, Specialized Model for React Native",
+      "url": "https://www.callstack.com/blog/introducing-apex-a-fast-specialized-model-for-react-native",
+      "date": "2026-05-27T21:32:37.000Z"
+    },
+    {
+      "title": "Show HN: Fast CPU summarize, eli5, fact-check or translate any text",
+      "url": "https://github.com/kouhxp/fftext",
+      "date": "2026-05-27T21:29:00.000Z"
+    }
+  ]
 }
