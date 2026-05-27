@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-27T09:22:22.130Z",
-  "updated_local": "5/27/2026, 9:22:22 AM",
+  "updated_iso": "2026-05-27T11:14:55.463Z",
+  "updated_local": "5/27/2026, 11:14:55 AM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
+        "title": "I'm Tired of Talking to AI",
+        "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+        "source": "hn",
+        "time": "5/27/2026, 10:43:25 AM"
+      },
+      {
+        "title": "Mini Micro Fantasy Computer",
+        "url": "https://miniscript.org/MiniMicro/index.html#about",
+        "source": "hn",
+        "time": "5/27/2026, 9:56:02 AM"
+      },
+      {
         "title": "The Melancholy of Slaying Monsters",
         "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
         "source": "hn",
         "time": "5/26/2026, 7:25:13 PM"
       },
       {
-        "title": "Cloudflare Flagship",
-        "url": "https://developers.cloudflare.com/flagship/",
+        "title": "Raft Consensus with a Minority of Nodes",
+        "url": "https://padhye.org/raft-minority/",
         "source": "hn",
-        "time": "5/26/2026, 11:36:06 PM"
-      },
-      {
-        "title": "What Gets Kept",
-        "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
-        "source": "hn",
-        "time": "5/24/2026, 4:46:25 PM"
+        "time": "5/26/2026, 10:30:25 AM"
       },
       {
         "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
         "url": "https://badhost.org/",
         "source": "hn",
         "time": "5/26/2026, 9:07:18 AM"
-      },
-      {
-        "title": "That Methyl Methacrylate Tank",
-        "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-        "source": "hn",
-        "time": "5/26/2026, 7:25:16 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Wed, 27 May 2026 07:55:19 GMT"
       },
       {
-        "title": "Body found in search for boy, 12, missing in river as heatwave continues",
+        "title": "Six people die in water-related incidents during heatwave",
         "url": "https://www.bbc.com/news/articles/cx211k9rl5lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 27 May 2026 04:49:43 GMT"
+        "time": "Wed, 27 May 2026 10:34:36 GMT"
+      },
+      {
+        "title": "Sturgeon defends 'no comment' police interview after SNP funds probe arrest",
+        "url": "https://www.bbc.com/news/articles/cwy2kww2jzpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 27 May 2026 10:15:14 GMT"
       },
       {
         "title": "Nasa unveils next steps to build permanent Moon base",
         "url": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 26 May 2026 20:25:50 GMT"
-      },
-      {
-        "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
-        "url": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 26 May 2026 23:15:47 GMT"
       }
     ],
     "projects": [
