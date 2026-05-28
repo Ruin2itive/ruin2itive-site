@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-05-28T09:29:03.396Z",
-  "updated_local": "5/28/2026, 9:29:03 AM",
+  "updated_iso": "2026-05-28T11:15:01.411Z",
+  "updated_local": "5/28/2026, 11:15:01 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Slips Under $73K as Crypto Liquidations Near $1B",
+        "url": "https://decrypt.co/369255/bitcoin-slips-under-73k-as-crypto-liquidations-near-1b",
+        "source": "crypto",
+        "time": "Thu, 28 May 2026 10:39:44 +0000"
+      },
+      {
+        "title": "CFTC, Gemini File Joint Motion to Reverse $5M Settlement",
+        "url": "https://decrypt.co/369252/cftc-gemini-file-joint-motion-to-reverse-5m-settlement",
+        "source": "crypto",
+        "time": "Thu, 28 May 2026 09:47:27 +0000"
+      },
       {
         "title": "AI Chatbots Could Quietly Pull Users Away From Reality, Researchers Warn",
         "url": "https://decrypt.co/369243/ai-psychosis-chatbots-reality-mental-health-research",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/369218/ethereum-traders-increasingly-bearish-etfs-bleed-eth-sinks-near-2000",
         "source": "crypto",
         "time": "Wed, 27 May 2026 20:52:20 +0000"
-      },
-      {
-        "title": "ElevenLabs, Stability AI Drop New AI Music Models—Can They Catch Suno?",
-        "url": "https://decrypt.co/369237/elevenlabs-stability-ai-new-music-models-suno",
-        "source": "crypto",
-        "time": "Wed, 27 May 2026 20:33:13 +0000"
-      },
-      {
-        "title": "Marvel Comics Icon Stan Lee Has Been &#39;Revived&#39; With AI Tech—Again",
-        "url": "https://decrypt.co/369220/marvel-comics-icon-stan-lee-revived-ai-tech-again",
-        "source": "crypto",
-        "time": "Wed, 27 May 2026 20:23:37 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "5/27/2026, 11:31:13 PM"
       },
       {
-        "title": "Hallucinate – Massively Multiplayer Online Rave",
-        "url": "https://hallucinate.site",
-        "source": "hn",
-        "time": "5/28/2026, 3:50:01 AM"
-      },
-      {
         "title": "I think Anthropic and OpenAI have found product-market fit",
         "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
         "source": "hn",
         "time": "5/27/2026, 4:39:13 PM"
+      },
+      {
+        "title": "Hallucinate – Massively Multiplayer Online Rave",
+        "url": "https://hallucinate.site",
+        "source": "hn",
+        "time": "5/28/2026, 3:50:01 AM"
       }
     ],
     "world": [
@@ -71,10 +71,16 @@
         "title": "An unhealthy focus on sex - Married at First Sight UK insiders on show's 'toxic' culture",
         "url": "https://www.bbc.com/news/articles/cn7p1dg6j41o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 27 May 2026 23:08:25 GMT"
+        "time": "Thu, 28 May 2026 10:56:55 GMT"
       },
       {
-        "title": "Faisal Islam: The £5 coffee that tells a story of global economic turmoil",
+        "title": "Teenager is 10th person to die in water during heatwave",
+        "url": "https://www.bbc.com/news/articles/cn0p7j3lwepo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 28 May 2026 10:32:11 GMT"
+      },
+      {
+        "title": "The £5 coffee that tells a story of global economic turmoil",
         "url": "https://www.bbc.com/news/articles/cr5pp1m6z06o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 28 May 2026 06:44:47 GMT"
@@ -83,19 +89,13 @@
         "title": "Iran says it targeted American base after fresh US strikes",
         "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 28 May 2026 08:43:19 GMT"
+        "time": "Thu, 28 May 2026 09:58:49 GMT"
       },
       {
         "title": "Girl raped by teenage boys tells BBC: 'I'm scared I'm going to see them'",
         "url": "https://www.bbc.com/news/articles/cwy20d5440go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 27 May 2026 22:13:29 GMT"
-      },
-      {
-        "title": "Heavy Israeli strikes hit southern Lebanon after large-scale evacuation orders",
-        "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 28 May 2026 08:45:44 GMT"
       }
     ],
     "projects": [
