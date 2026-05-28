@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-28T18:54:34.046Z",
-  "updated_local": "5/28/2026, 6:54:34 PM",
+  "updated_iso": "2026-05-28T19:04:11.406Z",
+  "updated_local": "5/28/2026, 7:04:11 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,18 @@
         "time": "5/28/2026, 4:49:14 PM"
       },
       {
+        "title": "Just Use Postgres for Durable Workflows",
+        "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+        "source": "hn",
+        "time": "5/28/2026, 6:41:46 PM"
+      },
+      {
+        "title": "About LLMs at Zig Days",
+        "url": "https://kristoff.it/blog/llms-at-zig-days/",
+        "source": "hn",
+        "time": "5/28/2026, 6:20:34 PM"
+      },
+      {
         "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
         "url": "https://llmgame.scalex.dev",
         "source": "hn",
@@ -52,18 +64,6 @@
         "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
         "source": "hn",
         "time": "5/26/2026, 4:41:58 PM"
-      },
-      {
-        "title": "Just Use Postgres for Durable Workflows",
-        "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-        "source": "hn",
-        "time": "5/28/2026, 6:41:46 PM"
-      },
-      {
-        "title": "Show HN: Ktx – Open-source executable context layer for data agents",
-        "url": "https://github.com/Kaelio/ktx",
-        "source": "hn",
-        "time": "5/28/2026, 3:05:06 PM"
       }
     ],
     "world": [
