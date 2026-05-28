@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-05-28T15:19:55.476Z",
-  "updated_local": "5/28/2026, 3:19:55 PM",
+  "updated_iso": "2026-05-28T17:17:42.776Z",
+  "updated_local": "5/28/2026, 5:17:42 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Google Engineer Charged Over $2.75 Million in Alleged Polymarket Insider Trading Bets",
+        "url": "https://decrypt.co/369359/google-employee-charged-alleged-polymarket-insider-trading",
+        "source": "crypto",
+        "time": "Thu, 28 May 2026 16:27:22 +0000"
+      },
+      {
+        "title": "Standard Chartered Reaffirms $40K Ethereum Price Target Due to DeFi Dominance",
+        "url": "https://decrypt.co/369305/standard-chartered-reaffirms-40k-ethereum-price-target-defi-dominance",
+        "source": "crypto",
+        "time": "Thu, 28 May 2026 15:46:40 +0000"
+      },
+      {
+        "title": "Bitcoin Traders Increasingly Convinced Price Will Fall Below $70K by End of May",
+        "url": "https://decrypt.co/369328/bitcoin-traders-convinced-price-fall-below-70k-end-may",
+        "source": "crypto",
+        "time": "Thu, 28 May 2026 15:21:43 +0000"
+      },
       {
         "title": "This AI Compressed &#39;All Human Cooking&#39; Into 2 Megabytes",
         "url": "https://decrypt.co/369304/ai-compressed-all-human-cooking-2-megabytes",
@@ -14,44 +32,20 @@
         "url": "https://decrypt.co/369291/prediction-market-myriad-launches-100k-world-cup-competition",
         "source": "crypto",
         "time": "Thu, 28 May 2026 14:16:37 +0000"
-      },
-      {
-        "title": "Morning Minute: Crypto Majors Slide on Iran Escalations, ETF Outflows",
-        "url": "https://decrypt.co/369258/morning-minute-crypto-majors-slide-on-iran-escalations-etf-outflows",
-        "source": "crypto",
-        "time": "Thu, 28 May 2026 12:32:55 +0000"
-      },
-      {
-        "title": "Bitcoin Slips Under $73K as Crypto Liquidations Near $1B",
-        "url": "https://decrypt.co/369255/bitcoin-slips-under-73k-as-crypto-liquidations-near-1b",
-        "source": "crypto",
-        "time": "Thu, 28 May 2026 10:39:44 +0000"
-      },
-      {
-        "title": "CFTC, Gemini File Joint Motion to Reverse $5M Settlement",
-        "url": "https://decrypt.co/369252/cftc-gemini-file-joint-motion-to-reverse-5m-settlement",
-        "source": "crypto",
-        "time": "Thu, 28 May 2026 09:47:27 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
-        "url": "https://lenz.io/research/llm-disagreement",
+        "title": "Claude Opus 4.8",
+        "url": "https://www.anthropic.com/news/claude-opus-4-8",
         "source": "hn",
-        "time": "5/28/2026, 12:20:19 PM"
+        "time": "5/28/2026, 4:49:14 PM"
       },
       {
-        "title": "YouTube to automatically label AI-generated videos",
-        "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+        "title": "Dynamic Workflows in Claude Code",
+        "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
         "source": "hn",
-        "time": "5/27/2026, 8:00:51 PM"
-      },
-      {
-        "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-        "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-        "source": "hn",
-        "time": "5/28/2026, 2:13:00 PM"
+        "time": "5/28/2026, 4:52:21 PM"
       },
       {
         "title": "Indoor Wi-Fi Roaming with OpenWRT",
@@ -60,42 +54,48 @@
         "time": "5/26/2026, 4:41:58 PM"
       },
       {
-        "title": "EU fines Temu €200M for allowing sale of illegal products",
-        "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
+        "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+        "url": "https://llmgame.scalex.dev",
         "source": "hn",
-        "time": "5/28/2026, 2:18:18 PM"
+        "time": "5/28/2026, 1:02:00 PM"
+      },
+      {
+        "title": "YouTube to automatically label AI-generated videos",
+        "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+        "source": "hn",
+        "time": "5/27/2026, 8:00:51 PM"
       }
     ],
     "world": [
       {
-        "title": "Two more boys die in latest heatwave water deaths",
-        "url": "https://www.bbc.com/news/articles/cn0p7j3lwepo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Sturgeon says she was deceived and betrayed over Murrell embezzlement",
+        "url": "https://www.bbc.com/news/articles/cpdp3d8792no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 28 May 2026 15:02:05 GMT"
+        "time": "Thu, 28 May 2026 17:02:54 GMT"
       },
       {
-        "title": "Prostate cancer screening only for \"a few thousand\" high risk men",
-        "url": "https://www.bbc.com/news/articles/cn0pvxe5jgzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Opportunities shrinking for too many young people, says major report on 'lost generation'",
+        "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 28 May 2026 11:00:15 GMT"
+        "time": "Thu, 28 May 2026 15:09:57 GMT"
       },
       {
         "title": "'I've applied for more than 400 roles' - how young people are facing the job shortage",
         "url": "https://www.bbc.com/news/articles/czx2qll4rlyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 28 May 2026 14:13:00 GMT"
+        "time": "Thu, 28 May 2026 15:56:03 GMT"
       },
       {
-        "title": "Iran says it targeted American base after fresh US strikes",
-        "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Prostate cancer screening only for 'a few thousand' high risk men",
+        "url": "https://www.bbc.com/news/articles/cn0pvxe5jgzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 28 May 2026 11:52:10 GMT"
+        "time": "Thu, 28 May 2026 11:00:15 GMT"
       },
       {
-        "title": "Are US and Iran close to peace or sliding back to war?",
-        "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Two more boys die in latest heatwave water deaths",
+        "url": "https://www.bbc.com/news/articles/cn0p7j3lwepo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 28 May 2026 14:42:27 GMT"
+        "time": "Thu, 28 May 2026 17:04:30 GMT"
       }
     ],
     "projects": [
