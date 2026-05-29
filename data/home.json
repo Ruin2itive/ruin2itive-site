@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-05-29T13:22:57.042Z",
-  "updated_local": "5/29/2026, 1:22:57 PM",
+  "updated_iso": "2026-05-29T15:08:01.616Z",
+  "updated_local": "5/29/2026, 3:08:01 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "CFTC Approves Bitcoin Perpetual Futures on Prediction Market Kalshi",
+        "url": "https://decrypt.co/369465/cftc-approves-bitcoin-perpetual-futures-kalshi",
+        "source": "crypto",
+        "time": "Fri, 29 May 2026 15:00:50 +0000"
+      },
+      {
+        "title": "Sui Network Goes Down for Second Straight Day as Weekly Token Slide Hits 20%",
+        "url": "https://decrypt.co/369464/sui-network-goes-down-second-straight-day-weekly-token-slide",
+        "source": "crypto",
+        "time": "Fri, 29 May 2026 14:42:01 +0000"
+      },
       {
         "title": "Bitcoin ETFs Shed $2.8B in Record-Breaking Nine-Day Streak",
         "url": "https://decrypt.co/369449/bitcoin-etfs-shed-2-8b-in-record-breaking-nine-day-streak",
@@ -20,29 +32,23 @@
         "url": "https://decrypt.co/369443/ukrainian-police-officers-allegedly-kidnapped-crypto-entrepreneurs-to-extort-millions",
         "source": "crypto",
         "time": "Fri, 29 May 2026 11:59:40 +0000"
-      },
-      {
-        "title": "Paxos Secures SEC Registration as Clearing Agency",
-        "url": "https://decrypt.co/369440/paxos-secures-sec-registration-as-clearing-agency",
-        "source": "crypto",
-        "time": "Fri, 29 May 2026 10:34:30 +0000"
-      },
-      {
-        "title": "Anthropic Nears $1 Trillion Valuation, Topping OpenAI After Fresh $65 Billion Raise",
-        "url": "https://decrypt.co/369434/anthropic-nears-1-trillion-valuation-topping-openai-65-billion-raise",
-        "source": "crypto",
-        "time": "Thu, 28 May 2026 20:51:52 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "We should be more tired than the model",
-        "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+        "title": "I Am Retiring from Tech to Live Offline",
+        "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
         "source": "hn",
-        "time": "5/29/2026, 12:12:16 PM"
+        "time": "5/29/2026, 2:40:47 PM"
       },
       {
-        "title": "Tulip mania: when a single flower was worth more than a house",
+        "title": "Please Use AI",
+        "url": "https://shawnsmucker.substack.com/p/please-use-ai",
+        "source": "hn",
+        "time": "5/29/2026, 1:50:25 PM"
+      },
+      {
+        "title": "Tulip mania: when a single flower was worth more than a house (2025)",
         "url": "https://dutchreview.com/culture/tulip-mania-netherlands/",
         "source": "hn",
         "time": "5/29/2026, 11:51:34 AM"
@@ -54,12 +60,6 @@
         "time": "5/29/2026, 12:17:55 PM"
       },
       {
-        "title": "Claude Opus 4.8",
-        "url": "https://www.anthropic.com/news/claude-opus-4-8",
-        "source": "hn",
-        "time": "5/28/2026, 4:49:14 PM"
-      },
-      {
         "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
         "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
         "source": "hn",
@@ -68,10 +68,16 @@
     ],
     "world": [
       {
-        "title": "Man who allegedly sold chemical linked to 73 British deaths will not be tried in UK",
+        "title": "Canadian 'poison seller' pleads guilty to aiding suicides by selling toxic chemical online",
         "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 29 May 2026 12:08:10 GMT"
+        "time": "Fri, 29 May 2026 14:35:43 GMT"
+      },
+      {
+        "title": "Nato condemns Russian 'recklessness' after drone hits Romanian residential block",
+        "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 29 May 2026 12:56:30 GMT"
       },
       {
         "title": "Exploding rocket casts doubts over Nasa's Moon plans",
@@ -80,22 +86,16 @@
         "time": "Fri, 29 May 2026 10:38:46 GMT"
       },
       {
-        "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
-        "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Child among three dead in tower block fall",
+        "url": "https://www.bbc.com/news/articles/c1k21077k7lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 29 May 2026 09:17:35 GMT"
+        "time": "Fri, 29 May 2026 12:59:46 GMT"
       },
       {
-        "title": "Top UK chefs call for 10% VAT cut for pubs and restaurants",
+        "title": "Top UK chefs call for cutting VAT for pubs and restaurants to 10%",
         "url": "https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 29 May 2026 10:55:45 GMT"
-      },
-      {
-        "title": "No second retrial for men accused of airport brawl",
-        "url": "https://www.bbc.com/news/articles/cd0px74kznxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 29 May 2026 12:50:09 GMT"
       }
     ],
     "projects": [
