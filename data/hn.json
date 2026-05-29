@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-29T05:25:42.129Z"
+    "built_at": "2026-05-29T07:16:55.500Z"
   },
-  "items": [
-    {
-      "title": "SlimTide Reviews: Full Slim Tide Consumer Report Reveals Hidden Risks",
-      "url": "https://finance.yahoo.com/sectors/healthcare/articles/slimtide-capsules-exploding-2026-slim-193700826.html",
-      "date": "2026-05-29T05:13:23.000Z"
-    },
-    {
-      "title": "When AI Starts Writing Systems Code",
-      "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
-      "date": "2026-05-29T05:09:06.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
