@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-29T01:38:11.885Z"
+    "built_at": "2026-05-29T03:04:52.770Z"
   },
-  "items": [
-    {
-      "title": "UNESCO reviving marble unlay craft through market access and innovation",
-      "url": "https://www.unesco.org/en/articles/unesco-reviving-marble-inlay-craft-through-market-access-and-innovation",
-      "date": "2026-05-29T01:36:52.000Z"
-    },
-    {
-      "title": "Kalshi launches an \"S&P 500 for politics\"",
-      "url": "https://www.axios.com/2026/05/28/kalshi-politics-prediction-markets",
-      "date": "2026-05-29T01:34:28.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
