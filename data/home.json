@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-29T05:37:11.270Z",
-  "updated_local": "5/29/2026, 5:37:11 AM",
+  "updated_iso": "2026-05-29T07:23:42.634Z",
+  "updated_local": "5/29/2026, 7:23:42 AM",
   "sections": {
     "crypto": [
       {
@@ -36,18 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "Cars are trying to spy on you, and it's only just the beginning",
-        "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-        "source": "hn",
-        "time": "5/29/2026, 3:01:00 AM"
-      },
-      {
-        "title": "The most spectacular rocket explosion since N1 just happened in Florida",
-        "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
-        "source": "hn",
-        "time": "5/29/2026, 3:32:15 AM"
-      },
-      {
         "title": "Claude Opus 4.8",
         "url": "https://www.anthropic.com/news/claude-opus-4-8",
         "source": "hn",
@@ -60,10 +48,22 @@
         "time": "5/28/2026, 7:24:09 PM"
       },
       {
+        "title": "Blue Origin’s New Glenn rocket exploded during a static fire test",
+        "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+        "source": "hn",
+        "time": "5/29/2026, 3:32:15 AM"
+      },
+      {
         "title": "I made a million dollar product from my dorm room (2025)",
         "url": "https://nick.winans.io/blog/nice-nano/",
         "source": "hn",
         "time": "5/28/2026, 8:25:21 PM"
+      },
+      {
+        "title": "Zot now supports Claude Opus 4.8",
+        "url": "https://www.zot.sh",
+        "source": "hn",
+        "time": "5/29/2026, 5:48:21 AM"
       }
     ],
     "world": [
@@ -74,16 +74,16 @@
         "time": "Thu, 28 May 2026 23:32:19 GMT"
       },
       {
-        "title": "SAS troops accused of war crimes not referred to police over morale fears, inquiry hears",
-        "url": "https://www.bbc.com/news/articles/c5y708l015mo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 28 May 2026 23:40:01 GMT"
-      },
-      {
         "title": "Moment Blue Origin rocket explodes during test in Florida",
         "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 29 May 2026 03:02:48 GMT"
+      },
+      {
+        "title": "SAS troops accused of war crimes not referred to police over morale fears, inquiry hears",
+        "url": "https://www.bbc.com/news/articles/c5y708l015mo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 28 May 2026 23:40:01 GMT"
       },
       {
         "title": "Epstein survivors lack faith in UK police investigating Andrew, says lawyer",
@@ -92,10 +92,10 @@
         "time": "Thu, 28 May 2026 23:09:05 GMT"
       },
       {
-        "title": "AI facial recognition to check age of asylum seekers from next year",
-        "url": "https://www.bbc.com/news/articles/ce3pe36qe7ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Two charged after bystander fatally shot outside bar",
+        "url": "https://www.bbc.com/news/articles/cr5pjd43y80o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 28 May 2026 23:05:09 GMT"
+        "time": "Fri, 29 May 2026 07:20:53 GMT"
       }
     ],
     "projects": [
