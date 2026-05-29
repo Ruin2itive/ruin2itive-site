@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-29T17:07:16.510Z"
+    "built_at": "2026-05-29T18:49:51.548Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "A tiny microphone and site to track birds outside your window",
+      "url": "https://theodore.net/projects/AvianVisitors/",
+      "date": "2026-05-29T18:49:03.000Z"
+    },
+    {
+      "title": "APL's Surprising Learning Curve (2017) [video]",
+      "url": "https://www.youtube.com/watch?v=9xCJ3BCIudI",
+      "date": "2026-05-29T18:48:10.000Z"
+    }
+  ]
 }
