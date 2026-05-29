@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-29T09:06:58.039Z"
+    "built_at": "2026-05-29T11:04:09.755Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Germany's most wanted woman jailed after three decades evading police",
+      "url": "https://www.theguardian.com/world/2026/may/27/daniela-klette-red-army-faction-jailed-armed-robberies-on-the-run",
+      "date": "2026-05-29T11:03:19.000Z"
+    },
+    {
+      "title": "The Age of Ungovernable AI Bureaucracy",
+      "url": "https://attention.substack.com/p/the-age-of-ungovernable-ai-bureaucracy",
+      "date": "2026-05-29T11:03:03.000Z"
+    }
+  ]
 }
