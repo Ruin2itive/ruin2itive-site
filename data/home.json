@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-29T09:23:57.570Z",
-  "updated_local": "5/29/2026, 9:23:57 AM",
+  "updated_iso": "2026-05-29T11:07:57.497Z",
+  "updated_local": "5/29/2026, 11:07:57 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Paxos Secures SEC Registration as Clearing Agency",
+        "url": "https://decrypt.co/369440/paxos-secures-sec-registration-as-clearing-agency",
+        "source": "crypto",
+        "time": "Fri, 29 May 2026 10:34:30 +0000"
+      },
       {
         "title": "Anthropic Nears $1 Trillion Valuation, Topping OpenAI After Fresh $65 Billion Raise",
         "url": "https://decrypt.co/369434/anthropic-nears-1-trillion-valuation-topping-openai-65-billion-raise",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/369415/apple-ios-27-leaks-siri-redesign-chatgpt",
         "source": "crypto",
         "time": "Thu, 28 May 2026 19:50:44 +0000"
-      },
-      {
-        "title": "Kalshi Sues to Stop Minnesota From Enforcing America’s First Prediction Market Ban",
-        "url": "https://decrypt.co/369408/kalshi-sues-stop-minnesota-enforcing-prediction-market-ban",
-        "source": "crypto",
-        "time": "Thu, 28 May 2026 19:07:33 +0000"
       }
     ],
     "hacker": [
@@ -48,10 +48,10 @@
         "time": "5/28/2026, 7:24:09 PM"
       },
       {
-        "title": "Volkswagen blocks Home Assistant by requiring client assertion",
-        "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+        "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+        "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
         "source": "hn",
-        "time": "5/29/2026, 5:45:36 AM"
+        "time": "5/29/2026, 9:47:23 AM"
       },
       {
         "title": "I made a million dollar product from my dorm room (2025)",
