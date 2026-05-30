@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-30T09:44:47.572Z",
-  "updated_local": "5/30/2026, 9:44:47 AM",
+  "updated_iso": "2026-05-30T10:35:52.453Z",
+  "updated_local": "5/30/2026, 10:35:52 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Zig: Build System Reworked",
+        "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+        "source": "hn",
+        "time": "5/30/2026, 8:38:28 AM"
+      },
+      {
+        "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
+        "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
+        "source": "hn",
+        "time": "5/30/2026, 9:18:49 AM"
+      },
+      {
         "title": "SQLite is all you need for durable workflows",
         "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
         "source": "hn",
         "time": "5/29/2026, 5:54:50 PM"
-      },
-      {
-        "title": "Algebraic Effects for the Rest of Us",
-        "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
-        "source": "hn",
-        "time": "5/26/2026, 5:38:51 PM"
       },
       {
         "title": "Danish pension fund excludes SpaceX citing governance and valuation",
@@ -54,16 +60,10 @@
         "time": "5/30/2026, 8:00:20 AM"
       },
       {
-        "title": "Snowboard Kids 2 is 100% Decompiled",
-        "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+        "title": "Algebraic Effects for the Rest of Us",
+        "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
         "source": "hn",
-        "time": "5/26/2026, 7:12:59 PM"
-      },
-      {
-        "title": "Notes from the Mistral AI Now Summit",
-        "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-        "source": "hn",
-        "time": "5/29/2026, 4:22:01 PM"
+        "time": "5/26/2026, 5:38:51 PM"
       }
     ],
     "world": [
@@ -95,7 +95,7 @@
         "title": "Attorney general had 'no doubt' on reviewing teen boys' rape sentences",
         "url": "https://www.bbc.com/news/articles/c1m21k99vpdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 30 May 2026 05:00:40 GMT"
+        "time": "Sat, 30 May 2026 10:14:38 GMT"
       }
     ],
     "projects": [
