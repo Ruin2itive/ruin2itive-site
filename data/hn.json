@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-30T13:30:57.088Z"
+    "built_at": "2026-05-30T14:31:07.204Z"
   },
-  "items": [
-    {
-      "title": "Neuro-Bayesian architecture in economic modeling",
-      "url": "https://romankurnovskii.com/en/research/neuro-bayesian-architecture-in-economic-modeling/",
-      "date": "2026-05-30T13:23:32.000Z"
-    },
-    {
-      "title": "The software rebound is real, but not every big name is back",
-      "url": "https://finance.yahoo.com/news/the-software-rebound-is-real-but-not-every-big-name-is-back-chart-of-the-day-121425237.html",
-      "date": "2026-05-30T13:22:38.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
