@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-30T07:03:44.705Z",
-  "updated_local": "5/30/2026, 7:03:44 AM",
+  "updated_iso": "2026-05-30T07:13:32.916Z",
+  "updated_local": "5/30/2026, 7:13:32 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
-        "url": "https://www.perryts.com/",
-        "source": "hn",
-        "time": "5/30/2026, 3:14:25 AM"
-      },
-      {
         "title": "SQLite is all you need for durable workflows",
         "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
         "source": "hn",
         "time": "5/29/2026, 5:54:50 PM"
+      },
+      {
+        "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+        "url": "https://www.perryts.com/",
+        "source": "hn",
+        "time": "5/30/2026, 3:14:25 AM"
       },
       {
         "title": "Snowboard Kids 2 is 100% Decompiled",
@@ -54,10 +54,10 @@
         "time": "5/26/2026, 7:12:59 PM"
       },
       {
-        "title": "Notes from the Mistral AI Now Summit",
-        "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+        "title": "Algebraic Effects for the Rest of Us",
+        "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
         "source": "hn",
-        "time": "5/29/2026, 4:22:01 PM"
+        "time": "5/26/2026, 5:38:51 PM"
       },
       {
         "title": "Math-to-Manim",
