@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-30T13:37:14.145Z",
-  "updated_local": "5/30/2026, 1:37:14 PM",
+  "updated_iso": "2026-05-30T14:33:45.100Z",
+  "updated_local": "5/30/2026, 2:33:45 PM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
+        "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+        "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+        "source": "hn",
+        "time": "5/30/2026, 1:56:34 PM"
+      },
+      {
         "title": "Pandoc Templates",
         "url": "https://pandoc-templates.org/",
         "source": "hn",
         "time": "5/30/2026, 9:56:42 AM"
       },
       {
-        "title": "Zig: Build System Reworked",
-        "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+        "title": "Voxel Space",
+        "url": "https://s-macke.github.io/VoxelSpace/",
         "source": "hn",
-        "time": "5/30/2026, 8:38:28 AM"
-      },
-      {
-        "title": "Leo's first encyclical attacks technological messianism",
-        "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
-        "source": "hn",
-        "time": "5/30/2026, 10:30:50 AM"
-      },
-      {
-        "title": "Proposed new US funding rules: We can cancel any grant at any time",
-        "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-        "source": "hn",
-        "time": "5/30/2026, 11:41:29 AM"
+        "time": "5/30/2026, 2:25:50 PM"
       },
       {
         "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
         "url": "https://github.com/kristapsdz/openrsync",
         "source": "hn",
         "time": "5/30/2026, 10:51:48 AM"
+      },
+      {
+        "title": "Zig: Build System Reworked",
+        "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+        "source": "hn",
+        "time": "5/30/2026, 8:38:28 AM"
       }
     ],
     "world": [
@@ -74,16 +74,10 @@
         "time": "Sat, 30 May 2026 10:51:43 GMT"
       },
       {
-        "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
-        "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US, UK and Australia to develop underwater drone technology",
+        "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 30 May 2026 11:39:32 GMT"
-      },
-      {
-        "title": "Arrive three hours before flight home, airline boss tells UK holidaymakers",
-        "url": "https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 30 May 2026 08:56:05 GMT"
+        "time": "Sat, 30 May 2026 12:16:26 GMT"
       },
       {
         "title": "Liverpool sack head coach Arne Slot year after Premier League title win",
@@ -92,10 +86,16 @@
         "time": "Sat, 30 May 2026 11:30:16 GMT"
       },
       {
-        "title": "US, UK and Australia to develop underwater drone technology",
-        "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Arrive three hours before flight home, airline boss tells UK holidaymakers",
+        "url": "https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 30 May 2026 12:16:26 GMT"
+        "time": "Sat, 30 May 2026 08:56:05 GMT"
+      },
+      {
+        "title": "Millions of breast cancer patients could safely avoid chemotherapy, study suggests",
+        "url": "https://www.bbc.com/news/articles/c2325j0xk1vo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 30 May 2026 13:14:42 GMT"
       }
     ],
     "projects": [
