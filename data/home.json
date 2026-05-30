@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-30T22:27:44.418Z",
-  "updated_local": "5/30/2026, 10:27:44 PM",
+  "updated_iso": "2026-05-30T23:23:38.281Z",
+  "updated_local": "5/30/2026, 11:23:38 PM",
   "sections": {
     "crypto": [
       {
@@ -42,12 +42,6 @@
         "time": "5/30/2026, 8:40:57 PM"
       },
       {
-        "title": "OpenRouter raises $113M Series B",
-        "url": "https://openrouter.ai/announcements/series-b",
-        "source": "hn",
-        "time": "5/30/2026, 5:27:28 PM"
-      },
-      {
         "title": "I found a seashell in the middle of the desert",
         "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
         "source": "hn",
@@ -60,6 +54,12 @@
         "time": "5/30/2026, 4:28:58 PM"
       },
       {
+        "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+        "url": "https://github.com/wolfSSL/wolfCOSE",
+        "source": "hn",
+        "time": "5/30/2026, 8:42:28 PM"
+      },
+      {
         "title": "Zig ELF Linker Improvements Devlog",
         "url": "https://ziglang.org/devlog/2026/#2026-05-30",
         "source": "hn",
@@ -68,10 +68,16 @@
     ],
     "world": [
       {
-        "title": "US, UK and Australia to develop underwater drone technology",
-        "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'He wanted to take it' - Gabriel's first Arsenal penalty ends with heartbreak",
+        "url": "https://www.bbc.com/sport/football/articles/clypr1lzxvno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 30 May 2026 12:16:26 GMT"
+        "time": "Sat, 30 May 2026 22:23:31 GMT"
+      },
+      {
+        "title": "How Putin became master of the image",
+        "url": "https://www.bbc.com/news/articles/cddpl33v247o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 30 May 2026 23:17:26 GMT"
       },
       {
         "title": "'No-one feels safe now': Residents of Romanian city hit by drone share fears",
@@ -80,22 +86,16 @@
         "time": "Sat, 30 May 2026 17:34:30 GMT"
       },
       {
-        "title": "Palace was handed Andrew's controversial envoy emails six years ago",
-        "url": "https://www.bbc.com/news/articles/cy02j5pl98no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Killer fungus' could be good news for habitats decimated by invasive moss",
+        "url": "https://www.bbc.com/news/articles/c4g48jy4j1yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 30 May 2026 10:51:43 GMT"
+        "time": "Sat, 30 May 2026 23:03:12 GMT"
       },
       {
-        "title": "Arrive three hours before flight home, airline boss tells UK holidaymakers",
-        "url": "https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Oscar-winning Star Wars editor Marcia Lucas dies aged 80",
+        "url": "https://www.bbc.com/news/articles/cvgzy64j9l1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 30 May 2026 08:56:05 GMT"
-      },
-      {
-        "title": "Arne Slot's Liverpool sacking completes a remarkable fall from grace",
-        "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 30 May 2026 11:55:53 GMT"
+        "time": "Sat, 30 May 2026 18:03:40 GMT"
       }
     ],
     "projects": [
