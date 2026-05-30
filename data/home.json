@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-05-30T15:33:21.325Z",
-  "updated_local": "5/30/2026, 3:33:21 PM",
+  "updated_iso": "2026-05-30T16:24:40.283Z",
+  "updated_local": "5/30/2026, 4:24:40 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Florida Candidate Liquidates $800K in Bitcoin to Bankroll Congressional Bid",
+        "url": "https://decrypt.co/369478/florida-candidate-liquidates-800k-bitcoin-bankroll-congressional-bid",
+        "source": "crypto",
+        "time": "Sat, 30 May 2026 15:44:30 +0000"
+      },
       {
         "title": "What Is an AI Prompt Injection Attack? The Hidden Threat Hijacking Your Chatbots",
         "url": "https://decrypt.co/resources/what-is-ai-prompt-injection-attack",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/369520/celsius-founder-mashinsky-files-12-year-crypto-fraud-sentence-vacated",
         "source": "crypto",
         "time": "Fri, 29 May 2026 20:28:18 +0000"
-      },
-      {
-        "title": "Coinbase Becomes First US Exchange Allowed to Offer Global Crypto Perps Trading",
-        "url": "https://decrypt.co/369504/coinbase-first-us-exchange-allowed-offer-global-crypto-perps-trading",
-        "source": "crypto",
-        "time": "Fri, 29 May 2026 19:41:34 +0000"
       }
     ],
     "hacker": [
@@ -48,16 +48,16 @@
         "time": "5/30/2026, 2:25:50 PM"
       },
       {
-        "title": "Pandoc Templates",
-        "url": "https://pandoc-templates.org/",
-        "source": "hn",
-        "time": "5/30/2026, 9:56:42 AM"
-      },
-      {
         "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
         "url": "https://github.com/kristapsdz/openrsync",
         "source": "hn",
         "time": "5/30/2026, 10:51:48 AM"
+      },
+      {
+        "title": "Pandoc Templates",
+        "url": "https://pandoc-templates.org/",
+        "source": "hn",
+        "time": "5/30/2026, 9:56:42 AM"
       },
       {
         "title": "Navier-Stokes fluid simulation explained with Godot game engine",
@@ -68,22 +68,16 @@
     ],
     "world": [
       {
-        "title": "Palace was handed Andrew's controversial envoy emails six years ago",
-        "url": "https://www.bbc.com/news/articles/cy02j5pl98no?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 30 May 2026 10:51:43 GMT"
-      },
-      {
         "title": "US, UK and Australia to develop underwater drone technology",
         "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 30 May 2026 12:16:26 GMT"
       },
       {
-        "title": "Liverpool sack head coach Arne Slot year after Premier League title win",
-        "url": "https://www.bbc.com/sport/football/articles/cglp7kelrljo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Palace was handed Andrew's controversial envoy emails six years ago",
+        "url": "https://www.bbc.com/news/articles/cy02j5pl98no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 30 May 2026 11:30:16 GMT"
+        "time": "Sat, 30 May 2026 10:51:43 GMT"
       },
       {
         "title": "Arrive three hours before flight home, airline boss tells UK holidaymakers",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/c2325j0xk1vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 30 May 2026 13:14:42 GMT"
+      },
+      {
+        "title": "Arne Slot's Liverpool sacking completes a remarkable fall from grace",
+        "url": "https://www.bbc.com/sport/football/articles/c17xwngwr0vo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 30 May 2026 11:55:53 GMT"
       }
     ],
     "projects": [
