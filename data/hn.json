@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-30T19:29:41.686Z"
+    "built_at": "2026-05-30T20:21:13.007Z"
   },
-  "items": [
-    {
-      "title": "Most Americans Aren't Convinced Humans Are Causing Climate Change New Data Shows",
-      "url": "https://www.forbes.com/sites/maryroeloffs/2026/05/28/most-americans-arent-convinced-humans-are-causing-climate-change-new-data-shows/",
-      "date": "2026-05-30T19:28:21.000Z"
-    },
-    {
-      "title": "Show HN: React-Rewrite – A visual editor for React that writes code, no LLM",
-      "url": "https://github.com/donghaxkim/react-rewrite",
-      "date": "2026-05-30T19:24:33.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
