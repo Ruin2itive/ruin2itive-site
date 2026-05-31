@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-31T20:23:41.344Z"
+    "built_at": "2026-05-31T21:19:56.941Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: A \"gym\" for art value studies using images from your Pinterest boards",
+      "url": "https://valuestudiescoach.com",
+      "date": "2026-05-31T21:09:36.000Z"
+    },
+    {
+      "title": "1979: Will Word Processors Start a Home Working Revolution?",
+      "url": "https://www.youtube.com/watch?v=b6URa-PTqfA",
+      "date": "2026-05-31T21:09:14.000Z"
+    }
+  ]
 }
