@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-31T16:25:30.700Z"
+    "built_at": "2026-05-31T17:23:30.694Z"
   },
-  "items": [
-    {
-      "title": "A Post-Quantum Cryptographic Lock Built on High-Dimensional Manifolds",
-      "url": "https://github.com/UniversalCodexS/Quantum-Safe-Manifold",
-      "date": "2026-05-31T16:22:39.000Z"
-    },
-    {
-      "title": "Show HN: Agents, run any coding agent on your subscription not API costs",
-      "url": "https://agents-cli.sh",
-      "date": "2026-05-31T16:21:23.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
