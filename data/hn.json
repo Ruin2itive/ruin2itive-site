@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-31T12:26:25.634Z"
+    "built_at": "2026-05-31T13:31:58.581Z"
   },
-  "items": [
-    {
-      "title": "A zot extension that makes answering your coding agent's questions painless",
-      "url": "https://github.com/patriceckhart/zot-answer",
-      "date": "2026-05-31T12:24:59.000Z"
-    },
-    {
-      "title": "Hey Database Go Ffffine tune yourself",
-      "url": "https://maxdemarzi.com/2026/05/29/hey-database-go-fine-tune-yourself/",
-      "date": "2026-05-31T12:24:45.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
