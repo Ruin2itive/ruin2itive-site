@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-31T14:40:08.092Z",
-  "updated_local": "5/31/2026, 2:40:08 PM",
+  "updated_iso": "2026-05-31T15:29:55.125Z",
+  "updated_local": "5/31/2026, 3:29:55 PM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+        "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+        "source": "hn",
+        "time": "5/31/2026, 2:13:20 PM"
+      },
+      {
         "title": "Dav2d",
         "url": "https://jbkempf.com/blog/2026/dav2d/",
         "source": "hn",
         "time": "5/31/2026, 11:44:45 AM"
+      },
+      {
+        "title": "The solution might be cancelling my AI subscription",
+        "url": "https://thoughts.hmmz.org/2026-05-31.html",
+        "source": "hn",
+        "time": "5/31/2026, 2:23:30 PM"
       },
       {
         "title": "The Website Specification",
@@ -52,18 +64,6 @@
         "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
         "source": "hn",
         "time": "5/31/2026, 7:16:18 AM"
-      },
-      {
-        "title": "I Put a Datacenter GPU in My Gaming PC for £200",
-        "url": "https://blog.tymscar.com/posts/v100localllm/",
-        "source": "hn",
-        "time": "5/31/2026, 1:53:16 PM"
-      },
-      {
-        "title": "Domain expertise has always been the real moat",
-        "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-        "source": "hn",
-        "time": "5/30/2026, 8:40:57 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Sat, 30 May 2026 23:17:26 GMT"
       },
       {
-        "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-        "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "KSI quits Sidemen collective after 13 years",
+        "url": "https://www.bbc.com/news/articles/c392m234wlko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 31 May 2026 12:18:24 GMT"
+        "time": "Sun, 31 May 2026 15:28:15 GMT"
       }
     ],
     "projects": [
