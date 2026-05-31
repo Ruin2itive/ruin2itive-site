@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-31T22:22:44.523Z",
-  "updated_local": "5/31/2026, 10:22:44 PM",
+  "updated_iso": "2026-05-31T22:28:27.318Z",
+  "updated_local": "5/31/2026, 10:28:27 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-        "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-        "source": "hn",
-        "time": "5/31/2026, 2:13:20 PM"
-      },
-      {
         "title": "ChatGPT for Google Sheets Exfiltrates Workbooks",
         "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
         "source": "hn",
         "time": "5/31/2026, 8:35:38 PM"
+      },
+      {
+        "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+        "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+        "source": "hn",
+        "time": "5/31/2026, 2:13:20 PM"
       },
       {
         "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
