@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-31T09:01:14.190Z"
+    "built_at": "2026-05-31T10:37:34.775Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The Hallmarks of Aging (2013)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3836174/",
+      "date": "2026-05-31T10:36:03.000Z"
+    },
+    {
+      "title": "Show HN: Overslash – an auth gateway for AI Agents",
+      "url": "https://www.overslash.com/",
+      "date": "2026-05-31T10:34:23.000Z"
+    }
+  ]
 }
