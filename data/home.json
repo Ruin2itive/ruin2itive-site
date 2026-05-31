@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-31T05:40:26.382Z",
-  "updated_local": "5/31/2026, 5:40:26 AM",
+  "updated_iso": "2026-05-31T07:21:21.694Z",
+  "updated_local": "5/31/2026, 7:21:21 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "The Website Specification",
+        "url": "https://specification.website/",
+        "source": "hn",
+        "time": "5/31/2026, 7:09:50 AM"
+      },
+      {
         "title": "Domain expertise has always been the real moat",
         "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "5/29/2026, 3:22:19 AM"
       },
       {
-        "title": "Shantell Sans (2023)",
-        "url": "https://shantellsans.com/process",
+        "title": "Avian Visitors",
+        "url": "https://theodore.net/projects/AvianVisitors/",
         "source": "hn",
-        "time": "5/30/2026, 10:06:38 PM"
+        "time": "5/31/2026, 6:13:59 AM"
       },
       {
-        "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
-        "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+        "title": "Ahoy, DECmate II the little PDP-8 that could",
+        "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
         "source": "hn",
-        "time": "5/30/2026, 11:26:13 PM"
-      },
-      {
-        "title": "Racket v9.2 is now available",
-        "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
-        "source": "hn",
-        "time": "5/28/2026, 9:42:40 AM"
+        "time": "5/31/2026, 4:42:14 AM"
       }
     ],
     "world": [
@@ -71,13 +71,19 @@
         "title": "Sturgeon tells BBC: I'm serving a sentence for crime I didn't commit",
         "url": "https://www.bbc.com/news/articles/c2027k1ev3zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 31 May 2026 05:00:40 GMT"
+        "time": "Sun, 31 May 2026 06:22:03 GMT"
+      },
+      {
+        "title": "Watch: Sturgeon says 'I will not apologise for crimes of my former husband'",
+        "url": "https://www.bbc.com/news/videos/c70vl59vd9vo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 31 May 2026 05:39:54 GMT"
       },
       {
         "title": "Hundreds arrested in France after wild Champions League celebrations",
         "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 31 May 2026 02:04:18 GMT"
+        "time": "Sun, 31 May 2026 06:41:02 GMT"
       },
       {
         "title": "How Putin became master of the image",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c4g48jy4j1yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 30 May 2026 23:03:12 GMT"
-      },
-      {
-        "title": "Oscar-winning Star Wars editor Marcia Lucas dies aged 80",
-        "url": "https://www.bbc.com/news/articles/cvgzy64j9l1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 30 May 2026 18:03:40 GMT"
       }
     ],
     "projects": [
