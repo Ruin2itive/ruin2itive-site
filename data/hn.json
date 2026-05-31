@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-05-31T18:22:52.236Z"
+    "built_at": "2026-05-31T20:23:41.344Z"
   },
-  "items": [
-    {
-      "title": "Going to Dinner",
-      "url": "https://medium.com/@royrapoport/going-to-dinner-78c76a635719",
-      "date": "2026-05-31T18:21:09.000Z"
-    },
-    {
-      "title": "How to Tell If You're Being Manipulated – 6 Tactics Used on You Every Day",
-      "url": "https://stvrrll1ght.substack.com/p/how-to-tell-if-youre-being-manipulated",
-      "date": "2026-05-31T18:20:10.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
