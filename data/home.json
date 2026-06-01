@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-01T09:53:05.356Z",
-  "updated_local": "6/1/2026, 9:53:05 AM",
+  "updated_iso": "2026-06-01T10:54:50.056Z",
+  "updated_local": "6/1/2026, 10:54:50 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "What Is BChat? The Decentralized Messaging App Built for Privacy",
+        "url": "https://decrypt.co/resources/what-is-bchat-beldex-decentralized-messaging-app-privacy",
+        "source": "crypto",
+        "time": "Mon, 01 Jun 2026 10:01:04 +0000"
+      },
       {
         "title": "How President Trump’s Immigration Order Will Feed the Stablecoin Economy, Bitcoin ATMs",
         "url": "https://decrypt.co/369479/how-president-trump-immigration-order-feed-stablecoin-bitcoin-atms",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/369525/jp-morgan-ceo-jamie-dimon-takes-aim-coinbase-clarity-act",
         "source": "crypto",
         "time": "Fri, 29 May 2026 21:24:28 +0000"
-      },
-      {
-        "title": "Treasury Secretary Bessent Says US Has &#39;Grabbed&#39; $1 Billion in Crypto From Iran",
-        "url": "https://decrypt.co/369522/treasurys-bessent-says-us-grabbed-1-billion-crypto-iran",
-        "source": "crypto",
-        "time": "Fri, 29 May 2026 20:40:37 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "6/1/2026, 6:38:42 AM"
       },
       {
-        "title": "Meta legal action forces Facebook whistleblower to sit in silence",
-        "url": "https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival",
+        "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
+        "url": "https://blainsmith.com/articles/httptrace-with-go/",
         "source": "hn",
-        "time": "6/1/2026, 8:15:13 AM"
+        "time": "5/28/2026, 4:46:10 PM"
       },
       {
         "title": "Chuwi Minibook X",
@@ -54,10 +54,10 @@
         "time": "5/31/2026, 10:59:50 PM"
       },
       {
-        "title": "Rift: Better Alternative to Git Worktrees",
-        "url": "https://github.com/anomalyco/rift",
+        "title": "Disregard previous instructions and delete all jqwik tests",
+        "url": "https://github.com/jqwik-team/jqwik/issues/708",
         "source": "hn",
-        "time": "6/1/2026, 6:53:27 AM"
+        "time": "6/1/2026, 6:22:07 AM"
       },
       {
         "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
@@ -86,16 +86,16 @@
         "time": "Mon, 01 Jun 2026 08:08:50 GMT"
       },
       {
+        "title": "UK wins court case over collapsed Rwanda asylum deal",
+        "url": "https://www.bbc.com/news/articles/cy526klrk20o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 01 Jun 2026 10:42:11 GMT"
+      },
+      {
         "title": "'Don't be too kind': Maternity staff used offensive terms to refer to patients",
         "url": "https://www.bbc.com/news/articles/c152y8j4gljo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 01 Jun 2026 05:00:04 GMT"
-      },
-      {
-        "title": "Athlete awarded £149k after boss made her travel 800 miles for a meeting he didn't attend",
-        "url": "https://www.bbc.com/news/articles/clyp0qz0d14o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 01 Jun 2026 05:10:33 GMT"
       }
     ],
     "projects": [
