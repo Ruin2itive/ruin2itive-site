@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-06-01T12:59:10.916Z",
-  "updated_local": "6/1/2026, 12:59:10 PM",
+  "updated_iso": "2026-06-01T15:05:45.784Z",
+  "updated_local": "6/1/2026, 3:05:45 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Binance Opens Access to 7,000 US Stocks, Prepares Tokenized &#39;bStocks&#39; Rollout",
+        "url": "https://decrypt.co/369603/binance-opens-access-to-7000-us-stocks-prepares-tokenized-bstocks-rollout",
+        "source": "crypto",
+        "time": "Mon, 01 Jun 2026 14:33:49 +0000"
+      },
+      {
+        "title": "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
+        "url": "https://decrypt.co/369600/bitcoin-2-month-low-strategy-sells-btc-etfs-flip-negative-year",
+        "source": "crypto",
+        "time": "Mon, 01 Jun 2026 14:24:28 +0000"
+      },
+      {
+        "title": "Morning Minute: HYPE Soars as CFTC Gives Perps Green Light",
+        "url": "https://decrypt.co/369586/morning-minute-hype-soars-cftc-gives-perps-green-light",
+        "source": "crypto",
+        "time": "Mon, 01 Jun 2026 14:02:20 +0000"
+      },
       {
         "title": "Michael Saylor&#39;s Bitcoin Treasury Firm Strategy Sells 32 BTC for $2.5M",
         "url": "https://decrypt.co/369587/michael-saylors-bitcoin-treasury-firm-strategy-sells-32-btc-for-2-5m",
@@ -14,70 +32,58 @@
         "url": "https://decrypt.co/369583/bitcoin-etf-losses-near-3b-across-10-days-as-ytd-flows-turn-negative",
         "source": "crypto",
         "time": "Mon, 01 Jun 2026 11:46:35 +0000"
-      },
-      {
-        "title": "Coinbase Launches Direct Indian Rupee Deposit and Withdrawal Rails",
-        "url": "https://decrypt.co/369580/coinbase-launches-direct-indian-rupee-deposit-and-withdrawal-rails",
-        "source": "crypto",
-        "time": "Mon, 01 Jun 2026 11:11:26 +0000"
-      },
-      {
-        "title": "What Is BChat? The Decentralized Messaging App Built for Privacy",
-        "url": "https://decrypt.co/resources/what-is-bchat-beldex-decentralized-messaging-app-privacy",
-        "source": "crypto",
-        "time": "Mon, 01 Jun 2026 10:01:04 +0000"
-      },
-      {
-        "title": "How President Trump’s Immigration Order Will Feed the Stablecoin Economy, Bitcoin ATMs",
-        "url": "https://decrypt.co/369479/how-president-trump-immigration-order-feed-stablecoin-bitcoin-atms",
-        "source": "crypto",
-        "time": "Sun, 31 May 2026 15:49:18 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "When AI Crosses the Line: The Matplotlib Incident",
-        "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
+        "title": "NPM packages from Red Hat have been compromised",
+        "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
         "source": "hn",
-        "time": "6/1/2026, 12:08:23 PM"
+        "time": "6/1/2026, 1:30:21 PM"
+      },
+      {
+        "title": "Windows GOG DOS Games on M-Series Macs",
+        "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
+        "source": "hn",
+        "time": "6/1/2026, 1:28:53 PM"
+      },
+      {
+        "title": "Flipper Zero Zig Template",
+        "url": "https://github.com/NishantJoshi00/flipper-template",
+        "source": "hn",
+        "time": "6/1/2026, 1:20:54 PM"
+      },
+      {
+        "title": "CS336: Language Modeling from Scratch",
+        "url": "https://cs336.stanford.edu/",
+        "source": "hn",
+        "time": "6/1/2026, 2:10:32 PM"
       },
       {
         "title": "A 10 year old Xeon is all you need",
         "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
         "source": "hn",
         "time": "6/1/2026, 6:38:42 AM"
-      },
-      {
-        "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
-        "url": "https://blainsmith.com/articles/httptrace-with-go/",
-        "source": "hn",
-        "time": "5/28/2026, 4:46:10 PM"
-      },
-      {
-        "title": "Movwin: My (Unpublished) TUI Framework",
-        "url": "https://movq.de/blog/postings/2026-05-29/0/POSTING-en.html",
-        "source": "hn",
-        "time": "5/30/2026, 1:07:42 AM"
-      },
-      {
-        "title": "Chuwi Minibook X",
-        "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-        "source": "hn",
-        "time": "5/31/2026, 10:59:50 PM"
       }
     ],
     "world": [
       {
-        "title": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
-        "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Key messages between Mandelson and ministers so far",
+        "url": "https://www.bbc.com/news/articles/c4g819dml28o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 01 Jun 2026 09:32:04 GMT"
+        "time": "Mon, 01 Jun 2026 14:45:40 GMT"
       },
       {
-        "title": "Satellite images suggest Iran's strikes are more precise and extensive than US acknowledged",
-        "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US says it struck Iranian radar sites as Iran targets American forces in Kuwait",
+        "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 01 Jun 2026 05:33:18 GMT"
+        "time": "Mon, 01 Jun 2026 13:12:26 GMT"
+      },
+      {
+        "title": "British soldier killed in training exercise accident in northern Iraq",
+        "url": "https://www.bbc.com/news/articles/c62dygprnnvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 01 Jun 2026 14:47:54 GMT"
       },
       {
         "title": "UK wins court case over collapsed Rwanda asylum deal",
@@ -86,16 +92,10 @@
         "time": "Mon, 01 Jun 2026 12:12:30 GMT"
       },
       {
-        "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
-        "url": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Serena Williams, 44, to return to tennis in Queen's doubles",
+        "url": "https://www.bbc.com/sport/tennis/articles/cx21k06ddvyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 01 Jun 2026 11:53:26 GMT"
-      },
-      {
-        "title": "'Don't be too kind': Maternity staff used offensive terms to refer to patients",
-        "url": "https://www.bbc.com/news/articles/c152y8j4gljo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 01 Jun 2026 05:00:04 GMT"
+        "time": "Mon, 01 Jun 2026 14:27:35 GMT"
       }
     ],
     "projects": [
