@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-01T01:49:41.352Z",
-  "updated_local": "6/1/2026, 1:49:41 AM",
+  "updated_iso": "2026-06-01T03:12:42.763Z",
+  "updated_local": "6/1/2026, 3:12:42 AM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,16 @@
     ],
     "hacker": [
       {
+        "title": "Shift from a Leader-Follower to a Leader-Leader Approach",
+        "url": "https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a",
+        "source": "hn",
+        "time": "6/1/2026, 2:03:03 AM"
+      },
+      {
         "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
         "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
         "source": "hn",
         "time": "5/31/2026, 2:13:20 PM"
-      },
-      {
-        "title": "New Beam Spring Keyboards",
-        "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
-        "source": "hn",
-        "time": "5/29/2026, 1:39:41 PM"
-      },
-      {
-        "title": "Chuwi Minibook X: the netbook we deserve",
-        "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-        "source": "hn",
-        "time": "5/31/2026, 10:59:50 PM"
       },
       {
         "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
@@ -64,20 +58,26 @@
         "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
         "source": "hn",
         "time": "5/31/2026, 4:19:34 PM"
+      },
+      {
+        "title": "Dav2d",
+        "url": "https://jbkempf.com/blog/2026/dav2d/",
+        "source": "hn",
+        "time": "5/31/2026, 11:44:45 AM"
       }
     ],
     "world": [
-      {
-        "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-        "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 31 May 2026 22:39:12 GMT"
-      },
       {
         "title": "Second batch of Mandelson files to be published on Monday",
         "url": "https://www.bbc.com/news/articles/c98r664g865o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 31 May 2026 19:58:33 GMT"
+      },
+      {
+        "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+        "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 31 May 2026 22:39:12 GMT"
       },
       {
         "title": "Arsenal fans turn streets red for victory parade",
