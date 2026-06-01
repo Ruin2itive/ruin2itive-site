@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-05-31T23:30:02.405Z",
-  "updated_local": "5/31/2026, 11:30:02 PM",
+  "updated_iso": "2026-06-01T00:52:21.114Z",
+  "updated_local": "6/1/2026, 12:52:21 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "ChatGPT for Google Sheets Exfiltrates Workbooks",
-        "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-        "source": "hn",
-        "time": "5/31/2026, 8:35:38 PM"
-      },
-      {
         "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
         "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
         "source": "hn",
@@ -60,24 +54,30 @@
         "time": "5/29/2026, 1:39:41 PM"
       },
       {
-        "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
-        "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
+        "title": "Dav2d",
+        "url": "https://jbkempf.com/blog/2026/dav2d/",
         "source": "hn",
-        "time": "5/28/2026, 8:28:23 AM"
+        "time": "5/31/2026, 11:44:45 AM"
+      },
+      {
+        "title": "Reconciling Kubernetes cost estimates with CUR / FOCUS billing data",
+        "url": "https://github.com/tanrikuluozlem/burn",
+        "source": "hn",
+        "time": "5/29/2026, 5:06:10 PM"
       }
     ],
     "world": [
       {
-        "title": "Sturgeon tells BBC: I'm serving a sentence for crime I didn't commit",
-        "url": "https://www.bbc.com/news/articles/c2027k1ev3zo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+        "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 31 May 2026 12:13:53 GMT"
+        "time": "Sun, 31 May 2026 22:39:12 GMT"
       },
       {
-        "title": "Sturgeon the master communicator was close to tears - but still faces more questions",
-        "url": "https://www.bbc.com/news/articles/c0e23rn5l7do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Second batch of Mandelson files to be published on Monday",
+        "url": "https://www.bbc.com/news/articles/c98r664g865o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 31 May 2026 14:34:58 GMT"
+        "time": "Sun, 31 May 2026 19:58:33 GMT"
       },
       {
         "title": "Arsenal fans turn streets red for victory parade",
@@ -92,10 +92,10 @@
         "time": "Sun, 31 May 2026 20:38:19 GMT"
       },
       {
-        "title": "Second batch of Mandelson files to be published on Monday",
-        "url": "https://www.bbc.com/news/articles/c98r664g865o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Sturgeon tells BBC: I'm serving a sentence for crime I didn't commit",
+        "url": "https://www.bbc.com/news/articles/c2027k1ev3zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 31 May 2026 19:58:33 GMT"
+        "time": "Sun, 31 May 2026 12:13:53 GMT"
       }
     ],
     "projects": [
