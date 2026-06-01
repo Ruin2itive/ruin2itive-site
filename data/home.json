@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-01T12:01:52.315Z",
-  "updated_local": "6/1/2026, 12:01:52 PM",
+  "updated_iso": "2026-06-01T12:59:10.916Z",
+  "updated_local": "6/1/2026, 12:59:10 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Michael Saylor&#39;s Bitcoin Treasury Firm Strategy Sells 32 BTC for $2.5M",
+        "url": "https://decrypt.co/369587/michael-saylors-bitcoin-treasury-firm-strategy-sells-32-btc-for-2-5m",
+        "source": "crypto",
+        "time": "Mon, 01 Jun 2026 12:22:16 +0000"
+      },
       {
         "title": "Bitcoin ETF Losses Near $3B Across 10 Days as YTD Flows Turn Negative",
         "url": "https://decrypt.co/369583/bitcoin-etf-losses-near-3b-across-10-days-as-ytd-flows-turn-negative",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/369479/how-president-trump-immigration-order-feed-stablecoin-bitcoin-atms",
         "source": "crypto",
         "time": "Sun, 31 May 2026 15:49:18 +0000"
-      },
-      {
-        "title": "Florida Candidate Liquidates $800K in Bitcoin to Bankroll Congressional Bid",
-        "url": "https://decrypt.co/369478/florida-candidate-liquidates-800k-bitcoin-bankroll-congressional-bid",
-        "source": "crypto",
-        "time": "Sat, 30 May 2026 15:44:30 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "When AI Crosses the Line: The Matplotlib Incident",
+        "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
+        "source": "hn",
+        "time": "6/1/2026, 12:08:23 PM"
+      },
       {
         "title": "A 10 year old Xeon is all you need",
         "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
@@ -48,22 +54,16 @@
         "time": "5/28/2026, 4:46:10 PM"
       },
       {
-        "title": "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
-        "url": "https://surrealdb.com/blog/surrealdb-3-x-by-the-numbers",
+        "title": "Movwin: My (Unpublished) TUI Framework",
+        "url": "https://movq.de/blog/postings/2026-05-29/0/POSTING-en.html",
         "source": "hn",
-        "time": "5/29/2026, 2:53:27 PM"
+        "time": "5/30/2026, 1:07:42 AM"
       },
       {
         "title": "Chuwi Minibook X",
         "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
         "source": "hn",
         "time": "5/31/2026, 10:59:50 PM"
-      },
-      {
-        "title": "two strangers. one call. no names",
-        "url": "https://just2voices.com/",
-        "source": "hn",
-        "time": "6/1/2026, 9:15:46 AM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Mon, 01 Jun 2026 05:33:18 GMT"
       },
       {
-        "title": "Ministers braced for private texts and WhatsApps in Mandelson file release",
-        "url": "https://www.bbc.com/news/articles/c9wezlrle75o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 01 Jun 2026 11:28:00 GMT"
-      },
-      {
         "title": "UK wins court case over collapsed Rwanda asylum deal",
         "url": "https://www.bbc.com/news/articles/cy526klrk20o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 01 Jun 2026 11:35:34 GMT"
+        "time": "Mon, 01 Jun 2026 12:12:30 GMT"
       },
       {
         "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
         "url": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 01 Jun 2026 11:53:26 GMT"
+      },
+      {
+        "title": "'Don't be too kind': Maternity staff used offensive terms to refer to patients",
+        "url": "https://www.bbc.com/news/articles/c152y8j4gljo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 01 Jun 2026 05:00:04 GMT"
       }
     ],
     "projects": [
