@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-01T05:35:47.352Z"
+    "built_at": "2026-06-01T07:41:27.332Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Five Years of Trying to Add Recursion to Lychee",
+      "url": "https://endler.dev/2026/lychee-recursion/",
+      "date": "2026-06-01T07:39:23.000Z"
+    },
+    {
+      "title": "How British comfort food won over the French",
+      "url": "https://www.ft.com/content/74710f54-358d-49c9-81b1-2b49f63ed383",
+      "date": "2026-06-01T07:38:07.000Z"
+    }
+  ]
 }
