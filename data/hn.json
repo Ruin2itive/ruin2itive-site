@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-01T22:01:17.190Z"
+    "built_at": "2026-06-01T23:30:14.618Z"
   },
-  "items": [
-    {
-      "title": "AI's reality check has arrived",
-      "url": "https://www.fastcompany.com/91551700/ais-reality-check-has-finally-arrived",
-      "date": "2026-06-01T21:43:46.000Z"
-    },
-    {
-      "title": "Terrascan: Explore public deep earth scan datasets",
-      "url": "https://terrascan.bowd.io",
-      "date": "2026-06-01T21:42:45.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
