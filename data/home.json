@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-02T22:48:45.042Z",
-  "updated_local": "6/2/2026, 10:48:45 PM",
+  "updated_iso": "2026-06-02T23:35:37.749Z",
+  "updated_local": "6/2/2026, 11:35:37 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "US Treasury Sanctions Iranian Crypto Exchanges Including Nobitex for Terrorist Financing",
+        "url": "https://decrypt.co/369816/us-treasury-sanctions-iranian-crypto-exchanges-nobitex-terrorist-financing",
+        "source": "crypto",
+        "time": "Tue, 02 Jun 2026 22:55:00 +0000"
+      },
       {
         "title": "As Bitcoin Sinks, It&#39;s Time for Ethereum to Outperform: Standard Chartered",
         "url": "https://decrypt.co/369803/bitcoin-sinks-time-ethereum-outperform-standard-chartered",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/369781/microsoft-scout-openclaw-enterprise-ai-agent",
         "source": "crypto",
         "time": "Tue, 02 Jun 2026 20:25:22 +0000"
-      },
-      {
-        "title": "Bernie Sanders, Elizabeth Warren Urge Labor Department to Drop Bitcoin, Crypto 401K Plan",
-        "url": "https://decrypt.co/369773/bernie-sanders-elizabeth-warren-labor-dept-drop-bitcoin-crypto-401k-plan",
-        "source": "crypto",
-        "time": "Tue, 02 Jun 2026 20:00:04 +0000"
       }
     ],
     "hacker": [
@@ -48,22 +48,22 @@
         "time": "6/2/2026, 8:30:08 PM"
       },
       {
+        "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+        "url": "https://github.com/c0dejedi/nbd-vram",
+        "source": "hn",
+        "time": "6/2/2026, 10:55:33 PM"
+      },
+      {
+        "title": "California’s university system went all in on AI, now it's tearing itself apart",
+        "url": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
+        "source": "hn",
+        "time": "6/2/2026, 7:46:20 AM"
+      },
+      {
         "title": "Gmail thinks I'm stupid, so I left",
         "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
         "source": "hn",
         "time": "6/2/2026, 7:27:40 PM"
-      },
-      {
-        "title": "Open Repair Data Standard – Open Repair Alliance",
-        "url": "https://openrepair.org/open-data/open-standard/",
-        "source": "hn",
-        "time": "6/2/2026, 7:37:10 PM"
-      },
-      {
-        "title": "My thoughts after using Clojure for about a month",
-        "url": "https://www.acdw.net/clojure/",
-        "source": "hn",
-        "time": "6/2/2026, 7:56:46 PM"
       }
     ],
     "world": [
@@ -80,10 +80,10 @@
         "time": "Tue, 02 Jun 2026 18:51:31 GMT"
       },
       {
-        "title": "Murrell used fake invoices to cover up £400,000 spending spree",
-        "url": "https://www.bbc.com/news/articles/cgmp0pxyze8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US says it fired missile at Iran-bound oil tanker",
+        "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 02 Jun 2026 15:08:06 GMT"
+        "time": "Tue, 02 Jun 2026 21:49:00 GMT"
       },
       {
         "title": "Five questions left unanswered by the Mandelson files",
