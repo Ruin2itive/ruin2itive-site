@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-02T01:48:44.125Z"
+    "built_at": "2026-06-02T03:06:19.588Z"
   },
-  "items": [
-    {
-      "title": "Starbucks retired its AI agent just months after deployment",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/starbucks-quietly-retired-ai-agent-192259096.html",
-      "date": "2026-06-02T01:44:20.000Z"
-    },
-    {
-      "title": "Show HN: Playing with genomics foundation models | Tutorial/Explainer article",
-      "url": "https://dillondesilva.substack.com/p/playing-with-genomics-foundation",
-      "date": "2026-06-02T01:42:07.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
