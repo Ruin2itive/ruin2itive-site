@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-02T13:35:23.673Z",
-  "updated_local": "6/2/2026, 1:35:23 PM",
+  "updated_iso": "2026-06-02T15:26:36.161Z",
+  "updated_local": "6/2/2026, 3:26:36 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Andrew Yang&#39;s Noble Acquires Crypto-Fueled Helium Mobile Service",
+        "url": "https://decrypt.co/369716/andrew-yang-noble-acquires-crypto-fueled-helium-mobile-service",
+        "source": "crypto",
+        "time": "Tue, 02 Jun 2026 14:24:57 +0000"
+      },
       {
         "title": "Mt. Gox Moves $739M in Bitcoin as Repayment Deadline Looms",
         "url": "https://decrypt.co/369714/mt-gox-moves-739m-in-bitcoin-as-repayment-deadline-looms",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/369689/nvidia-open-ai-model-nemotron-3-ultra",
         "source": "crypto",
         "time": "Mon, 01 Jun 2026 22:46:04 +0000"
-      },
-      {
-        "title": "DuckDuckGo Launched Duck AI. Now Their Hit Product is &#39;No AI&#39;",
-        "url": "https://decrypt.co/369688/duckduckgo-no-ai-google",
-        "source": "crypto",
-        "time": "Mon, 01 Jun 2026 22:16:04 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Why Janet? (2023)",
-        "url": "https://ianthehenry.com/posts/why-janet/",
+        "title": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
+        "url": "https://www.bbc.com/news/articles/c152yvwjwkko",
         "source": "hn",
-        "time": "6/2/2026, 9:34:31 AM"
+        "time": "6/2/2026, 3:03:43 PM"
       },
       {
         "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
@@ -48,36 +48,30 @@
         "time": "6/2/2026, 10:00:56 AM"
       },
       {
-        "title": "CSS-Native Parallax Effect",
-        "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+        "title": "Fidonet: Technology, Use, Tools, and History (1993)",
+        "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
         "source": "hn",
-        "time": "6/2/2026, 10:23:37 AM"
+        "time": "6/2/2026, 1:53:52 PM"
       },
       {
-        "title": "The newest Instagram “exploit” is the goofiest I've seen",
-        "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+        "title": "Why Janet? (2023)",
+        "url": "https://ianthehenry.com/posts/why-janet/",
         "source": "hn",
-        "time": "6/1/2026, 4:31:42 PM"
-      },
-      {
-        "title": "You Don't Love Systemd Timers Enough",
-        "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-        "source": "hn",
-        "time": "6/2/2026, 9:34:11 AM"
+        "time": "6/2/2026, 9:34:31 AM"
       }
     ],
     "world": [
       {
-        "title": "Murdered student told police 'I can't breathe' while handcuffed",
-        "url": "https://www.bbc.com/news/articles/crlpyw05l75o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Police bodycam shows officers handcuffing stabbed student as he lay dying",
+        "url": "https://www.bbc.com/news/videos/c172kkwpd9xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 02 Jun 2026 13:06:41 GMT"
+        "time": "Tue, 02 Jun 2026 15:09:18 GMT"
       },
       {
-        "title": "Murrell used SNP cards for £400,000 spending spree",
+        "title": "Murrell used fake invoices to cover up £400,000 spending spree",
         "url": "https://www.bbc.com/news/articles/cgmp0pxyze8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 02 Jun 2026 12:03:22 GMT"
+        "time": "Tue, 02 Jun 2026 15:08:06 GMT"
       },
       {
         "title": "Five questions left unanswered by the Mandelson files",
@@ -86,16 +80,16 @@
         "time": "Tue, 02 Jun 2026 12:50:28 GMT"
       },
       {
-        "title": "UK Athletics fined £350,000 over death of Paralympian",
-        "url": "https://www.bbc.com/sport/athletics/articles/c1e2x1qze8vo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "British couple lose Iran jail sentence appeal, family says",
+        "url": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 02 Jun 2026 11:33:47 GMT"
+        "time": "Tue, 02 Jun 2026 15:05:05 GMT"
       },
       {
-        "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people",
+        "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people",
         "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 02 Jun 2026 12:46:36 GMT"
+        "time": "Tue, 02 Jun 2026 15:10:23 GMT"
       }
     ],
     "projects": [
