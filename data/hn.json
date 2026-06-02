@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-02T22:40:19.222Z"
+    "built_at": "2026-06-02T23:32:31.721Z"
   },
-  "items": [
-    {
-      "title": "This creepy blob robot will keep going even if you break its legs",
-      "url": "https://www.popsci.com/technology/unstoppable-blob-robot/",
-      "date": "2026-06-02T22:38:59.000Z"
-    },
-    {
-      "title": "Law Professors Prefer AI over Peer Answers [pdf]",
-      "url": "https://law.stanford.edu/wp-content/uploads/2026/06/salinas_et_al.pdf",
-      "date": "2026-06-02T22:37:39.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
