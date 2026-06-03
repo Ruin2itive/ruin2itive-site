@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-03T03:22:52.954Z",
-  "updated_local": "6/3/2026, 3:22:52 AM",
+  "updated_iso": "2026-06-03T04:32:52.095Z",
+  "updated_local": "6/3/2026, 4:32:52 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Microsoft Reveals &#39;1,000x More Reliable&#39; Quantum Chip as Bitcoin Threat Draws Nearer",
+        "url": "https://decrypt.co/369811/microsoft-1000x-more-reliable-quantum-chip-bitcoin-threat-draws-nearer",
+        "source": "crypto",
+        "time": "Wed, 03 Jun 2026 03:31:03 +0000"
+      },
       {
         "title": "Cardsmiths&#39; New America250 Trading Cards Have Real Bitcoin, Dogecoin Up for Grabs",
         "url": "https://decrypt.co/369772/cardsmiths-america250-trading-cards-real-bitcoin-dogecoin",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/369806/microsoft-says-latest-ai-models-beat-claude-googles-nano-banana",
         "source": "crypto",
         "time": "Tue, 02 Jun 2026 21:12:09 +0000"
-      },
-      {
-        "title": "Strategy Shares Fall for Second Straight Day After $56 Billion Bitcoin Giant Sells BTC",
-        "url": "https://decrypt.co/369788/strategy-shares-fall-second-straight-day-bitcoin-giant-sells-btc",
-        "source": "crypto",
-        "time": "Tue, 02 Jun 2026 20:43:39 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-        "url": "https://github.com/c0dejedi/nbd-vram",
-        "source": "hn",
-        "time": "6/2/2026, 10:55:33 PM"
-      },
       {
         "title": "1-Click GitHub Token Stealing via a VSCode Bug",
         "url": "https://blog.ammaraskar.com/github-token-stealing/",
@@ -48,22 +42,28 @@
         "time": "6/2/2026, 3:29:05 PM"
       },
       {
+        "title": "HHS is overriding peer review to require changes to research scope, design",
+        "url": "https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants",
+        "source": "hn",
+        "time": "6/3/2026, 3:07:48 AM"
+      },
+      {
+        "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+        "url": "https://github.com/c0dejedi/nbd-vram",
+        "source": "hn",
+        "time": "6/2/2026, 10:55:33 PM"
+      },
+      {
+        "title": "The American Missile Crisis",
+        "url": "https://research.contrary.com/report/the-american-missile-crisis",
+        "source": "hn",
+        "time": "6/3/2026, 3:30:50 AM"
+      },
+      {
         "title": "MAI-Code-1-Flash",
         "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
         "source": "hn",
         "time": "6/2/2026, 6:47:07 PM"
-      },
-      {
-        "title": "CT scans of BYD car parts",
-        "url": "https://www.lumafield.com/scan-of-the-month/byd",
-        "source": "hn",
-        "time": "6/2/2026, 8:30:08 PM"
-      },
-      {
-        "title": "Are blue zones real? Answering that question is harder then ever",
-        "url": "https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/",
-        "source": "hn",
-        "time": "6/1/2026, 1:40:35 PM"
       }
     ],
     "world": [
@@ -86,10 +86,10 @@
         "time": "Tue, 02 Jun 2026 23:02:23 GMT"
       },
       {
-        "title": "US and Iran launch new strikes as ceasefire negotiations stall",
+        "title": "US and Iran launch new strikes as ceasefire negotiations stalled",
         "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 03 Jun 2026 01:18:19 GMT"
+        "time": "Wed, 03 Jun 2026 03:40:53 GMT"
       },
       {
         "title": "Trump administration drops $1.8bn 'compensation fund'",
