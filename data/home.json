@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-03T00:58:19.634Z",
-  "updated_local": "6/3/2026, 12:58:19 AM",
+  "updated_iso": "2026-06-03T01:25:52.921Z",
+  "updated_local": "6/3/2026, 1:25:52 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Cardsmiths&#39; New America250 Trading Cards Have Real Bitcoin, Dogecoin Up for Grabs",
+        "url": "https://decrypt.co/369772/cardsmiths-america250-trading-cards-real-bitcoin-dogecoin",
+        "source": "crypto",
+        "time": "Wed, 03 Jun 2026 01:22:43 +0000"
+      },
       {
         "title": "US Treasury Sanctions Iranian Crypto Exchanges Including Nobitex for Terrorist Financing",
         "url": "https://decrypt.co/369816/us-treasury-sanctions-iranian-crypto-exchanges-nobitex-terrorist-financing",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/369788/strategy-shares-fall-second-straight-day-bitcoin-giant-sells-btc",
         "source": "crypto",
         "time": "Tue, 02 Jun 2026 20:43:39 +0000"
-      },
-      {
-        "title": "Microsoft Turns OpenClaw Into an Enterprise AI Agent With Scout",
-        "url": "https://decrypt.co/369781/microsoft-scout-openclaw-enterprise-ai-agent",
-        "source": "crypto",
-        "time": "Tue, 02 Jun 2026 20:25:22 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "MAI-Code-1-Flash",
-        "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-        "source": "hn",
-        "time": "6/2/2026, 6:47:07 PM"
-      },
       {
         "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
         "url": "https://github.com/c0dejedi/nbd-vram",
@@ -48,10 +42,10 @@
         "time": "6/2/2026, 10:55:33 PM"
       },
       {
-        "title": "AI Outperforms Law Professors in Stanford Law Study",
-        "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+        "title": "MAI-Code-1-Flash",
+        "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
         "source": "hn",
-        "time": "6/2/2026, 11:43:12 PM"
+        "time": "6/2/2026, 6:47:07 PM"
       },
       {
         "title": "CT scans of BYD car parts",
@@ -60,10 +54,16 @@
         "time": "6/2/2026, 8:30:08 PM"
       },
       {
-        "title": "My Students Can't Read",
-        "url": "https://www.chronicle.com/article/my-students-cant-read",
+        "title": "More than 6 out of 10 people turn to AI for psychological support",
+        "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
         "source": "hn",
-        "time": "6/3/2026, 12:03:19 AM"
+        "time": "6/2/2026, 11:55:04 PM"
+      },
+      {
+        "title": "AI outperforms law professors in Stanford Law study",
+        "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+        "source": "hn",
+        "time": "6/2/2026, 11:43:12 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Tue, 02 Jun 2026 23:02:23 GMT"
       },
       {
-        "title": "US says it fired missile at Iran-bound oil tanker",
+        "title": "US launches 'self-defense' strikes on Iranian island and targets commercial oil tanker",
         "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 02 Jun 2026 21:49:00 GMT"
+        "time": "Wed, 03 Jun 2026 01:18:19 GMT"
       },
       {
-        "title": "More heatwaves likely as warmer-than-normal summer forecast",
-        "url": "https://www.bbc.com/weather/articles/clypk7j0qqdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump administration drops $1.8bn 'compensation fund'",
+        "url": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 02 Jun 2026 23:37:45 GMT"
+        "time": "Wed, 03 Jun 2026 00:16:09 GMT"
       }
     ],
     "projects": [
