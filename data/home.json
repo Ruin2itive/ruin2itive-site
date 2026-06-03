@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-03T09:51:03.306Z",
-  "updated_local": "6/3/2026, 9:51:03 AM",
+  "updated_iso": "2026-06-03T10:35:36.224Z",
+  "updated_local": "6/3/2026, 10:35:36 AM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-        "url": "https://blog.ammaraskar.com/github-token-stealing/",
-        "source": "hn",
-        "time": "6/2/2026, 3:29:05 PM"
-      },
-      {
         "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
         "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
         "source": "hn",
         "time": "6/2/2026, 6:52:52 PM"
       },
       {
-        "title": "AI outperforms law professors in Stanford Law study",
-        "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+        "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+        "url": "https://blog.ammaraskar.com/github-token-stealing/",
         "source": "hn",
-        "time": "6/2/2026, 11:43:12 PM"
+        "time": "6/2/2026, 3:29:05 PM"
       },
       {
         "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
@@ -64,6 +58,12 @@
         "url": "https://github.com/c0dejedi/nbd-vram",
         "source": "hn",
         "time": "6/2/2026, 10:55:33 PM"
+      },
+      {
+        "title": "AI outperforms law professors in Stanford Law study",
+        "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+        "source": "hn",
+        "time": "6/2/2026, 11:43:12 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Royal Navy helicopter crashes into field",
         "url": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 03 Jun 2026 09:31:19 GMT"
+        "time": "Wed, 03 Jun 2026 10:08:34 GMT"
       },
       {
         "title": "Three-quarters of workers not on track for 'moderate' pension income, report suggests",
@@ -83,19 +83,19 @@
         "title": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
         "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 03 Jun 2026 06:54:14 GMT"
-      },
-      {
-        "title": "Police sent personal details to the wrong person, says alleged Al Fayed victim",
-        "url": "https://www.bbc.com/news/articles/c04200dvel7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 03 Jun 2026 05:05:47 GMT"
+        "time": "Wed, 03 Jun 2026 10:29:46 GMT"
       },
       {
         "title": "The 18 creatures in the running to be on the new banknotes",
         "url": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 02 Jun 2026 23:02:18 GMT"
+      },
+      {
+        "title": "Giorgio Locatelli replaces John Torode as co-host of Celebrity MasterChef",
+        "url": "https://www.bbc.com/news/articles/c87q9jgjdr1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 03 Jun 2026 08:44:04 GMT"
       }
     ],
     "projects": [
