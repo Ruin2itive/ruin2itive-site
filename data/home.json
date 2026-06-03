@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-03T10:35:36.224Z",
-  "updated_local": "6/3/2026, 10:35:36 AM",
+  "updated_iso": "2026-06-03T11:46:28.791Z",
+  "updated_local": "6/3/2026, 11:46:28 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "UK Regulator Warns Soccer Clubs Over Unauthorized Crypto Sponsorship Deals",
+        "url": "https://decrypt.co/369835/uk-regulator-warns-soccer-clubs-over-unauthorized-crypto-sponsorship-deals",
+        "source": "crypto",
+        "time": "Wed, 03 Jun 2026 11:11:43 +0000"
+      },
       {
         "title": "Microsoft Reveals &#39;1,000x More Reliable&#39; Quantum Chip as Bitcoin Threat Draws Nearer",
         "url": "https://decrypt.co/369811/microsoft-1000x-more-reliable-quantum-chip-bitcoin-threat-draws-nearer",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/369803/bitcoin-sinks-time-ethereum-outperform-standard-chartered",
         "source": "crypto",
         "time": "Tue, 02 Jun 2026 22:36:32 +0000"
-      },
-      {
-        "title": "Microsoft Says Latest AI Models Beat Claude, Google&#39;s Nano Banana",
-        "url": "https://decrypt.co/369806/microsoft-says-latest-ai-models-beat-claude-googles-nano-banana",
-        "source": "crypto",
-        "time": "Tue, 02 Jun 2026 21:12:09 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Hacking your PC using your speaker without ever touching it",
+        "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+        "source": "hn",
+        "time": "6/3/2026, 10:53:00 AM"
+      },
+      {
+        "title": "Every Byte Matters",
+        "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+        "source": "hn",
+        "time": "6/3/2026, 11:04:04 AM"
+      },
       {
         "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
         "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
@@ -48,54 +60,42 @@
         "time": "6/2/2026, 3:29:05 PM"
       },
       {
-        "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
-        "url": "https://github.com/s-macke/Test-Drive-3-Maps",
+        "title": "Mathematicians issue warning as AI rapidly gains ground",
+        "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
         "source": "hn",
-        "time": "5/31/2026, 9:45:45 AM"
-      },
-      {
-        "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-        "url": "https://github.com/c0dejedi/nbd-vram",
-        "source": "hn",
-        "time": "6/2/2026, 10:55:33 PM"
-      },
-      {
-        "title": "AI outperforms law professors in Stanford Law study",
-        "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-        "source": "hn",
-        "time": "6/2/2026, 11:43:12 PM"
+        "time": "6/3/2026, 10:05:48 AM"
       }
     ],
     "world": [
       {
-        "title": "Royal Navy helicopter crashes into field",
+        "title": "Royal Navy helicopter crash 'deeply worrying' time for families, says PM",
         "url": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 03 Jun 2026 10:08:34 GMT"
-      },
-      {
-        "title": "Three-quarters of workers not on track for 'moderate' pension income, report suggests",
-        "url": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 02 Jun 2026 23:02:23 GMT"
+        "time": "Wed, 03 Jun 2026 11:35:59 GMT"
       },
       {
         "title": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
         "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 03 Jun 2026 10:29:46 GMT"
+        "time": "Wed, 03 Jun 2026 11:17:08 GMT"
       },
       {
-        "title": "The 18 creatures in the running to be on the new banknotes",
-        "url": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+        "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 02 Jun 2026 23:02:18 GMT"
+        "time": "Wed, 03 Jun 2026 11:34:07 GMT"
       },
       {
         "title": "Giorgio Locatelli replaces John Torode as co-host of Celebrity MasterChef",
         "url": "https://www.bbc.com/news/articles/c87q9jgjdr1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 03 Jun 2026 08:44:04 GMT"
+      },
+      {
+        "title": "How a content creator tried to use a YouTube alibi to get away with murder",
+        "url": "https://www.bbc.com/news/articles/c893zygkvy8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 03 Jun 2026 10:30:20 GMT"
       }
     ],
     "projects": [
