@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-03T18:28:24.093Z",
-  "updated_local": "6/3/2026, 6:28:24 PM",
+  "updated_iso": "2026-06-03T19:32:22.690Z",
+  "updated_local": "6/3/2026, 7:32:22 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Why Ethereum Could Tank Another 25% Before Finding a Bottom: Analysis",
+        "url": "https://decrypt.co/369926/ethereum-eth-price-25-percent-bottom-technical-analysis",
+        "source": "crypto",
+        "time": "Wed, 03 Jun 2026 18:31:54 +0000"
+      },
       {
         "title": "As Oil Moves Higher, Bitcoin Sinks to Lowest Price Since March",
         "url": "https://decrypt.co/369925/oil-moves-higher-bitcoin-sinks-lowest-price-since-march",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/369908/mastercard-expands-stablecoin-settlement-circle-usdc-ripple-rlusd",
         "source": "crypto",
         "time": "Wed, 03 Jun 2026 17:23:31 +0000"
-      },
-      {
-        "title": "Stripe Millionaire Loses Bid for Congress to Candidate Backed by Ripple Co-Founder",
-        "url": "https://decrypt.co/369910/stripe-millionaire-loses-bid-congress-candidate-backed-ripple-co-founder",
-        "source": "crypto",
-        "time": "Wed, 03 Jun 2026 16:53:21 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "6/3/2026, 4:04:42 PM"
       },
       {
-        "title": "Bots have now passed human traffic online for the first time",
-        "url": "https://radar.cloudflare.com/traffic#bot-vs-human",
+        "title": "Elixir v1.20 released: now a gradually typed language",
+        "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
         "source": "hn",
-        "time": "6/3/2026, 5:43:00 PM"
+        "time": "6/3/2026, 7:02:26 PM"
       },
       {
         "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
@@ -68,6 +68,12 @@
     ],
     "world": [
       {
+        "title": "Police chief apologises to Henry Nowak's family over handcuffing and arrest",
+        "url": "https://www.bbc.com/news/articles/crlpg54wgpxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 03 Jun 2026 18:58:12 GMT"
+      },
+      {
         "title": "PM accuses Farage of exploiting Nowak case and denies 'two-tier policing' claim",
         "url": "https://www.bbc.com/news/articles/cvgz23p8117o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -83,19 +89,13 @@
         "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
         "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 03 Jun 2026 18:02:52 GMT"
+        "time": "Wed, 03 Jun 2026 19:10:01 GMT"
       },
       {
         "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
         "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 03 Jun 2026 11:34:07 GMT"
-      },
-      {
-        "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-        "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 03 Jun 2026 14:02:25 GMT"
       }
     ],
     "projects": [
