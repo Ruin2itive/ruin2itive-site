@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-03T15:32:38.413Z"
+    "built_at": "2026-06-03T17:38:52.543Z"
   },
-  "items": [
-    {
-      "title": "SkyBrief – Pre-flight briefing dashboard for GA pilots (METARs, NOTAMs, SIGMETs)",
-      "url": "https://skybrief.flights",
-      "date": "2026-06-03T15:30:36.000Z"
-    },
-    {
-      "title": "Android introduces fake call detection to stop deepfake scams",
-      "url": "https://blog.google/security/android-fake-call-detection/",
-      "date": "2026-06-03T15:30:34.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
