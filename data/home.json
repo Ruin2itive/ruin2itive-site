@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-03T15:45:18.602Z",
-  "updated_local": "6/3/2026, 3:45:18 PM",
+  "updated_iso": "2026-06-03T16:34:39.458Z",
+  "updated_local": "6/3/2026, 4:34:39 PM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Hacking your PC using your speaker without ever touching it",
-        "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-        "source": "hn",
-        "time": "6/3/2026, 10:53:00 AM"
-      },
-      {
         "title": "DaVinci Resolve 21",
         "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
         "source": "hn",
         "time": "6/3/2026, 2:18:39 PM"
       },
       {
-        "title": "Meta workers can opt out of being tracked at work up to 30 min",
-        "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+        "title": "Hacking your PC using your speaker without ever touching it",
+        "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
         "source": "hn",
-        "time": "6/3/2026, 12:42:07 PM"
+        "time": "6/3/2026, 10:53:00 AM"
       },
       {
         "title": "A Post-Quantum Future for Let's Encrypt",
@@ -60,24 +54,30 @@
         "time": "6/3/2026, 3:06:09 PM"
       },
       {
-        "title": "Every Byte Matters",
-        "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+        "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
         "source": "hn",
-        "time": "6/3/2026, 11:04:04 AM"
+        "time": "6/3/2026, 4:04:42 PM"
+      },
+      {
+        "title": "ESP32-S31",
+        "url": "https://www.espressif.com/en/products/socs/esp32-s31",
+        "source": "hn",
+        "time": "6/3/2026, 4:10:25 PM"
       }
     ],
     "world": [
       {
-        "title": "Three die in Royal Navy helicopter crash during training exercise",
-        "url": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 03 Jun 2026 15:36:41 GMT"
-      },
-      {
         "title": "PM accuses Farage of exploiting Nowak case and denies 'two-tier policing' claim",
         "url": "https://www.bbc.com/news/articles/cvgz23p8117o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 03 Jun 2026 14:56:17 GMT"
+        "time": "Wed, 03 Jun 2026 15:47:02 GMT"
+      },
+      {
+        "title": "Three die in Royal Navy helicopter crash during training exercise",
+        "url": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 03 Jun 2026 16:27:18 GMT"
       },
       {
         "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
