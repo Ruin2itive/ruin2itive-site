@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-03T21:02:28.140Z"
+    "built_at": "2026-06-03T23:31:58.454Z"
   },
-  "items": [
-    {
-      "title": "Tim Hayward: I built the Jaguar E-Type of computer keyboards",
-      "url": "https://www.ft.com/content/6bfd6860-31e0-40d9-9cc0-15daea278f71",
-      "date": "2026-06-03T20:56:00.000Z"
-    },
-    {
-      "title": "Show HN: Mermaid Studio – preview and fix broken mermaid diagrams",
-      "url": "https://mdview.io/mermaid",
-      "date": "2026-06-03T20:55:09.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
