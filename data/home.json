@@ -1,58 +1,40 @@
 {
-  "updated_iso": "2026-06-03T16:34:39.458Z",
-  "updated_local": "6/3/2026, 4:34:39 PM",
+  "updated_iso": "2026-06-03T17:50:33.633Z",
+  "updated_local": "6/3/2026, 5:50:33 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Walrus Memory Enables AI Agents to ‘Actually Learn About Us’: Mysten Labs Co-Founder",
+        "url": "https://decrypt.co/369895/walrus-memory-enables-ai-agents-to-actually-learn-about-us-mysten-labs-co-founder",
+        "source": "crypto",
+        "time": "Wed, 03 Jun 2026 17:31:02 +0000"
+      },
+      {
+        "title": "Mastercard Expands Stablecoin Settlement via Circle&#39;s USDC, Ripple&#39;s RLUSD and Beyond",
+        "url": "https://decrypt.co/369908/mastercard-expands-stablecoin-settlement-circle-usdc-ripple-rlusd",
+        "source": "crypto",
+        "time": "Wed, 03 Jun 2026 17:23:31 +0000"
+      },
+      {
+        "title": "Stripe Millionaire Loses Bid for Congress to Candidate Backed by Ripple Co-Founder",
+        "url": "https://decrypt.co/369910/stripe-millionaire-loses-bid-congress-candidate-backed-ripple-co-founder",
+        "source": "crypto",
+        "time": "Wed, 03 Jun 2026 16:53:21 +0000"
+      },
+      {
+        "title": "Strategy Wanted to &#39;Inoculate&#39; the Bitcoin Market—Has Its BTC Sale Backfired?",
+        "url": "https://decrypt.co/369904/strategy-wanted-to-inoculate-the-bitcoin-market-has-its-btc-sale-backfired",
+        "source": "crypto",
+        "time": "Wed, 03 Jun 2026 16:35:13 +0000"
+      },
       {
         "title": "Zcash Completes &#39;Most Ambitious&#39; Network Upgrade as ZEC Resumes Recent Surge",
         "url": "https://decrypt.co/369896/zcash-completes-most-ambitious-network-upgrade-zec-resumes-recent-surge",
         "source": "crypto",
         "time": "Wed, 03 Jun 2026 15:05:53 +0000"
-      },
-      {
-        "title": "MoonPay Brings Crypto Transactions to Claude and Codex With MoonAgents Desktop App",
-        "url": "https://decrypt.co/369746/moonpay-brings-crypto-transactions-claude-codex-moonagents",
-        "source": "crypto",
-        "time": "Wed, 03 Jun 2026 13:01:03 +0000"
-      },
-      {
-        "title": "Morning Minute: Bitcoin Falls Below $67k as MSTR Plummets",
-        "url": "https://decrypt.co/369839/morning-minute-bitcoin-falls-below-67k-as-mstr-plummets",
-        "source": "crypto",
-        "time": "Wed, 03 Jun 2026 12:47:43 +0000"
-      },
-      {
-        "title": "Trezor Reveals Hardware Wallet Vulnerability, But Funds &#39;Safe&#39;",
-        "url": "https://decrypt.co/369857/trezor-reveals-hardware-wallet-vulnerability-but-funds-safe",
-        "source": "crypto",
-        "time": "Wed, 03 Jun 2026 12:42:25 +0000"
-      },
-      {
-        "title": "George Santos Referred to DOJ, CFTC Over State of the Union Kalshi Trades: Report",
-        "url": "https://decrypt.co/369838/george-santos-referred-to-doj-cftc-over-state-of-the-union-kalshi-trades-report",
-        "source": "crypto",
-        "time": "Wed, 03 Jun 2026 11:49:41 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "DaVinci Resolve 21",
-        "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
-        "source": "hn",
-        "time": "6/3/2026, 2:18:39 PM"
-      },
-      {
-        "title": "Hacking your PC using your speaker without ever touching it",
-        "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-        "source": "hn",
-        "time": "6/3/2026, 10:53:00 AM"
-      },
-      {
-        "title": "A Post-Quantum Future for Let's Encrypt",
-        "url": "https://letsencrypt.org/2026/06/03/pq-certs",
-        "source": "hn",
-        "time": "6/3/2026, 3:06:09 PM"
-      },
       {
         "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
@@ -64,6 +46,24 @@
         "url": "https://www.espressif.com/en/products/socs/esp32-s31",
         "source": "hn",
         "time": "6/3/2026, 4:10:25 PM"
+      },
+      {
+        "title": "DaVinci Resolve 21",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+        "source": "hn",
+        "time": "6/3/2026, 2:18:39 PM"
+      },
+      {
+        "title": "If AI Data Centers Are So Great, Why Are They Being Built in Secret?",
+        "url": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why",
+        "source": "hn",
+        "time": "6/3/2026, 4:57:11 PM"
+      },
+      {
+        "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+        "url": "https://burntsushi.net/encephalitis/",
+        "source": "hn",
+        "time": "6/3/2026, 2:10:06 PM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "Three die in Royal Navy helicopter crash during training exercise",
         "url": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 03 Jun 2026 16:27:18 GMT"
+        "time": "Wed, 03 Jun 2026 16:39:33 GMT"
       },
       {
         "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
