@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-06-03T12:33:22.608Z",
-  "updated_local": "6/3/2026, 12:33:22 PM",
+  "updated_iso": "2026-06-03T13:56:50.171Z",
+  "updated_local": "6/3/2026, 1:56:50 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "MoonPay Brings Crypto Transactions to Claude and Codex With MoonAgents Desktop App",
+        "url": "https://decrypt.co/369746/moonpay-brings-crypto-transactions-claude-codex-moonagents",
+        "source": "crypto",
+        "time": "Wed, 03 Jun 2026 13:01:03 +0000"
+      },
+      {
+        "title": "Morning Minute: Bitcoin Falls Below $67k as MSTR Plummets",
+        "url": "https://decrypt.co/369839/morning-minute-bitcoin-falls-below-67k-as-mstr-plummets",
+        "source": "crypto",
+        "time": "Wed, 03 Jun 2026 12:47:43 +0000"
+      },
+      {
+        "title": "Trezor Reveals Hardware Wallet Vulnerability, But Funds &#39;Safe&#39;",
+        "url": "https://decrypt.co/369857/trezor-reveals-hardware-wallet-vulnerability-but-funds-safe",
+        "source": "crypto",
+        "time": "Wed, 03 Jun 2026 12:42:25 +0000"
+      },
       {
         "title": "George Santos Referred to DOJ, CFTC Over State of the Union Kalshi Trades: Report",
         "url": "https://decrypt.co/369838/george-santos-referred-to-doj-cftc-over-state-of-the-union-kalshi-trades-report",
@@ -14,24 +32,6 @@
         "url": "https://decrypt.co/369835/uk-regulator-warns-soccer-clubs-over-unauthorized-crypto-sponsorship-deals",
         "source": "crypto",
         "time": "Wed, 03 Jun 2026 11:11:43 +0000"
-      },
-      {
-        "title": "Microsoft Reveals &#39;1,000x More Reliable&#39; Quantum Chip as Bitcoin Threat Draws Nearer",
-        "url": "https://decrypt.co/369811/microsoft-1000x-more-reliable-quantum-chip-bitcoin-threat-draws-nearer",
-        "source": "crypto",
-        "time": "Wed, 03 Jun 2026 03:31:03 +0000"
-      },
-      {
-        "title": "Cardsmiths&#39; New America250 Trading Cards Have Real Bitcoin, Dogecoin Up for Grabs",
-        "url": "https://decrypt.co/369772/cardsmiths-america250-trading-cards-real-bitcoin-dogecoin",
-        "source": "crypto",
-        "time": "Wed, 03 Jun 2026 01:22:43 +0000"
-      },
-      {
-        "title": "US Treasury Sanctions Iranian Crypto Exchanges Including Nobitex for Terrorist Financing",
-        "url": "https://decrypt.co/369816/us-treasury-sanctions-iranian-crypto-exchanges-nobitex-terrorist-financing",
-        "source": "crypto",
-        "time": "Tue, 02 Jun 2026 22:55:00 +0000"
       }
     ],
     "hacker": [
@@ -42,36 +42,42 @@
         "time": "6/3/2026, 10:53:00 AM"
       },
       {
+        "title": "Meta workers can opt out of being tracked at work up to 30 min",
+        "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+        "source": "hn",
+        "time": "6/3/2026, 12:42:07 PM"
+      },
+      {
         "title": "Every Byte Matters",
         "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
         "source": "hn",
         "time": "6/3/2026, 11:04:04 AM"
       },
       {
-        "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
-        "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+        "title": "PlayStation Architecture",
+        "url": "https://www.copetti.org/writings/consoles/playstation/",
         "source": "hn",
-        "time": "6/2/2026, 6:52:52 PM"
+        "time": "6/3/2026, 10:24:25 AM"
       },
       {
         "title": "Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)",
         "url": "https://dl.acm.org/doi/pdf/10.1145/1995966.1996008",
         "source": "hn",
         "time": "6/1/2026, 1:18:16 AM"
-      },
-      {
-        "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-        "url": "https://blog.ammaraskar.com/github-token-stealing/",
-        "source": "hn",
-        "time": "6/2/2026, 3:29:05 PM"
       }
     ],
     "world": [
       {
-        "title": "Royal Navy helicopter crash 'deeply worrying' time for families, says PM",
+        "title": "Three dead in Royal Navy helicopter crash",
         "url": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 03 Jun 2026 12:25:56 GMT"
+        "time": "Wed, 03 Jun 2026 13:29:31 GMT"
+      },
+      {
+        "title": "PM accuses Farage of exploiting Nowak case and denies 'two-tier policing' claim",
+        "url": "https://www.bbc.com/news/articles/cvgz23p8117o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 03 Jun 2026 13:39:00 GMT"
       },
       {
         "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
@@ -80,22 +86,16 @@
         "time": "Wed, 03 Jun 2026 11:34:07 GMT"
       },
       {
-        "title": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
+        "title": "One killed in Iranian drone strikes on Kuwait airport, local officials say",
         "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 03 Jun 2026 11:17:08 GMT"
+        "time": "Wed, 03 Jun 2026 13:43:30 GMT"
       },
       {
         "title": "Giorgio Locatelli replaces John Torode as co-host of Celebrity MasterChef",
         "url": "https://www.bbc.com/news/articles/c87q9jgjdr1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 03 Jun 2026 08:44:04 GMT"
-      },
-      {
-        "title": "How a content creator tried to use a YouTube alibi to get away with murder",
-        "url": "https://www.bbc.com/news/articles/c893zygkvy8o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 03 Jun 2026 10:30:20 GMT"
       }
     ],
     "projects": [
