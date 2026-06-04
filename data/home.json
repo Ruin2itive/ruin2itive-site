@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-04T03:23:38.983Z",
-  "updated_local": "6/4/2026, 3:23:38 AM",
+  "updated_iso": "2026-06-04T05:39:08.738Z",
+  "updated_local": "6/4/2026, 5:39:08 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse",
-        "url": "https://e360.yale.edu/digest/trump-ooi-amoc",
-        "source": "hn",
-        "time": "6/4/2026, 12:44:13 AM"
-      },
-      {
         "title": "Elixir v1.20: Now a gradually typed language",
         "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
         "source": "hn",
         "time": "6/3/2026, 7:02:26 PM"
+      },
+      {
+        "title": "\"They're made out of weights\"",
+        "url": "https://maxleiter.com/blog/weights",
+        "source": "hn",
+        "time": "6/3/2026, 11:37:18 PM"
+      },
+      {
+        "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+        "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+        "source": "hn",
+        "time": "6/4/2026, 12:18:02 AM"
       },
       {
         "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
@@ -58,32 +64,26 @@
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
         "source": "hn",
         "time": "6/3/2026, 4:04:42 PM"
-      },
-      {
-        "title": "\"They're made out of weights\"",
-        "url": "https://maxleiter.com/blog/weights",
-        "source": "hn",
-        "time": "6/3/2026, 11:37:18 PM"
       }
     ],
     "world": [
       {
-        "title": "Police chief apologises to Henry Nowak's family over handcuffing and arrest",
-        "url": "https://www.bbc.com/news/articles/crlpg54wgpxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+        "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 03 Jun 2026 18:58:12 GMT"
+        "time": "Thu, 04 Jun 2026 00:16:44 GMT"
       },
       {
-        "title": "PM accuses Farage of exploiting Nowak case and denies 'two-tier policing' claim",
-        "url": "https://www.bbc.com/news/articles/cvgz23p8117o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Breakthrough ovarian cancer drug offers patients more time and better quality of life",
+        "url": "https://www.bbc.com/news/articles/ce8p57y35lzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 03 Jun 2026 15:47:02 GMT"
+        "time": "Wed, 03 Jun 2026 23:34:59 GMT"
       },
       {
-        "title": "US House votes to halt Iran war, in rebuke to Trump",
+        "title": "US House votes to rein in Trump's war powers in rebuke over Iran",
         "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 04 Jun 2026 02:24:08 GMT"
+        "time": "Thu, 04 Jun 2026 03:36:10 GMT"
       },
       {
         "title": "What a hair loss breakthrough could mean for women like me",
@@ -92,10 +92,10 @@
         "time": "Wed, 03 Jun 2026 23:42:35 GMT"
       },
       {
-        "title": "Three die in Royal Navy helicopter crash during training exercise",
-        "url": "https://www.bbc.com/news/articles/ce3pdv1gl41o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "MI5 warns Chinese spies using job websites to target government staff",
+        "url": "https://www.bbc.com/news/articles/cq6peqrnzpro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 03 Jun 2026 20:01:37 GMT"
+        "time": "Wed, 03 Jun 2026 21:26:03 GMT"
       }
     ],
     "projects": [
