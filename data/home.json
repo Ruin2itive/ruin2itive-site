@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-06-04T19:47:45.386Z",
-  "updated_local": "6/4/2026, 7:47:45 PM",
+  "updated_iso": "2026-06-04T20:44:24.716Z",
+  "updated_local": "6/4/2026, 8:44:24 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Republican Lawmaker Plans to Add Prediction Markets to Congressional Stock Ban Bill",
+        "url": "https://decrypt.co/370086/republican-lawmaker-add-prediction-markets-ongressional-stock-ban-bill",
+        "source": "crypto",
+        "time": "Thu, 04 Jun 2026 20:43:19 +0000"
+      },
+      {
+        "title": "&#39;Looksmaxxing&#39; Trend Spawns $100M Gray Market Fueled By Bitcoin, Stablecoins: Chainalysis",
+        "url": "https://decrypt.co/370078/looksmaxxing-trend-100m-gray-market-bitcoin-stablecoins-chainalysis",
+        "source": "crypto",
+        "time": "Thu, 04 Jun 2026 19:54:29 +0000"
+      },
       {
         "title": "Google DeepMind CEO Says AGI Is Coming Fast: &#39;We Don&#39;t Have Long to Prepare&#39;",
         "url": "https://decrypt.co/370080/google-deepmind-ceo-agi-coming",
@@ -20,21 +32,21 @@
         "url": "https://decrypt.co/370059/crypto-billionaires-donate-9-4m-to-farages-reform-uk-in-q1",
         "source": "crypto",
         "time": "Thu, 04 Jun 2026 17:20:39 +0000"
-      },
-      {
-        "title": "Bitcoin Miners Emerge as &#39;Power Landlords&#39; of AI Boom—And Revenue Will Surge: Bernstein",
-        "url": "https://decrypt.co/370047/bitcoin-miners-power-landlords-ai-boom-revenue-surge-bernstein",
-        "source": "crypto",
-        "time": "Thu, 04 Jun 2026 16:32:52 +0000"
-      },
-      {
-        "title": "DOJ Task Force Freezes $3.8M in Illicit Crypto—With Help From Coinbase, SpaceX and Meta",
-        "url": "https://decrypt.co/370005/doj-task-force-freezes-3-8m-illicit-crypto-help-fcoinbase-spacex-meta",
-        "source": "crypto",
-        "time": "Thu, 04 Jun 2026 15:44:31 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Meta's ships facial recognition on smart glasses",
+        "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+        "source": "hn",
+        "time": "6/4/2026, 7:36:48 PM"
+      },
+      {
+        "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+        "url": "https://github.com/anthropics/defending-code-reference-harness",
+        "source": "hn",
+        "time": "6/4/2026, 8:11:20 PM"
+      },
       {
         "title": "VoidZero Is Joining Cloudflare",
         "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
@@ -42,28 +54,16 @@
         "time": "6/4/2026, 1:00:51 PM"
       },
       {
-        "title": "Retro-Tech Parenting",
-        "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-        "source": "hn",
-        "time": "6/4/2026, 4:02:35 PM"
-      },
-      {
-        "title": "Ian's Secure Shoelace Knot",
-        "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-        "source": "hn",
-        "time": "6/4/2026, 11:17:34 AM"
-      },
-      {
-        "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-        "url": "https://github.com/huawei-csl/KVarN",
-        "source": "hn",
-        "time": "6/4/2026, 3:18:00 PM"
-      },
-      {
         "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
         "url": "https://www.anthropic.com/institute/recursive-self-improvement",
         "source": "hn",
         "time": "6/4/2026, 4:20:17 PM"
+      },
+      {
+        "title": "Retro-Tech Parenting",
+        "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+        "source": "hn",
+        "time": "6/4/2026, 4:02:35 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Thu, 04 Jun 2026 19:24:11 GMT"
       },
       {
-        "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
-        "url": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Man shot with crossbow on university campus",
+        "url": "https://www.bbc.com/news/articles/cn4p4yllq1lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 04 Jun 2026 14:46:36 GMT"
+        "time": "Thu, 04 Jun 2026 18:21:02 GMT"
       },
       {
-        "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-        "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Liverpool appoint Andoni Iraola as head coach",
+        "url": "https://www.bbc.com/sport/football/articles/cqjpkgx7084o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 04 Jun 2026 17:54:06 GMT"
+        "time": "Thu, 04 Jun 2026 18:28:58 GMT"
       }
     ],
     "projects": [
