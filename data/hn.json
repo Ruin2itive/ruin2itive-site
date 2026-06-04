@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-04T16:08:16.555Z"
+    "built_at": "2026-06-04T17:52:47.057Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: I Made a Way to Resolve Websites to Phone Numbers, Email, and Webfinger",
+      "url": "https://telweb.scrollr.net",
+      "date": "2026-06-04T17:51:38.000Z"
+    },
+    {
+      "title": "New Brave Origin offers users a minimalist version of the Brave browser",
+      "url": "https://brave.com/blog/brave-origin/",
+      "date": "2026-06-04T17:51:11.000Z"
+    }
+  ]
 }
