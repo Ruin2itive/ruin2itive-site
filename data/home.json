@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-04T22:32:15.534Z",
-  "updated_local": "6/4/2026, 10:32:15 PM",
+  "updated_iso": "2026-06-04T22:38:06.199Z",
+  "updated_local": "6/4/2026, 10:38:06 PM",
   "sections": {
     "crypto": [
       {
@@ -48,6 +48,12 @@
         "time": "6/4/2026, 1:00:51 PM"
       },
       {
+        "title": "IPv6 zones in URLs are a mistake",
+        "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+        "source": "hn",
+        "time": "6/4/2026, 9:42:34 PM"
+      },
+      {
         "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
         "url": "https://www.anthropic.com/institute/recursive-self-improvement",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://github.com/schildep/verified-polygon-intersection",
         "source": "hn",
         "time": "6/4/2026, 10:06:18 PM"
-      },
-      {
-        "title": "Ian's Secure Shoelace Knot",
-        "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-        "source": "hn",
-        "time": "6/4/2026, 11:17:34 AM"
       }
     ],
     "world": [
