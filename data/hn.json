@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-04T03:06:11.879Z"
+    "built_at": "2026-06-04T05:35:23.145Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "2025 Social Security Trustees Report [pdf]",
+      "url": "https://www.ssa.gov/OACT/TR/2025/tr2025.pdf",
+      "date": "2026-06-04T05:33:36.000Z"
+    },
+    {
+      "title": "Same Weights, Different Robot: A Deployment Safety View of VLA Policies",
+      "url": "https://arxiv.org/abs/2606.03724",
+      "date": "2026-06-04T05:31:42.000Z"
+    }
+  ]
 }
