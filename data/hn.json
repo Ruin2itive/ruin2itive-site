@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-04T01:52:26.336Z"
+    "built_at": "2026-06-04T03:06:11.879Z"
   },
-  "items": [
-    {
-      "title": "Rooting Home Assistant through MeshCore: XSS attacks with a LoRa node name",
-      "url": "https://mxsasha.eu/posts/meshcore-xss-home-assistant/",
-      "date": "2026-06-04T01:49:01.000Z"
-    },
-    {
-      "title": "A Famous Math Problem Stumped Humans for 80 Years. AI Just Cracked It",
-      "url": "https://www.wsj.com/tech/ai/ai-math-solves-erdos-problem-openai-c4029e84",
-      "date": "2026-06-04T01:45:33.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
