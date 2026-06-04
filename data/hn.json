@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-04T12:59:51.026Z"
+    "built_at": "2026-06-04T14:06:13.753Z"
   },
-  "items": [
-    {
-      "title": "Serde",
-      "url": "https://serde.rs/",
-      "date": "2026-06-04T12:58:43.000Z"
-    },
-    {
-      "title": "ChatGPT warns it may forget long conversations, I save context outside the chat",
-      "url": "https://empirical.gauzza.com/blog/chatgpt-long-conversation-memory-chatgpt-forgets-details-in-long-conversations/",
-      "date": "2026-06-04T12:57:04.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
