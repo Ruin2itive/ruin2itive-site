@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-04T18:49:19.101Z",
-  "updated_local": "6/4/2026, 6:49:19 PM",
+  "updated_iso": "2026-06-04T18:59:13.871Z",
+  "updated_local": "6/4/2026, 6:59:13 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Google DeepMind CEO Says AGI Is Coming Fast: &#39;We Don&#39;t Have Long to Prepare&#39;",
+        "url": "https://decrypt.co/370080/google-deepmind-ceo-agi-coming",
+        "source": "crypto",
+        "time": "Thu, 04 Jun 2026 18:54:22 +0000"
+      },
       {
         "title": "Strategy&#39;s Michael Saylor Blames &#39;Capital Rotation&#39; Into AI as Bitcoin Dives 13%",
         "url": "https://decrypt.co/370053/strategy-michael-saylor-blames-capital-rotation-ai-bitcoin-dives",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/370005/doj-task-force-freezes-3-8m-illicit-crypto-help-fcoinbase-spacex-meta",
         "source": "crypto",
         "time": "Thu, 04 Jun 2026 15:44:31 +0000"
-      },
-      {
-        "title": "Fannie Mae-Backed Bitcoin Home Mortgages Are Finally Here, Coinbase Says",
-        "url": "https://decrypt.co/370016/fannie-mae-backed-bitcoin-home-mortgages-finally-here-coinbase",
-        "source": "crypto",
-        "time": "Thu, 04 Jun 2026 15:12:00 +0000"
       }
     ],
     "hacker": [
@@ -48,12 +48,6 @@
         "time": "6/4/2026, 4:02:35 PM"
       },
       {
-        "title": "The desperation of NYTimes",
-        "url": "https://rozumem.xyz/posts/16",
-        "source": "hn",
-        "time": "6/4/2026, 5:39:13 PM"
-      },
-      {
         "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
         "url": "https://github.com/huawei-csl/KVarN",
         "source": "hn",
@@ -64,6 +58,12 @@
         "url": "https://www.fieggen.com/shoelace/secureknot.htm",
         "source": "hn",
         "time": "6/4/2026, 11:17:34 AM"
+      },
+      {
+        "title": "The desperation of NYTimes",
+        "url": "https://rozumem.xyz/posts/16",
+        "source": "hn",
+        "time": "6/4/2026, 5:39:13 PM"
       }
     ],
     "world": [
