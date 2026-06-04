@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-04T18:59:13.871Z",
-  "updated_local": "6/4/2026, 6:59:13 PM",
+  "updated_iso": "2026-06-04T19:43:15.821Z",
+  "updated_local": "6/4/2026, 7:43:15 PM",
   "sections": {
     "crypto": [
       {
@@ -48,22 +48,22 @@
         "time": "6/4/2026, 4:02:35 PM"
       },
       {
-        "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-        "url": "https://github.com/huawei-csl/KVarN",
-        "source": "hn",
-        "time": "6/4/2026, 3:18:00 PM"
-      },
-      {
         "title": "Ian's Secure Shoelace Knot",
         "url": "https://www.fieggen.com/shoelace/secureknot.htm",
         "source": "hn",
         "time": "6/4/2026, 11:17:34 AM"
       },
       {
-        "title": "The desperation of NYTimes",
-        "url": "https://rozumem.xyz/posts/16",
+        "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+        "url": "https://github.com/huawei-csl/KVarN",
         "source": "hn",
-        "time": "6/4/2026, 5:39:13 PM"
+        "time": "6/4/2026, 3:18:00 PM"
+      },
+      {
+        "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+        "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+        "source": "hn",
+        "time": "6/4/2026, 4:20:17 PM"
       }
     ],
     "world": [
@@ -77,7 +77,13 @@
         "title": "Henry Nowak deserves legacy that goes beyond tragedy, says PM",
         "url": "https://www.bbc.com/news/articles/c8jvj9l8x4eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 04 Jun 2026 18:15:32 GMT"
+        "time": "Thu, 04 Jun 2026 19:09:12 GMT"
+      },
+      {
+        "title": "Henry Nowak: How misinformation sent two people into hiding",
+        "url": "https://www.bbc.com/news/videos/cg4p4lr9v35o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 04 Jun 2026 19:24:11 GMT"
       },
       {
         "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 04 Jun 2026 17:54:06 GMT"
-      },
-      {
-        "title": "Man shot with crossbow on university campus",
-        "url": "https://www.bbc.com/news/articles/cn4p4yllq1lo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 04 Jun 2026 18:21:02 GMT"
       }
     ],
     "projects": [
