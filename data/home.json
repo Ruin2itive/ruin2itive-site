@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-06-04T17:12:49.122Z",
-  "updated_local": "6/4/2026, 5:12:49 PM",
+  "updated_iso": "2026-06-04T18:49:19.101Z",
+  "updated_local": "6/4/2026, 6:49:19 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Strategy&#39;s Michael Saylor Blames &#39;Capital Rotation&#39; Into AI as Bitcoin Dives 13%",
+        "url": "https://decrypt.co/370053/strategy-michael-saylor-blames-capital-rotation-ai-bitcoin-dives",
+        "source": "crypto",
+        "time": "Thu, 04 Jun 2026 18:06:15 +0000"
+      },
+      {
+        "title": "Crypto Billionaires Donate $9.4M to Farage’s Reform UK in Q1",
+        "url": "https://decrypt.co/370059/crypto-billionaires-donate-9-4m-to-farages-reform-uk-in-q1",
+        "source": "crypto",
+        "time": "Thu, 04 Jun 2026 17:20:39 +0000"
+      },
       {
         "title": "Bitcoin Miners Emerge as &#39;Power Landlords&#39; of AI Boom—And Revenue Will Surge: Bernstein",
         "url": "https://decrypt.co/370047/bitcoin-miners-power-landlords-ai-boom-revenue-surge-bernstein",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/370016/fannie-mae-backed-bitcoin-home-mortgages-finally-here-coinbase",
         "source": "crypto",
         "time": "Thu, 04 Jun 2026 15:12:00 +0000"
-      },
-      {
-        "title": "British Teen Sanctioned By Russia After Alleging Crypto Use to Evade Sanctions",
-        "url": "https://decrypt.co/370002/british-teen-sanctioned-russia-alleging-crypto-evade-sanctions",
-        "source": "crypto",
-        "time": "Thu, 04 Jun 2026 14:27:40 +0000"
-      },
-      {
-        "title": "As BTC Tests $62,000, How Low Can Bitcoin Go?",
-        "url": "https://decrypt.co/369999/as-btc-tests-62000-how-low-can-bitcoin-go",
-        "source": "crypto",
-        "time": "Thu, 04 Jun 2026 13:06:17 +0000"
       }
     ],
     "hacker": [
@@ -42,7 +42,19 @@
         "time": "6/4/2026, 1:00:51 PM"
       },
       {
-        "title": "KVarN: Native vLLM KV-cache quantization back end by Huawei",
+        "title": "Retro-Tech Parenting",
+        "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+        "source": "hn",
+        "time": "6/4/2026, 4:02:35 PM"
+      },
+      {
+        "title": "The desperation of NYTimes",
+        "url": "https://rozumem.xyz/posts/16",
+        "source": "hn",
+        "time": "6/4/2026, 5:39:13 PM"
+      },
+      {
+        "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
         "url": "https://github.com/huawei-csl/KVarN",
         "source": "hn",
         "time": "6/4/2026, 3:18:00 PM"
@@ -52,18 +64,6 @@
         "url": "https://www.fieggen.com/shoelace/secureknot.htm",
         "source": "hn",
         "time": "6/4/2026, 11:17:34 AM"
-      },
-      {
-        "title": "Now Is the Best Time to Be a Duct Tape Engineer",
-        "url": "https://derwiki.medium.com/now-is-the-best-time-to-be-a-duct-tape-engineer-eefc1d141c23",
-        "source": "hn",
-        "time": "6/1/2026, 11:49:02 AM"
-      },
-      {
-        "title": "They’re made out of weights",
-        "url": "https://maxleiter.com/blog/weights",
-        "source": "hn",
-        "time": "6/3/2026, 11:37:18 PM"
       }
     ],
     "world": [
@@ -71,13 +71,13 @@
         "title": "Royal Navy crew killed in helicopter crash named",
         "url": "https://www.bbc.com/news/articles/cg4p69gzd4po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 04 Jun 2026 17:03:05 GMT"
+        "time": "Thu, 04 Jun 2026 18:01:42 GMT"
       },
       {
-        "title": "Starmer accuses Musk of trying to whip up division over Henry Nowak murder",
-        "url": "https://www.bbc.com/news/articles/c1e2ww900zno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Henry Nowak deserves legacy that goes beyond tragedy, says PM",
+        "url": "https://www.bbc.com/news/articles/c8jvj9l8x4eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 04 Jun 2026 17:09:06 GMT"
+        "time": "Thu, 04 Jun 2026 18:15:32 GMT"
       },
       {
         "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
@@ -89,13 +89,13 @@
         "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
         "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 04 Jun 2026 14:54:22 GMT"
+        "time": "Thu, 04 Jun 2026 17:54:06 GMT"
       },
       {
         "title": "Man shot with crossbow on university campus",
         "url": "https://www.bbc.com/news/articles/cn4p4yllq1lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 04 Jun 2026 16:58:29 GMT"
+        "time": "Thu, 04 Jun 2026 18:21:02 GMT"
       }
     ],
     "projects": [
