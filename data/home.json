@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-04T13:23:40.337Z",
-  "updated_local": "6/4/2026, 1:23:40 PM",
+  "updated_iso": "2026-06-04T15:04:34.201Z",
+  "updated_local": "6/4/2026, 3:04:34 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "British Teen Sanctioned By Russia After Alleging Crypto Use to Evade Sanctions",
+        "url": "https://decrypt.co/370002/british-teen-sanctioned-russia-alleging-crypto-evade-sanctions",
+        "source": "crypto",
+        "time": "Thu, 04 Jun 2026 14:27:40 +0000"
+      },
       {
         "title": "As BTC Tests $62,000, How Low Can Bitcoin Go?",
         "url": "https://decrypt.co/369999/as-btc-tests-62000-how-low-can-bitcoin-go",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/369991/coinbase-launches-pre-ipo-perps-starting-with-elon-musks-spacex",
         "source": "crypto",
         "time": "Thu, 04 Jun 2026 11:13:12 +0000"
-      },
-      {
-        "title": "Tom Lee’s BitMine Plans $300M Preferred Stock Sale for ETH Treasury Push",
-        "url": "https://decrypt.co/369988/tom-lees-bitmine-plans-300m-preferred-stock-sale-for-eth-treasury-push",
-        "source": "crypto",
-        "time": "Thu, 04 Jun 2026 10:49:47 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-        "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
-        "source": "hn",
-        "time": "6/4/2026, 8:45:36 AM"
-      },
       {
         "title": "VoidZero Is Joining Cloudflare",
         "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
@@ -48,10 +42,16 @@
         "time": "6/4/2026, 1:00:51 PM"
       },
       {
-        "title": "Gaussian Point Splatting",
-        "url": "https://momentsingraphics.de/Siggraph2026.html",
+        "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+        "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
         "source": "hn",
-        "time": "6/4/2026, 10:48:13 AM"
+        "time": "6/4/2026, 8:45:36 AM"
+      },
+      {
+        "title": "Ian's Secure Shoelace Knot",
+        "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+        "source": "hn",
+        "time": "6/4/2026, 11:17:34 AM"
       },
       {
         "title": "They’re made out of weights",
@@ -60,10 +60,10 @@
         "time": "6/3/2026, 11:37:18 PM"
       },
       {
-        "title": "Kiki – a tiny homepage construction kit with a small footprint",
-        "url": "https://tomotama.com/kiki",
+        "title": "Gaussian Point Splatting",
+        "url": "https://momentsingraphics.de/Siggraph2026.html",
         "source": "hn",
-        "time": "5/31/2026, 6:54:55 PM"
+        "time": "6/4/2026, 10:48:13 AM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Starmer accuses Musk of trying to whip up division over Henry Nowak murder",
         "url": "https://www.bbc.com/news/articles/c1e2ww900zno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 04 Jun 2026 12:40:32 GMT"
+        "time": "Thu, 04 Jun 2026 14:34:58 GMT"
       },
       {
         "title": "Inquest to examine if police response contributed to Henry Nowak death",
@@ -80,22 +80,22 @@
         "time": "Thu, 04 Jun 2026 10:16:47 GMT"
       },
       {
-        "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-        "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
+        "url": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 04 Jun 2026 07:49:33 GMT"
+        "time": "Thu, 04 Jun 2026 14:46:36 GMT"
       },
       {
-        "title": "'Nothing left to chance' for Bayeux Tapestry's journey to London",
-        "url": "https://www.bbc.com/news/articles/c9d37dl139eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+        "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 04 Jun 2026 11:52:58 GMT"
+        "time": "Thu, 04 Jun 2026 14:54:22 GMT"
       },
       {
         "title": "Oscar-nominated Persepolis author Marjane Satrapi dies aged 56",
         "url": "https://www.bbc.com/news/articles/c4g0nnj51jyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 04 Jun 2026 11:54:39 GMT"
+        "time": "Thu, 04 Jun 2026 13:29:05 GMT"
       }
     ],
     "projects": [
