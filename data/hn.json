@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-04T07:34:43.155Z"
+    "built_at": "2026-06-04T09:17:43.114Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "AI enthusiasts are in a race against time, AI skeptics in a race against entropy",
+      "url": "https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against",
+      "date": "2026-06-04T09:15:03.000Z"
+    },
+    {
+      "title": "Coreutils for Windows Overview – Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/windows/core-utils/overview",
+      "date": "2026-06-04T09:13:45.000Z"
+    }
+  ]
 }
