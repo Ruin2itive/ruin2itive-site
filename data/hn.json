@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-05T18:37:37.219Z"
+    "built_at": "2026-06-05T19:33:14.832Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Alpha School Costs $65,000 a Year–But Isn't Actually a School",
+      "url": "https://www.wired.com/story/alpha-schools-new-york-city-campus-isnt-actually-a-school/",
+      "date": "2026-06-05T19:31:15.000Z"
+    },
+    {
+      "title": "Show HN: TapeSim – Practice Reading the Tape",
+      "url": "https://tapesim.app/",
+      "date": "2026-06-05T19:30:56.000Z"
+    }
+  ]
 }
