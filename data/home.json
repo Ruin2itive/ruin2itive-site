@@ -1,37 +1,37 @@
 {
-  "updated_iso": "2026-06-05T15:10:20.685Z",
-  "updated_local": "6/5/2026, 3:10:20 PM",
+  "updated_iso": "2026-06-05T16:50:14.732Z",
+  "updated_local": "6/5/2026, 4:50:14 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Dives Below $60K Following Strong Jobs Data, Zcash Crash Shaking Crypto Confidence",
+        "url": "https://decrypt.co/370120/bitcoin-dives-below-60k-first-time-2024-zcash-crash",
+        "source": "crypto",
+        "time": "Fri, 05 Jun 2026 16:15:42 +0000"
+      },
+      {
+        "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
+        "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
+        "source": "crypto",
+        "time": "Fri, 05 Jun 2026 16:15:02 +0000"
+      },
+      {
+        "title": "Government Stablecoin Payments Would Fuel &#39;Tax Evasion Economy,&#39; Lawmaker Warns",
+        "url": "https://decrypt.co/370121/government-stablecoin-payments-would-fuel-tax-evasion-economy-lawmaker-warns",
+        "source": "crypto",
+        "time": "Fri, 05 Jun 2026 15:52:15 +0000"
+      },
+      {
+        "title": "Winklevoss-Backed Zcash Treasury Plunges Nearly 40% on ZEC Privacy Bug Concerns",
+        "url": "https://decrypt.co/370127/winklevoss-backed-zcash-treasury-plunges-nearly-40-zec-privacy-bug",
+        "source": "crypto",
+        "time": "Fri, 05 Jun 2026 15:49:08 +0000"
+      },
       {
         "title": "Hyperliquid Hit by UK FCA Warning as Crypto Perps Face Scrutiny",
         "url": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
         "source": "crypto",
         "time": "Fri, 05 Jun 2026 13:10:25 +0000"
-      },
-      {
-        "title": "Morning Minute: Massive ZCash Exploit Found by Claude, Extent Unknown",
-        "url": "https://decrypt.co/370112/morning-minute-massive-zcash-exploit-found-by-claude-extent-unknown",
-        "source": "crypto",
-        "time": "Fri, 05 Jun 2026 12:49:04 +0000"
-      },
-      {
-        "title": "Pump.fun&#39;s Latest Experiment Is Already Getting Weird",
-        "url": "https://decrypt.co/370108/pump-funs-latest-experiment-is-already-getting-weird",
-        "source": "crypto",
-        "time": "Fri, 05 Jun 2026 11:33:50 +0000"
-      },
-      {
-        "title": "ZEC Crashes 38% as Zcash Discloses ‘Critical Counterfeiting Vulnerability’",
-        "url": "https://decrypt.co/370105/zec-crashes-38-as-zcash-discloses-critical-counterfeiting-vulnerability",
-        "source": "crypto",
-        "time": "Fri, 05 Jun 2026 10:41:59 +0000"
-      },
-      {
-        "title": "AI Is Already Developing AI, Says Anthropic—And Humans May Be Slowing Things Down",
-        "url": "https://decrypt.co/370089/ai-already-developing-ai-anthropic-humans-slowing-things-down",
-        "source": "crypto",
-        "time": "Thu, 04 Jun 2026 21:37:01 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
         "source": "hn",
         "time": "6/5/2026, 3:00:31 PM"
+      },
+      {
+        "title": "pg_durable: Microsoft open sources in-database durable execution",
+        "url": "https://github.com/microsoft/pg_durable",
+        "source": "hn",
+        "time": "6/5/2026, 3:59:57 PM"
       },
       {
         "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
@@ -58,44 +64,38 @@
         "url": "https://arxiv.org/abs/2606.03673",
         "source": "hn",
         "time": "6/5/2026, 8:32:16 AM"
-      },
-      {
-        "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
-        "url": "https://redis.io/blog/announcing-redis-8-8/",
-        "source": "hn",
-        "time": "6/3/2026, 10:05:11 AM"
       }
     ],
     "world": [
+      {
+        "title": "Rapist Paul Quinn's 24-year sentence an insult, says wrongly convicted Andrew Malkinson",
+        "url": "https://www.bbc.com/news/articles/c99l93md0gko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 05 Jun 2026 16:44:48 GMT"
+      },
+      {
+        "title": "Buffy and Ted Lasso star Anthony Head dies at 72",
+        "url": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 05 Jun 2026 16:21:18 GMT"
+      },
+      {
+        "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
+        "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 05 Jun 2026 16:14:36 GMT"
+      },
+      {
+        "title": "Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'",
+        "url": "https://www.bbc.com/news/articles/cn9p91295q8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 05 Jun 2026 15:59:58 GMT"
+      },
       {
         "title": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
         "url": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 05 Jun 2026 11:00:58 GMT"
-      },
-      {
-        "title": "World-first vaccine designed by AI could protect against whole families of viruses",
-        "url": "https://www.bbc.com/news/articles/crrpggegwe0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 04 Jun 2026 23:29:06 GMT"
-      },
-      {
-        "title": "Teen rapists spared jail partly because of intellectual limitations, judge's full remarks show",
-        "url": "https://www.bbc.com/news/articles/c3d2d55kvy1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 05 Jun 2026 10:56:38 GMT"
-      },
-      {
-        "title": "Two weeks out from crucial Makerfield by-election, here's how the contest is shaping up",
-        "url": "https://www.bbc.com/news/articles/cg7p7nmj52jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 05 Jun 2026 10:16:46 GMT"
-      },
-      {
-        "title": "A-level maths exam marking to be watched closely by regulator after students say paper was 'unfair'",
-        "url": "https://www.bbc.com/news/articles/c4g9gz9d2qzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 05 Jun 2026 12:13:11 GMT"
       }
     ],
     "projects": [
