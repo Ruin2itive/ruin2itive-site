@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-05T16:56:23.061Z",
-  "updated_local": "6/5/2026, 4:56:23 PM",
+  "updated_iso": "2026-06-05T17:37:28.852Z",
+  "updated_local": "6/5/2026, 5:37:28 PM",
   "sections": {
     "crypto": [
       {
@@ -54,16 +54,16 @@
         "time": "6/3/2026, 1:22:06 PM"
       },
       {
+        "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+        "source": "hn",
+        "time": "6/5/2026, 4:18:48 PM"
+      },
+      {
         "title": "I tested every IP KVM in my Homelab",
         "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
         "source": "hn",
         "time": "6/5/2026, 2:30:50 PM"
-      },
-      {
-        "title": "Cooldown Support for Ruby Bundler",
-        "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
-        "source": "hn",
-        "time": "6/3/2026, 5:15:09 AM"
       }
     ],
     "world": [
@@ -71,13 +71,13 @@
         "title": "Rapist Paul Quinn's 24-year sentence an insult, says wrongly convicted Andrew Malkinson",
         "url": "https://www.bbc.com/news/articles/c99l93md0gko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 05 Jun 2026 16:44:48 GMT"
+        "time": "Fri, 05 Jun 2026 17:04:15 GMT"
       },
       {
-        "title": "Buffy and Ted Lasso star Anthony Head dies at 72",
-        "url": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ex-Channel 4 News host Jon Snow reveals he has Alzheimer's",
+        "url": "https://www.bbc.com/news/articles/c3626ry101lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 05 Jun 2026 16:21:18 GMT"
+        "time": "Fri, 05 Jun 2026 17:10:50 GMT"
       },
       {
         "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
@@ -86,16 +86,16 @@
         "time": "Fri, 05 Jun 2026 16:14:36 GMT"
       },
       {
+        "title": "Buffy and Ted Lasso star Anthony Head dies at 72",
+        "url": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 05 Jun 2026 17:35:00 GMT"
+      },
+      {
         "title": "Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'",
         "url": "https://www.bbc.com/news/articles/cn9p91295q8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 05 Jun 2026 15:59:58 GMT"
-      },
-      {
-        "title": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
-        "url": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 05 Jun 2026 11:00:58 GMT"
       }
     ],
     "projects": [
