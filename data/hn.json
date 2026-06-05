@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-05T01:42:58.599Z"
+    "built_at": "2026-06-05T03:05:11.046Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The Causes of Long Covid",
+      "url": "https://www.science.org/content/blog-post/causes-long-covid",
+      "date": "2026-06-05T03:04:28.000Z"
+    },
+    {
+      "title": "NPM-Scan v1.1.0: Four New Detectors for June 2026 Supply Chain Attacks",
+      "url": "https://github.com/lateos-ai/npm-scan/blob/main/VALIDATION.md",
+      "date": "2026-06-05T03:03:28.000Z"
+    }
+  ]
 }
