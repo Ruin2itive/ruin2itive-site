@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-05T05:30:08.114Z"
+    "built_at": "2026-06-05T07:26:19.812Z"
   },
-  "items": [
-    {
-      "title": "Why Stone-Faced Fascists Keep Getting Antiquity Wrong",
-      "url": "https://www.thebulwark.com/p/why-stone-faced-fascists-keep-getting-antiquity-wrong-x-twitter-elon-musk-ancient-greece-roman-empire",
-      "date": "2026-06-05T05:22:25.000Z"
-    },
-    {
-      "title": "Show HN: ProData AI–AutoML,Data Analysis&PowerBI-Style Dashboards in Streamlit",
-      "url": "https://varu4-prodata-ai-app-d2bocc.streamlit.app",
-      "date": "2026-06-05T05:20:41.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
