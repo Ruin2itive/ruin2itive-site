@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-05T13:04:09.461Z",
-  "updated_local": "6/5/2026, 1:04:09 PM",
+  "updated_iso": "2026-06-05T13:17:47.116Z",
+  "updated_local": "6/5/2026, 1:17:47 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Hyperliquid Hit by UK FCA Warning as Crypto Perps Face Scrutiny",
+        "url": "https://decrypt.co/370117/hyperliquid-hit-by-uk-fca-warning-as-crypto-perps-face-scrutiny",
+        "source": "crypto",
+        "time": "Fri, 05 Jun 2026 13:10:25 +0000"
+      },
       {
         "title": "Morning Minute: Massive ZCash Exploit Found by Claude, Extent Unknown",
         "url": "https://decrypt.co/370112/morning-minute-massive-zcash-exploit-found-by-claude-extent-unknown",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/370089/ai-already-developing-ai-anthropic-humans-slowing-things-down",
         "source": "crypto",
         "time": "Thu, 04 Jun 2026 21:37:01 +0000"
-      },
-      {
-        "title": "Republican Lawmaker Plans to Add Prediction Markets to Congressional Stock Ban Bill",
-        "url": "https://decrypt.co/370086/republican-lawmaker-add-prediction-markets-ongressional-stock-ban-bill",
-        "source": "crypto",
-        "time": "Thu, 04 Jun 2026 20:43:19 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "6/3/2026, 10:05:11 AM"
       },
       {
+        "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+        "url": "https://mouseless.click",
+        "source": "hn",
+        "time": "6/3/2026, 1:22:06 PM"
+      },
+      {
         "title": "Changing How We Develop Ladybird",
         "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
         "source": "hn",
         "time": "6/5/2026, 7:26:33 AM"
-      },
-      {
-        "title": "Did Claude Increase Bugs in Rsync?",
-        "url": "https://alexispurslane.github.io/rsync-analysis/",
-        "source": "hn",
-        "time": "6/5/2026, 12:43:33 PM"
       }
     ],
     "world": [
