@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-05T05:42:49.659Z",
-  "updated_local": "6/5/2026, 5:42:49 AM",
+  "updated_iso": "2026-06-05T07:32:50.506Z",
+  "updated_local": "6/5/2026, 7:32:50 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
-        "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+        "title": "C++: The Documentary",
+        "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
         "source": "hn",
-        "time": "6/5/2026, 3:14:28 AM"
+        "time": "6/5/2026, 4:37:01 AM"
       },
       {
         "title": "Meta enables ADB on deprecated Portal devices [video]",
         "url": "https://fb.watch/HxPu0fSyeH/",
         "source": "hn",
         "time": "6/5/2026, 12:44:38 AM"
+      },
+      {
+        "title": "Fine-tuning an LLM to write docs like it's 1995",
+        "url": "https://passo.uno/fine-tuning-docs-llm/",
+        "source": "hn",
+        "time": "6/5/2026, 5:46:06 AM"
       },
       {
         "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
@@ -58,12 +64,6 @@
         "url": "https://github.com/alibaba/open-code-review",
         "source": "hn",
         "time": "6/5/2026, 12:04:29 AM"
-      },
-      {
-        "title": "Do transformers need three projections? Systematic study of QKV variants",
-        "url": "https://arxiv.org/abs/2606.04032",
-        "source": "hn",
-        "time": "6/4/2026, 11:11:56 PM"
       }
     ],
     "world": [
@@ -77,19 +77,19 @@
         "title": "Burnham says he would seek to enter any Labour leadership contest",
         "url": "https://www.bbc.com/news/articles/cp9p9z31rr1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 04 Jun 2026 23:26:04 GMT"
+        "time": "Fri, 05 Jun 2026 05:59:22 GMT"
       },
       {
-        "title": "'World-first' vaccine designed by artificial intelligence",
+        "title": "World-first vaccine designed by AI could protect against whole families of viruses",
         "url": "https://www.bbc.com/news/articles/crrpggegwe0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 04 Jun 2026 23:29:06 GMT"
       },
       {
-        "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-        "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK in most dangerous period I've known, military chief says",
+        "url": "https://www.bbc.com/news/articles/c1m2mryg0k7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 05 Jun 2026 05:20:57 GMT"
+        "time": "Fri, 05 Jun 2026 06:29:42 GMT"
       },
       {
         "title": "One in four births in England is now emergency caesarean, BBC analysis shows",
