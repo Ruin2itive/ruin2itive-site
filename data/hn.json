@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-05T12:57:35.406Z"
+    "built_at": "2026-06-05T14:00:10.221Z"
   },
-  "items": [
-    {
-      "title": "The Empty Field That Wasn't: GPS Broadcasts a Numbers Station",
-      "url": "https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer",
-      "date": "2026-06-05T12:56:44.000Z"
-    },
-    {
-      "title": "Common patterns in Linux tools that go back to ed(1)",
-      "url": "https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/",
-      "date": "2026-06-05T12:55:15.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
