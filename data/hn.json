@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-05T22:25:29.163Z"
+    "built_at": "2026-06-05T23:25:55.006Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Honest Privacy Policies – We Read the Fine Print So You Don't Have To",
-      "url": "https://honestprivacypolicies.org/",
-      "date": "2026-06-05T22:17:59.000Z"
-    },
-    {
-      "title": "I built a music suite to replace five apps, all in one and free (Tauri/Rust)",
-      "url": "https://github.com/EgleAudioSuite/egle/releases/tag/v1.1.0",
-      "date": "2026-06-05T22:17:39.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
