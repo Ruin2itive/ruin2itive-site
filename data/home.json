@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-05T01:16:35.262Z",
-  "updated_local": "6/5/2026, 1:16:35 AM",
+  "updated_iso": "2026-06-05T01:46:46.230Z",
+  "updated_local": "6/5/2026, 1:46:46 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Meta enables adb on deprecated Portal devices",
+        "url": "https://fb.watch/HxPu0fSyeH/",
+        "source": "hn",
+        "time": "6/5/2026, 12:44:38 AM"
+      },
+      {
         "title": "Do transformers need three projections? Systematic study of QKV variants",
         "url": "https://arxiv.org/abs/2606.04032",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "6/4/2026, 8:11:20 PM"
       },
       {
-        "title": "Meta enables adb on deprecated Portal devices",
-        "url": "https://fb.watch/HxPu0fSyeH/",
+        "title": "Open Code Review – An AI-powered code review CLI tool",
+        "url": "https://github.com/alibaba/open-code-review",
         "source": "hn",
-        "time": "6/5/2026, 12:44:38 AM"
+        "time": "6/5/2026, 12:04:29 AM"
       },
       {
         "title": "VoidZero Is Joining Cloudflare",
         "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
         "source": "hn",
         "time": "6/4/2026, 1:00:51 PM"
-      },
-      {
-        "title": "Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux\"",
-        "url": "https://github.com/tarpediem/zenvision-linux",
-        "source": "hn",
-        "time": "6/2/2026, 10:29:01 AM"
       }
     ],
     "world": [
