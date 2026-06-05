@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-04T23:33:42.503Z",
-  "updated_local": "6/4/2026, 11:33:42 PM",
+  "updated_iso": "2026-06-05T00:50:45.358Z",
+  "updated_local": "6/5/2026, 12:50:45 AM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-        "url": "https://github.com/anthropics/defending-code-reference-harness",
-        "source": "hn",
-        "time": "6/4/2026, 8:11:20 PM"
-      },
-      {
-        "title": "Do Transformers Need Three Projections? Systematic Study of QKV Variants",
+        "title": "Do transformers need three projections? Systematic study of QKV variants",
         "url": "https://arxiv.org/abs/2606.04032",
         "source": "hn",
         "time": "6/4/2026, 11:11:56 PM"
       },
       {
-        "title": "IPv6 zones in URLs are a mistake",
-        "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+        "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+        "url": "https://github.com/anthropics/defending-code-reference-harness",
         "source": "hn",
-        "time": "6/4/2026, 9:42:34 PM"
+        "time": "6/4/2026, 8:11:20 PM"
       },
       {
         "title": "VoidZero Is Joining Cloudflare",
@@ -64,6 +58,12 @@
         "url": "https://www.anthropic.com/institute/recursive-self-improvement",
         "source": "hn",
         "time": "6/4/2026, 4:20:17 PM"
+      },
+      {
+        "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
+        "url": "https://tiki.li/blog/blqsort",
+        "source": "hn",
+        "time": "6/2/2026, 8:00:54 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Thu, 04 Jun 2026 23:26:04 GMT"
       },
       {
-        "title": "Royal Navy crew killed in helicopter crash named",
-        "url": "https://www.bbc.com/news/articles/cg4p69gzd4po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
+        "url": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 04 Jun 2026 18:01:42 GMT"
+        "time": "Thu, 04 Jun 2026 23:05:18 GMT"
       },
       {
-        "title": "Henry Nowak deserves legacy that goes beyond tragedy, says PM",
-        "url": "https://www.bbc.com/news/articles/c8jvj9l8x4eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'World-first' vaccine designed by Artificial Intelligence",
+        "url": "https://www.bbc.com/news/articles/crrpggegwe0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 04 Jun 2026 23:27:31 GMT"
+        "time": "Thu, 04 Jun 2026 23:29:06 GMT"
+      },
+      {
+        "title": "One in four births in England is now emergency caesarean, BBC analysis shows",
+        "url": "https://www.bbc.com/news/articles/cqxpxjrqd1po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 04 Jun 2026 23:41:16 GMT"
       },
       {
         "title": "How misinformation about student's murder sent two people into hiding",
         "url": "https://www.bbc.com/news/videos/cg4p4lr9v35o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 04 Jun 2026 19:24:11 GMT"
-      },
-      {
-        "title": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
-        "url": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 04 Jun 2026 23:05:18 GMT"
       }
     ],
     "projects": [
