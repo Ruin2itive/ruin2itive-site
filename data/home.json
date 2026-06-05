@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-06-05T19:39:46.372Z",
-  "updated_local": "6/5/2026, 7:39:46 PM",
+  "updated_iso": "2026-06-05T20:37:56.015Z",
+  "updated_local": "6/5/2026, 8:37:56 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Zcash Bug Crisis Shows Privacy Cuts Both Ways, Experts Say",
+        "url": "https://decrypt.co/370223/zcash-bug-crisis-shows-privacy-cuts-both-ways-experts-say",
+        "source": "crypto",
+        "time": "Fri, 05 Jun 2026 20:26:17 +0000"
+      },
+      {
+        "title": "Strategy Shares Fall to 4-Month Low as STRC Dips and Bitcoin Sinks Under $60K",
+        "url": "https://decrypt.co/370229/strategy-shares-fall-4-month-low-strc-dips-bitcoin-sinks-under-60k",
+        "source": "crypto",
+        "time": "Fri, 05 Jun 2026 20:02:53 +0000"
+      },
       {
         "title": "Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI",
         "url": "https://decrypt.co/370207/anthropic-helping-nsa-hack-china-also-wants-everyone-pause-ai",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/370197/congress-7-crypto-tax-bills",
         "source": "crypto",
         "time": "Fri, 05 Jun 2026 18:13:56 +0000"
-      },
-      {
-        "title": "Tom Lee&#39;s Ethereum Treasury BitMine Prices Preferred Shares With 9.5% Dividend",
-        "url": "https://decrypt.co/370188/tom-lees-ethereum-treasury-bitmine-prices-preferred-shares",
-        "source": "crypto",
-        "time": "Fri, 05 Jun 2026 17:57:29 +0000"
-      },
-      {
-        "title": "Bitcoin Dives Below $60K Following Strong Jobs Data, Zcash Crash Shaking Crypto Confidence",
-        "url": "https://decrypt.co/370120/bitcoin-dives-below-60k-first-time-2024-zcash-crash",
-        "source": "crypto",
-        "time": "Fri, 05 Jun 2026 16:15:42 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "6/5/2026, 4:18:48 PM"
       },
       {
-        "title": "Cloudflare CEO Is Lying to You About the Bot Traffic Jump",
-        "url": "https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/",
+        "title": "Three of our worst VC stories",
+        "url": "https://twitter.com/eastdakota/status/2062860530360959273",
         "source": "hn",
-        "time": "6/5/2026, 5:56:19 PM"
+        "time": "6/5/2026, 7:08:12 PM"
       },
       {
-        "title": "GitHub Accidentally Deletes Slack and Teams Subscriptions",
-        "url": "https://www.githubstatus.com/incidents/2nmfnbknhlnv",
+        "title": "My Agent Skill for Test-Driven Development",
+        "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
         "source": "hn",
-        "time": "6/5/2026, 7:15:36 PM"
+        "time": "6/4/2026, 2:10:40 PM"
       }
     ],
     "world": [
@@ -74,10 +74,16 @@
         "time": "Fri, 05 Jun 2026 17:04:15 GMT"
       },
       {
+        "title": "Downing Street hits out at 'people seeking to stir division' after Vance's Nowak post",
+        "url": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 05 Jun 2026 19:56:37 GMT"
+      },
+      {
         "title": "Buffy and Ted Lasso star Anthony Head dies at 72",
         "url": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 05 Jun 2026 19:11:57 GMT"
+        "time": "Fri, 05 Jun 2026 19:53:18 GMT"
       },
       {
         "title": "Ex-Channel 4 News host Jon Snow reveals he has Alzheimer's",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 05 Jun 2026 18:16:15 GMT"
-      },
-      {
-        "title": "Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'",
-        "url": "https://www.bbc.com/news/articles/cn9p91295q8o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 05 Jun 2026 15:59:58 GMT"
       }
     ],
     "projects": [
