@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-05T09:21:25.773Z",
-  "updated_local": "6/5/2026, 9:21:25 AM",
+  "updated_iso": "2026-06-05T11:08:38.615Z",
+  "updated_local": "6/5/2026, 11:08:38 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "ZEC Crashes 38% as Zcash Discloses ‘Critical Counterfeiting Vulnerability’",
+        "url": "https://decrypt.co/370105/zec-crashes-38-as-zcash-discloses-critical-counterfeiting-vulnerability",
+        "source": "crypto",
+        "time": "Fri, 05 Jun 2026 10:41:59 +0000"
+      },
       {
         "title": "AI Is Already Developing AI, Says Anthropic—And Humans May Be Slowing Things Down",
         "url": "https://decrypt.co/370089/ai-already-developing-ai-anthropic-humans-slowing-things-down",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/370080/google-deepmind-ceo-agi-coming",
         "source": "crypto",
         "time": "Thu, 04 Jun 2026 18:54:22 +0000"
-      },
-      {
-        "title": "Strategy&#39;s Michael Saylor Blames &#39;Capital Rotation&#39; Into AI as Bitcoin Dives 13%",
-        "url": "https://decrypt.co/370053/strategy-michael-saylor-blames-capital-rotation-ai-bitcoin-dives",
-        "source": "crypto",
-        "time": "Thu, 04 Jun 2026 18:06:15 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "6/5/2026, 7:26:33 AM"
       },
       {
-        "title": "C++: The Documentary",
-        "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+        "title": "Tracing a powerful GNSS interference source over Europe",
+        "url": "https://arxiv.org/abs/2606.03673",
         "source": "hn",
-        "time": "6/5/2026, 4:37:01 AM"
+        "time": "6/5/2026, 8:32:16 AM"
+      },
+      {
+        "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+        "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+        "source": "hn",
+        "time": "6/5/2026, 8:33:37 AM"
+      },
+      {
+        "title": "databow: a Rust CLI to query any database with an ADBC driver",
+        "url": "https://columnar.tech/blog/introducing-databow//",
+        "source": "hn",
+        "time": "6/2/2026, 11:11:13 PM"
       },
       {
         "title": "Meta enables ADB on deprecated Portal devices [video]",
         "url": "https://fb.watch/HxPu0fSyeH/",
         "source": "hn",
         "time": "6/5/2026, 12:44:38 AM"
-      },
-      {
-        "title": "Fine-tuning an LLM to write docs like it's 1995",
-        "url": "https://passo.uno/fine-tuning-docs-llm/",
-        "source": "hn",
-        "time": "6/5/2026, 5:46:06 AM"
-      },
-      {
-        "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
-        "url": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
-        "source": "hn",
-        "time": "6/4/2026, 5:51:10 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
         "url": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 05 Jun 2026 08:15:01 GMT"
+        "time": "Fri, 05 Jun 2026 11:00:58 GMT"
       },
       {
         "title": "World-first vaccine designed by AI could protect against whole families of viruses",
@@ -80,22 +80,22 @@
         "time": "Thu, 04 Jun 2026 23:29:06 GMT"
       },
       {
+        "title": "Former student charged after University of Surrey crossbow attack",
+        "url": "https://www.bbc.com/news/articles/cvgzg417yxno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 05 Jun 2026 10:40:40 GMT"
+      },
+      {
+        "title": "How the contest is shaping up two weeks ahead of crucial Makerfield by-election",
+        "url": "https://www.bbc.com/news/articles/cg7p7nmj52jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 05 Jun 2026 10:16:46 GMT"
+      },
+      {
         "title": "UK in most dangerous period I've known, military chief says",
         "url": "https://www.bbc.com/news/articles/c1m2mryg0k7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 05 Jun 2026 06:29:42 GMT"
-      },
-      {
-        "title": "One in four births in England is now emergency caesarean, BBC analysis shows",
-        "url": "https://www.bbc.com/news/articles/cqxpxjrqd1po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 04 Jun 2026 23:41:16 GMT"
-      },
-      {
-        "title": "Burnham says he would seek to enter any Labour leadership contest",
-        "url": "https://www.bbc.com/news/articles/cp9p9z31rr1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 05 Jun 2026 07:56:49 GMT"
+        "time": "Fri, 05 Jun 2026 10:12:17 GMT"
       }
     ],
     "projects": [
