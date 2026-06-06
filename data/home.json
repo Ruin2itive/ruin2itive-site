@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-06T09:02:43.444Z",
-  "updated_local": "6/6/2026, 9:02:43 AM",
+  "updated_iso": "2026-06-06T09:43:44.220Z",
+  "updated_local": "6/6/2026, 9:43:44 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "GrapheneOS user reported to authorities for using GrapheneOS",
+        "url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
+        "source": "hn",
+        "time": "6/6/2026, 8:43:59 AM"
+      },
+      {
+        "title": "Zig Zen Update",
+        "url": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
+        "source": "hn",
+        "time": "6/6/2026, 8:38:44 AM"
+      },
+      {
         "title": "How LLMs work",
         "url": "https://www.0xkato.xyz/how-llms-actually-work/",
         "source": "hn",
@@ -52,18 +64,6 @@
         "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
         "source": "hn",
         "time": "6/6/2026, 4:38:36 AM"
-      },
-      {
-        "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
-        "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-        "source": "hn",
-        "time": "6/6/2026, 3:41:32 AM"
-      },
-      {
-        "title": "Social Cache Busting",
-        "url": "https://www.autodidacts.io/social-cache-busting/",
-        "source": "hn",
-        "time": "6/2/2026, 1:15:18 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Sat, 06 Jun 2026 07:33:07 GMT"
       },
       {
+        "title": "D-Day veterans mark anniversary as nearly 100 British names added to memorial",
+        "url": "https://www.bbc.com/news/articles/cvgm53nqvndo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 06 Jun 2026 09:23:37 GMT"
+      },
+      {
         "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
         "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 05 Jun 2026 18:16:15 GMT"
-      },
-      {
-        "title": "D-Day veterans mark 82nd anniversary as nearly 100 British names added to memorial",
-        "url": "https://www.bbc.com/news/articles/cvgm53nqvndo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 06 Jun 2026 08:17:49 GMT"
       }
     ],
     "projects": [
