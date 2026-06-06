@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-06T14:39:08.811Z",
-  "updated_local": "6/6/2026, 2:39:08 PM",
+  "updated_iso": "2026-06-06T15:29:21.948Z",
+  "updated_local": "6/6/2026, 3:29:21 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Moving beyond fork() + exec()",
+        "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+        "source": "hn",
+        "time": "6/6/2026, 2:34:20 PM"
+      },
+      {
         "title": "Benchmarks in Leipzig",
         "url": "https://arxiv.org/abs/2606.05818",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "6/3/2026, 8:15:13 PM"
       },
       {
-        "title": "Building Rust Procedural Macros from the Grounds Up",
-        "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
-        "source": "hn",
-        "time": "5/31/2026, 7:28:49 PM"
-      },
-      {
-        "title": "The new bibliomaniacs",
-        "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
-        "source": "hn",
-        "time": "6/6/2026, 12:03:21 PM"
-      },
-      {
         "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
         "url": "https://pokeemerald.com/",
         "source": "hn",
         "time": "6/6/2026, 11:12:58 AM"
+      },
+      {
+        "title": "Building Rust Procedural Macros from the Grounds Up",
+        "url": "https://www.learnix-os.com/ch02-03-implementing-the-bitfields-proc-macro.html",
+        "source": "hn",
+        "time": "5/31/2026, 7:28:49 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "West Ham joint chairman David Sullivan steps down after 'serious' historical allegations",
         "url": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 06 Jun 2026 11:17:07 GMT"
+        "time": "Sat, 06 Jun 2026 14:51:58 GMT"
       },
       {
         "title": "The Nowak murder has lit a match under British politics. This is how we got here",
@@ -83,7 +83,7 @@
         "title": "King's nephew Peter Phillips weds NHS nurse with William and Kate among guests",
         "url": "https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 06 Jun 2026 14:27:08 GMT"
+        "time": "Sat, 06 Jun 2026 15:15:57 GMT"
       },
       {
         "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
@@ -92,10 +92,10 @@
         "time": "Sat, 06 Jun 2026 13:38:07 GMT"
       },
       {
-        "title": "Four more admit violent disorder after Nowak protest",
-        "url": "https://www.bbc.com/news/articles/c05yjg452geo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Thinking about the next heatwave? Prepare for more rain first",
+        "url": "https://www.bbc.com/weather/articles/clypk7j0qqdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 06 Jun 2026 13:28:36 GMT"
+        "time": "Sat, 06 Jun 2026 14:15:50 GMT"
       }
     ],
     "projects": [
