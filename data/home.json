@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-06T17:32:14.392Z",
-  "updated_local": "6/6/2026, 5:32:14 PM",
+  "updated_iso": "2026-06-06T18:29:40.235Z",
+  "updated_local": "6/6/2026, 6:29:40 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Claude Code Vulnerability Could Let Attackers Steal Credentials From GitHub, Says Microsoft",
+        "url": "https://decrypt.co/370238/claude-code-vulnerability-attackers-steal-credentials-github-microsoft",
+        "source": "crypto",
+        "time": "Sat, 06 Jun 2026 18:08:56 +0000"
+      },
       {
         "title": "Bitcoin Has Dumped All of Its Gains Since Trump Was Reelected—And Then Some",
         "url": "https://decrypt.co/370235/bitcoin-dumped-gains-since-trump-reelected-then-some",
@@ -26,32 +32,14 @@
         "url": "https://decrypt.co/370229/strategy-shares-fall-4-month-low-strc-dips-bitcoin-sinks-under-60k",
         "source": "crypto",
         "time": "Fri, 05 Jun 2026 20:02:53 +0000"
-      },
-      {
-        "title": "Anthropic Is Helping the NSA Hack China. It Also Wants Everyone to Pause AI",
-        "url": "https://decrypt.co/370207/anthropic-helping-nsa-hack-china-also-wants-everyone-pause-ai",
-        "source": "crypto",
-        "time": "Fri, 05 Jun 2026 19:18:56 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Moving beyond fork() + exec()",
-        "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-        "source": "hn",
-        "time": "6/6/2026, 2:34:20 PM"
-      },
       {
         "title": "Zeroserve: A zero-config web server you can script with eBPF",
         "url": "https://su3.io/posts/introducing-zeroserve",
         "source": "hn",
         "time": "6/6/2026, 2:59:43 PM"
-      },
-      {
-        "title": "Benchmarks in Leipzig",
-        "url": "https://arxiv.org/abs/2606.05818",
-        "source": "hn",
-        "time": "6/6/2026, 2:00:52 PM"
       },
       {
         "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
@@ -60,10 +48,22 @@
         "time": "6/6/2026, 12:52:18 PM"
       },
       {
-        "title": "Google will pay SpaceX $920M per month for compute",
-        "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+        "title": "Moving beyond fork() + exec()",
+        "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
         "source": "hn",
-        "time": "6/6/2026, 11:46:15 AM"
+        "time": "6/6/2026, 2:34:20 PM"
+      },
+      {
+        "title": "Benchmarks in Leipzig",
+        "url": "https://arxiv.org/abs/2606.05818",
+        "source": "hn",
+        "time": "6/6/2026, 2:00:52 PM"
+      },
+      {
+        "title": "You Can Run",
+        "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
+        "source": "hn",
+        "time": "6/6/2026, 3:55:46 PM"
       }
     ],
     "world": [
