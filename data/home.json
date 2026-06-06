@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-06T16:33:10.704Z",
-  "updated_local": "6/6/2026, 4:33:10 PM",
+  "updated_iso": "2026-06-06T17:28:02.818Z",
+  "updated_local": "6/6/2026, 5:28:02 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "6/6/2026, 2:34:20 PM"
       },
       {
+        "title": "Zeroserve: A zero-config web server you can script with eBPF",
+        "url": "https://su3.io/posts/introducing-zeroserve",
+        "source": "hn",
+        "time": "6/6/2026, 2:59:43 PM"
+      },
+      {
         "title": "Benchmarks in Leipzig",
         "url": "https://arxiv.org/abs/2606.05818",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
         "source": "hn",
         "time": "6/6/2026, 11:46:15 AM"
-      },
-      {
-        "title": "How LLMs work",
-        "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-        "source": "hn",
-        "time": "6/3/2026, 8:15:13 PM"
       }
     ],
     "world": [
@@ -95,7 +95,7 @@
         "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
         "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 06 Jun 2026 13:38:07 GMT"
+        "time": "Sat, 06 Jun 2026 17:14:03 GMT"
       }
     ],
     "projects": [
