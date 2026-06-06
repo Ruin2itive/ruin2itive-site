@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-06T10:36:52.897Z"
+    "built_at": "2026-06-06T11:30:19.805Z"
   },
-  "items": [
-    {
-      "title": "France, Germany, and the Netherlands public admin co-developed public tools",
-      "url": "https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/how-france-germany-and-netherlands-co-developed-public-tools",
-      "date": "2026-06-06T10:34:31.000Z"
-    },
-    {
-      "title": "Lessons from a weekend building local AI workflows",
-      "url": "http://stefano.petrilli.xyz/building-ai-workflows/",
-      "date": "2026-06-06T10:33:49.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
