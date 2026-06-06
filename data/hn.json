@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-06T00:34:40.233Z"
+    "built_at": "2026-06-06T01:38:17.216Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: ABC Classic 100 Rankings visualised",
+      "url": "https://classic100.gotski.workers.dev/",
+      "date": "2026-06-06T01:32:09.000Z"
+    },
+    {
+      "title": "Some concerns about Ladybird's bylaws",
+      "url": "https://tuananh.net/2026/06/06/ladybird-bylaws/",
+      "date": "2026-06-06T01:30:52.000Z"
+    }
+  ]
 }
