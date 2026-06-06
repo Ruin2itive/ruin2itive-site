@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-06T14:31:17.491Z"
+    "built_at": "2026-06-06T15:26:47.483Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "How does Effect work under-the-hood?",
+      "url": "https://effect-guide.netlify.app/",
+      "date": "2026-06-06T15:24:56.000Z"
+    },
+    {
+      "title": "Drawing Hands",
+      "url": "https://hari.computer/drawing-hands",
+      "date": "2026-06-06T15:21:08.000Z"
+    }
+  ]
 }
