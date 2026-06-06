@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-06T21:22:07.036Z"
+    "built_at": "2026-06-06T22:22:02.648Z"
   },
-  "items": [
-    {
-      "title": "The C++ Documentary Won't Show You a Number. I Will",
-      "url": "https://hftuniversity.com/post/the-c-documentary-won-t-show-you-a-number-i-will",
-      "date": "2026-06-06T21:18:09.000Z"
-    },
-    {
-      "title": "Wasting China's solar panel surplus is madness",
-      "url": "https://www.ft.com/content/b6cac184-75a4-47ab-94c5-5eb8c92cd407",
-      "date": "2026-06-06T21:17:07.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
