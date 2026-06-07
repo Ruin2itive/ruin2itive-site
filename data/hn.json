@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-07T19:30:22.767Z"
+    "built_at": "2026-06-07T20:25:35.434Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Loss of Prefrontal Cortical Higher Cognition with Uncontrollable Stress (2019)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6562841/",
+      "date": "2026-06-07T20:24:49.000Z"
+    },
+    {
+      "title": "Show HN: Nightwatch, The open-source, read-only AI SRE",
+      "url": "https://github.com/ninoxAI/nightwatch",
+      "date": "2026-06-07T20:24:36.000Z"
+    }
+  ]
 }

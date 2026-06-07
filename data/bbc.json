@@ -4,18 +4,18 @@
     "label": "bbc",
     "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
     "take": 2,
-    "built_at": "2026-06-07T19:30:36.397Z"
+    "built_at": "2026-06-07T20:25:36.932Z"
   },
   "items": [
+    {
+      "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
+      "url": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-07T19:55:49.000Z"
+    },
     {
       "title": "Antonelli-Russell contrast could hardly be more stark",
       "url": "https://www.bbc.com/sport/formula1/articles/cd95d3vy34lo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-07T19:20:28.000Z"
-    },
-    {
-      "title": "Israel strikes Beirut suburb days after US-brokered truce",
-      "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-07T19:06:53.000Z"
     }
   ]
 }
