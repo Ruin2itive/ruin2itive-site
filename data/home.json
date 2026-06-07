@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-07T12:45:02.607Z",
-  "updated_local": "6/7/2026, 12:45:02 PM",
+  "updated_iso": "2026-06-07T13:35:08.118Z",
+  "updated_local": "6/7/2026, 1:35:08 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Claude Opus 4.8 Review: Better At What’s It Good At, Worse At What It’s Not",
+        "url": "https://decrypt.co/370128/claude-opus-4-8-review",
+        "source": "crypto",
+        "time": "Sun, 07 Jun 2026 13:01:06 +0000"
+      },
       {
         "title": "AI Is Helping Discover Tech Vulnerabilities—And Zcash Is Just the Latest Example",
         "url": "https://decrypt.co/370237/ai-discover-tech-vulnerabilities-zcash-latest-example",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/370189/meet-guys-still-clinging-terra-luna-do-kwon",
         "source": "crypto",
         "time": "Sat, 06 Jun 2026 14:26:03 +0000"
-      },
-      {
-        "title": "Zcash Bug Crisis Shows Privacy Cuts Both Ways, Experts Say",
-        "url": "https://decrypt.co/370223/zcash-bug-crisis-shows-privacy-cuts-both-ways-experts-say",
-        "source": "crypto",
-        "time": "Fri, 05 Jun 2026 20:26:17 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "LLMs are eroding my software engineering career and I don't know what to do",
+        "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+        "source": "hn",
+        "time": "6/7/2026, 12:49:29 PM"
+      },
+      {
+        "title": "Anthropic, please ship an official Claude Desktop for Linux",
+        "url": "https://github.com/anthropics/claude-code/issues/65697",
+        "source": "hn",
+        "time": "6/7/2026, 1:06:52 PM"
+      },
       {
         "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
         "url": "https://www.ioccc.org/2025/",
@@ -42,28 +54,16 @@
         "time": "6/7/2026, 5:47:54 AM"
       },
       {
-        "title": "Win16 Memory Management",
-        "url": "http://www.os2museum.com/wp/win16-memory-management/",
+        "title": "Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them",
+        "url": "https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/",
         "source": "hn",
-        "time": "6/5/2026, 11:16:47 AM"
+        "time": "6/7/2026, 12:54:54 PM"
       },
       {
-        "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
-        "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
+        "title": "Yon – a topos-oriented language with a content-addressed lattice heap",
+        "url": "https://yon-lang.org/",
         "source": "hn",
-        "time": "6/4/2026, 3:29:53 PM"
-      },
-      {
-        "title": "Scientists ejected from diabetes conference for distributing journal reprints",
-        "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
-        "source": "hn",
-        "time": "6/7/2026, 10:10:33 AM"
-      },
-      {
-        "title": "Show HN: Kyushu – A self-hostable WASM sandbox for JavaScript workers",
-        "url": "https://kyushu.dev/",
-        "source": "hn",
-        "time": "6/7/2026, 7:35:02 AM"
+        "time": "6/5/2026, 12:28:17 AM"
       }
     ],
     "world": [
@@ -74,16 +74,16 @@
         "time": "Sun, 07 Jun 2026 10:50:04 GMT"
       },
       {
-        "title": "Delays to defence plan undermine UK credibility, MPs say",
-        "url": "https://www.bbc.com/news/articles/c0ky47v6d1no?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 07 Jun 2026 09:40:46 GMT"
-      },
-      {
         "title": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
         "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 07 Jun 2026 12:09:57 GMT"
+      },
+      {
+        "title": "Delays to defence plan undermine UK credibility, MPs say",
+        "url": "https://www.bbc.com/news/articles/c0ky47v6d1no?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 07 Jun 2026 09:40:46 GMT"
       },
       {
         "title": "Cosmeticorexia: How girls are falling down a skincare rabbit hole",
