@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-07T09:12:48.796Z",
-  "updated_local": "6/7/2026, 9:12:48 AM",
+  "updated_iso": "2026-06-07T10:47:18.180Z",
+  "updated_local": "6/7/2026, 10:47:18 AM",
   "sections": {
     "crypto": [
       {
@@ -42,10 +42,16 @@
         "time": "6/7/2026, 5:47:54 AM"
       },
       {
-        "title": "I design with Claude more than Figma now",
-        "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+        "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
+        "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
         "source": "hn",
-        "time": "6/7/2026, 5:04:24 AM"
+        "time": "6/4/2026, 3:29:53 PM"
+      },
+      {
+        "title": "Win16 Memory Management",
+        "url": "http://www.os2museum.com/wp/win16-memory-management/",
+        "source": "hn",
+        "time": "6/5/2026, 11:16:47 AM"
       },
       {
         "title": "Valve P2P networking broken for more than 2 months",
@@ -58,38 +64,32 @@
         "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
         "source": "hn",
         "time": "6/7/2026, 2:46:37 AM"
-      },
-      {
-        "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-        "url": "https://arxiv.org/abs/2601.14470",
-        "source": "hn",
-        "time": "6/7/2026, 1:37:11 AM"
       }
     ],
     "world": [
       {
+        "title": "Lammy says he told JD Vance his Nowak comments were 'wrong'",
+        "url": "https://www.bbc.com/news/articles/cjwg387040wo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 07 Jun 2026 09:51:40 GMT"
+      },
+      {
         "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
         "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 07 Jun 2026 08:46:39 GMT"
+        "time": "Sun, 07 Jun 2026 10:35:25 GMT"
       },
       {
         "title": "Delays to defence plan undermine UK credibility, MPs say",
         "url": "https://www.bbc.com/news/articles/c0ky47v6d1no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 07 Jun 2026 07:04:20 GMT"
+        "time": "Sun, 07 Jun 2026 09:40:46 GMT"
       },
       {
         "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
         "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 07 Jun 2026 07:11:18 GMT"
-      },
-      {
-        "title": "Starmer tells supporters he will fight any leadership contest",
-        "url": "https://www.bbc.com/news/articles/c3vyxzl625po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 07 Jun 2026 01:03:55 GMT"
       },
       {
         "title": "Cosmeticorexia: How girls are falling down a skincare rabbit hole",
