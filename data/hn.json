@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-07T16:28:54.298Z"
+    "built_at": "2026-06-07T17:28:47.398Z"
   },
-  "items": [
-    {
-      "title": "WSL vs Wine",
-      "url": "https://news.ycombinator.com/item?id=48436360",
-      "date": "2026-06-07T16:27:44.000Z"
-    },
-    {
-      "title": "Halide Mark III",
-      "url": "https://www.lux.camera/halide-mark-iii/",
-      "date": "2026-06-07T16:26:45.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
