@@ -4,18 +4,18 @@
     "label": "decrypt",
     "source_url": "https://decrypt.co/feed",
     "take": 2,
-    "built_at": "2026-06-07T12:30:27.031Z"
+    "built_at": "2026-06-07T13:32:13.797Z"
   },
   "items": [
+    {
+      "title": "Claude Opus 4.8 Review: Better At What’s It Good At, Worse At What It’s Not",
+      "url": "https://decrypt.co/370128/claude-opus-4-8-review",
+      "date": "2026-06-07T13:01:06.000Z"
+    },
     {
       "title": "AI Is Helping Discover Tech Vulnerabilities—And Zcash Is Just the Latest Example",
       "url": "https://decrypt.co/370237/ai-discover-tech-vulnerabilities-zcash-latest-example",
       "date": "2026-06-06T20:56:43.000Z"
-    },
-    {
-      "title": "Claude Code Vulnerability Could Let Attackers Steal Credentials From GitHub, Says Microsoft",
-      "url": "https://decrypt.co/370238/claude-code-vulnerability-attackers-steal-credentials-github-microsoft",
-      "date": "2026-06-06T18:08:56.000Z"
     }
   ]
 }
