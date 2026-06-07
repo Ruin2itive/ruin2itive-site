@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-07T03:21:32.448Z",
-  "updated_local": "6/7/2026, 3:21:32 AM",
+  "updated_iso": "2026-06-07T05:34:06.696Z",
+  "updated_local": "6/7/2026, 5:34:06 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
+        "title": "Valve P2P networking broken for more than 2 months",
+        "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+        "source": "hn",
+        "time": "6/7/2026, 3:21:52 AM"
+      },
+      {
         "title": "Field of clones: How horse replicas came to dominate polo",
         "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
         "source": "hn",
         "time": "6/7/2026, 2:46:37 AM"
-      },
-      {
-        "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-        "url": "https://arxiv.org/abs/2601.14470",
-        "source": "hn",
-        "time": "6/7/2026, 1:37:11 AM"
       },
       {
         "title": "Harness engineering: Leveraging Codex in an agent-first world",
@@ -54,16 +54,16 @@
         "time": "6/5/2026, 6:20:06 PM"
       },
       {
+        "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+        "url": "https://arxiv.org/abs/2601.14470",
+        "source": "hn",
+        "time": "6/7/2026, 1:37:11 AM"
+      },
+      {
         "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
         "url": "https://ntsc.rs/",
         "source": "hn",
         "time": "6/6/2026, 7:17:46 PM"
-      },
-      {
-        "title": "An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World",
-        "url": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
-        "source": "hn",
-        "time": "6/7/2026, 1:24:15 AM"
       }
     ],
     "world": [
@@ -74,10 +74,10 @@
         "time": "Sun, 07 Jun 2026 01:07:59 GMT"
       },
       {
-        "title": "Starmer tells supporters he will fight any leadership contest",
-        "url": "https://www.bbc.com/news/articles/c3vyxzl625po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+        "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 07 Jun 2026 01:03:55 GMT"
+        "time": "Sat, 06 Jun 2026 23:52:07 GMT"
       },
       {
         "title": "Cosmeticorexia: How girls are falling down a skincare rabbit hole",
@@ -86,16 +86,16 @@
         "time": "Sat, 06 Jun 2026 23:06:33 GMT"
       },
       {
+        "title": "Starmer tells supporters he will fight any leadership contest",
+        "url": "https://www.bbc.com/news/articles/c3vyxzl625po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 07 Jun 2026 01:03:55 GMT"
+      },
+      {
         "title": "Police officer turned Love Island US contestant faces hometown backlash",
         "url": "https://www.bbc.com/news/articles/cpqprxlqe0po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 06 Jun 2026 23:25:36 GMT"
-      },
-      {
-        "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
-        "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 06 Jun 2026 23:52:07 GMT"
       }
     ],
     "projects": [
