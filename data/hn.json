@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-07T03:05:25.241Z"
+    "built_at": "2026-06-07T05:31:02.827Z"
   },
-  "items": [
-    {
-      "title": "The Russian who invented semiconductors 25 years before the USA",
-      "url": "https://www.semidoped.com/p/til-the-man-who-invented-the-future",
-      "date": "2026-06-07T03:00:52.000Z"
-    },
-    {
-      "title": "2ez.sol Its 1999 again Free games. 2ez",
-      "url": "https://2ez.sol.site",
-      "date": "2026-06-07T02:53:28.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
