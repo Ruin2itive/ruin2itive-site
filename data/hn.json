@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-07T09:01:53.692Z"
+    "built_at": "2026-06-07T10:44:15.756Z"
   },
-  "items": [
-    {
-      "title": "DentaQuest Data Breach Analysis",
-      "url": "https://www.rescana.com/post/dentaquest-data-breach-analysis-shinyhunters-leak-exposes-pii-and-phi-of-2-6-million-members-in-2026",
-      "date": "2026-06-07T08:48:55.000Z"
-    },
-    {
-      "title": "Rodents in the Attic (Small C64 demo) [video]",
-      "url": "https://www.youtube.com/watch?v=fbXIdK3o3NU",
-      "date": "2026-06-07T08:48:43.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
