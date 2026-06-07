@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-07T05:41:29.987Z",
-  "updated_local": "6/7/2026, 5:41:29 AM",
+  "updated_iso": "2026-06-07T07:26:46.943Z",
+  "updated_local": "6/7/2026, 7:26:46 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+        "url": "https://www.ioccc.org/2025/",
+        "source": "hn",
+        "time": "6/7/2026, 5:47:54 AM"
+      },
+      {
+        "title": "I design with Claude more than Figma now",
+        "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+        "source": "hn",
+        "time": "6/7/2026, 5:04:24 AM"
+      },
+      {
         "title": "Valve P2P networking broken for more than 2 months",
         "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
         "source": "hn",
@@ -52,18 +64,6 @@
         "url": "https://arxiv.org/abs/2601.14470",
         "source": "hn",
         "time": "6/7/2026, 1:37:11 AM"
-      },
-      {
-        "title": "Harness engineering: Leveraging Codex in an agent-first world",
-        "url": "https://openai.com/index/harness-engineering/",
-        "source": "hn",
-        "time": "6/5/2026, 6:20:06 PM"
-      },
-      {
-        "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-        "url": "https://ntsc.rs/",
-        "source": "hn",
-        "time": "6/6/2026, 7:17:46 PM"
       }
     ],
     "world": [
@@ -71,13 +71,13 @@
         "title": "Delays to defence plan undermine UK credibility, MPs say",
         "url": "https://www.bbc.com/news/articles/c0ky47v6d1no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 07 Jun 2026 05:33:54 GMT"
+        "time": "Sun, 07 Jun 2026 07:04:20 GMT"
       },
       {
         "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
         "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 06 Jun 2026 23:52:07 GMT"
+        "time": "Sun, 07 Jun 2026 05:47:28 GMT"
       },
       {
         "title": "Cosmeticorexia: How girls are falling down a skincare rabbit hole",
@@ -92,10 +92,10 @@
         "time": "Sun, 07 Jun 2026 01:03:55 GMT"
       },
       {
-        "title": "Police officer turned Love Island US contestant faces hometown backlash",
-        "url": "https://www.bbc.com/news/articles/cpqprxlqe0po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Steve Rosenberg: Lasting image of Russia's economic forum is plume of smoke over St Petersburg",
+        "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 06 Jun 2026 23:25:36 GMT"
+        "time": "Sun, 07 Jun 2026 07:11:18 GMT"
       }
     ],
     "projects": [
