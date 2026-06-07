@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-07T11:32:59.802Z"
+    "built_at": "2026-06-07T12:30:27.200Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Version Control for AI Agents",
-      "url": "https://cognatoai.com",
-      "date": "2026-06-07T11:32:21.000Z"
-    },
-    {
-      "title": "Show HN: PWNC – A dependency-free web platform I've been building for 25 years",
-      "url": "https://github.com/heydev-de/pwnc",
-      "date": "2026-06-07T11:31:19.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
