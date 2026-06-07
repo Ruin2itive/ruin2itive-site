@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-07T21:25:51.299Z"
+    "built_at": "2026-06-07T22:21:58.655Z"
   },
-  "items": [
-    {
-      "title": "VibeOS – Hallucinated Operating System [video]",
-      "url": "https://www.youtube.com/watch?v=z3pV6FHvcgM",
-      "date": "2026-06-07T21:24:21.000Z"
-    },
-    {
-      "title": "Academics set out vision for planetary survival",
-      "url": "https://www.theguardian.com/environment/2026/jun/04/world-inequality-lab-equality-academics-planetary-survival",
-      "date": "2026-06-07T21:21:32.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
