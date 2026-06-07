@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-07T18:25:37.039Z"
+    "built_at": "2026-06-07T19:30:22.767Z"
   },
-  "items": [
-    {
-      "title": "A Rejection on the Eve of Launch (2024)",
-      "url": "https://jonofyi.substack.com/p/a-rejection-on-the-eve-of-launch",
-      "date": "2026-06-07T18:23:34.000Z"
-    },
-    {
-      "title": "Tell HN: Stripe ToS demands biometrics, freezes payments until given",
-      "url": "https://news.ycombinator.com/item?id=48437330",
-      "date": "2026-06-07T18:21:16.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
