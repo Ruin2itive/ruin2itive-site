@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-06T23:21:49.697Z"
+    "built_at": "2026-06-07T00:36:35.484Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Persist – an AI agent that follows up accrued channels till they reply",
+      "url": "https://persist.chat",
+      "date": "2026-06-07T00:35:01.000Z"
+    },
+    {
+      "title": "CS Trivia: computer science crosswords",
+      "url": "https://cstrivia.com/",
+      "date": "2026-06-07T00:34:42.000Z"
+    }
+  ]
 }
