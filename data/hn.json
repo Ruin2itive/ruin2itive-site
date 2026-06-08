@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-08T21:33:01.012Z"
+    "built_at": "2026-06-08T22:30:27.538Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "AkiraOS: Embedded OS that runs WebAssembly applications on microcontrollers",
+      "url": "https://github.com/ArturR0k3r/AkiraOS",
+      "date": "2026-06-08T22:29:00.000Z"
+    },
+    {
+      "title": "OpenAI plots biggest ChatGPT overhaul since launch",
+      "url": "https://www.ft.com/content/ca0f5f5e-fb9a-41a0-a2a9-0127e15b7db9",
+      "date": "2026-06-08T22:28:18.000Z"
+    }
+  ]
 }
