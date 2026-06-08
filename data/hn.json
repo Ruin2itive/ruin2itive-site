@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-08T09:33:06.441Z"
+    "built_at": "2026-06-08T11:35:00.087Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "A Case for Simulation-Driven Resilience in Agentic Data Systems",
+      "url": "http://muratbuffalo.blogspot.com/2026/06/a-case-for-simulation-driven-resilience.html",
+      "date": "2026-06-08T11:33:48.000Z"
+    },
+    {
+      "title": "Show HN: AI agents shouldn't just be for developers",
+      "url": "https://news.ycombinator.com/item?id=48444025",
+      "date": "2026-06-08T11:32:24.000Z"
+    }
+  ]
 }
