@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-08T20:47:35.606Z"
+    "built_at": "2026-06-08T21:33:01.012Z"
   },
-  "items": [
-    {
-      "title": "What's New in SwiftUI for iOS 27",
-      "url": "https://blakecrosley.com/blog/whats-new-swiftui-ios-27",
-      "date": "2026-06-08T20:46:21.000Z"
-    },
-    {
-      "title": "FrontierCode",
-      "url": "https://cognition.ai/blog/frontier-code",
-      "date": "2026-06-08T20:45:03.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
