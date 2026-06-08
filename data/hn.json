@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-08T01:45:47.667Z"
+    "built_at": "2026-06-08T03:06:03.300Z"
   },
-  "items": [
-    {
-      "title": "What it costs to run a one-Rails-app SaaS per month",
-      "url": "https://www.railsreviews.com/articles/what-it-costs-to-run-a-rails-saas",
-      "date": "2026-06-08T01:44:14.000Z"
-    },
-    {
-      "title": "President says Netanyahu will have 'no choice' but to accept a deal with Iran",
-      "url": "https://www.ft.com/content/a0ce59f9-fbde-49e8-9158-fba3d4079859",
-      "date": "2026-06-08T01:42:18.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
