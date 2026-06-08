@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-08T13:24:42.771Z"
+    "built_at": "2026-06-08T15:06:56.350Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Spread",
+      "url": "https://github.com/odipar/spread",
+      "date": "2026-06-08T15:06:37.000Z"
+    },
+    {
+      "title": "On gitology (2011)",
+      "url": "https://jordi.inversethought.com/blog/on-gitology/",
+      "date": "2026-06-08T15:06:23.000Z"
+    }
+  ]
 }
