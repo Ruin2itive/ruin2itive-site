@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-08T01:20:19.394Z",
-  "updated_local": "6/8/2026, 1:20:19 AM",
+  "updated_iso": "2026-06-08T01:50:17.357Z",
+  "updated_local": "6/8/2026, 1:50:17 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Teenage Engineering: Introducing APC-2",
+        "url": "https://teenage.engineering/products/apc-2",
+        "source": "hn",
+        "time": "6/8/2026, 1:27:22 AM"
+      },
+      {
         "title": "The Smallest Brain You Can Build: A Perceptron in Python",
         "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "6/7/2026, 6:33:07 PM"
       },
       {
-        "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
-        "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
-        "source": "hn",
-        "time": "6/8/2026, 12:17:45 AM"
-      },
-      {
         "title": "Show HN: I Derived a Pancake",
         "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
         "source": "hn",
         "time": "6/5/2026, 6:42:42 AM"
       },
       {
-        "title": "Making peace with your unlived dreams (2023)",
-        "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
+        "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+        "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
         "source": "hn",
-        "time": "6/7/2026, 6:15:47 PM"
+        "time": "6/8/2026, 12:17:45 AM"
       }
     ],
     "world": [
