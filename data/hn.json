@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-08T05:33:17.601Z"
+    "built_at": "2026-06-08T07:37:44.535Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Pingtrace",
+      "url": "https://github.com/skhell/pingtrace",
+      "date": "2026-06-08T07:35:29.000Z"
+    },
+    {
+      "title": "Gen Z turn to 'dopamine sites' for quick comfort",
+      "url": "https://www.koreatimes.co.kr/lifestyle/trends/20260527/gen-z-turn-to-dopamine-sites-for-quick-comfort",
+      "date": "2026-06-08T07:33:58.000Z"
+    }
+  ]
 }
