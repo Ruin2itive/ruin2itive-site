@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-08T00:52:53.815Z",
-  "updated_local": "6/8/2026, 12:52:53 AM",
+  "updated_iso": "2026-06-08T01:20:19.394Z",
+  "updated_local": "6/8/2026, 1:20:19 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+        "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+        "source": "hn",
+        "time": "6/8/2026, 12:28:37 AM"
+      },
+      {
         "title": "Building from zero after addiction, prison, and a felony",
         "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
         "source": "hn",
         "time": "6/7/2026, 6:33:07 PM"
+      },
+      {
+        "title": "A Matter Wi-Fi Light Bulb in Rust on the Raspberry Pi Pico 2 W",
+        "url": "https://github.com/melastmohican/rust-rpico2-embassy-examples",
+        "source": "hn",
+        "time": "6/8/2026, 12:17:45 AM"
       },
       {
         "title": "Show HN: I Derived a Pancake",
@@ -52,18 +64,6 @@
         "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
         "source": "hn",
         "time": "6/7/2026, 6:15:47 PM"
-      },
-      {
-        "title": "Learn PHP in 2026 (Yes, Really)",
-        "url": "https://fagnerbrack.com/learn-php-in-2026-yes-really-bd567753dd84",
-        "source": "hn",
-        "time": "6/4/2026, 12:35:15 PM"
-      },
-      {
-        "title": "How's Linear so fast? A technical breakdown",
-        "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-        "source": "hn",
-        "time": "6/7/2026, 7:01:37 PM"
       }
     ],
     "world": [
