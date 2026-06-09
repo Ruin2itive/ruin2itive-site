@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-09T19:40:17.292Z"
+    "built_at": "2026-06-09T20:39:15.091Z"
   },
-  "items": [
-    {
-      "title": "Devs know AI code is riddled with holes, but ship it anyway",
-      "url": "https://www.theregister.com/devops/2026/06/09/devs-know-ai-code-is-riddled-with-holes-but-ship-it-anyway/5252824",
-      "date": "2026-06-09T19:37:35.000Z"
-    },
-    {
-      "title": "FDA allows popular sunscreen ingredient long used in Europe and Asia",
-      "url": "https://www.nbcnews.com/health/health-news/bemotrizinol-fda-allows-sunscreen-ingredient-popular-europe-asia-rcna349223",
-      "date": "2026-06-09T19:35:06.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
