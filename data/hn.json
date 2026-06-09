@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-09T21:33:11.642Z"
+    "built_at": "2026-06-09T22:30:20.456Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Elah – A browser-native, frame-accurate video editor",
-      "url": "https://github.com/elahlabs/elah",
-      "date": "2026-06-09T21:32:30.000Z"
-    },
-    {
-      "title": "I Replaced a $144/Year App in <2 Hours. The Moat Was Never There",
-      "url": "https://substack.com/@vmysla/p-197723867",
-      "date": "2026-06-09T21:27:43.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
