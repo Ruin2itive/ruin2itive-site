@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-09T21:40:25.706Z",
-  "updated_local": "6/9/2026, 9:40:25 PM",
+  "updated_iso": "2026-06-09T22:33:30.539Z",
+  "updated_local": "6/9/2026, 10:33:30 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Crypto Tax Bills Face Pushback in House Committee Hearing",
+        "url": "https://decrypt.co/370599/crypto-tax-bills-pushback-house-committee",
+        "source": "crypto",
+        "time": "Tue, 09 Jun 2026 21:44:38 +0000"
+      },
       {
         "title": "EU Orders Meta to Open WhatsApp to Rival AI Chatbots—Meta Calls It &#39;Regulatory Overreach&#39;",
         "url": "https://decrypt.co/370580/eu-orders-meta-open-whatsapp-rival-ai-chatbots",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/370570/quantum-clock-ticking-bitcoin-crypto-how-stellar-preparing",
         "source": "crypto",
         "time": "Tue, 09 Jun 2026 19:49:05 +0000"
-      },
-      {
-        "title": "AI Malware Worm Adapts to New Targets in Real Time, Cybersecurity Experts Say",
-        "url": "https://decrypt.co/370557/ai-malware-worm-adapts-targets-cybersecurity",
-        "source": "crypto",
-        "time": "Tue, 09 Jun 2026 19:03:05 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "6/9/2026, 4:58:01 PM"
       },
       {
-        "title": "Alpine Linux 3.24.0 Released",
-        "url": "https://alpinelinux.org/posts/Alpine-3.24.0-released.html",
+        "title": "Upcoming breaking changes for NPM v12",
+        "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
         "source": "hn",
-        "time": "6/9/2026, 8:50:54 PM"
+        "time": "6/9/2026, 9:01:00 PM"
       },
       {
         "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
@@ -60,10 +60,10 @@
         "time": "6/9/2026, 10:46:14 AM"
       },
       {
-        "title": "Test-case reducers are underappreciated debugging tools",
-        "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
+        "title": "If Claude Fable stops helping you, you'll never know",
+        "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
         "source": "hn",
-        "time": "6/9/2026, 11:27:49 AM"
+        "time": "6/9/2026, 9:19:11 PM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Tue, 09 Jun 2026 21:13:17 GMT"
       },
       {
-        "title": "Trump says Iran shot down US helicopter and vows to respond",
-        "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 09 Jun 2026 20:24:01 GMT"
-      },
-      {
         "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
         "url": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/c982y5n0nlno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 09 Jun 2026 17:33:39 GMT"
+      },
+      {
+        "title": "Two reportedly killed as women take part in rare protest in Afghanistan",
+        "url": "https://www.bbc.com/news/articles/c992vdk3g3yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 09 Jun 2026 16:44:23 GMT"
       }
     ],
     "projects": [
