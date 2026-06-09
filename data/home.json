@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-09T17:04:01.427Z",
-  "updated_local": "6/9/2026, 5:04:01 PM",
+  "updated_iso": "2026-06-09T17:43:56.546Z",
+  "updated_local": "6/9/2026, 5:43:56 PM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Making Graphics Like it's 1993",
-        "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+        "title": "Claude Fable 5",
+        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
         "source": "hn",
-        "time": "6/9/2026, 10:46:14 AM"
+        "time": "6/9/2026, 4:58:01 PM"
+      },
+      {
+        "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
+        "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
+        "source": "hn",
+        "time": "6/9/2026, 4:13:10 PM"
       },
       {
         "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
@@ -48,36 +54,36 @@
         "time": "6/9/2026, 4:58:13 PM"
       },
       {
-        "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-        "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+        "title": "Making Graphics Like it's 1993",
+        "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
         "source": "hn",
-        "time": "6/9/2026, 7:33:16 AM"
+        "time": "6/9/2026, 10:46:14 AM"
       },
       {
-        "title": "Biff.core: system composition for Clojure web apps",
-        "url": "https://biffweb.com/p/core/",
+        "title": "What it feels like to work with Mythos",
+        "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
         "source": "hn",
-        "time": "6/9/2026, 4:12:52 PM"
-      },
-      {
-        "title": "A giant star may have destroyed itself in one of the rarest explosions",
-        "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
-        "source": "hn",
-        "time": "6/8/2026, 9:00:13 PM"
+        "time": "6/9/2026, 5:17:21 PM"
       }
     ],
     "world": [
       {
-        "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-        "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump says Iran shot down US helicopter and vows to respond",
+        "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 09 Jun 2026 15:15:29 GMT"
+        "time": "Tue, 09 Jun 2026 17:32:15 GMT"
       },
       {
         "title": "Men jailed for violence at Henry Nowak police protest",
         "url": "https://www.bbc.com/news/articles/c982y5n0nlno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 09 Jun 2026 16:45:47 GMT"
+        "time": "Tue, 09 Jun 2026 17:33:39 GMT"
+      },
+      {
+        "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+        "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 09 Jun 2026 15:15:29 GMT"
       },
       {
         "title": "Football regulator contacts West Ham over 'serious allegations' against Sullivan",
@@ -86,16 +92,10 @@
         "time": "Tue, 09 Jun 2026 14:17:43 GMT"
       },
       {
-        "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
-        "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "I have right papers and visa - barred referee Artan",
+        "url": "https://www.bbc.com/sport/football/articles/c9d2y76pd57o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 09 Jun 2026 13:15:59 GMT"
-      },
-      {
-        "title": "Scrap legal equality duty for public services, says Badenoch",
-        "url": "https://www.bbc.com/news/articles/cy5vyqykpx5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 09 Jun 2026 16:43:10 GMT"
+        "time": "Tue, 09 Jun 2026 13:43:54 GMT"
       }
     ],
     "projects": [
