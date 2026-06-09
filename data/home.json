@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-09T13:14:04.573Z",
-  "updated_local": "6/9/2026, 1:14:04 PM",
+  "updated_iso": "2026-06-09T15:16:12.420Z",
+  "updated_local": "6/9/2026, 3:16:12 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Elizabeth Warren Demands Answers on CFTC&#39;s Crypto and Prediction Market Oversight",
+        "url": "https://decrypt.co/370518/elizabeth-warren-demands-answers-on-cftcs-crypto-and-prediction-market-oversight",
+        "source": "crypto",
+        "time": "Tue, 09 Jun 2026 14:51:09 +0000"
+      },
       {
         "title": "This is Bitcoin&#39;s Shallowest Bear Market—But is the Bottom In?",
         "url": "https://decrypt.co/370495/this-is-bitcoins-shallowest-bear-market-but-is-the-bottom-in",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/370467/openai-chagpt-chatbot-superapp",
         "source": "crypto",
         "time": "Mon, 08 Jun 2026 22:00:57 +0000"
-      },
-      {
-        "title": "OpenAI Confirms Confidential IPO Filing, Keeps Timing Open",
-        "url": "https://decrypt.co/370468/openai-confidential-ipo-filing-keeps-timing-open",
-        "source": "crypto",
-        "time": "Mon, 08 Jun 2026 21:45:58 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'",
+        "url": "https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/",
+        "source": "hn",
+        "time": "6/9/2026, 1:39:31 PM"
+      },
+      {
+        "title": "Making Graphics Like it's 1993",
+        "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+        "source": "hn",
+        "time": "6/9/2026, 10:46:14 AM"
+      },
       {
         "title": "GentleOS – Classic operating system with a lovely retro GUI",
         "url": "https://github.com/luke8086/gentleos32",
@@ -48,18 +60,6 @@
         "time": "6/9/2026, 7:33:16 AM"
       },
       {
-        "title": "Making Graphics Like it's 1993",
-        "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-        "source": "hn",
-        "time": "6/9/2026, 10:46:14 AM"
-      },
-      {
-        "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-        "url": "https://opencv.org/opencv-5/",
-        "source": "hn",
-        "time": "6/6/2026, 6:02:28 AM"
-      },
-      {
         "title": "Cleaning up after AI rockstar developers",
         "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
         "source": "hn",
@@ -68,34 +68,34 @@
     ],
     "world": [
       {
-        "title": "Man arrested on suspicion of attempted murder after 'brutal' knife attack in Belfast",
-        "url": "https://www.bbc.com/news/articles/cdejnjdg08eo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 09 Jun 2026 13:02:43 GMT"
-      },
-      {
         "title": "Football regulator contacts West Ham over 'serious allegations' against Sullivan",
         "url": "https://www.bbc.com/news/articles/c1ky7gndnlyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 09 Jun 2026 13:03:31 GMT"
+        "time": "Tue, 09 Jun 2026 14:17:43 GMT"
       },
       {
         "title": "Scrap legal equality duty for public services, says Badenoch",
         "url": "https://www.bbc.com/news/articles/cy5vyqykpx5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 09 Jun 2026 12:01:11 GMT"
+        "time": "Tue, 09 Jun 2026 13:27:08 GMT"
+      },
+      {
+        "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
+        "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 09 Jun 2026 13:15:59 GMT"
+      },
+      {
+        "title": "Man who murdered partner and blew up home jailed",
+        "url": "https://www.bbc.com/news/articles/cddl4jq9d3do?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 09 Jun 2026 13:47:15 GMT"
       },
       {
         "title": "World Cup tickets for Iran fans revoked, the country's football body says",
         "url": "https://www.bbc.com/sport/football/articles/c9q2vrdx0ewo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 09 Jun 2026 10:15:49 GMT"
-      },
-      {
-        "title": "Man who murdered partner and blew up home jailed",
-        "url": "https://www.bbc.com/news/articles/cddl4jq9d3do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 09 Jun 2026 12:32:59 GMT"
       }
     ],
     "projects": [
