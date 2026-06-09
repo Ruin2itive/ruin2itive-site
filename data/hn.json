@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-09T03:04:33.015Z"
+    "built_at": "2026-06-09T05:21:23.806Z"
   },
-  "items": [
-    {
-      "title": "Ask HN: Where do you like to consume content anymore?",
-      "url": "https://news.ycombinator.com/item?id=48455779",
-      "date": "2026-06-09T03:03:33.000Z"
-    },
-    {
-      "title": "Show HN: Built software to orchestrate AI and human loops",
-      "url": "https://github.com/sparckix/cognitive-firm",
-      "date": "2026-06-09T02:55:25.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
