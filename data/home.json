@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-10T22:42:38.944Z",
-  "updated_local": "6/10/2026, 10:42:38 PM",
+  "updated_iso": "2026-06-10T23:33:05.600Z",
+  "updated_local": "6/10/2026, 11:33:05 PM",
   "sections": {
     "crypto": [
       {
@@ -42,10 +42,16 @@
         "time": "6/10/2026, 6:54:54 PM"
       },
       {
-        "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-        "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+        "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
+        "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
         "source": "hn",
-        "time": "6/10/2026, 4:42:00 PM"
+        "time": "6/10/2026, 10:07:52 PM"
+      },
+      {
+        "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+        "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+        "source": "hn",
+        "time": "6/9/2026, 5:23:40 PM"
       },
       {
         "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
@@ -54,18 +60,24 @@
         "time": "6/10/2026, 5:30:48 PM"
       },
       {
-        "title": "PgDog is funded and coming to a database near you",
-        "url": "https://pgdog.dev/blog/our-funding-announcement",
+        "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+        "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
         "source": "hn",
-        "time": "6/10/2026, 2:02:59 PM"
+        "time": "6/10/2026, 4:42:00 PM"
       }
     ],
     "world": [
       {
-        "title": "US launches new strikes on Iran after Trump vows to 'hit them hard'",
+        "title": "Water cannon fired in latest disorder after Belfast knife attack",
+        "url": "https://www.bbc.com/news/articles/c1dypzw1d29o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 10 Jun 2026 23:02:57 GMT"
+      },
+      {
+        "title": "Iran says it struck ships in Strait of Hormuz after US launches new strikes",
         "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 10 Jun 2026 22:36:53 GMT"
+        "time": "Wed, 10 Jun 2026 23:23:20 GMT"
       },
       {
         "title": "Essex Police given new information on West Ham co-owner David Sullivan",
@@ -80,16 +92,10 @@
         "time": "Wed, 10 Jun 2026 21:52:09 GMT"
       },
       {
-        "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
-        "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "The furious dispute over what caused Air India flight 171 to crash",
+        "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 10 Jun 2026 22:31:19 GMT"
-      },
-      {
-        "title": "Changing visa rules for care workers is wrong, says Rayner",
-        "url": "https://www.bbc.com/news/articles/cddl0nz4v5vo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 10 Jun 2026 20:47:55 GMT"
+        "time": "Wed, 10 Jun 2026 23:10:11 GMT"
       }
     ],
     "projects": [
