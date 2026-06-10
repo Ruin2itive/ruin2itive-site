@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-10T17:03:22.192Z"
+    "built_at": "2026-06-10T18:50:28.405Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The Homogenizing Effect of LLMs on Human Expression and Thought",
+      "url": "https://arxiv.org/abs/2508.01491",
+      "date": "2026-06-10T18:49:58.000Z"
+    },
+    {
+      "title": "Waymo's New Reference Model for Human Collision Avoidance",
+      "url": "https://waymo.com/blog/2026/06/reference-driver/",
+      "date": "2026-06-10T18:49:50.000Z"
+    }
+  ]
 }
