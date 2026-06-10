@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-10T03:04:59.865Z"
+    "built_at": "2026-06-10T05:29:48.078Z"
   },
-  "items": [
-    {
-      "title": "Comparing Email Address Validating Regular Expressions (2006)",
-      "url": "https://fightingforalostcause.net/content/misc/2006/compare-email-regex.php",
-      "date": "2026-06-10T03:04:23.000Z"
-    },
-    {
-      "title": "QDRV – Quantum Dynamic Range Video",
-      "url": "https://github.com/qdrv/QDRV",
-      "date": "2026-06-10T03:02:31.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
