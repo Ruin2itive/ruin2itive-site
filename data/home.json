@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-10T21:42:22.777Z",
-  "updated_local": "6/10/2026, 9:42:22 PM",
+  "updated_iso": "2026-06-10T22:38:05.879Z",
+  "updated_local": "6/10/2026, 10:38:05 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Google&#39;s DiffusionGemma AI Hits 1,000 Tokens Per Second—And It&#39;s Free",
+        "url": "https://decrypt.co/370706/google-new-open-model-generates-text-diffusiongemma",
+        "source": "crypto",
+        "time": "Wed, 10 Jun 2026 22:01:03 +0000"
+      },
       {
         "title": "Anthropic CEO Warns AI Is Getting Too Powerful—While Releasing Powerful AI",
         "url": "https://decrypt.co/370704/anthropic-ceo-ai-too-powerful-regulation-cant-wait",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/370688/internet-furious-anthropic-claude-mythos-fable-5",
         "source": "crypto",
         "time": "Wed, 10 Jun 2026 19:17:27 +0000"
-      },
-      {
-        "title": "AI Helped People Spot Fake News—Then Made Them Worse at It: MIT",
-        "url": "https://decrypt.co/370675/ai-helped-people-spot-fake-news-made-them-worse-mit",
-        "source": "crypto",
-        "time": "Wed, 10 Jun 2026 18:40:06 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://github.com/philipl/pifs",
         "source": "hn",
         "time": "6/10/2026, 6:54:54 PM"
+      },
+      {
+        "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+        "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+        "source": "hn",
+        "time": "6/10/2026, 4:42:00 PM"
       },
       {
         "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
@@ -52,20 +58,14 @@
         "url": "https://pgdog.dev/blog/our-funding-announcement",
         "source": "hn",
         "time": "6/10/2026, 2:02:59 PM"
-      },
-      {
-        "title": "What Is It Like to Be a Bat? [pdf] (1974)",
-        "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
-        "source": "hn",
-        "time": "6/10/2026, 8:35:07 PM"
       }
     ],
     "world": [
       {
-        "title": "'I'll never get over watching my home burn': Belfast residents reel after night of unrest",
-        "url": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US launches new strikes on Iran after Trump vows to 'hit them hard'",
+        "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 10 Jun 2026 18:20:54 GMT"
+        "time": "Wed, 10 Jun 2026 22:36:53 GMT"
       },
       {
         "title": "Essex Police given new information on West Ham co-owner David Sullivan",
@@ -74,22 +74,22 @@
         "time": "Wed, 10 Jun 2026 19:19:54 GMT"
       },
       {
-        "title": "Trump says US will hit Iran 'hard' again today",
-        "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Fireworks illuminate Barcelona's Sagrada Família during Pope visit",
+        "url": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 10 Jun 2026 21:32:58 GMT"
+        "time": "Wed, 10 Jun 2026 21:52:09 GMT"
+      },
+      {
+        "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
+        "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 10 Jun 2026 22:31:19 GMT"
       },
       {
         "title": "Changing visa rules for care workers is wrong, says Rayner",
         "url": "https://www.bbc.com/news/articles/cddl0nz4v5vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 10 Jun 2026 20:47:55 GMT"
-      },
-      {
-        "title": "Vets advise ban on over the counter flea treatment for pets",
-        "url": "https://www.bbc.com/news/articles/cp9pd4d3m5ko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 10 Jun 2026 17:06:00 GMT"
       }
     ],
     "projects": [
