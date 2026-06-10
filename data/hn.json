@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-10T13:05:12.564Z"
+    "built_at": "2026-06-10T15:03:15.571Z"
   },
-  "items": [
-    {
-      "title": "Paris Hilton is Android's first icon in residence",
-      "url": "https://blog.google/products-and-platforms/platforms/android/paris-hilton/",
-      "date": "2026-06-10T13:04:05.000Z"
-    },
-    {
-      "title": "Google Gemini down? Users report problems with AI chatbot",
-      "url": "https://www.providencejournal.com/story/news/technology/2026/06/10/is-google-gemini-down-what-we-know-about-error-reports/90487437007/",
-      "date": "2026-06-10T13:03:32.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
