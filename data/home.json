@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-06-10T17:16:25.294Z",
-  "updated_local": "6/10/2026, 5:16:25 PM",
+  "updated_iso": "2026-06-10T18:55:54.538Z",
+  "updated_local": "6/10/2026, 6:55:54 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "AI Helped People Spot Fake News—Then Made Them Worse at It: MIT",
+        "url": "https://decrypt.co/370675/ai-helped-people-spot-fake-news-made-them-worse-mit",
+        "source": "crypto",
+        "time": "Wed, 10 Jun 2026 18:40:06 +0000"
+      },
+      {
+        "title": "Botanix Will Shut Down Bitcoin Layer-2 Network in July, Citing Lack of DeFi Demand",
+        "url": "https://decrypt.co/370671/botanix-shut-down-bitcoin-layer-2-network-lack-defi-demand",
+        "source": "crypto",
+        "time": "Wed, 10 Jun 2026 18:11:36 +0000"
+      },
+      {
+        "title": "Bitcoin Is Getting Closer to the Bottom, But Demand Is Falling: CryptoQuant",
+        "url": "https://decrypt.co/370663/bitcoin-getting-closer-bottom-demand-falling-cryptoquant",
+        "source": "crypto",
+        "time": "Wed, 10 Jun 2026 17:47:40 +0000"
+      },
       {
         "title": "7 Factors That Actually Matter When Choosing a Crypto Swap Platform",
         "url": "https://decrypt.co/370527/7-factors-that-actually-matter-when-choosing-a-crypto-swap-platform",
@@ -14,50 +32,32 @@
         "url": "https://decrypt.co/370660/mastercard-enables-ai-agent-payments-crypto-giants-coinbase-ripple",
         "source": "crypto",
         "time": "Wed, 10 Jun 2026 16:50:47 +0000"
-      },
-      {
-        "title": "New CFTC Rules on Prediction Markets Would Ban Wagers on Ouster of US Enemies",
-        "url": "https://decrypt.co/370656/cftc-rules-prediction-markets-ban-wagers-ouster-us-enemies",
-        "source": "crypto",
-        "time": "Wed, 10 Jun 2026 16:06:54 +0000"
-      },
-      {
-        "title": "Bitcoin, Ethereum Resume Rebound as Inflation Hits 3-Year High",
-        "url": "https://decrypt.co/370649/bitcoin-ethereum-resume-rebound-inflation-hits-3-year-high",
-        "source": "crypto",
-        "time": "Wed, 10 Jun 2026 14:46:07 +0000"
-      },
-      {
-        "title": "Paradigm, Hyperliquid Policy Center Push Back on GENIUS Act Stablecoin AML Rule",
-        "url": "https://decrypt.co/370645/paradigm-hyperliquid-policy-center-push-back-on-genius-act-stablecoin-aml-rule",
-        "source": "crypto",
-        "time": "Wed, 10 Jun 2026 14:33:50 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Building an HTML-first site doubled our users overnight",
-        "url": "https://mohkohn.co.uk/writing/html-first/",
+        "title": "Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely",
+        "url": "https://www.matteast.io/spacex-escape-velocity.html",
         "source": "hn",
-        "time": "6/10/2026, 12:45:47 PM"
+        "time": "6/10/2026, 5:44:59 PM"
+      },
+      {
+        "title": "Claude Desktop spins up a VM without no way of stopping it",
+        "url": "https://github.com/anthropics/claude-code/issues/29045",
+        "source": "hn",
+        "time": "6/10/2026, 5:11:56 PM"
+      },
+      {
+        "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+        "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+        "source": "hn",
+        "time": "6/10/2026, 5:30:48 PM"
       },
       {
         "title": "PgDog is funded and coming to a database near you",
         "url": "https://pgdog.dev/blog/our-funding-announcement",
         "source": "hn",
         "time": "6/10/2026, 2:02:59 PM"
-      },
-      {
-        "title": "Apache Burr: Build reliable AI agents and applications",
-        "url": "https://burr.apache.org/",
-        "source": "hn",
-        "time": "6/10/2026, 3:01:06 PM"
-      },
-      {
-        "title": "GitHub Authentication issues related to API requests",
-        "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
-        "source": "hn",
-        "time": "6/10/2026, 3:29:52 PM"
       }
     ],
     "world": [
@@ -65,31 +65,31 @@
         "title": "'I'll never get over watching my home burn': Belfast residents reel after night of unrest",
         "url": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 10 Jun 2026 15:06:29 GMT"
+        "time": "Wed, 10 Jun 2026 18:20:54 GMT"
       },
       {
-        "title": "Three arrested over Glasgow unrest and racist assaults after Belfast knife attack",
-        "url": "https://www.bbc.com/news/articles/cr5jme6ld54o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 10 Jun 2026 16:17:29 GMT"
-      },
-      {
-        "title": "Five jailed for violence at Henry Nowak police protest",
-        "url": "https://www.bbc.com/news/articles/cwye9v0dy3yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 10 Jun 2026 16:06:53 GMT"
-      },
-      {
-        "title": "Trump says US will hit Iran 'hard' again on Wednesday",
+        "title": "Trump says US will hit Iran 'hard' again today",
         "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 10 Jun 2026 16:23:53 GMT"
+        "time": "Wed, 10 Jun 2026 17:33:22 GMT"
       },
       {
         "title": "Stokes out of England squad, Root named captain",
         "url": "https://www.bbc.com/sport/cricket/articles/ce371kq48v7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 10 Jun 2026 16:44:14 GMT"
+      },
+      {
+        "title": "Changing visa rules for care workers is wrong, says Rayner",
+        "url": "https://www.bbc.com/news/articles/cddl0nz4v5vo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 10 Jun 2026 17:44:40 GMT"
+      },
+      {
+        "title": "Vets advise ban on over the counter flea treatment for pets",
+        "url": "https://www.bbc.com/news/articles/cp9pd4d3m5ko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 10 Jun 2026 17:06:00 GMT"
       }
     ],
     "projects": [
