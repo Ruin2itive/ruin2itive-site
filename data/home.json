@@ -1,40 +1,52 @@
 {
-  "updated_iso": "2026-06-10T13:26:55.248Z",
-  "updated_local": "6/10/2026, 1:26:55 PM",
+  "updated_iso": "2026-06-10T15:07:28.870Z",
+  "updated_local": "6/10/2026, 3:07:28 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin, Ethereum Resume Rebound as Inflation Hits 3-Year High",
+        "url": "https://decrypt.co/370649/bitcoin-ethereum-resume-rebound-inflation-hits-3-year-high",
+        "source": "crypto",
+        "time": "Wed, 10 Jun 2026 14:46:07 +0000"
+      },
+      {
+        "title": "Paradigm, Hyperliquid Policy Center Push Back on GENIUS Act Stablecoin AML Rule",
+        "url": "https://decrypt.co/370645/paradigm-hyperliquid-policy-center-push-back-on-genius-act-stablecoin-aml-rule",
+        "source": "crypto",
+        "time": "Wed, 10 Jun 2026 14:33:50 +0000"
+      },
+      {
+        "title": "Fold Shares Jump 162% After Bitcoin Fintech Sells $45 Million in BTC, Wipes Out Debt",
+        "url": "https://decrypt.co/370648/fold-shares-jump-bitcoin-fintech-sells-45-million-btc-wipes-out-debt",
+        "source": "crypto",
+        "time": "Wed, 10 Jun 2026 14:21:23 +0000"
+      },
+      {
+        "title": "Delaware Advances Bill to Ban ‘Predatory’ Bitcoin ATMs",
+        "url": "https://decrypt.co/370638/delaware-advances-bill-to-ban-predatory-bitcoin-atms",
+        "source": "crypto",
+        "time": "Wed, 10 Jun 2026 13:52:31 +0000"
+      },
       {
         "title": "Solana Sponsors the World Series of Poker, Enabling Crypto Entry Fees and Payouts",
         "url": "https://decrypt.co/370578/solana-sponsors-world-series-poker-crypto-entry-fees-payouts",
         "source": "crypto",
         "time": "Wed, 10 Jun 2026 13:01:20 +0000"
-      },
-      {
-        "title": "Myriad Taps Chainlink to Power FIFA World Cup Prediction Markets",
-        "url": "https://decrypt.co/370479/myriad-taps-chainlink-to-power-fifa-world-cup-prediction-markets",
-        "source": "crypto",
-        "time": "Wed, 10 Jun 2026 13:01:04 +0000"
-      },
-      {
-        "title": "Morning Minute: Crypto Falls Amidst War Escalation and Mythos Release",
-        "url": "https://decrypt.co/370624/morning-minute-crypto-falls-amidst-war-escalation-and-mythos-release",
-        "source": "crypto",
-        "time": "Wed, 10 Jun 2026 12:48:57 +0000"
-      },
-      {
-        "title": "‘Intense Capitulation’ Hits Crypto as 8M BTC, Bulk of ETH Supply Sit at Loss",
-        "url": "https://decrypt.co/370620/intense-capitulation-hits-crypto-as-8m-btc-bulk-of-eth-supply-sit-at-loss",
-        "source": "crypto",
-        "time": "Wed, 10 Jun 2026 11:26:31 +0000"
-      },
-      {
-        "title": "Kalshi Rolls Out New Safeguards After Insider Trading Concerns Hit Prediction Markets",
-        "url": "https://decrypt.co/370618/kalshi-rolls-out-new-safeguards-after-insider-trading-concerns-hit-prediction-markets",
-        "source": "crypto",
-        "time": "Wed, 10 Jun 2026 11:05:37 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Building an HTML-first site doubled our users overnight",
+        "url": "https://mohkohn.co.uk/writing/html-first/",
+        "source": "hn",
+        "time": "6/10/2026, 12:45:47 PM"
+      },
+      {
+        "title": "PgDog is funded and coming to a database near you",
+        "url": "https://pgdog.dev/blog/our-funding-announcement",
+        "source": "hn",
+        "time": "6/10/2026, 2:02:59 PM"
+      },
       {
         "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
         "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
@@ -52,18 +64,6 @@
         "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
         "source": "hn",
         "time": "6/10/2026, 12:29:01 AM"
-      },
-      {
-        "title": "Buy a train, bridge or tracks from the Swiss Railway",
-        "url": "https://sbbresale.ch/",
-        "source": "hn",
-        "time": "6/8/2026, 9:05:29 AM"
-      },
-      {
-        "title": "Claude Fable 5",
-        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-        "source": "hn",
-        "time": "6/9/2026, 4:58:01 PM"
       }
     ],
     "world": [
@@ -71,31 +71,31 @@
         "title": "'I'll never get over watching my home burn': Belfast residents reel after night of unrest",
         "url": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 10 Jun 2026 13:24:12 GMT"
+        "time": "Wed, 10 Jun 2026 15:06:29 GMT"
       },
       {
         "title": "Three arrested over Glasgow unrest and racist assaults after Belfast knife attack",
         "url": "https://www.bbc.com/news/articles/cr5jme6ld54o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 10 Jun 2026 12:44:43 GMT"
+        "time": "Wed, 10 Jun 2026 13:57:18 GMT"
       },
       {
-        "title": "Ukraine says missiles hit military plant deep inside Russia",
-        "url": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump and Iran trade new threats after strikes exchanged",
+        "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 10 Jun 2026 11:43:40 GMT"
+        "time": "Wed, 10 Jun 2026 14:15:39 GMT"
       },
       {
-        "title": "BBC cancels Doctor Who Christmas special and Russell T Davies announces exit",
-        "url": "https://www.bbc.com/news/articles/c621ln7vx7qo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Stokes out of England squad, Root named captain",
+        "url": "https://www.bbc.com/sport/cricket/articles/ce371kq48v7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 10 Jun 2026 11:43:14 GMT"
+        "time": "Wed, 10 Jun 2026 14:20:45 GMT"
       },
       {
-        "title": "Who will win the World Cup? BBC pundits make their predictions",
-        "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Lacey Turner confirmed as first Strictly contestant",
+        "url": "https://www.bbc.com/news/articles/cg74gvy8lgjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 10 Jun 2026 05:24:53 GMT"
+        "time": "Wed, 10 Jun 2026 14:20:38 GMT"
       }
     ],
     "projects": [
