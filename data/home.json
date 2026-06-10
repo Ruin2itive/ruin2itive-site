@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-10T01:45:33.107Z",
-  "updated_local": "6/10/2026, 1:45:33 AM",
+  "updated_iso": "2026-06-10T03:10:07.595Z",
+  "updated_local": "6/10/2026, 3:10:07 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "macOS Container Machines",
+        "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+        "source": "hn",
+        "time": "6/10/2026, 12:29:01 AM"
+      },
+      {
         "title": "Claude Fable 5",
         "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
         "source": "hn",
         "time": "6/9/2026, 4:58:01 PM"
       },
       {
-        "title": "macOS Container Machines",
-        "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+        "title": "Rich Sutton on AI creativity and discovery",
+        "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
         "source": "hn",
-        "time": "6/10/2026, 12:29:01 AM"
+        "time": "6/10/2026, 2:25:24 AM"
       },
       {
         "title": "Upcoming breaking changes for npm v12",
@@ -58,12 +64,6 @@
         "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
         "source": "hn",
         "time": "6/9/2026, 10:35:57 PM"
-      },
-      {
-        "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-        "url": "https://aarushgupta.io/posts/kan-fpga/",
-        "source": "hn",
-        "time": "6/9/2026, 7:21:45 PM"
       }
     ],
     "world": [
