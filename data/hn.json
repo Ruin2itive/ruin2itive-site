@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-11T22:34:10.355Z"
+    "built_at": "2026-06-11T23:30:52.449Z"
   },
-  "items": [
-    {
-      "title": "A self-hosted market-research tool with publicly verifiable security",
-      "url": "https://atlas.freedomcore.io/",
-      "date": "2026-06-11T22:33:23.000Z"
-    },
-    {
-      "title": "What Would It Look Like If the AI Bubble Popped?",
-      "url": "https://www.thebignewsletter.com/p/what-would-it-look-like-if-the-ai",
-      "date": "2026-06-11T22:31:05.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
