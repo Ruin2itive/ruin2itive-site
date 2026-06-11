@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-11T22:42:02.563Z",
-  "updated_local": "6/11/2026, 10:42:02 PM",
+  "updated_iso": "2026-06-11T23:32:57.248Z",
+  "updated_local": "6/11/2026, 11:32:57 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "If You Are Asking for Human Attention, Demonstrate Human Effort",
+        "url": "https://tombedor.dev/human-attention-and-human-effort/",
+        "source": "hn",
+        "time": "6/11/2026, 11:01:55 PM"
+      },
+      {
         "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
         "url": "https://fablepool.com",
         "source": "hn",
@@ -54,16 +60,10 @@
         "time": "6/11/2026, 2:27:19 PM"
       },
       {
-        "title": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
-        "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+        "title": "Petition to Withdraw Canada's Bill C-22",
+        "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
         "source": "hn",
-        "time": "6/11/2026, 7:54:54 PM"
-      },
-      {
-        "title": "Travel Locally, Where You Are",
-        "url": "https://www.ssp.sh/brain/travel-where-you-are/",
-        "source": "hn",
-        "time": "6/11/2026, 8:08:26 PM"
+        "time": "6/11/2026, 3:37:23 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Thu, 11 Jun 2026 21:50:20 GMT"
       },
       {
+        "title": "Trump says deal to end Iran war is close after calling off strikes",
+        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 11 Jun 2026 22:22:36 GMT"
+      },
+      {
+        "title": "Meningitis B vaccine to be offered to a million young people",
+        "url": "https://www.bbc.com/news/articles/c982352my98o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 11 Jun 2026 23:02:20 GMT"
+      },
+      {
         "title": "Child-rape sentence reignites scrutiny of UK high street mini-marts",
         "url": "https://www.bbc.com/news/articles/cd6e0021vjjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 11 Jun 2026 17:06:04 GMT"
       },
       {
-        "title": "Elon Musk's SpaceX valued at nearly $1.8tn ahead of record share sale",
-        "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'I spent uni savings on getting my teeth fixed' - how NHS dentist shortage is costing a fortune",
+        "url": "https://www.bbc.com/news/articles/czrx7pvx57eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 11 Jun 2026 21:10:14 GMT"
-      },
-      {
-        "title": "Girl, 14, charged with attempted murder after Manchester school knife attack",
-        "url": "https://www.bbc.com/news/articles/cp3x1qzkj81o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 11 Jun 2026 22:38:24 GMT"
-      },
-      {
-        "title": "Northern Ireland protests pass off without incident after two nights of unrest",
-        "url": "https://www.bbc.com/news/articles/c4gyl9v02y5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 11 Jun 2026 21:25:54 GMT"
+        "time": "Thu, 11 Jun 2026 23:03:30 GMT"
       }
     ],
     "projects": [
