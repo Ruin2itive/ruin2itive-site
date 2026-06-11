@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-11T18:57:31.720Z"
+    "built_at": "2026-06-11T19:53:19.257Z"
   },
-  "items": [
-    {
-      "title": "Avocados Stopped Being Seasonal",
-      "url": "https://sftw.substack.com/p/how-avocados-stopped-being-seasonal",
-      "date": "2026-06-11T18:54:57.000Z"
-    },
-    {
-      "title": "Fear of the SaaSpocalypse is tormenting techland",
-      "url": "https://www.economist.com/business/2026/06/10/fear-of-the-saaspocalypse-is-tormenting-techland",
-      "date": "2026-06-11T18:54:43.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
