@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-11T09:26:59.340Z"
+    "built_at": "2026-06-11T13:13:44.672Z"
   },
-  "items": [
-    {
-      "title": "Show HN: SpadeBox – Sandboxed tools and JavaScript runtime for AI agents",
-      "url": "https://github.com/CharlyCst/spadebox",
-      "date": "2026-06-11T09:26:09.000Z"
-    },
-    {
-      "title": "Augmented reality system could make medical ultrasounds easier to interpret",
-      "url": "https://news.mit.edu/2026/augmented-reality-system-could-make-medical-ultrasounds-easier-to-interpret-0610",
-      "date": "2026-06-11T09:19:33.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
