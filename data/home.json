@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-06-11T15:19:34.789Z",
-  "updated_local": "6/11/2026, 3:19:34 PM",
+  "updated_iso": "2026-06-11T17:17:11.085Z",
+  "updated_local": "6/11/2026, 5:17:11 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Authorities Take Down &#39;AudiA6&#39; Group That Allegedly Laundered $389 Million in Bitcoin",
+        "url": "https://decrypt.co/370812/authorities-take-down-audia6-allegedly-laundered-389-million-bitcoin",
+        "source": "crypto",
+        "time": "Thu, 11 Jun 2026 16:52:07 +0000"
+      },
+      {
+        "title": "World Cup Could Bring Billions in Volume to Prediction Markets in &#39;Watershed Moment&#39;: Bernstein",
+        "url": "https://decrypt.co/370786/world-cup-billions-volume-prediction-markets-watershed-moment-bernstein",
+        "source": "crypto",
+        "time": "Thu, 11 Jun 2026 16:20:01 +0000"
+      },
       {
         "title": "Wall Street Giants, Sovereign Wealth Fund Back Canton Network Creator in $355M Round",
         "url": "https://decrypt.co/370753/wall-street-giants-sovereign-wealth-fund-canton-creator-355m-round",
@@ -20,50 +32,38 @@
         "url": "https://decrypt.co/370749/bitcoin-etfs-shed-2-1b-in-june-so-far-as-market-selloff-deepens",
         "source": "crypto",
         "time": "Thu, 11 Jun 2026 12:36:17 +0000"
-      },
-      {
-        "title": "Morning Minute: Citadel Cautions Against the AI Trade Ahead of SpaceX IPO",
-        "url": "https://decrypt.co/370746/morning-minute-citadel-cautions-against-the-ai-trade-ahead-of-spacex-ipo",
-        "source": "crypto",
-        "time": "Thu, 11 Jun 2026 11:57:19 +0000"
-      },
-      {
-        "title": "IMF Urges Nepal Monitor Crypto as Usage Rises Despite Ban",
-        "url": "https://decrypt.co/370738/imf-urges-nepal-monitor-crypto-as-usage-rises-despite-ban",
-        "source": "crypto",
-        "time": "Thu, 11 Jun 2026 11:33:30 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "MiMo Code Is Now Released and Open-Source",
+        "title": "MiMo Code is now released and open-source",
         "url": "https://mimo.xiaomi.com/mimocode",
         "source": "hn",
         "time": "6/11/2026, 2:27:19 PM"
       },
       {
-        "title": "Lines of Code Got a Better Publicist",
+        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+        "source": "hn",
+        "time": "6/11/2026, 12:05:02 PM"
+      },
+      {
+        "title": "Lines of code got a better publicist",
         "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
         "source": "hn",
         "time": "6/11/2026, 12:26:42 PM"
       },
       {
-        "title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
-        "url": "https://nextcloud.com/blog/nextcloud-hub26-spring/",
+        "title": "The RCE that AMD wouldn't fix",
+        "url": "https://mrbruh.com/amd2/",
         "source": "hn",
-        "time": "6/11/2026, 2:17:47 PM"
+        "time": "6/11/2026, 4:03:40 PM"
       },
       {
-        "title": "MapComplete – Contibute to OpenStreetMaps",
-        "url": "https://mapcomplete.org/",
+        "title": "Petition to Withdraw Canada's Bill C-22",
+        "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
         "source": "hn",
-        "time": "6/11/2026, 2:04:05 PM"
-      },
-      {
-        "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-        "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
-        "source": "hn",
-        "time": "6/11/2026, 6:42:06 AM"
+        "time": "6/11/2026, 3:37:23 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Thu, 11 Jun 2026 15:00:13 GMT"
       },
       {
-        "title": "Police officer, 19, dies from crash injuries",
-        "url": "https://www.bbc.com/news/articles/c621l2nkz4ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Child-rape sentence reignites scrutiny of UK high street mini-marts",
+        "url": "https://www.bbc.com/news/articles/cd6e0021vjjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 11 Jun 2026 11:54:52 GMT"
-      },
-      {
-        "title": "Asylum appeal backlog at record high, new figures show",
-        "url": "https://www.bbc.com/news/articles/cwyld5rnw9vo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 11 Jun 2026 13:52:09 GMT"
+        "time": "Thu, 11 Jun 2026 17:06:04 GMT"
       },
       {
         "title": "'Mum was killing me': England's Declan Rice on sunburn for his World Cup photoshoot",
         "url": "https://www.bbc.com/news/articles/cq61l6d870vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 11 Jun 2026 09:44:10 GMT"
+      },
+      {
+        "title": "Find your local World Cup hero with our postcode lookup",
+        "url": "https://www.bbc.com/news/articles/cn75y330kpjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 10 Jun 2026 23:13:43 GMT"
       }
     ],
     "projects": [
