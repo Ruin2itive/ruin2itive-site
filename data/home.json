@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-06-11T21:48:30.630Z",
-  "updated_local": "6/11/2026, 9:48:30 PM",
+  "updated_iso": "2026-06-11T22:37:05.948Z",
+  "updated_local": "6/11/2026, 10:37:05 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Wants a Price War With Anthropic—Is It Proving DeepSeek Right?",
+        "url": "https://decrypt.co/370854/openai-price-war-anthropic-deepseek-china",
+        "source": "crypto",
+        "time": "Thu, 11 Jun 2026 22:31:03 +0000"
+      },
+      {
+        "title": "Bitcoin Must Prepare for Quantum Threat Now, Coinbase Says",
+        "url": "https://decrypt.co/370851/bitcoin-quantum-threat-now-coinbase",
+        "source": "crypto",
+        "time": "Thu, 11 Jun 2026 21:50:06 +0000"
+      },
       {
         "title": "Ripple CEO Takes Aim at JPMorgan&#39;s Jamie Dimon Over Clarity Act Crypto Bill Criticism",
         "url": "https://decrypt.co/370840/ripple-ceo-takes-aim-jpmorgan-jamie-dimon-clarity-act-comments",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/370842/nasdaq-listed-bitcoin-firm-nakamoto-sells-btc-cuts-debt-share-buyback",
         "source": "crypto",
         "time": "Thu, 11 Jun 2026 20:19:46 +0000"
-      },
-      {
-        "title": "Coinbase Launches Tool That Lets AI Agents Trade Crypto and Make Payments for Users",
-        "url": "https://decrypt.co/370835/coinbase-tool-ai-agents-trade-crypto-make-payments",
-        "source": "crypto",
-        "time": "Thu, 11 Jun 2026 19:29:44 +0000"
-      },
-      {
-        "title": "Crypto Platforms Broaden Access to Elon Musk&#39;s SpaceX Ahead of $1.75 Trillion IPO",
-        "url": "https://decrypt.co/370828/crypto-platforms-broaden-access-elon-musks-spacex-1-75-trillion-ipo",
-        "source": "crypto",
-        "time": "Thu, 11 Jun 2026 19:16:34 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
         "source": "hn",
         "time": "6/11/2026, 1:24:29 PM"
+      },
+      {
+        "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+        "url": "https://fablepool.com",
+        "source": "hn",
+        "time": "6/11/2026, 9:17:30 PM"
       },
       {
         "title": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
@@ -54,19 +60,19 @@
         "time": "6/11/2026, 2:27:19 PM"
       },
       {
-        "title": "I stopped tracking my time. Now I can't focus",
-        "url": "https://newsletter.masilotti.com/p/i-stopped-tracking-my-time-now-i",
+        "title": "Travel Locally, Where You Are",
+        "url": "https://www.ssp.sh/brain/travel-where-you-are/",
         "source": "hn",
-        "time": "6/11/2026, 8:14:33 PM"
-      },
-      {
-        "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
-        "url": "https://fablepool.com",
-        "source": "hn",
-        "time": "6/11/2026, 9:17:30 PM"
+        "time": "6/11/2026, 8:08:26 PM"
       }
     ],
     "world": [
+      {
+        "title": "Armed forces minister quits after Healey exit as defence funding row deepens",
+        "url": "https://www.bbc.com/news/articles/c4gyp8n7g3go?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 11 Jun 2026 21:50:20 GMT"
+      },
       {
         "title": "Child-rape sentence reignites scrutiny of UK high street mini-marts",
         "url": "https://www.bbc.com/news/articles/cd6e0021vjjo?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c932y3q09qro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 11 Jun 2026 18:35:31 GMT"
-      },
-      {
-        "title": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
-        "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 11 Jun 2026 20:26:06 GMT"
       }
     ],
     "projects": [
