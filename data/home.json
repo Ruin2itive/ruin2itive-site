@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-11T09:42:26.790Z",
-  "updated_local": "6/11/2026, 9:42:26 AM",
+  "updated_iso": "2026-06-11T11:33:52.222Z",
+  "updated_local": "6/11/2026, 11:33:52 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bithumb CEO Booked as Suspect Over South Korea Bribery Case",
+        "url": "https://decrypt.co/370730/bithumb-ceo-booked-as-suspect-over-south-korea-bribery-case",
+        "source": "crypto",
+        "time": "Thu, 11 Jun 2026 11:09:01 +0000"
+      },
       {
         "title": "Google&#39;s DiffusionGemma AI Hits 1,000 Tokens Per Second—And It&#39;s Free",
         "url": "https://decrypt.co/370706/google-new-open-model-generates-text-diffusiongemma",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/370691/tether-nvidia-amazon-back-neura-robotics-1-4-billion-funding-round",
         "source": "crypto",
         "time": "Wed, 10 Jun 2026 19:30:32 +0000"
-      },
-      {
-        "title": "The Internet Is Furious at Anthropic After Claude Fable 5 Release",
-        "url": "https://decrypt.co/370688/internet-furious-anthropic-claude-mythos-fable-5",
-        "source": "crypto",
-        "time": "Wed, 10 Jun 2026 19:17:27 +0000"
       }
     ],
     "hacker": [
@@ -54,30 +54,24 @@
         "time": "6/10/2026, 4:42:00 PM"
       },
       {
+        "title": "Web Browsers on Video Game Consoles",
+        "url": "https://vale.rocks/posts/game-console-browsers",
+        "source": "hn",
+        "time": "6/11/2026, 8:47:36 AM"
+      },
+      {
         "title": "πFS",
         "url": "https://github.com/philipl/pifs",
         "source": "hn",
         "time": "6/10/2026, 6:54:54 PM"
-      },
-      {
-        "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-        "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
-        "source": "hn",
-        "time": "6/9/2026, 5:23:40 PM"
       }
     ],
     "world": [
       {
-        "title": "Find your local World Cup hero with our postcode lookup",
-        "url": "https://www.bbc.com/news/articles/cn75y330kpjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Police officer, 19, dies from crash injuries",
+        "url": "https://www.bbc.com/news/articles/c621l2nkz4ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 10 Jun 2026 23:13:43 GMT"
-      },
-      {
-        "title": "Nearly 3,000 patients a day in England face corridor care in NHS",
-        "url": "https://www.bbc.com/news/articles/cp3657re2epo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 11 Jun 2026 09:08:29 GMT"
+        "time": "Thu, 11 Jun 2026 11:30:28 GMT"
       },
       {
         "title": "Olivia Rodrigo on heartbreak and choosing her wedding song",
@@ -92,10 +86,16 @@
         "time": "Thu, 11 Jun 2026 04:19:40 GMT"
       },
       {
-        "title": "Ryanair investigated over charging parents to sit with children",
-        "url": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Serena Williams' run at Queen's over as partner Victoria Mboko withdraws",
+        "url": "https://www.bbc.com/sport/tennis/articles/c0lyg82kl31o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 11 Jun 2026 09:13:06 GMT"
+        "time": "Thu, 11 Jun 2026 11:11:41 GMT"
+      },
+      {
+        "title": "Nearly 3,000 patients a day in England face corridor care in NHS",
+        "url": "https://www.bbc.com/news/articles/cp3657re2epo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 11 Jun 2026 09:08:29 GMT"
       }
     ],
     "projects": [
