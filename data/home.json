@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-06-11T17:24:50.867Z",
-  "updated_local": "6/11/2026, 5:24:50 PM",
+  "updated_iso": "2026-06-11T19:01:30.418Z",
+  "updated_local": "6/11/2026, 7:01:30 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Anthropic Apologizes for Claude Fable 5 Secret Censorship—But the Fix Has a Catch",
+        "url": "https://decrypt.co/370831/anthropic-apologizes-claude-fable-5-secret-censorship",
+        "source": "crypto",
+        "time": "Thu, 11 Jun 2026 18:55:48 +0000"
+      },
+      {
+        "title": "Whistleblower Sues Elon Musk&#39;s xAI, Claiming He Was Fired After Raising Grok Safety Concerns",
+        "url": "https://decrypt.co/370825/whistleblower-sues-elon-musk-xai-fired-raising-grok-safety-concerns",
+        "source": "crypto",
+        "time": "Thu, 11 Jun 2026 18:11:44 +0000"
+      },
       {
         "title": "Authorities Take Down &#39;AudiA6&#39; Group That Allegedly Laundered $389 Million in Bitcoin",
         "url": "https://decrypt.co/370812/authorities-take-down-audia6-allegedly-laundered-389-million-bitcoin",
@@ -20,38 +32,20 @@
         "url": "https://decrypt.co/370753/wall-street-giants-sovereign-wealth-fund-canton-creator-355m-round",
         "source": "crypto",
         "time": "Thu, 11 Jun 2026 15:05:22 +0000"
-      },
-      {
-        "title": "Banks Say Stablecoin Rules Should Cover Secondary Markets",
-        "url": "https://decrypt.co/370752/banks-say-stablecoin-rules-should-cover-secondary-markets",
-        "source": "crypto",
-        "time": "Thu, 11 Jun 2026 15:03:24 +0000"
-      },
-      {
-        "title": "Bitcoin ETFs Shed $2.1B in June So Far as Market Selloff Deepens",
-        "url": "https://decrypt.co/370749/bitcoin-etfs-shed-2-1b-in-june-so-far-as-market-selloff-deepens",
-        "source": "crypto",
-        "time": "Thu, 11 Jun 2026 12:36:17 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Show HN: Homebrew 6.0.0",
+        "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+        "source": "hn",
+        "time": "6/11/2026, 1:24:29 PM"
+      },
       {
         "title": "MiMo Code is now released and open-source",
         "url": "https://mimo.xiaomi.com/mimocode",
         "source": "hn",
         "time": "6/11/2026, 2:27:19 PM"
-      },
-      {
-        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-        "source": "hn",
-        "time": "6/11/2026, 12:05:02 PM"
-      },
-      {
-        "title": "Lines of code got a better publicist",
-        "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
-        "source": "hn",
-        "time": "6/11/2026, 12:26:42 PM"
       },
       {
         "title": "The RCE that AMD wouldn't fix",
@@ -64,20 +58,20 @@
         "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
         "source": "hn",
         "time": "6/11/2026, 3:37:23 PM"
+      },
+      {
+        "title": "Software Is Made Between Commits",
+        "url": "https://zed.dev/blog/introducing-deltadb",
+        "source": "hn",
+        "time": "6/11/2026, 4:28:24 PM"
       }
     ],
     "world": [
       {
-        "title": "El Niño under way and threatens weather extremes, scientists say",
-        "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Healey quits as defence secretary in row over military spending",
+        "url": "https://www.bbc.com/news/articles/c9w2lkd29l8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 11 Jun 2026 13:26:24 GMT"
-      },
-      {
-        "title": "Weight-loss drug Wegovy to be available in pill form in UK for first time",
-        "url": "https://www.bbc.com/news/articles/c9d2pl10lqzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 11 Jun 2026 15:00:13 GMT"
+        "time": "Thu, 11 Jun 2026 18:46:07 GMT"
       },
       {
         "title": "Child-rape sentence reignites scrutiny of UK high street mini-marts",
@@ -86,16 +80,22 @@
         "time": "Thu, 11 Jun 2026 17:06:04 GMT"
       },
       {
+        "title": "Dozens of children put at risk after gender care failures at GP clinic, inquiry finds",
+        "url": "https://www.bbc.com/news/articles/c932y3q09qro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 11 Jun 2026 18:35:31 GMT"
+      },
+      {
+        "title": "El Niño under way and threatens weather extremes, scientists say",
+        "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 11 Jun 2026 13:26:24 GMT"
+      },
+      {
         "title": "'Mum was killing me': England's Declan Rice on sunburn for his World Cup photoshoot",
         "url": "https://www.bbc.com/news/articles/cq61l6d870vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 11 Jun 2026 09:44:10 GMT"
-      },
-      {
-        "title": "Catch up on the World Cup without any spoilers",
-        "url": "https://www.bbc.com/sport/football/articles/c0qy0zn231yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 11 Jun 2026 17:08:40 GMT"
       }
     ],
     "projects": [
