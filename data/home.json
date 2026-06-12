@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-12T13:25:02.281Z",
-  "updated_local": "6/12/2026, 1:25:02 PM",
+  "updated_iso": "2026-06-12T15:05:19.097Z",
+  "updated_local": "6/12/2026, 3:05:19 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "GameStop Renews Bitcoin Deal That Did Little for Its Record Quarter",
+        "url": "https://decrypt.co/370905/gamestop-renews-bitcoin-deal-that-did-little-for-its-record-quarter",
+        "source": "crypto",
+        "time": "Fri, 12 Jun 2026 15:02:28 +0000"
+      },
       {
         "title": "Metaplanet Acquires Japanese Securities Firm for $13M to Launch Bitcoin Yield Products",
         "url": "https://decrypt.co/370891/metaplanet-acquires-japanese-securities-firm-for-13m-to-launch-bitcoin-yield-products",
@@ -26,20 +32,26 @@
         "url": "https://decrypt.co/370875/gary-gensler-backs-states-in-fight-over-prediction-market-regulation",
         "source": "crypto",
         "time": "Fri, 12 Jun 2026 11:02:05 +0000"
-      },
-      {
-        "title": "LG Electronics Teams With Arbitrum for Blockchain-Based Ad Platform",
-        "url": "https://decrypt.co/370866/lg-electronics-teams-with-arbitrum-for-blockchain-based-ad-platform",
-        "source": "crypto",
-        "time": "Fri, 12 Jun 2026 10:23:39 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "WASI 0.3.0 Released",
+        "url": "https://github.com/WebAssembly/WASI/releases/tag/v0.3.0",
+        "source": "hn",
+        "time": "6/12/2026, 1:51:15 PM"
+      },
       {
         "title": "AI agent bankrupted their operator while trying to scan DN42",
         "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
         "source": "hn",
         "time": "6/12/2026, 4:42:53 AM"
+      },
+      {
+        "title": "A Call to Action: Stop the FCC's KYC Regime",
+        "url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
+        "source": "hn",
+        "time": "6/12/2026, 2:33:29 PM"
       },
       {
         "title": "Maxproof",
@@ -48,22 +60,10 @@
         "time": "6/12/2026, 12:00:02 PM"
       },
       {
-        "title": "If you are asking for human attention, demonstrate human effort",
-        "url": "https://tombedor.dev/human-attention-and-human-effort/",
+        "title": "The Future of Email",
+        "url": "https://www.fastmail.com/blog/the-future-of-email/",
         "source": "hn",
-        "time": "6/11/2026, 11:01:55 PM"
-      },
-      {
-        "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-        "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-        "source": "hn",
-        "time": "6/12/2026, 12:38:11 AM"
-      },
-      {
-        "title": "AUR Packages Compromised with Infostealer and Rootkit",
-        "url": "https://discourse.ifin.network/t/400-aur-packages-compromised-with-infostealer-and-rootkit/577",
-        "source": "hn",
-        "time": "6/12/2026, 5:59:39 AM"
+        "time": "6/12/2026, 10:38:31 AM"
       }
     ],
     "world": [
@@ -71,13 +71,13 @@
         "title": "Celebrated British artist David Hockney dies aged 88",
         "url": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 12 Jun 2026 12:44:16 GMT"
+        "time": "Fri, 12 Jun 2026 14:03:35 GMT"
       },
       {
         "title": "Ministers want 60% of children walking or cycling to school by 2035",
         "url": "https://www.bbc.com/news/articles/c3wyezwly69o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 12 Jun 2026 11:21:47 GMT"
+        "time": "Fri, 12 Jun 2026 14:24:08 GMT"
       },
       {
         "title": "Grooming survivors left with criminal records still being failed, BBC told",
@@ -86,16 +86,16 @@
         "time": "Fri, 12 Jun 2026 05:03:32 GMT"
       },
       {
-        "title": "Nineteen now arrested over Northern Ireland disorder with house targeted in arson",
-        "url": "https://www.bbc.com/news/articles/cwy03rneqxzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 12 Jun 2026 11:51:54 GMT"
-      },
-      {
         "title": "Donaldson denies meeting sex abuse accuser to 'nip in the bud' allegations",
         "url": "https://www.bbc.com/news/articles/cwyex8lk70jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 12 Jun 2026 11:47:58 GMT"
+        "time": "Fri, 12 Jun 2026 14:14:13 GMT"
+      },
+      {
+        "title": "London council takes possession of property linked to Sierra Leone's First Lady",
+        "url": "https://www.bbc.com/news/articles/clyxkeny8x6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 12 Jun 2026 13:05:29 GMT"
       }
     ],
     "projects": [
