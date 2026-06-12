@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-12T05:33:34.316Z"
+    "built_at": "2026-06-12T07:34:09.382Z"
   },
-  "items": [
-    {
-      "title": "How to (Inadvertently) Sabotage Your Organization (2019)",
-      "url": "https://sloanreview.mit.edu/article/how-to-inadvertently-sabotage-your-organization/",
-      "date": "2026-06-12T05:27:14.000Z"
-    },
-    {
-      "title": "Infineon to open fab in Germany as part of sovereignty push",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-12/infineon-to-open-german-chip-fab-as-part-of-eu-sovereignty-push",
-      "date": "2026-06-12T05:26:12.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
