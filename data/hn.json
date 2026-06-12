@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-12T21:32:49.637Z"
+    "built_at": "2026-06-12T22:30:49.244Z"
   },
-  "items": [
-    {
-      "title": "Loopers, Robovacs and the Death of the /Prompt",
-      "url": "https://medium.com/@vektormemory/loopers-robovacs-and-the-death-of-the-prompt-404946da77f8",
-      "date": "2026-06-12T21:31:53.000Z"
-    },
-    {
-      "title": "I assume I'm below average",
-      "url": "https://sive.rs/below-average",
-      "date": "2026-06-12T21:30:58.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
