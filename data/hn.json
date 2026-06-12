@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-11T23:30:52.449Z"
+    "built_at": "2026-06-12T00:40:05.714Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Almost everyone, alone or in crowds, keeps turning counterclockwise",
+      "url": "https://www.msn.com/en-us/news/technology/strange-walking-experiment-found-that-almost-everyone-alone-or-in-crowds-keeps-turning-counterclockwise/ar-AA25p2rD",
+      "date": "2026-06-12T00:38:50.000Z"
+    },
+    {
+      "title": "Nobody ever gets credit for fixing problems that never happened (2002) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "date": "2026-06-12T00:38:11.000Z"
+    }
+  ]
 }
