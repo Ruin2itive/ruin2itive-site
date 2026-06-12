@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-12T07:34:09.382Z"
+    "built_at": "2026-06-12T09:22:04.847Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "LabEx Challenges: LeetCode for Linux",
+      "url": "https://labex.io/challenges",
+      "date": "2026-06-12T09:21:09.000Z"
+    },
+    {
+      "title": "Show HN: Seamless: content-addressed computation and caching",
+      "url": "https://github.com/sjdv1982/seamless",
+      "date": "2026-06-12T09:20:31.000Z"
+    }
+  ]
 }
