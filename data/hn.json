@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-12T22:30:49.244Z"
+    "built_at": "2026-06-12T23:29:39.580Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Russia builds up infrastructure near Europe's border to deploy over 100k troops",
+      "url": "https://www.pravda.com.ua/eng/news/2026/06/10/8038671/",
+      "date": "2026-06-12T23:28:34.000Z"
+    },
+    {
+      "title": "From a Single File to an MCP Server: Six Rewrites of My Own Harness",
+      "url": "https://pub.towardsai.net/from-a-single-file-to-an-mcp-server-six-rewrites-of-my-own-harness-74b4d67b5373?source=friends_link&sk=9e8b13e4920771b5d414db224901bf0e",
+      "date": "2026-06-12T23:25:57.000Z"
+    }
+  ]
 }
