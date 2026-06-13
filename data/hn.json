@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-13T05:29:43.297Z"
+    "built_at": "2026-06-13T07:16:16.976Z"
   },
-  "items": [
-    {
-      "title": "The Touch of God",
-      "url": "http://bryanhu.com/blog/posts/the-touch-of-god/",
-      "date": "2026-06-13T05:26:00.000Z"
-    },
-    {
-      "title": "How Musk's tactics left investors clamoring for SpaceX stock and ignoring risks",
-      "url": "https://www.reuters.com/legal/transactional/how-musks-tactics-left-investors-clamoring-spacex-stock-ignoring-risks-2026-06-12/",
-      "date": "2026-06-13T05:20:35.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
