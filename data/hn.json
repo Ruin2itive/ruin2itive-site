@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-13T10:46:44.603Z"
+    "built_at": "2026-06-13T11:35:48.589Z"
   },
-  "items": [
-    {
-      "title": "Home Energy Model (Hem) Engine Written in Rust",
-      "url": "https://github.com/communitiesuk/epb-home-energy-model",
-      "date": "2026-06-13T10:44:36.000Z"
-    },
-    {
-      "title": "OpenAI under investigation by group of state attorneys general, source says",
-      "url": "https://www.reuters.com/business/openai-under-investigation-by-coalition-state-attorneys-general-wsj-reports-2026-06-12/",
-      "date": "2026-06-13T10:42:43.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
