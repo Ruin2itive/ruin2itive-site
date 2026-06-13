@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-13T22:22:31.747Z"
+    "built_at": "2026-06-13T23:23:58.261Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "ReactOS (FOSS \"Windows\") achieves 3D-accelerated Half-Life on real hardware",
+      "url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+      "date": "2026-06-13T23:22:05.000Z"
+    },
+    {
+      "title": "Atlassian \"Data Contribution\"",
+      "url": "https://news.ycombinator.com/item?id=48522482",
+      "date": "2026-06-13T23:21:20.000Z"
+    }
+  ]
 }
