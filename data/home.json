@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-13T15:39:43.212Z",
-  "updated_local": "6/13/2026, 3:39:43 PM",
+  "updated_iso": "2026-06-13T16:32:37.586Z",
+  "updated_local": "6/13/2026, 4:32:37 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
+        "url": "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams",
+        "source": "crypto",
+        "time": "Sat, 13 Jun 2026 16:01:04 +0000"
+      },
       {
         "title": "AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations",
         "url": "https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/370954/moonshot-ai-kimi-work-300-agents-desktop",
         "source": "crypto",
         "time": "Fri, 12 Jun 2026 18:40:57 +0000"
-      },
-      {
-        "title": "Americans Fear Job Losses Due to AI But Hope for Cancer, Alzheimer’s Cures: Anthropic Survey",
-        "url": "https://decrypt.co/370951/americans-fear-job-losses-ai-hope-cancer-alzheimers-cures-anthropic",
-        "source": "crypto",
-        "time": "Fri, 12 Jun 2026 18:14:24 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "6/13/2026, 1:54:56 PM"
       },
       {
-        "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-        "url": "https://github.com/tensorzero/tensorzero",
-        "source": "hn",
-        "time": "6/13/2026, 12:10:47 PM"
-      },
-      {
-        "title": "A low-carbon computing platform from your retired phones",
-        "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-        "source": "hn",
-        "time": "6/13/2026, 9:38:32 AM"
-      },
-      {
         "title": "Treating pancreatic tumours may have revealed cancer's master switch",
         "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
         "source": "hn",
         "time": "6/13/2026, 1:34:00 PM"
       },
       {
-        "title": "Show HN: I am building a map of people who lived in the Roman Empire",
-        "url": "https://new.roman-names.com/",
+        "title": "Orthodox C++",
+        "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
         "source": "hn",
-        "time": "6/10/2026, 7:28:49 PM"
+        "time": "6/13/2026, 1:58:46 PM"
+      },
+      {
+        "title": "Every Frame Perfect",
+        "url": "https://tonsky.me/blog/every-frame-perfect/",
+        "source": "hn",
+        "time": "6/13/2026, 11:40:20 AM"
+      },
+      {
+        "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+        "url": "https://github.com/tensorzero/tensorzero",
+        "source": "hn",
+        "time": "6/13/2026, 12:10:47 PM"
       }
     ],
     "world": [
