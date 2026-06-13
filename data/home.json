@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-13T12:49:12.586Z",
-  "updated_local": "6/13/2026, 12:49:12 PM",
+  "updated_iso": "2026-06-13T13:35:10.766Z",
+  "updated_local": "6/13/2026, 1:35:10 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations",
+        "url": "https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations",
+        "source": "crypto",
+        "time": "Sat, 13 Jun 2026 13:01:06 +0000"
+      },
       {
         "title": "How Crypto Firms Will Own the Octagon at Trump&#39;s White House UFC Event",
         "url": "https://decrypt.co/370974/how-crypto-firms-own-octagon-trump-white-house-ufc-event",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/370951/americans-fear-job-losses-ai-hope-cancer-alzheimers-cures-anthropic",
         "source": "crypto",
         "time": "Fri, 12 Jun 2026 18:14:24 +0000"
-      },
-      {
-        "title": "Crypto Firms Scrap Tokenized SpaceX Share Offerings as SPCX Surges After IPO",
-        "url": "https://decrypt.co/370948/crypto-firms-scrap-tokenized-spacex-share-offerings-spcx-surges-ipo",
-        "source": "crypto",
-        "time": "Fri, 12 Jun 2026 17:50:06 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+        "url": "https://github.com/tensorzero/tensorzero",
+        "source": "hn",
+        "time": "6/13/2026, 12:10:47 PM"
+      },
       {
         "title": "A low-carbon computing platform from your retired phones",
         "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
@@ -42,36 +48,36 @@
         "time": "6/13/2026, 9:38:32 AM"
       },
       {
-        "title": "Show HN: 2 Weeks of Hallucinate – The Photo Gallery",
-        "url": "https://hallucinate.site/gallery",
+        "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+        "url": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
         "source": "hn",
-        "time": "6/13/2026, 12:11:35 PM"
+        "time": "6/13/2026, 12:20:05 PM"
+      },
+      {
+        "title": "The state of building user interfaces in Rust",
+        "url": "https://areweguiyet.com/#ecosystem",
+        "source": "hn",
+        "time": "6/10/2026, 4:44:23 PM"
       },
       {
         "title": "Leaving Mozilla",
         "url": "https://blog.unitedheroes.net/5751",
         "source": "hn",
         "time": "6/13/2026, 5:57:14 AM"
-      },
-      {
-        "title": "Electric motors with no rare earths",
-        "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-        "source": "hn",
-        "time": "6/12/2026, 10:08:03 PM"
-      },
-      {
-        "title": "Thoughts on AI and Jobs",
-        "url": "https://blog.keyvan.net/p/thoughts-on-ai-and-jobs",
-        "source": "hn",
-        "time": "6/13/2026, 12:21:18 PM"
       }
     ],
     "world": [
       {
-        "title": "Rugby star Sinfield and authors Blackman and Donaldson lead honours list",
-        "url": "https://www.bbc.com/news/articles/c4gyx4dnr21o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Royal Family watch Red Arrows flypast on Buckingham Palace balcony",
+        "url": "https://www.bbc.com/news/articles/cn07y41kn2wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 13 Jun 2026 09:08:08 GMT"
+        "time": "Sat, 13 Jun 2026 13:07:55 GMT"
+      },
+      {
+        "title": "In pictures: Trooping the Colour marks King's official birthday",
+        "url": "https://www.bbc.com/news/articles/cpv3mmlg872o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 13 Jun 2026 13:33:44 GMT"
       },
       {
         "title": "Are the Downing Street dominoes about to fall?",
@@ -80,22 +86,16 @@
         "time": "Sat, 13 Jun 2026 11:59:35 GMT"
       },
       {
-        "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
-        "url": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Rugby star Sinfield and authors Blackman and Donaldson lead honours list",
+        "url": "https://www.bbc.com/news/articles/c4gyx4dnr21o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 13 Jun 2026 05:00:04 GMT"
+        "time": "Sat, 13 Jun 2026 09:08:08 GMT"
       },
       {
         "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
         "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 13 Jun 2026 11:15:18 GMT"
-      },
-      {
-        "title": "Harry Styles revisits X Factor as he kicks off Wembley residency",
-        "url": "https://www.bbc.com/news/articles/cwy0381xxd7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 13 Jun 2026 02:00:32 GMT"
       }
     ],
     "projects": [
