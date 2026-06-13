@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-13T18:39:50.520Z",
-  "updated_local": "6/13/2026, 6:39:50 PM",
+  "updated_iso": "2026-06-13T19:32:56.257Z",
+  "updated_local": "6/13/2026, 7:32:56 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
+        "url": "https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
+        "source": "crypto",
+        "time": "Sat, 13 Jun 2026 19:23:34 +0000"
+      },
       {
         "title": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
         "url": "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/370972/ai-agents-prompt-injection-attacks-research",
         "source": "crypto",
         "time": "Fri, 12 Jun 2026 19:22:28 +0000"
-      },
-      {
-        "title": "Moonshot AI&#39;s Kimi Work Brings 300 AI Agents to Your Desktop",
-        "url": "https://decrypt.co/370954/moonshot-ai-kimi-work-300-agents-desktop",
-        "source": "crypto",
-        "time": "Fri, 12 Jun 2026 18:40:57 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://desfontain.es/blog/banning-noise.html",
         "source": "hn",
         "time": "6/13/2026, 1:54:56 PM"
+      },
+      {
+        "title": "GameBoy Workboy",
+        "url": "https://tcrf.net/Workboy",
+        "source": "hn",
+        "time": "6/13/2026, 5:43:02 PM"
       },
       {
         "title": "Treating pancreatic tumours may have revealed cancer's master switch",
@@ -54,30 +60,24 @@
         "time": "6/13/2026, 11:40:20 AM"
       },
       {
-        "title": "GameBoy Workboy",
-        "url": "https://tcrf.net/Workboy",
+        "title": "AI Coding at Home Without Going Broke",
+        "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
         "source": "hn",
-        "time": "6/13/2026, 5:43:02 PM"
-      },
-      {
-        "title": "Appreciating Exif",
-        "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
-        "source": "hn",
-        "time": "6/9/2026, 8:41:44 PM"
+        "time": "6/13/2026, 4:45:03 PM"
       }
     ],
     "world": [
       {
-        "title": "US-Iran deal scheduled to be signed on Sunday, says Trump",
+        "title": "Trump says US-Iran deal to be signed Sunday as Tehran casts doubt on timing",
         "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 13 Jun 2026 18:03:51 GMT"
+        "time": "Sat, 13 Jun 2026 18:39:26 GMT"
       },
       {
         "title": "Molly Russell's dad says PM rushing social media restrictions 'deplorable'",
         "url": "https://www.bbc.com/news/articles/cwykw759v3po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 13 Jun 2026 17:55:41 GMT"
+        "time": "Sat, 13 Jun 2026 19:15:02 GMT"
       },
       {
         "title": "Royal Family watch Red Arrows flypast on Buckingham Palace balcony",
@@ -89,7 +89,7 @@
         "title": "Thousands gather for anti-racism rally in Belfast after disorder",
         "url": "https://www.bbc.com/news/articles/c20ygdde4djo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 13 Jun 2026 18:20:38 GMT"
+        "time": "Sat, 13 Jun 2026 19:13:20 GMT"
       },
       {
         "title": "Are the Downing Street dominoes about to fall?",
