@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-14T01:46:49.640Z"
+    "built_at": "2026-06-14T03:06:08.364Z"
   },
-  "items": [
-    {
-      "title": "Brew Browser: A Native macOS GUI for Homebrew",
-      "url": "https://github.com/msitarzewski/brew-browser",
-      "date": "2026-06-14T01:42:11.000Z"
-    },
-    {
-      "title": "Vincent's parents 'never say he's good enough' so he turned to a couple online",
-      "url": "https://www.bbc.com/news/articles/cpq3dnr5vlzo",
-      "date": "2026-06-14T01:39:38.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
