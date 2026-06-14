@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-14T16:40:36.341Z",
-  "updated_local": "6/14/2026, 4:40:36 PM",
+  "updated_iso": "2026-06-14T17:30:40.746Z",
+  "updated_local": "6/14/2026, 5:30:40 PM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "No, everyone is not using AI for everything",
-        "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-        "source": "hn",
-        "time": "6/14/2026, 2:44:29 PM"
-      },
-      {
         "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
         "url": "https://github.com/nex-agi/Nex-N2/issues/4",
         "source": "hn",
         "time": "6/14/2026, 3:37:31 PM"
-      },
-      {
-        "title": "The Birth and Death of JavaScript (2014)",
-        "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
-        "source": "hn",
-        "time": "6/14/2026, 12:38:31 PM"
       },
       {
         "title": "Firewood Splitting Simulator",
@@ -60,10 +48,22 @@
         "time": "6/10/2026, 5:01:31 AM"
       },
       {
-        "title": "Measles surge in Utah sparks fears US could undo decades of progress",
-        "url": "https://www.dailymail.com/news/article-15897903/measles-surge-utah-US-elimination-status.html",
+        "title": "The Birth and Death of JavaScript (2014)",
+        "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
         "source": "hn",
-        "time": "6/14/2026, 3:13:42 PM"
+        "time": "6/14/2026, 12:38:31 PM"
+      },
+      {
+        "title": "Perlisisms",
+        "url": "https://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+        "source": "hn",
+        "time": "6/14/2026, 2:56:56 PM"
+      },
+      {
+        "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+        "url": "https://su3.io/posts/zeroserve-caddy-compat",
+        "source": "hn",
+        "time": "6/14/2026, 1:43:08 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
         "url": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 14 Jun 2026 13:20:41 GMT"
+        "time": "Sun, 14 Jun 2026 17:25:09 GMT"
       },
       {
         "title": "Tech firms had 'enough time' says Nandy, ahead of social media announcement",
@@ -80,10 +80,10 @@
         "time": "Sun, 14 Jun 2026 09:51:15 GMT"
       },
       {
-        "title": "UK and Japan agree £18bn investment deal",
-        "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Swiss voters reject 10 million population cap, early projections say",
+        "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 14 Jun 2026 15:25:33 GMT"
+        "time": "Sun, 14 Jun 2026 11:31:32 GMT"
       },
       {
         "title": "Lewis Hamilton wins first grand prix for Ferrari",
@@ -92,10 +92,10 @@
         "time": "Sun, 14 Jun 2026 15:35:02 GMT"
       },
       {
-        "title": "Swiss voters reject 10 million population cap, early projections say",
-        "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
+        "url": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 14 Jun 2026 11:31:32 GMT"
+        "time": "Sun, 14 Jun 2026 14:52:35 GMT"
       }
     ],
     "projects": [
