@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-14T05:44:30.418Z",
-  "updated_local": "6/14/2026, 5:44:30 AM",
+  "updated_iso": "2026-06-14T07:39:04.749Z",
+  "updated_local": "6/14/2026, 7:39:04 AM",
   "sections": {
     "crypto": [
       {
@@ -36,37 +36,43 @@
     ],
     "hacker": [
       {
-        "title": "10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+        "title": "Honda Civics and the Evil Valet",
         "url": "https://juniperspring.org/posts/honda-evil-valet/",
         "source": "hn",
         "time": "6/14/2026, 12:49:46 AM"
       },
       {
-        "title": "Tribblix: the retro illumos distribution",
-        "url": "http://tribblix.org/",
+        "title": "Phoenix LiveView 1.2 Released",
+        "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
         "source": "hn",
-        "time": "6/14/2026, 5:23:12 AM"
+        "time": "6/14/2026, 4:53:51 AM"
       },
       {
-        "title": "Noise infusion banned from statistical products published by Census Bureau",
-        "url": "https://desfontain.es/blog/banning-noise.html",
+        "title": "Consciousness likely not unique to earthlings, paper says",
+        "url": "https://news.ucr.edu/articles/2026/06/10/consciousness-likely-not-unique-earthlings-paper-says",
         "source": "hn",
-        "time": "6/13/2026, 1:54:56 PM"
+        "time": "6/14/2026, 5:27:45 AM"
       },
       {
-        "title": "Software Architecture Guide",
-        "url": "https://martinfowler.com/architecture/",
+        "title": "Don't trust large context windows",
+        "url": "https://garrit.xyz/posts/2026-05-06-dont-trust-large-context-windows",
         "source": "hn",
-        "time": "6/14/2026, 4:07:37 AM"
+        "time": "6/14/2026, 6:07:09 AM"
       },
       {
-        "title": "GLM 5.2 Is Out",
-        "url": "https://twitter.com/jietang/status/2065784751345287314",
+        "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+        "url": "https://sqltoerdiagram.com/",
         "source": "hn",
-        "time": "6/13/2026, 4:18:31 PM"
+        "time": "6/14/2026, 3:43:30 AM"
       }
     ],
     "world": [
+      {
+        "title": "UK intercepts Russian shadow fleet oil tanker in English Channel, PM says",
+        "url": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 14 Jun 2026 07:32:04 GMT"
+      },
       {
         "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
         "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c4gyx962pepo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 14 Jun 2026 00:42:14 GMT"
-      },
-      {
-        "title": "Norway braces for verdict in rape trial of crown princess's son Høiby",
-        "url": "https://www.bbc.com/news/articles/cd95xvk4vn2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 13 Jun 2026 23:11:28 GMT"
       }
     ],
     "projects": [
