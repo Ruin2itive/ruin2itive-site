@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-14T19:31:06.372Z"
+    "built_at": "2026-06-14T20:27:50.622Z"
   },
-  "items": [
-    {
-      "title": "Leave It to Beaver: Everything is bigger at Buc-ee's",
-      "url": "https://thebaffler.com/outbursts/leave-it-to-beaver-wilder",
-      "date": "2026-06-14T19:29:06.000Z"
-    },
-    {
-      "title": "Virology Research Is Not a Crime",
-      "url": "https://rasmussenretorts.substack.com/p/virology-research-is-not-a-crime",
-      "date": "2026-06-14T19:25:32.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
