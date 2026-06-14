@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-14T21:34:35.290Z",
-  "updated_local": "6/14/2026, 9:34:35 PM",
+  "updated_iso": "2026-06-14T22:27:26.839Z",
+  "updated_local": "6/14/2026, 10:27:26 PM",
   "sections": {
     "crypto": [
       {
@@ -36,28 +36,28 @@
     ],
     "hacker": [
       {
+        "title": "Why Is Claude Turning into an a**Hole?",
+        "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
+        "source": "hn",
+        "time": "6/14/2026, 10:04:01 PM"
+      },
+      {
         "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
         "url": "https://github.com/tamnd/kage",
         "source": "hn",
         "time": "6/14/2026, 5:25:38 PM"
       },
       {
-        "title": "Zinnia: A modular 64-bit Unix-like kernel written in Rust",
-        "url": "https://zinnia-os.org/",
-        "source": "hn",
-        "time": "6/14/2026, 9:04:46 PM"
-      },
-      {
-        "title": "Yserver: A modern X11 server written in Rust",
-        "url": "https://github.com/joske/yserver",
-        "source": "hn",
-        "time": "6/14/2026, 7:10:35 PM"
-      },
-      {
         "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
         "url": "https://github.com/nex-agi/Nex-N2/issues/4",
         "source": "hn",
         "time": "6/14/2026, 3:37:31 PM"
+      },
+      {
+        "title": "Firewood Splitting Simulator",
+        "url": "https://screen.toys/firewood/",
+        "source": "hn",
+        "time": "6/10/2026, 5:01:31 AM"
       },
       {
         "title": "Chaosnet (1981)",
@@ -68,16 +68,22 @@
     ],
     "world": [
       {
-        "title": "Israeli military says Hezbollah targets struck in Beirut",
-        "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Starmer set to ban under-16s from major social media platforms",
+        "url": "https://www.bbc.com/news/articles/cly7njlw95qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 14 Jun 2026 17:52:36 GMT"
+        "time": "Sun, 14 Jun 2026 22:16:48 GMT"
       },
       {
         "title": "Assisted dying returns to parliament as MP urges peers to 'finish the job'",
         "url": "https://www.bbc.com/news/articles/c4gyxgwkyxyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 14 Jun 2026 20:05:21 GMT"
+        "time": "Sun, 14 Jun 2026 21:43:48 GMT"
+      },
+      {
+        "title": "Roy Hattersley, former Labour deputy leader, dies aged 93",
+        "url": "https://www.bbc.com/news/articles/cvgq1egykr9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 14 Jun 2026 21:39:02 GMT"
       },
       {
         "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
@@ -86,16 +92,10 @@
         "time": "Sun, 14 Jun 2026 17:25:09 GMT"
       },
       {
-        "title": "Roy Hattersley, former Labour deputy leader, dies aged 93",
-        "url": "https://www.bbc.com/news/articles/cvgq1egykr9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Thunderstorms threaten Trump's UFC cage fight on the White House lawn",
+        "url": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 14 Jun 2026 21:20:31 GMT"
-      },
-      {
-        "title": "UK electric car sales target set to be weakened",
-        "url": "https://www.bbc.com/news/articles/cx2dmwmj4dmo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 14 Jun 2026 17:56:07 GMT"
+        "time": "Sun, 14 Jun 2026 18:09:08 GMT"
       }
     ],
     "projects": [
