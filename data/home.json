@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-14T13:40:00.157Z",
-  "updated_local": "6/14/2026, 1:40:00 PM",
+  "updated_iso": "2026-06-14T14:47:45.160Z",
+  "updated_local": "6/14/2026, 2:47:45 PM",
   "sections": {
     "crypto": [
       {
@@ -48,22 +48,22 @@
         "time": "6/10/2026, 5:01:31 AM"
       },
       {
-        "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
-        "url": "https://sqltoerdiagram.com/",
+        "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+        "url": "https://su3.io/posts/zeroserve-caddy-compat",
         "source": "hn",
-        "time": "6/14/2026, 3:43:30 AM"
+        "time": "6/14/2026, 1:43:08 PM"
       },
       {
-        "title": "Honda Civics and the Evil Valet",
-        "url": "https://juniperspring.org/posts/honda-evil-valet/",
+        "title": "Lisp's Influence on Ruby",
+        "url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
         "source": "hn",
-        "time": "6/14/2026, 12:49:46 AM"
+        "time": "6/11/2026, 2:43:11 PM"
       },
       {
-        "title": "Windows 1.0 and the WinAPI, 40 Years Later",
-        "url": "https://medium.com/@stassaf.uae/windows-1-0-and-the-winapi-40-years-later-abaf64832918",
+        "title": "FarOutCompany",
+        "url": "https://faroutcompany.com/",
         "source": "hn",
-        "time": "6/11/2026, 4:14:55 PM"
+        "time": "6/14/2026, 2:09:29 PM"
       }
     ],
     "world": [
@@ -72,12 +72,6 @@
         "url": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 14 Jun 2026 13:20:41 GMT"
-      },
-      {
-        "title": "Watch: MOD video shows Russian shadow fleet tanker interception",
-        "url": "https://www.bbc.com/news/videos/ce8k5kj64lgo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 14 Jun 2026 09:40:53 GMT"
       },
       {
         "title": "Why Haiti v Scotland was antidote to the ills of world football",
@@ -92,10 +86,16 @@
         "time": "Sun, 14 Jun 2026 09:51:15 GMT"
       },
       {
-        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-        "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Swiss voters reject 10 million population cap, early projections say",
+        "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 14 Jun 2026 11:23:36 GMT"
+        "time": "Sun, 14 Jun 2026 11:31:32 GMT"
+      },
+      {
+        "title": "As Trump turns 80, what's it really like to work as an octogenarian?",
+        "url": "https://www.bbc.com/news/articles/cm20vyxppneo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 13 Jun 2026 23:22:52 GMT"
       }
     ],
     "projects": [
