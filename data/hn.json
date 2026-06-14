@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-14T11:44:07.146Z"
+    "built_at": "2026-06-14T12:36:49.828Z"
   },
-  "items": [
-    {
-      "title": "Virtualisation on Apple Silicon",
-      "url": "https://eclecticlight.co/virtualisation-on-apple-silicon/",
-      "date": "2026-06-14T11:42:23.000Z"
-    },
-    {
-      "title": "Why China is betting on big nuclear reactors",
-      "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
-      "date": "2026-06-14T11:40:30.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
