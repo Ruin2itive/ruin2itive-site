@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-14T20:37:13.293Z",
-  "updated_local": "6/14/2026, 8:37:13 PM",
+  "updated_iso": "2026-06-14T21:29:56.494Z",
+  "updated_local": "6/14/2026, 9:29:56 PM",
   "sections": {
     "crypto": [
       {
@@ -42,10 +42,16 @@
         "time": "6/14/2026, 5:25:38 PM"
       },
       {
-        "title": "Chaosnet (1981)",
-        "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+        "title": "Zinnia: A modular 64-bit Unix-like kernel written in Rust",
+        "url": "https://zinnia-os.org/",
         "source": "hn",
-        "time": "6/14/2026, 7:14:21 PM"
+        "time": "6/14/2026, 9:04:46 PM"
+      },
+      {
+        "title": "Yserver: A modern X11 server written in Rust",
+        "url": "https://github.com/joske/yserver",
+        "source": "hn",
+        "time": "6/14/2026, 7:10:35 PM"
       },
       {
         "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
@@ -54,19 +60,19 @@
         "time": "6/14/2026, 3:37:31 PM"
       },
       {
-        "title": "Firewood Splitting Simulator",
-        "url": "https://screen.toys/firewood/",
+        "title": "Chaosnet (1981)",
+        "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
         "source": "hn",
-        "time": "6/10/2026, 5:01:31 AM"
-      },
-      {
-        "title": "Segmented type appreciation corner (2018)",
-        "url": "https://aresluna.org/segmented-type/",
-        "source": "hn",
-        "time": "6/11/2026, 12:50:29 PM"
+        "time": "6/14/2026, 7:14:21 PM"
       }
     ],
     "world": [
+      {
+        "title": "Israeli military says Hezbollah targets struck in Beirut",
+        "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 14 Jun 2026 17:52:36 GMT"
+      },
       {
         "title": "Assisted dying returns to parliament as MP urges peers to 'finish the job'",
         "url": "https://www.bbc.com/news/articles/c4gyxgwkyxyo?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +86,16 @@
         "time": "Sun, 14 Jun 2026 17:25:09 GMT"
       },
       {
+        "title": "Roy Hattersley, former Labour deputy leader, dies aged 93",
+        "url": "https://www.bbc.com/news/articles/cvgq1egykr9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 14 Jun 2026 21:20:31 GMT"
+      },
+      {
         "title": "UK electric car sales target set to be weakened",
         "url": "https://www.bbc.com/news/articles/cx2dmwmj4dmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 14 Jun 2026 17:56:07 GMT"
-      },
-      {
-        "title": "Thunderstorms threaten Trump's UFC cage fight on the White House lawn",
-        "url": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 14 Jun 2026 18:09:08 GMT"
-      },
-      {
-        "title": "Watch: Protesters clash with police ahead of G7 summit in Geneva",
-        "url": "https://www.bbc.com/news/videos/crkvek3dnrgo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 14 Jun 2026 19:46:36 GMT"
       }
     ],
     "projects": [
