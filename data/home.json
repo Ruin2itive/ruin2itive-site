@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-14T12:42:00.942Z",
-  "updated_local": "6/14/2026, 12:42:00 PM",
+  "updated_iso": "2026-06-14T12:53:05.975Z",
+  "updated_local": "6/14/2026, 12:53:05 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "The Birth and Death of JavaScript (2014)",
+        "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+        "source": "hn",
+        "time": "6/14/2026, 12:38:31 PM"
+      },
+      {
         "title": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
         "url": "https://sqltoerdiagram.com/",
         "source": "hn",
@@ -54,16 +60,10 @@
         "time": "6/13/2026, 4:18:31 PM"
       },
       {
-        "title": "500-year-old monasteries outperform at digital transformation (U. of Zurich)",
-        "url": "https://phys.org/news/2026-05-historic-monasteries-digital-countries.html",
+        "title": "Windows 1.0 and the WinAPI, 40 Years Later",
+        "url": "https://medium.com/@stassaf.uae/windows-1-0-and-the-winapi-40-years-later-abaf64832918",
         "source": "hn",
-        "time": "6/12/2026, 2:58:17 AM"
-      },
-      {
-        "title": "Noise infusion banned from statistical products published by Census Bureau",
-        "url": "https://desfontain.es/blog/banning-noise.html",
-        "source": "hn",
-        "time": "6/13/2026, 1:54:56 PM"
+        "time": "6/11/2026, 4:14:55 PM"
       }
     ],
     "world": [
