@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-14T23:29:46.580Z",
-  "updated_local": "6/14/2026, 11:29:46 PM",
+  "updated_iso": "2026-06-15T00:55:15.994Z",
+  "updated_local": "6/15/2026, 12:55:15 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+        "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+        "source": "hn",
+        "time": "6/14/2026, 10:54:55 PM"
+      },
+      {
         "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
         "url": "https://github.com/tamnd/kage",
         "source": "hn",
         "time": "6/14/2026, 5:25:38 PM"
       },
       {
-        "title": "Did Anthropic ask for this?",
-        "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+        "title": "Write for One Person",
+        "url": "https://wizardzines.com/comics/write-for-one-person/",
         "source": "hn",
-        "time": "6/14/2026, 10:23:05 PM"
+        "time": "6/12/2026, 5:36:10 PM"
       },
       {
         "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
@@ -58,26 +64,20 @@
         "url": "https://screen.toys/firewood/",
         "source": "hn",
         "time": "6/10/2026, 5:01:31 AM"
-      },
-      {
-        "title": "US and Iran announce deal to end military operations",
-        "url": "https://www.bbc.com/news/live/cj0grpyg4v1t",
-        "source": "hn",
-        "time": "6/14/2026, 11:07:48 PM"
       }
     ],
     "world": [
+      {
+        "title": "Oil prices slide after Pakistan announces deal between US and Iran",
+        "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 15 Jun 2026 00:54:15 GMT"
+      },
       {
         "title": "Starmer set to ban under-16s from major social media platforms",
         "url": "https://www.bbc.com/news/articles/cly7njlw95qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 14 Jun 2026 22:16:48 GMT"
-      },
-      {
-        "title": "Assisted dying returns to parliament as MP urges peers to 'finish the job'",
-        "url": "https://www.bbc.com/news/articles/c4gyxgwkyxyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 14 Jun 2026 21:43:48 GMT"
       },
       {
         "title": "Roy Hattersley, former Labour deputy leader, dies aged 93",
@@ -89,13 +89,13 @@
         "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
         "url": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 14 Jun 2026 17:25:09 GMT"
+        "time": "Mon, 15 Jun 2026 00:22:00 GMT"
       },
       {
         "title": "Thunderstorms threaten Trump's UFC cage fight on the White House lawn",
         "url": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 14 Jun 2026 18:09:08 GMT"
+        "time": "Mon, 15 Jun 2026 00:46:32 GMT"
       }
     ],
     "projects": [
