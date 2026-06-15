@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-15T08:24:28.367Z",
-  "updated_local": "6/15/2026, 8:24:28 AM",
+  "updated_iso": "2026-06-15T11:06:15.783Z",
+  "updated_local": "6/15/2026, 11:06:15 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Tops $65K on US-Iran Deal, But Traders Remain Skeptical",
+        "url": "https://decrypt.co/371121/bitcoin-tops-65k-on-us-iran-deal-but-traders-remain-skeptical",
+        "source": "crypto",
+        "time": "Mon, 15 Jun 2026 11:03:14 +0000"
+      },
       {
         "title": "Reve 2.0 Review: The Best AI Image Generator for Layout Control",
         "url": "https://decrypt.co/371033/reve-2-review-best-ai-image-generator-layout-control",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams",
         "source": "crypto",
         "time": "Sat, 13 Jun 2026 16:01:04 +0000"
-      },
-      {
-        "title": "AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations",
-        "url": "https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations",
-        "source": "crypto",
-        "time": "Sat, 13 Jun 2026 13:01:06 +0000"
       }
     ],
     "hacker": [
@@ -48,22 +48,22 @@
         "time": "6/15/2026, 4:55:34 AM"
       },
       {
+        "title": "Anthropic's Safety Superpower",
+        "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+        "source": "hn",
+        "time": "6/15/2026, 10:06:35 AM"
+      },
+      {
+        "title": "What the Fuck Happened to Nerds",
+        "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
+        "source": "hn",
+        "time": "6/15/2026, 8:23:52 AM"
+      },
+      {
         "title": "Even more batteries included with Emacs",
         "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
         "source": "hn",
         "time": "6/15/2026, 2:30:25 AM"
-      },
-      {
-        "title": "Curl will not accept vulnerability reports during July 2026",
-        "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-        "source": "hn",
-        "time": "6/15/2026, 6:02:57 AM"
-      },
-      {
-        "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-        "url": "https://github.com/tamnd/kage",
-        "source": "hn",
-        "time": "6/14/2026, 5:25:38 PM"
       }
     ],
     "world": [
@@ -71,13 +71,19 @@
         "title": "When will social media ban start and what platforms are included?",
         "url": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 15 Jun 2026 08:15:38 GMT"
+        "time": "Mon, 15 Jun 2026 10:00:05 GMT"
       },
       {
-        "title": "Trump heralds Iran deal but questions - and risks - remain",
-        "url": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "The US and Iran have agreed a deal. How soon could things go back to normal?",
+        "url": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 15 Jun 2026 02:41:25 GMT"
+        "time": "Mon, 15 Jun 2026 11:03:45 GMT"
+      },
+      {
+        "title": "Palestine Action ban is lawful, Court of Appeal rules",
+        "url": "https://www.bbc.com/news/articles/c4gy927jx88o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 15 Jun 2026 11:05:12 GMT"
       },
       {
         "title": "OnlyFans 'agents' control and threaten creators while taking half their earnings, BBC finds",
@@ -86,16 +92,10 @@
         "time": "Mon, 15 Jun 2026 05:00:09 GMT"
       },
       {
-        "title": "Norwegian crown princess's son found guilty of two counts of rape",
-        "url": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Award-winning investigative journalist Roger Cook dies aged 83",
+        "url": "https://www.bbc.com/news/articles/ckg48qqwkd2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 15 Jun 2026 07:42:27 GMT"
-      },
-      {
-        "title": "US musician Oliver Tree dies as two helicopters crash mid-air",
-        "url": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 15 Jun 2026 06:47:23 GMT"
+        "time": "Mon, 15 Jun 2026 10:23:10 GMT"
       }
     ],
     "projects": [
