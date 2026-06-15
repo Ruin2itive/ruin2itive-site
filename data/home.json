@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-06-15T16:44:19.207Z",
-  "updated_local": "6/15/2026, 4:44:19 PM",
+  "updated_iso": "2026-06-15T18:32:23.346Z",
+  "updated_local": "6/15/2026, 6:32:23 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing",
+        "url": "https://decrypt.co/371201/anthropic-lawsuit-allegedly-misleading-claude-ai-pricing",
+        "source": "crypto",
+        "time": "Mon, 15 Jun 2026 17:57:48 +0000"
+      },
+      {
+        "title": "Solana Treasury Firm Forward Industries Keeps Trying to Acquire Rivals—But Nobody&#39;s Biting",
+        "url": "https://decrypt.co/371198/solana-treasury-firm-forward-industries-trying-acquire-rivals",
+        "source": "crypto",
+        "time": "Mon, 15 Jun 2026 17:30:29 +0000"
+      },
       {
         "title": "Canadian PM Urges AI Diversification After US Anthropic Block, Decentralized AI Tokens Rally",
         "url": "https://decrypt.co/371159/canadian-pm-urges-ai-diversification-after-us-anthropic-block-decentralized-ai-tokens-rally",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/371143/one-indicted-over-crypto-wrench-attack-in-france",
         "source": "crypto",
         "time": "Mon, 15 Jun 2026 14:40:46 +0000"
-      },
-      {
-        "title": "Tom Lee&#39;s BitMine Adds $139 Million in Ethereum Ahead of Preferred Share Trading Start",
-        "url": "https://decrypt.co/371142/tom-lees-bitmine-139-million-ethereum-preferred-share-trading",
-        "source": "crypto",
-        "time": "Mon, 15 Jun 2026 14:36:50 +0000"
-      },
-      {
-        "title": "Morning Minute: Standard Chartered Says the Crypto Winter Is Over",
-        "url": "https://decrypt.co/371127/morning-minute-standard-chartered-says-the-crypto-winter-is-over",
-        "source": "crypto",
-        "time": "Mon, 15 Jun 2026 13:04:47 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "6/15/2026, 3:13:06 PM"
       },
       {
-        "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
-        "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
+        "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+        "url": "https://tinywind.io",
         "source": "hn",
-        "time": "6/15/2026, 2:48:47 PM"
+        "time": "6/15/2026, 4:15:53 PM"
       },
       {
         "title": "My Homelab AI Dev Platform",
@@ -54,10 +54,10 @@
         "time": "6/15/2026, 3:09:40 PM"
       },
       {
-        "title": "Making glass-to-metal seals for home­made vacuum tubes",
-        "url": "https://maurycyz.com/projects/glass/1/",
+        "title": "How TimescaleDB compresses time-series data",
+        "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
         "source": "hn",
-        "time": "6/14/2026, 3:52:09 PM"
+        "time": "6/15/2026, 5:29:17 PM"
       }
     ],
     "world": [
@@ -66,6 +66,12 @@
         "url": "https://www.bbc.com/news/articles/c8r2l352z2do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 15 Jun 2026 13:10:58 GMT"
+      },
+      {
+        "title": "Under-16s to be banned from TikTok, YouTube and other social media by next spring, Starmer says",
+        "url": "https://www.bbc.com/news/articles/c2kydl0zqeko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 15 Jun 2026 17:10:03 GMT"
       },
       {
         "title": "Social media ban - bold and blunt, but no silver bullet",
@@ -84,12 +90,6 @@
         "url": "https://www.bbc.com/news/articles/c8721y4341qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 15 Jun 2026 14:48:33 GMT"
-      },
-      {
-        "title": "Palestine Action ban is lawful, Court of Appeal rules",
-        "url": "https://www.bbc.com/news/articles/c4gy927jx88o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 15 Jun 2026 12:44:04 GMT"
       }
     ],
     "projects": [
