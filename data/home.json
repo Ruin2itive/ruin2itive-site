@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-06-15T20:09:46.659Z",
-  "updated_local": "6/15/2026, 8:09:46 PM",
+  "updated_iso": "2026-06-15T21:52:40.873Z",
+  "updated_local": "6/15/2026, 9:52:40 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit",
+        "url": "https://decrypt.co/371253/elon-musk-loses-again-openai-xai-trade-secret-lawsuit",
+        "source": "crypto",
+        "time": "Mon, 15 Jun 2026 21:05:00 +0000"
+      },
+      {
+        "title": "Pudgy Penguins NFT Game &#39;Pudgy Party&#39; Shuts Down Less Than a Year After Launch",
+        "url": "https://decrypt.co/371197/pudgy-penguins-nft-game-pudgy-party-shuts-down",
+        "source": "crypto",
+        "time": "Mon, 15 Jun 2026 20:47:53 +0000"
+      },
       {
         "title": "Someone Just Lost $1 Million on Polymarket Over Spain World Cup Shocker",
         "url": "https://decrypt.co/371227/polymarket-trader-loses-1-million-spain-world-cup-bet",
@@ -20,21 +32,21 @@
         "url": "https://decrypt.co/371207/wall-street-boost-uniswap-token-price-40x-2030-standard-chartered",
         "source": "crypto",
         "time": "Mon, 15 Jun 2026 18:37:57 +0000"
-      },
-      {
-        "title": "Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing",
-        "url": "https://decrypt.co/371201/anthropic-lawsuit-allegedly-misleading-claude-ai-pricing",
-        "source": "crypto",
-        "time": "Mon, 15 Jun 2026 17:57:48 +0000"
-      },
-      {
-        "title": "Solana Treasury Firm Forward Industries Keeps Trying to Acquire Rivals—But Nobody&#39;s Biting",
-        "url": "https://decrypt.co/371198/solana-treasury-firm-forward-industries-trying-acquire-rivals",
-        "source": "crypto",
-        "time": "Mon, 15 Jun 2026 17:30:29 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "A backdoor in a LinkedIn job offer",
+        "url": "https://roman.pt/posts/linkedin-backdoor/",
+        "source": "hn",
+        "time": "6/15/2026, 8:00:57 PM"
+      },
+      {
+        "title": "US battery manufacturing output continues to break records",
+        "url": "https://fred.stlouisfed.org/series/IPG33591S",
+        "source": "hn",
+        "time": "6/15/2026, 8:28:24 PM"
+      },
       {
         "title": "Iroh 1.0",
         "url": "https://www.iroh.computer/blog/v1",
@@ -42,22 +54,16 @@
         "time": "6/15/2026, 3:13:06 PM"
       },
       {
+        "title": "I Love the Computer",
+        "url": "https://michaelenger.com/blog/i-love-the-computer/",
+        "source": "hn",
+        "time": "6/15/2026, 8:14:15 PM"
+      },
+      {
         "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
         "url": "https://tinywind.io",
         "source": "hn",
         "time": "6/15/2026, 4:15:53 PM"
-      },
-      {
-        "title": "Typst 0.15.0",
-        "url": "https://typst.app/docs/changelog/0.15.0/",
-        "source": "hn",
-        "time": "6/15/2026, 5:24:17 PM"
-      },
-      {
-        "title": "My Homelab AI Dev Platform",
-        "url": "https://rsgm.dev/post/ai-dev-platform/",
-        "source": "hn",
-        "time": "6/15/2026, 3:09:40 PM"
       }
     ],
     "world": [
@@ -86,10 +92,10 @@
         "time": "Mon, 15 Jun 2026 16:14:59 GMT"
       },
       {
-        "title": "Captain of Russian shadow fleet tanker intercepted in Channel charged",
-        "url": "https://www.bbc.com/news/articles/c2dy47gxxnyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+        "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 15 Jun 2026 19:56:06 GMT"
+        "time": "Mon, 15 Jun 2026 20:33:54 GMT"
       }
     ],
     "projects": [
