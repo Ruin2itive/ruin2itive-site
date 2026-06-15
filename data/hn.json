@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-15T21:01:25.077Z"
+    "built_at": "2026-06-15T22:39:34.016Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "url": "https://www.richardosgood.com/posts/banned-book-library/",
+      "date": "2026-06-15T22:37:55.000Z"
+    },
+    {
+      "title": "Show HN: Subagent-fleet – AI coding subagents across local Ollama machines",
+      "url": "https://pypi.org/project/subagent-fleet/",
+      "date": "2026-06-15T22:37:15.000Z"
+    }
+  ]
 }
