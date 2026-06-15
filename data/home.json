@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-06-15T11:16:22.823Z",
-  "updated_local": "6/15/2026, 11:16:22 AM",
+  "updated_iso": "2026-06-15T14:09:36.582Z",
+  "updated_local": "6/15/2026, 2:09:36 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Standard Chartered Says the Crypto Winter Is Over",
+        "url": "https://decrypt.co/371127/morning-minute-standard-chartered-says-the-crypto-winter-is-over",
+        "source": "crypto",
+        "time": "Mon, 15 Jun 2026 13:04:47 +0000"
+      },
+      {
+        "title": "Philippines Issues Stricter Crypto Listing Rules, Bans Privacy Coins",
+        "url": "https://decrypt.co/371124/philippines-issues-stricter-crypto-listing-rules-bans-privacy-coins",
+        "source": "crypto",
+        "time": "Mon, 15 Jun 2026 11:27:19 +0000"
+      },
       {
         "title": "Bitcoin Tops $65K on US-Iran Deal, But Traders Remain Skeptical",
         "url": "https://decrypt.co/371121/bitcoin-tops-65k-on-us-iran-deal-but-traders-remain-skeptical",
@@ -20,26 +32,26 @@
         "url": "https://decrypt.co/370978/pokemon-cards-surging-crypto-platforms-gambling",
         "source": "crypto",
         "time": "Sun, 14 Jun 2026 13:01:03 +0000"
-      },
-      {
-        "title": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
-        "url": "https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
-        "source": "crypto",
-        "time": "Sat, 13 Jun 2026 19:23:34 +0000"
-      },
-      {
-        "title": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
-        "url": "https://decrypt.co/371014/google-sues-chinese-crime-group-gemini-ai-phishing-scams",
-        "source": "crypto",
-        "time": "Sat, 13 Jun 2026 16:01:04 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Anthropic's Safety Superpower",
-        "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+        "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
+        "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
         "source": "hn",
-        "time": "6/15/2026, 10:06:35 AM"
+        "time": "6/15/2026, 12:08:59 PM"
+      },
+      {
+        "title": "What the Fuck Happened to Nerds",
+        "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
+        "source": "hn",
+        "time": "6/15/2026, 8:23:52 AM"
+      },
+      {
+        "title": "Applying Brevity and Language Efficiency in Prompt Engineering",
+        "url": "https://prahladyeri.github.io/guides/applying-brevity-and-language-efficiency-to-prompt-engineering.html",
+        "source": "hn",
+        "time": "6/15/2026, 1:16:20 PM"
       },
       {
         "title": "Your ePub Is fine",
@@ -52,50 +64,38 @@
         "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
         "source": "hn",
         "time": "6/15/2026, 4:55:34 AM"
-      },
-      {
-        "title": "What the Fuck Happened to Nerds",
-        "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
-        "source": "hn",
-        "time": "6/15/2026, 8:23:52 AM"
-      },
-      {
-        "title": "Even more batteries included with Emacs",
-        "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-        "source": "hn",
-        "time": "6/15/2026, 2:30:25 AM"
       }
     ],
     "world": [
       {
-        "title": "When will social media ban start and what platforms are included?",
-        "url": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russia was behind arson attacks targeting PM, BBC reveals",
+        "url": "https://www.bbc.com/news/articles/c8r2l352z2do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 15 Jun 2026 11:09:42 GMT"
+        "time": "Mon, 15 Jun 2026 13:10:58 GMT"
       },
       {
-        "title": "The US and Iran have agreed a deal. How soon could things go back to normal?",
+        "title": "Social media ban - bold and blunt, but no silver bullet",
+        "url": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 15 Jun 2026 12:41:43 GMT"
+      },
+      {
+        "title": "How soon could the economy go back to normal after a US-Iran deal?",
         "url": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 15 Jun 2026 11:03:45 GMT"
+        "time": "Mon, 15 Jun 2026 12:33:56 GMT"
       },
       {
-        "title": "Palestine Action ban is lawful, Court of Appeal rules",
-        "url": "https://www.bbc.com/news/articles/c4gy927jx88o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Henry Nowak killer sentence sent to Court of Appeal",
+        "url": "https://www.bbc.com/news/articles/c8721y4341qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 15 Jun 2026 11:08:39 GMT"
+        "time": "Mon, 15 Jun 2026 13:53:20 GMT"
       },
       {
-        "title": "OnlyFans 'agents' control and threaten creators while taking half their earnings, BBC finds",
-        "url": "https://www.bbc.com/news/articles/c932gpk2l1do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Boy, 2, seriously hurt in nursery playground car crash",
+        "url": "https://www.bbc.com/news/articles/cy4eldkpxgwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 15 Jun 2026 05:00:09 GMT"
-      },
-      {
-        "title": "Award-winning investigative journalist Roger Cook dies aged 83",
-        "url": "https://www.bbc.com/news/articles/ckg48qqwkd2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 15 Jun 2026 10:23:10 GMT"
+        "time": "Mon, 15 Jun 2026 13:41:39 GMT"
       }
     ],
     "projects": [
