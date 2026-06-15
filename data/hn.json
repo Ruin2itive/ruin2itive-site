@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-15T10:06:00.379Z"
+    "built_at": "2026-06-15T13:02:39.496Z"
   },
-  "error": "fetch failed",
-  "items": []
+  "items": [
+    {
+      "title": "The Formula Won",
+      "url": "https://www.collisiondetector.com/the-formula-won/",
+      "date": "2026-06-15T13:01:45.000Z"
+    },
+    {
+      "title": "Show HN: Mcpwn – nobody's pentesting their MCP servers, so I built a tool for it",
+      "url": "https://github.com/D0rs4n/mcpwn",
+      "date": "2026-06-15T13:01:11.000Z"
+    }
+  ]
 }
