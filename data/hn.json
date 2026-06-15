@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-15T03:06:49.429Z"
+    "built_at": "2026-06-15T05:45:12.478Z"
   },
-  "items": [
-    {
-      "title": "Ask HN: What did you think of Apple's announcements around their 27 OS releases?",
-      "url": "https://news.ycombinator.com/item?id=48536072",
-      "date": "2026-06-15T03:00:30.000Z"
-    },
-    {
-      "title": "Enterprise AI Agents Are Leaving the Server",
-      "url": "https://focused.io/lab/enterprise-ai-agents-are-leaving-the-server",
-      "date": "2026-06-15T02:56:39.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
