@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-15T19:17:35.148Z"
+    "built_at": "2026-06-15T21:01:25.077Z"
   },
-  "items": [
-    {
-      "title": "American Dads Rock: Fathers Are Doing More At Home Than Ever",
-      "url": "https://ifstudies.org/blog/american-dads-rock-fathers-are-doing-more-at-home-than-ever",
-      "date": "2026-06-15T19:17:01.000Z"
-    },
-    {
-      "title": "Tech's World Cup Takeover",
-      "url": "https://betakit.com/techs-world-cup-takeover/",
-      "date": "2026-06-15T19:16:26.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
