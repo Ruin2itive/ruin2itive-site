@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-06-15T18:38:33.490Z",
-  "updated_local": "6/15/2026, 6:38:33 PM",
+  "updated_iso": "2026-06-15T20:09:46.659Z",
+  "updated_local": "6/15/2026, 8:09:46 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Someone Just Lost $1 Million on Polymarket Over Spain World Cup Shocker",
+        "url": "https://decrypt.co/371227/polymarket-trader-loses-1-million-spain-world-cup-bet",
+        "source": "crypto",
+        "time": "Mon, 15 Jun 2026 20:06:36 +0000"
+      },
+      {
+        "title": "Rio de Janeiro Built an AI Model That Beat DeepSeek—But Was Based on Someone Else&#39;s Work",
+        "url": "https://decrypt.co/371210/rio-ai-model-beat-deepseek-ownership-dispute-nex",
+        "source": "crypto",
+        "time": "Mon, 15 Jun 2026 19:43:48 +0000"
+      },
+      {
+        "title": "Wall Street Could Boost Uniswap&#39;s Token Price Nearly 40x by 2030: Standard Chartered",
+        "url": "https://decrypt.co/371207/wall-street-boost-uniswap-token-price-40x-2030-standard-chartered",
+        "source": "crypto",
+        "time": "Mon, 15 Jun 2026 18:37:57 +0000"
+      },
       {
         "title": "Anthropic Faces Lawsuit Over Allegedly Misleading Claude AI Pricing",
         "url": "https://decrypt.co/371201/anthropic-lawsuit-allegedly-misleading-claude-ai-pricing",
@@ -14,24 +32,6 @@
         "url": "https://decrypt.co/371198/solana-treasury-firm-forward-industries-trying-acquire-rivals",
         "source": "crypto",
         "time": "Mon, 15 Jun 2026 17:30:29 +0000"
-      },
-      {
-        "title": "Canadian PM Urges AI Diversification After US Anthropic Block, Decentralized AI Tokens Rally",
-        "url": "https://decrypt.co/371159/canadian-pm-urges-ai-diversification-after-us-anthropic-block-decentralized-ai-tokens-rally",
-        "source": "crypto",
-        "time": "Mon, 15 Jun 2026 16:07:35 +0000"
-      },
-      {
-        "title": "Bitcoin Giant Strategy Pads Cash Cushion for Second Straight Week, Buys BTC",
-        "url": "https://decrypt.co/371176/bitcoin-giant-strategy-pads-cash-cushion-second-week-buys-btc",
-        "source": "crypto",
-        "time": "Mon, 15 Jun 2026 15:29:41 +0000"
-      },
-      {
-        "title": "One Indicted Over Crypto ‘Wrench Attack’ in France",
-        "url": "https://decrypt.co/371143/one-indicted-over-crypto-wrench-attack-in-france",
-        "source": "crypto",
-        "time": "Mon, 15 Jun 2026 14:40:46 +0000"
       }
     ],
     "hacker": [
@@ -48,16 +48,16 @@
         "time": "6/15/2026, 4:15:53 PM"
       },
       {
+        "title": "Typst 0.15.0",
+        "url": "https://typst.app/docs/changelog/0.15.0/",
+        "source": "hn",
+        "time": "6/15/2026, 5:24:17 PM"
+      },
+      {
         "title": "My Homelab AI Dev Platform",
         "url": "https://rsgm.dev/post/ai-dev-platform/",
         "source": "hn",
         "time": "6/15/2026, 3:09:40 PM"
-      },
-      {
-        "title": "How TimescaleDB compresses time-series data",
-        "url": "https://roszigit.com/en/blog/timescaledb-compression-hypercore",
-        "source": "hn",
-        "time": "6/15/2026, 5:29:17 PM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "Social media ban - bold and blunt, but no silver bullet",
         "url": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 15 Jun 2026 12:41:43 GMT"
+        "time": "Mon, 15 Jun 2026 19:48:25 GMT"
       },
       {
         "title": "Teacher guilty of sexually abusing and murdering adopted baby",
@@ -89,7 +89,7 @@
         "title": "Captain of Russian shadow fleet tanker intercepted in Channel charged",
         "url": "https://www.bbc.com/news/articles/c2dy47gxxnyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 15 Jun 2026 18:31:56 GMT"
+        "time": "Mon, 15 Jun 2026 19:56:06 GMT"
       }
     ],
     "projects": [
