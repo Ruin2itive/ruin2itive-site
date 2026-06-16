@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-16T22:43:33.059Z",
-  "updated_local": "6/16/2026, 10:43:33 PM",
+  "updated_iso": "2026-06-16T23:32:55.301Z",
+  "updated_local": "6/16/2026, 11:32:55 PM",
   "sections": {
     "crypto": [
       {
@@ -54,16 +54,16 @@
         "time": "6/16/2026, 10:44:24 AM"
       },
       {
-        "title": "GPT‑NL: a sovereign language model for the Netherlands",
-        "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-        "source": "hn",
-        "time": "6/16/2026, 5:54:02 PM"
-      },
-      {
         "title": "Calvin and Hobbes and the price of integrity",
         "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
         "source": "hn",
         "time": "6/16/2026, 3:44:44 PM"
+      },
+      {
+        "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+        "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+        "source": "hn",
+        "time": "6/16/2026, 4:40:58 PM"
       }
     ],
     "world": [
@@ -72,12 +72,6 @@
         "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 16 Jun 2026 21:44:25 GMT"
-      },
-      {
-        "title": "UK forces face operational cuts without more cash, defence chief warns",
-        "url": "https://www.bbc.com/news/articles/c20ydx06ym2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 16 Jun 2026 17:09:36 GMT"
       },
       {
         "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
@@ -92,10 +86,16 @@
         "time": "Tue, 16 Jun 2026 14:11:30 GMT"
       },
       {
-        "title": "What UK social media ban means for gaming and YouTube",
-        "url": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Social media has risks but has given us opportunities too, teens say",
+        "url": "https://www.bbc.com/news/articles/c4gyp16wp6jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 16 Jun 2026 15:28:15 GMT"
+        "time": "Tue, 16 Jun 2026 23:23:01 GMT"
+      },
+      {
+        "title": "UK forces face operational cuts without more cash, defence chief warns",
+        "url": "https://www.bbc.com/news/articles/c20ydx06ym2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 16 Jun 2026 17:09:36 GMT"
       }
     ],
     "projects": [
