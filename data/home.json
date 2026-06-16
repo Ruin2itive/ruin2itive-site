@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-16T14:38:00.626Z",
-  "updated_local": "6/16/2026, 2:38:00 PM",
+  "updated_iso": "2026-06-16T16:33:29.038Z",
+  "updated_local": "6/16/2026, 4:33:29 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Robinhood Trims Headcount by 10% Amid Crypto Revenue Crunch",
+        "url": "https://decrypt.co/371290/robinhood-trims-headcount-10-crypto-revenue-crunch",
+        "source": "crypto",
+        "time": "Tue, 16 Jun 2026 15:17:03 +0000"
+      },
       {
         "title": "Scale of Stablecoin Adoption in Nigeria Makes Risks &#39;More Pronounced&#39;, Says IMF",
         "url": "https://decrypt.co/371287/scale-stablecoin-adoption-nigeria-risks-more-pronounced-imf",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/371246/blackrock-debuts-bita-bitcoin-etf-trading-upside-double-digit-yield",
         "source": "crypto",
         "time": "Tue, 16 Jun 2026 12:01:04 +0000"
-      },
-      {
-        "title": "South Korea Charges 23 Over Crypto Laundering Tied to $11M Cambodian Scam Ring",
-        "url": "https://decrypt.co/371277/south-korea-charges-23-over-crypto-laundering-tied-to-11m-cambodian-scam-ring",
-        "source": "crypto",
-        "time": "Tue, 16 Jun 2026 11:42:08 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Running local models is good now",
+        "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+        "source": "hn",
+        "time": "6/16/2026, 2:36:57 PM"
+      },
       {
         "title": "Mechanical Watch (2022)",
         "url": "https://ciechanow.ski/mechanical-watch/",
@@ -42,31 +48,31 @@
         "time": "6/16/2026, 11:26:27 AM"
       },
       {
-        "title": "Show HN: Hackers for Granny (defense against industrialized elder fraud)",
-        "url": "https://professorsigmund.com/praxis/hackers_for_granny_manifesto.html",
+        "title": "Fable ban was never about a jailbreak",
+        "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
         "source": "hn",
-        "time": "6/16/2026, 2:15:00 PM"
+        "time": "6/16/2026, 3:27:56 PM"
+      },
+      {
+        "title": "Subquadratic – Introducing SubQ 1.1 Small",
+        "url": "https://subq.ai/subq-1-1-small-technical-report",
+        "source": "hn",
+        "time": "6/16/2026, 2:50:10 PM"
       },
       {
         "title": "Correlated randomness in Slay the Spire 2",
         "url": "https://tck.mn/blog/correlated-randomness-sts2/",
         "source": "hn",
         "time": "6/16/2026, 9:46:49 AM"
-      },
-      {
-        "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-        "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
-        "source": "hn",
-        "time": "6/16/2026, 4:46:36 AM"
-      },
-      {
-        "title": "John Carmack on Fabrice Bellard",
-        "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-        "source": "hn",
-        "time": "6/16/2026, 4:58:15 AM"
       }
     ],
     "world": [
+      {
+        "title": "MoD investigating reports Russian warship fired warning shots near yacht in Channel",
+        "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 16 Jun 2026 16:19:05 GMT"
+      },
       {
         "title": "UK forces face operational cuts without more cash, defence chief warns",
         "url": "https://www.bbc.com/news/articles/c20ydx06ym2o?at_medium=RSS&amp;at_campaign=rss",
@@ -83,19 +89,13 @@
         "title": "What UK social media ban means for gaming and YouTube",
         "url": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 16 Jun 2026 12:09:57 GMT"
+        "time": "Tue, 16 Jun 2026 15:28:15 GMT"
       },
       {
         "title": "Woman left traumatised by swinging says website 'facilitated abuse'",
         "url": "https://www.bbc.com/news/articles/c87q7g48y4po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 16 Jun 2026 05:00:16 GMT"
-      },
-      {
-        "title": "Prince George to attend Eton College from September",
-        "url": "https://www.bbc.com/news/articles/clyx4jd9kkdo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 16 Jun 2026 12:14:50 GMT"
       }
     ],
     "projects": [
