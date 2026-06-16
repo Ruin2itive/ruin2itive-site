@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-16T15:38:37.853Z"
+    "built_at": "2026-06-16T17:41:11.302Z"
   },
-  "items": [
-    {
-      "title": "Satellites in Real Time",
-      "url": "https://azmth.space",
-      "date": "2026-06-16T15:37:39.000Z"
-    },
-    {
-      "title": "Declining Fertility Rates Across the World",
-      "url": "https://www.stlouisfed.org/on-the-economy/2026/jun/declining-fertility-rates-across-world",
-      "date": "2026-06-16T15:37:10.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
