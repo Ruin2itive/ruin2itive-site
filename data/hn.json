@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-16T22:37:04.845Z"
+    "built_at": "2026-06-16T23:30:30.916Z"
   },
-  "items": [
-    {
-      "title": "Show HN: The Oct Programming Language for scientific programming",
-      "url": "https://github.com/yuechen-li-dev/oct",
-      "date": "2026-06-16T22:34:19.000Z"
-    },
-    {
-      "title": "Show HN: The Ruby AI Newsletter",
-      "url": "https://rubyai.beehiiv.com/p/ruby-ai-news-june-16th-2026",
-      "date": "2026-06-16T22:34:18.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
