@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-16T10:45:07.455Z",
-  "updated_local": "6/16/2026, 10:45:07 AM",
+  "updated_iso": "2026-06-16T11:52:25.467Z",
+  "updated_local": "6/16/2026, 11:52:25 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "South Korea Charges 23 Over Crypto Laundering Tied to $11M Cambodian Scam Ring",
+        "url": "https://decrypt.co/371277/south-korea-charges-23-over-crypto-laundering-tied-to-11m-cambodian-scam-ring",
+        "source": "crypto",
+        "time": "Tue, 16 Jun 2026 11:42:08 +0000"
+      },
       {
         "title": "Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade Secret Lawsuit",
         "url": "https://decrypt.co/371253/elon-musk-loses-again-openai-xai-trade-secret-lawsuit",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/371210/rio-ai-model-beat-deepseek-ownership-dispute-nex",
         "source": "crypto",
         "time": "Mon, 15 Jun 2026 19:43:48 +0000"
-      },
-      {
-        "title": "Wall Street Could Boost Uniswap&#39;s Token Price Nearly 40x by 2030: Standard Chartered",
-        "url": "https://decrypt.co/371207/wall-street-boost-uniswap-token-price-40x-2030-standard-chartered",
-        "source": "crypto",
-        "time": "Mon, 15 Jun 2026 18:37:57 +0000"
       }
     ],
     "hacker": [
@@ -54,25 +54,19 @@
         "time": "6/16/2026, 4:58:15 AM"
       },
       {
+        "title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
+        "url": "https://trinket.strivemath.org/",
+        "source": "hn",
+        "time": "6/16/2026, 9:30:58 AM"
+      },
+      {
         "title": "Getting Creative with Perlin Noise Fields",
         "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
         "source": "hn",
         "time": "6/13/2026, 10:55:39 PM"
-      },
-      {
-        "title": "Iroh 1.0",
-        "url": "https://www.iroh.computer/blog/v1",
-        "source": "hn",
-        "time": "6/15/2026, 3:13:06 PM"
       }
     ],
     "world": [
-      {
-        "title": "Starmer pleased 'justice has been done' after arson attacks",
-        "url": "https://www.bbc.com/news/articles/cgjx5qw75v8o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 16 Jun 2026 10:35:34 GMT"
-      },
       {
         "title": "Thames Water closer to nationalisation after government objects to rescue deal",
         "url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&amp;at_campaign=rss",
@@ -86,16 +80,22 @@
         "time": "Mon, 15 Jun 2026 23:40:31 GMT"
       },
       {
+        "title": "Starmer pleased 'justice has been done' after arson attacks",
+        "url": "https://www.bbc.com/news/articles/cgjx5qw75v8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 16 Jun 2026 10:50:21 GMT"
+      },
+      {
         "title": "Woman left traumatised by swinging says website 'facilitated abuse'",
         "url": "https://www.bbc.com/news/articles/c87q7g48y4po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 16 Jun 2026 05:00:16 GMT"
       },
       {
-        "title": "Williams sisters will play Wimbledon doubles after receiving wildcard",
-        "url": "https://www.bbc.com/sport/tennis/articles/clyerm8lym9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Prince George to attend Eton College from September",
+        "url": "https://www.bbc.com/news/articles/clyx4jd9kkdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 16 Jun 2026 10:18:08 GMT"
+        "time": "Tue, 16 Jun 2026 11:00:42 GMT"
       }
     ],
     "projects": [
