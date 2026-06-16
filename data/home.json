@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-06-16T11:52:25.467Z",
-  "updated_local": "6/16/2026, 11:52:25 AM",
+  "updated_iso": "2026-06-16T12:36:16.507Z",
+  "updated_local": "6/16/2026, 12:36:16 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Hyperliquid ETFs Draw In $172M Since Launch as HYPE Hits All-Time High",
+        "url": "https://decrypt.co/371284/hyperliquid-etfs-draw-in-172m-since-launch-as-hype-hits-all-time-high",
+        "source": "crypto",
+        "time": "Tue, 16 Jun 2026 12:32:08 +0000"
+      },
+      {
+        "title": "Morning Minute: HYPE Soars to ATH as SPCX Takes Off",
+        "url": "https://decrypt.co/371280/morning-minute-hype-soars-to-ath-as-spcx-takes-off",
+        "source": "crypto",
+        "time": "Tue, 16 Jun 2026 12:03:38 +0000"
+      },
+      {
+        "title": "BlackRock Debuts BITA Bitcoin ETF, Trading Partial Upside for Double-Digit Yield",
+        "url": "https://decrypt.co/371246/blackrock-debuts-bita-bitcoin-etf-trading-upside-double-digit-yield",
+        "source": "crypto",
+        "time": "Tue, 16 Jun 2026 12:01:04 +0000"
+      },
       {
         "title": "South Korea Charges 23 Over Crypto Laundering Tied to $11M Cambodian Scam Ring",
         "url": "https://decrypt.co/371277/south-korea-charges-23-over-crypto-laundering-tied-to-11m-cambodian-scam-ring",
@@ -14,38 +32,20 @@
         "url": "https://decrypt.co/371253/elon-musk-loses-again-openai-xai-trade-secret-lawsuit",
         "source": "crypto",
         "time": "Mon, 15 Jun 2026 21:05:00 +0000"
-      },
-      {
-        "title": "Pudgy Penguins NFT Game &#39;Pudgy Party&#39; Shuts Down Less Than a Year After Launch",
-        "url": "https://decrypt.co/371197/pudgy-penguins-nft-game-pudgy-party-shuts-down",
-        "source": "crypto",
-        "time": "Mon, 15 Jun 2026 20:47:53 +0000"
-      },
-      {
-        "title": "Someone Just Lost $1 Million on Polymarket Over Spain World Cup Shocker",
-        "url": "https://decrypt.co/371227/polymarket-trader-loses-1-million-spain-world-cup-bet",
-        "source": "crypto",
-        "time": "Mon, 15 Jun 2026 20:06:36 +0000"
-      },
-      {
-        "title": "Rio de Janeiro Built an AI Model That Beat DeepSeek—But Was Based on Someone Else&#39;s Work",
-        "url": "https://decrypt.co/371210/rio-ai-model-beat-deepseek-ownership-dispute-nex",
-        "source": "crypto",
-        "time": "Mon, 15 Jun 2026 19:43:48 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Mechanical Watch",
+        "url": "https://ciechanow.ski/mechanical-watch/",
+        "source": "hn",
+        "time": "6/16/2026, 11:26:27 AM"
+      },
       {
         "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
         "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
         "source": "hn",
         "time": "6/16/2026, 4:46:36 AM"
-      },
-      {
-        "title": "A backdoor in a LinkedIn job offer",
-        "url": "https://roman.pt/posts/linkedin-backdoor/",
-        "source": "hn",
-        "time": "6/15/2026, 8:00:57 PM"
       },
       {
         "title": "John Carmack on Fabrice Bellard",
@@ -54,16 +54,16 @@
         "time": "6/16/2026, 4:58:15 AM"
       },
       {
+        "title": "A backdoor in a LinkedIn job offer",
+        "url": "https://roman.pt/posts/linkedin-backdoor/",
+        "source": "hn",
+        "time": "6/15/2026, 8:00:57 PM"
+      },
+      {
         "title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
         "url": "https://trinket.strivemath.org/",
         "source": "hn",
         "time": "6/16/2026, 9:30:58 AM"
-      },
-      {
-        "title": "Getting Creative with Perlin Noise Fields",
-        "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
-        "source": "hn",
-        "time": "6/13/2026, 10:55:39 PM"
       }
     ],
     "world": [
@@ -71,16 +71,10 @@
         "title": "Thames Water closer to nationalisation after government objects to rescue deal",
         "url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 16 Jun 2026 10:09:11 GMT"
+        "time": "Tue, 16 Jun 2026 12:25:59 GMT"
       },
       {
-        "title": "Married at First Sight Australia allegations 'disturbing', says country's watchdog",
-        "url": "https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 15 Jun 2026 23:40:31 GMT"
-      },
-      {
-        "title": "Starmer pleased 'justice has been done' after arson attacks",
+        "title": "Starmer pleased 'justice has been done' after arson attacks on property connected to him",
         "url": "https://www.bbc.com/news/articles/cgjx5qw75v8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 16 Jun 2026 10:50:21 GMT"
@@ -95,7 +89,13 @@
         "title": "Prince George to attend Eton College from September",
         "url": "https://www.bbc.com/news/articles/clyx4jd9kkdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 16 Jun 2026 11:00:42 GMT"
+        "time": "Tue, 16 Jun 2026 12:14:50 GMT"
+      },
+      {
+        "title": "Five big questions about the UK's under-16s social media ban",
+        "url": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 16 Jun 2026 12:09:57 GMT"
       }
     ],
     "projects": [
