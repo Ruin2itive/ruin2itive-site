@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-17T19:43:16.706Z",
-  "updated_local": "6/17/2026, 7:43:16 PM",
+  "updated_iso": "2026-06-17T20:45:20.715Z",
+  "updated_local": "6/17/2026, 8:45:20 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Nvidia Built Robots That Train Themselves Using AI Coding Agents",
+        "url": "https://decrypt.co/371456/nvidia-built-robots-train-themselves-ai-coding-agents",
+        "source": "crypto",
+        "time": "Wed, 17 Jun 2026 20:16:27 +0000"
+      },
       {
         "title": "CoinFund, Coinbase Back Stablecoin Payments Startup Trace Finance in $32 Million Raise",
         "url": "https://decrypt.co/371453/coinfund-coinbase-back-stablecoin-payments-startup-trace-32-million",
@@ -26,20 +32,26 @@
         "url": "https://decrypt.co/371439/bitcoin-slides-fed-deliver-price-stability-under-kevin-warsh",
         "source": "crypto",
         "time": "Wed, 17 Jun 2026 18:20:47 +0000"
-      },
-      {
-        "title": "GLAAD Says AI Is Failing LGBTQ Users—And Warns the Risk Is Growing",
-        "url": "https://decrypt.co/371431/glaad-ai-failing-lgbtq-users-warns-risk-growing",
-        "source": "crypto",
-        "time": "Wed, 17 Jun 2026 17:43:18 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Epic Games announces Lore version control system",
+        "title": "Lore – Open source version control system designed for scalability",
         "url": "https://lore.org/",
         "source": "hn",
         "time": "6/17/2026, 2:30:27 PM"
+      },
+      {
+        "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+        "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+        "source": "hn",
+        "time": "6/17/2026, 3:55:16 AM"
+      },
+      {
+        "title": "Solar in California surpassed natural gas in the first five months of 2026",
+        "url": "https://www.eia.gov/todayinenergy/detail.php?id=67784#",
+        "source": "hn",
+        "time": "6/17/2026, 8:32:20 PM"
       },
       {
         "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
@@ -48,22 +60,10 @@
         "time": "6/17/2026, 4:14:04 PM"
       },
       {
-        "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-        "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-        "source": "hn",
-        "time": "6/17/2026, 9:12:00 AM"
-      },
-      {
         "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
         "url": "https://browser-use.com/posts/firecracker-browser-infra",
         "source": "hn",
         "time": "6/16/2026, 3:15:01 PM"
-      },
-      {
-        "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-        "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
-        "source": "hn",
-        "time": "6/17/2026, 7:22:02 PM"
       }
     ],
     "world": [
@@ -86,10 +86,10 @@
         "time": "Wed, 17 Jun 2026 19:22:40 GMT"
       },
       {
-        "title": "UN human rights experts demand release of British couple jailed in Iran",
-        "url": "https://www.bbc.com/news/articles/c9w28e2vn57o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+        "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 17 Jun 2026 19:21:36 GMT"
+        "time": "Wed, 17 Jun 2026 10:01:42 GMT"
       },
       {
         "title": "Harry and Meghan to bring children to UK next month",
