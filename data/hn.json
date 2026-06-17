@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-17T01:49:21.211Z"
+    "built_at": "2026-06-17T03:05:57.211Z"
   },
-  "items": [
-    {
-      "title": "Exactly-Once Delivery Is a Spectrum, Not a Checkbox: Part 1",
-      "url": "https://medium.com/@danthelion/exactly-once-delivery-is-a-spectrum-not-a-checkbox-part-1-3348d771aa4a",
-      "date": "2026-06-17T01:40:29.000Z"
-    },
-    {
-      "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
-      "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
-      "date": "2026-06-17T01:40:22.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
