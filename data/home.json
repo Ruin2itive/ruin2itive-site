@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-17T08:09:23.322Z",
-  "updated_local": "6/17/2026, 8:09:23 AM",
+  "updated_iso": "2026-06-17T09:41:29.086Z",
+  "updated_local": "6/17/2026, 9:41:29 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "House, Senate Strike Deal on Housing Bill With CBDC Ban Through 2030",
+        "url": "https://decrypt.co/371390/house-senate-strike-deal-on-housing-bill-with-cbdc-ban-through-2030",
+        "source": "crypto",
+        "time": "Wed, 17 Jun 2026 09:34:43 +0000"
+      },
       {
         "title": "Alibaba Is Building Qwen-Robot: The Operating System for the Robot Economy",
         "url": "https://decrypt.co/371357/alibaba-qwen-robot-operating-system-robot-economy",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/371339/fbi-foiled-drone-attack-plot-targeting-white-house-ufc-event",
         "source": "crypto",
         "time": "Tue, 16 Jun 2026 19:47:42 +0000"
-      },
-      {
-        "title": "Coinbase Gears Up to Launch Tokenized Stock Trading, Crypto and Equities Options",
-        "url": "https://decrypt.co/371293/coinbase-launch-tokenized-stock-trading-crypto-equities-options",
-        "source": "crypto",
-        "time": "Tue, 16 Jun 2026 19:00:38 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "The founder's playbook: Building an AI-native startup",
-        "url": "https://claude.com/blog/the-founders-playbook",
-        "source": "hn",
-        "time": "6/17/2026, 7:04:42 AM"
-      },
       {
         "title": "GrapheneOS has been ported to Android 17",
         "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
@@ -54,30 +48,42 @@
         "time": "6/16/2026, 2:36:57 PM"
       },
       {
+        "title": "Hacker News but for Independent Blogs",
+        "url": "https://bubbles.town/",
+        "source": "hn",
+        "time": "6/17/2026, 7:49:44 AM"
+      },
+      {
         "title": "Humiliating IIS servers for fun and jail time",
         "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
         "source": "hn",
         "time": "6/16/2026, 10:53:34 PM"
       },
       {
-        "title": "Wolfram Language and Mathematica version 15",
-        "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+        "title": "Subterranean fungi networks more than 100 quadrillion km in length",
+        "url": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
         "source": "hn",
-        "time": "6/16/2026, 11:15:44 PM"
+        "time": "6/11/2026, 8:51:11 PM"
       }
     ],
     "world": [
       {
-        "title": "Starmer sends Burnham and Labour warning over leadership contest",
+        "title": "PM warns Burnham against immediate leadership challenge if he wins by-election",
         "url": "https://www.bbc.com/news/articles/cn4dj7n83yqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 17 Jun 2026 08:08:56 GMT"
+        "time": "Wed, 17 Jun 2026 09:17:37 GMT"
+      },
+      {
+        "title": "Inflation unexpectedly steady as food price rises slow",
+        "url": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 17 Jun 2026 08:07:45 GMT"
       },
       {
         "title": "British couple describe having warning shots fired near them by Russian warship",
         "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 17 Jun 2026 07:38:42 GMT"
+        "time": "Wed, 17 Jun 2026 08:38:24 GMT"
       },
       {
         "title": "'It's very Bond': Fashion experts on the England squad's off-pitch look",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 17 Jun 2026 07:17:39 GMT"
-      },
-      {
-        "title": "Jeremy Clarkson reveals cancer diagnosis on farming show",
-        "url": "https://www.bbc.com/news/articles/cqj14q700rko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 17 Jun 2026 07:36:37 GMT"
       }
     ],
     "projects": [
