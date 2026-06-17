@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-17T07:46:25.258Z"
+    "built_at": "2026-06-17T09:34:40.034Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The Joy of Tech: A Different Path for Products, People, & AI",
+      "url": "https://blog.dfeldman.co/the-joy-of-tech-a-different-path-for-products-people-ai-df122b28764e",
+      "date": "2026-06-17T09:32:23.000Z"
+    },
+    {
+      "title": "Which AI agent spent the money on your OpenAI/Anthropic bill",
+      "url": "https://github.com/Nu11P01nt3r3xc3pt10n/spaturzu-sdks",
+      "date": "2026-06-17T09:30:40.000Z"
+    }
+  ]
 }
