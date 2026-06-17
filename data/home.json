@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-17T09:41:29.086Z",
-  "updated_local": "6/17/2026, 9:41:29 AM",
+  "updated_iso": "2026-06-17T10:41:12.589Z",
+  "updated_local": "6/17/2026, 10:41:12 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+        "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+        "source": "hn",
+        "time": "6/17/2026, 9:12:00 AM"
+      },
+      {
         "title": "GrapheneOS has been ported to Android 17",
         "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
         "source": "hn",
         "time": "6/16/2026, 8:34:35 PM"
+      },
+      {
+        "title": "Show HN: High-Res Neural Cellular Automata",
+        "url": "https://cells2pixels.github.io/",
+        "source": "hn",
+        "time": "6/17/2026, 9:28:36 AM"
       },
       {
         "title": "Running local models is good now",
@@ -52,18 +64,6 @@
         "url": "https://bubbles.town/",
         "source": "hn",
         "time": "6/17/2026, 7:49:44 AM"
-      },
-      {
-        "title": "Humiliating IIS servers for fun and jail time",
-        "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-        "source": "hn",
-        "time": "6/16/2026, 10:53:34 PM"
-      },
-      {
-        "title": "Subterranean fungi networks more than 100 quadrillion km in length",
-        "url": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
-        "source": "hn",
-        "time": "6/11/2026, 8:51:11 PM"
       }
     ],
     "world": [
@@ -74,10 +74,16 @@
         "time": "Wed, 17 Jun 2026 09:17:37 GMT"
       },
       {
+        "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+        "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 17 Jun 2026 10:01:42 GMT"
+      },
+      {
         "title": "Inflation unexpectedly steady as food price rises slow",
         "url": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 17 Jun 2026 08:07:45 GMT"
+        "time": "Wed, 17 Jun 2026 09:52:43 GMT"
       },
       {
         "title": "British couple describe having warning shots fired near them by Russian warship",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c9v2e8llnkwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 17 Jun 2026 05:52:03 GMT"
-      },
-      {
-        "title": "Extraordinary Messi makes more history in masterclass for the ages",
-        "url": "https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 17 Jun 2026 07:17:39 GMT"
       }
     ],
     "projects": [
