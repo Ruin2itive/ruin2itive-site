@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-17T05:50:45.303Z",
-  "updated_local": "6/17/2026, 5:50:45 AM",
+  "updated_iso": "2026-06-17T07:54:25.576Z",
+  "updated_local": "6/17/2026, 7:54:25 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "The founder's playbook: Building an AI-native startup",
+        "url": "https://claude.com/blog/the-founders-playbook",
+        "source": "hn",
+        "time": "6/17/2026, 7:04:42 AM"
+      },
+      {
         "title": "GrapheneOS has been ported to Android 17",
         "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
         "source": "hn",
@@ -58,44 +64,38 @@
         "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
         "source": "hn",
         "time": "6/16/2026, 11:15:44 PM"
-      },
-      {
-        "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
-        "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-        "source": "hn",
-        "time": "6/16/2026, 4:40:58 PM"
       }
     ],
     "world": [
       {
+        "title": "PM sends Burnham and Labour warning over leadership contest",
+        "url": "https://www.bbc.com/news/articles/cn4dj7n83yqo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 17 Jun 2026 07:36:38 GMT"
+      },
+      {
         "title": "'It was surreal': British couple describe having warning shots fired near them by Russian warship",
         "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 17 Jun 2026 00:25:39 GMT"
+        "time": "Wed, 17 Jun 2026 07:38:42 GMT"
       },
       {
-        "title": "Streeting says he would be prepared to trigger leadership contest as early as next week",
-        "url": "https://www.bbc.com/news/articles/c4gyeg2207yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'It's very Bond': Fashion experts on the England squad's off-pitch look",
+        "url": "https://www.bbc.com/news/articles/c9v2e8llnkwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 17 Jun 2026 01:43:56 GMT"
+        "time": "Wed, 17 Jun 2026 05:52:03 GMT"
       },
       {
-        "title": "Social media has risks but has given us opportunities too, teen influencers say",
-        "url": "https://www.bbc.com/news/articles/c4gyp16wp6jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Extraordinary Messi makes more history in masterclass for the ages",
+        "url": "https://www.bbc.com/sport/football/articles/ce8k2zzejklo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 16 Jun 2026 23:23:01 GMT"
+        "time": "Wed, 17 Jun 2026 07:17:39 GMT"
       },
       {
-        "title": "Watch: Why is Trump furious with Netanyahu over strikes on Lebanon?",
-        "url": "https://www.bbc.com/news/videos/cvgmqelv0edo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Jeremy Clarkson reveals cancer diagnosis on farming show",
+        "url": "https://www.bbc.com/news/articles/cqj14q700rko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 16 Jun 2026 21:32:24 GMT"
-      },
-      {
-        "title": "England will not adapt style despite USA heat, Tuchel says",
-        "url": "https://www.bbc.com/sport/football/articles/clyr5zn4440o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 17 Jun 2026 01:46:52 GMT"
+        "time": "Wed, 17 Jun 2026 07:36:37 GMT"
       }
     ],
     "projects": [
