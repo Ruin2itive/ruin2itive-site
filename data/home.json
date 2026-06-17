@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-17T05:41:41.890Z",
-  "updated_local": "6/17/2026, 5:41:41 AM",
+  "updated_iso": "2026-06-17T05:50:45.303Z",
+  "updated_local": "6/17/2026, 5:50:45 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
-        "url": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
-        "source": "hn",
-        "time": "6/17/2026, 2:47:29 AM"
-      },
-      {
         "title": "GrapheneOS has been ported to Android 17",
         "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
         "source": "hn",
@@ -64,6 +58,12 @@
         "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
         "source": "hn",
         "time": "6/16/2026, 11:15:44 PM"
+      },
+      {
+        "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+        "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+        "source": "hn",
+        "time": "6/16/2026, 4:40:58 PM"
       }
     ],
     "world": [
