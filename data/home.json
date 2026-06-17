@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-17T11:36:08.112Z",
-  "updated_local": "6/17/2026, 11:36:08 AM",
+  "updated_iso": "2026-06-17T12:29:05.650Z",
+  "updated_local": "6/17/2026, 12:29:05 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Coinbase Pushes to Become &#39;Everything Exchange&#39; With Stocks, Perps, and AI",
+        "url": "https://decrypt.co/371396/morning-minute-coinbase-pushes-to-become-everything-exchange-with-stocks-perps-and-ai",
+        "source": "crypto",
+        "time": "Wed, 17 Jun 2026 12:18:44 +0000"
+      },
       {
         "title": "Uniswap Jumps Double Digits as Standard Chartered Eyes $100 UNI by 2030",
         "url": "https://decrypt.co/371393/uniswap-jumps-double-digits-as-standard-chartered-eyes-100-uni-by-2030",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/371343/binance-rejected-eu-regulatory-license-reuters",
         "source": "crypto",
         "time": "Tue, 16 Jun 2026 20:25:52 +0000"
-      },
-      {
-        "title": "ChatGPT Is Still Huge, But Rival AI Chatbots Are Catching Up Fast",
-        "url": "https://decrypt.co/371318/chatgpt-ai-market-share-claude-gemini-grok",
-        "source": "crypto",
-        "time": "Tue, 16 Jun 2026 19:59:59 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
         "source": "hn",
         "time": "6/17/2026, 9:12:00 AM"
+      },
+      {
+        "title": "RFC 10008: The new HTTP Query Method",
+        "url": "https://www.rfc-editor.org/info/rfc10008/",
+        "source": "hn",
+        "time": "6/17/2026, 10:51:17 AM"
       },
       {
         "title": "Show HN: High-Res Neural Cellular Automata",
@@ -58,12 +64,6 @@
         "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
         "source": "hn",
         "time": "6/16/2026, 2:36:57 PM"
-      },
-      {
-        "title": "Hacker News but for Independent Blogs",
-        "url": "https://bubbles.town/",
-        "source": "hn",
-        "time": "6/17/2026, 7:49:44 AM"
       }
     ],
     "world": [
@@ -74,7 +74,7 @@
         "time": "Wed, 17 Jun 2026 09:17:37 GMT"
       },
       {
-        "title": "Fashion experts on the England squad's off-pitch look",
+        "title": "High-street designs and skateboard tracksuits - what England's off-pitch looks say about the team",
         "url": "https://www.bbc.com/news/articles/c9v2e8llnkwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 17 Jun 2026 05:52:03 GMT"
@@ -92,7 +92,7 @@
         "time": "Wed, 17 Jun 2026 07:36:37 GMT"
       },
       {
-        "title": "Inflation unexpectedly steady as food price rises slow",
+        "title": "Slowest food price rises in nearly a year and a half help keep UK inflation at 2.8%",
         "url": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 17 Jun 2026 09:52:43 GMT"
