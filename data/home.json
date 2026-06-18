@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-18T22:45:58.908Z",
-  "updated_local": "6/18/2026, 10:45:58 PM",
+  "updated_iso": "2026-06-18T23:34:59.391Z",
+  "updated_local": "6/18/2026, 11:34:59 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Noam Shazeer Joins OpenAI",
-        "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+        "title": "Zero-Touch OAuth for MCP",
+        "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
         "source": "hn",
-        "time": "6/18/2026, 12:26:06 AM"
-      },
-      {
-        "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
-        "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-        "source": "hn",
-        "time": "6/18/2026, 6:31:23 PM"
+        "time": "6/18/2026, 9:54:10 PM"
       },
       {
         "title": "I found 10k GitHub repositories distributing Trojan malware",
@@ -54,16 +48,22 @@
         "time": "6/18/2026, 11:45:43 AM"
       },
       {
-        "title": "Everything Is BOM: Bill of Materials Encyclopedia",
-        "url": "https://bomwiki.com/",
-        "source": "hn",
-        "time": "6/18/2026, 9:03:31 PM"
-      },
-      {
-        "title": "American Express: Cell-Based Architecture for Resilient Payment Systems",
+        "title": "Cell-based architecture for resilient payment systems",
         "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
         "source": "hn",
         "time": "6/15/2026, 10:36:33 PM"
+      },
+      {
+        "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+        "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+        "source": "hn",
+        "time": "6/18/2026, 12:44:09 PM"
+      },
+      {
+        "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+        "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+        "source": "hn",
+        "time": "6/18/2026, 2:24:30 PM"
       }
     ],
     "world": [
