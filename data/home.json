@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-18T11:30:43.615Z",
-  "updated_local": "6/18/2026, 11:30:43 AM",
+  "updated_iso": "2026-06-18T13:12:39.349Z",
+  "updated_local": "6/18/2026, 1:12:39 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Ireland Tightens Crypto Safeguards in New Financial Crime Action Plan",
+        "url": "https://decrypt.co/371518/ireland-tightens-crypto-safeguards-in-new-financial-crime-action-plan",
+        "source": "crypto",
+        "time": "Thu, 18 Jun 2026 12:29:13 +0000"
+      },
       {
         "title": "CME to Sue CFTC Over Bitcoin Perpetual Futures Approval: CEO",
         "url": "https://decrypt.co/371514/cme-to-sue-cftc-over-bitcoin-perpetual-futures-approval-ceo",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/371451/psychologists-patients-bringing-ai-therapy-sessions-survey",
         "source": "crypto",
         "time": "Wed, 17 Jun 2026 23:36:08 +0000"
-      },
-      {
-        "title": "Michigan Federal Judge Rules Sports Prediction Markets Are Not Under CFTC Purview",
-        "url": "https://decrypt.co/371486/michigan-federal-judge-sports-prediction-markets-not-under-cftc-purview",
-        "source": "crypto",
-        "time": "Wed, 17 Jun 2026 22:06:19 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Midjourney Medical",
-        "url": "https://www.midjourney.com/medical/blogpost",
+        "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
+        "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
         "source": "hn",
-        "time": "6/18/2026, 1:59:51 AM"
+        "time": "6/18/2026, 12:10:53 PM"
       },
       {
         "title": "Hospitals and universities repurposing drugs at 90% lower cost",
@@ -48,31 +48,25 @@
         "time": "6/18/2026, 10:33:22 AM"
       },
       {
-        "title": "I need your clothes, your boots, and your motorcycle",
-        "url": "https://rbelmont.mameworld.info/?p=1725",
+        "title": "Has W Social switched to closed source?",
+        "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
         "source": "hn",
-        "time": "6/18/2026, 8:28:04 AM"
+        "time": "6/18/2026, 12:46:04 PM"
+      },
+      {
+        "title": "Midjourney Medical",
+        "url": "https://www.midjourney.com/medical/blogpost",
+        "source": "hn",
+        "time": "6/18/2026, 1:59:51 AM"
       },
       {
         "title": "DeepSeek Introduces Vision",
         "url": "https://chat.deepseek.com/",
         "source": "hn",
         "time": "6/18/2026, 6:17:40 AM"
-      },
-      {
-        "title": "Local Qwen isn't a worse Opus, it's a different tool",
-        "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-        "source": "hn",
-        "time": "6/18/2026, 3:04:20 AM"
       }
     ],
     "world": [
-      {
-        "title": "What's in the US-Iran agreement?",
-        "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 18 Jun 2026 01:28:02 GMT"
-      },
       {
         "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
         "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&amp;at_campaign=rss",
@@ -86,16 +80,22 @@
         "time": "Thu, 18 Jun 2026 08:14:34 GMT"
       },
       {
-        "title": "Church of England apologises for role in forced adoptions",
-        "url": "https://www.bbc.com/news/articles/clywz07y942o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "First Russian shadow fleet vessel enters Channel since Smyrtos boarding",
+        "url": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 18 Jun 2026 10:00:07 GMT"
+        "time": "Thu, 18 Jun 2026 13:11:52 GMT"
       },
       {
-        "title": "Lisa Nandy 'not satisfied' with Channel 4 response on Married at First Sight UK",
-        "url": "https://www.bbc.com/news/articles/cy04jgy5yvpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Jury sent out to consider verdicts in Jeffrey Donaldson's sex abuse trial",
+        "url": "https://www.bbc.com/news/articles/ce8m211729no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 18 Jun 2026 10:10:08 GMT"
+        "time": "Thu, 18 Jun 2026 12:32:04 GMT"
+      },
+      {
+        "title": "Men jailed over work for Chinese intelligence in UK",
+        "url": "https://www.bbc.com/news/articles/cgjx87gvlnxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 18 Jun 2026 12:29:18 GMT"
       }
     ],
     "projects": [
