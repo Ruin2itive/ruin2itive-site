@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-18T03:05:18.132Z"
+    "built_at": "2026-06-18T05:33:51.168Z"
   },
-  "items": [
-    {
-      "title": "Local Qwen isn't a worse Opus, it's a different tool",
-      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-      "date": "2026-06-18T03:04:20.000Z"
-    },
-    {
-      "title": "Push vs. Pull Agent Memory?",
-      "url": "https://github.com/H-XX-D/recall-memory-substrate",
-      "date": "2026-06-18T03:03:48.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
