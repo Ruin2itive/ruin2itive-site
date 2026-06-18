@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-18T19:51:23.090Z",
-  "updated_local": "6/18/2026, 7:51:23 PM",
+  "updated_iso": "2026-06-18T20:51:58.465Z",
+  "updated_local": "6/18/2026, 8:51:58 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Ethereum Foundation Exodus Continues as Co-Director Hsiao-Wei Wang Departs",
+        "url": "https://decrypt.co/371603/ethereum-foundation-exodus-co-director-hsiao-wei-wang-departs",
+        "source": "crypto",
+        "time": "Thu, 18 Jun 2026 20:16:42 +0000"
+      },
       {
         "title": "Perplexity&#39;s AI Agent Now Has a Brain That Learns From Its Own Mistakes",
         "url": "https://decrypt.co/371584/perplexity-ai-agent-brain",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/371564/kentucky-sues-kalshi-polymarket-prediction-market-legal-battle",
         "source": "crypto",
         "time": "Thu, 18 Jun 2026 18:28:09 +0000"
-      },
-      {
-        "title": "Why Bitcoin Titan Strategy&#39;s STRC Is Falling to New Lows",
-        "url": "https://decrypt.co/371552/why-bitcoin-titan-strategy-strc-falling-new-lows",
-        "source": "crypto",
-        "time": "Thu, 18 Jun 2026 18:01:42 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Dutch Railways offers unlimited off-peak train travel nationwide for €49/month",
+        "url": "https://www.ns.nl/en/season-tickets/dal-vrij",
+        "source": "hn",
+        "time": "6/15/2026, 4:44:54 PM"
+      },
+      {
+        "title": "Noam Shazeer Joins OpenAI",
+        "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+        "source": "hn",
+        "time": "6/18/2026, 12:26:06 AM"
+      },
       {
         "title": "I found 10k GitHub repositories distributing Trojan malware",
         "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
@@ -48,22 +60,10 @@
         "time": "6/18/2026, 2:17:07 PM"
       },
       {
-        "title": "Noam Shazeer Joins OpenAI",
-        "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+        "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+        "url": "https://blog.ui.com/article/introducing-enterprise-nas",
         "source": "hn",
-        "time": "6/18/2026, 12:26:06 AM"
-      },
-      {
-        "title": "Hospitals and universities repurposing drugs at 90% lower cost",
-        "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
-        "source": "hn",
-        "time": "6/18/2026, 10:33:22 AM"
-      },
-      {
-        "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
-        "url": "https://tester.army",
-        "source": "hn",
-        "time": "6/18/2026, 2:49:44 PM"
+        "time": "6/18/2026, 2:24:30 PM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.com/news/articles/czx50n2vj74o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 18 Jun 2026 19:28:12 GMT"
+      },
+      {
+        "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+        "url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 18 Jun 2026 19:54:42 GMT"
       },
       {
         "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 18 Jun 2026 15:46:36 GMT"
-      },
-      {
-        "title": "Foreign Office drops 'do not travel' advice for Dubai, but calls situation unpredictable",
-        "url": "https://www.bbc.com/news/articles/cddl29lg5gro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 18 Jun 2026 15:36:42 GMT"
       }
     ],
     "projects": [
