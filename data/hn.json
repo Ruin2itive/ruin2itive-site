@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-18T21:40:34.378Z"
+    "built_at": "2026-06-18T22:37:37.190Z"
   },
-  "items": [
-    {
-      "title": "Who's Actually Running That Robot?",
-      "url": "https://www.bostonglobe.com/2026/06/18/opinion/demo-videos-robots-autonomous/",
-      "date": "2026-06-18T21:39:01.000Z"
-    },
-    {
-      "title": "A beautiful and parametric particles simulation",
-      "url": "https://sand-morph.up.railway.app/flux-lab",
-      "date": "2026-06-18T21:38:58.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
