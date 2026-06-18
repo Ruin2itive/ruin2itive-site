@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-18T13:25:09.288Z",
-  "updated_local": "6/18/2026, 1:25:09 PM",
+  "updated_iso": "2026-06-18T15:06:22.396Z",
+  "updated_local": "6/18/2026, 3:06:22 PM",
   "sections": {
     "crypto": [
       {
@@ -42,31 +42,43 @@
         "time": "6/18/2026, 12:10:53 PM"
       },
       {
-        "title": "Hospitals and universities repurposing drugs at 90% lower cost",
-        "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+        "title": "Migrate from OpenClaw",
+        "url": "https://hermes-agent.nousresearch.com/docs/guides/migrate-from-openclaw",
         "source": "hn",
-        "time": "6/18/2026, 10:33:22 AM"
+        "time": "6/18/2026, 2:32:13 PM"
+      },
+      {
+        "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+        "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+        "source": "hn",
+        "time": "6/18/2026, 2:24:30 PM"
+      },
+      {
+        "title": "I found 10k GitHub repositories distributing Trojan malware",
+        "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+        "source": "hn",
+        "time": "6/18/2026, 11:45:43 AM"
       },
       {
         "title": "Has W Social switched to closed source?",
         "url": "https://blog.elenarossini.com/w-social-public-institutions-and-the-theater-of-european-digital-sovereignty/",
         "source": "hn",
         "time": "6/18/2026, 12:46:04 PM"
-      },
-      {
-        "title": "Midjourney Medical",
-        "url": "https://www.midjourney.com/medical/blogpost",
-        "source": "hn",
-        "time": "6/18/2026, 1:59:51 AM"
-      },
-      {
-        "title": "Wages in America Are Too Low for the 30% Rule to Work for Renters Anymore",
-        "url": "https://www.realtor.com/advice/rent/wages-in-america-are-too-low-for-the-30-rule-to-work-for-renters-anymore/",
-        "source": "hn",
-        "time": "6/18/2026, 1:21:28 PM"
       }
     ],
     "world": [
+      {
+        "title": "Teacher who murdered adopted baby son Preston Davey given whole life prison sentence",
+        "url": "https://www.bbc.com/news/articles/czrx8gj112mo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 18 Jun 2026 14:12:37 GMT"
+      },
+      {
+        "title": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
+        "url": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 18 Jun 2026 14:02:52 GMT"
+      },
       {
         "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
         "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +86,16 @@
         "time": "Thu, 18 Jun 2026 09:47:47 GMT"
       },
       {
-        "title": "Interest rates held as Bank warns of impact of high energy prices",
-        "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Foreign Office drops 'do not travel' advice for UAE",
+        "url": "https://www.bbc.com/news/articles/cddl29lg5gro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 18 Jun 2026 12:50:33 GMT"
+        "time": "Thu, 18 Jun 2026 14:56:29 GMT"
       },
       {
         "title": "Young women now have 'close to zero' risk of cervical cancer death after HPV jab",
         "url": "https://www.bbc.com/news/articles/c621z28z138o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 18 Jun 2026 08:14:34 GMT"
-      },
-      {
-        "title": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
-        "url": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 18 Jun 2026 13:11:52 GMT"
-      },
-      {
-        "title": "Jury sent out to consider verdicts in Jeffrey Donaldson's sex abuse trial",
-        "url": "https://www.bbc.com/news/articles/ce8m211729no?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 18 Jun 2026 12:32:04 GMT"
       }
     ],
     "projects": [
