@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-06-18T20:58:26.600Z",
-  "updated_local": "6/18/2026, 8:58:26 PM",
+  "updated_iso": "2026-06-18T21:43:01.857Z",
+  "updated_local": "6/18/2026, 9:43:01 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "China’s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus—Using Zero Nvidia Chips",
+        "url": "https://decrypt.co/371613/china-z-ai-glm-5-2-model-rivals-claude-opus",
+        "source": "crypto",
+        "time": "Thu, 18 Jun 2026 21:26:34 +0000"
+      },
+      {
+        "title": "Midjourney Pivots From AI Images to Medical Imaging, Aiming to Build a Better MRI Alternative",
+        "url": "https://decrypt.co/371606/midjourney-pivots-ai-images-medical-imaging-build-better-mri",
+        "source": "crypto",
+        "time": "Thu, 18 Jun 2026 21:18:41 +0000"
+      },
+      {
+        "title": "CFTC Hits Celsius Crypto Fraudster Alex Mashinsky With Permanent Trading Ban",
+        "url": "https://decrypt.co/371608/cftc-celsius-crypto-fraudster-alex-mashinsky-permanent-trading-ban",
+        "source": "crypto",
+        "time": "Thu, 18 Jun 2026 21:02:06 +0000"
+      },
       {
         "title": "Algorand Plans to Be Ready for Quantum Computing Threat by End of 2027",
         "url": "https://decrypt.co/371581/algorand-plans-ready-quantum-computing-threat-end-2027",
@@ -14,32 +32,14 @@
         "url": "https://decrypt.co/371603/ethereum-foundation-exodus-co-director-hsiao-wei-wang-departs",
         "source": "crypto",
         "time": "Thu, 18 Jun 2026 20:16:42 +0000"
-      },
-      {
-        "title": "Perplexity&#39;s AI Agent Now Has a Brain That Learns From Its Own Mistakes",
-        "url": "https://decrypt.co/371584/perplexity-ai-agent-brain",
-        "source": "crypto",
-        "time": "Thu, 18 Jun 2026 19:47:21 +0000"
-      },
-      {
-        "title": "Europe&#39;s Crypto Firms Face Squeeze as MiCA Transition Period End Looms",
-        "url": "https://decrypt.co/371561/europes-crypto-firms-face-squeeze-mica-transition-period-end-looms",
-        "source": "crypto",
-        "time": "Thu, 18 Jun 2026 19:26:10 +0000"
-      },
-      {
-        "title": "HIVE Stock Spikes as Bitcoin Miner Lands $220M AI Infra Deal",
-        "url": "https://decrypt.co/371570/hives-220m-ai-deal-bitcoin-mining",
-        "source": "crypto",
-        "time": "Thu, 18 Jun 2026 19:05:59 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Dutch Railways offers unlimited off-peak train travel nationwide for €49/month",
-        "url": "https://www.ns.nl/en/season-tickets/dal-vrij",
+        "title": "Show HN: Are You in the Weights?",
+        "url": "https://www.intheweights.com/",
         "source": "hn",
-        "time": "6/15/2026, 4:44:54 PM"
+        "time": "6/18/2026, 8:49:03 PM"
       },
       {
         "title": "Noam Shazeer Joins OpenAI",
@@ -54,16 +54,16 @@
         "time": "6/18/2026, 11:45:43 AM"
       },
       {
+        "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
+        "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+        "source": "hn",
+        "time": "6/18/2026, 6:31:23 PM"
+      },
+      {
         "title": "Swiss parliament lifts ban on new nuclear power plants",
         "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
         "source": "hn",
         "time": "6/18/2026, 2:17:07 PM"
-      },
-      {
-        "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-        "url": "https://blog.ui.com/article/introducing-enterprise-nas",
-        "source": "hn",
-        "time": "6/18/2026, 2:24:30 PM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
         "url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 18 Jun 2026 19:54:42 GMT"
+        "time": "Thu, 18 Jun 2026 21:34:28 GMT"
       },
       {
         "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
@@ -92,10 +92,10 @@
         "time": "Thu, 18 Jun 2026 14:12:37 GMT"
       },
       {
-        "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
-        "url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
+        "url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 18 Jun 2026 15:46:36 GMT"
+        "time": "Thu, 18 Jun 2026 20:27:31 GMT"
       }
     ],
     "projects": [
