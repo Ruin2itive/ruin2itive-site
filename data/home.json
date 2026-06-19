@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-19T01:26:46.506Z",
-  "updated_local": "6/19/2026, 1:26:46 AM",
+  "updated_iso": "2026-06-19T02:03:45.437Z",
+  "updated_local": "6/19/2026, 2:03:45 AM",
   "sections": {
     "crypto": [
       {
@@ -54,19 +54,25 @@
         "time": "6/18/2026, 11:45:43 AM"
       },
       {
-        "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-        "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
-        "source": "hn",
-        "time": "6/19/2026, 1:06:27 AM"
-      },
-      {
         "title": "Cell-based architecture for resilient payment systems",
         "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
         "source": "hn",
         "time": "6/15/2026, 10:36:33 PM"
+      },
+      {
+        "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+        "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+        "source": "hn",
+        "time": "6/19/2026, 1:06:27 AM"
       }
     ],
     "world": [
+      {
+        "title": "Scottish Conservatives win first Westminster by-election in more than 50 years",
+        "url": "https://www.bbc.com/news/articles/cpv3kk3nlj1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 19 Jun 2026 01:28:46 GMT"
+      },
       {
         "title": "Man arrested on suspicion of attempted murder after boy injured in crocodile enclosure",
         "url": "https://www.bbc.com/news/articles/czx50n2vj74o?at_medium=RSS&amp;at_campaign=rss",
@@ -77,7 +83,7 @@
         "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
         "url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 18 Jun 2026 21:34:28 GMT"
+        "time": "Fri, 19 Jun 2026 01:34:00 GMT"
       },
       {
         "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c5yz43n9513o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 18 Jun 2026 23:35:54 GMT"
-      },
-      {
-        "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
-        "url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 18 Jun 2026 23:05:05 GMT"
       }
     ],
     "projects": [
