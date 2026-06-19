@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-19T15:01:45.948Z"
+    "built_at": "2026-06-19T16:47:33.662Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The noisy neighbor problem: serving LLMs",
+      "url": "https://cohere.com/blog/serving-fairness",
+      "date": "2026-06-19T16:46:58.000Z"
+    },
+    {
+      "title": "Why Temporal Isn't Enough",
+      "url": "https://www.diagrid.io/blog/verifiable-execution-lineage-agent-workflows",
+      "date": "2026-06-19T16:46:21.000Z"
+    }
+  ]
 }
