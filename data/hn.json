@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-19T22:19:00.858Z"
+    "built_at": "2026-06-19T23:21:24.275Z"
   },
-  "items": [
-    {
-      "title": "When the ability to smell goes away",
-      "url": "https://knowablemagazine.org/content/article/health-disease/2026/what-happens-brain-lose-sense-of-smell",
-      "date": "2026-06-19T22:15:54.000Z"
-    },
-    {
-      "title": "Ask HN: What Makes a Podcast Successful?",
-      "url": "https://news.ycombinator.com/item?id=48603866",
-      "date": "2026-06-19T22:11:30.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
