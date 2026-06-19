@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-19T01:56:04.560Z"
+    "built_at": "2026-06-19T03:10:59.287Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Our game anticheat has no kernel driver, we catch not block",
+      "url": "https://cyberlete.net",
+      "date": "2026-06-19T03:04:13.000Z"
+    },
+    {
+      "title": "Adama City Government Exposes 29 GB of Sensitive Ethiopian Citizens' Data",
+      "url": "https://write-ups.security-chu.com/2026/06/Adama-Service-with-Data-Breach.html",
+      "date": "2026-06-19T03:04:13.000Z"
+    }
+  ]
 }
