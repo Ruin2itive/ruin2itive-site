@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-19T00:59:21.297Z",
-  "updated_local": "6/19/2026, 12:59:21 AM",
+  "updated_iso": "2026-06-19T01:26:46.506Z",
+  "updated_local": "6/19/2026, 1:26:46 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Update on Ocean Observatories Initiative",
-        "url": "https://www.nsf.gov/news/update-ocean-observatories-initiative",
-        "source": "hn",
-        "time": "6/18/2026, 11:41:48 PM"
-      },
-      {
         "title": "Zero-Touch OAuth for MCP",
         "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
         "source": "hn",
         "time": "6/18/2026, 9:54:10 PM"
+      },
+      {
+        "title": "How Japan's railways stayed one while splitting apart",
+        "url": "https://arun.is/blog/jr-logo/",
+        "source": "hn",
+        "time": "6/17/2026, 2:03:58 PM"
       },
       {
         "title": "I found 10k GitHub repositories distributing Trojan malware",
@@ -54,16 +54,16 @@
         "time": "6/18/2026, 11:45:43 AM"
       },
       {
+        "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+        "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+        "source": "hn",
+        "time": "6/19/2026, 1:06:27 AM"
+      },
+      {
         "title": "Cell-based architecture for resilient payment systems",
         "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
         "source": "hn",
         "time": "6/15/2026, 10:36:33 PM"
-      },
-      {
-        "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-        "url": "https://blog.ui.com/article/introducing-enterprise-nas",
-        "source": "hn",
-        "time": "6/18/2026, 2:24:30 PM"
       }
     ],
     "world": [
