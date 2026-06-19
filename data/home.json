@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-19T12:25:08.243Z",
-  "updated_local": "6/19/2026, 12:25:08 PM",
+  "updated_iso": "2026-06-19T14:04:12.984Z",
+  "updated_local": "6/19/2026, 2:04:12 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "6/19/2026, 6:35:57 AM"
       },
       {
+        "title": "Leave a Trace",
+        "url": "https://www.jakeworth.com/posts/leave-a-trace",
+        "source": "hn",
+        "time": "6/19/2026, 12:45:11 PM"
+      },
+      {
         "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
         "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
         "source": "hn",
         "time": "6/16/2026, 12:45:50 AM"
-      },
-      {
-        "title": "So You Want to Define a Well-Known URI",
-        "url": "https://mnot.net/blog/2026/well_known_uris",
-        "source": "hn",
-        "time": "6/19/2026, 6:05:01 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Fri, 19 Jun 2026 08:38:42 GMT"
       },
       {
+        "title": "Boy, 3, hurt at zoo was attacked by a crocodile, BBC understands",
+        "url": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 19 Jun 2026 13:42:31 GMT"
+      },
+      {
+        "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+        "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 19 Jun 2026 13:42:47 GMT"
+      },
+      {
+        "title": "Amber extreme heat warning issued as 35C heatwave approaches",
+        "url": "https://www.bbc.com/weather/articles/cz0jde5xkjvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 19 Jun 2026 11:14:57 GMT"
+      },
+      {
         "title": "Farage blames Makerfield defeat on anti-Starmer votes",
         "url": "https://www.bbc.com/news/articles/cvgqvj8dkz7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 19 Jun 2026 10:57:45 GMT"
-      },
-      {
-        "title": "Scottish Conservatives win first Westminster by-election in more than 50 years",
-        "url": "https://www.bbc.com/news/articles/cpv3kk3nlj1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 19 Jun 2026 09:07:56 GMT"
-      },
-      {
-        "title": "Sir John Curtice: Burnham's win against Reform represents remarkable personal success",
-        "url": "https://www.bbc.com/news/articles/clyeg121g2zo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 19 Jun 2026 04:46:48 GMT"
-      },
-      {
-        "title": "Boy, 3, was attacked by crocodile, BBC understands",
-        "url": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 19 Jun 2026 12:15:34 GMT"
+        "time": "Fri, 19 Jun 2026 12:48:13 GMT"
       }
     ],
     "projects": [
