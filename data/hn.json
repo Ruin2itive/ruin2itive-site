@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-19T00:44:40.135Z"
+    "built_at": "2026-06-19T01:56:04.560Z"
   },
-  "items": [
-    {
-      "title": "Meta lobbies Congress for protection from child-harm lawsuits",
-      "url": "https://www.reuters.com/world/meta-lobbies-congress-protection-child-harm-lawsuits-2026-06-18/",
-      "date": "2026-06-19T00:42:26.000Z"
-    },
-    {
-      "title": "1992 view of the problems of computer programming in 1992",
-      "url": "https://blog.plover.com/2026/06/18/#fortran-i",
-      "date": "2026-06-19T00:42:01.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
