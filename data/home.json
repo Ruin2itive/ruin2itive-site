@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-19T06:46:07.711Z",
-  "updated_local": "6/19/2026, 6:46:07 AM",
+  "updated_iso": "2026-06-19T08:09:11.252Z",
+  "updated_local": "6/19/2026, 8:09:11 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Ice water drowning survival of young patient (2025)",
-        "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
+        "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+        "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
         "source": "hn",
-        "time": "6/19/2026, 3:50:25 AM"
+        "time": "6/16/2026, 11:07:08 AM"
+      },
+      {
+        "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+        "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+        "source": "hn",
+        "time": "6/19/2026, 6:35:57 AM"
       },
       {
         "title": "To study how chips work, MIT researchers built their own operating system",
@@ -48,22 +54,16 @@
         "time": "6/15/2026, 4:06:22 PM"
       },
       {
-        "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-        "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-        "source": "hn",
-        "time": "6/16/2026, 11:07:08 AM"
-      },
-      {
-        "title": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
-        "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
-        "source": "hn",
-        "time": "6/15/2026, 1:35:23 PM"
-      },
-      {
         "title": "So You Want to Define a Well-Known URI",
         "url": "https://mnot.net/blog/2026/well_known_uris",
         "source": "hn",
         "time": "6/19/2026, 6:05:01 AM"
+      },
+      {
+        "title": "Zen and the Art of Machine Learning Research",
+        "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+        "source": "hn",
+        "time": "6/16/2026, 12:45:50 AM"
       }
     ],
     "world": [
@@ -71,19 +71,19 @@
         "title": "Chris Mason: Emphatic win leaves Starmer with big decision on leadership",
         "url": "https://www.bbc.com/news/articles/cqx1eq5e71zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 19 Jun 2026 05:38:07 GMT"
+        "time": "Fri, 19 Jun 2026 06:46:41 GMT"
       },
       {
-        "title": "Burnham says 'this is a final chance to change' in his victory speech",
-        "url": "https://www.bbc.com/news/videos/cvg5drz91ego?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Burnham says 'tonight could be the turning point' in his victory speech",
+        "url": "https://www.bbc.com/news/videos/c20ynlkrkzko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 19 Jun 2026 04:35:43 GMT"
+        "time": "Fri, 19 Jun 2026 06:52:45 GMT"
       },
       {
         "title": "Scottish Conservatives win first Westminster by-election in more than 50 years",
         "url": "https://www.bbc.com/news/articles/cpv3kk3nlj1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 19 Jun 2026 06:42:49 GMT"
+        "time": "Fri, 19 Jun 2026 07:41:47 GMT"
       },
       {
         "title": "Sir John Curtice: Burnham's win against Reform represents remarkable personal success",
@@ -92,10 +92,10 @@
         "time": "Fri, 19 Jun 2026 04:46:48 GMT"
       },
       {
-        "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
-        "url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
+        "url": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 19 Jun 2026 01:34:00 GMT"
+        "time": "Fri, 19 Jun 2026 07:38:16 GMT"
       }
     ],
     "projects": [
