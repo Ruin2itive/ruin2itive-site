@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-19T13:07:58.839Z"
+    "built_at": "2026-06-19T15:01:45.948Z"
   },
-  "items": [
-    {
-      "title": "Critical BootROM Vulnerability Exposes Apple Devices to Unpatchable Exploits",
-      "url": "https://blog.rankiteo.com/app1781807037-apple-vulnerability-june-2026/",
-      "date": "2026-06-19T13:05:47.000Z"
-    },
-    {
-      "title": "Show HN: Map the World Cup – Countries and club teams",
-      "url": "https://maptheworldcup.com/",
-      "date": "2026-06-19T13:05:44.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
