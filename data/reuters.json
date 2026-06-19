@@ -4,8 +4,18 @@
     "label": "reuters",
     "source_url": "https://news.google.com/rss/search?q=site%3Areuters.com%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
     "take": 2,
-    "built_at": "2026-06-19T09:33:48.922Z"
+    "built_at": "2026-06-19T11:31:02.952Z"
   },
-  "error": "HTTP 503",
-  "items": []
+  "items": [
+    {
+      "title": "A1EG34.SA - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mVVBCRlktY0ZuRTdOc3IydHY1dHFKZmxFUXhkMkY2dVpob0VMb2lUbnhoY0Rma3ZER0JZUWxhR0pFdWZwb2xGeE5CTXRLcUUtUS1mcGdQOVJ2YUNRdzBmYVV0WlVGSHpVam5z?oc=5",
+      "date": "2026-06-18T13:22:42.000Z"
+    },
+    {
+      "title": "About Emkay Global Financial Services Ltd (EMKS.M3) - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FYWxpTUxQQjd5aXQ3UkxlZ3k3MWNOazgtMzAzaHlzVnpFdk04ZG0tczViak0xUm1Kam5yUzBWNjJCNU0zajlrUlVheXl6V1NXWXg4MFFjUXdwWlE4MC0zdzRzamMwSkFOUWc?oc=5",
+      "date": "2026-06-18T02:53:35.000Z"
+    }
+  ]
 }

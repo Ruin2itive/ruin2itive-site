@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-19T09:33:38.173Z"
+    "built_at": "2026-06-19T11:31:01.092Z"
   },
-  "items": [
-    {
-      "title": "Lisuan Tech LX Pro 24GB GPU",
-      "url": "https://www.techpowerup.com/gpu-specs/lx-pro.c4408",
-      "date": "2026-06-19T09:31:38.000Z"
-    },
-    {
-      "title": "Conservatives plan nationwide protest against AI data centers",
-      "url": "https://www.axios.com/2026/06/18/conservatives-protest-ai-data-centers",
-      "date": "2026-06-19T09:31:23.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
