@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-19T03:22:58.896Z",
-  "updated_local": "6/19/2026, 3:22:58 AM",
+  "updated_iso": "2026-06-19T04:33:53.969Z",
+  "updated_local": "6/19/2026, 4:33:53 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Let's Encrypt has been down most of today",
+        "url": "https://letsencrypt.status.io/#2026",
+        "source": "hn",
+        "time": "6/19/2026, 4:18:09 AM"
+      },
+      {
         "title": "To study how chips work, MIT researchers built their own operating system",
         "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
         "source": "hn",
         "time": "6/15/2026, 4:06:22 PM"
       },
       {
-        "title": "Zero-Touch OAuth for MCP",
-        "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+        "title": "Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest",
+        "url": "https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
         "source": "hn",
-        "time": "6/18/2026, 9:54:10 PM"
+        "time": "6/19/2026, 3:50:25 AM"
       },
       {
         "title": "How Japan's railways stayed one while splitting apart",
@@ -54,24 +60,24 @@
         "time": "6/17/2026, 2:03:58 PM"
       },
       {
-        "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-        "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+        "title": "Zero-Touch OAuth for MCP",
+        "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
         "source": "hn",
-        "time": "6/19/2026, 1:06:27 AM"
-      },
-      {
-        "title": "I found 10k GitHub repositories distributing Trojan malware",
-        "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-        "source": "hn",
-        "time": "6/18/2026, 11:45:43 AM"
+        "time": "6/18/2026, 9:54:10 PM"
       }
     ],
     "world": [
       {
+        "title": "Burnham says his win in Makerfield by-election could be turning point",
+        "url": "https://www.bbc.com/news/articles/c4gy72kmg1mo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 19 Jun 2026 04:04:50 GMT"
+      },
+      {
         "title": "Scottish Conservatives win first Westminster by-election in more than 50 years",
         "url": "https://www.bbc.com/news/articles/cpv3kk3nlj1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 19 Jun 2026 01:28:46 GMT"
+        "time": "Fri, 19 Jun 2026 03:32:06 GMT"
       },
       {
         "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/czx50n2vj74o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 18 Jun 2026 19:28:12 GMT"
-      },
-      {
-        "title": "The pressure on the Church of England to ditch its slavery reparations plan",
-        "url": "https://www.bbc.com/news/articles/c5yz43n9513o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 18 Jun 2026 23:35:54 GMT"
       }
     ],
     "projects": [
