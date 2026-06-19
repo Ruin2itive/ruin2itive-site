@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-19T18:34:40.427Z"
+    "built_at": "2026-06-19T19:32:06.827Z"
   },
-  "items": [
-    {
-      "title": "Worlds Smallest microcontroller, the Cortex M0 MCU MSPM0C1104",
-      "url": "https://www.hackster.io/mortenpaghfrederiksen/world-s-smallest-32-bit-arm-the-cortex-m0-mcu-mspm0c1104-5ef684",
-      "date": "2026-06-19T18:33:05.000Z"
-    },
-    {
-      "title": "Ask HN: How to stop your coding agent from creating just AI slop for the UI/UX?",
-      "url": "https://news.ycombinator.com/item?id=48601647",
-      "date": "2026-06-19T18:32:12.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
