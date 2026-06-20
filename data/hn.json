@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-20T09:02:14.131Z"
+    "built_at": "2026-06-20T10:46:54.845Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Enthusiastic Fear",
+      "url": "https://patent.dev/enthusiastic-fear/",
+      "date": "2026-06-20T10:43:15.000Z"
+    },
+    {
+      "title": "The Classic Movie That Was Nearly Destroyed by a Single Line of Code",
+      "url": "https://www.wsj.com/business/media/toy-story-5-saved-pixar-78e29161",
+      "date": "2026-06-20T10:42:44.000Z"
+    }
+  ]
 }
