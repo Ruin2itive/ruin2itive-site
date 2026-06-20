@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-20T11:39:56.272Z",
-  "updated_local": "6/20/2026, 11:39:56 AM",
+  "updated_iso": "2026-06-20T12:39:20.111Z",
+  "updated_local": "6/20/2026, 12:39:20 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "CSSQuake",
+        "url": "https://cssquake.com/",
+        "source": "hn",
+        "time": "6/20/2026, 10:49:53 AM"
+      },
+      {
         "title": "I Stored a Website in a Favicon",
         "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
         "source": "hn",
@@ -48,36 +54,24 @@
         "time": "6/20/2026, 3:36:49 AM"
       },
       {
-        "title": "Data Compression Explained (2012)",
-        "url": "https://mattmahoney.net/dc/dce.html",
+        "title": "16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating",
+        "url": "https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating",
         "source": "hn",
-        "time": "6/16/2026, 9:51:57 PM"
+        "time": "6/20/2026, 11:43:29 AM"
       },
       {
-        "title": "Can you see three trees?",
-        "url": "https://www.not-ship.com/can-you-see-three-trees/",
+        "title": "The Cold War's Accidental Whale Observatory",
+        "url": "https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/",
         "source": "hn",
-        "time": "6/18/2026, 8:16:20 AM"
-      },
-      {
-        "title": "There are no instances in ATProto",
-        "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-        "source": "hn",
-        "time": "6/19/2026, 3:10:02 PM"
+        "time": "6/17/2026, 1:06:12 AM"
       }
     ],
     "world": [
       {
-        "title": "'People flew from their seats': Passengers describe how collision unfolded",
-        "url": "https://www.bbc.com/news/articles/cx2j700l5jlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "What we know so far about the collision and emergency response",
+        "url": "https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 20 Jun 2026 08:36:41 GMT"
-      },
-      {
-        "title": "Flawed but relentless Scotland show themselves as men of substance",
-        "url": "https://www.bbc.com/sport/football/articles/c33y5v4mer3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 20 Jun 2026 01:41:52 GMT"
+        "time": "Sat, 20 Jun 2026 12:15:27 GMT"
       },
       {
         "title": "Talk of Starmer staying on to fight is fading - fast",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/news/articles/cd6e25lpwxzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 20 Jun 2026 00:46:56 GMT"
+      },
+      {
+        "title": "Harry and Meghan offered royal accommodation during UK visit",
+        "url": "https://www.bbc.com/news/articles/c5yzlmkl7zzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 20 Jun 2026 03:47:35 GMT"
       }
     ],
     "projects": [
