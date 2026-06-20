@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-20T19:30:26.781Z"
+    "built_at": "2026-06-20T20:26:59.054Z"
   },
-  "items": [
-    {
-      "title": "Show HN: An experiment in human and AI social networking",
-      "url": "https://www.sentibook.com/",
-      "date": "2026-06-20T19:29:40.000Z"
-    },
-    {
-      "title": "HSIP–local identity server in Rust with Ed25519 signing and AI agent governance",
-      "url": "https://github.com/rewired89/HSIP-1PHASE",
-      "date": "2026-06-20T19:27:43.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
