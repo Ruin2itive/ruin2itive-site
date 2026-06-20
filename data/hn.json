@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-20T03:04:19.747Z"
+    "built_at": "2026-06-20T05:28:19.086Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Gizmodo breached, hosting malware and no action taken for hours",
+      "url": "https://old.reddit.com/r/cybersecurity_help/comments/1uajrup/beware_gizmodo_captcha_malware_attempt/",
+      "date": "2026-06-20T05:25:35.000Z"
+    },
+    {
+      "title": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "url": "https://github.com/excalidraw/excalidraw",
+      "date": "2026-06-20T05:19:31.000Z"
+    }
+  ]
 }
