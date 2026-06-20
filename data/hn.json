@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-20T12:33:57.665Z"
+    "built_at": "2026-06-20T13:32:38.912Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "FIDE AI – Research and public infrastructure for faith-facing AI",
+      "url": "https://fideai.substack.com/p/introducing-fide-ai",
+      "date": "2026-06-20T13:31:10.000Z"
+    },
+    {
+      "title": "Show HN: Web-Based FPGA Viewer",
+      "url": "https://edacation.github.io/nextpnr-viewer/",
+      "date": "2026-06-20T13:30:46.000Z"
+    }
+  ]
 }
