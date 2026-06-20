@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-20T05:39:34.900Z",
-  "updated_local": "6/20/2026, 5:39:34 AM",
+  "updated_iso": "2026-06-20T07:23:10.183Z",
+  "updated_local": "6/20/2026, 7:23:10 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
+        "title": "I Stored a Website in a Favicon",
+        "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+        "source": "hn",
+        "time": "6/20/2026, 5:33:59 AM"
+      },
+      {
         "title": "Data Compression Explained (2012)",
         "url": "https://mattmahoney.net/dc/dce.html",
         "source": "hn",
         "time": "6/16/2026, 9:51:57 PM"
-      },
-      {
-        "title": "Snap Smart Glasses",
-        "url": "https://www.specs.com/smart-glasses/specs-27",
-        "source": "hn",
-        "time": "6/17/2026, 12:02:02 PM"
       },
       {
         "title": "There are no instances in ATProto",
@@ -54,25 +54,19 @@
         "time": "6/19/2026, 3:10:02 PM"
       },
       {
-        "title": "Surprising economics of load-balanced systems",
-        "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+        "title": "The discovery that changed how scientists think about memory",
+        "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
         "source": "hn",
-        "time": "6/19/2026, 8:30:59 PM"
+        "time": "6/17/2026, 11:09:29 AM"
       },
       {
-        "title": "Hyundai buys Boston Dynamics",
-        "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+        "title": "Can you see three trees?",
+        "url": "https://www.not-ship.com/can-you-see-three-trees/",
         "source": "hn",
-        "time": "6/19/2026, 4:28:20 PM"
+        "time": "6/18/2026, 8:16:20 AM"
       }
     ],
     "world": [
-      {
-        "title": "Driver dies and 33 people seriously injured in Bedford train crash",
-        "url": "https://www.bbc.com/news/articles/cr7xzg93ddxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 20 Jun 2026 00:37:23 GMT"
-      },
       {
         "title": "'People flew from their seats': Passengers describe how collision unfolded",
         "url": "https://www.bbc.com/news/articles/cx2j700l5jlo?at_medium=RSS&amp;at_campaign=rss",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.com/weather/articles/cp8lye61jk6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 19 Jun 2026 23:39:27 GMT"
+      },
+      {
+        "title": "Harry and Meghan offered royal accommodation during UK visit",
+        "url": "https://www.bbc.com/news/articles/c5yzlmkl7zzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 20 Jun 2026 03:47:35 GMT"
       }
     ],
     "projects": [
