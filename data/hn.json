@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-20T00:36:14.022Z"
+    "built_at": "2026-06-20T01:41:12.637Z"
   },
-  "items": [
-    {
-      "title": "Backstitch: Real-Time Version Control for Godot",
-      "url": "https://backstitch.dev/",
-      "date": "2026-06-20T00:27:22.000Z"
-    },
-    {
-      "title": "Swedish VPN provider OVPN sold to US stock and asset company",
-      "url": "https://www.ovpn.com/en/privacy-notice",
-      "date": "2026-06-20T00:26:10.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
