@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-21T16:41:36.701Z",
-  "updated_local": "6/21/2026, 4:41:36 PM",
+  "updated_iso": "2026-06-21T17:32:58.123Z",
+  "updated_local": "6/21/2026, 5:32:58 PM",
   "sections": {
     "crypto": [
       {
@@ -36,7 +36,13 @@
     ],
     "hacker": [
       {
-        "title": "(How to Write a (Lisp) Interpreter (In Python))",
+        "title": "Code duplication is far cheaper than the wrong abstraction (2016)",
+        "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+        "source": "hn",
+        "time": "6/21/2026, 4:08:23 PM"
+      },
+      {
+        "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
         "url": "https://norvig.com/lispy.html",
         "source": "hn",
         "time": "6/21/2026, 3:36:33 PM"
@@ -48,16 +54,10 @@
         "time": "6/21/2026, 11:38:01 AM"
       },
       {
-        "title": "Code duplication is far cheaper than the wrong abstraction",
-        "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+        "title": "The Minimum Viable Unit of Saleable Software",
+        "url": "https://brandur.org/minimum-viable-unit",
         "source": "hn",
-        "time": "6/21/2026, 4:08:23 PM"
-      },
-      {
-        "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
-        "url": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
-        "source": "hn",
-        "time": "6/21/2026, 2:09:07 PM"
+        "time": "6/21/2026, 4:41:21 PM"
       },
       {
         "title": "Commodore Made a Digital Detox Phone That Isn't Dumb",
@@ -68,7 +68,13 @@
     ],
     "world": [
       {
-        "title": "Signs grow that Starmer will resign as government mood shifts",
+        "title": "Starmer considers political future as pressure to quit mounts",
+        "url": "https://www.bbc.com/news/articles/cn8k1my75gno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 21 Jun 2026 16:56:17 GMT"
+      },
+      {
+        "title": "Signs grow that PM will resign with mood in government shifting",
         "url": "https://www.bbc.com/news/articles/cql10wwy69zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 21 Jun 2026 10:57:56 GMT"
@@ -77,7 +83,7 @@
         "title": "Family of driver killed in Bedford train crash 'devastated' by loss",
         "url": "https://www.bbc.com/news/articles/c621n4l5qr6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 21 Jun 2026 16:39:12 GMT"
+        "time": "Sun, 21 Jun 2026 17:28:04 GMT"
       },
       {
         "title": "Extreme heat warning extended to four days as temperatures could hit 38C",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 21 Jun 2026 13:08:49 GMT"
-      },
-      {
-        "title": "Stokes and Atkinson found 'blameless for violent conduct' as pair return to squad",
-        "url": "https://www.bbc.com/sport/cricket/articles/c8r2pr1z5d3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 21 Jun 2026 15:38:15 GMT"
       }
     ],
     "projects": [
