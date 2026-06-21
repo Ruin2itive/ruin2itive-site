@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-21T07:52:52.064Z",
-  "updated_local": "6/21/2026, 7:52:52 AM",
+  "updated_iso": "2026-06-21T09:17:43.357Z",
+  "updated_local": "6/21/2026, 9:17:43 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "Google Hits 50% IPv6",
+        "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+        "source": "hn",
+        "time": "6/21/2026, 8:21:22 AM"
+      },
+      {
+        "title": "A 3D voxel game engine written in APL",
+        "url": "https://github.com/namgyaaal/avoxelgame",
+        "source": "hn",
+        "time": "6/21/2026, 8:04:54 AM"
+      },
+      {
         "title": "Developers don't understand CORS (2019)",
         "url": "https://fosterelli.co/developers-dont-understand-cors",
         "source": "hn",
@@ -52,18 +64,6 @@
         "url": "https://github.com/mysk-research/loupe",
         "source": "hn",
         "time": "6/20/2026, 12:08:23 PM"
-      },
-      {
-        "title": "Renting a sewing machine from the library",
-        "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-        "source": "hn",
-        "time": "6/20/2026, 10:54:11 PM"
-      },
-      {
-        "title": "The 100k Whys of AI",
-        "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-        "source": "hn",
-        "time": "6/21/2026, 5:45:21 AM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Sat, 20 Jun 2026 23:17:05 GMT"
       },
       {
-        "title": "Nine people in critical condition among 100 injured in Bedford train crash",
-        "url": "https://www.bbc.com/news/articles/ce8j33e30neo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 20 Jun 2026 15:30:12 GMT"
-      },
-      {
         "title": "Extreme heat warning expanded as 37C heatwave approaches UK",
         "url": "https://www.bbc.com/weather/articles/cp8lye61jk6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 20 Jun 2026 20:10:28 GMT"
+      },
+      {
+        "title": "Jeremy Clarkson in remission from prostate cancer",
+        "url": "https://www.bbc.com/news/articles/czj8kgg4rrro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 21 Jun 2026 01:48:33 GMT"
       }
     ],
     "projects": [
