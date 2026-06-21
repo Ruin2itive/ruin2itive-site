@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-21T17:30:40.571Z"
+    "built_at": "2026-06-21T18:29:30.374Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The GLP-1 boom is the biggest climate story no one is pricing in",
+      "url": "https://fortune.com/2026/06/21/glp1-drugs-climate-food-system-emissions-investment/",
+      "date": "2026-06-21T18:24:12.000Z"
+    },
+    {
+      "title": "Tech Company Finder",
+      "url": "https://tech.bingo/",
+      "date": "2026-06-21T18:22:34.000Z"
+    }
+  ]
 }
