@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-20T23:26:16.526Z"
+    "built_at": "2026-06-21T00:38:50.496Z"
   },
-  "items": [
-    {
-      "title": "A Leaked GitHub Token Exposed the Exact Ozempic Formula",
-      "url": "https://www.pentesty.co/blog/novo-nordisk-ozempic-fulcrumsec-breach-2026",
-      "date": "2026-06-20T23:24:41.000Z"
-    },
-    {
-      "title": "Ask HN: After you ship a feature, what happens to what you learned?",
-      "url": "https://news.ycombinator.com/item?id=48613999",
-      "date": "2026-06-20T23:22:45.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
