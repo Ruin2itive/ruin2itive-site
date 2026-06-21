@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-21T00:38:50.496Z"
+    "built_at": "2026-06-21T01:48:47.690Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Lean bulk, cut, body recomp. Calculate maintenance calories",
+      "url": "https://macrocodex.app/",
+      "date": "2026-06-21T01:44:43.000Z"
+    },
+    {
+      "title": "The only cauldron ever found in a river in the British Isles",
+      "url": "https://www.bbc.co.uk/news/articles/clyrn5e2k9no",
+      "date": "2026-06-21T01:44:38.000Z"
+    }
+  ]
 }
