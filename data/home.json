@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-21T05:47:06.551Z",
-  "updated_local": "6/21/2026, 5:47:06 AM",
+  "updated_iso": "2026-06-21T07:41:20.825Z",
+  "updated_local": "6/21/2026, 7:41:20 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Renting a sewing machine from the library",
-        "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+        "title": "Zigzag Decoding with AVX-512",
+        "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
         "source": "hn",
-        "time": "6/20/2026, 10:54:11 PM"
+        "time": "6/17/2026, 5:43:22 PM"
       },
       {
         "title": "Developers don't understand CORS (2019)",
@@ -48,25 +48,31 @@
         "time": "6/21/2026, 1:35:40 AM"
       },
       {
-        "title": "Building Reliable Agentic AI Systems",
-        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-        "source": "hn",
-        "time": "6/21/2026, 4:28:39 AM"
-      },
-      {
-        "title": "Epoll vs. io_uring in Linux",
-        "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-        "source": "hn",
-        "time": "6/20/2026, 11:07:09 PM"
-      },
-      {
         "title": "Loupe – A iOS app that raises awareness about what native apps can see",
         "url": "https://github.com/mysk-research/loupe",
         "source": "hn",
         "time": "6/20/2026, 12:08:23 PM"
+      },
+      {
+        "title": "Renting a sewing machine from the library",
+        "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+        "source": "hn",
+        "time": "6/20/2026, 10:54:11 PM"
+      },
+      {
+        "title": "The 100k Whys of AI",
+        "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+        "source": "hn",
+        "time": "6/21/2026, 5:45:21 AM"
       }
     ],
     "world": [
+      {
+        "title": "Leadership uncertainty 'enormously disruptive', former top civil servant warns",
+        "url": "https://www.bbc.com/news/articles/cpq3n5g218no?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 21 Jun 2026 05:48:45 GMT"
+      },
       {
         "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
         "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,13 +80,7 @@
         "time": "Sun, 21 Jun 2026 04:34:00 GMT"
       },
       {
-        "title": "Leadership uncertainty 'enormously disruptive', former top civil servant warns",
-        "url": "https://www.bbc.com/news/articles/cpq3n5g218no?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 21 Jun 2026 05:00:44 GMT"
-      },
-      {
-        "title": "Nine people in critical condition among 100 injured in fatal Bedford train crash",
+        "title": "Nine people in critical condition among 100 injured in Bedford train crash",
         "url": "https://www.bbc.com/news/articles/ce8j33e30neo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 20 Jun 2026 15:30:12 GMT"
