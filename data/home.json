@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-21T18:42:08.211Z",
-  "updated_local": "6/21/2026, 6:42:08 PM",
+  "updated_iso": "2026-06-21T19:32:57.907Z",
+  "updated_local": "6/21/2026, 7:32:57 PM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Code duplication is far cheaper than the wrong abstraction (2016)",
+        "title": "Prefer duplication over the wrong abstraction (2016)",
         "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
         "source": "hn",
         "time": "6/21/2026, 4:08:23 PM"
-      },
-      {
-        "title": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
-        "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
-        "source": "hn",
-        "time": "6/21/2026, 4:56:18 PM"
-      },
-      {
-        "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
-        "url": "https://norvig.com/lispy.html",
-        "source": "hn",
-        "time": "6/21/2026, 3:36:33 PM"
       },
       {
         "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
@@ -60,10 +48,22 @@
         "time": "6/21/2026, 11:38:01 AM"
       },
       {
-        "title": "The Minimum Viable Unit of Saleable Software",
+        "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+        "url": "https://norvig.com/lispy.html",
+        "source": "hn",
+        "time": "6/21/2026, 3:36:33 PM"
+      },
+      {
+        "title": "The minimum viable unit of saleable software",
         "url": "https://brandur.org/minimum-viable-unit",
         "source": "hn",
         "time": "6/21/2026, 4:41:21 PM"
+      },
+      {
+        "title": "Identity verification on Claude",
+        "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+        "source": "hn",
+        "time": "6/21/2026, 12:44:13 PM"
       }
     ],
     "world": [
@@ -83,13 +83,13 @@
         "title": "Family of driver killed in Bedford train crash 'devastated' by loss",
         "url": "https://www.bbc.com/news/articles/c621n4l5qr6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 21 Jun 2026 17:56:05 GMT"
+        "time": "Sun, 21 Jun 2026 19:01:30 GMT"
       },
       {
-        "title": "Extreme heat warning extended to four days as temperatures could hit 38C",
+        "title": "Four-day extreme heat warning to begin on Monday as temperatures could hit 38C",
         "url": "https://www.bbc.com/weather/articles/c932k0lewygo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 21 Jun 2026 15:05:03 GMT"
+        "time": "Sun, 21 Jun 2026 19:26:22 GMT"
       },
       {
         "title": "Low-key funeral held for giant of the art world David Hockney",
