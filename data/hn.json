@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-21T05:35:12.081Z"
+    "built_at": "2026-06-21T07:35:27.505Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Do MCP's use more tokens than CLI's?",
+      "url": "https://nmm.ee/token-usage-mcp-vs-cli",
+      "date": "2026-06-21T07:30:51.000Z"
+    },
+    {
+      "title": "Transdisciplinarity, neuro-techno-philosophy, and the future of philosophy",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/meta.12595",
+      "date": "2026-06-21T07:24:27.000Z"
+    }
+  ]
 }
