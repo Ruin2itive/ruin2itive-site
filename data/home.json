@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-21T19:38:11.172Z",
-  "updated_local": "6/21/2026, 7:38:11 PM",
+  "updated_iso": "2026-06-21T20:34:10.200Z",
+  "updated_local": "6/21/2026, 8:34:10 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Prefer duplication over the wrong abstraction (2016)",
-        "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-        "source": "hn",
-        "time": "6/21/2026, 4:08:23 PM"
-      },
-      {
         "title": "JSON-LD Explained for Personal Websites",
         "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
         "source": "hn",
         "time": "6/21/2026, 6:51:47 PM"
+      },
+      {
+        "title": "Prefer duplication over the wrong abstraction (2016)",
+        "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+        "source": "hn",
+        "time": "6/21/2026, 4:08:23 PM"
       },
       {
         "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
@@ -60,10 +60,10 @@
         "time": "6/21/2026, 3:36:33 PM"
       },
       {
-        "title": "The minimum viable unit of saleable software",
-        "url": "https://brandur.org/minimum-viable-unit",
+        "title": "Identity verification on Claude",
+        "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
         "source": "hn",
-        "time": "6/21/2026, 4:41:21 PM"
+        "time": "6/21/2026, 12:44:13 PM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Sun, 21 Jun 2026 10:57:56 GMT"
       },
       {
+        "title": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
+        "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 21 Jun 2026 19:33:09 GMT"
+      },
+      {
         "title": "Family of driver killed in Bedford train crash 'devastated' by loss",
         "url": "https://www.bbc.com/news/articles/c621n4l5qr6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -89,13 +95,7 @@
         "title": "Four-day extreme heat warning to begin on Monday as temperatures could hit 38C",
         "url": "https://www.bbc.com/weather/articles/c932k0lewygo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 21 Jun 2026 19:26:22 GMT"
-      },
-      {
-        "title": "Low-key funeral held for giant of the art world David Hockney",
-        "url": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 21 Jun 2026 13:08:49 GMT"
+        "time": "Sun, 21 Jun 2026 20:29:22 GMT"
       }
     ],
     "projects": [
