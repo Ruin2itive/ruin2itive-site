@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-21T15:41:18.826Z",
-  "updated_local": "6/21/2026, 3:41:18 PM",
+  "updated_iso": "2026-06-21T16:35:03.520Z",
+  "updated_local": "6/21/2026, 4:35:03 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Inception Labs&#39; Mercury 2 AI Beats Google&#39;s DiffusionGemma at Its Own Game",
+        "url": "https://decrypt.co/371722/inception-labs-mercury-2-ai-beats-googles-diffusiongemma",
+        "source": "crypto",
+        "time": "Sun, 21 Jun 2026 16:01:03 +0000"
+      },
       {
         "title": "AI &#39;Amplification Spiral&#39; May Be Causing Delusions Among Users, Study Suggests",
         "url": "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/371708/charles-schwab-planning-sp-500-prediction-markets-cboe",
         "source": "crypto",
         "time": "Fri, 19 Jun 2026 20:02:32 +0000"
-      },
-      {
-        "title": "House Republican Introduces Insider Trading Bill to Ban Lawmaker Prediction Market Bets",
-        "url": "https://decrypt.co/371705/house-republican-insider-trading-bill-ban-lawmaker-prediction-market",
-        "source": "crypto",
-        "time": "Fri, 19 Jun 2026 19:36:09 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "(How to Write a (Lisp) Interpreter (In Python))",
+        "url": "https://norvig.com/lispy.html",
+        "source": "hn",
+        "time": "6/21/2026, 3:36:33 PM"
+      },
       {
         "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
         "url": "https://www.beyondallreason.info",
@@ -48,22 +54,16 @@
         "time": "6/21/2026, 2:09:07 PM"
       },
       {
-        "title": "(How to Write a (Lisp) Interpreter (In Python))",
-        "url": "https://norvig.com/lispy.html",
-        "source": "hn",
-        "time": "6/21/2026, 3:36:33 PM"
-      },
-      {
-        "title": "The case against geometric algebra (2024)",
-        "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
-        "source": "hn",
-        "time": "6/21/2026, 11:06:55 AM"
-      },
-      {
         "title": "Commodore Made a Digital Detox Phone That Isn't Dumb",
         "url": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
         "source": "hn",
         "time": "6/18/2026, 4:12:21 PM"
+      },
+      {
+        "title": "System call instrumentation on Linux/x86‑64 using memory‑indirect calls, part I",
+        "url": "https://www.humprog.org/~stephen/blog/2026/06/15/#system-call-instrumentation-on-intel-negative-result",
+        "source": "hn",
+        "time": "6/17/2026, 7:03:59 AM"
       }
     ],
     "world": [
@@ -80,16 +80,16 @@
         "time": "Sun, 21 Jun 2026 15:05:03 GMT"
       },
       {
-        "title": "William marks 44th birthday as royals celebrate Father's Day",
-        "url": "https://www.bbc.com/news/articles/c9d2gzlze9po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 21 Jun 2026 12:13:53 GMT"
-      },
-      {
         "title": "Low-key funeral held for giant of the art world David Hockney",
         "url": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 21 Jun 2026 13:08:49 GMT"
+      },
+      {
+        "title": "William marks 44th birthday as royals celebrate Father's Day",
+        "url": "https://www.bbc.com/news/articles/c9d2gzlze9po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 21 Jun 2026 12:13:53 GMT"
       },
       {
         "title": "Stokes and Atkinson found 'blameless for violent conduct' as pair return to squad",
