@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-06-22T16:42:56.169Z",
-  "updated_local": "6/22/2026, 4:42:56 PM",
+  "updated_iso": "2026-06-22T17:33:50.089Z",
+  "updated_local": "6/22/2026, 5:33:50 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "The Studio Behind &#39;Ex Machina&#39; Is Now Researching AI With Google",
+        "url": "https://decrypt.co/371788/a24-ex-machina-now-researching-ai-google",
+        "source": "crypto",
+        "time": "Mon, 22 Jun 2026 17:29:24 +0000"
+      },
+      {
+        "title": "Bank of England Eases Stablecoin Rules, Swaps Holding Caps for £40B ‘Guardrail’",
+        "url": "https://decrypt.co/371783/bank-of-england-eases-stablecoin-rules-swaps-holding-caps-for-40b-guardrail",
+        "source": "crypto",
+        "time": "Mon, 22 Jun 2026 16:43:17 +0000"
+      },
       {
         "title": "Ethereum Layer-2 Taiko Warns Users to Withdraw Bridge Funds After Security Breach",
         "url": "https://decrypt.co/371769/ethereum-layer-2-taiko-withdraw-bridge-funds-security-breach",
@@ -20,38 +32,20 @@
         "url": "https://decrypt.co/371759/morning-minute-bitcoin-at-65000-as-iran-deal-wobbles",
         "source": "crypto",
         "time": "Mon, 22 Jun 2026 15:17:46 +0000"
-      },
-      {
-        "title": "Strategy Pads Cash Reserves to $1.4B After STRC&#39;s Stumble",
-        "url": "https://decrypt.co/371763/strategy-pads-cash-reserves-to-1-4b-after-strcs-stumble",
-        "source": "crypto",
-        "time": "Mon, 22 Jun 2026 14:55:32 +0000"
-      },
-      {
-        "title": "Bitcoin &#39;Resilient&#39; After Hawkish Fed, But No &#39;Return of Demand&#39;: Analysts",
-        "url": "https://decrypt.co/371760/bitcoin-resilient-after-hawkish-fed-but-no-return-of-demand-analysts",
-        "source": "crypto",
-        "time": "Mon, 22 Jun 2026 12:12:25 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Never Give Them Your Face",
-        "url": "https://nevergivethemyourface.com/",
-        "source": "hn",
-        "time": "6/22/2026, 1:45:48 PM"
-      },
-      {
-        "title": "Pledging Another $400k to the Zig Software Foundation",
-        "url": "https://mitchellh.com/writing/zig-donation-2026",
-        "source": "hn",
-        "time": "6/22/2026, 1:43:01 PM"
-      },
-      {
-        "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
+        "title": "The text in Claude Code’s “Extended Thinking” output",
         "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
         "source": "hn",
         "time": "6/22/2026, 2:22:46 PM"
+      },
+      {
+        "title": "National Science Foundation slashes basic science to fund new tech initiative",
+        "url": "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say",
+        "source": "hn",
+        "time": "6/22/2026, 4:25:02 PM"
       },
       {
         "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
@@ -64,20 +58,32 @@
         "url": "https://docs.deno.com/runtime/desktop/",
         "source": "hn",
         "time": "6/22/2026, 5:38:40 AM"
+      },
+      {
+        "title": "DisplayMate",
+        "url": "https://www.displaymate.com/",
+        "source": "hn",
+        "time": "6/22/2026, 4:45:52 PM"
       }
     ],
     "world": [
       {
+        "title": "Analysis: Everything points to Burnham becoming PM within weeks",
+        "url": "https://www.bbc.com/news/articles/c20y1zvg50lo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 22 Jun 2026 17:20:49 GMT"
+      },
+      {
         "title": "Why did Starmer resign and what could happen next?",
         "url": "https://www.bbc.com/news/articles/c0qyllvpkw8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 22 Jun 2026 14:09:50 GMT"
+        "time": "Mon, 22 Jun 2026 16:44:17 GMT"
       },
       {
         "title": "Starmer's premiership in six charts",
         "url": "https://www.bbc.com/news/articles/cp8p9qellmqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 22 Jun 2026 13:15:05 GMT"
+        "time": "Mon, 22 Jun 2026 17:04:12 GMT"
       },
       {
         "title": "Who is Andy Burnham? Ex-Manchester mayor who wants to lead the country",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/c621nnq4pm7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 22 Jun 2026 09:14:38 GMT"
-      },
-      {
-        "title": "Top lawyer whose 'Mr Rules' approach failed to connect with the public",
-        "url": "https://www.bbc.com/news/articles/cwygj95xrp9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 22 Jun 2026 10:34:41 GMT"
       }
     ],
     "projects": [
