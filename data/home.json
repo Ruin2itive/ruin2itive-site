@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-22T09:09:31.832Z",
-  "updated_local": "6/22/2026, 9:09:31 AM",
+  "updated_iso": "2026-06-22T10:56:46.728Z",
+  "updated_local": "6/22/2026, 10:56:46 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "$1.9M in Fake Bets Drove Polymarket Hype: WSJ",
+        "url": "https://decrypt.co/371756/1-9m-in-fake-bets-drove-polymarket-hype-wsj",
+        "source": "crypto",
+        "time": "Mon, 22 Jun 2026 10:53:16 +0000"
+      },
       {
         "title": "Inception Labs&#39; Mercury 2 AI Beats Google&#39;s DiffusionGemma at Its Own Game",
         "url": "https://decrypt.co/371722/inception-labs-mercury-2-ai-beats-googles-diffusiongemma",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/371702/bitcoin-network-activity-rising-btc-falls-50-percent-below-peak-price",
         "source": "crypto",
         "time": "Sat, 20 Jun 2026 14:59:51 +0000"
-      },
-      {
-        "title": "Charles Schwab Planning to Roll Out S&amp;#038;P 500 Prediction Markets With Cboe: WSJ",
-        "url": "https://decrypt.co/371708/charles-schwab-planning-sp-500-prediction-markets-cboe",
-        "source": "crypto",
-        "time": "Fri, 19 Jun 2026 20:02:32 +0000"
       }
     ],
     "hacker": [
@@ -40,18 +40,6 @@
         "url": "https://docs.deno.com/runtime/desktop/",
         "source": "hn",
         "time": "6/22/2026, 5:38:40 AM"
-      },
-      {
-        "title": "GLM 5.2 vs. Opus",
-        "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-        "source": "hn",
-        "time": "6/22/2026, 7:22:03 AM"
-      },
-      {
-        "title": "Codex logging bug may write TBs to local SSDs",
-        "url": "https://github.com/openai/codex/issues/28224",
-        "source": "hn",
-        "time": "6/22/2026, 7:30:17 AM"
       },
       {
         "title": "Help I accidentally a wigglegram",
@@ -64,38 +52,50 @@
         "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
         "source": "hn",
         "time": "6/21/2026, 9:40:53 PM"
+      },
+      {
+        "title": "Apertus – Open Foundation Model for Sovereign AI",
+        "url": "https://apertvs.ai/",
+        "source": "hn",
+        "time": "6/21/2026, 9:29:43 PM"
+      },
+      {
+        "title": "Munich 1991: The Roots of the Current AI Boom",
+        "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+        "source": "hn",
+        "time": "6/19/2026, 3:54:23 PM"
       }
     ],
     "world": [
       {
+        "title": "Watch and read Keir Starmer's resignation speech in full",
+        "url": "https://www.bbc.com/news/articles/c621nnq4pm7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 22 Jun 2026 09:14:38 GMT"
+      },
+      {
+        "title": "Top lawyer whose 'Mr Rules' approach failed to connect with the public",
+        "url": "https://www.bbc.com/news/articles/cwygj95xrp9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 22 Jun 2026 10:34:41 GMT"
+      },
+      {
         "title": "First round of US-Iran talks ends with encouraging progress, mediators say",
         "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 22 Jun 2026 08:27:33 GMT"
-      },
-      {
-        "title": "Four-day extreme heat warning begins as temperatures could hit 38C",
-        "url": "https://www.bbc.com/weather/articles/c932k0lewygo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 22 Jun 2026 00:09:09 GMT"
+        "time": "Mon, 22 Jun 2026 10:46:45 GMT"
       },
       {
         "title": "Paedophile nursery worker could have been stopped sooner, says former colleague",
         "url": "https://www.bbc.com/news/articles/c862jy76y21o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 22 Jun 2026 05:00:04 GMT"
+        "time": "Mon, 22 Jun 2026 09:24:12 GMT"
       },
       {
         "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
         "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 21 Jun 2026 23:57:59 GMT"
-      },
-      {
-        "title": "Hero ticket inspector hurt in crash helped others",
-        "url": "https://www.bbc.com/news/articles/c20y1n8y2z7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 22 Jun 2026 08:57:49 GMT"
       }
     ],
     "projects": [
