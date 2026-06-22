@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-22T21:41:54.582Z"
+    "built_at": "2026-06-22T22:32:37.008Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The database that refused to die: How Postgres survived its own creators",
+      "url": "https://www.theregister.com/databases/2026/06/22/the-database-that-refused-to-die-how-postgres-survived-its-own-creators/5259716",
+      "date": "2026-06-22T22:31:11.000Z"
+    },
+    {
+      "title": "The fake ABC News articles trying to sell you a scam",
+      "url": "https://www.abc.net.au/news/2026-06-23/fake-abc-website-scam-facebook-ads/106653690",
+      "date": "2026-06-22T22:30:49.000Z"
+    }
+  ]
 }
