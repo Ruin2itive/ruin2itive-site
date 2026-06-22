@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-22T09:59:53.993Z"
+    "built_at": "2026-06-22T12:07:35.154Z"
   },
-  "items": [
-    {
-      "title": "Founders OS – give your AI client your real business context, self-hosted",
-      "url": "https://github.com/OurThinkTank/founders-os",
-      "date": "2026-06-22T09:58:53.000Z"
-    },
-    {
-      "title": "How not to forget what matters",
-      "url": "https://www.henrikkarlsson.xyz/p/hypomnemata",
-      "date": "2026-06-22T09:58:27.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
