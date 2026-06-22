@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-22T12:07:35.154Z"
+    "built_at": "2026-06-22T14:53:22.183Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Weather Replay: your time machine to revisit past weather",
+      "url": "https://weather-replay.climate.copernicus.eu/",
+      "date": "2026-06-22T14:51:55.000Z"
+    },
+    {
+      "title": "Definiums LSD formula produces 'best data ever seen' in pivotal depression trial",
+      "url": "https://www.fiercebiotech.com/biotech/definiums-lsd-formula-produces-best-data-ever-seen-pivotal-depression-trial-ceo-says",
+      "date": "2026-06-22T14:50:37.000Z"
+    }
+  ]
 }
