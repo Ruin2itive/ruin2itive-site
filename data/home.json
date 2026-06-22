@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-22T18:27:50.035Z",
-  "updated_local": "6/22/2026, 6:27:50 PM",
+  "updated_iso": "2026-06-22T19:08:21.613Z",
+  "updated_local": "6/22/2026, 7:08:21 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Crypto Industry Urges Congress to Pass Tax Bill—But Will It Happen This Year?",
+        "url": "https://decrypt.co/371804/crypto-industry-urges-congress-pass-tax-bill",
+        "source": "crypto",
+        "time": "Mon, 22 Jun 2026 18:53:56 +0000"
+      },
       {
         "title": "Ethereum MEV Bot JaredFromSubway Threatens Legal Action After $7.5 Million Loss",
         "url": "https://decrypt.co/371787/ethereum-mev-bot-jaredfromsubway-legal-action-7-5-million-attack",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/371783/bank-of-england-eases-stablecoin-rules-swaps-holding-caps-for-40b-guardrail",
         "source": "crypto",
         "time": "Mon, 22 Jun 2026 16:43:17 +0000"
-      },
-      {
-        "title": "Ethereum Layer-2 Taiko Warns Users to Withdraw Bridge Funds After Security Breach",
-        "url": "https://decrypt.co/371769/ethereum-layer-2-taiko-withdraw-bridge-funds-security-breach",
-        "source": "crypto",
-        "time": "Mon, 22 Jun 2026 15:31:03 +0000"
       }
     ],
     "hacker": [
@@ -60,10 +60,10 @@
         "time": "6/22/2026, 3:37:48 PM"
       },
       {
-        "title": "Prompt Injection as Role Confusion",
-        "url": "https://role-confusion.github.io",
+        "title": "My Mathematical Regression",
+        "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
         "source": "hn",
-        "time": "6/22/2026, 3:48:55 PM"
+        "time": "6/19/2026, 11:06:04 AM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.com/news/articles/c20y1zvg50lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 22 Jun 2026 17:20:49 GMT"
+      },
+      {
+        "title": "Watch: A day of big changes and mixed emotions for Labour",
+        "url": "https://www.bbc.com/news/videos/cze9rj6d7rgo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 22 Jun 2026 18:26:07 GMT"
       },
       {
         "title": "Why did Starmer resign and what could happen next?",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 22 Jun 2026 13:54:20 GMT"
-      },
-      {
-        "title": "Watch and read Starmer's resignation speech in full",
-        "url": "https://www.bbc.com/news/articles/c621nnq4pm7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 22 Jun 2026 09:14:38 GMT"
       }
     ],
     "projects": [
