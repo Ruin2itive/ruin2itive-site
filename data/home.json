@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-22T06:01:58.620Z",
-  "updated_local": "6/22/2026, 6:01:58 AM",
+  "updated_iso": "2026-06-22T08:05:23.934Z",
+  "updated_local": "6/22/2026, 8:05:23 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "Did my old job only exist because of fraud?",
-        "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+        "title": "Deno Desktop",
+        "url": "https://docs.deno.com/runtime/desktop/",
         "source": "hn",
-        "time": "6/21/2026, 9:40:53 PM"
+        "time": "6/22/2026, 5:38:40 AM"
+      },
+      {
+        "title": "GLM 5.2 vs. Opus",
+        "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+        "source": "hn",
+        "time": "6/22/2026, 7:22:03 AM"
+      },
+      {
+        "title": "Codex logging bug may write TBs to local SSDs",
+        "url": "https://github.com/openai/codex/issues/28224",
+        "source": "hn",
+        "time": "6/22/2026, 7:30:17 AM"
       },
       {
         "title": "Help I accidentally a wigglegram",
@@ -48,22 +60,10 @@
         "time": "6/20/2026, 1:55:16 AM"
       },
       {
-        "title": "Apertus – Open Foundation Model for Sovereign AI",
-        "url": "https://apertvs.ai/",
+        "title": "Did my old job only exist because of fraud?",
+        "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
         "source": "hn",
-        "time": "6/21/2026, 9:29:43 PM"
-      },
-      {
-        "title": "Danish privacy activist Lars Andersen raided by police",
-        "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
-        "source": "hn",
-        "time": "6/22/2026, 4:50:26 AM"
-      },
-      {
-        "title": "There is minimal downside to switching to open models",
-        "url": "https://www.marble.onl/posts/cancel_claude.html",
-        "source": "hn",
-        "time": "6/21/2026, 8:56:01 PM"
+        "time": "6/21/2026, 9:40:53 PM"
       }
     ],
     "world": [
@@ -74,10 +74,10 @@
         "time": "Mon, 22 Jun 2026 01:40:10 GMT"
       },
       {
-        "title": "First round of US-Iran talks ends with 'encouraging progress', mediators say",
+        "title": "First round of US-Iran talks ends with encouraging progress, mediators say",
         "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 22 Jun 2026 04:45:26 GMT"
+        "time": "Mon, 22 Jun 2026 07:43:07 GMT"
       },
       {
         "title": "Four-day extreme heat warning begins as temperatures could hit 38C",
@@ -92,10 +92,10 @@
         "time": "Mon, 22 Jun 2026 05:00:04 GMT"
       },
       {
-        "title": "Trump-backed political outsider wins Colombia election, initial count shows",
-        "url": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+        "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 22 Jun 2026 03:31:40 GMT"
+        "time": "Sun, 21 Jun 2026 23:57:59 GMT"
       }
     ],
     "projects": [
