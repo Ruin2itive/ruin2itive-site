@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-22T13:01:28.735Z",
-  "updated_local": "6/22/2026, 1:01:28 PM",
+  "updated_iso": "2026-06-22T15:00:03.745Z",
+  "updated_local": "6/22/2026, 3:00:03 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Strategy Pads Cash Reserves to $1.4B After STRC&#39;s Stumble",
+        "url": "https://decrypt.co/371763/strategy-pads-cash-reserves-to-1-4b-after-strcs-stumble",
+        "source": "crypto",
+        "time": "Mon, 22 Jun 2026 14:55:32 +0000"
+      },
       {
         "title": "Bitcoin &#39;Resilient&#39; After Hawkish Fed, But No &#39;Return of Demand&#39;: Analysts",
         "url": "https://decrypt.co/371760/bitcoin-resilient-after-hawkish-fed-but-no-return-of-demand-analysts",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study",
         "source": "crypto",
         "time": "Sun, 21 Jun 2026 13:01:03 +0000"
-      },
-      {
-        "title": "OpenRouter&#39;s Fusion Promises Claude Fable-Level AI for Cheap—Right as Fable 5 Goes Dark",
-        "url": "https://decrypt.co/371711/openrouter-fusion-claude-fable-level-ai-cheap",
-        "source": "crypto",
-        "time": "Sat, 20 Jun 2026 18:01:04 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Pledging Another $400k to the Zig Software Foundation",
+        "url": "https://mitchellh.com/writing/zig-donation-2026",
+        "source": "hn",
+        "time": "6/22/2026, 1:43:01 PM"
+      },
+      {
+        "title": "Never Give Them Your Face",
+        "url": "https://nevergivethemyourface.com/",
+        "source": "hn",
+        "time": "6/22/2026, 1:45:48 PM"
+      },
       {
         "title": "Deno Desktop",
         "url": "https://docs.deno.com/runtime/desktop/",
@@ -42,28 +54,16 @@
         "time": "6/22/2026, 5:38:40 AM"
       },
       {
+        "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
+        "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+        "source": "hn",
+        "time": "6/22/2026, 2:22:46 PM"
+      },
+      {
         "title": "GLM 5.2 vs. Opus",
         "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
         "source": "hn",
         "time": "6/22/2026, 7:22:03 AM"
-      },
-      {
-        "title": "Codex logging bug may write TBs to local SSDs",
-        "url": "https://github.com/openai/codex/issues/28224",
-        "source": "hn",
-        "time": "6/22/2026, 7:30:17 AM"
-      },
-      {
-        "title": "Help I accidentally a wigglegram",
-        "url": "https://lmao.center/blog/wiggle-accidents/",
-        "source": "hn",
-        "time": "6/20/2026, 1:55:16 AM"
-      },
-      {
-        "title": "Did my old job only exist because of fraud?",
-        "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-        "source": "hn",
-        "time": "6/21/2026, 9:40:53 PM"
       }
     ],
     "world": [
@@ -71,7 +71,19 @@
         "title": "Why did Starmer resign and what could happen next?",
         "url": "https://www.bbc.com/news/articles/c0qyllvpkw8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 22 Jun 2026 12:18:31 GMT"
+        "time": "Mon, 22 Jun 2026 14:09:50 GMT"
+      },
+      {
+        "title": "Starmer's premiership in six charts",
+        "url": "https://www.bbc.com/news/articles/cp8p9qellmqo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 22 Jun 2026 13:15:05 GMT"
+      },
+      {
+        "title": "Who is Andy Burnham? Ex-Manchester mayor who wants to lead the country",
+        "url": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 22 Jun 2026 13:54:20 GMT"
       },
       {
         "title": "Watch and read Starmer's resignation speech in full",
@@ -84,18 +96,6 @@
         "url": "https://www.bbc.com/news/articles/cwygj95xrp9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 22 Jun 2026 10:34:41 GMT"
-      },
-      {
-        "title": "Who is Andy Burnham? Ex-Manchester mayor who wants to lead the country",
-        "url": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 22 Jun 2026 11:04:28 GMT"
-      },
-      {
-        "title": "First round of US-Iran talks ends with encouraging progress, mediators say",
-        "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 22 Jun 2026 10:46:45 GMT"
       }
     ],
     "projects": [
