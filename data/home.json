@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-23T18:53:19.308Z",
-  "updated_local": "6/23/2026, 6:53:19 PM",
+  "updated_iso": "2026-06-23T19:37:57.564Z",
+  "updated_local": "6/23/2026, 7:37:57 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI&#39;s GPT-5.5 Cyber AI Beats Anthropic&#39;s Banned Mythos Model—And Nobody&#39;s Shutting It Down",
+        "url": "https://decrypt.co/371900/openai-gpt-5-5-cyber-ai-beats-anthropic-banned-claude-mythos",
+        "source": "crypto",
+        "time": "Tue, 23 Jun 2026 18:59:26 +0000"
+      },
       {
         "title": "AI Agent Triggers Nuclear Strike After Getting Outmaneuvered in Civilization VI",
         "url": "https://decrypt.co/371877/ai-agent-nuclear-strike-civilization-vi-benchmark",
@@ -26,33 +32,9 @@
         "url": "https://decrypt.co/371864/ethereum-foundation-cuts-20-of-workforce-in-leaner-reorganization",
         "source": "crypto",
         "time": "Tue, 23 Jun 2026 15:19:46 +0000"
-      },
-      {
-        "title": "Thailand Expands Crypto Mining Probe Into $300M Chinese Laundering Network",
-        "url": "https://decrypt.co/371854/thailand-expands-crypto-mining-probe-into-300m-chinese-laundering-network",
-        "source": "crypto",
-        "time": "Tue, 23 Jun 2026 13:40:47 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "F3",
-        "url": "https://github.com/future-file-format/f3",
-        "source": "hn",
-        "time": "6/23/2026, 4:53:32 PM"
-      },
-      {
-        "title": "San Diego photologs from the 1970s",
-        "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
-        "source": "hn",
-        "time": "6/23/2026, 4:55:26 PM"
-      },
-      {
-        "title": "Swift Package Index Joins Apple",
-        "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-        "source": "hn",
-        "time": "6/23/2026, 6:00:58 PM"
-      },
       {
         "title": "Jerry's Map",
         "url": "http://www.jerrysmap.com/the-map",
@@ -60,13 +42,37 @@
         "time": "6/23/2026, 6:40:22 PM"
       },
       {
+        "title": "Swift Package Index joins Apple",
+        "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+        "source": "hn",
+        "time": "6/23/2026, 6:00:58 PM"
+      },
+      {
+        "title": "F3",
+        "url": "https://github.com/future-file-format/f3",
+        "source": "hn",
+        "time": "6/23/2026, 4:53:32 PM"
+      },
+      {
         "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
         "url": "https://tikz.dev/editor/",
         "source": "hn",
         "time": "6/23/2026, 2:24:21 PM"
+      },
+      {
+        "title": "Unlimited OCR: One-shot long-horizon parsing",
+        "url": "https://github.com/baidu/Unlimited-OCR",
+        "source": "hn",
+        "time": "6/23/2026, 11:35:05 AM"
       }
     ],
     "world": [
+      {
+        "title": "Who are the Ghana players England should look out for?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cz75wypyq1ro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 23 Jun 2026 13:09:46 GMT"
+      },
       {
         "title": "From cool-down spots to chalk on windows - how Europe is coping with the heat",
         "url": "https://www.bbc.co.uk/news/articles/cz0j87vpz79o?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 23 Jun 2026 14:55:31 GMT"
-      },
-      {
-        "title": "Teen boy arrested on suspicion of murder after 14-year-old girl reported missing",
-        "url": "https://www.bbc.co.uk/news/articles/cj9gzjn2rk0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 23 Jun 2026 16:18:03 GMT"
       }
     ],
     "projects": [
