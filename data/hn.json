@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-23T16:47:27.270Z"
+    "built_at": "2026-06-23T17:34:17.719Z"
   },
-  "items": [
-    {
-      "title": "Why someone switched from Wiki.js to my Go wiki and started sponsoring it",
-      "url": "https://leafwiki.com/blog/a-beer-a-go-binary-and-a-wiki/",
-      "date": "2026-06-23T16:46:52.000Z"
-    },
-    {
-      "title": "Backblaze Announces Five-Year Multi-Exabyte Agreement with CoreWeave",
-      "url": "https://www.businesswire.com/news/home/20260622788628/en/Backblaze-Announces-Five-Year-Multi-Exabyte-Data-Storage-Agreement-with-CoreWeave",
-      "date": "2026-06-23T16:45:50.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
