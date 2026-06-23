@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-23T07:18:13.493Z",
-  "updated_local": "6/23/2026, 7:18:13 AM",
+  "updated_iso": "2026-06-23T07:29:26.428Z",
+  "updated_local": "6/23/2026, 7:29:26 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Steam Machine launches today",
+        "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+        "source": "hn",
+        "time": "6/22/2026, 5:09:51 PM"
+      },
+      {
         "title": "Will It Mythos?",
         "url": "https://swelljoe.com/post/will-it-mythos/",
         "source": "hn",
         "time": "6/23/2026, 4:15:04 AM"
       },
       {
-        "title": "Steam Machine launches today",
-        "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+        "title": "The new HTTP QUERY method explained",
+        "url": "https://kreya.app/blog/new-http-query-method-explained/",
         "source": "hn",
-        "time": "6/22/2026, 5:09:51 PM"
+        "time": "6/23/2026, 6:05:37 AM"
       },
       {
         "title": "GLM-5.2 – How to Run Locally",
@@ -58,12 +64,6 @@
         "url": "https://arxiv.org/abs/2606.16140",
         "source": "hn",
         "time": "6/23/2026, 2:01:25 AM"
-      },
-      {
-        "title": "Polymarket has flooded social media with deceptive videos by paid creators",
-        "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
-        "source": "hn",
-        "time": "6/21/2026, 1:12:21 AM"
       }
     ],
     "world": [
@@ -86,7 +86,7 @@
         "time": "Mon, 22 Jun 2026 23:44:41 GMT"
       },
       {
-        "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+        "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
         "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 23 Jun 2026 05:39:17 GMT"
