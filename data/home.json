@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-23T05:31:02.118Z",
-  "updated_local": "6/23/2026, 5:31:02 AM",
+  "updated_iso": "2026-06-23T07:18:13.493Z",
+  "updated_local": "6/23/2026, 7:18:13 AM",
   "sections": {
     "crypto": [
       {
@@ -48,16 +48,16 @@
         "time": "6/22/2026, 5:09:51 PM"
       },
       {
-        "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
-        "url": "https://arxiv.org/abs/2606.16140",
-        "source": "hn",
-        "time": "6/23/2026, 2:01:25 AM"
-      },
-      {
         "title": "GLM-5.2 – How to Run Locally",
         "url": "https://unsloth.ai/docs/models/glm-5.2",
         "source": "hn",
         "time": "6/22/2026, 9:21:01 PM"
+      },
+      {
+        "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+        "url": "https://arxiv.org/abs/2606.16140",
+        "source": "hn",
+        "time": "6/23/2026, 2:01:25 AM"
       },
       {
         "title": "Polymarket has flooded social media with deceptive videos by paid creators",
@@ -68,22 +68,10 @@
     ],
     "world": [
       {
-        "title": "Labour MPs mull leadership challenge to prevent Burnham 'coronation'",
-        "url": "https://www.bbc.com/news/articles/cx2kqd9ver1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 23 Jun 2026 02:57:05 GMT"
-      },
-      {
         "title": "Chris Mason: Questions multiply for the man tipped to replace Starmer",
         "url": "https://www.bbc.com/news/articles/cn8k4kyrdn5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 22 Jun 2026 22:43:29 GMT"
-      },
-      {
-        "title": "UK set for hottest June day on record as searing heat continues",
-        "url": "https://www.bbc.com/weather/articles/c0myl4d3l0no?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 22 Jun 2026 23:03:59 GMT"
       },
       {
         "title": "Can you refuse to work or send your kids to school during a heatwave?",
@@ -96,6 +84,18 @@
         "url": "https://www.bbc.com/news/articles/ce8mzd94r76o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 22 Jun 2026 23:44:41 GMT"
+      },
+      {
+        "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+        "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 23 Jun 2026 05:39:17 GMT"
+      },
+      {
+        "title": "Is watching England in the World Cup bad for your health?",
+        "url": "https://www.bbc.com/news/articles/cgjxy199d9do?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 23 Jun 2026 04:30:14 GMT"
       }
     ],
     "projects": [
