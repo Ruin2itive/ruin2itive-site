@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-23T16:57:40.328Z",
-  "updated_local": "6/23/2026, 4:57:40 PM",
+  "updated_iso": "2026-06-23T17:36:47.559Z",
+  "updated_local": "6/23/2026, 5:36:47 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "A New OpenClaw Competitor: ToqanClaw Promises Privacy in AI Agent Race",
+        "url": "https://decrypt.co/371869/toqanclaw-openclaw-competitor-privacy-gdpr",
+        "source": "crypto",
+        "time": "Tue, 23 Jun 2026 17:06:52 +0000"
+      },
       {
         "title": "Bitcoin Tests Two-Week Low at $62K as Tech Stocks Waver on Wall Street",
         "url": "https://decrypt.co/371867/bitcoin-tests-two-week-low-at-62k-as-tech-stocks-waver-on-wall-street",
@@ -26,20 +32,26 @@
         "url": "https://decrypt.co/371851/morning-minute-fomos-75m-raise-shows-big-vcs-are-still-betting-on-consumer-crypto",
         "source": "crypto",
         "time": "Tue, 23 Jun 2026 12:23:09 +0000"
-      },
-      {
-        "title": "US Senate Passes Housing Bill With Four-Year Fed CBDC Ban",
-        "url": "https://decrypt.co/371848/us-senate-passes-housing-bill-with-four-year-fed-cbdc-ban",
-        "source": "crypto",
-        "time": "Tue, 23 Jun 2026 10:23:30 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "F3",
+        "url": "https://github.com/future-file-format/f3",
+        "source": "hn",
+        "time": "6/23/2026, 4:53:32 PM"
+      },
       {
         "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
         "url": "https://tikz.dev/editor/",
         "source": "hn",
         "time": "6/23/2026, 2:24:21 PM"
+      },
+      {
+        "title": "Elevated error rate across multiple models",
+        "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+        "source": "hn",
+        "time": "6/23/2026, 2:19:47 PM"
       },
       {
         "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
@@ -52,18 +64,6 @@
         "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
         "source": "hn",
         "time": "6/23/2026, 2:04:43 PM"
-      },
-      {
-        "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
-        "url": "https://lift4d.github.io/",
-        "source": "hn",
-        "time": "6/23/2026, 2:40:17 PM"
-      },
-      {
-        "title": "Five monitors on a Commodore 128 [video]",
-        "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
-        "source": "hn",
-        "time": "6/22/2026, 6:39:22 PM"
       }
     ],
     "world": [
