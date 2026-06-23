@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-23T05:19:26.732Z"
+    "built_at": "2026-06-23T07:11:22.601Z"
   },
-  "items": [
-    {
-      "title": "What do you think it work best Reddit vs. X",
-      "url": "https://news.ycombinator.com/item?id=48640586",
-      "date": "2026-06-23T05:13:13.000Z"
-    },
-    {
-      "title": "Sam Altman Movie 'Artificial' Dropped by Amazon After OpenAI Partnership",
-      "url": "https://variety.com/2026/film/global/luca-guadagnino-sam-altman-movie-artificial-dropped-amazon-1236785830/",
-      "date": "2026-06-23T05:13:10.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
