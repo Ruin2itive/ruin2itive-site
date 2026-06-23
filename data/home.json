@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-23T11:11:06.393Z",
-  "updated_local": "6/23/2026, 11:11:06 AM",
+  "updated_iso": "2026-06-23T13:00:29.543Z",
+  "updated_local": "6/23/2026, 1:00:29 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Fomo&#39;s $75M Raise Shows Big VCs Are Still Betting on Consumer Crypto",
+        "url": "https://decrypt.co/371851/morning-minute-fomos-75m-raise-shows-big-vcs-are-still-betting-on-consumer-crypto",
+        "source": "crypto",
+        "time": "Tue, 23 Jun 2026 12:23:09 +0000"
+      },
       {
         "title": "US Senate Passes Housing Bill With Four-Year Fed CBDC Ban",
         "url": "https://decrypt.co/371848/us-senate-passes-housing-bill-with-four-year-fed-cbdc-ban",
@@ -26,32 +32,26 @@
         "url": "https://decrypt.co/371807/trump-quantum-orders-accelerate-security-bitcoin-faces-risk",
         "source": "crypto",
         "time": "Mon, 22 Jun 2026 19:57:54 +0000"
-      },
-      {
-        "title": "Google Warns AI Consciousness Debate Could Become a Political Battleground",
-        "url": "https://decrypt.co/371800/google-ai-consciousness-debate-political",
-        "source": "crypto",
-        "time": "Mon, 22 Jun 2026 19:30:44 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+        "url": "https://github.com/baidu/Unlimited-OCR",
+        "source": "hn",
+        "time": "6/23/2026, 11:35:05 AM"
+      },
+      {
+        "title": "The Coming Loop",
+        "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+        "source": "hn",
+        "time": "6/23/2026, 11:06:41 AM"
+      },
       {
         "title": "Steam Machine launches today",
         "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
         "source": "hn",
         "time": "6/22/2026, 5:09:51 PM"
-      },
-      {
-        "title": "The new HTTP QUERY method explained",
-        "url": "https://kreya.app/blog/new-http-query-method-explained/",
-        "source": "hn",
-        "time": "6/23/2026, 6:05:37 AM"
-      },
-      {
-        "title": "Crypto in 2026: Oh, This Is the Bad Place",
-        "url": "https://www.stephendiehl.com/posts/bad_place_2026/",
-        "source": "hn",
-        "time": "6/23/2026, 10:04:04 AM"
       },
       {
         "title": "Plotnine",
@@ -60,10 +60,10 @@
         "time": "6/19/2026, 9:08:00 AM"
       },
       {
-        "title": "Polymarket has flooded social media with deceptive videos by paid creators",
-        "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+        "title": "Will It Mythos?",
+        "url": "https://swelljoe.com/post/will-it-mythos/",
         "source": "hn",
-        "time": "6/21/2026, 1:12:21 AM"
+        "time": "6/23/2026, 4:15:04 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Tue, 23 Jun 2026 09:58:41 GMT"
       },
       {
-        "title": "Is watching football bad for your health? I tested my body to find out",
-        "url": "https://www.bbc.co.uk/news/articles/cgjxy199d9do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Peter Murrell jailed for more than five years for embezzling SNP funds",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzlqv4dyeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 23 Jun 2026 04:30:14 GMT"
+        "time": "Tue, 23 Jun 2026 12:29:11 GMT"
+      },
+      {
+        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
+        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 23 Jun 2026 11:10:06 GMT"
       },
       {
         "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
         "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 23 Jun 2026 05:39:17 GMT"
+        "time": "Tue, 23 Jun 2026 12:14:58 GMT"
       },
       {
-        "title": "Murder investigation after 14-year-old girl reported missing",
-        "url": "https://www.bbc.co.uk/news/articles/cj9gzjn2rk0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Farage says £5m gift spending details 'not public's business'",
+        "url": "https://www.bbc.co.uk/news/articles/cn0vx2edk0vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 23 Jun 2026 11:04:19 GMT"
-      },
-      {
-        "title": "Ashley Cain says he's 'not proud' of sexist language",
-        "url": "https://www.bbc.co.uk/news/articles/c3wynw8znl1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 23 Jun 2026 08:37:56 GMT"
+        "time": "Tue, 23 Jun 2026 11:42:34 GMT"
       }
     ],
     "projects": [
