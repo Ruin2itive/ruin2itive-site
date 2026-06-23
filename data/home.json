@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-23T13:12:56.406Z",
-  "updated_local": "6/23/2026, 1:12:56 PM",
+  "updated_iso": "2026-06-23T15:03:04.623Z",
+  "updated_local": "6/23/2026, 3:03:04 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Thailand Expands Crypto Mining Probe Into $300M Chinese Laundering Network",
+        "url": "https://decrypt.co/371854/thailand-expands-crypto-mining-probe-into-300m-chinese-laundering-network",
+        "source": "crypto",
+        "time": "Tue, 23 Jun 2026 13:40:47 +0000"
+      },
       {
         "title": "Morning Minute: Fomo&#39;s $75M Raise Shows Big VCs Are Still Betting on Consumer Crypto",
         "url": "https://decrypt.co/371851/morning-minute-fomos-75m-raise-shows-big-vcs-are-still-betting-on-consumer-crypto",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/371811/bitmine-sharplink-joe-lubin-ethereum-research-lab-ethlabs",
         "source": "crypto",
         "time": "Mon, 22 Jun 2026 20:12:31 +0000"
-      },
-      {
-        "title": "Trump Orders Acceleration of Quantum Readiness as Bitcoin Faces Coming Risk",
-        "url": "https://decrypt.co/371807/trump-quantum-orders-accelerate-security-bitcoin-faces-risk",
-        "source": "crypto",
-        "time": "Mon, 22 Jun 2026 19:57:54 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "6/23/2026, 11:35:05 AM"
       },
       {
-        "title": "The Coming Loop",
-        "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+        "title": "Elevated error rate across multiple models",
+        "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
         "source": "hn",
-        "time": "6/23/2026, 11:06:41 AM"
+        "time": "6/23/2026, 2:19:47 PM"
+      },
+      {
+        "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+        "url": "https://tikz.dev/editor/",
+        "source": "hn",
+        "time": "6/23/2026, 2:24:21 PM"
+      },
+      {
+        "title": "Spying on kids to save kids from spying is stupid",
+        "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+        "source": "hn",
+        "time": "6/23/2026, 2:04:43 PM"
       },
       {
         "title": "Steam Machine launches today",
         "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
         "source": "hn",
         "time": "6/22/2026, 5:09:51 PM"
-      },
-      {
-        "title": "Plotnine",
-        "url": "https://plotnine.org/",
-        "source": "hn",
-        "time": "6/19/2026, 9:08:00 AM"
-      },
-      {
-        "title": "Will It Mythos?",
-        "url": "https://swelljoe.com/post/will-it-mythos/",
-        "source": "hn",
-        "time": "6/23/2026, 4:15:04 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Tue, 23 Jun 2026 09:58:41 GMT"
       },
       {
-        "title": "Peter Murrell jailed for more than five years for embezzling SNP funds",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzlqv4dyeo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 23 Jun 2026 12:29:11 GMT"
-      },
-      {
         "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
         "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 23 Jun 2026 11:10:06 GMT"
       },
       {
+        "title": "Peter Murrell jailed for more than five years for embezzling SNP funds",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzlqv4dyeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 23 Jun 2026 12:29:11 GMT"
+      },
+      {
+        "title": "Stop pretending EU's new border system is working, says airports chief",
+        "url": "https://www.bbc.co.uk/news/articles/cn4rlzrdj14o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 23 Jun 2026 13:39:36 GMT"
+      },
+      {
         "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
         "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 23 Jun 2026 12:14:58 GMT"
-      },
-      {
-        "title": "Farage says £5m gift spending details 'not public's business'",
-        "url": "https://www.bbc.co.uk/news/articles/cn0vx2edk0vo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 23 Jun 2026 13:09:43 GMT"
       }
     ],
     "projects": [
