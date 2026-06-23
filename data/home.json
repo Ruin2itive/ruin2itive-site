@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-23T19:43:02.357Z",
-  "updated_local": "6/23/2026, 7:43:02 PM",
+  "updated_iso": "2026-06-23T20:45:32.126Z",
+  "updated_local": "6/23/2026, 8:45:32 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Mark Zuckerberg Wants a Prediction Market Too: NYT",
+        "url": "https://decrypt.co/371911/mark-zuckerberg-meta-prediction-market",
+        "source": "crypto",
+        "time": "Tue, 23 Jun 2026 20:13:35 +0000"
+      },
       {
         "title": "OpenAI&#39;s GPT-5.5 Cyber AI Beats Anthropic&#39;s Banned Mythos Model—And Nobody&#39;s Shutting It Down",
         "url": "https://decrypt.co/371900/openai-gpt-5-5-cyber-ai-beats-anthropic-banned-claude-mythos",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/371867/bitcoin-tests-two-week-low-at-62k-as-tech-stocks-waver-on-wall-street",
         "source": "crypto",
         "time": "Tue, 23 Jun 2026 15:54:07 +0000"
-      },
-      {
-        "title": "Ethereum Foundation Cuts 20% of Workforce in &#39;Leaner&#39; Reorganization",
-        "url": "https://decrypt.co/371864/ethereum-foundation-cuts-20-of-workforce-in-leaner-reorganization",
-        "source": "crypto",
-        "time": "Tue, 23 Jun 2026 15:19:46 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "6/23/2026, 6:40:22 PM"
       },
       {
+        "title": "Anthropic updates their terms to verify age or identity",
+        "url": "https://www.anthropic.com/legal/privacy",
+        "source": "hn",
+        "time": "6/23/2026, 7:45:07 PM"
+      },
+      {
         "title": "Swift Package Index joins Apple",
         "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
         "source": "hn",
         "time": "6/23/2026, 6:00:58 PM"
-      },
-      {
-        "title": "F3",
-        "url": "https://github.com/future-file-format/f3",
-        "source": "hn",
-        "time": "6/23/2026, 4:53:32 PM"
       },
       {
         "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
@@ -60,18 +60,18 @@
         "time": "6/23/2026, 2:24:21 PM"
       },
       {
-        "title": "Unlimited OCR: One-shot long-horizon parsing",
-        "url": "https://github.com/baidu/Unlimited-OCR",
+        "title": "F3",
+        "url": "https://github.com/future-file-format/f3",
         "source": "hn",
-        "time": "6/23/2026, 11:35:05 AM"
+        "time": "6/23/2026, 4:53:32 PM"
       }
     ],
     "world": [
       {
-        "title": "Who are the Ghana players England should look out for?",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cz75wypyq1ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hundreds of schools plan closures ahead of red heat alerts",
+        "url": "https://www.bbc.co.uk/news/articles/cwyl940y94xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 23 Jun 2026 13:09:46 GMT"
+        "time": "Tue, 23 Jun 2026 20:16:24 GMT"
       },
       {
         "title": "From cool-down spots to chalk on windows - how Europe is coping with the heat",
@@ -92,10 +92,10 @@
         "time": "Tue, 23 Jun 2026 12:29:11 GMT"
       },
       {
-        "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
-        "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+        "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 23 Jun 2026 14:55:31 GMT"
+        "time": "Tue, 23 Jun 2026 20:01:32 GMT"
       }
     ],
     "projects": [
