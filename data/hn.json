@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-23T18:39:24.222Z"
+    "built_at": "2026-06-23T20:41:41.198Z"
   },
-  "items": [
-    {
-      "title": "Modal Auto Endpoints: Optimized inference you own",
-      "url": "https://modal.com/blog/introducing-auto-endpoints",
-      "date": "2026-06-23T18:35:50.000Z"
-    },
-    {
-      "title": "Walmart, in Biggest Deal in Two Years, Buys Advertising Tech Firm",
-      "url": "https://www.wsj.com/business/retail/walmart-in-biggest-deal-in-two-years-buys-advertising-tech-firm-ccd6c03b",
-      "date": "2026-06-23T18:35:30.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
