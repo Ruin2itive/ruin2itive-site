@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-23T21:32:11.611Z"
+    "built_at": "2026-06-23T23:23:41.884Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Building a Western gallium supply chain beyond China's reach",
+      "url": "https://wpintelligence.washingtonpost.com/topics/energy-climate/2026/06/17/gallium-gamble-building-western-supply-chain-beyond-chinas-reach/",
+      "date": "2026-06-23T23:21:58.000Z"
+    },
+    {
+      "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
+      "url": "https://github.com/decrazyo/anes",
+      "date": "2026-06-23T23:21:35.000Z"
+    }
+  ]
 }
