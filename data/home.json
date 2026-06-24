@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-24T07:25:37.155Z",
-  "updated_local": "6/24/2026, 7:25:37 AM",
+  "updated_iso": "2026-06-24T09:09:03.673Z",
+  "updated_local": "6/24/2026, 9:09:03 AM",
   "sections": {
     "crypto": [
       {
@@ -42,36 +42,48 @@
         "time": "6/23/2026, 11:42:46 PM"
       },
       {
-        "title": "Jerry's Map",
-        "url": "http://www.jerrysmap.com/the-map",
-        "source": "hn",
-        "time": "6/23/2026, 6:40:22 PM"
-      },
-      {
         "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
         "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
         "source": "hn",
         "time": "6/24/2026, 3:17:47 AM"
       },
       {
-        "title": "FUTO Swipe – A new swipe typing model",
-        "url": "https://swipe.futo.tech/",
+        "title": "Why eval startups fail (2025)",
+        "url": "https://thomasliao.com/eval-startups",
         "source": "hn",
-        "time": "6/23/2026, 5:50:22 PM"
+        "time": "6/22/2026, 11:20:53 PM"
       },
       {
-        "title": "Qwen-AgentWorld: Language World Models for General Agents",
-        "url": "https://arxiv.org/abs/2606.24597",
+        "title": "Show HN: An ASCII 3D Rendering Engine",
+        "url": "https://glyphcss.com",
         "source": "hn",
-        "time": "6/24/2026, 2:21:47 AM"
+        "time": "6/20/2026, 7:10:41 PM"
+      },
+      {
+        "title": "Jerry's Map",
+        "url": "http://www.jerrysmap.com/the-map",
+        "source": "hn",
+        "time": "6/23/2026, 6:40:22 PM"
       }
     ],
     "world": [
       {
-        "title": "Burnham likely to replace Reeves if he becomes PM",
+        "title": "Earlier and stronger heatwaves: How hot could UK summers get?",
+        "url": "https://www.bbc.co.uk/news/articles/c9d2xl3555xo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 23 Jun 2026 23:46:03 GMT"
+      },
+      {
+        "title": "Burnham likely to replace Reeves as chancellor if he becomes PM",
         "url": "https://www.bbc.co.uk/news/articles/cwyl91qlyr1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 24 Jun 2026 05:26:21 GMT"
+        "time": "Wed, 24 Jun 2026 08:20:26 GMT"
+      },
+      {
+        "title": "Families call for justice ahead of landmark maternity review publication",
+        "url": "https://www.bbc.co.uk/news/articles/c8e2xrke8l5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 24 Jun 2026 08:57:09 GMT"
       },
       {
         "title": "England handed reality check by Ghana but remain in strong position after 0-0 draw",
@@ -80,22 +92,10 @@
         "time": "Wed, 24 Jun 2026 00:53:27 GMT"
       },
       {
-        "title": "'They were very passive' - England fans lament Ghana draw",
-        "url": "https://www.bbc.co.uk/news/videos/cyv0665djvjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Police took eight minutes to find Henry Nowak's fatal stab wound",
+        "url": "https://www.bbc.co.uk/news/articles/cx2v02r105jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 24 Jun 2026 04:14:03 GMT"
-      },
-      {
-        "title": "Earlier and stronger heatwaves: How hot could UK summers get?",
-        "url": "https://www.bbc.co.uk/news/articles/c9d2xl3555xo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 23 Jun 2026 23:46:03 GMT"
-      },
-      {
-        "title": "Families call for justice ahead of landmark maternity review publication",
-        "url": "https://www.bbc.co.uk/news/articles/c8e2xrke8l5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 23 Jun 2026 23:03:07 GMT"
+        "time": "Wed, 24 Jun 2026 05:07:41 GMT"
       }
     ],
     "projects": [
