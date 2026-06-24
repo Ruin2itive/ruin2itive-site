@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-24T03:19:33.816Z",
-  "updated_local": "6/24/2026, 3:19:33 AM",
+  "updated_iso": "2026-06-24T05:22:33.409Z",
+  "updated_local": "6/24/2026, 5:22:33 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "How the war on terror primed America for autocracy",
-        "url": "https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy",
-        "source": "hn",
-        "time": "6/24/2026, 2:23:39 AM"
-      },
-      {
         "title": "Vulnerability reports are not special anymore",
         "url": "https://words.filippo.io/vuln-reports/",
         "source": "hn",
@@ -54,30 +48,42 @@
         "time": "6/23/2026, 6:40:22 PM"
       },
       {
-        "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
-        "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
-        "source": "hn",
-        "time": "6/22/2026, 6:03:03 PM"
-      },
-      {
         "title": "FUTO Swipe – A new swipe typing model",
         "url": "https://swipe.futo.tech/",
         "source": "hn",
         "time": "6/23/2026, 5:50:22 PM"
+      },
+      {
+        "title": "Qwen-AgentWorld: Language World Models for General Agents",
+        "url": "https://arxiv.org/abs/2606.24597",
+        "source": "hn",
+        "time": "6/24/2026, 2:21:47 AM"
+      },
+      {
+        "title": "In memory of the man who put red and green squiggles under words",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+        "source": "hn",
+        "time": "6/23/2026, 6:10:47 PM"
       }
     ],
     "world": [
       {
-        "title": "No need to panic for England - but this was a reality check",
+        "title": "England handed reality check by Ghana but remain in strong position after 0-0 draw",
         "url": "https://www.bbc.co.uk/sport/football/articles/c5yzv7wl00xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 24 Jun 2026 00:53:27 GMT"
       },
       {
-        "title": "Watch: Football fans celebrate in Ghana after draw with England",
-        "url": "https://www.bbc.co.uk/news/videos/cg74djdk510o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'They were very passive' - England fans lament Ghana draw",
+        "url": "https://www.bbc.co.uk/news/videos/cyv0665djvjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 24 Jun 2026 01:52:08 GMT"
+        "time": "Wed, 24 Jun 2026 04:14:03 GMT"
+      },
+      {
+        "title": "Burnham likely to replace Reeves if he becomes PM",
+        "url": "https://www.bbc.co.uk/news/articles/cwyl91qlyr1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 24 Jun 2026 03:35:28 GMT"
       },
       {
         "title": "Hundreds of schools plan closures ahead of red heat alerts",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c9d2xl3555xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 23 Jun 2026 23:46:03 GMT"
-      },
-      {
-        "title": "Starmer holds talks with Burnham as he seeks 'orderly' transition",
-        "url": "https://www.bbc.co.uk/news/articles/c2eyj7j4evko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 24 Jun 2026 01:41:53 GMT"
       }
     ],
     "projects": [
