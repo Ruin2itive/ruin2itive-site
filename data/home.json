@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-24T09:18:54.258Z",
-  "updated_local": "6/24/2026, 9:18:54 AM",
+  "updated_iso": "2026-06-24T11:03:20.042Z",
+  "updated_local": "6/24/2026, 11:03:20 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Farage Says He Can Spend Tether Billionaire’s $6.7M Gift ‘On Ferraris’ if He Wants",
+        "url": "https://decrypt.co/371948/farage-says-he-can-spend-tether-billionaires-6-7m-gift-on-ferraris-if-he-wants",
+        "source": "crypto",
+        "time": "Wed, 24 Jun 2026 10:28:22 +0000"
+      },
       {
         "title": "Meet Qwable: The Free Local Model That Thinks Like Claude Fable",
         "url": "https://decrypt.co/371914/meet-qwable-free-local-model-thinks-like-claude-fable",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/371911/mark-zuckerberg-meta-prediction-market",
         "source": "crypto",
         "time": "Tue, 23 Jun 2026 20:13:35 +0000"
-      },
-      {
-        "title": "OpenAI&#39;s GPT-5.5 Cyber AI Beats Anthropic&#39;s Banned Mythos Model—And Nobody&#39;s Shutting It Down",
-        "url": "https://decrypt.co/371900/openai-gpt-5-5-cyber-ai-beats-anthropic-banned-claude-mythos",
-        "source": "crypto",
-        "time": "Tue, 23 Jun 2026 18:59:26 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+        "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+        "source": "hn",
+        "time": "6/24/2026, 8:50:41 AM"
+      },
       {
         "title": "Vulnerability reports are not special anymore",
         "url": "https://words.filippo.io/vuln-reports/",
@@ -48,54 +54,48 @@
         "time": "6/24/2026, 3:17:47 AM"
       },
       {
-        "title": "Show HN: An ASCII 3D Rendering Engine",
-        "url": "https://glyphcss.com",
-        "source": "hn",
-        "time": "6/20/2026, 7:10:41 PM"
-      },
-      {
-        "title": "Why eval startups fail (2025)",
-        "url": "https://thomasliao.com/eval-startups",
-        "source": "hn",
-        "time": "6/22/2026, 11:20:53 PM"
-      },
-      {
         "title": "Jerry's Map",
         "url": "http://www.jerrysmap.com/the-map",
         "source": "hn",
         "time": "6/23/2026, 6:40:22 PM"
+      },
+      {
+        "title": "In memory of the man who put red and green squiggles under words",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+        "source": "hn",
+        "time": "6/23/2026, 6:10:47 PM"
       }
     ],
     "world": [
       {
-        "title": "Earlier and stronger heatwaves: How hot could UK summers get?",
+        "title": "The UK's summers are getting hotter - but how prepared are we?",
         "url": "https://www.bbc.co.uk/news/articles/c9d2xl3555xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 23 Jun 2026 23:46:03 GMT"
-      },
-      {
-        "title": "Burnham likely to replace Reeves as chancellor if he becomes PM",
-        "url": "https://www.bbc.co.uk/news/articles/cwyl91qlyr1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 24 Jun 2026 08:20:26 GMT"
-      },
-      {
-        "title": "Families call for justice ahead of landmark maternity review publication",
-        "url": "https://www.bbc.co.uk/news/articles/c8e2xrke8l5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 24 Jun 2026 08:57:09 GMT"
-      },
-      {
-        "title": "England handed reality check by Ghana but remain in strong position after 0-0 draw",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5yzv7wl00xo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 24 Jun 2026 00:53:27 GMT"
       },
       {
         "title": "Police took eight minutes to find Henry Nowak's fatal stab wound",
         "url": "https://www.bbc.co.uk/news/articles/cx2v02r105jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 24 Jun 2026 05:07:41 GMT"
+      },
+      {
+        "title": "Ten years on, Brexit's economic impact is becoming clearer",
+        "url": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 23 Jun 2026 23:07:34 GMT"
+      },
+      {
+        "title": "Scotland on 'brink of history', fans say ahead of Brazil World Cup tie",
+        "url": "https://www.bbc.co.uk/news/articles/cdejr7gey9do?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 24 Jun 2026 06:10:57 GMT"
+      },
+      {
+        "title": "Burnham on course to be PM, but what would his No 10 operation look like?",
+        "url": "https://www.bbc.co.uk/news/articles/cp3xv2j7gepo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 24 Jun 2026 10:45:45 GMT"
       }
     ],
     "projects": [
