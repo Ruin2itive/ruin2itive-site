@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-24T13:50:37.917Z",
-  "updated_local": "6/24/2026, 1:50:37 PM",
+  "updated_iso": "2026-06-24T14:58:38.063Z",
+  "updated_local": "6/24/2026, 2:58:38 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Strategy Shares Crash Below $100 as Bitcoin Sinks Towards $60K",
+        "url": "https://decrypt.co/371965/strategy-shares-crash-below-100-bitcoin-sinks-toward-60k",
+        "source": "crypto",
+        "time": "Wed, 24 Jun 2026 14:31:29 +0000"
+      },
       {
         "title": "Morning Minute: Meta Is Building a Prediction Market",
         "url": "https://decrypt.co/371953/morning-minute-meta-is-building-a-prediction-market",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/371914/meet-qwable-free-local-model-thinks-like-claude-fable",
         "source": "crypto",
         "time": "Tue, 23 Jun 2026 22:01:12 +0000"
-      },
-      {
-        "title": "Trump&#39;s Quantum Push Wins Praise, But Experts Warn Bitcoin Isn&#39;t Ready",
-        "url": "https://decrypt.co/371916/trump-quantum-praise-experts-warn-bitcoin-not-ready",
-        "source": "crypto",
-        "time": "Tue, 23 Jun 2026 21:31:03 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,10 @@
         "time": "6/24/2026, 8:50:41 AM"
       },
       {
-        "title": "Slate EV truck starts at $24,950",
-        "url": "https://www.slate.auto/en",
+        "title": "Stealing Is a Skill",
+        "url": "https://ben-mini.com/2026/stealing-is-a-skill",
         "source": "hn",
-        "time": "6/24/2026, 1:26:43 PM"
-      },
-      {
-        "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
-        "url": "https://paolino.me/founding-a-company-in-germany/",
-        "source": "hn",
-        "time": "6/24/2026, 12:31:43 PM"
+        "time": "6/24/2026, 1:08:52 PM"
       },
       {
         "title": "Krea 2 Technical Report",
@@ -60,24 +54,30 @@
         "time": "6/23/2026, 3:31:21 PM"
       },
       {
-        "title": "Minimus container images are now free",
-        "url": "https://images.minimus.io/",
+        "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+        "url": "https://haystack.deepset.ai/",
         "source": "hn",
-        "time": "6/24/2026, 11:52:12 AM"
+        "time": "6/24/2026, 11:21:32 AM"
+      },
+      {
+        "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
+        "url": "https://paolino.me/founding-a-company-in-germany/",
+        "source": "hn",
+        "time": "6/24/2026, 12:31:43 PM"
       }
     ],
     "world": [
-      {
-        "title": "Baby deaths and toxic culture - the Nottingham maternity report at a glance",
-        "url": "https://www.bbc.co.uk/news/articles/cwyd8kkjnx2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 24 Jun 2026 11:59:14 GMT"
-      },
       {
         "title": "Why this heatwave feels worse than the last one",
         "url": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 24 Jun 2026 12:24:39 GMT"
+      },
+      {
+        "title": "Baby deaths and toxic culture - the Nottingham maternity report at a glance",
+        "url": "https://www.bbc.co.uk/news/articles/cwyd8kkjnx2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 24 Jun 2026 11:59:14 GMT"
       },
       {
         "title": "Train passed red signal before fatal crash, says report",
