@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-24T11:00:34.070Z"
+    "built_at": "2026-06-24T12:41:26.498Z"
   },
-  "items": [
-    {
-      "title": "EmeraldWhale's .git/.env credential scraping is still running, ~2 years on",
-      "url": "https://honeylabs.net/blog/credential-scraping-env-and-git",
-      "date": "2026-06-24T10:54:06.000Z"
-    },
-    {
-      "title": "RDS Extended Support: What It Costs to Stay on EOL Versions",
-      "url": "https://www.usage.ai/blogs/aws/reserved-instances/rds/extended-support/",
-      "date": "2026-06-24T10:53:57.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
