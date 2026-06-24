@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-24T03:04:10.460Z"
+    "built_at": "2026-06-24T05:18:33.815Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Sakana Fugu Ultra promises to deliver \"the best frontier-level performance\"",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953904/sakana-fugu-ai",
+      "date": "2026-06-24T05:15:05.000Z"
+    },
+    {
+      "title": "TSMC: 36.1 A 32Gb/s 10.5Tb/s/mm 0.6pJ/b UCIe-Compliant Low-Latency Interface 3nm",
+      "url": "https://ieeexplore.ieee.org/document/10904767",
+      "date": "2026-06-24T05:14:57.000Z"
+    }
+  ]
 }
