@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-24T19:31:37.587Z"
+    "built_at": "2026-06-24T20:33:13.391Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Record Type Inference for Dummies",
+      "url": "https://haskellforall.com/2026/06/record-type-inference-for-dummies",
+      "date": "2026-06-24T20:32:43.000Z"
+    },
+    {
+      "title": "Austin Carter, 30, was disarmed by a drone, a possible first in law enforcement",
+      "url": "https://www.foxnews.com/us/california-sheriffs-use-magent-equipped-drone-disarm-knife-wielding-sex-offender-hidden-garage",
+      "date": "2026-06-24T20:31:21.000Z"
+    }
+  ]
 }
