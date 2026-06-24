@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-24T01:08:14.828Z",
-  "updated_local": "6/24/2026, 1:08:14 AM",
+  "updated_iso": "2026-06-24T01:40:39.318Z",
+  "updated_local": "6/24/2026, 1:40:39 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Jerry's Map",
-        "url": "http://www.jerrysmap.com/the-map",
-        "source": "hn",
-        "time": "6/23/2026, 6:40:22 PM"
-      },
-      {
         "title": "Vulnerability reports are not special anymore",
         "url": "https://words.filippo.io/vuln-reports/",
         "source": "hn",
         "time": "6/23/2026, 11:42:46 PM"
+      },
+      {
+        "title": "Jerry's Map",
+        "url": "http://www.jerrysmap.com/the-map",
+        "source": "hn",
+        "time": "6/23/2026, 6:40:22 PM"
       },
       {
         "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
@@ -67,6 +67,12 @@
       }
     ],
     "world": [
+      {
+        "title": "No need to panic for England - but this was a reality check",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5yzv7wl00xo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 24 Jun 2026 00:53:27 GMT"
+      },
       {
         "title": "Hundreds of schools plan closures ahead of red heat alerts",
         "url": "https://www.bbc.co.uk/news/articles/cwyl940y94xo?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 23 Jun 2026 23:07:34 GMT"
-      },
-      {
-        "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-        "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 23 Jun 2026 21:04:11 GMT"
       }
     ],
     "projects": [
