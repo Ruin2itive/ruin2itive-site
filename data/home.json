@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-24T05:29:06.946Z",
-  "updated_local": "6/24/2026, 5:29:06 AM",
+  "updated_iso": "2026-06-24T07:14:37.565Z",
+  "updated_local": "6/24/2026, 7:14:37 AM",
   "sections": {
     "crypto": [
       {
@@ -54,19 +54,25 @@
         "time": "6/23/2026, 5:50:22 PM"
       },
       {
+        "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+        "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+        "source": "hn",
+        "time": "6/24/2026, 3:17:47 AM"
+      },
+      {
         "title": "Qwen-AgentWorld: Language World Models for General Agents",
         "url": "https://arxiv.org/abs/2606.24597",
         "source": "hn",
         "time": "6/24/2026, 2:21:47 AM"
-      },
-      {
-        "title": "In memory of the man who put red and green squiggles under words",
-        "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
-        "source": "hn",
-        "time": "6/23/2026, 6:10:47 PM"
       }
     ],
     "world": [
+      {
+        "title": "Burnham likely to replace Reeves if he becomes PM",
+        "url": "https://www.bbc.co.uk/news/articles/cwyl91qlyr1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 24 Jun 2026 05:26:21 GMT"
+      },
       {
         "title": "England handed reality check by Ghana but remain in strong position after 0-0 draw",
         "url": "https://www.bbc.co.uk/sport/football/articles/c5yzv7wl00xo?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +86,16 @@
         "time": "Wed, 24 Jun 2026 04:14:03 GMT"
       },
       {
-        "title": "Burnham likely to replace Reeves if he becomes PM",
-        "url": "https://www.bbc.co.uk/news/articles/cwyl91qlyr1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 24 Jun 2026 05:26:21 GMT"
-      },
-      {
-        "title": "Hundreds of schools plan closures ahead of red heat alerts",
-        "url": "https://www.bbc.co.uk/news/articles/cwyl940y94xo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 24 Jun 2026 02:26:39 GMT"
-      },
-      {
-        "title": "The UK's summers are getting hotter - but how prepared are we?",
+        "title": "Earlier and stronger heatwaves: How hot could UK summers get?",
         "url": "https://www.bbc.co.uk/news/articles/c9d2xl3555xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 23 Jun 2026 23:46:03 GMT"
+      },
+      {
+        "title": "Families call for justice ahead of landmark maternity review publication",
+        "url": "https://www.bbc.co.uk/news/articles/c8e2xrke8l5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 23 Jun 2026 23:03:07 GMT"
       }
     ],
     "projects": [
