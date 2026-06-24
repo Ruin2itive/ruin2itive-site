@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-06-24T18:44:47.191Z",
-  "updated_local": "6/24/2026, 6:44:47 PM",
+  "updated_iso": "2026-06-24T19:33:52.161Z",
+  "updated_local": "6/24/2026, 7:33:52 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Leaked Code Suggests Anthropic Is Preparing to Bring Fable 5 Back",
+        "url": "https://decrypt.co/372004/leaked-code-anthropic-preparing-fable-5-subscription",
+        "source": "crypto",
+        "time": "Wed, 24 Jun 2026 19:25:30 +0000"
+      },
+      {
+        "title": "Researcher Throws Cold Water on Microsoft Quantum Claims",
+        "url": "https://decrypt.co/371998/microsoft-topological-qubit-quantum-claims-challenge",
+        "source": "crypto",
+        "time": "Wed, 24 Jun 2026 19:07:12 +0000"
+      },
       {
         "title": "&#39;Stop Buying Bitcoin&#39;: Strategy Needs More Cash Fast, Analyst Says as STRC Hits New Low",
         "url": "https://decrypt.co/371995/stop-buying-bitcoin-strategy-needs-more-cash-fast-strc-new-low",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/371989/fake-crypto-influencer-gets-15-months-for-1-4m-telegram-staking-fraud",
         "source": "crypto",
         "time": "Wed, 24 Jun 2026 17:18:31 +0000"
-      },
-      {
-        "title": "Bitcoin Hasn&#39;t Broken the 4-Year Cycle Yet, Says 21Shares as BTC Dives Below $60K",
-        "url": "https://decrypt.co/371985/bitcoin-hasnt-broken-4-year-cycle-yet-21shares",
-        "source": "crypto",
-        "time": "Wed, 24 Jun 2026 16:59:23 +0000"
-      },
-      {
-        "title": "South Korean Officials Meet With US SEC, Weigh Unified Crypto Rules Amid Local Scandals",
-        "url": "https://decrypt.co/371970/south-korean-officials-meet-us-sec-unified-crypto-rules-scandals",
-        "source": "crypto",
-        "time": "Wed, 24 Jun 2026 16:11:15 +0000"
       }
     ],
     "hacker": [
@@ -48,22 +48,22 @@
         "time": "6/24/2026, 2:41:41 PM"
       },
       {
-        "title": "NSA lost access to Mythos amid Anthropic dispute",
-        "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+        "title": "Thomann takes legal action against Fender",
+        "url": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
         "source": "hn",
-        "time": "6/24/2026, 11:45:47 AM"
-      },
-      {
-        "title": "There are a few things that I look back on as my mistakes in the early days",
-        "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-        "source": "hn",
-        "time": "6/24/2026, 3:56:19 PM"
+        "time": "6/24/2026, 7:08:22 PM"
       },
       {
         "title": "We’re making Bunny DNS free",
         "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
         "source": "hn",
         "time": "6/24/2026, 8:50:41 AM"
+      },
+      {
+        "title": "There are a few things that I look back on as my mistakes in the early days",
+        "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+        "source": "hn",
+        "time": "6/24/2026, 3:56:19 PM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "Babies and mothers died after 'systemic and sustained' failings, largest NHS maternity review finds",
         "url": "https://www.bbc.co.uk/news/articles/c1kyw24elv7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 24 Jun 2026 18:00:00 GMT"
+        "time": "Wed, 24 Jun 2026 18:48:54 GMT"
       },
       {
         "title": "'From excitement to emptiness': Families affected by largest NHS maternity scandal tell their stories",
@@ -86,16 +86,16 @@
         "time": "Wed, 24 Jun 2026 15:10:03 GMT"
       },
       {
-        "title": "Scotland fans pray for 'perfect' result ahead of Brazil World Cup tie",
-        "url": "https://www.bbc.co.uk/news/articles/cdejr7gey9do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 24 Jun 2026 15:26:19 GMT"
-      },
-      {
         "title": "King meets women's cricket team that is not allowed to exist",
         "url": "https://www.bbc.co.uk/news/articles/c4gykxdn6gwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 24 Jun 2026 14:20:13 GMT"
+      },
+      {
+        "title": "Train passed red signal before fatal crash, says report",
+        "url": "https://www.bbc.co.uk/news/articles/cly90nqpryko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 24 Jun 2026 13:09:44 GMT"
       }
     ],
     "projects": [
