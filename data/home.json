@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-24T12:59:11.999Z",
-  "updated_local": "6/24/2026, 12:59:11 PM",
+  "updated_iso": "2026-06-24T13:44:25.283Z",
+  "updated_local": "6/24/2026, 1:44:25 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,18 @@
         "time": "6/24/2026, 8:50:41 AM"
       },
       {
+        "title": "Slate EV truck starts at $24,950",
+        "url": "https://www.slate.auto/en",
+        "source": "hn",
+        "time": "6/24/2026, 1:26:43 PM"
+      },
+      {
+        "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
+        "url": "https://paolino.me/founding-a-company-in-germany/",
+        "source": "hn",
+        "time": "6/24/2026, 12:31:43 PM"
+      },
+      {
         "title": "Krea 2 Technical Report",
         "url": "https://www.krea.ai/blog/krea-2-technical-report",
         "source": "hn",
@@ -52,26 +64,14 @@
         "url": "https://images.minimus.io/",
         "source": "hn",
         "time": "6/24/2026, 11:52:12 AM"
-      },
-      {
-        "title": "Too many R packages: CRAN is inundated with submissions",
-        "url": "https://rworks.dev/posts/too-many-R-packages/",
-        "source": "hn",
-        "time": "6/24/2026, 10:59:59 AM"
-      },
-      {
-        "title": "Statistics that live in your SQL",
-        "url": "https://kolistat.com/blog/the-stats-duck-v0-6-0/",
-        "source": "hn",
-        "time": "6/22/2026, 1:25:15 PM"
       }
     ],
     "world": [
       {
-        "title": "Baby deaths and toxic culture - the Nottingham maternity report at a glance",
-        "url": "https://www.bbc.co.uk/news/articles/cwyd8kkjnx2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "A letter sent by worried staff shows why maternity care is still failing too many families",
+        "url": "https://www.bbc.co.uk/news/articles/c2kyn81epdvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 24 Jun 2026 11:59:14 GMT"
+        "time": "Wed, 24 Jun 2026 13:06:11 GMT"
       },
       {
         "title": "Why this heatwave feels worse than the last one",
@@ -83,19 +83,19 @@
         "title": "Train passed red signal before fatal crash, says report",
         "url": "https://www.bbc.co.uk/news/articles/cly90nqpryko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 24 Jun 2026 12:55:30 GMT"
+        "time": "Wed, 24 Jun 2026 13:09:44 GMT"
+      },
+      {
+        "title": "Burnham on course to be PM, but what would his No 10 operation look like?",
+        "url": "https://www.bbc.co.uk/news/articles/cp3xv2j7gepo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 24 Jun 2026 10:45:45 GMT"
       },
       {
         "title": "Scotland on 'brink of history', fans say ahead of Brazil World Cup tie",
         "url": "https://www.bbc.co.uk/news/articles/cdejr7gey9do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 24 Jun 2026 06:10:57 GMT"
-      },
-      {
-        "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-        "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 24 Jun 2026 12:32:00 GMT"
       }
     ],
     "projects": [
