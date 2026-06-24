@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-24T15:50:55.572Z",
-  "updated_local": "6/24/2026, 3:50:55 PM",
+  "updated_iso": "2026-06-24T16:46:19.410Z",
+  "updated_local": "6/24/2026, 4:46:19 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "South Korean Officials Meet With US SEC, Weigh Unified Crypto Rules Amid Local Scandals",
+        "url": "https://decrypt.co/371970/south-korean-officials-meet-us-sec-unified-crypto-rules-scandals",
+        "source": "crypto",
+        "time": "Wed, 24 Jun 2026 16:11:15 +0000"
+      },
       {
         "title": "OpenAI Turns Up the Heat With Jalapeño, Its First Custom AI Chip",
         "url": "https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip",
@@ -26,23 +32,23 @@
         "url": "https://decrypt.co/371953/morning-minute-meta-is-building-a-prediction-market",
         "source": "crypto",
         "time": "Wed, 24 Jun 2026 12:25:46 +0000"
-      },
-      {
-        "title": "DOJ Seizes Huione Infrastructure Linked to Billions in Crypto Laundering",
-        "url": "https://decrypt.co/371950/doj-seizes-huione-infrastructure-linked-to-billions-in-crypto-laundering",
-        "source": "crypto",
-        "time": "Wed, 24 Jun 2026 11:49:27 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "RubyLLM: A single, beautiful Ruby framework for all major AI providers",
+        "title": "John Carmack on the mistakes around Quake that ruined id software",
+        "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+        "source": "hn",
+        "time": "6/24/2026, 3:56:19 PM"
+      },
+      {
+        "title": "RubyLLM: A Ruby framework for all major AI providers",
         "url": "https://rubyllm.com/",
         "source": "hn",
         "time": "6/24/2026, 2:41:41 PM"
       },
       {
-        "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+        "title": "We’re making Bunny DNS free",
         "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
         "source": "hn",
         "time": "6/24/2026, 8:50:41 AM"
@@ -54,16 +60,10 @@
         "time": "6/24/2026, 2:14:18 PM"
       },
       {
-        "title": "Krea 2 Technical Report",
-        "url": "https://www.krea.ai/blog/krea-2-technical-report",
+        "title": "I taught a bucket to speak Git",
+        "url": "https://www.tigrisdata.com/blog/objgit/",
         "source": "hn",
-        "time": "6/23/2026, 3:31:21 PM"
-      },
-      {
-        "title": "Running Windows Games on a Hobby OS with Wine",
-        "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
-        "source": "hn",
-        "time": "6/24/2026, 2:38:30 PM"
+        "time": "6/24/2026, 4:04:26 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Wed, 24 Jun 2026 12:24:39 GMT"
       },
       {
-        "title": "Baby deaths and toxic culture - the Nottingham maternity report at a glance",
-        "url": "https://www.bbc.co.uk/news/articles/cwyd8kkjnx2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'From excitement to emptiness': Families affected by largest NHS maternity scandal tell their stories",
+        "url": "https://www.bbc.co.uk/news/articles/cgepllq9npvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 24 Jun 2026 11:59:14 GMT"
+        "time": "Wed, 24 Jun 2026 15:10:03 GMT"
+      },
+      {
+        "title": "Scotland fans pray for 'perfect' result ahead of Brazil World Cup tie",
+        "url": "https://www.bbc.co.uk/news/articles/cdejr7gey9do?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 24 Jun 2026 15:26:19 GMT"
+      },
+      {
+        "title": "King meets women's cricket team that is not allowed to exist",
+        "url": "https://www.bbc.co.uk/news/articles/c4gykxdn6gwo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 24 Jun 2026 14:20:13 GMT"
       },
       {
         "title": "Train passed red signal before fatal crash, says report",
         "url": "https://www.bbc.co.uk/news/articles/cly90nqpryko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 24 Jun 2026 13:09:44 GMT"
-      },
-      {
-        "title": "Burnham on course to be PM, but what would his No 10 operation look like?",
-        "url": "https://www.bbc.co.uk/news/articles/cp3xv2j7gepo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 24 Jun 2026 10:45:45 GMT"
-      },
-      {
-        "title": "Scotland on 'brink of history', fans say ahead of Brazil World Cup tie",
-        "url": "https://www.bbc.co.uk/news/articles/cdejr7gey9do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 24 Jun 2026 15:26:19 GMT"
       }
     ],
     "projects": [
