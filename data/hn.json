@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-24T15:45:58.315Z"
+    "built_at": "2026-06-24T16:42:16.000Z"
   },
-  "items": [
-    {
-      "title": "GLM-5.2 vs. Claude Opus: Same Code, Less Than Half the Cost",
-      "url": "https://entelligence.ai/blogs/glm-5-2-vs-claude-opus-coding-benchmark",
-      "date": "2026-06-24T15:40:45.000Z"
-    },
-    {
-      "title": "Show HN: My agents run on a mesh of old phones and argue over each other's work",
-      "url": "https://github.com/genaforvena/lte-workstation",
-      "date": "2026-06-24T15:39:52.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
