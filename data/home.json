@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-06-24T15:04:36.124Z",
-  "updated_local": "6/24/2026, 3:04:36 PM",
+  "updated_iso": "2026-06-24T15:50:55.572Z",
+  "updated_local": "6/24/2026, 3:50:55 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Turns Up the Heat With Jalapeño, Its First Custom AI Chip",
+        "url": "https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip",
+        "source": "crypto",
+        "time": "Wed, 24 Jun 2026 15:42:31 +0000"
+      },
+      {
+        "title": "Trump Cancels Signing of Bipartisan Housing Bill Containing CBDC Ban: &#39;Of Minor Importance&#39;",
+        "url": "https://decrypt.co/371975/trump-cancels-signing-bipartisan-housing-bill-cbdc-ban",
+        "source": "crypto",
+        "time": "Wed, 24 Jun 2026 15:34:50 +0000"
+      },
       {
         "title": "Strategy Shares Crash Below $100 as Bitcoin Sinks Towards $60K",
         "url": "https://decrypt.co/371965/strategy-shares-crash-below-100-bitcoin-sinks-toward-60k",
@@ -20,21 +32,15 @@
         "url": "https://decrypt.co/371950/doj-seizes-huione-infrastructure-linked-to-billions-in-crypto-laundering",
         "source": "crypto",
         "time": "Wed, 24 Jun 2026 11:49:27 +0000"
-      },
-      {
-        "title": "Farage Says He Can Spend Tether Billionaire’s $6.7M Gift ‘On Ferraris’ if He Wants",
-        "url": "https://decrypt.co/371948/farage-says-he-can-spend-tether-billionaires-6-7m-gift-on-ferraris-if-he-wants",
-        "source": "crypto",
-        "time": "Wed, 24 Jun 2026 10:28:22 +0000"
-      },
-      {
-        "title": "Meet Qwable: The Free Local Model That Thinks Like Claude Fable",
-        "url": "https://decrypt.co/371914/meet-qwable-free-local-model-thinks-like-claude-fable",
-        "source": "crypto",
-        "time": "Tue, 23 Jun 2026 22:01:12 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "RubyLLM: A single, beautiful Ruby framework for all major AI providers",
+        "url": "https://rubyllm.com/",
+        "source": "hn",
+        "time": "6/24/2026, 2:41:41 PM"
+      },
       {
         "title": "We're making Bunny DNS free: because a faster internet won't build itself",
         "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
@@ -42,10 +48,10 @@
         "time": "6/24/2026, 8:50:41 AM"
       },
       {
-        "title": "Stealing Is a Skill",
-        "url": "https://ben-mini.com/2026/stealing-is-a-skill",
+        "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+        "url": "https://github.com/nubjs/nub",
         "source": "hn",
-        "time": "6/24/2026, 1:08:52 PM"
+        "time": "6/24/2026, 2:14:18 PM"
       },
       {
         "title": "Krea 2 Technical Report",
@@ -58,12 +64,6 @@
         "url": "https://astral-os.org/posts/2026/04/03/wine-on-astral.html",
         "source": "hn",
         "time": "6/24/2026, 2:38:30 PM"
-      },
-      {
-        "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-        "url": "https://haystack.deepset.ai/",
-        "source": "hn",
-        "time": "6/24/2026, 11:21:32 AM"
       }
     ],
     "world": [
@@ -95,7 +95,7 @@
         "title": "Scotland on 'brink of history', fans say ahead of Brazil World Cup tie",
         "url": "https://www.bbc.co.uk/news/articles/cdejr7gey9do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 24 Jun 2026 06:10:57 GMT"
+        "time": "Wed, 24 Jun 2026 15:26:19 GMT"
       }
     ],
     "projects": [
