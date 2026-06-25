@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-25T17:52:01.325Z",
-  "updated_local": "6/25/2026, 5:52:01 PM",
+  "updated_iso": "2026-06-25T18:46:59.997Z",
+  "updated_local": "6/25/2026, 6:46:59 PM",
   "sections": {
     "crypto": [
       {
@@ -48,36 +48,30 @@
         "time": "6/25/2026, 3:33:37 PM"
       },
       {
+        "title": "Oxide computer 3D rack guided tour",
+        "url": "https://explorer.oxide.computer/",
+        "source": "hn",
+        "time": "6/22/2026, 3:21:04 PM"
+      },
+      {
         "title": "Zig's new bitCast semantics and LLVM back end improvements",
         "url": "https://ziglang.org/devlog/2026/#2026-06-25",
         "source": "hn",
         "time": "6/25/2026, 2:19:28 PM"
       },
       {
-        "title": "You can't unit test for taste",
-        "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+        "title": "I built a GPU back end for Emacs",
+        "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
         "source": "hn",
-        "time": "6/24/2026, 8:54:12 AM"
-      },
-      {
-        "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-        "url": "https://hackernewstrends.com",
-        "source": "hn",
-        "time": "6/25/2026, 2:08:55 PM"
+        "time": "6/23/2026, 9:38:45 AM"
       }
     ],
     "world": [
       {
-        "title": "Europe's heatwave shifts east as France raises health alert to highest level",
+        "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
         "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 25 Jun 2026 15:15:45 GMT"
-      },
-      {
-        "title": "People flee as building collapses on Caracas outskirts",
-        "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 25 Jun 2026 12:08:30 GMT"
+        "time": "Thu, 25 Jun 2026 18:12:27 GMT"
       },
       {
         "title": "TikTok influencer charged with murdering boyfriend in Dubai",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 25 Jun 2026 12:08:33 GMT"
+      },
+      {
+        "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
+        "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 25 Jun 2026 18:43:14 GMT"
       }
     ],
     "projects": [
