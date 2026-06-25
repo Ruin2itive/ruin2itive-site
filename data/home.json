@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-25T00:48:38.054Z",
-  "updated_local": "6/25/2026, 12:48:38 AM",
+  "updated_iso": "2026-06-25T01:12:25.005Z",
+  "updated_local": "6/25/2026, 1:12:25 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "6/24/2026, 5:47:00 PM"
       },
       {
+        "title": "LuaJIT 3.0 proposed syntax extensions",
+        "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+        "source": "hn",
+        "time": "6/25/2026, 12:41:43 AM"
+      },
+      {
         "title": "Blogging Can Just Be Stating the Obvious",
         "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
         "source": "hn",
@@ -54,21 +60,21 @@
         "time": "6/24/2026, 1:49:16 PM"
       },
       {
-        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-        "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+        "title": "We’re making Bunny DNS free",
+        "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
         "source": "hn",
-        "time": "6/24/2026, 7:48:01 PM"
-      },
-      {
-        "title": "RubyLLM: A Ruby framework for all major AI providers",
-        "url": "https://rubyllm.com/",
-        "source": "hn",
-        "time": "6/24/2026, 2:41:41 PM"
+        "time": "6/24/2026, 8:50:41 AM"
       }
     ],
     "world": [
       {
-        "title": "Watch: Moment earthquake hits Venezuela and leaves buildings collapsed",
+        "title": "'Think we're going home' - Clarke & McGinn rue Scotland mistakes",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cd7w27eg5jro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 25 Jun 2026 00:58:20 GMT"
+      },
+      {
+        "title": "Watch: Moment quake shakes Venezuela, causing widespread damage and evacuations",
         "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 24 Jun 2026 23:40:47 GMT"
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c8j2m2zrrxko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 24 Jun 2026 23:11:14 GMT"
-      },
-      {
-        "title": "'From excitement to emptiness': Families affected by largest NHS maternity scandal tell their stories",
-        "url": "https://www.bbc.co.uk/news/articles/cgepllq9npvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 24 Jun 2026 15:10:03 GMT"
       }
     ],
     "projects": [
