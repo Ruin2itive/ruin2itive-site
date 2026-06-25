@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-25T19:34:20.879Z"
+    "built_at": "2026-06-25T20:38:59.858Z"
   },
-  "items": [
-    {
-      "title": "Show HN: OpenPhone – new open source, customized AI-native Android OS",
-      "url": "https://github.com/secondly-com/openphone",
-      "date": "2026-06-25T19:33:23.000Z"
-    },
-    {
-      "title": "Cargo thieves are following the AI boom",
-      "url": "https://www.freightwaves.com/news/cargo-thieves-are-following-the-ai-boom",
-      "date": "2026-06-25T19:31:40.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
