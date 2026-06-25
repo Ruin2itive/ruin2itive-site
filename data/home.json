@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-25T16:54:47.323Z",
-  "updated_local": "6/25/2026, 4:54:47 PM",
+  "updated_iso": "2026-06-25T17:52:01.325Z",
+  "updated_local": "6/25/2026, 5:52:01 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "AI Took Your Job? California Wants to Know",
+        "url": "https://decrypt.co/372100/ai-job-loss-california-public-dashboard",
+        "source": "crypto",
+        "time": "Thu, 25 Jun 2026 17:36:21 +0000"
+      },
       {
         "title": "Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%",
         "url": "https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum",
@@ -26,35 +32,23 @@
         "url": "https://decrypt.co/372068/morning-minute-strategys-mstr-and-strc-crash-to-52-week-lows",
         "source": "crypto",
         "time": "Thu, 25 Jun 2026 12:01:38 +0000"
-      },
-      {
-        "title": "Kalshi Seeks $40B Valuation Weeks After $1B Raise: FT",
-        "url": "https://decrypt.co/372065/kalshi-seeks-40b-valuation-weeks-after-1b-raise-ft",
-        "source": "crypto",
-        "time": "Thu, 25 Jun 2026 10:28:47 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-        "url": "https://hackernewstrends.com",
+        "title": "A Herculaneum scroll has been read for the first time",
+        "url": "https://scrollprize.org/firstscroll",
         "source": "hn",
-        "time": "6/25/2026, 2:08:55 PM"
+        "time": "6/25/2026, 3:48:07 PM"
       },
       {
-        "title": "Deno 2.9",
-        "url": "https://deno.com/blog/v2.9",
+        "title": "IBM debuts sub-1 nanometer chip technology",
+        "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
         "source": "hn",
-        "time": "6/25/2026, 4:22:55 PM"
+        "time": "6/25/2026, 3:33:37 PM"
       },
       {
-        "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-        "source": "hn",
-        "time": "6/25/2026, 2:58:50 PM"
-      },
-      {
-        "title": "Zig's New BitCast Semantics and LLVM Back End Improvements",
+        "title": "Zig's new bitCast semantics and LLVM back end improvements",
         "url": "https://ziglang.org/devlog/2026/#2026-06-25",
         "source": "hn",
         "time": "6/25/2026, 2:19:28 PM"
@@ -64,6 +58,12 @@
         "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
         "source": "hn",
         "time": "6/24/2026, 8:54:12 AM"
+      },
+      {
+        "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+        "url": "https://hackernewstrends.com",
+        "source": "hn",
+        "time": "6/25/2026, 2:08:55 PM"
       }
     ],
     "world": [
@@ -89,7 +89,7 @@
         "title": "Burnham could be leader in weeks under Labour timetable",
         "url": "https://www.bbc.co.uk/news/articles/cnv9e18r2qyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 25 Jun 2026 16:51:46 GMT"
+        "time": "Thu, 25 Jun 2026 17:19:26 GMT"
       },
       {
         "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
