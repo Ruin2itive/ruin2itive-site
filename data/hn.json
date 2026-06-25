@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-25T17:51:03.777Z"
+    "built_at": "2026-06-25T18:42:55.852Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Can We Terraform Mars?",
+      "url": "https://www.nature.com/immersive/d41586-026-01978-8/index.html",
+      "date": "2026-06-25T18:42:32.000Z"
+    },
+    {
+      "title": "The BBC switches off its oldest service",
+      "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
+      "date": "2026-06-25T18:42:17.000Z"
+    }
+  ]
 }
