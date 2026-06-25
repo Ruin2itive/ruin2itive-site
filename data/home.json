@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-24T23:32:24.444Z",
-  "updated_local": "6/24/2026, 11:32:24 PM",
+  "updated_iso": "2026-06-25T00:48:38.054Z",
+  "updated_local": "6/25/2026, 12:48:38 AM",
   "sections": {
     "crypto": [
       {
@@ -42,10 +42,10 @@
         "time": "6/24/2026, 5:47:00 PM"
       },
       {
-        "title": "PostgreSQL Is Enough",
-        "url": "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb",
+        "title": "Blogging Can Just Be Stating the Obvious",
+        "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
         "source": "hn",
-        "time": "6/24/2026, 10:39:37 PM"
+        "time": "6/24/2026, 11:46:37 PM"
       },
       {
         "title": "Qualcomm to Acquire Modular",
@@ -54,19 +54,25 @@
         "time": "6/24/2026, 1:49:16 PM"
       },
       {
+        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+        "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+        "source": "hn",
+        "time": "6/24/2026, 7:48:01 PM"
+      },
+      {
         "title": "RubyLLM: A Ruby framework for all major AI providers",
         "url": "https://rubyllm.com/",
         "source": "hn",
         "time": "6/24/2026, 2:41:41 PM"
-      },
-      {
-        "title": "We’re making Bunny DNS free",
-        "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-        "source": "hn",
-        "time": "6/24/2026, 8:50:41 AM"
       }
     ],
     "world": [
+      {
+        "title": "Watch: Moment earthquake hits Venezuela and leaves buildings collapsed",
+        "url": "https://www.bbc.co.uk/news/videos/cvgl42lm8dwo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 24 Jun 2026 23:40:47 GMT"
+      },
       {
         "title": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
         "url": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,10 +80,10 @@
         "time": "Wed, 24 Jun 2026 20:04:52 GMT"
       },
       {
-        "title": "Why this heatwave feels worse than the last one",
-        "url": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How to cope in a heatwave - according to you",
+        "url": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 24 Jun 2026 12:24:39 GMT"
+        "time": "Thu, 25 Jun 2026 00:18:35 GMT"
       },
       {
         "title": "Obesity cases rising fastest in young adults",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cgepllq9npvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 24 Jun 2026 15:10:03 GMT"
-      },
-      {
-        "title": "King meets women's cricket team that is not allowed to exist",
-        "url": "https://www.bbc.co.uk/news/articles/c4gykxdn6gwo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 24 Jun 2026 14:20:13 GMT"
       }
     ],
     "projects": [
