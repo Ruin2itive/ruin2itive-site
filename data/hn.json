@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-25T16:45:22.679Z"
+    "built_at": "2026-06-25T17:51:03.777Z"
   },
-  "items": [
-    {
-      "title": "Show HN: TreasuryBench – an open benchmark for personal-finance AI advice",
-      "url": "https://github.com/Treasury-Technologies-Inc/treasurybench",
-      "date": "2026-06-25T16:43:08.000Z"
-    },
-    {
-      "title": "Codex Security Plugin Quickstart",
-      "url": "https://developers.openai.com/codex/security/plugin",
-      "date": "2026-06-25T16:42:37.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
