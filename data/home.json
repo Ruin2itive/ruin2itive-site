@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-25T13:49:46.712Z",
-  "updated_local": "6/25/2026, 1:49:46 PM",
+  "updated_iso": "2026-06-25T15:01:10.255Z",
+  "updated_local": "6/25/2026, 3:01:10 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Plummets Lower as Strategy&#39;s STRC Dives Further From $100 Mark",
+        "url": "https://decrypt.co/372074/bitcoin-plummets-strategy-strc-dives-further-100",
+        "source": "crypto",
+        "time": "Thu, 25 Jun 2026 14:11:01 +0000"
+      },
       {
         "title": "$47M in Crypto Frozen in Global Infostealer Takedown: Europol",
         "url": "https://decrypt.co/372071/47m-in-crypto-frozen-in-global-infostealer-takedown-europol",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/372056/aave-token-climb-50x-end-2030-standard-chartered",
         "source": "crypto",
         "time": "Wed, 24 Jun 2026 22:27:05 +0000"
-      },
-      {
-        "title": "Kalshi Sues Illinois Over New State Tax on Sports-Related Prediction Markets",
-        "url": "https://decrypt.co/372048/kalshi-sues-illinois-state-taxes-sports-related-prediction-markets",
-        "source": "crypto",
-        "time": "Wed, 24 Jun 2026 21:37:45 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Countries are competing to see which can carry out mass surveillance the best",
-        "url": "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance",
-        "source": "hn",
-        "time": "6/25/2026, 1:07:07 PM"
-      },
       {
         "title": "You can't unit test for taste",
         "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
@@ -52,6 +46,12 @@
         "url": "https://hl2.slqnt.dev/",
         "source": "hn",
         "time": "6/25/2026, 6:00:04 AM"
+      },
+      {
+        "title": "The Disappearance of Japan's Animators",
+        "url": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators",
+        "source": "hn",
+        "time": "6/21/2026, 4:51:47 PM"
       },
       {
         "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
@@ -68,16 +68,16 @@
     ],
     "world": [
       {
+        "title": "Europe's heatwave shifts east as France raises health alert to highest level",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 25 Jun 2026 14:58:10 GMT"
+      },
+      {
         "title": "People flee as building collapses on Caracas outskirts",
         "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 25 Jun 2026 12:08:30 GMT"
-      },
-      {
-        "title": "Europe's heatwave shifts east as France raises health alert to highest level",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 25 Jun 2026 13:16:39 GMT"
       },
       {
         "title": "TikTok influencer charged with Dubai murder",
@@ -92,10 +92,10 @@
         "time": "Thu, 25 Jun 2026 12:08:33 GMT"
       },
       {
-        "title": "Jail time and unlimited fines planned under conversion practices ban",
-        "url": "https://www.bbc.co.uk/news/articles/cpwev2x4jw9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "The games that show the flaws in a 48-team World Cup",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 25 Jun 2026 08:33:22 GMT"
+        "time": "Thu, 25 Jun 2026 13:38:00 GMT"
       }
     ],
     "projects": [
