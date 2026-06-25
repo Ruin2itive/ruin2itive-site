@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-25T18:46:59.997Z",
-  "updated_local": "6/25/2026, 6:46:59 PM",
+  "updated_iso": "2026-06-25T18:54:57.314Z",
+  "updated_local": "6/25/2026, 6:54:57 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "CoinEx Denies &#39;Knowledge&#39; of Aiding Sanctioned Iran Crypto Market in $3.8 Billion Disconnect",
+        "url": "https://decrypt.co/372104/coinex-denies-knowledge-aiding-sanctioned-iran-crypto-market",
+        "source": "crypto",
+        "time": "Thu, 25 Jun 2026 18:49:21 +0000"
+      },
       {
         "title": "AI Took Your Job? California Wants to Know",
         "url": "https://decrypt.co/372100/ai-job-loss-california-public-dashboard",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/372071/47m-in-crypto-frozen-in-global-infostealer-takedown-europol",
         "source": "crypto",
         "time": "Thu, 25 Jun 2026 12:55:10 +0000"
-      },
-      {
-        "title": "Morning Minute: Strategy’s MSTR and STRC Crash to 52-Week Lows",
-        "url": "https://decrypt.co/372068/morning-minute-strategys-mstr-and-strc-crash-to-52-week-lows",
-        "source": "crypto",
-        "time": "Thu, 25 Jun 2026 12:01:38 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "6/22/2026, 3:21:04 PM"
       },
       {
-        "title": "Zig's new bitCast semantics and LLVM back end improvements",
-        "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-        "source": "hn",
-        "time": "6/25/2026, 2:19:28 PM"
-      },
-      {
         "title": "I built a GPU back end for Emacs",
         "url": "https://en.andros.dev/blog/4b707a03/how-i-built-a-gpu-backend-for-emacs/",
         "source": "hn",
         "time": "6/23/2026, 9:38:45 AM"
+      },
+      {
+        "title": "Zig's new bitCast semantics and LLVM back end improvements",
+        "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+        "source": "hn",
+        "time": "6/25/2026, 2:19:28 PM"
       }
     ],
     "world": [
