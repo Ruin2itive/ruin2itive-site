@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-25T15:06:58.377Z",
-  "updated_local": "6/25/2026, 3:06:58 PM",
+  "updated_iso": "2026-06-25T16:48:01.647Z",
+  "updated_local": "6/25/2026, 4:48:01 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%",
+        "url": "https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum",
+        "source": "crypto",
+        "time": "Thu, 25 Jun 2026 16:24:03 +0000"
+      },
       {
         "title": "Bitcoin Plummets Lower as Strategy&#39;s STRC Dives Further From $100 Mark",
         "url": "https://decrypt.co/372074/bitcoin-plummets-strategy-strc-dives-further-100",
@@ -26,27 +32,9 @@
         "url": "https://decrypt.co/372065/kalshi-seeks-40b-valuation-weeks-after-1b-raise-ft",
         "source": "crypto",
         "time": "Thu, 25 Jun 2026 10:28:47 +0000"
-      },
-      {
-        "title": "Aave Token Could Climb 50x by End of 2030, Standard Chartered Says—Here&#39;s Why",
-        "url": "https://decrypt.co/372056/aave-token-climb-50x-end-2030-standard-chartered",
-        "source": "crypto",
-        "time": "Wed, 24 Jun 2026 22:27:05 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "You can't unit test for taste",
-        "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
-        "source": "hn",
-        "time": "6/24/2026, 8:54:12 AM"
-      },
-      {
-        "title": "Half-Life 2 in a Browser",
-        "url": "https://hl2.slqnt.dev/",
-        "source": "hn",
-        "time": "6/25/2026, 6:00:04 AM"
-      },
       {
         "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
         "url": "https://hackernewstrends.com",
@@ -54,16 +42,28 @@
         "time": "6/25/2026, 2:08:55 PM"
       },
       {
-        "title": "The Disappearance of Japan's Animators",
-        "url": "https://economist.com/interactive/1843/2026/06/19/the-strange-disappearance-of-japans-animators",
+        "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
         "source": "hn",
-        "time": "6/21/2026, 4:51:47 PM"
+        "time": "6/25/2026, 2:58:50 PM"
       },
       {
-        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-        "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+        "title": "Zig's New BitCast Semantics and LLVM Back End Improvements",
+        "url": "https://ziglang.org/devlog/2026/#2026-06-25",
         "source": "hn",
-        "time": "6/24/2026, 7:48:01 PM"
+        "time": "6/25/2026, 2:19:28 PM"
+      },
+      {
+        "title": "Deno 2.9",
+        "url": "https://deno.com/blog/v2.9",
+        "source": "hn",
+        "time": "6/25/2026, 4:22:55 PM"
+      },
+      {
+        "title": "You can't unit test for taste",
+        "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
+        "source": "hn",
+        "time": "6/24/2026, 8:54:12 AM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Europe's heatwave shifts east as France raises health alert to highest level",
         "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 25 Jun 2026 14:58:10 GMT"
+        "time": "Thu, 25 Jun 2026 15:15:45 GMT"
       },
       {
         "title": "People flee as building collapses on Caracas outskirts",
@@ -80,22 +80,22 @@
         "time": "Thu, 25 Jun 2026 12:08:30 GMT"
       },
       {
-        "title": "TikTok influencer charged with Dubai murder",
+        "title": "TikTok influencer charged with murdering boyfriend in Dubai",
         "url": "https://www.bbc.co.uk/news/articles/cwy0p813jn7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 25 Jun 2026 11:58:44 GMT"
+      },
+      {
+        "title": "Burnham could be leader in weeks under Labour timetable",
+        "url": "https://www.bbc.co.uk/news/articles/cnv9e18r2qyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 25 Jun 2026 16:31:35 GMT"
       },
       {
         "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
         "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 25 Jun 2026 12:08:33 GMT"
-      },
-      {
-        "title": "The games that show the flaws in a 48-team World Cup",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cgev2vdzjvvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 25 Jun 2026 13:38:00 GMT"
       }
     ],
     "projects": [
