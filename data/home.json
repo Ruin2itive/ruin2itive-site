@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-26T15:48:45.563Z",
-  "updated_local": "6/26/2026, 3:48:45 PM",
+  "updated_iso": "2026-06-26T16:42:08.316Z",
+  "updated_local": "6/26/2026, 4:42:08 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Trump Administration Asks OpenAI to Limit GPT-5.6 Rollout: Reports",
+        "url": "https://decrypt.co/372195/trump-administration-asks-openai-to-limit-gpt-5-6-rollout-reports",
+        "source": "crypto",
+        "time": "Fri, 26 Jun 2026 16:38:33 +0000"
+      },
       {
         "title": "Strategy&#39;s Saylor Acknowledges &#39;Volatility Test&#39; as STRC Hits New Low on Bitcoin Weakness",
         "url": "https://decrypt.co/372189/strategy-saylor-volatility-test-strc-new-low-bitcoin-weakness",
@@ -26,53 +32,41 @@
         "url": "https://decrypt.co/372164/bitgo-joins-cryptos-ai-layoff-wave-slashing-staff-by-15",
         "source": "crypto",
         "time": "Fri, 26 Jun 2026 10:15:33 +0000"
-      },
-      {
-        "title": "Anthropic Urges Congress to Crack Down on AI Distillation By Chinese Rivals",
-        "url": "https://decrypt.co/372130/anthropic-urges-congress-crack-down-ai-distillation-chinese-rivals",
-        "source": "crypto",
-        "time": "Thu, 25 Jun 2026 21:13:37 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Why have papers by one of history's most famous physicists been retracted?",
-        "url": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
+        "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+        "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
         "source": "hn",
-        "time": "6/26/2026, 2:10:26 PM"
+        "time": "6/23/2026, 9:39:35 AM"
       },
       {
-        "title": "Incident CVE-2026-LGTM",
-        "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+        "title": "A US military exercise to launch a satellite on short notice",
+        "url": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/",
         "source": "hn",
-        "time": "6/26/2026, 12:58:07 PM"
+        "time": "6/23/2026, 6:04:54 PM"
       },
       {
-        "title": "Jolla Phone, Over 13 500 units sold",
-        "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
-        "source": "hn",
-        "time": "6/26/2026, 2:46:00 PM"
-      },
-      {
-        "title": "Ultrasound Imaging of the Brain",
+        "title": "Ultrasound imaging of the brain",
         "url": "https://alephneuro.com/blog/ultrasound-brain",
         "source": "hn",
         "time": "6/26/2026, 11:51:11 AM"
       },
       {
-        "title": "New satellites from years to weeks, days, or hours",
-        "url": "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/",
+        "title": "Jolla Phone (October 2026)",
+        "url": "https://commerce.jolla.com/products/jolla-phone-october-2026",
         "source": "hn",
-        "time": "6/23/2026, 6:04:54 PM"
+        "time": "6/26/2026, 2:46:00 PM"
+      },
+      {
+        "title": "Springer Nature has removed two studies by Max Planck",
+        "url": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
+        "source": "hn",
+        "time": "6/26/2026, 2:10:26 PM"
       }
     ],
     "world": [
-      {
-        "title": "New bodycam footage shows Henry Nowak killer's arrest and repeated lies to police",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzl5xl3gjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 26 Jun 2026 05:03:23 GMT"
-      },
       {
         "title": "Court rules 13 men who allegedly helped rapist drug and abuse wife can be named",
         "url": "https://www.bbc.co.uk/news/articles/cnv9er181lno?at_medium=RSS&amp;at_campaign=rss",
@@ -80,10 +74,16 @@
         "time": "Fri, 26 Jun 2026 12:51:21 GMT"
       },
       {
-        "title": "Watch: Moment woman pulled from rubble alive",
-        "url": "https://www.bbc.co.uk/news/videos/clyxgxr2672o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Mother dies saving daughter in Venezuela earthquakes",
+        "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 26 Jun 2026 10:06:11 GMT"
+        "time": "Fri, 26 Jun 2026 16:07:18 GMT"
+      },
+      {
+        "title": "Man who punched female police officers at Manchester Airport jailed",
+        "url": "https://www.bbc.co.uk/news/articles/c1my31rr1vno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 26 Jun 2026 16:27:54 GMT"
       },
       {
         "title": "How transparent are the royals being about money?",
