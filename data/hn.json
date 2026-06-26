@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-26T07:15:04.496Z"
+    "built_at": "2026-06-26T09:03:41.397Z"
   },
-  "items": [
-    {
-      "title": "Terminal Agents in 2026: Goose, Claude Code, OpenCode, and Pi Compared",
-      "url": "https://outofcontext.dev/blog/goose-claude-code-opencode-pi/",
-      "date": "2026-06-26T07:12:24.000Z"
-    },
-    {
-      "title": "Anthropic Alleges Largest-Ever Claude Distillation Attack by Alibaba",
-      "url": "https://twitter.com/MTSlive/status/2070141140607832353",
-      "date": "2026-06-26T07:10:07.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
