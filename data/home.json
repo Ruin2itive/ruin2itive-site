@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-06-26T18:47:07.218Z",
-  "updated_local": "6/26/2026, 6:47:07 PM",
+  "updated_iso": "2026-06-26T19:34:13.400Z",
+  "updated_local": "6/26/2026, 7:34:13 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks",
+        "url": "https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks",
+        "source": "crypto",
+        "time": "Fri, 26 Jun 2026 19:23:37 +0000"
+      },
+      {
+        "title": "Senators Demand Answers From CFTC Over Alleged Polymarket Deceptive Advertising",
+        "url": "https://decrypt.co/372239/senators-demand-answers-cftc-polymarket-deceptive-advertising",
+        "source": "crypto",
+        "time": "Fri, 26 Jun 2026 19:18:41 +0000"
+      },
+      {
+        "title": "OpenAI Rolls Out GPT-5.6—But Only for Some Users Due to Trump Admin",
+        "url": "https://decrypt.co/372238/openai-rolls-out-gpt-5-6-limited-access-trump-admin",
+        "source": "crypto",
+        "time": "Fri, 26 Jun 2026 19:06:06 +0000"
+      },
       {
         "title": "Spanish Regulator Says No Extensions for EU Crypto Deadline as Binance Remains Unlicensed",
         "url": "https://decrypt.co/372230/spanish-regulator-no-extensions-eu-crypto-deadline-binance",
@@ -14,32 +32,26 @@
         "url": "https://decrypt.co/372221/ai-agent-openclaw-6000-hack-attempts",
         "source": "crypto",
         "time": "Fri, 26 Jun 2026 18:01:47 +0000"
-      },
-      {
-        "title": "Kalshi Scores FIFA World Cup Spotlight as Prediction Market Trading Surges to Record",
-        "url": "https://decrypt.co/372204/kalshi-scores-fifa-world-cup-spotlight-prediction-market-trading-record",
-        "source": "crypto",
-        "time": "Fri, 26 Jun 2026 17:35:20 +0000"
-      },
-      {
-        "title": "Trump Administration Asks OpenAI to Limit GPT-5.6 Rollout: Reports",
-        "url": "https://decrypt.co/372195/trump-administration-asks-openai-to-limit-gpt-5-6-rollout-reports",
-        "source": "crypto",
-        "time": "Fri, 26 Jun 2026 16:38:33 +0000"
-      },
-      {
-        "title": "Strategy&#39;s Saylor Acknowledges &#39;Volatility Test&#39; as STRC Hits New Low on Bitcoin Weakness",
-        "url": "https://decrypt.co/372189/strategy-saylor-volatility-test-strc-new-low-bitcoin-weakness",
-        "source": "crypto",
-        "time": "Fri, 26 Jun 2026 15:33:49 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "source": "hn",
+        "time": "6/26/2026, 5:06:55 PM"
+      },
       {
         "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
         "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
         "source": "hn",
         "time": "6/23/2026, 9:39:35 AM"
+      },
+      {
+        "title": "U.S. government will decide who gets to use GPT-5.6",
+        "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+        "source": "hn",
+        "time": "6/26/2026, 6:23:14 PM"
       },
       {
         "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
@@ -48,22 +60,10 @@
         "time": "6/26/2026, 4:40:11 PM"
       },
       {
-        "title": "Ultrasound imaging of the brain",
-        "url": "https://alephneuro.com/blog/ultrasound-brain",
+        "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
+        "url": "https://gossamer-lang.org/",
         "source": "hn",
-        "time": "6/26/2026, 11:51:11 AM"
-      },
-      {
-        "title": "U.S. government will decide who gets to use latest upgrade to ChatGPT",
-        "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-        "source": "hn",
-        "time": "6/26/2026, 6:23:14 PM"
-      },
-      {
-        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-        "source": "hn",
-        "time": "6/26/2026, 5:06:55 PM"
+        "time": "6/26/2026, 6:32:22 PM"
       }
     ],
     "world": [
