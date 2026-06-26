@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-26T03:04:42.482Z"
+    "built_at": "2026-06-26T05:24:34.936Z"
   },
-  "items": [
-    {
-      "title": "Thundermail June 2026 Update",
-      "url": "https://blog.thunderbird.net/2026/06/thundermail-june-2026-update-what-we-learned-after-the-first-few-waves-of-invites/",
-      "date": "2026-06-26T02:59:06.000Z"
-    },
-    {
-      "title": "Russell Vought's Latest Plan to Gut the Government Should Terrify You",
-      "url": "https://www.thenation.com/article/politics/russell-vought-omb-grant-rule/",
-      "date": "2026-06-26T02:58:42.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
