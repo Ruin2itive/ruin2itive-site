@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-26T19:37:54.599Z",
-  "updated_local": "6/26/2026, 7:37:54 PM",
+  "updated_iso": "2026-06-26T20:36:07.889Z",
+  "updated_local": "6/26/2026, 8:36:07 PM",
   "sections": {
     "crypto": [
       {
@@ -42,28 +42,28 @@
         "time": "6/26/2026, 5:06:55 PM"
       },
       {
-        "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-        "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
-        "source": "hn",
-        "time": "6/23/2026, 9:39:35 AM"
-      },
-      {
         "title": "U.S. government will decide who gets to use GPT-5.6",
         "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
         "source": "hn",
         "time": "6/26/2026, 6:23:14 PM"
       },
       {
-        "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-        "url": "https://github.com/workweave/router",
+        "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+        "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
         "source": "hn",
-        "time": "6/26/2026, 4:40:11 PM"
+        "time": "6/23/2026, 9:39:35 AM"
       },
       {
         "title": "Gossamer: a Rust-flavoured language with real goroutines and pause-free memory",
         "url": "https://gossamer-lang.org/",
         "source": "hn",
         "time": "6/26/2026, 6:32:22 PM"
+      },
+      {
+        "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+        "url": "https://github.com/workweave/router",
+        "source": "hn",
+        "time": "6/26/2026, 4:40:11 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
         "url": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 26 Jun 2026 17:56:44 GMT"
+        "time": "Fri, 26 Jun 2026 19:40:07 GMT"
       },
       {
         "title": "Court rules 13 men who allegedly helped rapist drug and abuse wife can be named",
@@ -92,10 +92,10 @@
         "time": "Fri, 26 Jun 2026 16:47:10 GMT"
       },
       {
-        "title": "How transparent are the royals being about money?",
-        "url": "https://www.bbc.co.uk/news/articles/c77yzgnp5lvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Canada eligible to join Eurovision competition",
+        "url": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 26 Jun 2026 15:03:39 GMT"
+        "time": "Fri, 26 Jun 2026 13:41:36 GMT"
       }
     ],
     "projects": [
