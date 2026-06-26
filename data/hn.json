@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-26T12:47:31.295Z"
+    "built_at": "2026-06-26T13:39:11.497Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Build an SMS Auto-Reply Bot with the Telnyx Messaging API",
+      "url": "https://telnyx.com/resources/sms-auto-reply-bot",
+      "date": "2026-06-26T13:37:43.000Z"
+    },
+    {
+      "title": "Deadly abuse of mobilized men in Ukraine",
+      "url": "https://eventsinukraine.substack.com/p/concentration-camp-army",
+      "date": "2026-06-26T13:37:20.000Z"
+    }
+  ]
 }
