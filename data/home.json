@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-26T09:17:47.753Z",
-  "updated_local": "6/26/2026, 9:17:47 AM",
+  "updated_iso": "2026-06-26T11:02:36.676Z",
+  "updated_local": "6/26/2026, 11:02:36 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "BitGo Joins Crypto&#39;s AI Layoff Wave, Slashing Staff by 15%",
+        "url": "https://decrypt.co/372164/bitgo-joins-cryptos-ai-layoff-wave-slashing-staff-by-15",
+        "source": "crypto",
+        "time": "Fri, 26 Jun 2026 10:15:33 +0000"
+      },
       {
         "title": "Anthropic Urges Congress to Crack Down on AI Distillation By Chinese Rivals",
         "url": "https://decrypt.co/372130/anthropic-urges-congress-crack-down-ai-distillation-chinese-rivals",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/372110/coinbase-ethereum-network-base-recovers-block-production-issue",
         "source": "crypto",
         "time": "Thu, 25 Jun 2026 19:19:05 +0000"
-      },
-      {
-        "title": "Story Protocol Rebrands as Data Network in AI Training Pivot After IP Token Falls 98%",
-        "url": "https://decrypt.co/372107/story-protocol-rebrands-data-network-ai-training-pivot",
-        "source": "crypto",
-        "time": "Thu, 25 Jun 2026 19:11:36 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "We All Depend on Open Source. We Will Defend It Together",
+        "url": "https://akrites.org/letter/",
+        "source": "hn",
+        "time": "6/26/2026, 5:40:36 AM"
+      },
       {
         "title": "Om Malik has died",
         "url": "https://om.co/2026/06/24/1966-2026/",
@@ -48,37 +54,19 @@
         "time": "6/25/2026, 3:48:07 PM"
       },
       {
-        "title": "We All Depend on Open Source. We Will Defend It Together",
-        "url": "https://akrites.org/letter/",
-        "source": "hn",
-        "time": "6/26/2026, 5:40:36 AM"
-      },
-      {
-        "title": "Why current LLM costs are not sustainable",
-        "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-        "source": "hn",
-        "time": "6/26/2026, 7:44:11 AM"
-      },
-      {
         "title": "Libre Barcode Project",
         "url": "https://graphicore.github.io/librebarcode/",
         "source": "hn",
         "time": "6/26/2026, 3:12:42 AM"
+      },
+      {
+        "title": "What happened after 2k people tried to hack my AI assistant",
+        "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+        "source": "hn",
+        "time": "6/26/2026, 2:29:23 AM"
       }
     ],
     "world": [
-      {
-        "title": "King becomes first monarch to reveal tax bill as royal public funding to double to £100m",
-        "url": "https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 26 Jun 2026 08:38:41 GMT"
-      },
-      {
-        "title": "King and Queen will not live in Buckingham Palace after renovations",
-        "url": "https://www.bbc.co.uk/news/articles/cdr4z5rxympo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 25 Jun 2026 21:01:21 GMT"
-      },
       {
         "title": "New bodycam footage shows Henry Nowak killer's arrest and repeated lies to police",
         "url": "https://www.bbc.co.uk/news/articles/c5yzl5xl3gjo?at_medium=RSS&amp;at_campaign=rss",
@@ -86,16 +74,28 @@
         "time": "Fri, 26 Jun 2026 05:03:23 GMT"
       },
       {
-        "title": "Chris Mason: The anatomy of the prime minister's downfall",
-        "url": "https://www.bbc.co.uk/news/articles/ckg8kkdx7l9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "King becomes first monarch to reveal tax bill as royal public funding to double to £100m",
+        "url": "https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 26 Jun 2026 00:38:18 GMT"
+        "time": "Fri, 26 Jun 2026 09:21:08 GMT"
       },
       {
-        "title": "Boy, 14, charged with murder after body found in search for girl in south Wales",
-        "url": "https://www.bbc.co.uk/news/articles/cwyd1w958jzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "King and Queen will not live in Buckingham Palace after renovations",
+        "url": "https://www.bbc.co.uk/news/articles/cdr4z5rxympo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 26 Jun 2026 05:28:48 GMT"
+        "time": "Fri, 26 Jun 2026 11:01:05 GMT"
+      },
+      {
+        "title": "Watch: Driver gives lift to armed officer chasing suspect",
+        "url": "https://www.bbc.co.uk/news/articles/clyxg76527po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 25 Jun 2026 21:09:16 GMT"
+      },
+      {
+        "title": "I'm back at home again after uni - here's how I'm making it work",
+        "url": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 25 Jun 2026 23:03:48 GMT"
       }
     ],
     "projects": [
