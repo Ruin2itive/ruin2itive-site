@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-26T14:52:28.201Z"
+    "built_at": "2026-06-26T15:44:56.009Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Three Agents Went to War over a Garden",
+      "url": "https://johnmayosmith.substack.com/p/three-agents-went-to-war-over-a-garden",
+      "date": "2026-06-26T15:43:16.000Z"
+    },
+    {
+      "title": "Ava Supernova – open-source coding agent for open-weight LLMs",
+      "url": "https://github.com/AugmentedValueAcceleration/ava-supernova",
+      "date": "2026-06-26T15:38:06.000Z"
+    }
+  ]
 }
