@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-27T07:17:35.657Z",
-  "updated_local": "6/27/2026, 7:17:35 AM",
+  "updated_iso": "2026-06-27T08:57:32.051Z",
+  "updated_local": "6/27/2026, 8:57:32 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "OpenTTD 16.0-Beta1",
-        "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
-        "source": "hn",
-        "time": "6/27/2026, 4:31:06 AM"
-      },
-      {
         "title": "Previewing GPT‑5.6 Sol: a next-generation model",
         "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
         "source": "hn",
@@ -54,16 +48,22 @@
         "time": "6/27/2026, 3:30:01 AM"
       },
       {
+        "title": "Long Wave radio era set to end with switch-off",
+        "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
+        "source": "hn",
+        "time": "6/25/2026, 6:42:17 PM"
+      },
+      {
+        "title": "Linux on Older Hardware: The Complete Revival Guide",
+        "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
+        "source": "hn",
+        "time": "6/25/2026, 4:06:29 AM"
+      },
+      {
         "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
         "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
         "source": "hn",
         "time": "6/26/2026, 10:43:29 PM"
-      },
-      {
-        "title": "IBM MCGA Gate Array Reverse Engineering",
-        "url": "https://github.com/schlae/IBM_MCGA",
-        "source": "hn",
-        "time": "6/27/2026, 5:17:08 AM"
       }
     ],
     "world": [
@@ -71,13 +71,13 @@
         "title": "US strikes Iran after attack on cargo ship",
         "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 27 Jun 2026 02:48:12 GMT"
+        "time": "Sat, 27 Jun 2026 08:25:43 GMT"
       },
       {
         "title": "Mahmood announces new refugee sponsorship route into UK",
         "url": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 27 Jun 2026 07:04:04 GMT"
+        "time": "Sat, 27 Jun 2026 08:56:49 GMT"
       },
       {
         "title": "Are we in for a summer of serial heatwaves?",
@@ -86,16 +86,16 @@
         "time": "Sat, 27 Jun 2026 03:16:46 GMT"
       },
       {
-        "title": "Three unusual things about the King's tax bill",
-        "url": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 26 Jun 2026 23:00:30 GMT"
-      },
-      {
         "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
         "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 26 Jun 2026 23:01:50 GMT"
+      },
+      {
+        "title": "Three unusual things about the King's tax bill",
+        "url": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 26 Jun 2026 23:00:30 GMT"
       }
     ],
     "projects": [
