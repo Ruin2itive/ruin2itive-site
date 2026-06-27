@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-27T09:04:34.707Z",
-  "updated_local": "6/27/2026, 9:04:34 AM",
+  "updated_iso": "2026-06-27T09:47:35.330Z",
+  "updated_local": "6/27/2026, 9:47:35 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+        "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+        "source": "hn",
+        "time": "6/27/2026, 9:18:52 AM"
+      },
+      {
         "title": "Previewing GPT‑5.6 Sol: a next-generation model",
         "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
         "source": "hn",
         "time": "6/26/2026, 5:06:55 PM"
+      },
+      {
+        "title": "Linux on Older Hardware: The Complete Revival Guide",
+        "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
+        "source": "hn",
+        "time": "6/25/2026, 4:06:29 AM"
       },
       {
         "title": "Long Wave radio era set to end with switch-off",
@@ -52,27 +64,9 @@
         "url": "https://www.sfwriter.com/wordstar.htm",
         "source": "hn",
         "time": "6/27/2026, 3:30:01 AM"
-      },
-      {
-        "title": "Linux on Older Hardware: The Complete Revival Guide",
-        "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
-        "source": "hn",
-        "time": "6/25/2026, 4:06:29 AM"
-      },
-      {
-        "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-        "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-        "source": "hn",
-        "time": "6/26/2026, 10:43:29 PM"
       }
     ],
     "world": [
-      {
-        "title": "US strikes Iran after attack on cargo ship",
-        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 27 Jun 2026 08:25:43 GMT"
-      },
       {
         "title": "Mahmood announces new refugee sponsorship route into UK",
         "url": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&amp;at_campaign=rss",
@@ -86,16 +80,22 @@
         "time": "Sat, 27 Jun 2026 03:16:46 GMT"
       },
       {
+        "title": "US strikes Iran after attack on cargo ship",
+        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 27 Jun 2026 08:25:43 GMT"
+      },
+      {
         "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
         "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 26 Jun 2026 23:01:50 GMT"
       },
       {
-        "title": "Three unusual things about the King's tax bill",
-        "url": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Is Andy Burnham Labour's saviour, or just its best bet?",
+        "url": "https://www.bbc.co.uk/news/articles/c621e13n2dvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 26 Jun 2026 23:00:30 GMT"
+        "time": "Sat, 27 Jun 2026 09:43:41 GMT"
       }
     ],
     "projects": [
