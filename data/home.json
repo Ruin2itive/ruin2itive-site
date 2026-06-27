@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-27T01:41:25.049Z",
-  "updated_local": "6/27/2026, 1:41:25 AM",
+  "updated_iso": "2026-06-27T03:08:51.701Z",
+  "updated_local": "6/27/2026, 3:08:51 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+        "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+        "source": "hn",
+        "time": "6/26/2026, 10:48:28 PM"
+      },
+      {
         "title": "Previewing GPT‑5.6 Sol: a next-generation model",
         "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "6/26/2026, 10:43:29 PM"
       },
       {
-        "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-        "url": "https://github.com/Tessil/hopscotch-map",
+        "title": "Show HN: Hacker News on a Train Station Style Flip Board",
+        "url": "https://popflame.quickish.space/hn-flipboard/",
         "source": "hn",
-        "time": "6/26/2026, 9:18:28 PM"
+        "time": "6/27/2026, 12:43:39 AM"
       },
       {
-        "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-        "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+        "title": "AI in mathematics is forcing big questions",
+        "url": "https://spectrum.ieee.org/ai-in-mathematics",
         "source": "hn",
-        "time": "6/23/2026, 9:39:35 AM"
-      },
-      {
-        "title": "U.S. government will decide who gets to use GPT-5.6",
-        "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-        "source": "hn",
-        "time": "6/26/2026, 6:23:14 PM"
+        "time": "6/26/2026, 10:36:51 PM"
       }
     ],
     "world": [
@@ -71,7 +71,13 @@
         "title": "US conducts strikes on Iran after attack on cargo ship",
         "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 27 Jun 2026 00:34:08 GMT"
+        "time": "Sat, 27 Jun 2026 02:48:12 GMT"
+      },
+      {
+        "title": "Home Office to introduce new asylum routes to UK",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 27 Jun 2026 01:03:00 GMT"
       },
       {
         "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
@@ -84,12 +90,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 26 Jun 2026 21:15:37 GMT"
-      },
-      {
-        "title": "Home Office to introduce new asylum routes to UK",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 27 Jun 2026 01:03:00 GMT"
       },
       {
         "title": "Three unusual things about the King's tax bill",
