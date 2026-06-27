@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-27T12:25:11.259Z"
+    "built_at": "2026-06-27T13:31:17.395Z"
   },
-  "items": [
-    {
-      "title": "Generative artificial intelligence creates delicious, nutritious burgers",
-      "url": "https://www.nature.com/articles/s41538-026-00953-x",
-      "date": "2026-06-27T12:20:46.000Z"
-    },
-    {
-      "title": "What's cooking on Sourcehut? Q2 2026",
-      "url": "https://sourcehut.org/blog/2026-05-28-whats-cooking-q2-2026/",
-      "date": "2026-06-27T12:19:38.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
