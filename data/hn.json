@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-27T10:38:20.931Z"
+    "built_at": "2026-06-27T11:30:04.947Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "I built a habit tracker with no streaks",
+      "url": "https://habitoftheday.com/",
+      "date": "2026-06-27T11:27:52.000Z"
+    },
+    {
+      "title": "It's Official: F-35s Are Now Being Delivered Without Radars",
+      "url": "https://www.twz.com/air/its-official-f-35s-are-now-being-delivered-without-radars",
+      "date": "2026-06-27T11:27:02.000Z"
+    }
+  ]
 }
