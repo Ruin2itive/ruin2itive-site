@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-27T19:29:29.900Z"
+    "built_at": "2026-06-27T20:22:53.793Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Art Is for Seeing Evil (2022)",
+      "url": "https://thepointmag.com/examined-life/art-is-for-seeing-evil/",
+      "date": "2026-06-27T20:22:02.000Z"
+    },
+    {
+      "title": "Show HN: Remote control for dev environment, not just agents",
+      "url": "https://shellular.dev/",
+      "date": "2026-06-27T20:17:49.000Z"
+    }
+  ]
 }
