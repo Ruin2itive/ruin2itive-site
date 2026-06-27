@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-27T09:42:15.351Z"
+    "built_at": "2026-06-27T10:38:20.931Z"
   },
-  "items": [
-    {
-      "title": "NVMe-CLI v3.0B.1 ships per-cycle sanitize verification",
-      "url": "https://github.com/linux-nvme/nvme-cli/releases/tag/v3.0-b.1",
-      "date": "2026-06-27T09:40:44.000Z"
-    },
-    {
-      "title": "Show HN: The TypeScript Semantic Layer for ClickHouse",
-      "url": "https://github.com/hypequery/hypequery",
-      "date": "2026-06-27T09:37:39.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
