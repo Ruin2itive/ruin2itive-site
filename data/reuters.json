@@ -4,8 +4,18 @@
     "label": "reuters",
     "source_url": "https://news.google.com/rss/search?q=site%3Areuters.com%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
     "take": 2,
-    "built_at": "2026-06-27T16:23:24.549Z"
+    "built_at": "2026-06-27T17:23:33.968Z"
   },
-  "error": "HTTP 503",
-  "items": []
+  "items": [
+    {
+      "title": "Venezuela welcomes 1,600 foreign rescuers in urgent search for quake survivors - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWTBoQWpRZU5sQ0FYSmhuUjR4ZUNSSUdVUkVqdkVReGJCRHNDM3FuNTl5VG1KN2tISEtObEFRRlJXRkJOT05UeGMtelh1ZG4zMDVvTmplZ2NyYVZ3TDBoek00MkRrS0lQMmlEX09SX2lQT09US3BpbmxIOU5TdVh1UFB0ZmMwRDZ5dVJzVVNhV05QVTNrZ3hXYW1qdHZVVFhTUzJQMUkydURweFlpZ1dVOF9USzdIZVBnWjdpRWJB?oc=5",
+      "date": "2026-06-27T16:58:26.000Z"
+    },
+    {
+      "title": "France considers measures after Burkina Faso breaks off relations - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVVkzd25wT0xoa2RFR04xcUxtaXpYOTN4OUNRNGEyQ3hzQ1lkeW5Pazk0WWNQOTJneVNVTHotTVViOG9rUE53b3BFMS0ya0NiNDFaTXMtMWt3OER5bjc3YjFPNXVnbVpaU19UdlFLckd6ay1DVlVDVGk2Ql9IZFVsSzNhYlF0OV85UVUzMThscnlLSENHbUJILVVlS0RmZGI1ellubjJFQkprQWdIUUhFT1BQeUg?oc=5",
+      "date": "2026-06-27T16:33:22.000Z"
+    }
+  ]
 }

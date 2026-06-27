@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-27T16:23:14.455Z"
+    "built_at": "2026-06-27T17:23:32.658Z"
   },
-  "items": [
-    {
-      "title": "From Emacs to Cursor, the end of your IDEs is near",
-      "url": "https://maleus.ai/blog/the-end-of-local-ides",
-      "date": "2026-06-27T16:19:22.000Z"
-    },
-    {
-      "title": "Anthropic says Alibaba used 25k accounts to mine Claude",
-      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-      "date": "2026-06-27T16:16:20.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
