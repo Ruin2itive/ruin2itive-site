@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-27T13:31:17.395Z"
+    "built_at": "2026-06-27T14:30:58.589Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Miglite – raw SQL migrations for Go projects",
+      "url": "https://inhere.github.io/en/blog/2026/gookit-miglite-intro/",
+      "date": "2026-06-27T14:29:34.000Z"
+    },
+    {
+      "title": "Why Germany's Deutsche Bahn will face delays for many years",
+      "url": "https://www.dw.com/en/why-germanys-deutsche-bahn-will-face-delays-for-many-years/a-77721079",
+      "date": "2026-06-27T14:27:35.000Z"
+    }
+  ]
 }
