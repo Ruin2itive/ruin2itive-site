@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-27T12:39:58.446Z",
-  "updated_local": "6/27/2026, 12:39:58 PM",
+  "updated_iso": "2026-06-27T13:33:28.217Z",
+  "updated_local": "6/27/2026, 1:33:28 PM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+        "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
         "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
         "source": "hn",
         "time": "6/27/2026, 9:18:52 AM"
-      },
-      {
-        "title": "Fintech Engineering Handbook",
-        "url": "https://w.pitula.me/fintech-engineering-handbook/",
-        "source": "hn",
-        "time": "6/27/2026, 10:28:53 AM"
-      },
-      {
-        "title": "Beer CSS – Build material design in record time",
-        "url": "https://www.beercss.com",
-        "source": "hn",
-        "time": "6/27/2026, 9:06:11 AM"
       },
       {
         "title": "OpenRA",
@@ -60,13 +48,31 @@
         "time": "6/27/2026, 12:10:27 PM"
       },
       {
-        "title": "Long Wave radio era set to end with switch-off",
-        "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
+        "title": "Fintech Engineering Handbook",
+        "url": "https://w.pitula.me/fintech-engineering-handbook/",
         "source": "hn",
-        "time": "6/25/2026, 6:42:17 PM"
+        "time": "6/27/2026, 10:28:53 AM"
+      },
+      {
+        "title": "If you can't hold it, you don't own it",
+        "url": "https://dervis.de/physical/",
+        "source": "hn",
+        "time": "6/27/2026, 11:32:10 AM"
+      },
+      {
+        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "source": "hn",
+        "time": "6/26/2026, 5:06:55 PM"
       }
     ],
     "world": [
+      {
+        "title": "Watch: Moment newborn baby is rescued from Venezuela earthquake rubble",
+        "url": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 27 Jun 2026 12:51:25 GMT"
+      },
       {
         "title": "Mahmood announces new refugee sponsorship route into UK",
         "url": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&amp;at_campaign=rss",
@@ -77,7 +83,7 @@
         "title": "Hundreds of Heathrow and Gatwick flights delayed due to thunderstorms",
         "url": "https://www.bbc.co.uk/news/articles/cjwgynnwyw2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 27 Jun 2026 11:33:02 GMT"
+        "time": "Sat, 27 Jun 2026 12:44:22 GMT"
       },
       {
         "title": "Are we in for a summer of serial heatwaves?",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 27 Jun 2026 10:40:38 GMT"
-      },
-      {
-        "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-        "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 26 Jun 2026 23:01:50 GMT"
       }
     ],
     "projects": [
