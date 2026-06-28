@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-28T12:40:21.151Z",
-  "updated_local": "6/28/2026, 12:40:21 PM",
+  "updated_iso": "2026-06-28T13:33:21.942Z",
+  "updated_local": "6/28/2026, 1:33:21 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "The Future Cyberpunk Imagined Is Here: How Much Did It Get Right?",
+        "url": "https://decrypt.co/372248/future-cyberpunk-imagined-here",
+        "source": "crypto",
+        "time": "Sun, 28 Jun 2026 13:01:04 +0000"
+      },
       {
         "title": "The Stablecoin Founder Map Doesn&#39;t Match the Stablecoin Volume Map",
         "url": "https://decrypt.co/371967/stablecoin-founder-map-doesnt-match-stablecoin-volume-map",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks",
         "source": "crypto",
         "time": "Fri, 26 Jun 2026 19:23:37 +0000"
-      },
-      {
-        "title": "Senators Demand Answers From CFTC Over Alleged Polymarket Deceptive Advertising",
-        "url": "https://decrypt.co/372239/senators-demand-answers-cftc-polymarket-deceptive-advertising",
-        "source": "crypto",
-        "time": "Fri, 26 Jun 2026 19:18:41 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+        "url": "https://github.com/openai/codex/issues/2847",
+        "source": "hn",
+        "time": "6/28/2026, 12:27:33 PM"
+      },
       {
         "title": "Marfa Public Radio Puts You to Sleep",
         "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
@@ -48,48 +54,42 @@
         "time": "6/28/2026, 9:53:58 AM"
       },
       {
-        "title": "Bashblog – a single bash script to create blogs",
-        "url": "https://github.com/cfenollosa/bashblog",
+        "title": "Kids act would require age checks to get online",
+        "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
         "source": "hn",
-        "time": "6/28/2026, 4:48:32 AM"
+        "time": "6/28/2026, 11:56:16 AM"
       },
       {
-        "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-        "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+        "title": "The MUMPS 76 Primer – anniversary edition",
+        "url": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc",
         "source": "hn",
-        "time": "6/28/2026, 12:46:52 AM"
-      },
-      {
-        "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-        "url": "https://github.com/bikini/exploitarium",
-        "source": "hn",
-        "time": "6/27/2026, 2:31:00 PM"
+        "time": "6/28/2026, 12:41:45 PM"
       }
     ],
     "world": [
       {
-        "title": "Knockouts are here - what is England's path to the final?",
+        "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
+        "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 28 Jun 2026 12:39:41 GMT"
+      },
+      {
+        "title": "I hear my son crying beneath the rubble, says Venezuela earthquake survivor",
+        "url": "https://www.bbc.co.uk/news/articles/ckg4zz90wk7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 28 Jun 2026 03:15:06 GMT"
+      },
+      {
+        "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 28 Jun 2026 13:21:33 GMT"
+      },
+      {
+        "title": "World Cup knockouts are here - what is England's path to the final?",
         "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 28 Jun 2026 05:39:46 GMT"
-      },
-      {
-        "title": "Families calling out to loved ones trapped in rubble by Venezuela quakes",
-        "url": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 27 Jun 2026 21:12:51 GMT"
-      },
-      {
-        "title": "Eleven killed in civilian aircraft crash in  north-eastern France, authorities say",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 28 Jun 2026 12:10:19 GMT"
-      },
-      {
-        "title": "Harry reconsiders bringing Meghan and children on UK trip",
-        "url": "https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 28 Jun 2026 08:44:25 GMT"
       },
       {
         "title": "Senior Labour figures say party is united behind Andy Burnham",
