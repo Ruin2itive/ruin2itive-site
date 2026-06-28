@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-28T14:33:16.218Z"
+    "built_at": "2026-06-28T15:27:30.160Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Zanagrams",
+      "url": "https://zanagrams.com/",
+      "date": "2026-06-28T15:26:14.000Z"
+    },
+    {
+      "title": "Hi I M a Hack",
+      "url": "https://news.ycombinator.com/item?id=48708166",
+      "date": "2026-06-28T15:24:55.000Z"
+    }
+  ]
 }
