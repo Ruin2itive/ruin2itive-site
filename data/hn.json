@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-28T17:25:45.429Z"
+    "built_at": "2026-06-28T18:23:21.126Z"
   },
-  "items": [
-    {
-      "title": "White House Will Ad Hoc Decide Who Can Individually Access GPT-5.6",
-      "url": "https://thezvi.substack.com/p/white-house-will-ad-hoc-decide-who",
-      "date": "2026-06-28T17:22:01.000Z"
-    },
-    {
-      "title": "Movie reconstruction from mouse video cortex activity",
-      "url": "https://www.youtube.com/watch?v=K3Hvy4CKVpg",
-      "date": "2026-06-28T17:20:55.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
