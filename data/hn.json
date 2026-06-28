@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-28T00:34:27.896Z"
+    "built_at": "2026-06-28T01:41:19.408Z"
   },
-  "items": [
-    {
-      "title": "I'm Building a Space Cadet Pinball Machine [video]",
-      "url": "https://www.youtube.com/watch?v=BU_02HABZ4s",
-      "date": "2026-06-28T00:33:38.000Z"
-    },
-    {
-      "title": "Toolkit for Your AI Scientists – Rigorous, Auditable and Verifiable",
-      "url": "https://github.com/ARA-Labs/Agent-Native-Research-Artifact",
-      "date": "2026-06-28T00:33:19.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
