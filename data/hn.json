@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-28T12:25:55.547Z"
+    "built_at": "2026-06-28T13:31:05.242Z"
   },
-  "items": [
-    {
-      "title": "Guy in his basement invents a drug to treat Alzheimer's disease",
-      "url": "https://twitter.com/DouglasYaoDY/status/2070904914050797582",
-      "date": "2026-06-28T12:23:25.000Z"
-    },
-    {
-      "title": "NASA tests AI medic for astronauts too far from Earth to call a doctor",
-      "url": "https://www.theregister.com/ai-and-ml/2026/06/27/nasa-tests-ai-medic-for-astronauts-too-far-from-earth-to-call-a-doctor/5262828",
-      "date": "2026-06-28T12:23:07.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
