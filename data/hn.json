@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-28T18:23:21.126Z"
+    "built_at": "2026-06-28T19:29:40.852Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "A wire-faithful, browser-based re-creation of the Atari ST game MIDI Maze",
+      "url": "https://github.com/diegoparrilla/midi-maze-js",
+      "date": "2026-06-28T19:17:52.000Z"
+    },
+    {
+      "title": "WinPE as a stateless harness for Windows driver testing and fuzzing",
+      "url": "https://bednars.me/blog/winpe-harness",
+      "date": "2026-06-28T19:17:42.000Z"
+    }
+  ]
 }
