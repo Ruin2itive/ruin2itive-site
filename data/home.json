@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-27T23:28:48.620Z",
-  "updated_local": "6/27/2026, 11:28:48 PM",
+  "updated_iso": "2026-06-28T00:49:24.070Z",
+  "updated_local": "6/28/2026, 12:49:24 AM",
   "sections": {
     "crypto": [
       {
@@ -54,30 +54,24 @@
         "time": "6/27/2026, 12:10:27 PM"
       },
       {
+        "title": "Choosing a Public DNS Resolver",
+        "url": "https://evilbit.de/dns-resolver-guide.html",
+        "source": "hn",
+        "time": "6/27/2026, 10:11:28 PM"
+      },
+      {
         "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
         "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
         "source": "hn",
         "time": "6/27/2026, 9:18:52 AM"
-      },
-      {
-        "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-        "url": "https://github.com/kageroumado/adrafinil",
-        "source": "hn",
-        "time": "6/27/2026, 8:34:53 PM"
       }
     ],
     "world": [
       {
-        "title": "Scotland's elimination from World Cup confirmed",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cddl508zgp5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Clarke steps down as Scotland boss after World Cup exit",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5yzq73x1p7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 27 Jun 2026 22:58:57 GMT"
-      },
-      {
-        "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
-        "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 27 Jun 2026 08:56:30 GMT"
+        "time": "Sat, 27 Jun 2026 23:37:18 GMT"
       },
       {
         "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
@@ -86,16 +80,22 @@
         "time": "Sat, 27 Jun 2026 21:12:51 GMT"
       },
       {
-        "title": "US conducts retaliatory strikes on Iran after second shipping attack",
+        "title": "US launches strikes on Iran after second shipping attack",
         "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 27 Jun 2026 23:06:40 GMT"
+        "time": "Sun, 28 Jun 2026 00:36:22 GMT"
       },
       {
-        "title": "Thunderstorms delay hundreds of Heathrow and Gatwick flights",
-        "url": "https://www.bbc.co.uk/news/articles/cjwgynnwyw2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Burnham will need a Moscow test as well as Makerfield test, says ex-military chief",
+        "url": "https://www.bbc.co.uk/news/articles/cdxdwr0xk55o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 27 Jun 2026 19:23:02 GMT"
+        "time": "Sat, 27 Jun 2026 21:39:15 GMT"
+      },
+      {
+        "title": "Lib Dems face call for inquiry into deselection of election candidate",
+        "url": "https://www.bbc.co.uk/news/articles/c4gypnyk788o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 27 Jun 2026 23:43:34 GMT"
       }
     ],
     "projects": [
