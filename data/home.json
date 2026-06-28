@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-28T13:33:21.942Z",
-  "updated_local": "6/28/2026, 1:33:21 PM",
+  "updated_iso": "2026-06-28T13:37:59.167Z",
+  "updated_local": "6/28/2026, 1:37:59 PM",
   "sections": {
     "crypto": [
       {
@@ -48,22 +48,22 @@
         "time": "6/28/2026, 2:23:08 AM"
       },
       {
-        "title": "DLL that was not present in memory despite not being formally unloaded",
-        "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
-        "source": "hn",
-        "time": "6/28/2026, 9:53:58 AM"
-      },
-      {
         "title": "Kids act would require age checks to get online",
         "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
         "source": "hn",
         "time": "6/28/2026, 11:56:16 AM"
       },
       {
-        "title": "The MUMPS 76 Primer – anniversary edition",
-        "url": "https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc",
+        "title": "DLL that was not present in memory despite not being formally unloaded",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
         "source": "hn",
-        "time": "6/28/2026, 12:41:45 PM"
+        "time": "6/28/2026, 9:53:58 AM"
+      },
+      {
+        "title": "Bashblog – a single bash script to create blogs",
+        "url": "https://github.com/cfenollosa/bashblog",
+        "source": "hn",
+        "time": "6/28/2026, 4:48:32 AM"
       }
     ],
     "world": [
