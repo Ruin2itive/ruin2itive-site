@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-28T09:01:26.684Z"
+    "built_at": "2026-06-28T10:43:10.884Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: uvx qrdrop – instant LAN file sharing from your terminal",
+      "url": "https://github.com/itsloopyo/qrdrop",
+      "date": "2026-06-28T10:41:12.000Z"
+    },
+    {
+      "title": "We've built the first VPN protocol that breaks all speed barriers",
+      "url": "https://surfshark.com/blog/surfshark-launches-a-vpn-protocol",
+      "date": "2026-06-28T10:39:19.000Z"
+    }
+  ]
 }
