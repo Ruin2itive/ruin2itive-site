@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-28T11:38:50.700Z",
-  "updated_local": "6/28/2026, 11:38:50 AM",
+  "updated_iso": "2026-06-28T12:31:15.361Z",
+  "updated_local": "6/28/2026, 12:31:15 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "6/28/2026, 2:23:08 AM"
       },
       {
+        "title": "DLL that was not present in memory despite not being formally unloaded",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+        "source": "hn",
+        "time": "6/28/2026, 9:53:58 AM"
+      },
+      {
         "title": "Bashblog – a single bash script to create blogs",
         "url": "https://github.com/cfenollosa/bashblog",
         "source": "hn",
@@ -52,12 +58,6 @@
         "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
         "source": "hn",
         "time": "6/28/2026, 12:46:52 AM"
-      },
-      {
-        "title": "OpenRA",
-        "url": "https://www.openra.net/",
-        "source": "hn",
-        "time": "6/27/2026, 12:10:27 PM"
       },
       {
         "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
@@ -80,22 +80,22 @@
         "time": "Sat, 27 Jun 2026 21:12:51 GMT"
       },
       {
+        "title": "Eleven killed in civilian aircraft crash in  north-eastern France, authorities say",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 28 Jun 2026 12:10:19 GMT"
+      },
+      {
         "title": "Harry reconsiders bringing Meghan and children on UK trip",
         "url": "https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 28 Jun 2026 08:44:25 GMT"
       },
       {
-        "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-        "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 28 Jun 2026 04:54:50 GMT"
-      },
-      {
         "title": "Senior Labour figures say party is united behind Andy Burnham",
         "url": "https://www.bbc.co.uk/news/articles/cn0vkle1q5ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 28 Jun 2026 11:04:07 GMT"
+        "time": "Sun, 28 Jun 2026 11:41:54 GMT"
       }
     ],
     "projects": [
