@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-29T07:46:52.345Z",
-  "updated_local": "6/29/2026, 7:46:52 AM",
+  "updated_iso": "2026-06-29T08:04:13.509Z",
+  "updated_local": "6/29/2026, 8:04:13 AM",
   "sections": {
     "crypto": [
       {
@@ -48,6 +48,12 @@
         "time": "6/28/2026, 5:50:47 PM"
       },
       {
+        "title": "Replacing Systemd with OpenRC in Debian",
+        "url": "https://danielcordova.me/blog/debian-openrc/",
+        "source": "hn",
+        "time": "6/29/2026, 6:37:44 AM"
+      },
+      {
         "title": "Dissecting Apple's Sparse Image Format (ASIF)",
         "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
         "source": "hn",
         "time": "6/29/2026, 3:42:07 AM"
-      },
-      {
-        "title": "Herdr: Agent multiplexer that lives in your terminal",
-        "url": "https://github.com/ogulcancelik/herdr",
-        "source": "hn",
-        "time": "6/29/2026, 4:27:46 AM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Sun, 28 Jun 2026 21:20:53 GMT"
       },
       {
+        "title": "Mum of newborn rescued from Venezuela rubble says baby motivated her to stay alive",
+        "url": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 29 Jun 2026 07:51:05 GMT"
+      },
+      {
         "title": "White working-class children failed by education system, says inquiry",
         "url": "https://www.bbc.co.uk/news/articles/cq51j10q601o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/weather/articles/c5yzq1q4zm8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 28 Jun 2026 23:54:51 GMT"
-      },
-      {
-        "title": "US says it has agreed with Iran to 'stand down' after trading strikes, reports say",
-        "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 29 Jun 2026 04:52:17 GMT"
       }
     ],
     "projects": [
