@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-29T22:22:46.838Z"
+    "built_at": "2026-06-29T23:21:22.232Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Fault-tolerant 4-neighbor hardware mesh with auto-rerouting",
-      "url": "https://github.com/PJHkorea/consciousness-auto-rotation-artificial-neural-bypass/blob/main/fluxmesh_hybrid_test_core.h",
-      "date": "2026-06-29T22:19:31.000Z"
-    },
-    {
-      "title": "Uncapping the U.S. House is achievable and impactful",
-      "url": "https://cmarmitage.substack.com/p/a-wildly-undervalued-tool-for-restoring",
-      "date": "2026-06-29T22:18:33.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
