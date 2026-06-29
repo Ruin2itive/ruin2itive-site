@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-29T13:31:46.256Z",
-  "updated_local": "6/29/2026, 1:31:46 PM",
+  "updated_iso": "2026-06-29T14:28:51.699Z",
+  "updated_local": "6/29/2026, 2:28:51 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "Tidal AI Policy",
+        "url": "https://tidal.com/ai-policy",
+        "source": "hn",
+        "time": "6/29/2026, 1:09:03 PM"
+      },
+      {
+        "title": "Building Principia for Windows XP",
+        "url": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/",
+        "source": "hn",
+        "time": "6/29/2026, 1:23:19 PM"
+      },
+      {
         "title": "Sandia National Labs SA3000 8085 CPU",
         "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
         "source": "hn",
@@ -48,22 +60,10 @@
         "time": "6/29/2026, 1:44:40 AM"
       },
       {
-        "title": "GLM 5.2 beats Claude in our benchmarks",
-        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+        "title": "What happens when you run a CUDA kernel?",
+        "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
         "source": "hn",
-        "time": "6/28/2026, 5:50:47 PM"
-      },
-      {
-        "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-        "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-        "source": "hn",
-        "time": "6/29/2026, 9:28:08 AM"
-      },
-      {
-        "title": "Type-checked non-empty strings",
-        "url": "https://exploring-better-ways.bellroy.com/haskell-koan-type-checked-non-empty-strings.html",
-        "source": "hn",
-        "time": "6/26/2026, 3:30:02 PM"
+        "time": "6/29/2026, 1:11:08 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Mon, 29 Jun 2026 12:10:46 GMT"
       },
       {
-        "title": "Five dead following shooting at youth centre in Stade, northern Germany",
+        "title": "Five dead in shooting at youth welfare centre in northern Germany",
         "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 29 Jun 2026 12:52:04 GMT"
+        "time": "Mon, 29 Jun 2026 14:01:28 GMT"
       },
       {
-        "title": "One in 10 children in England referred for mental healthcare - with anxiety the main reason",
-        "url": "https://www.bbc.co.uk/news/articles/cwyd1l0lge8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
+        "url": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 29 Jun 2026 00:58:15 GMT"
+        "time": "Mon, 29 Jun 2026 14:19:03 GMT"
       }
     ],
     "projects": [
