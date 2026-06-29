@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-29T03:05:34.686Z"
+    "built_at": "2026-06-29T05:33:25.323Z"
   },
-  "items": [
-    {
-      "title": "Chinese farmer and his 70k chickens become online celebrities [video] (2019)",
-      "url": "https://www.youtube.com/watch?v=aWjYLYulALs",
-      "date": "2026-06-29T03:03:33.000Z"
-    },
-    {
-      "title": "Silent Weapons for Quiet Wars",
-      "url": "https://archive.org/details/silent-weapons-for-quiet-wars_202110",
-      "date": "2026-06-29T03:02:00.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
