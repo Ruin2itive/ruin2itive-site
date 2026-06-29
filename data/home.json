@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-29T05:46:17.792Z",
-  "updated_local": "6/29/2026, 5:46:17 AM",
+  "updated_iso": "2026-06-29T07:46:52.345Z",
+  "updated_local": "6/29/2026, 7:46:52 AM",
   "sections": {
     "crypto": [
       {
@@ -36,28 +36,28 @@
     ],
     "hacker": [
       {
-        "title": "GLM 5.2 beats Claude in our benchmarks",
-        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-        "source": "hn",
-        "time": "6/28/2026, 5:50:47 PM"
-      },
-      {
-        "title": "Age verification is just a precursor to automated attribution of speech",
-        "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-        "source": "hn",
-        "time": "6/29/2026, 3:42:07 AM"
-      },
-      {
         "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
         "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
         "source": "hn",
         "time": "6/29/2026, 1:44:40 AM"
       },
       {
+        "title": "GLM 5.2 beats Claude in our benchmarks",
+        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+        "source": "hn",
+        "time": "6/28/2026, 5:50:47 PM"
+      },
+      {
         "title": "Dissecting Apple's Sparse Image Format (ASIF)",
         "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
         "source": "hn",
         "time": "6/28/2026, 4:10:50 PM"
+      },
+      {
+        "title": "Age verification is just a precursor to automated attribution of speech",
+        "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+        "source": "hn",
+        "time": "6/29/2026, 3:42:07 AM"
       },
       {
         "title": "Herdr: Agent multiplexer that lives in your terminal",
@@ -68,34 +68,34 @@
     ],
     "world": [
       {
-        "title": "Burnham to promise devolution in first major speech since launching No 10 bid",
+        "title": "Burnham to give mayors more power in 10-year plan to transform economy",
         "url": "https://www.bbc.co.uk/news/articles/c14yr0mgdp6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 29 Jun 2026 02:52:55 GMT"
       },
       {
-        "title": "Chris Mason: Burnham begins to sketch out vision but faces huge and imminent questions",
+        "title": "Chris Mason: Burnham begins to sketch out vision but faces huge questions about policy",
         "url": "https://www.bbc.co.uk/news/articles/ckg4vypy8lzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 28 Jun 2026 21:20:53 GMT"
-      },
-      {
-        "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
-        "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 29 Jun 2026 05:13:11 GMT"
-      },
-      {
-        "title": "US says it has agreed with Iran to 'stand down' after trading strikes, reports say",
-        "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 29 Jun 2026 04:52:17 GMT"
       },
       {
         "title": "White working-class children failed by education system, says inquiry",
         "url": "https://www.bbc.co.uk/news/articles/cq51j10q601o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 29 Jun 2026 00:21:50 GMT"
+      },
+      {
+        "title": "Temperatures to drop this week but relief from heat may be short-lived",
+        "url": "https://www.bbc.co.uk/weather/articles/c5yzq1q4zm8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 28 Jun 2026 23:54:51 GMT"
+      },
+      {
+        "title": "US says it has agreed with Iran to 'stand down' after trading strikes, reports say",
+        "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 29 Jun 2026 04:52:17 GMT"
       }
     ],
     "projects": [
