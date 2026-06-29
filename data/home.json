@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-29T08:04:13.509Z",
-  "updated_local": "6/29/2026, 8:04:13 AM",
+  "updated_iso": "2026-06-29T09:38:38.564Z",
+  "updated_local": "6/29/2026, 9:38:38 AM",
   "sections": {
     "crypto": [
       {
@@ -48,16 +48,16 @@
         "time": "6/28/2026, 5:50:47 PM"
       },
       {
-        "title": "Replacing Systemd with OpenRC in Debian",
-        "url": "https://danielcordova.me/blog/debian-openrc/",
-        "source": "hn",
-        "time": "6/29/2026, 6:37:44 AM"
-      },
-      {
         "title": "Dissecting Apple's Sparse Image Format (ASIF)",
         "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
         "source": "hn",
         "time": "6/28/2026, 4:10:50 PM"
+      },
+      {
+        "title": "Herdr: Agent multiplexer that lives in your terminal",
+        "url": "https://github.com/ogulcancelik/herdr",
+        "source": "hn",
+        "time": "6/29/2026, 4:27:46 AM"
       },
       {
         "title": "Age verification is just a precursor to automated attribution of speech",
@@ -68,19 +68,13 @@
     ],
     "world": [
       {
-        "title": "Burnham to give mayors more power in 10-year plan to transform economy",
-        "url": "https://www.bbc.co.uk/news/articles/c14yr0mgdp6o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 29 Jun 2026 02:52:55 GMT"
-      },
-      {
         "title": "Chris Mason: Burnham begins to sketch out vision but faces huge questions about policy",
         "url": "https://www.bbc.co.uk/news/articles/ckg4vypy8lzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 28 Jun 2026 21:20:53 GMT"
       },
       {
-        "title": "Mum of newborn rescued from Venezuela rubble says baby motivated her to stay alive",
+        "title": "Mum of newborn rescued from Venezuela rubble tells BBC baby motivated her to survive",
         "url": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 29 Jun 2026 07:51:05 GMT"
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/weather/articles/c5yzq1q4zm8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 28 Jun 2026 23:54:51 GMT"
+      },
+      {
+        "title": "Navy to build drone-equipped warships instead of replacing ageing destroyers",
+        "url": "https://www.bbc.co.uk/news/articles/c2ky95ndx92o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 29 Jun 2026 03:18:06 GMT"
       }
     ],
     "projects": [
