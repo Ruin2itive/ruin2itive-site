@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-29T05:33:25.323Z"
+    "built_at": "2026-06-29T07:37:56.159Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Obfuscation: Building the Final Boss of Cryptography",
+      "url": "https://vitalik.eth.limo/general/2026/06/29/obfuscation1.html",
+      "date": "2026-06-29T07:37:19.000Z"
+    },
+    {
+      "title": "People still want small, personal corners of the web",
+      "url": "https://pego.dev/people-still-want-small-personal-corners-of-the-web/",
+      "date": "2026-06-29T07:37:08.000Z"
+    }
+  ]
 }
