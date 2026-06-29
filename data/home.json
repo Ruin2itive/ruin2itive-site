@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-29T14:28:51.699Z",
-  "updated_local": "6/29/2026, 2:28:51 PM",
+  "updated_iso": "2026-06-29T15:11:34.891Z",
+  "updated_local": "6/29/2026, 3:11:34 PM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "Tidal AI Policy",
-        "url": "https://tidal.com/ai-policy",
+        "title": "Mag 7 starting to underperform [pdf]",
+        "url": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
         "source": "hn",
-        "time": "6/29/2026, 1:09:03 PM"
+        "time": "6/29/2026, 2:12:55 PM"
+      },
+      {
+        "title": "RocketLab Acquires Iridium",
+        "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+        "source": "hn",
+        "time": "6/29/2026, 2:09:24 PM"
+      },
+      {
+        "title": "What happens when you run a CUDA kernel?",
+        "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+        "source": "hn",
+        "time": "6/29/2026, 1:11:08 PM"
       },
       {
         "title": "Building Principia for Windows XP",
@@ -52,18 +64,6 @@
         "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
         "source": "hn",
         "time": "6/29/2026, 10:20:25 AM"
-      },
-      {
-        "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-        "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-        "source": "hn",
-        "time": "6/29/2026, 1:44:40 AM"
-      },
-      {
-        "title": "What happens when you run a CUDA kernel?",
-        "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-        "source": "hn",
-        "time": "6/29/2026, 1:11:08 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Mon, 29 Jun 2026 12:10:46 GMT"
       },
       {
-        "title": "Five dead in shooting at youth welfare centre in northern Germany",
+        "title": "Four women and man shot dead at youth welfare centre in northern Germany",
         "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 29 Jun 2026 14:01:28 GMT"
+        "time": "Mon, 29 Jun 2026 14:39:48 GMT"
       },
       {
-        "title": "US Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
+        "title": "Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
         "url": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 29 Jun 2026 14:19:03 GMT"
+        "time": "Mon, 29 Jun 2026 14:45:44 GMT"
       }
     ],
     "projects": [
