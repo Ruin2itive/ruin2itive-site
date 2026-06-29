@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-06-29T10:44:17.139Z",
-  "updated_local": "6/29/2026, 10:44:17 AM",
+  "updated_iso": "2026-06-29T11:41:49.720Z",
+  "updated_local": "6/29/2026, 11:41:49 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Ukraine Takes $8.3M in Seized Crypto Under State Management in a First",
+        "url": "https://decrypt.co/372279/ukraine-takes-8-3m-in-seized-crypto-under-state-management-in-a-first",
+        "source": "crypto",
+        "time": "Mon, 29 Jun 2026 10:48:33 +0000"
+      },
       {
         "title": "The Future Cyberpunk Imagined Is Here: How Much Did It Get Right?",
         "url": "https://decrypt.co/372248/future-cyberpunk-imagined-here",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/372249/wall-street-next-tokenization-test-blackrock-backed-securitize-ipo",
         "source": "crypto",
         "time": "Fri, 26 Jun 2026 20:47:44 +0000"
-      },
-      {
-        "title": "Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks",
-        "url": "https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks",
-        "source": "crypto",
-        "time": "Fri, 26 Jun 2026 19:23:37 +0000"
       }
     ],
     "hacker": [
@@ -48,12 +48,6 @@
         "time": "6/28/2026, 5:50:47 PM"
       },
       {
-        "title": "Dissecting Apple's Sparse Image Format (ASIF)",
-        "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
-        "source": "hn",
-        "time": "6/28/2026, 4:10:50 PM"
-      },
-      {
         "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
         "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
         "source": "hn",
@@ -64,6 +58,12 @@
         "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
         "source": "hn",
         "time": "6/24/2026, 4:10:08 PM"
+      },
+      {
+        "title": "Dissecting Apple's Sparse Image Format (ASIF)",
+        "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+        "source": "hn",
+        "time": "6/28/2026, 4:10:50 PM"
       }
     ],
     "world": [
@@ -77,10 +77,10 @@
         "title": "The Good Life actress Dame Penelope Keith dies aged 86",
         "url": "https://www.bbc.co.uk/news/articles/c2ey1pjx0z9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 29 Jun 2026 10:42:04 GMT"
+        "time": "Mon, 29 Jun 2026 11:35:57 GMT"
       },
       {
-        "title": "Over one million children referred for mental healthcare - with anxiety the main reason",
+        "title": "One in 10 children in England referred for mental healthcare - with anxiety the main reason",
         "url": "https://www.bbc.co.uk/news/articles/cwyd1l0lge8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 29 Jun 2026 00:58:15 GMT"
@@ -89,13 +89,13 @@
         "title": "Temperatures to drop this week but relief from heat may be short-lived",
         "url": "https://www.bbc.co.uk/weather/articles/c5yzq1q4zm8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 29 Jun 2026 10:25:20 GMT"
+        "time": "Mon, 29 Jun 2026 10:55:51 GMT"
       },
       {
-        "title": "Michael Jackson movie becomes highest-grossing biopic of all time",
-        "url": "https://www.bbc.co.uk/news/articles/cy49gpygn2vo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Navy to build drone-equipped warships instead of replacing ageing destroyers",
+        "url": "https://www.bbc.co.uk/news/articles/c2ky95ndx92o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 29 Jun 2026 09:55:37 GMT"
+        "time": "Mon, 29 Jun 2026 03:18:06 GMT"
       }
     ],
     "projects": [
