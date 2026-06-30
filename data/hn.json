@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-30T15:49:07.872Z"
+    "built_at": "2026-06-30T16:42:41.425Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Speculation is all you need",
+      "url": "https://modal.com/blog/spec-is-all-u-need",
+      "date": "2026-06-30T16:41:28.000Z"
+    },
+    {
+      "title": "The Future of Building Design",
+      "url": "https://ariporad.substack.com/p/002-the-future-of-building-design",
+      "date": "2026-06-30T16:39:50.000Z"
+    }
+  ]
 }
