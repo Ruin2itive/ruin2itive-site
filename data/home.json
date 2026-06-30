@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-06-30T17:42:25.905Z",
-  "updated_local": "6/30/2026, 5:42:25 PM",
+  "updated_iso": "2026-06-30T18:39:24.904Z",
+  "updated_local": "6/30/2026, 6:39:24 PM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "Claude Code Is Steganographically Marking Requests",
+        "title": "Claude Sonnet 5",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5",
+        "source": "hn",
+        "time": "6/30/2026, 5:59:52 PM"
+      },
+      {
+        "title": "Claude Code is steganographically marking requests",
         "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
         "source": "hn",
         "time": "6/30/2026, 3:44:24 PM"
+      },
+      {
+        "title": "We Are the Last People Who Know How It Works",
+        "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+        "source": "hn",
+        "time": "6/30/2026, 4:59:00 PM"
       },
       {
         "title": "Nano Banana 2 Lite",
@@ -52,18 +64,6 @@
         "url": "https://claude.com/product/claude-science",
         "source": "hn",
         "time": "6/30/2026, 5:07:41 PM"
-      },
-      {
-        "title": "Xsnow \"protestware\" in Debian",
-        "url": "https://lwn.net/SubscriberLink/1079385/3d7a57da58b41aa9/",
-        "source": "hn",
-        "time": "6/30/2026, 4:54:41 PM"
-      },
-      {
-        "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
-        "url": "https://www.gutenberg.org/ebooks/24518",
-        "source": "hn",
-        "time": "6/30/2026, 12:47:51 PM"
       }
     ],
     "world": [
@@ -83,7 +83,7 @@
         "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
         "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 30 Jun 2026 17:36:23 GMT"
+        "time": "Tue, 30 Jun 2026 18:28:41 GMT"
       },
       {
         "title": "Government promises to act on maternity care failings which 'shame our society'",
