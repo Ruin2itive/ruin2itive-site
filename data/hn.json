@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-30T11:00:55.924Z"
+    "built_at": "2026-06-30T12:38:13.356Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: ReelsGraph – movie/TV watchlist and ML-based discovery queue, no signup",
+      "url": "https://www.reelsgraph.com/",
+      "date": "2026-06-30T12:37:48.000Z"
+    },
+    {
+      "title": "Show HN: Framein – a local work-state layer that keeps AI agents in context",
+      "url": "https://www.framein.dev/",
+      "date": "2026-06-30T12:36:49.000Z"
+    }
+  ]
 }
