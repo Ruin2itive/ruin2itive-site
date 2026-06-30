@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-30T17:34:23.685Z"
+    "built_at": "2026-06-30T18:34:30.881Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
+      "url": "https://news.ycombinator.com/item?id=48737226",
+      "date": "2026-06-30T18:33:59.000Z"
+    },
+    {
+      "title": "BetterVideo – privacy-first video enhancement API (upscale, sharpen, restore)",
+      "url": "https://api.bettervideo.io/developers",
+      "date": "2026-06-30T18:33:10.000Z"
+    }
+  ]
 }
