@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-30T00:34:40.099Z"
+    "built_at": "2026-06-30T01:39:49.681Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "FriendNet – self-hostable, open source file sharing for friends",
+      "url": "https://friendnet.org/",
+      "date": "2026-06-30T01:31:57.000Z"
+    },
+    {
+      "title": "ACCC sues Amazon over alleged unfair conduct for introducing Prime streaming ads",
+      "url": "https://www.abc.net.au/news/2026-06-30/amazon-prime-accc-federal-court/106857352",
+      "date": "2026-06-30T01:31:53.000Z"
+    }
+  ]
 }
