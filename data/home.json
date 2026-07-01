@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-01T03:11:18.928Z",
-  "updated_local": "7/1/2026, 3:11:18 AM",
+  "updated_iso": "2026-07-01T03:20:50.795Z",
+  "updated_local": "7/1/2026, 3:20:50 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "The President Made More Than $1Billon in Crypto Deals",
-        "url": "https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f",
-        "source": "hn",
-        "time": "7/1/2026, 12:27:56 AM"
-      },
-      {
         "title": "Claude Sonnet 5",
         "url": "https://www.anthropic.com/news/claude-sonnet-5",
         "source": "hn",
@@ -64,6 +58,12 @@
         "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
         "source": "hn",
         "time": "6/30/2026, 11:55:12 PM"
+      },
+      {
+        "title": "From Julia to Rust: a differentiable tensor stack for scientific computing",
+        "url": "https://tensor4all.org/blog/introducing-tenferro-rs/",
+        "source": "hn",
+        "time": "6/30/2026, 1:49:04 PM"
       }
     ],
     "world": [
