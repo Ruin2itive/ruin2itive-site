@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-01T05:43:04.297Z",
-  "updated_local": "7/1/2026, 5:43:04 AM",
+  "updated_iso": "2026-07-01T07:33:29.909Z",
+  "updated_local": "7/1/2026, 7:33:29 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Claude Sonnet 5",
-        "url": "https://www.anthropic.com/news/claude-sonnet-5",
-        "source": "hn",
-        "time": "6/30/2026, 5:59:52 PM"
-      },
-      {
         "title": "Claude Code is steganographically marking requests",
         "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
         "source": "hn",
         "time": "6/30/2026, 3:44:24 PM"
+      },
+      {
+        "title": "Claude Sonnet 5",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5",
+        "source": "hn",
+        "time": "6/30/2026, 5:59:52 PM"
       },
       {
         "title": "The first early human eggs from stem cells",
@@ -54,21 +54,21 @@
         "time": "7/1/2026, 5:09:30 AM"
       },
       {
+        "title": "ArXiv's Next Chapter",
+        "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
+        "source": "hn",
+        "time": "7/1/2026, 2:51:36 AM"
+      },
+      {
         "title": "Google copybara: moving code between repositories",
         "url": "https://github.com/google/copybara",
         "source": "hn",
         "time": "6/30/2026, 11:45:39 PM"
-      },
-      {
-        "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
-        "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-        "source": "hn",
-        "time": "7/1/2026, 5:13:22 AM"
       }
     ],
     "world": [
       {
-        "title": "Superdry co-founder was my boss when he raped me",
+        "title": "Woman raped by Superdry co-founder was working for him at the time",
         "url": "https://www.bbc.co.uk/news/articles/cd95jzy4zyeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 01 Jul 2026 05:00:08 GMT"
@@ -77,7 +77,7 @@
         "title": "Chris Mason: Starmer's defence plan leaves crunching trade‑offs for Burnham to confront",
         "url": "https://www.bbc.co.uk/news/articles/c3vy7z35ve0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 01 Jul 2026 05:09:43 GMT"
+        "time": "Wed, 01 Jul 2026 07:18:26 GMT"
       },
       {
         "title": "Plea for households to read energy meter as prices rise",
@@ -95,7 +95,7 @@
         "title": "Trump made more than $1bn from crypto in first year back in office",
         "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 01 Jul 2026 03:31:08 GMT"
+        "time": "Wed, 01 Jul 2026 07:30:53 GMT"
       }
     ],
     "projects": [
