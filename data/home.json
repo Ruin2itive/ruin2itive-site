@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-01T09:20:10.084Z",
-  "updated_local": "7/1/2026, 9:20:10 AM",
+  "updated_iso": "2026-07-01T11:07:33.390Z",
+  "updated_local": "7/1/2026, 11:07:33 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Asahi Linux 7.1 Progress Report",
+        "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+        "source": "hn",
+        "time": "7/1/2026, 10:07:04 AM"
+      },
+      {
         "title": "Claude Code is steganographically marking requests",
         "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
         "source": "hn",
         "time": "6/30/2026, 3:44:24 PM"
+      },
+      {
+        "title": "Newly discovered spider builds spring loaded snare to catch ants",
+        "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
+        "source": "hn",
+        "time": "6/28/2026, 8:05:56 PM"
       },
       {
         "title": "Claude Sonnet 5",
@@ -52,21 +64,15 @@
         "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
         "source": "hn",
         "time": "7/1/2026, 2:51:36 AM"
-      },
-      {
-        "title": "The first early human eggs from stem cells",
-        "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
-        "source": "hn",
-        "time": "7/1/2026, 5:09:30 AM"
-      },
-      {
-        "title": "Godot will no longer accept AI-authored code contributions",
-        "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-        "source": "hn",
-        "time": "7/1/2026, 7:43:22 AM"
       }
     ],
     "world": [
+      {
+        "title": "Burnham's chancellor will have to find extra £4.7bn for defence, says minister",
+        "url": "https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 01 Jul 2026 10:23:09 GMT"
+      },
       {
         "title": "Woman raped by Superdry co-founder tells BBC she was working for him at the time",
         "url": "https://www.bbc.co.uk/news/articles/cd95jzy4zyeo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +80,22 @@
         "time": "Wed, 01 Jul 2026 05:00:08 GMT"
       },
       {
-        "title": "Officers in Nowak case face gross misconduct investigation",
+        "title": "Nowak case officers face gross misconduct investigation",
         "url": "https://www.bbc.co.uk/news/articles/cd6ezln069vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 01 Jul 2026 09:13:13 GMT"
-      },
-      {
-        "title": "Chris Mason: Starmer's defence plan leaves crunching trade‑offs for Burnham to confront",
-        "url": "https://www.bbc.co.uk/news/articles/c3vy7z35ve0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 01 Jul 2026 07:18:26 GMT"
-      },
-      {
-        "title": "Households urged to submit meter readings as energy prices rise",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzqrpw2g8o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 30 Jun 2026 23:02:02 GMT"
+        "time": "Wed, 01 Jul 2026 10:23:52 GMT"
       },
       {
         "title": "Why Gen Z are planning for life without a state pension",
         "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 30 Jun 2026 23:05:19 GMT"
+      },
+      {
+        "title": "Family of boy attacked by crocodile thank zoo staff who rescued him",
+        "url": "https://www.bbc.co.uk/news/articles/ce8j24ng6p0o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 01 Jul 2026 09:45:25 GMT"
       }
     ],
     "projects": [
