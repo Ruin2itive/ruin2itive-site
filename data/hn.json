@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-06-30T23:26:56.690Z"
+    "built_at": "2026-07-01T00:35:53.570Z"
   },
-  "items": [
-    {
-      "title": "AI models' values are very different from most people's",
-      "url": "https://www.economist.com/briefing/2026/06/25/ai-models-values-are-very-different-from-most-peoples",
-      "date": "2026-06-30T23:22:08.000Z"
-    },
-    {
-      "title": "Trump to lift limits on Anthropic's Fable model",
-      "url": "https://www.politico.com/news/2026/06/30/anthropic-wh-lifting-export-limits-00980865",
-      "date": "2026-06-30T23:20:40.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
