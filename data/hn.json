@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-01T00:35:53.570Z"
+    "built_at": "2026-07-01T01:44:45.918Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Americans see their country's past, present and future",
+      "url": "https://www.economist.com/graphic-detail/2026/06/29/how-americans-see-their-countrys-past-present-and-future",
+      "date": "2026-07-01T01:24:21.000Z"
+    },
+    {
+      "title": "Forestiere Underground Gardens",
+      "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+      "date": "2026-07-01T01:23:09.000Z"
+    }
+  ]
 }
