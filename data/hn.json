@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-01T15:55:23.372Z"
+    "built_at": "2026-07-01T16:46:45.564Z"
   },
-  "items": [
-    {
-      "title": "Applesauce: Transparent Compression for Apple File System Compression (AFSC)",
-      "url": "https://github.com/Dr-Emann/applesauce",
-      "date": "2026-07-01T15:53:53.000Z"
-    },
-    {
-      "title": "After 6 months of delays, Brilliant Labs delays smartglasses again",
-      "url": "https://jfloren.net/b/2026/6/30/0",
-      "date": "2026-07-01T15:53:46.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
