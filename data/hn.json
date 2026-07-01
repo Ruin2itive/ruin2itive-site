@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-01T09:06:22.632Z"
+    "built_at": "2026-07-01T11:04:10.957Z"
   },
-  "items": [
-    {
-      "title": "What If a City Ran on UTC for Two Weeks?",
-      "url": "https://zulu.sekor.eu.org/",
-      "date": "2026-07-01T09:05:45.000Z"
-    },
-    {
-      "title": "Getty Images Plans to End Shutterstock Deal After U.K. Imposes Conditions",
-      "url": "https://www.wsj.com/business/getty-images-plans-to-end-shutterstock-deal-after-u-k-imposes-conditions-6e831dc4",
-      "date": "2026-07-01T09:05:08.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
