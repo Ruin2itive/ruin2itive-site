@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-01T19:37:50.222Z",
-  "updated_local": "7/1/2026, 7:37:50 PM",
+  "updated_iso": "2026-07-01T20:36:40.093Z",
+  "updated_local": "7/1/2026, 8:36:40 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "LongCat-2.0: The Stealth AI Model That Was Quietly Topping OpenRouter All Along",
+        "url": "https://decrypt.co/372579/longcat-2-0-meituan-ai-stealth-model-openrouter",
+        "source": "crypto",
+        "time": "Wed, 01 Jul 2026 20:18:55 +0000"
+      },
       {
         "title": "UN&#39;s First AI Safety Panel Says Scientists Can&#39;t Rule Out &#39;Catastrophic Harm&#39;",
         "url": "https://decrypt.co/372543/un-ai-safety-panel-scientists-catastrophic-harm",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/372531/crcl-sell-off-overdone-analysts-circle-ceo-open-usd-threat",
         "source": "crypto",
         "time": "Wed, 01 Jul 2026 17:42:09 +0000"
-      },
-      {
-        "title": "Bitcoin Pops Off 21-Month Low to $60K as Soft Data Eases Rate-Hike Fears",
-        "url": "https://decrypt.co/372522/bitcoin-pops-off-21-month-low-to-60k-as-soft-data-eases-rate-hike-fears",
-        "source": "crypto",
-        "time": "Wed, 01 Jul 2026 16:40:31 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "ZCode: Claude Code from the Makers of GLM",
+        "url": "https://zcode.z.ai/cn",
+        "source": "hn",
+        "time": "7/1/2026, 7:11:38 PM"
+      },
       {
         "title": "For first time, a cell built from scratch grows and divides",
         "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
@@ -46,12 +52,6 @@
         "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
         "source": "hn",
         "time": "7/1/2026, 5:53:44 PM"
-      },
-      {
-        "title": "ZCode: Claude Code from the Makers of GLM",
-        "url": "https://zcode.z.ai/cn",
-        "source": "hn",
-        "time": "7/1/2026, 7:11:38 PM"
       },
       {
         "title": "FFmpeg 9.1's new AAC encoder",
