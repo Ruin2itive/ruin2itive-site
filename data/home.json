@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-07-01T11:13:38.972Z",
-  "updated_local": "7/1/2026, 11:13:38 AM",
+  "updated_iso": "2026-07-01T12:59:39.875Z",
+  "updated_local": "7/1/2026, 12:59:39 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Major New Stablecoin Launch Shakes Incumbents",
+        "url": "https://decrypt.co/372513/morning-minute-major-new-stablecoin-launch-shakes-incumbents",
+        "source": "crypto",
+        "time": "Wed, 01 Jul 2026 12:31:07 +0000"
+      },
+      {
+        "title": "Taiwan Passes Sweeping Crypto Law With Licensing, Stablecoin Rules",
+        "url": "https://decrypt.co/372505/taiwan-passes-sweeping-crypto-law-with-licensing-stablecoin-rules",
+        "source": "crypto",
+        "time": "Wed, 01 Jul 2026 12:00:33 +0000"
+      },
       {
         "title": "Goliath Ventures CEO Pleads Guilty to $250M Crypto Ponzi Scheme",
         "url": "https://decrypt.co/372502/goliath-ventures-ceo-pleads-guilty-to-250m-crypto-ponzi-scheme",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/372452/binance-changpeng-zhao-sued-200-million-british-investors-reuters",
         "source": "crypto",
         "time": "Tue, 30 Jun 2026 21:16:18 +0000"
-      },
-      {
-        "title": "Anthropic&#39;s Claude Sonnet 5 Closes In on Opus 4.8 at a Fraction of the Price",
-        "url": "https://decrypt.co/372458/anthropic-claude-sonnet-5-close-opus-4-8",
-        "source": "crypto",
-        "time": "Tue, 30 Jun 2026 20:51:44 +0000"
-      },
-      {
-        "title": "New York Life Investment Management Debuts First Tokenized Bond Fund",
-        "url": "https://decrypt.co/372457/new-york-life-investment-management-first-tokenized-bond-fund",
-        "source": "crypto",
-        "time": "Tue, 30 Jun 2026 20:46:02 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,18 @@
         "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
         "source": "hn",
         "time": "7/1/2026, 10:07:04 AM"
+      },
+      {
+        "title": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
+        "url": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
+        "source": "hn",
+        "time": "7/1/2026, 9:21:44 AM"
+      },
+      {
+        "title": "The Internet I Grew Up with Doesn't Exist Anymore",
+        "url": "https://cleberg.net/blog/internet.html",
+        "source": "hn",
+        "time": "7/1/2026, 10:26:45 AM"
       },
       {
         "title": "Claude Code is steganographically marking requests",
@@ -52,27 +64,9 @@
         "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
         "source": "hn",
         "time": "6/28/2026, 8:05:56 PM"
-      },
-      {
-        "title": "Claude Sonnet 5",
-        "url": "https://www.anthropic.com/news/claude-sonnet-5",
-        "source": "hn",
-        "time": "6/30/2026, 5:59:52 PM"
-      },
-      {
-        "title": "ArXiv's Next Chapter",
-        "url": "https://blog.arxiv.org/2026/06/30/arxivs-next-chapter/",
-        "source": "hn",
-        "time": "7/1/2026, 2:51:36 AM"
       }
     ],
     "world": [
-      {
-        "title": "Burnham's chancellor will have to find extra £4.7bn for defence, says minister",
-        "url": "https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 01 Jul 2026 10:23:09 GMT"
-      },
       {
         "title": "Woman raped by Superdry co-founder tells BBC she was working for him at the time",
         "url": "https://www.bbc.co.uk/news/articles/cd95jzy4zyeo?at_medium=RSS&amp;at_campaign=rss",
@@ -86,16 +80,22 @@
         "time": "Wed, 01 Jul 2026 10:23:52 GMT"
       },
       {
-        "title": "Why Gen Z are planning for life without a state pension",
-        "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 30 Jun 2026 23:05:19 GMT"
-      },
-      {
         "title": "Family of boy attacked by crocodile thank zoo staff who rescued him",
         "url": "https://www.bbc.co.uk/news/articles/ce8j24ng6p0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 01 Jul 2026 09:45:25 GMT"
+        "time": "Wed, 01 Jul 2026 11:24:45 GMT"
+      },
+      {
+        "title": "Two dead after plane crashed during flight experience",
+        "url": "https://www.bbc.co.uk/news/articles/cn8k7p74z31o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 01 Jul 2026 11:50:49 GMT"
+      },
+      {
+        "title": "Trump made more than $1bn from crypto in first year back in office",
+        "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 01 Jul 2026 11:41:13 GMT"
       }
     ],
     "projects": [
