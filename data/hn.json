@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-01T12:55:02.916Z"
+    "built_at": "2026-07-01T13:46:53.978Z"
   },
-  "items": [
-    {
-      "title": "Baidu's CFO on How It Became a Full-Stack AI Player [video]",
-      "url": "https://www.youtube.com/watch?v=o5QiW-jvAag",
-      "date": "2026-07-01T12:54:38.000Z"
-    },
-    {
-      "title": "The iPhone contributed to 'a collapse in US fertility,' claims scientific study",
-      "url": "https://9to5mac.com/2026/07/01/the-iphone-contributed-to-a-collapse-in-us-fertility-claims-scientific-study/",
-      "date": "2026-07-01T12:54:21.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
