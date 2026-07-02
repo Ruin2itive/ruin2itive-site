@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-02T13:32:50.463Z"
+    "built_at": "2026-07-02T14:44:19.352Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: LoopFlow – plain-English loops that run coding agents until tests pass",
+      "url": "https://loopflow.live",
+      "date": "2026-07-02T14:42:46.000Z"
+    },
+    {
+      "title": "3D Printing a Brain (2021)",
+      "url": "https://jonathanraines.github.io/projects/3d-printing-a-brain/",
+      "date": "2026-07-02T14:42:39.000Z"
+    }
+  ]
 }
