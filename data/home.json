@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-02T22:27:51.142Z",
-  "updated_local": "7/2/2026, 10:27:51 PM",
+  "updated_iso": "2026-07-02T23:25:34.778Z",
+  "updated_local": "7/2/2026, 11:25:34 PM",
   "sections": {
     "crypto": [
       {
@@ -48,22 +48,22 @@
         "time": "7/2/2026, 6:41:19 PM"
       },
       {
+        "title": "crustc: entirety of `rustc`, translated to C",
+        "url": "https://github.com/FractalFir/crustc",
+        "source": "hn",
+        "time": "7/2/2026, 10:57:35 PM"
+      },
+      {
         "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
         "url": "https://mathstodon.xyz/@iblech/116769502749142438",
         "source": "hn",
         "time": "7/2/2026, 3:25:16 PM"
       },
       {
-        "title": "Podman v6.0.0",
-        "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+        "title": "Reality has a surprising amount of detail (2017)",
+        "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
         "source": "hn",
-        "time": "7/2/2026, 2:23:09 PM"
-      },
-      {
-        "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
-        "url": "http://www.lmdb.tech/doc/",
-        "source": "hn",
-        "time": "7/2/2026, 8:01:20 PM"
+        "time": "6/27/2026, 11:36:25 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Thu, 02 Jul 2026 20:49:17 GMT"
       },
       {
-        "title": "Labour failed to prepare for power, admits PM's former top aide",
-        "url": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Sabrina Carpenter and Graham Norton spotted in NYC before rumoured Swift wedding celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/ce8ml4q37veo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Jul 2026 12:23:14 GMT"
+        "time": "Thu, 02 Jul 2026 22:50:50 GMT"
       },
       {
-        "title": "Survivor pulled from rubble eight days after Venezuela earthquakes",
-        "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+        "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Jul 2026 16:11:24 GMT"
+        "time": "Thu, 02 Jul 2026 23:15:22 GMT"
       }
     ],
     "projects": [
