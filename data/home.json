@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-02T18:37:58.845Z",
-  "updated_local": "7/2/2026, 6:37:58 PM",
+  "updated_iso": "2026-07-02T19:31:12.916Z",
+  "updated_local": "7/2/2026, 7:31:12 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche",
+        "url": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche",
+        "source": "crypto",
+        "time": "Thu, 02 Jul 2026 18:43:50 +0000"
+      },
       {
         "title": "Japanese Financial Giant SBI to Shut Down Bitcoin Mining Pool",
         "url": "https://decrypt.co/372686/japanese-financial-giant-sbi-shut-down-bitcoin-mining-pool",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/372674/standard-chartered-first-global-bank-direct-usdc-access",
         "source": "crypto",
         "time": "Thu, 02 Jul 2026 13:58:09 +0000"
-      },
-      {
-        "title": "Metaplanet Adds 2,823 Bitcoin in Q2 as Buying Pace Cools",
-        "url": "https://decrypt.co/372670/metaplanet-adds-2823-bitcoin-in-q2-as-buying-pace-cools",
-        "source": "crypto",
-        "time": "Thu, 02 Jul 2026 13:11:16 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://mathstodon.xyz/@iblech/116769502749142438",
         "source": "hn",
         "time": "7/2/2026, 3:25:16 PM"
+      },
+      {
+        "title": "Exapunks (2018)",
+        "url": "https://www.zachtronics.com/exapunks/",
+        "source": "hn",
+        "time": "7/2/2026, 6:41:19 PM"
       },
       {
         "title": "PeerTube is a free, decentralized and federated video platform",
@@ -54,16 +60,10 @@
         "time": "7/2/2026, 3:00:15 AM"
       },
       {
-        "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
-        "url": "https://manufact.com",
+        "title": "Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed",
+        "url": "https://willpenman.com/klara/",
         "source": "hn",
-        "time": "7/2/2026, 3:11:20 PM"
-      },
-      {
-        "title": "How to ask for help from people who don't know you",
-        "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
-        "source": "hn",
-        "time": "7/2/2026, 1:19:22 PM"
+        "time": "7/2/2026, 6:48:58 PM"
       }
     ],
     "world": [
@@ -83,7 +83,7 @@
         "title": "Pubs allowed to stay open until 5am for England Mexico match",
         "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Jul 2026 18:24:02 GMT"
+        "time": "Thu, 02 Jul 2026 18:45:49 GMT"
       },
       {
         "title": "Labour failed to prepare for power, admits PM's former top aide",
@@ -92,10 +92,10 @@
         "time": "Thu, 02 Jul 2026 12:23:14 GMT"
       },
       {
-        "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
-        "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Survivor pulled from rubble eight days after Venezuela earthquakes",
+        "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Jul 2026 05:00:03 GMT"
+        "time": "Thu, 02 Jul 2026 16:11:24 GMT"
       }
     ],
     "projects": [
