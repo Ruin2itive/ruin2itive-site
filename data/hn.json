@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-02T15:44:53.422Z"
+    "built_at": "2026-07-02T16:33:56.922Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Launching chokepoints – mapping the bottlenecks in the AI infrastructure stack",
+      "url": "https://www.chokepoints.ai/",
+      "date": "2026-07-02T16:33:15.000Z"
+    },
+    {
+      "title": "I built an MCP to allow Claude agents pair-program through an encrypted tunnel",
+      "url": "https://github.com/zachlikefolio/tunnel-mcp",
+      "date": "2026-07-02T16:32:43.000Z"
+    }
+  ]
 }
