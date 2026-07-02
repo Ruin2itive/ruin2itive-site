@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-02T14:52:35.173Z",
-  "updated_local": "7/2/2026, 2:52:35 PM",
+  "updated_iso": "2026-07-02T15:47:49.419Z",
+  "updated_local": "7/2/2026, 3:47:49 PM",
   "sections": {
     "crypto": [
       {
@@ -36,37 +36,43 @@
     ],
     "hacker": [
       {
-        "title": "Android Developer Verification: Threat masquerading as Protection",
+        "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+        "url": "https://manufact.com",
+        "source": "hn",
+        "time": "7/2/2026, 3:11:20 PM"
+      },
+      {
+        "title": "Android Developer Verification: Threat masquerading as protection",
         "url": "https://f-droid.org/2026/07/01/adv-malware.html",
         "source": "hn",
         "time": "7/2/2026, 3:00:15 AM"
       },
       {
-        "title": "Show HN: ZeroFS – A log-structured filesystem for S3",
-        "url": "https://www.zerofs.net/",
+        "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
+        "url": "https://mailmemories.com",
         "source": "hn",
-        "time": "7/2/2026, 1:41:11 PM"
+        "time": "7/2/2026, 2:16:57 PM"
       },
       {
-        "title": "Many people misunderstand the purpose of code review",
-        "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+        "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+        "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
         "source": "hn",
-        "time": "7/2/2026, 11:41:27 AM"
+        "time": "7/2/2026, 1:43:41 PM"
       },
       {
         "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
         "url": "https://arxiv.org/abs/2607.01232",
         "source": "hn",
         "time": "7/2/2026, 12:10:24 PM"
-      },
-      {
-        "title": "German Button Maker Searched Rivers of American Midwest for Valuable Shells",
-        "url": "https://www.smithsonianmag.com/smithsonian-institution/how-one-german-button-maker-searched-the-rivers-of-the-american-midwest-for-the-shells-that-could-make-him-a-fortune-180989012/",
-        "source": "hn",
-        "time": "6/27/2026, 9:38:05 PM"
       }
     ],
     "world": [
+      {
+        "title": "Married at First Sight UK star arrested on suspicion of rape",
+        "url": "https://www.bbc.co.uk/news/articles/cn8k774pm3jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 02 Jul 2026 15:10:43 GMT"
+      },
       {
         "title": "Labour failed to prepare for power, admits PM's former top aide",
         "url": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +86,16 @@
         "time": "Thu, 02 Jul 2026 05:00:03 GMT"
       },
       {
-        "title": "Venezuela quake survivor pulled out alive after eight days",
+        "title": "Survivor pulled from rubble eight days after Venezuela earthquakes",
         "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 02 Jul 2026 14:11:50 GMT"
       },
       {
-        "title": "Forced adoptions 'a stain on our history' says Starmer as he gives formal apology",
-        "url": "https://www.bbc.co.uk/news/articles/c20yq332018o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Government may now allow pubs to extend hours for 1am England clash",
+        "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Jul 2026 11:53:28 GMT"
-      },
-      {
-        "title": "Gary Glitter charged with historical sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/c2lywez0zddo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 02 Jul 2026 13:42:57 GMT"
+        "time": "Thu, 02 Jul 2026 14:44:02 GMT"
       }
     ],
     "projects": [
