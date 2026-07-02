@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-02T19:29:30.627Z"
+    "built_at": "2026-07-02T20:27:36.826Z"
   },
-  "items": [
-    {
-      "title": "Microsoft commits $2.5B and 6k employees to new AI implementation unit",
-      "url": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
-      "date": "2026-07-02T19:29:25.000Z"
-    },
-    {
-      "title": "Show HN: Piggy – lazy senior dev mode for AI agents (80–94% less code)",
-      "url": "https://github.com/adamyasingh-12/Piggy-",
-      "date": "2026-07-02T19:29:10.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
