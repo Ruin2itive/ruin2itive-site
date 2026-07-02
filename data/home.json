@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-02T11:49:30.696Z",
-  "updated_local": "7/2/2026, 11:49:30 AM",
+  "updated_iso": "2026-07-02T12:41:19.199Z",
+  "updated_local": "7/2/2026, 12:41:19 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Robinhood Debuts &#39;Robinhood Chain&#39;",
+        "url": "https://decrypt.co/372667/morning-minute-robinhood-debuts-robinhood-chain",
+        "source": "crypto",
+        "time": "Thu, 02 Jul 2026 12:06:26 +0000"
+      },
       {
         "title": "Scattered Spider Suspect Extradited to US Over $8M Crypto Ransom Demand",
         "url": "https://decrypt.co/372665/scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom-demand",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/372579/longcat-2-0-meituan-ai-stealth-model-openrouter",
         "source": "crypto",
         "time": "Wed, 01 Jul 2026 20:18:55 +0000"
-      },
-      {
-        "title": "UN&#39;s First AI Safety Panel Says Scientists Can&#39;t Rule Out &#39;Catastrophic Harm&#39;",
-        "url": "https://decrypt.co/372543/un-ai-safety-panel-scientists-catastrophic-harm",
-        "source": "crypto",
-        "time": "Wed, 01 Jul 2026 19:05:50 +0000"
       }
     ],
     "hacker": [
@@ -42,36 +42,36 @@
         "time": "7/2/2026, 3:00:15 AM"
       },
       {
+        "title": "Vite+ Beta",
+        "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+        "source": "hn",
+        "time": "7/2/2026, 11:30:01 AM"
+      },
+      {
+        "title": "This blog is written in en-GB",
+        "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
+        "source": "hn",
+        "time": "7/2/2026, 12:17:33 PM"
+      },
+      {
         "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
         "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
         "source": "hn",
         "time": "7/2/2026, 4:32:41 AM"
-      },
-      {
-        "title": "The Fall of the Theorem Economy",
-        "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-        "source": "hn",
-        "time": "7/2/2026, 8:01:15 AM"
-      },
-      {
-        "title": "Oomwoo, an open-source robot vacuum you build yourself",
-        "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-        "source": "hn",
-        "time": "7/2/2026, 12:48:01 AM"
-      },
-      {
-        "title": "ZCode – Harness for GLM-5.2",
-        "url": "https://zcode.z.ai/en",
-        "source": "hn",
-        "time": "7/1/2026, 10:03:36 PM"
       }
     ],
     "world": [
       {
-        "title": "Starmer says forced adoptions a 'stain on our history', as he gives formal apology",
+        "title": "Labour failed to prepare for power, admits PM's former top aide",
+        "url": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 02 Jul 2026 12:23:14 GMT"
+      },
+      {
+        "title": "Forced adoptions 'a stain on our history' says Starmer as he gives formal apology",
         "url": "https://www.bbc.co.uk/news/articles/c20yq332018o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Jul 2026 11:13:33 GMT"
+        "time": "Thu, 02 Jul 2026 11:53:28 GMT"
       },
       {
         "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
@@ -80,22 +80,16 @@
         "time": "Thu, 02 Jul 2026 05:00:03 GMT"
       },
       {
-        "title": "Watch: People smuggler tracked down and confronted by BBC",
-        "url": "https://www.bbc.co.uk/news/videos/cnv9648nd5vo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Rescuers inch closer to quake survivor after eight days - and he's cheering them on",
+        "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Jul 2026 05:08:30 GMT"
+        "time": "Thu, 02 Jul 2026 12:11:54 GMT"
       },
       {
         "title": "Grooming gang leader released from prison",
         "url": "https://www.bbc.co.uk/news/articles/c4gyx0vldrlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Jul 2026 11:33:18 GMT"
-      },
-      {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 18",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 02 Jul 2026 11:11:52 GMT"
+        "time": "Thu, 02 Jul 2026 12:01:15 GMT"
       }
     ],
     "projects": [
