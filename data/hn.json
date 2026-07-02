@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-02T20:27:36.826Z"
+    "built_at": "2026-07-02T21:24:40.677Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Spiritual Bypass",
+      "url": "https://en.wikipedia.org/wiki/Spiritual_bypass",
+      "date": "2026-07-02T21:22:30.000Z"
+    },
+    {
+      "title": "Show HN: Visualizing Contrastive Language-Audio Pretraining (Clap)",
+      "url": "https://adamsohn.com/clap/",
+      "date": "2026-07-02T21:21:41.000Z"
+    }
+  ]
 }
