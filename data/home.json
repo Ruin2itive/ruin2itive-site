@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-02T05:20:55.794Z",
-  "updated_local": "7/2/2026, 5:20:55 AM",
+  "updated_iso": "2026-07-02T05:26:52.647Z",
+  "updated_local": "7/2/2026, 5:26:52 AM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,16 @@
         "time": "7/1/2026, 10:03:36 PM"
       },
       {
-        "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-        "url": "https://senior-swe-bench.snorkel.ai/",
-        "source": "hn",
-        "time": "7/2/2026, 2:55:16 AM"
-      },
-      {
         "title": "Oomwoo, an open-source robot vacuum you build yourself",
         "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
         "source": "hn",
         "time": "7/2/2026, 12:48:01 AM"
+      },
+      {
+        "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+        "url": "https://senior-swe-bench.snorkel.ai/",
+        "source": "hn",
+        "time": "7/2/2026, 2:55:16 AM"
       },
       {
         "title": "For first time, a cell built from scratch grows and divides",
@@ -74,6 +74,12 @@
         "time": "Thu, 02 Jul 2026 05:00:03 GMT"
       },
       {
+        "title": "Watch: People smuggler tracked down and confronted by BBC",
+        "url": "https://www.bbc.co.uk/news/videos/cnv9648nd5vo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 02 Jul 2026 05:08:30 GMT"
+      },
+      {
         "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 02 Jul 2026 04:59:55 GMT"
-      },
-      {
-        "title": "More than 300 arrests in crackdown on illegal trade and organised immigration crime",
-        "url": "https://www.bbc.co.uk/news/articles/cgev8ey9wrwo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 01 Jul 2026 21:41:40 GMT"
       }
     ],
     "projects": [
