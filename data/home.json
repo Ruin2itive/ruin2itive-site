@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-02T09:13:31.378Z",
-  "updated_local": "7/2/2026, 9:13:31 AM",
+  "updated_iso": "2026-07-02T10:55:52.028Z",
+  "updated_local": "7/2/2026, 10:55:52 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Scattered Spider Suspect Extradited to US Over $8M Crypto Ransom Demand",
+        "url": "https://decrypt.co/372665/scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom-demand",
+        "source": "crypto",
+        "time": "Thu, 02 Jul 2026 10:00:42 +0000"
+      },
       {
         "title": "Robinhood Launches &#39;AI-Native&#39; Ethereum Layer-2 Network, Tokenized Stock Trading",
         "url": "https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/372543/un-ai-safety-panel-scientists-catastrophic-harm",
         "source": "crypto",
         "time": "Wed, 01 Jul 2026 19:05:50 +0000"
-      },
-      {
-        "title": "Trump-Backed American Bitcoin Hits New Low Price Ahead of Reverse Stock Split",
-        "url": "https://decrypt.co/372550/trump-backed-american-bitcoin-new-low-price-reverse-stock-split",
-        "source": "crypto",
-        "time": "Wed, 01 Jul 2026 18:53:15 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "We Don't Have to Be This Bad at Improving Society",
-        "url": "https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/",
+        "title": "A new Android malware from Google",
+        "url": "https://f-droid.org/2026/07/01/adv-malware.html",
         "source": "hn",
-        "time": "7/2/2026, 8:26:09 AM"
+        "time": "7/2/2026, 3:00:15 AM"
       },
       {
         "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
@@ -48,10 +48,10 @@
         "time": "7/2/2026, 4:32:41 AM"
       },
       {
-        "title": "A new Android malware from Google",
-        "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+        "title": "The Fall of the Theorem Economy",
+        "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
         "source": "hn",
-        "time": "7/2/2026, 3:00:15 AM"
+        "time": "7/2/2026, 8:01:15 AM"
       },
       {
         "title": "Oomwoo, an open-source robot vacuum you build yourself",
@@ -80,22 +80,22 @@
         "time": "Thu, 02 Jul 2026 05:08:30 GMT"
       },
       {
-        "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
+        "title": "At least 18 killed in 'most massive' Russian attack on Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Jul 2026 07:11:48 GMT"
+        "time": "Thu, 02 Jul 2026 10:21:15 GMT"
       },
       {
-        "title": "Victims of forced adoption to get formal apology after years of campaigning",
+        "title": "Google must pay €4.1bn fine for using Android to 'block' rivals",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 02 Jul 2026 09:46:11 GMT"
+      },
+      {
+        "title": "Victims of forced adoption to get formal apology after years campaigning",
         "url": "https://www.bbc.co.uk/news/articles/c20yq332018o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 02 Jul 2026 09:06:52 GMT"
-      },
-      {
-        "title": "Don't expect trackers to save your stolen car, experts say",
-        "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 01 Jul 2026 23:31:43 GMT"
       }
     ],
     "projects": [
