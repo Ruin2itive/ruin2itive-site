@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-02T05:26:52.647Z",
-  "updated_local": "7/2/2026, 5:26:52 AM",
+  "updated_iso": "2026-07-02T07:10:13.112Z",
+  "updated_local": "7/2/2026, 7:10:13 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "The gauge broke: devs felt 20% faster with AI, measured 19% slower",
+        "url": "https://intrepidkarthi.com/writing/the-gauge-broke/",
+        "source": "hn",
+        "time": "7/2/2026, 6:44:34 AM"
+      },
+      {
         "title": "ZCode – Harness for GLM-5.2",
         "url": "https://zcode.z.ai/en",
         "source": "hn",
         "time": "7/1/2026, 10:03:36 PM"
+      },
+      {
+        "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+        "source": "hn",
+        "time": "7/2/2026, 4:32:41 AM"
       },
       {
         "title": "Oomwoo, an open-source robot vacuum you build yourself",
@@ -48,27 +60,15 @@
         "time": "7/2/2026, 12:48:01 AM"
       },
       {
-        "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-        "url": "https://senior-swe-bench.snorkel.ai/",
+        "title": "A new Android malware from Google",
+        "url": "https://f-droid.org/2026/07/01/adv-malware.html",
         "source": "hn",
-        "time": "7/2/2026, 2:55:16 AM"
-      },
-      {
-        "title": "For first time, a cell built from scratch grows and divides",
-        "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-        "source": "hn",
-        "time": "7/1/2026, 2:20:52 PM"
-      },
-      {
-        "title": "Bring back crappy forums",
-        "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
-        "source": "hn",
-        "time": "7/2/2026, 2:30:16 AM"
+        "time": "7/2/2026, 3:00:15 AM"
       }
     ],
     "world": [
       {
-        "title": "People smuggler convicted in France now seeking asylum in UK, BBC discovers",
+        "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
         "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 02 Jul 2026 05:00:03 GMT"
@@ -80,22 +80,22 @@
         "time": "Thu, 02 Jul 2026 05:08:30 GMT"
       },
       {
-        "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
+        "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Jul 2026 05:00:57 GMT"
+        "time": "Thu, 02 Jul 2026 06:38:42 GMT"
       },
       {
-        "title": "Superstar Kane produces his biggest England moment",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'I spent $6,000 on a World Cup trip but was left stranded at the gate'",
+        "url": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 01 Jul 2026 20:41:03 GMT"
+        "time": "Thu, 02 Jul 2026 04:59:47 GMT"
       },
       {
-        "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Don't expect trackers to save your stolen car, experts say",
+        "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Jul 2026 04:59:55 GMT"
+        "time": "Wed, 01 Jul 2026 23:31:43 GMT"
       }
     ],
     "projects": [
