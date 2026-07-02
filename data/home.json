@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-02T19:31:12.916Z",
-  "updated_local": "7/2/2026, 7:31:12 PM",
+  "updated_iso": "2026-07-02T19:34:23.175Z",
+  "updated_local": "7/2/2026, 7:34:23 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-        "url": "https://mathstodon.xyz/@iblech/116769502749142438",
-        "source": "hn",
-        "time": "7/2/2026, 3:25:16 PM"
-      },
-      {
         "title": "Exapunks (2018)",
         "url": "https://www.zachtronics.com/exapunks/",
         "source": "hn",
         "time": "7/2/2026, 6:41:19 PM"
+      },
+      {
+        "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+        "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+        "source": "hn",
+        "time": "7/2/2026, 3:25:16 PM"
       },
       {
         "title": "PeerTube is a free, decentralized and federated video platform",
@@ -60,10 +60,10 @@
         "time": "7/2/2026, 3:00:15 AM"
       },
       {
-        "title": "Klara and the Sun Essay Contest – $1k Prize – AI Use Allowed",
-        "url": "https://willpenman.com/klara/",
+        "title": "Podman v6.0.0",
+        "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
         "source": "hn",
-        "time": "7/2/2026, 6:48:58 PM"
+        "time": "7/2/2026, 2:23:09 PM"
       }
     ],
     "world": [
