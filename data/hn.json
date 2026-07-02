@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-02T05:17:36.627Z"
+    "built_at": "2026-07-02T07:05:10.568Z"
   },
-  "items": [
-    {
-      "title": "Transcending Temptation Through Abstraction",
-      "url": "https://journals.sagepub.com/doi/10.1177/0963721412449169",
-      "date": "2026-07-02T05:15:40.000Z"
-    },
-    {
-      "title": "The Control Plane Was the Point: Revisiting Autofz in the LLM Era",
-      "url": "https://yfu.tw/blog/en/autofz-revisited/",
-      "date": "2026-07-02T05:15:28.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
