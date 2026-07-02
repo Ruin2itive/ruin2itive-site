@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-02T19:34:23.175Z",
-  "updated_local": "7/2/2026, 7:34:23 PM",
+  "updated_iso": "2026-07-02T20:30:19.189Z",
+  "updated_local": "7/2/2026, 8:30:19 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "AI Researchers Got Chatbots to Share Cocaine Recipes Using This One Wild Trick",
+        "url": "https://decrypt.co/372688/ai-researchers-chatbots-share-cocaine-recipes-wild-trick",
+        "source": "crypto",
+        "time": "Thu, 02 Jul 2026 19:36:58 +0000"
+      },
       {
         "title": "Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche",
         "url": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/372677/fbi-director-kash-patel-undisclosed-stock-buy-bitcoin-giant-strategy",
         "source": "crypto",
         "time": "Thu, 02 Jul 2026 14:50:18 +0000"
-      },
-      {
-        "title": "Standard Chartered Becomes First Global Bank to Offer Direct USDC Access to Institutions",
-        "url": "https://decrypt.co/372674/standard-chartered-first-global-bank-direct-usdc-access",
-        "source": "crypto",
-        "time": "Thu, 02 Jul 2026 13:58:09 +0000"
       }
     ],
     "hacker": [
@@ -48,16 +48,16 @@
         "time": "7/2/2026, 3:25:16 PM"
       },
       {
+        "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+        "url": "http://www.lmdb.tech/doc/",
+        "source": "hn",
+        "time": "7/2/2026, 8:01:20 PM"
+      },
+      {
         "title": "PeerTube is a free, decentralized and federated video platform",
         "url": "https://github.com/Chocobozzz/PeerTube",
         "source": "hn",
         "time": "7/2/2026, 11:17:45 AM"
-      },
-      {
-        "title": "Android Developer Verification: Threat masquerading as protection",
-        "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-        "source": "hn",
-        "time": "7/2/2026, 3:00:15 AM"
       },
       {
         "title": "Podman v6.0.0",
