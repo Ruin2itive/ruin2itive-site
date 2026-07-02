@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-02T21:30:27.611Z",
-  "updated_local": "7/2/2026, 9:30:27 PM",
+  "updated_iso": "2026-07-02T22:23:58.644Z",
+  "updated_local": "7/2/2026, 10:23:58 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Offers US Government a $42 Billion Slice of Itself: Report",
+        "url": "https://decrypt.co/372715/openai-offers-us-government-42-billion-slice",
+        "source": "crypto",
+        "time": "Thu, 02 Jul 2026 21:39:25 +0000"
+      },
       {
         "title": "Russia Is Ready for &#39;Widespread Use&#39; of Digital Ruble by September, Says Bank Governor",
         "url": "https://decrypt.co/372698/russia-is-ready-for-widespread-use-of-digital-ruble-by-september-says-bank-governor",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche",
         "source": "crypto",
         "time": "Thu, 02 Jul 2026 18:43:50 +0000"
-      },
-      {
-        "title": "Japanese Financial Giant SBI to Shut Down Bitcoin Mining Pool",
-        "url": "https://decrypt.co/372686/japanese-financial-giant-sbi-shut-down-bitcoin-mining-pool",
-        "source": "crypto",
-        "time": "Thu, 02 Jul 2026 18:28:47 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Virginia bans sale of geolocation data",
+        "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+        "source": "hn",
+        "time": "7/2/2026, 9:03:45 PM"
+      },
       {
         "title": "Exapunks (2018)",
         "url": "https://www.zachtronics.com/exapunks/",
@@ -46,12 +52,6 @@
         "url": "https://mathstodon.xyz/@iblech/116769502749142438",
         "source": "hn",
         "time": "7/2/2026, 3:25:16 PM"
-      },
-      {
-        "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
-        "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
-        "source": "hn",
-        "time": "7/2/2026, 7:27:38 PM"
       },
       {
         "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
