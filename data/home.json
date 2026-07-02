@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-02T15:52:10.384Z",
-  "updated_local": "7/2/2026, 3:52:10 PM",
+  "updated_iso": "2026-07-02T16:36:49.167Z",
+  "updated_local": "7/2/2026, 4:36:49 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+        "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+        "source": "hn",
+        "time": "7/2/2026, 3:25:16 PM"
+      },
+      {
         "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
         "url": "https://manufact.com",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "7/2/2026, 3:00:15 AM"
       },
       {
-        "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
-        "url": "https://mailmemories.com",
+        "title": "How to ask for help from people who don't know you",
+        "url": "https://pradyuprasad.com/writings/how-to-ask-for-help/",
         "source": "hn",
-        "time": "7/2/2026, 2:16:57 PM"
+        "time": "7/2/2026, 1:19:22 PM"
       },
       {
         "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
         "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
         "source": "hn",
         "time": "7/2/2026, 1:43:41 PM"
-      },
-      {
-        "title": "Show HN: ZeroFS – A log-structured filesystem for S3",
-        "url": "https://www.zerofs.net/",
-        "source": "hn",
-        "time": "7/2/2026, 1:41:11 PM"
       }
     ],
     "world": [
@@ -72,6 +72,18 @@
         "url": "https://www.bbc.co.uk/news/articles/cn8k774pm3jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 02 Jul 2026 15:10:43 GMT"
+      },
+      {
+        "title": "Boy rapists given custody sentences by Court of Appeal",
+        "url": "https://www.bbc.co.uk/news/articles/cvg53d9p18vo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 02 Jul 2026 16:18:44 GMT"
+      },
+      {
+        "title": "Pubs allowed to stay open until 5am for England Mexico match",
+        "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 02 Jul 2026 16:22:39 GMT"
       },
       {
         "title": "Labour failed to prepare for power, admits PM's former top aide",
@@ -84,18 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 02 Jul 2026 05:00:03 GMT"
-      },
-      {
-        "title": "Survivor pulled from rubble eight days after Venezuela earthquakes",
-        "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 02 Jul 2026 14:11:50 GMT"
-      },
-      {
-        "title": "Government may now allow pubs to extend hours for 1am England clash",
-        "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 02 Jul 2026 14:44:02 GMT"
       }
     ],
     "projects": [
