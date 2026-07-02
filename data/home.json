@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-02T13:38:29.446Z",
-  "updated_local": "7/2/2026, 1:38:29 PM",
+  "updated_iso": "2026-07-02T14:47:01.305Z",
+  "updated_local": "7/2/2026, 2:47:01 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Standard Chartered Becomes First Global Bank to Offer Direct USDC Access to Institutions",
+        "url": "https://decrypt.co/372674/standard-chartered-first-global-bank-direct-usdc-access",
+        "source": "crypto",
+        "time": "Thu, 02 Jul 2026 13:58:09 +0000"
+      },
       {
         "title": "Metaplanet Adds 2,823 Bitcoin in Q2 as Buying Pace Cools",
         "url": "https://decrypt.co/372670/metaplanet-adds-2823-bitcoin-in-q2-as-buying-pace-cools",
@@ -26,33 +32,9 @@
         "url": "https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading",
         "source": "crypto",
         "time": "Wed, 01 Jul 2026 20:56:38 +0000"
-      },
-      {
-        "title": "Venice AI Valued at $1 Billion as Erik Voorhees Makes the Case for Private ChatGPT Rivals",
-        "url": "https://decrypt.co/372613/venice-ai-valued-1-billion-erik-voorhees-makes-case-private-chatgpt",
-        "source": "crypto",
-        "time": "Wed, 01 Jul 2026 20:38:40 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Vite+ Beta",
-        "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
-        "source": "hn",
-        "time": "7/2/2026, 11:30:01 AM"
-      },
-      {
-        "title": "This blog is written in en-GB",
-        "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
-        "source": "hn",
-        "time": "7/2/2026, 12:17:33 PM"
-      },
-      {
-        "title": "AI fake news complaining about how AI fake news is the death of real news",
-        "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
-        "source": "hn",
-        "time": "7/2/2026, 12:40:36 PM"
-      },
       {
         "title": "Android Developer Verification: Threat masquerading as Protection",
         "url": "https://f-droid.org/2026/07/01/adv-malware.html",
@@ -60,10 +42,28 @@
         "time": "7/2/2026, 3:00:15 AM"
       },
       {
-        "title": "In the age of algorithms and AI, is traditional media democracy's defence?",
-        "url": "https://www.martenscentre.eu/media-mentions/in-the-age-of-algorithms-and-ai-is-traditional-media-democracys-last-line-of-defence/",
+        "title": "Show HN: ZeroFS – A log-structured filesystem for S3",
+        "url": "https://www.zerofs.net/",
         "source": "hn",
-        "time": "7/2/2026, 1:16:54 PM"
+        "time": "7/2/2026, 1:41:11 PM"
+      },
+      {
+        "title": "Many people misunderstand the purpose of code review",
+        "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+        "source": "hn",
+        "time": "7/2/2026, 11:41:27 AM"
+      },
+      {
+        "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+        "url": "https://arxiv.org/abs/2607.01232",
+        "source": "hn",
+        "time": "7/2/2026, 12:10:24 PM"
+      },
+      {
+        "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+        "source": "hn",
+        "time": "7/2/2026, 4:32:41 AM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Thu, 02 Jul 2026 05:00:03 GMT"
       },
       {
+        "title": "Venezuela quake survivor pulled out alive after eight days",
+        "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 02 Jul 2026 14:11:50 GMT"
+      },
+      {
         "title": "Forced adoptions 'a stain on our history' says Starmer as he gives formal apology",
         "url": "https://www.bbc.co.uk/news/articles/c20yq332018o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 02 Jul 2026 11:53:28 GMT"
       },
       {
-        "title": "Rescuers inch closer to quake survivor after eight days - and he's cheering them on",
-        "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 02 Jul 2026 13:15:27 GMT"
-      },
-      {
-        "title": "Gary Glitter charged with historic sexual offences",
+        "title": "Gary Glitter charged with historical sexual offences",
         "url": "https://www.bbc.co.uk/news/articles/c2lywez0zddo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Jul 2026 13:23:10 GMT"
+        "time": "Thu, 02 Jul 2026 13:42:57 GMT"
       }
     ],
     "projects": [
