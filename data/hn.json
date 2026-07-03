@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-03T16:30:00.712Z"
+    "built_at": "2026-07-03T18:26:33.132Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "A Summer of Solar Cooking (2023)",
+      "url": "https://100r.ca/site/solar_cooking_experiment.html",
+      "date": "2026-07-03T18:26:05.000Z"
+    },
+    {
+      "title": "SaaS Economics in the AI Era",
+      "url": "https://medium.com/@adarshdeepsingh/saas-economics-in-the-ai-era-39b63acfaae7",
+      "date": "2026-07-03T18:25:44.000Z"
+    }
+  ]
 }
