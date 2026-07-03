@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-03T10:53:03.001Z"
+    "built_at": "2026-07-03T11:45:57.889Z"
   },
-  "items": [
-    {
-      "title": "Zero Blind Spots for Linux: Sovereign Automation Meets Identity Security",
-      "url": "https://orcharhino.com/en/resources/event/webinars/sovereign-linux-zero-blind-spots/",
-      "date": "2026-07-03T10:52:36.000Z"
-    },
-    {
-      "title": "Quantum Systems lands a €1B round, IQM becomes Europe’s first public quantum…",
-      "url": "https://scalingeurope.substack.com/p/scaling-europe-daily-37",
-      "date": "2026-07-03T10:49:44.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
