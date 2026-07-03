@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-03T09:12:42.850Z",
-  "updated_local": "7/3/2026, 9:12:42 AM",
+  "updated_iso": "2026-07-03T10:55:10.306Z",
+  "updated_local": "7/3/2026, 10:55:10 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
+        "title": "Half-Baked Product",
+        "url": "https://weli.dev/blog/half-baked-product/",
+        "source": "hn",
+        "time": "7/3/2026, 8:23:32 AM"
+      },
+      {
         "title": "Virginia bans sale of geolocation data",
         "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
         "source": "hn",
         "time": "7/2/2026, 9:03:45 PM"
-      },
-      {
-        "title": "CarPlay Is Additive",
-        "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-        "source": "hn",
-        "time": "7/3/2026, 1:02:45 AM"
       },
       {
         "title": "Right to Local Intelligence",
@@ -54,16 +54,16 @@
         "time": "7/2/2026, 11:54:03 PM"
       },
       {
-        "title": "crustc: entirety of `rustc`, translated to C",
-        "url": "https://github.com/FractalFir/crustc",
+        "title": "CarPlay Is Additive",
+        "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
         "source": "hn",
-        "time": "7/2/2026, 10:57:35 PM"
+        "time": "7/3/2026, 1:02:45 AM"
       },
       {
-        "title": "The Safari MCP server for web developers",
-        "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+        "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+        "url": "https://wordgard.net/",
         "source": "hn",
-        "time": "7/3/2026, 1:37:11 AM"
+        "time": "7/3/2026, 8:50:47 AM"
       }
     ],
     "world": [
@@ -80,16 +80,16 @@
         "time": "Thu, 02 Jul 2026 23:15:22 GMT"
       },
       {
-        "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
-        "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 02 Jul 2026 20:49:17 GMT"
-      },
-      {
         "title": "Burnham says there is some room for movement on tax",
         "url": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 03 Jul 2026 07:40:21 GMT"
+      },
+      {
+        "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+        "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 03 Jul 2026 10:23:32 GMT"
       },
       {
         "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
