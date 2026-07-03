@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-03T17:34:41.846Z",
-  "updated_local": "7/3/2026, 5:34:41 PM",
+  "updated_iso": "2026-07-03T18:29:31.237Z",
+  "updated_local": "7/3/2026, 6:29:31 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Zcash Ironwood Upgrade Nears as Developers Work to Restore Confidence After ZEC Crash",
+        "url": "https://decrypt.co/372738/zcash-ironwood-upgrade-developers-restore-confidence-zec-crash",
+        "source": "crypto",
+        "time": "Fri, 03 Jul 2026 17:56:03 +0000"
+      },
       {
         "title": "&#39;Every Time I Buy It, It Tanks&#39;: Dave Portnoy Says He&#39;s Losing Millions as Bitcoin Falls",
         "url": "https://decrypt.co/372737/dave-portnoy-losing-millions-bitcoin-falls",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/372726/farage-reported-to-uk-standards-watchdog-over-alleged-crypto-lobbying",
         "source": "crypto",
         "time": "Fri, 03 Jul 2026 13:06:56 +0000"
-      },
-      {
-        "title": "Bitcoin ETFs Draw In $222M, Snapping 10-Day Losing Streak",
-        "url": "https://decrypt.co/372723/bitcoin-etfs-draw-in-222m-snapping-10-day-losing-streak",
-        "source": "crypto",
-        "time": "Fri, 03 Jul 2026 11:46:34 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Markets are competitive if and only if P = NP",
-        "url": "https://arxiv.org/abs/2602.20415",
-        "source": "hn",
-        "time": "7/3/2026, 3:41:44 PM"
-      },
       {
         "title": "Claude, please stop trying to memorize random crap",
         "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
@@ -58,6 +52,12 @@
         "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
         "source": "hn",
         "time": "7/3/2026, 3:56:02 PM"
+      },
+      {
+        "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
+        "url": "https://okaneland.com/study/ai-productivity-roi-at-work/",
+        "source": "hn",
+        "time": "7/3/2026, 5:03:22 PM"
       },
       {
         "title": "Jamesob's guide to running SOTA LLMs locally",
@@ -80,10 +80,10 @@
         "time": "Fri, 03 Jul 2026 16:12:32 GMT"
       },
       {
-        "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
-        "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Henry Nowak's killer appeals conviction and sentence",
+        "url": "https://www.bbc.co.uk/news/articles/c3wy26p5lexo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Jul 2026 23:15:22 GMT"
+        "time": "Fri, 03 Jul 2026 16:11:14 GMT"
       },
       {
         "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
@@ -92,10 +92,10 @@
         "time": "Fri, 03 Jul 2026 15:20:57 GMT"
       },
       {
-        "title": "Henry Nowak's killer appeals conviction and sentence",
-        "url": "https://www.bbc.co.uk/news/articles/c3wy26p5lexo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Polish PM warns critical months ahead in face of Russian threat",
+        "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 03 Jul 2026 16:11:14 GMT"
+        "time": "Fri, 03 Jul 2026 16:41:00 GMT"
       }
     ],
     "projects": [
