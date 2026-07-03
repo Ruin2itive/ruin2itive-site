@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-03T13:38:02.726Z",
-  "updated_local": "7/3/2026, 1:38:02 PM",
+  "updated_iso": "2026-07-03T14:46:52.861Z",
+  "updated_local": "7/3/2026, 2:46:52 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "American Charged in Israel With Spying for Iran in Exchange for Crypto",
+        "url": "https://decrypt.co/372729/american-charged-israel-spying-iran-exchange-crypto",
+        "source": "crypto",
+        "time": "Fri, 03 Jul 2026 14:36:39 +0000"
+      },
       {
         "title": "Farage Reported to UK Standards Watchdog Over Alleged Crypto Lobbying",
         "url": "https://decrypt.co/372726/farage-reported-to-uk-standards-watchdog-over-alleged-crypto-lobbying",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/372698/russia-is-ready-for-widespread-use-of-digital-ruble-by-september-says-bank-governor",
         "source": "crypto",
         "time": "Thu, 02 Jul 2026 21:13:37 +0000"
-      },
-      {
-        "title": "Treasury Department Sanctions Over 130 ISIS-Affiliated Crypto Wallets on Tron",
-        "url": "https://decrypt.co/372697/treasury-department-sanctions-130-isis-affiliated-crypto-wallets-tron",
-        "source": "crypto",
-        "time": "Thu, 02 Jul 2026 20:59:18 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "7/3/2026, 8:23:32 AM"
       },
       {
-        "title": "Please Stop the AI Confidence Theater",
-        "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
-        "source": "hn",
-        "time": "7/3/2026, 12:51:17 PM"
-      },
-      {
-        "title": "Virginia bans sale of geolocation data",
-        "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-        "source": "hn",
-        "time": "7/2/2026, 9:03:45 PM"
-      },
-      {
-        "title": "PostgreSQL and the OOM Killer: Why You Must Use Strict Memory Overcommit",
+        "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
         "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
         "source": "hn",
         "time": "7/3/2026, 1:00:31 PM"
+      },
+      {
+        "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
+        "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+        "source": "hn",
+        "time": "7/3/2026, 1:01:49 PM"
       },
       {
         "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
         "url": "https://wordgard.net/",
         "source": "hn",
         "time": "7/3/2026, 8:50:47 AM"
+      },
+      {
+        "title": "Please stop the AI confidence theater",
+        "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+        "source": "hn",
+        "time": "7/3/2026, 12:51:17 PM"
       }
     ],
     "world": [
@@ -71,7 +71,13 @@
         "title": "Police criticise timing of decision on pubs staying open for England match",
         "url": "https://www.bbc.co.uk/news/articles/cd95v388k5jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 03 Jul 2026 12:53:45 GMT"
+        "time": "Fri, 03 Jul 2026 14:22:16 GMT"
+      },
+      {
+        "title": "Three men found not guilty of Lyra McKee murder",
+        "url": "https://www.bbc.co.uk/news/articles/cpd357j7020o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 03 Jul 2026 14:18:14 GMT"
       },
       {
         "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
@@ -80,7 +86,7 @@
         "time": "Thu, 02 Jul 2026 23:15:22 GMT"
       },
       {
-        "title": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
+        "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
         "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 03 Jul 2026 13:12:52 GMT"
@@ -89,13 +95,7 @@
         "title": "NHS to reward people who walk 30 minutes a day",
         "url": "https://www.bbc.co.uk/news/articles/cj6g0rdy40jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Jul 2026 23:13:44 GMT"
-      },
-      {
-        "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
-        "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 03 Jul 2026 10:23:32 GMT"
+        "time": "Fri, 03 Jul 2026 14:22:55 GMT"
       }
     ],
     "projects": [
