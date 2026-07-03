@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-03T14:45:03.237Z"
+    "built_at": "2026-07-03T15:38:06.794Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "The Protein Data Layer for AlphaFold-Style Models",
+      "url": "https://github.com/mooreneural/HelixDB",
+      "date": "2026-07-03T15:37:18.000Z"
+    },
+    {
+      "title": "Anthropic wants to develop its own drugs",
+      "url": "https://theguptalog.blogspot.com/2026/07/anthropic-wants-to-develop-its-own-drugs.html",
+      "date": "2026-07-03T15:37:13.000Z"
+    }
+  ]
 }
