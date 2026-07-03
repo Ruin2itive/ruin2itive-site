@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-03T07:16:14.397Z",
-  "updated_local": "7/3/2026, 7:16:14 AM",
+  "updated_iso": "2026-07-03T09:05:37.788Z",
+  "updated_local": "7/3/2026, 9:05:37 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
-        "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
-        "source": "hn",
-        "time": "7/3/2026, 4:16:17 AM"
-      },
-      {
         "title": "Virginia bans sale of geolocation data",
         "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
         "source": "hn",
@@ -64,14 +58,20 @@
         "url": "https://github.com/FractalFir/crustc",
         "source": "hn",
         "time": "7/2/2026, 10:57:35 PM"
+      },
+      {
+        "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+        "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+        "source": "hn",
+        "time": "7/2/2026, 3:25:16 PM"
       }
     ],
     "world": [
       {
-        "title": "Mother says new custodial sentences for daughter's rapists 'better' but still 'not enough'",
-        "url": "https://www.bbc.co.uk/news/articles/cvg53d9p18vo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "NHS to reward people who walk 30 minutes a day",
+        "url": "https://www.bbc.co.uk/news/articles/cj6g0rdy40jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 03 Jul 2026 04:24:22 GMT"
+        "time": "Thu, 02 Jul 2026 23:13:44 GMT"
       },
       {
         "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
@@ -80,22 +80,22 @@
         "time": "Thu, 02 Jul 2026 23:15:22 GMT"
       },
       {
-        "title": "Pubs allowed to stay open until 5am for England Mexico match",
+        "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
         "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 02 Jul 2026 20:49:17 GMT"
       },
       {
-        "title": "I take responsibility to fund defence plan extremely seriously, says Burnham",
+        "title": "Burnham says there is some room for movement on tax",
         "url": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 02 Jul 2026 20:40:27 GMT"
+        "time": "Fri, 03 Jul 2026 07:40:21 GMT"
       },
       {
         "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
         "url": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 03 Jul 2026 02:33:40 GMT"
+        "time": "Fri, 03 Jul 2026 08:36:23 GMT"
       }
     ],
     "projects": [
