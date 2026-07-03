@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-03T16:36:39.433Z",
-  "updated_local": "7/3/2026, 4:36:39 PM",
+  "updated_iso": "2026-07-03T17:31:19.947Z",
+  "updated_local": "7/3/2026, 5:31:19 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "&#39;Every Time I Buy It, It Tanks&#39;: Dave Portnoy Says He&#39;s Losing Millions as Bitcoin Falls",
+        "url": "https://decrypt.co/372737/dave-portnoy-losing-millions-bitcoin-falls",
+        "source": "crypto",
+        "time": "Fri, 03 Jul 2026 17:13:43 +0000"
+      },
       {
         "title": "What Is Q-Day? The Quantum Threat to Bitcoin Explained",
         "url": "https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/372723/bitcoin-etfs-draw-in-222m-snapping-10-day-losing-streak",
         "source": "crypto",
         "time": "Fri, 03 Jul 2026 11:46:34 +0000"
-      },
-      {
-        "title": "OpenAI Offers US Government a $42 Billion Slice of Itself: Report",
-        "url": "https://decrypt.co/372715/openai-offers-us-government-42-billion-slice",
-        "source": "crypto",
-        "time": "Thu, 02 Jul 2026 21:39:25 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "7/3/2026, 3:41:44 PM"
       },
       {
+        "title": "Claude, please stop trying to memorize random crap",
+        "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+        "source": "hn",
+        "time": "7/3/2026, 3:32:51 PM"
+      },
+      {
         "title": "Half-Baked Product",
         "url": "https://weli.dev/blog/half-baked-product/",
         "source": "hn",
         "time": "7/3/2026, 8:23:32 AM"
       },
       {
+        "title": "The Life and Times of Maxis, Part 1: SimEverything",
+        "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
+        "source": "hn",
+        "time": "7/3/2026, 3:56:02 PM"
+      },
+      {
         "title": "Jamesob's guide to running SOTA LLMs locally",
         "url": "https://github.com/jamesob/local-llm",
         "source": "hn",
         "time": "7/3/2026, 3:03:43 PM"
-      },
-      {
-        "title": "America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are",
-        "url": "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive",
-        "source": "hn",
-        "time": "7/3/2026, 3:08:56 PM"
-      },
-      {
-        "title": "Factories Are Just Rooms",
-        "url": "https://interconnected.org/home/2026/07/03/factories",
-        "source": "hn",
-        "time": "7/3/2026, 3:13:43 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Fri, 03 Jul 2026 15:20:57 GMT"
       },
       {
-        "title": "NHS to reward people who walk 30 minutes a day",
-        "url": "https://www.bbc.co.uk/news/articles/cj6g0rdy40jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Henry Nowak's killer appeals conviction and sentence",
+        "url": "https://www.bbc.co.uk/news/articles/c3wy26p5lexo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 03 Jul 2026 14:22:55 GMT"
+        "time": "Fri, 03 Jul 2026 16:11:14 GMT"
       }
     ],
     "projects": [
