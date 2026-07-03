@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-03T15:43:24.965Z",
-  "updated_local": "7/3/2026, 3:43:24 PM",
+  "updated_iso": "2026-07-03T16:32:31.851Z",
+  "updated_local": "7/3/2026, 4:32:31 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "What Is Q-Day? The Quantum Threat to Bitcoin Explained",
+        "url": "https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained",
+        "source": "crypto",
+        "time": "Fri, 03 Jul 2026 15:40:16 +0000"
+      },
       {
         "title": "American Charged in Israel With Spying for Iran in Exchange for Crypto",
         "url": "https://decrypt.co/372729/american-charged-israel-spying-iran-exchange-crypto",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/372715/openai-offers-us-government-42-billion-slice",
         "source": "crypto",
         "time": "Thu, 02 Jul 2026 21:39:25 +0000"
-      },
-      {
-        "title": "Russia Is Ready for &#39;Widespread Use&#39; of Digital Ruble by September, Says Bank Governor",
-        "url": "https://decrypt.co/372698/russia-is-ready-for-widespread-use-of-digital-ruble-by-september-says-bank-governor",
-        "source": "crypto",
-        "time": "Thu, 02 Jul 2026 21:13:37 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Markets are competitive if and only if P = NP",
+        "url": "https://arxiv.org/abs/2602.20415",
+        "source": "hn",
+        "time": "7/3/2026, 3:41:44 PM"
+      },
       {
         "title": "Half-Baked Product",
         "url": "https://weli.dev/blog/half-baked-product/",
         "source": "hn",
         "time": "7/3/2026, 8:23:32 AM"
-      },
-      {
-        "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
-        "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-        "source": "hn",
-        "time": "7/3/2026, 1:00:31 PM"
       },
       {
         "title": "Jamesob's guide to running SOTA LLMs locally",
@@ -54,16 +54,16 @@
         "time": "7/3/2026, 3:03:43 PM"
       },
       {
-        "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
-        "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+        "title": "America, 1926: What a Forgotten 100-Year-Old Report Says About Who We Are",
+        "url": "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive",
         "source": "hn",
-        "time": "7/3/2026, 1:01:49 PM"
+        "time": "7/3/2026, 3:08:56 PM"
       },
       {
-        "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
-        "url": "https://wordgard.net/",
+        "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
+        "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
         "source": "hn",
-        "time": "7/3/2026, 8:50:47 AM"
+        "time": "7/3/2026, 1:00:31 PM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "Three men found not guilty of journalist Lyra McKee's murder",
         "url": "https://www.bbc.co.uk/news/articles/cpd357j7020o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 03 Jul 2026 15:38:34 GMT"
+        "time": "Fri, 03 Jul 2026 16:12:32 GMT"
       },
       {
         "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
