@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-04T21:18:23.082Z"
+    "built_at": "2026-07-04T22:17:46.342Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Mise – A keyboard-driven Python/Qt6 browser built for fanless laptops",
-      "url": "https://github.com/Rakosn1cek/Mise",
-      "date": "2026-07-04T21:16:53.000Z"
-    },
-    {
-      "title": "Exclusive-Meta's Zuckerberg says AI agent tech progressing slower than expected",
-      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html",
-      "date": "2026-07-04T21:16:32.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
