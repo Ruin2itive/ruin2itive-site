@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-04T15:29:09.091Z",
-  "updated_local": "7/4/2026, 3:29:09 PM",
+  "updated_iso": "2026-07-04T16:23:38.437Z",
+  "updated_local": "7/4/2026, 4:23:38 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Perplexity Co-Founder: AI Safety Is an Excuse to Lock Down Frontier",
+        "url": "https://decrypt.co/372755/perplexity-co-founder-ai-safety-excuse-lock-down-frontier",
+        "source": "crypto",
+        "time": "Sat, 04 Jul 2026 16:07:19 +0000"
+      },
       {
         "title": "Inside the Trading Engine Behind ChangeNOW’s ‘Fast, Seamless Swaps’",
         "url": "https://decrypt.co/372679/inside-the-trading-engine-behind-changenows-fast-seamless-swaps",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/372738/zcash-ironwood-upgrade-developers-restore-confidence-zec-crash",
         "source": "crypto",
         "time": "Fri, 03 Jul 2026 17:56:03 +0000"
-      },
-      {
-        "title": "&#39;Every Time I Buy It, It Tanks&#39;: Dave Portnoy Says He&#39;s Losing Millions as Bitcoin Falls",
-        "url": "https://decrypt.co/372737/dave-portnoy-losing-millions-bitcoin-falls",
-        "source": "crypto",
-        "time": "Fri, 03 Jul 2026 17:13:43 +0000"
       }
     ],
     "hacker": [
@@ -48,22 +48,22 @@
         "time": "7/4/2026, 12:00:57 PM"
       },
       {
+        "title": "What ORMs have taught me: just learn SQL (2014)",
+        "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
+        "source": "hn",
+        "time": "7/1/2026, 4:14:01 AM"
+      },
+      {
+        "title": "Curveball",
+        "url": "https://mightyburger.net/projects/curveball/",
+        "source": "hn",
+        "time": "7/4/2026, 4:15:48 PM"
+      },
+      {
         "title": "Astrophysicists Puzzle over Webb’s New Universe",
         "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
         "source": "hn",
         "time": "7/4/2026, 9:08:09 AM"
-      },
-      {
-        "title": "Maybe you should learn something",
-        "url": "https://www.marginalia.nu/log/a_135_learn/",
-        "source": "hn",
-        "time": "7/4/2026, 3:36:03 AM"
-      },
-      {
-        "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-        "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-        "source": "hn",
-        "time": "7/1/2026, 12:48:56 PM"
       }
     ],
     "world": [
