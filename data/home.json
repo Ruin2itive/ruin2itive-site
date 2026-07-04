@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-04T12:34:17.224Z",
-  "updated_local": "7/4/2026, 12:34:17 PM",
+  "updated_iso": "2026-07-04T13:31:51.277Z",
+  "updated_local": "7/4/2026, 1:31:51 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Astrophysicists Puzzle over Webb’s New Universe",
+        "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+        "source": "hn",
+        "time": "7/4/2026, 9:08:09 AM"
+      },
+      {
+        "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
+        "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
+        "source": "hn",
+        "time": "7/1/2026, 1:22:19 PM"
+      },
+      {
         "title": "The bottleneck might be the air in the room",
         "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
         "source": "hn",
         "time": "7/4/2026, 6:32:28 AM"
-      },
-      {
-        "title": "Astrophysicists Puzzle over Webb's New Universe",
-        "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-        "source": "hn",
-        "time": "7/4/2026, 9:08:09 AM"
       },
       {
         "title": "Maybe you should learn something",
@@ -54,16 +60,10 @@
         "time": "7/4/2026, 3:36:03 AM"
       },
       {
-        "title": "Mir Books – Books from the Soviet Era",
-        "url": "https://mirtitles.org",
+        "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+        "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
         "source": "hn",
-        "time": "6/30/2026, 8:50:58 PM"
-      },
-      {
-        "title": "Performance per dollar is getting faster and cheaper",
-        "url": "https://www.wafer.ai/blog/glm52-amd",
-        "source": "hn",
-        "time": "7/3/2026, 9:49:06 PM"
+        "time": "7/1/2026, 12:48:56 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Sat, 04 Jul 2026 12:13:46 GMT"
       },
       {
+        "title": "Dior dress and a man of honour: What we know about Taylor Swift and Travis Kelce's wedding",
+        "url": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 04 Jul 2026 12:05:41 GMT"
+      },
+      {
         "title": "Starmer tells of 'intensely personal' decision to quit and warns Burnham in first interview since resigning",
         "url": "https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 03 Jul 2026 21:26:53 GMT"
       },
       {
-        "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-        "url": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 04 Jul 2026 02:26:54 GMT"
-      },
-      {
-        "title": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
-        "url": "https://www.bbc.co.uk/news/articles/c7vyqgy4r5lo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 04 Jul 2026 08:24:17 GMT"
-      },
-      {
         "title": "The massive scramble behind the scenes before the new PM arrives",
         "url": "https://www.bbc.co.uk/news/articles/cj4g0n0p15xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 04 Jul 2026 12:19:05 GMT"
+      },
+      {
+        "title": "Boy, 3, had five surgeries after crocodile attack",
+        "url": "https://www.bbc.co.uk/news/articles/c4gy0k2d491o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 04 Jul 2026 11:57:31 GMT"
       }
     ],
     "projects": [
