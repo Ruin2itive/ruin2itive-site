@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-04T16:20:39.715Z"
+    "built_at": "2026-07-04T17:22:21.671Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Sick leave: Germany rising but not the worst in Europe",
+      "url": "https://www.dw.com/en/sick-leave-germany-rising-but-not-the-worst-in-europe/a-77815488",
+      "date": "2026-07-04T17:18:42.000Z"
+    },
+    {
+      "title": "What should a personal website be?",
+      "url": "https://ratfactor.com/cards/personal-website",
+      "date": "2026-07-04T17:18:21.000Z"
+    }
+  ]
 }
