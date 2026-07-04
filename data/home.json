@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-04T13:35:16.952Z",
-  "updated_local": "7/4/2026, 1:35:16 PM",
+  "updated_iso": "2026-07-04T14:32:09.449Z",
+  "updated_local": "7/4/2026, 2:32:09 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Inside the Trading Engine Behind ChangeNOW’s ‘Fast, Seamless Swaps’",
+        "url": "https://decrypt.co/372679/inside-the-trading-engine-behind-changenows-fast-seamless-swaps",
+        "source": "crypto",
+        "time": "Sat, 04 Jul 2026 14:01:03 +0000"
+      },
       {
         "title": "Claude Fable 5 Isn&#39;t Nerfed. The Router Is Just Paranoid",
         "url": "https://decrypt.co/372750/claude-fable-5-not-nerfed-router-paranoid",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/372737/dave-portnoy-losing-millions-bitcoin-falls",
         "source": "crypto",
         "time": "Fri, 03 Jul 2026 17:13:43 +0000"
-      },
-      {
-        "title": "What Is Q-Day? The Quantum Threat to Bitcoin Explained",
-        "url": "https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained",
-        "source": "crypto",
-        "time": "Fri, 03 Jul 2026 15:40:16 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+        "url": "https://github.com/anthropics/claude-code/issues/74066",
+        "source": "hn",
+        "time": "7/4/2026, 2:03:40 PM"
+      },
+      {
+        "title": "Explanation of everything you can see in htop/top on Linux",
+        "url": "https://peteris.rocks/blog/htop/",
+        "source": "hn",
+        "time": "7/4/2026, 12:00:57 PM"
+      },
       {
         "title": "Astrophysicists Puzzle over Webb’s New Universe",
         "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
@@ -42,28 +54,16 @@
         "time": "7/4/2026, 9:08:09 AM"
       },
       {
-        "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
-        "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
-        "source": "hn",
-        "time": "7/1/2026, 1:22:19 PM"
-      },
-      {
-        "title": "Night Witches – all-female Soviet aviator regiment WW2",
-        "url": "https://en.wikipedia.org/wiki/Night_Witches",
-        "source": "hn",
-        "time": "6/30/2026, 6:24:52 PM"
-      },
-      {
-        "title": "The bottleneck might be the air in the room",
-        "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-        "source": "hn",
-        "time": "7/4/2026, 6:32:28 AM"
-      },
-      {
         "title": "Maybe you should learn something",
         "url": "https://www.marginalia.nu/log/a_135_learn/",
         "source": "hn",
         "time": "7/4/2026, 3:36:03 AM"
+      },
+      {
+        "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+        "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+        "source": "hn",
+        "time": "7/1/2026, 12:48:56 PM"
       }
     ],
     "world": [
@@ -83,7 +83,7 @@
         "title": "Prince Harry will not be joined by Meghan and children on London trip",
         "url": "https://www.bbc.co.uk/news/articles/cr5jpzn2814o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 04 Jul 2026 13:15:09 GMT"
+        "time": "Sat, 04 Jul 2026 14:22:43 GMT"
       },
       {
         "title": "The massive scramble behind the scenes before the new PM arrives",
@@ -92,10 +92,10 @@
         "time": "Sat, 04 Jul 2026 12:19:05 GMT"
       },
       {
-        "title": "Starmer tells of 'intensely personal' decision to quit and warns Burnham in first interview since resigning",
-        "url": "https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+        "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 03 Jul 2026 21:26:53 GMT"
+        "time": "Sat, 04 Jul 2026 14:07:31 GMT"
       }
     ],
     "projects": [
