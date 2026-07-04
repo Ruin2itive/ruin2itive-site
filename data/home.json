@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-04T17:23:59.589Z",
-  "updated_local": "7/4/2026, 5:23:59 PM",
+  "updated_iso": "2026-07-04T18:22:52.555Z",
+  "updated_local": "7/4/2026, 6:22:52 PM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
+        "title": "Leaking YouTube creators' private videos",
+        "url": "https://javoriuski.com/post/youtube",
+        "source": "hn",
+        "time": "7/4/2026, 4:45:10 PM"
+      },
+      {
+        "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+        "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+        "source": "hn",
+        "time": "7/4/2026, 4:51:26 PM"
+      },
+      {
         "title": "Potential session/cache leakage between workspace instances or consumer accounts",
         "url": "https://github.com/anthropics/claude-code/issues/74066",
         "source": "hn",
         "time": "7/4/2026, 2:03:40 PM"
       },
       {
-        "title": "Leaking YouTube Creators Private Videos",
-        "url": "https://javoriuski.com/post/youtube",
+        "title": "No more than 100 000 faint satellites should orbit Earth",
+        "url": "https://www.eso.org/public/news/eso2607/",
         "source": "hn",
-        "time": "7/4/2026, 4:45:10 PM"
+        "time": "7/4/2026, 5:17:28 PM"
       },
       {
-        "title": "Explanation of everything you can see in htop/top on Linux",
+        "title": "Explanation of everything you can see in htop/top on Linux (2019)",
         "url": "https://peteris.rocks/blog/htop/",
         "source": "hn",
         "time": "7/4/2026, 12:00:57 PM"
-      },
-      {
-        "title": "Curveball",
-        "url": "https://mightyburger.net/projects/curveball/",
-        "source": "hn",
-        "time": "7/4/2026, 4:15:48 PM"
-      },
-      {
-        "title": "Windows CE Dreamcast Community Edition (wince-dc)",
-        "url": "https://github.com/maximqaxd/wince-dc",
-        "source": "hn",
-        "time": "7/4/2026, 2:52:25 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Sat, 04 Jul 2026 14:07:31 GMT"
       },
       {
-        "title": "Dior dress and a man of honour: What we know about Taylor Swift and Travis Kelce's wedding",
-        "url": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 04 Jul 2026 16:43:46 GMT"
-      },
-      {
         "title": "The massive scramble behind the scenes before the new PM arrives",
         "url": "https://www.bbc.co.uk/news/articles/cj4g0n0p15xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 04 Jul 2026 12:19:05 GMT"
+      },
+      {
+        "title": "New heatwave likely to peak at 34C with week-long health alert issued",
+        "url": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 04 Jul 2026 15:28:17 GMT"
       }
     ],
     "projects": [
