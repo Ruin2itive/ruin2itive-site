@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-04T21:23:31.149Z",
-  "updated_local": "7/4/2026, 9:23:31 PM",
+  "updated_iso": "2026-07-04T22:19:58.060Z",
+  "updated_local": "7/4/2026, 10:19:58 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "7/4/2026, 7:41:10 PM"
       },
       {
+        "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+        "url": "https://github.com/openai/codex/issues/30364",
+        "source": "hn",
+        "time": "7/4/2026, 9:51:09 PM"
+      },
+      {
         "title": "Leaking YouTube creators' private videos",
         "url": "https://javoriuski.com/post/youtube",
         "source": "hn",
@@ -54,16 +60,10 @@
         "time": "7/4/2026, 4:51:26 PM"
       },
       {
-        "title": "Verizon is About to Break our Watches",
-        "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+        "title": "Better Models: Worse Tools",
+        "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
         "source": "hn",
-        "time": "7/4/2026, 5:52:36 PM"
-      },
-      {
-        "title": "Potential session/cache leakage between workspace instances or consumer accounts",
-        "url": "https://github.com/anthropics/claude-code/issues/74066",
-        "source": "hn",
-        "time": "7/4/2026, 2:03:40 PM"
+        "time": "7/4/2026, 8:16:22 PM"
       }
     ],
     "world": [
@@ -86,10 +86,10 @@
         "time": "Sat, 04 Jul 2026 18:41:25 GMT"
       },
       {
-        "title": "Pubs and police brace for England-Mexico 1am kick-off after Fifa U-turn",
-        "url": "https://www.bbc.co.uk/news/articles/cy9r2x4pz1wo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "NHS app to use AI to determine which service best for patients",
+        "url": "https://www.bbc.co.uk/news/articles/c0my2kjjnp2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 04 Jul 2026 12:13:46 GMT"
+        "time": "Sat, 04 Jul 2026 21:32:08 GMT"
       },
       {
         "title": "New heatwave likely to peak at 34C with week-long health alert issued",
