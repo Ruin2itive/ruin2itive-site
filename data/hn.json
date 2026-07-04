@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-04T15:23:23.924Z"
+    "built_at": "2026-07-04T16:20:39.715Z"
   },
-  "items": [
-    {
-      "title": "Sitting for more than 30 minutes increases the risk of dying from cancer",
-      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371%2Fjournal.pmed.1004767",
-      "date": "2026-07-04T15:22:39.000Z"
-    },
-    {
-      "title": "Simple White Line Is America's Greatest Unsung Innovation",
-      "url": "https://www.wsj.com/business/white-line-road-invention-america-250-8ce6bb89",
-      "date": "2026-07-04T15:20:59.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
