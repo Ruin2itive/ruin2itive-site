@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-04T19:27:46.366Z"
+    "built_at": "2026-07-04T20:19:45.643Z"
   },
-  "items": [
-    {
-      "title": "ZonForge Sentinel – AI-native cybersecurity for startups without a SoC team",
-      "url": "https://zonforge.com/",
-      "date": "2026-07-04T19:24:23.000Z"
-    },
-    {
-      "title": "Putting an Agent in an Orb",
-      "url": "https://ampcode.com/notes/putting-an-agent-in-an-orb",
-      "date": "2026-07-04T19:22:55.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
