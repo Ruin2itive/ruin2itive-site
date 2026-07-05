@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-05T21:21:58.957Z"
+    "built_at": "2026-07-05T22:19:26.561Z"
   },
-  "items": [
-    {
-      "title": "A hot summer trend in the sharing economy? Rental swimming pools",
-      "url": "https://text.npr.org/nx-s1-5876505",
-      "date": "2026-07-05T21:20:51.000Z"
-    },
-    {
-      "title": "Completing a Computer Science Degree on Coursera",
-      "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
-      "date": "2026-07-05T21:20:49.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
