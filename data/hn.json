@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-04T23:19:38.771Z"
+    "built_at": "2026-07-05T00:30:03.443Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Morph Reflexes",
+      "url": "https://docs.morphllm.com/sdk/components/reflexes",
+      "date": "2026-07-05T00:29:00.000Z"
+    },
+    {
+      "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams",
+      "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
+      "date": "2026-07-05T00:22:25.000Z"
+    }
+  ]
 }
