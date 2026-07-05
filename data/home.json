@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-05T03:16:01.249Z",
-  "updated_local": "7/5/2026, 3:16:01 AM",
+  "updated_iso": "2026-07-05T05:20:53.420Z",
+  "updated_local": "7/5/2026, 5:20:53 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Scientists reverse brain aging, with a nasal spray",
-        "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
-        "source": "hn",
-        "time": "7/4/2026, 11:41:10 PM"
-      },
-      {
         "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
         "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
         "source": "hn",
         "time": "7/4/2026, 7:41:10 PM"
+      },
+      {
+        "title": "If you're a button, you have one job",
+        "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+        "source": "hn",
+        "time": "7/5/2026, 2:01:03 AM"
       },
       {
         "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
@@ -54,19 +54,25 @@
         "time": "7/4/2026, 9:51:09 PM"
       },
       {
-        "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
-        "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
-        "source": "hn",
-        "time": "7/4/2026, 10:36:28 PM"
-      },
-      {
         "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
         "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
         "source": "hn",
         "time": "7/4/2026, 4:51:26 PM"
+      },
+      {
+        "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+        "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+        "source": "hn",
+        "time": "7/4/2026, 10:36:28 PM"
       }
     ],
     "world": [
+      {
+        "title": "US marks its 250th birthday with fireworks, flyovers and extreme weather",
+        "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 05 Jul 2026 04:38:09 GMT"
+      },
       {
         "title": "Tuchel praises respectful Mexico fans amid increased security",
         "url": "https://www.bbc.co.uk/sport/football/articles/c8r2827pyxlo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,7 +80,7 @@
         "time": "Sun, 05 Jul 2026 02:15:19 GMT"
       },
       {
-        "title": "Farage denies rules broken after reports benefits from ally were undeclared",
+        "title": "Farage denies rules broken after reports benefits from ally were not declared",
         "url": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 05 Jul 2026 01:33:15 GMT"
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 04 Jul 2026 18:41:25 GMT"
-      },
-      {
-        "title": "Police leadership needs 'ethical reset', Lord Blunkett tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cy0429yx1k9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 04 Jul 2026 19:36:58 GMT"
       }
     ],
     "projects": [
