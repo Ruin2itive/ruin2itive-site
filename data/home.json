@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-05T09:09:33.984Z",
-  "updated_local": "7/5/2026, 9:09:33 AM",
+  "updated_iso": "2026-07-05T10:44:17.965Z",
+  "updated_local": "7/5/2026, 10:44:17 AM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,16 @@
     ],
     "hacker": [
       {
+        "title": "Programmers need to start meditating now",
+        "url": "https://jacob.gold/posts/programmers-need-to-start-meditating-now/",
+        "source": "hn",
+        "time": "7/5/2026, 7:39:35 AM"
+      },
+      {
         "title": "Shadcn/UI now defaults to Base UI instead of Radix",
         "url": "https://ui.shadcn.com/docs/changelog",
         "source": "hn",
         "time": "7/5/2026, 4:46:08 AM"
-      },
-      {
-        "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-        "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-        "source": "hn",
-        "time": "7/5/2026, 6:19:34 AM"
-      },
-      {
-        "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-        "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-        "source": "hn",
-        "time": "7/4/2026, 7:41:10 PM"
       },
       {
         "title": "If you're a button, you have one job",
@@ -60,10 +54,16 @@
         "time": "7/5/2026, 2:01:03 AM"
       },
       {
-        "title": "Pandoc Lua Filters",
-        "url": "https://pandoc.org/lua-filters.html",
+        "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+        "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
         "source": "hn",
-        "time": "7/3/2026, 9:52:51 AM"
+        "time": "7/4/2026, 7:41:10 PM"
+      },
+      {
+        "title": "Web-based cryptography is always snake oil",
+        "url": "https://www.devever.net/~hl/webcrypto",
+        "source": "hn",
+        "time": "7/5/2026, 8:01:29 AM"
       }
     ],
     "world": [
@@ -83,7 +83,7 @@
         "title": "Farage denies rules broken after reports benefits from ally were not declared",
         "url": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 05 Jul 2026 07:08:07 GMT"
+        "time": "Sun, 05 Jul 2026 09:51:44 GMT"
       },
       {
         "title": "Watch: Lyse Doucet in Tehran as huge funeral for Iran's former supreme leader takes place",
