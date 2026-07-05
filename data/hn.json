@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-05T15:26:02.555Z"
+    "built_at": "2026-07-05T16:21:53.782Z"
   },
-  "items": [
-    {
-      "title": "Dupes (product clones) took over the world",
-      "url": "https://www.vox.com/podcasts/493930/dupe-culture-fender-ugg-quince-tiktok-amazon-online-shopping",
-      "date": "2026-07-05T15:22:42.000Z"
-    },
-    {
-      "title": "Great apes have similar laugh rhythm to modern humans for 15M years",
-      "url": "https://warwick.ac.uk/news/pressreleases/whats-so-funny/",
-      "date": "2026-07-05T15:18:22.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
