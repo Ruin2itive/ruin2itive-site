@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-05T15:31:38.950Z",
-  "updated_local": "7/5/2026, 3:31:38 PM",
+  "updated_iso": "2026-07-05T16:24:27.409Z",
+  "updated_local": "7/5/2026, 4:24:27 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Fake Mac Clipboard App Delivers New Password-Stealing Malware",
+        "url": "https://decrypt.co/372743/fake-mac-clipboard-app-delivers-password-stealing-malware",
+        "source": "crypto",
+        "time": "Sun, 05 Jul 2026 15:46:01 +0000"
+      },
       {
         "title": "Bitcoin to $53K? Exchange Deposits Jump as Analysts Warn of Increased Volatility",
         "url": "https://decrypt.co/372744/bitcoin-53k-exchange-deposits-jump-analysts-warn-increased-volatility",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/372750/claude-fable-5-not-nerfed-router-paranoid",
         "source": "crypto",
         "time": "Fri, 03 Jul 2026 21:06:03 +0000"
-      },
-      {
-        "title": "Senator Gillibrand Seeks to Ban Trump, Elected Officials From Launching Meme Coins",
-        "url": "https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins",
-        "source": "crypto",
-        "time": "Fri, 03 Jul 2026 21:03:33 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "7/5/2026, 2:14:30 PM"
       },
       {
-        "title": "Phosh 0.56.0",
-        "url": "https://phosh.mobi/releases/rel-0.56.0/",
-        "source": "hn",
-        "time": "7/5/2026, 1:28:11 PM"
-      },
-      {
         "title": "Introduction to Compilers and Language Design",
         "url": "https://dthain.github.io/books/compiler/",
         "source": "hn",
         "time": "7/5/2026, 11:54:16 AM"
+      },
+      {
+        "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
+        "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
+        "source": "hn",
+        "time": "7/5/2026, 1:47:44 PM"
       },
       {
         "title": "Airplane Boneyards List and Map",
@@ -60,10 +60,10 @@
         "time": "7/4/2026, 3:53:08 PM"
       },
       {
-        "title": "If you're a button, you have one job",
-        "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+        "title": "Medieval-style fortifications are back in the Sahel",
+        "url": "https://www.economist.com/middle-east-and-africa/2026/06/25/medieval-style-fortifications-are-back-in-the-sahel",
         "source": "hn",
-        "time": "7/5/2026, 2:01:03 AM"
+        "time": "7/1/2026, 1:49:59 PM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 05 Jul 2026 12:31:39 GMT"
+      },
+      {
+        "title": "'Posh George': Who is aristocrat and convicted criminal at heart of Farage controversy?",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzzw5vk8vo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 05 Jul 2026 15:34:34 GMT"
       },
       {
         "title": "England battling history as well as Mexican nation in Azteca cauldron",
@@ -83,19 +89,13 @@
         "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
         "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 05 Jul 2026 12:29:18 GMT"
+        "time": "Sun, 05 Jul 2026 15:48:55 GMT"
       },
       {
-        "title": "How Iran's new regime is very different to what came before",
-        "url": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+        "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 05 Jul 2026 05:40:07 GMT"
-      },
-      {
-        "title": "What Sky buying ITV could mean for your favourite shows",
-        "url": "https://www.bbc.co.uk/news/articles/c04yx44xq19o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 04 Jul 2026 23:23:51 GMT"
+        "time": "Sun, 05 Jul 2026 15:48:20 GMT"
       }
     ],
     "projects": [
