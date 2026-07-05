@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-05T05:25:35.176Z",
-  "updated_local": "7/5/2026, 5:25:35 AM",
+  "updated_iso": "2026-07-05T07:08:18.459Z",
+  "updated_local": "7/5/2026, 7:08:18 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+        "url": "https://ui.shadcn.com/docs/changelog",
+        "source": "hn",
+        "time": "7/5/2026, 4:46:08 AM"
+      },
+      {
         "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
         "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "7/5/2026, 2:01:03 AM"
       },
       {
-        "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-        "url": "https://github.com/openai/codex/issues/30364",
+        "title": "Beeg float library, a Rust port of Fabrice Bellard's libbf",
+        "url": "https://github.com/lifthrasiir/libbeef",
         "source": "hn",
-        "time": "7/4/2026, 9:51:09 PM"
+        "time": "7/5/2026, 5:23:24 AM"
       },
       {
-        "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-        "url": "https://ui.shadcn.com/docs/changelog",
+        "title": "Mouse: Precision Editing Tools for AI Coding Agents",
+        "url": "https://hic-ai.com",
         "source": "hn",
-        "time": "7/5/2026, 4:46:08 AM"
-      },
-      {
-        "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
-        "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-        "source": "hn",
-        "time": "7/4/2026, 4:51:26 PM"
+        "time": "7/5/2026, 5:01:14 AM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Sun, 05 Jul 2026 01:33:15 GMT"
       },
       {
-        "title": "Prince Harry and Meghan: Will they or won't they, and will we care?",
-        "url": "https://www.bbc.co.uk/news/articles/c621jwpld8zo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Lyse Doucet in Tehran as huge funeral for Iran's former supreme leader takes place",
+        "url": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 04 Jul 2026 23:18:36 GMT"
+        "time": "Sat, 04 Jul 2026 21:46:43 GMT"
       },
       {
-        "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-        "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How Iran's new regime is very different to what came before",
+        "url": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 04 Jul 2026 18:41:25 GMT"
+        "time": "Sun, 05 Jul 2026 05:40:07 GMT"
       }
     ],
     "projects": [
