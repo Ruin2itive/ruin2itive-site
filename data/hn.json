@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-05T09:00:35.066Z"
+    "built_at": "2026-07-05T10:42:47.702Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Suezmax",
+      "url": "https://en.wikipedia.org/wiki/Suezmax",
+      "date": "2026-07-05T10:37:37.000Z"
+    },
+    {
+      "title": "Show HN: Design Patterns for AI",
+      "url": "https://verificationdesign.com/",
+      "date": "2026-07-05T10:36:40.000Z"
+    }
+  ]
 }
