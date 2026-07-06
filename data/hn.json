@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-06T21:30:47.163Z"
+    "built_at": "2026-07-06T22:25:31.030Z"
   },
-  "items": [
-    {
-      "title": "Chat Control 1.0 vs. 2.0",
-      "url": "https://fightchatcontrol.eu/chat-control-overview",
-      "date": "2026-07-06T21:29:46.000Z"
-    },
-    {
-      "title": "Even banks and hyperscalers are now sounding the alarm about the AI bubble",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/06/even-banks-and-hyperscalers-are-now-sounding-the-alarm-about-the-ai-bubble/5266123",
-      "date": "2026-07-06T21:24:58.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
