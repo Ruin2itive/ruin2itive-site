@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-06T09:19:34.524Z"
+    "built_at": "2026-07-06T11:30:37.723Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Monitrova Home Page Updated",
+      "url": "https://monitrova.com/",
+      "date": "2026-07-06T11:29:48.000Z"
+    },
+    {
+      "title": "Study: ultra-black coating could reduce satellite light pollution",
+      "url": "https://www.surrey.ac.uk/news/astrophysicists-show-how-worlds-darkest-coating-could-protect-night-sky-satellite-light-pollution",
+      "date": "2026-07-06T11:29:30.000Z"
+    }
+  ]
 }
