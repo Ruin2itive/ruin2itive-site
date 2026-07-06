@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-06T23:26:32.372Z",
-  "updated_local": "7/6/2026, 11:26:32 PM",
+  "updated_iso": "2026-07-06T23:30:23.805Z",
+  "updated_local": "7/6/2026, 11:30:23 PM",
   "sections": {
     "crypto": [
       {
@@ -54,16 +54,16 @@
         "time": "7/6/2026, 5:44:08 PM"
       },
       {
-        "title": "Pruning RAG context down to what the answer actually needs",
-        "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-        "source": "hn",
-        "time": "7/6/2026, 7:28:24 PM"
-      },
-      {
         "title": "GLM 5.2 and the coming AI margin collapse",
         "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
         "source": "hn",
         "time": "7/6/2026, 8:14:55 PM"
+      },
+      {
+        "title": "Pruning RAG context down to what the answer actually needs",
+        "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+        "source": "hn",
+        "time": "7/6/2026, 7:28:24 PM"
       }
     ],
     "world": [
