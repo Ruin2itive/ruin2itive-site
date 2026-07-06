@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-06T13:25:38.148Z",
-  "updated_local": "7/6/2026, 1:25:38 PM",
+  "updated_iso": "2026-07-06T15:06:02.429Z",
+  "updated_local": "7/6/2026, 3:06:02 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin",
+        "url": "https://decrypt.co/372805/tom-lee-bitmine-73-million-ethereum-strategy-dumps-bitcoin",
+        "source": "crypto",
+        "time": "Mon, 06 Jul 2026 14:41:45 +0000"
+      },
       {
         "title": "Ethereum &#39;Reinventing Itself&#39; With Biggest Overhaul Since the Merge: Vitalik Buterin",
         "url": "https://decrypt.co/372803/ethereum-reinventing-itself-with-biggest-overhaul-since-the-merge-vitalik-buterin",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/372794/new-uk-election-funding-rules-could-hit-reforms-crypto-billionaire-donors",
         "source": "crypto",
         "time": "Mon, 06 Jul 2026 10:01:06 +0000"
-      },
-      {
-        "title": "Fake Mac Clipboard App Delivers New Password-Stealing Malware",
-        "url": "https://decrypt.co/372743/fake-mac-clipboard-app-delivers-password-stealing-malware",
-        "source": "crypto",
-        "time": "Sun, 05 Jul 2026 15:46:01 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Workers Cache",
+        "url": "https://blog.cloudflare.com/workers-cache/",
+        "source": "hn",
+        "time": "7/6/2026, 1:02:51 PM"
+      },
+      {
+        "title": "Aluminum foil (2021)",
+        "url": "https://dernocua.github.io/notes/aluminum-foil.html",
+        "source": "hn",
+        "time": "7/6/2026, 1:28:57 PM"
+      },
       {
         "title": "Road to Elm 1.0",
         "url": "https://elm-lang.org/news/faster-builds",
@@ -48,30 +60,18 @@
         "time": "7/6/2026, 9:38:36 AM"
       },
       {
-        "title": "Workers Cache",
-        "url": "https://blog.cloudflare.com/workers-cache/",
+        "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
+        "url": "https://andonlabs.com/blog/fable5-vending-bench",
         "source": "hn",
-        "time": "7/6/2026, 1:02:51 PM"
-      },
-      {
-        "title": "Study: ultra-black coating could reduce satellite light pollution",
-        "url": "https://www.surrey.ac.uk/news/astrophysicists-show-how-worlds-darkest-coating-could-protect-night-sky-satellite-light-pollution",
-        "source": "hn",
-        "time": "7/6/2026, 11:29:30 AM"
-      },
-      {
-        "title": "GPT-5.6 Sol Ultra will be in Codex",
-        "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-        "source": "hn",
-        "time": "7/6/2026, 1:04:03 AM"
+        "time": "7/6/2026, 12:38:13 PM"
       }
     ],
     "world": [
       {
-        "title": "Uefa says 'integrity of game at stake' after Fifa's decision to overturn US star's red card ban",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5yzzd73871o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump confirms he asked Fifa boss for review of US striker's ban",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 06 Jul 2026 08:36:59 GMT"
+        "time": "Mon, 06 Jul 2026 14:39:48 GMT"
       },
       {
         "title": "Buckingham Palace says Prince Harry will not stay there despite his team announcing he would",
@@ -86,10 +86,10 @@
         "time": "Mon, 06 Jul 2026 12:54:05 GMT"
       },
       {
-        "title": "Pizza Express held inquiry into Andrew's Woking claim",
-        "url": "https://www.bbc.co.uk/news/articles/c1my27lyjx9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Chris Mason: Accusations around Farage leave him looking vulnerable to his rivals",
+        "url": "https://www.bbc.co.uk/news/articles/c04yyx15xngo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 06 Jul 2026 05:01:11 GMT"
+        "time": "Mon, 06 Jul 2026 14:01:19 GMT"
       },
       {
         "title": "Watch: Why Australia's PM apologised for 'inappropriate' Kylie comments",
