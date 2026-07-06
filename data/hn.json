@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-06T00:29:54.791Z"
+    "built_at": "2026-07-06T01:33:42.104Z"
   },
-  "items": [
-    {
-      "title": "Inflect – Correctly generate plurals, ordinals; convert numbers to words",
-      "url": "https://github.com/jaraco/inflect",
-      "date": "2026-07-06T00:26:24.000Z"
-    },
-    {
-      "title": "Declaration of Independence",
-      "url": "https://notebooklm.google.com/notebook/eeb66446-cee8-4b4c-91cd-a571a350908e/artifact/dc5e2ad4-4ae3-47ea-9d04-8481b1f08477",
-      "date": "2026-07-06T00:25:53.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
