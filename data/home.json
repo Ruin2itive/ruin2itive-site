@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-06T17:07:04.496Z",
-  "updated_local": "7/6/2026, 5:07:04 PM",
+  "updated_iso": "2026-07-06T18:39:49.781Z",
+  "updated_local": "7/6/2026, 6:39:49 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Over 150,000 People Signed Up to Masturbate With AI. Here&#39;s Why",
+        "url": "https://decrypt.co/372818/people-signed-up-masturbate-ai-joi",
+        "source": "crypto",
+        "time": "Mon, 06 Jul 2026 17:32:38 +0000"
+      },
       {
         "title": "Bitcoin Mining Stocks Jump After TeraWulf Signs $19 Billion Lease With Anthropic",
         "url": "https://decrypt.co/372810/bitcoin-mining-stocks-jump-terawulf-19-billion-lease-anthropic",
@@ -26,44 +32,38 @@
         "url": "https://decrypt.co/372797/strategy-sells-216m-in-bitcoin-for-dividends-under-btc-monetization-program",
         "source": "crypto",
         "time": "Mon, 06 Jul 2026 12:28:00 +0000"
-      },
-      {
-        "title": "Morning Minute: Crypto Surges Over Holiday Weekend",
-        "url": "https://decrypt.co/372798/morning-minute-crypto-surges-over-holiday-weekend",
-        "source": "crypto",
-        "time": "Mon, 06 Jul 2026 12:09:30 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "OpenWrt One – Open Hardware Router",
+        "url": "https://openwrt.org/toh/openwrt/one",
+        "source": "hn",
+        "time": "7/6/2026, 6:23:12 PM"
+      },
+      {
+        "title": "Pros and Cons of Solo Development",
+        "url": "https://johnjeffers.com/pros-and-cons-of-solo-development/",
+        "source": "hn",
+        "time": "7/6/2026, 6:24:34 PM"
+      },
+      {
+        "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+        "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+        "source": "hn",
+        "time": "7/6/2026, 3:01:18 PM"
+      },
+      {
+        "title": "Kani: A Model Checker for Rust",
+        "url": "https://arxiv.org/abs/2607.01504",
+        "source": "hn",
+        "time": "7/6/2026, 3:53:24 PM"
+      },
       {
         "title": "Aluminum foil (2021)",
         "url": "https://dernocua.github.io/notes/aluminum-foil.html",
         "source": "hn",
         "time": "7/6/2026, 1:28:57 PM"
-      },
-      {
-        "title": "1k Words: A Writing Contest",
-        "url": "https://writingclub.world/1picture1000words",
-        "source": "hn",
-        "time": "7/6/2026, 3:30:08 PM"
-      },
-      {
-        "title": "Road to Elm 1.0",
-        "url": "https://elm-lang.org/news/faster-builds",
-        "source": "hn",
-        "time": "7/6/2026, 11:47:37 AM"
-      },
-      {
-        "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
-        "url": "https://andonlabs.com/blog/fable5-vending-bench",
-        "source": "hn",
-        "time": "7/6/2026, 12:38:13 PM"
-      },
-      {
-        "title": "Real-time map of Great Britain's rail network",
-        "url": "https://www.map.signalbox.io",
-        "source": "hn",
-        "time": "7/6/2026, 9:38:36 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Mon, 06 Jul 2026 15:27:59 GMT"
       },
       {
-        "title": "Henderson expected to have surgery on injured wrist",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvgmmm5923yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 06 Jul 2026 15:22:38 GMT"
-      },
-      {
         "title": "Buckingham Palace says Prince Harry will not stay there despite his team announcing he would",
         "url": "https://www.bbc.co.uk/news/articles/c77yykl87yno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 06 Jul 2026 12:52:38 GMT"
       },
       {
-        "title": "'The spectacle Iran wants the world to see': Lyse Doucet in Tehran for supreme leader's funeral",
-        "url": "https://www.bbc.co.uk/news/videos/c78yyyl2ev4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 06 Jul 2026 16:23:44 GMT"
-      },
-      {
         "title": "Consultants in England vote in favour of NHS strikes",
         "url": "https://www.bbc.co.uk/news/articles/c79yyyxzergo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 06 Jul 2026 16:23:58 GMT"
+        "time": "Mon, 06 Jul 2026 18:27:25 GMT"
+      },
+      {
+        "title": "Amber heat-health alerts issued as UK could see 10 consecutive days of temperatures over 30C",
+        "url": "https://www.bbc.co.uk/weather/articles/cly77zjey40o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 06 Jul 2026 12:54:05 GMT"
+      },
+      {
+        "title": "Chris Mason: Accusations around Farage leave him looking vulnerable to his rivals",
+        "url": "https://www.bbc.co.uk/news/articles/c04yyx15xngo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 06 Jul 2026 14:01:19 GMT"
       }
     ],
     "projects": [
