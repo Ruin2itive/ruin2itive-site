@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-06T21:36:28.103Z",
-  "updated_local": "7/6/2026, 9:36:28 PM",
+  "updated_iso": "2026-07-06T22:28:09.703Z",
+  "updated_local": "7/6/2026, 10:28:09 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "ByteDance and Alibaba to Pull Agent Features as China Cracks Down on Humanlike AI",
+        "url": "https://decrypt.co/372873/bytedance-alibaba-agent-features-china-cracks-down-humanlike-ai",
+        "source": "crypto",
+        "time": "Mon, 06 Jul 2026 21:37:54 +0000"
+      },
       {
         "title": "UK Foreign Secretary Warns of &#39;AI Hiroshima&#39; if Policymakers Don’t Act",
         "url": "https://decrypt.co/372855/uk-foreign-secretary-warns-ai-hiroshima",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/372851/bitcoin-highest-price-weeks-bernstein-ambitious-150k-target",
         "source": "crypto",
         "time": "Mon, 06 Jul 2026 19:58:25 +0000"
-      },
-      {
-        "title": "Yield Guild Kills Crypto Game Publishing Arm, Lays Off 35 in AI Pivot",
-        "url": "https://decrypt.co/372852/yield-guild-kills-crypto-game-publishing-arm-lays-off-35-ai-pivot",
-        "source": "crypto",
-        "time": "Mon, 06 Jul 2026 19:48:59 +0000"
       }
     ],
     "hacker": [
@@ -48,12 +48,6 @@
         "time": "7/6/2026, 6:55:07 PM"
       },
       {
-        "title": "Learning to code is still worthwhile",
-        "url": "https://stevekrouse.com/learn-to-code",
-        "source": "hn",
-        "time": "7/6/2026, 8:59:54 PM"
-      },
-      {
         "title": "A global workspace in language models",
         "url": "https://www.anthropic.com/research/global-workspace",
         "source": "hn",
@@ -64,6 +58,12 @@
         "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
         "source": "hn",
         "time": "7/6/2026, 6:35:54 PM"
+      },
+      {
+        "title": "Python 3.14 compiled to metal – no interpreter",
+        "url": "https://github.com/can1357/pon",
+        "source": "hn",
+        "time": "7/6/2026, 7:40:22 PM"
       }
     ],
     "world": [
