@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-06T13:12:28.807Z"
+    "built_at": "2026-07-06T15:02:58.602Z"
   },
-  "items": [
-    {
-      "title": "I packed 16 GB of GGUF quants into 1.8 GB, losslessly",
-      "url": "https://github.com/theadamdanielsson/ggufpacker",
-      "date": "2026-07-06T13:12:10.000Z"
-    },
-    {
-      "title": "LLMs: A cause of, and solution to, UI drift",
-      "url": "https://carom.io/notes/llms-ui-drift/",
-      "date": "2026-07-06T13:12:09.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
