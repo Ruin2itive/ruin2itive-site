@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-06T05:25:36.717Z"
+    "built_at": "2026-07-06T07:29:12.145Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "HN: An automated CI/CD testing harness for Model Context Protocol servers",
+      "url": "https://github.com/vaquarkhan/mcp-test-harness",
+      "date": "2026-07-06T07:28:35.000Z"
+    },
+    {
+      "title": "AI-powered product photography suite designed specifically for Amazon sellers",
+      "url": "https://loomadesign.ai/",
+      "date": "2026-07-06T07:25:24.000Z"
+    }
+  ]
 }
