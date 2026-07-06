@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-07-06T19:34:17.883Z",
-  "updated_local": "7/6/2026, 7:34:17 PM",
+  "updated_iso": "2026-07-06T20:39:05.995Z",
+  "updated_local": "7/6/2026, 8:39:05 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "&#39;We Cannot Vibe Code the Future of Humanity&#39;, UN Chief Warns at AI Summit",
+        "url": "https://decrypt.co/372854/we-cannot-vibe-code-future-of-humanity-un-chief-warns-ai",
+        "source": "crypto",
+        "time": "Mon, 06 Jul 2026 19:58:29 +0000"
+      },
+      {
+        "title": "Bitcoin Hits Highest Price in Weeks as Bernstein Analysts Maintain &#39;Ambitious&#39; $150K Target",
+        "url": "https://decrypt.co/372851/bitcoin-highest-price-weeks-bernstein-ambitious-150k-target",
+        "source": "crypto",
+        "time": "Mon, 06 Jul 2026 19:58:25 +0000"
+      },
+      {
+        "title": "Yield Guild Kills Crypto Game Publishing Arm, Lays Off 35 in AI Pivot",
+        "url": "https://decrypt.co/372852/yield-guild-kills-crypto-game-publishing-arm-lays-off-35-ai-pivot",
+        "source": "crypto",
+        "time": "Mon, 06 Jul 2026 19:48:59 +0000"
+      },
       {
         "title": "Coinbase&#39;s AI System Hallucinated a World Cup Result Before the Match Even Started",
         "url": "https://decrypt.co/372824/coinbase-ai-hallucinated-world-cup-result-before-match",
@@ -14,24 +32,6 @@
         "url": "https://decrypt.co/372818/people-signed-up-masturbate-ai-joi",
         "source": "crypto",
         "time": "Mon, 06 Jul 2026 17:32:38 +0000"
-      },
-      {
-        "title": "Bitcoin Mining Stocks Jump After TeraWulf Signs $19 Billion Lease With Anthropic",
-        "url": "https://decrypt.co/372810/bitcoin-mining-stocks-jump-terawulf-19-billion-lease-anthropic",
-        "source": "crypto",
-        "time": "Mon, 06 Jul 2026 15:15:36 +0000"
-      },
-      {
-        "title": "Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin",
-        "url": "https://decrypt.co/372805/tom-lee-bitmine-73-million-ethereum-strategy-dumps-bitcoin",
-        "source": "crypto",
-        "time": "Mon, 06 Jul 2026 14:41:45 +0000"
-      },
-      {
-        "title": "Ethereum &#39;Reinventing Itself&#39; With Biggest Overhaul Since the Merge: Vitalik Buterin",
-        "url": "https://decrypt.co/372803/ethereum-reinventing-itself-with-biggest-overhaul-since-the-merge-vitalik-buterin",
-        "source": "crypto",
-        "time": "Mon, 06 Jul 2026 12:51:53 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "7/6/2026, 6:23:12 PM"
       },
       {
+        "title": "CoMaps – FOSS Offline Maps",
+        "url": "https://www.comaps.app/",
+        "source": "hn",
+        "time": "7/6/2026, 6:55:07 PM"
+      },
+      {
+        "title": "Price per 1M tokens is meaningless",
+        "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
+        "source": "hn",
+        "time": "7/6/2026, 7:43:36 PM"
+      },
+      {
         "title": "A global workspace in language models",
         "url": "https://www.anthropic.com/research/global-workspace",
         "source": "hn",
         "time": "7/6/2026, 5:44:08 PM"
       },
       {
-        "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-        "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+        "title": "Python 3.14 compiled to metal – no interpreter",
+        "url": "https://github.com/can1357/pon",
         "source": "hn",
-        "time": "7/6/2026, 3:01:18 PM"
-      },
-      {
-        "title": "Kani: A Model Checker for Rust",
-        "url": "https://arxiv.org/abs/2607.01504",
-        "source": "hn",
-        "time": "7/6/2026, 3:53:24 PM"
-      },
-      {
-        "title": "Resetting Xbox",
-        "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-        "source": "hn",
-        "time": "7/6/2026, 2:18:23 PM"
+        "time": "7/6/2026, 7:40:22 PM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Mon, 06 Jul 2026 19:14:55 GMT"
       },
       {
+        "title": "Britain's Arthur Fery reaches Wimbledon quarter-finals in history-making match",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cly99r28k9no?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 06 Jul 2026 20:34:52 GMT"
+      },
+      {
         "title": "Consultants in England vote in favour of NHS strikes",
         "url": "https://www.bbc.co.uk/news/articles/c79yyyxzergo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/weather/articles/cly77zjey40o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 06 Jul 2026 12:54:05 GMT"
-      },
-      {
-        "title": "Chris Mason: Accusations around Farage leave him looking vulnerable to his rivals",
-        "url": "https://www.bbc.co.uk/news/articles/c04yyx15xngo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 06 Jul 2026 14:01:19 GMT"
       }
     ],
     "projects": [
