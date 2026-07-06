@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-06T22:25:31.030Z"
+    "built_at": "2026-07-06T23:24:23.566Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Woman's hip replacement disintegrates, causing metal poisoning",
+      "url": "https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/",
+      "date": "2026-07-06T23:15:27.000Z"
+    },
+    {
+      "title": "Life as a State Machine; a Framework for Action-Taking",
+      "url": "https://medium.com/@techandsundry/why-just-do-it-doesnt-work-c8b85a1e39c2",
+      "date": "2026-07-06T23:13:14.000Z"
+    }
+  ]
 }
