@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-07T19:37:08.247Z",
-  "updated_local": "7/7/2026, 7:37:08 PM",
+  "updated_iso": "2026-07-07T20:36:32.956Z",
+  "updated_local": "7/7/2026, 8:36:32 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "China May Be Following US Lead With Quiet Crackdown on AI Exports",
+        "url": "https://decrypt.co/372958/china-us-quiet-crackdown-ai-exports",
+        "source": "crypto",
+        "time": "Tue, 07 Jul 2026 19:51:38 +0000"
+      },
       {
         "title": "Radar Chat Wants to Make Sending Bitcoin as Easy as Firing Off a Text",
         "url": "https://decrypt.co/372941/radar-chat-make-sending-bitcoin-easy-text",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto",
         "source": "crypto",
         "time": "Tue, 07 Jul 2026 13:48:44 +0000"
-      },
-      {
-        "title": "Morning Minute: Strategy Turns Net Seller",
-        "url": "https://decrypt.co/372909/morning-minute-strategy-turns-net-seller",
-        "source": "crypto",
-        "time": "Tue, 07 Jul 2026 12:27:58 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Re: I'm Begging You to Leave Your AI Note-Taker at Home",
+        "url": "https://firesphere.dev/articles/yes-actually-i-do-fucking-mind",
+        "source": "hn",
+        "time": "7/7/2026, 8:10:13 PM"
+      },
       {
         "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
         "url": "https://streetcomplete.app/",
@@ -42,28 +48,22 @@
         "time": "7/7/2026, 12:38:35 PM"
       },
       {
-        "title": "Amazon without the knockoffs",
-        "url": "https://knockoff.shopping/",
+        "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+        "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
         "source": "hn",
-        "time": "7/7/2026, 3:13:01 PM"
+        "time": "7/7/2026, 6:24:10 PM"
       },
       {
-        "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
-        "url": "https://30papers.com/",
+        "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+        "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
         "source": "hn",
-        "time": "7/7/2026, 3:58:13 PM"
+        "time": "7/7/2026, 6:36:35 PM"
       },
       {
         "title": "Chat Control 1.0 and 2.0 Explained",
         "url": "https://fightchatcontrol.eu/chat-control-overview",
         "source": "hn",
         "time": "7/7/2026, 2:23:15 PM"
-      },
-      {
-        "title": "A better way to tie gym shorts (or any drawstring) [video]",
-        "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
-        "source": "hn",
-        "time": "7/7/2026, 12:45:06 PM"
       }
     ],
     "world": [
@@ -95,7 +95,7 @@
         "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
         "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 07 Jul 2026 19:02:44 GMT"
+        "time": "Tue, 07 Jul 2026 19:55:59 GMT"
       }
     ],
     "projects": [
