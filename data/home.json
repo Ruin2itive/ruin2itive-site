@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-06T23:30:23.805Z",
-  "updated_local": "7/6/2026, 11:30:23 PM",
+  "updated_iso": "2026-07-07T00:41:01.328Z",
+  "updated_local": "7/7/2026, 12:41:01 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Fable turned remarkable into Tom Riddle's diary from Harry Potter",
+        "url": "https://github.com/MaximeRivest/Riddle",
+        "source": "hn",
+        "time": "7/6/2026, 11:00:24 PM"
+      },
+      {
         "title": "OpenWrt One – Open Hardware Router",
         "url": "https://openwrt.org/toh/openwrt/one",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "7/6/2026, 6:55:07 PM"
       },
       {
-        "title": "A global workspace in language models",
-        "url": "https://www.anthropic.com/research/global-workspace",
+        "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+        "url": "https://ternlight-demo.vercel.app/",
         "source": "hn",
-        "time": "7/6/2026, 5:44:08 PM"
+        "time": "7/6/2026, 11:06:31 PM"
       },
       {
         "title": "GLM 5.2 and the coming AI margin collapse",
         "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
         "source": "hn",
         "time": "7/6/2026, 8:14:55 PM"
-      },
-      {
-        "title": "Pruning RAG context down to what the answer actually needs",
-        "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-        "source": "hn",
-        "time": "7/6/2026, 7:28:24 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Mon, 06 Jul 2026 22:30:36 GMT"
       },
       {
+        "title": "Prince Harry begins his UK visit with court verdict",
+        "url": "https://www.bbc.co.uk/news/articles/ce8mmm5v8j0o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 06 Jul 2026 23:49:38 GMT"
+      },
+      {
+        "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 06 Jul 2026 23:55:53 GMT"
+      },
+      {
         "title": "Phone contract comparisons 'amounted to mis-selling' student loans, MPs say",
         "url": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 06 Jul 2026 23:08:51 GMT"
-      },
-      {
-        "title": "Buckingham Palace says Prince Harry will not stay there despite his team announcing he would",
-        "url": "https://www.bbc.co.uk/news/articles/c77yykl87yno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 06 Jul 2026 19:14:55 GMT"
-      },
-      {
-        "title": "Consultants in England vote in favour of NHS strikes",
-        "url": "https://www.bbc.co.uk/news/articles/c79yyyxzergo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 06 Jul 2026 18:27:25 GMT"
       }
     ],
     "projects": [
