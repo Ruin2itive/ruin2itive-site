@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-07T22:23:28.032Z"
+    "built_at": "2026-07-07T23:19:43.541Z"
   },
-  "items": [
-    {
-      "title": "InfoWars: Emergency with Tim Heidecker [video]",
-      "url": "https://www.youtube.com/watch?v=RX8-VGDK1vQ",
-      "date": "2026-07-07T22:21:15.000Z"
-    },
-    {
-      "title": "How A Billionaire-Owned Concrete Plant Took over a Detroit Community",
-      "url": "https://www.propublica.org/article/detroit-kronos-morouns-concrete-neighborhood-takeover",
-      "date": "2026-07-07T22:20:18.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
