@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-07T20:41:06.293Z",
-  "updated_local": "7/7/2026, 8:41:06 PM",
+  "updated_iso": "2026-07-07T21:30:52.766Z",
+  "updated_local": "7/7/2026, 9:30:52 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "AI Is Changing the Workplace and Universities Aren’t Keeping Up, Study Warns",
+        "url": "https://decrypt.co/372957/ai-changing-workplace-universities-not-keeping-up-study",
+        "source": "crypto",
+        "time": "Tue, 07 Jul 2026 20:46:51 +0000"
+      },
       {
         "title": "BIG3 NFT Buyers Sue Ice Cube&#39;s Basketball League Over Alleged Unfulfilled Promises",
         "url": "https://decrypt.co/372959/big3-nft-buyers-sue-ice-cube-basketball-league-unfulfilled-benefits",
@@ -26,26 +32,14 @@
         "url": "https://decrypt.co/372932/kenyas-markets-regulator-seeks-blockchain-tool-to-track-crypto-crime",
         "source": "crypto",
         "time": "Tue, 07 Jul 2026 17:29:39 +0000"
-      },
-      {
-        "title": "Wintermute Cautions &#39;Relief Rally&#39; Likely as Bitcoin Touches Highest Price in Weeks",
-        "url": "https://decrypt.co/372929/wintermute-cautions-relief-rally-bitcoin-touches-highest-price-weeks",
-        "source": "crypto",
-        "time": "Tue, 07 Jul 2026 17:16:27 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Re: I'm Begging You to Leave Your AI Note-Taker at Home",
-        "url": "https://firesphere.dev/articles/yes-actually-i-do-fucking-mind",
+        "title": "All Cars Sold in the EU Now Require a Camera Aimed at Your Face",
+        "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
         "source": "hn",
-        "time": "7/7/2026, 8:10:13 PM"
-      },
-      {
-        "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-        "url": "https://streetcomplete.app/",
-        "source": "hn",
-        "time": "7/7/2026, 12:38:35 PM"
+        "time": "7/7/2026, 8:50:46 PM"
       },
       {
         "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
@@ -54,16 +48,22 @@
         "time": "7/7/2026, 6:24:10 PM"
       },
       {
-        "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-        "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+        "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+        "url": "https://streetcomplete.app/",
         "source": "hn",
-        "time": "7/7/2026, 6:36:35 PM"
+        "time": "7/7/2026, 12:38:35 PM"
       },
       {
         "title": "Chat Control 1.0 and 2.0 Explained",
         "url": "https://fightchatcontrol.eu/chat-control-overview",
         "source": "hn",
         "time": "7/7/2026, 2:23:15 PM"
+      },
+      {
+        "title": "Show HN: Davit, a Apple Containers UI",
+        "url": "https://davit.app",
+        "source": "hn",
+        "time": "7/7/2026, 6:44:29 PM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Tue, 07 Jul 2026 19:35:19 GMT"
       },
       {
+        "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+        "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 07 Jul 2026 21:30:18 GMT"
+      },
+      {
         "title": "Harry loses High Court privacy case against Daily Mail publisher",
         "url": "https://www.bbc.co.uk/news/articles/c9324nyqwjno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 07 Jul 2026 18:56:19 GMT"
-      },
-      {
-        "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-        "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 07 Jul 2026 19:55:59 GMT"
       }
     ],
     "projects": [
