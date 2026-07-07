@@ -4,18 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-07T15:56:50.265Z"
+    "built_at": "2026-07-07T16:49:56.069Z"
   },
   "items": [
     {
-      "title": "Thinkslop and all this is true because it is AI",
-      "url": "https://substack.com/@fpjunqueira/note/c-289733073",
-      "date": "2026-07-07T15:55:57.000Z"
+      "title": "Biff.graph: structure your Clojure codebase as a queryable graph",
+      "url": "https://github.com/jacobobryant/biff/tree/v2.x/libs/graph",
+      "date": "2026-07-07T16:48:48.000Z"
     },
     {
-      "title": "Learn Nix where it breaks",
-      "url": "https://www.labcraft.dev/blog/introducing-labcraft",
-      "date": "2026-07-07T15:55:41.000Z"
+      "title": "Beating a text-to-SQL benchmark: can you get better than plain Claude?",
+      "url": "https://motley.ai/blog-posts/bird-interact-benchmark-top-score/",
+      "date": "2026-07-07T16:44:58.000Z"
     }
   ]
 }
