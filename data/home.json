@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-08T16:36:57.913Z",
-  "updated_local": "7/8/2026, 4:36:57 PM",
+  "updated_iso": "2026-07-08T17:31:46.598Z",
+  "updated_local": "7/8/2026, 5:31:46 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Lucky Trader Turns $85 Into $2 Million on Robinhood Chain Meme Coin",
+        "url": "https://decrypt.co/373052/lucky-trader-robinhood-chain-meme-coin-cashcat",
+        "source": "crypto",
+        "time": "Wed, 08 Jul 2026 16:59:23 +0000"
+      },
       {
         "title": "BNB Chain Plans New Layer-1 for AI Agents and Quantum Future",
         "url": "https://decrypt.co/373042/bnb-chain-new-layer-1-ai-agents-high-speed-trading-quantum",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/373001/kraken-wins-22m-from-auditor-that-abandoned-it-during-operation-choke-point-2-0",
         "source": "crypto",
         "time": "Wed, 08 Jul 2026 15:05:02 +0000"
-      },
-      {
-        "title": "Morning Minute: Vanguard Hires &#39;Head of Digital Assets&#39; in Crypto Capitulation",
-        "url": "https://decrypt.co/372993/morning-minute-vanguard-hires-head-of-digital-assets-in-crypto-capitulation",
-        "source": "crypto",
-        "time": "Wed, 08 Jul 2026 12:47:37 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-        "url": "https://mistral.ai/news/robostral-navigate/",
+        "title": "GPT‑Live",
+        "url": "https://openai.com/index/introducing-gpt-live/",
         "source": "hn",
-        "time": "7/8/2026, 2:09:17 PM"
+        "time": "7/8/2026, 5:03:19 PM"
       },
       {
         "title": "Chatto is now Open Source",
@@ -48,22 +48,22 @@
         "time": "7/8/2026, 3:19:50 PM"
       },
       {
-        "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-        "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+        "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+        "url": "https://mistral.ai/news/robostral-navigate/",
         "source": "hn",
-        "time": "7/8/2026, 8:46:06 AM"
-      },
-      {
-        "title": "Cloudflare Meerkat - Globally distributed consensus",
-        "url": "https://blog.cloudflare.com/meerkat-introduction/",
-        "source": "hn",
-        "time": "7/8/2026, 1:18:03 PM"
+        "time": "7/8/2026, 2:09:17 PM"
       },
       {
         "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
         "url": "https://cognition.com/blog/swe-1-7",
         "source": "hn",
         "time": "7/8/2026, 4:19:36 PM"
+      },
+      {
+        "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+        "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+        "source": "hn",
+        "time": "7/8/2026, 8:46:06 AM"
       }
     ],
     "world": [
@@ -74,7 +74,13 @@
         "time": "Wed, 08 Jul 2026 15:30:00 GMT"
       },
       {
-        "title": "Farage denies resignation is publicity stunt as Reform proposes August by-election date",
+        "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
+        "url": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 08 Jul 2026 17:26:45 GMT"
+      },
+      {
+        "title": "Farage denies stunt as Reform proposes August by-election date",
         "url": "https://www.bbc.co.uk/news/articles/cdxd779gkv9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 08 Jul 2026 16:24:05 GMT"
@@ -83,19 +89,13 @@
         "title": "Mason: It's far from certain whether by-election will strengthen Farage",
         "url": "https://www.bbc.co.uk/news/articles/c9d2882jj3yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 08 Jul 2026 11:33:13 GMT"
+        "time": "Wed, 08 Jul 2026 17:14:04 GMT"
       },
       {
         "title": "Police name man wanted over murders of wife and daughters",
         "url": "https://www.bbc.co.uk/news/articles/c8e2njxnn7jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 08 Jul 2026 14:38:47 GMT"
-      },
-      {
-        "title": "Ruth Ellis, last woman to be hanged in UK, gets conditional posthumous pardon",
-        "url": "https://www.bbc.co.uk/news/articles/crel4rj801do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 08 Jul 2026 16:15:43 GMT"
       }
     ],
     "projects": [
