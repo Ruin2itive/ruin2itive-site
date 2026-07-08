@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-08T05:10:38.164Z",
-  "updated_local": "7/8/2026, 5:10:38 AM",
+  "updated_iso": "2026-07-08T06:52:21.913Z",
+  "updated_local": "7/8/2026, 6:52:21 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS",
+        "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
         "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
         "source": "hn",
         "time": "7/8/2026, 3:59:35 AM"
-      },
-      {
-        "title": "Is The Economist Always Wrong?",
-        "url": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
-        "source": "hn",
-        "time": "7/8/2026, 2:17:01 AM"
       },
       {
         "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
@@ -54,16 +48,22 @@
         "time": "7/8/2026, 12:08:51 AM"
       },
       {
-        "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-        "url": "https://www.gao.gov/products/gao-26-108193",
+        "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+        "url": "https://www.digipres.org/the-floppy-guide/",
         "source": "hn",
-        "time": "7/7/2026, 10:23:58 PM"
+        "time": "7/8/2026, 3:22:31 AM"
       },
       {
         "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
         "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
         "source": "hn",
         "time": "7/7/2026, 11:57:29 PM"
+      },
+      {
+        "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+        "url": "https://www.gao.gov/products/gao-26-108193",
+        "source": "hn",
+        "time": "7/7/2026, 10:23:58 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Farage's rivals rule out standing in Clacton by-election",
         "url": "https://www.bbc.co.uk/news/articles/cjdg4y3g0z7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 07 Jul 2026 23:04:42 GMT"
+        "time": "Wed, 08 Jul 2026 06:35:12 GMT"
       },
       {
         "title": "Chris Mason: Farage attempts to seize back the agenda",
@@ -80,22 +80,22 @@
         "time": "Tue, 07 Jul 2026 22:22:27 GMT"
       },
       {
-        "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
-        "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 08 Jul 2026 04:43:44 GMT"
-      },
-      {
         "title": "Amber heat-health alerts in effect as UK set for one of longest-lasting heatwaves since 1976",
         "url": "https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 07 Jul 2026 23:10:07 GMT"
       },
       {
-        "title": "'Extreme' marine heatwave expected for parts of UK",
+        "title": "Extreme marine heatwave expected for parts of UK with risk to sea life, Met Office warns",
         "url": "https://www.bbc.co.uk/news/articles/ckg888vpz4do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 07 Jul 2026 23:45:07 GMT"
+      },
+      {
+        "title": "Virgin Media fined £28m for preventing customers from cancelling contracts",
+        "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 08 Jul 2026 06:50:20 GMT"
       }
     ],
     "projects": [
