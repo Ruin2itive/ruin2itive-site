@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-08T00:25:53.735Z"
+    "built_at": "2026-07-08T01:33:02.838Z"
   },
-  "items": [
-    {
-      "title": "From classroom to lab: Introducing turnkey lab exercises in IEEE 5G/6G Testbed",
-      "url": "https://testbed.ieee.org/from-the-classroom-to-the-lab-introducing-turnkey-lab-exercises-in-the-ieee-5g-6g-innovation-testbed/",
-      "date": "2026-07-08T00:21:29.000Z"
-    },
-    {
-      "title": "Harica: Issuance and refusal to revoke TLS certificates for sanctioned entities",
-      "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2049237",
-      "date": "2026-07-08T00:18:42.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
