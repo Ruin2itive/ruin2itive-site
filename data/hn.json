@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-08T10:40:35.258Z"
+    "built_at": "2026-07-08T11:34:01.907Z"
   },
-  "items": [
-    {
-      "title": "99% of people on Earth will get sunlight at the same time this Wednesday",
-      "url": "https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday",
-      "date": "2026-07-08T10:34:10.000Z"
-    },
-    {
-      "title": "Show HN: Open-weights VLA model for 20 robot embodiments (code and checkpoints)",
-      "url": "https://github.com/robbyant/lingbot-vla-v2",
-      "date": "2026-07-08T10:32:54.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
