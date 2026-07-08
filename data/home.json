@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-07-08T15:49:55.629Z",
-  "updated_local": "7/8/2026, 3:49:55 PM",
+  "updated_iso": "2026-07-08T16:33:13.373Z",
+  "updated_local": "7/8/2026, 4:33:13 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "BNB Chain Plans New Layer-1 for AI Agents and Quantum Future",
+        "url": "https://decrypt.co/373042/bnb-chain-new-layer-1-ai-agents-high-speed-trading-quantum",
+        "source": "crypto",
+        "time": "Wed, 08 Jul 2026 16:14:20 +0000"
+      },
+      {
+        "title": "XRP Logo Lands on Kansas Jayhawks Jerseys as Ripple Inks Multi-Year Deal",
+        "url": "https://decrypt.co/373039/xrp-logo-kansas-jayhawks-jerseys-ripple-multi-year-deal",
+        "source": "crypto",
+        "time": "Wed, 08 Jul 2026 16:07:28 +0000"
+      },
       {
         "title": "Malaysia Seizes Over 75,000 Crypto Mining Rigs in Power-Theft Crackdown",
         "url": "https://decrypt.co/373030/malaysia-seizes-over-75000-crypto-mining-rigs-in-power-theft-crackdown",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/372993/morning-minute-vanguard-hires-head-of-digital-assets-in-crypto-capitulation",
         "source": "crypto",
         "time": "Wed, 08 Jul 2026 12:47:37 +0000"
-      },
-      {
-        "title": "Bankers Filed Suspicious Activity Report Over Farage&#39;s £5M Gift From Tether Billionaire",
-        "url": "https://decrypt.co/372994/bankers-filed-suspicious-activity-report-over-farages-5m-gift-from-tether-billionaire",
-        "source": "crypto",
-        "time": "Wed, 08 Jul 2026 12:06:35 +0000"
-      },
-      {
-        "title": "Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns",
-        "url": "https://decrypt.co/372977/anthropic-removes-hidden-claude-code-tracker-privacy",
-        "source": "crypto",
-        "time": "Tue, 07 Jul 2026 22:31:03 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "7/8/2026, 2:09:17 PM"
       },
       {
-        "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-        "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-        "source": "hn",
-        "time": "7/8/2026, 8:46:06 AM"
-      },
-      {
         "title": "Chatto is now Open Source",
         "url": "https://www.hmans.dev/blog/chatto-is-open-source",
         "source": "hn",
         "time": "7/8/2026, 3:19:50 PM"
+      },
+      {
+        "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+        "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+        "source": "hn",
+        "time": "7/8/2026, 8:46:06 AM"
       },
       {
         "title": "Cloudflare Meerkat - Globally distributed consensus",
@@ -60,10 +60,10 @@
         "time": "7/8/2026, 1:18:03 PM"
       },
       {
-        "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
-        "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+        "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+        "url": "https://cognition.com/blog/swe-1-7",
         "source": "hn",
-        "time": "7/8/2026, 1:24:52 PM"
+        "time": "7/8/2026, 4:19:36 PM"
       }
     ],
     "world": [
@@ -74,16 +74,10 @@
         "time": "Wed, 08 Jul 2026 15:30:00 GMT"
       },
       {
-        "title": "Ruth Ellis, last woman to be hanged in UK, gets conditional posthumous pardon",
-        "url": "https://www.bbc.co.uk/news/articles/crel4rj801do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Farage denies resignation is publicity stunt as Reform proposes August by-election date",
+        "url": "https://www.bbc.co.uk/news/articles/cdxd779gkv9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 08 Jul 2026 13:43:30 GMT"
-      },
-      {
-        "title": "Police name man wanted over murders of wife and daughters",
-        "url": "https://www.bbc.co.uk/news/articles/c8e2njxnn7jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 08 Jul 2026 14:38:47 GMT"
+        "time": "Wed, 08 Jul 2026 16:24:05 GMT"
       },
       {
         "title": "Mason: It's far from certain whether by-election will strengthen Farage",
@@ -92,10 +86,16 @@
         "time": "Wed, 08 Jul 2026 11:33:13 GMT"
       },
       {
-        "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
-        "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Police name man wanted over murders of wife and daughters",
+        "url": "https://www.bbc.co.uk/news/articles/c8e2njxnn7jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 08 Jul 2026 15:05:31 GMT"
+        "time": "Wed, 08 Jul 2026 14:38:47 GMT"
+      },
+      {
+        "title": "Ruth Ellis, last woman to be hanged in UK, gets conditional posthumous pardon",
+        "url": "https://www.bbc.co.uk/news/articles/crel4rj801do?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 08 Jul 2026 16:15:43 GMT"
       }
     ],
     "projects": [
