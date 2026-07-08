@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-08T20:34:11.098Z",
-  "updated_local": "7/8/2026, 8:34:11 PM",
+  "updated_iso": "2026-07-08T21:25:49.779Z",
+  "updated_local": "7/8/2026, 9:25:49 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Paradigm Raises $1.2 Billion Fund as Crypto VC Pushes Further Into AI",
+        "url": "https://decrypt.co/373088/paradigm-billion-fund-crypto-vc-ai",
+        "source": "crypto",
+        "time": "Wed, 08 Jul 2026 20:40:38 +0000"
+      },
       {
         "title": "Bitcoin Stalls as Ethereum Flashes Worst Weekly Signal in Years: Analysis",
         "url": "https://decrypt.co/373060/bitcoin-price-stalls-ethereum-flashes-worst-weekly-signal-years",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/373042/bnb-chain-new-layer-1-ai-agents-high-speed-trading-quantum",
         "source": "crypto",
         "time": "Wed, 08 Jul 2026 16:14:20 +0000"
-      },
-      {
-        "title": "XRP Logo Lands on Kansas Jayhawks Jerseys as Ripple Inks Multi-Year Deal",
-        "url": "https://decrypt.co/373039/xrp-logo-kansas-jayhawks-jerseys-ripple-multi-year-deal",
-        "source": "crypto",
-        "time": "Wed, 08 Jul 2026 16:07:28 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Fable is not a useful model",
+        "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+        "source": "hn",
+        "time": "7/8/2026, 8:41:33 PM"
+      },
+      {
+        "title": "OpenAI no longer recommends SWE-Bench Pro",
+        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+        "source": "hn",
+        "time": "7/8/2026, 9:03:51 PM"
+      },
       {
         "title": "Chatto is now Open Source",
         "url": "https://www.hmans.dev/blog/chatto-is-open-source",
@@ -48,22 +60,10 @@
         "time": "7/8/2026, 4:19:36 PM"
       },
       {
-        "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-        "url": "https://mistral.ai/news/robostral-navigate/",
+        "title": "Cloudflare Drop",
+        "url": "https://www.cloudflare.com/drop/",
         "source": "hn",
-        "time": "7/8/2026, 2:09:17 PM"
-      },
-      {
-        "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-        "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-        "source": "hn",
-        "time": "7/8/2026, 8:46:06 AM"
-      },
-      {
-        "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-        "url": "https://microsoft.github.io/flint-chart/#/",
-        "source": "hn",
-        "time": "7/8/2026, 5:46:12 PM"
+        "time": "7/8/2026, 7:18:26 PM"
       }
     ],
     "world": [
@@ -72,12 +72,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 08 Jul 2026 18:05:58 GMT"
-      },
-      {
-        "title": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
-        "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 08 Jul 2026 18:05:31 GMT"
       },
       {
         "title": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c9d2882jj3yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 08 Jul 2026 17:14:04 GMT"
+      },
+      {
+        "title": "UK heatwave spreads further north and west as temperatures continue to climb",
+        "url": "https://www.bbc.co.uk/weather/articles/ce3e443e1yko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 08 Jul 2026 20:34:56 GMT"
       }
     ],
     "projects": [
