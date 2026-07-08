@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-08T17:34:51.613Z",
-  "updated_local": "7/8/2026, 5:34:51 PM",
+  "updated_iso": "2026-07-08T18:31:15.687Z",
+  "updated_local": "7/8/2026, 6:31:15 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin ETFs &#39;Turning a Corner&#39; After Record Bleed Hits $8 Billion",
+        "url": "https://decrypt.co/373029/bitcoin-etfs-turning-corner-after-record-bleed",
+        "source": "crypto",
+        "time": "Wed, 08 Jul 2026 18:24:56 +0000"
+      },
       {
         "title": "Lucky Trader Turns $85 Into $2 Million on Robinhood Chain Meme Coin",
         "url": "https://decrypt.co/373052/lucky-trader-robinhood-chain-meme-coin-cashcat",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/373030/malaysia-seizes-over-75000-crypto-mining-rigs-in-power-theft-crackdown",
         "source": "crypto",
         "time": "Wed, 08 Jul 2026 15:40:15 +0000"
-      },
-      {
-        "title": "Kraken Wins $22M From Auditor That Abandoned It During Operation Choke Point 2.0",
-        "url": "https://decrypt.co/373001/kraken-wins-22m-from-auditor-that-abandoned-it-during-operation-choke-point-2-0",
-        "source": "crypto",
-        "time": "Wed, 08 Jul 2026 15:05:02 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "GPT‑Live",
-        "url": "https://openai.com/index/introducing-gpt-live/",
-        "source": "hn",
-        "time": "7/8/2026, 5:03:19 PM"
-      },
       {
         "title": "Chatto is now Open Source",
         "url": "https://www.hmans.dev/blog/chatto-is-open-source",
@@ -54,16 +48,22 @@
         "time": "7/8/2026, 2:09:17 PM"
       },
       {
-        "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-        "url": "https://cognition.com/blog/swe-1-7",
-        "source": "hn",
-        "time": "7/8/2026, 4:19:36 PM"
-      },
-      {
         "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
         "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
         "source": "hn",
         "time": "7/8/2026, 8:46:06 AM"
+      },
+      {
+        "title": "GPT‑Live",
+        "url": "https://openai.com/index/introducing-gpt-live/",
+        "source": "hn",
+        "time": "7/8/2026, 5:03:19 PM"
+      },
+      {
+        "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+        "url": "https://cognition.com/blog/swe-1-7",
+        "source": "hn",
+        "time": "7/8/2026, 4:19:36 PM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "UK to change law so ringleader of Rochdale grooming gang can be deported",
         "url": "https://www.bbc.co.uk/news/articles/cly0ly30384o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 08 Jul 2026 17:26:45 GMT"
+        "time": "Wed, 08 Jul 2026 18:05:58 GMT"
       },
       {
         "title": "Farage denies stunt as Reform proposes August by-election date",
@@ -92,10 +92,10 @@
         "time": "Wed, 08 Jul 2026 17:14:04 GMT"
       },
       {
-        "title": "Police name man wanted over murders of wife and daughters",
-        "url": "https://www.bbc.co.uk/news/articles/c8e2njxnn7jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "British wildcard Arthur Fery through to Wimbledon semi-finals after stunning victory",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c5yzvnxg6ygo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 08 Jul 2026 14:38:47 GMT"
+        "time": "Wed, 08 Jul 2026 17:42:04 GMT"
       }
     ],
     "projects": [
