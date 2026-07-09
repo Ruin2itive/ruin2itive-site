@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-09T03:14:47.482Z",
-  "updated_local": "7/9/2026, 3:14:47 AM",
+  "updated_iso": "2026-07-09T05:21:10.921Z",
+  "updated_local": "7/9/2026, 5:21:10 AM",
   "sections": {
     "crypto": [
       {
@@ -42,10 +42,16 @@
         "time": "7/8/2026, 11:37:43 PM"
       },
       {
-        "title": "I Think I Have LLM Burnout",
-        "url": "https://www.alecscollon.com/blog/llm-burnout/",
+        "title": "Chatto is now open source",
+        "url": "https://www.hmans.dev/blog/chatto-is-open-source",
         "source": "hn",
-        "time": "7/9/2026, 1:56:28 AM"
+        "time": "7/8/2026, 3:19:50 PM"
+      },
+      {
+        "title": "Spider venom kills varroa mites without harming honeybees",
+        "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+        "source": "hn",
+        "time": "7/9/2026, 5:14:45 AM"
       },
       {
         "title": "Separating signal from noise in coding evaluations",
@@ -54,30 +60,18 @@
         "time": "7/8/2026, 9:03:51 PM"
       },
       {
-        "title": "Chatto is now open source",
-        "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+        "title": "Cloudflare Drop",
+        "url": "https://www.cloudflare.com/drop/",
         "source": "hn",
-        "time": "7/8/2026, 3:19:50 PM"
-      },
-      {
-        "title": "Remote Attestation",
-        "url": "https://www.liamcvw.com/p/remote-attestation",
-        "source": "hn",
-        "time": "7/9/2026, 12:32:33 AM"
+        "time": "7/8/2026, 7:18:26 PM"
       }
     ],
     "world": [
       {
-        "title": "US launches more strikes on Iran with blasts reported in south of country",
-        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 09 Jul 2026 02:43:32 GMT"
-      },
-      {
         "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
         "url": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 08 Jul 2026 21:57:19 GMT"
+        "time": "Thu, 09 Jul 2026 05:04:17 GMT"
       },
       {
         "title": "UK heatwave spreads further north and west as temperatures continue to climb",
@@ -86,16 +80,22 @@
         "time": "Wed, 08 Jul 2026 20:34:56 GMT"
       },
       {
+        "title": "No crude proposals on disability benefits, minister leading review says",
+        "url": "https://www.bbc.co.uk/news/articles/czrxj5vvey0o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 08 Jul 2026 23:10:43 GMT"
+      },
+      {
         "title": "Met investigate donation to Jenrick's Tory leadership campaign",
         "url": "https://www.bbc.co.uk/news/articles/cgev4jq4jngo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 09 Jul 2026 00:50:56 GMT"
       },
       {
-        "title": "Democrat Graham Platner suspends campaign for key US Senate race in Maine",
-        "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Starmer hints at bank holiday if England win World Cup",
+        "url": "https://www.bbc.co.uk/news/articles/c20y9g2v2wvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 09 Jul 2026 02:18:21 GMT"
+        "time": "Thu, 09 Jul 2026 01:25:24 GMT"
       }
     ],
     "projects": [
