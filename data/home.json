@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-09T00:55:27.733Z",
-  "updated_local": "7/9/2026, 12:55:27 AM",
+  "updated_iso": "2026-07-09T01:36:19.834Z",
+  "updated_local": "7/9/2026, 1:36:19 AM",
   "sections": {
     "crypto": [
       {
@@ -48,25 +48,31 @@
         "time": "7/8/2026, 9:03:51 PM"
       },
       {
+        "title": "A software engineering interview question I like: computing the median",
+        "url": "https://krisshamloo.com/blog/007",
+        "source": "hn",
+        "time": "7/9/2026, 12:38:02 AM"
+      },
+      {
         "title": "Chatto is now open source",
         "url": "https://www.hmans.dev/blog/chatto-is-open-source",
         "source": "hn",
         "time": "7/8/2026, 3:19:50 PM"
       },
       {
-        "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-        "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+        "title": "Unicode's transliteration rules are Turing-complete",
+        "url": "https://seriot.ch/computation/uts35/",
         "source": "hn",
-        "time": "7/8/2026, 8:46:06 AM"
-      },
-      {
-        "title": "Cloudflare Drop",
-        "url": "https://www.cloudflare.com/drop/",
-        "source": "hn",
-        "time": "7/8/2026, 7:18:26 PM"
+        "time": "7/8/2026, 9:44:20 AM"
       }
     ],
     "world": [
+      {
+        "title": "US launches more strikes on Iran with blasts reported in south of country",
+        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 09 Jul 2026 00:06:36 GMT"
+      },
       {
         "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
         "url": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c9d2882jj3yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 08 Jul 2026 17:14:04 GMT"
-      },
-      {
-        "title": "Democrat Graham Platner suspends campaign for key US Senate race in Maine",
-        "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 09 Jul 2026 00:48:47 GMT"
       }
     ],
     "projects": [
