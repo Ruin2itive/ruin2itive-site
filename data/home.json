@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-09T16:56:38.496Z",
-  "updated_local": "7/9/2026, 4:56:38 PM",
+  "updated_iso": "2026-07-09T17:38:29.853Z",
+  "updated_local": "7/9/2026, 5:38:29 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Releases GPT-5.6 Sol: Here’s How It Stacks Up Against Other AI Models",
+        "url": "https://decrypt.co/373151/openai-gpt-5-6-sol-how-compares-ai-models",
+        "source": "crypto",
+        "time": "Thu, 09 Jul 2026 17:24:19 +0000"
+      },
       {
         "title": "Swift Readies Ledger for 24/7 Token Transfers—Though True Settlement Is Stuck on Old Rails",
         "url": "https://decrypt.co/373147/swift-readies-ledger-f24-7-token-transfers-settlement-old-rails",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/373059/moonpay-ai-crypto-agents-telegram",
         "source": "crypto",
         "time": "Thu, 09 Jul 2026 13:01:05 +0000"
-      },
-      {
-        "title": "Morning Minute: Paradigm Raises $1.2B Fund as Crypto’s Top VC Pushes Into AI",
-        "url": "https://decrypt.co/373112/morning-minute-paradigm-raises-1-2b-fund-as-cryptos-top-vc-pushes-into-ai",
-        "source": "crypto",
-        "time": "Thu, 09 Jul 2026 12:23:22 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "GPT-5.6",
+        "url": "https://openai.com/index/gpt-5-6/",
+        "source": "hn",
+        "time": "7/9/2026, 5:04:14 PM"
+      },
+      {
+        "title": "ChatGPT Work",
+        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+        "source": "hn",
+        "time": "7/9/2026, 5:03:53 PM"
+      },
       {
         "title": "Show HN: 18 Words",
         "url": "https://18words.com/",
@@ -52,26 +64,26 @@
         "url": "https://hy.tencent.com/research/hy3",
         "source": "hn",
         "time": "7/9/2026, 3:27:48 PM"
-      },
-      {
-        "title": "No leap second will be introduced at the end of December 2026",
-        "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
-        "source": "hn",
-        "time": "7/9/2026, 2:16:34 PM"
-      },
-      {
-        "title": "TLS certificates for internal services done right",
-        "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
-        "source": "hn",
-        "time": "7/9/2026, 2:57:02 PM"
       }
     ],
     "world": [
       {
-        "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
-        "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Heat health alerts extended as record for most 34C days in a year broken",
+        "url": "https://www.bbc.co.uk/news/articles/cyv0znm6y2eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 09 Jul 2026 14:41:54 GMT"
+        "time": "Thu, 09 Jul 2026 16:52:24 GMT"
+      },
+      {
+        "title": "Burnham on path to No 10 with Labour nominations under way",
+        "url": "https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 09 Jul 2026 15:41:11 GMT"
+      },
+      {
+        "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
+        "url": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 09 Jul 2026 16:15:10 GMT"
       },
       {
         "title": "No contact from UK about on-the-run murder suspect, say Zimbabwe police",
@@ -80,22 +92,10 @@
         "time": "Thu, 09 Jul 2026 13:57:07 GMT"
       },
       {
-        "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-        "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 09 Jul 2026 15:21:17 GMT"
-      },
-      {
         "title": "Restore Britain leader describes Dunblane school shooting as 'one murder'",
         "url": "https://www.bbc.co.uk/news/articles/cj3gdj300lyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 09 Jul 2026 15:02:30 GMT"
-      },
-      {
-        "title": "'Heartbroken' Catherine Zeta-Jones leads tributes to singer Bonnie Tyler",
-        "url": "https://www.bbc.co.uk/news/articles/clypqj2z1zpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 09 Jul 2026 10:39:06 GMT"
       }
     ],
     "projects": [
