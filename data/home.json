@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-07-09T09:15:02.088Z",
-  "updated_local": "7/9/2026, 9:15:02 AM",
+  "updated_iso": "2026-07-09T11:11:35.767Z",
+  "updated_local": "7/9/2026, 11:11:35 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Sony Bank Clears OCC Hurdle for Dollar Stablecoin",
+        "url": "https://decrypt.co/373109/sony-bank-clears-occ-hurdle-for-dollar-stablecoin",
+        "source": "crypto",
+        "time": "Thu, 09 Jul 2026 11:03:08 +0000"
+      },
+      {
+        "title": "A 20-Year-Old&#39;s Crypto Wallet Moved $123M in Romance-Scam Cash: Interpol Says",
+        "url": "https://decrypt.co/373107/a-20-year-olds-crypto-wallet-moved-123m-in-romance-scam-cash-interpol-says",
+        "source": "crypto",
+        "time": "Thu, 09 Jul 2026 09:21:54 +0000"
+      },
       {
         "title": "The New Grok 4.5 Is Out. Elon Musk Says It Competes With Last Year&#39;s Claude Opus",
         "url": "https://decrypt.co/373094/grok-4-5-elon-musk-claude-opus",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/373060/bitcoin-price-stalls-ethereum-flashes-worst-weekly-signal-years",
         "source": "crypto",
         "time": "Wed, 08 Jul 2026 19:23:13 +0000"
-      },
-      {
-        "title": "Bitcoin ETFs &#39;Turning a Corner&#39; After Record Bleed Hits $8 Billion",
-        "url": "https://decrypt.co/373029/bitcoin-etfs-turning-corner-after-record-bleed",
-        "source": "crypto",
-        "time": "Wed, 08 Jul 2026 18:24:56 +0000"
-      },
-      {
-        "title": "Lucky Trader Turns $85 Into $2 Million on Robinhood Chain Meme Coin",
-        "url": "https://decrypt.co/373052/lucky-trader-robinhood-chain-meme-coin-cashcat",
-        "source": "crypto",
-        "time": "Wed, 08 Jul 2026 16:59:23 +0000"
       }
     ],
     "hacker": [
@@ -48,25 +48,31 @@
         "time": "7/9/2026, 5:14:45 AM"
       },
       {
+        "title": "Meta reuses old RAM in new servers with custom bridge chip",
+        "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+        "source": "hn",
+        "time": "7/3/2026, 7:27:05 PM"
+      },
+      {
+        "title": "My Thoughts on the Bun Rust Rewrite",
+        "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+        "source": "hn",
+        "time": "7/9/2026, 9:47:28 AM"
+      },
+      {
         "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
         "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
         "source": "hn",
         "time": "7/9/2026, 8:22:52 AM"
-      },
-      {
-        "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
-        "url": "https://nexte.st/",
-        "source": "hn",
-        "time": "7/6/2026, 4:19:30 AM"
-      },
-      {
-        "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
-        "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-        "source": "hn",
-        "time": "7/8/2026, 9:30:09 PM"
       }
     ],
     "world": [
+      {
+        "title": "Family's 'unimaginable loss' as mum and daughters found dead",
+        "url": "https://www.bbc.co.uk/news/articles/clyr4l1p6d4o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 09 Jul 2026 10:27:02 GMT"
+      },
       {
         "title": "Disability benefit not fit for purpose, minister leading review says",
         "url": "https://www.bbc.co.uk/news/articles/czrxj5vvey0o?at_medium=RSS&amp;at_campaign=rss",
@@ -74,16 +80,10 @@
         "time": "Thu, 09 Jul 2026 08:23:13 GMT"
       },
       {
-        "title": "Met investigates donation to Jenrick's Tory leadership campaign",
-        "url": "https://www.bbc.co.uk/news/articles/cgev4jq4jngo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Man denies attempted murder of 10 people on train near Huntingdon",
+        "url": "https://www.bbc.co.uk/news/articles/cj6g3rd6k2jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 09 Jul 2026 00:50:56 GMT"
-      },
-      {
-        "title": "Starmer hints at bank holiday if England win World Cup",
-        "url": "https://www.bbc.co.uk/news/articles/c20y9g2v2wvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 09 Jul 2026 01:25:24 GMT"
+        "time": "Thu, 09 Jul 2026 11:03:25 GMT"
       },
       {
         "title": "It was 'love at first sight' with their adopted baby - then they were told he may have been trafficked",
@@ -92,10 +92,10 @@
         "time": "Wed, 08 Jul 2026 23:31:53 GMT"
       },
       {
-        "title": "Andy Burnham's path to becoming prime minister",
-        "url": "https://www.bbc.co.uk/news/articles/crm0r94mv7jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Burnham on course for No 10 as Labour nominations open",
+        "url": "https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 09 Jul 2026 00:19:47 GMT"
+        "time": "Thu, 09 Jul 2026 10:23:46 GMT"
       }
     ],
     "projects": [
