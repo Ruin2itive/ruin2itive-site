@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-09T01:41:37.279Z",
-  "updated_local": "7/9/2026, 1:41:37 AM",
+  "updated_iso": "2026-07-09T03:06:59.203Z",
+  "updated_local": "7/9/2026, 3:06:59 AM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,16 @@
         "time": "7/8/2026, 11:37:43 PM"
       },
       {
+        "title": "I Think I Have LLM Burnout",
+        "url": "https://www.alecscollon.com/blog/llm-burnout/",
+        "source": "hn",
+        "time": "7/9/2026, 1:56:28 AM"
+      },
+      {
         "title": "Separating signal from noise in coding evaluations",
         "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
         "source": "hn",
         "time": "7/8/2026, 9:03:51 PM"
-      },
-      {
-        "title": "A software engineering interview question I like: computing the median",
-        "url": "https://krisshamloo.com/blog/007",
-        "source": "hn",
-        "time": "7/9/2026, 12:38:02 AM"
       },
       {
         "title": "Chatto is now open source",
@@ -60,10 +60,10 @@
         "time": "7/8/2026, 3:19:50 PM"
       },
       {
-        "title": "Unicode's transliteration rules are Turing-complete",
-        "url": "https://seriot.ch/computation/uts35/",
+        "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+        "url": "https://mistral.ai/news/robostral-navigate/",
         "source": "hn",
-        "time": "7/8/2026, 9:44:20 AM"
+        "time": "7/8/2026, 2:09:17 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "US launches more strikes on Iran with blasts reported in south of country",
         "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 09 Jul 2026 00:06:36 GMT"
+        "time": "Thu, 09 Jul 2026 02:43:32 GMT"
       },
       {
         "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
@@ -92,10 +92,10 @@
         "time": "Thu, 09 Jul 2026 00:50:56 GMT"
       },
       {
-        "title": "Mason: Farage called by-election from weak position - and it could backfire on him",
-        "url": "https://www.bbc.co.uk/news/articles/c9d2882jj3yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Democrat Graham Platner suspends campaign for key US Senate race in Maine",
+        "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 08 Jul 2026 17:14:04 GMT"
+        "time": "Thu, 09 Jul 2026 02:18:21 GMT"
       }
     ],
     "projects": [
