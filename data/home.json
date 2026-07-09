@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-07-09T15:08:02.382Z",
-  "updated_local": "7/9/2026, 3:08:02 PM",
+  "updated_iso": "2026-07-09T16:51:53.685Z",
+  "updated_local": "7/9/2026, 4:51:53 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Swift Readies Ledger for 24/7 Token Transfers—Though True Settlement Is Stuck on Old Rails",
+        "url": "https://decrypt.co/373147/swift-readies-ledger-f24-7-token-transfers-settlement-old-rails",
+        "source": "crypto",
+        "time": "Thu, 09 Jul 2026 16:23:00 +0000"
+      },
+      {
+        "title": "MARA Stock Pops as Bitcoin Miner Agrees to Acquire Massive Powered Texas Land Plot",
+        "url": "https://decrypt.co/373144/mara-stock-pops-bitcoin-miner-agrees-acquire-texas-land-plot",
+        "source": "crypto",
+        "time": "Thu, 09 Jul 2026 15:44:31 +0000"
+      },
+      {
+        "title": "Labour MPs Push to Make UK Crypto Donation Ban Permanent",
+        "url": "https://decrypt.co/373130/labour-mps-push-to-make-uk-crypto-donation-ban-permanent",
+        "source": "crypto",
+        "time": "Thu, 09 Jul 2026 15:26:59 +0000"
+      },
       {
         "title": "MoonPay Brings Its AI Crypto Agents to Telegram",
         "url": "https://decrypt.co/373059/moonpay-ai-crypto-agents-telegram",
@@ -14,24 +32,6 @@
         "url": "https://decrypt.co/373112/morning-minute-paradigm-raises-1-2b-fund-as-cryptos-top-vc-pushes-into-ai",
         "source": "crypto",
         "time": "Thu, 09 Jul 2026 12:23:22 +0000"
-      },
-      {
-        "title": "EU Set to Revise MiCA in 2027 to Cover Foreign Stablecoin Issuers",
-        "url": "https://decrypt.co/373113/eu-set-to-revise-mica-in-2027-to-cover-foreign-stablecoin-issuers",
-        "source": "crypto",
-        "time": "Thu, 09 Jul 2026 12:18:24 +0000"
-      },
-      {
-        "title": "Sony Bank Clears OCC Hurdle for Dollar Stablecoin",
-        "url": "https://decrypt.co/373109/sony-bank-clears-occ-hurdle-for-dollar-stablecoin",
-        "source": "crypto",
-        "time": "Thu, 09 Jul 2026 11:03:08 +0000"
-      },
-      {
-        "title": "A 20-Year-Old&#39;s Crypto Wallet Moved $123M in Romance-Scam Cash: Interpol Says",
-        "url": "https://decrypt.co/373107/a-20-year-olds-crypto-wallet-moved-123m-in-romance-scam-cash-interpol-says",
-        "source": "crypto",
-        "time": "Thu, 09 Jul 2026 09:21:54 +0000"
       }
     ],
     "hacker": [
@@ -42,33 +42,33 @@
         "time": "7/9/2026, 12:48:52 PM"
       },
       {
+        "title": "EU Parliament greenlights Chat Control 1.0",
+        "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+        "source": "hn",
+        "time": "7/9/2026, 11:03:54 AM"
+      },
+      {
+        "title": "Hy3",
+        "url": "https://hy.tencent.com/research/hy3",
+        "source": "hn",
+        "time": "7/9/2026, 3:27:48 PM"
+      },
+      {
         "title": "No leap second will be introduced at the end of December 2026",
         "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
         "source": "hn",
         "time": "7/9/2026, 2:16:34 PM"
       },
       {
-        "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-        "url": "https://github.com/ronak-create/FableCut",
+        "title": "TLS certificates for internal services done right",
+        "url": "https://tuxnet.dev/posts/tls-for-internal-services/",
         "source": "hn",
-        "time": "7/9/2026, 1:23:10 PM"
-      },
-      {
-        "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
-        "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
-        "source": "hn",
-        "time": "7/9/2026, 10:02:33 AM"
-      },
-      {
-        "title": "Introducing Muse Spark 1.1",
-        "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1",
-        "source": "hn",
-        "time": "7/9/2026, 2:10:22 PM"
+        "time": "7/9/2026, 2:57:02 PM"
       }
     ],
     "world": [
       {
-        "title": "Traffic through Strait of Hormuz falls steeply after new US-Iran strikes",
+        "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
         "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 09 Jul 2026 14:41:54 GMT"
@@ -80,10 +80,10 @@
         "time": "Thu, 09 Jul 2026 13:57:07 GMT"
       },
       {
-        "title": "'Heartbroken' Catherine Zeta-Jones leads tributes to singer Bonnie Tyler",
-        "url": "https://www.bbc.co.uk/news/articles/clypqj2z1zpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+        "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 09 Jul 2026 10:39:06 GMT"
+        "time": "Thu, 09 Jul 2026 15:21:17 GMT"
       },
       {
         "title": "Restore Britain leader describes Dunblane school shooting as 'one murder'",
@@ -92,10 +92,10 @@
         "time": "Thu, 09 Jul 2026 15:02:30 GMT"
       },
       {
-        "title": "Disability benefit not fit for purpose, minister leading review says",
-        "url": "https://www.bbc.co.uk/news/articles/czrxj5vvey0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Heartbroken' Catherine Zeta-Jones leads tributes to singer Bonnie Tyler",
+        "url": "https://www.bbc.co.uk/news/articles/clypqj2z1zpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 09 Jul 2026 14:56:57 GMT"
+        "time": "Thu, 09 Jul 2026 10:39:06 GMT"
       }
     ],
     "projects": [
