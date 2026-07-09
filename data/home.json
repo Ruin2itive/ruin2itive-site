@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-09T09:07:54.922Z",
-  "updated_local": "7/9/2026, 9:07:54 AM",
+  "updated_iso": "2026-07-09T09:15:02.088Z",
+  "updated_local": "7/9/2026, 9:15:02 AM",
   "sections": {
     "crypto": [
       {
@@ -60,10 +60,10 @@
         "time": "7/6/2026, 4:19:30 AM"
       },
       {
-        "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-        "url": "https://github.com/malisper/pgrust",
+        "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+        "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
         "source": "hn",
-        "time": "7/9/2026, 6:18:19 AM"
+        "time": "7/8/2026, 9:30:09 PM"
       }
     ],
     "world": [
