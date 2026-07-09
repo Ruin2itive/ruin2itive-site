@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-09T07:23:07.215Z",
-  "updated_local": "7/9/2026, 7:23:07 AM",
+  "updated_iso": "2026-07-09T09:07:54.922Z",
+  "updated_local": "7/9/2026, 9:07:54 AM",
   "sections": {
     "crypto": [
       {
@@ -48,10 +48,10 @@
         "time": "7/9/2026, 5:14:45 AM"
       },
       {
-        "title": "AI changes the economics of software rewrites",
-        "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+        "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+        "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
         "source": "hn",
-        "time": "7/9/2026, 5:46:50 AM"
+        "time": "7/9/2026, 8:22:52 AM"
       },
       {
         "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
@@ -60,10 +60,10 @@
         "time": "7/6/2026, 4:19:30 AM"
       },
       {
-        "title": "Separating signal from noise in coding evaluations",
-        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+        "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+        "url": "https://github.com/malisper/pgrust",
         "source": "hn",
-        "time": "7/8/2026, 9:03:51 PM"
+        "time": "7/9/2026, 6:18:19 AM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Disability benefit not fit for purpose, minister leading review says",
         "url": "https://www.bbc.co.uk/news/articles/czrxj5vvey0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 08 Jul 2026 23:10:43 GMT"
+        "time": "Thu, 09 Jul 2026 08:23:13 GMT"
       },
       {
         "title": "Met investigates donation to Jenrick's Tory leadership campaign",
@@ -86,16 +86,16 @@
         "time": "Thu, 09 Jul 2026 01:25:24 GMT"
       },
       {
-        "title": "Burnham's last potential rival Al Carns rules out leadership bid",
-        "url": "https://www.bbc.co.uk/news/articles/cy9rzelexqlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "It was 'love at first sight' with their adopted baby - then they were told he may have been trafficked",
+        "url": "https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 08 Jul 2026 21:31:00 GMT"
+        "time": "Wed, 08 Jul 2026 23:31:53 GMT"
       },
       {
-        "title": "Wimbledon thought it had seen everything - then Fery arrived",
-        "url": "https://www.bbc.co.uk/sport/tennis/articles/cm2dgm39mz6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Andy Burnham's path to becoming prime minister",
+        "url": "https://www.bbc.co.uk/news/articles/crm0r94mv7jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 08 Jul 2026 19:40:38 GMT"
+        "time": "Thu, 09 Jul 2026 00:19:47 GMT"
       }
     ],
     "projects": [
