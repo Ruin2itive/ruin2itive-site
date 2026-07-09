@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-09T05:26:25.186Z",
-  "updated_local": "7/9/2026, 5:26:25 AM",
+  "updated_iso": "2026-07-09T07:14:11.109Z",
+  "updated_local": "7/9/2026, 7:14:11 AM",
   "sections": {
     "crypto": [
       {
@@ -48,45 +48,33 @@
         "time": "7/9/2026, 5:14:45 AM"
       },
       {
-        "title": "Chatto is now open source",
-        "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+        "title": "AI changes the economics of software rewrites",
+        "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
         "source": "hn",
-        "time": "7/8/2026, 3:19:50 PM"
+        "time": "7/9/2026, 5:46:50 AM"
+      },
+      {
+        "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+        "url": "https://nexte.st/",
+        "source": "hn",
+        "time": "7/6/2026, 4:19:30 AM"
       },
       {
         "title": "Separating signal from noise in coding evaluations",
         "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
         "source": "hn",
         "time": "7/8/2026, 9:03:51 PM"
-      },
-      {
-        "title": "Cloudflare Drop",
-        "url": "https://www.cloudflare.com/drop/",
-        "source": "hn",
-        "time": "7/8/2026, 7:18:26 PM"
       }
     ],
     "world": [
       {
-        "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
-        "url": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 09 Jul 2026 05:04:17 GMT"
-      },
-      {
-        "title": "UK heatwave spreads further north and west as temperatures continue to climb",
-        "url": "https://www.bbc.co.uk/weather/articles/ce3e443e1yko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 08 Jul 2026 20:34:56 GMT"
-      },
-      {
-        "title": "No crude proposals on disability benefits, minister leading review says",
+        "title": "Disability benefit not fit for purpose, minister leading review says",
         "url": "https://www.bbc.co.uk/news/articles/czrxj5vvey0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 08 Jul 2026 23:10:43 GMT"
       },
       {
-        "title": "Met investigate donation to Jenrick's Tory leadership campaign",
+        "title": "Met investigates donation to Jenrick's Tory leadership campaign",
         "url": "https://www.bbc.co.uk/news/articles/cgev4jq4jngo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 09 Jul 2026 00:50:56 GMT"
@@ -96,6 +84,18 @@
         "url": "https://www.bbc.co.uk/news/articles/c20y9g2v2wvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 09 Jul 2026 01:25:24 GMT"
+      },
+      {
+        "title": "Burnham's last potential rival Al Carns rules out leadership bid",
+        "url": "https://www.bbc.co.uk/news/articles/cy9rzelexqlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 08 Jul 2026 21:31:00 GMT"
+      },
+      {
+        "title": "Wimbledon thought it had seen everything - then Fery arrived",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/cm2dgm39mz6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 08 Jul 2026 19:40:38 GMT"
       }
     ],
     "projects": [
