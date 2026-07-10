@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-10T15:46:20.523Z"
+    "built_at": "2026-07-10T16:40:23.365Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Journal, Yours to Keep",
+      "url": "https://cozyjournal.app/",
+      "date": "2026-07-10T16:09:19.000Z"
+    },
+    {
+      "title": "German lawmakers pass cost-saving bill that drugmakers say will drive them out",
+      "url": "https://endpoints.news/german-lawmakers-pass-cost-saving-bill-that-drugmakers-say-will-drive-them-out/?u=4d043134-20d8-41ce-b88e-8705a8b61854&s=email&c=79153abc-2ce65d5c-b82278dd&utm_medium=email&utm_campaign=2487%20-%20Germany%20passes%20healthcare%20reform%20bill%20as%20criticism%20mounts%20Basic&utm_content=2487%20-%20Germany%20passes%20healthcare%20reform%20bill%20as%20criticism%20mounts%20Basic+CID_4d371c835fcfc4a1916eb30fa98cc65e&utm_source=ENDPOINTS%20emails&utm_term=German%20lawmakers%20pass%20cost-saving%20bill%20that%20drugmakers%20say%20will%20drive%20them%20out",
+      "date": "2026-07-10T16:07:54.000Z"
+    }
+  ]
 }
