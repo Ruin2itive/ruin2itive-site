@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-10T14:53:24.755Z"
+    "built_at": "2026-07-10T15:46:20.523Z"
   },
-  "items": [
-    {
-      "title": "Phia Shopping App Claiming Credit for Sales It Didn't Drive",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-09/gates-heir-s-shopping-app-took-credit-for-sales-it-didn-t-drive",
-      "date": "2026-07-10T14:52:13.000Z"
-    },
-    {
-      "title": "Estonia Won the War on Fentanyl. What Came Next Was Worse",
-      "url": "https://www.nytimes.com/2026/07/07/world/europe/estonia-fentanyl-new-drugs.html",
-      "date": "2026-07-10T14:51:45.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
