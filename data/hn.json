@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-10T18:28:57.416Z"
+    "built_at": "2026-07-10T19:29:43.084Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug/",
+      "date": "2026-07-10T19:26:49.000Z"
+    },
+    {
+      "title": "New Research Indicates That in Future, Trees May Store Less Carbon Than Expected",
+      "url": "https://lamont.columbia.edu/news/new-research-indicates-future-trees-may-store-less-carbon-expected",
+      "date": "2026-07-10T19:25:30.000Z"
+    }
+  ]
 }
