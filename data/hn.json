@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-10T01:33:01.986Z"
+    "built_at": "2026-07-10T03:02:37.838Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Omegle for Weed",
+      "url": "https://omeweed.com/",
+      "date": "2026-07-10T02:55:34.000Z"
+    },
+    {
+      "title": "Thoughts on design as founding engineer",
+      "url": "https://www.thrice.me/on-design",
+      "date": "2026-07-10T02:53:26.000Z"
+    }
+  ]
 }
