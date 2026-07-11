@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-11T01:32:47.838Z"
+    "built_at": "2026-07-11T03:01:06.396Z"
   },
-  "items": [
-    {
-      "title": "User provider content is dangerous. Our experience",
-      "url": "https://blast-radius.boomurl.me/",
-      "date": "2026-07-11T01:31:55.000Z"
-    },
-    {
-      "title": "Shih Tzu History: From Royal Dogs to Beloved Companions",
-      "url": "https://www.akc.org/expert-advice/dog-breeds/shih-tzu-history/",
-      "date": "2026-07-11T01:30:19.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
