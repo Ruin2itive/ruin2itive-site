@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-11T21:20:55.526Z",
-  "updated_local": "7/11/2026, 9:20:55 PM",
+  "updated_iso": "2026-07-11T22:17:34.802Z",
+  "updated_local": "7/11/2026, 10:17:34 PM",
   "sections": {
     "crypto": [
       {
@@ -42,28 +42,28 @@
         "time": "7/11/2026, 8:07:18 PM"
       },
       {
-        "title": "We scaled PgBouncer to 4x throughput",
-        "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-        "source": "hn",
-        "time": "7/11/2026, 3:28:02 PM"
-      },
-      {
         "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
         "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
         "source": "hn",
         "time": "7/11/2026, 5:21:49 PM"
       },
       {
-        "title": "Prefer strict tables in SQLite",
-        "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+        "title": "We scaled PgBouncer to 4x throughput",
+        "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
         "source": "hn",
-        "time": "7/11/2026, 5:33:55 PM"
+        "time": "7/11/2026, 3:28:02 PM"
       },
       {
         "title": "UPI: Anatomy of a Payment Transaction",
         "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
         "source": "hn",
         "time": "7/11/2026, 4:33:42 PM"
+      },
+      {
+        "title": "Prefer strict tables in SQLite",
+        "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+        "source": "hn",
+        "time": "7/11/2026, 5:33:55 PM"
       }
     ],
     "world": [
