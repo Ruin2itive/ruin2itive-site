@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-11T15:25:10.246Z",
-  "updated_local": "7/11/2026, 3:25:10 PM",
+  "updated_iso": "2026-07-11T16:18:49.895Z",
+  "updated_local": "7/11/2026, 4:18:49 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Networking and the Internet, from First Principles",
-        "url": "https://fazamhd.com/mental-models/networking/",
+        "title": "We scaled PgBouncer to 4x throughput",
+        "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
         "source": "hn",
-        "time": "7/11/2026, 12:30:40 PM"
-      },
-      {
-        "title": "Your code is fast – if you're lucky",
-        "url": "https://tiki.li/blog/lucky_code.html",
-        "source": "hn",
-        "time": "7/11/2026, 10:50:10 AM"
+        "time": "7/11/2026, 3:28:02 PM"
       },
       {
         "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
@@ -54,16 +48,22 @@
         "time": "7/10/2026, 10:30:44 PM"
       },
       {
+        "title": "Speculations Concerning the First Ultraintelligent Machine (1965) [pdf]",
+        "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
+        "source": "hn",
+        "time": "7/11/2026, 1:33:17 PM"
+      },
+      {
+        "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+        "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+        "source": "hn",
+        "time": "7/11/2026, 3:26:12 PM"
+      },
+      {
         "title": "QuadRF can spot drones and see WiFi through my wall",
         "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
         "source": "hn",
         "time": "7/10/2026, 3:59:53 PM"
-      },
-      {
-        "title": "Google Search lets creators know more about their reach",
-        "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-        "source": "hn",
-        "time": "7/7/2026, 11:51:49 PM"
       }
     ],
     "world": [
