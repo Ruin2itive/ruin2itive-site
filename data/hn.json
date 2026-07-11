@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-11T16:16:36.161Z"
+    "built_at": "2026-07-11T17:20:07.727Z"
   },
-  "items": [
-    {
-      "title": "Show HN: I Wanted AI Code Review I Could Own. So I Built Codra",
-      "url": "https://medium.com/@devarshidev/i-wanted-ai-code-review-i-could-actually-own-so-i-built-codra-beea2e3f18fd",
-      "date": "2026-07-11T16:15:44.000Z"
-    },
-    {
-      "title": "Cancelled by your future self? The fear isn't censorship. It's permanence",
-      "url": "https://indianexpress.com/article/fresh-take/gen-z-digital-permanence-self-censorship-nep-2020-universities-10781919/",
-      "date": "2026-07-11T16:14:51.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
