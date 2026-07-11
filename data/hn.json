@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-11T14:26:09.948Z"
+    "built_at": "2026-07-11T15:20:27.505Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Jektex 0.2.0 – A Jekyll plugin for LaTeX rendering is now ~10x faster",
+      "url": "https://github.com/yagarea/jektex",
+      "date": "2026-07-11T15:19:25.000Z"
+    },
+    {
+      "title": "AI Is Making Silicon Valley Productive, Anxious and Afraid to Log Off",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-26/ai-anxiety-is-fueling-burnout-across-silicon-valley-s-tech-workers",
+      "date": "2026-07-11T15:18:59.000Z"
+    }
+  ]
 }
