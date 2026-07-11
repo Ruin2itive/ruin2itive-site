@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-11T09:30:35.130Z"
+    "built_at": "2026-07-11T10:25:15.842Z"
   },
-  "items": [
-    {
-      "title": "Safari sidebar silently loads loads all your bookmarks",
-      "url": "https://lapcatsoftware.com/articles/2026/7/1.html",
-      "date": "2026-07-11T09:27:18.000Z"
-    },
-    {
-      "title": "Open-source finance infrastructure in Rust",
-      "url": "https://www.railsinfra.com",
-      "date": "2026-07-11T09:18:24.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
