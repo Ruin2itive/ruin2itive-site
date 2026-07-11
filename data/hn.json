@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-11T19:24:24.288Z"
+    "built_at": "2026-07-11T20:16:11.816Z"
   },
-  "items": [
-    {
-      "title": "Sakib.ouiy Gmail.com",
-      "url": "https://blog.cloudflare.com/welcome-to-connectivity-cloud/",
-      "date": "2026-07-11T19:22:40.000Z"
-    },
-    {
-      "title": "A Mechanistic Explanation of Prompt Injection (and why you should study roles)",
-      "url": "https://www.lesswrong.com/posts/d8xDGzCEYE639qqEv/a-mechanistic-explanation-of-prompt-injection-and-why-you",
-      "date": "2026-07-11T19:21:53.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
