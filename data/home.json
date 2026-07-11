@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-11T01:40:08.996Z",
-  "updated_local": "7/11/2026, 1:40:08 AM",
+  "updated_iso": "2026-07-11T03:04:29.166Z",
+  "updated_local": "7/11/2026, 3:04:29 AM",
   "sections": {
     "crypto": [
       {
@@ -42,28 +42,28 @@
         "time": "7/10/2026, 10:30:44 PM"
       },
       {
-        "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-        "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-        "source": "hn",
-        "time": "7/10/2026, 8:47:09 PM"
-      },
-      {
         "title": "QuadRF can spot drones and see WiFi through my wall",
         "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
         "source": "hn",
         "time": "7/10/2026, 3:59:53 PM"
       },
       {
-        "title": "FreeCAD in the Browser",
-        "url": "https://magik.net/freecad/",
+        "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+        "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
         "source": "hn",
-        "time": "7/11/2026, 12:44:00 AM"
+        "time": "7/10/2026, 8:47:09 PM"
       },
       {
-        "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-        "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+        "title": "An iroh powered smart fan",
+        "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
         "source": "hn",
-        "time": "7/10/2026, 6:29:19 PM"
+        "time": "7/7/2026, 1:30:17 PM"
+      },
+      {
+        "title": "The footgun of right-to-left decorative characters",
+        "url": "https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters",
+        "source": "hn",
+        "time": "7/7/2026, 3:04:46 AM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Fri, 10 Jul 2026 21:27:28 GMT"
       },
       {
+        "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+        "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 11 Jul 2026 01:24:49 GMT"
+      },
+      {
         "title": "Triple murder suspect arrested in South Africa",
         "url": "https://www.bbc.co.uk/news/articles/cx2vq71473yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c78yp5j2e8eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 10 Jul 2026 23:36:03 GMT"
-      },
-      {
-        "title": "Meet the crypto billionaires building a world where money buys you a vote",
-        "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 10 Jul 2026 23:03:11 GMT"
       }
     ],
     "projects": [
