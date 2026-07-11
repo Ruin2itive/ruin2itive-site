@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-11T22:20:54.597Z",
-  "updated_local": "7/11/2026, 10:20:54 PM",
+  "updated_iso": "2026-07-11T23:18:55.904Z",
+  "updated_local": "7/11/2026, 11:18:55 PM",
   "sections": {
     "crypto": [
       {
@@ -36,48 +36,42 @@
     ],
     "hacker": [
       {
+        "title": "Stop Telling Me to Ask an LLM",
+        "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+        "source": "hn",
+        "time": "7/11/2026, 10:28:48 PM"
+      },
+      {
+        "title": "Weightlifting beats running for blood sugar control, researchers find",
+        "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+        "source": "hn",
+        "time": "7/11/2026, 10:49:42 PM"
+      },
+      {
         "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
         "url": "https://antjs.org",
         "source": "hn",
         "time": "7/11/2026, 8:07:18 PM"
       },
       {
-        "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-        "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+        "title": "Mesh LLM: distributed AI computing on iroh",
+        "url": "https://www.iroh.computer/blog/mesh-llm",
         "source": "hn",
-        "time": "7/11/2026, 5:21:49 PM"
+        "time": "7/11/2026, 10:38:57 PM"
       },
       {
-        "title": "We scaled PgBouncer to 4x throughput",
-        "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+        "title": "RISCBoy is an open-source portable games console, designed from scratch",
+        "url": "https://github.com/Wren6991/RISCBoy",
         "source": "hn",
-        "time": "7/11/2026, 3:28:02 PM"
-      },
-      {
-        "title": "UPI: Anatomy of a Payment Transaction",
-        "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-        "source": "hn",
-        "time": "7/11/2026, 4:33:42 PM"
-      },
-      {
-        "title": "Prefer strict tables in SQLite",
-        "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-        "source": "hn",
-        "time": "7/11/2026, 5:33:55 PM"
+        "time": "7/11/2026, 9:58:00 PM"
       }
     ],
     "world": [
       {
-        "title": "Ann Widdecombe attacked nearly 24 hours before she was found dead, police believe",
-        "url": "https://www.bbc.co.uk/news/articles/cgjx912wxw3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Man arrested on suspicion of murder of Ann Widdecombe, police say",
+        "url": "https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 11 Jul 2026 17:23:04 GMT"
-      },
-      {
-        "title": "Village in shock as 'horrific' Ann Widdecombe murder case unfolds",
-        "url": "https://www.bbc.co.uk/news/articles/c0ky0e147jzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 11 Jul 2026 16:18:17 GMT"
+        "time": "Sat, 11 Jul 2026 23:15:03 GMT"
       },
       {
         "title": "Tributes paid to TV presenter Dermot Murnaghan",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 11 Jul 2026 11:45:55 GMT"
+      },
+      {
+        "title": "Heatwave to stretch into second week despite cooler air for some this weekend",
+        "url": "https://www.bbc.co.uk/weather/articles/c621kp4y701o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 11 Jul 2026 10:41:15 GMT"
       }
     ],
     "projects": [
