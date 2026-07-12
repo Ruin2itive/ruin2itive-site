@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-11T23:22:12.795Z",
-  "updated_local": "7/11/2026, 11:22:12 PM",
+  "updated_iso": "2026-07-12T00:35:38.168Z",
+  "updated_local": "7/12/2026, 12:35:38 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Stop Telling Me to Ask an LLM",
-        "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+        "title": "Mesh LLM: distributed AI computing on iroh",
+        "url": "https://www.iroh.computer/blog/mesh-llm",
         "source": "hn",
-        "time": "7/11/2026, 10:28:48 PM"
-      },
-      {
-        "title": "Weightlifting beats running for blood sugar control, researchers find",
-        "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
-        "source": "hn",
-        "time": "7/11/2026, 10:49:42 PM"
+        "time": "7/11/2026, 10:38:57 PM"
       },
       {
         "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
@@ -54,30 +48,42 @@
         "time": "7/11/2026, 8:07:18 PM"
       },
       {
-        "title": "Mesh LLM: distributed AI computing on iroh",
-        "url": "https://www.iroh.computer/blog/mesh-llm",
-        "source": "hn",
-        "time": "7/11/2026, 10:38:57 PM"
-      },
-      {
         "title": "RISCBoy is an open-source portable games console, designed from scratch",
         "url": "https://github.com/Wren6991/RISCBoy",
         "source": "hn",
         "time": "7/11/2026, 9:58:00 PM"
+      },
+      {
+        "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+        "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+        "source": "hn",
+        "time": "7/11/2026, 5:21:49 PM"
+      },
+      {
+        "title": "Odyssey Linux",
+        "url": "https://odysseylinux.org",
+        "source": "hn",
+        "time": "7/11/2026, 11:54:22 PM"
       }
     ],
     "world": [
       {
+        "title": "'Man of all the moments' - Bellingham gives England the lead",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c20yrd39ge8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 11 Jul 2026 23:46:44 GMT"
+      },
+      {
         "title": "Man arrested on suspicion of murder of Ann Widdecombe, police say",
         "url": "https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 11 Jul 2026 23:15:03 GMT"
+        "time": "Sun, 12 Jul 2026 00:19:09 GMT"
       },
       {
-        "title": "Iran says Strait of Hormuz closed 'until further notice'",
+        "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
         "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 11 Jul 2026 23:14:18 GMT"
+        "time": "Sun, 12 Jul 2026 00:15:22 GMT"
       },
       {
         "title": "Tributes paid to TV presenter Dermot Murnaghan",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 11 Jul 2026 12:00:16 GMT"
-      },
-      {
-        "title": "Watch: 'We escaped Spanish wildfire, but our friends lost their lives'",
-        "url": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 11 Jul 2026 11:45:55 GMT"
       }
     ],
     "projects": [
