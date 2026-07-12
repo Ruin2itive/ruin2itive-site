@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-12T06:51:45.434Z"
+    "built_at": "2026-07-12T07:42:55.815Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "'I'm not a programmer' anymore: Linus Torvalds on the only two tools he uses now",
+      "url": "https://www.zdnet.com/article/open-source-summit-linus-torvalds/",
+      "date": "2026-07-12T07:41:51.000Z"
+    },
+    {
+      "title": "Unify AI Horn alternative using ESP32, WizNet 5500, Poe and a Ti Amp",
+      "url": "https://www.hackster.io/c_m_cooper/announce-for-unify-e9c652",
+      "date": "2026-07-12T07:40:23.000Z"
+    }
+  ]
 }
