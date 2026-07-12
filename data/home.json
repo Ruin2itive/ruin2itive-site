@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-12T17:26:09.385Z",
-  "updated_local": "7/12/2026, 5:26:09 PM",
+  "updated_iso": "2026-07-12T18:19:55.833Z",
+  "updated_local": "7/12/2026, 6:19:55 PM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Old and new apps, via modern coding agents by Terry Tao",
+        "title": "Claude Code May–July 2026 weekly limits promotion",
+        "url": "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion",
+        "source": "hn",
+        "time": "7/12/2026, 6:01:29 PM"
+      },
+      {
+        "title": "Old and new apps, via modern coding agents",
         "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
         "source": "hn",
         "time": "7/12/2026, 11:09:42 AM"
-      },
-      {
-        "title": "How to Read More Books",
-        "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-        "source": "hn",
-        "time": "7/12/2026, 3:47:16 PM"
-      },
-      {
-        "title": "A no-brainer for protecting your brain",
-        "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
-        "source": "hn",
-        "time": "7/12/2026, 3:23:59 PM"
       },
       {
         "title": "Don't You Mean Extinct?",
@@ -60,10 +54,16 @@
         "time": "7/12/2026, 3:17:20 PM"
       },
       {
-        "title": "Website is served from a 200KB binary",
-        "url": "https://200kb.freelang.dev/",
+        "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
+        "url": "https://github.com/hasenj/go-shirei/",
         "source": "hn",
-        "time": "7/12/2026, 4:59:37 PM"
+        "time": "7/12/2026, 4:55:42 PM"
+      },
+      {
+        "title": "Automation Without Understanding",
+        "url": "https://arxiv.org/abs/2607.06377",
+        "source": "hn",
+        "time": "7/12/2026, 4:54:47 PM"
       }
     ],
     "world": [
