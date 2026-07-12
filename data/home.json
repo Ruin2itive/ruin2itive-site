@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-12T20:20:52.704Z",
-  "updated_local": "7/12/2026, 8:20:52 PM",
+  "updated_iso": "2026-07-12T21:17:38.262Z",
+  "updated_local": "7/12/2026, 9:17:38 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Tiny Emulators",
+        "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+        "source": "hn",
+        "time": "7/12/2026, 8:23:05 PM"
+      },
+      {
         "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
         "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
         "source": "hn",
@@ -54,16 +60,10 @@
         "time": "7/12/2026, 6:31:56 PM"
       },
       {
-        "title": "Can We Understand How Large Language Models Reason?",
-        "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+        "title": "I Learned to Read Again",
+        "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
         "source": "hn",
-        "time": "7/12/2026, 6:04:41 PM"
-      },
-      {
-        "title": "Automation Without Understanding",
-        "url": "https://arxiv.org/abs/2607.06377",
-        "source": "hn",
-        "time": "7/12/2026, 4:54:47 PM"
+        "time": "7/12/2026, 6:22:15 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Police say no suggestion of political motive in Widdecombe killing after new arrest",
         "url": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 12 Jul 2026 19:04:36 GMT"
+        "time": "Sun, 12 Jul 2026 20:48:53 GMT"
       },
       {
         "title": "Sinner holds off Zverev to defend Wimbledon title",
@@ -80,10 +80,10 @@
         "time": "Sun, 12 Jul 2026 20:10:20 GMT"
       },
       {
-        "title": "Two men die trying to help children in sea",
-        "url": "https://www.bbc.co.uk/news/articles/cq81l5gj54zo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "At least 27 killed in Bangkok bar fire",
+        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 12 Jul 2026 19:51:44 GMT"
+        "time": "Sun, 12 Jul 2026 20:13:14 GMT"
       },
       {
         "title": "'We have another level we can reach' - Kane defends frustrated Tuchel",
@@ -92,10 +92,10 @@
         "time": "Sun, 12 Jul 2026 18:18:22 GMT"
       },
       {
-        "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
-        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Two men die trying to help children in sea",
+        "url": "https://www.bbc.co.uk/news/articles/cq81l5gj54zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 12 Jul 2026 20:13:14 GMT"
+        "time": "Sun, 12 Jul 2026 20:33:54 GMT"
       }
     ],
     "projects": [
