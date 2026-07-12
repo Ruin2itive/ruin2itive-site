@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-12T10:29:56.681Z"
+    "built_at": "2026-07-12T11:24:16.573Z"
   },
-  "items": [
-    {
-      "title": "Solving Santa Claus Puzzle",
-      "url": "https://wyounas.github.io/puzzles/concurrency/2026/01/10/how-to-help-santa-claus-concurrently/",
-      "date": "2026-07-12T10:26:53.000Z"
-    },
-    {
-      "title": "Littlenavmap",
-      "url": "https://github.com/albar965/littlenavmap",
-      "date": "2026-07-12T10:23:53.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
