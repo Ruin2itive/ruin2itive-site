@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-12T21:17:38.262Z",
-  "updated_local": "7/12/2026, 9:17:38 PM",
+  "updated_iso": "2026-07-12T22:17:50.679Z",
+  "updated_local": "7/12/2026, 10:17:50 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+        "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+        "source": "hn",
+        "time": "7/12/2026, 9:12:11 PM"
+      },
+      {
         "title": "Tiny Emulators",
         "url": "https://floooh.github.io/tiny8bit-preview/index.html",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "7/12/2026, 6:25:51 PM"
       },
       {
+        "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+        "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+        "source": "hn",
+        "time": "7/12/2026, 5:13:07 PM"
+      },
+      {
         "title": "Old and new apps, via modern coding agents",
         "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
         "source": "hn",
         "time": "7/12/2026, 11:09:42 AM"
-      },
-      {
-        "title": "I love LLMs, I hate hype",
-        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-        "source": "hn",
-        "time": "7/12/2026, 6:31:56 PM"
-      },
-      {
-        "title": "I Learned to Read Again",
-        "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-        "source": "hn",
-        "time": "7/12/2026, 6:22:15 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Police say no suggestion of political motive in Widdecombe killing after new arrest",
         "url": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 12 Jul 2026 20:48:53 GMT"
+        "time": "Sun, 12 Jul 2026 21:22:54 GMT"
       },
       {
         "title": "Sinner holds off Zverev to defend Wimbledon title",
