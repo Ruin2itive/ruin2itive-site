@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-12T16:18:37.141Z"
+    "built_at": "2026-07-12T17:21:29.742Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "In defense of not understanding your codebase",
+      "url": "https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/",
+      "date": "2026-07-12T17:19:47.000Z"
+    },
+    {
+      "title": "GuardianDB: High-performance, local-first decentralized database built on Rust",
+      "url": "https://www.willsearch.com.br/guardian-db/",
+      "date": "2026-07-12T17:19:07.000Z"
+    }
+  ]
 }
