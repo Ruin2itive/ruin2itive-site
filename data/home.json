@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-12T18:24:44.847Z",
-  "updated_local": "7/12/2026, 6:24:44 PM",
+  "updated_iso": "2026-07-12T19:25:33.560Z",
+  "updated_local": "7/12/2026, 7:25:33 PM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "Claude Code May–July 2026 weekly limits promotion",
-        "url": "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion",
+        "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+        "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
         "source": "hn",
-        "time": "7/12/2026, 6:01:29 PM"
+        "time": "7/12/2026, 6:25:51 PM"
+      },
+      {
+        "title": "I love LLMs, I hate hype",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+        "source": "hn",
+        "time": "7/12/2026, 6:31:56 PM"
+      },
+      {
+        "title": "The shingles vaccine may reduce the risk of dementia",
+        "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+        "source": "hn",
+        "time": "7/12/2026, 3:23:59 PM"
       },
       {
         "title": "Old and new apps, via modern coding agents",
@@ -48,22 +60,10 @@
         "time": "7/12/2026, 11:09:42 AM"
       },
       {
-        "title": "Don't You Mean Extinct?",
+        "title": "Don't you mean extinct?",
         "url": "https://fabiensanglard.net/extinct/index.html",
         "source": "hn",
         "time": "7/12/2026, 3:17:20 PM"
-      },
-      {
-        "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
-        "url": "https://github.com/hasenj/go-shirei/",
-        "source": "hn",
-        "time": "7/12/2026, 4:55:42 PM"
-      },
-      {
-        "title": "Automation Without Understanding",
-        "url": "https://arxiv.org/abs/2607.06377",
-        "source": "hn",
-        "time": "7/12/2026, 4:54:47 PM"
       }
     ],
     "world": [
@@ -71,7 +71,13 @@
         "title": "Police say no suggestion of political motive in Widdecombe killing after new arrest",
         "url": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 12 Jul 2026 13:06:22 GMT"
+        "time": "Sun, 12 Jul 2026 19:04:36 GMT"
+      },
+      {
+        "title": "Two men die trying to save children in sea",
+        "url": "https://www.bbc.co.uk/news/articles/cq81l5gj54zo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 12 Jul 2026 19:12:36 GMT"
       },
       {
         "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
@@ -80,22 +86,16 @@
         "time": "Sun, 12 Jul 2026 13:35:01 GMT"
       },
       {
-        "title": "We are living fewer years in good health: Is the NHS part of the problem?",
-        "url": "https://www.bbc.co.uk/news/articles/c8r2nz82z3vo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 12 Jul 2026 00:42:35 GMT"
-      },
-      {
         "title": "Tuchel wasn't happy with the performance. So why do England keep winning?",
         "url": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 12 Jul 2026 12:19:03 GMT"
       },
       {
-        "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-        "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "We are living fewer years in good health: Is the NHS part of the problem?",
+        "url": "https://www.bbc.co.uk/news/articles/c8r2nz82z3vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 12 Jul 2026 16:46:24 GMT"
+        "time": "Sun, 12 Jul 2026 00:42:35 GMT"
       }
     ],
     "projects": [
