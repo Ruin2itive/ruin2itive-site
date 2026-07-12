@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-12T10:34:19.824Z",
-  "updated_local": "7/12/2026, 10:34:19 AM",
+  "updated_iso": "2026-07-12T11:25:36.896Z",
+  "updated_local": "7/12/2026, 11:25:36 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-        "url": "https://github.com/cosmtrek/mindwalk",
-        "source": "hn",
-        "time": "7/12/2026, 5:51:32 AM"
-      },
-      {
         "title": "Vint Cerf, a “father of the Internet”, is retiring",
         "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
         "source": "hn",
         "time": "7/10/2026, 12:06:59 AM"
+      },
+      {
+        "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+        "url": "https://github.com/cosmtrek/mindwalk",
+        "source": "hn",
+        "time": "7/12/2026, 5:51:32 AM"
       },
       {
         "title": "Mesh LLM: distributed AI computing on iroh",
@@ -60,10 +60,10 @@
         "time": "7/8/2026, 3:16:38 AM"
       },
       {
-        "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-        "url": "https://antjs.org",
+        "title": "An agent in 100 lines of Lisp",
+        "url": "https://thebeach.dev/posts/lisp-agent/",
         "source": "hn",
-        "time": "7/11/2026, 8:07:18 PM"
+        "time": "7/7/2026, 9:21:09 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Sun, 12 Jul 2026 03:08:42 GMT"
       },
       {
-        "title": "Man arrested in South Yorkshire on suspicion of Ann Widdecombe murder",
-        "url": "https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch fans react to every goal of England v Norway",
+        "url": "https://www.bbc.co.uk/news/videos/cvgqxx912dro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 12 Jul 2026 09:45:21 GMT"
+        "time": "Sun, 12 Jul 2026 00:33:04 GMT"
       },
       {
-        "title": "Badly burned British couple rescued from ravine during Spain wildfires",
+        "title": "Nothing to suggest Widdecombe killing was politically motivated, police say",
+        "url": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 12 Jul 2026 11:08:12 GMT"
+      },
+      {
+        "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
         "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 12 Jul 2026 10:18:02 GMT"
+        "time": "Sun, 12 Jul 2026 11:23:09 GMT"
       },
       {
         "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
         "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 12 Jul 2026 09:47:43 GMT"
-      },
-      {
-        "title": "We are living fewer years in good health: Is the NHS part of the problem?",
-        "url": "https://www.bbc.co.uk/news/articles/c8r2nz82z3vo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 12 Jul 2026 00:42:35 GMT"
       }
     ],
     "projects": [
