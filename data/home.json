@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-13T09:15:09.236Z",
-  "updated_local": "7/13/2026, 9:15:09 AM",
+  "updated_iso": "2026-07-13T11:03:26.531Z",
+  "updated_local": "7/13/2026, 11:03:26 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Chinese Prosecutors Float Treating Crypto Mixer, Privacy Coin Use as Sign of Money Laundering",
+        "url": "https://decrypt.co/373374/chinese-prosecutors-float-treating-crypto-mixer-privacy-coin-use-as-sign-of-money-laundering",
+        "source": "crypto",
+        "time": "Mon, 13 Jul 2026 10:43:13 +0000"
+      },
       {
         "title": "How to Make Product Ads With AI for TikTok and YouTube—For (Almost) Free",
         "url": "https://decrypt.co/373290/how-to-make-ai-ads-tiktok-youtube-free",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets",
         "source": "crypto",
         "time": "Fri, 10 Jul 2026 21:50:30 +0000"
-      },
-      {
-        "title": "Democrats Call for Senate Hearings on Trump&#39;s Massive Crypto Profits",
-        "url": "https://decrypt.co/373289/democrats-senate-hearings-trump-massive-crypto-profits",
-        "source": "crypto",
-        "time": "Fri, 10 Jul 2026 20:35:44 +0000"
       }
     ],
     "hacker": [
@@ -48,25 +48,31 @@
         "time": "7/13/2026, 8:04:30 AM"
       },
       {
-        "title": "Backtrack-Free Cursive",
-        "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+        "title": "The social physics of conversation: Communication patterns matter",
+        "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
         "source": "hn",
-        "time": "7/13/2026, 6:08:12 AM"
-      },
-      {
-        "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
-        "url": "https://github.com/schlae/BeavisUltrasound",
-        "source": "hn",
-        "time": "7/13/2026, 5:15:14 AM"
+        "time": "7/8/2026, 7:05:49 AM"
       },
       {
         "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
         "url": "https://nebusec.ai/research/ionstack-part-2/",
         "source": "hn",
         "time": "7/8/2026, 4:53:58 PM"
+      },
+      {
+        "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
+        "url": "https://github.com/schlae/BeavisUltrasound",
+        "source": "hn",
+        "time": "7/13/2026, 5:15:14 AM"
       }
     ],
     "world": [
+      {
+        "title": "Suspect in Ann Widdecombe murder seen on CCTV getting into car with object",
+        "url": "https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 13 Jul 2026 10:29:22 GMT"
+      },
       {
         "title": "More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales",
         "url": "https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&amp;at_campaign=rss",
@@ -77,25 +83,19 @@
         "title": "Heatwave to intensify in second week as wildfires burn across UK",
         "url": "https://www.bbc.co.uk/weather/articles/c0jyx16ww8jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 13 Jul 2026 06:05:39 GMT"
+        "time": "Mon, 13 Jul 2026 10:04:04 GMT"
       },
       {
-        "title": "Home secretary to set out plan to deport Rochdale grooming gang leader",
-        "url": "https://www.bbc.co.uk/news/articles/ce8m9615dqlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK seeking extradition of man suspected of killing wife and two daughters",
+        "url": "https://www.bbc.co.uk/news/articles/cy8w61qz873o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 13 Jul 2026 08:44:27 GMT"
+        "time": "Mon, 13 Jul 2026 10:48:04 GMT"
       },
       {
-        "title": "At least 27 killed, 22 critically injured after fire engulfs Bangkok bar",
-        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Witness says he crawled for exit as flames swept through Bangkok bar",
+        "url": "https://www.bbc.co.uk/news/articles/crr8gnx01d7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 13 Jul 2026 06:07:17 GMT"
-      },
-      {
-        "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
-        "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 12 Jul 2026 23:29:06 GMT"
+        "time": "Mon, 13 Jul 2026 10:02:43 GMT"
       }
     ],
     "projects": [
