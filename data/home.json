@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-13T22:19:50.309Z",
-  "updated_local": "7/13/2026, 10:19:50 PM",
+  "updated_iso": "2026-07-13T23:19:45.915Z",
+  "updated_local": "7/13/2026, 11:19:45 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Stop Over-Prompting: OpenAI’s New GPT-5.6 Guidelines Change Everything",
+        "url": "https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
+        "source": "crypto",
+        "time": "Mon, 13 Jul 2026 22:46:04 +0000"
+      },
       {
         "title": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause",
         "url": "https://decrypt.co/373433/stop-ai-protest-openai-anthropic-google-deepmind",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/373419/democratic-opposition-clarity-act-grows-crypto-bill-final-weeks",
         "source": "crypto",
         "time": "Mon, 13 Jul 2026 20:15:24 +0000"
-      },
-      {
-        "title": "Bolivia Is Considering Adding Tether&#39;s USDT Stablecoin to National Payments System: Report",
-        "url": "https://decrypt.co/373410/bolivia-considering-tether-usdt-stablecoin-national-payments-system",
-        "source": "crypto",
-        "time": "Mon, 13 Jul 2026 18:57:19 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Telegram's t.me domain has been suspended",
-        "url": "https://www.whois.com/whois/t.me",
-        "source": "hn",
-        "time": "7/13/2026, 7:52:25 PM"
-      },
-      {
-        "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+        "title": "Building and shipping Mac and iOS apps without ever opening Xcode",
         "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
         "source": "hn",
         "time": "7/13/2026, 6:22:16 PM"
+      },
+      {
+        "title": "‘Asia's cleanest village’ bans tourists on Sundays",
+        "url": "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays",
+        "source": "hn",
+        "time": "7/13/2026, 10:19:16 PM"
       },
       {
         "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
@@ -54,10 +54,10 @@
         "time": "7/13/2026, 4:06:08 PM"
       },
       {
-        "title": "Climate.gov was destroyed. Open data saved it",
-        "url": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
+        "title": "Claude is just Mr. Meeseeks",
+        "url": "https://github.com/thephw/claude-meseeks",
         "source": "hn",
-        "time": "7/13/2026, 7:57:55 PM"
+        "time": "7/13/2026, 10:03:54 PM"
       },
       {
         "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
@@ -77,7 +77,13 @@
         "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
         "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 13 Jul 2026 21:46:06 GMT"
+        "time": "Mon, 13 Jul 2026 22:47:52 GMT"
+      },
+      {
+        "title": "No significant rain forecast for at least a week as UK heatwave continues",
+        "url": "https://www.bbc.co.uk/weather/articles/cvge2zq0zg3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 13 Jul 2026 23:02:25 GMT"
       },
       {
         "title": "Twelve arrested over alleged right-wing terror threat to UK Islamic event, police say",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 13 Jul 2026 17:31:54 GMT"
-      },
-      {
-        "title": "Burnham cements Labour leadership with backing of 349 MPs",
-        "url": "https://www.bbc.co.uk/news/articles/c05y3rj09qqo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 13 Jul 2026 21:11:08 GMT"
       }
     ],
     "projects": [
