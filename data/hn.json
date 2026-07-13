@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-13T13:39:57.979Z"
+    "built_at": "2026-07-13T14:57:40.166Z"
   },
-  "items": [
-    {
-      "title": "Card-type tool to support divergent thinking to embody beneﬁts of inconvenience",
-      "url": "https://www.researchgate.net/publication/279855476_Card-type_tool_to_support_divergent_thinking_for_embodying_benefits_of_inconvenience",
-      "date": "2026-07-13T13:37:00.000Z"
-    },
-    {
-      "title": "Grok CLI uploaded the whole home directory to GCS",
-      "url": "https://twitter.com/i/status/2076598897779020159",
-      "date": "2026-07-13T13:35:32.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
