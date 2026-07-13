@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-13T21:24:19.066Z",
-  "updated_local": "7/13/2026, 9:24:19 PM",
+  "updated_iso": "2026-07-13T22:19:50.309Z",
+  "updated_local": "7/13/2026, 10:19:50 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause",
+        "url": "https://decrypt.co/373433/stop-ai-protest-openai-anthropic-google-deepmind",
+        "source": "crypto",
+        "time": "Mon, 13 Jul 2026 22:11:05 +0000"
+      },
       {
         "title": "New Hampshire Follows Bitcoin Reserve With &#39;Blockchain Basic Laws&#39; Signing",
         "url": "https://decrypt.co/373424/new-hampshire-bitcoin-reserve-blockchain-basic-laws-signing",
@@ -26,26 +32,14 @@
         "url": "https://decrypt.co/373410/bolivia-considering-tether-usdt-stablecoin-national-payments-system",
         "source": "crypto",
         "time": "Mon, 13 Jul 2026 18:57:19 +0000"
-      },
-      {
-        "title": "&#39;The Odyssey&#39; Director Chris Nolan: Young Audiences are Rejecting &#39;AI Slop&#39;",
-        "url": "https://decrypt.co/373401/the-odyssey-director-chris-nolan-ai-slop",
-        "source": "crypto",
-        "time": "Mon, 13 Jul 2026 17:16:44 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Samsung will delete your health data if you don't let them use it to train AI",
-        "url": "https://neow.in/cWsyMTV3",
+        "title": "Telegram's t.me domain has been suspended",
+        "url": "https://www.whois.com/whois/t.me",
         "source": "hn",
-        "time": "7/13/2026, 8:01:43 PM"
-      },
-      {
-        "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-        "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-        "source": "hn",
-        "time": "7/13/2026, 4:06:08 PM"
+        "time": "7/13/2026, 7:52:25 PM"
       },
       {
         "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
@@ -54,16 +48,22 @@
         "time": "7/13/2026, 6:22:16 PM"
       },
       {
-        "title": "The real prices of frontier models. Tokens * Price, right?",
-        "url": "https://playcode.io/blog/real-price-of-frontier-models",
+        "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+        "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
         "source": "hn",
-        "time": "7/13/2026, 6:32:27 PM"
+        "time": "7/13/2026, 4:06:08 PM"
       },
       {
         "title": "Climate.gov was destroyed. Open data saved it",
         "url": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
         "source": "hn",
         "time": "7/13/2026, 7:57:55 PM"
+      },
+      {
+        "title": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
+        "url": "https://github.com/Poseidon-fan/linux-0.11-rs",
+        "source": "hn",
+        "time": "7/13/2026, 8:11:29 PM"
       }
     ],
     "world": [
@@ -71,13 +71,13 @@
         "title": "Ann Widdecombe suspect not known to Prevent as counter terrorism police take over investigation",
         "url": "https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 13 Jul 2026 17:38:06 GMT"
+        "time": "Mon, 13 Jul 2026 21:26:28 GMT"
       },
       {
         "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
         "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 13 Jul 2026 20:57:08 GMT"
+        "time": "Mon, 13 Jul 2026 21:46:06 GMT"
       },
       {
         "title": "Twelve arrested over alleged right-wing terror threat to UK Islamic event, police say",
