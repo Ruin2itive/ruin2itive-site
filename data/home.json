@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-13T18:39:24.429Z",
-  "updated_local": "7/13/2026, 6:39:24 PM",
+  "updated_iso": "2026-07-13T19:30:57.507Z",
+  "updated_local": "7/13/2026, 7:30:57 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bolivia Is Considering Adding Tether&#39;s USDT Stablecoin to National Payments System: Report",
+        "url": "https://decrypt.co/373410/bolivia-considering-tether-usdt-stablecoin-national-payments-system",
+        "source": "crypto",
+        "time": "Mon, 13 Jul 2026 18:57:19 +0000"
+      },
       {
         "title": "&#39;The Odyssey&#39; Director Chris Nolan: Young Audiences are Rejecting &#39;AI Slop&#39;",
         "url": "https://decrypt.co/373401/the-odyssey-director-chris-nolan-ai-slop",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/373392/bitmine-buys-49-million-ethereum-tom-lee-hails-robinhood-chain-demand",
         "source": "crypto",
         "time": "Mon, 13 Jul 2026 15:22:10 +0000"
-      },
-      {
-        "title": "Strategy Pads Cash Reserves to $3 Billion, Skipping Bitcoin Buy for Third Week",
-        "url": "https://decrypt.co/373381/strategy-pads-cash-reserves-3-billion-skipping-bitcoin-buy-third-week",
-        "source": "crypto",
-        "time": "Mon, 13 Jul 2026 14:09:38 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,16 @@
         "time": "7/13/2026, 4:06:08 PM"
       },
       {
-        "title": "xAI's Grok Build CLI Uploads Git Repositories to a Google Cloud Bucket",
-        "url": "https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/",
+        "title": "Show HN: Super Dario",
+        "url": "https://superdario.pawb.de",
         "source": "hn",
-        "time": "7/13/2026, 6:10:23 PM"
+        "time": "7/13/2026, 5:53:52 PM"
+      },
+      {
+        "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+        "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+        "source": "hn",
+        "time": "7/13/2026, 6:22:16 PM"
       },
       {
         "title": "The art and engineering of Sega CD Silpheed",
@@ -54,16 +60,10 @@
         "time": "7/13/2026, 2:52:33 PM"
       },
       {
-        "title": "Show HN: Super Dario",
-        "url": "https://superdario.pawb.de",
+        "title": "The real prices of frontier models. Tokens * Price, right?",
+        "url": "https://playcode.io/blog/real-price-of-frontier-models",
         "source": "hn",
-        "time": "7/13/2026, 5:53:52 PM"
-      },
-      {
-        "title": "Logseq 2.0 Beta (DB version) is here",
-        "url": "https://github.com/logseq/logseq/releases",
-        "source": "hn",
-        "time": "7/13/2026, 5:49:49 PM"
+        "time": "7/13/2026, 6:32:27 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Mon, 13 Jul 2026 17:31:54 GMT"
       },
       {
-        "title": "Heatwave to intensify in second week as wildfires burn across UK",
-        "url": "https://www.bbc.co.uk/weather/articles/c0jyx16ww8jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 13 Jul 2026 10:04:04 GMT"
-      },
-      {
         "title": "Burnham cements Labour leadership with backing of 349 MPs",
         "url": "https://www.bbc.co.uk/news/articles/c05y3rj09qqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 13 Jul 2026 18:26:27 GMT"
+      },
+      {
+        "title": "Heatwave to intensify in second week as wildfires burn across UK",
+        "url": "https://www.bbc.co.uk/weather/articles/c0jyx16ww8jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 13 Jul 2026 10:04:04 GMT"
       }
     ],
     "projects": [
