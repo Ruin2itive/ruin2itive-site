@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-13T01:33:07.166Z"
+    "built_at": "2026-07-13T03:01:49.358Z"
   },
-  "items": [
-    {
-      "title": "Tinier – Image compress, convert and AI-upscale, 100% in the browser",
-      "url": "https://tinier.app/",
-      "date": "2026-07-13T01:32:23.000Z"
-    },
-    {
-      "title": "Temporarily removing the 5 hour usage limit restriction for all paid Codex plans",
-      "url": "https://xcancel.com/thsottiaux/status/2076365965915467978#m",
-      "date": "2026-07-13T01:26:19.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
