@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-13T09:03:24.172Z"
+    "built_at": "2026-07-13T11:00:43.292Z"
   },
-  "items": [
-    {
-      "title": "Show HN: GGUFun, play snake and a simple maze on Ollama using hand crafted GGUFs",
-      "url": "https://ggufun.grokked.it",
-      "date": "2026-07-13T09:03:03.000Z"
-    },
-    {
-      "title": "The Human Cost of DOGE's War on Usa.i.d",
-      "url": "https://www.newyorker.com/news/the-new-yorker-interview/the-human-cost-of-doges-war-on-usaid",
-      "date": "2026-07-13T09:02:40.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
