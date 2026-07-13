@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-13T03:13:44.589Z",
-  "updated_local": "7/13/2026, 3:13:44 AM",
+  "updated_iso": "2026-07-13T05:11:13.491Z",
+  "updated_local": "7/13/2026, 5:11:13 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
-        "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-        "source": "hn",
-        "time": "7/12/2026, 9:12:11 PM"
-      },
-      {
         "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
         "url": "https://nebusec.ai/research/ionstack-part-2/",
         "source": "hn",
@@ -60,24 +54,30 @@
         "time": "7/12/2026, 8:23:05 PM"
       },
       {
-        "title": "Designing and assembling my first PCB",
-        "url": "https://vilkeliskis.com/b/2026/0711.html",
+        "title": "So you want to learn physics (second edition, 2021)",
+        "url": "https://www.susanrigetti.com/physics",
         "source": "hn",
-        "time": "7/12/2026, 10:56:56 PM"
+        "time": "7/8/2026, 3:28:00 AM"
       }
     ],
     "world": [
+      {
+        "title": "Mahmood to set out plan to deport grooming gang leader",
+        "url": "https://www.bbc.co.uk/news/articles/ce8m9615dqlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 13 Jul 2026 04:23:56 GMT"
+      },
+      {
+        "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
+        "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 13 Jul 2026 05:00:46 GMT"
+      },
       {
         "title": "At least 27 killed, eight critically injured in Bangkok bar fire",
         "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 13 Jul 2026 02:28:35 GMT"
-      },
-      {
-        "title": "Police say no suggestion of political motive in Widdecombe killing after new arrest",
-        "url": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 13 Jul 2026 01:43:08 GMT"
       },
       {
         "title": "Thousands may have died in UK's exceptional May and June heatwaves",
@@ -90,12 +90,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cn8qzlvlz81o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 12 Jul 2026 23:49:28 GMT"
-      },
-      {
-        "title": "British couple return to village at heart of deadly Spanish wildfire",
-        "url": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 13 Jul 2026 00:29:21 GMT"
       }
     ],
     "projects": [
