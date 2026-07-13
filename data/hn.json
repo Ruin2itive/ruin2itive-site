@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-13T11:00:43.292Z"
+    "built_at": "2026-07-13T12:47:25.882Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "\"Houston, we have 1 problem(s).\"",
+      "url": "https://unsung.aresluna.org/houston-we-have-1-problems/",
+      "date": "2026-07-13T12:46:55.000Z"
+    },
+    {
+      "title": "Anduril CEO Warns AI and Defense Valuations Are Becoming Dangerously Overvalued",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anduril-ceo-warns-ai-defense-180112499.html",
+      "date": "2026-07-13T12:45:03.000Z"
+    }
+  ]
 }
