@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-12T23:16:54.135Z"
+    "built_at": "2026-07-13T00:25:34.770Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "MacKenzie Scott's Giving, in Quality-Adjusted Life Years (QALYs)",
+      "url": "https://maxghenis.com/mackenzie-scott-qaly/",
+      "date": "2026-07-13T00:18:16.000Z"
+    },
+    {
+      "title": "Performant C/CUDA inference engine for Qwen 3.6 35B on RTX 5090 / Blackwell",
+      "url": "https://github.com/ambud/q36",
+      "date": "2026-07-13T00:13:20.000Z"
+    }
+  ]
 }
