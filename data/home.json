@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-14T19:34:00.553Z",
-  "updated_local": "7/14/2026, 7:34:00 PM",
+  "updated_iso": "2026-07-14T20:26:03.692Z",
+  "updated_local": "7/14/2026, 8:26:03 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire",
+        "url": "https://decrypt.co/373511/deepmind-ceo-agi-bigger-than-electricity-fire",
+        "source": "crypto",
+        "time": "Tue, 14 Jul 2026 19:57:49 +0000"
+      },
       {
         "title": "Bitcoin Ticks Up to $64K Following Largest Inflation Slowdown in Six Years",
         "url": "https://decrypt.co/373488/bitcoin-ticks-up-to-64k-following-largest-inflation-slowdown-in-six-years",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/373463/us-government-moves-288m-in-seized-crypto-to-coinbase-prime",
         "source": "crypto",
         "time": "Tue, 14 Jul 2026 11:08:43 +0000"
-      },
-      {
-        "title": "Stop Over-Prompting: OpenAI’s New GPT-5.6 Guidelines Change Everything",
-        "url": "https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
-        "source": "crypto",
-        "time": "Mon, 13 Jul 2026 22:46:04 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-        "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-        "source": "hn",
-        "time": "7/14/2026, 4:36:06 PM"
-      },
       {
         "title": "The Tower Keeps Rising",
         "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
@@ -48,7 +42,7 @@
         "time": "7/14/2026, 4:57:54 PM"
       },
       {
-        "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+        "title": "Bonsai 27B: A 27B-Class Model that runs on a phone",
         "url": "https://prismml.com/news/bonsai-27b",
         "source": "hn",
         "time": "7/14/2026, 5:50:48 PM"
@@ -58,6 +52,12 @@
         "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
         "source": "hn",
         "time": "7/11/2026, 8:21:27 AM"
+      },
+      {
+        "title": "The largest available Minecraft world, totalling 15 TB",
+        "url": "https://2b2t.place/1million",
+        "source": "hn",
+        "time": "7/11/2026, 2:32:19 PM"
       },
       {
         "title": "How to stop Claude from saying load-bearing",
@@ -74,10 +74,10 @@
         "time": "Tue, 14 Jul 2026 18:07:08 GMT"
       },
       {
-        "title": "Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports",
+        "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
         "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 14 Jul 2026 16:54:46 GMT"
+        "time": "Tue, 14 Jul 2026 20:10:37 GMT"
       },
       {
         "title": "Starmer and Burnham hail Hillsborough Law as MPs give approval",
@@ -92,10 +92,10 @@
         "time": "Tue, 14 Jul 2026 12:19:47 GMT"
       },
       {
-        "title": "Tyrannosaurus rex most expensive dinosaur ever sold",
-        "url": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK wasted £10bn on PPE that left NHS staff poorly protected, Covid inquiry finds",
+        "url": "https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 14 Jul 2026 15:37:52 GMT"
+        "time": "Tue, 14 Jul 2026 12:12:53 GMT"
       }
     ],
     "projects": [
