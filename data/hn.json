@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-14T07:33:16.393Z"
+    "built_at": "2026-07-14T08:42:35.178Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "SensorFM: Towards a general intelligence and interface for wearable health data",
+      "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/",
+      "date": "2026-07-14T08:39:40.000Z"
+    },
+    {
+      "title": "I Married a Communist",
+      "url": "https://cinemasojourns.com/2026/07/13/i-married-a-communist/",
+      "date": "2026-07-14T08:38:22.000Z"
+    }
+  ]
 }
