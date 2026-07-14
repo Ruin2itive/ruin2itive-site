@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-14T10:37:45.241Z",
-  "updated_local": "7/14/2026, 10:37:45 AM",
+  "updated_iso": "2026-07-14T11:30:46.802Z",
+  "updated_local": "7/14/2026, 11:30:46 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "US Government Moves $288M in Seized Crypto to Coinbase Prime",
+        "url": "https://decrypt.co/373463/us-government-moves-288m-in-seized-crypto-to-coinbase-prime",
+        "source": "crypto",
+        "time": "Tue, 14 Jul 2026 11:08:43 +0000"
+      },
       {
         "title": "Stop Over-Prompting: OpenAI’s New GPT-5.6 Guidelines Change Everything",
         "url": "https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/373422/anthropic-claude-personality-changes-model-language",
         "source": "crypto",
         "time": "Mon, 13 Jul 2026 20:39:53 +0000"
-      },
-      {
-        "title": "Democratic Opposition to Clarity Act Grows in Crypto Bill&#39;s Do-or-Die Final Weeks",
-        "url": "https://decrypt.co/373419/democratic-opposition-clarity-act-grows-crypto-bill-final-weeks",
-        "source": "crypto",
-        "time": "Mon, 13 Jul 2026 20:15:24 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Codex starts encrypting prompts, uses ciphertext for inference instead",
+        "url": "https://github.com/openai/codex/issues/28058",
+        "source": "hn",
+        "time": "7/14/2026, 11:21:32 AM"
+      },
       {
         "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
         "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
@@ -48,54 +54,48 @@
         "time": "7/14/2026, 8:24:49 AM"
       },
       {
-        "title": "Australian energy retailers must provide three hours of free daytime electricity",
-        "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+        "title": "The great digital fatigue: How digital burnout is changing social media use",
+        "url": "https://blog.incogni.com/digital-fatigue-and-burnout/",
         "source": "hn",
-        "time": "7/14/2026, 4:31:48 AM"
+        "time": "7/14/2026, 10:58:38 AM"
       },
       {
-        "title": "The git history command",
-        "url": "https://lalitm.com/post/git-history/",
+        "title": "Your 'App' Could Have Been a Webpage (so I fixed it for you)",
+        "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
         "source": "hn",
-        "time": "7/14/2026, 12:57:11 AM"
-      },
-      {
-        "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-        "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-        "source": "hn",
-        "time": "7/14/2026, 6:43:28 AM"
+        "time": "7/11/2026, 8:21:27 AM"
       }
     ],
     "world": [
       {
-        "title": "Ann Widdecombe suspect not known to Prevent as counter terrorism police take over investigation",
-        "url": "https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "PPE failures left NHS staff poorly protected and wasted £10bn, Covid inquiry finds",
+        "url": "https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 13 Jul 2026 21:26:28 GMT"
+        "time": "Tue, 14 Jul 2026 11:23:13 GMT"
       },
       {
-        "title": "Mason: Widdecombe's death renews debate over protection of politicians",
-        "url": "https://www.bbc.co.uk/news/articles/cvgdgx01y98o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Scott Mills was highest paid BBC star before sacking",
+        "url": "https://www.bbc.co.uk/news/articles/c4gynyz4wqpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 14 Jul 2026 05:10:25 GMT"
+        "time": "Tue, 14 Jul 2026 11:00:25 GMT"
+      },
+      {
+        "title": "Police continue to question suspect over Ann Widdecombe murder",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzyr3np8xo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 14 Jul 2026 10:34:58 GMT"
+      },
+      {
+        "title": "Government failing Farage over security, says Jenrick",
+        "url": "https://www.bbc.co.uk/news/articles/c4gyg9452qlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 14 Jul 2026 10:51:19 GMT"
       },
       {
         "title": "Wildfires burn across UK as fire chiefs warn of extreme pressure",
         "url": "https://www.bbc.co.uk/news/articles/cwyey14r4wzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 14 Jul 2026 10:36:16 GMT"
-      },
-      {
-        "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
-        "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 14 Jul 2026 09:40:23 GMT"
-      },
-      {
-        "title": "The mysterious crypto firm backed by Farage's biggest donor",
-        "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 13 Jul 2026 23:00:59 GMT"
+        "time": "Tue, 14 Jul 2026 11:15:00 GMT"
       }
     ],
     "projects": [
