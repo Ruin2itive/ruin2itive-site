@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-14T12:25:42.456Z"
+    "built_at": "2026-07-14T13:31:12.496Z"
   },
-  "items": [
-    {
-      "title": "Show HN: 3D printer simulator with in browser firmware execution",
-      "url": "https://github.com/Kodoque1/rextrude",
-      "date": "2026-07-14T12:24:49.000Z"
-    },
-    {
-      "title": "I automated the $2k investing course into a daily ticker alert",
-      "url": "https://www.secretfig.com/",
-      "date": "2026-07-14T12:24:47.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
