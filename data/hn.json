@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-14T13:31:12.496Z"
+    "built_at": "2026-07-14T15:28:56.520Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
+      "url": "https://www.reuters.com/business/ibm-expects-second-quarter-revenue-below-estimates-2026-07-14/",
+      "date": "2026-07-14T15:26:58.000Z"
+    },
+    {
+      "title": "The Reverse Information Paradox",
+      "url": "https://snscratchpad.com/posts/reverse-information-paradox/",
+      "date": "2026-07-14T15:26:56.000Z"
+    }
+  ]
 }
