@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-14T11:34:42.119Z",
-  "updated_local": "7/14/2026, 11:34:42 AM",
+  "updated_iso": "2026-07-14T12:29:17.302Z",
+  "updated_local": "7/14/2026, 12:29:17 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Saylor&#39;s Strategy Hoards Cash, Doesn&#39;t Buy BTC",
+        "url": "https://decrypt.co/373466/morning-minute-saylors-strategy-hoards-cash-doesnt-buy-btc",
+        "source": "crypto",
+        "time": "Tue, 14 Jul 2026 12:13:05 +0000"
+      },
       {
         "title": "US Government Moves $288M in Seized Crypto to Coinbase Prime",
         "url": "https://decrypt.co/373463/us-government-moves-288m-in-seized-crypto-to-coinbase-prime",
@@ -26,20 +32,20 @@
         "url": "https://decrypt.co/373424/new-hampshire-bitcoin-reserve-blockchain-basic-laws-signing",
         "source": "crypto",
         "time": "Mon, 13 Jul 2026 20:57:09 +0000"
-      },
-      {
-        "title": "Claude&#39;s Personality Changes Depending on the Model—And the Language You Speak",
-        "url": "https://decrypt.co/373422/anthropic-claude-personality-changes-model-language",
-        "source": "crypto",
-        "time": "Mon, 13 Jul 2026 20:39:53 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Codex starts encrypting prompts, uses ciphertext for inference instead",
+        "title": "Codex starts encrypting sub-agent prompts",
         "url": "https://github.com/openai/codex/issues/28058",
         "source": "hn",
         "time": "7/14/2026, 11:21:32 AM"
+      },
+      {
+        "title": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
+        "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+        "source": "hn",
+        "time": "7/14/2026, 11:30:36 AM"
       },
       {
         "title": "The Future Worth Building Is Human – Thinking Machines Lab",
@@ -48,22 +54,16 @@
         "time": "7/14/2026, 11:05:27 AM"
       },
       {
-        "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-        "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-        "source": "hn",
-        "time": "7/14/2026, 2:27:20 AM"
-      },
-      {
-        "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
-        "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
-        "source": "hn",
-        "time": "7/14/2026, 8:24:49 AM"
-      },
-      {
         "title": "Your 'App' Could Have Been a Webpage (so I fixed it for you)",
         "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
         "source": "hn",
         "time": "7/11/2026, 8:21:27 AM"
+      },
+      {
+        "title": "The great digital fatigue: How digital burnout is changing social media use",
+        "url": "https://blog.incogni.com/digital-fatigue-and-burnout/",
+        "source": "hn",
+        "time": "7/14/2026, 10:58:38 AM"
       }
     ],
     "world": [
@@ -71,16 +71,16 @@
         "title": "PPE failures left NHS staff poorly protected and wasted £10bn, Covid inquiry finds",
         "url": "https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 14 Jul 2026 11:23:13 GMT"
+        "time": "Tue, 14 Jul 2026 12:12:53 GMT"
       },
       {
         "title": "Scott Mills was highest paid BBC star before sacking",
         "url": "https://www.bbc.co.uk/news/articles/c4gynyz4wqpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 14 Jul 2026 11:00:25 GMT"
+        "time": "Tue, 14 Jul 2026 12:19:47 GMT"
       },
       {
-        "title": "Police continue to question suspect over Ann Widdecombe murder",
+        "title": "Police continue to question murder suspect over Ann Widdecombe's killing",
         "url": "https://www.bbc.co.uk/news/articles/c5yzyr3np8xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 14 Jul 2026 10:34:58 GMT"
@@ -89,10 +89,10 @@
         "title": "Government failing Farage over security, says Jenrick",
         "url": "https://www.bbc.co.uk/news/articles/c4gyg9452qlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 14 Jul 2026 10:51:19 GMT"
+        "time": "Tue, 14 Jul 2026 12:13:32 GMT"
       },
       {
-        "title": "Wildfires burn across UK as fire chiefs warn of extreme pressure",
+        "title": "Wildfires burn in parts of UK as fire chiefs warn of extreme pressure",
         "url": "https://www.bbc.co.uk/news/articles/cwyey14r4wzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 14 Jul 2026 11:15:00 GMT"
