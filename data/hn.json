@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-13T23:18:13.856Z"
+    "built_at": "2026-07-14T00:22:54.414Z"
   },
-  "items": [
-    {
-      "title": "Private, offline-first notes for people who write Markdown,and code",
-      "url": "https://github.com/dsbitor/technotes-releases/",
-      "date": "2026-07-13T23:16:44.000Z"
-    },
-    {
-      "title": "The AI Whale Fall and Open Source",
-      "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
-      "date": "2026-07-13T23:16:42.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
