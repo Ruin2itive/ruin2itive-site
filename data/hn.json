@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-14T06:42:23.388Z"
+    "built_at": "2026-07-14T07:33:16.393Z"
   },
-  "items": [
-    {
-      "title": "There's an Ancient Solution to Our Modern Crisis of Attention",
-      "url": "https://www.nytimes.com/2026/07/12/opinion/attention-crisis-seneca.html",
-      "date": "2026-07-14T06:41:28.000Z"
-    },
-    {
-      "title": "Netflix accidentally shipped a Claude.md file",
-      "url": "https://www.reddit.com/r/AgentsOfAI/s/GYaEDTim0U",
-      "date": "2026-07-14T06:39:56.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
