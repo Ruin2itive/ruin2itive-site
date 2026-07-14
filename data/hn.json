@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-14T18:22:01.271Z"
+    "built_at": "2026-07-14T19:29:04.480Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The Turing Window: The Shelf Life of an AI-Ism",
+      "url": "https://www.manveerbhullar.com/writing/turing-window-ai/",
+      "date": "2026-07-14T19:28:21.000Z"
+    },
+    {
+      "title": "Coding Agents Are Arguing. Hand Them the Same Playbook",
+      "url": "https://crushingcode.nisrulz.com/blog/your-coding-agents-are-arguing-hand-them-the-same-playbook/",
+      "date": "2026-07-14T19:28:11.000Z"
+    }
+  ]
 }
