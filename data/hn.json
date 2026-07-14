@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-14T10:31:56.557Z"
+    "built_at": "2026-07-14T11:29:06.401Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: A Win32 and DirectX runtime for running old games in the browser",
+      "url": "https://bottleship.happydog.games/",
+      "date": "2026-07-14T11:25:40.000Z"
+    },
+    {
+      "title": "6status: IPv4/v6 dual stack status board",
+      "url": "https://forge.sumit.im/djsumdog/6status",
+      "date": "2026-07-14T11:24:16.000Z"
+    }
+  ]
 }
