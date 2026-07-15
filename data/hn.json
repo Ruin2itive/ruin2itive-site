@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-15T08:45:32.342Z"
+    "built_at": "2026-07-15T09:36:02.345Z"
   },
-  "items": [
-    {
-      "title": "Write in your native language, ship in English",
-      "url": "https://www.echoo.ai/blog/write-2x-faster-in-your-native-language",
-      "date": "2026-07-15T08:43:53.000Z"
-    },
-    {
-      "title": "Show HN: VSCode Inline Comments with MCP",
-      "url": "https://github.com/gabi-a/inline-comments",
-      "date": "2026-07-15T08:42:02.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
