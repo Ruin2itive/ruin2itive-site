@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-15T14:32:54.649Z"
+    "built_at": "2026-07-15T15:29:53.447Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "You have a strong password. Here's why your online accounts are still at risk",
+      "url": "https://www.androidauthority.com/strong-password-not-enough-online-security-why-3686495/",
+      "date": "2026-07-15T15:29:12.000Z"
+    },
+    {
+      "title": "Show HN: Zoable game. Solve it cheaply",
+      "url": "https://zoable-game.com/?s=WDgdSiHyV67W_yEQTpWNUKB7HZF1xHI",
+      "date": "2026-07-15T15:28:45.000Z"
+    }
+  ]
 }
