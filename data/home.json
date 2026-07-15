@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-15T22:25:07.305Z",
-  "updated_local": "7/15/2026, 10:25:07 PM",
+  "updated_iso": "2026-07-15T23:20:57.914Z",
+  "updated_local": "7/15/2026, 11:20:57 PM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,16 @@
         "time": "7/15/2026, 6:12:45 PM"
       },
       {
-        "title": "Grok Build",
+        "title": "SQLite should have (Rust-style) editions",
+        "url": "https://mort.coffee/home/sqlite-editions/",
+        "source": "hn",
+        "time": "7/15/2026, 10:42:58 PM"
+      },
+      {
+        "title": "Grok Build is open source",
         "url": "https://github.com/xai-org/grok-build",
         "source": "hn",
         "time": "7/15/2026, 8:24:58 PM"
-      },
-      {
-        "title": "Show HN: Firefox in WebAssembly",
-        "url": "https://developer.puter.com/labs/firefox-wasm/",
-        "source": "hn",
-        "time": "7/15/2026, 9:00:17 PM"
       },
       {
         "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
@@ -60,13 +60,25 @@
         "time": "7/15/2026, 9:39:21 PM"
       },
       {
-        "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
-        "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+        "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+        "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
         "source": "hn",
-        "time": "7/15/2026, 3:32:45 AM"
+        "time": "7/15/2026, 9:16:36 PM"
       }
     ],
     "world": [
+      {
+        "title": "William tells England to 'hold their heads high' after defeat",
+        "url": "https://www.bbc.co.uk/news/articles/c5y68dgnylxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 15 Jul 2026 22:33:43 GMT"
+      },
+      {
+        "title": "Argentina fans celebrate World Cup win over England",
+        "url": "https://www.bbc.co.uk/news/videos/c235lvr13vpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 15 Jul 2026 21:58:36 GMT"
+      },
       {
         "title": "Starmer says it's the 'end of my political journey' at his final Prime Minister's Questions",
         "url": "https://www.bbc.co.uk/news/articles/c5yzynxwk05o?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +92,10 @@
         "time": "Wed, 15 Jul 2026 17:13:06 GMT"
       },
       {
-        "title": "French MPs approve assisted dying law with strict rules after years of argument",
-        "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 15 Jul 2026 17:29:26 GMT"
-      },
-      {
         "title": "Man arrested over social media post threatening to shoot Farage",
         "url": "https://www.bbc.co.uk/news/articles/c8r2r76vnd1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 15 Jul 2026 15:27:01 GMT"
-      },
-      {
-        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 15 Jul 2026 21:55:04 GMT"
       }
     ],
     "projects": [
