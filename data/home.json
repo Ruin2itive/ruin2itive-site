@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-15T21:25:02.174Z",
-  "updated_local": "7/15/2026, 9:25:02 PM",
+  "updated_iso": "2026-07-15T22:21:15.206Z",
+  "updated_local": "7/15/2026, 10:21:15 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Why Analysts Aren’t Worried About Coinbase’s 30% Drop",
+        "url": "https://decrypt.co/373615/analysts-arent-worried-coinbase-drop",
+        "source": "crypto",
+        "time": "Wed, 15 Jul 2026 21:38:43 +0000"
+      },
       {
         "title": "OpenAI Uses AI Red Team to Strengthen GPT-5.6 Against Prompt Injection Attacks",
         "url": "https://decrypt.co/373613/openai-ai-red-team-strengthen-gpt-5-6-prompt-injection-attacks",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/373574/base-jesse-pollak-steps-back-social-bet-wrong",
         "source": "crypto",
         "time": "Wed, 15 Jul 2026 18:50:55 +0000"
-      },
-      {
-        "title": "BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try",
-        "url": "https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks",
-        "source": "crypto",
-        "time": "Wed, 15 Jul 2026 18:02:06 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "7/15/2026, 3:32:45 AM"
       },
       {
-        "title": "Duskers, the scary command line game, is getting a sequel",
-        "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+        "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
+        "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
         "source": "hn",
-        "time": "7/15/2026, 7:27:59 PM"
+        "time": "7/15/2026, 9:39:21 PM"
       },
       {
-        "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-        "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+        "title": "Show HN: Firefox in WebAssembly",
+        "url": "https://developer.puter.com/labs/firefox-wasm/",
         "source": "hn",
-        "time": "7/15/2026, 3:34:05 PM"
+        "time": "7/15/2026, 9:00:17 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Wed, 15 Jul 2026 15:27:01 GMT"
       },
       {
-        "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
         "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 15 Jul 2026 18:41:21 GMT"
+        "time": "Wed, 15 Jul 2026 21:55:04 GMT"
       }
     ],
     "projects": [
