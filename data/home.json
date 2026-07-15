@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-07-15T16:36:56.150Z",
-  "updated_local": "7/15/2026, 4:36:56 PM",
+  "updated_iso": "2026-07-15T17:29:33.428Z",
+  "updated_local": "7/15/2026, 5:29:33 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Another DeFi Exploit: Perp DEX Ostium Loses $18 Million in Oracle Attack",
+        "url": "https://decrypt.co/373566/defi-exploit-ostium-oracle-hack",
+        "source": "crypto",
+        "time": "Wed, 15 Jul 2026 17:01:25 +0000"
+      },
+      {
+        "title": "US Treasury Freezes $131 Million in Iran-Linked Crypto Wallets",
+        "url": "https://decrypt.co/373565/us-treasury-freezes-131-million-iran-crypto",
+        "source": "crypto",
+        "time": "Wed, 15 Jul 2026 16:54:14 +0000"
+      },
       {
         "title": "Bitcoin Breaks Heavy Resistance—But Death Cross Looms: Analysis",
         "url": "https://decrypt.co/373545/bitcoin-price-heavy-resistance-death-cross-looms",
@@ -20,26 +32,14 @@
         "url": "https://decrypt.co/373535/morning-minute-crypto-rips-on-cool-cpi",
         "source": "crypto",
         "time": "Wed, 15 Jul 2026 12:26:45 +0000"
-      },
-      {
-        "title": "UK Fraud Review Calls for Judge Training on Crypto Laundering, AI Scams",
-        "url": "https://decrypt.co/373528/uk-fraud-review-calls-for-judge-training-on-crypto-laundering-ai-scams",
-        "source": "crypto",
-        "time": "Wed, 15 Jul 2026 12:15:31 +0000"
-      },
-      {
-        "title": "Team Behind Ethereum&#39;s Institutional Privacy Push Spins Out For-Profit Firm EthSystems",
-        "url": "https://decrypt.co/373523/team-behind-ethereums-institutional-privacy-push-spins-out-for-profit-firm-ethsystems",
-        "source": "crypto",
-        "time": "Wed, 15 Jul 2026 11:12:45 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
-        "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+        "title": "Primate Is the Last Great Web Framework",
+        "url": "https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html",
         "source": "hn",
-        "time": "7/15/2026, 11:46:06 AM"
+        "time": "7/15/2026, 4:35:38 PM"
       },
       {
         "title": "Mysteries of Telegram Data Centers",
@@ -48,22 +48,22 @@
         "time": "7/15/2026, 1:22:00 PM"
       },
       {
-        "title": "J-space comparisons across open models",
-        "url": "https://eliebak.com/viz/jspace-open-v2",
+        "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+        "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
         "source": "hn",
-        "time": "7/15/2026, 3:57:16 PM"
+        "time": "7/15/2026, 3:34:05 PM"
       },
       {
-        "title": "Prioritize mental health, and why communication is so important",
-        "url": "https://ramones.dev/posts/mental-health/",
+        "title": "Open-source memory for coding agents, synced over SSH",
+        "url": "https://github.com/vshulcz/deja-vu/",
         "source": "hn",
-        "time": "7/15/2026, 11:27:35 AM"
+        "time": "7/15/2026, 4:15:03 PM"
       },
       {
-        "title": "DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety",
-        "url": "https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public",
+        "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+        "url": "https://github.com/welcome-to-the-sunny-side/misa77",
         "source": "hn",
-        "time": "7/15/2026, 3:17:44 PM"
+        "time": "7/15/2026, 3:58:59 PM"
       }
     ],
     "world": [
@@ -74,10 +74,10 @@
         "time": "Wed, 15 Jul 2026 14:13:44 GMT"
       },
       {
-        "title": "Watch: Starmer's kind send-off across the Commons",
-        "url": "https://www.bbc.co.uk/news/videos/c36y66j142wo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Iain Watson: Burnham faces crucial choice for chancellor as battle for No 11 continues",
+        "url": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 15 Jul 2026 15:19:38 GMT"
+        "time": "Wed, 15 Jul 2026 17:13:06 GMT"
       },
       {
         "title": "Man arrested over social media post threatening to shoot Farage",
@@ -92,10 +92,10 @@
         "time": "Wed, 15 Jul 2026 12:26:38 GMT"
       },
       {
-        "title": "Three men who raped woman on Brighton beach jailed",
-        "url": "https://www.bbc.co.uk/news/articles/cyv0vqp04pgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Boy, 14, charged with terror offence targeting mosques",
+        "url": "https://www.bbc.co.uk/news/articles/czrjgmmx5rmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 15 Jul 2026 14:35:34 GMT"
+        "time": "Wed, 15 Jul 2026 17:26:52 GMT"
       }
     ],
     "projects": [
