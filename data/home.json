@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-15T20:27:12.961Z",
-  "updated_local": "7/15/2026, 8:27:12 PM",
+  "updated_iso": "2026-07-15T21:21:32.633Z",
+  "updated_local": "7/15/2026, 9:21:32 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Uses AI Red Team to Strengthen GPT-5.6 Against Prompt Injection Attacks",
+        "url": "https://decrypt.co/373613/openai-ai-red-team-strengthen-gpt-5-6-prompt-injection-attacks",
+        "source": "crypto",
+        "time": "Wed, 15 Jul 2026 20:50:11 +0000"
+      },
       {
         "title": "Meet Bonsai: The First 27B AI Model That Fits on Your Phone",
         "url": "https://decrypt.co/373578/meet-bonsai-first-27b-ai-model-fits-phone",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks",
         "source": "crypto",
         "time": "Wed, 15 Jul 2026 18:02:06 +0000"
-      },
-      {
-        "title": "Another DeFi Exploit: Perp DEX Ostium Loses $18 Million in Oracle Attack",
-        "url": "https://decrypt.co/373566/defi-exploit-ostium-oracle-hack",
-        "source": "crypto",
-        "time": "Wed, 15 Jul 2026 17:01:25 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "7/15/2026, 6:12:45 PM"
       },
       {
-        "title": "Duskers, the scary command line game, is getting a sequel",
-        "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+        "title": "Grok Build",
+        "url": "https://github.com/xai-org/grok-build",
         "source": "hn",
-        "time": "7/15/2026, 7:27:59 PM"
+        "time": "7/15/2026, 8:24:58 PM"
       },
       {
         "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
@@ -54,16 +54,16 @@
         "time": "7/15/2026, 3:32:45 AM"
       },
       {
+        "title": "Duskers, the scary command line game, is getting a sequel",
+        "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+        "source": "hn",
+        "time": "7/15/2026, 7:27:59 PM"
+      },
+      {
         "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
         "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
         "source": "hn",
         "time": "7/15/2026, 3:34:05 PM"
-      },
-      {
-        "title": "Collection of Digital Clock Designs",
-        "url": "https://clocks.dev",
-        "source": "hn",
-        "time": "7/15/2026, 4:33:15 PM"
       }
     ],
     "world": [
