@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-15T17:28:00.714Z"
+    "built_at": "2026-07-15T18:23:02.881Z"
   },
-  "items": [
-    {
-      "title": "Linus Torvalds Reaffirms That Linux Is Not \"Anti-AI\"",
-      "url": "https://www.phoronix.com/news/Linux-Is-Not-Anti-AI",
-      "date": "2026-07-15T17:25:39.000Z"
-    },
-    {
-      "title": "Modelplane",
-      "url": "https://modelplane.ai",
-      "date": "2026-07-15T17:20:25.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
