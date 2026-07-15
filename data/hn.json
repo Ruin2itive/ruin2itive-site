@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-15T21:19:59.397Z"
+    "built_at": "2026-07-15T22:19:15.478Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs",
+      "url": "https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/",
+      "date": "2026-07-15T22:18:24.000Z"
+    },
+    {
+      "title": "Autonomous Security – EDR for AI Agents",
+      "url": "https://a16y.ai",
+      "date": "2026-07-15T22:17:27.000Z"
+    }
+  ]
 }
