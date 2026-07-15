@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-07-15T19:31:45.783Z",
-  "updated_local": "7/15/2026, 7:31:45 PM",
+  "updated_iso": "2026-07-15T20:23:17.375Z",
+  "updated_local": "7/15/2026, 8:23:17 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Meet Bonsai: The First 27B AI Model That Fits on Your Phone",
+        "url": "https://decrypt.co/373578/meet-bonsai-first-27b-ai-model-fits-phone",
+        "source": "crypto",
+        "time": "Wed, 15 Jul 2026 19:55:41 +0000"
+      },
+      {
+        "title": "What Is BIP-110 and Why Is It Dividing the Bitcoin Community?",
+        "url": "https://decrypt.co/373577/what-is-bip-110-why-dividing-bitcoin-community",
+        "source": "crypto",
+        "time": "Wed, 15 Jul 2026 19:43:10 +0000"
+      },
       {
         "title": "Base Creator Jesse Pollak Steps Back From App Leadership After Admitting Social Bet &#39;Was Wrong&#39;",
         "url": "https://decrypt.co/373574/base-jesse-pollak-steps-back-social-bet-wrong",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/373566/defi-exploit-ostium-oracle-hack",
         "source": "crypto",
         "time": "Wed, 15 Jul 2026 17:01:25 +0000"
-      },
-      {
-        "title": "US Treasury Freezes $131 Million in Iran-Linked Crypto Wallets",
-        "url": "https://decrypt.co/373565/us-treasury-freezes-131-million-iran-crypto",
-        "source": "crypto",
-        "time": "Wed, 15 Jul 2026 16:54:14 +0000"
-      },
-      {
-        "title": "Bitcoin Breaks Heavy Resistance—But Death Cross Looms: Analysis",
-        "url": "https://decrypt.co/373545/bitcoin-price-heavy-resistance-death-cross-looms",
-        "source": "crypto",
-        "time": "Wed, 15 Jul 2026 16:05:19 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,10 @@
         "time": "7/15/2026, 6:12:45 PM"
       },
       {
-        "title": "Codex Micro",
-        "url": "https://openai.com/supply/co-lab/work-louder/",
+        "title": "Duskers, the scary command line game, is getting a sequel",
+        "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
         "source": "hn",
-        "time": "7/15/2026, 4:12:58 PM"
-      },
-      {
-        "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-        "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-        "source": "hn",
-        "time": "7/15/2026, 3:34:05 PM"
+        "time": "7/15/2026, 7:27:59 PM"
       },
       {
         "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
@@ -60,10 +54,16 @@
         "time": "7/15/2026, 3:32:45 AM"
       },
       {
-        "title": "Mysteries of Telegram Data Centers (2022)",
-        "url": "https://dev.moe/en/3025",
+        "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+        "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
         "source": "hn",
-        "time": "7/15/2026, 1:22:00 PM"
+        "time": "7/15/2026, 3:34:05 PM"
+      },
+      {
+        "title": "Collection of Digital Clock Designs",
+        "url": "https://clocks.dev",
+        "source": "hn",
+        "time": "7/15/2026, 4:33:15 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Wed, 15 Jul 2026 15:27:01 GMT"
       },
       {
-        "title": "UK's extreme weather is the new normal, Met Office says",
-        "url": "https://www.bbc.co.uk/news/articles/c802041g4v8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 15 Jul 2026 11:11:32 GMT"
+        "time": "Wed, 15 Jul 2026 18:41:21 GMT"
       }
     ],
     "projects": [
