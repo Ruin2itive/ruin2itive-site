@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-15T06:55:34.937Z",
-  "updated_local": "7/15/2026, 6:55:34 AM",
+  "updated_iso": "2026-07-15T07:37:25.269Z",
+  "updated_local": "7/15/2026, 7:37:25 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "I tricked Claude into leaking your deepest, darkest secrets",
+        "url": "https://www.ayush.digital/blog/the-memory-heist",
+        "source": "hn",
+        "time": "7/15/2026, 6:28:00 AM"
+      },
+      {
         "title": "Jurassic Park computers in excruciating detail",
         "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://prismml.com/news/bonsai-27b",
         "source": "hn",
         "time": "7/14/2026, 5:50:48 PM"
-      },
-      {
-        "title": "Andon (manufacturing)",
-        "url": "https://en.wikipedia.org/wiki/Andon_(manufacturing)",
-        "source": "hn",
-        "time": "7/11/2026, 7:49:07 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Midnight social media curfew proposed for older UK teenagers - but they can opt out",
         "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 14 Jul 2026 23:17:23 GMT"
+        "time": "Wed, 15 Jul 2026 07:17:22 GMT"
       },
       {
         "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
@@ -86,16 +86,16 @@
         "time": "Wed, 15 Jul 2026 05:02:16 GMT"
       },
       {
-        "title": "Spain into World Cup final with victory over France",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cq6160n8y71o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 14 Jul 2026 21:32:59 GMT"
-      },
-      {
         "title": "Review of MP security needed after Widdecombe death, Burnham says",
         "url": "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 14 Jul 2026 21:30:15 GMT"
+      },
+      {
+        "title": "Briton's Iran jail sentence extended by two years, family says",
+        "url": "https://www.bbc.co.uk/news/articles/c4gygp4pk31o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 15 Jul 2026 05:02:33 GMT"
       }
     ],
     "projects": [
