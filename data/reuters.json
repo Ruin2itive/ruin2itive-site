@@ -4,8 +4,18 @@
     "label": "reuters",
     "source_url": "https://news.google.com/rss/search?q=site%3Areuters.com%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
     "take": 2,
-    "built_at": "2026-07-15T11:30:06.398Z"
+    "built_at": "2026-07-15T12:27:26.281Z"
   },
-  "error": "HTTP 503",
-  "items": []
+  "items": [
+    {
+      "title": "Wall St futures tick up as investors weigh earnings; PayPal jumps - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUtNV3dNS0otQllnaU9ZVG83WlpzSDB0MlB4OVJFQ0V3QjRCT1BhbjRjMkdXeTFwbUwwczE2cVFkREhxSkpwZTJvZmZLUGtPYlk5Vk53cnlxSmdXZjgwb1JEZ284QmJ2SGlUSkgzRlZSQ1k4bzhaM0wzajRMbVV4bGZEaUtSOUFZVGxtRHlNYW5ucEtuRVA1Q3NpOWRXdExXYWNr?oc=5",
+      "date": "2026-07-15T11:25:09.000Z"
+    },
+    {
+      "title": "Trump to press defense executives to boost weapons production - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcV9kVWNrQTFVVGduNXIxcWdOWDZiWGFUcVFoelNYa05IS1IycGRQX19DRFZmai1tTXRTSXRTTmJiV19uVXBHVzU4ekVFTFRVNENuRUJCMmRwcGw1anEzTjFjT3NmZWhSSFBRQ0NxY1hzc21nYXNmNHQ4RkRGOUJGWVpncFNrRWNLcENkZk9LZzEtSWd4RGFydEk3Sm9COFF1Ri1FV0VXUVJkZk9VQWhQMmNLcHV6YlJudHc?oc=5",
+      "date": "2026-07-15T11:15:47.000Z"
+    }
+  ]
 }

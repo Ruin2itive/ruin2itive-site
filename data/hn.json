@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-15T11:29:58.165Z"
+    "built_at": "2026-07-15T12:27:25.667Z"
   },
-  "items": [
-    {
-      "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
-      "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo",
-      "date": "2026-07-15T11:28:18.000Z"
-    },
-    {
-      "title": "Prioritize mental health, and why communication is so important",
-      "url": "https://ramones.dev/posts/mental-health/",
-      "date": "2026-07-15T11:27:35.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
