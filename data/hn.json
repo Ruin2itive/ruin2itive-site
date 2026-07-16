@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-16T08:45:12.935Z"
+    "built_at": "2026-07-16T09:39:35.512Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "AI-Generated UI Is Inaccessible by Default",
+      "url": "https://master.dev/blog/ai-generated-ui-is-inaccessible-by-default/",
+      "date": "2026-07-16T09:38:32.000Z"
+    },
+    {
+      "title": "Uber Announces Acquisition Offer for Delivery Hero at $14.8B",
+      "url": "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Acquisition-Offer-for-Delivery-Hero/default.aspx",
+      "date": "2026-07-16T09:33:59.000Z"
+    }
+  ]
 }
