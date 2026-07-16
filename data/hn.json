@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-16T10:37:59.373Z"
+    "built_at": "2026-07-16T11:30:52.715Z"
   },
-  "items": [
-    {
-      "title": "Ente – Opening Our Books",
-      "url": "https://ente.com/open/",
-      "date": "2026-07-16T10:37:17.000Z"
-    },
-    {
-      "title": "Show HN: Skillful, stop maintaining the same AI workflow in five places",
-      "url": "https://skillful.md/",
-      "date": "2026-07-16T10:35:53.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
