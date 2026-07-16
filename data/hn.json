@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-16T13:31:25.489Z"
+    "built_at": "2026-07-16T14:38:53.596Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "wireplug.org – roaming and NAT traversal for WireGuard, written in Rust",
+      "url": "https://wireplug.org",
+      "date": "2026-07-16T14:38:05.000Z"
+    },
+    {
+      "title": "Show HN: Nous – give GTM agents one context graph across your tools",
+      "url": "https://github.com/NousC/opennous",
+      "date": "2026-07-16T14:36:37.000Z"
+    }
+  ]
 }
