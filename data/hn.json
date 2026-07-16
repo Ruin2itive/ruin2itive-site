@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-16T01:32:35.662Z"
+    "built_at": "2026-07-16T03:01:05.235Z"
   },
-  "items": [
-    {
-      "title": "Wrote a tiny version of argp for CLI parsing in embedded environments",
-      "url": "https://github.com/zkwinkle/tiny_argp",
-      "date": "2026-07-16T01:28:43.000Z"
-    },
-    {
-      "title": "Show HN: A cross-platform app for meeting notes and items that don't get lost",
-      "url": "https://github.com/kestermckinney/ProjectNotes",
-      "date": "2026-07-16T01:21:37.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
