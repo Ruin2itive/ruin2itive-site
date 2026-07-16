@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-15T23:19:16.501Z"
+    "built_at": "2026-07-16T00:24:03.737Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Hamilton council votes down bylaw – No ban against data centre development",
+      "url": "https://www.cbc.ca/news/canada/hamilton/data-centre-ban-voted-down-9.7271641",
+      "date": "2026-07-16T00:20:02.000Z"
+    },
+    {
+      "title": "The New Private Asset",
+      "url": "https://chamath.substack.com/p/privacy-tokens",
+      "date": "2026-07-16T00:19:54.000Z"
+    }
+  ]
 }
