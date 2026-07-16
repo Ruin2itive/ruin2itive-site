@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-16T11:35:48.983Z",
-  "updated_local": "7/16/2026, 11:35:48 AM",
+  "updated_iso": "2026-07-16T12:34:50.517Z",
+  "updated_local": "7/16/2026, 12:34:50 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Base Hands Its App Over to Cobie",
+        "url": "https://decrypt.co/373636/morning-minute-base-hands-its-app-over-to-cobie",
+        "source": "crypto",
+        "time": "Thu, 16 Jul 2026 12:03:28 +0000"
+      },
       {
         "title": "Feds Arrest Florida Man Over Video Game Malware That Stole $220K in Crypto",
         "url": "https://decrypt.co/373631/feds-arrest-florida-man-over-video-game-malware-that-stole-220k-in-crypto",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/373613/openai-ai-red-team-strengthen-gpt-5-6-prompt-injection-attacks",
         "source": "crypto",
         "time": "Wed, 15 Jul 2026 20:50:11 +0000"
-      },
-      {
-        "title": "Meet Bonsai: The First 27B AI Model That Fits on Your Phone",
-        "url": "https://decrypt.co/373578/meet-bonsai-first-27b-ai-model-fits-phone",
-        "source": "crypto",
-        "time": "Wed, 15 Jul 2026 19:55:41 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,18 @@
         "url": "https://community.oneplus.com/thread/2170715118587871237",
         "source": "hn",
         "time": "7/16/2026, 10:14:04 AM"
+      },
+      {
+        "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+        "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+        "source": "hn",
+        "time": "7/16/2026, 11:59:01 AM"
+      },
+      {
+        "title": "British Steel taken into public ownership to protect 'vital' UK supply",
+        "url": "https://www.bbc.com/news/articles/c5y680w62wno",
+        "source": "hn",
+        "time": "7/16/2026, 12:05:53 PM"
       },
       {
         "title": "The lost joy of music piracy",
@@ -52,18 +64,6 @@
         "url": "https://joinedanthropic.com",
         "source": "hn",
         "time": "7/16/2026, 8:03:35 AM"
-      },
-      {
-        "title": "Inkling: Our Open-Weights Model",
-        "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-        "source": "hn",
-        "time": "7/15/2026, 6:12:45 PM"
-      },
-      {
-        "title": "A Beautiful Theory Falls to Ugly Data",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html",
-        "source": "hn",
-        "time": "7/12/2026, 7:52:16 PM"
       }
     ],
     "world": [
@@ -83,19 +83,19 @@
         "title": "MI5 court evidence based on lies, report says",
         "url": "https://www.bbc.co.uk/news/articles/crmrwe84rp2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 16 Jul 2026 11:30:05 GMT"
+        "time": "Thu, 16 Jul 2026 11:44:25 GMT"
+      },
+      {
+        "title": "US strikes oil tanker with missiles as it enforces new Iran blockade",
+        "url": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 16 Jul 2026 12:09:26 GMT"
       },
       {
         "title": "TikTok faces Ofcom investigation over child age checks",
         "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 16 Jul 2026 11:08:33 GMT"
-      },
-      {
-        "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
-        "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 16 Jul 2026 11:31:11 GMT"
       }
     ],
     "projects": [
