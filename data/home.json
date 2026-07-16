@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-16T16:35:31.005Z",
-  "updated_local": "7/16/2026, 4:35:31 PM",
+  "updated_iso": "2026-07-16T17:30:27.687Z",
+  "updated_local": "7/16/2026, 5:30:27 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "XRP Can&#39;t Keep Up as Bitcoin Takes a Breather: Analysis",
+        "url": "https://decrypt.co/373649/xrp-price-cant-keep-up-bitcoin-takes-breather",
+        "source": "crypto",
+        "time": "Thu, 16 Jul 2026 16:56:54 +0000"
+      },
       {
         "title": "Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years",
         "url": "https://decrypt.co/373646/bitcoin-whale-moves-383-million-after-eight-years",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/373629/us-senate-unanimously-opposes-sam-bankman-fried-pardon",
         "source": "crypto",
         "time": "Thu, 16 Jul 2026 08:34:03 +0000"
-      },
-      {
-        "title": "Why Analysts Aren’t Worried About Coinbase’s 30% Drop",
-        "url": "https://decrypt.co/373615/analysts-arent-worried-coinbase-drop",
-        "source": "crypto",
-        "time": "Wed, 15 Jul 2026 21:38:43 +0000"
       }
     ],
     "hacker": [
@@ -48,30 +48,30 @@
         "time": "7/16/2026, 4:06:27 PM"
       },
       {
+        "title": "Decoy Font",
+        "url": "https://www.mixfont.com/experiments/decoy-font",
+        "source": "hn",
+        "time": "7/16/2026, 4:18:21 PM"
+      },
+      {
+        "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+        "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+        "source": "hn",
+        "time": "7/16/2026, 4:41:37 PM"
+      },
+      {
         "title": "OnePlus halts operations in USA and Europe",
         "url": "https://community.oneplus.com/thread/2170715118587871237",
         "source": "hn",
         "time": "7/16/2026, 10:14:04 AM"
-      },
-      {
-        "title": "Goes-19 weather satellite enters Safe Hold mode",
-        "url": "https://www.spaceweather.gov/news/goes-19-safe-hold",
-        "source": "hn",
-        "time": "7/16/2026, 1:30:00 PM"
-      },
-      {
-        "title": "How Our Rust-to-Zig Rewrite Is Going",
-        "url": "https://rtfeldman.com/rust-to-zig",
-        "source": "hn",
-        "time": "7/16/2026, 11:39:27 AM"
       }
     ],
     "world": [
       {
-        "title": "Teenagers from 15 should be given MenB vaccine, say UK experts after Kent outbreak",
-        "url": "https://www.bbc.co.uk/news/articles/c74glj9zkzko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Sadiq Khan among 26 new peers to enter the Lords",
+        "url": "https://www.bbc.co.uk/news/articles/cglj25k94r9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 16 Jul 2026 14:42:35 GMT"
+        "time": "Thu, 16 Jul 2026 17:20:47 GMT"
       },
       {
         "title": "World Cup might not be ours but Falklands definitely are, says No 10",
@@ -92,10 +92,10 @@
         "time": "Thu, 16 Jul 2026 15:50:35 GMT"
       },
       {
-        "title": "Uncle of Ann Widdecombe suspect says he 'nearly fell to floor' over arrest",
-        "url": "https://www.bbc.co.uk/news/articles/cn4n9023322o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Teenagers from 15 should be given MenB vaccine, say UK experts after Kent outbreak",
+        "url": "https://www.bbc.co.uk/news/articles/c74glj9zkzko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 16 Jul 2026 15:46:22 GMT"
+        "time": "Thu, 16 Jul 2026 16:36:13 GMT"
       }
     ],
     "projects": [
