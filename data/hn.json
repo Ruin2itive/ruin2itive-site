@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-16T11:30:52.715Z"
+    "built_at": "2026-07-16T12:30:31.005Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "How Predictable Are Laws?",
+      "url": "https://www.construction-physics.com/p/how-predictable-are-laws",
+      "date": "2026-07-16T12:29:07.000Z"
+    },
+    {
+      "title": "Open Source Will Eat AI",
+      "url": "https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code",
+      "date": "2026-07-16T12:28:16.000Z"
+    }
+  ]
 }
