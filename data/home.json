@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-16T15:36:15.916Z",
-  "updated_local": "7/16/2026, 3:36:15 PM",
+  "updated_iso": "2026-07-16T16:30:28.529Z",
+  "updated_local": "7/16/2026, 4:30:28 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Dormant Bitcoin Whale Moves $383 Million After More Than 8 Years",
+        "url": "https://decrypt.co/373646/bitcoin-whale-moves-383-million-after-eight-years",
+        "source": "crypto",
+        "time": "Thu, 16 Jul 2026 15:43:43 +0000"
+      },
       {
         "title": "Morning Minute: Base Hands Its App Over to Cobie",
         "url": "https://decrypt.co/373636/morning-minute-base-hands-its-app-over-to-cobie",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/373615/analysts-arent-worried-coinbase-drop",
         "source": "crypto",
         "time": "Wed, 15 Jul 2026 21:38:43 +0000"
-      },
-      {
-        "title": "OpenAI Uses AI Red Team to Strengthen GPT-5.6 Against Prompt Injection Attacks",
-        "url": "https://decrypt.co/373613/openai-ai-red-team-strengthen-gpt-5-6-prompt-injection-attacks",
-        "source": "crypto",
-        "time": "Wed, 15 Jul 2026 20:50:11 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://www.kimi.com/en",
         "source": "hn",
         "time": "7/16/2026, 2:46:05 PM"
+      },
+      {
+        "title": "Microsoft Comic Chat is now open source",
+        "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+        "source": "hn",
+        "time": "7/16/2026, 4:06:27 PM"
       },
       {
         "title": "OnePlus halts operations in USA and Europe",
@@ -54,36 +60,24 @@
         "time": "7/16/2026, 1:30:00 PM"
       },
       {
-        "title": "Let's Build PlanetScale from Scratch: Infrastructure",
-        "url": "https://onatm.dev/2026/07/16/homescale-part-1/",
+        "title": "How Our Rust-to-Zig Rewrite Is Going",
+        "url": "https://rtfeldman.com/rust-to-zig",
         "source": "hn",
-        "time": "7/16/2026, 11:58:09 AM"
-      },
-      {
-        "title": "Sony Deletes a Bunch More Movies from the Accounts of People Who 'Bought' Them",
-        "url": "https://www.techdirt.com/2026/07/15/sony-deletes-a-bunch-more-movies-from-the-accounts-of-people-who-bought-them/",
-        "source": "hn",
-        "time": "7/16/2026, 12:13:43 PM"
+        "time": "7/16/2026, 11:39:27 AM"
       }
     ],
     "world": [
       {
-        "title": "Teenagers from 15 should be given free MenB vaccine, say UK experts",
+        "title": "Teenagers from 15 should be given MenB vaccine, say UK experts after Kent outbreak",
         "url": "https://www.bbc.co.uk/news/articles/c74glj9zkzko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 16 Jul 2026 14:42:35 GMT"
       },
       {
-        "title": "UK says Falkland Islands 'definitely ours' after Argentina banner",
+        "title": "World Cup might not be ours but Falklands definitely are, says No 10",
         "url": "https://www.bbc.co.uk/news/articles/clyen1ned7no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 16 Jul 2026 14:12:25 GMT"
-      },
-      {
-        "title": "Feeling gutted? Five ways to cope with England's World Cup defeat",
-        "url": "https://www.bbc.co.uk/news/articles/c4gy5jwjvz7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 16 Jul 2026 10:25:49 GMT"
       },
       {
         "title": "Why you should care about the third-place play-off between England and France",
@@ -92,10 +86,16 @@
         "time": "Thu, 16 Jul 2026 10:44:03 GMT"
       },
       {
-        "title": "MI5 court evidence based on lies, report says",
-        "url": "https://www.bbc.co.uk/news/articles/crmrwe84rp2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Couples free to marry at the beach or the pub under new plans",
+        "url": "https://www.bbc.co.uk/news/articles/ckgvwxygpv2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 16 Jul 2026 13:22:04 GMT"
+        "time": "Thu, 16 Jul 2026 15:50:35 GMT"
+      },
+      {
+        "title": "Uncle of Ann Widdecombe suspect says he 'nearly fell to floor' over arrest",
+        "url": "https://www.bbc.co.uk/news/articles/cn4n9023322o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 16 Jul 2026 15:46:22 GMT"
       }
     ],
     "projects": [
