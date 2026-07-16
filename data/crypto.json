@@ -4,18 +4,18 @@
     "label": "decrypt",
     "source_url": "https://decrypt.co/feed",
     "take": 2,
-    "built_at": "2026-07-16T07:40:22.219Z"
+    "built_at": "2026-07-16T08:45:12.764Z"
   },
   "items": [
+    {
+      "title": "US Senate Unanimously Opposes Sam Bankman-Fried Pardon",
+      "url": "https://decrypt.co/373629/us-senate-unanimously-opposes-sam-bankman-fried-pardon",
+      "date": "2026-07-16T08:34:03.000Z"
+    },
     {
       "title": "Why Analysts Aren’t Worried About Coinbase’s 30% Drop",
       "url": "https://decrypt.co/373615/analysts-arent-worried-coinbase-drop",
       "date": "2026-07-15T21:38:43.000Z"
-    },
-    {
-      "title": "OpenAI Uses AI Red Team to Strengthen GPT-5.6 Against Prompt Injection Attacks",
-      "url": "https://decrypt.co/373613/openai-ai-red-team-strengthen-gpt-5-6-prompt-injection-attacks",
-      "date": "2026-07-15T20:50:11.000Z"
     }
   ]
 }
