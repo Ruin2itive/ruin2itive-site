@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-16T23:17:12.917Z"
+    "built_at": "2026-07-17T00:25:43.452Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Skillbench",
+      "url": "https://skillbench.arcade.dev/browse",
+      "date": "2026-07-17T00:22:54.000Z"
+    },
+    {
+      "title": "Show HN: Forall – Spec-driven AI coding with formal verification",
+      "url": "https://github.com/astrio-labs/forall",
+      "date": "2026-07-17T00:22:21.000Z"
+    }
+  ]
 }
