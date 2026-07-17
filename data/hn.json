@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-17T07:38:20.890Z"
+    "built_at": "2026-07-17T08:42:16.287Z"
   },
-  "items": [
-    {
-      "title": "America's Open-Model Paradox",
-      "url": "https://twitter.com/DeanMeyerrr/status/2077834267086729674",
-      "date": "2026-07-17T07:35:01.000Z"
-    },
-    {
-      "title": "Show HN: We Want to Improve the Linux Experience on T2 Macs with KaiT2en Fedora",
-      "url": "https://github.com/kaiT2en/KaiT2en-Fedora/",
-      "date": "2026-07-17T07:30:51.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
