@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-17T22:15:17.805Z"
+    "built_at": "2026-07-17T23:16:17.040Z"
   },
-  "items": [
-    {
-      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
-      "url": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
-      "date": "2026-07-17T22:07:06.000Z"
-    },
-    {
-      "title": "Claude Fable 5 vs. Kimi K3 vs. GPT 5.6 Sol [video]",
-      "url": "https://www.youtube.com/watch?v=iGNNgzUumoY",
-      "date": "2026-07-17T22:05:16.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
