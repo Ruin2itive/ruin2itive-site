@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-17T10:32:03.682Z"
+    "built_at": "2026-07-17T11:28:31.374Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Tiny and CSP-safe expression language for JavaScript",
+      "url": "https://github.com/robinvdvleuten/xprsn",
+      "date": "2026-07-17T11:26:55.000Z"
+    },
+    {
+      "title": "Windows XP Simulation by Kimi K3",
+      "url": "https://windows-xp.kimi.site/",
+      "date": "2026-07-17T11:24:15.000Z"
+    }
+  ]
 }
