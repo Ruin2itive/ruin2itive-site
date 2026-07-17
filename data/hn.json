@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-17T01:33:03.818Z"
+    "built_at": "2026-07-17T03:01:13.026Z"
   },
-  "items": [
-    {
-      "title": "Show HN: 3Emalak SEO Gaint",
-      "url": "https://www.3emalak.com/",
-      "date": "2026-07-17T01:31:40.000Z"
-    },
-    {
-      "title": "US Election Integrity",
-      "url": "https://www.whitehouse.gov/election-integrity/",
-      "date": "2026-07-17T01:29:01.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
