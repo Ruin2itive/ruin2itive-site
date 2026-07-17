@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-17T15:26:26.654Z"
+    "built_at": "2026-07-17T16:25:21.412Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Designing emoji for the way we communicate today",
+      "url": "https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/",
+      "date": "2026-07-17T16:24:13.000Z"
+    },
+    {
+      "title": "Show HN: Bulk download YouTube transcripts–free per video, pay once",
+      "url": "https://ytbulktranscript.app/",
+      "date": "2026-07-17T16:20:34.000Z"
+    }
+  ]
 }
