@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-17T13:30:42.961Z"
+    "built_at": "2026-07-17T14:31:20.240Z"
   },
-  "items": [
-    {
-      "title": "Multi-region data and service mesh operated by a Makefile",
-      "url": "https://github.com/neospe/autoops",
-      "date": "2026-07-17T13:29:36.000Z"
-    },
-    {
-      "title": "Some Thoughts on AI and Art",
-      "url": "https://insertchaos.bearblog.dev/thoughts-on-ai-and-art/",
-      "date": "2026-07-17T13:29:33.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
