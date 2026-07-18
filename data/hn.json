@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-17T23:16:17.040Z"
+    "built_at": "2026-07-18T00:23:39.012Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Native C# CEL Implementation",
+      "url": "https://www.nuget.org/packages/Celly",
+      "date": "2026-07-18T00:22:33.000Z"
+    },
+    {
+      "title": "New Jersey Couple Aids Meteorite Discovery After It Crashes Through Their Roof",
+      "url": "https://www.nytimes.com/2026/07/15/science/meteorite-new-jersey.html",
+      "date": "2026-07-18T00:21:13.000Z"
+    }
+  ]
 }
