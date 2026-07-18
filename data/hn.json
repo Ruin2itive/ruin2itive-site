@@ -4,18 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-18T05:45:54.669Z"
+    "built_at": "2026-07-18T06:37:16.215Z"
   },
   "items": [
     {
-      "title": "FluencyLoop – A lighter, developer-centric SpecKit alternative",
-      "url": "https://github.com/baokhang83/fluencyloop",
-      "date": "2026-07-18T05:44:19.000Z"
+      "title": "What Doom taught us about AI-assisted incident response",
+      "url": "https://rootly.com/blog/what-doom-taught-us-about-ai-assisted-incident-response",
+      "date": "2026-07-18T06:36:15.000Z"
     },
     {
-      "title": "A stale-proof shared memory for coding agents",
-      "url": "https://github.com/Hivemind-OSS/Hivemind",
-      "date": "2026-07-18T05:36:28.000Z"
+      "title": "Teamclaude rewrite in rust, run multiple Claude accounts in parllel",
+      "url": "https://github.com/dhkts1/teamclaude-rs",
+      "date": "2026-07-18T06:36:13.000Z"
     }
   ]
 }
