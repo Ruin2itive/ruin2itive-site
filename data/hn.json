@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-18T11:20:50.414Z"
+    "built_at": "2026-07-18T12:16:21.778Z"
   },
-  "items": [
-    {
-      "title": "Optimistic Sync Library for the Web",
-      "url": "https://therealpaulplay.github.io/PlaySocketJS/",
-      "date": "2026-07-18T11:20:00.000Z"
-    },
-    {
-      "title": "Another Taste of Verse [video]",
-      "url": "https://www.youtube.com/watch?v=QIiU-QGzcqc&list=PLQtDWkrawhsE&index=2",
-      "date": "2026-07-18T11:19:03.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
