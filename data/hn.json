@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-18T16:17:23.728Z"
+    "built_at": "2026-07-18T17:19:48.267Z"
   },
-  "items": [
-    {
-      "title": "DOOMQL – Game Engine in SQL",
-      "url": "https://github.com/petergpt/doomql",
-      "date": "2026-07-18T16:16:51.000Z"
-    },
-    {
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "date": "2026-07-18T16:12:08.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
