@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-18T12:16:21.778Z"
+    "built_at": "2026-07-18T13:28:59.663Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Race to AGI – a simulation browser game about running a frontier AI lab",
+      "url": "https://rtagi.online",
+      "date": "2026-07-18T13:27:57.000Z"
+    },
+    {
+      "title": "Ask HN: What Is Best for Marketing YouTube or Other Social Media",
+      "url": "https://news.ycombinator.com/item?id=48957982",
+      "date": "2026-07-18T13:26:26.000Z"
+    }
+  ]
 }
