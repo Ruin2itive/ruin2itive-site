@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-18T18:16:59.407Z"
+    "built_at": "2026-07-18T19:24:04.534Z"
   },
-  "items": [
-    {
-      "title": "Why the Job Search Sucks (2018)",
-      "url": "https://blog.webb.page",
-      "date": "2026-07-18T18:15:08.000Z"
-    },
-    {
-      "title": "Soon We Won't Program Computers. We'll Train Them Like Dogs (2016)",
-      "url": "https://www.wired.com/2016/05/the-end-of-code/",
-      "date": "2026-07-18T18:14:48.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
