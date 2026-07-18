@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-18T06:37:16.215Z"
+    "built_at": "2026-07-18T07:31:45.894Z"
   },
-  "items": [
-    {
-      "title": "What Doom taught us about AI-assisted incident response",
-      "url": "https://rootly.com/blog/what-doom-taught-us-about-ai-assisted-incident-response",
-      "date": "2026-07-18T06:36:15.000Z"
-    },
-    {
-      "title": "Teamclaude rewrite in rust, run multiple Claude accounts in parllel",
-      "url": "https://github.com/dhkts1/teamclaude-rs",
-      "date": "2026-07-18T06:36:13.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
