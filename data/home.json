@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-18T09:35:48.024Z",
-  "updated_local": "7/18/2026, 9:35:48 AM",
+  "updated_iso": "2026-07-18T10:29:31.096Z",
+  "updated_local": "7/18/2026, 10:29:31 AM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,16 @@
         "time": "7/18/2026, 3:14:20 AM"
       },
       {
+        "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
+        "url": "https://github.com/tucan9389/nanochat-jax/discussions/1",
+        "source": "hn",
+        "time": "7/15/2026, 8:18:25 AM"
+      },
+      {
         "title": "Reviving a 15-year-old netbook with Arch Linux",
         "url": "https://parksb.github.io/en/article/41.html",
         "source": "hn",
         "time": "7/14/2026, 2:02:36 PM"
-      },
-      {
-        "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-        "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-        "source": "hn",
-        "time": "7/17/2026, 2:06:13 PM"
       }
     ],
     "world": [
@@ -68,22 +68,22 @@
         "time": "Sat, 18 Jul 2026 05:10:44 GMT"
       },
       {
+        "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+        "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 18 Jul 2026 10:22:46 GMT"
+      },
+      {
+        "title": "Laos says it can't determine cause of  tourist deaths linked to methanol",
+        "url": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 18 Jul 2026 09:30:32 GMT"
+      },
+      {
         "title": "White House backs Argentina team over Falklands banner",
         "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 17 Jul 2026 22:12:54 GMT"
-      },
-      {
-        "title": "US strikes hit Iran for seventh consecutive night",
-        "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 18 Jul 2026 07:33:40 GMT"
-      },
-      {
-        "title": "Second half of summer to bring chances of rain but heatwave threat persists",
-        "url": "https://www.bbc.co.uk/weather/articles/c07rex9p7x2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 18 Jul 2026 01:05:29 GMT"
       }
     ],
     "projects": [
