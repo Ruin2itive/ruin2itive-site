@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-18T20:14:44.926Z"
+    "built_at": "2026-07-18T21:15:42.525Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Heaven's IT Guy – Design Complaints",
+      "url": "https://www.youtube.com/watch?v=--Twuo6rgIE",
+      "date": "2026-07-18T21:14:33.000Z"
+    },
+    {
+      "title": "Identity Verification: GSA Needs to Address Fraud Threats and Technical Issues",
+      "url": "https://www.gao.gov/products/gao-26-109261",
+      "date": "2026-07-18T21:12:34.000Z"
+    }
+  ]
 }
