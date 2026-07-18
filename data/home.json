@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-18T18:24:39.720Z",
-  "updated_local": "7/18/2026, 6:24:39 PM",
+  "updated_iso": "2026-07-18T19:25:33.486Z",
+  "updated_local": "7/18/2026, 7:25:33 PM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "Goodbye, and Thanks for All the Bikesheds",
-        "url": "https://queue.acm.org/detail.cfm?id=3818307",
-        "source": "hn",
-        "time": "7/18/2026, 5:27:24 PM"
-      },
-      {
         "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
         "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
         "source": "hn",
@@ -54,19 +48,31 @@
         "time": "7/18/2026, 3:44:04 PM"
       },
       {
-        "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-        "url": "https://ykdojo.github.io/claude-controls-mac/",
+        "title": "The Kimi K3 Moment",
+        "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
         "source": "hn",
-        "time": "7/18/2026, 4:12:08 PM"
+        "time": "7/18/2026, 5:32:40 PM"
       },
       {
-        "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
-        "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+        "title": "Goodbye, and Thanks for All the Bikesheds",
+        "url": "https://queue.acm.org/detail.cfm?id=3818307",
         "source": "hn",
-        "time": "7/18/2026, 4:02:45 PM"
+        "time": "7/18/2026, 5:27:24 PM"
+      },
+      {
+        "title": "If You Build It, They Will Come",
+        "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+        "source": "hn",
+        "time": "7/18/2026, 3:37:01 PM"
       }
     ],
     "world": [
+      {
+        "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+        "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 18 Jul 2026 19:14:09 GMT"
+      },
       {
         "title": "Burnham to announce plans for new North Sea oil and gas drilling",
         "url": "https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/sport/athletics/articles/cx2jl1wge2po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 18 Jul 2026 14:48:16 GMT"
-      },
-      {
-        "title": "Mother killed while asleep with baby ‘was my world’, sister tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cd0xzy2r1m7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 18 Jul 2026 16:41:55 GMT"
       }
     ],
     "projects": [
