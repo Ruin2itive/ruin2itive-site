@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-18T08:32:50.082Z"
+    "built_at": "2026-07-18T09:29:52.310Z"
   },
-  "items": [
-    {
-      "title": "Neither GCC nor Clang are compliant with standard C++",
-      "url": "https://sebsite.pw/w/20260708-badstdcxx.html",
-      "date": "2026-07-18T08:31:08.000Z"
-    },
-    {
-      "title": "Pal Routes: shortest Palworld 1.0 breeding routes from your owned Pals",
-      "url": "https://palroutes.com/",
-      "date": "2026-07-18T08:30:23.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
