@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-19T00:24:38.885Z"
+    "built_at": "2026-07-19T01:32:54.459Z"
   },
-  "items": [
-    {
-      "title": "The 2026 Developer Survey is Live",
-      "url": "https://meta.stackoverflow.com/questions/439978/the-2026-developer-survey-is-live",
-      "date": "2026-07-19T00:21:10.000Z"
-    },
-    {
-      "title": "Updating IP Regulations for AI Distillation",
-      "url": "https://www.marble.onl/posts/copyright_vs_ai.html",
-      "date": "2026-07-19T00:14:11.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
