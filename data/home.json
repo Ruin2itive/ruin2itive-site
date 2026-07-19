@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-19T20:21:24.827Z",
-  "updated_local": "7/19/2026, 8:21:24 PM",
+  "updated_iso": "2026-07-19T21:17:58.817Z",
+  "updated_local": "7/19/2026, 9:17:58 PM",
   "sections": {
     "crypto": [
       {
@@ -42,22 +42,22 @@
         "time": "7/19/2026, 8:44:57 AM"
       },
       {
-        "title": "Claude Code uses Bun written in Rust now",
-        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "title": "HomeLab #1: MikroTik as a Home Router",
+        "url": "https://justsomebody.dev/blog/mikrotik-home-router",
         "source": "hn",
-        "time": "7/19/2026, 10:03:23 AM"
+        "time": "7/19/2026, 6:57:01 PM"
+      },
+      {
+        "title": "The Zen of Parallel Programming",
+        "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+        "source": "hn",
+        "time": "7/14/2026, 2:23:26 PM"
       },
       {
         "title": "Minecraft: Java Edition now uses SDL3",
         "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
         "source": "hn",
         "time": "7/19/2026, 11:48:18 AM"
-      },
-      {
-        "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-        "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-        "source": "hn",
-        "time": "7/19/2026, 1:29:29 PM"
       }
     ],
     "world": [
@@ -74,10 +74,10 @@
         "time": "Sun, 19 Jul 2026 18:35:16 GMT"
       },
       {
-        "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US soldier killed and one injured after Iranian attack in Iraq",
+        "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 19 Jul 2026 18:25:40 GMT"
+        "time": "Sun, 19 Jul 2026 19:45:12 GMT"
       },
       {
         "title": "Tate brothers arrested in US as further UK charges take total to 59",
@@ -86,10 +86,10 @@
         "time": "Sun, 19 Jul 2026 12:53:20 GMT"
       },
       {
-        "title": "US soldier killed and one injured after Iranian attack in Iraq",
-        "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 19 Jul 2026 19:45:12 GMT"
+        "time": "Sun, 19 Jul 2026 18:25:40 GMT"
       }
     ],
     "projects": [
