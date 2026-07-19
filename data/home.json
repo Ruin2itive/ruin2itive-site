@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-19T14:32:30.158Z",
-  "updated_local": "7/19/2026, 2:32:30 PM",
+  "updated_iso": "2026-07-19T15:21:59.062Z",
+  "updated_local": "7/19/2026, 3:21:59 PM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,16 @@
     ],
     "hacker": [
       {
+        "title": "Qwen 3.8",
+        "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+        "source": "hn",
+        "time": "7/19/2026, 8:44:57 AM"
+      },
+      {
         "title": "Minecraft: Java Edition now uses SDL3",
         "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
         "source": "hn",
         "time": "7/19/2026, 11:48:18 AM"
-      },
-      {
-        "title": "I burned all my tokens researching how to save tokens",
-        "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
-        "source": "hn",
-        "time": "7/19/2026, 12:01:53 PM"
-      },
-      {
-        "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-        "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-        "source": "hn",
-        "time": "7/19/2026, 10:34:58 AM"
       },
       {
         "title": "Blender 5.2 LTS",
@@ -60,10 +54,16 @@
         "time": "7/14/2026, 6:22:47 PM"
       },
       {
-        "title": "The death and rebirth of my home server",
-        "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
+        "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+        "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
         "source": "hn",
-        "time": "7/19/2026, 10:44:31 AM"
+        "time": "7/19/2026, 10:34:58 AM"
+      },
+      {
+        "title": "Claude Code uses Bun written in Rust now",
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "source": "hn",
+        "time": "7/19/2026, 10:03:23 AM"
       }
     ],
     "world": [
@@ -72,12 +72,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 19 Jul 2026 14:23:44 GMT"
-      },
-      {
-        "title": "Digital ID plan to be scrapped in Burnham's first major policy pledge",
-        "url": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 19 Jul 2026 08:55:06 GMT"
       },
       {
         "title": "Messi on the brink of history - will it be his last World Cup game?",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 19 Jul 2026 11:28:24 GMT"
+      },
+      {
+        "title": "Bruno Mars has an unexpected opening before Wembley party starts",
+        "url": "https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 19 Jul 2026 08:26:02 GMT"
       }
     ],
     "projects": [
