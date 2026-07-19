@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-19T09:33:25.499Z"
+    "built_at": "2026-07-19T10:29:57.279Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Hyperblam lets you make music with HTML",
+      "url": "https://hyperblam.how/",
+      "date": "2026-07-19T10:29:18.000Z"
+    },
+    {
+      "title": "Babylon Lite: A Fresh Take on Babylon.js",
+      "url": "https://doc.babylonjs.com/lite/",
+      "date": "2026-07-19T10:29:03.000Z"
+    }
+  ]
 }
