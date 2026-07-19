@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-19T17:20:38.398Z"
+    "built_at": "2026-07-19T18:16:46.986Z"
   },
-  "items": [
-    {
-      "title": "PyCon US 2026 Recap",
-      "url": "https://katherinemichel.github.io/blog/conferences/pycon-us-2026-recap.html",
-      "date": "2026-07-19T17:19:53.000Z"
-    },
-    {
-      "title": "Doom in MS Paint from Mark Russinovich",
-      "url": "https://github.com/markrussinovich/DoomPaint",
-      "date": "2026-07-19T17:19:24.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
