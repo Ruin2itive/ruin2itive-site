@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-19T10:31:22.462Z",
-  "updated_local": "7/19/2026, 10:31:22 AM",
+  "updated_iso": "2026-07-19T11:24:30.708Z",
+  "updated_local": "7/19/2026, 11:24:30 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Qwen3.8 is launching and going open-weight soon",
-        "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+        "title": "Claude Code uses Bun written in Rust now",
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
         "source": "hn",
-        "time": "7/19/2026, 8:44:57 AM"
+        "time": "7/19/2026, 10:03:23 AM"
+      },
+      {
+        "title": "Qwen 3.8 Max Preview",
+        "url": "https://www.qwencloud.com/pricing/token-plan",
+        "source": "hn",
+        "time": "7/19/2026, 8:57:31 AM"
       },
       {
         "title": "Transcribe.cpp",
@@ -48,27 +54,27 @@
         "time": "7/19/2026, 12:38:26 AM"
       },
       {
-        "title": "Claude Code uses Bun written in Rust now",
-        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "title": "Qwen3.8 is launching and going open-weight soon",
+        "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
         "source": "hn",
-        "time": "7/19/2026, 10:03:23 AM"
+        "time": "7/19/2026, 8:44:57 AM"
       },
       {
-        "title": "Speech Recognition and TTS in less than 500kb",
-        "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+        "title": "Blender 5.2 LTS",
+        "url": "https://www.blender.org/download/releases/5-2-lts/",
         "source": "hn",
-        "time": "7/14/2026, 7:25:10 PM"
-      },
-      {
-        "title": "Better and Cheaper Than IPTV",
-        "url": "https://github.com/stupside/castor",
-        "source": "hn",
-        "time": "7/19/2026, 12:59:55 AM"
+        "time": "7/14/2026, 6:22:47 PM"
       }
     ],
     "world": [
       {
-        "title": "Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
+        "title": "Burnham will be bolder but stick to Labour manifesto, deputy leader says",
+        "url": "https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 19 Jul 2026 11:15:51 GMT"
+      },
+      {
+        "title": "Digital ID plan to be scrapped in Burnham's first major policy pledge",
         "url": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 19 Jul 2026 08:55:06 GMT"
@@ -83,19 +89,13 @@
         "title": "Tate brothers arrested in US as further UK charges take total to 59",
         "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 19 Jul 2026 10:22:35 GMT"
+        "time": "Sun, 19 Jul 2026 11:04:50 GMT"
       },
       {
         "title": "Russia launches major ballistic missile attack on Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 19 Jul 2026 09:54:50 GMT"
-      },
-      {
-        "title": "New EU border system tripling time at passport control, airport boss says",
-        "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 19 Jul 2026 01:47:59 GMT"
       }
     ],
     "projects": [
