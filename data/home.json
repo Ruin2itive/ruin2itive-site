@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-19T07:44:04.028Z",
-  "updated_local": "7/19/2026, 7:44:04 AM",
+  "updated_iso": "2026-07-19T08:48:23.472Z",
+  "updated_local": "7/19/2026, 8:48:23 AM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,16 @@
         "time": "7/19/2026, 12:38:26 AM"
       },
       {
-        "title": "Supabase just announced searchable encryption",
-        "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
-        "source": "hn",
-        "time": "7/15/2026, 1:10:01 PM"
-      },
-      {
         "title": "Speech Recognition and TTS in less than 500kb",
         "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
         "source": "hn",
         "time": "7/14/2026, 7:25:10 PM"
+      },
+      {
+        "title": "Searchable field-level encryption on Supabase with CipherStash",
+        "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
+        "source": "hn",
+        "time": "7/15/2026, 1:10:01 PM"
       },
       {
         "title": "Codex Resets",
@@ -68,7 +68,7 @@
     ],
     "world": [
       {
-        "title": "Watch: Highlights as England beat France 6-4 in third-place play-off",
+        "title": "Watch: Highlights as England stun France 6-4 in third-place play-off",
         "url": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 19 Jul 2026 01:12:34 GMT"
@@ -78,12 +78,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 18 Jul 2026 20:15:26 GMT"
-      },
-      {
-        "title": "The hidden cost of the night shift and how to sleep it off",
-        "url": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 19 Jul 2026 00:01:55 GMT"
       },
       {
         "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 19 Jul 2026 01:47:59 GMT"
+      },
+      {
+        "title": "The hidden cost of the night shift and how to sleep it off",
+        "url": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 19 Jul 2026 00:01:55 GMT"
       }
     ],
     "projects": [
