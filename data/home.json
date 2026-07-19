@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-19T11:27:26.248Z",
-  "updated_local": "7/19/2026, 11:27:26 AM",
+  "updated_iso": "2026-07-19T12:19:54.198Z",
+  "updated_local": "7/19/2026, 12:19:54 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Claude Code uses Bun written in Rust now",
-        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-        "source": "hn",
-        "time": "7/19/2026, 10:03:23 AM"
-      },
-      {
         "title": "Qwen 3.8 Max Preview",
         "url": "https://www.qwencloud.com/pricing/token-plan",
         "source": "hn",
         "time": "7/19/2026, 8:57:31 AM"
+      },
+      {
+        "title": "Blender 5.2 LTS",
+        "url": "https://www.blender.org/download/releases/5-2-lts/",
+        "source": "hn",
+        "time": "7/14/2026, 6:22:47 PM"
       },
       {
         "title": "Transcribe.cpp",
@@ -54,16 +54,16 @@
         "time": "7/19/2026, 12:38:26 AM"
       },
       {
-        "title": "Qwen3.8 is launching and going open-weight soon",
-        "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+        "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+        "url": "https://github.com/openai/codex/pull/33972/files",
         "source": "hn",
-        "time": "7/19/2026, 8:44:57 AM"
+        "time": "7/19/2026, 7:54:39 AM"
       },
       {
-        "title": "Blender 5.2 LTS",
-        "url": "https://www.blender.org/download/releases/5-2-lts/",
+        "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+        "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
         "source": "hn",
-        "time": "7/14/2026, 6:22:47 PM"
+        "time": "7/19/2026, 10:34:58 AM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Burnham will be bolder but stick to Labour manifesto, deputy leader says",
         "url": "https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 19 Jul 2026 11:15:51 GMT"
+        "time": "Sun, 19 Jul 2026 11:57:53 GMT"
       },
       {
         "title": "Digital ID plan to be scrapped in Burnham's first major policy pledge",
@@ -92,10 +92,10 @@
         "time": "Sun, 19 Jul 2026 11:04:50 GMT"
       },
       {
-        "title": "Russia launches major ballistic missile attack on Kyiv",
+        "title": "Russia launches major ballistic missile attack on Ukrainian cities",
         "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 19 Jul 2026 09:54:50 GMT"
+        "time": "Sun, 19 Jul 2026 11:28:24 GMT"
       }
     ],
     "projects": [
