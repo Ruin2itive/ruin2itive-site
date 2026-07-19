@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-19T09:38:50.978Z",
-  "updated_local": "7/19/2026, 9:38:50 AM",
+  "updated_iso": "2026-07-19T10:31:22.462Z",
+  "updated_local": "7/19/2026, 10:31:22 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Qwen3.8 is launching and going open-weight soon",
+        "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+        "source": "hn",
+        "time": "7/19/2026, 8:44:57 AM"
+      },
+      {
         "title": "Transcribe.cpp",
         "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
         "source": "hn",
         "time": "7/19/2026, 12:38:26 AM"
       },
       {
-        "title": "Qwen3.8 is launching and going open-weight soon",
-        "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+        "title": "Claude Code uses Bun written in Rust now",
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
         "source": "hn",
-        "time": "7/19/2026, 8:44:57 AM"
+        "time": "7/19/2026, 10:03:23 AM"
       },
       {
         "title": "Speech Recognition and TTS in less than 500kb",
@@ -54,25 +60,13 @@
         "time": "7/14/2026, 7:25:10 PM"
       },
       {
-        "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-        "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+        "title": "Better and Cheaper Than IPTV",
+        "url": "https://github.com/stupside/castor",
         "source": "hn",
-        "time": "7/19/2026, 8:00:24 AM"
-      },
-      {
-        "title": "Codex Resets",
-        "url": "https://codex-resets.com/",
-        "source": "hn",
-        "time": "7/18/2026, 11:24:26 PM"
+        "time": "7/19/2026, 12:59:55 AM"
       }
     ],
     "world": [
-      {
-        "title": "Watch: Highlights as England stun France 6-4 in third-place play-off",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 19 Jul 2026 01:12:34 GMT"
-      },
       {
         "title": "Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
         "url": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +74,28 @@
         "time": "Sun, 19 Jul 2026 08:55:06 GMT"
       },
       {
+        "title": "Messi on the brink of history - will it be his last World Cup game?",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 19 Jul 2026 09:55:22 GMT"
+      },
+      {
         "title": "Tate brothers arrested in US as further UK charges take total to 59",
         "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 19 Jul 2026 09:37:32 GMT"
+        "time": "Sun, 19 Jul 2026 10:22:35 GMT"
+      },
+      {
+        "title": "Russia launches major ballistic missile attack on Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 19 Jul 2026 09:54:50 GMT"
       },
       {
         "title": "New EU border system tripling time at passport control, airport boss says",
         "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 19 Jul 2026 01:47:59 GMT"
-      },
-      {
-        "title": "Russia launches major ballistic missile attack on Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 19 Jul 2026 08:37:48 GMT"
       }
     ],
     "projects": [
