@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-19T05:02:27.909Z"
+    "built_at": "2026-07-19T06:49:13.208Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: FlexInference LLM Router",
+      "url": "https://www.flexinference.com",
+      "date": "2026-07-19T06:44:53.000Z"
+    },
+    {
+      "title": "Are your teams running out of GitHub Copilot credits?",
+      "url": "https://nstech.substack.com/p/are-your-teams-running-out-of-github",
+      "date": "2026-07-19T06:36:37.000Z"
+    }
+  ]
 }
