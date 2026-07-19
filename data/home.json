@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-19T15:21:59.062Z",
-  "updated_local": "7/19/2026, 3:21:59 PM",
+  "updated_iso": "2026-07-19T15:25:23.801Z",
+  "updated_local": "7/19/2026, 3:25:23 PM",
   "sections": {
     "crypto": [
       {
@@ -48,16 +48,16 @@
         "time": "7/19/2026, 11:48:18 AM"
       },
       {
-        "title": "Blender 5.2 LTS",
-        "url": "https://www.blender.org/download/releases/5-2/",
-        "source": "hn",
-        "time": "7/14/2026, 6:22:47 PM"
-      },
-      {
         "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
         "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
         "source": "hn",
         "time": "7/19/2026, 10:34:58 AM"
+      },
+      {
+        "title": "Blender 5.2 LTS",
+        "url": "https://www.blender.org/download/releases/5-2/",
+        "source": "hn",
+        "time": "7/14/2026, 6:22:47 PM"
       },
       {
         "title": "Claude Code uses Bun written in Rust now",
