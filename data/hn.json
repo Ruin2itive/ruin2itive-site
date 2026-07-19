@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-19T11:23:20.780Z"
+    "built_at": "2026-07-19T12:16:32.972Z"
   },
-  "items": [
-    {
-      "title": "The Dangers of Dimethylmercury (2019)",
-      "url": "https://www.chemistryworld.com/opinion/the-dangers-of-dimethylmercury-/3010064.article",
-      "date": "2026-07-19T11:21:45.000Z"
-    },
-    {
-      "title": "Could AI Be Conscious?",
-      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
-      "date": "2026-07-19T11:18:09.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
