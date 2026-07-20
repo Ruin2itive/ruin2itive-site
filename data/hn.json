@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-20T03:01:51.931Z"
+    "built_at": "2026-07-20T05:12:16.131Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "New Mexico Denies Gas Pipeline Permit for Oracle Data Center",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/new-mexico-denies-gas-pipeline-permit-for-oracle-data-center",
+      "date": "2026-07-20T05:09:44.000Z"
+    },
+    {
+      "title": "Show HN: A fast, free AI text humanizer powered by Groq Llama 3.3",
+      "url": "https://zlvox.com/tools/ai-humanizer",
+      "date": "2026-07-20T05:05:26.000Z"
+    }
+  ]
 }
