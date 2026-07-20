@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-20T14:45:42.336Z",
-  "updated_local": "7/20/2026, 2:45:42 PM",
+  "updated_iso": "2026-07-20T15:37:11.038Z",
+  "updated_local": "7/20/2026, 3:37:11 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "7/20/2026, 1:28:33 PM"
       },
       {
+        "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion",
+        "url": "https://nothings.org/gamedev/ssao/",
+        "source": "hn",
+        "time": "7/20/2026, 3:07:31 PM"
+      },
+      {
         "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
         "url": "https://spectrum.ieee.org/led-light-pollution",
         "source": "hn",
@@ -54,16 +60,10 @@
         "time": "7/20/2026, 10:30:40 AM"
       },
       {
-        "title": "Perfection Is Not Over-Engineering",
-        "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+        "title": "Firefox Merges Support for Vulkan Video Decoding",
+        "url": "https://github.com/search",
         "source": "hn",
-        "time": "7/20/2026, 2:10:30 PM"
-      },
-      {
-        "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-        "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-        "source": "hn",
-        "time": "7/20/2026, 8:13:36 AM"
+        "time": "7/20/2026, 1:47:13 PM"
       }
     ],
     "world": [
@@ -71,13 +71,19 @@
         "title": "Burnham promises help with your money. How could it affect you?",
         "url": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 20 Jul 2026 13:03:23 GMT"
+        "time": "Mon, 20 Jul 2026 15:10:48 GMT"
       },
       {
-        "title": "Burnham pledges to end rough sleeping in first speech as prime minister",
-        "url": "https://www.bbc.co.uk/news/articles/c0jl839j6z3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Burnham's policy choices reveal what kind of PM he wants to be",
+        "url": "https://www.bbc.co.uk/news/articles/c3r0x5nzg0eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 20 Jul 2026 14:35:51 GMT"
+        "time": "Mon, 20 Jul 2026 14:46:53 GMT"
+      },
+      {
+        "title": "Key takeaways as Andy Burnham becomes PM",
+        "url": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 20 Jul 2026 15:29:41 GMT"
       },
       {
         "title": "Watch: Starmer resigns, Burnham becomes PM... the day so far",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c75y4q61eevo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 20 Jul 2026 12:43:13 GMT"
-      },
-      {
-        "title": "Newcastle, Liverpool and England legend Kevin Keegan dies",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 20 Jul 2026 14:38:28 GMT"
       }
     ],
     "projects": [
