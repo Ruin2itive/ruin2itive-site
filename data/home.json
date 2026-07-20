@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-20T00:35:40.641Z",
-  "updated_local": "7/20/2026, 12:35:40 AM",
+  "updated_iso": "2026-07-20T00:52:15.795Z",
+  "updated_local": "7/20/2026, 12:52:15 AM",
   "sections": {
     "crypto": [
       {
@@ -36,28 +36,28 @@
     ],
     "hacker": [
       {
-        "title": "CO2 overload in blood suggests toxic atmosphere within 50 years",
-        "url": "https://doi.org/10.1007/s11869-026-01918-5",
-        "source": "hn",
-        "time": "7/20/2026, 12:10:08 AM"
-      },
-      {
         "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
         "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
         "source": "hn",
         "time": "7/19/2026, 9:18:10 PM"
       },
       {
-        "title": "Qwen 3.8",
-        "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-        "source": "hn",
-        "time": "7/19/2026, 8:44:57 AM"
-      },
-      {
         "title": "The Zen of Parallel Programming",
         "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
         "source": "hn",
         "time": "7/14/2026, 2:23:26 PM"
+      },
+      {
+        "title": "Talk: The Art of Braiding Algorithms",
+        "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+        "source": "hn",
+        "time": "7/15/2026, 1:31:44 PM"
+      },
+      {
+        "title": "Claude Code uses Bun written in Rust now",
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "source": "hn",
+        "time": "7/19/2026, 10:03:23 AM"
       }
     ],
     "world": [
@@ -86,10 +86,10 @@
         "time": "Sun, 19 Jul 2026 19:45:12 GMT"
       },
       {
-        "title": "Tate brothers arrested in US as further UK charges take total to 59",
-        "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 19 Jul 2026 12:53:20 GMT"
+        "time": "Sun, 19 Jul 2026 18:25:40 GMT"
       }
     ],
     "projects": [
