@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-20T00:52:15.795Z",
-  "updated_local": "7/20/2026, 12:52:15 AM",
+  "updated_iso": "2026-07-20T01:38:26.480Z",
+  "updated_local": "7/20/2026, 1:38:26 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
-        "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-        "source": "hn",
-        "time": "7/19/2026, 9:18:10 PM"
-      },
-      {
         "title": "The Zen of Parallel Programming",
         "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
         "source": "hn",
         "time": "7/14/2026, 2:23:26 PM"
+      },
+      {
+        "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+        "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+        "source": "hn",
+        "time": "7/19/2026, 9:42:12 PM"
       },
       {
         "title": "Talk: The Art of Braiding Algorithms",
@@ -54,10 +54,10 @@
         "time": "7/15/2026, 1:31:44 PM"
       },
       {
-        "title": "Claude Code uses Bun written in Rust now",
-        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+        "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
         "source": "hn",
-        "time": "7/19/2026, 10:03:23 AM"
+        "time": "7/19/2026, 10:34:58 AM"
       }
     ],
     "world": [
@@ -71,13 +71,13 @@
         "title": "Burnham to promise 'more breathing room' for people in first speech as PM",
         "url": "https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 19 Jul 2026 20:19:06 GMT"
+        "time": "Mon, 20 Jul 2026 01:11:51 GMT"
       },
       {
-        "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
-        "url": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Chris Mason: Burnham is fifth PM in four years - now he'll try to buck the trend",
+        "url": "https://www.bbc.co.uk/news/articles/cr7knml2y99o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 19 Jul 2026 18:35:16 GMT"
+        "time": "Sun, 19 Jul 2026 23:53:59 GMT"
       },
       {
         "title": "US soldier killed and one injured after Iranian attack in Iraq",
@@ -86,10 +86,10 @@
         "time": "Sun, 19 Jul 2026 19:45:12 GMT"
       },
       {
-        "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "My fitness tracker knew I was pregnant before I did",
+        "url": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 19 Jul 2026 18:25:40 GMT"
+        "time": "Sun, 19 Jul 2026 23:09:18 GMT"
       }
     ],
     "projects": [
