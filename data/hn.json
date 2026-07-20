@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-20T01:34:35.515Z"
+    "built_at": "2026-07-20T03:01:51.931Z"
   },
-  "items": [
-    {
-      "title": "Satan's 19th-Century Bank Note",
-      "url": "https://www.historytoday.com/miscellanies/satans-19th-century-bank-note",
-      "date": "2026-07-20T01:31:12.000Z"
-    },
-    {
-      "title": "The Most Human Technology Ever Made",
-      "url": "https://a16z.com/the-most-human-technology-ever-made/",
-      "date": "2026-07-20T01:30:55.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
