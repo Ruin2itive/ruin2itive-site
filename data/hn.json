@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-20T22:19:06.530Z"
+    "built_at": "2026-07-20T23:20:23.132Z"
   },
-  "items": [
-    {
-      "title": "GPT-5.6 Sol vs. Kimi K3 Speedrunning Kerbal Space Program Live",
-      "url": "https://www.twitch.tv/vals_ai",
-      "date": "2026-07-20T22:14:28.000Z"
-    },
-    {
-      "title": "Fast UTF-8 handling for modern C++ with support for legacy C",
-      "url": "https://developforperformance.com/FastUtf8.html",
-      "date": "2026-07-20T22:13:00.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
