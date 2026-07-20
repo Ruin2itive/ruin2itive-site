@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-20T09:01:23.670Z"
+    "built_at": "2026-07-20T10:59:31.484Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Hail.so – Open-source phone, SMS and email for agents and humans, v0.15",
+      "url": "https://github.com/hail-hq/hail/",
+      "date": "2026-07-20T10:55:50.000Z"
+    },
+    {
+      "title": "Mid-tier factory EDC knives worth buying?",
+      "url": "https://www.paragon-knives.com/",
+      "date": "2026-07-20T10:55:00.000Z"
+    }
+  ]
 }
