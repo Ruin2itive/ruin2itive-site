@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-20T19:31:18.295Z"
+    "built_at": "2026-07-20T20:28:56.566Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Can Seedance 2.0 Draw in 2D? The Anime Animation Playbook",
+      "url": "https://www.atlascloud.ai/blog/guides/seedance-2.0-animation-2d",
+      "date": "2026-07-20T20:26:09.000Z"
+    },
+    {
+      "title": "Wrote some thoughts on a passion-project game idea I've been tinkering with",
+      "url": "https://bennorthmore.com/journals/a-game-about-laundry/",
+      "date": "2026-07-20T20:25:33.000Z"
+    }
+  ]
 }
