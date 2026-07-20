@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-20T13:39:00.166Z",
-  "updated_local": "7/20/2026, 1:39:00 PM",
+  "updated_iso": "2026-07-20T14:45:42.336Z",
+  "updated_local": "7/20/2026, 2:45:42 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
+        "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
+        "source": "crypto",
+        "time": "Mon, 20 Jul 2026 13:47:06 +0000"
+      },
       {
         "title": "Morning Minute: Hyperliquid Opens Prediction Markets to Anyone in HIP-4 Upgrade",
         "url": "https://decrypt.co/373828/morning-minute-hyperliquid-opens-prediction-markets-to-anyone-in-hip-4-upgrade",
@@ -26,20 +32,20 @@
         "url": "https://decrypt.co/373767/ecb-warns-stablecoins-drain-bank-deposits",
         "source": "crypto",
         "time": "Fri, 17 Jul 2026 20:17:44 +0000"
-      },
-      {
-        "title": "Cardano Pumps as Network Moves to Further Decentralize Development",
-        "url": "https://decrypt.co/373749/caradno-ada-price-spikes-iohk-decentralizing-development",
-        "source": "crypto",
-        "time": "Fri, 17 Jul 2026 19:12:41 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Stop Using OpenCode",
-        "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+        "title": "Hacker wipes Romania's land registry database",
+        "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
         "source": "hn",
-        "time": "7/20/2026, 12:45:55 PM"
+        "time": "7/20/2026, 1:28:33 PM"
+      },
+      {
+        "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
+        "url": "https://spectrum.ieee.org/led-light-pollution",
+        "source": "hn",
+        "time": "7/20/2026, 1:07:11 PM"
       },
       {
         "title": "Airport Simulator",
@@ -48,16 +54,16 @@
         "time": "7/20/2026, 10:30:40 AM"
       },
       {
+        "title": "Perfection Is Not Over-Engineering",
+        "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+        "source": "hn",
+        "time": "7/20/2026, 2:10:30 PM"
+      },
+      {
         "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
         "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
         "source": "hn",
         "time": "7/20/2026, 8:13:36 AM"
-      },
-      {
-        "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
-        "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-        "source": "hn",
-        "time": "7/20/2026, 12:14:08 PM"
       }
     ],
     "world": [
@@ -68,16 +74,16 @@
         "time": "Mon, 20 Jul 2026 13:03:23 GMT"
       },
       {
+        "title": "Burnham pledges to end rough sleeping in first speech as prime minister",
+        "url": "https://www.bbc.co.uk/news/articles/c0jl839j6z3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 20 Jul 2026 14:35:51 GMT"
+      },
+      {
         "title": "Watch: Starmer resigns, Burnham becomes PM... the day so far",
         "url": "https://www.bbc.co.uk/news/videos/cd0xgxgz135o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 20 Jul 2026 12:49:18 GMT"
-      },
-      {
-        "title": "New PM vows to end rough sleeping in first policy pledge",
-        "url": "https://www.bbc.co.uk/news/articles/c0jl839j6z3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 20 Jul 2026 13:23:07 GMT"
       },
       {
         "title": "Who is Andy Burnham's wife, Marie-France van Heel?",
@@ -86,10 +92,10 @@
         "time": "Mon, 20 Jul 2026 12:43:13 GMT"
       },
       {
-        "title": "Broadcaster and journalist Edward Stourton dies aged 68",
-        "url": "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Newcastle, Liverpool and England legend Kevin Keegan dies",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 20 Jul 2026 07:30:13 GMT"
+        "time": "Mon, 20 Jul 2026 14:38:28 GMT"
       }
     ],
     "projects": [
