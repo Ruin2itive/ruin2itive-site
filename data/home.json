@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-20T03:05:49.349Z",
-  "updated_local": "7/20/2026, 3:05:49 AM",
+  "updated_iso": "2026-07-20T03:13:20.974Z",
+  "updated_local": "7/20/2026, 3:13:20 AM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,28 @@
     ],
     "hacker": [
       {
-        "title": "Visit Hacker News",
-        "url": "https://news.ycombinator.com/",
+        "title": "Claude Code uses Bun written in Rust now",
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
         "source": "hn",
-        "time": ""
+        "time": "7/19/2026, 10:03:23 AM"
       },
       {
-        "title": "Hacker News Newest Stories",
-        "url": "https://news.ycombinator.com/newest",
+        "title": "The Zen of Parallel Programming",
+        "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
         "source": "hn",
-        "time": ""
+        "time": "7/14/2026, 2:23:26 PM"
       },
       {
-        "title": "Hacker News Best Stories",
-        "url": "https://news.ycombinator.com/best",
+        "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+        "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
         "source": "hn",
-        "time": ""
+        "time": "7/19/2026, 10:34:58 AM"
       },
       {
-        "title": "Hacker News Ask",
-        "url": "https://news.ycombinator.com/ask",
+        "title": "Minecraft: Java Edition now uses SDL3",
+        "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
         "source": "hn",
-        "time": ""
-      },
-      {
-        "title": "Hacker News Show",
-        "url": "https://news.ycombinator.com/show",
-        "source": "hn",
-        "time": ""
+        "time": "7/19/2026, 11:48:18 AM"
       }
     ],
     "world": [
