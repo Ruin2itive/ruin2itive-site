@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-20T19:35:38.379Z",
-  "updated_local": "7/20/2026, 7:35:38 PM",
+  "updated_iso": "2026-07-20T20:30:41.923Z",
+  "updated_local": "7/20/2026, 8:30:41 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Russia&#39;s First Comprehensive Crypto Law Is Two Votes Away From Passing",
+        "url": "https://decrypt.co/373880/russia-first-comprehensive-crypto-law",
+        "source": "crypto",
+        "time": "Mon, 20 Jul 2026 20:02:33 +0000"
+      },
       {
         "title": "Cardano Triggers Hard Fork With First Community-Voted Upgrade",
         "url": "https://decrypt.co/373858/cardano-van-rossem-hard-fork-live-community-upgrade",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/373834/strategy-raises-225m-for-cash-reserve-mstr-sale-bitcoin",
         "source": "crypto",
         "time": "Mon, 20 Jul 2026 15:57:29 +0000"
-      },
-      {
-        "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
-        "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
-        "source": "crypto",
-        "time": "Mon, 20 Jul 2026 13:47:06 +0000"
       }
     ],
     "hacker": [
@@ -40,12 +40,6 @@
         "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
         "source": "hn",
         "time": "7/20/2026, 2:21:47 PM"
-      },
-      {
-        "title": "Hacker wipes Romania's land registry database",
-        "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-        "source": "hn",
-        "time": "7/20/2026, 1:28:33 PM"
       },
       {
         "title": "Kimi Work",
@@ -60,10 +54,16 @@
         "time": "7/20/2026, 5:07:39 PM"
       },
       {
-        "title": "Hyprland 0.55 announced the switch to Lua for its config files",
-        "url": "https://hypr.land/news/update55/",
+        "title": "Hacker wipes Romania's land registry database",
+        "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
         "source": "hn",
-        "time": "7/20/2026, 5:31:57 PM"
+        "time": "7/20/2026, 1:28:33 PM"
+      },
+      {
+        "title": "Nativ: Run frontier open models locally on your Mac",
+        "url": "https://blaizzy.github.io/nativ/",
+        "source": "hn",
+        "time": "7/20/2026, 6:16:08 PM"
       }
     ],
     "world": [
@@ -71,13 +71,13 @@
         "title": "Who's in the cabinet?",
         "url": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 20 Jul 2026 19:20:40 GMT"
+        "time": "Mon, 20 Jul 2026 19:44:56 GMT"
       },
       {
-        "title": "Faisal Islam: The new PM has big ideas - but what will they cost?",
-        "url": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Starmer resigns, Burnham becomes PM... the day in 101 seconds",
+        "url": "https://www.bbc.co.uk/news/videos/cd0xgxgz135o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 20 Jul 2026 18:21:31 GMT"
+        "time": "Mon, 20 Jul 2026 12:49:18 GMT"
       },
       {
         "title": "Burnham promises help with your money. How could it affect you?",
@@ -86,16 +86,16 @@
         "time": "Mon, 20 Jul 2026 18:22:46 GMT"
       },
       {
-        "title": "John Healey becomes chancellor weeks after shock resignation from defence job",
-        "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Faisal Islam: The new PM has big ideas - but what will they cost?",
+        "url": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 20 Jul 2026 18:44:55 GMT"
+        "time": "Mon, 20 Jul 2026 18:21:31 GMT"
       },
       {
-        "title": "Key takeaways as Andy Burnham becomes PM",
-        "url": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Chancellor Healey will be under pressure to deliver for armed forces",
+        "url": "https://www.bbc.co.uk/news/articles/cjej92vgxkvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 20 Jul 2026 18:29:18 GMT"
+        "time": "Mon, 20 Jul 2026 19:36:51 GMT"
       }
     ],
     "projects": [
