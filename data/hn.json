@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-21T14:39:56.770Z"
+    "built_at": "2026-07-21T15:32:14.377Z"
   },
-  "items": [
-    {
-      "title": "Dealing with Dickovers",
-      "url": "https://pluralistic.net/2026/07/21/dickovers/",
-      "date": "2026-07-21T14:36:14.000Z"
-    },
-    {
-      "title": "Words to Avoid (Or Use with Care) Because They Are Loaded or Confusing",
-      "url": "https://www.gnu.org/philosophy/words-to-avoid.html#Content",
-      "date": "2026-07-21T14:36:03.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
