@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-21T20:25:51.129Z"
+    "built_at": "2026-07-21T21:25:25.585Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "India's first privately developed rocket reaches low earth orbit in debut launch",
+      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "date": "2026-07-21T21:23:15.000Z"
+    },
+    {
+      "title": "Wolves, Sheep, and Gypsies",
+      "url": "https://world.hey.com/dhh/wolves-sheep-and-gypsies-ba44af6a",
+      "date": "2026-07-21T21:22:13.000Z"
+    }
+  ]
 }
