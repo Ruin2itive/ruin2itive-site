@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-21T14:46:22.451Z",
-  "updated_local": "7/21/2026, 2:46:22 PM",
+  "updated_iso": "2026-07-21T15:34:22.437Z",
+  "updated_local": "7/21/2026, 3:34:22 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,24 @@
     ],
     "hacker": [
       {
+        "title": "Claude Is Not a Compiler",
+        "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+        "source": "hn",
+        "time": "7/21/2026, 2:49:18 PM"
+      },
+      {
+        "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+        "source": "hn",
+        "time": "7/21/2026, 3:17:16 PM"
+      },
+      {
+        "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
+        "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+        "source": "hn",
+        "time": "7/21/2026, 2:31:41 PM"
+      },
+      {
         "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
         "url": "https://qwen.ai/blog?id=qwen-image-3.0",
         "source": "hn",
@@ -46,38 +64,20 @@
         "url": "https://www.pcjs.org/",
         "source": "hn",
         "time": "7/21/2026, 1:48:35 PM"
-      },
-      {
-        "title": "Over 400 Linux CVEs published in the last 24 hours alone",
-        "url": "https://lore.kernel.org/linux-cve-announce/",
-        "source": "hn",
-        "time": "7/21/2026, 2:16:02 PM"
-      },
-      {
-        "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog",
-        "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
-        "source": "hn",
-        "time": "7/15/2026, 9:07:02 AM"
-      },
-      {
-        "title": "Who's afraid of Chinese models?",
-        "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-        "source": "hn",
-        "time": "7/20/2026, 11:05:58 AM"
       }
     ],
     "world": [
       {
-        "title": "London-based civil servants offered move to No 10 North in Manchester",
-        "url": "https://www.bbc.co.uk/news/articles/c9d8p0l29pxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 21 Jul 2026 12:56:18 GMT"
-      },
-      {
         "title": "Ann Widdecombe was hit on head 21 times with hammer, prosecutors say",
         "url": "https://www.bbc.co.uk/news/articles/cj03r77n07jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 21 Jul 2026 13:57:20 GMT"
+        "time": "Tue, 21 Jul 2026 14:46:58 GMT"
+      },
+      {
+        "title": "London-based civil servants offered move to No 10 North in Manchester",
+        "url": "https://www.bbc.co.uk/news/articles/c9d8p0l29pxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 21 Jul 2026 15:12:02 GMT"
       },
       {
         "title": "Row escalates in Ukraine over army chief's future",
