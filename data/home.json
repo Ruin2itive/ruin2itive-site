@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-21T18:36:11.333Z",
-  "updated_local": "7/21/2026, 6:36:11 PM",
+  "updated_iso": "2026-07-21T19:31:13.617Z",
+  "updated_local": "7/21/2026, 7:31:13 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
+        "url": "https://decrypt.co/373975/google-new-gemini-flash-models-pro-still-missing",
+        "source": "crypto",
+        "time": "Tue, 21 Jul 2026 18:55:45 +0000"
+      },
       {
         "title": "Augustus Raises $180 Million to Build a Stablecoin-Ready &#39;Global Dollar Bank&#39;",
         "url": "https://decrypt.co/373996/augustus-raises-180-million-stablecoin-global-dollar-bank",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/373940/jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses",
         "source": "crypto",
         "time": "Tue, 21 Jul 2026 16:06:20 +0000"
-      },
-      {
-        "title": "Galaxy Commits Up to $5 Million to Prepare Bitcoin for Quantum Threat",
-        "url": "https://decrypt.co/373908/galaxy-commits-5-million-prepare-bitcoin-quantum-threat",
-        "source": "crypto",
-        "time": "Tue, 21 Jul 2026 12:01:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
+        "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+        "source": "hn",
+        "time": "7/21/2026, 6:30:21 PM"
+      },
       {
         "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
         "url": "https://e360.yale.edu/digest/benin-coral-reef",
@@ -42,28 +48,22 @@
         "time": "7/21/2026, 3:41:51 PM"
       },
       {
+        "title": "Freeink: Open Ecosystem for E-Readers",
+        "url": "https://freeink.org/",
+        "source": "hn",
+        "time": "7/21/2026, 6:39:06 PM"
+      },
+      {
+        "title": "Cheap Self-Hosted Kubernetes on Hetzner Cloud",
+        "url": "https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/",
+        "source": "hn",
+        "time": "7/21/2026, 6:25:08 PM"
+      },
+      {
         "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
         "source": "hn",
         "time": "7/21/2026, 3:17:16 PM"
-      },
-      {
-        "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
-        "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
-        "source": "hn",
-        "time": "7/21/2026, 5:03:18 PM"
-      },
-      {
-        "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-        "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-        "source": "hn",
-        "time": "7/21/2026, 5:14:06 PM"
-      },
-      {
-        "title": "PCjs Machines",
-        "url": "https://www.pcjs.org/",
-        "source": "hn",
-        "time": "7/21/2026, 1:48:35 PM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "Burnham tells cabinet to tackle living costs at first meeting",
         "url": "https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 21 Jul 2026 17:25:41 GMT"
+        "time": "Tue, 21 Jul 2026 19:00:23 GMT"
       },
       {
         "title": "Sackings, cabinet surprises and policies: Burnham's first 24 hours as PM",
@@ -95,7 +95,7 @@
         "title": "Row escalates in Ukraine over army chief's future",
         "url": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 21 Jul 2026 12:33:15 GMT"
+        "time": "Tue, 21 Jul 2026 18:49:19 GMT"
       }
     ],
     "projects": [
