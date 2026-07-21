@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-21T08:51:59.519Z"
+    "built_at": "2026-07-21T09:48:45.735Z"
   },
-  "items": [
-    {
-      "title": "The Night France Saved the British Grid",
-      "url": "https://dispatches.kilowatts.io/p/a-midsummer-nights-near-miss",
-      "date": "2026-07-21T08:51:03.000Z"
-    },
-    {
-      "title": "SwiftUI After 7 Years: A Story of Mediocrity [video]",
-      "url": "https://www.youtube.com/watch?v=3XaHHFOZeJg",
-      "date": "2026-07-21T08:50:46.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
