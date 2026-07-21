@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-21T19:34:53.779Z",
-  "updated_local": "7/21/2026, 7:34:53 PM",
+  "updated_iso": "2026-07-21T20:27:52.859Z",
+  "updated_local": "7/21/2026, 8:27:52 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet",
+        "url": "https://decrypt.co/374001/pavel-durov-telegram-crypto-wallet-billion-users",
+        "source": "crypto",
+        "time": "Tue, 21 Jul 2026 20:20:49 +0000"
+      },
       {
         "title": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
         "url": "https://decrypt.co/373975/google-new-gemini-flash-models-pro-still-missing",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/373951/xrp-price-clarity-act-hopes-charts-cautious",
         "source": "crypto",
         "time": "Tue, 21 Jul 2026 16:20:29 +0000"
-      },
-      {
-        "title": "Jack Mallers Quits Twenty One Capital as Tether&#39;s Bitcoin Merger Collapses",
-        "url": "https://decrypt.co/373940/jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses",
-        "source": "crypto",
-        "time": "Tue, 21 Jul 2026 16:06:20 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
-        "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-        "source": "hn",
-        "time": "7/21/2026, 6:30:21 PM"
-      },
-      {
-        "title": "Freeink: Open Ecosystem for E-Readers",
+        "title": "FreeInk: Open ecosystem for e-readers",
         "url": "https://freeink.org/",
         "source": "hn",
         "time": "7/21/2026, 6:39:06 PM"
+      },
+      {
+        "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+        "source": "hn",
+        "time": "7/21/2026, 3:17:16 PM"
       },
       {
         "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
@@ -54,16 +54,16 @@
         "time": "7/21/2026, 3:41:51 PM"
       },
       {
-        "title": "Cheap Self-Hosted Kubernetes on Hetzner Cloud",
-        "url": "https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/",
+        "title": "OpenAI and Hugging Face partner to address security incident",
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
         "source": "hn",
-        "time": "7/21/2026, 6:25:08 PM"
+        "time": "7/21/2026, 8:09:52 PM"
       },
       {
-        "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+        "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+        "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
         "source": "hn",
-        "time": "7/21/2026, 3:17:16 PM"
+        "time": "7/21/2026, 5:14:06 PM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "Burnham tells cabinet to tackle living costs at first meeting",
         "url": "https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 21 Jul 2026 19:00:23 GMT"
+        "time": "Tue, 21 Jul 2026 20:09:03 GMT"
       },
       {
         "title": "Sackings, cabinet surprises and policies: Burnham's first 24 hours as PM",
@@ -86,16 +86,16 @@
         "time": "Tue, 21 Jul 2026 17:14:44 GMT"
       },
       {
+        "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+        "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 21 Jul 2026 19:57:38 GMT"
+      },
+      {
         "title": "Argentina's Fernandez defends team after ugly scenes in World Cup final loss to Spain",
         "url": "https://www.bbc.co.uk/sport/football/articles/c8jn91e9mdyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 21 Jul 2026 13:19:17 GMT"
-      },
-      {
-        "title": "Row escalates in Ukraine over army chief's future",
-        "url": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 21 Jul 2026 18:49:19 GMT"
       }
     ],
     "projects": [
