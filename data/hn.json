@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-21T12:30:52.032Z"
+    "built_at": "2026-07-21T13:31:13.019Z"
   },
-  "items": [
-    {
-      "title": "AliExpress gets record €550M fine from EU for allowing sale of illegal products",
-      "url": "https://www.bbc.co.uk/news/articles/cp8714286dpo",
-      "date": "2026-07-21T12:30:17.000Z"
-    },
-    {
-      "title": "Codekeel: A context drift governance tool for Claude Code",
-      "url": "https://github.com/HabibiCodeCH/codekeel",
-      "date": "2026-07-21T12:26:40.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
