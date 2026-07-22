@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-22T21:23:29.674Z"
+    "built_at": "2026-07-22T22:20:33.090Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: ValuePair – a friendship app that cares about values first",
+      "url": "https://valuepair.app",
+      "date": "2026-07-22T22:20:00.000Z"
+    },
+    {
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "date": "2026-07-22T22:18:12.000Z"
+    }
+  ]
 }
