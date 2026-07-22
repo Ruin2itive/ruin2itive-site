@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-22T12:41:09.351Z",
-  "updated_local": "7/22/2026, 12:41:09 PM",
+  "updated_iso": "2026-07-22T13:33:39.754Z",
+  "updated_local": "7/22/2026, 1:33:39 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Justin Sun&#39;s HTX &#39;Rotating&#39; On-Chain Wallets Amid UK Sanctions: TRM Labs",
+        "url": "https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs",
+        "source": "crypto",
+        "time": "Wed, 22 Jul 2026 12:44:48 +0000"
+      },
       {
         "title": "Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face",
         "url": "https://decrypt.co/374029/morning-minute-openai-model-escapes-containment-hacks-hugging-face",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark",
         "source": "crypto",
         "time": "Tue, 21 Jul 2026 21:29:03 +0000"
-      },
-      {
-        "title": "Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet",
-        "url": "https://decrypt.co/374001/pavel-durov-telegram-crypto-wallet-billion-users",
-        "source": "crypto",
-        "time": "Tue, 21 Jul 2026 20:20:49 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,16 @@
         "time": "7/22/2026, 10:49:04 AM"
       },
       {
-        "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-        "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o",
+        "title": "Back to Kagi",
+        "url": "https://blog.melashri.net/micro/back-to-kagi/",
         "source": "hn",
-        "time": "7/22/2026, 12:03:32 PM"
+        "time": "7/22/2026, 1:08:19 PM"
+      },
+      {
+        "title": "Businesses with ugly AI menu redesigns",
+        "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+        "source": "hn",
+        "time": "7/22/2026, 12:49:45 PM"
       },
       {
         "title": "OpenAI and Hugging Face address security incident during model evaluation",
@@ -58,12 +64,6 @@
         "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
         "source": "hn",
         "time": "7/19/2026, 3:49:58 PM"
-      },
-      {
-        "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-        "url": "https://fireworks.ai/blog/kimik3-fable",
-        "source": "hn",
-        "time": "7/21/2026, 10:35:24 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Burnham to review early prisoner release scheme after anger over potential freeing of PC Harper's killers",
         "url": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 22 Jul 2026 12:30:48 GMT"
+        "time": "Wed, 22 Jul 2026 13:03:46 GMT"
       },
       {
         "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
@@ -80,22 +80,22 @@
         "time": "Wed, 22 Jul 2026 10:00:04 GMT"
       },
       {
-        "title": "Some food prices have fallen – but inflation expected to rise from here",
-        "url": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ex-Southern Water boss among four charged over alleged plan to manipulate water quality tests",
+        "url": "https://www.bbc.co.uk/news/articles/c36d0njy7jjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 22 Jul 2026 10:10:01 GMT"
-      },
-      {
-        "title": "Southampton boss Eckert charged by FA over Spygate",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c93480l4ex7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 22 Jul 2026 10:30:54 GMT"
+        "time": "Wed, 22 Jul 2026 13:27:57 GMT"
       },
       {
         "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
         "url": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 22 Jul 2026 11:40:11 GMT"
+      },
+      {
+        "title": "Southampton boss Eckert charged by FA over Spygate",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c93480l4ex7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 22 Jul 2026 10:30:54 GMT"
       }
     ],
     "projects": [
