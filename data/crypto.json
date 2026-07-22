@@ -4,18 +4,18 @@
     "label": "decrypt",
     "source_url": "https://decrypt.co/feed",
     "take": 2,
-    "built_at": "2026-07-22T10:42:29.736Z"
+    "built_at": "2026-07-22T11:34:13.790Z"
   },
   "items": [
+    {
+      "title": "Jack Dorsey's Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents",
+      "url": "https://decrypt.co/374026/jack-dorseys-block-launches-buzz-a-nostr-based-slack-and-github-rival-for-ai-agents",
+      "date": "2026-07-22T11:03:43.000Z"
+    },
     {
       "title": "DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC",
       "url": "https://decrypt.co/374018/dat-satsuma-unwind-bitcoin-treasury-sell-off-btc",
       "date": "2026-07-22T00:32:58.000Z"
-    },
-    {
-      "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
-      "url": "https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark",
-      "date": "2026-07-21T21:29:03.000Z"
     }
   ]
 }
