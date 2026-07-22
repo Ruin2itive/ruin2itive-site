@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-22T10:44:25.519Z",
-  "updated_local": "7/22/2026, 10:44:25 AM",
+  "updated_iso": "2026-07-22T11:35:53.997Z",
+  "updated_local": "7/22/2026, 11:35:53 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Jack Dorsey&#39;s Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents",
+        "url": "https://decrypt.co/374026/jack-dorseys-block-launches-buzz-a-nostr-based-slack-and-github-rival-for-ai-agents",
+        "source": "crypto",
+        "time": "Wed, 22 Jul 2026 11:03:43 +0000"
+      },
       {
         "title": "DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC",
         "url": "https://decrypt.co/374018/dat-satsuma-unwind-bitcoin-treasury-sell-off-btc",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/373975/google-new-gemini-flash-models-pro-still-missing",
         "source": "crypto",
         "time": "Tue, 21 Jul 2026 18:55:45 +0000"
-      },
-      {
-        "title": "Augustus Raises $180 Million to Build a Stablecoin-Ready &#39;Global Dollar Bank&#39;",
-        "url": "https://decrypt.co/373996/augustus-raises-180-million-stablecoin-global-dollar-bank",
-        "source": "crypto",
-        "time": "Tue, 21 Jul 2026 18:13:48 +0000"
       }
     ],
     "hacker": [
@@ -68,12 +68,6 @@
     ],
     "world": [
       {
-        "title": "Chris Mason: Another Starmer critic gets promotion as Sarwar joins Burnham government",
-        "url": "https://www.bbc.co.uk/news/articles/cx2rv14em3jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 22 Jul 2026 05:22:32 GMT"
-      },
-      {
         "title": "PC Harper killers' potential early release is an 'insult', says his mother",
         "url": "https://www.bbc.co.uk/news/articles/c89nxj4d5pqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -86,7 +80,7 @@
         "time": "Wed, 22 Jul 2026 10:00:04 GMT"
       },
       {
-        "title": "Food prices have fallen – but inflation expected to rise from here",
+        "title": "Some food prices have fallen – but inflation expected to rise from here",
         "url": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 22 Jul 2026 10:10:01 GMT"
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/sport/football/articles/c93480l4ex7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 22 Jul 2026 10:30:54 GMT"
+      },
+      {
+        "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+        "url": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 22 Jul 2026 11:07:55 GMT"
       }
     ],
     "projects": [
