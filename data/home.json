@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-22T14:45:27.302Z",
-  "updated_local": "7/22/2026, 2:45:27 PM",
+  "updated_iso": "2026-07-22T15:33:08.821Z",
+  "updated_local": "7/22/2026, 3:33:08 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "US Seizes More Than $25M in Crypto Tied to Investment and Romance Scams",
+        "url": "https://decrypt.co/374049/us-seizes-more-than-25m-in-crypto-tied-to-investment-and-romance-scams",
+        "source": "crypto",
+        "time": "Wed, 22 Jul 2026 15:10:46 +0000"
+      },
       {
         "title": "Centralized Elements &#39;Frequently Persist&#39; in DeFi and Should Be Regulated: FATF",
         "url": "https://decrypt.co/374041/centralized-elements-frequently-persist-in-defi-and-should-be-regulated-fatf",
@@ -26,32 +32,14 @@
         "url": "https://decrypt.co/374026/jack-dorseys-block-launches-buzz-a-nostr-based-slack-and-github-rival-for-ai-agents",
         "source": "crypto",
         "time": "Wed, 22 Jul 2026 11:03:43 +0000"
-      },
-      {
-        "title": "DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC",
-        "url": "https://decrypt.co/374018/dat-satsuma-unwind-bitcoin-treasury-sell-off-btc",
-        "source": "crypto",
-        "time": "Wed, 22 Jul 2026 00:32:58 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "I Built a Private Genomics Study with Stoffel MPC",
-        "url": "https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/",
+        "title": "The startup's Postgres survival guide",
+        "url": "https://hatchet.run/blog/postgres-survival-guide",
         "source": "hn",
-        "time": "7/22/2026, 2:35:55 PM"
-      },
-      {
-        "title": "How to Read a Painting",
-        "url": "https://sheets.works/data-viz/how-to-read-a-painting/",
-        "source": "hn",
-        "time": "7/22/2026, 2:31:55 PM"
-      },
-      {
-        "title": "Introduction to Formal Verification with Lean Part 1",
-        "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
-        "source": "hn",
-        "time": "7/19/2026, 3:49:58 PM"
+        "time": "7/22/2026, 12:36:08 PM"
       },
       {
         "title": "OpenAI and Hugging Face address security incident during model evaluation",
@@ -60,30 +48,36 @@
         "time": "7/21/2026, 8:09:52 PM"
       },
       {
-        "title": "OpenNode – Bitcoin Payment Processor",
-        "url": "https://opennode.com/",
+        "title": "10 REM\"_(C2SLFF4",
+        "url": "https://beej.us/blog/data/mystery-comment/",
         "source": "hn",
-        "time": "7/22/2026, 2:34:23 PM"
+        "time": "7/22/2026, 11:58:09 AM"
+      },
+      {
+        "title": "Introduction to Formal Verification with Lean Part 1",
+        "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+        "source": "hn",
+        "time": "7/19/2026, 3:49:58 PM"
+      },
+      {
+        "title": "I Built a Private Genomics Study with Stoffel MPC",
+        "url": "https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/",
+        "source": "hn",
+        "time": "7/22/2026, 2:35:55 PM"
       }
     ],
     "world": [
       {
-        "title": "Burnham to review early prisoner release scheme after anger over potential freeing of PC Harper's killers",
+        "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
         "url": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 22 Jul 2026 14:01:43 GMT"
+        "time": "Wed, 22 Jul 2026 15:18:15 GMT"
       },
       {
-        "title": "US to announce deal allowing Saudi Arabia a nuclear programme, reports say",
-        "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 22 Jul 2026 12:40:46 GMT"
-      },
-      {
-        "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
+        "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
         "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 22 Jul 2026 10:00:04 GMT"
+        "time": "Wed, 22 Jul 2026 14:52:25 GMT"
       },
       {
         "title": "Ex-Southern Water boss among four charged over alleged plan to manipulate water quality tests",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 22 Jul 2026 11:40:11 GMT"
+      },
+      {
+        "title": "Prince George enjoys coastal fun in new video as he becomes a teenager",
+        "url": "https://www.bbc.co.uk/news/articles/cm2ge7z0708o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 22 Jul 2026 14:42:32 GMT"
       }
     ],
     "projects": [
