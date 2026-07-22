@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-22T09:47:47.828Z"
+    "built_at": "2026-07-22T10:42:29.903Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Chinese companies are taking over the EV market. What's behind their rise?",
+      "url": "https://theconversation.com/chinese-companies-are-taking-over-the-ev-market-whats-behind-their-meteoric-rise-287490",
+      "date": "2026-07-22T10:41:45.000Z"
+    },
+    {
+      "title": "OpenAI expands to Israel: first commercial hires and tech outreach",
+      "url": "https://www.i24news.tv/en/news/israel/economy/artc-openai-expands-to-israel-first-commercial-hires-and-tech-outreach",
+      "date": "2026-07-22T10:39:00.000Z"
+    }
+  ]
 }
