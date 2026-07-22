@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-22T18:24:18.458Z"
+    "built_at": "2026-07-22T19:29:30.171Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Research Rooms for Agents",
+      "url": "https://alexandria.clankercloud.ai/",
+      "date": "2026-07-22T19:28:01.000Z"
+    },
+    {
+      "title": "Claude Security Plugin for Claude Code Now in Beta",
+      "url": "https://claude.com/product/claude-security",
+      "date": "2026-07-22T19:27:07.000Z"
+    }
+  ]
 }
