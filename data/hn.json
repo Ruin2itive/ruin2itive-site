@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-22T06:49:59.911Z"
+    "built_at": "2026-07-22T07:46:49.526Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "A story about Amara's law",
+      "url": "https://twitter.com/stevesi/status/2079726752012616171",
+      "date": "2026-07-22T07:44:34.000Z"
+    },
+    {
+      "title": "Show HN: RadioGuessr – Guess the country from a live radio stream on a 3D globe",
+      "url": "https://www.radioguessr.space/",
+      "date": "2026-07-22T07:44:22.000Z"
+    }
+  ]
 }
