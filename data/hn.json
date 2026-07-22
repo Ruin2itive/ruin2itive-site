@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-22T05:02:21.580Z"
+    "built_at": "2026-07-22T06:49:59.911Z"
   },
-  "items": [
-    {
-      "title": "Study: Digital media may reshape people's willingness to invest cognitive effort",
-      "url": "https://cs.ut.ee/en/news/digital-media-may-reshape-peoples-willingness-invest-cognitive-effort",
-      "date": "2026-07-22T05:00:42.000Z"
-    },
-    {
-      "title": "How Anthropic runs large-scale code migrations with Claude Code",
-      "url": "https://twitter.com/ClaudeDevs/status/2079654423828304282",
-      "date": "2026-07-22T05:00:07.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
