@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-22T15:36:29.518Z",
-  "updated_local": "7/22/2026, 3:36:29 PM",
+  "updated_iso": "2026-07-22T16:31:58.771Z",
+  "updated_local": "7/22/2026, 4:31:58 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack",
+        "url": "https://decrypt.co/374052/hugging-face-ceo-thanks-chinese-ai-saving-day-after-openai-hack",
+        "source": "crypto",
+        "time": "Wed, 22 Jul 2026 16:23:16 +0000"
+      },
       {
         "title": "US Seizes More Than $25M in Crypto Tied to Investment and Romance Scams",
         "url": "https://decrypt.co/374049/us-seizes-more-than-25m-in-crypto-tied-to-investment-and-romance-scams",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/374029/morning-minute-openai-model-escapes-containment-hacks-hugging-face",
         "source": "crypto",
         "time": "Wed, 22 Jul 2026 11:50:29 +0000"
-      },
-      {
-        "title": "Jack Dorsey&#39;s Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents",
-        "url": "https://decrypt.co/374026/jack-dorseys-block-launches-buzz-a-nostr-based-slack-and-github-rival-for-ai-agents",
-        "source": "crypto",
-        "time": "Wed, 22 Jul 2026 11:03:43 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+        "url": "https://bento.page/slides/",
+        "source": "hn",
+        "time": "7/22/2026, 3:19:23 PM"
+      },
       {
         "title": "The startup's Postgres survival guide",
         "url": "https://hatchet.run/blog/postgres-survival-guide",
@@ -42,28 +48,22 @@
         "time": "7/22/2026, 12:36:08 PM"
       },
       {
-        "title": "OpenAI and Hugging Face address security incident during model evaluation",
-        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+        "title": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links",
+        "url": "https://www.orangecrumbs.com/hall/",
         "source": "hn",
-        "time": "7/21/2026, 8:09:52 PM"
+        "time": "7/22/2026, 3:30:36 PM"
       },
       {
-        "title": "10 REM\"_(C2SLFF4",
-        "url": "https://beej.us/blog/data/mystery-comment/",
+        "title": "Making",
+        "url": "https://beej.us/blog/data/ai-making/",
         "source": "hn",
-        "time": "7/22/2026, 11:58:09 AM"
+        "time": "7/22/2026, 3:33:48 PM"
       },
       {
-        "title": "Introduction to Formal Verification with Lean Part 1",
-        "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+        "title": "Airbus Full Scale Foldable Wing Extensions",
+        "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
         "source": "hn",
-        "time": "7/19/2026, 3:49:58 PM"
-      },
-      {
-        "title": "I Built a Private Genomics Study with Stoffel MPC",
-        "url": "https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/",
-        "source": "hn",
-        "time": "7/22/2026, 2:35:55 PM"
+        "time": "7/22/2026, 2:57:24 PM"
       }
     ],
     "world": [
@@ -71,7 +71,13 @@
         "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
         "url": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 22 Jul 2026 15:18:15 GMT"
+        "time": "Wed, 22 Jul 2026 15:43:55 GMT"
+      },
+      {
+        "title": "Most bus fares in England to be capped at £2 from January",
+        "url": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 22 Jul 2026 12:26:03 GMT"
       },
       {
         "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
@@ -83,19 +89,13 @@
         "title": "Ex-Southern Water boss among four charged over alleged plan to manipulate water quality tests",
         "url": "https://www.bbc.co.uk/news/articles/c36d0njy7jjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 22 Jul 2026 13:51:38 GMT"
+        "time": "Wed, 22 Jul 2026 16:07:15 GMT"
       },
       {
         "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
         "url": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 22 Jul 2026 11:40:11 GMT"
-      },
-      {
-        "title": "Prince George enjoys coastal fun in new video as he becomes a teenager",
-        "url": "https://www.bbc.co.uk/news/articles/cm2ge7z0708o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 22 Jul 2026 14:42:32 GMT"
       }
     ],
     "projects": [
