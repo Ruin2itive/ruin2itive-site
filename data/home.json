@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-22T17:33:25.247Z",
-  "updated_local": "7/22/2026, 5:33:25 PM",
+  "updated_iso": "2026-07-22T18:27:14.118Z",
+  "updated_local": "7/22/2026, 6:27:14 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Clarity Act Latest Draft Bars Trump From Crypto Ventures—But Only Until 2029",
+        "url": "https://decrypt.co/374056/clarity-act-draft-trump-crypto-ventures",
+        "source": "crypto",
+        "time": "Wed, 22 Jul 2026 17:51:54 +0000"
+      },
       {
         "title": "Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack",
         "url": "https://decrypt.co/374052/hugging-face-ceo-thanks-chinese-ai-saving-day-after-openai-hack",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs",
         "source": "crypto",
         "time": "Wed, 22 Jul 2026 12:44:48 +0000"
-      },
-      {
-        "title": "Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face",
-        "url": "https://decrypt.co/374029/morning-minute-openai-model-escapes-containment-hacks-hugging-face",
-        "source": "crypto",
-        "time": "Wed, 22 Jul 2026 11:50:29 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+        "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+        "source": "hn",
+        "time": "7/22/2026, 5:30:40 PM"
+      },
       {
         "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
         "url": "https://bento.page/slides/",
@@ -42,10 +48,10 @@
         "time": "7/22/2026, 3:19:23 PM"
       },
       {
-        "title": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links",
-        "url": "https://www.orangecrumbs.com/hall/",
+        "title": "GigaToken: ~1000x faster Language model tokenization",
+        "url": "https://github.com/marcelroed/gigatoken/",
         "source": "hn",
-        "time": "7/22/2026, 3:30:36 PM"
+        "time": "7/22/2026, 5:20:38 PM"
       },
       {
         "title": "Making",
@@ -58,12 +64,6 @@
         "url": "https://hatchet.run/blog/postgres-survival-guide",
         "source": "hn",
         "time": "7/22/2026, 12:36:08 PM"
-      },
-      {
-        "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
-        "url": "https://cruciblebench.ai/",
-        "source": "hn",
-        "time": "7/22/2026, 3:39:01 PM"
       }
     ],
     "world": [
