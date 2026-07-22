@@ -4,8 +4,18 @@
     "label": "reuters",
     "source_url": "https://news.google.com/rss/search?q=site%3Areuters.com%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
     "take": 2,
-    "built_at": "2026-07-22T15:31:26.917Z"
+    "built_at": "2026-07-22T16:29:02.335Z"
   },
-  "error": "HTTP 503",
-  "items": []
+  "items": [
+    {
+      "title": "New US 25% tariff hits billions of dollars in Brazilian exports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjY3ME5qS0NZMjBDZEtBVUJPbWdMTC0yMDZaTFhlTGE0NnI2a3Ffc2FKNVNDWVdHUDFybVlhR3pxOTBzVDl4MFU5VkxfbVZHdEFIY0JpMU95VTNENjdhUDFOSV9IQUNDbWJDNGJyY0VKalVxSGREUm9GWE9rNWFXX3I0OWEtVDY1MlVIUHR6QTJqNUJhV3Y1OXg0clVaclZ4TGk4d3dhcFZRZlE?oc=5",
+      "date": "2026-07-22T16:01:48.000Z"
+    },
+    {
+      "title": "Extreme rainfall threatens north as China enters peak flood season - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZjAyNDB0cWU1OEREX3NPQjdERzZtcUtzcUNjcjd4aGFYc3phTXNCM3MxaWlsVmJERkdLUnp1dWFpdHlXV3R2cndlWk1sX3NoU0VhT1BxbnRYWGJPbE91dDBHV1pPUG9Mdkl4UDJvNkdLdkFpeVNBRnpMdkVOR0dwLTdCaUM4MUtPVUh0Ulp3TlNydGxxX0RiR1NBSVRCRFFEYmNWbjJzbXRjR1djZGVEZHduSEprNU5mRDUzcQ?oc=5",
+      "date": "2026-07-22T15:47:33.000Z"
+    }
+  ]
 }
