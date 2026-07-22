@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-21T23:18:02.097Z"
+    "built_at": "2026-07-22T00:24:07.260Z"
   },
-  "items": [
-    {
-      "title": "Scaleway: [fr-par-1] – Issue with Compute Instances",
-      "url": "https://status.scaleway.com/incidents/bsp2y5fysy9w",
-      "date": "2026-07-21T23:14:42.000Z"
-    },
-    {
-      "title": "Jimothy? He has an 8-bit Retro Video Game (in a single HTML file)",
-      "url": "https://arcade.pirillo.com/jimothy.html",
-      "date": "2026-07-21T23:07:39.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
