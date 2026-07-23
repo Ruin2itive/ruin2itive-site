@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-23T01:41:03.411Z",
-  "updated_local": "7/23/2026, 1:41:03 AM",
+  "updated_iso": "2026-07-23T03:05:02.103Z",
+  "updated_local": "7/23/2026, 3:05:02 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "Run large language models at home, BitTorrent‑style",
+        "url": "https://petals.dev/",
+        "source": "hn",
+        "time": "7/23/2026, 1:33:12 AM"
+      },
+      {
+        "title": "Codeberg Bans Cryptocurrency Projects",
+        "url": "https://codeberg.org/Codeberg/org/pulls/1254",
+        "source": "hn",
+        "time": "7/23/2026, 1:06:56 AM"
+      },
+      {
         "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
         "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
         "source": "hn",
@@ -52,18 +64,6 @@
         "url": "https://github.com/marcelroed/gigatoken/",
         "source": "hn",
         "time": "7/22/2026, 5:20:38 PM"
-      },
-      {
-        "title": "Medici family mystery may be solved after more than 400 years",
-        "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-        "source": "hn",
-        "time": "7/22/2026, 9:55:34 PM"
-      },
-      {
-        "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-        "url": "https://bento.page/slides/",
-        "source": "hn",
-        "time": "7/22/2026, 3:19:23 PM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 23 Jul 2026 00:21:53 GMT"
+      },
+      {
+        "title": "Houthis claim attack on oil tankers after US launches more strikes on Iran",
+        "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 23 Jul 2026 02:33:04 GMT"
       },
       {
         "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 22 Jul 2026 14:52:25 GMT"
-      },
-      {
-        "title": "Hope for thousands of MS patients as 'life-changing' drug now on NHS in England",
-        "url": "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 22 Jul 2026 23:38:58 GMT"
       }
     ],
     "projects": [
