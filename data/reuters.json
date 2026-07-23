@@ -4,8 +4,18 @@
     "label": "reuters",
     "source_url": "https://news.google.com/rss/search?q=site%3Areuters.com%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
     "take": 2,
-    "built_at": "2026-07-23T01:33:36.334Z"
+    "built_at": "2026-07-23T03:01:16.149Z"
   },
-  "error": "HTTP 503",
-  "items": []
+  "items": [
+    {
+      "title": "Musk keeps Tesla-SpaceX merger speculation alive, cites growing overlap - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUNadzdGd1U1QzFkUTNhbFhvT1QtNFREV0phUjY0ZG9vZWFVR3JPVU1iR1JrUVM1T1M0ZDdEeGtCUW5YUTlqbnZwUk5HdnB0MDNBWkRwZWpMLXN3RDdkOVhvdUJkQXMxMnloY0t5RFdKY0NjRl9sTjFDZ2dscl82ZEVTRHVZT3JyeXQyNDRzLVRHMlBKY05hamY2UUNVM3F2ZTdlTmdkR0FlaVdhd2E5b0k5NG1KeUhfQkVJMnZYR0hrSE9f?oc=5",
+      "date": "2026-07-23T01:13:00.000Z"
+    },
+    {
+      "title": "Oil prices rise to six-week high as US-Iran tensions escalate - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEZlQTh2dnVnblEzaVc4eE81SE92UFhTN2VJSXQ4RGdOQVFLU2FuUTB6d19yWWotOFZzQTRaRmlPanZpYkdPZ18waTVpd0lsaWJPRU9aZkd5VU9lZ3RvYi00RGh3TUFsV3JYTGpNc21BOE54N01TbmtCOWh2UWtUTFhZQVlfVHBNS2F1ZDhJS01RT001UDRBQ3MwYTFqM25uaUcxX1E4R3JTX1k?oc=5",
+      "date": "2026-07-23T00:40:00.000Z"
+    }
+  ]
 }

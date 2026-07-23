@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-23T01:33:18.600Z"
+    "built_at": "2026-07-23T03:01:12.438Z"
   },
-  "items": [
-    {
-      "title": "Why Stanford Students Walked Out on Sundar Pichai's Commencement Speech",
-      "url": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
-      "date": "2026-07-23T01:29:34.000Z"
-    },
-    {
-      "title": "Ask HN: Will AI assistants become photorealistic video?",
-      "url": "https://news.ycombinator.com/item?id=49015708",
-      "date": "2026-07-23T01:28:08.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
