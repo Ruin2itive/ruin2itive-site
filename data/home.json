@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-23T18:28:35.164Z",
-  "updated_local": "7/23/2026, 6:28:35 PM",
+  "updated_iso": "2026-07-23T18:34:02.618Z",
+  "updated_local": "7/23/2026, 6:34:02 PM",
   "sections": {
     "crypto": [
       {
@@ -48,6 +48,12 @@
         "time": "7/23/2026, 4:53:33 PM"
       },
       {
+        "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+        "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+        "source": "hn",
+        "time": "7/23/2026, 3:18:48 PM"
+      },
+      {
         "title": "Software rendering in 500 lines of bare C++",
         "url": "https://haqr.eu/tinyrenderer/",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://learnopengl.com/",
         "source": "hn",
         "time": "7/23/2026, 2:53:34 PM"
-      },
-      {
-        "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-        "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-        "source": "hn",
-        "time": "7/23/2026, 3:18:48 PM"
       }
     ],
     "world": [
