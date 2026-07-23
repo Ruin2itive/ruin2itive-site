@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-23T12:41:40.626Z",
-  "updated_local": "7/23/2026, 12:41:40 PM",
+  "updated_iso": "2026-07-23T13:34:13.892Z",
+  "updated_local": "7/23/2026, 1:34:13 PM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Understanding the AI Economy",
-        "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
+        "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+        "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
         "source": "hn",
-        "time": "7/23/2026, 12:11:05 PM"
+        "time": "7/23/2026, 1:10:02 PM"
       },
       {
         "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
@@ -48,30 +48,36 @@
         "time": "7/22/2026, 5:30:40 PM"
       },
       {
+        "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+        "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+        "source": "hn",
+        "time": "7/23/2026, 1:00:03 PM"
+      },
+      {
         "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
         "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
         "source": "hn",
         "time": "7/23/2026, 5:40:20 AM"
       },
       {
-        "title": "Quality non-fiction books are the antithesis of AI slop",
-        "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+        "title": "Scanning for Pangram Errors",
+        "url": "https://veryfineprint.substack.com/p/scanning-for-pangram-errors",
         "source": "hn",
-        "time": "7/22/2026, 2:18:05 PM"
-      },
-      {
-        "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
-        "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
-        "source": "hn",
-        "time": "7/21/2026, 10:04:20 AM"
+        "time": "7/17/2026, 9:29:52 AM"
       }
     ],
     "world": [
       {
+        "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+        "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 23 Jul 2026 13:32:41 GMT"
+      },
+      {
         "title": "Police failed to check Manchester synagogue attacker's phones despite arresting him twice",
         "url": "https://www.bbc.co.uk/news/articles/c3d3507ng37o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 23 Jul 2026 12:38:49 GMT"
+        "time": "Thu, 23 Jul 2026 13:05:01 GMT"
       },
       {
         "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
@@ -83,19 +89,13 @@
         "title": "France evacuates 20,000 as wildfires spread in south-west",
         "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 23 Jul 2026 12:17:13 GMT"
+        "time": "Thu, 23 Jul 2026 13:25:02 GMT"
       },
       {
         "title": "Police officer was violent rapist who attacked women over 14 years, BBC reveals",
         "url": "https://www.bbc.co.uk/news/articles/c3v0rq66q3no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 23 Jul 2026 05:12:30 GMT"
-      },
-      {
-        "title": "Airport drop-off fees up by a third - here are the priciest",
-        "url": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 23 Jul 2026 11:25:34 GMT"
       }
     ],
     "projects": [
