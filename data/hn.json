@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-23T06:48:30.894Z"
+    "built_at": "2026-07-23T07:47:35.767Z"
   },
-  "error": "fetch failed",
-  "items": []
+  "items": [
+    {
+      "title": "Bay Aryan Resistance",
+      "url": "https://www.jimgoad.net/bayaryan.html",
+      "date": "2026-07-23T07:47:03.000Z"
+    },
+    {
+      "title": "Lovelace – project management that lives in your repo",
+      "url": "https://lovelace.co/",
+      "date": "2026-07-23T07:44:44.000Z"
+    }
+  ]
 }
