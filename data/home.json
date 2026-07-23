@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-23T17:34:18.975Z",
-  "updated_local": "7/23/2026, 5:34:18 PM",
+  "updated_iso": "2026-07-23T18:28:35.164Z",
+  "updated_local": "7/23/2026, 6:28:35 PM",
   "sections": {
     "crypto": [
       {
@@ -42,25 +42,37 @@
         "time": "7/23/2026, 2:24:43 PM"
       },
       {
-        "title": "Software rendering in 500 lines of bare C++",
-        "url": "https://haqr.eu/tinyrenderer/",
-        "source": "hn",
-        "time": "7/23/2026, 2:17:40 PM"
-      },
-      {
         "title": "What happened to TheNumbers.com",
         "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
         "source": "hn",
         "time": "7/23/2026, 4:53:33 PM"
       },
       {
-        "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-        "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+        "title": "Software rendering in 500 lines of bare C++",
+        "url": "https://haqr.eu/tinyrenderer/",
         "source": "hn",
-        "time": "7/23/2026, 3:18:40 PM"
+        "time": "7/23/2026, 2:17:40 PM"
+      },
+      {
+        "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+        "url": "https://learnopengl.com/",
+        "source": "hn",
+        "time": "7/23/2026, 2:53:34 PM"
+      },
+      {
+        "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+        "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+        "source": "hn",
+        "time": "7/23/2026, 3:18:48 PM"
       }
     ],
     "world": [
+      {
+        "title": "Mum and daughter who died at beach were trying to save boy, 7",
+        "url": "https://www.bbc.co.uk/news/articles/ce97nngd4nlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 23 Jul 2026 17:23:21 GMT"
+      },
       {
         "title": "Oil prices hit $100 for the first time since May",
         "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&amp;at_campaign=rss",
@@ -71,7 +83,7 @@
         "title": "Saudis must recognise Israel for nuclear deal, says Trump",
         "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 23 Jul 2026 16:17:44 GMT"
+        "time": "Thu, 23 Jul 2026 17:58:02 GMT"
       },
       {
         "title": "Haigh, Rayner and Powell likely to regularly work from No 10 North",
@@ -84,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cx27mg0erd3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 23 Jul 2026 13:59:23 GMT"
-      },
-      {
-        "title": "Wildfires and record dry conditions trigger drought in parts of Wales",
-        "url": "https://www.bbc.co.uk/news/articles/c80n5rvx917o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 23 Jul 2026 14:00:51 GMT"
       }
     ],
     "projects": [
