@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-23T09:47:18.725Z"
+    "built_at": "2026-07-23T10:43:22.845Z"
   },
-  "items": [
-    {
-      "title": "Geekbench 7 launches with Ryzen 7 7700 baseline",
-      "url": "https://videocardz.com/newz/geekbench-7-launches-with-ryzen-7-7700-baseline-adds-game-physics-av1-media-and-photo-editing-tests",
-      "date": "2026-07-23T09:45:14.000Z"
-    },
-    {
-      "title": "Show HN: NvChat – A single-exe Windows client for Nvidia's free LLM API",
-      "url": "https://github.com/akon47/NvChat",
-      "date": "2026-07-23T09:44:29.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
