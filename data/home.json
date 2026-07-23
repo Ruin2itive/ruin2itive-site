@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-07-23T18:34:02.618Z",
-  "updated_local": "7/23/2026, 6:34:02 PM",
+  "updated_iso": "2026-07-23T19:30:43.623Z",
+  "updated_local": "7/23/2026, 7:30:43 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Robinhood CEO Vlad Tenev&#39;s X Account Hacked to Shill Fake &#39;Vladhood&#39; Token",
+        "url": "https://decrypt.co/374175/robinhood-ceo-vlad-tenevs-x-account-hacked-to-shill-fake-vladhood-token",
+        "source": "crypto",
+        "time": "Thu, 23 Jul 2026 19:27:57 +0000"
+      },
+      {
+        "title": "Bitcoin May Have Already Bottomed—If the Fed Helps, Says Grayscale",
+        "url": "https://decrypt.co/374156/bitcoin-price-already-bottomed-fed-helps-grayscale",
+        "source": "crypto",
+        "time": "Thu, 23 Jul 2026 18:53:17 +0000"
+      },
       {
         "title": "Brazilian Farmers Are Tokenizing Cows to Get Farm Loans—And It&#39;s Working",
         "url": "https://decrypt.co/374148/brazilian-farmers-cows-blockchain-loans",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/374140/southeast-asian-scam-networks-cost-victims-up-to-114b-in-a-year-un",
         "source": "crypto",
         "time": "Thu, 23 Jul 2026 12:34:20 +0000"
-      },
-      {
-        "title": "Morning Minute: Wall Street Moving Onchain Will Drive the Next Bull Market",
-        "url": "https://decrypt.co/374139/morning-minute-wall-street-moving-onchain-will-drive-the-next-bull-market",
-        "source": "crypto",
-        "time": "Thu, 23 Jul 2026 12:02:52 +0000"
-      },
-      {
-        "title": "Crypto &#39;Wrench Attacks&#39; Cost Victims $124M in Six Months, Up 12x: CertiK",
-        "url": "https://decrypt.co/374136/crypto-wrench-attacks-cost-victims-124m-in-six-months-up-12x-certik",
-        "source": "crypto",
-        "time": "Thu, 23 Jul 2026 11:10:51 +0000"
       }
     ],
     "hacker": [
@@ -48,10 +48,10 @@
         "time": "7/23/2026, 4:53:33 PM"
       },
       {
-        "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-        "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+        "title": "Building on ATProto",
+        "url": "https://lukekanies.com/writing/building-on-atproto/",
         "source": "hn",
-        "time": "7/23/2026, 3:18:48 PM"
+        "time": "7/23/2026, 6:23:50 PM"
       },
       {
         "title": "Software rendering in 500 lines of bare C++",
@@ -60,13 +60,19 @@
         "time": "7/23/2026, 2:17:40 PM"
       },
       {
-        "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-        "url": "https://learnopengl.com/",
+        "title": "A solid-state “atomic channel” for separating rare earth elements",
+        "url": "https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements",
         "source": "hn",
-        "time": "7/23/2026, 2:53:34 PM"
+        "time": "7/23/2026, 6:13:03 PM"
       }
     ],
     "world": [
+      {
+        "title": "Burnham pauses plan to release some prisoners early from September",
+        "url": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 23 Jul 2026 18:17:54 GMT"
+      },
       {
         "title": "Mum and daughter who died at beach were trying to save boy, 7",
         "url": "https://www.bbc.co.uk/news/articles/ce97nngd4nlo?at_medium=RSS&amp;at_campaign=rss",
@@ -86,16 +92,10 @@
         "time": "Thu, 23 Jul 2026 17:58:02 GMT"
       },
       {
-        "title": "Haigh, Rayner and Powell likely to regularly work from No 10 North",
+        "title": "Senior ministers and aides set to work from No 10 North",
         "url": "https://www.bbc.co.uk/news/articles/czrjl0nev3no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 23 Jul 2026 14:46:01 GMT"
-      },
-      {
-        "title": "Rayner rules out repaying severance cash after making cabinet return",
-        "url": "https://www.bbc.co.uk/news/articles/cx27mg0erd3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 23 Jul 2026 13:59:23 GMT"
       }
     ],
     "projects": [
