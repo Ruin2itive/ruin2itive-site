@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-23T03:11:26.410Z",
-  "updated_local": "7/23/2026, 3:11:26 AM",
+  "updated_iso": "2026-07-23T05:05:46.742Z",
+  "updated_local": "7/23/2026, 5:05:46 AM",
   "sections": {
     "crypto": [
       {
@@ -36,13 +36,13 @@
     ],
     "hacker": [
       {
-        "title": "Run large language models at home, BitTorrent‑style",
-        "url": "https://petals.dev/",
+        "title": "git's –end-of-options Flag",
+        "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
         "source": "hn",
-        "time": "7/23/2026, 1:33:12 AM"
+        "time": "7/21/2026, 1:13:47 PM"
       },
       {
-        "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+        "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
         "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
         "source": "hn",
         "time": "7/22/2026, 5:30:40 PM"
@@ -54,16 +54,16 @@
         "time": "7/22/2026, 2:18:05 PM"
       },
       {
-        "title": "Codeberg Bans Cryptocurrency Projects",
-        "url": "https://codeberg.org/Codeberg/org/pulls/1254",
-        "source": "hn",
-        "time": "7/23/2026, 1:06:56 AM"
-      },
-      {
         "title": "GigaToken: ~1000x faster Language model tokenization",
         "url": "https://github.com/marcelroed/gigatoken/",
         "source": "hn",
         "time": "7/22/2026, 5:20:38 PM"
+      },
+      {
+        "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+        "url": "https://bento.page/slides/",
+        "source": "hn",
+        "time": "7/22/2026, 3:19:23 PM"
       }
     ],
     "world": [
@@ -77,7 +77,13 @@
         "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
         "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 23 Jul 2026 02:33:04 GMT"
+        "time": "Thu, 23 Jul 2026 03:48:27 GMT"
+      },
+      {
+        "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+        "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 23 Jul 2026 04:49:24 GMT"
       },
       {
         "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
@@ -86,16 +92,10 @@
         "time": "Wed, 22 Jul 2026 15:43:55 GMT"
       },
       {
-        "title": "Most bus fares in England to be capped at £2 from January",
-        "url": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hope for thousands of MS patients as 'life-changing' drug now on NHS in England",
+        "url": "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 22 Jul 2026 12:26:03 GMT"
-      },
-      {
-        "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
-        "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 22 Jul 2026 14:52:25 GMT"
+        "time": "Wed, 22 Jul 2026 23:38:58 GMT"
       }
     ],
     "projects": [
