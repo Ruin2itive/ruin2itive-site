@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-23T16:30:16.162Z"
+    "built_at": "2026-07-23T17:29:30.857Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Ali Baba and the Forty Relying Parties",
+      "url": "https://www.jotaen.net/G3zzX/ali-baba-and-the-40-relying-parties/",
+      "date": "2026-07-23T17:28:06.000Z"
+    },
+    {
+      "title": "Show HN: BDFL – Open-source supervisor for Codex and Claude Code",
+      "url": "https://usebdfl.com/",
+      "date": "2026-07-23T17:27:40.000Z"
+    }
+  ]
 }
