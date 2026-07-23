@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-23T10:48:27.884Z",
-  "updated_local": "7/23/2026, 10:48:27 AM",
+  "updated_iso": "2026-07-23T11:37:43.822Z",
+  "updated_local": "7/23/2026, 11:37:43 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Crypto &#39;Wrench Attacks&#39; Cost Victims $124M in Six Months, Up 12x: CertiK",
+        "url": "https://decrypt.co/374136/crypto-wrench-attacks-cost-victims-124m-in-six-months-up-12x-certik",
+        "source": "crypto",
+        "time": "Thu, 23 Jul 2026 11:10:51 +0000"
+      },
       {
         "title": "Arbitrum Perp DEX AFX Trade Drained of $24M, Offers Hacker 30% to Return It",
         "url": "https://decrypt.co/374133/arbitrum-perp-dex-afx-trade-drained-of-24m-offers-hacker-30-to-return-it",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/374106/kraken-parent-xstocks-beyond-us-equities",
         "source": "crypto",
         "time": "Wed, 22 Jul 2026 20:07:34 +0000"
-      },
-      {
-        "title": "Alibaba&#39;s New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty",
-        "url": "https://decrypt.co/374084/alibaba-qwen-image-3-ai-useful-not-just-pretty",
-        "source": "crypto",
-        "time": "Wed, 22 Jul 2026 19:46:59 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Code mode yields a 99.2% cost reduction in our systems",
+        "url": "https://www.agent-swarm.dev/blog/code-mode-token-savings",
+        "source": "hn",
+        "time": "7/23/2026, 10:17:36 AM"
+      },
       {
         "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
         "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
@@ -58,12 +64,6 @@
         "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
         "source": "hn",
         "time": "7/22/2026, 2:18:05 PM"
-      },
-      {
-        "title": "git's –end-of-options Flag",
-        "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-        "source": "hn",
-        "time": "7/21/2026, 1:13:47 PM"
       }
     ],
     "world": [
@@ -83,10 +83,10 @@
         "title": "Friend of Manchester synagogue attacker jailed for plot on military base",
         "url": "https://www.bbc.co.uk/news/articles/cvg791nenvvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 23 Jul 2026 10:46:30 GMT"
+        "time": "Thu, 23 Jul 2026 11:17:00 GMT"
       },
       {
-        "title": "UK millionaires ask Andy Burnham to tax them more",
+        "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
         "url": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 23 Jul 2026 10:43:06 GMT"
@@ -95,7 +95,7 @@
         "title": "Airport drop-off fees up by a third - here are the priciest",
         "url": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 23 Jul 2026 07:03:20 GMT"
+        "time": "Thu, 23 Jul 2026 11:25:34 GMT"
       }
     ],
     "projects": [
