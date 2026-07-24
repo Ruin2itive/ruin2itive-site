@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-24T01:32:56.189Z"
+    "built_at": "2026-07-24T03:01:16.144Z"
   },
-  "items": [
-    {
-      "title": "Broadscale Deep Learning for Maya Settlement Detection in G-LiHT Lidar",
-      "url": "https://link.springer.com/article/10.1007/s10816-025-09741-5",
-      "date": "2026-07-24T01:25:42.000Z"
-    },
-    {
-      "title": "Wayback Machine",
-      "url": "https://web.archive.org",
-      "date": "2026-07-24T01:23:35.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
