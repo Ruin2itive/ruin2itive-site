@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-24T16:38:02.917Z",
-  "updated_local": "7/24/2026, 4:38:02 PM",
+  "updated_iso": "2026-07-24T17:32:22.209Z",
+  "updated_local": "7/24/2026, 5:32:22 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "Claude Opus 5",
+        "url": "https://www.anthropic.com/claude-opus-5-system-card",
+        "source": "hn",
+        "time": "7/24/2026, 4:57:41 PM"
+      },
+      {
+        "title": "As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port",
+        "url": "https://openjdk.org/jeps/541",
+        "source": "hn",
+        "time": "7/24/2026, 4:52:33 PM"
+      },
+      {
         "title": "My security camera shipped a GitHub admin token in its login page",
         "url": "https://hhh.hn/hanwha-github-token/",
         "source": "hn",
@@ -52,18 +64,6 @@
         "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
         "source": "hn",
         "time": "7/24/2026, 12:53:59 PM"
-      },
-      {
-        "title": "The front end framework for correctness: built on Effect, architected like Elm",
-        "url": "https://foldkit.dev/",
-        "source": "hn",
-        "time": "7/24/2026, 3:24:00 PM"
-      },
-      {
-        "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-        "url": "https://bfl.ai/blog/flux-3-mimic",
-        "source": "hn",
-        "time": "7/24/2026, 9:31:48 AM"
       }
     ],
     "world": [
@@ -77,25 +77,25 @@
         "title": "'Extremely significant' bomb in car intercepted on way to NI, Irish police say",
         "url": "https://www.bbc.co.uk/news/articles/cpq82dg0y3qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 24 Jul 2026 15:37:31 GMT"
+        "time": "Fri, 24 Jul 2026 16:53:59 GMT"
       },
       {
         "title": "Officers hurt as police boat hits Westminster Bridge",
         "url": "https://www.bbc.co.uk/news/articles/c935k4k4pezo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 24 Jul 2026 16:30:11 GMT"
+        "time": "Fri, 24 Jul 2026 17:26:37 GMT"
+      },
+      {
+        "title": "Andy Burnham's first week pledges - how much do they add up to?",
+        "url": "https://www.bbc.co.uk/news/articles/cy078kj0ezyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 24 Jul 2026 13:04:47 GMT"
       },
       {
         "title": "Angela Rayner rules out rent controls in England",
         "url": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 24 Jul 2026 14:21:24 GMT"
-      },
-      {
-        "title": "Chris Mason: What Burnham's first week in power tells us about his agenda",
-        "url": "https://www.bbc.co.uk/news/articles/cz97ngjpg3lo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 24 Jul 2026 12:58:58 GMT"
       }
     ],
     "projects": [
