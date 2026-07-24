@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-24T03:01:16.144Z"
+    "built_at": "2026-07-24T05:02:29.006Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "China's All-Out Push to Catch Up with American AI Chips",
+      "url": "https://www.wsj.com/world/china/china-ai-chips-race-949050d0",
+      "date": "2026-07-24T04:58:21.000Z"
+    },
+    {
+      "title": "Cookware Got Worse on Purpose: Who Owns Pyrex and All-Clad Now",
+      "url": "https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose",
+      "date": "2026-07-24T04:57:14.000Z"
+    }
+  ]
 }
