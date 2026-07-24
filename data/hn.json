@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-24T18:28:49.421Z"
+    "built_at": "2026-07-24T19:29:12.190Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "We Created a DuckDB Transpiler",
+      "url": "https://www.cocoalemana.com/blog/building-a-duckdb-transpiler/",
+      "date": "2026-07-24T19:28:30.000Z"
+    },
+    {
+      "title": "Deep Breaths",
+      "url": "https://100-deep-breaths.com",
+      "date": "2026-07-24T19:26:04.000Z"
+    }
+  ]
 }
