@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-24T06:48:40.489Z"
+    "built_at": "2026-07-24T07:46:57.146Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "BuiltWith MCP Registry",
+      "url": "https://builtwith.com/mcp-registry",
+      "date": "2026-07-24T07:45:45.000Z"
+    },
+    {
+      "title": "Oracle severed 21,000 employees during an AI spending spree",
+      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-severed-21-000-employees-114500493.html",
+      "date": "2026-07-24T07:45:25.000Z"
+    }
+  ]
 }
