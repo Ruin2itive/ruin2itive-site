@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-07-24T17:35:28.088Z",
-  "updated_local": "7/24/2026, 5:35:28 PM",
+  "updated_iso": "2026-07-24T18:32:05.988Z",
+  "updated_local": "7/24/2026, 6:32:05 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price",
+        "url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
+        "source": "crypto",
+        "time": "Fri, 24 Jul 2026 18:28:43 +0000"
+      },
+      {
+        "title": "Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage",
+        "url": "https://decrypt.co/374300/clarity-act-ethics-fight-shrinking-calendar-threaten-passage",
+        "source": "crypto",
+        "time": "Fri, 24 Jul 2026 17:50:26 +0000"
+      },
+      {
+        "title": "Poolin, Once One of Bitcoin&#39;s Biggest Mining Pools, Files for Bankruptcy",
+        "url": "https://decrypt.co/374289/poolin-bitcoin-biggest-mining-pools-files-bankruptcy",
+        "source": "crypto",
+        "time": "Fri, 24 Jul 2026 17:44:48 +0000"
+      },
       {
         "title": "Nvidia, Meta, and Microsoft Tell Washington: Don&#39;t Kill Open-Source AI",
         "url": "https://decrypt.co/374282/nvidia-meta-microsoft-washington-dont-kill-open-source-ai",
@@ -14,38 +32,20 @@
         "url": "https://decrypt.co/374281/strategy-overhauls-bitcoin-metrics-debuting-net-bitcoin-per-share",
         "source": "crypto",
         "time": "Fri, 24 Jul 2026 16:21:52 +0000"
-      },
-      {
-        "title": "Bitcoin ETFs Shed $225M, Snapping Seven-Day Inflow Streak as Iran Tensions Spook Markets",
-        "url": "https://decrypt.co/374260/bitcoin-etfs-shed-225m-snapping-inflow-streak-iran-tensions",
-        "source": "crypto",
-        "time": "Fri, 24 Jul 2026 16:17:37 +0000"
-      },
-      {
-        "title": "World Foundation Raises $52.5M to Scale Sam Altman’s ‘Proof of Human’ ID",
-        "url": "https://decrypt.co/374216/world-foundation-raises-52-5m-to-scale-sam-altmans-proof-of-human-id",
-        "source": "crypto",
-        "time": "Fri, 24 Jul 2026 14:57:56 +0000"
-      },
-      {
-        "title": "EU Names Justin Sun&#39;s HTX in Russia Sanctions, Two Months After UK",
-        "url": "https://decrypt.co/374245/eu-names-justin-suns-htx-in-russia-sanctions-two-months-after-uk",
-        "source": "crypto",
-        "time": "Fri, 24 Jul 2026 14:21:37 +0000"
       }
     ],
     "hacker": [
       {
         "title": "Claude Opus 5",
-        "url": "https://www.anthropic.com/claude-opus-5-system-card",
+        "url": "https://www.anthropic.com/news/claude-opus-5",
         "source": "hn",
         "time": "7/24/2026, 4:57:41 PM"
       },
       {
-        "title": "As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port",
-        "url": "https://openjdk.org/jeps/541",
+        "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+        "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
         "source": "hn",
-        "time": "7/24/2026, 4:52:33 PM"
+        "time": "7/24/2026, 1:32:30 PM"
       },
       {
         "title": "My security camera shipped a GitHub admin token in its login page",
@@ -68,22 +68,16 @@
     ],
     "world": [
       {
-        "title": "Southport killer Axel Rudakubana appears to be manipulating the system, families' lawyer says",
-        "url": "https://www.bbc.co.uk/news/articles/cjrvy450jv5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Man describes trying to save mother and daughter who drowned off Essex beach",
+        "url": "https://www.bbc.co.uk/news/articles/cz7dve71n9lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 24 Jul 2026 11:43:40 GMT"
+        "time": "Fri, 24 Jul 2026 17:40:14 GMT"
       },
       {
         "title": "'Extremely significant' bomb in car intercepted on way to NI, Irish police say",
         "url": "https://www.bbc.co.uk/news/articles/cpq82dg0y3qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 24 Jul 2026 16:53:59 GMT"
-      },
-      {
-        "title": "Officers hurt as police boat hits Westminster Bridge",
-        "url": "https://www.bbc.co.uk/news/articles/c935k4k4pezo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 24 Jul 2026 17:26:37 GMT"
       },
       {
         "title": "Andy Burnham's first week pledges - how much do they add up to?",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cx2dg54vprno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 24 Jul 2026 14:21:24 GMT"
+      },
+      {
+        "title": "NBA superstar LeBron James to join Philadelphia 76ers",
+        "url": "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 24 Jul 2026 16:07:33 GMT"
       }
     ],
     "projects": [
