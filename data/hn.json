@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-24T08:50:41.629Z"
+    "built_at": "2026-07-24T09:46:26.731Z"
   },
-  "items": [
-    {
-      "title": "Andrew Ng made an open source agent",
-      "url": "https://openworker.com/",
-      "date": "2026-07-24T08:47:31.000Z"
-    },
-    {
-      "title": "Claude Code hooks that block find/sed/cat, redirect to native tools",
-      "url": "https://github.com/HabibiCodeCH/claude-no-bash-detour",
-      "date": "2026-07-24T08:45:50.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
