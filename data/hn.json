@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-24T21:22:44.555Z"
+    "built_at": "2026-07-24T22:21:58.663Z"
   },
-  "items": [
-    {
-      "title": "Falsities of LLM Negationists",
-      "url": "https://xlii.space/thoughts/falsities-of-llm-negationists/",
-      "date": "2026-07-24T21:15:09.000Z"
-    },
-    {
-      "title": "Paramount agrees to pause $110B Warner Bros merger as case plays out",
-      "url": "https://www.theguardian.com/us-news/2026/jul/24/paramount-warner-bros-merger",
-      "date": "2026-07-24T21:15:02.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
