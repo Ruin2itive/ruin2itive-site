@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-24T10:39:35.363Z"
+    "built_at": "2026-07-24T11:31:57.765Z"
   },
-  "items": [
-    {
-      "title": "Ask HN: How to get in touch with Paddle (MoR)",
-      "url": "https://news.ycombinator.com/item?id=49033604",
-      "date": "2026-07-24T10:39:10.000Z"
-    },
-    {
-      "title": "Show HN: Statistical Football Predictions for Brazil's Loteca Lottery",
-      "url": "https://alfavpalpites.com.br",
-      "date": "2026-07-24T10:38:37.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
