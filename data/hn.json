@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-25T14:30:33.457Z"
+    "built_at": "2026-07-25T15:21:59.917Z"
   },
-  "items": [
-    {
-      "title": "UNESCO adds West Bank and Lebanese sites to heritage despite Israeli objections",
-      "url": "https://apnews.com/article/unesco-sebastia-lebanon-mount-amel-israel-heritage-12c558a4b6aa03fa40ad33ffb6e54b89",
-      "date": "2026-07-25T14:30:01.000Z"
-    },
-    {
-      "title": "2x, not 10x: coding with LLMs in 2026",
-      "url": "https://obryant.dev/p/2x-not-10x/",
-      "date": "2026-07-25T14:27:05.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
