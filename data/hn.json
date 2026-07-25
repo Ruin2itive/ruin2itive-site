@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-25T18:16:45.844Z"
+    "built_at": "2026-07-25T19:25:27.139Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Dutch–American Friendship Treaty",
+      "url": "https://en.wikipedia.org/wiki/Dutch%E2%80%93American_Friendship_Treaty",
+      "date": "2026-07-25T19:14:41.000Z"
+    },
+    {
+      "title": "Show HN: Pastport – Your iPhone Left an Airbnb",
+      "url": "https://github.com/anupamchugh/pastport",
+      "date": "2026-07-25T19:13:34.000Z"
+    }
+  ]
 }
