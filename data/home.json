@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-25T11:29:55.360Z",
-  "updated_local": "7/25/2026, 11:29:55 AM",
+  "updated_iso": "2026-07-25T12:21:34.593Z",
+  "updated_local": "7/25/2026, 12:21:34 PM",
   "sections": {
     "crypto": [
       {
@@ -54,30 +54,30 @@
         "time": "7/25/2026, 1:44:12 AM"
       },
       {
+        "title": "ARC-AGI Leaderboard",
+        "url": "https://arcprize.org/leaderboard",
+        "source": "hn",
+        "time": "7/25/2026, 6:31:40 AM"
+      },
+      {
         "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
         "url": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
         "source": "hn",
         "time": "7/22/2026, 6:09:26 PM"
-      },
-      {
-        "title": "GC and Exceptions in Wasmtime",
-        "url": "https://bytecodealliance.org/articles/wasmtime-gc",
-        "source": "hn",
-        "time": "7/20/2026, 5:10:50 PM"
       }
     ],
     "world": [
+      {
+        "title": "Fleeing a wall of flames: Tourists describe France wildfires escape",
+        "url": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 25 Jul 2026 11:39:27 GMT"
+      },
       {
         "title": "How the mystery of dead animals dumped in villages led to a hidden world of illegal hunts",
         "url": "https://www.bbc.co.uk/news/articles/cd7ldjrl2reo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 25 Jul 2026 05:00:21 GMT"
-      },
-      {
-        "title": "Police declare 'major incident' over Cairngorms wildfire",
-        "url": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 25 Jul 2026 11:22:30 GMT"
       },
       {
         "title": "Trump takes swipes at press during White House Correspondents' Dinner",
@@ -86,16 +86,16 @@
         "time": "Sat, 25 Jul 2026 06:41:42 GMT"
       },
       {
+        "title": "Police declare 'major incident' over Cairngorms wildfire",
+        "url": "https://www.bbc.co.uk/news/articles/c2k7g15v3epo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 25 Jul 2026 11:22:30 GMT"
+      },
+      {
         "title": "Long overdue, life-changing or frivolous: What you had to say about wedding rule changes",
         "url": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 24 Jul 2026 23:31:11 GMT"
-      },
-      {
-        "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
-        "url": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 24 Jul 2026 23:23:53 GMT"
       }
     ],
     "projects": [
