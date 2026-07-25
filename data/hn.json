@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-25T08:39:23.859Z"
+    "built_at": "2026-07-25T09:31:43.435Z"
   },
-  "items": [
-    {
-      "title": "Continuation-Centric Computing with Arca",
-      "url": "https://www.usenix.org/conference/osdi26/presentation/srivatsan",
-      "date": "2026-07-25T08:23:58.000Z"
-    },
-    {
-      "title": "Vortex – a Bluetooth-first alternative to KDE Connect",
-      "url": "https://github.com/zoir-dev/vortex",
-      "date": "2026-07-25T08:22:37.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
