@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-26T16:19:42.912Z"
+    "built_at": "2026-07-26T17:20:52.268Z"
   },
-  "items": [
-    {
-      "title": "Gatwick Airport left without running water at both terminals",
-      "url": "https://www.bbc.com/news/articles/cdew2dnxlzzo",
-      "date": "2026-07-26T16:14:50.000Z"
-    },
-    {
-      "title": "This July I Was Fired from Simple AI (A Deeply YC Company)",
-      "url": "https://andys.blog/this-july-i-was-fired-from-simple-ai/",
-      "date": "2026-07-26T16:14:46.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
