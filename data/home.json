@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-26T16:25:39.032Z",
-  "updated_local": "7/26/2026, 4:25:39 PM",
+  "updated_iso": "2026-07-26T17:22:35.128Z",
+  "updated_local": "7/26/2026, 5:22:35 PM",
   "sections": {
     "crypto": [
       {
@@ -48,22 +48,22 @@
         "time": "7/26/2026, 3:51:12 PM"
       },
       {
+        "title": "Kill The Cookie Banner",
+        "url": "https://killthecookiebanner.eu/",
+        "source": "hn",
+        "time": "7/26/2026, 11:53:17 AM"
+      },
+      {
         "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
         "url": "https://github.com/gmrandazzo/CheapSecurity",
         "source": "hn",
         "time": "7/26/2026, 3:53:55 PM"
       },
       {
-        "title": "Go Analysis Framework: modular static analysis by go team",
-        "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+        "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+        "url": "https://astral.sh/blog/ruff-v0.16.0",
         "source": "hn",
-        "time": "7/26/2026, 12:21:26 PM"
-      },
-      {
-        "title": "Kill The Cookie Banner",
-        "url": "https://killthecookiebanner.eu/",
-        "source": "hn",
-        "time": "7/26/2026, 11:53:17 AM"
+        "time": "7/26/2026, 9:01:39 AM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 26 Jul 2026 13:40:29 GMT"
+      },
+      {
+        "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+        "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 26 Jul 2026 16:48:16 GMT"
       },
       {
         "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
@@ -89,13 +95,7 @@
         "title": "Gatwick Airport left without running water after major outage",
         "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 26 Jul 2026 15:59:08 GMT"
-      },
-      {
-        "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-        "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 26 Jul 2026 15:50:41 GMT"
+        "time": "Sun, 26 Jul 2026 17:20:44 GMT"
       }
     ],
     "projects": [
