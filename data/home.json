@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-26T12:25:32.321Z",
-  "updated_local": "7/26/2026, 12:25:32 PM",
+  "updated_iso": "2026-07-26T13:31:11.797Z",
+  "updated_local": "7/26/2026, 1:31:11 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Third Drone Shot Down in Three Days in Romanian Territory",
+        "url": "https://english.mapn.ro/",
+        "source": "hn",
+        "time": "7/26/2026, 12:00:42 PM"
+      },
+      {
         "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
         "url": "https://astral.sh/blog/ruff-v0.16.0",
         "source": "hn",
         "time": "7/26/2026, 9:01:39 AM"
       },
       {
-        "title": "A shell colon does nothing. Use it anyway",
-        "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+        "title": "Go Analysis Framework: modular static analysis by go team",
+        "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
         "source": "hn",
-        "time": "7/25/2026, 1:33:49 PM"
+        "time": "7/26/2026, 12:21:26 PM"
       },
       {
         "title": "GrapheneOS protections against data extraction from locked devices",
@@ -54,19 +60,19 @@
         "time": "7/26/2026, 5:57:22 AM"
       },
       {
-        "title": "German Peasants' War",
-        "url": "https://en.wikipedia.org/wiki/German_Peasants%27_War",
+        "title": "A shell colon does nothing. Use it anyway",
+        "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
         "source": "hn",
-        "time": "7/23/2026, 12:20:05 AM"
-      },
-      {
-        "title": "Systemd Linger",
-        "url": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
-        "source": "hn",
-        "time": "7/26/2026, 9:43:13 AM"
+        "time": "7/25/2026, 1:33:49 PM"
       }
     ],
     "world": [
+      {
+        "title": "What we know so far about the Berlin Pride ramming attack",
+        "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 26 Jul 2026 11:41:04 GMT"
+      },
       {
         "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
         "url": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +86,16 @@
         "time": "Sun, 26 Jul 2026 05:00:56 GMT"
       },
       {
-        "title": "Water supply issue affects Gatwick Airport",
+        "title": "Gatwick Airport left without running water after major outage",
         "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 26 Jul 2026 11:59:39 GMT"
+        "time": "Sun, 26 Jul 2026 13:02:55 GMT"
       },
       {
         "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
         "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 26 Jul 2026 11:29:07 GMT"
-      },
-      {
-        "title": "Iran's 'sabre-rattling' should not intimidate UK, Wes Streeting says",
-        "url": "https://www.bbc.co.uk/news/articles/c8dng4lvrvqo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 26 Jul 2026 09:33:39 GMT"
       }
     ],
     "projects": [
