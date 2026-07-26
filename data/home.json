@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-26T15:28:12.179Z",
-  "updated_local": "7/26/2026, 3:28:12 PM",
+  "updated_iso": "2026-07-26T16:21:26.097Z",
+  "updated_local": "7/26/2026, 4:21:26 PM",
   "sections": {
     "crypto": [
       {
@@ -42,28 +42,28 @@
         "time": "7/26/2026, 2:40:27 PM"
       },
       {
+        "title": "Design Is Compromise",
+        "url": "https://stephango.com/design-is-compromise",
+        "source": "hn",
+        "time": "7/26/2026, 3:51:12 PM"
+      },
+      {
         "title": "Go Analysis Framework: modular static analysis by go team",
         "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
         "source": "hn",
         "time": "7/26/2026, 12:21:26 PM"
       },
       {
+        "title": "Kill The Cookie Banner",
+        "url": "https://killthecookiebanner.eu/",
+        "source": "hn",
+        "time": "7/26/2026, 11:53:17 AM"
+      },
+      {
         "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
         "url": "https://astral.sh/blog/ruff-v0.16.0",
         "source": "hn",
         "time": "7/26/2026, 9:01:39 AM"
-      },
-      {
-        "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-        "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-        "source": "hn",
-        "time": "7/26/2026, 12:43:21 PM"
-      },
-      {
-        "title": "GrapheneOS protections against data extraction from locked devices",
-        "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-        "source": "hn",
-        "time": "7/26/2026, 5:57:22 AM"
       }
     ],
     "world": [
@@ -89,13 +89,13 @@
         "title": "Gatwick Airport left without running water after major outage",
         "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 26 Jul 2026 15:24:48 GMT"
+        "time": "Sun, 26 Jul 2026 15:59:08 GMT"
       },
       {
         "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
         "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 26 Jul 2026 11:29:07 GMT"
+        "time": "Sun, 26 Jul 2026 15:50:41 GMT"
       }
     ],
     "projects": [
