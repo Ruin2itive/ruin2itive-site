@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-26T12:21:50.464Z"
+    "built_at": "2026-07-26T13:29:27.273Z"
   },
-  "error": "fetch failed",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: CrispVoice – Studio voice enhancement that never uploads your voice",
+      "url": "https://github.com/Francium-Tech/CrispVoice",
+      "date": "2026-07-26T13:25:30.000Z"
+    },
+    {
+      "title": "Show HN: Managing on-premise servers without Kubernetes",
+      "url": "https://github.com/ricardoborges/Nautilus",
+      "date": "2026-07-26T13:25:17.000Z"
+    }
+  ]
 }
