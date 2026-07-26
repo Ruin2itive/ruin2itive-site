@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-26T01:40:04.045Z",
-  "updated_local": "7/26/2026, 1:40:04 AM",
+  "updated_iso": "2026-07-26T03:05:10.907Z",
+  "updated_local": "7/26/2026, 3:05:10 AM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
-        "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-        "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-        "source": "hn",
-        "time": "7/25/2026, 11:32:50 PM"
-      },
-      {
         "title": "Stolen Buttons",
         "url": "https://anatolyzenkov.com/stolen-buttons",
         "source": "hn",
         "time": "7/20/2026, 9:23:42 AM"
       },
       {
-        "title": "Clinical Failure Rates over the Decades: Yikes",
+        "title": "Systems and Delays",
+        "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+        "source": "hn",
+        "time": "7/26/2026, 12:37:30 AM"
+      },
+      {
+        "title": "Clinical failure rates over the decades: yikes",
         "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
         "source": "hn",
         "time": "7/25/2026, 10:57:17 PM"
       },
       {
-        "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-        "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+        "title": "Cloudflare's new AI traffic options for customers",
+        "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
         "source": "hn",
-        "time": "7/25/2026, 9:48:22 PM"
+        "time": "7/25/2026, 10:50:49 PM"
       },
       {
-        "title": "The new rules of context engineering for Claude 5 generation models",
-        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "title": "Git rebase -I is not that scary",
+        "url": "https://cachebag.sh/journal/interactive-rebasing/",
         "source": "hn",
-        "time": "7/25/2026, 8:42:35 PM"
+        "time": "7/26/2026, 12:37:54 AM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Sun, 26 Jul 2026 00:54:06 GMT"
       },
       {
-        "title": "Tourists tell BBC how their holiday turned into race to escape fires",
-        "url": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 25 Jul 2026 14:18:32 GMT"
-      },
-      {
         "title": "What Love Island tells us about the changing face of dating",
         "url": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 25 Jul 2026 18:20:20 GMT"
+      },
+      {
+        "title": "Man charged with possession of explosive substance after bomb found in car",
+        "url": "https://www.bbc.co.uk/news/articles/cj637j9gkd9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 26 Jul 2026 01:46:13 GMT"
       }
     ],
     "projects": [
