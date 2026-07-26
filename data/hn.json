@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-26T01:32:34.410Z"
+    "built_at": "2026-07-26T03:01:18.790Z"
   },
-  "items": [
-    {
-      "title": "Space Oddity (Review of Slobodian and Tarnoff' \"Muskism\")",
-      "url": "https://www.nybooks.com/articles/2026/07/23/space-oddity-muskism-slobodian-tarnoff/",
-      "date": "2026-07-26T01:30:08.000Z"
-    },
-    {
-      "title": "AI Can Now Design Drugs in Seconds; We Still Can't Tell You If They Work",
-      "url": "https://philippdubach.com/posts/ai-can-now-design-drugs-in-seconds-we-still-cant-tell-you-if-they-work./",
-      "date": "2026-07-26T01:28:59.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
