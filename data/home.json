@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-26T19:30:35.691Z",
-  "updated_local": "7/26/2026, 7:30:35 PM",
+  "updated_iso": "2026-07-26T20:22:02.538Z",
+  "updated_local": "7/26/2026, 8:22:02 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Kill The Cookie Banner",
-        "url": "https://killthecookiebanner.eu/",
+        "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+        "url": "https://beyondloom.com/decker/",
         "source": "hn",
-        "time": "7/26/2026, 11:53:17 AM"
-      },
-      {
-        "title": "London Gatwick has launched a robotic airport parking service",
-        "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-        "source": "hn",
-        "time": "7/26/2026, 2:40:27 PM"
+        "time": "7/26/2026, 6:23:06 PM"
       },
       {
         "title": "Design is compromise",
@@ -54,30 +48,42 @@
         "time": "7/26/2026, 3:51:12 PM"
       },
       {
-        "title": "Decker",
-        "url": "https://beyondloom.com/decker/",
+        "title": "London Gatwick has launched a robotic airport parking service",
+        "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
         "source": "hn",
-        "time": "7/26/2026, 6:23:06 PM"
+        "time": "7/26/2026, 2:40:27 PM"
       },
       {
-        "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
-        "url": "https://github.com/gmrandazzo/CheapSecurity",
+        "title": "What does GitHub's security team even do?",
+        "url": "https://orchidfiles.com/github-security-team/",
         "source": "hn",
-        "time": "7/26/2026, 3:53:55 PM"
+        "time": "7/26/2026, 7:51:05 PM"
+      },
+      {
+        "title": "How to Block Some of the Bots",
+        "url": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
+        "source": "hn",
+        "time": "7/26/2026, 6:32:46 PM"
       }
     ],
     "world": [
-      {
-        "title": "What we know so far about the Berlin Pride ramming attack",
-        "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 26 Jul 2026 17:45:30 GMT"
-      },
       {
         "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
         "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 26 Jul 2026 18:40:08 GMT"
+      },
+      {
+        "title": "Berlin Pride attack suspect shot and killed during police operation",
+        "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 26 Jul 2026 19:21:26 GMT"
+      },
+      {
+        "title": "What we know so far about the Berlin Pride ramming attack",
+        "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 26 Jul 2026 17:45:30 GMT"
       },
       {
         "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 26 Jul 2026 05:00:56 GMT"
-      },
-      {
-        "title": "Water returning to Gatwick Airport after major outage",
-        "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 26 Jul 2026 18:50:47 GMT"
       }
     ],
     "projects": [
