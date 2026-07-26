@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-26T18:19:27.359Z"
+    "built_at": "2026-07-26T19:26:15.520Z"
   },
-  "items": [
-    {
-      "title": "Google Cache used to have a copy of this page at",
-      "url": "https://www.hornet.org/wikipedia-notes.txt",
-      "date": "2026-07-26T18:18:57.000Z"
-    },
-    {
-      "title": "Show HN: Readability for web and PDFs with TTS and local AI summary",
-      "url": "https://github.com/ldenoue/readability-read-aloud-web-pdf-ai-summary",
-      "date": "2026-07-26T18:18:42.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
