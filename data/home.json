@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-26T03:05:10.907Z",
-  "updated_local": "7/26/2026, 3:05:10 AM",
+  "updated_iso": "2026-07-26T03:12:04.482Z",
+  "updated_local": "7/26/2026, 3:12:04 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "JetZero",
+        "url": "https://www.jetzero.aero",
+        "source": "hn",
+        "time": "7/26/2026, 2:55:50 AM"
+      },
+      {
         "title": "Stolen Buttons",
         "url": "https://anatolyzenkov.com/stolen-buttons",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
         "source": "hn",
         "time": "7/25/2026, 10:50:49 PM"
-      },
-      {
-        "title": "Git rebase -I is not that scary",
-        "url": "https://cachebag.sh/journal/interactive-rebasing/",
-        "source": "hn",
-        "time": "7/26/2026, 12:37:54 AM"
       }
     ],
     "world": [
