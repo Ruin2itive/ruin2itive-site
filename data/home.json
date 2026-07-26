@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-26T09:44:55.944Z",
-  "updated_local": "7/26/2026, 9:44:55 AM",
+  "updated_iso": "2026-07-26T10:33:14.788Z",
+  "updated_local": "7/26/2026, 10:33:14 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+        "url": "https://astral.sh/blog/ruff-v0.16.0",
+        "source": "hn",
+        "time": "7/26/2026, 9:01:39 AM"
+      },
+      {
         "title": "A shell colon does nothing. Use it anyway",
         "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "7/26/2026, 5:57:22 AM"
       },
       {
+        "title": "Elevated Errors for Opus 5",
+        "url": "https://status.claude.com/incidents/zftg3gqkmv18",
+        "source": "hn",
+        "time": "7/26/2026, 9:18:34 AM"
+      },
+      {
         "title": "An ESP32 based plane radar for my desk",
         "url": "https://blog.ktz.me/esp32-plane-radar/",
         "source": "hn",
         "time": "7/26/2026, 2:35:43 AM"
-      },
-      {
-        "title": "The new rules of context engineering for Claude 5 generation models",
-        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "source": "hn",
-        "time": "7/25/2026, 8:42:35 PM"
-      },
-      {
-        "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-        "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-        "source": "hn",
-        "time": "7/26/2026, 12:36:30 AM"
       }
     ],
     "world": [
