@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-26T10:31:40.950Z"
+    "built_at": "2026-07-26T11:27:44.623Z"
   },
-  "error": "fetch failed",
-  "items": []
+  "items": [
+    {
+      "title": "My Favorite Liar (2008)",
+      "url": "https://www.overcomingbias.com/p/my-favorite-liahtml",
+      "date": "2026-07-26T11:25:28.000Z"
+    },
+    {
+      "title": "Danbooru pony image to text prompt generator for free",
+      "url": "https://danbooru-pony-image-to-text-prompt-generator.pages.dev",
+      "date": "2026-07-26T11:25:20.000Z"
+    }
+  ]
 }
