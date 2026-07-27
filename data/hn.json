@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-27T18:30:34.156Z"
+    "built_at": "2026-07-27T19:29:36.417Z"
   },
-  "error": "fetch failed",
-  "items": []
+  "items": [
+    {
+      "title": "Opus 5 code review evals: cleaner actionable comments but noisier overall",
+      "url": "https://www.coderabbit.ai/blog/opus-5-model-review",
+      "date": "2026-07-27T19:29:12.000Z"
+    },
+    {
+      "title": "ShadowGlass, find shadow AI in firewall logs on-device",
+      "url": "https://github.com/JustinNarracott/ShadowGlass",
+      "date": "2026-07-27T19:27:26.000Z"
+    }
+  ]
 }
