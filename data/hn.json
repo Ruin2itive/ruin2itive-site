@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-27T05:15:14.794Z"
+    "built_at": "2026-07-27T09:04:37.172Z"
   },
-  "items": [
-    {
-      "title": "Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization",
-      "url": "https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization",
-      "date": "2026-07-27T05:13:21.000Z"
-    },
-    {
-      "title": "SecretSpec 0.17: Scopes, secrets caching, SOPS, age, and systemd credentials",
-      "url": "https://secretspec.dev/blog/secretspec-0-17-scopes-secrets-caching-age-and-systemd-credentials/",
-      "date": "2026-07-27T05:07:44.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
