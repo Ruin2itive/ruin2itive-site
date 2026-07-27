@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-07-27T09:16:39.479Z",
-  "updated_local": "7/27/2026, 9:16:39 AM",
+  "updated_iso": "2026-07-27T11:04:44.815Z",
+  "updated_local": "7/27/2026, 11:04:44 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "BitMart Becomes Latest Crypto Exchange to Shut Down",
+        "url": "https://decrypt.co/374346/bitmart-becomes-latest-crypto-exchange-to-shut-down",
+        "source": "crypto",
+        "time": "Mon, 27 Jul 2026 09:57:20 +0000"
+      },
+      {
+        "title": "Thailand&#39;s SEC Files Criminal Complaint Against Bitkub Over Undisclosed $47M Hack",
+        "url": "https://decrypt.co/374343/thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack",
+        "source": "crypto",
+        "time": "Mon, 27 Jul 2026 09:16:14 +0000"
+      },
       {
         "title": "Mira Murati’s Inkling AI Model Review: Best Open-Source Model in the West",
         "url": "https://decrypt.co/373884/review-inkling-mira-murati-first-open-source-ai",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
         "source": "crypto",
         "time": "Fri, 24 Jul 2026 22:03:16 +0000"
-      },
-      {
-        "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
-        "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
-        "source": "crypto",
-        "time": "Fri, 24 Jul 2026 19:30:01 +0000"
-      },
-      {
-        "title": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks—At Half the Price",
-        "url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
-        "source": "crypto",
-        "time": "Fri, 24 Jul 2026 18:28:43 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "7/23/2026, 1:29:24 PM"
       },
       {
+        "title": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
+        "url": "https://mymodernmet.com/magnolia-ancient-flowers-beetles/",
+        "source": "hn",
+        "time": "7/22/2026, 4:49:29 PM"
+      },
+      {
         "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
         "url": "https://github.com/vercel-labs/scriptc",
         "source": "hn",
         "time": "7/26/2026, 10:46:10 PM"
-      },
-      {
-        "title": "French firefighters face 'pyrocumulonimbus' for first time",
-        "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-        "source": "hn",
-        "time": "7/26/2026, 5:49:44 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Mon, 27 Jul 2026 08:19:08 GMT"
       },
       {
+        "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
+        "url": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 27 Jul 2026 10:35:16 GMT"
+      },
+      {
+        "title": "TV presenter and comedian Bill Oddie dies at 85",
+        "url": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 27 Jul 2026 10:46:18 GMT"
+      },
+      {
         "title": "Berlin Pride attack suspect shot and killed during police operation",
         "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 26 Jul 2026 19:21:26 GMT"
       },
       {
-        "title": "Man and woman die after being pulled from sea off Cornish beach",
-        "url": "https://www.bbc.co.uk/news/articles/cy4k892z44jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 27 Jul 2026 08:35:29 GMT"
-      },
-      {
         "title": "Girlguiding unveils first major redesign of uniform range since 1990",
         "url": "https://www.bbc.co.uk/news/articles/c2dkez2g07po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 27 Jul 2026 08:27:40 GMT"
-      },
-      {
-        "title": "UK's most parched regions miss chance for rain ahead of next heatwave",
-        "url": "https://www.bbc.co.uk/weather/articles/c9w08gkvvjdo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 26 Jul 2026 23:09:44 GMT"
       }
     ],
     "projects": [
