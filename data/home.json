@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-27T13:05:13.473Z",
-  "updated_local": "7/27/2026, 1:05:13 PM",
+  "updated_iso": "2026-07-27T13:12:59.812Z",
+  "updated_local": "7/27/2026, 1:12:59 PM",
   "sections": {
     "crypto": [
       {
@@ -36,28 +36,28 @@
     ],
     "hacker": [
       {
-        "title": "How is the Bun Rewrite in Rust going?",
-        "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
-        "source": "hn",
-        "time": "7/27/2026, 11:12:26 AM"
-      },
-      {
         "title": "Kimi-K3 Releases on HuggingFace 7/27",
         "url": "https://huggingface.co/moonshotai/Kimi-K3",
         "source": "hn",
         "time": "7/27/2026, 6:18:10 AM"
       },
       {
-        "title": "Elevated errors on Claude Opus 5",
-        "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+        "title": "How is the Bun Rewrite in Rust going?",
+        "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
         "source": "hn",
-        "time": "7/27/2026, 11:32:32 AM"
+        "time": "7/27/2026, 11:12:26 AM"
       },
       {
         "title": "AI companies are shredding rare books",
         "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
         "source": "hn",
         "time": "7/27/2026, 12:32:12 PM"
+      },
+      {
+        "title": "Elevated errors on Claude Opus 5",
+        "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+        "source": "hn",
+        "time": "7/27/2026, 11:32:32 AM"
       },
       {
         "title": "PGSimCity - How PostgreSQL Works",
