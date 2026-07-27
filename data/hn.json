@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-27T00:27:28.702Z"
+    "built_at": "2026-07-27T01:33:32.297Z"
   },
-  "items": [
-    {
-      "title": "I Championed Prediction Markets. Look What They've Become",
-      "url": "https://newsletter.platypuseconomics.com/p/i-championed-prediction-markets-look",
-      "date": "2026-07-27T00:25:05.000Z"
-    },
-    {
-      "title": "Triton: DirectX 11 Driver for QEMU",
-      "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-      "date": "2026-07-27T00:20:54.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
