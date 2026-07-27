@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-27T13:00:58.601Z"
+    "built_at": "2026-07-27T14:58:41.331Z"
   },
-  "items": [
-    {
-      "title": "Polycast5",
-      "url": "https://polycast5.com/",
-      "date": "2026-07-27T12:50:26.000Z"
-    },
-    {
-      "title": "I Published an Offline Reader for the Jargon File",
-      "url": "https://mattbrown.com//blog/20260723-i-published-an-offline-reader-for-the-jargon-file/",
-      "date": "2026-07-27T12:50:13.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
