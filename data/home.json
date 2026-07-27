@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-27T18:38:40.514Z",
-  "updated_local": "7/27/2026, 6:38:40 PM",
+  "updated_iso": "2026-07-27T19:31:24.026Z",
+  "updated_local": "7/27/2026, 7:31:24 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Microsoft Says MDASH Beats Claude Mythos and GPT-5.6 Sol in Cybersecurity Test",
+        "url": "https://decrypt.co/374441/microsoft-mdash-beats-claude-mythos-gpt-5-6-sol-cybersecurity",
+        "source": "crypto",
+        "time": "Mon, 27 Jul 2026 19:01:04 +0000"
+      },
       {
         "title": "Your Shared Claude Chats Were Being Quietly Published on Google",
         "url": "https://decrypt.co/374412/anthropic-share-button-quietly-publishing-claude-chats-google",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/374389/bitmine-nears-5-percent-ethereum-supply-with-11-8-billion-treasury",
         "source": "crypto",
         "time": "Mon, 27 Jul 2026 15:42:54 +0000"
-      },
-      {
-        "title": "Circle Buys IBM Blockchain Patent Estate—And Becomes America&#39;s Biggest Holder",
-        "url": "https://decrypt.co/374388/circle-ibm-blockchain-patent-estate",
-        "source": "crypto",
-        "time": "Mon, 27 Jul 2026 15:35:25 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,18 @@
         "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
         "source": "hn",
         "time": "7/27/2026, 4:52:22 PM"
+      },
+      {
+        "title": "Watching Go's new garbage collector move through the heap",
+        "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+        "source": "hn",
+        "time": "7/25/2026, 7:55:19 AM"
+      },
+      {
+        "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
+        "url": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
+        "source": "hn",
+        "time": "7/27/2026, 4:49:08 PM"
       },
       {
         "title": "Kimi-K3 on HuggingFace",
@@ -52,18 +64,6 @@
         "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
         "source": "hn",
         "time": "7/23/2026, 1:08:52 PM"
-      },
-      {
-        "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
-        "url": "https://usefeyn.com/blog/feynobg/",
-        "source": "hn",
-        "time": "7/27/2026, 4:59:08 PM"
-      },
-      {
-        "title": "The computer that helped win World War II",
-        "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-        "source": "hn",
-        "time": "7/22/2026, 7:40:44 PM"
       }
     ],
     "world": [
@@ -89,7 +89,7 @@
         "title": "Reform UK reporting Green leader Zack Polanski to police over Instagram post",
         "url": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 27 Jul 2026 17:58:30 GMT"
+        "time": "Mon, 27 Jul 2026 19:26:00 GMT"
       },
       {
         "title": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement",
