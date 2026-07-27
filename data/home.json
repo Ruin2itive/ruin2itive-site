@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-27T07:22:38.709Z",
-  "updated_local": "7/27/2026, 7:22:38 AM",
+  "updated_iso": "2026-07-27T09:08:45.028Z",
+  "updated_local": "7/27/2026, 9:08:45 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Kimi-K3 Releases on HuggingFace 7/27",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3",
+        "source": "hn",
+        "time": "7/27/2026, 6:18:10 AM"
+      },
+      {
         "title": "PGSimCity - How PostgreSQL Works",
         "url": "https://nikolays.github.io/PGSimCity/",
         "source": "hn",
@@ -54,12 +60,6 @@
         "time": "7/26/2026, 10:46:10 PM"
       },
       {
-        "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-        "url": "https://beyondloom.com/decker/",
-        "source": "hn",
-        "time": "7/26/2026, 6:23:06 PM"
-      },
-      {
         "title": "French firefighters face 'pyrocumulonimbus' for first time",
         "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
         "source": "hn",
@@ -71,19 +71,7 @@
         "title": "NHS 'will collapse' without social care reform, PM tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 27 Jul 2026 05:00:07 GMT"
-      },
-      {
-        "title": "Laura Kuenssberg: Our exclusive behind-the-scenes access at No 10 as Andy Burnham became PM",
-        "url": "https://www.bbc.co.uk/news/articles/c79gdjlv78wo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 27 Jul 2026 05:00:13 GMT"
-      },
-      {
-        "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
-        "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 27 Jul 2026 06:48:02 GMT"
+        "time": "Mon, 27 Jul 2026 08:19:08 GMT"
       },
       {
         "title": "Berlin Pride attack suspect shot and killed during police operation",
@@ -92,10 +80,22 @@
         "time": "Sun, 26 Jul 2026 19:21:26 GMT"
       },
       {
-        "title": "Girlguiding unveils first major uniform redesign since 1990",
+        "title": "Man and woman die after being pulled from sea off Cornish beach",
+        "url": "https://www.bbc.co.uk/news/articles/cy4k892z44jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 27 Jul 2026 08:35:29 GMT"
+      },
+      {
+        "title": "Girlguiding unveils first major redesign of uniform range since 1990",
         "url": "https://www.bbc.co.uk/news/articles/c2dkez2g07po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 26 Jul 2026 23:06:21 GMT"
+        "time": "Mon, 27 Jul 2026 08:27:40 GMT"
+      },
+      {
+        "title": "UK's most parched regions miss chance for rain ahead of next heatwave",
+        "url": "https://www.bbc.co.uk/weather/articles/c9w08gkvvjdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 26 Jul 2026 23:09:44 GMT"
       }
     ],
     "projects": [
