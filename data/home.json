@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-07-27T17:35:58.879Z",
-  "updated_local": "7/27/2026, 5:35:58 PM",
+  "updated_iso": "2026-07-27T18:33:38.225Z",
+  "updated_local": "7/27/2026, 6:33:38 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Your Shared Claude Chats Were Being Quietly Published on Google",
+        "url": "https://decrypt.co/374412/anthropic-share-button-quietly-publishing-claude-chats-google",
+        "source": "crypto",
+        "time": "Mon, 27 Jul 2026 18:24:29 +0000"
+      },
+      {
+        "title": "Nvidia, Microsoft and IBM Launch Open Secure AI Alliance to Strengthen AI Cybersecurity",
+        "url": "https://decrypt.co/374401/nvidia-microsoft-ibm-open-secure-ai-alliance-cybersecurity",
+        "source": "crypto",
+        "time": "Mon, 27 Jul 2026 17:58:46 +0000"
+      },
+      {
+        "title": "A Man Gave Border Agents His Phone Passcode. It Wiped Everything. Now He&#39;s Facing Federal Charges",
+        "url": "https://decrypt.co/374394/border-agents-phone-duress-passcode-grapheneos",
+        "source": "crypto",
+        "time": "Mon, 27 Jul 2026 17:40:36 +0000"
+      },
       {
         "title": "Bitmine Nears Goal of Controlling 5% of Ethereum Supply With $11.8 Billion Treasury",
         "url": "https://decrypt.co/374389/bitmine-nears-5-percent-ethereum-supply-with-11-8-billion-treasury",
@@ -14,38 +32,20 @@
         "url": "https://decrypt.co/374388/circle-ibm-blockchain-patent-estate",
         "source": "crypto",
         "time": "Mon, 27 Jul 2026 15:35:25 +0000"
-      },
-      {
-        "title": "Strategy Adds $525M to Cash Reserve, Skips Bitcoin Buy for Fifth Week",
-        "url": "https://decrypt.co/374369/strategy-adds-525m-to-cash-reserve-skips-bitcoin-buy-for-fifth-week",
-        "source": "crypto",
-        "time": "Mon, 27 Jul 2026 13:00:29 +0000"
-      },
-      {
-        "title": "Crypto Firms Pivoting to AI Is &#39;Zero-Sum&#39; Thinking: Coinbase CEO",
-        "url": "https://decrypt.co/374366/crypto-firms-pivoting-to-ai-is-zero-sum-thinking-coinbase-ceo",
-        "source": "crypto",
-        "time": "Mon, 27 Jul 2026 12:27:47 +0000"
-      },
-      {
-        "title": "Morning Minute: Tokenized Stocks Jump 5x on Robinhood Chain",
-        "url": "https://decrypt.co/374357/morning-minute-tokenized-stocks-jump-5x-on-robinhood-chain",
-        "source": "crypto",
-        "time": "Mon, 27 Jul 2026 12:00:49 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "MAI-Cyber 1",
+        "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+        "source": "hn",
+        "time": "7/27/2026, 4:52:22 PM"
+      },
       {
         "title": "Kimi-K3 on HuggingFace",
         "url": "https://huggingface.co/moonshotai/Kimi-K3",
         "source": "hn",
         "time": "7/27/2026, 6:18:10 AM"
-      },
-      {
-        "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
-        "url": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
-        "source": "hn",
-        "time": "7/27/2026, 4:49:08 PM"
       },
       {
         "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
@@ -60,13 +60,19 @@
         "time": "7/22/2026, 7:40:44 PM"
       },
       {
-        "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
-        "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+        "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+        "url": "https://usefeyn.com/blog/feynobg/",
         "source": "hn",
-        "time": "7/27/2026, 9:58:50 AM"
+        "time": "7/27/2026, 4:59:08 PM"
       }
     ],
     "world": [
+      {
+        "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+        "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 27 Jul 2026 17:50:42 GMT"
+      },
       {
         "title": "Devastating European wildfires in maps - and how they're being tackled",
         "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +86,16 @@
         "time": "Mon, 27 Jul 2026 16:46:19 GMT"
       },
       {
-        "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
-        "url": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Reform UK reporting Green leader Zack Polanski to police over Instagram post",
+        "url": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 27 Jul 2026 11:50:13 GMT"
+        "time": "Mon, 27 Jul 2026 17:58:30 GMT"
       },
       {
         "title": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement",
         "url": "https://www.bbc.co.uk/news/articles/c141x6lp8p4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 27 Jul 2026 16:38:33 GMT"
-      },
-      {
-        "title": "Zelensky visit sends clear message of support for Ukraine, Burnham says",
-        "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 27 Jul 2026 15:58:27 GMT"
       }
     ],
     "projects": [
