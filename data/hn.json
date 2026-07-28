@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-28T10:48:39.264Z"
+    "built_at": "2026-07-28T11:39:01.056Z"
   },
-  "items": [
-    {
-      "title": "Why I prefer Opus 5 to Fable 5",
-      "url": "https://news.ycombinator.com/item?id=49081970",
-      "date": "2026-07-28T10:45:59.000Z"
-    },
-    {
-      "title": "Gait Game",
-      "url": "https://gait.game",
-      "date": "2026-07-28T10:45:52.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
