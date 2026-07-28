@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-28T05:01:26.051Z"
+    "built_at": "2026-07-28T06:50:19.455Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "AI 'tokenmaxxing' fades as workplaces look to cut tech spending",
+      "url": "https://apnews.com/article/ai-token-openai-anthropic-corporate-31bb80ac1cd7862d05f6397177d826b1",
+      "date": "2026-07-28T06:48:53.000Z"
+    },
+    {
+      "title": "A Proposal for a Universal Moral Core",
+      "url": "https://continuations.com/a-proposal-for-a-universal-moral-core",
+      "date": "2026-07-28T06:47:48.000Z"
+    }
+  ]
 }
