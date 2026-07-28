@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-07-28T10:54:03.679Z",
-  "updated_local": "7/28/2026, 10:54:03 AM",
+  "updated_iso": "2026-07-28T11:40:55.637Z",
+  "updated_local": "7/28/2026, 11:40:55 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Zcash Miner Fortitude Powers Up Nebraska Facility as It Eyes Public Listing",
+        "url": "https://decrypt.co/374491/zcash-miner-fortitude-nebraska-mining-facility",
+        "source": "crypto",
+        "time": "Tue, 28 Jul 2026 11:31:03 +0000"
+      },
+      {
+        "title": "Myanmar Approves Death Penalty for Forced Scam Labor, Life for Crypto Fraud",
+        "url": "https://decrypt.co/374519/myanmar-approves-death-penalty-for-forced-scam-labor-life-for-crypto-fraud",
+        "source": "crypto",
+        "time": "Tue, 28 Jul 2026 11:29:21 +0000"
+      },
       {
         "title": "&#39;Running Away Balloon&#39; Artist Sues AI Meme Generator Over Ad Templates",
         "url": "https://decrypt.co/374501/running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/374488/elon-musk-humans-lose-control-ai-decade",
         "source": "crypto",
         "time": "Mon, 27 Jul 2026 23:00:04 +0000"
-      },
-      {
-        "title": "OpenAI’s GPT-6 Will Arrive by September, Markets Predict",
-        "url": "https://decrypt.co/374472/openai-gpt-6-will-arrive-september-prediction-market",
-        "source": "crypto",
-        "time": "Mon, 27 Jul 2026 22:31:03 +0000"
-      },
-      {
-        "title": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
-        "url": "https://decrypt.co/374484/searchable-nyc-property-database-could-put-wealthy-residents-at-risk-crypto-execs-warn",
-        "source": "crypto",
-        "time": "Mon, 27 Jul 2026 21:05:05 +0000"
       }
     ],
     "hacker": [
@@ -40,12 +40,6 @@
         "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
         "source": "hn",
         "time": "7/28/2026, 7:44:24 AM"
-      },
-      {
-        "title": "What Even Are Microservices?",
-        "url": "https://var0.xyz/posts/what-even-are-microservices.html",
-        "source": "hn",
-        "time": "7/28/2026, 9:52:31 AM"
       },
       {
         "title": "About the security content of macOS Tahoe 26.6",
@@ -64,6 +58,12 @@
         "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
         "source": "hn",
         "time": "7/28/2026, 9:59:13 AM"
+      },
+      {
+        "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+        "url": "https://fermisense.com/when-machines-take-the-wheel/",
+        "source": "hn",
+        "time": "7/28/2026, 2:18:53 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Tue, 28 Jul 2026 10:25:52 GMT"
       },
       {
-        "title": "People trapped inside Japan shopping centre after earthquake",
-        "url": "https://www.bbc.co.uk/news/articles/cgewg24qgnjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "French patrol boat appears to fire gunshots in the Channel during BBC interview",
+        "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 28 Jul 2026 10:44:50 GMT"
-      },
-      {
-        "title": "Fourth heatwave grips parts of UK with 35C forecast",
-        "url": "https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 28 Jul 2026 00:18:58 GMT"
+        "time": "Tue, 28 Jul 2026 11:29:10 GMT"
       },
       {
         "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
         "url": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 28 Jul 2026 10:16:37 GMT"
+        "time": "Tue, 28 Jul 2026 11:38:26 GMT"
       },
       {
         "title": "Odyssey translator writes scathing review of Nolan film adaptation",
         "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 28 Jul 2026 09:45:10 GMT"
+      },
+      {
+        "title": "Zelensky to press Trump on air defences while in Washington",
+        "url": "https://www.bbc.co.uk/news/articles/c9v4g7e047zo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 28 Jul 2026 10:41:41 GMT"
       }
     ],
     "projects": [
