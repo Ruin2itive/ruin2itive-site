@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-28T00:24:57.706Z"
+    "built_at": "2026-07-28T01:32:12.768Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Lilian Weng Resigns from Thinking Machines Lab",
+      "url": "https://digg.com/tech/yhf6ei1b",
+      "date": "2026-07-28T01:27:46.000Z"
+    },
+    {
+      "title": "Big Tech's Money Men Don't Care About the Backlash",
+      "url": "https://www.politico.com/news/magazine/2026/07/26/ai-super-pac-operatives-profile-01008227",
+      "date": "2026-07-28T01:24:45.000Z"
+    }
+  ]
 }
