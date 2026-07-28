@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-28T15:50:51.408Z",
-  "updated_local": "7/28/2026, 3:50:51 PM",
+  "updated_iso": "2026-07-28T16:33:37.283Z",
+  "updated_local": "7/28/2026, 4:33:37 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Why the Bitcoin Rally Seems More Like a Bull Trap",
+        "url": "https://decrypt.co/374539/bitcoin-price-rally-bull-trap",
+        "source": "crypto",
+        "time": "Tue, 28 Jul 2026 16:22:18 +0000"
+      },
       {
         "title": "Morning Minute: Strategy Chooses Cash, STRC Over BTC",
         "url": "https://decrypt.co/374535/morning-minute-strategy-chooses-cash-strc-over-btc",
@@ -26,26 +32,26 @@
         "url": "https://decrypt.co/374519/myanmar-approves-death-penalty-for-forced-scam-labor-life-for-crypto-fraud",
         "source": "crypto",
         "time": "Tue, 28 Jul 2026 11:29:21 +0000"
-      },
-      {
-        "title": "&#39;Running Away Balloon&#39; Artist Sues AI Meme Generator Over Ad Templates",
-        "url": "https://decrypt.co/374501/running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates",
-        "source": "crypto",
-        "time": "Tue, 28 Jul 2026 10:08:09 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "You Could Have Come Up with Kimi Delta Attention",
+        "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+        "source": "hn",
+        "time": "7/28/2026, 4:02:07 PM"
+      },
+      {
+        "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+        "url": "https://www.slow-journalism.com/",
+        "source": "hn",
+        "time": "7/28/2026, 3:50:38 PM"
+      },
       {
         "title": "7.1 Earthquake in Japan",
         "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
         "source": "hn",
         "time": "7/28/2026, 7:44:24 AM"
-      },
-      {
-        "title": "New HIV vaccine shows unprecedented success in preclinical study",
-        "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-        "source": "hn",
-        "time": "7/28/2026, 1:12:01 PM"
       },
       {
         "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
@@ -54,16 +60,10 @@
         "time": "7/28/2026, 3:20:35 PM"
       },
       {
-        "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
-        "url": "https://arxiv.org/abs/2510.26692",
+        "title": "How Do I Profile eBPF Code?",
+        "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
         "source": "hn",
-        "time": "7/28/2026, 10:52:30 AM"
-      },
-      {
-        "title": "Show HN: tale.fyi, we deserve a home for fiction",
-        "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
-        "source": "hn",
-        "time": "7/28/2026, 1:16:52 PM"
+        "time": "7/28/2026, 3:55:44 PM"
       }
     ],
     "world": [
@@ -83,7 +83,7 @@
         "title": "French Navy carries out 'shooting drill' during MP's BBC interview",
         "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 28 Jul 2026 13:53:26 GMT"
+        "time": "Tue, 28 Jul 2026 16:12:35 GMT"
       },
       {
         "title": "Powell says student loan system at top of in-tray",
@@ -92,10 +92,10 @@
         "time": "Tue, 28 Jul 2026 14:50:02 GMT"
       },
       {
-        "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
-        "url": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Funeral director treated deceased 'like a piece of meat'",
+        "url": "https://www.bbc.co.uk/news/articles/cg5lv0jp5veo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 28 Jul 2026 11:38:26 GMT"
+        "time": "Tue, 28 Jul 2026 12:31:08 GMT"
       }
     ],
     "projects": [
