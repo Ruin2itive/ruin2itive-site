@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-28T16:37:10.494Z",
-  "updated_local": "7/28/2026, 4:37:10 PM",
+  "updated_iso": "2026-07-28T17:31:47.946Z",
+  "updated_local": "7/28/2026, 5:31:47 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "First ChatGPT, Now Claude: Frontier AI Models Are Escaping Their Sandboxes",
+        "url": "https://decrypt.co/374557/chatgpt-claude-ai-models-escaping-sandboxes-cowork",
+        "source": "crypto",
+        "time": "Tue, 28 Jul 2026 16:54:11 +0000"
+      },
       {
         "title": "Why the Bitcoin Rally Seems More Like a Bull Trap",
         "url": "https://decrypt.co/374539/bitcoin-price-rally-bull-trap",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/374491/zcash-miner-fortitude-nebraska-mining-facility",
         "source": "crypto",
         "time": "Tue, 28 Jul 2026 11:31:03 +0000"
-      },
-      {
-        "title": "Myanmar Approves Death Penalty for Forced Scam Labor, Life for Crypto Fraud",
-        "url": "https://decrypt.co/374519/myanmar-approves-death-penalty-for-forced-scam-labor-life-for-crypto-fraud",
-        "source": "crypto",
-        "time": "Tue, 28 Jul 2026 11:29:21 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "7/28/2026, 4:02:07 PM"
       },
       {
+        "title": "Substack writers, you need a website",
+        "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+        "source": "hn",
+        "time": "7/28/2026, 4:58:31 PM"
+      },
+      {
         "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
         "url": "https://www.slow-journalism.com/",
         "source": "hn",
         "time": "7/28/2026, 3:50:38 PM"
-      },
-      {
-        "title": "7.1 Earthquake in Japan",
-        "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-        "source": "hn",
-        "time": "7/28/2026, 7:44:24 AM"
       },
       {
         "title": "How Do I Profile eBPF Code?",
@@ -60,10 +60,10 @@
         "time": "7/28/2026, 3:55:44 PM"
       },
       {
-        "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-        "url": "https://arxiv.org/abs/1202.4212",
+        "title": "Zig's Incremental Compilation Internals",
+        "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
         "source": "hn",
-        "time": "7/28/2026, 3:20:35 PM"
+        "time": "7/28/2026, 3:46:45 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Tue, 28 Jul 2026 15:32:37 GMT"
       },
       {
+        "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
+        "url": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 28 Jul 2026 16:55:32 GMT"
+      },
+      {
         "title": "Uefa reacts with fury to Infantino World Cup plan",
         "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 28 Jul 2026 15:36:29 GMT"
       },
       {
+        "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+        "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 28 Jul 2026 16:14:03 GMT"
+      },
+      {
         "title": "French Navy carries out 'shooting drill' during MP's BBC interview",
         "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 28 Jul 2026 16:12:35 GMT"
-      },
-      {
-        "title": "Powell says student loan system at top of in-tray",
-        "url": "https://www.bbc.co.uk/news/articles/ce8l064xe52o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 28 Jul 2026 14:50:02 GMT"
-      },
-      {
-        "title": "Funeral director treated deceased 'like a piece of meat'",
-        "url": "https://www.bbc.co.uk/news/articles/cg5lv0jp5veo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 28 Jul 2026 12:31:08 GMT"
       }
     ],
     "projects": [
