@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-28T21:23:42.347Z"
+    "built_at": "2026-07-28T22:20:39.090Z"
   },
-  "items": [
-    {
-      "title": "Point AI at a \"Proven\" Microkernel?",
-      "url": "https://news.ycombinator.com/item?id=49090089",
-      "date": "2026-07-28T21:23:09.000Z"
-    },
-    {
-      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-      "url": "https://github.com/anthropics/cryptography-research-demo",
-      "date": "2026-07-28T21:22:48.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
