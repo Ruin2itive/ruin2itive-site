@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-28T13:32:40.983Z"
+    "built_at": "2026-07-28T15:44:51.889Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Anatomy of an AI Kill Chain – Airwars X AI Now Institute",
+      "url": "https://ai-killchain.airwars.org",
+      "date": "2026-07-28T15:43:36.000Z"
+    },
+    {
+      "title": "The Devouring of All Knowledge",
+      "url": "https://ryanfleck.ca/2026/the-devouring-of-all-knowledge/",
+      "date": "2026-07-28T15:43:32.000Z"
+    }
+  ]
 }
