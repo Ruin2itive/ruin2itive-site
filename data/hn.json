@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-28T22:20:39.090Z"
+    "built_at": "2026-07-28T23:20:04.523Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Alpha Inference",
+      "url": "https://alphainference.app/",
+      "date": "2026-07-28T23:18:15.000Z"
+    },
+    {
+      "title": "Show HN: Magpie, a CLI to Turn Your AI Agent into a Bookkeeper",
+      "url": "https://github.com/kyle-visner/magpie",
+      "date": "2026-07-28T23:16:16.000Z"
+    }
+  ]
 }
