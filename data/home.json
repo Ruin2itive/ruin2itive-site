@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-28T21:29:22.786Z",
-  "updated_local": "7/28/2026, 9:29:22 PM",
+  "updated_iso": "2026-07-28T22:22:46.322Z",
+  "updated_local": "7/28/2026, 10:22:46 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Apple Overtakes Nvidia—Which Will Be Bigger by End of July?",
+        "url": "https://decrypt.co/374604/apple-overtakes-nvidia-which-bigger-july",
+        "source": "crypto",
+        "time": "Tue, 28 Jul 2026 22:08:04 +0000"
+      },
       {
         "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
         "url": "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps",
         "source": "crypto",
         "time": "Tue, 28 Jul 2026 19:14:14 +0000"
-      },
-      {
-        "title": "XRP Price Slides as Senate Drops Clarity Act and Fed Decision Looms",
-        "url": "https://decrypt.co/374579/xrp-price-slides-senate-clarity-act-fed-rate-looms",
-        "source": "crypto",
-        "time": "Tue, 28 Jul 2026 18:35:37 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "7/28/2026, 8:52:55 PM"
       },
       {
+        "title": "Running Kimi K3 on a M1 Mac",
+        "url": "https://github.com/gavamedia/deltafin",
+        "source": "hn",
+        "time": "7/28/2026, 9:35:19 PM"
+      },
+      {
         "title": "Substack writers, you need a website",
         "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
         "source": "hn",
         "time": "7/28/2026, 4:58:31 PM"
       },
       {
-        "title": "Steel Bank Common Lisp version 2.6.7",
-        "url": "https://sbcl.org/all-news.html?2.6.7",
+        "title": "Half-Life ported to Mac OS 9",
+        "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
         "source": "hn",
-        "time": "7/28/2026, 5:11:54 PM"
+        "time": "7/28/2026, 8:58:39 PM"
       },
       {
-        "title": "Kimi K3 Architecture Overview and Notes",
-        "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+        "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+        "url": "https://github.com/anthropics/cryptography-research-demo",
         "source": "hn",
-        "time": "7/28/2026, 3:48:34 PM"
-      },
-      {
-        "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
-        "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
-        "source": "hn",
-        "time": "7/28/2026, 5:37:12 PM"
+        "time": "7/28/2026, 9:22:48 PM"
       }
     ],
     "world": [
