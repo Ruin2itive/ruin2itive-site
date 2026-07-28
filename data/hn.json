@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-28T08:54:07.912Z"
+    "built_at": "2026-07-28T09:51:57.292Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Cooveb Experience – Travel, Refined",
+      "url": "https://hotels.cooveb.com",
+      "date": "2026-07-28T09:50:48.000Z"
+    },
+    {
+      "title": "Try GossipStack on iOS – a drop-in social SDK for any app",
+      "url": "https://gossipstack.com/app-showcase",
+      "date": "2026-07-28T09:49:01.000Z"
+    }
+  ]
 }
