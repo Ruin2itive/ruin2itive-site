@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-07-28T17:35:04.028Z",
-  "updated_local": "7/28/2026, 5:35:04 PM",
+  "updated_iso": "2026-07-28T18:31:02.170Z",
+  "updated_local": "7/28/2026, 6:31:02 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Zcash Activates Ironwood Upgrade After Counterfeiting Scare",
+        "url": "https://decrypt.co/374577/zcash-ironwood-upgrade-counterfeiting-scare",
+        "source": "crypto",
+        "time": "Tue, 28 Jul 2026 18:24:19 +0000"
+      },
+      {
+        "title": "The Dumbest-Looking AI Prompt Just Beat Months of Careful Game-Design Prompt Engineering",
+        "url": "https://decrypt.co/374560/dumbest-ai-prompt-claude-beat-careful-game-design",
+        "source": "crypto",
+        "time": "Tue, 28 Jul 2026 18:04:00 +0000"
+      },
       {
         "title": "First ChatGPT, Now Claude: Frontier AI Models Are Escaping Their Sandboxes",
         "url": "https://decrypt.co/374557/chatgpt-claude-ai-models-escaping-sandboxes-cowork",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/374535/morning-minute-strategy-chooses-cash-strc-over-btc",
         "source": "crypto",
         "time": "Tue, 28 Jul 2026 11:57:58 +0000"
-      },
-      {
-        "title": "1inch&#39;s Shared Liquidity Layer Aqua Goes Live",
-        "url": "https://decrypt.co/374533/1inchs-shared-liquidity-layer-aqua-goes-live",
-        "source": "crypto",
-        "time": "Tue, 28 Jul 2026 11:53:26 +0000"
-      },
-      {
-        "title": "Zcash Miner Fortitude Powers Up Nebraska Facility as It Eyes Public Listing",
-        "url": "https://decrypt.co/374491/zcash-miner-fortitude-nebraska-mining-facility",
-        "source": "crypto",
-        "time": "Tue, 28 Jul 2026 11:31:03 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "7/28/2026, 4:02:07 PM"
       },
       {
-        "title": "Substack writers, you need a website",
-        "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+        "title": "Steel Bank Common Lisp version 2.6.7",
+        "url": "https://sbcl.org/all-news.html?2.6.7",
         "source": "hn",
-        "time": "7/28/2026, 4:58:31 PM"
+        "time": "7/28/2026, 5:11:54 PM"
       },
       {
         "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
@@ -54,16 +54,16 @@
         "time": "7/28/2026, 3:50:38 PM"
       },
       {
+        "title": "iPhone Upgrade Program",
+        "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+        "source": "hn",
+        "time": "7/28/2026, 5:37:12 PM"
+      },
+      {
         "title": "Zig's Incremental Compilation Internals",
         "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
         "source": "hn",
         "time": "7/28/2026, 3:46:45 PM"
-      },
-      {
-        "title": "How Do I Profile eBPF Code?",
-        "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
-        "source": "hn",
-        "time": "7/28/2026, 3:55:44 PM"
       }
     ],
     "world": [
