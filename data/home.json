@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-28T07:52:46.943Z",
-  "updated_local": "7/28/2026, 7:52:46 AM",
+  "updated_iso": "2026-07-28T08:57:21.861Z",
+  "updated_local": "7/28/2026, 8:57:21 AM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,16 @@
     ],
     "hacker": [
       {
+        "title": "7.1 Earthquake in Japan",
+        "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+        "source": "hn",
+        "time": "7/28/2026, 7:44:24 AM"
+      },
+      {
         "title": "Our position on open-weights models",
         "url": "https://www.anthropic.com/news/position-open-weights-models",
         "source": "hn",
         "time": "7/27/2026, 10:03:49 PM"
-      },
-      {
-        "title": "Neutrino-1 8B",
-        "url": "https://www.fermionresearch.com/models/neutrino-8b/",
-        "source": "hn",
-        "time": "7/28/2026, 4:49:54 AM"
-      },
-      {
-        "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
-        "url": "https://arsastronomica.com/",
-        "source": "hn",
-        "time": "7/28/2026, 5:25:34 AM"
       },
       {
         "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
@@ -60,30 +54,36 @@
         "time": "7/28/2026, 2:18:53 AM"
       },
       {
-        "title": "Benchmarking Opus 5 on SlopCodeBench",
-        "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+        "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+        "url": "https://arsastronomica.com/",
         "source": "hn",
-        "time": "7/27/2026, 10:37:52 PM"
+        "time": "7/28/2026, 5:25:34 AM"
+      },
+      {
+        "title": "Neutrino-1 8B",
+        "url": "https://www.fermionresearch.com/models/neutrino-8b/",
+        "source": "hn",
+        "time": "7/28/2026, 4:49:54 AM"
       }
     ],
     "world": [
       {
-        "title": "Schools to offer technical subjects to pupils from age 14, Burnham says",
+        "title": "Schools to offer technical subjects from age 14 in England, Burnham says",
         "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 28 Jul 2026 07:06:04 GMT"
+        "time": "Tue, 28 Jul 2026 08:23:37 GMT"
       },
       {
-        "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
-        "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Fourth heatwave grips parts of UK with 35C forecast",
+        "url": "https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 28 Jul 2026 05:01:19 GMT"
+        "time": "Tue, 28 Jul 2026 00:18:58 GMT"
       },
       {
-        "title": "Reform UK reports Zack Polanski to police over guillotine T-shirt post",
-        "url": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Naga Munchetty to leave BBC One's Breakfast after 17 years",
+        "url": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 27 Jul 2026 21:57:08 GMT"
+        "time": "Tue, 28 Jul 2026 08:41:01 GMT"
       },
       {
         "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
@@ -92,10 +92,10 @@
         "time": "Tue, 28 Jul 2026 01:53:58 GMT"
       },
       {
-        "title": "Fourth heatwave grips parts of UK with 35C forecast",
-        "url": "https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+        "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 28 Jul 2026 00:18:58 GMT"
+        "time": "Tue, 28 Jul 2026 05:01:19 GMT"
       }
     ],
     "projects": [
