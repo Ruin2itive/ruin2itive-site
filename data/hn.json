@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-29T17:26:20.088Z"
+    "built_at": "2026-07-29T18:19:15.550Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The future belongs to AI maniacs",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/07/the-future-belongs-to-ai-maniacs.html",
+      "date": "2026-07-29T18:18:32.000Z"
+    },
+    {
+      "title": "Grok Voice Think Fast 2.0",
+      "url": "https://twitter.com/spacexai/status/2082529280341553209",
+      "date": "2026-07-29T18:18:01.000Z"
+    }
+  ]
 }
