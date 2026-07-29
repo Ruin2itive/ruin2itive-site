@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-29T13:39:20.236Z",
-  "updated_local": "7/29/2026, 1:39:20 PM",
+  "updated_iso": "2026-07-29T14:47:15.992Z",
+  "updated_local": "7/29/2026, 2:47:15 PM",
   "sections": {
     "crypto": [
       {
@@ -48,16 +48,16 @@
         "time": "7/29/2026, 1:01:57 PM"
       },
       {
+        "title": "Choose DuckDB rather than SQLite",
+        "url": "https://tracewayapp.com/blog/sqlite-vs-duckdb",
+        "source": "hn",
+        "time": "7/29/2026, 2:05:40 PM"
+      },
+      {
         "title": "Document-borne AI worms can self-propagate through Copilot for Word",
         "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
         "source": "hn",
         "time": "7/29/2026, 11:44:33 AM"
-      },
-      {
-        "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
-        "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
-        "source": "hn",
-        "time": "7/29/2026, 12:58:27 PM"
       },
       {
         "title": "More Tailscale tricks for your jailbroken Kindle",
@@ -71,7 +71,19 @@
         "title": "More than half of England officially in drought, Environment Agency says",
         "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Jul 2026 12:55:03 GMT"
+        "time": "Wed, 29 Jul 2026 14:37:30 GMT"
+      },
+      {
+        "title": "Burnham doesn't rule out tax rises to fix social care",
+        "url": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 29 Jul 2026 14:13:12 GMT"
+      },
+      {
+        "title": "Serial killer given whole life order for murders of two men as police investigate four more deaths",
+        "url": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 29 Jul 2026 14:43:01 GMT"
       },
       {
         "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
@@ -84,18 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 29 Jul 2026 12:42:14 GMT"
-      },
-      {
-        "title": "Teenage Norwegian 'hitman' guilty of UK murder plot",
-        "url": "https://www.bbc.co.uk/news/articles/cwyqggvyp1do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 29 Jul 2026 12:57:49 GMT"
-      },
-      {
-        "title": "'Apocalyptic' damage as Cairngorms wildfire burns for two weeks",
-        "url": "https://www.bbc.co.uk/news/articles/ckgd32v2y2lo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 29 Jul 2026 11:01:32 GMT"
       }
     ],
     "projects": [
