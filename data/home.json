@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-29T10:57:12.077Z",
-  "updated_local": "7/29/2026, 10:57:12 AM",
+  "updated_iso": "2026-07-29T11:44:24.538Z",
+  "updated_local": "7/29/2026, 11:44:24 AM",
   "sections": {
     "crypto": [
       {
@@ -36,48 +36,48 @@
     ],
     "hacker": [
       {
+        "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
+        "url": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
+        "source": "hn",
+        "time": "7/29/2026, 10:47:57 AM"
+      },
+      {
         "title": "More Tailscale tricks for your jailbroken Kindle",
         "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
         "source": "hn",
         "time": "7/29/2026, 4:58:46 AM"
       },
       {
-        "title": "User Interfaces of the Demo Scene",
-        "url": "https://www.datagubbe.se/scenegui/",
+        "title": "Amiga Graphics Archive",
+        "url": "https://amiga.lychesis.net/index.html",
         "source": "hn",
-        "time": "7/29/2026, 4:30:36 AM"
-      },
-      {
-        "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
-        "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
-        "source": "hn",
-        "time": "7/29/2026, 7:18:24 AM"
-      },
-      {
-        "title": "Lisp moving Forth moving Lisp",
-        "url": "https://letoverlambda.com/textmode.cl/guest/chap8.html",
-        "source": "hn",
-        "time": "7/26/2026, 5:37:33 PM"
+        "time": "7/29/2026, 10:19:44 AM"
       },
       {
         "title": "SpecForge – A Platform for Authoring Formal Specifications",
         "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
         "source": "hn",
         "time": "7/29/2026, 10:35:19 AM"
+      },
+      {
+        "title": "User Interfaces of the Demo Scene",
+        "url": "https://www.datagubbe.se/scenegui/",
+        "source": "hn",
+        "time": "7/29/2026, 4:30:36 AM"
       }
     ],
     "world": [
+      {
+        "title": "More than half of England officially in drought, Environment Agency says",
+        "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 29 Jul 2026 11:43:24 GMT"
+      },
       {
         "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
         "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 29 Jul 2026 05:00:07 GMT"
-      },
-      {
-        "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-        "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 29 Jul 2026 09:39:56 GMT"
       },
       {
         "title": "OpenAI says its rogue AI tried to hack other companies",
@@ -92,10 +92,10 @@
         "time": "Tue, 28 Jul 2026 23:52:23 GMT"
       },
       {
-        "title": "Data centres could pay hundreds of millions in deposits for power demands",
-        "url": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Apocalyptic' damage as Cairngorms wildfire burns for two weeks",
+        "url": "https://www.bbc.co.uk/news/articles/ckgd32v2y2lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Jul 2026 09:50:04 GMT"
+        "time": "Wed, 29 Jul 2026 11:01:32 GMT"
       }
     ],
     "projects": [
