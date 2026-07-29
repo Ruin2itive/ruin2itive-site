@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-28T23:25:39.365Z",
-  "updated_local": "7/28/2026, 11:25:39 PM",
+  "updated_iso": "2026-07-29T00:31:46.342Z",
+  "updated_local": "7/29/2026, 12:31:46 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "OpenAI just open-sourced Codex Security",
+        "title": "Codex Security",
         "url": "https://github.com/openai/codex-security",
         "source": "hn",
         "time": "7/28/2026, 8:52:55 PM"
-      },
-      {
-        "title": "Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn",
-        "url": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
-        "source": "hn",
-        "time": "7/28/2026, 10:31:14 PM"
       },
       {
         "title": "Half-Life ported to Mac OS 9",
@@ -54,16 +48,22 @@
         "time": "7/28/2026, 8:58:39 PM"
       },
       {
+        "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+        "url": "https://github.com/twalichiewicz/HNewhere",
+        "source": "hn",
+        "time": "7/28/2026, 10:09:06 PM"
+      },
+      {
         "title": "Substack writers, you need a website",
         "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
         "source": "hn",
         "time": "7/28/2026, 4:58:31 PM"
       },
       {
-        "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-        "url": "https://github.com/twalichiewicz/HNewhere",
+        "title": "Steel Bank Common Lisp version 2.6.7",
+        "url": "https://sbcl.org/all-news.html?2.6.7",
         "source": "hn",
-        "time": "7/28/2026, 10:09:06 PM"
+        "time": "7/28/2026, 5:11:54 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Tue, 28 Jul 2026 17:32:56 GMT"
       },
       {
+        "title": "The evidence that shows today's 20-somethings really do have it worse",
+        "url": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 28 Jul 2026 23:52:23 GMT"
+      },
+      {
+        "title": "Iran launches 'attempted surprise attack' on US forces in Middle East",
+        "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 29 Jul 2026 00:23:22 GMT"
+      },
+      {
         "title": "Uefa and PM criticise Infantino World Cup plan",
         "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 28 Jul 2026 15:36:29 GMT"
-      },
-      {
-        "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-        "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 28 Jul 2026 16:14:03 GMT"
-      },
-      {
-        "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-        "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 28 Jul 2026 20:57:29 GMT"
       }
     ],
     "projects": [
