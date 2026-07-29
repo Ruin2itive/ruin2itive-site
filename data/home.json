@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-29T19:33:00.851Z",
-  "updated_local": "7/29/2026, 7:33:00 PM",
+  "updated_iso": "2026-07-29T20:21:57.368Z",
+  "updated_local": "7/29/2026, 8:21:57 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "There&#39;s a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say",
+        "url": "https://decrypt.co/374651/new-research-bitcoin-wallet-quantum-attacks-safe",
+        "source": "crypto",
+        "time": "Wed, 29 Jul 2026 20:01:03 +0000"
+      },
       {
         "title": "MoonPay&#39;s PayBox Puts a Crypto Wallet Inside Claude and ChatGPT—And Lets It Pay for Things",
         "url": "https://decrypt.co/374687/moonpays-paybox-crypto-wallet-claude-chatgpt",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/resources/zcash",
         "source": "crypto",
         "time": "Wed, 29 Jul 2026 16:43:52 +0000"
-      },
-      {
-        "title": "AI Book Burning? Companies Are Destroying Millions of Books to Feed Chatbots",
-        "url": "https://decrypt.co/374646/ai-book-burning-companies-destroying-millions-books-chatbots",
-        "source": "crypto",
-        "time": "Wed, 29 Jul 2026 16:38:25 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Kimi K3-256k",
+        "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+        "source": "hn",
+        "time": "7/29/2026, 7:25:33 PM"
+      },
       {
         "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
         "url": "https://github.com/drumih/turbo-fieldfare",
@@ -58,12 +64,6 @@
         "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
         "source": "hn",
         "time": "7/29/2026, 4:36:59 PM"
-      },
-      {
-        "title": "KOReader",
-        "url": "https://koreader.rocks/",
-        "source": "hn",
-        "time": "7/29/2026, 11:05:08 AM"
       }
     ],
     "world": [
@@ -72,12 +72,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 29 Jul 2026 14:37:30 GMT"
-      },
-      {
-        "title": "Burnham doesn't rule out tax rises to fix social care",
-        "url": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 29 Jul 2026 16:32:53 GMT"
       },
       {
         "title": "Moment police officers set foot in 'horror scene' funeral home",
@@ -92,10 +86,16 @@
         "time": "Wed, 29 Jul 2026 17:04:42 GMT"
       },
       {
-        "title": "France fire crews face searing heat in battle to contain flames",
-        "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Police to take no further action against Polanski over guillotine re-post",
+        "url": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Jul 2026 16:49:41 GMT"
+        "time": "Wed, 29 Jul 2026 19:53:48 GMT"
+      },
+      {
+        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+        "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 29 Jul 2026 18:41:31 GMT"
       }
     ],
     "projects": [
