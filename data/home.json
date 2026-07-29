@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-29T17:27:59.028Z",
-  "updated_local": "7/29/2026, 5:27:59 PM",
+  "updated_iso": "2026-07-29T17:31:02.343Z",
+  "updated_local": "7/29/2026, 5:31:02 PM",
   "sections": {
     "crypto": [
       {
@@ -42,12 +42,6 @@
         "time": "7/29/2026, 3:05:43 PM"
       },
       {
-        "title": "Superlogical – Mitchell Hashimoto",
-        "url": "https://mitchellh.com/writing/superlogical",
-        "source": "hn",
-        "time": "7/29/2026, 3:45:56 PM"
-      },
-      {
         "title": "KOReader",
         "url": "https://koreader.rocks/",
         "source": "hn",
@@ -64,6 +58,12 @@
         "url": "https://arxiv.org/abs/2607.25398",
         "source": "hn",
         "time": "7/29/2026, 1:01:57 PM"
+      },
+      {
+        "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
+        "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
+        "source": "hn",
+        "time": "7/29/2026, 3:01:52 PM"
       }
     ],
     "world": [
