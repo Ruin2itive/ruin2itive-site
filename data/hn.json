@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-29T13:33:21.383Z"
+    "built_at": "2026-07-29T14:45:07.351Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Controllable Generative Modeling in Minecraft by Training on Billions of Cubes",
+      "url": "https://pub.sakana.ai/dream-cubed/",
+      "date": "2026-07-29T14:44:35.000Z"
+    },
+    {
+      "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
+      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+      "date": "2026-07-29T14:43:47.000Z"
+    }
+  ]
 }
