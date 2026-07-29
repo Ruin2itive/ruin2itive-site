@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-29T05:10:47.646Z",
-  "updated_local": "7/29/2026, 5:10:47 AM",
+  "updated_iso": "2026-07-29T06:56:34.765Z",
+  "updated_local": "7/29/2026, 6:56:34 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "More Tailscale tricks for your jailbroken Kindle",
+        "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+        "source": "hn",
+        "time": "7/29/2026, 4:58:46 AM"
+      },
+      {
+        "title": "User Interfaces of the Demo Scene",
+        "url": "https://www.datagubbe.se/scenegui/",
+        "source": "hn",
+        "time": "7/29/2026, 4:30:36 AM"
+      },
+      {
         "title": "Codex Security",
         "url": "https://github.com/openai/codex-security",
         "source": "hn",
@@ -48,22 +60,10 @@
         "time": "7/29/2026, 1:49:19 AM"
       },
       {
-        "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-        "url": "https://transformer-transformer.github.io/",
+        "title": "Cracking Windows Open: Porting RADV to Win32",
+        "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
         "source": "hn",
-        "time": "7/29/2026, 3:52:29 AM"
-      },
-      {
-        "title": "More Tailscale tricks for your jailbroken Kindle",
-        "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-        "source": "hn",
-        "time": "7/29/2026, 4:58:46 AM"
-      },
-      {
-        "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-        "url": "https://github.com/twalichiewicz/HNewhere",
-        "source": "hn",
-        "time": "7/28/2026, 10:09:06 PM"
+        "time": "7/29/2026, 4:30:47 AM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Burnham invites Tories and Lib Dems to social care talks",
         "url": "https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Jul 2026 01:59:59 GMT"
+        "time": "Wed, 29 Jul 2026 06:35:42 GMT"
       },
       {
         "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
@@ -86,16 +86,16 @@
         "time": "Wed, 29 Jul 2026 00:49:40 GMT"
       },
       {
-        "title": "The evidence that shows today's 20-somethings really do have it worse",
-        "url": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Saudi Arabia joins US in strikes on Iran-backed militia",
+        "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 28 Jul 2026 23:52:23 GMT"
+        "time": "Wed, 29 Jul 2026 06:54:12 GMT"
       },
       {
-        "title": "'No safe options' for thousands sheltering in key Sudan city as RSF fighters advance",
-        "url": "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ticket prices set to rise as Heathrow able to recover runway project money",
+        "url": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Jul 2026 05:01:46 GMT"
+        "time": "Wed, 29 Jul 2026 06:53:06 GMT"
       }
     ],
     "projects": [
