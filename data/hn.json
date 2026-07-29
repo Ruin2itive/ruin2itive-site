@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-29T01:32:34.755Z"
+    "built_at": "2026-07-29T03:00:51.580Z"
   },
-  "items": [
-    {
-      "title": "Building Galley House",
-      "url": "https://eviltrout.com/blog/2026-07-28-building-galley-house/",
-      "date": "2026-07-29T01:29:57.000Z"
-    },
-    {
-      "title": "Generate Nix binary caches without Nix copy",
-      "url": "https://www.justus.pw/posts/2026-07-29-generate-nix-cache.html",
-      "date": "2026-07-29T01:24:00.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
