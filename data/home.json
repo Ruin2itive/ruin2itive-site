@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-07-29T15:38:09.088Z",
-  "updated_local": "7/29/2026, 3:38:09 PM",
+  "updated_iso": "2026-07-29T16:30:49.219Z",
+  "updated_local": "7/29/2026, 4:30:49 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI&#39;s Rogue AI Hacked Four More Platforms Besides Hugging Face",
+        "url": "https://decrypt.co/374645/openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face",
+        "source": "crypto",
+        "time": "Wed, 29 Jul 2026 16:16:43 +0000"
+      },
+      {
+        "title": "SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins",
+        "url": "https://decrypt.co/374643/sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins",
+        "source": "crypto",
+        "time": "Wed, 29 Jul 2026 16:09:34 +0000"
+      },
       {
         "title": "Morning Minute: Claude Mythos Breaks Post-Quantum Cryptography",
         "url": "https://decrypt.co/374637/morning-minute-claude-mythos-breaks-post-quantum-cryptography",
@@ -20,21 +32,15 @@
         "url": "https://decrypt.co/374628/apple-sued-after-fake-iphone-wallet-app-drained-1-8m-in-bitcoin",
         "source": "crypto",
         "time": "Wed, 29 Jul 2026 10:22:57 +0000"
-      },
-      {
-        "title": "Russia Charges Telegram&#39;s Pavel Durov With Aiding Terrorism",
-        "url": "https://decrypt.co/374625/russia-charges-telegrams-pavel-durov-with-aiding-terrorism",
-        "source": "crypto",
-        "time": "Wed, 29 Jul 2026 09:34:35 +0000"
-      },
-      {
-        "title": "Markets Don’t Buy the US Ceasefire Against Iran Will Last",
-        "url": "https://decrypt.co/374611/us-iran-ceasefire-prediction-market-odds",
-        "source": "crypto",
-        "time": "Tue, 28 Jul 2026 22:46:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+        "url": "https://github.com/drumih/turbo-fieldfare",
+        "source": "hn",
+        "time": "7/29/2026, 3:05:43 PM"
+      },
       {
         "title": "KOReader",
         "url": "https://koreader.rocks/",
@@ -48,22 +54,16 @@
         "time": "7/29/2026, 1:01:57 PM"
       },
       {
-        "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-        "url": "https://github.com/drumih/turbo-fieldfare",
+        "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
+        "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
         "source": "hn",
-        "time": "7/29/2026, 3:05:43 PM"
+        "time": "7/29/2026, 3:01:52 PM"
       },
       {
-        "title": "The Scientific Literature Is Poisonous to LLMs",
-        "url": "https://www.reinvent.science/p/the-scientific-literature-is-poisonous",
+        "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+        "url": "https://usetokenless.com/",
         "source": "hn",
-        "time": "7/29/2026, 3:23:38 PM"
-      },
-      {
-        "title": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
-        "url": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
-        "source": "hn",
-        "time": "7/29/2026, 12:48:18 PM"
+        "time": "7/29/2026, 3:55:27 PM"
       }
     ],
     "world": [
@@ -77,13 +77,13 @@
         "title": "Burnham doesn't rule out tax rises to fix social care",
         "url": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Jul 2026 14:13:12 GMT"
+        "time": "Wed, 29 Jul 2026 15:57:26 GMT"
       },
       {
         "title": "Serial killer given whole life orders for murders of two men as police investigate four more deaths",
         "url": "https://www.bbc.co.uk/news/articles/cddjz02d8jgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Jul 2026 14:56:48 GMT"
+        "time": "Wed, 29 Jul 2026 16:10:40 GMT"
       },
       {
         "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
@@ -92,10 +92,10 @@
         "time": "Wed, 29 Jul 2026 05:00:07 GMT"
       },
       {
-        "title": "Boy, 7, dies in hospital after beach tragedy",
-        "url": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Fifa offers $40m if nations back controversial plan",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Jul 2026 12:42:14 GMT"
+        "time": "Wed, 29 Jul 2026 14:56:22 GMT"
       }
     ],
     "projects": [
