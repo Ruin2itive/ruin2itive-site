@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-07-29T11:47:35.974Z",
-  "updated_local": "7/29/2026, 11:47:35 AM",
+  "updated_iso": "2026-07-29T12:42:48.405Z",
+  "updated_local": "7/29/2026, 12:42:48 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Claude Mythos Breaks Post-Quantum Cryptography",
+        "url": "https://decrypt.co/374637/morning-minute-claude-mythos-breaks-post-quantum-cryptography",
+        "source": "crypto",
+        "time": "Wed, 29 Jul 2026 12:15:00 +0000"
+      },
+      {
+        "title": "Crypto Scams Cost Americans an Estimated $80.7B in 2025: Report",
+        "url": "https://decrypt.co/374638/crypto-scams-cost-americans-an-estimated-80-7b-in-2025-report",
+        "source": "crypto",
+        "time": "Wed, 29 Jul 2026 12:10:26 +0000"
+      },
       {
         "title": "Apple Sued After Fake iPhone Wallet App Drained $1.8M in Bitcoin",
         "url": "https://decrypt.co/374628/apple-sued-after-fake-iphone-wallet-app-drained-1-8m-in-bitcoin",
@@ -20,38 +32,26 @@
         "url": "https://decrypt.co/374611/us-iran-ceasefire-prediction-market-odds",
         "source": "crypto",
         "time": "Tue, 28 Jul 2026 22:46:03 +0000"
-      },
-      {
-        "title": "Apple Overtakes Nvidia—Which Will Be Bigger by End of July?",
-        "url": "https://decrypt.co/374604/apple-overtakes-nvidia-which-bigger-july",
-        "source": "crypto",
-        "time": "Tue, 28 Jul 2026 22:08:04 +0000"
-      },
-      {
-        "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
-        "url": "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography",
-        "source": "crypto",
-        "time": "Tue, 28 Jul 2026 20:45:38 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "KOReader",
+        "url": "https://koreader.rocks/",
+        "source": "hn",
+        "time": "7/29/2026, 11:05:08 AM"
+      },
+      {
+        "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+        "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+        "source": "hn",
+        "time": "7/29/2026, 11:44:33 AM"
+      },
       {
         "title": "More Tailscale tricks for your jailbroken Kindle",
         "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
         "source": "hn",
         "time": "7/29/2026, 4:58:46 AM"
-      },
-      {
-        "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
-        "url": "https://www.fcc.gov/sites/default/files/robots-nsd.pdf",
-        "source": "hn",
-        "time": "7/29/2026, 10:47:57 AM"
-      },
-      {
-        "title": "SpecForge – A Platform for Authoring Formal Specifications",
-        "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
-        "source": "hn",
-        "time": "7/29/2026, 10:35:19 AM"
       },
       {
         "title": "Amiga Graphics Archive",
@@ -60,10 +60,10 @@
         "time": "7/29/2026, 10:19:44 AM"
       },
       {
-        "title": "User Interfaces of the Demo Scene",
-        "url": "https://www.datagubbe.se/scenegui/",
+        "title": "SpecForge – A Platform for Authoring Formal Specifications",
+        "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
         "source": "hn",
-        "time": "7/29/2026, 4:30:36 AM"
+        "time": "7/29/2026, 10:35:19 AM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "More than half of England officially in drought, Environment Agency says",
         "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Jul 2026 11:43:24 GMT"
+        "time": "Wed, 29 Jul 2026 12:35:24 GMT"
       },
       {
         "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
@@ -80,22 +80,22 @@
         "time": "Wed, 29 Jul 2026 05:00:07 GMT"
       },
       {
+        "title": "Boy, 7, dies in hospital after beach tragedy",
+        "url": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 29 Jul 2026 12:42:14 GMT"
+      },
+      {
+        "title": "Teenage Norwegian 'hitman' guilty of UK murder plot",
+        "url": "https://www.bbc.co.uk/news/articles/cwyqggvyp1do?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 29 Jul 2026 12:09:20 GMT"
+      },
+      {
         "title": "OpenAI says its rogue AI tried to hack other companies",
         "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 29 Jul 2026 08:49:27 GMT"
-      },
-      {
-        "title": "Boy, 7, dies after beach tragedy that killed mum and daughter",
-        "url": "https://www.bbc.co.uk/news/articles/c4gv0d125p5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 29 Jul 2026 11:47:00 GMT"
-      },
-      {
-        "title": "'Apocalyptic' damage as Cairngorms wildfire burns for two weeks",
-        "url": "https://www.bbc.co.uk/news/articles/ckgd32v2y2lo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 29 Jul 2026 11:01:32 GMT"
       }
     ],
     "projects": [
