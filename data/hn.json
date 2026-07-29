@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-29T15:36:30.606Z"
+    "built_at": "2026-07-29T16:29:04.948Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Emacs Writing Machine",
+      "url": "https://chainsawriot.com/postmannheim/2026/07/25/writeredeck.html",
+      "date": "2026-07-29T16:27:02.000Z"
+    },
+    {
+      "title": "Newsmax, Meta Enter AI Content Partnership",
+      "url": "https://news.bloomberglaw.com/artificial-intelligence/newsmax-meta-enter-ai-content-partnership",
+      "date": "2026-07-29T16:25:08.000Z"
+    }
+  ]
 }
