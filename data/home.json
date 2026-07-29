@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-29T07:57:33.891Z",
-  "updated_local": "7/29/2026, 7:57:33 AM",
+  "updated_iso": "2026-07-29T09:04:08.435Z",
+  "updated_local": "7/29/2026, 9:04:08 AM",
   "sections": {
     "crypto": [
       {
@@ -54,25 +54,19 @@
         "time": "7/28/2026, 8:52:55 PM"
       },
       {
-        "title": "Cracking Windows Open: Porting RADV to Win32",
-        "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
-        "source": "hn",
-        "time": "7/29/2026, 4:30:47 AM"
-      },
-      {
         "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
         "url": "https://github.com/twalichiewicz/HNewhere",
         "source": "hn",
         "time": "7/28/2026, 10:09:06 PM"
+      },
+      {
+        "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+        "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+        "source": "hn",
+        "time": "7/29/2026, 7:18:24 AM"
       }
     ],
     "world": [
-      {
-        "title": "Burnham invites Tories and Lib Dems to social care talks",
-        "url": "https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 29 Jul 2026 06:35:42 GMT"
-      },
       {
         "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
         "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&amp;at_campaign=rss",
@@ -80,10 +74,10 @@
         "time": "Wed, 29 Jul 2026 05:00:07 GMT"
       },
       {
-        "title": "Saudi Arabia joins US in strikes on Iran-backed militia",
+        "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
         "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Jul 2026 06:54:12 GMT"
+        "time": "Wed, 29 Jul 2026 08:43:46 GMT"
       },
       {
         "title": "Polanski says guillotine re-post was mistake but refuses to apologise",
@@ -92,10 +86,16 @@
         "time": "Wed, 29 Jul 2026 00:49:40 GMT"
       },
       {
-        "title": "The evidence that shows today's 20-somethings really do have it worse",
+        "title": "Today's 20-somethings really do have it worse - here's why",
         "url": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 28 Jul 2026 23:52:23 GMT"
+      },
+      {
+        "title": "OpenAI says its rogue AI tried to hack other companies",
+        "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 29 Jul 2026 08:49:27 GMT"
       }
     ],
     "projects": [
