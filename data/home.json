@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-30T15:42:37.911Z",
-  "updated_local": "7/30/2026, 3:42:37 PM",
+  "updated_iso": "2026-07-30T16:32:23.129Z",
+  "updated_local": "7/30/2026, 4:32:23 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Elon Musk&#39;s xAI Sues Minnesota to Kill the US&#39;s First AI Nudification Law",
+        "url": "https://decrypt.co/374728/elon-musk-xai-sues-minnesota-ai-nudification-law",
+        "source": "crypto",
+        "time": "Thu, 30 Jul 2026 15:42:17 +0000"
+      },
       {
         "title": "Australia Sues Telegram for $38M Over ‘Pro-Terror’ Videos",
         "url": "https://decrypt.co/374725/australia-sues-telegram-for-38m-over-pro-terror-videos",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/374699/crypto-exchange-luno-cuts-global-staff-by-a-fifth-citing-automation",
         "source": "crypto",
         "time": "Thu, 30 Jul 2026 11:42:03 +0000"
-      },
-      {
-        "title": "Fake Flare Network Staking Site Drained $8.5M in XRP: Seoul Police",
-        "url": "https://decrypt.co/374696/fake-flare-network-staking-site-drained-8-5m-in-xrp-seoul-police",
-        "source": "crypto",
-        "time": "Thu, 30 Jul 2026 09:50:02 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,16 @@
         "time": "7/30/2026, 3:15:48 PM"
       },
       {
-        "title": "Why DNA damage from smoking and UV rays cause cancer in some but not others",
-        "url": "https://www.cam.ac.uk/research/news/study-reveals-why-dna-damage-from-smoking-and-uv-rays-may-cause-cancer-in-some-people-but-not-others",
+        "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+        "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
         "source": "hn",
-        "time": "7/30/2026, 2:15:19 PM"
+        "time": "7/30/2026, 3:22:46 PM"
+      },
+      {
+        "title": "The Economic Benefit of Refactoring",
+        "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+        "source": "hn",
+        "time": "7/30/2026, 3:10:27 PM"
       },
       {
         "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
@@ -54,16 +60,10 @@
         "time": "7/30/2026, 2:36:59 PM"
       },
       {
-        "title": "The Lost Civic Life of Movie Rental Stores",
-        "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
+        "title": "Hacker Public Radio",
+        "url": "https://hackerpublicradio.org/",
         "source": "hn",
-        "time": "7/30/2026, 2:11:42 PM"
-      },
-      {
-        "title": "Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
-        "url": "https://rusty.today/blog/paging-parquet-duckdb-file-row-number-vs-offset/",
-        "source": "hn",
-        "time": "7/30/2026, 2:58:07 PM"
+        "time": "7/30/2026, 2:29:27 PM"
       }
     ],
     "world": [
@@ -71,13 +71,13 @@
         "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
         "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Jul 2026 15:33:31 GMT"
+        "time": "Thu, 30 Jul 2026 16:18:53 GMT"
       },
       {
         "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
         "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Jul 2026 12:46:16 GMT"
+        "time": "Thu, 30 Jul 2026 16:04:53 GMT"
       },
       {
         "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
@@ -92,10 +92,10 @@
         "time": "Thu, 30 Jul 2026 14:01:19 GMT"
       },
       {
-        "title": "Watch: Giant iceberg turns over near  Greenland's coast",
-        "url": "https://www.bbc.co.uk/news/videos/cdx7lg950gdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Palestine Action ban to be reviewed by Supreme Court",
+        "url": "https://www.bbc.co.uk/news/articles/c87n321w9qlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Jul 2026 10:54:36 GMT"
+        "time": "Thu, 30 Jul 2026 16:05:40 GMT"
       }
     ],
     "projects": [
