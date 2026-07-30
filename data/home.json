@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-30T14:50:31.436Z",
-  "updated_local": "7/30/2026, 2:50:31 PM",
+  "updated_iso": "2026-07-30T15:39:12.173Z",
+  "updated_local": "7/30/2026, 3:39:12 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Australia Sues Telegram for $38M Over ‘Pro-Terror’ Videos",
+        "url": "https://decrypt.co/374725/australia-sues-telegram-for-38m-over-pro-terror-videos",
+        "source": "crypto",
+        "time": "Thu, 30 Jul 2026 15:22:50 +0000"
+      },
       {
         "title": "&#39;Completely Legal&#39;: GrapheneOS Pushes Back as Duress Password Case Proceeds",
         "url": "https://decrypt.co/374705/completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds",
@@ -26,49 +32,49 @@
         "url": "https://decrypt.co/374696/fake-flare-network-staking-site-drained-8-5m-in-xrp-seoul-police",
         "source": "crypto",
         "time": "Thu, 30 Jul 2026 09:50:02 +0000"
-      },
-      {
-        "title": "Microsoft Quietly Adds New Windows App That Wants to Scan Your Face",
-        "url": "https://decrypt.co/374688/microsoft-quietly-adds-windows-app-wants-scan-face-onedrive",
-        "source": "crypto",
-        "time": "Wed, 29 Jul 2026 22:31:03 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
-        "url": "https://remysharp.com/links/2026-07-23-35890312",
+        "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+        "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
         "source": "hn",
-        "time": "7/30/2026, 1:03:27 PM"
+        "time": "7/30/2026, 3:15:48 PM"
       },
       {
-        "title": "RFC 8890 – The Internet is for End Users (2020)",
-        "url": "https://mnot.net/blog/2020/for_the_users",
+        "title": "Why DNA damage from smoking and UV rays cause cancer in some but not others",
+        "url": "https://www.cam.ac.uk/research/news/study-reveals-why-dna-damage-from-smoking-and-uv-rays-may-cause-cancer-in-some-people-but-not-others",
         "source": "hn",
-        "time": "7/30/2026, 1:07:53 PM"
+        "time": "7/30/2026, 2:15:19 PM"
       },
       {
-        "title": "Why Don't People Use Formal Methods?",
-        "url": "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/",
+        "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+        "url": "https://github.com/n67094/sdl_gp",
         "source": "hn",
-        "time": "7/30/2026, 12:21:34 PM"
+        "time": "7/30/2026, 2:36:59 PM"
+      },
+      {
+        "title": "The Lost Civic Life of Movie Rental Stores",
+        "url": "https://thereader.mitpress.mit.edu/the-lost-civic-life-of-movie-rental-stores/",
+        "source": "hn",
+        "time": "7/30/2026, 2:11:42 PM"
       },
       {
         "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
         "url": "https://prized.dev",
         "source": "hn",
         "time": "7/30/2026, 1:29:03 PM"
-      },
-      {
-        "title": "Ron Gilbert started production on Thimbleweed Park 2",
-        "url": "https://www.grumpygamer.com/twp2_announce/",
-        "source": "hn",
-        "time": "7/30/2026, 8:10:33 AM"
       }
     ],
     "world": [
       {
-        "title": "Thousands evacuated in Crete as Europe battles wildfires",
+        "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 30 Jul 2026 15:33:31 GMT"
+      },
+      {
+        "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
         "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 30 Jul 2026 12:46:16 GMT"
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cdx7lg950gdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 30 Jul 2026 10:54:36 GMT"
-      },
-      {
-        "title": "Large rise in offenders sent back to prison, figures reveal",
-        "url": "https://www.bbc.co.uk/news/articles/c6298ljegkgo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 30 Jul 2026 12:13:51 GMT"
       }
     ],
     "projects": [
