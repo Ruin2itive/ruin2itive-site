@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-07-30T11:40:53.303Z",
-  "updated_local": "7/30/2026, 11:40:53 AM",
+  "updated_iso": "2026-07-30T12:36:01.971Z",
+  "updated_local": "7/30/2026, 12:36:01 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Robinhood Posts Its Best Quarter Ever",
+        "url": "https://decrypt.co/374702/morning-minute-robinhood-posts-its-best-quarter-ever",
+        "source": "crypto",
+        "time": "Thu, 30 Jul 2026 12:01:11 +0000"
+      },
+      {
+        "title": "Crypto Exchange Luno Cuts Global Staff By a Fifth, Citing Automation",
+        "url": "https://decrypt.co/374699/crypto-exchange-luno-cuts-global-staff-by-a-fifth-citing-automation",
+        "source": "crypto",
+        "time": "Thu, 30 Jul 2026 11:42:03 +0000"
+      },
       {
         "title": "Fake Flare Network Staking Site Drained $8.5M in XRP: Seoul Police",
         "url": "https://decrypt.co/374696/fake-flare-network-staking-site-drained-8-5m-in-xrp-seoul-police",
@@ -20,32 +32,20 @@
         "url": "https://decrypt.co/374693/robinhood-earnings-best-quarter-ever-crypto",
         "source": "crypto",
         "time": "Wed, 29 Jul 2026 22:01:24 +0000"
-      },
-      {
-        "title": "Flock Cameras Face Growing Backlash as Privacy Concerns Reach Capitol Hill",
-        "url": "https://decrypt.co/374603/flock-cameras-backlash-privacy-concerns-capitol-hill",
-        "source": "crypto",
-        "time": "Wed, 29 Jul 2026 20:46:03 +0000"
-      },
-      {
-        "title": "There&#39;s a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say",
-        "url": "https://decrypt.co/374651/new-research-bitcoin-wallet-quantum-attacks-safe",
-        "source": "crypto",
-        "time": "Wed, 29 Jul 2026 20:01:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "GCC steering committee announces AI policy",
+        "url": "https://lwn.net/Articles/1086041/",
+        "source": "hn",
+        "time": "7/30/2026, 11:45:44 AM"
+      },
       {
         "title": "Gpiozero Flow",
         "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
         "source": "hn",
         "time": "7/30/2026, 10:32:41 AM"
-      },
-      {
-        "title": "Azulejo",
-        "url": "https://en.wikipedia.org/wiki/Azulejo",
-        "source": "hn",
-        "time": "7/28/2026, 8:29:03 PM"
       },
       {
         "title": "AI's top startups are barely publishing their research",
@@ -60,10 +60,10 @@
         "time": "7/30/2026, 9:28:01 AM"
       },
       {
-        "title": "The coolest use for the Vision Pro",
-        "url": "https://christianselig.com/2026/07/vision-pro-house/",
+        "title": "Ron Gilbert started production on Thimbleweed Park 2",
+        "url": "https://www.grumpygamer.com/twp2_announce/",
         "source": "hn",
-        "time": "7/29/2026, 8:39:40 PM"
+        "time": "7/30/2026, 8:10:33 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Thu, 30 Jul 2026 10:49:14 GMT"
       },
       {
-        "title": "Joe Root returns as England Test cricket captain with Stephen Fleming named head coach",
-        "url": "https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 30 Jul 2026 11:13:50 GMT"
-      },
-      {
-        "title": "Israel building new land barriers in Gaza and displacing families",
-        "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 30 Jul 2026 05:05:24 GMT"
-      },
-      {
         "title": "Thousands evacuated in Crete as European wildfires continue to rage",
         "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 30 Jul 2026 09:10:11 GMT"
       },
       {
+        "title": "Large rise in offenders sent back to prison, figures reveal",
+        "url": "https://www.bbc.co.uk/news/articles/c6298ljegkgo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 30 Jul 2026 12:13:51 GMT"
+      },
+      {
         "title": "Olivia Dean nominated and  Lily Allen snubbed in Mercury Prize list",
         "url": "https://www.bbc.co.uk/news/articles/cq6dmlr1gzeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 30 Jul 2026 09:45:12 GMT"
+      },
+      {
+        "title": "Watch: Giant iceberg turns over near  Greenland's coast",
+        "url": "https://www.bbc.co.uk/news/videos/cdx7lg950gdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 30 Jul 2026 10:54:36 GMT"
       }
     ],
     "projects": [
