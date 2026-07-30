@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-30T13:32:38.615Z"
+    "built_at": "2026-07-30T14:44:52.675Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Origin of Car and CADR – IBM 704 and PDP-6 Lisp",
+      "url": "https://www.youtube.com/watch?v=dXBmCIfb92k",
+      "date": "2026-07-30T14:44:32.000Z"
+    },
+    {
+      "title": "Microsoft's 3-day patching directive comes with added operational risk",
+      "url": "https://www.csoonline.com/article/4200366/microsofts-3-day-patching-directive-comes-with-added-operational-risk.html",
+      "date": "2026-07-30T14:44:10.000Z"
+    }
+  ]
 }
