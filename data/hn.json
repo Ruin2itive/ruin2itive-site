@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-30T10:42:14.801Z"
+    "built_at": "2026-07-30T11:35:57.974Z"
   },
-  "items": [
-    {
-      "title": "In AI arms race, Swiss neutrality is double-edged sword",
-      "url": "https://www.swissinfo.ch/eng/foreign-affairs/swiss-neutrality-is-double-edged-sword-in-ai-arms-race/91784797",
-      "date": "2026-07-30T10:40:18.000Z"
-    },
-    {
-      "title": "Gpiozero Flow",
-      "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
-      "date": "2026-07-30T10:32:41.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
