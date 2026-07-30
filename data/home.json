@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-30T12:43:00.069Z",
-  "updated_local": "7/30/2026, 12:43:00 PM",
+  "updated_iso": "2026-07-30T13:35:01.639Z",
+  "updated_local": "7/30/2026, 1:35:01 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "&#39;Completely Legal&#39;: GrapheneOS Pushes Back as Duress Password Case Proceeds",
+        "url": "https://decrypt.co/374705/completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds",
+        "source": "crypto",
+        "time": "Thu, 30 Jul 2026 13:25:27 +0000"
+      },
       {
         "title": "Morning Minute: Robinhood Posts Its Best Quarter Ever",
         "url": "https://decrypt.co/374702/morning-minute-robinhood-posts-its-best-quarter-ever",
@@ -26,38 +32,32 @@
         "url": "https://decrypt.co/374688/microsoft-quietly-adds-windows-app-wants-scan-face-onedrive",
         "source": "crypto",
         "time": "Wed, 29 Jul 2026 22:31:03 +0000"
-      },
-      {
-        "title": "Robinhood Posts Best Quarter Ever as Prediction Market and Robinhood Chain Take Off",
-        "url": "https://decrypt.co/374693/robinhood-earnings-best-quarter-ever-crypto",
-        "source": "crypto",
-        "time": "Wed, 29 Jul 2026 22:01:24 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "GCC steering committee announces AI policy",
-        "url": "https://lwn.net/Articles/1086041/",
+        "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+        "url": "https://remysharp.com/links/2026-07-23-35890312",
         "source": "hn",
-        "time": "7/30/2026, 11:45:44 AM"
+        "time": "7/30/2026, 1:03:27 PM"
+      },
+      {
+        "title": "OpenJDK Interim Policy on Generative AI",
+        "url": "https://openjdk.org/legal/ai",
+        "source": "hn",
+        "time": "7/30/2026, 12:36:38 PM"
+      },
+      {
+        "title": "RFC 8890 – The Internet is for End Users (2020)",
+        "url": "https://mnot.net/blog/2020/for_the_users",
+        "source": "hn",
+        "time": "7/30/2026, 1:07:53 PM"
       },
       {
         "title": "Gpiozero Flow",
         "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
         "source": "hn",
         "time": "7/30/2026, 10:32:41 AM"
-      },
-      {
-        "title": "AI's top startups are barely publishing their research",
-        "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-        "source": "hn",
-        "time": "7/29/2026, 9:25:40 PM"
-      },
-      {
-        "title": "Carolina Cloud pays SOFR on unused prepaid credits",
-        "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
-        "source": "hn",
-        "time": "7/30/2026, 9:28:01 AM"
       },
       {
         "title": "Ron Gilbert started production on Thimbleweed Park 2",
@@ -74,10 +74,10 @@
         "time": "Thu, 30 Jul 2026 10:49:14 GMT"
       },
       {
-        "title": "Thousands evacuated in Crete as European wildfires continue to rage",
+        "title": "Thousands evacuated in Crete as Europe battles wildfires",
         "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Jul 2026 09:10:11 GMT"
+        "time": "Thu, 30 Jul 2026 12:46:16 GMT"
       },
       {
         "title": "Large rise in offenders sent back to prison, figures reveal",
@@ -86,16 +86,16 @@
         "time": "Thu, 30 Jul 2026 12:13:51 GMT"
       },
       {
-        "title": "Olivia Dean nominated and  Lily Allen snubbed in Mercury Prize list",
-        "url": "https://www.bbc.co.uk/news/articles/cq6dmlr1gzeo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 30 Jul 2026 09:45:12 GMT"
-      },
-      {
         "title": "Watch: Giant iceberg turns over near  Greenland's coast",
         "url": "https://www.bbc.co.uk/news/videos/cdx7lg950gdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 30 Jul 2026 10:54:36 GMT"
+      },
+      {
+        "title": "Olivia Dean nominated and  Lily Allen snubbed in Mercury Prize list",
+        "url": "https://www.bbc.co.uk/news/articles/cq6dmlr1gzeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 30 Jul 2026 09:45:12 GMT"
       }
     ],
     "projects": [
