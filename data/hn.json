@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-30T16:30:01.159Z"
+    "built_at": "2026-07-30T17:29:49.982Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Apple's New Upgrade Program Is a Trap",
+      "url": "https://www.theatlantic.com/technology/2026/07/apple-lease-upgrade-program/688106/",
+      "date": "2026-07-30T17:22:54.000Z"
+    },
+    {
+      "title": "China's \"artificial sun\" project achieves new engineering milestone",
+      "url": "https://en.people.cn/n3/2026/0629/c90000-20472114.html",
+      "date": "2026-07-30T17:22:37.000Z"
+    }
+  ]
 }
