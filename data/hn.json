@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-30T15:36:56.505Z"
+    "built_at": "2026-07-30T16:30:01.159Z"
   },
-  "items": [
-    {
-      "title": "WikidPad – Wiki Notebook for Windows/Linux/Mac OS",
-      "url": "https://wikidpad.sourceforge.net/",
-      "date": "2026-07-30T15:36:27.000Z"
-    },
-    {
-      "title": "Intensity of Focus Will Reward You [video]",
-      "url": "https://www.youtube.com/watch?v=ZoST0yv0fI0",
-      "date": "2026-07-30T15:36:24.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
