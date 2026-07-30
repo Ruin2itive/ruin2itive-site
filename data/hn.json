@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-30T12:32:10.728Z"
+    "built_at": "2026-07-30T13:32:38.615Z"
   },
-  "items": [
-    {
-      "title": "Digging Up the Past: Windows Registry Forensics Revisited (2019)",
-      "url": "https://cloud.google.com/blog/topics/threat-intelligence/digging-up-the-past-windows-registry-forensics-revisited/",
-      "date": "2026-07-30T12:29:48.000Z"
-    },
-    {
-      "title": "Show HN: Memsprout – share AI context with your teammates",
-      "url": "https://memsprout.com/docs",
-      "date": "2026-07-30T12:29:48.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
