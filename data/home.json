@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-30T18:37:29.331Z",
-  "updated_local": "7/30/2026, 6:37:29 PM",
+  "updated_iso": "2026-07-30T19:31:28.859Z",
+  "updated_local": "7/30/2026, 7:31:28 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Researchers Tried Letting AI Do Science. It Failed",
+        "url": "https://decrypt.co/374755/researchers-tried-letting-ai-do-science-it-failed",
+        "source": "crypto",
+        "time": "Thu, 30 Jul 2026 19:13:46 +0000"
+      },
       {
         "title": "Bitcoin Quantum Threat Inches Closer as IBM Claims &#39;Trusted Quantum Advantage&#39;",
         "url": "https://decrypt.co/374753/bitcoin-quantum-threat-ibm-claims-trusted-quantum-advantage",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/374728/elon-musk-xai-sues-minnesota-ai-nudification-law",
         "source": "crypto",
         "time": "Thu, 30 Jul 2026 15:42:17 +0000"
-      },
-      {
-        "title": "Australia Sues Telegram for $38M Over ‘Pro-Terror’ Videos",
-        "url": "https://decrypt.co/374725/australia-sues-telegram-for-38m-over-pro-terror-videos",
-        "source": "crypto",
-        "time": "Thu, 30 Jul 2026 15:22:50 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Read this before you buy that TV streaming stick",
+        "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+        "source": "hn",
+        "time": "7/30/2026, 5:04:53 PM"
+      },
       {
         "title": "Advancing the price-performance frontier with GPT‑5.6",
         "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
@@ -48,22 +54,16 @@
         "time": "7/30/2026, 3:15:48 PM"
       },
       {
-        "title": "Read This Before You Buy That TV Streaming Stick",
-        "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-        "source": "hn",
-        "time": "7/30/2026, 5:04:53 PM"
-      },
-      {
-        "title": "Stacked PRs are now live on GitHub",
-        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-        "source": "hn",
-        "time": "7/30/2026, 4:26:16 PM"
-      },
-      {
         "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
         "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
         "source": "hn",
         "time": "7/30/2026, 5:31:07 PM"
+      },
+      {
+        "title": "Postgres Queues Actually Scale",
+        "url": "https://www.dbos.dev/blog/making-postgres-queues-scale",
+        "source": "hn",
+        "time": "7/30/2026, 6:39:32 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Thu, 30 Jul 2026 14:15:09 GMT"
       },
       {
-        "title": "Why limited war with the US may suit Iran better than peace",
-        "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "MP Diane Abbott readmitted into Labour Party after suspension",
+        "url": "https://www.bbc.co.uk/news/articles/cy5dwd1p374o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Jul 2026 17:26:01 GMT"
+        "time": "Thu, 30 Jul 2026 19:24:13 GMT"
       },
       {
-        "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-        "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+        "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Jul 2026 17:55:24 GMT"
+        "time": "Thu, 30 Jul 2026 17:19:27 GMT"
       }
     ],
     "projects": [
