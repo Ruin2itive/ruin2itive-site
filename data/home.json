@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-30T00:45:27.954Z",
-  "updated_local": "7/30/2026, 12:45:27 AM",
+  "updated_iso": "2026-07-30T01:34:38.109Z",
+  "updated_local": "7/30/2026, 1:34:38 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "The coolest use for the Vision Pro",
-        "url": "https://christianselig.com/2026/07/vision-pro-house/",
-        "source": "hn",
-        "time": "7/29/2026, 8:39:40 PM"
-      },
-      {
         "title": "AI's top startups are barely publishing their research",
         "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
         "source": "hn",
         "time": "7/29/2026, 9:25:40 PM"
+      },
+      {
+        "title": "The coolest use for the Vision Pro",
+        "url": "https://christianselig.com/2026/07/vision-pro-house/",
+        "source": "hn",
+        "time": "7/29/2026, 8:39:40 PM"
       },
       {
         "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
@@ -60,13 +60,19 @@
         "time": "7/29/2026, 3:41:33 PM"
       },
       {
-        "title": "Keychron announces first open-source firmware for gaming mice",
-        "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+        "title": "LLM Honeypot",
+        "url": "https://llm2human.pages.dev/",
         "source": "hn",
-        "time": "7/29/2026, 4:36:59 PM"
+        "time": "7/29/2026, 10:51:03 PM"
       }
     ],
     "world": [
+      {
+        "title": "US launches 'powerful' strikes on Iran after attempted attack on American troops",
+        "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 30 Jul 2026 01:16:55 GMT"
+      },
       {
         "title": "More than half of England in drought, Environment Agency declares",
         "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +86,16 @@
         "time": "Wed, 29 Jul 2026 23:33:01 GMT"
       },
       {
-        "title": "Moment police officers set foot in 'horror scene' funeral home",
-        "url": "https://www.bbc.co.uk/news/articles/c1e1g5vjn4jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
+        "url": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Jul 2026 17:00:41 GMT"
+        "time": "Thu, 30 Jul 2026 00:52:12 GMT"
       },
       {
         "title": "Police to take no further action against Polanski over guillotine re-post",
         "url": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 29 Jul 2026 19:53:48 GMT"
-      },
-      {
-        "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
-        "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 29 Jul 2026 21:36:06 GMT"
       }
     ],
     "projects": [
