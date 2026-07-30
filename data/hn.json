@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-30T01:32:15.481Z"
+    "built_at": "2026-07-30T03:00:58.345Z"
   },
-  "items": [
-    {
-      "title": "IronClaw 1.0 – one secure agent on CLI, Slack and Telegram, one memory",
-      "url": "https://near.ai/blog/introducing-ironclaw-1-0",
-      "date": "2026-07-30T01:22:32.000Z"
-    },
-    {
-      "title": "Three Journeys: Anton Chekhov on the Road (2001)",
-      "url": "https://www.newyorker.com/magazine/2001/10/29/three-journeys",
-      "date": "2026-07-30T01:18:27.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
