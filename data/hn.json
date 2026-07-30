@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-30T18:28:14.487Z"
+    "built_at": "2026-07-30T21:23:36.943Z"
   },
-  "items": [
-    {
-      "title": "Show HN: State of the Feed – TikTok usage analyzed",
-      "url": "https://wrapped.vantezzen.io/state-of-the-feed",
-      "date": "2026-07-30T18:27:24.000Z"
-    },
-    {
-      "title": "The Situation Deteriorated",
-      "url": "https://www.bloomberg.com/opinion/newsletters/2026-07-30/the-situation-deteriorated",
-      "date": "2026-07-30T18:27:05.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
