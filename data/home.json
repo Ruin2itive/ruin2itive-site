@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-30T09:53:40.784Z",
-  "updated_local": "7/30/2026, 9:53:40 AM",
+  "updated_iso": "2026-07-30T10:44:10.868Z",
+  "updated_local": "7/30/2026, 10:44:10 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "Google will expand age checks on Android worldwide till the end of the year",
+        "url": "https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html",
+        "source": "hn",
+        "time": "7/30/2026, 10:13:46 AM"
+      },
+      {
+        "title": "Atomarine: Nuclear Data Centers at Sea",
+        "url": "https://atomarine.co/",
+        "source": "hn",
+        "time": "7/30/2026, 10:31:46 AM"
+      },
+      {
         "title": "AI's top startups are barely publishing their research",
         "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
         "source": "hn",
@@ -48,22 +60,10 @@
         "time": "7/29/2026, 8:39:40 PM"
       },
       {
-        "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-        "url": "https://github.com/drumih/turbo-fieldfare",
+        "title": "Gpiozero Flow",
+        "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
         "source": "hn",
-        "time": "7/29/2026, 3:05:43 PM"
-      },
-      {
-        "title": "Superlogical",
-        "url": "https://www.superlogical.com/",
-        "source": "hn",
-        "time": "7/29/2026, 3:41:33 PM"
-      },
-      {
-        "title": "LLM Honeypot",
-        "url": "https://llm2human.pages.dev/",
-        "source": "hn",
-        "time": "7/29/2026, 10:51:03 PM"
+        "time": "7/30/2026, 10:32:41 AM"
       }
     ],
     "world": [
@@ -74,16 +74,10 @@
         "time": "Thu, 30 Jul 2026 08:42:17 GMT"
       },
       {
-        "title": "How the UK's extreme heat is shifting the conversation about air-con",
-        "url": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Joe Root returns as England Test cricket captain with Stephen Fleming named head coach",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Jul 2026 23:33:01 GMT"
-      },
-      {
-        "title": "Thousands evacuated in Crete as European wildfires continue to rage",
-        "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 30 Jul 2026 09:10:11 GMT"
+        "time": "Thu, 30 Jul 2026 10:28:13 GMT"
       },
       {
         "title": "Israel building new land barriers in Gaza and displacing families",
@@ -92,10 +86,16 @@
         "time": "Thu, 30 Jul 2026 05:05:24 GMT"
       },
       {
-        "title": "Zendaya says working with husband Tom Holland 'easy when you're best friends'",
-        "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Thousands evacuated in Crete as European wildfires continue to rage",
+        "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 29 Jul 2026 20:21:46 GMT"
+        "time": "Thu, 30 Jul 2026 09:10:11 GMT"
+      },
+      {
+        "title": "Olivia Dean nominated and  Lily Allen snubbed in Mercury Prize list",
+        "url": "https://www.bbc.co.uk/news/articles/cq6dmlr1gzeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 30 Jul 2026 09:45:12 GMT"
       }
     ],
     "projects": [
