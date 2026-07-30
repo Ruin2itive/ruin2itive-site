@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-30T09:01:42.719Z",
-  "updated_local": "7/30/2026, 9:01:42 AM",
+  "updated_iso": "2026-07-30T09:53:40.784Z",
+  "updated_local": "7/30/2026, 9:53:40 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Fake Flare Network Staking Site Drained $8.5M in XRP: Seoul Police",
+        "url": "https://decrypt.co/374696/fake-flare-network-staking-site-drained-8-5m-in-xrp-seoul-police",
+        "source": "crypto",
+        "time": "Thu, 30 Jul 2026 09:50:02 +0000"
+      },
       {
         "title": "Microsoft Quietly Adds New Windows App That Wants to Scan Your Face",
         "url": "https://decrypt.co/374688/microsoft-quietly-adds-windows-app-wants-scan-face-onedrive",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/374651/new-research-bitcoin-wallet-quantum-attacks-safe",
         "source": "crypto",
         "time": "Wed, 29 Jul 2026 20:01:03 +0000"
-      },
-      {
-        "title": "MoonPay&#39;s PayBox Puts a Crypto Wallet Inside Claude and ChatGPT—And Lets It Pay for Things",
-        "url": "https://decrypt.co/374687/moonpays-paybox-crypto-wallet-claude-chatgpt",
-        "source": "crypto",
-        "time": "Wed, 29 Jul 2026 19:31:03 +0000"
       }
     ],
     "hacker": [
@@ -48,12 +48,6 @@
         "time": "7/29/2026, 8:39:40 PM"
       },
       {
-        "title": "I Have Thoughts on the iPhone Air",
-        "url": "https://christianselig.com/2026/07/iphone-air-review/",
-        "source": "hn",
-        "time": "7/30/2026, 7:54:13 AM"
-      },
-      {
         "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
         "url": "https://github.com/drumih/turbo-fieldfare",
         "source": "hn",
@@ -64,6 +58,12 @@
         "url": "https://www.superlogical.com/",
         "source": "hn",
         "time": "7/29/2026, 3:41:33 PM"
+      },
+      {
+        "title": "LLM Honeypot",
+        "url": "https://llm2human.pages.dev/",
+        "source": "hn",
+        "time": "7/29/2026, 10:51:03 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Thu, 30 Jul 2026 08:42:17 GMT"
       },
       {
-        "title": "Cooler conditions on the way for parts of UK - but still no rain for drought-hit areas",
-        "url": "https://www.bbc.co.uk/weather/articles/c1k183p9ddpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 30 Jul 2026 01:40:07 GMT"
-      },
-      {
         "title": "How the UK's extreme heat is shifting the conversation about air-con",
         "url": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 29 Jul 2026 23:33:01 GMT"
       },
       {
-        "title": "Three children among eight dead in Russian strikes on Ukraine, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Thousands evacuated in Crete as European wildfires continue to rage",
+        "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Jul 2026 08:22:19 GMT"
+        "time": "Thu, 30 Jul 2026 09:10:11 GMT"
       },
       {
         "title": "Israel building new land barriers in Gaza and displacing families",
         "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 30 Jul 2026 05:05:24 GMT"
+      },
+      {
+        "title": "Zendaya says working with husband Tom Holland 'easy when you're best friends'",
+        "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 29 Jul 2026 20:21:46 GMT"
       }
     ],
     "projects": [
