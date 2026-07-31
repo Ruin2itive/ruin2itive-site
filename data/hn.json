@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-31T21:23:23.694Z"
+    "built_at": "2026-07-31T22:19:39.431Z"
   },
-  "items": [
-    {
-      "title": "Claude Code helps me recover after surgery",
-      "url": "https://plecho.poke-method.work/en",
-      "date": "2026-07-31T21:21:37.000Z"
-    },
-    {
-      "title": "Old.reddit Is Back?",
-      "url": "https://github.com/the1truedan/shreddit",
-      "date": "2026-07-31T21:19:45.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
