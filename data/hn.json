@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-31T12:36:25.074Z"
+    "built_at": "2026-07-31T13:32:37.238Z"
   },
-  "items": [
-    {
-      "title": "Europe gets ready to police frontier AI",
-      "url": "https://www.theparliamentmagazine.eu/news/article/europe-gets-ready-to-police-frontier-ai",
-      "date": "2026-07-31T12:34:56.000Z"
-    },
-    {
-      "title": "Cursor for iPad",
-      "url": "https://cursor.com/changelog/ipad",
-      "date": "2026-07-31T12:32:57.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
