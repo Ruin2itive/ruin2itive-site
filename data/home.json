@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-31T11:47:11.645Z",
-  "updated_local": "7/31/2026, 11:47:11 AM",
+  "updated_iso": "2026-07-31T12:39:59.938Z",
+  "updated_local": "7/31/2026, 12:39:59 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Coinbase Posts Surprise Loss as Crypto Trading Dries Up",
+        "url": "https://decrypt.co/374781/morning-minute-coinbase-posts-surprise-loss-as-crypto-trading-dries-up",
+        "source": "crypto",
+        "time": "Fri, 31 Jul 2026 12:11:17 +0000"
+      },
       {
         "title": "Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban",
         "url": "https://decrypt.co/374778/crypto-kiosk-scams-cost-texans-57m-as-lawmakers-weigh-a-ban",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows",
         "source": "crypto",
         "time": "Thu, 30 Jul 2026 21:19:12 +0000"
-      },
-      {
-        "title": "Treasury Secretary Invokes Bitcoin Creator Satoshi Nakamoto in Plea for Clarity Act",
-        "url": "https://decrypt.co/374758/treasury-secretary-bitcoin-satoshi-nakamoto-clarity-act",
-        "source": "crypto",
-        "time": "Thu, 30 Jul 2026 19:32:19 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "The session you cannot take with you",
-        "url": "https://earendil.com/posts/session-portability/",
+        "title": "The End of an Era",
+        "url": "https://hughhowey.com/the-end-of-an-era/",
         "source": "hn",
-        "time": "7/31/2026, 3:47:59 AM"
+        "time": "7/31/2026, 11:51:46 AM"
       },
       {
         "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
@@ -48,36 +48,36 @@
         "time": "7/31/2026, 7:59:11 AM"
       },
       {
+        "title": "The session you cannot take with you",
+        "url": "https://earendil.com/posts/session-portability/",
+        "source": "hn",
+        "time": "7/31/2026, 3:47:59 AM"
+      },
+      {
         "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
         "url": "https://github.com/openjdk/jdk/pull/31120",
         "source": "hn",
         "time": "7/31/2026, 4:38:19 AM"
       },
       {
-        "title": "DeepSeek-V4-Flash Update",
-        "url": "https://api-docs.deepseek.com/updates/",
+        "title": "IMAX vs. IMAX 70mm: The difference between these two cinema formats",
+        "url": "https://www.engadget.com/2220571/differences-between-imax-70mm/",
         "source": "hn",
-        "time": "7/31/2026, 6:08:36 AM"
-      },
-      {
-        "title": "Stacked PRs are now live on GitHub",
-        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-        "source": "hn",
-        "time": "7/30/2026, 4:26:16 PM"
+        "time": "7/25/2026, 3:33:10 PM"
       }
     ],
     "world": [
       {
-        "title": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
+        "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
         "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 31 Jul 2026 11:33:34 GMT"
+        "time": "Fri, 31 Jul 2026 12:00:18 GMT"
       },
       {
-        "title": "Senior Infantino adviser quits after Asian federation opposes World Cup investment plan",
+        "title": "Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan",
         "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 31 Jul 2026 10:07:07 GMT"
+        "time": "Fri, 31 Jul 2026 12:14:43 GMT"
       },
       {
         "title": "Southport killer charged with prison attacks and possessing weapon",
@@ -86,16 +86,16 @@
         "time": "Fri, 31 Jul 2026 11:03:17 GMT"
       },
       {
-        "title": "Anthropic's Claude AI escapes test environment and hacks into three organisations",
-        "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 31 Jul 2026 10:18:54 GMT"
-      },
-      {
         "title": "Sainsbury's agrees to sell Argos for £120m",
         "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 31 Jul 2026 10:19:47 GMT"
+      },
+      {
+        "title": "Anthropic's Claude AI escapes test environment and hacks into three organisations",
+        "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 31 Jul 2026 10:18:54 GMT"
       }
     ],
     "projects": [
