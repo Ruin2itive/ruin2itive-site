@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-31T13:32:37.238Z"
+    "built_at": "2026-07-31T14:47:33.634Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Opkssh integrating single sign-on with SSH (2025)",
+      "url": "https://www.ethanheilman.com/x/33/index.html",
+      "date": "2026-07-31T14:46:52.000Z"
+    },
+    {
+      "title": "Text Is My Gimmick",
+      "url": "https://aethermug.com/posts/text-is-my-gimmick",
+      "date": "2026-07-31T14:45:19.000Z"
+    }
+  ]
 }
