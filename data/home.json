@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-30T23:27:13.568Z",
-  "updated_local": "7/30/2026, 11:27:13 PM",
+  "updated_iso": "2026-07-31T00:35:47.069Z",
+  "updated_local": "7/31/2026, 12:35:47 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,18 @@
         "time": "7/30/2026, 5:04:53 PM"
       },
       {
+        "title": "The AI Aesthetic",
+        "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+        "source": "hn",
+        "time": "7/30/2026, 11:22:16 PM"
+      },
+      {
+        "title": "I flagged two research papers for fake authors and both were accepted as orals",
+        "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+        "source": "hn",
+        "time": "7/30/2026, 10:33:11 PM"
+      },
+      {
         "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
         "url": "https://github.com/AminBlg/SimpleEnglish",
         "source": "hn",
@@ -52,27 +64,9 @@
         "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
         "source": "hn",
         "time": "7/30/2026, 4:26:16 PM"
-      },
-      {
-        "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-        "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-        "source": "hn",
-        "time": "7/30/2026, 3:15:48 PM"
-      },
-      {
-        "title": "I flagged two research papers for fake authors and both were accepted as orals",
-        "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
-        "source": "hn",
-        "time": "7/30/2026, 10:33:11 PM"
       }
     ],
     "world": [
-      {
-        "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
-        "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 30 Jul 2026 23:08:51 GMT"
-      },
       {
         "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
         "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&amp;at_campaign=rss",
@@ -95,7 +89,13 @@
         "title": "Renowned ex-Royal Marine Nirmal Purja among 10 climbers feared missing after avalanche",
         "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Jul 2026 23:00:07 GMT"
+        "time": "Thu, 30 Jul 2026 23:37:47 GMT"
+      },
+      {
+        "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
+        "url": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 30 Jul 2026 14:15:09 GMT"
       }
     ],
     "projects": [
