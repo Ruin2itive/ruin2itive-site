@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-07-31T13:38:08.126Z",
-  "updated_local": "7/31/2026, 1:38:08 PM",
+  "updated_iso": "2026-07-31T14:49:30.216Z",
+  "updated_local": "7/31/2026, 2:49:30 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "AI Company Sues Town for Trying to Block Data Center Near National Park",
+        "url": "https://decrypt.co/374764/ai-company-sues-town-data-center-national-park",
+        "source": "crypto",
+        "time": "Fri, 31 Jul 2026 14:01:03 +0000"
+      },
+      {
+        "title": "Claude Hacked Three Companies in Internal Testing: Anthropic",
+        "url": "https://decrypt.co/374784/claude-hacked-three-companies-in-internal-testing-anthropic",
+        "source": "crypto",
+        "time": "Fri, 31 Jul 2026 13:47:54 +0000"
+      },
       {
         "title": "Morning Minute: Coinbase Posts Surprise Loss as Crypto Trading Dries Up",
         "url": "https://decrypt.co/374781/morning-minute-coinbase-posts-surprise-loss-as-crypto-trading-dries-up",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/374775/new-york-ag-seeks-36b-from-kalshi-over-illegal-gambling",
         "source": "crypto",
         "time": "Fri, 31 Jul 2026 10:12:16 +0000"
-      },
-      {
-        "title": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found",
-        "url": "https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
-        "source": "crypto",
-        "time": "Fri, 31 Jul 2026 09:02:01 +0000"
-      },
-      {
-        "title": "Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows",
-        "url": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows",
-        "source": "crypto",
-        "time": "Thu, 30 Jul 2026 21:19:12 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "7/31/2026, 7:59:11 AM"
       },
       {
-        "title": "The End of an Era",
-        "url": "https://hughhowey.com/the-end-of-an-era/",
+        "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+        "url": "https://blog.google/security/chrome-stronger-with-every-update/",
         "source": "hn",
-        "time": "7/31/2026, 11:51:46 AM"
+        "time": "7/31/2026, 7:29:22 AM"
       },
       {
         "title": "The session you cannot take with you",
@@ -54,36 +54,36 @@
         "time": "7/31/2026, 3:47:59 AM"
       },
       {
-        "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-        "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+        "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+        "url": "https://arxiv.org/abs/2607.27197",
         "source": "hn",
-        "time": "7/31/2026, 7:29:22 AM"
+        "time": "7/31/2026, 11:37:12 AM"
       },
       {
-        "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-        "url": "https://github.com/openjdk/jdk/pull/31120",
+        "title": "Winding Down Artichoke Ruby",
+        "url": "https://hyperbo.la/w/winding-down-artichoke-ruby/",
         "source": "hn",
-        "time": "7/31/2026, 4:38:19 AM"
+        "time": "7/25/2026, 6:04:00 PM"
       }
     ],
     "world": [
       {
-        "title": "Police fear further victims in funeral home case",
-        "url": "https://www.bbc.co.uk/news/articles/c0qykzqxw5qo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 31 Jul 2026 12:16:28 GMT"
-      },
-      {
         "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
         "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 31 Jul 2026 13:04:04 GMT"
+        "time": "Fri, 31 Jul 2026 14:20:18 GMT"
       },
       {
         "title": "Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan",
         "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 31 Jul 2026 12:14:43 GMT"
+      },
+      {
+        "title": "England and Wales on course for driest July on record",
+        "url": "https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 31 Jul 2026 14:43:58 GMT"
       },
       {
         "title": "Southport killer charged with prison attacks and possessing weapon",
