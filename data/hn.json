@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-31T00:27:04.298Z"
+    "built_at": "2026-07-31T01:33:03.888Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger",
+      "url": "https://www.wsj.com/business/autos/tesla-weighs-sale-of-china-business-to-pave-way-for-potential-spacex-merger-5ae26026",
+      "date": "2026-07-31T01:30:37.000Z"
+    },
+    {
+      "title": "Anthropic finds that its models also compromised external systems during testing",
+      "url": "https://www.axios.com/2026/07/30/anthropic-mythos-security-testing",
+      "date": "2026-07-31T01:28:19.000Z"
+    }
+  ]
 }
