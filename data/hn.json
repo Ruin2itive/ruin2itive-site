@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-31T08:00:48.204Z"
+    "built_at": "2026-07-31T09:52:48.437Z"
   },
-  "items": [
-    {
-      "title": "Physicists link the Riemann Hypothesis to phase transitions in quantum systems",
-      "url": "https://phys.org/news/2026-07-physicists-link-riemann-hypothesis-phase.html",
-      "date": "2026-07-31T07:59:23.000Z"
-    },
-    {
-      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
-      "date": "2026-07-31T07:59:11.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
