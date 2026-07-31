@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-31T16:38:59.223Z",
-  "updated_local": "7/31/2026, 4:38:59 PM",
+  "updated_iso": "2026-07-31T17:32:18.280Z",
+  "updated_local": "7/31/2026, 5:32:18 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
+        "url": "https://decrypt.co/374796/tether-reports-1-5b-q2-profit-usdt-supply-grows",
+        "source": "crypto",
+        "time": "Fri, 31 Jul 2026 17:10:49 +0000"
+      },
       {
         "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
         "url": "https://decrypt.co/374791/circle-new-york-trust-charter-stablecoin-issuer",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/374764/ai-company-sues-town-data-center-national-park",
         "source": "crypto",
         "time": "Fri, 31 Jul 2026 14:01:03 +0000"
-      },
-      {
-        "title": "Claude Hacked Three Companies in Internal Testing: Anthropic",
-        "url": "https://decrypt.co/374784/claude-hacked-three-companies-in-internal-testing-anthropic",
-        "source": "crypto",
-        "time": "Fri, 31 Jul 2026 13:47:54 +0000"
       }
     ],
     "hacker": [
@@ -42,36 +42,36 @@
         "time": "7/31/2026, 3:17:28 PM"
       },
       {
-        "title": "Dubious research tied to Red Bull has shaped energy drink policy",
-        "url": "https://www.theexamination.org/articles/red-bull-funded-research-energy-drinks-alcohol",
+        "title": "Big Food vs. the People",
+        "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
         "source": "hn",
-        "time": "7/31/2026, 3:58:15 PM"
-      },
-      {
-        "title": "Show HN: Shared memory graph for Claude and ChatGPT, over MCP",
-        "url": "https://uml.gpmai.workers.dev",
-        "source": "hn",
-        "time": "7/31/2026, 3:58:01 PM"
-      },
-      {
-        "title": "Is AI Reasoning Right for the Wrong Reasons?",
-        "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-        "source": "hn",
-        "time": "7/31/2026, 3:29:39 PM"
+        "time": "7/31/2026, 4:04:32 PM"
       },
       {
         "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
         "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
         "source": "hn",
         "time": "7/31/2026, 7:59:11 AM"
+      },
+      {
+        "title": "DeepSeek-V4-Flash Update",
+        "url": "https://api-docs.deepseek.com/updates/",
+        "source": "hn",
+        "time": "7/31/2026, 6:08:36 AM"
+      },
+      {
+        "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+        "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+        "source": "hn",
+        "time": "7/31/2026, 4:15:31 PM"
       }
     ],
     "world": [
       {
-        "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
         "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 31 Jul 2026 14:20:18 GMT"
+        "time": "Fri, 31 Jul 2026 17:03:47 GMT"
       },
       {
         "title": "Watch: Moroccan police clash with migrants near border with Spain's Ceuta",
@@ -92,10 +92,10 @@
         "time": "Fri, 31 Jul 2026 16:28:34 GMT"
       },
       {
-        "title": "England and Wales on course for driest July on record",
-        "url": "https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How Sam Fender and Olivia Dean's Rein Me In broke the UK's singles chart record",
+        "url": "https://www.bbc.co.uk/news/articles/cly8r2p27lzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 31 Jul 2026 15:37:17 GMT"
+        "time": "Fri, 31 Jul 2026 16:52:16 GMT"
       }
     ],
     "projects": [
