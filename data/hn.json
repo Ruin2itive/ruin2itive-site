@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-31T22:19:39.431Z"
+    "built_at": "2026-07-31T23:20:07.132Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Why etymologies matter: How tracing words can illuminate history (2024)",
+      "url": "https://resobscura.substack.com/p/why-i-love-etymologies",
+      "date": "2026-07-31T23:13:03.000Z"
+    },
+    {
+      "title": "'Antizuck' iOS app that claims to detect nearby smart glasses tops App Store",
+      "url": "https://9to5mac.com/2026/07/31/antizuck-ios-app-that-claims-to-detect-nearby-smart-glasses-tops-app-store-chart/",
+      "date": "2026-07-31T23:05:20.000Z"
+    }
+  ]
 }
