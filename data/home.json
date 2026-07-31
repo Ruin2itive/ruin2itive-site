@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-07-31T10:58:53.157Z",
-  "updated_local": "7/31/2026, 10:58:53 AM",
+  "updated_iso": "2026-07-31T11:42:43.204Z",
+  "updated_local": "7/31/2026, 11:42:43 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban",
+        "url": "https://decrypt.co/374778/crypto-kiosk-scams-cost-texans-57m-as-lawmakers-weigh-a-ban",
+        "source": "crypto",
+        "time": "Fri, 31 Jul 2026 11:13:58 +0000"
+      },
       {
         "title": "New York AG Seeks $36B From Kalshi Over &#39;Illegal Gambling&#39;",
         "url": "https://decrypt.co/374775/new-york-ag-seeks-36b-from-kalshi-over-illegal-gambling",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/374758/treasury-secretary-bitcoin-satoshi-nakamoto-clarity-act",
         "source": "crypto",
         "time": "Thu, 30 Jul 2026 19:32:19 +0000"
-      },
-      {
-        "title": "Researchers Tried Letting AI Do Science. It Failed",
-        "url": "https://decrypt.co/374755/researchers-tried-letting-ai-do-science-it-failed",
-        "source": "crypto",
-        "time": "Thu, 30 Jul 2026 19:13:46 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "7/31/2026, 3:47:59 AM"
       },
       {
-        "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-        "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+        "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+        "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
         "source": "hn",
-        "time": "7/31/2026, 7:29:22 AM"
+        "time": "7/31/2026, 7:59:11 AM"
       },
       {
         "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
@@ -60,10 +60,10 @@
         "time": "7/31/2026, 6:08:36 AM"
       },
       {
-        "title": "Show HN: Gander, an Android file viewer that asks for no permissions at all",
-        "url": "https://github.com/mokshablr/gander",
+        "title": "Stacked PRs are now live on GitHub",
+        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
         "source": "hn",
-        "time": "7/31/2026, 5:45:13 AM"
+        "time": "7/30/2026, 4:26:16 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
         "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 31 Jul 2026 10:46:03 GMT"
+        "time": "Fri, 31 Jul 2026 11:33:34 GMT"
       },
       {
         "title": "Senior Infantino adviser quits after Asian federation opposes World Cup investment plan",
@@ -83,19 +83,19 @@
         "title": "Southport killer charged with prison attacks and possessing weapon",
         "url": "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 31 Jul 2026 10:19:21 GMT"
-      },
-      {
-        "title": "Satellite images show impact of heatwaves and drought on UK landscape",
-        "url": "https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 31 Jul 2026 05:07:08 GMT"
+        "time": "Fri, 31 Jul 2026 11:03:17 GMT"
       },
       {
         "title": "Anthropic's Claude AI escapes test environment and hacks into three organisations",
         "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 31 Jul 2026 10:18:54 GMT"
+      },
+      {
+        "title": "Sainsbury's agrees to sell Argos for £120m",
+        "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 31 Jul 2026 10:19:47 GMT"
       }
     ],
     "projects": [
