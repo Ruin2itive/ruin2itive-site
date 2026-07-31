@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-07-31T05:08:19.835Z"
+    "built_at": "2026-07-31T06:56:35.439Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Made in the USSR: 6 video games Soviets went crazy over (2020)",
+      "url": "https://www.rbth.com/lifestyle/332384-video-games-soviet-russian-tetris",
+      "date": "2026-07-31T06:54:02.000Z"
+    },
+    {
+      "title": "What I've Learned in 45 Years in the Software Industry (2021)",
+      "url": "https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/",
+      "date": "2026-07-31T06:53:44.000Z"
+    }
+  ]
 }
