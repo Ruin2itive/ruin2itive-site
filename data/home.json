@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-31T13:34:13.994Z",
-  "updated_local": "7/31/2026, 1:34:13 PM",
+  "updated_iso": "2026-07-31T13:38:08.126Z",
+  "updated_local": "7/31/2026, 1:38:08 PM",
   "sections": {
     "crypto": [
       {
@@ -54,16 +54,16 @@
         "time": "7/31/2026, 3:47:59 AM"
       },
       {
-        "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-        "url": "https://github.com/openjdk/jdk/pull/31120",
-        "source": "hn",
-        "time": "7/31/2026, 4:38:19 AM"
-      },
-      {
         "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
         "url": "https://blog.google/security/chrome-stronger-with-every-update/",
         "source": "hn",
         "time": "7/31/2026, 7:29:22 AM"
+      },
+      {
+        "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+        "url": "https://github.com/openjdk/jdk/pull/31120",
+        "source": "hn",
+        "time": "7/31/2026, 4:38:19 AM"
       }
     ],
     "world": [
