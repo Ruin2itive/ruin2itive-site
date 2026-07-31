@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-07-31T07:09:35.040Z",
-  "updated_local": "7/31/2026, 7:09:35 AM",
+  "updated_iso": "2026-07-31T09:02:16.255Z",
+  "updated_local": "7/31/2026, 9:02:16 AM",
   "sections": {
     "crypto": [
       {
@@ -42,42 +42,48 @@
         "time": "7/31/2026, 3:47:59 AM"
       },
       {
+        "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+        "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+        "source": "hn",
+        "time": "7/31/2026, 7:29:22 AM"
+      },
+      {
         "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
         "url": "https://github.com/openjdk/jdk/pull/31120",
         "source": "hn",
         "time": "7/31/2026, 4:38:19 AM"
       },
       {
+        "title": "DeepSeek-V4-Flash Update",
+        "url": "https://api-docs.deepseek.com/updates/",
+        "source": "hn",
+        "time": "7/31/2026, 6:08:36 AM"
+      },
+      {
         "title": "Stacked PRs are now live on GitHub",
         "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
         "source": "hn",
         "time": "7/30/2026, 4:26:16 PM"
-      },
-      {
-        "title": "Where USB Memory Sticks are Born (2013)",
-        "url": "https://www.bunniestudios.com/blog/2013/where-usb-memory-sticks-are-born/",
-        "source": "hn",
-        "time": "7/27/2026, 11:59:37 PM"
-      },
-      {
-        "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-        "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-        "source": "hn",
-        "time": "7/30/2026, 3:15:48 PM"
       }
     ],
     "world": [
       {
-        "title": "Fifa says 'nobody is selling football' as it responds to backlash over World Cup investment plan",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 31 Jul 2026 06:31:44 GMT"
+        "time": "Fri, 31 Jul 2026 08:50:12 GMT"
       },
       {
-        "title": "Andy Burnham to give regional mayors share of income tax",
-        "url": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Asian nations join growing opposition to Fifa's controversial World Cup investment plan",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 30 Jul 2026 21:32:09 GMT"
+        "time": "Fri, 31 Jul 2026 08:54:43 GMT"
+      },
+      {
+        "title": "Anthropic's Claude AI escapes tests to hack three organisations",
+        "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 31 Jul 2026 04:31:30 GMT"
       },
       {
         "title": "Satellite images show impact of heatwaves and drought on UK landscape",
@@ -86,16 +92,10 @@
         "time": "Fri, 31 Jul 2026 05:07:08 GMT"
       },
       {
-        "title": "British man accused of spying on Cyprus RAF base for Iran",
-        "url": "https://www.bbc.co.uk/news/articles/ce853y7yq7yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Andy Burnham to give regional mayors share of income tax",
+        "url": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 31 Jul 2026 06:42:16 GMT"
-      },
-      {
-        "title": "Anthropic's Claude AI escapes tests to hack three organisations",
-        "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 31 Jul 2026 04:31:30 GMT"
+        "time": "Fri, 31 Jul 2026 08:48:42 GMT"
       }
     ],
     "projects": [
