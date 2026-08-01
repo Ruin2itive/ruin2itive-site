@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-01T18:25:56.247Z",
-  "updated_local": "8/1/2026, 6:25:56 PM",
+  "updated_iso": "2026-08-01T19:26:41.968Z",
+  "updated_local": "8/1/2026, 7:26:41 PM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Cursor removed cost information from the usage page and CSV export",
-        "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+        "title": "NetBSD 11.0 Released",
+        "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
         "source": "hn",
-        "time": "8/1/2026, 3:25:21 PM"
+        "time": "8/1/2026, 5:56:41 PM"
+      },
+      {
+        "title": "Postmortem for Kernel Soundness Bug #14576",
+        "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+        "source": "hn",
+        "time": "8/1/2026, 6:32:20 PM"
       },
       {
         "title": "The Art of 64-bit Assembly",
@@ -58,12 +64,6 @@
         "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
         "source": "hn",
         "time": "8/1/2026, 3:23:15 PM"
-      },
-      {
-        "title": "Pgtestdb's template cloning approach to testing is fast",
-        "url": "https://brandur.org/fragments/pgtestdb",
-        "source": "hn",
-        "time": "8/1/2026, 4:01:22 PM"
       }
     ],
     "world": [
