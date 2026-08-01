@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-01T05:03:10.464Z"
+    "built_at": "2026-08-01T06:48:18.359Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "OpenAI's work on Git for large repositories",
+      "url": "https://openai-git-upstream.openai.chatgpt.site/",
+      "date": "2026-08-01T06:41:12.000Z"
+    },
+    {
+      "title": "Applied Electrodynamics (YC S26) A new kind of camera that can see through walls",
+      "url": "https://twitter.com/bavser/status/2082868602240385526",
+      "date": "2026-08-01T06:36:21.000Z"
+    }
+  ]
 }
