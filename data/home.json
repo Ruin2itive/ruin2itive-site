@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-01T09:43:44.963Z",
-  "updated_local": "8/1/2026, 9:43:44 AM",
+  "updated_iso": "2026-08-01T10:32:46.184Z",
+  "updated_local": "8/1/2026, 10:32:46 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "RamenHaus",
-        "url": "https://ramen.haus/",
-        "source": "hn",
-        "time": "8/1/2026, 8:48:58 AM"
-      },
-      {
         "title": "AI doesn't generate working products, that's still your job",
         "url": "https://weeraman.com/the-prototype-isnt-the-product/",
         "source": "hn",
         "time": "8/1/2026, 7:52:10 AM"
+      },
+      {
+        "title": "RamenHaus",
+        "url": "https://ramen.haus/",
+        "source": "hn",
+        "time": "8/1/2026, 8:48:58 AM"
       },
       {
         "title": "Elevators",
@@ -60,18 +60,30 @@
         "time": "8/1/2026, 2:45:09 AM"
       },
       {
-        "title": "How to Exist",
-        "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+        "title": "Solid Queue 1.6.0 now supports fiber workers",
+        "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
         "source": "hn",
-        "time": "8/1/2026, 12:25:00 AM"
+        "time": "8/1/2026, 7:42:08 AM"
       }
     ],
     "world": [
       {
-        "title": "Fifa scraps World Cup investment plan after outcry",
-        "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Uefa has 'lost confidence' in Fifa leadership as investment plan scrapped",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 01 Aug 2026 05:42:31 GMT"
+        "time": "Sat, 01 Aug 2026 09:51:05 GMT"
+      },
+      {
+        "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+        "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 01 Aug 2026 10:11:39 GMT"
+      },
+      {
+        "title": "Sir John Curtice: The \"Burnham bounce\" is real but it's not massive",
+        "url": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 01 Aug 2026 09:13:00 GMT"
       },
       {
         "title": "Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham",
@@ -84,18 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 01 Aug 2026 05:01:56 GMT"
-      },
-      {
-        "title": "Sir John Curtice: The \"Burnham bounce\" is real but it's not massive",
-        "url": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 01 Aug 2026 09:13:00 GMT"
-      },
-      {
-        "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-        "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 01 Aug 2026 00:20:43 GMT"
       }
     ],
     "projects": [
