@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-01T17:24:34.955Z",
-  "updated_local": "8/1/2026, 5:24:34 PM",
+  "updated_iso": "2026-08-01T18:21:16.708Z",
+  "updated_local": "8/1/2026, 6:21:16 PM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "I ♥ RSS – A directory of people who love RSS",
-        "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-        "source": "hn",
-        "time": "8/1/2026, 4:52:41 PM"
-      },
-      {
         "title": "Cursor removed cost information from the usage page and CSV export",
         "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
         "source": "hn",
@@ -54,16 +48,22 @@
         "time": "8/1/2026, 2:09:00 PM"
       },
       {
-        "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-        "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-        "source": "hn",
-        "time": "8/1/2026, 12:34:25 PM"
-      },
-      {
         "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
         "url": "https://kaisel.dev/",
         "source": "hn",
         "time": "8/1/2026, 4:45:40 PM"
+      },
+      {
+        "title": "Explorative modeling: Train on the best of K guesses",
+        "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+        "source": "hn",
+        "time": "8/1/2026, 3:23:15 PM"
+      },
+      {
+        "title": "Pgtestdb's template cloning approach to testing is fast",
+        "url": "https://brandur.org/fragments/pgtestdb",
+        "source": "hn",
+        "time": "8/1/2026, 4:01:22 PM"
       }
     ],
     "world": [
