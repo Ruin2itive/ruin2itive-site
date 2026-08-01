@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-01T01:40:58.910Z",
-  "updated_local": "8/1/2026, 1:40:58 AM",
+  "updated_iso": "2026-08-01T03:04:32.088Z",
+  "updated_local": "8/1/2026, 3:04:32 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "Tailscale didn't stop the Hugging Face intrusion",
-        "url": "https://tailscale.com/blog/hugging-face-intrusion",
-        "source": "hn",
-        "time": "7/31/2026, 7:03:45 PM"
-      },
-      {
         "title": "Elevators",
         "url": "https://john.fun/elevators",
         "source": "hn",
@@ -54,10 +48,16 @@
         "time": "7/31/2026, 6:04:58 PM"
       },
       {
-        "title": "Twenty-five years ago it was cryptography, today it's model weights",
-        "url": "https://weeraman.com/because-we-can/",
+        "title": "How to Exist",
+        "url": "https://www.raptitude.com/2026/07/how-to-exist/",
         "source": "hn",
-        "time": "7/28/2026, 1:31:25 PM"
+        "time": "8/1/2026, 12:25:00 AM"
+      },
+      {
+        "title": "Software for One",
+        "url": "https://www.ajwaxman.com/writing/software-for-one",
+        "source": "hn",
+        "time": "7/29/2026, 12:29:20 PM"
       },
       {
         "title": "The Absurdity of Albert Camus",
@@ -80,12 +80,6 @@
         "time": "Fri, 31 Jul 2026 17:03:47 GMT"
       },
       {
-        "title": "What triggered the mass migrant crossings into Ceuta?",
-        "url": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 31 Jul 2026 18:29:04 GMT"
-      },
-      {
         "title": "Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham",
         "url": "https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/ce973re9404o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 31 Jul 2026 22:46:44 GMT"
+      },
+      {
+        "title": "How Sam Fender and Olivia Dean's Rein Me In broke the UK's singles chart record",
+        "url": "https://www.bbc.co.uk/news/articles/cly8r2p27lzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 31 Jul 2026 16:52:16 GMT"
       }
     ],
     "projects": [
