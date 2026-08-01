@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-01T14:34:53.252Z",
-  "updated_local": "8/1/2026, 2:34:53 PM",
+  "updated_iso": "2026-08-01T15:23:58.955Z",
+  "updated_local": "8/1/2026, 3:23:58 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "The More Americans Know About AI, the Less They Like It: Gallup",
+        "url": "https://decrypt.co/374794/more-americans-know-about-ai-less-they-like-gallup",
+        "source": "crypto",
+        "time": "Sat, 01 Aug 2026 15:01:09 +0000"
+      },
       {
         "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
         "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
@@ -26,32 +32,26 @@
         "url": "https://decrypt.co/374796/tether-reports-1-5b-q2-profit-usdt-supply-grows",
         "source": "crypto",
         "time": "Fri, 31 Jul 2026 17:10:49 +0000"
-      },
-      {
-        "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
-        "url": "https://decrypt.co/374791/circle-new-york-trust-charter-stablecoin-issuer",
-        "source": "crypto",
-        "time": "Fri, 31 Jul 2026 15:32:02 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-        "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-        "source": "hn",
-        "time": "8/1/2026, 12:34:25 PM"
-      },
-      {
-        "title": "How to Spot AI Writing",
-        "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
-        "source": "hn",
-        "time": "8/1/2026, 1:35:26 PM"
-      },
       {
         "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
         "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
         "source": "hn",
         "time": "8/1/2026, 2:19:51 PM"
+      },
+      {
+        "title": "The Art of 64-bit Assembly",
+        "url": "https://nostarch.com/art-64-bit-assembly-v2",
+        "source": "hn",
+        "time": "8/1/2026, 2:09:00 PM"
+      },
+      {
+        "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+        "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+        "source": "hn",
+        "time": "8/1/2026, 12:34:25 PM"
       },
       {
         "title": "Elevators",
@@ -60,10 +60,10 @@
         "time": "7/31/2026, 3:17:28 PM"
       },
       {
-        "title": "Manual: •.,:;?·",
-        "url": "https://type.today/en/journal/dots",
+        "title": "Linux on ESP32",
+        "url": "https://github.com/GrieferPig/esp32-s31-linux",
         "source": "hn",
-        "time": "7/30/2026, 1:05:42 AM"
+        "time": "7/28/2026, 5:52:00 PM"
       }
     ],
     "world": [
