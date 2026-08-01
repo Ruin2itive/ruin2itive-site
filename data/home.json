@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-01T08:52:59.564Z",
-  "updated_local": "8/1/2026, 8:52:59 AM",
+  "updated_iso": "2026-08-01T09:39:49.124Z",
+  "updated_local": "8/1/2026, 9:39:49 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "RamenHaus",
+        "url": "https://ramen.haus/",
+        "source": "hn",
+        "time": "8/1/2026, 8:48:58 AM"
+      },
+      {
+        "title": "AI doesn't generate working products, that's still your job",
+        "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+        "source": "hn",
+        "time": "8/1/2026, 7:52:10 AM"
+      },
+      {
         "title": "Elevators",
         "url": "https://john.fun/elevators",
         "source": "hn",
@@ -52,18 +64,6 @@
         "url": "https://www.raptitude.com/2026/07/how-to-exist/",
         "source": "hn",
         "time": "8/1/2026, 12:25:00 AM"
-      },
-      {
-        "title": "Ten Ways NAS Is Getting Enshitified",
-        "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
-        "source": "hn",
-        "time": "8/1/2026, 5:38:16 AM"
-      },
-      {
-        "title": "qm – Multiplayer agent harness for work",
-        "url": "https://github.com/yc-software/qm",
-        "source": "hn",
-        "time": "7/31/2026, 6:04:58 PM"
       }
     ],
     "world": [
@@ -80,16 +80,16 @@
         "time": "Fri, 31 Jul 2026 22:53:54 GMT"
       },
       {
-        "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 31 Jul 2026 17:03:47 GMT"
-      },
-      {
         "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
         "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 01 Aug 2026 05:01:56 GMT"
+      },
+      {
+        "title": "Sir John Curtice: The \"Burnham bounce\" is real but it's not massive",
+        "url": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 01 Aug 2026 09:13:00 GMT"
       },
       {
         "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
