@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-01T14:29:15.724Z"
+    "built_at": "2026-08-01T15:21:56.209Z"
   },
-  "items": [
-    {
-      "title": "What is distributed Key Generation (DKG)?",
-      "url": "https://stoffelmpc.com/stoffel-blog/what-is-distributed-key-generation-(dkg)",
-      "date": "2026-08-01T14:27:17.000Z"
-    },
-    {
-      "title": "Show HN: WordJS – Open-source CMS where plugins run in OS sandboxes",
-      "url": "https://github.com/jaimemartinez/wordjs",
-      "date": "2026-08-01T14:23:03.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
