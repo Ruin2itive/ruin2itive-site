@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-02T21:16:42.100Z"
+    "built_at": "2026-08-02T22:17:21.601Z"
   },
-  "items": [
-    {
-      "title": "Should You Use AI for a Task?",
-      "url": "https://elezea.com/2026/08/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide/",
-      "date": "2026-08-02T21:16:04.000Z"
-    },
-    {
-      "title": "Show HN: Rubiks Cube Solver",
-      "url": "https://punnerud.github.io/MPErubiks/",
-      "date": "2026-08-02T21:14:50.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
