@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-02T01:40:29.873Z",
-  "updated_local": "8/2/2026, 1:40:29 AM",
+  "updated_iso": "2026-08-02T03:04:58.100Z",
+  "updated_local": "8/2/2026, 3:04:58 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Go 1.27 Interactive Tour",
+        "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+        "source": "hn",
+        "time": "8/2/2026, 1:35:51 AM"
+      },
+      {
         "title": "Seedance 2.5",
         "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
         "source": "hn",
         "time": "8/1/2026, 8:45:12 PM"
       },
       {
-        "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+        "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+        "url": "https://github.com/tom-ilan/cycloidal_gearbox",
         "source": "hn",
-        "time": "8/1/2026, 10:25:12 PM"
+        "time": "8/2/2026, 2:07:09 AM"
       },
       {
         "title": "Diátaxis",
@@ -54,16 +60,10 @@
         "time": "8/1/2026, 8:33:27 PM"
       },
       {
-        "title": "Postmortem for Kernel Soundness Bug #14576",
-        "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+        "title": "ASRock BC-250: Building the Budget Steam Machine",
+        "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
         "source": "hn",
-        "time": "8/1/2026, 6:32:20 PM"
-      },
-      {
-        "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-        "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
-        "source": "hn",
-        "time": "8/1/2026, 11:44:55 PM"
+        "time": "8/2/2026, 1:35:11 AM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 01 Aug 2026 20:09:27 GMT"
+      },
+      {
+        "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+        "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 02 Aug 2026 02:44:34 GMT"
       },
       {
         "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 01 Aug 2026 22:41:38 GMT"
-      },
-      {
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 02 Aug 2026 00:02:18 GMT"
       }
     ],
     "projects": [
