@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-02T15:22:13.655Z"
+    "built_at": "2026-08-02T16:19:24.496Z"
   },
-  "items": [
-    {
-      "title": "Security Flaw Placed 30 Years of DNA Evidence at Risk of Hacking",
-      "url": "https://www.wsj.com/tech/cybersecurity/security-flaw-placed-30-years-of-dna-evidence-at-risk-of-hacking-1932775a",
-      "date": "2026-08-02T15:18:42.000Z"
-    },
-    {
-      "title": "The Impending, Inescapable Deluge of A.I",
-      "url": "https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html",
-      "date": "2026-08-02T15:18:35.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
