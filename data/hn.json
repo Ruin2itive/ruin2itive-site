@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-02T08:46:11.486Z"
+    "built_at": "2026-08-02T09:38:37.688Z"
   },
-  "items": [
-    {
-      "title": "AGI Singer: Buddy, I Need an AGI Handover Framework",
-      "url": "https://medium.com/@miho999lv/agi-singer-buddy-i-need-an-agi-handover-framework-7253cafb220e",
-      "date": "2026-08-02T08:45:28.000Z"
-    },
-    {
-      "title": "EU Icons for labelling AI-generated content – Shaping Europe's digital future",
-      "url": "https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content",
-      "date": "2026-08-02T08:38:55.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
