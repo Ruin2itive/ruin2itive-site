@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-02T14:35:42.371Z",
-  "updated_local": "8/2/2026, 2:35:42 PM",
+  "updated_iso": "2026-08-02T15:23:58.921Z",
+  "updated_local": "8/2/2026, 3:23:58 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "What’s the Deal With Meta’s ‘Pervert Glasses’?",
+        "url": "https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
+        "source": "crypto",
+        "time": "Sun, 02 Aug 2026 15:01:03 +0000"
+      },
       {
         "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: &#39;Nothing Is 100%&#39;",
         "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
@@ -26,20 +32,26 @@
         "url": "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
         "source": "crypto",
         "time": "Fri, 31 Jul 2026 20:03:22 +0000"
-      },
-      {
-        "title": "US Is Banning Foreign Robots—Even Roombas",
-        "url": "https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas",
-        "source": "crypto",
-        "time": "Fri, 31 Jul 2026 19:43:24 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Ursula K. Le Guin: A Rant About \"Technology\" (2005)",
+        "url": "https://www.ursulakleguin.com/a-rant-about-technology",
+        "source": "hn",
+        "time": "8/2/2026, 2:51:18 PM"
+      },
       {
         "title": "Twenty Years of RISC OS Open",
         "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
         "source": "hn",
         "time": "8/2/2026, 12:36:07 PM"
+      },
+      {
+        "title": "F*: A general-purpose proof-oriented programming language",
+        "url": "https://fstar-lang.org/",
+        "source": "hn",
+        "time": "8/2/2026, 12:31:16 PM"
       },
       {
         "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
@@ -52,18 +64,6 @@
         "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
         "source": "hn",
         "time": "8/2/2026, 9:06:33 AM"
-      },
-      {
-        "title": "Folding Paper Globes",
-        "url": "https://foldingglobes.com/globes",
-        "source": "hn",
-        "time": "7/29/2026, 5:53:00 AM"
-      },
-      {
-        "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-        "url": "https://publicdomainreview.org/essay/ars-notoria/",
-        "source": "hn",
-        "time": "8/2/2026, 10:18:24 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Sun, 02 Aug 2026 14:15:07 GMT"
       },
       {
+        "title": "Man admits killing Scottish woman found in suitcase, Greek police say",
+        "url": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 02 Aug 2026 14:28:15 GMT"
+      },
+      {
         "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
         "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 02 Aug 2026 11:12:00 GMT"
       },
       {
-        "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
-        "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+        "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 01 Aug 2026 23:03:35 GMT"
+        "time": "Sun, 02 Aug 2026 11:49:40 GMT"
       },
       {
         "title": "Fastest runner to cross the Alps says it was an incredible experience",
         "url": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 02 Aug 2026 10:59:55 GMT"
-      },
-      {
-        "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
-        "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 02 Aug 2026 11:49:40 GMT"
       }
     ],
     "projects": [
