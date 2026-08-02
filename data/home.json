@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-02T10:35:41.355Z",
-  "updated_local": "8/2/2026, 10:35:41 AM",
+  "updated_iso": "2026-08-02T11:27:49.746Z",
+  "updated_local": "8/2/2026, 11:27:49 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,24 @@
     ],
     "hacker": [
       {
+        "title": "Is the Industrial Revolution a good precedent for explosive growth today?",
+        "url": "https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html",
+        "source": "hn",
+        "time": "8/2/2026, 10:25:25 AM"
+      },
+      {
+        "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+        "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+        "source": "hn",
+        "time": "8/2/2026, 9:06:33 AM"
+      },
+      {
+        "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+        "url": "https://publicdomainreview.org/essay/ars-notoria/",
+        "source": "hn",
+        "time": "8/2/2026, 10:18:24 AM"
+      },
+      {
         "title": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
         "url": "https://github.com/syncular/syncular",
         "source": "hn",
@@ -46,24 +64,6 @@
         "url": "https://victoriametrics.com/blog/go-1-27/index.html",
         "source": "hn",
         "time": "8/2/2026, 1:35:51 AM"
-      },
-      {
-        "title": "Show HN: Bor – Open-source policy management for Linux desktops",
-        "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-        "source": "hn",
-        "time": "8/2/2026, 9:06:33 AM"
-      },
-      {
-        "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-        "url": "https://github.com/tom-ilan/cycloidal_gearbox",
-        "source": "hn",
-        "time": "8/2/2026, 2:07:09 AM"
-      },
-      {
-        "title": "Seedance 2.5",
-        "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-        "source": "hn",
-        "time": "8/1/2026, 8:45:12 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
         "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 02 Aug 2026 09:10:51 GMT"
+        "time": "Sun, 02 Aug 2026 11:12:00 GMT"
       },
       {
         "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
@@ -80,22 +80,22 @@
         "time": "Sat, 01 Aug 2026 23:03:35 GMT"
       },
       {
-        "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-        "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+        "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 02 Aug 2026 05:40:42 GMT"
+        "time": "Sun, 02 Aug 2026 10:11:26 GMT"
+      },
+      {
+        "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+        "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 02 Aug 2026 10:46:47 GMT"
       },
       {
         "title": "After a bruising 24 hours, what next for Fifa and under-pressure Infantino?",
         "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 01 Aug 2026 22:23:20 GMT"
-      },
-      {
-        "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
-        "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 02 Aug 2026 10:11:26 GMT"
       }
     ],
     "projects": [
