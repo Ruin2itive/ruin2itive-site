@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-02T01:33:06.047Z"
+    "built_at": "2026-08-02T03:01:25.697Z"
   },
-  "items": [
-    {
-      "title": "Ask HN: ChatGPT free tier just stopped working is this just me?",
-      "url": "https://news.ycombinator.com/item?id=49140202",
-      "date": "2026-08-02T01:32:14.000Z"
-    },
-    {
-      "title": "People Who Called for Averting Nuclear War Are Calling for AI Slowdown",
-      "url": "https://allevato.me/2026/08/01/rome-declaration",
-      "date": "2026-08-02T01:32:01.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
