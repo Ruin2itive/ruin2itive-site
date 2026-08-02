@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-02T16:25:17.869Z",
-  "updated_local": "8/2/2026, 4:25:17 PM",
+  "updated_iso": "2026-08-02T17:21:59.012Z",
+  "updated_local": "8/2/2026, 5:21:59 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
+        "url": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
+        "source": "crypto",
+        "time": "Sun, 02 Aug 2026 17:18:51 +0000"
+      },
       {
         "title": "What’s the Deal With Meta’s ‘Pervert Glasses’?",
         "url": "https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
         "source": "crypto",
         "time": "Fri, 31 Jul 2026 20:32:50 +0000"
-      },
-      {
-        "title": "AI Music Company Suno Loses Copyright Case in Germany",
-        "url": "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
-        "source": "crypto",
-        "time": "Fri, 31 Jul 2026 20:03:22 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Twenty Years of RISC OS Open",
-        "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+        "title": "Karpathy’s Pelican",
+        "url": "https://twitter.com/karpathy/status/2083749667410727319",
         "source": "hn",
-        "time": "8/2/2026, 12:36:07 PM"
+        "time": "8/2/2026, 4:05:56 AM"
       },
       {
         "title": "How the words we teach English language learners changed",
@@ -48,22 +48,22 @@
         "time": "8/2/2026, 3:41:08 PM"
       },
       {
-        "title": "F*: A general-purpose proof-oriented programming language",
-        "url": "https://fstar-lang.org/",
+        "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+        "url": "https://github.com/wie-project/kakehashi",
         "source": "hn",
-        "time": "8/2/2026, 12:31:16 PM"
+        "time": "8/2/2026, 4:26:40 PM"
       },
       {
-        "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
-        "url": "https://meshdiff.com/",
+        "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+        "url": "https://github.com/graham33/nixos-dgx-spark",
         "source": "hn",
-        "time": "8/2/2026, 11:34:41 AM"
+        "time": "8/2/2026, 5:05:54 PM"
       },
       {
-        "title": "Fasttracker II clone in C using SDL 2",
-        "url": "https://16-bits.org/ft2.php",
+        "title": "Twenty Years of RISC OS Open",
+        "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
         "source": "hn",
-        "time": "7/29/2026, 6:47:22 AM"
+        "time": "8/2/2026, 12:36:07 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
         "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 02 Aug 2026 15:48:22 GMT"
+        "time": "Sun, 02 Aug 2026 16:45:03 GMT"
       },
       {
         "title": "Man admits killing Scottish woman found in suitcase, Greek police say",
@@ -86,16 +86,16 @@
         "time": "Sun, 02 Aug 2026 14:15:07 GMT"
       },
       {
-        "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-        "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+        "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 02 Aug 2026 11:12:00 GMT"
+        "time": "Sun, 02 Aug 2026 15:48:00 GMT"
       },
       {
-        "title": "Fastest runner to cross the Alps says it was an incredible experience",
-        "url": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Why I don't regret choosing a vasectomy in my 20s",
+        "url": "https://www.bbc.co.uk/news/articles/c04kdk9v590o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 02 Aug 2026 10:59:55 GMT"
+        "time": "Sat, 01 Aug 2026 23:35:28 GMT"
       }
     ],
     "projects": [
