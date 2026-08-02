@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-02T20:24:33.226Z",
-  "updated_local": "8/2/2026, 8:24:33 PM",
+  "updated_iso": "2026-08-02T21:18:48.829Z",
+  "updated_local": "8/2/2026, 9:18:48 PM",
   "sections": {
     "crypto": [
       {
@@ -48,6 +48,12 @@
         "time": "8/2/2026, 4:26:40 PM"
       },
       {
+        "title": "AI Mania: From Tulips to Tokens",
+        "url": "https://seanhelvey.com/tools-and-their-tools/",
+        "source": "hn",
+        "time": "8/2/2026, 8:48:28 PM"
+      },
+      {
         "title": "Note-Taking and Personal Knowledge Management",
         "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
         "source": "hn",
@@ -58,15 +64,15 @@
         "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
         "source": "hn",
         "time": "7/29/2026, 2:25:54 PM"
-      },
-      {
-        "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
-        "url": "https://github.com/graham33/nixos-dgx-spark",
-        "source": "hn",
-        "time": "8/2/2026, 5:05:54 PM"
       }
     ],
     "world": [
+      {
+        "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+        "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 02 Aug 2026 20:36:37 GMT"
+      },
       {
         "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
         "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 02 Aug 2026 15:48:00 GMT"
-      },
-      {
-        "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-        "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 02 Aug 2026 11:12:00 GMT"
       }
     ],
     "projects": [
