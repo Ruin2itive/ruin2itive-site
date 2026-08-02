@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-02T03:01:25.697Z"
+    "built_at": "2026-08-02T06:51:18.173Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Static Sites Without Big Tech Hosting",
+      "url": "https://www.souveraen-durch-architektur.de/en/artikel/statische-seiten-ohne-big-tech-hosting",
+      "date": "2026-08-02T06:47:21.000Z"
+    },
+    {
+      "title": "DeepSeek V4 Pro GA on GPT 5.6 Sol (xhigh) level for fraction of cost",
+      "url": "https://twitter.com/MaxForAI/status/2083481455095959945",
+      "date": "2026-08-02T06:46:43.000Z"
+    }
+  ]
 }
