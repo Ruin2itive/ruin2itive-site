@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-08-03T16:53:57.401Z",
-  "updated_local": "8/3/2026, 4:53:57 PM",
+  "updated_iso": "2026-08-03T17:34:28.903Z",
+  "updated_local": "8/3/2026, 5:34:28 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Crypto Privacy Tools Serve ‘Essential Protective Functions’: Report by ChangeNOW, CoinRabbit",
+        "url": "https://decrypt.co/374838/crypto-privacy-tools-serve-essential-protective-functions-report-by-changenow-coinrabbit",
+        "source": "crypto",
+        "time": "Mon, 03 Aug 2026 17:31:03 +0000"
+      },
+      {
+        "title": "Solo Bitcoin Miner Hits Jackpot, Scoring $200K BTC Reward",
+        "url": "https://decrypt.co/374859/solo-bitcoin-miner-hits-jackpot-scoring-200k-btc-reward",
+        "source": "crypto",
+        "time": "Mon, 03 Aug 2026 17:12:08 +0000"
+      },
       {
         "title": "Trump Family’s American Bitcoin Tops 8,000 BTC After Record Mining Quarter",
         "url": "https://decrypt.co/374850/trump-american-bitcoin-8000-btc-record-mining-quarter",
@@ -20,38 +32,14 @@
         "url": "https://decrypt.co/374830/morning-minute-the-coldcard-bitcoin-hack-nears-114-million-in-potential-losses",
         "source": "crypto",
         "time": "Mon, 03 Aug 2026 13:11:19 +0000"
-      },
-      {
-        "title": "Strategy Sells $105M in Bitcoin as Dollar Reserve Hits $4B",
-        "url": "https://decrypt.co/374831/strategy-sells-105m-in-bitcoin-as-dollar-reserve-hits-4b",
-        "source": "crypto",
-        "time": "Mon, 03 Aug 2026 12:44:29 +0000"
-      },
-      {
-        "title": "South Korean Exchange Bithumb Targets 2028 IPO",
-        "url": "https://decrypt.co/374823/south-korean-exchange-bithumb-targets-2028-ipo",
-        "source": "crypto",
-        "time": "Mon, 03 Aug 2026 11:07:59 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Critical CVE issued for hallucinated SQLite vulnerability",
-        "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-        "source": "hn",
-        "time": "8/3/2026, 11:28:54 AM"
-      },
       {
         "title": "Devtools must be open source",
         "url": "https://blog.exe.dev/devtools-must-be-open-source",
         "source": "hn",
         "time": "8/3/2026, 2:15:47 PM"
-      },
-      {
-        "title": "Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days",
-        "url": "https://www.marlerblog.com/case-news/taylor-farms-has-rewritten-its-cyclospora-statement-four-times-in-sixteen-days-it-still-has-not-said-what-changed-at-that-plant-after-2013-or-why-two-thousand-negative-tests-should-mean-an/",
-        "source": "hn",
-        "time": "8/3/2026, 3:31:32 PM"
       },
       {
         "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
@@ -60,10 +48,22 @@
         "time": "8/3/2026, 1:34:43 PM"
       },
       {
-        "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-        "url": "https://hoplite.sh",
+        "title": "What's the largest software project AI can complete on its own?",
+        "url": "https://epoch.ai/MirrorCode",
         "source": "hn",
-        "time": "8/3/2026, 4:32:06 PM"
+        "time": "8/3/2026, 4:16:40 PM"
+      },
+      {
+        "title": "Wind and solar overtake fossil fuels in Germany for the first time",
+        "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
+        "source": "hn",
+        "time": "8/3/2026, 1:13:02 PM"
+      },
+      {
+        "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+        "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+        "source": "hn",
+        "time": "8/3/2026, 2:09:00 PM"
       }
     ],
     "world": [
