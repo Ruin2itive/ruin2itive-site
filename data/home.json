@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-03T01:36:22.195Z",
-  "updated_local": "8/3/2026, 1:36:22 AM",
+  "updated_iso": "2026-08-03T01:42:11.615Z",
+  "updated_local": "8/3/2026, 1:42:11 AM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,16 @@
         "time": "8/3/2026, 12:12:16 AM"
       },
       {
-        "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-        "url": "https://github.com/johnsonjh/cpm386",
-        "source": "hn",
-        "time": "8/3/2026, 12:38:10 AM"
-      },
-      {
         "title": "Karpathy’s Pelican",
         "url": "https://twitter.com/karpathy/status/2083749667410727319",
         "source": "hn",
         "time": "8/2/2026, 4:05:56 AM"
+      },
+      {
+        "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+        "url": "https://github.com/johnsonjh/cpm386",
+        "source": "hn",
+        "time": "8/3/2026, 12:38:10 AM"
       },
       {
         "title": "Autoregressive Language Model on the 6502 Processor",
