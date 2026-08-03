@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-02T23:23:36.889Z",
-  "updated_local": "8/2/2026, 11:23:36 PM",
+  "updated_iso": "2026-08-03T00:35:42.984Z",
+  "updated_local": "8/3/2026, 12:35:42 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+        "url": "https://github.com/pg83/shitty",
+        "source": "hn",
+        "time": "8/2/2026, 11:05:41 PM"
+      },
+      {
         "title": "Karpathy’s Pelican",
         "url": "https://twitter.com/karpathy/status/2083749667410727319",
         "source": "hn",
@@ -48,36 +54,30 @@
         "time": "7/31/2026, 1:08:30 PM"
       },
       {
-        "title": "Note-Taking and Personal Knowledge Management",
-        "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+        "title": "The Computational Theory of Mind (2015)",
+        "url": "https://plato.stanford.edu/entries/computational-mind/",
         "source": "hn",
-        "time": "7/28/2026, 2:21:10 PM"
+        "time": "8/2/2026, 10:35:35 PM"
       },
       {
         "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
         "url": "https://github.com/wie-project/kakehashi",
         "source": "hn",
         "time": "8/2/2026, 4:26:40 PM"
-      },
-      {
-        "title": "Read the Novels and Forget Everything Else",
-        "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
-        "source": "hn",
-        "time": "7/31/2026, 11:31:28 PM"
       }
     ],
     "world": [
+      {
+        "title": "Trump suggests new talks with Iran to begin on Monday",
+        "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 03 Aug 2026 00:11:18 GMT"
+      },
       {
         "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
         "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 02 Aug 2026 20:36:37 GMT"
-      },
-      {
-        "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
-        "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 02 Aug 2026 21:18:26 GMT"
       },
       {
         "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
@@ -86,16 +86,16 @@
         "time": "Sun, 02 Aug 2026 23:15:14 GMT"
       },
       {
+        "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+        "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 02 Aug 2026 21:18:26 GMT"
+      },
+      {
         "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
         "url": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 02 Aug 2026 14:15:07 GMT"
-      },
-      {
-        "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
-        "url": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 02 Aug 2026 17:53:09 GMT"
       }
     ],
     "projects": [
