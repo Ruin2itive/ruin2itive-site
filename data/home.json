@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-08-03T20:35:00.251Z",
-  "updated_local": "8/3/2026, 8:35:00 PM",
+  "updated_iso": "2026-08-03T21:25:24.481Z",
+  "updated_local": "8/3/2026, 9:25:24 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Former FBI Agent Charged With Stealing Nearly $1 Million in Crypto and Using ChatGPT for Investment Advice",
+        "url": "https://decrypt.co/374871/former-fbi-agent-charged-stealing-crypto-using-chatgpt-advice",
+        "source": "crypto",
+        "time": "Mon, 03 Aug 2026 21:17:06 +0000"
+      },
+      {
+        "title": "What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security",
+        "url": "https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security",
+        "source": "crypto",
+        "time": "Mon, 03 Aug 2026 20:39:33 +0000"
+      },
       {
         "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
         "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
@@ -20,32 +32,20 @@
         "url": "https://decrypt.co/374838/crypto-privacy-tools-serve-essential-protective-functions-report-by-changenow-coinrabbit",
         "source": "crypto",
         "time": "Mon, 03 Aug 2026 17:31:03 +0000"
-      },
-      {
-        "title": "Solo Bitcoin Miner Hits Jackpot, Scoring $200K BTC Reward",
-        "url": "https://decrypt.co/374859/solo-bitcoin-miner-hits-jackpot-scoring-200k-btc-reward",
-        "source": "crypto",
-        "time": "Mon, 03 Aug 2026 17:12:08 +0000"
-      },
-      {
-        "title": "Trump Family’s American Bitcoin Tops 8,000 BTC After Record Mining Quarter",
-        "url": "https://decrypt.co/374850/trump-american-bitcoin-8000-btc-record-mining-quarter",
-        "source": "crypto",
-        "time": "Mon, 03 Aug 2026 16:29:15 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "DDoS against Norwegian government IT infrastructure – status",
-        "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
-        "source": "hn",
-        "time": "8/3/2026, 7:56:27 PM"
-      },
       {
         "title": "Ten advances in mathematics and theoretical computer science",
         "url": "https://openai.com/index/ten-advances-in-mathematics/",
         "source": "hn",
         "time": "8/3/2026, 4:27:12 PM"
+      },
+      {
+        "title": "LLMs reward expertise",
+        "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+        "source": "hn",
+        "time": "8/3/2026, 9:13:53 PM"
       },
       {
         "title": "Devtools must be open source",
@@ -54,16 +54,16 @@
         "time": "8/3/2026, 2:15:47 PM"
       },
       {
-        "title": "Wind and solar overtake fossil fuels in Germany for the first time",
-        "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
+        "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+        "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
         "source": "hn",
-        "time": "8/3/2026, 1:13:02 PM"
+        "time": "8/3/2026, 5:02:10 PM"
       },
       {
-        "title": "The Dunning-Kruger Effect Is Probably Not Real",
-        "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
+        "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+        "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
         "source": "hn",
-        "time": "8/3/2026, 7:39:34 PM"
+        "time": "8/3/2026, 5:08:46 PM"
       }
     ],
     "world": [
