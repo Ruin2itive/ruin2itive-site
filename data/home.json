@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-03T09:16:40.362Z",
-  "updated_local": "8/3/2026, 9:16:40 AM",
+  "updated_iso": "2026-08-03T11:04:57.135Z",
+  "updated_local": "8/3/2026, 11:04:57 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Coldcard Losses Near $114M as Small Bitcoin Transfers Spike",
+        "url": "https://decrypt.co/374820/coldcard-losses-near-114m-as-small-bitcoin-transfers-spike",
+        "source": "crypto",
+        "time": "Mon, 03 Aug 2026 10:15:37 +0000"
+      },
       {
         "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
         "url": "https://decrypt.co/374817/coldcard-bitcoin-exploit-88-million-attackers-draining-wallets",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/374794/more-americans-know-about-ai-less-they-like-gallup",
         "source": "crypto",
         "time": "Sat, 01 Aug 2026 15:01:09 +0000"
-      },
-      {
-        "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
-        "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
-        "source": "crypto",
-        "time": "Fri, 31 Jul 2026 20:32:50 +0000"
       }
     ],
     "hacker": [
@@ -48,10 +48,10 @@
         "time": "8/3/2026, 2:16:09 AM"
       },
       {
-        "title": "Rust project goals: Immobile types and guaranteed destructors",
-        "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+        "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "source": "hn",
-        "time": "8/3/2026, 6:42:00 AM"
+        "time": "8/3/2026, 9:32:07 AM"
       },
       {
         "title": "Bonsai: Janestreet's UI Library",
@@ -60,42 +60,42 @@
         "time": "8/3/2026, 8:29:57 AM"
       },
       {
-        "title": "Octane – React's programming model, compiled",
-        "url": "https://octanejs.dev",
+        "title": "What DMARC Protects You From, and What It Does Not",
+        "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
         "source": "hn",
-        "time": "8/3/2026, 8:04:04 AM"
+        "time": "8/3/2026, 9:29:46 AM"
       }
     ],
     "world": [
       {
-        "title": "Uefa threatens Fifa with legal action as English FA set to withdraw support from Infantino",
+        "title": "English FA set to withdraw support for Fifa president Infantino",
         "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 03 Aug 2026 07:49:33 GMT"
       },
       {
-        "title": "Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body",
+        "title": "Mother has ground-breaking surgery while pregnant to treat baby",
         "url": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 03 Aug 2026 05:02:25 GMT"
       },
       {
-        "title": "Trump suggests new talks with Iran to begin on Monday",
-        "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Reform UK's Richard Tice investigated by parliamentary standards watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/ceqe24qjgzdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 03 Aug 2026 08:03:15 GMT"
-      },
-      {
-        "title": "Heat health alerts in England as temperatures set to reach 34C",
-        "url": "https://www.bbc.co.uk/weather/articles/c17199dy4yxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 03 Aug 2026 08:01:23 GMT"
+        "time": "Mon, 03 Aug 2026 10:55:11 GMT"
       },
       {
         "title": "BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir",
         "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 03 Aug 2026 03:32:21 GMT"
+      },
+      {
+        "title": "Iran denies Trump's claim that new talks will begin on Monday",
+        "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 03 Aug 2026 10:23:35 GMT"
       }
     ],
     "projects": [
