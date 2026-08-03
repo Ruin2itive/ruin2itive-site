@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-03T01:42:11.615Z",
-  "updated_local": "8/3/2026, 1:42:11 AM",
+  "updated_iso": "2026-08-03T03:05:41.455Z",
+  "updated_local": "8/3/2026, 3:05:41 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
-        "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+        "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+        "url": "https://qwen.ai/blog?id=qwen3.8",
         "source": "hn",
-        "time": "8/3/2026, 12:12:16 AM"
-      },
-      {
-        "title": "Karpathy’s Pelican",
-        "url": "https://twitter.com/karpathy/status/2083749667410727319",
-        "source": "hn",
-        "time": "8/2/2026, 4:05:56 AM"
+        "time": "8/3/2026, 2:16:09 AM"
       },
       {
         "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
@@ -54,16 +48,22 @@
         "time": "8/3/2026, 12:38:10 AM"
       },
       {
-        "title": "Autoregressive Language Model on the 6502 Processor",
-        "url": "https://mattbeton.com/blog/bitnet-6502.html",
+        "title": "Show HN: Isopolis – Isometric pixel map of SF",
+        "url": "https://sf.isopolis.city/",
         "source": "hn",
-        "time": "7/31/2026, 1:08:30 PM"
+        "time": "8/3/2026, 12:46:38 AM"
       },
       {
-        "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
-        "url": "https://github.com/wie-project/kakehashi",
+        "title": "Karpathy’s Pelican",
+        "url": "https://twitter.com/karpathy/status/2083749667410727319",
         "source": "hn",
-        "time": "8/2/2026, 4:26:40 PM"
+        "time": "8/2/2026, 4:05:56 AM"
+      },
+      {
+        "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+        "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
+        "source": "hn",
+        "time": "8/3/2026, 1:23:26 AM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Sun, 02 Aug 2026 23:15:14 GMT"
       },
       {
+        "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
+        "url": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 03 Aug 2026 01:04:23 GMT"
+      },
+      {
         "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
         "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 02 Aug 2026 21:18:26 GMT"
-      },
-      {
-        "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
-        "url": "https://www.bbc.co.uk/news/articles/cq89e771jqlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 02 Aug 2026 14:15:07 GMT"
       }
     ],
     "projects": [
