@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-03T15:56:16.530Z"
+    "built_at": "2026-08-03T16:49:20.877Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "It is past time to upgrade to post-quantum encryption",
+      "url": "https://economist.com/leaders/2026/07/29/it-is-past-time-to-upgrade-to-post-quantum-encryption",
+      "date": "2026-08-03T16:48:30.000Z"
+    },
+    {
+      "title": "Intentic.dev – \"VSCode\" for Agents",
+      "url": "https://intentic.dev/",
+      "date": "2026-08-03T16:47:12.000Z"
+    }
+  ]
 }
