@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-03T05:20:00.096Z",
-  "updated_local": "8/3/2026, 5:20:00 AM",
+  "updated_iso": "2026-08-03T07:10:28.240Z",
+  "updated_local": "8/3/2026, 7:10:28 AM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
+        "title": "Don't be a meat proxy",
+        "url": "https://gruhn.me/blog/2026-08-03/",
+        "source": "hn",
+        "time": "8/3/2026, 6:28:01 AM"
+      },
+      {
         "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
         "url": "https://qwen.ai/blog?id=qwen3.8",
         "source": "hn",
         "time": "8/3/2026, 2:16:09 AM"
       },
       {
+        "title": "More German than many Germans",
+        "url": "https://mertbulan.com/more-german-than-many-germans/",
+        "source": "hn",
+        "time": "8/3/2026, 6:00:14 AM"
+      },
+      {
+        "title": "Rust project goals: Immobile types and guaranteed destructors",
+        "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
+        "source": "hn",
+        "time": "8/3/2026, 6:42:00 AM"
+      },
+      {
         "title": "Show HN: Isopolis – Isometric pixel map of SF",
         "url": "https://sf.isopolis.city/",
         "source": "hn",
         "time": "8/3/2026, 12:46:38 AM"
-      },
-      {
-        "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
-        "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
-        "source": "hn",
-        "time": "8/3/2026, 2:30:30 AM"
-      },
-      {
-        "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
-        "url": "https://github.com/johnsonjh/cpm386",
-        "source": "hn",
-        "time": "8/3/2026, 12:38:10 AM"
-      },
-      {
-        "title": "Karpathy’s Pelican",
-        "url": "https://twitter.com/karpathy/status/2083749667410727319",
-        "source": "hn",
-        "time": "8/2/2026, 4:05:56 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Mon, 03 Aug 2026 00:11:18 GMT"
       },
       {
-        "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-        "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 03 Aug 2026 03:32:21 GMT"
-      },
-      {
-        "title": "How parents and pupils took on 'cruel', 'authoritarian' schools - and won",
-        "url": "https://www.bbc.co.uk/news/articles/cgje8d1p419o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 03 Aug 2026 05:01:18 GMT"
-      },
-      {
         "title": "Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body",
         "url": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 03 Aug 2026 05:02:25 GMT"
       },
       {
-        "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
-        "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Heat health alerts in England as temperatures set to reach 34C",
+        "url": "https://www.bbc.co.uk/weather/articles/c17199dy4yxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 02 Aug 2026 21:18:26 GMT"
+        "time": "Mon, 03 Aug 2026 02:06:27 GMT"
+      },
+      {
+        "title": "Wales first nation to withdraw support for Infantino",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckg9z094v8go?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 03 Aug 2026 06:54:07 GMT"
+      },
+      {
+        "title": "How parents and pupils took on 'cruel', 'authoritarian' schools - and won",
+        "url": "https://www.bbc.co.uk/news/articles/cgje8d1p419o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 03 Aug 2026 05:01:18 GMT"
       }
     ],
     "projects": [
