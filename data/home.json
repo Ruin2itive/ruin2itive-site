@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-08-03T11:08:47.985Z",
-  "updated_local": "8/3/2026, 11:08:47 AM",
+  "updated_iso": "2026-08-03T13:04:40.018Z",
+  "updated_local": "8/3/2026, 1:04:40 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Strategy Sells $105M in Bitcoin as Dollar Reserve Hits $4B",
+        "url": "https://decrypt.co/374831/strategy-sells-105m-in-bitcoin-as-dollar-reserve-hits-4b",
+        "source": "crypto",
+        "time": "Mon, 03 Aug 2026 12:44:29 +0000"
+      },
+      {
+        "title": "South Korean Exchange Bithumb Targets 2028 IPO",
+        "url": "https://decrypt.co/374823/south-korean-exchange-bithumb-targets-2028-ipo",
+        "source": "crypto",
+        "time": "Mon, 03 Aug 2026 11:07:59 +0000"
+      },
       {
         "title": "Coldcard Losses Near $114M as Small Bitcoin Transfers Spike",
         "url": "https://decrypt.co/374820/coldcard-losses-near-114m-as-small-bitcoin-transfers-spike",
@@ -20,21 +32,15 @@
         "url": "https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
         "source": "crypto",
         "time": "Sun, 02 Aug 2026 15:01:03 +0000"
-      },
-      {
-        "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: &#39;Nothing Is 100%&#39;",
-        "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
-        "source": "crypto",
-        "time": "Sat, 01 Aug 2026 16:01:17 +0000"
-      },
-      {
-        "title": "The More Americans Know About AI, the Less They Like It: Gallup",
-        "url": "https://decrypt.co/374794/more-americans-know-about-ai-less-they-like-gallup",
-        "source": "crypto",
-        "time": "Sat, 01 Aug 2026 15:01:09 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+        "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+        "source": "hn",
+        "time": "8/3/2026, 11:28:54 AM"
+      },
       {
         "title": "Don't be a meat proxy",
         "url": "https://gruhn.me/blog/2026-08-03/",
@@ -48,22 +54,16 @@
         "time": "8/3/2026, 2:16:09 AM"
       },
       {
-        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-        "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-        "source": "hn",
-        "time": "8/3/2026, 9:32:07 AM"
-      },
-      {
         "title": "Bonsai: Janestreet's UI Library",
         "url": "https://github.com/janestreet/bonsai",
         "source": "hn",
         "time": "8/3/2026, 8:29:57 AM"
       },
       {
-        "title": "What DMARC Protects You From, and What It Does Not",
-        "url": "https://senderledger.com/articles/what-dmarc-actually-protects-you-from",
+        "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+        "url": "https://github.com/garagehq/nightcrawler/",
         "source": "hn",
-        "time": "8/3/2026, 9:29:46 AM"
+        "time": "8/3/2026, 11:06:15 AM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Mon, 03 Aug 2026 05:02:25 GMT"
       },
       {
-        "title": "Reform UK's Richard Tice investigated by parliamentary standards watchdog",
-        "url": "https://www.bbc.co.uk/news/articles/ceqe24qjgzdo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 03 Aug 2026 11:05:35 GMT"
-      },
-      {
         "title": "BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir",
         "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 03 Aug 2026 03:32:21 GMT"
       },
       {
+        "title": "Reform says it would use Navy to stop small boats",
+        "url": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 03 Aug 2026 12:20:53 GMT"
+      },
+      {
         "title": "Iran denies Trump's claim that new talks will begin on Monday",
         "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 03 Aug 2026 10:23:35 GMT"
+        "time": "Mon, 03 Aug 2026 12:44:09 GMT"
       }
     ],
     "projects": [
