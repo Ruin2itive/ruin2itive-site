@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-03T13:12:28.821Z",
-  "updated_local": "8/3/2026, 1:12:28 PM",
+  "updated_iso": "2026-08-03T15:02:24.464Z",
+  "updated_local": "8/3/2026, 3:02:24 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,18 @@
         "time": "8/3/2026, 11:28:54 AM"
       },
       {
+        "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+        "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+        "source": "hn",
+        "time": "8/3/2026, 1:34:43 PM"
+      },
+      {
+        "title": "Devtools must be open source",
+        "url": "https://blog.exe.dev/devtools-must-be-open-source",
+        "source": "hn",
+        "time": "8/3/2026, 2:15:47 PM"
+      },
+      {
         "title": "Don't be a meat proxy",
         "url": "https://gruhn.me/blog/2026-08-03/",
         "source": "hn",
@@ -52,18 +64,6 @@
         "url": "https://qwen.ai/blog?id=qwen3.8",
         "source": "hn",
         "time": "8/3/2026, 2:16:09 AM"
-      },
-      {
-        "title": "Bonsai: Janestreet's UI Library",
-        "url": "https://github.com/janestreet/bonsai",
-        "source": "hn",
-        "time": "8/3/2026, 8:29:57 AM"
-      },
-      {
-        "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
-        "url": "https://github.com/garagehq/nightcrawler/",
-        "source": "hn",
-        "time": "8/3/2026, 11:06:15 AM"
       }
     ],
     "world": [
@@ -74,10 +74,10 @@
         "time": "Mon, 03 Aug 2026 07:49:33 GMT"
       },
       {
-        "title": "Mother has ground-breaking surgery while pregnant to treat baby",
-        "url": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+        "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 03 Aug 2026 05:02:25 GMT"
+        "time": "Mon, 03 Aug 2026 14:18:30 GMT"
       },
       {
         "title": "BBC reports from inside city gripped by deadly protests in Pakistan-administered Kashmir",
@@ -86,16 +86,16 @@
         "time": "Mon, 03 Aug 2026 03:32:21 GMT"
       },
       {
-        "title": "Reform says it would use Navy to stop small boats",
-        "url": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Newspaper columnist and broadcaster Rod Liddle dies aged 66",
+        "url": "https://www.bbc.co.uk/news/articles/cly59lwe93po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 03 Aug 2026 12:20:53 GMT"
+        "time": "Mon, 03 Aug 2026 13:35:45 GMT"
       },
       {
-        "title": "Iran denies Trump's claim that new talks will begin on Monday",
-        "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Reform UK insists using Navy to stop migrant boats would be legal",
+        "url": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 03 Aug 2026 12:44:09 GMT"
+        "time": "Mon, 03 Aug 2026 14:57:19 GMT"
       }
     ],
     "projects": [
