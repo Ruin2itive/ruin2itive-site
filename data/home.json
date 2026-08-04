@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-08-04T18:38:17.731Z",
-  "updated_local": "8/4/2026, 6:38:17 PM",
+  "updated_iso": "2026-08-04T19:32:06.444Z",
+  "updated_local": "8/4/2026, 7:32:06 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
+        "url": "https://decrypt.co/374916/coldcard-bitcoin-exploit-explained-entropy-keys-bits",
+        "source": "crypto",
+        "time": "Tue, 04 Aug 2026 19:11:36 +0000"
+      },
+      {
+        "title": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
+        "url": "https://decrypt.co/374915/solana-proposal-increase-daily-sol-burns-10-fold",
+        "source": "crypto",
+        "time": "Tue, 04 Aug 2026 18:46:11 +0000"
+      },
       {
         "title": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
         "url": "https://decrypt.co/374906/alibaba-best-ai-model-qwen-free-claude-chatgpt",
@@ -20,26 +32,14 @@
         "url": "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
         "source": "crypto",
         "time": "Tue, 04 Aug 2026 13:36:06 +0000"
-      },
-      {
-        "title": "Morning Minute: Saylor Sells Bitcoin Again",
-        "url": "https://decrypt.co/374897/morning-minute-saylor-sells-bitcoin-again",
-        "source": "crypto",
-        "time": "Tue, 04 Aug 2026 12:33:21 +0000"
-      },
-      {
-        "title": "BlackRock Tokenizes $311B of European Money Market Funds With JP Morgan&#39;s Kinexys",
-        "url": "https://decrypt.co/374894/blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys",
-        "source": "crypto",
-        "time": "Tue, 04 Aug 2026 11:40:44 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "All of Winona Police Department's Flock cameras cut down and stolen",
-        "url": "https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/",
+        "title": "Why some people mow a lawn better than others",
+        "url": "https://pudding.cool/2026/06/mow/",
         "source": "hn",
-        "time": "8/4/2026, 5:00:28 PM"
+        "time": "8/4/2026, 6:06:12 PM"
       },
       {
         "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
@@ -48,22 +48,22 @@
         "time": "8/4/2026, 3:16:22 PM"
       },
       {
+        "title": "Waymo – Dallas Open to All",
+        "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+        "source": "hn",
+        "time": "8/4/2026, 6:29:41 PM"
+      },
+      {
         "title": "Hop.earth – OpenStreetMap based car racing game",
         "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
         "source": "hn",
         "time": "8/4/2026, 5:55:19 PM"
       },
       {
-        "title": "The Warp Agent CLI",
-        "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
+        "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+        "url": "https://mistral.ai/news/shieldstral/",
         "source": "hn",
-        "time": "8/4/2026, 5:08:41 PM"
-      },
-      {
-        "title": "Dataset: Dead mental health startups, 2000-2026, coded on 18 fields",
-        "url": "https://mentalium.me/en/research/mental-health-startup-graveyard-dataset/",
-        "source": "hn",
-        "time": "8/4/2026, 5:30:55 PM"
+        "time": "8/4/2026, 4:36:05 PM"
       }
     ],
     "world": [
@@ -83,13 +83,13 @@
         "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
         "url": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 04 Aug 2026 17:33:13 GMT"
+        "time": "Tue, 04 Aug 2026 19:31:26 GMT"
       },
       {
         "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
         "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 04 Aug 2026 17:06:17 GMT"
+        "time": "Tue, 04 Aug 2026 19:00:43 GMT"
       },
       {
         "title": "Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'",
