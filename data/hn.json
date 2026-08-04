@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-04T14:48:29.891Z"
+    "built_at": "2026-08-04T15:46:23.922Z"
   },
-  "items": [
-    {
-      "title": "Tl;Dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
-      "url": "https://bobdahacker.com/blog/tldv-hack",
-      "date": "2026-08-04T14:47:41.000Z"
-    },
-    {
-      "title": "Security Vendor's AI Best Practices Labels Critical Elixir RCE Safe",
-      "url": "https://paraxial.io/blog/ai-spam",
-      "date": "2026-08-04T14:45:36.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
