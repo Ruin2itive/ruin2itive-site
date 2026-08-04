@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-04T09:57:55.183Z",
-  "updated_local": "8/4/2026, 9:57:55 AM",
+  "updated_iso": "2026-08-04T10:56:51.516Z",
+  "updated_local": "8/4/2026, 10:56:51 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Hardware Wallet Firms Warn of Phishing Surge as Coldcard Losses Near $130M",
+        "url": "https://decrypt.co/374891/hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m",
+        "source": "crypto",
+        "time": "Tue, 04 Aug 2026 10:52:57 +0000"
+      },
       {
         "title": "Five Convicted of Imprisoning Crypto Millionaires in London &#39;Torture&#39; Ordeal",
         "url": "https://decrypt.co/374889/five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security",
         "source": "crypto",
         "time": "Mon, 03 Aug 2026 20:39:33 +0000"
-      },
-      {
-        "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
-        "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
-        "source": "crypto",
-        "time": "Mon, 03 Aug 2026 19:17:37 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "8/4/2026, 9:30:33 AM"
       },
       {
+        "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+        "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+        "source": "hn",
+        "time": "8/4/2026, 10:00:55 AM"
+      },
+      {
         "title": "LLMs reward expertise",
         "url": "https://www.seangoedecke.com/llms-reward-expertise/",
         "source": "hn",
         "time": "8/3/2026, 9:13:53 PM"
-      },
-      {
-        "title": "Harness Engineering for Self-Improvement",
-        "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-        "source": "hn",
-        "time": "8/4/2026, 6:17:54 AM"
       },
       {
         "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
@@ -60,13 +60,19 @@
         "time": "8/4/2026, 8:11:02 AM"
       },
       {
-        "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-        "url": "https://github.com/leonickson1/Swiftlet",
+        "title": "Harness Engineering for Self-Improvement",
+        "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
         "source": "hn",
-        "time": "8/3/2026, 4:54:15 PM"
+        "time": "8/4/2026, 6:17:54 AM"
       }
     ],
     "world": [
+      {
+        "title": "More than 150 migrants rescued after boat catches fire in Channel",
+        "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 04 Aug 2026 10:52:01 GMT"
+      },
       {
         "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
         "url": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +86,16 @@
         "time": "Tue, 04 Aug 2026 09:11:39 GMT"
       },
       {
-        "title": "There's a reason child vaccination rates are falling - and it's not social media",
-        "url": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 03 Aug 2026 23:10:05 GMT"
-      },
-      {
-        "title": "BP profits highest in four years as Iran war pushes up oil price",
+        "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
         "url": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 04 Aug 2026 09:04:46 GMT"
+        "time": "Tue, 04 Aug 2026 10:07:05 GMT"
       },
       {
-        "title": "Thunderstorms and flash flood risk on final day of UK heatwave",
-        "url": "https://www.bbc.co.uk/weather/articles/c62q036nqxyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+        "url": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 03 Aug 2026 23:28:34 GMT"
+        "time": "Tue, 04 Aug 2026 10:23:55 GMT"
       }
     ],
     "projects": [
