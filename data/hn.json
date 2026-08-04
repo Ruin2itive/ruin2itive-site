@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-04T11:42:42.022Z"
+    "built_at": "2026-08-04T12:35:48.878Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Ask HN: Good ASX Shares API?",
+      "url": "https://news.ycombinator.com/item?id=49167892",
+      "date": "2026-08-04T12:34:41.000Z"
+    },
+    {
+      "title": "AI's talent wars have a loyalty problem",
+      "url": "https://www.axios.com/2026/08/03/ai-talent-wars-openai-google-meta-anthropic",
+      "date": "2026-08-04T12:33:21.000Z"
+    }
+  ]
 }
