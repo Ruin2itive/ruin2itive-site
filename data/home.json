@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-04T09:03:29.150Z",
-  "updated_local": "8/4/2026, 9:03:29 AM",
+  "updated_iso": "2026-08-04T09:57:55.183Z",
+  "updated_local": "8/4/2026, 9:57:55 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Five Convicted of Imprisoning Crypto Millionaires in London &#39;Torture&#39; Ordeal",
+        "url": "https://decrypt.co/374889/five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal",
+        "source": "crypto",
+        "time": "Tue, 04 Aug 2026 09:46:24 +0000"
+      },
       {
         "title": "Marmot Researchers Turn to OnlyFans for Funding—And There Are Meme Coins Too",
         "url": "https://decrypt.co/374874/marmot-researchers-onlyfans-memecoins-solana-onlymarms",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
         "source": "crypto",
         "time": "Mon, 03 Aug 2026 19:17:37 +0000"
-      },
-      {
-        "title": "XRP Holders Can Now Borrow Ripple&#39;s RLUSD on Ethereum Without Selling Their Crypto",
-        "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
-        "source": "crypto",
-        "time": "Mon, 03 Aug 2026 17:51:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "FFmpeg 9.0",
+        "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+        "source": "hn",
+        "time": "8/4/2026, 9:30:33 AM"
+      },
       {
         "title": "LLMs reward expertise",
         "url": "https://www.seangoedecke.com/llms-reward-expertise/",
@@ -42,28 +48,22 @@
         "time": "8/3/2026, 9:13:53 PM"
       },
       {
-        "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-        "url": "https://github.com/leonickson1/Swiftlet",
-        "source": "hn",
-        "time": "8/3/2026, 4:54:15 PM"
-      },
-      {
-        "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
-        "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
-        "source": "hn",
-        "time": "7/29/2026, 4:07:46 PM"
-      },
-      {
-        "title": "Ten advances in mathematics and theoretical computer science",
-        "url": "https://openai.com/index/ten-advances-in-mathematics/",
-        "source": "hn",
-        "time": "8/3/2026, 4:27:12 PM"
-      },
-      {
         "title": "Harness Engineering for Self-Improvement",
         "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
         "source": "hn",
         "time": "8/4/2026, 6:17:54 AM"
+      },
+      {
+        "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
+        "url": "https://pedroth.github.io/?p=post/NoNeedReact",
+        "source": "hn",
+        "time": "8/4/2026, 8:11:02 AM"
+      },
+      {
+        "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+        "url": "https://github.com/leonickson1/Swiftlet",
+        "source": "hn",
+        "time": "8/3/2026, 4:54:15 PM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "Analysis: Trump challenged by cold reality from top allies",
         "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 04 Aug 2026 00:02:40 GMT"
+        "time": "Tue, 04 Aug 2026 09:11:39 GMT"
       },
       {
         "title": "There's a reason child vaccination rates are falling - and it's not social media",
@@ -86,10 +86,10 @@
         "time": "Mon, 03 Aug 2026 23:10:05 GMT"
       },
       {
-        "title": "EU calls for stronger borders after Ceuta migrant crossings",
-        "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "BP profits highest in four years as Iran war pushes up oil price",
+        "url": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 03 Aug 2026 21:43:10 GMT"
+        "time": "Tue, 04 Aug 2026 09:04:46 GMT"
       },
       {
         "title": "Thunderstorms and flash flood risk on final day of UK heatwave",
