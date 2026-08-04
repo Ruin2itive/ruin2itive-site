@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-04T21:03:09.714Z"
+    "built_at": "2026-08-04T22:54:10.048Z"
   },
-  "items": [
-    {
-      "title": "The Founder's North Face",
-      "url": "https://arsenkk.substack.com/p/the-founders-north-face",
-      "date": "2026-08-04T21:01:53.000Z"
-    },
-    {
-      "title": "LFM2.5-2.6B: On-Device Agents",
-      "url": "https://www.liquid.ai/models",
-      "date": "2026-08-04T21:00:36.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
