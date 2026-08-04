@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-04T00:26:39.420Z"
+    "built_at": "2026-08-04T01:32:31.392Z"
   },
-  "items": [
-    {
-      "title": "Show HN: MCP Server for Biblical Corpus",
-      "url": "https://nirajagarwal.github.io/bible-mcp/",
-      "date": "2026-08-04T00:22:37.000Z"
-    },
-    {
-      "title": "SK Hynix and SanDisk Unveil First High Bandwidth Flash Standard Specifications",
-      "url": "https://news.skhynix.com/en/hbf-at-fms-2026/",
-      "date": "2026-08-04T00:21:15.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
