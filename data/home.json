@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-04T10:56:51.516Z",
-  "updated_local": "8/4/2026, 10:56:51 AM",
+  "updated_iso": "2026-08-04T11:46:01.656Z",
+  "updated_local": "8/4/2026, 11:46:01 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "BlackRock Tokenizes $311B of European Money Market Funds With JP Morgan&#39;s Kinexys",
+        "url": "https://decrypt.co/374894/blackrock-tokenizes-311b-of-european-money-market-funds-with-jp-morgans-kinexys",
+        "source": "crypto",
+        "time": "Tue, 04 Aug 2026 11:40:44 +0000"
+      },
       {
         "title": "Hardware Wallet Firms Warn of Phishing Surge as Coldcard Losses Near $130M",
         "url": "https://decrypt.co/374891/hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/374871/former-fbi-agent-charged-stealing-crypto-using-chatgpt-advice",
         "source": "crypto",
         "time": "Mon, 03 Aug 2026 21:17:06 +0000"
-      },
-      {
-        "title": "What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security",
-        "url": "https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security",
-        "source": "crypto",
-        "time": "Mon, 03 Aug 2026 20:39:33 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "8/3/2026, 9:13:53 PM"
       },
       {
-        "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
-        "url": "https://pedroth.github.io/?p=post/NoNeedReact",
-        "source": "hn",
-        "time": "8/4/2026, 8:11:02 AM"
-      },
-      {
         "title": "Harness Engineering for Self-Improvement",
         "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
         "source": "hn",
         "time": "8/4/2026, 6:17:54 AM"
+      },
+      {
+        "title": "Buckminster Fuller: everything I know",
+        "url": "https://www.bfi.org/about-fuller/everything-i-know/",
+        "source": "hn",
+        "time": "8/4/2026, 11:33:32 AM"
       }
     ],
     "world": [
@@ -71,13 +71,13 @@
         "title": "More than 150 migrants rescued after boat catches fire in Channel",
         "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 04 Aug 2026 10:52:01 GMT"
+        "time": "Tue, 04 Aug 2026 11:19:08 GMT"
       },
       {
-        "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
-        "url": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
+        "url": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 04 Aug 2026 01:08:13 GMT"
+        "time": "Tue, 04 Aug 2026 11:14:29 GMT"
       },
       {
         "title": "Analysis: Trump challenged by cold reality from top allies",
@@ -86,16 +86,16 @@
         "time": "Tue, 04 Aug 2026 09:11:39 GMT"
       },
       {
+        "title": "Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 04 Aug 2026 10:45:14 GMT"
+      },
+      {
         "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
         "url": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 04 Aug 2026 10:07:05 GMT"
-      },
-      {
-        "title": "Boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
-        "url": "https://www.bbc.co.uk/news/articles/c0m7xpr8zvvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 04 Aug 2026 10:23:55 GMT"
       }
     ],
     "projects": [
