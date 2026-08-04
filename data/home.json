@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-04T15:52:13.747Z",
-  "updated_local": "8/4/2026, 3:52:13 PM",
+  "updated_iso": "2026-08-04T16:37:36.851Z",
+  "updated_local": "8/4/2026, 4:37:36 PM",
   "sections": {
     "crypto": [
       {
@@ -48,30 +48,36 @@
         "time": "8/4/2026, 10:13:13 AM"
       },
       {
-        "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-        "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-        "source": "hn",
-        "time": "8/4/2026, 10:00:55 AM"
-      },
-      {
         "title": "Germany Records Historic 12B KWh Solar Feed-In in July 2026",
         "url": "https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/",
         "source": "hn",
         "time": "8/4/2026, 1:43:00 PM"
       },
       {
-        "title": "Agent skills that bring team coding standards to Claude Code and Codex",
-        "url": "https://github.com/tikalk/adlc-team-skills",
+        "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+        "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
         "source": "hn",
-        "time": "8/4/2026, 2:38:31 PM"
+        "time": "8/4/2026, 10:00:55 AM"
+      },
+      {
+        "title": "Show HN: Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI",
+        "url": "https://github.com/Chiaro-HQ/methodology",
+        "source": "hn",
+        "time": "8/4/2026, 4:27:03 PM"
       }
     ],
     "world": [
       {
-        "title": "More than 150 migrants rescued after boat catches fire in Channel",
+        "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+        "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 04 Aug 2026 16:33:39 GMT"
+      },
+      {
+        "title": "More than 170 migrants rescued after boat catches fire in Channel",
         "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 04 Aug 2026 14:37:42 GMT"
+        "time": "Tue, 04 Aug 2026 16:21:43 GMT"
       },
       {
         "title": "Afghan boxer arrested in Greece over discovery of Scottish woman's body in suitcase",
@@ -83,19 +89,13 @@
         "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
         "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 04 Aug 2026 15:33:03 GMT"
+        "time": "Tue, 04 Aug 2026 16:29:29 GMT"
       },
       {
         "title": "Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'",
         "url": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 04 Aug 2026 10:45:14 GMT"
-      },
-      {
-        "title": "Prison early release scheme comes 'at the expense of victims', families complain",
-        "url": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 04 Aug 2026 15:27:55 GMT"
       }
     ],
     "projects": [
