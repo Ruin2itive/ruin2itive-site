@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-05T19:46:24.586Z",
-  "updated_local": "8/5/2026, 7:46:24 PM",
+  "updated_iso": "2026-08-05T20:24:30.292Z",
+  "updated_local": "8/5/2026, 8:24:30 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit",
+        "url": "https://decrypt.co/374996/perplexity-amazon-ai-agent-lawsuit",
+        "source": "crypto",
+        "time": "Wed, 05 Aug 2026 20:16:03 +0000"
+      },
       {
         "title": "Visa Widens Stablecoin Payouts via Zerohash Rails",
         "url": "https://decrypt.co/374994/visa-stablecoin-payouts-zerohash",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/374975/bitcoin-price-test-zcash-holds-golden-cross",
         "source": "crypto",
         "time": "Wed, 05 Aug 2026 18:33:34 +0000"
-      },
-      {
-        "title": "Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch",
-        "url": "https://decrypt.co/374961/circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch",
-        "source": "crypto",
-        "time": "Wed, 05 Aug 2026 15:38:09 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Discovery Loop",
-        "url": "https://www.discoveryloop.com/",
-        "source": "hn",
-        "time": "8/5/2026, 4:19:44 PM"
-      },
       {
         "title": "Zed DeltaDB",
         "url": "https://zed.dev/deltadb",
@@ -48,10 +42,10 @@
         "time": "8/5/2026, 6:52:54 PM"
       },
       {
-        "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-        "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+        "title": "Discovery Loop",
+        "url": "https://www.discoveryloop.com/",
         "source": "hn",
-        "time": "8/5/2026, 4:05:31 PM"
+        "time": "8/5/2026, 4:19:44 PM"
       },
       {
         "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
@@ -60,10 +54,16 @@
         "time": "8/5/2026, 6:18:56 PM"
       },
       {
-        "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-        "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+        "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+        "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
         "source": "hn",
-        "time": "8/5/2026, 5:23:25 PM"
+        "time": "8/5/2026, 4:05:31 PM"
+      },
+      {
+        "title": "Muse Code and Muse Spark 1.2",
+        "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+        "source": "hn",
+        "time": "8/5/2026, 7:15:52 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
         "url": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 05 Aug 2026 19:01:34 GMT"
+        "time": "Wed, 05 Aug 2026 20:12:17 GMT"
       },
       {
         "title": "Woman arrested after four stabbed in central London",
