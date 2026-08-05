@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-05T22:12:38.776Z"
+    "built_at": "2026-08-05T23:52:00.025Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Humor Arena – Which frontier model is funniest?",
+      "url": "https://laugh.so/benchmark/",
+      "date": "2026-08-05T23:48:32.000Z"
+    },
+    {
+      "title": "Linux Processes: Threads and Concurrency",
+      "url": "https://labs.iximiuz.com/tutorials/linux-processes-threads-concurrency-3302b677",
+      "date": "2026-08-05T23:47:06.000Z"
+    }
+  ]
 }
