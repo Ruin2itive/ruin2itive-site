@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-05T03:21:47.881Z",
-  "updated_local": "8/5/2026, 3:21:47 AM",
+  "updated_iso": "2026-08-05T05:43:38.203Z",
+  "updated_local": "8/5/2026, 5:43:38 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "libexpat now funded by the City of Munich for up to 6 months",
-        "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+        "title": "Stateless MCP has recaptured my interest",
+        "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
         "source": "hn",
-        "time": "8/4/2026, 11:18:12 PM"
+        "time": "8/1/2026, 5:51:36 AM"
       },
       {
-        "title": "Eight Myths on Software Engineering and GenAI",
-        "url": "https://queue.acm.org/detail.cfm?id=3807963",
+        "title": "Some car companies are operating without regard for a declining customer base",
+        "url": "https://www.wardsauto.com/news/the-auto-industry-is-building-for-a-past-thats-never-coming-back/825594/",
         "source": "hn",
-        "time": "8/4/2026, 11:50:52 PM"
+        "time": "8/5/2026, 3:35:10 AM"
       },
       {
         "title": "Pi's Minimalism Is Its Advantage",
@@ -54,16 +54,16 @@
         "time": "8/4/2026, 10:22:12 PM"
       },
       {
-        "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-        "url": "https://mistral.ai/news/shieldstral/",
+        "title": "Eight Myths on Software Engineering and GenAI",
+        "url": "https://queue.acm.org/detail.cfm?id=3807963",
         "source": "hn",
-        "time": "8/4/2026, 4:36:05 PM"
+        "time": "8/4/2026, 11:50:52 PM"
       },
       {
-        "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-        "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+        "title": "The Golden Age of British Ice Cream",
+        "url": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
         "source": "hn",
-        "time": "8/4/2026, 11:31:46 PM"
+        "time": "8/4/2026, 6:25:16 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Wed, 05 Aug 2026 02:19:30 GMT"
       },
       {
+        "title": "Russian ballistic missile strike on Kyiv kills at least 14, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 05 Aug 2026 05:08:43 GMT"
+      },
+      {
+        "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
+        "url": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 05 Aug 2026 05:07:27 GMT"
+      },
+      {
         "title": "Temperatures to drop briefly ahead of next UK heatwave",
         "url": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 04 Aug 2026 23:14:49 GMT"
       },
       {
-        "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
-        "url": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 04 Aug 2026 21:55:17 GMT"
-      },
-      {
-        "title": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
+        "title": "How an avalanche killed a climbing legend - and a generation of record-setting guides",
         "url": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 04 Aug 2026 22:09:50 GMT"
-      },
-      {
-        "title": "Closing down streets so children can play",
-        "url": "https://www.bbc.co.uk/news/articles/c8jnmzekx0ro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 04 Aug 2026 23:43:00 GMT"
       }
     ],
     "projects": [
