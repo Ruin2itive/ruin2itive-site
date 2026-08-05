@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-05T13:47:10.789Z"
+    "built_at": "2026-08-05T15:55:29.863Z"
   },
-  "items": [
-    {
-      "title": "The Pulse: Bending Spoons' Acquisition Strategy",
-      "url": "https://blog.pragmaticengineer.com/the-pulse-bending-spoons-acquisition-strategy/",
-      "date": "2026-08-05T13:46:08.000Z"
-    },
-    {
-      "title": "ADSL's Copper Miracle [video]",
-      "url": "https://www.youtube.com/watch?v=phoeSk-qY8s",
-      "date": "2026-08-05T13:45:33.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
