@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-05T06:35:26.592Z",
-  "updated_local": "8/5/2026, 6:35:26 AM",
+  "updated_iso": "2026-08-05T08:31:25.946Z",
+  "updated_local": "8/5/2026, 8:31:25 AM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,10 @@
         "time": "8/1/2026, 5:51:36 AM"
       },
       {
-        "title": "Pi's Minimalism Is Its Advantage",
-        "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+        "title": "\"Gravity is worth asking about.\"",
+        "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
         "source": "hn",
-        "time": "8/4/2026, 10:22:12 PM"
-      },
-      {
-        "title": "Eight Myths on Software Engineering and GenAI",
-        "url": "https://queue.acm.org/detail.cfm?id=3807963",
-        "source": "hn",
-        "time": "8/4/2026, 11:50:52 PM"
+        "time": "7/30/2026, 3:57:33 AM"
       },
       {
         "title": "The Golden Age of British Ice Cream",
@@ -60,18 +54,24 @@
         "time": "8/4/2026, 6:25:16 PM"
       },
       {
-        "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-        "url": "https://mistral.ai/news/shieldstral/",
+        "title": "The Pneumatics of Hero of Alexandria",
+        "url": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
         "source": "hn",
-        "time": "8/4/2026, 4:36:05 PM"
+        "time": "7/31/2026, 3:22:35 PM"
+      },
+      {
+        "title": "Pi's Minimalism Is Its Advantage",
+        "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+        "source": "hn",
+        "time": "8/4/2026, 10:22:12 PM"
       }
     ],
     "world": [
       {
-        "title": "Burnham 'looking into' conducting Epstein inquiry, says victims minister",
-        "url": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Peer urges Tories to block candidate jailed for antisemitic abuse against her",
+        "url": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 05 Aug 2026 02:19:30 GMT"
+        "time": "Wed, 05 Aug 2026 08:20:20 GMT"
       },
       {
         "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
@@ -80,22 +80,22 @@
         "time": "Wed, 05 Aug 2026 05:07:27 GMT"
       },
       {
-        "title": "Russian ballistic missile strike on Kyiv kills at least 14, officials say",
+        "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
         "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 05 Aug 2026 05:08:43 GMT"
+        "time": "Wed, 05 Aug 2026 08:29:40 GMT"
       },
       {
-        "title": "Temperatures to drop briefly ahead of next UK heatwave",
+        "title": "Temperatures to drop briefly ahead of potential new UK heatwave",
         "url": "https://www.bbc.co.uk/weather/articles/czjlp07xz4vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 04 Aug 2026 23:14:49 GMT"
       },
       {
-        "title": "How an avalanche killed a climbing legend - and a generation of record-setting guides",
-        "url": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Burnham 'looking into' conducting Epstein inquiry, says victims minister",
+        "url": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 04 Aug 2026 22:09:50 GMT"
+        "time": "Wed, 05 Aug 2026 02:19:30 GMT"
       }
     ],
     "projects": [
