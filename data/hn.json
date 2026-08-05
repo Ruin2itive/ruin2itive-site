@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-05T17:22:51.984Z"
+    "built_at": "2026-08-05T19:17:25.716Z"
   },
-  "items": [
-    {
-      "title": "Linux as a library: a coding agent with no VM and no sandbox",
-      "url": "https://www.rapidnative.com/blogs/we-kept-the-shell-and-left-the-vm-anyway",
-      "date": "2026-08-05T17:21:49.000Z"
-    },
-    {
-      "title": "Cloudflare bought exmaple.com to prevent typos",
-      "url": "https://blog.cloudflare.com/typo-traps-analyzing-traffic-to-exmaple-com-or-is-it-example-com/",
-      "date": "2026-08-05T17:21:12.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
