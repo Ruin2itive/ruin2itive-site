@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-05T11:18:06.635Z",
-  "updated_local": "8/5/2026, 11:18:06 AM",
+  "updated_iso": "2026-08-05T12:04:25.674Z",
+  "updated_local": "8/5/2026, 12:04:25 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked",
+        "url": "https://decrypt.co/374944/ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked",
+        "source": "crypto",
+        "time": "Wed, 05 Aug 2026 11:29:23 +0000"
+      },
       {
         "title": "Ex-LAPD Officer Gets Life Plus 15 Years Over $350K Bitcoin Robbery",
         "url": "https://decrypt.co/374941/ex-lapd-officer-gets-life-plus-15-years-over-350k-bitcoin-robbery",
@@ -26,20 +32,20 @@
         "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
         "source": "crypto",
         "time": "Tue, 04 Aug 2026 21:46:03 +0000"
-      },
-      {
-        "title": "Ledger Says Coldcard Exploit Shows Bitcoin Wallet Security Must Adapt to AI",
-        "url": "https://decrypt.co/374914/ledger-coldcard-exploit-bitcoin-wallet-security-ai",
-        "source": "crypto",
-        "time": "Tue, 04 Aug 2026 21:16:03 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Helsinki Hacker News Meetup",
-        "url": "https://calpaterson.com/helsinki-hn.html",
+        "title": "Position: LLMs Can't Jump",
+        "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
         "source": "hn",
-        "time": "8/5/2026, 9:15:33 AM"
+        "time": "8/5/2026, 11:01:37 AM"
+      },
+      {
+        "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+        "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+        "source": "hn",
+        "time": "8/5/2026, 11:03:13 AM"
       },
       {
         "title": "Stateless MCP has recaptured my interest",
@@ -48,22 +54,16 @@
         "time": "8/1/2026, 5:51:36 AM"
       },
       {
-        "title": "No Data Centers in My Backyard",
-        "url": "https://jasmi.news/p/no-data-centers-in-my-backyard",
+        "title": "Helsinki Hacker News Meetup",
+        "url": "https://calpaterson.com/helsinki-hn.html",
         "source": "hn",
-        "time": "8/5/2026, 10:38:57 AM"
+        "time": "8/5/2026, 9:15:33 AM"
       },
       {
         "title": "“Gravity is worth asking about”",
         "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
         "source": "hn",
         "time": "7/30/2026, 3:57:33 AM"
-      },
-      {
-        "title": "Pi's Minimalism Is Its Advantage",
-        "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-        "source": "hn",
-        "time": "8/4/2026, 10:22:12 PM"
       }
     ],
     "world": [
@@ -80,16 +80,16 @@
         "time": "Wed, 05 Aug 2026 11:07:53 GMT"
       },
       {
-        "title": "Dewormer and scabies drugs being sold as cancer treatments, BBC investigation finds",
-        "url": "https://www.bbc.co.uk/news/articles/c0m7wvpwjzeo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+        "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 05 Aug 2026 05:07:27 GMT"
+        "time": "Wed, 05 Aug 2026 09:24:18 GMT"
       },
       {
         "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
         "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 05 Aug 2026 10:49:41 GMT"
+        "time": "Wed, 05 Aug 2026 11:19:37 GMT"
       },
       {
         "title": "Couple woke to find shirtless intruder in Travelodge room",
