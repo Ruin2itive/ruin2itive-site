@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-08-06T12:07:28.854Z",
-  "updated_local": "8/6/2026, 12:07:28 PM",
+  "updated_iso": "2026-08-06T14:01:44.173Z",
+  "updated_local": "8/6/2026, 2:01:44 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+        "url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+        "source": "crypto",
+        "time": "Thu, 06 Aug 2026 13:34:07 +0000"
+      },
+      {
+        "title": "Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout",
+        "url": "https://decrypt.co/375034/scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout",
+        "source": "crypto",
+        "time": "Thu, 06 Aug 2026 12:46:19 +0000"
+      },
+      {
+        "title": "Morning Minute: Uniswap Enters the Launchpad Wars on Robinhood Chain",
+        "url": "https://decrypt.co/375031/morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain",
+        "source": "crypto",
+        "time": "Thu, 06 Aug 2026 12:28:46 +0000"
+      },
       {
         "title": "Crypto Wrench Attacks on Pace for Record Year as $30M Stolen in 2026: Chainalysis",
         "url": "https://decrypt.co/375014/crypto-wrench-attacks-30m-stolen-2026-chainalysis",
@@ -14,27 +32,21 @@
         "url": "https://decrypt.co/375029/bitcoin-ai-security-audit-files-4962-findings-across-390-projects",
         "source": "crypto",
         "time": "Thu, 06 Aug 2026 09:43:34 +0000"
-      },
-      {
-        "title": "Meta Debuts AI Coding Agent Muse: Here’s How It Compares to Claude Code and Codex",
-        "url": "https://decrypt.co/375001/muse-code-meta-ai-coding-agent-claude-codex",
-        "source": "crypto",
-        "time": "Wed, 05 Aug 2026 21:24:06 +0000"
-      },
-      {
-        "title": "Cloudflare OS: Here’s What’s Inside the Open-Source AI Agent Platform",
-        "url": "https://decrypt.co/374997/cloudflare-os-inside-open-source-ai-agent-platform",
-        "source": "crypto",
-        "time": "Wed, 05 Aug 2026 20:46:03 +0000"
-      },
-      {
-        "title": "Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit",
-        "url": "https://decrypt.co/374996/perplexity-amazon-ai-agent-lawsuit",
-        "source": "crypto",
-        "time": "Wed, 05 Aug 2026 20:16:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Mario Meets Pareto",
+        "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+        "source": "hn",
+        "time": "8/6/2026, 11:24:53 AM"
+      },
+      {
+        "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+        "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+        "source": "hn",
+        "time": "8/6/2026, 11:58:07 AM"
+      },
       {
         "title": "How to Make a Nintendo 64 Game in 2026",
         "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
@@ -52,32 +64,14 @@
         "url": "https://en.wikipedia.org/wiki/Pareto_front",
         "source": "hn",
         "time": "7/29/2026, 12:12:29 PM"
-      },
-      {
-        "title": "Discovery Loop",
-        "url": "https://www.discoveryloop.com/",
-        "source": "hn",
-        "time": "8/5/2026, 4:19:44 PM"
-      },
-      {
-        "title": "Let's all meet up in the Y2K",
-        "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
-        "source": "hn",
-        "time": "8/6/2026, 6:43:38 AM"
       }
     ],
     "world": [
       {
-        "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
-        "url": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Calls for inquiry into Army training college for teenagers after reports of rape and abuse",
+        "url": "https://www.bbc.co.uk/news/articles/cm2g8pe13x5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 06 Aug 2026 05:00:09 GMT"
-      },
-      {
-        "title": "Cambridge professor at centre of plagiarism row resigns",
-        "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 06 Aug 2026 06:28:03 GMT"
+        "time": "Thu, 06 Aug 2026 12:51:39 GMT"
       },
       {
         "title": "Majority of England's rivers and lakes fail new environmental review",
@@ -86,16 +80,22 @@
         "time": "Thu, 06 Aug 2026 10:00:06 GMT"
       },
       {
-        "title": "Meredith Kercher's sister criticises Amanda Knox's Edinburgh comedy show",
-        "url": "https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Cambridge professor at centre of plagiarism row resigns",
+        "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 06 Aug 2026 10:19:39 GMT"
+        "time": "Thu, 06 Aug 2026 06:28:03 GMT"
+      },
+      {
+        "title": "Ukraine hits two oil refineries deep in Russian territory",
+        "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 06 Aug 2026 12:18:48 GMT"
       },
       {
         "title": "Farmer jailed for lodger's 'body in barrel' murder",
         "url": "https://www.bbc.co.uk/news/articles/c8jnwennnkdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 06 Aug 2026 11:29:53 GMT"
+        "time": "Thu, 06 Aug 2026 12:30:45 GMT"
       }
     ],
     "projects": [
