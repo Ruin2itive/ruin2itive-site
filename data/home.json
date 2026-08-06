@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-06T03:24:48.884Z",
-  "updated_local": "8/6/2026, 3:24:48 AM",
+  "updated_iso": "2026-08-06T05:47:20.587Z",
+  "updated_local": "8/6/2026, 5:47:20 AM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,16 @@
         "time": "8/6/2026, 2:15:14 AM"
       },
       {
-        "title": "LLMs won't break symmetric crypto",
-        "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-        "source": "hn",
-        "time": "8/6/2026, 1:39:06 AM"
-      },
-      {
         "title": "Discovery Loop",
         "url": "https://www.discoveryloop.com/",
         "source": "hn",
         "time": "8/5/2026, 4:19:44 PM"
+      },
+      {
+        "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+        "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+        "source": "hn",
+        "time": "8/5/2026, 4:05:31 PM"
       },
       {
         "title": "Zed DeltaDB",
@@ -60,13 +60,19 @@
         "time": "8/5/2026, 6:52:54 PM"
       },
       {
-        "title": "The title cards in Blade Runner are amazing",
-        "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+        "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
+        "url": "https://quantego.org/",
         "source": "hn",
-        "time": "8/5/2026, 9:29:23 PM"
+        "time": "7/30/2026, 4:35:08 PM"
       }
     ],
     "world": [
+      {
+        "title": "Young women tell BBC of rape, assault and harassment at Army training college for teenagers",
+        "url": "https://www.bbc.co.uk/news/articles/c3w07p7wqv1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 06 Aug 2026 05:00:09 GMT"
+      },
       {
         "title": "Infantino sorry for errors but stays Fifa president",
         "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +86,16 @@
         "time": "Thu, 06 Aug 2026 00:36:23 GMT"
       },
       {
-        "title": "Jailed funeral boss angers families with 'apology'",
-        "url": "https://www.bbc.co.uk/news/articles/c79gxqynwd3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
+        "url": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 05 Aug 2026 23:02:10 GMT"
+        "time": "Thu, 06 Aug 2026 05:00:13 GMT"
       },
       {
         "title": "Half of vaccines are binned - 'fridge-free' versions could change that",
         "url": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 05 Aug 2026 23:14:22 GMT"
-      },
-      {
-        "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
-        "url": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 05 Aug 2026 20:12:17 GMT"
       }
     ],
     "projects": [
