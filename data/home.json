@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-05T23:57:56.205Z",
-  "updated_local": "8/5/2026, 11:57:56 PM",
+  "updated_iso": "2026-08-06T02:55:49.969Z",
+  "updated_local": "8/6/2026, 2:55:49 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "LLMs won't break symmetric crypto",
+        "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+        "source": "hn",
+        "time": "8/6/2026, 1:39:06 AM"
+      },
+      {
         "title": "Discovery Loop",
         "url": "https://www.discoveryloop.com/",
         "source": "hn",
         "time": "8/5/2026, 4:19:44 PM"
+      },
+      {
+        "title": "Nashville uses eminent domain to block data center near zoo",
+        "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+        "source": "hn",
+        "time": "8/6/2026, 2:15:14 AM"
       },
       {
         "title": "Zed DeltaDB",
@@ -52,18 +64,6 @@
         "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
         "source": "hn",
         "time": "8/5/2026, 9:29:23 PM"
-      },
-      {
-        "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-        "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-        "source": "hn",
-        "time": "8/5/2026, 4:05:31 PM"
-      },
-      {
-        "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
-        "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-        "source": "hn",
-        "time": "8/5/2026, 9:24:45 PM"
       }
     ],
     "world": [
@@ -74,16 +74,10 @@
         "time": "Wed, 05 Aug 2026 21:37:08 GMT"
       },
       {
-        "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
-        "url": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 05 Aug 2026 20:12:17 GMT"
-      },
-      {
         "title": "University of Cambridge professor at centre of plagiarism row resigns",
         "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 05 Aug 2026 21:18:04 GMT"
+        "time": "Thu, 06 Aug 2026 00:36:23 GMT"
       },
       {
         "title": "Jailed funeral boss angers families with 'apology'",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 05 Aug 2026 23:14:22 GMT"
+      },
+      {
+        "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
+        "url": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 05 Aug 2026 20:12:17 GMT"
       }
     ],
     "projects": [
