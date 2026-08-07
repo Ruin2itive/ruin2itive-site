@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-07T09:08:21.393Z",
-  "updated_local": "8/7/2026, 9:08:21 AM",
+  "updated_iso": "2026-08-07T10:01:26.093Z",
+  "updated_local": "8/7/2026, 10:01:26 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Senate Punts Clarity Act Vote to September as Democrats Hold Out",
+        "url": "https://decrypt.co/375082/senate-punts-clarity-act-vote-to-september-as-democrats-hold-out",
+        "source": "crypto",
+        "time": "Fri, 07 Aug 2026 09:26:02 +0000"
+      },
       {
         "title": "SEC Bought a Billion Airline Records to Track Travelers—Likely Without a Warrant",
         "url": "https://decrypt.co/375078/sec-billion-airline-records-track-travelers",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375066/senators-push-cftc-ban-wildfire-bets-prediction-markets",
         "source": "crypto",
         "time": "Thu, 06 Aug 2026 19:51:09 +0000"
-      },
-      {
-        "title": "Putin Signs Russia&#39;s First Crypto Law: Trading Is Legal, Payments Stay Banned",
-        "url": "https://decrypt.co/375062/putin-signs-russia-first-crypto-trading-payments",
-        "source": "crypto",
-        "time": "Thu, 06 Aug 2026 18:38:21 +0000"
       }
     ],
     "hacker": [
@@ -54,19 +54,25 @@
         "time": "8/6/2026, 9:16:52 PM"
       },
       {
+        "title": "Parsers don't have to be complicated",
+        "url": "https://bkaradzic.github.io/posts/scanner/",
+        "source": "hn",
+        "time": "7/29/2026, 11:15:50 AM"
+      },
+      {
         "title": "Taste Is All That's Left",
         "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
         "source": "hn",
         "time": "8/6/2026, 5:01:33 PM"
-      },
-      {
-        "title": "Atomic Clocks",
-        "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
-        "source": "hn",
-        "time": "7/31/2026, 9:58:03 PM"
       }
     ],
     "world": [
+      {
+        "title": "Thai pupil describes harrowing moment teacher was shot in front of her",
+        "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 07 Aug 2026 09:21:52 GMT"
+      },
       {
         "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
         "url": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +80,22 @@
         "time": "Fri, 07 Aug 2026 08:35:00 GMT"
       },
       {
+        "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
+        "url": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 07 Aug 2026 09:30:30 GMT"
+      },
+      {
         "title": "Arrests in Norfolk town as disorder continues for third night",
         "url": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 07 Aug 2026 08:27:52 GMT"
-      },
-      {
-        "title": "Meta fined $567m in largest child safety ruling against social media giant",
-        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 07 Aug 2026 08:06:40 GMT"
+        "time": "Fri, 07 Aug 2026 09:44:48 GMT"
       },
       {
         "title": "How a diary entry solved the murder of a missing man",
         "url": "https://www.bbc.co.uk/news/articles/c62vzv2xyq9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 06 Aug 2026 23:13:11 GMT"
-      },
-      {
-        "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-        "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 07 Aug 2026 00:34:14 GMT"
       }
     ],
     "projects": [
