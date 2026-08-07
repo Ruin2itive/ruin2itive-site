@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-07T17:41:21.334Z"
+    "built_at": "2026-08-07T18:42:13.487Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "OpenAI slows release of Astra model, citing cyber capabilities",
+      "url": "https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks",
+      "date": "2026-08-07T18:37:24.000Z"
+    },
+    {
+      "title": "AI for Recording Live Chess",
+      "url": "https://fenify.ai",
+      "date": "2026-08-07T18:34:26.000Z"
+    }
+  ]
 }
