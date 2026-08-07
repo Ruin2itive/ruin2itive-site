@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-07T22:26:20.367Z"
+    "built_at": "2026-08-07T23:25:57.096Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Am I the problem? Interviewing another team to find out",
+      "url": "https://www.macchaffee.com/blog/2026/am-i-the-problem/",
+      "date": "2026-08-07T23:19:30.000Z"
+    },
+    {
+      "title": "A quick look at zero-knowledge proofs",
+      "url": "https://bernsteinbear.com/blog/zkp/",
+      "date": "2026-08-07T23:18:26.000Z"
+    }
+  ]
 }
