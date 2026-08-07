@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-08-07T15:53:19.458Z",
-  "updated_local": "8/7/2026, 3:53:19 PM",
+  "updated_iso": "2026-08-07T16:51:32.003Z",
+  "updated_local": "8/7/2026, 4:51:32 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
+        "url": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas",
+        "source": "crypto",
+        "time": "Fri, 07 Aug 2026 16:36:59 +0000"
+      },
+      {
+        "title": "Bitcoin Still in Death Cross as Jobs Miss Cuts Rate-Hike Odds",
+        "url": "https://decrypt.co/375118/bitcoin-price-death-cross-jobs-miss-rate-hike-odds",
+        "source": "crypto",
+        "time": "Fri, 07 Aug 2026 16:07:12 +0000"
+      },
+      {
+        "title": "OpenAI&#39;s First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
+        "url": "https://decrypt.co/375117/openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report",
+        "source": "crypto",
+        "time": "Fri, 07 Aug 2026 16:03:06 +0000"
+      },
       {
         "title": "Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC",
         "url": "https://decrypt.co/375114/bitcoin-wallet-dormant-since-2011-moves-millions-btc",
@@ -14,44 +32,14 @@
         "url": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares",
         "source": "crypto",
         "time": "Fri, 07 Aug 2026 13:26:19 +0000"
-      },
-      {
-        "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
-        "url": "https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
-        "source": "crypto",
-        "time": "Fri, 07 Aug 2026 12:37:14 +0000"
-      },
-      {
-        "title": "Morning Minute: MetaMask Hands AI Agents a Wallet",
-        "url": "https://decrypt.co/375093/morning-minute-metamask-hands-ai-agents-a-wallet",
-        "source": "crypto",
-        "time": "Fri, 07 Aug 2026 12:00:35 +0000"
-      },
-      {
-        "title": "MyTrade Founder Fined $10K Over Bots That Wash Traded 60 Cryptocurrencies",
-        "url": "https://decrypt.co/375085/mytrade-founder-fined-10k-over-bots-that-wash-traded-60-cryptocurrencies",
-        "source": "crypto",
-        "time": "Fri, 07 Aug 2026 10:37:41 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "99% of My Website Traffic Is Bots",
-        "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+        "title": "An all-sky map of half a million supermassive black holes",
+        "url": "https://www.sdss.org/black-hole-mapper-release-20/",
         "source": "hn",
-        "time": "8/7/2026, 2:51:57 PM"
-      },
-      {
-        "title": "Show HN: Wyzer Programming Language",
-        "url": "https://github.com/Wyzer-Lang/wyzer",
-        "source": "hn",
-        "time": "8/7/2026, 12:28:55 PM"
-      },
-      {
-        "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
-        "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
-        "source": "hn",
-        "time": "8/7/2026, 2:55:08 PM"
+        "time": "8/7/2026, 3:24:53 PM"
       },
       {
         "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
@@ -64,20 +52,32 @@
         "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
         "source": "hn",
         "time": "8/6/2026, 8:23:11 PM"
+      },
+      {
+        "title": "Show HN: Wyzer Programming Language",
+        "url": "https://github.com/Wyzer-Lang/wyzer",
+        "source": "hn",
+        "time": "8/7/2026, 12:28:55 PM"
+      },
+      {
+        "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+        "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+        "source": "hn",
+        "time": "8/7/2026, 11:00:35 AM"
       }
     ],
     "world": [
-      {
-        "title": "Serial sex offender guilty of murdering two women and raping third",
-        "url": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 07 Aug 2026 15:42:52 GMT"
-      },
       {
         "title": "How police let a registered sex offender murder and attack women",
         "url": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 07 Aug 2026 14:03:39 GMT"
+      },
+      {
+        "title": "Serial sex offender guilty of murdering two women and raping third",
+        "url": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 07 Aug 2026 16:46:50 GMT"
       },
       {
         "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
@@ -86,16 +86,16 @@
         "time": "Fri, 07 Aug 2026 14:48:00 GMT"
       },
       {
+        "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+        "url": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 07 Aug 2026 16:31:54 GMT"
+      },
+      {
         "title": "Streeting 'sickened' by sex abuse claims at Army college",
         "url": "https://www.bbc.co.uk/news/articles/c8en51le9e1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 07 Aug 2026 14:34:29 GMT"
-      },
-      {
-        "title": "Seven killed after Thai student opens fire at home and school",
-        "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 07 Aug 2026 15:51:16 GMT"
       }
     ],
     "projects": [
