@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-07T15:00:58.088Z",
-  "updated_local": "8/7/2026, 3:00:58 PM",
+  "updated_iso": "2026-08-07T15:53:19.458Z",
+  "updated_local": "8/7/2026, 3:53:19 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Wallet Dormant Since 2011 Moves Millions in BTC",
+        "url": "https://decrypt.co/375114/bitcoin-wallet-dormant-since-2011-moves-millions-btc",
+        "source": "crypto",
+        "time": "Fri, 07 Aug 2026 15:27:35 +0000"
+      },
       {
         "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
         "url": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/375085/mytrade-founder-fined-10k-over-bots-that-wash-traded-60-cryptocurrencies",
         "source": "crypto",
         "time": "Fri, 07 Aug 2026 10:37:41 +0000"
-      },
-      {
-        "title": "Senate Punts Clarity Act Vote to September as Democrats Hold Out",
-        "url": "https://decrypt.co/375082/senate-punts-clarity-act-vote-to-september-as-democrats-hold-out",
-        "source": "crypto",
-        "time": "Fri, 07 Aug 2026 09:26:02 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-        "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+        "title": "99% of My Website Traffic Is Bots",
+        "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
         "source": "hn",
-        "time": "8/7/2026, 10:28:55 AM"
+        "time": "8/7/2026, 2:51:57 PM"
       },
       {
         "title": "Show HN: Wyzer Programming Language",
@@ -48,10 +48,10 @@
         "time": "8/7/2026, 12:28:55 PM"
       },
       {
-        "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
-        "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+        "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+        "url": "https://www.youtube.com/watch?v=UufMqwyO7pY",
         "source": "hn",
-        "time": "8/7/2026, 12:42:58 PM"
+        "time": "8/7/2026, 2:55:08 PM"
       },
       {
         "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
@@ -60,10 +60,10 @@
         "time": "8/7/2026, 12:06:28 AM"
       },
       {
-        "title": "99% of My Website Traffic Is Bots",
-        "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+        "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+        "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
         "source": "hn",
-        "time": "8/7/2026, 2:51:57 PM"
+        "time": "8/6/2026, 8:23:11 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Serial sex offender guilty of murdering two women and raping third",
         "url": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 07 Aug 2026 14:43:09 GMT"
+        "time": "Fri, 07 Aug 2026 15:42:52 GMT"
       },
       {
         "title": "How police let a registered sex offender murder and attack women",
@@ -86,16 +86,16 @@
         "time": "Fri, 07 Aug 2026 14:48:00 GMT"
       },
       {
-        "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
-        "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 07 Aug 2026 14:44:35 GMT"
-      },
-      {
         "title": "Streeting 'sickened' by sex abuse claims at Army college",
         "url": "https://www.bbc.co.uk/news/articles/c8en51le9e1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 07 Aug 2026 14:34:29 GMT"
+      },
+      {
+        "title": "Seven killed after Thai student opens fire at home and school",
+        "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 07 Aug 2026 15:51:16 GMT"
       }
     ],
     "projects": [
