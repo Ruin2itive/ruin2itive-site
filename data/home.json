@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-07T17:46:44.137Z",
-  "updated_local": "8/7/2026, 5:46:44 PM",
+  "updated_iso": "2026-08-07T17:56:38.467Z",
+  "updated_local": "8/7/2026, 5:56:38 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "Responding to the next frontier of critical cyber capabilities",
-        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-        "source": "hn",
-        "time": "8/7/2026, 4:39:36 PM"
-      },
-      {
         "title": "An all-sky map of half a million supermassive black holes",
         "url": "https://www.sdss.org/black-hole-mapper-release-20/",
         "source": "hn",
         "time": "8/7/2026, 3:24:53 PM"
+      },
+      {
+        "title": "Oracle bans AI-generated code from OpenJDK",
+        "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+        "source": "hn",
+        "time": "8/7/2026, 5:36:30 PM"
+      },
+      {
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+        "source": "hn",
+        "time": "8/7/2026, 4:39:36 PM"
       },
       {
         "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
@@ -58,12 +64,6 @@
         "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
         "source": "hn",
         "time": "8/7/2026, 11:00:35 AM"
-      },
-      {
-        "title": "Show HN: Wyzer Programming Language",
-        "url": "https://github.com/Wyzer-Lang/wyzer",
-        "source": "hn",
-        "time": "8/7/2026, 12:28:55 PM"
       }
     ],
     "world": [
