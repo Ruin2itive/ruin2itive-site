@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-07T16:59:27.574Z",
-  "updated_local": "8/7/2026, 4:59:27 PM",
+  "updated_iso": "2026-08-07T17:46:44.137Z",
+  "updated_local": "8/7/2026, 5:46:44 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
+        "url": "https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
+        "source": "crypto",
+        "time": "Fri, 07 Aug 2026 17:36:41 +0000"
+      },
       {
         "title": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
         "url": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/375114/bitcoin-wallet-dormant-since-2011-moves-millions-btc",
         "source": "crypto",
         "time": "Fri, 07 Aug 2026 15:27:35 +0000"
-      },
-      {
-        "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
-        "url": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares",
-        "source": "crypto",
-        "time": "Fri, 07 Aug 2026 13:26:19 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+        "source": "hn",
+        "time": "8/7/2026, 4:39:36 PM"
+      },
       {
         "title": "An all-sky map of half a million supermassive black holes",
         "url": "https://www.sdss.org/black-hole-mapper-release-20/",
@@ -48,16 +54,10 @@
         "time": "8/7/2026, 12:06:28 AM"
       },
       {
-        "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-        "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+        "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+        "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
         "source": "hn",
-        "time": "8/6/2026, 8:23:11 PM"
-      },
-      {
-        "title": "Responding to the next frontier of critical cyber capabilities",
-        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-        "source": "hn",
-        "time": "8/7/2026, 4:39:36 PM"
+        "time": "8/7/2026, 11:00:35 AM"
       },
       {
         "title": "Show HN: Wyzer Programming Language",
@@ -68,10 +68,10 @@
     ],
     "world": [
       {
-        "title": "How police let a registered sex offender murder and attack women",
+        "title": "How police left a registered sex offender free to murder and attack women",
         "url": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 07 Aug 2026 14:03:39 GMT"
+        "time": "Fri, 07 Aug 2026 17:12:27 GMT"
       },
       {
         "title": "Serial sex offender guilty of murdering two women and raping third",
@@ -83,13 +83,13 @@
         "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
         "url": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 07 Aug 2026 14:48:00 GMT"
+        "time": "Fri, 07 Aug 2026 17:09:32 GMT"
       },
       {
         "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
         "url": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 07 Aug 2026 16:31:54 GMT"
+        "time": "Fri, 07 Aug 2026 17:41:30 GMT"
       },
       {
         "title": "Streeting 'sickened' by sex abuse claims at Army college",
