@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-07T13:20:02.336Z",
-  "updated_local": "8/7/2026, 1:20:02 PM",
+  "updated_iso": "2026-08-07T14:13:12.388Z",
+  "updated_local": "8/7/2026, 2:13:12 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
+        "url": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares",
+        "source": "crypto",
+        "time": "Fri, 07 Aug 2026 13:26:19 +0000"
+      },
       {
         "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
         "url": "https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375082/senate-punts-clarity-act-vote-to-september-as-democrats-hold-out",
         "source": "crypto",
         "time": "Fri, 07 Aug 2026 09:26:02 +0000"
-      },
-      {
-        "title": "SEC Bought a Billion Airline Records to Track Travelers—Likely Without a Warrant",
-        "url": "https://decrypt.co/375078/sec-billion-airline-records-track-travelers",
-        "source": "crypto",
-        "time": "Thu, 06 Aug 2026 21:36:03 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
         "source": "hn",
         "time": "8/7/2026, 10:28:55 AM"
+      },
+      {
+        "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+        "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+        "source": "hn",
+        "time": "8/7/2026, 12:42:58 PM"
       },
       {
         "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
@@ -54,24 +60,30 @@
         "time": "8/6/2026, 8:23:11 PM"
       },
       {
-        "title": "Taste Is All That's Left",
-        "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+        "title": "AI psychosis is the new leadership blind spot",
+        "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
         "source": "hn",
-        "time": "8/6/2026, 5:01:33 PM"
-      },
-      {
-        "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-        "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-        "source": "hn",
-        "time": "8/5/2026, 3:33:23 PM"
+        "time": "8/7/2026, 1:27:30 PM"
       }
     ],
     "world": [
       {
-        "title": "Academics call for independent inquiry into Jason Arday's Cambridge appointment",
+        "title": "Serial sex offender guilty of double murder and rape",
+        "url": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 07 Aug 2026 14:07:17 GMT"
+      },
+      {
+        "title": "How police let a registered sex offender murder and attack women",
+        "url": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 07 Aug 2026 14:03:39 GMT"
+      },
+      {
+        "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
         "url": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 07 Aug 2026 12:45:26 GMT"
+        "time": "Fri, 07 Aug 2026 14:00:58 GMT"
       },
       {
         "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
@@ -84,18 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 07 Aug 2026 09:30:30 GMT"
-      },
-      {
-        "title": "How a 90-second power outage sparked  chaos for rail commuters",
-        "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 07 Aug 2026 12:30:07 GMT"
-      },
-      {
-        "title": "Data breach investigation into Minnie Merriman's medical records",
-        "url": "https://www.bbc.co.uk/news/articles/cvg8n70jp2jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 07 Aug 2026 09:59:23 GMT"
       }
     ],
     "projects": [
