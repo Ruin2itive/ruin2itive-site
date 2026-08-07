@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-07T11:38:58.443Z"
+    "built_at": "2026-08-07T12:43:17.402Z"
   },
-  "items": [
-    {
-      "title": "Basilisk has been removed from the Python typing conformance leaderboard",
-      "url": "https://github.com/python/typing/pull/2330",
-      "date": "2026-08-07T11:36:01.000Z"
-    },
-    {
-      "title": "Tryall –- describe the task, and it picks the AI model for you",
-      "url": "https://www.tryall.ai",
-      "date": "2026-08-07T11:34:58.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
