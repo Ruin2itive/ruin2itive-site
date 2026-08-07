@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-07T19:45:08.169Z"
+    "built_at": "2026-08-07T20:31:39.569Z"
   },
-  "items": [
-    {
-      "title": "A Quick(ish) Chinchilla Check",
-      "url": "https://www.gilesthomas.com/2026/08/chinchilla-check",
-      "date": "2026-08-07T19:38:55.000Z"
-    },
-    {
-      "title": "Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support",
-      "url": "https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support",
-      "date": "2026-08-07T19:38:05.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
