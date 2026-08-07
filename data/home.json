@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-08-07T19:50:40.616Z",
-  "updated_local": "8/7/2026, 7:50:40 PM",
+  "updated_iso": "2026-08-07T20:37:28.814Z",
+  "updated_local": "8/7/2026, 8:37:28 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
+        "url": "https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran",
+        "source": "crypto",
+        "time": "Fri, 07 Aug 2026 20:28:33 +0000"
+      },
+      {
+        "title": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
+        "url": "https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack",
+        "source": "crypto",
+        "time": "Fri, 07 Aug 2026 20:00:34 +0000"
+      },
       {
         "title": "Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet",
         "url": "https://decrypt.co/375149/flock-cameras-uber-drivers-nationwide-plate-scanning-fleet",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas",
         "source": "crypto",
         "time": "Fri, 07 Aug 2026 16:36:59 +0000"
-      },
-      {
-        "title": "Bitcoin Still in Death Cross as Jobs Miss Cuts Rate-Hike Odds",
-        "url": "https://decrypt.co/375118/bitcoin-price-death-cross-jobs-miss-rate-hike-odds",
-        "source": "crypto",
-        "time": "Fri, 07 Aug 2026 16:07:12 +0000"
-      },
-      {
-        "title": "OpenAI&#39;s First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
-        "url": "https://decrypt.co/375117/openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report",
-        "source": "crypto",
-        "time": "Fri, 07 Aug 2026 16:03:06 +0000"
       }
     ],
     "hacker": [
@@ -48,22 +48,22 @@
         "time": "8/7/2026, 6:01:30 PM"
       },
       {
-        "title": "Oracle bans AI-generated code from OpenJDK",
-        "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+        "title": "Databricks drove down AI coding spend 70%",
+        "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
         "source": "hn",
-        "time": "8/7/2026, 5:36:30 PM"
-      },
-      {
-        "title": "Responding to the next frontier of critical cyber capabilities",
-        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-        "source": "hn",
-        "time": "8/7/2026, 4:39:36 PM"
+        "time": "8/7/2026, 6:25:17 PM"
       },
       {
         "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
         "url": "https://ancientlibrary.net/",
         "source": "hn",
         "time": "8/7/2026, 6:51:14 PM"
+      },
+      {
+        "title": "Oracle bans AI-generated code from OpenJDK",
+        "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+        "source": "hn",
+        "time": "8/7/2026, 5:36:30 PM"
       }
     ],
     "world": [
@@ -77,7 +77,13 @@
         "title": "Serial sex offender guilty of murdering two women and raping third",
         "url": "https://www.bbc.co.uk/news/articles/ceqe1nzqgg4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 07 Aug 2026 19:16:07 GMT"
+        "time": "Fri, 07 Aug 2026 19:52:52 GMT"
+      },
+      {
+        "title": "Counter-terror police reopen attempted burglary probe as part of Widdecombe inquiry",
+        "url": "https://www.bbc.co.uk/news/articles/c62qrvd9303o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 07 Aug 2026 20:33:32 GMT"
       },
       {
         "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 07 Aug 2026 17:41:30 GMT"
-      },
-      {
-        "title": "Streeting 'sickened' by sex abuse claims at Army college",
-        "url": "https://www.bbc.co.uk/news/articles/c8en51le9e1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 07 Aug 2026 16:53:25 GMT"
       }
     ],
     "projects": [
