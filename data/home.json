@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-08T13:03:53.176Z",
-  "updated_local": "8/8/2026, 1:03:53 PM",
+  "updated_iso": "2026-08-08T13:42:34.396Z",
+  "updated_local": "8/8/2026, 1:42:34 PM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-        "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-        "source": "hn",
-        "time": "8/8/2026, 12:16:03 PM"
-      },
-      {
         "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
         "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
         "source": "hn",
@@ -64,6 +58,12 @@
         "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
         "source": "hn",
         "time": "8/7/2026, 5:56:20 PM"
+      },
+      {
+        "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+        "url": "https://genesisopenmodels.anl.gov/",
+        "source": "hn",
+        "time": "8/7/2026, 10:24:27 PM"
       }
     ],
     "world": [
@@ -74,7 +74,7 @@
         "time": "Sat, 08 Aug 2026 06:16:44 GMT"
       },
       {
-        "title": "Victims urged to come forward as police accused of 'failures' over murderer and rapist",
+        "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
         "url": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 08 Aug 2026 11:55:30 GMT"
@@ -92,10 +92,10 @@
         "time": "Fri, 07 Aug 2026 22:50:58 GMT"
       },
       {
-        "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-        "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+        "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 07 Aug 2026 22:07:00 GMT"
+        "time": "Sat, 08 Aug 2026 13:23:16 GMT"
       }
     ],
     "projects": [
