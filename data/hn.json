@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-08T01:00:52.981Z"
+    "built_at": "2026-08-08T03:17:10.186Z"
   },
-  "items": [
-    {
-      "title": "Mirai 98: Boot the NEC PC-9801 environment from a USB flash drive",
-      "url": "https://github.com/awemorris/linux-pc98",
-      "date": "2026-08-08T01:00:02.000Z"
-    },
-    {
-      "title": "A tour inside my software restaurant",
-      "url": "https://thenickhuber.com/vibe-coding-my-favorite-defunct-game/",
-      "date": "2026-08-08T00:57:27.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
