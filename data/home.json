@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-08T12:41:47.886Z",
-  "updated_local": "8/8/2026, 12:41:47 PM",
+  "updated_iso": "2026-08-08T13:03:53.176Z",
+  "updated_local": "8/8/2026, 1:03:53 PM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "A Tome of Forbidden Technologies",
-        "url": "https://ecosophia.net/a-tome-of-forbidden-technologies/",
+        "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+        "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
         "source": "hn",
-        "time": "8/8/2026, 12:19:10 PM"
+        "time": "8/8/2026, 12:16:03 PM"
       },
       {
         "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
         "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
         "source": "hn",
         "time": "8/8/2026, 9:18:50 AM"
-      },
-      {
-        "title": "The USSR in 100 Photographs",
-        "url": "https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html",
-        "source": "hn",
-        "time": "8/8/2026, 12:07:25 PM"
       },
       {
         "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
@@ -64,6 +58,12 @@
         "url": "https://github.com/xoreaxeaxeax/rosenbridge",
         "source": "hn",
         "time": "8/8/2026, 7:04:51 AM"
+      },
+      {
+        "title": "DeepSeek V4 Flash 0731",
+        "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+        "source": "hn",
+        "time": "8/7/2026, 5:56:20 PM"
       }
     ],
     "world": [
