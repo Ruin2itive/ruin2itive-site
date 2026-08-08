@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-08T19:22:10.809Z"
+    "built_at": "2026-08-08T20:18:59.326Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Camera Sun – Swipe to Shoot",
+      "url": "https://news.ycombinator.com/item?id=49225487",
+      "date": "2026-08-08T20:17:02.000Z"
+    },
+    {
+      "title": "Show HN: Nocturne, a macOS app that makes the menu bar clock unreadable",
+      "url": "https://github.com/dotcomjack/nocturne",
+      "date": "2026-08-08T20:06:29.000Z"
+    }
+  ]
 }
