@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-08T07:46:51.254Z",
-  "updated_local": "8/8/2026, 7:46:51 AM",
+  "updated_iso": "2026-08-08T08:36:43.239Z",
+  "updated_local": "8/8/2026, 8:36:43 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Hardware backdoors in some x86 CPUs",
+        "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+        "source": "hn",
+        "time": "8/8/2026, 7:04:51 AM"
+      },
+      {
         "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
         "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "8/7/2026, 5:56:20 PM"
       },
       {
-        "title": "Hardware backdoors in some x86 CPUs",
-        "url": "https://github.com/xoreaxeaxeax/rosenbridge",
-        "source": "hn",
-        "time": "8/8/2026, 7:04:51 AM"
-      },
-      {
         "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
         "url": "https://genesisopenmodels.anl.gov/",
         "source": "hn",
         "time": "8/7/2026, 10:24:27 PM"
       },
       {
-        "title": "Assembly Hall of Shame",
-        "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+        "title": "What happens if an entire class of workers loses faith in their careers",
+        "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
         "source": "hn",
-        "time": "8/7/2026, 6:01:30 PM"
+        "time": "8/7/2026, 12:42:27 PM"
       }
     ],
     "world": [
