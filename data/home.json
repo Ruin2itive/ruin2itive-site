@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-08T17:26:54.736Z",
-  "updated_local": "8/8/2026, 5:26:54 PM",
+  "updated_iso": "2026-08-08T17:37:04.526Z",
+  "updated_local": "8/8/2026, 5:37:04 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
+        "url": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
+        "source": "crypto",
+        "time": "Sat, 08 Aug 2026 17:31:03 +0000"
+      },
       {
         "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
         "url": "https://decrypt.co/375174/senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran",
         "source": "crypto",
         "time": "Fri, 07 Aug 2026 20:28:33 +0000"
-      },
-      {
-        "title": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
-        "url": "https://decrypt.co/375159/bitcoin-payment-service-btcpay-critical-flaw-active-attack",
-        "source": "crypto",
-        "time": "Fri, 07 Aug 2026 20:00:34 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,18 @@
         "url": "https://specification.website/spec/foundations/for-sale-dns/",
         "source": "hn",
         "time": "8/8/2026, 1:26:51 PM"
+      },
+      {
+        "title": "Fastmail offers EU data region",
+        "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+        "source": "hn",
+        "time": "8/8/2026, 4:04:51 PM"
+      },
+      {
+        "title": "LinkedIn Feed Blocker",
+        "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
+        "source": "hn",
+        "time": "8/8/2026, 4:49:07 PM"
       },
       {
         "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
@@ -52,18 +64,6 @@
         "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
         "source": "hn",
         "time": "8/8/2026, 10:57:44 AM"
-      },
-      {
-        "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
-        "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
-        "source": "hn",
-        "time": "8/8/2026, 12:31:11 PM"
-      },
-      {
-        "title": "Triton: DirectX 11 Driver for QEMU",
-        "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-        "source": "hn",
-        "time": "8/8/2026, 1:33:06 PM"
       }
     ],
     "world": [
