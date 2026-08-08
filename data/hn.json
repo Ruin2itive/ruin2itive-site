@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-08T06:37:19.100Z"
+    "built_at": "2026-08-08T07:41:32.231Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "How to Keep Thinking",
+      "url": "https://www.seangoedecke.com/how-to-keep-thinking/",
+      "date": "2026-08-08T07:37:56.000Z"
+    },
+    {
+      "title": "To Save C, We Must Save ABI",
+      "url": "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi",
+      "date": "2026-08-08T07:36:55.000Z"
+    }
+  ]
 }
