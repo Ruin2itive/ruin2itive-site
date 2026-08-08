@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-08T08:29:54.025Z"
+    "built_at": "2026-08-08T09:29:09.847Z"
   },
-  "items": [
-    {
-      "title": "Google doesn't need the LLM crown",
-      "url": "https://www.semafor.com/article/08/07/2026/google-doesnt-need-the-llm-crown",
-      "date": "2026-08-08T08:29:18.000Z"
-    },
-    {
-      "title": "Show HN: Appealr – 15s live face-offs ranked by human votes (not AI)",
-      "url": "https://appealr.vercel.app",
-      "date": "2026-08-08T08:24:34.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
