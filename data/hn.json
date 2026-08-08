@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-08T13:38:40.262Z"
+    "built_at": "2026-08-08T14:23:44.921Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Inferring a solar eclipse's ground track from Spanish hotel price surges",
+      "url": "https://medium.com/vortechsa/inferring-orbital-mechanics-from-hotel-pricing-3a62f042dc45",
+      "date": "2026-08-08T14:20:54.000Z"
+    },
+    {
+      "title": "Ask HN: What can I do with a single R9700?",
+      "url": "https://news.ycombinator.com/item?id=49222031",
+      "date": "2026-08-08T14:18:07.000Z"
+    }
+  ]
 }
