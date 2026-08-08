@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-08T04:47:29.880Z"
+    "built_at": "2026-08-08T05:35:51.407Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Who is liable when AI goes rogue? Lawyers see new risks",
+      "url": "https://www.reuters.com/business/who-is-liable-when-ai-goes-rogue-lawyers-see-new-risks-2026-08-07",
+      "date": "2026-08-08T05:28:08.000Z"
+    },
+    {
+      "title": "Signal: Optional registration without a phone number requires a one-time payment",
+      "url": "https://aboutsignal.com/news/signal-login-registration-without-a-phone-number/",
+      "date": "2026-08-08T05:26:14.000Z"
+    }
+  ]
 }
