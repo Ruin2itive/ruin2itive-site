@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-08T22:19:23.609Z"
+    "built_at": "2026-08-08T23:19:52.428Z"
   },
-  "items": [
-    {
-      "title": "You don't know what DevOps means",
-      "url": "https://vsyrakis.dev/blog/you-dont-know-devops/",
-      "date": "2026-08-08T22:17:22.000Z"
-    },
-    {
-      "title": "Data Beads",
-      "url": "https://databeads.eu/",
-      "date": "2026-08-08T22:16:35.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
