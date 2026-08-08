@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-08T01:21:42.005Z",
-  "updated_local": "8/8/2026, 1:21:42 AM",
+  "updated_iso": "2026-08-08T02:07:26.032Z",
+  "updated_local": "8/8/2026, 2:07:26 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "The Nixpkgs core team has disbanded",
+        "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+        "source": "hn",
+        "time": "8/8/2026, 1:12:45 AM"
+      },
+      {
         "title": "DeepSeek V4 Flash 0731",
         "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
         "source": "hn",
@@ -46,12 +52,6 @@
         "url": "https://genesisopenmodels.anl.gov/",
         "source": "hn",
         "time": "8/7/2026, 10:24:27 PM"
-      },
-      {
-        "title": "Should AI labs be treated like the owners of dangerous animals?",
-        "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-        "source": "hn",
-        "time": "8/8/2026, 12:03:31 AM"
       },
       {
         "title": "Assembly Hall of Shame",
