@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-08T09:45:51.722Z",
-  "updated_local": "8/8/2026, 9:45:51 AM",
+  "updated_iso": "2026-08-08T10:29:25.524Z",
+  "updated_local": "8/8/2026, 10:29:25 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "8/5/2026, 9:44:42 PM"
       },
       {
+        "title": "Hardware backdoors in some x86 CPUs",
+        "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+        "source": "hn",
+        "time": "8/8/2026, 7:04:51 AM"
+      },
+      {
         "title": "DeepSeek V4 Flash 0731",
         "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
         "source": "hn",
@@ -52,12 +58,6 @@
         "url": "https://genesisopenmodels.anl.gov/",
         "source": "hn",
         "time": "8/7/2026, 10:24:27 PM"
-      },
-      {
-        "title": "Hardware backdoors in some x86 CPUs",
-        "url": "https://github.com/xoreaxeaxeax/rosenbridge",
-        "source": "hn",
-        "time": "8/8/2026, 7:04:51 AM"
       },
       {
         "title": "What happens if an entire class of workers loses faith in their careers",
