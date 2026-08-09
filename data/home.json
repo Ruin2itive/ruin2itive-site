@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-09T16:45:10.691Z",
-  "updated_local": "8/9/2026, 4:45:10 PM",
+  "updated_iso": "2026-08-09T17:28:12.876Z",
+  "updated_local": "8/9/2026, 5:28:12 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,18 @@
         "time": "8/9/2026, 1:20:43 PM"
       },
       {
+        "title": "Criminal Deception in Silicon Valley",
+        "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+        "source": "hn",
+        "time": "8/9/2026, 3:26:45 PM"
+      },
+      {
+        "title": "Cool URIs Don't Change (1998)",
+        "url": "https://www.w3.org/Provider/Style/URI",
+        "source": "hn",
+        "time": "8/9/2026, 2:32:53 PM"
+      },
+      {
         "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
         "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
         "source": "hn",
@@ -52,18 +64,6 @@
         "url": "https://kibotronics.net/unlisted/lilly-machines/",
         "source": "hn",
         "time": "8/9/2026, 1:47:36 PM"
-      },
-      {
-        "title": "Cool URIs Don't Change (1998)",
-        "url": "https://www.w3.org/Provider/Style/URI",
-        "source": "hn",
-        "time": "8/9/2026, 2:32:53 PM"
-      },
-      {
-        "title": "Honey, I shrunk the embeddings: Matryoshka vs. PCA",
-        "url": "https://dylancastillo.co/posts/matryoshka-vs-pca",
-        "source": "hn",
-        "time": "8/3/2026, 2:53:53 PM"
       }
     ],
     "world": [
