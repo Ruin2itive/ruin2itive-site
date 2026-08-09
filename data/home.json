@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-09T20:41:45.402Z",
-  "updated_local": "8/9/2026, 8:41:45 PM",
+  "updated_iso": "2026-08-09T21:28:38.540Z",
+  "updated_local": "8/9/2026, 9:28:38 PM",
   "sections": {
     "crypto": [
       {
@@ -42,30 +42,36 @@
         "time": "8/9/2026, 7:16:49 PM"
       },
       {
-        "title": "Mea Culpa – Dark Hours",
-        "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+        "title": "Is it all just vapourware?",
+        "url": "https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware",
         "source": "hn",
-        "time": "8/9/2026, 1:20:43 PM"
+        "time": "8/9/2026, 9:03:43 PM"
+      },
+      {
+        "title": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
+        "url": "https://github.com/yegors/deGDID",
+        "source": "hn",
+        "time": "8/9/2026, 8:06:51 PM"
       },
       {
         "title": "Saying No",
         "url": "https://rozumem.xyz/posts/19",
         "source": "hn",
         "time": "8/9/2026, 6:51:06 PM"
-      },
-      {
-        "title": "OpenChamber: An Agentic Development Environment",
-        "url": "https://openchamber.dev/",
-        "source": "hn",
-        "time": "8/9/2026, 5:27:16 PM"
       }
     ],
     "world": [
       {
+        "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+        "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 09 Aug 2026 20:58:18 GMT"
+      },
+      {
         "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
         "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 09 Aug 2026 14:18:10 GMT"
+        "time": "Sun, 09 Aug 2026 21:25:04 GMT"
       },
       {
         "title": "Ancient Roman shipwreck discovered off Sicily coast",
@@ -84,12 +90,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cx2vnny7j5zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 08 Aug 2026 23:52:43 GMT"
-      },
-      {
-        "title": "Hundreds arrested over French wildfires, but who is to blame?",
-        "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 08 Aug 2026 23:59:23 GMT"
       }
     ],
     "projects": [
