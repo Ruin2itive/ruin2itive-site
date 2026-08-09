@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-09T09:30:52.799Z"
+    "built_at": "2026-08-09T10:24:18.602Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "CSS: The bomb inside your inbox",
+      "url": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
+      "date": "2026-08-09T10:17:52.000Z"
+    },
+    {
+      "title": "Enough with all the world-historic milestones",
+      "url": "https://scottaaronson.blog/?p=9979",
+      "date": "2026-08-09T10:16:32.000Z"
+    }
+  ]
 }
