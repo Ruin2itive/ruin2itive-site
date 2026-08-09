@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-09T13:42:10.631Z"
+    "built_at": "2026-08-09T14:25:43.613Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "A2 Milk: New Perspectives for Food Technology and Human Health",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9407547/",
+      "date": "2026-08-09T14:25:02.000Z"
+    },
+    {
+      "title": "A parametric ice cream recipe calculator",
+      "url": "https://www.icecreamcalc.app/",
+      "date": "2026-08-09T14:24:59.000Z"
+    }
+  ]
 }
