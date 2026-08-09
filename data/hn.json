@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-09T21:23:12.040Z"
+    "built_at": "2026-08-09T22:21:02.406Z"
   },
-  "items": [
-    {
-      "title": "Kill Switch (X-Files episode)",
-      "url": "https://en.wikipedia.org/wiki/Kill_Switch_(The_X-Files)",
-      "date": "2026-08-09T21:21:25.000Z"
-    },
-    {
-      "title": "Colors' Package Skills Catalog is live",
-      "url": "https://www.getcolors.ai/skills",
-      "date": "2026-08-09T21:20:43.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
