@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-09T15:22:34.352Z"
+    "built_at": "2026-08-09T16:23:59.931Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "What Michael Levin's Lab Is Teaching Us About How Bodies Build Themselves",
+      "url": "https://float64co.github.io/the-body-electric.html",
+      "date": "2026-08-09T16:22:37.000Z"
+    },
+    {
+      "title": "The Cooler – tic-tac-toe where every line is scored as a poker hand",
+      "url": "https://gorgekara.itch.io/the-cooler",
+      "date": "2026-08-09T16:21:21.000Z"
+    }
+  ]
 }
