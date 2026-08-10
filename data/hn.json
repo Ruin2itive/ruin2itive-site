@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-10T22:27:52.029Z"
+    "built_at": "2026-08-10T23:26:30.437Z"
   },
-  "items": [
-    {
-      "title": "Mark Zuckerberg's Yacht Refused to Help Ship in Distress",
-      "url": "https://nymag.com/intelligencer/article/zuckerbergs-yacht-booed-over-failing-to-help-stranded-boat.html",
-      "date": "2026-08-10T22:27:06.000Z"
-    },
-    {
-      "title": "Catholic expert: \"Security issues show AI needs greater human oversight\"",
-      "url": "https://www.detroitcatholic.com/news/security-issues-show-ai-needs-greater-human-oversight-say-catholic-experts",
-      "date": "2026-08-10T22:24:18.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
