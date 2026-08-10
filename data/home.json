@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-10T07:27:03.723Z",
-  "updated_local": "8/10/2026, 7:27:03 AM",
+  "updated_iso": "2026-08-10T08:45:05.177Z",
+  "updated_local": "8/10/2026, 8:45:05 AM",
   "sections": {
     "crypto": [
       {
@@ -48,12 +48,6 @@
         "time": "8/10/2026, 2:23:17 AM"
       },
       {
-        "title": "Auto mode is now the default in Claude Code",
-        "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-        "source": "hn",
-        "time": "8/10/2026, 3:50:00 AM"
-      },
-      {
         "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
         "url": "https://github.com/shinyquagsire23/Klepton",
         "source": "hn",
@@ -64,6 +58,12 @@
         "url": "https://www.whodunnitai.com/",
         "source": "hn",
         "time": "8/10/2026, 3:18:40 AM"
+      },
+      {
+        "title": "How I use LLMs to learn complex topics",
+        "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+        "source": "hn",
+        "time": "8/9/2026, 7:16:49 PM"
       }
     ],
     "world": [
@@ -72,12 +72,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 10 Aug 2026 05:00:07 GMT"
-      },
-      {
-        "title": "Drought expected to be declared in more parts of England",
-        "url": "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 10 Aug 2026 07:18:16 GMT"
       },
       {
         "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 09 Aug 2026 23:05:29 GMT"
+      },
+      {
+        "title": "China evacuates one million from homes as massive storm arrives",
+        "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 10 Aug 2026 07:23:54 GMT"
       }
     ],
     "projects": [
