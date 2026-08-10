@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-10T12:50:09.353Z"
+    "built_at": "2026-08-10T14:14:49.114Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "A powerful technique for enjoying the present moment",
+      "url": "https://mapwriting.substack.com/p/a-powerful-technique-for-enjoying",
+      "date": "2026-08-10T14:10:13.000Z"
+    },
+    {
+      "title": "Multiplayer Agents",
+      "url": "https://twitter.com/nikunj/status/2086438339419496449",
+      "date": "2026-08-10T14:09:27.000Z"
+    }
+  ]
 }
