@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-10T17:53:03.935Z",
-  "updated_local": "8/10/2026, 5:53:03 PM",
+  "updated_iso": "2026-08-10T18:53:25.694Z",
+  "updated_local": "8/10/2026, 6:53:25 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk",
+        "url": "https://decrypt.co/375237/wall-street-data-centers-backlash-credit-risk",
+        "source": "crypto",
+        "time": "Mon, 10 Aug 2026 18:31:06 +0000"
+      },
       {
         "title": "Brazil&#39;s $319B Crypto Market Faces October Licensing Deadline: CertiK",
         "url": "https://decrypt.co/375249/brazils-319b-crypto-market-faces-october-licensing-deadline-certik",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/375214/xrp-price-weakens-crypto-market-awaits-clarity",
         "source": "crypto",
         "time": "Mon, 10 Aug 2026 16:11:20 +0000"
-      },
-      {
-        "title": "Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains",
-        "url": "https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
-        "source": "crypto",
-        "time": "Mon, 10 Aug 2026 15:56:30 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Learning more about Claude's mathematical capabilities",
+        "url": "https://www.anthropic.com/research/riemann-zeta",
+        "source": "hn",
+        "time": "8/10/2026, 5:41:13 PM"
+      },
       {
         "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
         "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
@@ -48,22 +54,16 @@
         "time": "8/7/2026, 10:26:34 AM"
       },
       {
-        "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
-        "url": "https://github.com/AntigmaLabs/ante",
-        "source": "hn",
-        "time": "8/10/2026, 3:59:23 PM"
-      },
-      {
         "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
         "url": "https://www.stoaexchange.com",
         "source": "hn",
         "time": "8/10/2026, 4:35:27 PM"
       },
       {
-        "title": "Exploiting System Management Mode with a very long interrupt",
-        "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+        "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+        "url": "https://github.com/AntigmaLabs/ante",
         "source": "hn",
-        "time": "8/10/2026, 4:03:14 PM"
+        "time": "8/10/2026, 3:59:23 PM"
       }
     ],
     "world": [
@@ -74,16 +74,16 @@
         "time": "Mon, 10 Aug 2026 17:41:39 GMT"
       },
       {
-        "title": "Record 230 people cross Channel in one small boat",
-        "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 10 Aug 2026 14:51:06 GMT"
-      },
-      {
         "title": "30 years later, a former rival will stand trial for Tupac's murder",
         "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 10 Aug 2026 16:52:47 GMT"
+      },
+      {
+        "title": "Record 230 people cross Channel in one small boat",
+        "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 10 Aug 2026 14:51:06 GMT"
       },
       {
         "title": "Consortium including Jeff Bezos advances talks for stake in Liverpool FC",
@@ -92,10 +92,10 @@
         "time": "Mon, 10 Aug 2026 13:16:51 GMT"
       },
       {
-        "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
-        "url": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+        "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 10 Aug 2026 14:58:24 GMT"
+        "time": "Mon, 10 Aug 2026 17:50:29 GMT"
       }
     ],
     "projects": [
