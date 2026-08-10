@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-10T10:24:20.083Z",
-  "updated_local": "8/10/2026, 10:24:20 AM",
+  "updated_iso": "2026-08-10T11:05:25.192Z",
+  "updated_local": "8/10/2026, 11:05:25 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Meta Muse Glimmer – open weights 30B local coding model",
+        "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+        "source": "hn",
+        "time": "8/10/2026, 10:10:02 AM"
+      },
+      {
         "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
         "url": "https://www.docker.com/products/docker-sandboxes/",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "8/10/2026, 2:23:17 AM"
       },
       {
-        "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
-        "url": "https://github.com/shinyquagsire23/Klepton",
-        "source": "hn",
-        "time": "8/10/2026, 3:12:48 AM"
-      },
-      {
-        "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-        "url": "https://www.whodunnitai.com/",
-        "source": "hn",
-        "time": "8/10/2026, 3:18:40 AM"
-      },
-      {
         "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
         "url": "https://lordgoati.us/blog/tail-call/",
         "source": "hn",
         "time": "8/7/2026, 12:05:10 PM"
+      },
+      {
+        "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+        "url": "https://github.com/shinyquagsire23/Klepton",
+        "source": "hn",
+        "time": "8/10/2026, 3:12:48 AM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Record 230 people cross Channel in one small boat",
         "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 10 Aug 2026 10:20:13 GMT"
+        "time": "Mon, 10 Aug 2026 11:01:39 GMT"
       },
       {
         "title": "Travelodge staff gave domestic abuser key to his victim's room",
@@ -83,7 +83,7 @@
         "title": "Thames Water gave finance boss a £1m signing-on fee",
         "url": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 10 Aug 2026 09:34:20 GMT"
+        "time": "Mon, 10 Aug 2026 10:35:47 GMT"
       },
       {
         "title": "Ban on 'subscription traps' brought forward by three months",
