@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-10T20:52:32.997Z",
-  "updated_local": "8/10/2026, 8:52:32 PM",
+  "updated_iso": "2026-08-10T21:38:17.164Z",
+  "updated_local": "8/10/2026, 9:38:17 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
+        "url": "https://decrypt.co/375282/bitcoin-atms-pulled-australia-regulators-crackdown",
+        "source": "crypto",
+        "time": "Mon, 10 Aug 2026 21:02:43 +0000"
+      },
       {
         "title": "Hidden Text in PDFs Is Hijacking This AI Assistant",
         "url": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375249/brazils-319b-crypto-market-faces-october-licensing-deadline-certik",
         "source": "crypto",
         "time": "Mon, 10 Aug 2026 17:51:04 +0000"
-      },
-      {
-        "title": "Bitcoin Rally Fades—Where Does Price Go Next?",
-        "url": "https://decrypt.co/375238/bitcoin-rally-stalls-price-next-prediction-market",
-        "source": "crypto",
-        "time": "Mon, 10 Aug 2026 17:18:49 +0000"
       }
     ],
     "hacker": [
@@ -48,10 +48,10 @@
         "time": "8/10/2026, 10:10:02 AM"
       },
       {
-        "title": "Sonic Pi v5",
-        "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+        "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+        "url": "https://cactuscompute.com/needle",
         "source": "hn",
-        "time": "8/7/2026, 10:26:34 AM"
+        "time": "8/10/2026, 5:22:07 PM"
       },
       {
         "title": "Rust SIMD on the GPU",
@@ -60,10 +60,10 @@
         "time": "8/10/2026, 6:12:49 PM"
       },
       {
-        "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-        "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+        "title": "Sonic Pi v5",
+        "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
         "source": "hn",
-        "time": "8/10/2026, 2:06:22 PM"
+        "time": "8/7/2026, 10:26:34 AM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Mon, 10 Aug 2026 20:24:05 GMT"
       },
       {
+        "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+        "url": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 10 Aug 2026 21:33:51 GMT"
+      },
+      {
         "title": "Record 230 people cross Channel in one small boat",
         "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -89,13 +95,7 @@
         "title": "Trump signs order to limit childhood vaccines and split MMR shots",
         "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 10 Aug 2026 20:16:34 GMT"
-      },
-      {
-        "title": "30 years later, a former gang member will stand trial for Tupac's murder",
-        "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 10 Aug 2026 16:52:47 GMT"
+        "time": "Mon, 10 Aug 2026 21:33:25 GMT"
       }
     ],
     "projects": [
