@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-10T04:45:17.994Z",
-  "updated_local": "8/10/2026, 4:45:17 AM",
+  "updated_iso": "2026-08-10T05:23:18.056Z",
+  "updated_local": "8/10/2026, 5:23:18 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Auto mode is now the default in Claude Code",
+        "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+        "source": "hn",
+        "time": "8/10/2026, 3:50:00 AM"
+      },
+      {
         "title": "What Happened to HackerOne?",
         "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
         "source": "hn",
         "time": "8/10/2026, 2:23:17 AM"
+      },
+      {
+        "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+        "url": "https://www.whodunnitai.com/",
+        "source": "hn",
+        "time": "8/10/2026, 3:18:40 AM"
       },
       {
         "title": "How I use LLMs to learn complex topics",
@@ -48,36 +60,30 @@
         "time": "8/9/2026, 7:16:49 PM"
       },
       {
-        "title": "Auto mode is now the default in Claude Code",
-        "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+        "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+        "url": "https://github.com/shinyquagsire23/Klepton",
         "source": "hn",
-        "time": "8/10/2026, 3:50:00 AM"
-      },
-      {
-        "title": "Turn satellite imagery into a paper globe you fold yourself",
-        "url": "https://foldingglobes.com/",
-        "source": "hn",
-        "time": "8/10/2026, 2:57:38 AM"
-      },
-      {
-        "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
-        "url": "https://www.nber.org/papers/w35560",
-        "source": "hn",
-        "time": "8/10/2026, 4:06:10 AM"
+        "time": "8/10/2026, 3:12:48 AM"
       }
     ],
     "world": [
       {
-        "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-        "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Travelodge staff gave domestic abuser key to his victim's room",
+        "url": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 09 Aug 2026 20:58:18 GMT"
+        "time": "Mon, 10 Aug 2026 05:00:07 GMT"
       },
       {
         "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
         "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 09 Aug 2026 23:01:39 GMT"
+      },
+      {
+        "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+        "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 09 Aug 2026 20:58:18 GMT"
       },
       {
         "title": "Evidence that South African special forces murdered top detective shared with BBC",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 10 Aug 2026 03:15:21 GMT"
-      },
-      {
-        "title": "Brief relief ahead of fifth heatwave - as more areas could move into drought",
-        "url": "https://www.bbc.co.uk/weather/articles/cvgx1k415v2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 10 Aug 2026 01:36:10 GMT"
       }
     ],
     "projects": [
