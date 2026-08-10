@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-09T23:38:06.580Z",
-  "updated_local": "8/9/2026, 11:38:06 PM",
+  "updated_iso": "2026-08-10T01:36:42.958Z",
+  "updated_local": "8/10/2026, 1:36:42 AM",
   "sections": {
     "crypto": [
       {
@@ -42,10 +42,10 @@
         "time": "8/9/2026, 7:16:49 PM"
       },
       {
-        "title": "New Zealand lost its music media, and what we're building to replace it",
-        "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+        "title": "How We Pushed CDC into Postgres",
+        "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
         "source": "hn",
-        "time": "8/9/2026, 8:42:29 PM"
+        "time": "8/10/2026, 1:01:34 AM"
       },
       {
         "title": "Mea Culpa – Dark Hours",
@@ -54,10 +54,16 @@
         "time": "8/9/2026, 1:20:43 PM"
       },
       {
-        "title": "The tragedy of the commons, AI edition",
-        "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+        "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
+        "url": "https://publicdomainreview.org/collection/marnameh/",
         "source": "hn",
-        "time": "8/9/2026, 7:43:52 PM"
+        "time": "8/7/2026, 4:04:56 AM"
+      },
+      {
+        "title": "New Zealand lost its music media, and what we're building to replace it",
+        "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+        "source": "hn",
+        "time": "8/9/2026, 8:42:29 PM"
       }
     ],
     "world": [
@@ -80,16 +86,16 @@
         "time": "Sun, 09 Aug 2026 23:01:39 GMT"
       },
       {
-        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-        "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 09 Aug 2026 21:25:04 GMT"
-      },
-      {
         "title": "Evidence that South African special forces murdered top detective shared with BBC",
         "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 09 Aug 2026 23:05:29 GMT"
+      },
+      {
+        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 09 Aug 2026 21:25:04 GMT"
       }
     ],
     "projects": [
