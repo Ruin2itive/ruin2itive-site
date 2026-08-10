@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-10T06:15:34.632Z",
-  "updated_local": "8/10/2026, 6:15:34 AM",
+  "updated_iso": "2026-08-10T07:27:03.723Z",
+  "updated_local": "8/10/2026, 7:27:03 AM",
   "sections": {
     "crypto": [
       {
@@ -36,18 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "Auto mode is now the default in Claude Code",
-        "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-        "source": "hn",
-        "time": "8/10/2026, 3:50:00 AM"
-      },
-      {
-        "title": "Why do we assume everyone should be working?",
-        "url": "https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/",
-        "source": "hn",
-        "time": "8/10/2026, 5:16:26 AM"
-      },
-      {
         "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
         "url": "https://www.docker.com/products/docker-sandboxes/",
         "source": "hn",
@@ -58,6 +46,18 @@
         "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
         "source": "hn",
         "time": "8/10/2026, 2:23:17 AM"
+      },
+      {
+        "title": "Auto mode is now the default in Claude Code",
+        "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+        "source": "hn",
+        "time": "8/10/2026, 3:50:00 AM"
+      },
+      {
+        "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+        "url": "https://github.com/shinyquagsire23/Klepton",
+        "source": "hn",
+        "time": "8/10/2026, 3:12:48 AM"
       },
       {
         "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
@@ -74,10 +74,16 @@
         "time": "Mon, 10 Aug 2026 05:00:07 GMT"
       },
       {
+        "title": "Drought expected to be declared in more parts of England",
+        "url": "https://www.bbc.co.uk/news/articles/c70gk2dl5jyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 10 Aug 2026 07:18:16 GMT"
+      },
+      {
         "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
         "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 09 Aug 2026 23:01:39 GMT"
+        "time": "Mon, 10 Aug 2026 07:16:12 GMT"
       },
       {
         "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 09 Aug 2026 23:05:29 GMT"
-      },
-      {
-        "title": "China evacuates one million from homes as massive storm arrives",
-        "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 10 Aug 2026 03:15:21 GMT"
       }
     ],
     "projects": [
