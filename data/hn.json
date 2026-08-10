@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-09T23:22:24.752Z"
+    "built_at": "2026-08-10T01:06:17.965Z"
   },
-  "items": [
-    {
-      "title": "How Beauty Is Making Scientists Rethink Evolution",
-      "url": "https://www.nytimes.com/2019/01/09/magazine/beauty-evolution-animal.html",
-      "date": "2026-08-09T23:21:20.000Z"
-    },
-    {
-      "title": "Yahtzee – Ballpark Figures",
-      "url": "https://ballparkfigures.substack.com/p/yahtzee",
-      "date": "2026-08-09T23:21:13.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
