@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-10T19:53:28.771Z",
-  "updated_local": "8/10/2026, 7:53:28 PM",
+  "updated_iso": "2026-08-10T20:38:52.484Z",
+  "updated_local": "8/10/2026, 8:38:52 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Hidden Text in PDFs Is Hijacking This AI Assistant",
+        "url": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
+        "source": "crypto",
+        "time": "Mon, 10 Aug 2026 19:56:50 +0000"
+      },
       {
         "title": "Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years",
         "url": "https://decrypt.co/375266/dormant-bitcoin-wallet-millions-wakes-up-12-years",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375238/bitcoin-rally-stalls-price-next-prediction-market",
         "source": "crypto",
         "time": "Mon, 10 Aug 2026 17:18:49 +0000"
-      },
-      {
-        "title": "Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes",
-        "url": "https://decrypt.co/375226/web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes",
-        "source": "crypto",
-        "time": "Mon, 10 Aug 2026 16:25:28 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "8/10/2026, 2:06:22 PM"
       },
       {
-        "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
-        "url": "https://www.stoaexchange.com",
+        "title": "Rust SIMD on the GPU",
+        "url": "https://www.vectorware.com/blog/simd-on-gpu/",
         "source": "hn",
-        "time": "8/10/2026, 4:35:27 PM"
+        "time": "8/10/2026, 6:12:49 PM"
       },
       {
-        "title": "Exploiting System Management Mode with a very long interrupt",
-        "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+        "title": "The Psychedelic Toad of the Sonoran Desert",
+        "url": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
         "source": "hn",
-        "time": "8/10/2026, 4:03:14 PM"
+        "time": "8/4/2026, 5:49:29 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Mon, 10 Aug 2026 17:41:39 GMT"
       },
       {
+        "title": "New Forest firefighting to continue overnight as cars abandoned",
+        "url": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 10 Aug 2026 20:24:05 GMT"
+      },
+      {
         "title": "Record 230 people cross Channel in one small boat",
         "url": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 10 Aug 2026 14:51:06 GMT"
       },
       {
+        "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 10 Aug 2026 20:16:34 GMT"
+      },
+      {
         "title": "30 years later, a former gang member will stand trial for Tupac's murder",
         "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 10 Aug 2026 16:52:47 GMT"
-      },
-      {
-        "title": "New weight-loss pill approved for use in UK",
-        "url": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 10 Aug 2026 15:25:07 GMT"
-      },
-      {
-        "title": "Trump signs order to limit and split childhood vaccines",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 10 Aug 2026 19:35:09 GMT"
       }
     ],
     "projects": [
