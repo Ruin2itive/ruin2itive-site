@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-10T05:17:51.065Z"
+    "built_at": "2026-08-10T07:14:32.678Z"
   },
-  "items": [
-    {
-      "title": "Why do we assume everyone should be working?",
-      "url": "https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/",
-      "date": "2026-08-10T05:16:26.000Z"
-    },
-    {
-      "title": "Therapy Needs to Get Help",
-      "url": "https://www.nytimes.com/2026/08/09/opinion/therapy-neuroscience-perception.html",
-      "date": "2026-08-10T05:15:21.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
