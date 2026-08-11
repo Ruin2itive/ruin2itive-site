@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-08-11T20:00:59.273Z",
-  "updated_local": "8/11/2026, 8:00:59 PM",
+  "updated_iso": "2026-08-11T20:55:14.254Z",
+  "updated_local": "8/11/2026, 8:55:14 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "The Bull and Bear Case for Solana’s Next Price Move",
+        "url": "https://decrypt.co/375364/solana-price-death-cross-bull-bear-case-next-move",
+        "source": "crypto",
+        "time": "Tue, 11 Aug 2026 20:46:04 +0000"
+      },
+      {
+        "title": "SEC Prepares Escape Hatch From Securities Registration for Crypto Projects",
+        "url": "https://decrypt.co/375375/sec-prepares-escape-hatch-securities-registration-crypto-projects",
+        "source": "crypto",
+        "time": "Tue, 11 Aug 2026 20:10:00 +0000"
+      },
       {
         "title": "AI Agent Hacks a Gym—And the Tech World Wonders What&#39;s Next",
         "url": "https://decrypt.co/375358/ai-agent-hacks-gym-membership-tech-world-reacts",
@@ -20,26 +32,26 @@
         "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
         "source": "crypto",
         "time": "Tue, 11 Aug 2026 17:26:54 +0000"
-      },
-      {
-        "title": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
-        "url": "https://decrypt.co/375330/ravencoin-crashes-critical-exploit-threatens-rollback",
-        "source": "crypto",
-        "time": "Tue, 11 Aug 2026 17:02:36 +0000"
-      },
-      {
-        "title": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
-        "url": "https://decrypt.co/375324/etoro-acquire-tradezero-us-expansion-stock-tanks",
-        "source": "crypto",
-        "time": "Tue, 11 Aug 2026 16:45:30 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Nvidia Nemotron 3.5 lightning and Nemo Switchyard",
+        "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
         "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
         "source": "hn",
         "time": "8/11/2026, 7:35:52 PM"
+      },
+      {
+        "title": "The brain may be about to have its Ozempic moment",
+        "url": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+        "source": "hn",
+        "time": "8/11/2026, 8:01:27 PM"
+      },
+      {
+        "title": "Compression Is Prediction",
+        "url": "https://ngrok.com/blog/compression-is-prediction",
+        "source": "hn",
+        "time": "8/11/2026, 7:49:44 PM"
       },
       {
         "title": "Mojo 1.0",
@@ -52,18 +64,6 @@
         "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
         "source": "hn",
         "time": "8/11/2026, 6:09:56 PM"
-      },
-      {
-        "title": "Making holograms with a pen plotter",
-        "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-        "source": "hn",
-        "time": "8/11/2026, 6:51:35 PM"
-      },
-      {
-        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-        "url": "https://stolen-thoughts.com/",
-        "source": "hn",
-        "time": "8/11/2026, 1:22:00 PM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "Burnham 'confident' early release of PC Harper's killers can be halted",
         "url": "https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 11 Aug 2026 16:19:38 GMT"
+        "time": "Tue, 11 Aug 2026 20:09:52 GMT"
       },
       {
         "title": "Eclipse chasers scramble for glasses as stocks run low",
