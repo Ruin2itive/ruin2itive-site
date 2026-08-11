@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-11T07:21:29.174Z",
-  "updated_local": "8/11/2026, 7:21:29 AM",
+  "updated_iso": "2026-08-11T08:51:44.878Z",
+  "updated_local": "8/11/2026, 8:51:44 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "UK Lawmakers Write to Bank CEOs Over Crypto Account Refusals",
+        "url": "https://decrypt.co/375294/uk-lawmakers-write-to-bank-ceos-over-crypto-account-refusals",
+        "source": "crypto",
+        "time": "Tue, 11 Aug 2026 08:41:17 +0000"
+      },
       {
         "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
         "url": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375266/dormant-bitcoin-wallet-millions-wakes-up-12-years",
         "source": "crypto",
         "time": "Mon, 10 Aug 2026 19:13:12 +0000"
-      },
-      {
-        "title": "Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk",
-        "url": "https://decrypt.co/375237/wall-street-data-centers-backlash-credit-risk",
-        "source": "crypto",
-        "time": "Mon, 10 Aug 2026 18:31:06 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://github.com/antirez/h3.c",
         "source": "hn",
         "time": "8/11/2026, 1:22:09 AM"
+      },
+      {
+        "title": "As AI eats the web, the internet’s collective memory is disappearing",
+        "url": "https://thewalrus.ca/google-search-is-dying/",
+        "source": "hn",
+        "time": "8/10/2026, 10:36:30 PM"
       },
       {
         "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
@@ -54,12 +60,6 @@
         "time": "8/11/2026, 12:24:15 AM"
       },
       {
-        "title": "As AI eats the web, the internet’s collective memory is disappearing",
-        "url": "https://thewalrus.ca/google-search-is-dying/",
-        "source": "hn",
-        "time": "8/10/2026, 10:36:30 PM"
-      },
-      {
         "title": "LFM2.5 2.6B model competitive with 4x larger models",
         "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
         "source": "hn",
@@ -68,16 +68,10 @@
     ],
     "world": [
       {
-        "title": "PM asks justice secretary to find way to keep PC Harper's killers in jail",
-        "url": "https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 11 Aug 2026 04:25:55 GMT"
-      },
-      {
-        "title": "Amber heat health alerts for almost all of England as next heatwave begins",
+        "title": "Amber heat health alerts in place for almost all of England as next heatwave hits",
         "url": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 11 Aug 2026 01:38:14 GMT"
+        "time": "Tue, 11 Aug 2026 08:00:06 GMT"
       },
       {
         "title": "Councils to get more powers to stop vape and betting shops, PM announces",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/sport/football/articles/cg7m3nk013mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 11 Aug 2026 05:30:03 GMT"
+      },
+      {
+        "title": "Perseid meteor shower reaches peak: When and where to catch a glimpse",
+        "url": "https://www.bbc.co.uk/news/articles/c4g3kn216yzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 11 Aug 2026 01:59:24 GMT"
       }
     ],
     "projects": [
