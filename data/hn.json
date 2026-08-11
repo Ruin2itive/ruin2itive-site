@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-11T09:52:24.546Z"
+    "built_at": "2026-08-11T10:42:50.485Z"
   },
-  "items": [
-    {
-      "title": "Gödel, Escher, Elisp: The Beauty of Macros",
-      "url": "https://www.chiply.dev/post-elisp-macros-are-beautiful",
-      "date": "2026-08-11T09:50:39.000Z"
-    },
-    {
-      "title": "2,500 Companies and 434,000 Pipelines Exposed – Largest AI Supply Chain Breach",
-      "url": "https://www.cloudsek.com/blog/ai-supply-chain-breach-2500-companies-434000-cicd-pipelines",
-      "date": "2026-08-11T09:48:42.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
