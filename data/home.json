@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-11T20:55:14.254Z",
-  "updated_local": "8/11/2026, 8:55:14 PM",
+  "updated_iso": "2026-08-11T21:42:30.084Z",
+  "updated_local": "8/11/2026, 9:42:30 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit",
+        "url": "https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit",
+        "source": "crypto",
+        "time": "Tue, 11 Aug 2026 21:16:03 +0000"
+      },
       {
         "title": "The Bull and Bear Case for Solana’s Next Price Move",
         "url": "https://decrypt.co/375364/solana-price-death-cross-bull-bear-case-next-move",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375359/trump-media-crypto-bet-238m-quarterly-loss",
         "source": "crypto",
         "time": "Tue, 11 Aug 2026 18:25:14 +0000"
-      },
-      {
-        "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP",
-        "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
-        "source": "crypto",
-        "time": "Tue, 11 Aug 2026 17:26:54 +0000"
       }
     ],
     "hacker": [
@@ -42,13 +42,7 @@
         "time": "8/11/2026, 7:35:52 PM"
       },
       {
-        "title": "The brain may be about to have its Ozempic moment",
-        "url": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-        "source": "hn",
-        "time": "8/11/2026, 8:01:27 PM"
-      },
-      {
-        "title": "Compression Is Prediction",
+        "title": "Compression is prediction",
         "url": "https://ngrok.com/blog/compression-is-prediction",
         "source": "hn",
         "time": "8/11/2026, 7:49:44 PM"
@@ -60,13 +54,25 @@
         "time": "8/11/2026, 4:56:46 PM"
       },
       {
-        "title": "How we used to get jobs: A newspaper classifieds story",
-        "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+        "url": "https://stolen-thoughts.com/",
         "source": "hn",
-        "time": "8/11/2026, 6:09:56 PM"
+        "time": "8/11/2026, 1:22:00 PM"
+      },
+      {
+        "title": "Making holograms with a pen plotter",
+        "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+        "source": "hn",
+        "time": "8/11/2026, 6:51:35 PM"
       }
     ],
     "world": [
+      {
+        "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
+        "url": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 11 Aug 2026 21:00:46 GMT"
+      },
       {
         "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
         "url": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&amp;at_campaign=rss",
@@ -74,10 +80,10 @@
         "time": "Tue, 11 Aug 2026 14:23:52 GMT"
       },
       {
-        "title": "Burnham 'confident' early release of PC Harper's killers can be halted",
-        "url": "https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
+        "url": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 11 Aug 2026 20:09:52 GMT"
+        "time": "Tue, 11 Aug 2026 21:21:44 GMT"
       },
       {
         "title": "Eclipse chasers scramble for glasses as stocks run low",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 11 Aug 2026 15:53:53 GMT"
-      },
-      {
-        "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-        "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 11 Aug 2026 19:09:52 GMT"
       }
     ],
     "projects": [
