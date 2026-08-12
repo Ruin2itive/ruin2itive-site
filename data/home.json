@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-12T04:54:05.932Z",
-  "updated_local": "8/12/2026, 4:54:05 AM",
+  "updated_iso": "2026-08-12T06:11:11.708Z",
+  "updated_local": "8/12/2026, 6:11:11 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Compression is prediction",
-        "url": "https://ngrok.com/blog/compression-is-prediction",
+        "title": "llama.cpp",
+        "url": "https://llama.app",
         "source": "hn",
-        "time": "8/11/2026, 7:49:44 PM"
+        "time": "8/12/2026, 4:51:59 AM"
       },
       {
         "title": "The hardest working font in Manhattan (2025)",
@@ -48,10 +48,10 @@
         "time": "8/6/2026, 8:22:29 PM"
       },
       {
-        "title": "WorldClaw Agentic 3D open-world generation at scale",
-        "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+        "title": "Compression is prediction",
+        "url": "https://ngrok.com/blog/compression-is-prediction",
         "source": "hn",
-        "time": "8/11/2026, 9:56:18 PM"
+        "time": "8/11/2026, 7:49:44 PM"
       },
       {
         "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
@@ -60,30 +60,24 @@
         "time": "8/12/2026, 1:45:51 AM"
       },
       {
-        "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-        "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+        "title": "WorldClaw Agentic 3D open-world generation at scale",
+        "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
         "source": "hn",
-        "time": "8/11/2026, 7:35:52 PM"
+        "time": "8/11/2026, 9:56:18 PM"
       }
     ],
     "world": [
+      {
+        "title": "Early release scheme risks more serious crimes, probation chief warns",
+        "url": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 12 Aug 2026 05:00:23 GMT"
+      },
       {
         "title": "Woman assaulted by double murderer says nightmare became 'real life' when police let him attack again",
         "url": "https://www.bbc.co.uk/news/articles/czjlwlkw1m4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 11 Aug 2026 21:00:46 GMT"
-      },
-      {
-        "title": "More weather records as UK heat set to spike again",
-        "url": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 11 Aug 2026 23:37:43 GMT"
-      },
-      {
-        "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
-        "url": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 11 Aug 2026 21:21:44 GMT"
       },
       {
         "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
@@ -92,10 +86,16 @@
         "time": "Tue, 11 Aug 2026 23:17:15 GMT"
       },
       {
-        "title": "Trump says he switched planes after Nato summit because of possible threat",
-        "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Three ways to watch the solar eclipse safely without glasses",
+        "url": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 12 Aug 2026 03:44:55 GMT"
+        "time": "Tue, 11 Aug 2026 16:29:28 GMT"
+      },
+      {
+        "title": "Burnham to chair Cobra meeting on extreme heat as temperatures surge again",
+        "url": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 12 Aug 2026 05:49:39 GMT"
       }
     ],
     "projects": [
