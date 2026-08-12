@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-12T15:56:41.624Z",
-  "updated_local": "8/12/2026, 3:56:41 PM",
+  "updated_iso": "2026-08-12T16:57:17.359Z",
+  "updated_local": "8/12/2026, 4:57:17 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
+        "url": "https://decrypt.co/375441/xrp-drained-tx-bridge",
+        "source": "crypto",
+        "time": "Wed, 12 Aug 2026 16:00:52 +0000"
+      },
       {
         "title": "Crypto-Backed Loans, Explained: How to Unlock Cash Without Selling Your Bitcoin",
         "url": "https://decrypt.co/375428/crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero",
         "source": "crypto",
         "time": "Wed, 12 Aug 2026 14:00:04 +0000"
-      },
-      {
-        "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
-        "url": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny",
-        "source": "crypto",
-        "time": "Wed, 12 Aug 2026 12:12:40 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
         "source": "hn",
         "time": "8/12/2026, 2:22:30 PM"
+      },
+      {
+        "title": "DeepSeek V4 Pro 0813",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+        "source": "hn",
+        "time": "8/12/2026, 4:04:50 PM"
       },
       {
         "title": "2026 Eclipse Webcams",
@@ -58,12 +64,6 @@
         "url": "https://knownagents.com/insights",
         "source": "hn",
         "time": "8/12/2026, 2:02:46 PM"
-      },
-      {
-        "title": "Why Tiny JPEGs Look Different in Chrome",
-        "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-        "source": "hn",
-        "time": "8/12/2026, 2:00:54 PM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 11 Aug 2026 16:29:28 GMT"
+      },
+      {
+        "title": "Ann Widdecombe's loved ones gather for her funeral",
+        "url": "https://www.bbc.co.uk/news/articles/cvgwz81w892o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 12 Aug 2026 16:31:07 GMT"
       },
       {
         "title": "Double killer and rapist given whole life sentence",
@@ -83,19 +89,13 @@
         "title": "Burnham considers disposable BBQ ban over wildfire risks",
         "url": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 12 Aug 2026 13:31:51 GMT"
+        "time": "Wed, 12 Aug 2026 16:38:02 GMT"
       },
       {
         "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
         "url": "https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 12 Aug 2026 12:32:24 GMT"
-      },
-      {
-        "title": "Messi unsure he will play 'much longer' after father's death",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c78gqj2dqyno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 12 Aug 2026 13:48:23 GMT"
       }
     ],
     "projects": [
