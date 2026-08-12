@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-12T20:38:03.189Z"
+    "built_at": "2026-08-12T21:36:34.348Z"
   },
-  "items": [
-    {
-      "title": "A road could change West Africa's urban future",
-      "url": "https://apps.npr.org/west-africa-trade-growth-economy-nigeria-ghana-lagos/",
-      "date": "2026-08-12T20:37:18.000Z"
-    },
-    {
-      "title": "Show HN: A Linear agent that runs Claude Code sessions on your own machine",
-      "url": "https://github.com/MPIsaac-Per/linear-claude-bridge",
-      "date": "2026-08-12T20:37:06.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
