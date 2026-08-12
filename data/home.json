@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-08-12T15:04:38.902Z",
-  "updated_local": "8/12/2026, 3:04:38 PM",
+  "updated_iso": "2026-08-12T15:56:41.624Z",
+  "updated_local": "8/12/2026, 3:56:41 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Crypto-Backed Loans, Explained: How to Unlock Cash Without Selling Your Bitcoin",
+        "url": "https://decrypt.co/375428/crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin",
+        "source": "crypto",
+        "time": "Wed, 12 Aug 2026 15:54:16 +0000"
+      },
+      {
+        "title": "Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%",
+        "url": "https://decrypt.co/375411/why-bitcoin-barely-moved-us-cpi-inflation-cools",
+        "source": "crypto",
+        "time": "Wed, 12 Aug 2026 15:07:56 +0000"
+      },
       {
         "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
         "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
@@ -20,21 +32,15 @@
         "url": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny",
         "source": "crypto",
         "time": "Wed, 12 Aug 2026 12:12:40 +0000"
-      },
-      {
-        "title": "Bitwise Cuts 14% of Staff as Crypto Slump Reaches ETF Issuers",
-        "url": "https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
-        "source": "crypto",
-        "time": "Wed, 12 Aug 2026 12:06:36 +0000"
-      },
-      {
-        "title": "Harmony&#39;s ONE Sinks 37% After Attacker Mints 4 Billion Tokens",
-        "url": "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
-        "source": "crypto",
-        "time": "Wed, 12 Aug 2026 10:38:06 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+        "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+        "source": "hn",
+        "time": "8/12/2026, 2:22:30 PM"
+      },
       {
         "title": "2026 Eclipse Webcams",
         "url": "https://jonty.github.io/2026_eclipse_webcams/",
@@ -42,42 +48,36 @@
         "time": "8/12/2026, 11:53:01 AM"
       },
       {
-        "title": "Obituary: AmigaDOS developer Dr. Tim King has passed away",
+        "title": "Tim King, AmigaDOS developer, has died",
         "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
         "source": "hn",
         "time": "8/12/2026, 2:09:11 PM"
       },
       {
-        "title": "License Plate Reader Searches Should Require a Warrant",
-        "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
+        "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+        "url": "https://knownagents.com/insights",
         "source": "hn",
-        "time": "8/12/2026, 2:43:39 PM"
+        "time": "8/12/2026, 2:02:46 PM"
       },
       {
         "title": "Why Tiny JPEGs Look Different in Chrome",
         "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
         "source": "hn",
         "time": "8/12/2026, 2:00:54 PM"
-      },
-      {
-        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-        "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-        "source": "hn",
-        "time": "8/12/2026, 2:22:30 PM"
       }
     ],
     "world": [
-      {
-        "title": "Double killer and rapist given whole life sentence",
-        "url": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 12 Aug 2026 14:25:00 GMT"
-      },
       {
         "title": "Three ways to watch the solar eclipse safely without glasses",
         "url": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 11 Aug 2026 16:29:28 GMT"
+      },
+      {
+        "title": "Double killer and rapist given whole life sentence",
+        "url": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 12 Aug 2026 14:25:00 GMT"
       },
       {
         "title": "Burnham considers disposable BBQ ban over wildfire risks",
