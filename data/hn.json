@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-12T14:15:30.604Z"
+    "built_at": "2026-08-12T15:52:15.264Z"
   },
-  "items": [
-    {
-      "title": "South Africa's Eskom targets data centre 'gold rush' for its power surplus",
-      "url": "https://www.ft.com/content/107b354b-ba03-44f2-9939-517cbcc11cd0",
-      "date": "2026-08-12T14:14:44.000Z"
-    },
-    {
-      "title": "The Railway Bubble vs. the AI Bubble (2025)",
-      "url": "https://awealthofcommonsense.com/2025/11/the-railway-bubble-vs-the-ai-bubble/",
-      "date": "2026-08-12T14:14:25.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
