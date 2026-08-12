@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-12T19:07:27.985Z",
-  "updated_local": "8/12/2026, 7:07:27 PM",
+  "updated_iso": "2026-08-12T19:11:48.783Z",
+  "updated_local": "8/12/2026, 7:11:48 PM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,16 @@
         "time": "8/12/2026, 4:04:50 PM"
       },
       {
-        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-        "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-        "source": "hn",
-        "time": "8/12/2026, 2:22:30 PM"
-      },
-      {
         "title": "Zed: Delta",
         "url": "https://zed.dev/blog/introducing-delta",
         "source": "hn",
         "time": "8/12/2026, 6:19:59 PM"
+      },
+      {
+        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+        "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+        "source": "hn",
+        "time": "8/12/2026, 2:22:30 PM"
       },
       {
         "title": "Qwen3.8-2.4T",
