@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-08-12T13:26:33.241Z",
-  "updated_local": "8/12/2026, 1:26:33 PM",
+  "updated_iso": "2026-08-12T14:53:52.975Z",
+  "updated_local": "8/12/2026, 2:53:52 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
+        "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
+        "source": "crypto",
+        "time": "Wed, 12 Aug 2026 14:13:07 +0000"
+      },
+      {
+        "title": "Kalshi Adds Real-Time Market Data Feed Through DoubleZero",
+        "url": "https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero",
+        "source": "crypto",
+        "time": "Wed, 12 Aug 2026 14:00:04 +0000"
+      },
       {
         "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
         "url": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
         "source": "crypto",
         "time": "Wed, 12 Aug 2026 10:38:06 +0000"
-      },
-      {
-        "title": "CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit",
-        "url": "https://decrypt.co/375387/cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit",
-        "source": "crypto",
-        "time": "Wed, 12 Aug 2026 09:22:12 +0000"
-      },
-      {
-        "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
-        "url": "https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo",
-        "source": "crypto",
-        "time": "Tue, 11 Aug 2026 22:04:06 +0000"
       }
     ],
     "hacker": [
@@ -42,31 +42,37 @@
         "time": "8/12/2026, 11:53:01 AM"
       },
       {
+        "title": "Obituary: AmigaDOS developer Dr. Tim King has passed away",
+        "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+        "source": "hn",
+        "time": "8/12/2026, 2:09:11 PM"
+      },
+      {
+        "title": "Why Tiny JPEGs Look Different in Chrome",
+        "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+        "source": "hn",
+        "time": "8/12/2026, 2:00:54 PM"
+      },
+      {
+        "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+        "url": "https://knownagents.com/insights",
+        "source": "hn",
+        "time": "8/12/2026, 2:02:46 PM"
+      },
+      {
         "title": "What sort of maths are LLMs good at?",
         "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
         "source": "hn",
         "time": "8/12/2026, 10:04:25 AM"
-      },
-      {
-        "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-        "url": "https://woxi.ad-si.com",
-        "source": "hn",
-        "time": "8/12/2026, 10:06:29 AM"
-      },
-      {
-        "title": "Delphi 13 Community Edition Is Now Available",
-        "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
-        "source": "hn",
-        "time": "8/12/2026, 11:13:36 AM"
-      },
-      {
-        "title": "LinkedIn CringeBot 3000",
-        "url": "https://www.cringebot3000.com/",
-        "source": "hn",
-        "time": "8/12/2026, 6:30:49 AM"
       }
     ],
     "world": [
+      {
+        "title": "Double killer and rapist given whole life sentence",
+        "url": "https://www.bbc.co.uk/news/articles/c4g30dw9xw6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 12 Aug 2026 14:25:00 GMT"
+      },
       {
         "title": "Three ways to watch the solar eclipse safely without glasses",
         "url": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&amp;at_campaign=rss",
@@ -74,10 +80,10 @@
         "time": "Tue, 11 Aug 2026 16:29:28 GMT"
       },
       {
-        "title": "Burnham says disposable BBQ ban under consideration",
+        "title": "Burnham considers disposable BBQ ban over wildfire risks",
         "url": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 12 Aug 2026 11:48:58 GMT"
+        "time": "Wed, 12 Aug 2026 13:31:51 GMT"
       },
       {
         "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
@@ -86,16 +92,10 @@
         "time": "Wed, 12 Aug 2026 12:32:24 GMT"
       },
       {
-        "title": "Cambridge review into Jason Arday post will be independent, university says",
-        "url": "https://www.bbc.co.uk/news/articles/cn4npy3w1p2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Messi unsure he will play 'much longer' after father's death",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c78gqj2dqyno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 12 Aug 2026 12:14:24 GMT"
-      },
-      {
-        "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-        "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 12 Aug 2026 11:28:02 GMT"
+        "time": "Wed, 12 Aug 2026 13:48:23 GMT"
       }
     ],
     "projects": [
