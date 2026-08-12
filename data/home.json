@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-08-12T17:03:42.649Z",
-  "updated_local": "8/12/2026, 5:03:42 PM",
+  "updated_iso": "2026-08-12T17:58:00.612Z",
+  "updated_local": "8/12/2026, 5:58:00 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
+        "url": "https://decrypt.co/375458/zoomsday-ai-zoom-exploit-one-day",
+        "source": "crypto",
+        "time": "Wed, 12 Aug 2026 17:46:04 +0000"
+      },
+      {
+        "title": "Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors",
+        "url": "https://decrypt.co/375457/fidelity-files-ethereum-etf-stake-pay-investors",
+        "source": "crypto",
+        "time": "Wed, 12 Aug 2026 17:13:43 +0000"
+      },
       {
         "title": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
         "url": "https://decrypt.co/375441/xrp-drained-tx-bridge",
@@ -20,32 +32,20 @@
         "url": "https://decrypt.co/375411/why-bitcoin-barely-moved-us-cpi-inflation-cools",
         "source": "crypto",
         "time": "Wed, 12 Aug 2026 15:07:56 +0000"
-      },
-      {
-        "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
-        "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
-        "source": "crypto",
-        "time": "Wed, 12 Aug 2026 14:13:07 +0000"
-      },
-      {
-        "title": "Kalshi Adds Real-Time Market Data Feed Through DoubleZero",
-        "url": "https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero",
-        "source": "crypto",
-        "time": "Wed, 12 Aug 2026 14:00:04 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-        "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-        "source": "hn",
-        "time": "8/12/2026, 2:22:30 PM"
-      },
       {
         "title": "DeepSeek V4 Pro 0813",
         "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
         "source": "hn",
         "time": "8/12/2026, 4:04:50 PM"
+      },
+      {
+        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+        "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+        "source": "hn",
+        "time": "8/12/2026, 2:22:30 PM"
       },
       {
         "title": "2026 Eclipse Webcams",
@@ -54,16 +54,16 @@
         "time": "8/12/2026, 11:53:01 AM"
       },
       {
+        "title": "Glaciers on the Climate Dashboard",
+        "url": "https://climate.metoffice.cloud/glaciers.html",
+        "source": "hn",
+        "time": "8/12/2026, 4:38:25 PM"
+      },
+      {
         "title": "Tim King, AmigaDOS developer, has died",
         "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
         "source": "hn",
         "time": "8/12/2026, 2:09:11 PM"
-      },
-      {
-        "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-        "url": "https://knownagents.com/insights",
-        "source": "hn",
-        "time": "8/12/2026, 2:02:46 PM"
       }
     ],
     "world": [
@@ -86,10 +86,10 @@
         "time": "Wed, 12 Aug 2026 14:25:00 GMT"
       },
       {
-        "title": "Burnham considers disposable BBQ ban over wildfire risks",
+        "title": "Burnham urges shops not to sell disposable BBQs over wildfire risks",
         "url": "https://www.bbc.co.uk/news/articles/cr59p2nr6dqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 12 Aug 2026 16:38:02 GMT"
+        "time": "Wed, 12 Aug 2026 17:26:08 GMT"
       },
       {
         "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
