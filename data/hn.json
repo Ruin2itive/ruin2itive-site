@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-12T09:03:35.635Z"
+    "built_at": "2026-08-12T11:40:20.024Z"
   },
-  "items": [
-    {
-      "title": "Project 0 Vaults: Machine Learning Grade Yield",
-      "url": "https://blog.0.xyz/articles/introducing-project-0-vaults/",
-      "date": "2026-08-12T09:01:31.000Z"
-    },
-    {
-      "title": "Unofficial Home Assistant integration for Geely vehicles",
-      "url": "https://github.com/YossiKon/geely-connect",
-      "date": "2026-08-12T09:00:22.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
