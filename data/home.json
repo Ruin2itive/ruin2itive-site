@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-08-12T11:52:59.771Z",
-  "updated_local": "8/12/2026, 11:52:59 AM",
+  "updated_iso": "2026-08-12T13:02:58.479Z",
+  "updated_local": "8/12/2026, 1:02:58 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
+        "url": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny",
+        "source": "crypto",
+        "time": "Wed, 12 Aug 2026 12:12:40 +0000"
+      },
+      {
+        "title": "Bitwise Cuts 14% of Staff as Crypto Slump Reaches ETF Issuers",
+        "url": "https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
+        "source": "crypto",
+        "time": "Wed, 12 Aug 2026 12:06:36 +0000"
+      },
       {
         "title": "Harmony&#39;s ONE Sinks 37% After Attacker Mints 4 Billion Tokens",
         "url": "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
@@ -20,21 +32,15 @@
         "url": "https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo",
         "source": "crypto",
         "time": "Tue, 11 Aug 2026 22:04:06 +0000"
-      },
-      {
-        "title": "BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit",
-        "url": "https://decrypt.co/375376/btcpay-bitcoin-bounty-critical-wallet-exploit",
-        "source": "crypto",
-        "time": "Tue, 11 Aug 2026 21:16:03 +0000"
-      },
-      {
-        "title": "The Bull and Bear Case for Solana’s Next Price Move",
-        "url": "https://decrypt.co/375364/solana-price-death-cross-bull-bear-case-next-move",
-        "source": "crypto",
-        "time": "Tue, 11 Aug 2026 20:46:04 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "2026 Eclipse Webcams",
+        "url": "https://jonty.github.io/2026_eclipse_webcams/",
+        "source": "hn",
+        "time": "8/12/2026, 11:53:01 AM"
+      },
       {
         "title": "What sort of maths are LLMs good at?",
         "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
@@ -54,16 +60,10 @@
         "time": "8/12/2026, 6:30:49 AM"
       },
       {
-        "title": "Dutch Train Map Simulator",
-        "url": "https://spoorkaart.zaza.dev",
+        "title": "Delphi 13 Community Edition Is Now Available",
+        "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
         "source": "hn",
-        "time": "8/12/2026, 9:09:21 AM"
-      },
-      {
-        "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
-        "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
-        "source": "hn",
-        "time": "8/6/2026, 10:29:50 AM"
+        "time": "8/12/2026, 11:13:36 AM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Wed, 12 Aug 2026 11:48:58 GMT"
       },
       {
-        "title": "Trump confirms he switched planes after Nato summit because of possible threat",
-        "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
+        "url": "https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 12 Aug 2026 03:44:55 GMT"
+        "time": "Wed, 12 Aug 2026 12:32:24 GMT"
       },
       {
-        "title": "Early release scheme risks more serious crimes, probation chief warns",
-        "url": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Cambridge review into Jason Arday post will be independent, university says",
+        "url": "https://www.bbc.co.uk/news/articles/cn4npy3w1p2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 12 Aug 2026 08:57:44 GMT"
+        "time": "Wed, 12 Aug 2026 12:14:24 GMT"
       },
       {
-        "title": "Serious failings found in new military crimes unit, leaked report finds",
-        "url": "https://www.bbc.co.uk/news/articles/cwy4w62p6gvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+        "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 12 Aug 2026 06:32:52 GMT"
+        "time": "Wed, 12 Aug 2026 11:28:02 GMT"
       }
     ],
     "projects": [
