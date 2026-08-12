@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-12T17:52:16.320Z"
+    "built_at": "2026-08-12T18:51:06.687Z"
   },
-  "items": [
-    {
-      "title": "Spotify to Begin Labelling AI-Generated Artist Profiles",
-      "url": "https://thequietus.com/news/spotify-to-begin-labelling-ai-generated-artist-profiles/",
-      "date": "2026-08-12T17:51:24.000Z"
-    },
-    {
-      "title": "To Improve Student Mental Health, University of Michigan Eases Grading",
-      "url": "https://www.nytimes.com/2026/08/11/us/university-michigan-grades-freshmen-pass-fail.html",
-      "date": "2026-08-12T17:50:46.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
