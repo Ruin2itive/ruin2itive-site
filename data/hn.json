@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-12T03:57:41.683Z"
+    "built_at": "2026-08-12T05:35:53.732Z"
   },
-  "items": [
-    {
-      "title": "Apache Fory JSON: JSON Serialization for Java, 10x faster than Jackson",
-      "url": "https://fory.apache.org/blog/fory_json_fastest_java_json_framework/",
-      "date": "2026-08-12T03:55:52.000Z"
-    },
-    {
-      "title": "YouTube sets Made For Kids flag on inappropriate video,won't let owner change it",
-      "url": "https://twitter.com/nihaho13/status/2087317049278075130",
-      "date": "2026-08-12T03:55:31.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
