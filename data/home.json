@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-13T04:08:55.697Z",
-  "updated_local": "8/13/2026, 4:08:55 AM",
+  "updated_iso": "2026-08-13T04:58:22.535Z",
+  "updated_local": "8/13/2026, 4:58:22 AM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,16 @@
         "time": "8/12/2026, 4:04:50 PM"
       },
       {
-        "title": "Delta",
-        "url": "https://zed.dev/blog/introducing-delta",
-        "source": "hn",
-        "time": "8/12/2026, 6:19:59 PM"
-      },
-      {
         "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
         "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
         "source": "hn",
         "time": "8/12/2026, 2:22:30 PM"
+      },
+      {
+        "title": "Delta",
+        "url": "https://zed.dev/blog/introducing-delta",
+        "source": "hn",
+        "time": "8/12/2026, 6:19:59 PM"
       },
       {
         "title": "Qwen3.8-2.4T",
@@ -68,6 +68,12 @@
     ],
     "world": [
       {
+        "title": "Results day dawns for A-level, T-level and BTec students",
+        "url": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 12 Aug 2026 19:26:55 GMT"
+      },
+      {
         "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
         "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -80,16 +86,10 @@
         "time": "Thu, 13 Aug 2026 02:31:39 GMT"
       },
       {
-        "title": "Students wait for A-level, T-level and BTec results",
-        "url": "https://www.bbc.co.uk/news/articles/c8dn8q3r8mzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Leading doctor rebukes NHS chiefs over transplants",
+        "url": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 12 Aug 2026 19:26:55 GMT"
-      },
-      {
-        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-        "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 13 Aug 2026 03:28:56 GMT"
+        "time": "Thu, 13 Aug 2026 01:03:15 GMT"
       },
       {
         "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
