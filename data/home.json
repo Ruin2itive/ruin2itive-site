@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-13T06:24:02.160Z",
-  "updated_local": "8/13/2026, 6:24:02 AM",
+  "updated_iso": "2026-08-13T08:18:08.701Z",
+  "updated_local": "8/13/2026, 8:18:08 AM",
   "sections": {
     "crypto": [
       {
@@ -42,7 +42,13 @@
         "time": "8/12/2026, 4:04:50 PM"
       },
       {
-        "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+        "title": "Mushroom behind 'tiny people' hallucinations identified",
+        "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
+        "source": "hn",
+        "time": "8/8/2026, 1:20:20 AM"
+      },
+      {
+        "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
         "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
         "source": "hn",
         "time": "8/12/2026, 2:22:30 PM"
@@ -58,12 +64,6 @@
         "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
         "source": "hn",
         "time": "8/12/2026, 3:01:17 PM"
-      },
-      {
-        "title": "Mushroom behind 'tiny people' hallucinations identified",
-        "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-        "source": "hn",
-        "time": "8/8/2026, 1:20:20 AM"
       }
     ],
     "world": [
@@ -74,10 +74,16 @@
         "time": "Wed, 12 Aug 2026 21:53:45 GMT"
       },
       {
-        "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
-        "url": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Moment 'surreal' solar eclipse witnessed in UK and Europe",
+        "url": "https://www.bbc.co.uk/news/videos/c5yr891pp5eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 13 Aug 2026 02:31:39 GMT"
+        "time": "Wed, 12 Aug 2026 22:45:52 GMT"
+      },
+      {
+        "title": "Economy grew in April to June as sun and World Cup helped some UK businesses",
+        "url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 13 Aug 2026 07:44:05 GMT"
       },
       {
         "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 13 Aug 2026 01:19:23 GMT"
-      },
-      {
-        "title": "Leading doctor rebukes NHS chiefs over transplants",
-        "url": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 13 Aug 2026 01:03:15 GMT"
       }
     ],
     "projects": [
