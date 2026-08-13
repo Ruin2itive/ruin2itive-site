@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-13T13:03:44.713Z",
-  "updated_local": "8/13/2026, 1:03:44 PM",
+  "updated_iso": "2026-08-13T13:34:23.929Z",
+  "updated_local": "8/13/2026, 1:34:23 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Trezor Customer Data Exposed in Shipping Partner Breach",
+        "url": "https://decrypt.co/375556/trezor-customer-data-exposed-in-shipping-partner-breach",
+        "source": "crypto",
+        "time": "Thu, 13 Aug 2026 13:10:43 +0000"
+      },
       {
         "title": "XRP Holders Can Now Trade Options Using Flare’s FXRP as Collateral",
         "url": "https://decrypt.co/375526/xrp-holders-trade-options-flare-fxrp-collateral",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375531/ceo-of-crypto-lender-delio-gets-15-years-over-49m-fraud",
         "source": "crypto",
         "time": "Thu, 13 Aug 2026 10:16:50 +0000"
-      },
-      {
-        "title": "The AI-Generated Pattern Hides You From Surveillance Cameras—Including Flock",
-        "url": "https://decrypt.co/375479/ai-generated-pattern-hides-you-surveillance-cameras-flock",
-        "source": "crypto",
-        "time": "Wed, 12 Aug 2026 21:31:15 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "8/13/2026, 12:09:50 PM"
       },
       {
+        "title": "Choosing an AI model: one prompt, 11 models, different results",
+        "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+        "source": "hn",
+        "time": "8/13/2026, 1:05:29 PM"
+      },
+      {
         "title": "ChatGPT Desktop (Codex Desktop) for Linux",
         "url": "https://openai.com/codex/",
         "source": "hn",
         "time": "8/13/2026, 4:53:41 AM"
       },
       {
-        "title": "The lattice of sets of natural numbers is rich",
+        "title": "The lattice of sets of natural numbers is rich (2021)",
         "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
         "source": "hn",
         "time": "8/10/2026, 1:53:13 PM"
       },
       {
-        "title": "Picking berries is my meditation",
-        "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
+        "title": "Better Gaussian Splatting in Julia",
+        "url": "https://pxl-th.github.io/blog/better-gs-julia/",
         "source": "hn",
-        "time": "8/8/2026, 7:24:02 PM"
-      },
-      {
-        "title": "DeepSeek V4 Pro 0813",
-        "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-        "source": "hn",
-        "time": "8/12/2026, 4:04:50 PM"
+        "time": "8/9/2026, 3:01:04 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Water bills set to rise for many after firms permitted extra funding",
         "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 13 Aug 2026 12:07:49 GMT"
+        "time": "Thu, 13 Aug 2026 13:09:38 GMT"
       },
       {
         "title": "Man, 102, dies after alleged pub assault",
@@ -95,7 +95,7 @@
         "title": "Harvey Nichols bought by Sports Direct owner",
         "url": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 13 Aug 2026 13:00:15 GMT"
+        "time": "Thu, 13 Aug 2026 13:32:40 GMT"
       }
     ],
     "projects": [
