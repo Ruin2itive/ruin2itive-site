@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-14T15:42:27.176Z"
+    "built_at": "2026-08-14T16:41:45.902Z"
   },
-  "items": [
-    {
-      "title": "Qwen 3.8 27B Pelican",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voa3ch/comment/p3o0om9/",
-      "date": "2026-08-14T15:41:56.000Z"
-    },
-    {
-      "title": "Activation Energy is a good model for a lot of things",
-      "url": "https://homosabiens.substack.com/p/activation-energy-is-a-good-model",
-      "date": "2026-08-14T15:40:16.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
