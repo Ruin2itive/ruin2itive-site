@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-14T10:59:24.515Z",
-  "updated_local": "8/14/2026, 10:59:24 AM",
+  "updated_iso": "2026-08-14T11:50:55.364Z",
+  "updated_local": "8/14/2026, 11:50:55 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Tether Finally Gets An Audit",
+        "url": "https://decrypt.co/375625/morning-minute-tether-finally-gets-an-audit",
+        "source": "crypto",
+        "time": "Fri, 14 Aug 2026 11:45:39 +0000"
+      },
       {
         "title": "SEC Shelves Crypto Rule Meeting Days After Senate Punted Clarity Act",
         "url": "https://decrypt.co/375622/sec-shelves-crypto-rule-meeting-days-after-senate-punted-clarity-act",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
         "source": "crypto",
         "time": "Thu, 13 Aug 2026 21:45:04 +0000"
-      },
-      {
-        "title": "Solana Can Be the &#39;Everything Chain&#39; as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
-        "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
-        "source": "crypto",
-        "time": "Thu, 13 Aug 2026 21:16:05 +0000"
       }
     ],
     "hacker": [
@@ -48,25 +48,37 @@
         "time": "8/14/2026, 9:55:33 AM"
       },
       {
-        "title": "I want extern \"fil-C\"",
-        "url": "https://www.domenkozar.com/2026/08/13/i-want-extern-fil-c/",
-        "source": "hn",
-        "time": "8/14/2026, 10:06:47 AM"
-      },
-      {
-        "title": "For the love of god stop using CPU limits in Kubernetes",
-        "url": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
-        "source": "hn",
-        "time": "8/14/2026, 10:41:21 AM"
-      },
-      {
         "title": "Gemini 3.7 Flash",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
         "source": "hn",
         "time": "8/13/2026, 5:23:22 PM"
+      },
+      {
+        "title": "Accelerating GPT-5.6 Sol Ultrafast",
+        "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+        "source": "hn",
+        "time": "8/13/2026, 6:10:02 PM"
+      },
+      {
+        "title": "Differential Heuristics",
+        "url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
+        "source": "hn",
+        "time": "8/9/2026, 1:58:46 PM"
       }
     ],
     "world": [
+      {
+        "title": "Video shows scale of devastation in Stourbridge",
+        "url": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 14 Aug 2026 07:26:53 GMT"
+      },
+      {
+        "title": "Farage faces renewed watchdog probe after Clacton by-election victory",
+        "url": "https://www.bbc.co.uk/news/articles/c62x1gr62m1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 14 Aug 2026 11:20:52 GMT"
+      },
       {
         "title": "Farage's by-election victory won't stop questions about finances",
         "url": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,13 +86,7 @@
         "time": "Fri, 14 Aug 2026 08:18:02 GMT"
       },
       {
-        "title": "Watch: Video shows scale of devastation in Stourbridge",
-        "url": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 14 Aug 2026 07:26:53 GMT"
-      },
-      {
-        "title": "Eurovision proposes new rules to tackle mass voting",
+        "title": "Eurovision proposes new rules to reduce political voting",
         "url": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 14 Aug 2026 10:23:08 GMT"
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cy8ewdwldxdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 14 Aug 2026 09:15:51 GMT"
-      },
-      {
-        "title": "Mother jailed for killing baby by burning her with a hairdryer",
-        "url": "https://www.bbc.co.uk/news/articles/c62918ddg3lo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 14 Aug 2026 10:56:16 GMT"
       }
     ],
     "projects": [
