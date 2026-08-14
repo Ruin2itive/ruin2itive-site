@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-14T11:51:17.067Z",
-  "updated_local": "8/14/2026, 11:51:17 AM",
+  "updated_iso": "2026-08-14T13:00:03.073Z",
+  "updated_local": "8/14/2026, 1:00:03 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Ireland’s New AML Strategy Brings ‘Enhanced Checks’ on Private Crypto Wallets",
+        "url": "https://decrypt.co/375628/irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets",
+        "source": "crypto",
+        "time": "Fri, 14 Aug 2026 12:38:39 +0000"
+      },
       {
         "title": "Morning Minute: Tether Finally Gets An Audit",
         "url": "https://decrypt.co/375625/morning-minute-tether-finally-gets-an-audit",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
         "source": "crypto",
         "time": "Thu, 13 Aug 2026 22:36:07 +0000"
-      },
-      {
-        "title": "Anthropic&#39;s AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
-        "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
-        "source": "crypto",
-        "time": "Thu, 13 Aug 2026 21:45:04 +0000"
       }
     ],
     "hacker": [
@@ -42,36 +42,36 @@
         "time": "8/14/2026, 5:19:59 AM"
       },
       {
+        "title": "Don't classify, hallucinate!",
+        "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+        "source": "hn",
+        "time": "8/10/2026, 8:50:36 PM"
+      },
+      {
         "title": "DeepSeek peak/off-peak pricing update",
         "url": "https://api-docs.deepseek.com/news/news260813/",
         "source": "hn",
         "time": "8/14/2026, 9:55:33 AM"
       },
       {
+        "title": "Why does Opus 5 feel worse to work with?",
+        "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+        "source": "hn",
+        "time": "8/14/2026, 10:12:48 AM"
+      },
+      {
         "title": "Gemini 3.7 Flash",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
         "source": "hn",
         "time": "8/13/2026, 5:23:22 PM"
-      },
-      {
-        "title": "Accelerating GPT-5.6 Sol Ultrafast",
-        "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-        "source": "hn",
-        "time": "8/13/2026, 6:10:02 PM"
-      },
-      {
-        "title": "Differential Heuristics",
-        "url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
-        "source": "hn",
-        "time": "8/9/2026, 1:58:46 PM"
       }
     ],
     "world": [
       {
-        "title": "Video shows scale of devastation in Stourbridge",
-        "url": "https://www.bbc.co.uk/news/videos/cz7d50q40v3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: 'Carnage' in Stourbridge as houses destroyed by fire",
+        "url": "https://www.bbc.co.uk/news/videos/cj03gyzg2l7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 14 Aug 2026 07:26:53 GMT"
+        "time": "Fri, 14 Aug 2026 11:11:48 GMT"
       },
       {
         "title": "Farage faces renewed watchdog probe after Clacton by-election victory",
@@ -80,10 +80,10 @@
         "time": "Fri, 14 Aug 2026 11:20:52 GMT"
       },
       {
-        "title": "Farage's by-election victory won't stop questions about finances",
-        "url": "https://www.bbc.co.uk/news/articles/cvgwz9delwwo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Prisoners charged over attack on Sara Sharif's father",
+        "url": "https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 14 Aug 2026 08:18:02 GMT"
+        "time": "Fri, 14 Aug 2026 12:57:00 GMT"
       },
       {
         "title": "Eurovision proposes new rules to reduce political voting",
@@ -92,10 +92,10 @@
         "time": "Fri, 14 Aug 2026 10:23:08 GMT"
       },
       {
-        "title": "The Office's Lucy Davis 'overwhelmed' by kindness after cancer diagnosis",
-        "url": "https://www.bbc.co.uk/news/articles/cy8ewdwldxdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+        "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 14 Aug 2026 09:15:51 GMT"
+        "time": "Fri, 14 Aug 2026 12:19:21 GMT"
       }
     ],
     "projects": [
