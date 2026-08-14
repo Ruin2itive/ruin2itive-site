@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-14T08:22:06.439Z",
-  "updated_local": "8/14/2026, 8:22:06 AM",
+  "updated_iso": "2026-08-14T09:57:40.144Z",
+  "updated_local": "8/14/2026, 9:57:40 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Kalshi Ordered to Block Washington Bets Days After CFTC Backed It",
+        "url": "https://decrypt.co/375619/kalshi-ordered-to-block-washington-bets-days-after-cftc-backed-it",
+        "source": "crypto",
+        "time": "Fri, 14 Aug 2026 09:50:40 +0000"
+      },
       {
         "title": "&#39;Bitcoin Is Burning&#39;: Red Team Turns to Chinese AI to Find Flaws",
         "url": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
         "source": "crypto",
         "time": "Thu, 13 Aug 2026 20:30:24 +0000"
-      },
-      {
-        "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
-        "url": "https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast",
-        "source": "crypto",
-        "time": "Thu, 13 Aug 2026 19:11:03 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "8/14/2026, 5:19:59 AM"
       },
       {
+        "title": "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun",
+        "url": "https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil",
+        "source": "hn",
+        "time": "8/14/2026, 7:03:56 AM"
+      },
+      {
         "title": "Gemini 3.7 Flash",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
         "source": "hn",
         "time": "8/13/2026, 5:23:22 PM"
-      },
-      {
-        "title": "Accelerating GPT-5.6 Sol Ultrafast",
-        "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-        "source": "hn",
-        "time": "8/13/2026, 6:10:02 PM"
       },
       {
         "title": "Hello, me. It's been a while",
@@ -60,10 +60,10 @@
         "time": "8/13/2026, 6:37:18 PM"
       },
       {
-        "title": "Show HN: C# Game Engine with its own scripting language and IDE",
-        "url": "https://github.com/ArcadeMakerSources/ArcadeMaker",
+        "title": "Accelerating GPT-5.6 Sol Ultrafast",
+        "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
         "source": "hn",
-        "time": "8/11/2026, 1:34:54 PM"
+        "time": "8/13/2026, 6:10:02 PM"
       }
     ],
     "world": [
@@ -80,16 +80,16 @@
         "time": "Fri, 14 Aug 2026 07:26:53 GMT"
       },
       {
-        "title": "Final day of heatwave for many before weekend cooldown",
-        "url": "https://www.bbc.co.uk/weather/articles/cgjepxqn0lvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 14 Aug 2026 00:08:16 GMT"
-      },
-      {
-        "title": "'Unprecedented' rains in Japan kill six people",
+        "title": "'Unprecedented' rain in Japan kills six people",
         "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 14 Aug 2026 07:00:56 GMT"
+      },
+      {
+        "title": "Mother jailed for killing baby by burning her with a hairdryer",
+        "url": "https://www.bbc.co.uk/news/articles/c62918ddg3lo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 14 Aug 2026 09:18:59 GMT"
       },
       {
         "title": "NHS service admits data breach due to pager use",
