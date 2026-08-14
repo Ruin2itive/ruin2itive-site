@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-14T20:36:58.955Z",
-  "updated_local": "8/14/2026, 8:36:58 PM",
+  "updated_iso": "2026-08-14T21:21:47.754Z",
+  "updated_local": "8/14/2026, 9:21:47 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
+        "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
+        "source": "crypto",
+        "time": "Fri, 14 Aug 2026 21:03:35 +0000"
+      },
       {
         "title": "China&#39;s Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
         "url": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million",
         "source": "crypto",
         "time": "Fri, 14 Aug 2026 17:46:06 +0000"
-      },
-      {
-        "title": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
-        "url": "https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading",
-        "source": "crypto",
-        "time": "Fri, 14 Aug 2026 17:14:02 +0000"
       }
     ],
     "hacker": [
@@ -48,6 +48,12 @@
         "time": "8/14/2026, 3:03:26 PM"
       },
       {
+        "title": "Anthropic Risk August 2026 [pdf]",
+        "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+        "source": "hn",
+        "time": "8/14/2026, 7:32:15 PM"
+      },
+      {
         "title": "RustDesk now supports true unattended remote access on Wayland",
         "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
         "source": "hn",
         "time": "8/14/2026, 10:12:48 AM"
-      },
-      {
-        "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-        "url": "https://z.ai/blog/glm-5.3",
-        "source": "hn",
-        "time": "8/14/2026, 5:19:59 AM"
       }
     ],
     "world": [
@@ -71,7 +71,13 @@
         "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
         "url": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 14 Aug 2026 20:32:55 GMT"
+        "time": "Fri, 14 Aug 2026 21:12:15 GMT"
+      },
+      {
+        "title": "Fires prompt national alert as 19 homes destroyed",
+        "url": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 14 Aug 2026 20:56:53 GMT"
       },
       {
         "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 14 Aug 2026 19:57:50 GMT"
-      },
-      {
-        "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
-        "url": "https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 14 Aug 2026 14:50:02 GMT"
       }
     ],
     "projects": [
