@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-14T22:30:38.636Z",
-  "updated_local": "8/14/2026, 10:30:38 PM",
+  "updated_iso": "2026-08-14T23:18:37.491Z",
+  "updated_local": "8/14/2026, 11:18:37 PM",
   "sections": {
     "crypto": [
       {
@@ -42,10 +42,16 @@
         "time": "8/14/2026, 3:00:00 PM"
       },
       {
-        "title": "RustDesk now supports true unattended remote access on Wayland",
-        "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+        "title": "Going Dark, and the era of law enforcement hacking",
+        "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
         "source": "hn",
-        "time": "8/14/2026, 4:12:52 PM"
+        "time": "8/14/2026, 8:52:44 PM"
+      },
+      {
+        "title": "RISC-V: They should have known better",
+        "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+        "source": "hn",
+        "time": "8/14/2026, 10:38:34 PM"
       },
       {
         "title": "Why does Opus 5 feel worse to work with?",
@@ -54,16 +60,10 @@
         "time": "8/14/2026, 10:12:48 AM"
       },
       {
-        "title": "Google is making private AI practical with homomorphic encryption",
-        "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+        "title": "RustDesk now supports true unattended remote access on Wayland",
+        "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
         "source": "hn",
-        "time": "8/14/2026, 3:43:10 PM"
-      },
-      {
-        "title": "What You Gain by Building Your Own Game Engine",
-        "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-        "source": "hn",
-        "time": "8/14/2026, 7:20:20 PM"
+        "time": "8/14/2026, 4:12:52 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Fri, 14 Aug 2026 19:17:16 GMT"
       },
       {
+        "title": "Five years after the Taliban swept to power, does the West have any influence?",
+        "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 14 Aug 2026 17:00:14 GMT"
+      },
+      {
         "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
         "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 14 Aug 2026 19:20:43 GMT"
-      },
-      {
-        "title": "Derailed Essex to London train leads to travel chaos",
-        "url": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 14 Aug 2026 19:57:50 GMT"
       }
     ],
     "projects": [
