@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-14T03:58:27.488Z"
+    "built_at": "2026-08-14T05:37:43.928Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "AI-driven surge in bond yields could be next risk for markets and growth",
+      "url": "https://www.reuters.com/world/asia-pacific/ai-driven-surge-bond-yields-could-be-next-risk-markets-growth-2026-08-14/",
+      "date": "2026-08-14T05:33:00.000Z"
+    },
+    {
+      "title": "A desktop AI copilot for interview questions and coding screenshots",
+      "url": "https://skillcopilotai.com",
+      "date": "2026-08-14T05:30:58.000Z"
+    }
+  ]
 }
