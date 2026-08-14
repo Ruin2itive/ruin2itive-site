@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-08-14T16:48:28.909Z",
-  "updated_local": "8/14/2026, 4:48:28 PM",
+  "updated_iso": "2026-08-14T17:50:00.092Z",
+  "updated_local": "8/14/2026, 5:50:00 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy",
+        "url": "https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million",
+        "source": "crypto",
+        "time": "Fri, 14 Aug 2026 17:46:06 +0000"
+      },
+      {
+        "title": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
+        "url": "https://decrypt.co/375665/israel-largest-bank-leumi-bitcoin-trading",
+        "source": "crypto",
+        "time": "Fri, 14 Aug 2026 17:14:02 +0000"
+      },
       {
         "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
         "url": "https://decrypt.co/375655/bitcoin-miner-sells-btc-ai-pivot-hyperscale",
@@ -20,26 +32,20 @@
         "url": "https://decrypt.co/375628/irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets",
         "source": "crypto",
         "time": "Fri, 14 Aug 2026 12:38:39 +0000"
-      },
-      {
-        "title": "Morning Minute: Tether Finally Gets An Audit",
-        "url": "https://decrypt.co/375625/morning-minute-tether-finally-gets-an-audit",
-        "source": "crypto",
-        "time": "Fri, 14 Aug 2026 11:45:39 +0000"
-      },
-      {
-        "title": "SEC Shelves Crypto Rule Meeting Days After Senate Punted Clarity Act",
-        "url": "https://decrypt.co/375622/sec-shelves-crypto-rule-meeting-days-after-senate-punted-clarity-act",
-        "source": "crypto",
-        "time": "Fri, 14 Aug 2026 10:39:39 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Qwen3.8-27B",
-        "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+        "title": "Qwen 3.8 27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "source": "hn",
-        "time": "8/14/2026, 3:03:54 PM"
+        "time": "8/14/2026, 3:00:00 PM"
+      },
+      {
+        "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+        "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+        "source": "hn",
+        "time": "8/14/2026, 4:45:49 PM"
       },
       {
         "title": "Seven books I keep close because I love them",
@@ -48,22 +54,16 @@
         "time": "8/14/2026, 3:03:26 PM"
       },
       {
-        "title": "Introducing Toast 1",
-        "url": "https://www.mixedbread.com/blog/toast-1",
-        "source": "hn",
-        "time": "8/14/2026, 3:07:57 PM"
-      },
-      {
-        "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-        "url": "https://z.ai/blog/glm-5.3",
-        "source": "hn",
-        "time": "8/14/2026, 5:19:59 AM"
-      },
-      {
         "title": "RustDesk now supports true unattended remote access on Wayland",
         "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
         "source": "hn",
         "time": "8/14/2026, 4:12:52 PM"
+      },
+      {
+        "title": "Introducing Toast 1",
+        "url": "https://www.mixedbread.com/blog/toast-1",
+        "source": "hn",
+        "time": "8/14/2026, 3:07:57 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
         "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 14 Aug 2026 15:36:45 GMT"
+        "time": "Fri, 14 Aug 2026 17:42:00 GMT"
       },
       {
         "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
@@ -80,16 +80,16 @@
         "time": "Fri, 14 Aug 2026 14:50:02 GMT"
       },
       {
-        "title": "British cyclist Tarling dies in Volta a Portugal accident",
+        "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
         "url": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 14 Aug 2026 16:47:21 GMT"
       },
       {
-        "title": "Trump asks Supreme Court to allow ballroom work to continue",
-        "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+        "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 14 Aug 2026 15:10:41 GMT"
+        "time": "Fri, 14 Aug 2026 17:03:17 GMT"
       },
       {
         "title": "Bezos-backed consortium buys a third of Liverpool FC",
