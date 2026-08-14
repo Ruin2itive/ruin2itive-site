@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-14T16:00:40.713Z",
-  "updated_local": "8/14/2026, 4:00:40 PM",
+  "updated_iso": "2026-08-14T16:48:28.909Z",
+  "updated_local": "8/14/2026, 4:48:28 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
+        "url": "https://decrypt.co/375655/bitcoin-miner-sells-btc-ai-pivot-hyperscale",
+        "source": "crypto",
+        "time": "Fri, 14 Aug 2026 16:23:20 +0000"
+      },
       {
         "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
         "url": "https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore",
@@ -26,26 +32,14 @@
         "url": "https://decrypt.co/375622/sec-shelves-crypto-rule-meeting-days-after-senate-punted-clarity-act",
         "source": "crypto",
         "time": "Fri, 14 Aug 2026 10:39:39 +0000"
-      },
-      {
-        "title": "Kalshi Ordered to Block Washington Bets Days After CFTC Backed It",
-        "url": "https://decrypt.co/375619/kalshi-ordered-to-block-washington-bets-days-after-cftc-backed-it",
-        "source": "crypto",
-        "time": "Fri, 14 Aug 2026 09:50:40 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Every Fucking Website (2020)",
-        "url": "https://lxe.github.io/everywebsite/",
+        "title": "Qwen3.8-27B",
+        "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
         "source": "hn",
-        "time": "8/14/2026, 2:31:08 PM"
-      },
-      {
-        "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-        "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-        "source": "hn",
-        "time": "8/14/2026, 2:34:49 PM"
+        "time": "8/14/2026, 3:03:54 PM"
       },
       {
         "title": "Seven books I keep close because I love them",
@@ -64,6 +58,12 @@
         "url": "https://z.ai/blog/glm-5.3",
         "source": "hn",
         "time": "8/14/2026, 5:19:59 AM"
+      },
+      {
+        "title": "RustDesk now supports true unattended remote access on Wayland",
+        "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+        "source": "hn",
+        "time": "8/14/2026, 4:12:52 PM"
       }
     ],
     "world": [
@@ -80,10 +80,10 @@
         "time": "Fri, 14 Aug 2026 14:50:02 GMT"
       },
       {
-        "title": "Watch: Moment €9m worth of art stolen from Italy museum",
-        "url": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "British cyclist Tarling dies in Volta a Portugal accident",
+        "url": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 14 Aug 2026 14:56:04 GMT"
+        "time": "Fri, 14 Aug 2026 16:47:21 GMT"
       },
       {
         "title": "Trump asks Supreme Court to allow ballroom work to continue",
@@ -92,10 +92,10 @@
         "time": "Fri, 14 Aug 2026 15:10:41 GMT"
       },
       {
-        "title": "Prisoners charged over attack on Sara Sharif's father",
-        "url": "https://www.bbc.co.uk/news/articles/c3v0yz9k250o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Bezos-backed consortium buys a third of Liverpool FC",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2vj4l9wxyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 14 Aug 2026 13:21:56 GMT"
+        "time": "Fri, 14 Aug 2026 16:00:16 GMT"
       }
     ],
     "projects": [
