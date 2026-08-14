@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-14T17:44:46.489Z"
+    "built_at": "2026-08-14T18:41:49.893Z"
   },
-  "items": [
-    {
-      "title": "Human brain cells do next-token prediction",
-      "url": "https://parasma.com/news/human-brain-cells-do-next-token-prediction",
-      "date": "2026-08-14T17:43:53.000Z"
-    },
-    {
-      "title": "Apple trains its own AI model for China market with Alibaba's support, sources",
-      "url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
-      "date": "2026-08-14T17:43:35.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
