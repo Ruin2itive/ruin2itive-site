@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-15T01:42:09.146Z",
-  "updated_local": "8/15/2026, 1:42:09 AM",
+  "updated_iso": "2026-08-15T02:48:56.651Z",
+  "updated_local": "8/15/2026, 2:48:56 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+        "source": "hn",
+        "time": "8/15/2026, 1:14:05 AM"
+      },
+      {
         "title": "Qwen 3.8 27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "8/14/2026, 8:52:44 PM"
       },
       {
-        "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-        "source": "hn",
-        "time": "8/15/2026, 1:14:05 AM"
-      },
-      {
-        "title": "Why does Opus 5 feel worse to work with?",
-        "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-        "source": "hn",
-        "time": "8/14/2026, 10:12:48 AM"
-      },
-      {
         "title": "The Ploopy A+ Trackball Is Here",
         "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
         "source": "hn",
         "time": "8/15/2026, 12:55:31 AM"
+      },
+      {
+        "title": "Simplifying and Refactoring Introductory Calculus",
+        "url": "https://arxiv.org/abs/1811.03459",
+        "source": "hn",
+        "time": "8/15/2026, 12:15:23 AM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Fri, 14 Aug 2026 17:00:14 GMT"
       },
       {
-        "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Two people killed after 7.7 magnitude earthquake strikes Indonesia",
+        "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 14 Aug 2026 19:20:43 GMT"
+        "time": "Sat, 15 Aug 2026 02:30:10 GMT"
       }
     ],
     "projects": [
