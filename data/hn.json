@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-15T07:22:25.145Z"
+    "built_at": "2026-08-15T08:17:21.447Z"
   },
-  "items": [
-    {
-      "title": "Omarchy v4.0.0",
-      "url": "https://github.com/basecamp/omarchy/releases/tag/v4.0.0",
-      "date": "2026-08-15T07:21:02.000Z"
-    },
-    {
-      "title": "An Inside Look at the NYC Subway's Archaic Signal System",
-      "url": "https://www.nytimes.com/interactive/2025/04/20/nyregion/nyc-subway-signals.html",
-      "date": "2026-08-15T07:19:15.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
