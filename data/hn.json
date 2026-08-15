@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-15T17:13:05.488Z"
+    "built_at": "2026-08-15T18:16:25.263Z"
   },
-  "items": [
-    {
-      "title": "Learn electronics by making your own circuit simulator in Python",
-      "url": "https://spicycircuits.dev/",
-      "date": "2026-08-15T17:11:16.000Z"
-    },
-    {
-      "title": "Ironies of Automation (1983) [pdf]",
-      "url": "https://ckrybus.com/static/papers/Bainbridge_1983_Automatica.pdf",
-      "date": "2026-08-15T17:05:33.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
