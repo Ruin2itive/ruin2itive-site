@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-15T10:14:05.819Z"
+    "built_at": "2026-08-15T11:11:54.819Z"
   },
-  "items": [
-    {
-      "title": "Commodore 64 raycasting in 160x200 with textures [video]",
-      "url": "https://www.youtube.com/watch?v=A-jgsFJfmS8",
-      "date": "2026-08-15T10:12:39.000Z"
-    },
-    {
-      "title": "Kessler Syndrome",
-      "url": "https://en.wikipedia.org/wiki/Kessler_syndrome",
-      "date": "2026-08-15T10:12:30.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
