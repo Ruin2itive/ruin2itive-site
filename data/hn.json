@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-15T21:13:04.025Z"
+    "built_at": "2026-08-15T22:11:51.054Z"
   },
-  "items": [
-    {
-      "title": "A Walkable ASCII Cyberpunk City in One HTML File [video]",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "date": "2026-08-15T21:12:05.000Z"
-    },
-    {
-      "title": "Memories Mysteriously Survive After Brain Shutdown",
-      "url": "https://www.404media.co/memories-mysteriously-survive-after-brain-shutdown-and-scientists-dont-know-why/",
-      "date": "2026-08-15T21:11:59.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
