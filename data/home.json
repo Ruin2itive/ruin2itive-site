@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-15T12:51:46.576Z",
-  "updated_local": "8/15/2026, 12:51:46 PM",
+  "updated_iso": "2026-08-15T13:27:34.674Z",
+  "updated_local": "8/15/2026, 1:27:34 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
+        "url": "https://decrypt.co/375726/trump-world-liberty-bank-charter-usd1-stablecoin",
+        "source": "crypto",
+        "time": "Sat, 15 Aug 2026 13:01:04 +0000"
+      },
       {
         "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
         "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375670/openai-staff-blame-rush-ship-rogue-agent-hack",
         "source": "crypto",
         "time": "Fri, 14 Aug 2026 18:31:03 +0000"
-      },
-      {
-        "title": "Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy",
-        "url": "https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million",
-        "source": "crypto",
-        "time": "Fri, 14 Aug 2026 17:46:06 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://sankalp.bearblog.dev/autoresearch/",
         "source": "hn",
         "time": "8/15/2026, 11:00:02 AM"
+      },
+      {
+        "title": "Brazilian election filter in X For You timeline",
+        "url": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
+        "source": "hn",
+        "time": "8/15/2026, 1:18:27 PM"
       },
       {
         "title": "The other Sean Byrne doesn't exist",
@@ -54,16 +60,10 @@
         "time": "8/14/2026, 3:00:00 PM"
       },
       {
-        "title": "The mathematical beauty of hyperbezier curves",
-        "url": "https://linebender.org/blog/hyperbezier/",
+        "title": "Strait of Hormuz Live Traffic Tracking",
+        "url": "https://hormuz.now/",
         "source": "hn",
-        "time": "8/9/2026, 11:09:04 PM"
-      },
-      {
-        "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-        "url": "https://uecker.codeberg.page/2026-07-14.html",
-        "source": "hn",
-        "time": "8/15/2026, 7:59:42 AM"
+        "time": "8/15/2026, 12:54:43 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Sat, 15 Aug 2026 12:31:55 GMT"
       },
       {
-        "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
-        "url": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Bonnie Tyler fans line the streets as coffin taken to former home",
+        "url": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 15 Aug 2026 11:53:19 GMT"
+        "time": "Sat, 15 Aug 2026 13:20:36 GMT"
       },
       {
-        "title": "Five years after the Taliban swept to power, does the West have any influence?",
-        "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+        "url": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 14 Aug 2026 17:00:14 GMT"
+        "time": "Sat, 15 Aug 2026 05:01:13 GMT"
       }
     ],
     "projects": [
