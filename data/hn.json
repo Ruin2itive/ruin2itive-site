@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-15T14:14:03.869Z"
+    "built_at": "2026-08-15T15:12:06.981Z"
   },
-  "items": [
-    {
-      "title": "The most dangerous iPhone Game (beta)",
-      "url": "https://testflight.apple.com/join/z1yM1vbj",
-      "date": "2026-08-15T14:13:31.000Z"
-    },
-    {
-      "title": "As speed cameras spread to more states, so does the backlash from drivers",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
-      "date": "2026-08-15T14:13:10.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
