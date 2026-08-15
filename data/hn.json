@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-15T18:16:25.263Z"
+    "built_at": "2026-08-15T19:15:13.534Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Austin Scholar #222: The three things that make a kid love learning",
+      "url": "https://austinscholar.substack.com/p/austin-scholar-222-the-three-things",
+      "date": "2026-08-15T19:14:12.000Z"
+    },
+    {
+      "title": "Job Recession in Higher Education",
+      "url": "https://gadlevanon.substack.com/p/job-recession-in-higher-education",
+      "date": "2026-08-15T19:13:50.000Z"
+    }
+  ]
 }
