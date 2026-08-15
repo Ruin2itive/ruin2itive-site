@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-15T11:11:54.819Z"
+    "built_at": "2026-08-15T12:20:22.684Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Tempered – AI Powered PC Optimizer",
+      "url": "https://tempered.to/",
+      "date": "2026-08-15T12:18:18.000Z"
+    },
+    {
+      "title": "Truth is no stranger to fiction",
+      "url": "https://vincemichael.com/2026/06/18/truth-is-no-stranger-to-fiction/",
+      "date": "2026-08-15T12:14:57.000Z"
+    }
+  ]
 }
