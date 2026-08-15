@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-15T05:31:10.034Z",
-  "updated_local": "8/15/2026, 5:31:10 AM",
+  "updated_iso": "2026-08-15T06:33:23.386Z",
+  "updated_local": "8/15/2026, 6:33:23 AM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-        "source": "hn",
-        "time": "8/15/2026, 1:14:05 AM"
-      },
-      {
         "title": "Qwen 3.8 27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "source": "hn",
         "time": "8/14/2026, 3:00:00 PM"
-      },
-      {
-        "title": "Going Dark, and the era of law enforcement hacking",
-        "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-        "source": "hn",
-        "time": "8/14/2026, 8:52:44 PM"
       },
       {
         "title": "The other Sean Byrne doesn't exist",
@@ -60,10 +48,22 @@
         "time": "8/15/2026, 4:18:44 AM"
       },
       {
-        "title": "I close SSH port 22 (and what I use instead)",
-        "url": "https://www.michelebologna.net/2026/ssh-port-22-fwknop-single-packet-authorization/",
+        "title": "Coin-sized device can hack a Boeing 737",
+        "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
         "source": "hn",
-        "time": "8/10/2026, 7:19:03 PM"
+        "time": "8/13/2026, 7:57:40 AM"
+      },
+      {
+        "title": "Going Dark, and the era of law enforcement hacking",
+        "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+        "source": "hn",
+        "time": "8/14/2026, 8:52:44 PM"
+      },
+      {
+        "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+        "source": "hn",
+        "time": "8/15/2026, 1:14:05 AM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Fri, 14 Aug 2026 17:00:14 GMT"
       },
       {
-        "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-        "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Heathrow Airport warns of disruption following floods",
+        "url": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 15 Aug 2026 00:01:53 GMT"
+        "time": "Sat, 15 Aug 2026 06:06:02 GMT"
       }
     ],
     "projects": [
