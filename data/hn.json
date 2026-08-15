@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-15T15:12:06.981Z"
+    "built_at": "2026-08-15T16:13:54.442Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Ask HN: You have model orders of magnitudes faster than transformer, so?",
+      "url": "https://news.ycombinator.com/item?id=49311767",
+      "date": "2026-08-15T16:13:12.000Z"
+    },
+    {
+      "title": "Humanists Have Done Nothing Wrong",
+      "url": "https://defector.com/humanists-have-done-nothing-wrong",
+      "date": "2026-08-15T16:13:03.000Z"
+    }
+  ]
 }
