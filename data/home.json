@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-15T11:26:57.414Z",
-  "updated_local": "8/15/2026, 11:26:57 AM",
+  "updated_iso": "2026-08-15T12:31:53.753Z",
+  "updated_local": "8/15/2026, 12:31:53 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+        "url": "https://sankalp.bearblog.dev/autoresearch/",
+        "source": "hn",
+        "time": "8/15/2026, 11:00:02 AM"
+      },
+      {
         "title": "The other Sean Byrne doesn't exist",
         "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "8/14/2026, 3:00:00 PM"
       },
       {
-        "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-        "url": "https://uecker.codeberg.page/2026-07-14.html",
-        "source": "hn",
-        "time": "8/15/2026, 7:59:42 AM"
-      },
-      {
         "title": "The mathematical beauty of hyperbezier curves",
         "url": "https://linebender.org/blog/hyperbezier/",
         "source": "hn",
         "time": "8/9/2026, 11:09:04 PM"
       },
       {
-        "title": "Going Dark, and the era of law enforcement hacking",
-        "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+        "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+        "url": "https://uecker.codeberg.page/2026-07-14.html",
         "source": "hn",
-        "time": "8/14/2026, 8:52:44 PM"
+        "time": "8/15/2026, 7:59:42 AM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Sat, 15 Aug 2026 11:21:10 GMT"
       },
       {
-        "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+        "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
         "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 15 Aug 2026 08:52:55 GMT"
+        "time": "Sat, 15 Aug 2026 11:48:58 GMT"
       },
       {
-        "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-        "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
+        "url": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 15 Aug 2026 00:01:53 GMT"
+        "time": "Sat, 15 Aug 2026 11:53:19 GMT"
       },
       {
-        "title": "Heathrow Airport burst main causes travel disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cgmkdr3gy07o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Five years after the Taliban swept to power, does the West have any influence?",
+        "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 15 Aug 2026 11:20:11 GMT"
+        "time": "Fri, 14 Aug 2026 17:00:14 GMT"
       }
     ],
     "projects": [
