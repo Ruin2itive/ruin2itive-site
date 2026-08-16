@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-16T10:14:56.557Z"
+    "built_at": "2026-08-16T11:12:25.686Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Oh-My-Claudecode, Orchestration Layer That Removes Humans from the Build Loop",
+      "url": "https://www.zhcinstitute.com/research/oh-my-claudecode-multi-agent-field-notes/",
+      "date": "2026-08-16T11:10:59.000Z"
+    },
+    {
+      "title": "TrueMath – An open-source exact symbolic math tool",
+      "url": "https://news.ycombinator.com/item?id=49318921",
+      "date": "2026-08-16T11:08:01.000Z"
+    }
+  ]
 }
