@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-16T20:12:32.388Z"
+    "built_at": "2026-08-16T21:12:07.524Z"
   },
-  "items": [
-    {
-      "title": "Does Fixing Break Security? An Empirical Study of LLM Security Degradation",
-      "url": "https://arxiv.org/abs/2608.13404",
-      "date": "2026-08-16T20:09:22.000Z"
-    },
-    {
-      "title": "Show HN: World Pop – A world map with countries resized by population, 1800–2100",
-      "url": "https://douwe.com/projects/gapmover",
-      "date": "2026-08-16T20:08:41.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
