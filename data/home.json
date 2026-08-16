@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-16T13:36:46.283Z",
-  "updated_local": "8/16/2026, 1:36:46 PM",
+  "updated_iso": "2026-08-16T14:19:07.711Z",
+  "updated_local": "8/16/2026, 2:19:07 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
+        "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
+        "source": "crypto",
+        "time": "Sun, 16 Aug 2026 14:01:03 +0000"
+      },
       {
         "title": "Apple Turns to Alibaba to Help Build AI Model for China",
         "url": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
         "source": "crypto",
         "time": "Fri, 14 Aug 2026 21:03:35 +0000"
-      },
-      {
-        "title": "China&#39;s Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
-        "url": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
-        "source": "crypto",
-        "time": "Fri, 14 Aug 2026 20:01:13 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "8/16/2026, 12:48:21 PM"
       },
       {
-        "title": "Is the industry ready for tokens-constrained work?",
-        "url": "https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out",
-        "source": "hn",
-        "time": "8/16/2026, 12:51:58 PM"
-      },
-      {
         "title": "A SAT Attack on Tarski's High School Algebra Problem",
         "url": "https://arxiv.org/abs/2608.08421",
         "source": "hn",
         "time": "8/12/2026, 6:30:57 AM"
       },
       {
-        "title": "How Many Employees Does It Take to Reach $100M ARR Now?",
-        "url": "https://nazr.com/blog/how-many-employees-100m-arr",
+        "title": "Firefox for iOS now has a native adblocker",
+        "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
         "source": "hn",
-        "time": "8/16/2026, 12:49:30 PM"
+        "time": "8/16/2026, 12:58:10 PM"
       },
       {
-        "title": "Asus Bike Booster",
-        "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+        "title": "Does anyone run Postgres without PgBouncer?",
+        "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
         "source": "hn",
-        "time": "8/12/2026, 6:33:12 AM"
+        "time": "8/12/2026, 8:13:06 PM"
+      },
+      {
+        "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+        "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+        "source": "hn",
+        "time": "8/16/2026, 12:22:20 PM"
       }
     ],
     "world": [
@@ -77,19 +77,19 @@
         "title": "People who fled Stourbridge fires start to return home",
         "url": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 16 Aug 2026 13:30:11 GMT"
-      },
-      {
-        "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
-        "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 16 Aug 2026 00:39:22 GMT"
+        "time": "Sun, 16 Aug 2026 13:58:20 GMT"
       },
       {
         "title": "Murder inquiry after man bitten by dog dies",
         "url": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 16 Aug 2026 12:36:11 GMT"
+      },
+      {
+        "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
+        "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 16 Aug 2026 00:39:22 GMT"
       },
       {
         "title": "Ariana Grande leaves problems at home as her tour hits the UK",
