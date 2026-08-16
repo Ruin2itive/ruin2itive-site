@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-15T23:12:24.724Z"
+    "built_at": "2026-08-16T00:49:12.686Z"
   },
-  "items": [
-    {
-      "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html",
-      "date": "2026-08-15T23:10:56.000Z"
-    },
-    {
-      "title": "Meguro Parasite Museum",
-      "url": "https://www.kiseichu.org",
-      "date": "2026-08-15T23:08:05.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
