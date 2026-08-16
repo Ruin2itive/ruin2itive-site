@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-16T20:30:18.432Z",
-  "updated_local": "8/16/2026, 8:30:18 PM",
+  "updated_iso": "2026-08-16T21:16:47.423Z",
+  "updated_local": "8/16/2026, 9:16:47 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "The Case Against Formal Verification, 50 Years Later",
+        "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+        "source": "hn",
+        "time": "8/16/2026, 8:38:58 PM"
+      },
+      {
         "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
         "url": "https://rvembedded.com/blog_post/12/",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "8/16/2026, 12:48:21 PM"
       },
       {
-        "title": "Models Are Getting Dumber on Purpose",
-        "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-        "source": "hn",
-        "time": "8/16/2026, 7:04:26 PM"
-      },
-      {
         "title": "Protobuf has LSP support. You're welcome",
         "url": "https://buf.build/blog/protobuf-lsp",
         "source": "hn",
         "time": "8/16/2026, 6:48:27 PM"
       },
       {
-        "title": "The AI Credit Resale Economy",
-        "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+        "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+        "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
         "source": "hn",
-        "time": "8/16/2026, 2:44:55 PM"
+        "time": "8/13/2026, 12:44:05 PM"
       }
     ],
     "world": [
@@ -80,16 +80,16 @@
         "time": "Sun, 16 Aug 2026 19:03:04 GMT"
       },
       {
-        "title": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
-        "url": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 16 Aug 2026 15:53:21 GMT"
-      },
-      {
         "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
         "url": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 16 Aug 2026 20:07:40 GMT"
+      },
+      {
+        "title": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
+        "url": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 16 Aug 2026 15:53:21 GMT"
       },
       {
         "title": "Murder inquiry after man bitten by dog dies",
