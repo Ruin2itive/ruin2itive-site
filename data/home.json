@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-16T01:49:43.246Z",
-  "updated_local": "8/16/2026, 1:49:43 AM",
+  "updated_iso": "2026-08-16T02:57:00.671Z",
+  "updated_local": "8/16/2026, 2:57:00 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "8/12/2026, 6:33:12 AM"
       },
       {
+        "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+        "url": "https://duckdb.org/2026/07/31/asynchronous-io",
+        "source": "hn",
+        "time": "8/10/2026, 1:01:18 PM"
+      },
+      {
         "title": "Semaglutide linked to lower predicted dementia risk",
         "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
         "source": "hn",
@@ -54,16 +60,10 @@
         "time": "8/15/2026, 8:54:11 PM"
       },
       {
-        "title": "AI in drug discovery – what it is, where we stand and the path forward",
-        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+        "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+        "url": "https://www.micdrop.gg/",
         "source": "hn",
-        "time": "8/15/2026, 7:12:53 PM"
-      },
-      {
-        "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-        "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-        "source": "hn",
-        "time": "8/15/2026, 2:04:49 PM"
+        "time": "8/16/2026, 12:46:29 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Sat, 15 Aug 2026 21:28:54 GMT"
       },
       {
-        "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
-        "url": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 16 Aug 2026 00:51:29 GMT"
-      },
-      {
         "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
         "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 16 Aug 2026 00:39:22 GMT"
       },
       {
-        "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-        "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+        "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 15 Aug 2026 20:00:15 GMT"
+        "time": "Sat, 15 Aug 2026 21:49:12 GMT"
       },
       {
-        "title": "Jason Arday death 'tragedy on so many levels' says PM",
-        "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ariana Grande leaves problems at home as her tour hits the UK",
+        "url": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 15 Aug 2026 17:43:04 GMT"
+        "time": "Sun, 16 Aug 2026 02:01:42 GMT"
+      },
+      {
+        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+        "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 15 Aug 2026 20:58:31 GMT"
       }
     ],
     "projects": [
