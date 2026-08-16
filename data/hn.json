@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-16T00:49:12.686Z"
+    "built_at": "2026-08-16T02:16:39.526Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "date": "2026-08-16T02:12:53.000Z"
+    },
+    {
+      "title": "Fairly Ranking the Most Brilliant Birds",
+      "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
+      "date": "2026-08-16T02:08:54.000Z"
+    }
+  ]
 }
