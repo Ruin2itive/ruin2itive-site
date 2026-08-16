@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-16T08:25:34.240Z",
-  "updated_local": "8/16/2026, 8:25:34 AM",
+  "updated_iso": "2026-08-16T08:38:13.324Z",
+  "updated_local": "8/16/2026, 8:38:13 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "What happens when an LLM never sees material beyond fifth grade?",
-        "url": "https://littlelearner-ll.github.io/",
-        "source": "hn",
-        "time": "8/16/2026, 7:37:53 AM"
-      },
-      {
         "title": "Asus Bike Booster",
         "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
         "source": "hn",
         "time": "8/12/2026, 6:33:12 AM"
+      },
+      {
+        "title": "What happens when an LLM never sees material beyond fifth grade?",
+        "url": "https://littlelearner-ll.github.io/",
+        "source": "hn",
+        "time": "8/16/2026, 7:37:53 AM"
       },
       {
         "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
@@ -54,16 +54,16 @@
         "time": "8/10/2026, 1:01:18 PM"
       },
       {
-        "title": "Patterns and problems in emerging multi-agent systems",
-        "url": "https://www.anthropic.com/research/multiagent-systems",
-        "source": "hn",
-        "time": "8/16/2026, 2:12:53 AM"
-      },
-      {
         "title": "Semaglutide linked to lower predicted dementia risk",
         "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
         "source": "hn",
         "time": "8/15/2026, 3:58:53 PM"
+      },
+      {
+        "title": "Patterns and problems in emerging multi-agent systems",
+        "url": "https://www.anthropic.com/research/multiagent-systems",
+        "source": "hn",
+        "time": "8/16/2026, 2:12:53 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Sun, 16 Aug 2026 08:23:38 GMT"
       },
       {
+        "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 16 Aug 2026 08:14:56 GMT"
+      },
+      {
         "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
         "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 16 Aug 2026 00:39:22 GMT"
       },
       {
-        "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-        "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "People who fled Stourbridge fires start to return home",
+        "url": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 16 Aug 2026 07:58:02 GMT"
+        "time": "Sun, 16 Aug 2026 08:32:57 GMT"
       },
       {
         "title": "Ariana Grande leaves problems at home as her tour hits the UK",
         "url": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 16 Aug 2026 02:01:42 GMT"
-      },
-      {
-        "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
-        "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 15 Aug 2026 21:28:54 GMT"
       }
     ],
     "projects": [
