@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-16T12:33:09.342Z",
-  "updated_local": "8/16/2026, 12:33:09 PM",
+  "updated_iso": "2026-08-16T12:53:12.489Z",
+  "updated_local": "8/16/2026, 12:53:12 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "A SAT Attack on Tarski's High School Algebra Problem",
+        "url": "https://arxiv.org/abs/2608.08421",
+        "source": "hn",
+        "time": "8/12/2026, 6:30:57 AM"
+      },
+      {
         "title": "Asus Bike Booster",
         "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
         "source": "hn",
@@ -48,25 +54,25 @@
         "time": "8/12/2026, 7:07:06 PM"
       },
       {
-        "title": "Patterns and problems in emerging multi-agent systems",
-        "url": "https://www.anthropic.com/research/multiagent-systems",
+        "title": "Chestnut – eGPU dock with open-source firmware",
+        "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
         "source": "hn",
-        "time": "8/16/2026, 2:12:53 AM"
+        "time": "8/13/2026, 10:01:04 PM"
       },
       {
         "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
         "url": "https://duckdb.org/2026/07/31/asynchronous-io",
         "source": "hn",
         "time": "8/10/2026, 1:01:18 PM"
-      },
-      {
-        "title": "Chestnut – eGPU dock with open-source firmware",
-        "url": "https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/",
-        "source": "hn",
-        "time": "8/13/2026, 10:01:04 PM"
       }
     ],
     "world": [
+      {
+        "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+        "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 16 Aug 2026 12:18:09 GMT"
+      },
       {
         "title": "People who fled Stourbridge fires start to return home",
         "url": "https://www.bbc.co.uk/news/articles/cr49932qrqno?at_medium=RSS&amp;at_campaign=rss",
@@ -83,19 +89,13 @@
         "title": "Murder inquiry after man bitten by dog dies",
         "url": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 16 Aug 2026 11:57:41 GMT"
+        "time": "Sun, 16 Aug 2026 12:36:11 GMT"
       },
       {
         "title": "Ariana Grande leaves problems at home as her tour hits the UK",
         "url": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 16 Aug 2026 02:01:42 GMT"
-      },
-      {
-        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-        "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 16 Aug 2026 08:23:38 GMT"
       }
     ],
     "projects": [
