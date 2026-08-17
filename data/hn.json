@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-17T04:32:43.038Z"
+    "built_at": "2026-08-17T05:27:38.466Z"
   },
-  "items": [
-    {
-      "title": "AI Stock Research Assistant · Streamlit",
-      "url": "https://ai-stock-research-kiaan.streamlit.app",
-      "date": "2026-08-17T04:31:55.000Z"
-    },
-    {
-      "title": "A Walkable ASCII Cyberpunk City in One HTML File",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "date": "2026-08-17T04:31:53.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
