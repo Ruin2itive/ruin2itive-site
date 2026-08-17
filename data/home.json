@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-17T14:35:08.298Z",
-  "updated_local": "8/17/2026, 2:35:08 PM",
+  "updated_iso": "2026-08-17T15:21:34.992Z",
+  "updated_local": "8/17/2026, 3:21:34 PM",
   "sections": {
     "crypto": [
       {
@@ -36,36 +36,42 @@
     ],
     "hacker": [
       {
+        "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+        "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+        "source": "hn",
+        "time": "8/17/2026, 2:07:59 PM"
+      },
+      {
+        "title": "A Preview of DuckDB v2.0",
+        "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+        "source": "hn",
+        "time": "8/17/2026, 1:46:27 PM"
+      },
+      {
+        "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+        "source": "hn",
+        "time": "8/17/2026, 2:18:38 PM"
+      },
+      {
         "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
         "url": "https://blog.roboflow.com/openai-gpt-5-6/",
         "source": "hn",
         "time": "8/17/2026, 12:09:42 PM"
       },
       {
-        "title": "Incident with Github.com",
-        "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+        "title": "How to disable or avoid intrusive AI",
+        "url": "https://www.librarian.net/notoai/",
         "source": "hn",
-        "time": "8/17/2026, 1:40:55 PM"
-      },
-      {
-        "title": "Show HN: Sokoban AI Solver",
-        "url": "https://mkornreich.me/projects/sokoban/",
-        "source": "hn",
-        "time": "8/17/2026, 1:07:00 PM"
-      },
-      {
-        "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-        "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-        "source": "hn",
-        "time": "8/16/2026, 11:45:09 PM"
+        "time": "8/17/2026, 2:07:56 PM"
       }
     ],
     "world": [
       {
-        "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
-        "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+        "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 17 Aug 2026 05:03:31 GMT"
+        "time": "Mon, 17 Aug 2026 14:59:02 GMT"
       },
       {
         "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
@@ -74,22 +80,22 @@
         "time": "Mon, 17 Aug 2026 14:24:58 GMT"
       },
       {
+        "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+        "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 17 Aug 2026 05:03:31 GMT"
+      },
+      {
+        "title": "Emotional farewell to 'global, iconic superstar' Bonnie Tyler",
+        "url": "https://www.bbc.co.uk/news/articles/c171j051gejo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 17 Aug 2026 14:29:58 GMT"
+      },
+      {
         "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
         "url": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 17 Aug 2026 02:08:56 GMT"
-      },
-      {
-        "title": "Watch: Sprint sensation Amy Hunt takes gold number four at the European championships",
-        "url": "https://www.bbc.co.uk/sport/athletics/videos/cdj00030me7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 16 Aug 2026 19:58:15 GMT"
-      },
-      {
-        "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
-        "url": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 17 Aug 2026 14:21:02 GMT"
       }
     ],
     "projects": [
