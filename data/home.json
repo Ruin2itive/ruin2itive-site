@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-17T03:50:29.248Z",
-  "updated_local": "8/17/2026, 3:50:29 AM",
+  "updated_iso": "2026-08-17T04:38:21.978Z",
+  "updated_local": "8/17/2026, 4:38:21 AM",
   "sections": {
     "crypto": [
       {
@@ -48,22 +48,22 @@
         "time": "8/17/2026, 12:17:57 AM"
       },
       {
-        "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-        "url": "https://rvembedded.com/blog_post/12/",
-        "source": "hn",
-        "time": "8/16/2026, 5:01:07 PM"
-      },
-      {
         "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
         "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
         "source": "hn",
         "time": "8/17/2026, 1:45:36 AM"
       },
       {
-        "title": "Rhombus 1.1 is now available",
-        "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+        "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+        "url": "https://rvembedded.com/blog_post/12/",
         "source": "hn",
-        "time": "8/17/2026, 12:48:21 AM"
+        "time": "8/16/2026, 5:01:07 PM"
+      },
+      {
+        "title": "Claude: System Prompts",
+        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+        "source": "hn",
+        "time": "8/16/2026, 12:48:21 PM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 16 Aug 2026 19:58:14 GMT"
+      },
+      {
+        "title": "Actress Hayden Panettiere dies aged 36, US media report",
+        "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 17 Aug 2026 04:27:11 GMT"
       },
       {
         "title": "UK to turn cooler with rain after exceptional heat and dry spell",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 17 Aug 2026 02:51:27 GMT"
-      },
-      {
-        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-        "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 16 Aug 2026 19:03:04 GMT"
       }
     ],
     "projects": [
