@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-17T02:14:54.238Z"
+    "built_at": "2026-08-17T03:41:47.609Z"
   },
-  "items": [
-    {
-      "title": "Sana.cpp – Nvidia's Sana T2I model in C++, 4.8x faster than PyTorch",
-      "url": "https://github.com/cconthekeyboard/sana.cpp",
-      "date": "2026-08-17T02:08:15.000Z"
-    },
-    {
-      "title": "Octopuses could help us conceptualize a different form of intelligence",
-      "url": "https://www.cbc.ca/lite/story/1.6871036",
-      "date": "2026-08-17T02:05:52.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
