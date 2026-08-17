@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-17T06:36:43.332Z"
+    "built_at": "2026-08-17T07:44:20.215Z"
   },
-  "items": [
-    {
-      "title": "Greenest cities in Europe, and where Hamburg stands",
-      "url": "https://alsterrunde.com/greenest-cities-in-europe-and-where-hamburg-stands/",
-      "date": "2026-08-17T06:30:23.000Z"
-    },
-    {
-      "title": "It's Happening – Europe Is Building an Impossible Fusion Reactor [video]",
-      "url": "https://www.youtube.com/watch?v=bPUAKW1Dyek",
-      "date": "2026-08-17T06:23:55.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
