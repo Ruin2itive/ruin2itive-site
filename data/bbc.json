@@ -4,18 +4,18 @@
     "label": "bbc",
     "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
     "take": 2,
-    "built_at": "2026-08-17T00:46:31.979Z"
+    "built_at": "2026-08-17T02:14:55.654Z"
   },
   "items": [
+    {
+      "title": "UK to turn cooler with rain after exceptional heat and dry spell",
+      "url": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-17T02:08:56.000Z"
+    },
     {
       "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
       "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-17T00:06:05.000Z"
-    },
-    {
-      "title": "The Papers: 'Water cheek' and 'Queen Amy's gold rush'",
-      "url": "https://www.bbc.co.uk/news/articles/czdmmmm045go?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-17T00:04:26.000Z"
     }
   ]
 }
