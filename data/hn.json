@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-17T16:17:07.353Z"
+    "built_at": "2026-08-17T17:18:59.611Z"
   },
-  "items": [
-    {
-      "title": "Ask HN: How can we care more about fewer things?",
-      "url": "https://news.ycombinator.com/item?id=49333404",
-      "date": "2026-08-17T16:14:15.000Z"
-    },
-    {
-      "title": "I Let My Students Watch Me Struggle with a Masterpiece. It Changed Everything",
-      "url": "https://www.nytimes.com/2026/08/17/opinion/higher-ed-dostoevsky-attention.html",
-      "date": "2026-08-17T16:13:28.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
