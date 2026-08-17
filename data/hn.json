@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-16T23:12:09.050Z"
+    "built_at": "2026-08-17T00:46:30.330Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Social Processes and Proofs of Theorems and Programs (1979)",
+      "url": "https://dl.acm.org/doi/10.1145/359104.359106",
+      "date": "2026-08-17T00:37:40.000Z"
+    },
+    {
+      "title": "Harvestman Spider with a 'Black Bunny' Head Captured on Video",
+      "url": "https://allthatsinteresting.com/bunny-harvestman-spider",
+      "date": "2026-08-17T00:37:04.000Z"
+    }
+  ]
 }
