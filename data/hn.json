@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-17T22:15:30.588Z"
+    "built_at": "2026-08-17T23:14:42.745Z"
   },
-  "items": [
-    {
-      "title": "DEF Con 33 – Kill List: Hacking an Assassination Site on the Dark Web [video]",
-      "url": "https://www.youtube.com/watch?v=cYZmRp90hss",
-      "date": "2026-08-17T22:12:10.000Z"
-    },
-    {
-      "title": "Graphlib, a new way to create directional graphs",
-      "url": "https://github.com/RANDOMFNP/Graphlib",
-      "date": "2026-08-17T22:11:26.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
