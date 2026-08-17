@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-17T11:32:30.202Z",
-  "updated_local": "8/17/2026, 11:32:30 AM",
+  "updated_iso": "2026-08-17T12:37:57.709Z",
+  "updated_local": "8/17/2026, 12:37:57 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Pirated Copies of &#39;The Odyssey&#39; Are Hiding Crypto-Stealing Malware",
+        "url": "https://decrypt.co/375747/pirated-copies-odyssey-hiding-crypto-stealing-malware",
+        "source": "crypto",
+        "time": "Mon, 17 Aug 2026 12:31:04 +0000"
+      },
       {
         "title": "Paul Tudor Jones&#39; Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
         "url": "https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
         "source": "crypto",
         "time": "Sun, 16 Aug 2026 16:00:05 +0000"
-      },
-      {
-        "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
-        "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
-        "source": "crypto",
-        "time": "Sun, 16 Aug 2026 14:01:03 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "8/16/2026, 9:53:43 PM"
       },
       {
+        "title": "People are worried about America's solvency",
+        "url": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
+        "source": "hn",
+        "time": "8/17/2026, 11:45:12 AM"
+      },
+      {
         "title": "A third world engineer responds to “RISC-V: They should have known better”",
         "url": "https://rvembedded.com/blog_post/12/",
         "source": "hn",
         "time": "8/16/2026, 5:01:07 PM"
-      },
-      {
-        "title": "Reticulum – Decentralized Mesh Network",
-        "url": "https://reticulum.network/",
-        "source": "hn",
-        "time": "8/16/2026, 11:59:10 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Mon, 17 Aug 2026 02:08:56 GMT"
       },
       {
-        "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
-        "url": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 17 Aug 2026 06:48:29 GMT"
-      },
-      {
         "title": "Watch: Sprint sensation Amy Hunt takes gold number four at the European championships",
         "url": "https://www.bbc.co.uk/sport/athletics/videos/cdj00030me7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 16 Aug 2026 19:58:15 GMT"
+      },
+      {
+        "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
+        "url": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 17 Aug 2026 11:51:50 GMT"
       }
     ],
     "projects": [
