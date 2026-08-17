@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-17T07:50:25.262Z",
-  "updated_local": "8/17/2026, 7:50:25 AM",
+  "updated_iso": "2026-08-17T08:39:23.691Z",
+  "updated_local": "8/17/2026, 8:39:23 AM",
   "sections": {
     "crypto": [
       {
@@ -42,7 +42,19 @@
         "time": "8/16/2026, 11:45:09 PM"
       },
       {
-        "title": "Linear Algebra Done Right – Sheldon Axler",
+        "title": "GIMP Development Update",
+        "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+        "source": "hn",
+        "time": "8/17/2026, 3:08:47 AM"
+      },
+      {
+        "title": "On A.I. regulation and messaging",
+        "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+        "source": "hn",
+        "time": "8/17/2026, 1:59:56 AM"
+      },
+      {
+        "title": "Linear algebra done right",
         "url": "https://linear.axler.net/",
         "source": "hn",
         "time": "8/17/2026, 5:21:34 AM"
@@ -52,18 +64,6 @@
         "url": "https://rvembedded.com/blog_post/12/",
         "source": "hn",
         "time": "8/16/2026, 5:01:07 PM"
-      },
-      {
-        "title": "GIMP Development Update",
-        "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
-        "source": "hn",
-        "time": "8/17/2026, 3:08:47 AM"
-      },
-      {
-        "title": "Amodei Re. Regulation",
-        "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-        "source": "hn",
-        "time": "8/17/2026, 1:59:56 AM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Mon, 17 Aug 2026 02:08:56 GMT"
       },
       {
+        "title": "Burnham exchanged messages with White House imposter",
+        "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 17 Aug 2026 08:38:10 GMT"
+      },
+      {
         "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
         "url": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 17 Aug 2026 06:48:29 GMT"
-      },
-      {
-        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-        "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 17 Aug 2026 06:24:31 GMT"
       }
     ],
     "projects": [
