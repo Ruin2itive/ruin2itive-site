@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-17T20:23:03.132Z",
-  "updated_local": "8/17/2026, 8:23:03 PM",
+  "updated_iso": "2026-08-17T20:34:32.728Z",
+  "updated_local": "8/17/2026, 8:34:32 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
+        "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
+        "source": "crypto",
+        "time": "Mon, 17 Aug 2026 20:31:04 +0000"
+      },
       {
         "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
         "url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
@@ -26,27 +32,9 @@
         "url": "https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade",
         "source": "crypto",
         "time": "Mon, 17 Aug 2026 18:19:46 +0000"
-      },
-      {
-        "title": "Wall Street Pushback Halts SEC&#39;s Crypto Fundraising Framework, Sources Say",
-        "url": "https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework",
-        "source": "crypto",
-        "time": "Mon, 17 Aug 2026 16:27:26 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "AI;DR (AI; Didn't Read)",
-        "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-        "source": "hn",
-        "time": "8/17/2026, 7:47:15 PM"
-      },
-      {
-        "title": "Will you have spent more of your life with computers than your family?",
-        "url": "https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/",
-        "source": "hn",
-        "time": "8/17/2026, 7:56:30 PM"
-      },
       {
         "title": "GPU Offload in Rust: Portable, Safe, and Fast",
         "url": "https://arxiv.org/abs/2608.13759",
@@ -60,10 +48,22 @@
         "time": "8/17/2026, 1:46:27 PM"
       },
       {
+        "title": "India has paved the way for charging merchants a fee on UPI transactions",
+        "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+        "source": "hn",
+        "time": "8/17/2026, 7:25:11 PM"
+      },
+      {
         "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
         "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
         "source": "hn",
         "time": "8/17/2026, 2:18:38 PM"
+      },
+      {
+        "title": "Incident with Github.com",
+        "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+        "source": "hn",
+        "time": "8/17/2026, 1:35:06 PM"
       }
     ],
     "world": [
