@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-17T13:36:43.693Z",
-  "updated_local": "8/17/2026, 1:36:43 PM",
+  "updated_iso": "2026-08-17T13:47:17.402Z",
+  "updated_local": "8/17/2026, 1:47:17 PM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Incident with Github.com",
+        "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+        "source": "hn",
+        "time": "8/17/2026, 1:40:55 PM"
+      },
+      {
         "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
         "url": "https://blog.roboflow.com/openai-gpt-5-6/",
         "source": "hn",
         "time": "8/17/2026, 12:09:42 PM"
+      },
+      {
+        "title": "Show HN: 1667, a terminal UI for writing fiction with language models",
+        "url": "https://1667.ai/",
+        "source": "hn",
+        "time": "8/17/2026, 1:35:31 PM"
       },
       {
         "title": "Show HN: Sokoban AI Solver",
@@ -52,18 +64,6 @@
         "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
         "source": "hn",
         "time": "8/16/2026, 11:45:09 PM"
-      },
-      {
-        "title": "How Go detects struct copies with sync.noCopy",
-        "url": "https://func25.dev/posts/go-sync-nocopy/",
-        "source": "hn",
-        "time": "8/13/2026, 12:33:43 PM"
-      },
-      {
-        "title": "Mexico Crackdown on Coastal Development Underway",
-        "url": "https://yucatanmagazine.com/mexico-crackdown-on-coastal-development/",
-        "source": "hn",
-        "time": "8/17/2026, 12:10:22 PM"
       }
     ],
     "world": [
