@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-17T22:31:30.788Z",
-  "updated_local": "8/17/2026, 10:31:30 PM",
+  "updated_iso": "2026-08-17T23:19:39.025Z",
+  "updated_local": "8/17/2026, 11:19:39 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
+        "url": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
+        "source": "crypto",
+        "time": "Mon, 17 Aug 2026 22:35:46 +0000"
+      },
       {
         "title": "Minnesota Says xAI&#39;s Grok Created &#39;Marketplace for Digital Sexual Violence&#39;",
         "url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
         "source": "crypto",
         "time": "Mon, 17 Aug 2026 19:59:18 +0000"
-      },
-      {
-        "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
-        "url": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
-        "source": "crypto",
-        "time": "Mon, 17 Aug 2026 19:01:56 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "How Bluesky draws its logo on screenshots",
+        "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "source": "hn",
+        "time": "8/17/2026, 10:20:40 PM"
+      },
+      {
+        "title": "Quake Shareware, a CD-ROM just a little too full",
+        "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+        "source": "hn",
+        "time": "8/17/2026, 10:06:14 PM"
+      },
       {
         "title": "GPU Offload in Rust: Portable, Safe, and Fast",
         "url": "https://arxiv.org/abs/2608.13759",
@@ -48,22 +60,10 @@
         "time": "8/17/2026, 1:46:27 PM"
       },
       {
-        "title": "Bluesky draws its logo on screenshots",
-        "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "title": "Fairphone 6 and PostmarketOS working main camera",
+        "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
         "source": "hn",
-        "time": "8/17/2026, 10:20:40 PM"
-      },
-      {
-        "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-        "source": "hn",
-        "time": "8/17/2026, 2:18:38 PM"
-      },
-      {
-        "title": "Incident with Github.com",
-        "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-        "source": "hn",
-        "time": "8/17/2026, 1:35:06 PM"
+        "time": "8/17/2026, 10:01:17 PM"
       }
     ],
     "world": [
