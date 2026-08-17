@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-17T18:34:45.757Z",
-  "updated_local": "8/17/2026, 6:34:45 PM",
+  "updated_iso": "2026-08-17T18:49:58.219Z",
+  "updated_local": "8/17/2026, 6:49:58 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+        "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+        "source": "hn",
+        "time": "8/17/2026, 5:25:17 PM"
+      },
+      {
         "title": "A Preview of DuckDB v2.0",
         "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
         "source": "hn",
@@ -46,12 +52,6 @@
         "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
         "source": "hn",
         "time": "8/17/2026, 2:18:38 PM"
-      },
-      {
-        "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-        "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-        "source": "hn",
-        "time": "8/17/2026, 5:25:17 PM"
       },
       {
         "title": "Incident with Github.com",
