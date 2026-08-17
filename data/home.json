@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-17T19:33:38.089Z",
-  "updated_local": "8/17/2026, 7:33:38 PM",
+  "updated_iso": "2026-08-17T20:23:03.132Z",
+  "updated_local": "8/17/2026, 8:23:03 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
+        "url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
+        "source": "crypto",
+        "time": "Mon, 17 Aug 2026 19:59:18 +0000"
+      },
       {
         "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
         "url": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
@@ -26,15 +32,27 @@
         "url": "https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework",
         "source": "crypto",
         "time": "Mon, 17 Aug 2026 16:27:26 +0000"
-      },
-      {
-        "title": "What Stripe&#39;s $7 Billion OpenRouter Deal Actually Means for AI",
-        "url": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
-        "source": "crypto",
-        "time": "Mon, 17 Aug 2026 15:54:29 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "AI;DR (AI; Didn't Read)",
+        "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+        "source": "hn",
+        "time": "8/17/2026, 7:47:15 PM"
+      },
+      {
+        "title": "Will you have spent more of your life with computers than your family?",
+        "url": "https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/",
+        "source": "hn",
+        "time": "8/17/2026, 7:56:30 PM"
+      },
+      {
+        "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+        "url": "https://arxiv.org/abs/2608.13759",
+        "source": "hn",
+        "time": "8/17/2026, 5:54:59 PM"
+      },
       {
         "title": "A Preview of DuckDB v2.0",
         "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
@@ -46,24 +64,6 @@
         "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
         "source": "hn",
         "time": "8/17/2026, 2:18:38 PM"
-      },
-      {
-        "title": "Incident with Github.com",
-        "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-        "source": "hn",
-        "time": "8/17/2026, 1:35:06 PM"
-      },
-      {
-        "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-        "url": "https://arxiv.org/abs/2608.13759",
-        "source": "hn",
-        "time": "8/17/2026, 5:54:59 PM"
-      },
-      {
-        "title": "How to disable or avoid intrusive AI",
-        "url": "https://www.librarian.net/notoai/",
-        "source": "hn",
-        "time": "8/17/2026, 2:07:56 PM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Mon, 17 Aug 2026 17:31:36 GMT"
       },
       {
+        "title": "Fifa executive leaves job three weeks after speaking out against Infantino plan",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 17 Aug 2026 19:52:19 GMT"
+      },
+      {
         "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
         "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 17 Aug 2026 05:03:31 GMT"
-      },
-      {
-        "title": "Emotional farewell to 'global, iconic superstar' Bonnie Tyler",
-        "url": "https://www.bbc.co.uk/news/articles/c171j051gejo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 17 Aug 2026 14:29:58 GMT"
       }
     ],
     "projects": [
