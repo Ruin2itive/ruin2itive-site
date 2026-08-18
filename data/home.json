@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-18T11:21:55.523Z",
-  "updated_local": "8/18/2026, 11:21:55 AM",
+  "updated_iso": "2026-08-18T11:31:49.495Z",
+  "updated_local": "8/18/2026, 11:31:49 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
+        "url": "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs",
+        "source": "crypto",
+        "time": "Tue, 18 Aug 2026 11:31:04 +0000"
+      },
       {
         "title": "Bitpanda Hit With Europe&#39;s First Published MiCA Penalty in Austria",
         "url": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375821/prediction-fed-rate-change-september",
         "source": "crypto",
         "time": "Mon, 17 Aug 2026 21:16:17 +0000"
-      },
-      {
-        "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
-        "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
-        "source": "crypto",
-        "time": "Mon, 17 Aug 2026 20:31:04 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "8/17/2026, 10:20:40 PM"
       },
       {
-        "title": "GPT-5.6 Sol Pricing Cut by 50%",
-        "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-        "source": "hn",
-        "time": "8/17/2026, 9:03:18 PM"
-      },
-      {
         "title": "Google buys crashed airline Spirit's data at auction, because AI",
         "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
         "source": "hn",
         "time": "8/18/2026, 10:13:28 AM"
+      },
+      {
+        "title": "GPT-5.6 Sol Pricing Cut by 50%",
+        "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+        "source": "hn",
+        "time": "8/17/2026, 9:03:18 PM"
       }
     ],
     "world": [
