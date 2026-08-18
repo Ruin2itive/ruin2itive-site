@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-18T14:29:59.176Z",
-  "updated_local": "8/18/2026, 2:29:59 PM",
+  "updated_iso": "2026-08-18T14:40:46.784Z",
+  "updated_local": "8/18/2026, 2:40:46 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Using the railway network as a flatbed scanner",
-        "url": "https://philo.gay/linecam/",
-        "source": "hn",
-        "time": "8/18/2026, 12:43:54 PM"
-      },
-      {
         "title": "The Amazon Tax",
         "url": "https://seths.blog/2026/08/the-amazon-tax/",
         "source": "hn",
         "time": "8/18/2026, 1:22:38 PM"
+      },
+      {
+        "title": "Using the railway network as a flatbed scanner",
+        "url": "https://philo.gay/linecam/",
+        "source": "hn",
+        "time": "8/18/2026, 12:43:54 PM"
       },
       {
         "title": "Fixing a Bricked Framework Laptop",
@@ -60,10 +60,10 @@
         "time": "8/18/2026, 7:51:50 AM"
       },
       {
-        "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
-        "url": "https://github.com/mukundzha/avouch",
+        "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+        "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
         "source": "hn",
-        "time": "8/18/2026, 1:13:17 PM"
+        "time": "8/18/2026, 1:38:23 PM"
       }
     ],
     "world": [
