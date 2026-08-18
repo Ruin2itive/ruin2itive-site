@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-18T21:15:10.140Z"
+    "built_at": "2026-08-18T22:13:42.508Z"
   },
-  "items": [
-    {
-      "title": "Terra Incognita: The Economics of a Shrinking World [pdf]",
-      "url": "https://www.sas.upenn.edu/~jesusfv/Demographics.pdf",
-      "date": "2026-08-18T21:14:32.000Z"
-    },
-    {
-      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-      "date": "2026-08-18T21:14:21.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
