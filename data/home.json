@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-18T12:59:28.335Z",
-  "updated_local": "8/18/2026, 12:59:28 PM",
+  "updated_iso": "2026-08-18T13:39:30.326Z",
+  "updated_local": "8/18/2026, 1:39:30 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
+        "title": "Using the railway network as a flatbed scanner",
+        "url": "https://philo.gay/linecam/",
+        "source": "hn",
+        "time": "8/18/2026, 12:43:54 PM"
+      },
+      {
         "title": "Linux 7.3 improves performance when running out of vRAM",
         "url": "https://pixelcluster.dev/VRAM-Overcommit/",
         "source": "hn",
         "time": "8/18/2026, 7:51:50 AM"
-      },
-      {
-        "title": "Google buys crashed airline Spirit's data at auction, because AI",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-        "source": "hn",
-        "time": "8/18/2026, 10:13:28 AM"
       },
       {
         "title": "Teaching my kid to code with a modern MUD",
@@ -54,16 +54,16 @@
         "time": "8/12/2026, 2:07:14 PM"
       },
       {
-        "title": "How Bluesky draws its logo on screenshots",
-        "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+        "title": "Google buys crashed airline Spirit's data at auction, because AI",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
         "source": "hn",
-        "time": "8/17/2026, 10:20:40 PM"
+        "time": "8/18/2026, 10:13:28 AM"
       },
       {
-        "title": "Rethinking Database Programming",
-        "url": "https://acadia.engineering/blog/rethinking-database-programming",
+        "title": "Baking a Model: A Metaphor for LLM Training",
+        "url": "https://newsletter.kentbeck.com/p/baking-a-model",
         "source": "hn",
-        "time": "8/18/2026, 7:28:27 AM"
+        "time": "8/14/2026, 11:46:45 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Tue, 18 Aug 2026 08:07:37 GMT"
       },
       {
-        "title": "Inside secret police warehouse as Germany targets small boats gangs",
-        "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Serco employee charged with misconduct over sharing asylum seeker addresses in Thetford",
+        "url": "https://www.bbc.co.uk/news/articles/cly8mpp9r8no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 18 Aug 2026 05:02:58 GMT"
+        "time": "Tue, 18 Aug 2026 11:10:45 GMT"
       },
       {
-        "title": "Young adults are taking prescription drugs instead of alcohol - and it's dividing experts",
-        "url": "https://www.bbc.co.uk/news/articles/c1d1lpl9vrxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "PM says he's not embarrassed about hoax message exchange",
+        "url": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 18 Aug 2026 00:00:02 GMT"
+        "time": "Tue, 18 Aug 2026 12:22:58 GMT"
       }
     ],
     "projects": [
