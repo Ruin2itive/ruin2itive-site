@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-17T23:14:42.745Z"
+    "built_at": "2026-08-18T00:45:11.661Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Privibe – LLM CLI Local first+privacy focus+llama.cpp cache branch and Qwen3.x",
+      "url": "https://github.com/alainnothere/privibe/tree/main",
+      "date": "2026-08-18T00:39:32.000Z"
+    },
+    {
+      "title": "Trump administration Announces New \"Hacking Back\" Program",
+      "url": "https://reason.com/volokh/2026/08/17/trump-administration-announces-new-hacking-back-program/",
+      "date": "2026-08-18T00:38:13.000Z"
+    }
+  ]
 }
