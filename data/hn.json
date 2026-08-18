@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-18T03:37:07.277Z"
+    "built_at": "2026-08-18T04:26:27.174Z"
   },
-  "items": [
-    {
-      "title": "PineNote and PineTab2 are estimated to run out of stock in three months",
-      "url": "https://social.treehouse.systems/@pine64/117111063654864544",
-      "date": "2026-08-18T03:35:16.000Z"
-    },
-    {
-      "title": "Beyond WASI: Running any Rust application in the browser with BrowserPod 3.0",
-      "url": "https://labs.leaningtech.com/blog/browserpod-rust",
-      "date": "2026-08-18T03:34:42.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
