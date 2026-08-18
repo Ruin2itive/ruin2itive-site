@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-08-18T22:31:14.183Z",
-  "updated_local": "8/18/2026, 10:31:14 PM",
+  "updated_iso": "2026-08-18T23:18:44.015Z",
+  "updated_local": "8/18/2026, 11:18:44 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
+        "url": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
+        "source": "crypto",
+        "time": "Tue, 18 Aug 2026 22:56:04 +0000"
+      },
+      {
+        "title": "Mozilla Tests an AI &#39;Smart Window&#39; in Firefox—But Only If You Opt In",
+        "url": "https://decrypt.co/375903/mozilla-ai-smart-firefox-opt-in",
+        "source": "crypto",
+        "time": "Tue, 18 Aug 2026 22:31:04 +0000"
+      },
       {
         "title": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
         "url": "https://decrypt.co/375912/rare-books-amazon-ai-scanned-destroyed",
@@ -20,39 +32,9 @@
         "url": "https://decrypt.co/375902/sec-regulation-crypto-fundraising-exemptions",
         "source": "crypto",
         "time": "Tue, 18 Aug 2026 20:00:25 +0000"
-      },
-      {
-        "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
-        "url": "https://decrypt.co/375892/openai-next-ai-model-gpt6-astra-prediction",
-        "source": "crypto",
-        "time": "Tue, 18 Aug 2026 19:15:26 +0000"
-      },
-      {
-        "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
-        "url": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk",
-        "source": "crypto",
-        "time": "Tue, 18 Aug 2026 18:36:04 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Beware Management Consultants",
-        "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-        "source": "hn",
-        "time": "8/18/2026, 7:29:51 PM"
-      },
-      {
-        "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-        "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-        "source": "hn",
-        "time": "8/18/2026, 9:14:21 PM"
-      },
-      {
-        "title": "Being Ambitious and Being a Dad",
-        "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-        "source": "hn",
-        "time": "8/16/2026, 4:08:57 PM"
-      },
       {
         "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
         "url": "https://github.com/DenisSergeevitch/desktop-fly",
@@ -60,10 +42,28 @@
         "time": "8/18/2026, 9:50:33 PM"
       },
       {
-        "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-        "url": "https://github.com/RyanCodrai/turbovec",
+        "title": "GLM-5.3 Artificial Analysis Benchmarks",
+        "url": "https://artificialanalysis.ai/models/glm-5-3",
         "source": "hn",
-        "time": "8/18/2026, 6:07:21 PM"
+        "time": "8/18/2026, 10:06:10 PM"
+      },
+      {
+        "title": "The Amazon tax",
+        "url": "https://seths.blog/2026/08/the-amazon-tax/",
+        "source": "hn",
+        "time": "8/18/2026, 1:22:38 PM"
+      },
+      {
+        "title": "Being ambitious and being a dad",
+        "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+        "source": "hn",
+        "time": "8/16/2026, 4:08:57 PM"
+      },
+      {
+        "title": "Who owns the code?",
+        "url": "https://whoownsthecode.com/",
+        "source": "hn",
+        "time": "8/18/2026, 10:21:30 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Tue, 18 Aug 2026 15:30:13 GMT"
       },
       {
+        "title": "Meta hooked children on Facebook and Instagram, court hears",
+        "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 18 Aug 2026 22:11:07 GMT"
+      },
+      {
         "title": "Burnham received £345,000 of donations ahead of becoming PM",
         "url": "https://www.bbc.co.uk/news/articles/c141d4l0mgko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 18 Aug 2026 21:46:15 GMT"
-      },
-      {
-        "title": "How soon will the drought be over?",
-        "url": "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 18 Aug 2026 12:26:05 GMT"
       }
     ],
     "projects": [
