@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-18T21:30:30.163Z",
-  "updated_local": "8/18/2026, 9:30:30 PM",
+  "updated_iso": "2026-08-18T22:19:45.886Z",
+  "updated_local": "8/18/2026, 10:19:45 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
+        "url": "https://decrypt.co/375912/rare-books-amazon-ai-scanned-destroyed",
+        "source": "crypto",
+        "time": "Tue, 18 Aug 2026 21:49:46 +0000"
+      },
       {
         "title": "Arguing With People on X May Get You More Posts You Hate as Algo Feeds on Ragebait",
         "url": "https://decrypt.co/375899/arguing-twitter-x-more-posts-hate-algorithm-ragebait",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk",
         "source": "crypto",
         "time": "Tue, 18 Aug 2026 18:36:04 +0000"
-      },
-      {
-        "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
-        "url": "https://decrypt.co/375886/bitcoin-wallet-bitbox-ai-severe-flaws-firmware",
-        "source": "crypto",
-        "time": "Tue, 18 Aug 2026 18:06:42 +0000"
       }
     ],
     "hacker": [
@@ -42,36 +42,42 @@
         "time": "8/18/2026, 7:29:51 PM"
       },
       {
-        "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-        "url": "https://github.com/RyanCodrai/turbovec",
-        "source": "hn",
-        "time": "8/18/2026, 6:07:21 PM"
-      },
-      {
-        "title": "The Amazon tax",
-        "url": "https://seths.blog/2026/08/the-amazon-tax/",
-        "source": "hn",
-        "time": "8/18/2026, 1:22:38 PM"
-      },
-      {
         "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
         "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
         "source": "hn",
         "time": "8/18/2026, 9:14:21 PM"
       },
       {
-        "title": "Using the railway network as a flatbed scanner",
-        "url": "https://philo.gay/linecam/",
+        "title": "Companies promote incompetent employees to management tolimit damage they can do",
+        "url": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
         "source": "hn",
-        "time": "8/18/2026, 12:43:54 PM"
+        "time": "8/18/2026, 9:13:30 PM"
+      },
+      {
+        "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+        "url": "https://github.com/RyanCodrai/turbovec",
+        "source": "hn",
+        "time": "8/18/2026, 6:07:21 PM"
+      },
+      {
+        "title": "Being Ambitious and Being a Dad",
+        "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+        "source": "hn",
+        "time": "8/16/2026, 4:08:57 PM"
       }
     ],
     "world": [
       {
-        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-        "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Three dead after family get into difficulty in sea",
+        "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 18 Aug 2026 12:36:11 GMT"
+        "time": "Tue, 18 Aug 2026 21:30:56 GMT"
+      },
+      {
+        "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+        "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 18 Aug 2026 21:31:11 GMT"
       },
       {
         "title": "British couple on honeymoon killed in helicopter crash on Greek island",
@@ -80,22 +86,16 @@
         "time": "Tue, 18 Aug 2026 15:30:13 GMT"
       },
       {
-        "title": "PM says he's not embarrassed about hoax message exchange",
-        "url": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Burnham received £345,000 of donations ahead of becoming PM",
+        "url": "https://www.bbc.co.uk/news/articles/c141d4l0mgko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 18 Aug 2026 12:22:58 GMT"
+        "time": "Tue, 18 Aug 2026 21:46:15 GMT"
       },
       {
         "title": "How soon will the drought be over?",
         "url": "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 18 Aug 2026 12:26:05 GMT"
-      },
-      {
-        "title": "Premier League chief says Fifa self-destructed over World Cup plan",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 18 Aug 2026 16:18:37 GMT"
       }
     ],
     "projects": [
