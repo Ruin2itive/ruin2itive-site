@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-18T14:24:12.712Z"
+    "built_at": "2026-08-18T15:22:46.687Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Can a 500M² backyard grow a year's worth of calories for one person?",
+      "url": "https://plotarithmetic.substack.com/p/can-a-500-m-backyard-grow-a-years",
+      "date": "2026-08-18T15:21:32.000Z"
+    },
+    {
+      "title": "AI won't solve the work-theater problem",
+      "url": "https://think-twice.me/?p=102",
+      "date": "2026-08-18T15:21:29.000Z"
+    }
+  ]
 }
