@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-18T13:51:43.692Z",
-  "updated_local": "8/18/2026, 1:51:43 PM",
+  "updated_iso": "2026-08-18T14:29:59.176Z",
+  "updated_local": "8/18/2026, 2:29:59 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Wallet Untouched for 15 Years Suddenly Springs to Life",
+        "url": "https://decrypt.co/375839/bitcoin-wallet-untouched-15-years-life",
+        "source": "crypto",
+        "time": "Tue, 18 Aug 2026 14:03:34 +0000"
+      },
       {
         "title": "Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High",
         "url": "https://decrypt.co/375856/morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
         "source": "crypto",
         "time": "Mon, 17 Aug 2026 22:35:46 +0000"
-      },
-      {
-        "title": "Minnesota Says xAI&#39;s Grok Created &#39;Marketplace for Digital Sexual Violence&#39;",
-        "url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
-        "source": "crypto",
-        "time": "Mon, 17 Aug 2026 22:16:03 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "8/18/2026, 12:43:54 PM"
       },
       {
-        "title": "Linux 7.3 improves performance when running out of vRAM",
-        "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+        "title": "The Amazon Tax",
+        "url": "https://seths.blog/2026/08/the-amazon-tax/",
         "source": "hn",
-        "time": "8/18/2026, 7:51:50 AM"
+        "time": "8/18/2026, 1:22:38 PM"
       },
       {
         "title": "Fixing a Bricked Framework Laptop",
@@ -54,16 +54,16 @@
         "time": "8/18/2026, 1:18:40 PM"
       },
       {
-        "title": "Teaching my kid to code with a modern MUD",
-        "url": "https://tau.dev/2026/08/07/canon",
+        "title": "Linux 7.3 improves performance when running out of vRAM",
+        "url": "https://pixelcluster.dev/VRAM-Overcommit/",
         "source": "hn",
-        "time": "8/12/2026, 2:07:14 PM"
+        "time": "8/18/2026, 7:51:50 AM"
       },
       {
-        "title": "Fairphone is now officially available in the United States",
-        "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+        "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
+        "url": "https://github.com/mukundzha/avouch",
         "source": "hn",
-        "time": "8/18/2026, 12:42:53 PM"
+        "time": "8/18/2026, 1:13:17 PM"
       }
     ],
     "world": [
@@ -77,13 +77,7 @@
         "title": "British couple on honeymoon killed in helicopter crash on Greek island",
         "url": "https://www.bbc.co.uk/news/articles/cx2lzj91d84o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 18 Aug 2026 12:43:09 GMT"
-      },
-      {
-        "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-        "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 18 Aug 2026 08:07:37 GMT"
+        "time": "Tue, 18 Aug 2026 13:56:26 GMT"
       },
       {
         "title": "Serco employee charged with misconduct over sharing asylum seeker addresses in Thetford",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 18 Aug 2026 12:22:58 GMT"
+      },
+      {
+        "title": "How soon will the drought be over?",
+        "url": "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 18 Aug 2026 12:26:05 GMT"
       }
     ],
     "projects": [
