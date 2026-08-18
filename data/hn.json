@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-18T07:30:22.032Z"
+    "built_at": "2026-08-18T08:25:34.493Z"
   },
-  "error": "fetch failed",
-  "items": []
+  "items": [
+    {
+      "title": "CartLens",
+      "url": "https://www.cartlens.co/",
+      "date": "2026-08-18T08:17:20.000Z"
+    },
+    {
+      "title": "Nvidia CMP170HX driver 64GB RAM unlocking patch",
+      "url": "https://github.com/amoghmunikote/cmpunlocker",
+      "date": "2026-08-18T08:17:14.000Z"
+    }
+  ]
 }
