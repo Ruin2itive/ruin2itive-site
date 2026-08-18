@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-18T10:19:28.625Z"
+    "built_at": "2026-08-18T11:17:06.595Z"
   },
-  "items": [
-    {
-      "title": "AI automation: Lock in payroll savings or reinvest capacity into growth",
-      "url": "https://urnicus.com/blog/the-quiet-cost/",
-      "date": "2026-08-18T10:18:49.000Z"
-    },
-    {
-      "title": "Show HN: The Hacker News Puzzle",
-      "url": "https://pzlgames.com/games/hackernews/",
-      "date": "2026-08-18T10:18:19.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
