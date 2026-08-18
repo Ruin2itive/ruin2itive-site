@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-18T16:21:19.050Z"
+    "built_at": "2026-08-18T17:19:12.304Z"
   },
-  "items": [
-    {
-      "title": "A Green Light for Crooks",
-      "url": "https://www.theatlantic.com/ideas/2026/08/corrupt-administration-shell-company-business-transparency/688274/",
-      "date": "2026-08-18T16:20:37.000Z"
-    },
-    {
-      "title": "New report takes closer look at the Space Force spending surge – SpaceNews",
-      "url": "https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge/",
-      "date": "2026-08-18T16:20:20.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
