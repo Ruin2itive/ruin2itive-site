@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-18T16:39:16.758Z",
-  "updated_local": "8/18/2026, 4:39:16 PM",
+  "updated_iso": "2026-08-18T17:23:41.385Z",
+  "updated_local": "8/18/2026, 5:23:41 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
+        "url": "https://decrypt.co/375883/google-spirit-airlines-data-train-ai",
+        "source": "crypto",
+        "time": "Tue, 18 Aug 2026 17:19:44 +0000"
+      },
       {
         "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
         "url": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375856/morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high",
         "source": "crypto",
         "time": "Tue, 18 Aug 2026 12:37:02 +0000"
-      },
-      {
-        "title": "Chainalysis Sues US Government Over $94.6M ICE Contract Handed to Rival TRM Labs",
-        "url": "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs",
-        "source": "crypto",
-        "time": "Tue, 18 Aug 2026 11:31:04 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "8/18/2026, 12:43:54 PM"
       },
       {
-        "title": "Apple announces changes for apps in the European Union",
-        "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+        "title": "Fixing a bricked Framework laptop",
+        "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
         "source": "hn",
-        "time": "8/18/2026, 4:21:34 PM"
+        "time": "8/18/2026, 1:18:40 PM"
       },
       {
-        "title": "Claude: Degraded Performance for Multiple Models",
-        "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-        "source": "hn",
-        "time": "8/18/2026, 4:28:20 PM"
-      },
-      {
-        "title": "The Amazon Tax",
+        "title": "The Amazon tax",
         "url": "https://seths.blog/2026/08/the-amazon-tax/",
         "source": "hn",
         "time": "8/18/2026, 1:22:38 PM"
       },
       {
-        "title": "Fixing a Bricked Framework Laptop",
-        "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+        "title": "Cursor launches Origin, GitHub alternative",
+        "url": "https://cursor.com/changelog/origin-code-hosting",
         "source": "hn",
-        "time": "8/18/2026, 1:18:40 PM"
+        "time": "8/17/2026, 5:02:44 PM"
+      },
+      {
+        "title": "Linux 7.3 improves performance when running out of vRAM",
+        "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+        "source": "hn",
+        "time": "8/18/2026, 7:51:50 AM"
       }
     ],
     "world": [
