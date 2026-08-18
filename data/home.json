@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-18T15:38:25.969Z",
-  "updated_local": "8/18/2026, 3:38:25 PM",
+  "updated_iso": "2026-08-18T16:27:45.473Z",
+  "updated_local": "8/18/2026, 4:27:45 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Citi to Launch Bitcoin Custody as Wall Street Pushes Deeper Into Crypto",
+        "url": "https://decrypt.co/375880/citi-bitcoin-custody-wall-street-crypto",
+        "source": "crypto",
+        "time": "Tue, 18 Aug 2026 15:56:05 +0000"
+      },
       {
         "title": "Japan&#39;s Metaplanet Plants Its Flag in the US With $132M Bitcoin Treasury Deal",
         "url": "https://decrypt.co/375878/metaplanet-us-132m-bitcoin-treasury-deal",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/375843/chainalysis-sues-us-government-ice-contract-trm-labs",
         "source": "crypto",
         "time": "Tue, 18 Aug 2026 11:31:04 +0000"
-      },
-      {
-        "title": "Bitpanda Hit With Europe&#39;s First Published MiCA Penalty in Austria",
-        "url": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
-        "source": "crypto",
-        "time": "Tue, 18 Aug 2026 09:31:04 +0000"
       }
     ],
     "hacker": [
@@ -60,10 +60,10 @@
         "time": "8/18/2026, 7:51:50 AM"
       },
       {
-        "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-        "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+        "title": "How I Under-Engineered My Book",
+        "url": "https://chriskiehl.com/article/how-i-under-engineered-my-book",
         "source": "hn",
-        "time": "8/18/2026, 1:38:23 PM"
+        "time": "8/17/2026, 7:31:25 PM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Tue, 18 Aug 2026 15:30:13 GMT"
       },
       {
-        "title": "Serco employee charged with misconduct over sharing asylum seeker addresses in Thetford",
-        "url": "https://www.bbc.co.uk/news/articles/cly8mpp9r8no?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 18 Aug 2026 11:10:45 GMT"
-      },
-      {
         "title": "PM says he's not embarrassed about hoax message exchange",
         "url": "https://www.bbc.co.uk/news/articles/c5y34zrg668o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c0kmlrkypjpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 18 Aug 2026 12:26:05 GMT"
+      },
+      {
+        "title": "National Television Awards pick first all-female shortlist for drama acting award",
+        "url": "https://www.bbc.co.uk/news/articles/crk53pr44kjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 18 Aug 2026 11:57:42 GMT"
       }
     ],
     "projects": [
