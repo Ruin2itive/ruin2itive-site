@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-18T18:34:11.556Z",
-  "updated_local": "8/18/2026, 6:34:11 PM",
+  "updated_iso": "2026-08-18T18:48:52.939Z",
+  "updated_local": "8/18/2026, 6:48:52 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
+        "url": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk",
+        "source": "crypto",
+        "time": "Tue, 18 Aug 2026 18:36:04 +0000"
+      },
       {
         "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
         "url": "https://decrypt.co/375886/bitcoin-wallet-bitbox-ai-severe-flaws-firmware",
@@ -26,32 +32,20 @@
         "url": "https://decrypt.co/375878/metaplanet-us-132m-bitcoin-treasury-deal",
         "source": "crypto",
         "time": "Tue, 18 Aug 2026 15:19:45 +0000"
-      },
-      {
-        "title": "Bitcoin Wallet Untouched for 15 Years Suddenly Springs to Life",
-        "url": "https://decrypt.co/375839/bitcoin-wallet-untouched-15-years-life",
-        "source": "crypto",
-        "time": "Tue, 18 Aug 2026 14:03:34 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-        "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-        "source": "hn",
-        "time": "8/18/2026, 5:24:53 PM"
-      },
-      {
-        "title": "Claude Code weekly limits reduce by a third tomorrow",
-        "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-        "source": "hn",
-        "time": "8/18/2026, 5:02:15 PM"
-      },
       {
         "title": "Turbovec – Google's TurboQuant for vector search in Rust",
         "url": "https://github.com/RyanCodrai/turbovec",
         "source": "hn",
         "time": "8/18/2026, 6:07:21 PM"
+      },
+      {
+        "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+        "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+        "source": "hn",
+        "time": "8/18/2026, 5:24:53 PM"
       },
       {
         "title": "Using the railway network as a flatbed scanner",
@@ -64,6 +58,12 @@
         "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
         "source": "hn",
         "time": "8/18/2026, 1:18:40 PM"
+      },
+      {
+        "title": "The Amazon tax",
+        "url": "https://seths.blog/2026/08/the-amazon-tax/",
+        "source": "hn",
+        "time": "8/18/2026, 1:22:38 PM"
       }
     ],
     "world": [
