@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-19T00:45:12.639Z"
+    "built_at": "2026-08-19T02:13:22.373Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Universal Dive Data Format",
+      "url": "https://wrobell.dcmod.org/uddf/",
+      "date": "2026-08-19T02:12:49.000Z"
+    },
+    {
+      "title": "Sutton and Javed: Why AI Models Stop Learning, and How to Start It Again [video]",
+      "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+      "date": "2026-08-19T02:12:16.000Z"
+    }
+  ]
 }
