@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-19T09:24:49.187Z"
+    "built_at": "2026-08-19T10:20:05.721Z"
   },
-  "items": [
-    {
-      "title": "Build your first FlaskTrack MCP agent",
-      "url": "https://flasktrack.com/build-mcp-agent",
-      "date": "2026-08-19T09:22:36.000Z"
-    },
-    {
-      "title": "A multi-tenant SaaS built in a 92-hour AI-augmented engineering sprint",
-      "url": "https://fast-and-flow-production.onrender.com/case-study",
-      "date": "2026-08-19T09:22:25.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
