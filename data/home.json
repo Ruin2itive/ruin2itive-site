@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-19T18:45:08.144Z",
-  "updated_local": "8/19/2026, 6:45:08 PM",
+  "updated_iso": "2026-08-19T19:22:16.301Z",
+  "updated_local": "8/19/2026, 7:22:16 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
+        "url": "https://decrypt.co/375987/kalshi-copper-perpetual-futures",
+        "source": "crypto",
+        "time": "Wed, 19 Aug 2026 19:16:04 +0000"
+      },
       {
         "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
         "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
@@ -26,20 +32,20 @@
         "url": "https://decrypt.co/375955/bitcoin-surges-70k-billion-crypto-shorts-rekt-hour",
         "source": "crypto",
         "time": "Wed, 19 Aug 2026 16:10:04 +0000"
-      },
-      {
-        "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
-        "url": "https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid",
-        "source": "crypto",
-        "time": "Wed, 19 Aug 2026 16:00:06 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Openrouter is joining Stripe",
+        "title": "OpenRouter is joining Stripe",
         "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
         "source": "hn",
         "time": "8/19/2026, 5:32:38 PM"
+      },
+      {
+        "title": "Go 1.27",
+        "url": "https://go.dev/blog/go1.27",
+        "source": "hn",
+        "time": "8/19/2026, 6:33:49 PM"
       },
       {
         "title": "A joke domain purchase turned in geopolitical warfare",
@@ -48,25 +54,25 @@
         "time": "8/19/2026, 11:21:50 AM"
       },
       {
-        "title": "Geolocating a random island using geometry and CUDA programming",
-        "url": "https://yassa9.github.io/osint/gralhix-004/",
-        "source": "hn",
-        "time": "8/19/2026, 12:19:52 PM"
-      },
-      {
         "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
         "url": "https://ornith.ai/ornith_1_5.html",
         "source": "hn",
         "time": "8/19/2026, 2:48:39 PM"
       },
       {
-        "title": "OpenLogi",
-        "url": "https://openlogi.org/en",
+        "title": "Geolocating a random island using geometry and CUDA programming",
+        "url": "https://yassa9.github.io/osint/gralhix-004/",
         "source": "hn",
-        "time": "8/19/2026, 1:58:28 AM"
+        "time": "8/19/2026, 12:19:52 PM"
       }
     ],
     "world": [
+      {
+        "title": "Couple and teenage daughter who died in water off Shoreham named by police",
+        "url": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 19 Aug 2026 18:45:51 GMT"
+      },
       {
         "title": "Track defect found on approach to site of Lewes derailment, initial report says",
         "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 19 Aug 2026 16:43:56 GMT"
-      },
-      {
-        "title": "Tenders open for highly-sensitive West Bank settlement project, Israel announces",
-        "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 19 Aug 2026 17:16:28 GMT"
       }
     ],
     "projects": [
