@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-19T22:15:43.923Z"
+    "built_at": "2026-08-19T23:15:18.370Z"
   },
-  "items": [
-    {
-      "title": "Two Memory Management Optimizations Going into Linux 7.3",
-      "url": "https://www.phoronix.com/news/Linux-7.3-MM",
-      "date": "2026-08-19T22:15:16.000Z"
-    },
-    {
-      "title": "Corsair Cove",
-      "url": "https://store.steampowered.com/app/1368140/Corsair_Cove/",
-      "date": "2026-08-19T22:14:11.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
