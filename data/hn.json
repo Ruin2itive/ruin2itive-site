@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-19T11:17:41.370Z"
+    "built_at": "2026-08-19T12:28:26.574Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Link to Pane – Link to Windows Alternative for Mac",
+      "url": "https://link-to-pane.com",
+      "date": "2026-08-19T12:25:30.000Z"
+    },
+    {
+      "title": "Introduction to GIS Programming",
+      "url": "https://gispro-fall26.gishub.org/",
+      "date": "2026-08-19T12:25:06.000Z"
+    }
+  ]
 }
