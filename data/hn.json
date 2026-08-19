@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-19T17:20:01.069Z"
+    "built_at": "2026-08-19T18:21:18.866Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The World After Automation",
+      "url": "https://every.to/thesis-statements",
+      "date": "2026-08-19T18:19:24.000Z"
+    },
+    {
+      "title": "Michigan Insurance Giant Blames \"AI\" for Layoffs–But Evidence Points Overseas",
+      "url": "https://www.chrisbrunet.com/p/exclusive-michigan-insurance-giant",
+      "date": "2026-08-19T18:19:13.000Z"
+    }
+  ]
 }
