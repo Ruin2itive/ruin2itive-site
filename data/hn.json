@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-19T16:21:06.169Z"
+    "built_at": "2026-08-19T17:20:01.069Z"
   },
-  "items": [
-    {
-      "title": "Claude watermark- science behind it",
-      "url": "https://www.youtube.com/watch?v=FnAqruxx-QE",
-      "date": "2026-08-19T16:19:03.000Z"
-    },
-    {
-      "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
-      "url": "https://arxiv.org/abs/2503.08679",
-      "date": "2026-08-19T16:18:57.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
