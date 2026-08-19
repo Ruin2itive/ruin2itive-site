@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-19T04:28:53.420Z"
+    "built_at": "2026-08-19T05:21:13.325Z"
   },
-  "items": [
-    {
-      "title": "Progress in Modernizing Kernel Cryptography",
-      "url": "https://lwn.net/Articles/1077427/",
-      "date": "2026-08-19T04:26:52.000Z"
-    },
-    {
-      "title": "AI mines 500 years of Spanish colonial records to find hidden wrecks, lost cargo",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo",
-      "date": "2026-08-19T04:25:35.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
