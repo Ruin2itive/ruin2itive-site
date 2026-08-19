@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-08-19T15:38:25.501Z",
-  "updated_local": "8/19/2026, 3:38:25 PM",
+  "updated_iso": "2026-08-19T16:27:51.677Z",
+  "updated_local": "8/19/2026, 4:27:51 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
+        "url": "https://decrypt.co/375955/bitcoin-surges-70k-billion-crypto-shorts-rekt-hour",
+        "source": "crypto",
+        "time": "Wed, 19 Aug 2026 16:10:04 +0000"
+      },
+      {
+        "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
+        "url": "https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid",
+        "source": "crypto",
+        "time": "Wed, 19 Aug 2026 16:00:06 +0000"
+      },
       {
         "title": "Morning Minute: SEC Brings Clarity to Crypto",
         "url": "https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising",
@@ -20,26 +32,20 @@
         "url": "https://decrypt.co/375933/crypto-ponzi-mastermind-deported-fiji-us",
         "source": "crypto",
         "time": "Wed, 19 Aug 2026 11:31:04 +0000"
-      },
-      {
-        "title": "Winklevoss-Backed Cypherpunk Launches &#39;World&#39;s Largest&#39; Zcash Mining Fleet",
-        "url": "https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet",
-        "source": "crypto",
-        "time": "Wed, 19 Aug 2026 09:31:03 +0000"
-      },
-      {
-        "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
-        "url": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
-        "source": "crypto",
-        "time": "Tue, 18 Aug 2026 22:56:04 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "GrapheneOS in 2027 available on high-end Motorola phones",
-        "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+        "title": "Civic Hygiene – avoid building technologies that could be used by a police state",
+        "url": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
         "source": "hn",
-        "time": "8/19/2026, 11:46:58 AM"
+        "time": "8/19/2026, 4:07:14 PM"
+      },
+      {
+        "title": "New Casio F-B100W – Upgrade to the iconic F-91W after 40 years",
+        "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+        "source": "hn",
+        "time": "8/19/2026, 3:28:01 PM"
       },
       {
         "title": "Geolocating a random island using geometry and CUDA programming",
@@ -58,12 +64,6 @@
         "url": "https://openlogi.org/en",
         "source": "hn",
         "time": "8/19/2026, 1:58:28 AM"
-      },
-      {
-        "title": "PostgreSQL for Everything",
-        "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
-        "source": "hn",
-        "time": "8/19/2026, 1:21:21 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Wed, 19 Aug 2026 15:33:32 GMT"
       },
       {
-        "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-        "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Salmonella outbreak: What we know so far",
+        "url": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 19 Aug 2026 15:19:55 GMT"
+        "time": "Wed, 19 Aug 2026 15:48:49 GMT"
       },
       {
-        "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-        "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israel opens up tenders for controversial West Bank settlement project",
+        "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 19 Aug 2026 12:47:53 GMT"
+        "time": "Wed, 19 Aug 2026 15:50:22 GMT"
       }
     ],
     "projects": [
