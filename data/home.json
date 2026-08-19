@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-19T13:41:07.217Z",
-  "updated_local": "8/19/2026, 1:41:07 PM",
+  "updated_iso": "2026-08-19T14:29:45.750Z",
+  "updated_local": "8/19/2026, 2:29:45 PM",
   "sections": {
     "crypto": [
       {
@@ -42,31 +42,37 @@
         "time": "8/19/2026, 11:46:58 AM"
       },
       {
+        "title": "PostgreSQL for Everything",
+        "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+        "source": "hn",
+        "time": "8/19/2026, 1:21:21 PM"
+      },
+      {
         "title": "Geolocating a random island using geometry and CUDA programming",
         "url": "https://yassa9.github.io/osint/gralhix-004/",
         "source": "hn",
         "time": "8/19/2026, 12:19:52 PM"
       },
       {
-        "title": "OpenLogi",
-        "url": "https://openlogi.org/en",
-        "source": "hn",
-        "time": "8/19/2026, 1:58:28 AM"
-      },
-      {
-        "title": "Air Theremin – a browser theremin you play by waving at your webcam",
-        "url": "https://theremin.bizibah.com/",
-        "source": "hn",
-        "time": "8/19/2026, 10:15:00 AM"
-      },
-      {
         "title": "A joke domain purchase turned in geopolitical warfare",
         "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
         "source": "hn",
         "time": "8/19/2026, 11:21:50 AM"
+      },
+      {
+        "title": "OpenLogi",
+        "url": "https://openlogi.org/en",
+        "source": "hn",
+        "time": "8/19/2026, 1:58:28 AM"
       }
     ],
     "world": [
+      {
+        "title": "Rail investigators find track defect on approach to site of Lewes derailment, initial report says",
+        "url": "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 19 Aug 2026 14:06:42 GMT"
+      },
       {
         "title": "Thunderstorm warnings issued for parts of UK with flash flooding expected",
         "url": "https://www.bbc.co.uk/news/articles/c0m7e9ym747o?at_medium=RSS&amp;at_campaign=rss",
@@ -74,10 +80,10 @@
         "time": "Wed, 19 Aug 2026 12:09:47 GMT"
       },
       {
-        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+        "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
         "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 19 Aug 2026 12:41:46 GMT"
+        "time": "Wed, 19 Aug 2026 13:53:51 GMT"
       },
       {
         "title": "Jump in energy bills drives UK inflation to highest rate for four months",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 19 Aug 2026 12:47:53 GMT"
-      },
-      {
-        "title": "PM unveils plan to get rough sleepers off streets for Christmas",
-        "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 19 Aug 2026 11:45:33 GMT"
       }
     ],
     "projects": [
