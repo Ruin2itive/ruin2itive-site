@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-19T14:24:02.588Z"
+    "built_at": "2026-08-19T15:22:24.665Z"
   },
-  "items": [
-    {
-      "title": "Show HN: MCP app for Android, drive apps via AI (no root, PII redacted locally)",
-      "url": "https://github.com/danielealbano/android-remote-control-mcp/",
-      "date": "2026-08-19T14:23:13.000Z"
-    },
-    {
-      "title": "Proposal to prohibit vibe coded projects from being hosted on Sourcehut",
-      "url": "https://lists.sr.ht/~sircmpwn/sr.ht-discuss/%3CDKSTMKM0ZD9N.2FTBDFREZH699@ddevault.org%3E",
-      "date": "2026-08-19T14:22:53.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
