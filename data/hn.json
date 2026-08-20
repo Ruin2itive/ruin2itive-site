@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-20T13:38:52.662Z"
+    "built_at": "2026-08-20T14:26:56.440Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "ONNX.css – Neural network inference using stylesheets",
+      "url": "https://onnx.css.evanking.io/",
+      "date": "2026-08-20T14:26:08.000Z"
+    },
+    {
+      "title": "What Every Kernel Programmer Should Know About Jump Labels",
+      "url": "https://walac.github.io/jumplabels/",
+      "date": "2026-08-20T14:25:18.000Z"
+    }
+  ]
 }
