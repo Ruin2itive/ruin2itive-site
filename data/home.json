@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-20T14:42:56.017Z",
-  "updated_local": "8/20/2026, 2:42:56 PM",
+  "updated_iso": "2026-08-20T15:30:04.442Z",
+  "updated_local": "8/20/2026, 3:30:04 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
-        "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-        "source": "hn",
-        "time": "8/20/2026, 1:23:12 PM"
-      },
-      {
         "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
         "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
         "source": "hn",
         "time": "8/20/2026, 10:08:52 AM"
+      },
+      {
+        "title": "Malicious Rust crate Arrayref runs a build-time payload",
+        "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+        "source": "hn",
+        "time": "8/20/2026, 1:23:12 PM"
       },
       {
         "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
@@ -54,16 +54,16 @@
         "time": "8/20/2026, 12:04:38 PM"
       },
       {
+        "title": "Slack Code",
+        "url": "https://www.salesforce.com/introducing-slack-code/?bc=HL",
+        "source": "hn",
+        "time": "8/20/2026, 2:21:25 PM"
+      },
+      {
         "title": "DiffusionGemma Technical Report",
         "url": "https://arxiv.org/abs/2608.00146",
         "source": "hn",
         "time": "8/20/2026, 1:24:32 PM"
-      },
-      {
-        "title": "Stwipe Acquires OpenWouter",
-        "url": "https://stwipe.com/",
-        "source": "hn",
-        "time": "8/20/2026, 2:04:46 PM"
       }
     ],
     "world": [
