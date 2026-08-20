@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-20T06:57:04.529Z",
-  "updated_local": "8/20/2026, 6:57:04 AM",
+  "updated_iso": "2026-08-20T07:37:54.866Z",
+  "updated_local": "8/20/2026, 7:37:54 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Windows brings out the Rorschach test in everyone",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+        "source": "hn",
+        "time": "8/20/2026, 6:16:40 AM"
+      },
+      {
         "title": "OpenRouter is joining Stripe",
         "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://www.benjoffe.com/fast-day-of-week",
         "source": "hn",
         "time": "8/16/2026, 9:20:40 PM"
-      },
-      {
-        "title": "Google has stopped pushing Git tags for some Android source code",
-        "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-        "source": "hn",
-        "time": "8/19/2026, 5:47:29 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Prince Harry and Meghan moving back to UK later this month",
         "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 20 Aug 2026 06:08:34 GMT"
+        "time": "Thu, 20 Aug 2026 07:21:03 GMT"
       },
       {
         "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
@@ -80,22 +80,22 @@
         "time": "Thu, 20 Aug 2026 02:00:51 GMT"
       },
       {
+        "title": "Travelodge boss steps down after security issues in rooms",
+        "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 20 Aug 2026 07:27:21 GMT"
+      },
+      {
         "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
         "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 20 Aug 2026 06:44:20 GMT"
+        "time": "Thu, 20 Aug 2026 07:19:40 GMT"
       },
       {
         "title": "Giant whales move into Greenland waters as ice disappears",
         "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 20 Aug 2026 02:05:20 GMT"
-      },
-      {
-        "title": "Vaccine breakthrough stops cancer returning in trial",
-        "url": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 19 Aug 2026 19:00:48 GMT"
       }
     ],
     "projects": [
