@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-20T16:41:55.736Z",
-  "updated_local": "8/20/2026, 4:41:55 PM",
+  "updated_iso": "2026-08-20T17:25:05.527Z",
+  "updated_local": "8/20/2026, 5:25:05 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Iranian Hackers Tied to $6 Million Bitcoin Extortion Charged in Massive Cyber Campaign",
+        "url": "https://decrypt.co/376117/iranian-hackers-bitcoin-extortion-charged",
+        "source": "crypto",
+        "time": "Thu, 20 Aug 2026 17:12:43 +0000"
+      },
       {
         "title": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure",
         "url": "https://decrypt.co/376109/hacked-wordpress-sites-criminal-infrastructure",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets",
         "source": "crypto",
         "time": "Thu, 20 Aug 2026 13:31:05 +0000"
-      },
-      {
-        "title": "Flock&#39;s New AI Police Tool Can Track Drivers Without a Name or License Plate",
-        "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
-        "source": "crypto",
-        "time": "Thu, 20 Aug 2026 11:31:04 +0000"
       }
     ],
     "hacker": [
@@ -48,22 +48,22 @@
         "time": "8/20/2026, 10:08:52 AM"
       },
       {
-        "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-        "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-        "source": "hn",
-        "time": "8/20/2026, 12:04:38 PM"
-      },
-      {
         "title": "HTML Can Do That",
         "url": "https://chrisburnell.com/html-can-do-that/",
         "source": "hn",
         "time": "8/19/2026, 3:11:36 PM"
       },
       {
-        "title": "Malicious Rust crate Arrayref runs a build-time payload",
-        "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+        "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+        "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
         "source": "hn",
-        "time": "8/20/2026, 1:23:12 PM"
+        "time": "8/20/2026, 12:04:38 PM"
+      },
+      {
+        "title": "CIA funding helped keep NeXT afloat in the 80s",
+        "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+        "source": "hn",
+        "time": "8/20/2026, 12:15:01 AM"
       }
     ],
     "world": [
@@ -74,10 +74,10 @@
         "time": "Thu, 20 Aug 2026 13:53:40 GMT"
       },
       {
-        "title": "Why are Harry and Meghan returning to the UK?",
-        "url": "https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
+        "url": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 20 Aug 2026 10:16:31 GMT"
+        "time": "Thu, 20 Aug 2026 16:54:51 GMT"
       },
       {
         "title": "Five key takeaways from GCSE results day 2026",
@@ -92,10 +92,10 @@
         "time": "Thu, 20 Aug 2026 16:17:27 GMT"
       },
       {
-        "title": "John Swinney defends £45,000 business-class flights to World Cup",
-        "url": "https://www.bbc.co.uk/news/articles/ceqe385qen2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Academic who accused Jason Arday of plagiarism suspended by university",
+        "url": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 20 Aug 2026 12:33:09 GMT"
+        "time": "Thu, 20 Aug 2026 16:40:51 GMT"
       }
     ],
     "projects": [
