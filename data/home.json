@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-20T13:42:58.217Z",
-  "updated_local": "8/20/2026, 1:42:58 PM",
+  "updated_iso": "2026-08-20T14:32:40.629Z",
+  "updated_local": "8/20/2026, 2:32:40 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Hyperliquid Is Coming to the US",
+        "url": "https://decrypt.co/376069/morning-minute-hyperliquid-coming-us",
+        "source": "crypto",
+        "time": "Thu, 20 Aug 2026 14:02:44 +0000"
+      },
       {
         "title": "Fake Crypto AML Checkers Are Trying to Drain Users&#39; Wallets",
         "url": "https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
         "source": "crypto",
         "time": "Wed, 19 Aug 2026 22:18:01 +0000"
-      },
-      {
-        "title": "Trump Says AI Could Be &#39;Bigger Than the Internet&#39; as He Pushes Light-Touch Regulation",
-        "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
-        "source": "crypto",
-        "time": "Wed, 19 Aug 2026 21:36:50 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Don't Paste the AI, please",
-        "url": "https://dontpastetheai.com/",
+        "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+        "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
         "source": "hn",
-        "time": "8/20/2026, 8:20:44 AM"
+        "time": "8/20/2026, 1:23:12 PM"
       },
       {
         "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
@@ -54,16 +54,16 @@
         "time": "8/20/2026, 12:04:38 PM"
       },
       {
-        "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
-        "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+        "title": "DiffusionGemma Technical Report",
+        "url": "https://arxiv.org/abs/2608.00146",
         "source": "hn",
-        "time": "8/20/2026, 1:23:12 PM"
+        "time": "8/20/2026, 1:24:32 PM"
       },
       {
-        "title": "Windows brings out the Rorschach test in everyone (2003)",
-        "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+        "title": "I Spent Twenty Years Becoming Good at the Wrong Game",
+        "url": "https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/",
         "source": "hn",
-        "time": "8/20/2026, 6:16:40 AM"
+        "time": "8/20/2026, 1:39:18 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Harry and Meghan's security arrangements a private matter, PM says",
         "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 20 Aug 2026 13:08:14 GMT"
+        "time": "Thu, 20 Aug 2026 13:53:40 GMT"
       },
       {
         "title": "Why are Harry and Meghan returning to the UK?",
@@ -86,16 +86,16 @@
         "time": "Thu, 20 Aug 2026 10:05:24 GMT"
       },
       {
+        "title": "John Swinney defends £45,000 business-class flights to World Cup",
+        "url": "https://www.bbc.co.uk/news/articles/ceqe385qen2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 20 Aug 2026 12:33:09 GMT"
+      },
+      {
         "title": "School 'deeply saddened' by death of family in sea off Shoreham",
         "url": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 20 Aug 2026 09:53:52 GMT"
-      },
-      {
-        "title": "Train derailment carriages moved amid track probe",
-        "url": "https://www.bbc.co.uk/news/articles/c79gpp4dvwxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 20 Aug 2026 13:25:48 GMT"
+        "time": "Thu, 20 Aug 2026 14:20:42 GMT"
       }
     ],
     "projects": [
