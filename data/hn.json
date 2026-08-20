@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-20T06:30:47.573Z"
+    "built_at": "2026-08-20T07:33:44.554Z"
   },
-  "items": [
-    {
-      "title": "Windows brings out the Rorschach test in everyone",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-      "date": "2026-08-20T06:16:40.000Z"
-    },
-    {
-      "title": "Rising number of people seeking ADHD diagnosis without treatment, say experts",
-      "url": "https://www.theguardian.com/society/2026/aug/18/great-adhd-myth-rising-diagnosis-without-treatment",
-      "date": "2026-08-20T06:13:23.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
