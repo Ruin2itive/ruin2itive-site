@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-20T08:34:21.825Z",
-  "updated_local": "8/20/2026, 8:34:21 AM",
+  "updated_iso": "2026-08-20T08:48:38.998Z",
+  "updated_local": "8/20/2026, 8:48:38 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Don't Paste the AI, please",
+        "url": "https://dontpastetheai.com/",
+        "source": "hn",
+        "time": "8/20/2026, 8:20:44 AM"
+      },
+      {
         "title": "Windows brings out the Rorschach test in everyone",
         "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://go.dev/blog/go1.27",
         "source": "hn",
         "time": "8/19/2026, 6:33:49 PM"
-      },
-      {
-        "title": "A faster way to calculate the day of the week",
-        "url": "https://www.benjoffe.com/fast-day-of-week",
-        "source": "hn",
-        "time": "8/16/2026, 9:20:40 PM"
       }
     ],
     "world": [
@@ -80,7 +80,7 @@
         "time": "Thu, 20 Aug 2026 02:00:51 GMT"
       },
       {
-        "title": "Travelodge boss steps down after security issues in rooms",
+        "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
         "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 20 Aug 2026 08:19:50 GMT"
@@ -95,7 +95,7 @@
         "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
         "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 20 Aug 2026 07:59:55 GMT"
+        "time": "Thu, 20 Aug 2026 08:39:26 GMT"
       }
     ],
     "projects": [
