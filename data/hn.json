@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-20T02:12:07.045Z"
+    "built_at": "2026-08-20T03:39:01.393Z"
   },
-  "items": [
-    {
-      "title": "Bapu Studio – Open-Source Client for APIs, Databases, and Secrets",
-      "url": "https://github.com/joravar/bapu-studio",
-      "date": "2026-08-20T02:08:23.000Z"
-    },
-    {
-      "title": "Google styleguide code review skills",
-      "url": "https://jeanbza.github.io/ai/claude/2026/08/08/google-codereview-skills.html",
-      "date": "2026-08-20T02:01:54.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
