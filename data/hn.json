@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-20T22:17:47.286Z"
+    "built_at": "2026-08-20T23:17:56.769Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "We replaced our 223-node agent graph with a single open-source LLM",
+      "url": "https://www.netic.ai/replacing-node-agent-graph-with-open-source-llm",
+      "date": "2026-08-20T23:17:09.000Z"
+    },
+    {
+      "title": "Show HN: AI tools with real pricing, submitted in 30 seconds",
+      "url": "https://worthtotry.com",
+      "date": "2026-08-20T23:13:26.000Z"
+    }
+  ]
 }
