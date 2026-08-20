@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-20T11:18:30.516Z"
+    "built_at": "2026-08-20T12:30:23.370Z"
   },
-  "items": [
-    {
-      "title": "Control Panel for Twitter: browser extension gives you control and adds features",
-      "url": "https://github.com/insin/control-panel-for-twitter",
-      "date": "2026-08-20T11:16:16.000Z"
-    },
-    {
-      "title": "Use your favorite coding agent with any model",
-      "url": "https://getaivo.dev/",
-      "date": "2026-08-20T11:14:55.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
