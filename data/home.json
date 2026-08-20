@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-20T13:03:04.052Z",
-  "updated_local": "8/20/2026, 1:03:04 PM",
+  "updated_iso": "2026-08-20T13:42:58.217Z",
+  "updated_local": "8/20/2026, 1:42:58 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Fake Crypto AML Checkers Are Trying to Drain Users&#39; Wallets",
+        "url": "https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets",
+        "source": "crypto",
+        "time": "Thu, 20 Aug 2026 13:31:05 +0000"
+      },
       {
         "title": "Flock&#39;s New AI Police Tool Can Track Drivers Without a Name or License Plate",
         "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
         "source": "crypto",
         "time": "Wed, 19 Aug 2026 21:36:50 +0000"
-      },
-      {
-        "title": "Trump Calls on Congress to Pass &#39;Fair Version&#39; of Clarity Act at White House Crypto Meeting",
-        "url": "https://decrypt.co/376006/trump-pass-fair-version-clarity-white-house-crypto-meeting",
-        "source": "crypto",
-        "time": "Wed, 19 Aug 2026 19:56:45 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "8/20/2026, 12:04:38 PM"
       },
       {
+        "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+        "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+        "source": "hn",
+        "time": "8/20/2026, 1:23:12 PM"
+      },
+      {
         "title": "Windows brings out the Rorschach test in everyone (2003)",
         "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
         "source": "hn",
         "time": "8/20/2026, 6:16:40 AM"
-      },
-      {
-        "title": "OpenRouter is joining Stripe",
-        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-        "source": "hn",
-        "time": "8/19/2026, 5:32:38 PM"
       }
     ],
     "world": [
@@ -71,13 +71,13 @@
         "title": "Harry and Meghan's security arrangements a private matter, PM says",
         "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 20 Aug 2026 12:26:35 GMT"
+        "time": "Thu, 20 Aug 2026 13:08:14 GMT"
       },
       {
-        "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
-        "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Why are Harry and Meghan returning to the UK?",
+        "url": "https://www.bbc.co.uk/news/videos/cp8eg084n3eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 20 Aug 2026 02:00:51 GMT"
+        "time": "Thu, 20 Aug 2026 10:16:31 GMT"
       },
       {
         "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
@@ -95,7 +95,7 @@
         "title": "Train derailment carriages moved amid track probe",
         "url": "https://www.bbc.co.uk/news/articles/c79gpp4dvwxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 20 Aug 2026 12:09:40 GMT"
+        "time": "Thu, 20 Aug 2026 13:25:48 GMT"
       }
     ],
     "projects": [
