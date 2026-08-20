@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-20T16:31:31.174Z",
-  "updated_local": "8/20/2026, 4:31:31 PM",
+  "updated_iso": "2026-08-20T16:41:55.736Z",
+  "updated_local": "8/20/2026, 4:41:55 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure",
+        "url": "https://decrypt.co/376109/hacked-wordpress-sites-criminal-infrastructure",
+        "source": "crypto",
+        "time": "Thu, 20 Aug 2026 16:33:38 +0000"
+      },
       {
         "title": "Bitcoin Hits Highest Price Since June as $3 Billion in Shorts Liquidated",
         "url": "https://decrypt.co/376085/bitcoin-price-high-june-3-billion-shorts-liquidated",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
         "source": "crypto",
         "time": "Thu, 20 Aug 2026 11:31:04 +0000"
-      },
-      {
-        "title": "Banking Regulator Races to Finalize GENIUS Act Stablecoin Rules",
-        "url": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
-        "source": "crypto",
-        "time": "Thu, 20 Aug 2026 09:31:03 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-        "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-        "source": "hn",
-        "time": "8/20/2026, 10:08:52 AM"
-      },
       {
         "title": "I like 'em thick: an apology to my English teachers",
         "url": "https://www.experimental-history.com/p/i-like-em-thick",
         "source": "hn",
         "time": "8/18/2026, 3:50:52 PM"
+      },
+      {
+        "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+        "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+        "source": "hn",
+        "time": "8/20/2026, 10:08:52 AM"
       },
       {
         "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
