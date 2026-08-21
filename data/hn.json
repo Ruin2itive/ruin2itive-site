@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-21T18:24:13.572Z"
+    "built_at": "2026-08-21T19:19:34.420Z"
   },
-  "items": [
-    {
-      "title": "KDE Linux Experiences",
-      "url": "https://akselmo.dev/posts/kde-linux-experiences/",
-      "date": "2026-08-21T18:22:30.000Z"
-    },
-    {
-      "title": "Superconducting temperature record set at ordinary pressures",
-      "url": "https://www.anl.gov/article/superconducting-temperature-record-set-at-ordinary-pressures",
-      "date": "2026-08-21T18:21:26.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
