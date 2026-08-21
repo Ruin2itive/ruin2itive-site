@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-21T20:16:04.409Z"
+    "built_at": "2026-08-21T21:15:25.803Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "U.S. Announces Colorado River Cuts for 3 States Amid Drought",
+      "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
+      "date": "2026-08-21T21:12:01.000Z"
+    },
+    {
+      "title": "Influencers and Resellers Are Turning Empty Boxes into Big Cash",
+      "url": "https://www.wired.com/story/when-the-packaging-is-the-product-empty-boxes-influencers/",
+      "date": "2026-08-21T21:08:43.000Z"
+    }
+  ]
 }
