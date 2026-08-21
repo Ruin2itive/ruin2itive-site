@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-21T08:29:21.467Z"
+    "built_at": "2026-08-21T09:27:41.868Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Debates over AI consciousness are a trap",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "date": "2026-08-21T09:26:56.000Z"
+    },
+    {
+      "title": "Show HN: Squid Pay – Financial infrastructure for autonomous AI agents",
+      "url": "https://www.squidpay.dev/",
+      "date": "2026-08-21T09:22:17.000Z"
+    }
+  ]
 }
