@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-21T10:20:54.908Z"
+    "built_at": "2026-08-21T11:17:50.369Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Microsoft gives Task Manager another task: Watching AI workloads",
+      "url": "https://www.theregister.com/os-platforms/2026/08/20/microsoft-gives-task-manager-another-task-watching-ai-workloads/5290448",
+      "date": "2026-08-21T11:16:03.000Z"
+    },
+    {
+      "title": "Bandai don't sue me please",
+      "url": "https://github.com/Irtaza2009/Hackamon",
+      "date": "2026-08-21T11:15:55.000Z"
+    }
+  ]
 }
