@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-21T07:39:25.149Z",
-  "updated_local": "8/21/2026, 7:39:25 AM",
+  "updated_iso": "2026-08-21T07:51:38.124Z",
+  "updated_local": "8/21/2026, 7:51:38 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "Stop Making TUIs",
-        "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-        "source": "hn",
-        "time": "8/21/2026, 5:37:38 AM"
-      },
-      {
         "title": "The August 17 outage",
         "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
         "source": "hn",
@@ -54,16 +48,22 @@
         "time": "8/18/2026, 3:50:52 PM"
       },
       {
+        "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+        "url": "https://encore.dev/blog/firecracker-apple-silicon",
+        "source": "hn",
+        "time": "8/21/2026, 6:59:40 AM"
+      },
+      {
         "title": "HTML Can Do That",
         "url": "https://chrisburnell.com/html-can-do-that/",
         "source": "hn",
         "time": "8/19/2026, 3:11:36 PM"
       },
       {
-        "title": "Malicious Rust crate Arrayref runs a build-time payload",
-        "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+        "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+        "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
         "source": "hn",
-        "time": "8/20/2026, 1:23:12 PM"
+        "time": "8/21/2026, 5:39:39 AM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
         "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 21 Aug 2026 00:33:21 GMT"
+        "time": "Fri, 21 Aug 2026 07:43:30 GMT"
       },
       {
         "title": "Meghan could return to acting once back in UK",
@@ -86,7 +86,7 @@
         "time": "Fri, 21 Aug 2026 04:07:22 GMT"
       },
       {
-        "title": "My student day out in London turned to terror - now survivors like me won't be forgotten",
+        "title": "My life was changed by a terror attack - now survivors like me won't be forgotten",
         "url": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 21 Aug 2026 00:11:18 GMT"
