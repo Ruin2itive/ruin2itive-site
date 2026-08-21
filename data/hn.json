@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-21T15:24:20.314Z"
+    "built_at": "2026-08-21T16:21:50.198Z"
   },
-  "items": [
-    {
-      "title": "Cancer-Related Mortality Among US Pilots and Flight Attendants",
-      "url": "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2852504",
-      "date": "2026-08-21T15:23:32.000Z"
-    },
-    {
-      "title": "Skill: JSON-LD Schema Generator: schema.org structured data markup",
-      "url": "https://www.skills.sh/onlineinference/json-ld-schema-generator/json-ld-schema-generator",
-      "date": "2026-08-21T15:22:33.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
