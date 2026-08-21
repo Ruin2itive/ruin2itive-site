@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-21T07:51:38.124Z",
-  "updated_local": "8/21/2026, 7:51:38 AM",
+  "updated_iso": "2026-08-21T08:36:33.759Z",
+  "updated_local": "8/21/2026, 8:36:33 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "The Lost Treasure of Sid Meier's Pirates",
+        "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+        "source": "hn",
+        "time": "8/21/2026, 7:23:27 AM"
+      },
+      {
+        "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+        "url": "https://encore.dev/blog/firecracker-apple-silicon",
+        "source": "hn",
+        "time": "8/21/2026, 6:59:40 AM"
+      },
+      {
         "title": "The August 17 outage",
         "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
         "source": "hn",
@@ -48,22 +60,10 @@
         "time": "8/18/2026, 3:50:52 PM"
       },
       {
-        "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-        "url": "https://encore.dev/blog/firecracker-apple-silicon",
-        "source": "hn",
-        "time": "8/21/2026, 6:59:40 AM"
-      },
-      {
         "title": "HTML Can Do That",
         "url": "https://chrisburnell.com/html-can-do-that/",
         "source": "hn",
         "time": "8/19/2026, 3:11:36 PM"
-      },
-      {
-        "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
-        "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-        "source": "hn",
-        "time": "8/21/2026, 5:39:39 AM"
       }
     ],
     "world": [
@@ -95,7 +95,7 @@
         "title": "French becoming more effective in stopping small boat crossings, UK says",
         "url": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 20 Aug 2026 22:23:24 GMT"
+        "time": "Fri, 21 Aug 2026 08:26:01 GMT"
       }
     ],
     "projects": [
