@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-22T20:13:17.447Z"
+    "built_at": "2026-08-22T21:13:23.011Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The search for consciousness inside LLMs",
+      "url": "https://www.economist.com/interactive/briefing/2026/08/20/the-search-for-consciousness-inside-llms",
+      "date": "2026-08-22T21:10:42.000Z"
+    },
+    {
+      "title": "Oura rings unable to measure any signals needed to assess sleep quality / stages",
+      "url": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/",
+      "date": "2026-08-22T21:09:07.000Z"
+    }
+  ]
 }
