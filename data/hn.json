@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-22T10:14:11.078Z"
+    "built_at": "2026-08-22T11:13:14.768Z"
   },
-  "items": [
-    {
-      "title": "Bidad (Outcry). A Film by Soheil Beiraghi [video]",
-      "url": "https://www.youtube.com/watch?v=Q2phizeC6Lo",
-      "date": "2026-08-22T10:10:44.000Z"
-    },
-    {
-      "title": "Comparing open vs. closed models across the eras of frontier models",
-      "url": "https://newsletter.semianalysis.com/p/are-open-models-catching-up",
-      "date": "2026-08-22T10:09:03.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
