@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-21T23:15:24.886Z"
+    "built_at": "2026-08-22T00:45:17.619Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Touareg CR after missile attack [video]",
+      "url": "https://www.youtube.com/watch?v=AmCAjVvaqKE",
+      "date": "2026-08-22T00:43:19.000Z"
+    },
+    {
+      "title": "Fighting Bot Traffic",
+      "url": "https://markustenghamn.com/blog/fighting-bot-traffic",
+      "date": "2026-08-22T00:41:33.000Z"
+    }
+  ]
 }
