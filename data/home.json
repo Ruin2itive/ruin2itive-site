@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-22T18:40:02.981Z",
-  "updated_local": "8/22/2026, 6:40:02 PM",
+  "updated_iso": "2026-08-22T19:19:57.701Z",
+  "updated_local": "8/22/2026, 7:19:57 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "Scrap",
+        "url": "https://twitter.com/moxie/status/2091218652133732491",
+        "source": "hn",
+        "time": "8/22/2026, 6:08:56 PM"
+      },
+      {
+        "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+        "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+        "source": "hn",
+        "time": "8/22/2026, 7:04:41 PM"
+      },
+      {
         "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
         "url": "https://quantumi.sh/public/labs.html",
         "source": "hn",
@@ -48,25 +60,19 @@
         "time": "8/22/2026, 2:08:19 PM"
       },
       {
-        "title": "RF Cafe",
-        "url": "https://www.rfcafe.com/",
+        "title": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+        "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
         "source": "hn",
-        "time": "8/19/2026, 2:05:43 AM"
-      },
-      {
-        "title": "Hister – A private, full content search index that you control",
-        "url": "https://hister.org/",
-        "source": "hn",
-        "time": "8/18/2026, 8:00:50 PM"
-      },
-      {
-        "title": "Munder Difflin – Agent harness to run an office of your clones",
-        "url": "https://munderdiffl.in/",
-        "source": "hn",
-        "time": "8/22/2026, 9:49:14 AM"
+        "time": "8/22/2026, 1:39:07 PM"
       }
     ],
     "world": [
+      {
+        "title": "Two police officers among seven killed in wrong-way car crash",
+        "url": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 22 Aug 2026 18:57:47 GMT"
+      },
       {
         "title": "Video appears to show police chase minutes before fatal A66 crash",
         "url": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 21 Aug 2026 23:56:48 GMT"
-      },
-      {
-        "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-        "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 22 Aug 2026 17:02:06 GMT"
       }
     ],
     "projects": [
