@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-22T15:28:14.380Z",
-  "updated_local": "8/22/2026, 3:28:14 PM",
+  "updated_iso": "2026-08-22T16:19:43.265Z",
+  "updated_local": "8/22/2026, 4:19:43 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
+        "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
+        "source": "crypto",
+        "time": "Sat, 22 Aug 2026 15:31:04 +0000"
+      },
       {
         "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
         "url": "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
         "source": "crypto",
         "time": "Fri, 21 Aug 2026 18:45:01 +0000"
-      },
-      {
-        "title": "Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings",
-        "url": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings",
-        "source": "crypto",
-        "time": "Fri, 21 Aug 2026 18:06:56 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "The New MCP Roadmap",
-        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-        "source": "hn",
-        "time": "8/22/2026, 1:31:34 PM"
-      },
       {
         "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
         "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
@@ -48,10 +42,10 @@
         "time": "8/22/2026, 1:24:06 PM"
       },
       {
-        "title": "Munder Difflin – Agent harness to run an office of your clones",
-        "url": "https://munderdiffl.in/",
+        "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+        "url": "https://quantumi.sh/public/labs.html",
         "source": "hn",
-        "time": "8/22/2026, 9:49:14 AM"
+        "time": "8/22/2026, 2:54:07 PM"
       },
       {
         "title": "A Friendly Introduction to Racket",
@@ -60,18 +54,24 @@
         "time": "8/22/2026, 2:08:19 PM"
       },
       {
-        "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
-        "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+        "title": "The New MCP Roadmap",
+        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
         "source": "hn",
-        "time": "8/22/2026, 9:49:57 AM"
+        "time": "8/22/2026, 1:31:34 PM"
+      },
+      {
+        "title": "Munder Difflin – Agent harness to run an office of your clones",
+        "url": "https://munderdiffl.in/",
+        "source": "hn",
+        "time": "8/22/2026, 9:49:14 AM"
       }
     ],
     "world": [
       {
-        "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-        "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 22 Aug 2026 12:20:46 GMT"
+        "time": "Sat, 22 Aug 2026 16:05:04 GMT"
       },
       {
         "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
