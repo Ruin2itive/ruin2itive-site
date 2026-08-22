@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-22T05:18:59.602Z"
+    "built_at": "2026-08-22T06:24:48.499Z"
   },
-  "items": [
-    {
-      "title": "Keytrace",
-      "url": "https://keytrace.dev/blog/introducing-keytrace",
-      "date": "2026-08-22T05:15:04.000Z"
-    },
-    {
-      "title": "The Trouble with Trying to Turn Viral Videos into Blockbusters",
-      "url": "https://www.theatlantic.com/culture/2026/08/youtube-reddit-hollywood-movies-backrooms-obsession/688258/",
-      "date": "2026-08-22T05:12:05.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
