@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-22T13:24:56.177Z"
+    "built_at": "2026-08-22T14:12:54.725Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: 3D Engine for Rust Programs",
+      "url": "https://github.com/David-OConnor/graphics",
+      "date": "2026-08-22T14:12:01.000Z"
+    },
+    {
+      "title": "Always-On Agent Computers for Supabase",
+      "url": "https://sanbox.cloud/blog/always-on-sanbox-computers-for-supabase/",
+      "date": "2026-08-22T14:10:03.000Z"
+    }
+  ]
 }
