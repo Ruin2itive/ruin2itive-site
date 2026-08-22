@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-22T17:27:01.151Z",
-  "updated_local": "8/22/2026, 5:27:01 PM",
+  "updated_iso": "2026-08-22T18:25:26.969Z",
+  "updated_local": "8/22/2026, 6:25:26 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Microsoft Fixes &#39;Perfect 10&#39; Exploit That Could Have Let Hackers Run Code Remotely",
+        "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
+        "source": "crypto",
+        "time": "Sat, 22 Aug 2026 17:31:03 +0000"
+      },
       {
         "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
         "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/376244/wall-street-washington-bitcoin-rally",
         "source": "crypto",
         "time": "Fri, 21 Aug 2026 20:07:05 +0000"
-      },
-      {
-        "title": "Solana Just Got Faster—Is It Bullish for SOL?",
-        "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
-        "source": "crypto",
-        "time": "Fri, 21 Aug 2026 18:45:01 +0000"
       }
     ],
     "hacker": [
@@ -42,36 +42,42 @@
         "time": "8/22/2026, 2:54:07 PM"
       },
       {
-        "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-        "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-        "source": "hn",
-        "time": "8/22/2026, 1:24:06 PM"
-      },
-      {
         "title": "A Friendly Introduction to Racket",
         "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
         "source": "hn",
         "time": "8/22/2026, 2:08:19 PM"
       },
       {
+        "title": "RF Cafe",
+        "url": "https://www.rfcafe.com/",
+        "source": "hn",
+        "time": "8/19/2026, 2:05:43 AM"
+      },
+      {
+        "title": "New MCP Roadmap",
+        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+        "source": "hn",
+        "time": "8/22/2026, 1:31:34 PM"
+      },
+      {
         "title": "Munder Difflin – Agent harness to run an office of your clones",
         "url": "https://munderdiffl.in/",
         "source": "hn",
         "time": "8/22/2026, 9:49:14 AM"
-      },
-      {
-        "title": "The New MCP Roadmap",
-        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-        "source": "hn",
-        "time": "8/22/2026, 1:31:34 PM"
       }
     ],
     "world": [
       {
+        "title": "Video appears to show police chase minutes before fatal crash",
+        "url": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 22 Aug 2026 17:36:57 GMT"
+      },
+      {
         "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
         "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 22 Aug 2026 16:45:02 GMT"
+        "time": "Sat, 22 Aug 2026 18:20:36 GMT"
       },
       {
         "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
@@ -84,12 +90,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 21 Aug 2026 23:56:48 GMT"
-      },
-      {
-        "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-        "url": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 22 Aug 2026 00:03:10 GMT"
       },
       {
         "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
