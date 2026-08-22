@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-22T06:52:11.445Z",
-  "updated_local": "8/22/2026, 6:52:11 AM",
+  "updated_iso": "2026-08-22T07:28:55.086Z",
+  "updated_local": "8/22/2026, 7:28:55 AM",
   "sections": {
     "crypto": [
       {
@@ -36,24 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "There's no reason for software to be slow anymore",
-        "url": "https://danluu.com/perf-opt/",
-        "source": "hn",
-        "time": "8/22/2026, 1:06:17 AM"
-      },
-      {
-        "title": "GPT 5.6 Sol 20% price reduction",
-        "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-        "source": "hn",
-        "time": "8/22/2026, 4:33:06 AM"
-      },
-      {
-        "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-        "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-        "source": "hn",
-        "time": "8/22/2026, 1:02:09 AM"
-      },
-      {
         "title": "Felony Bench",
         "url": "https://www.felonybench.com/",
         "source": "hn",
@@ -64,6 +46,24 @@
         "url": "https://bandarlabs.github.io/Cobalt/",
         "source": "hn",
         "time": "8/21/2026, 4:25:25 PM"
+      },
+      {
+        "title": "Rust Glancer: Rust LSP using 100x less RAM",
+        "url": "https://rust-glancer.github.io/blog/hello-world/",
+        "source": "hn",
+        "time": "8/21/2026, 7:51:54 PM"
+      },
+      {
+        "title": "There's no reason for software to be slow anymore",
+        "url": "https://danluu.com/perf-opt/",
+        "source": "hn",
+        "time": "8/22/2026, 1:06:17 AM"
+      },
+      {
+        "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+        "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+        "source": "hn",
+        "time": "8/21/2026, 5:54:06 PM"
       }
     ],
     "world": [
