@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-22T06:24:48.499Z"
+    "built_at": "2026-08-22T07:24:22.451Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: MiniMax H3 on a 16GB Mac, 5 days after open weights",
+      "url": "https://github.com/tgo-app-dev/vpipe",
+      "date": "2026-08-22T07:21:38.000Z"
+    },
+    {
+      "title": "Building a Quantum Computer, One Fragile Qubit at a Time",
+      "url": "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/",
+      "date": "2026-08-22T07:21:33.000Z"
+    }
+  ]
 }
