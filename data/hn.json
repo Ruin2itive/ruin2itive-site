@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-22T17:12:53.215Z"
+    "built_at": "2026-08-22T18:16:47.389Z"
   },
-  "items": [
-    {
-      "title": "Unreleased Version of Super Mario Bros. Duck Hunt Discovered in Historic Haul",
-      "url": "https://www.ign.com/articles/how-97-copies-of-an-unreleased-version-of-super-mario-bros-duck-hunt-were-discovered-in-a-wisconsin-warehouse",
-      "date": "2026-08-22T17:11:31.000Z"
-    },
-    {
-      "title": "Stario is a philosophy of visible parts, explicit decisions, and direct tools",
-      "url": "https://stario.dev/",
-      "date": "2026-08-22T17:11:05.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
