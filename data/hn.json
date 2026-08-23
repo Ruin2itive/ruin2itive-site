@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-23T08:19:50.741Z"
+    "built_at": "2026-08-23T09:19:37.238Z"
   },
-  "items": [
-    {
-      "title": "Natural Number Game",
-      "url": "https://adam.math.hhu.de/#/g/leanprover-community/nng4",
-      "date": "2026-08-23T08:18:01.000Z"
-    },
-    {
-      "title": "The next GitHub is not worth winning",
-      "url": "https://davidpoblador.com/blog/the-next-github-is-not-worth-winning.html",
-      "date": "2026-08-23T08:17:55.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
