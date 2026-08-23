@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-23T14:14:53.786Z"
+    "built_at": "2026-08-23T15:14:06.097Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Blueprint for how to be self sufficient in a 1/4 acre backyard",
+      "url": "https://www.reddit.com/user/CandescentgenyVet/comments/1vw9dcj/blueprint_for_how_to_be_self_sufficient_in_a_14/",
+      "date": "2026-08-23T15:10:40.000Z"
+    },
+    {
+      "title": "Hacker News in Uncompromised Detail",
+      "url": "https://vale.rocks/posts/hacker-news",
+      "date": "2026-08-23T15:10:23.000Z"
+    }
+  ]
 }
