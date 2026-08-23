@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-23T05:20:48.937Z"
+    "built_at": "2026-08-23T06:26:10.764Z"
   },
-  "error": "fetch failed",
-  "items": []
+  "items": [
+    {
+      "title": "Wild AI-related reliability incidents are coming",
+      "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
+      "date": "2026-08-23T06:23:50.000Z"
+    },
+    {
+      "title": "Harvard Is Selling a $699 Course Taught by A.I. Clones of Its Faculty",
+      "url": "https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html",
+      "date": "2026-08-23T06:16:51.000Z"
+    }
+  ]
 }
