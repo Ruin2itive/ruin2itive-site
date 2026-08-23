@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-23T08:25:41.769Z",
-  "updated_local": "8/23/2026, 8:25:41 AM",
+  "updated_iso": "2026-08-23T08:38:56.158Z",
+  "updated_local": "8/23/2026, 8:38:56 AM",
   "sections": {
     "crypto": [
       {
@@ -48,31 +48,25 @@
         "time": "8/23/2026, 6:04:51 AM"
       },
       {
-        "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-        "url": "https://martypc.net/",
-        "source": "hn",
-        "time": "8/23/2026, 3:13:16 AM"
-      },
-      {
         "title": "To become a better writer, read as much as you can",
         "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
         "source": "hn",
         "time": "8/23/2026, 3:32:25 AM"
       },
       {
-        "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-        "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
+        "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+        "url": "https://martypc.net/",
         "source": "hn",
-        "time": "8/23/2026, 6:41:51 AM"
+        "time": "8/23/2026, 3:13:16 AM"
+      },
+      {
+        "title": "I Dream of Quieter Computing",
+        "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+        "source": "hn",
+        "time": "8/23/2026, 2:33:22 AM"
       }
     ],
     "world": [
-      {
-        "title": "Police officers killed in wrong-way crash mourned in 'unimaginable loss'",
-        "url": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 23 Aug 2026 07:24:25 GMT"
-      },
       {
         "title": "Mayors to get powers to overrule local councils on planning decisions",
         "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&amp;at_campaign=rss",
@@ -86,16 +80,22 @@
         "time": "Sun, 23 Aug 2026 05:46:43 GMT"
       },
       {
-        "title": "Plan to restrict violent and sex offenders to certain areas to start in October",
+        "title": "Plan to restrict serious offenders to certain areas to start in October",
         "url": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 23 Aug 2026 02:37:03 GMT"
       },
       {
-        "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister says",
+        "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 23 Aug 2026 08:02:22 GMT"
+        "time": "Sun, 23 Aug 2026 08:36:53 GMT"
+      },
+      {
+        "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
+        "url": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 23 Aug 2026 02:48:41 GMT"
       }
     ],
     "projects": [
