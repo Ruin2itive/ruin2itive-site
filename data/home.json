@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-23T03:55:53.973Z",
-  "updated_local": "8/23/2026, 3:55:53 AM",
+  "updated_iso": "2026-08-23T04:35:14.601Z",
+  "updated_local": "8/23/2026, 4:35:14 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+        "url": "https://martypc.net/",
+        "source": "hn",
+        "time": "8/23/2026, 3:13:16 AM"
+      },
+      {
         "title": "Scrap (2006)",
         "url": "https://twitter.com/moxie/status/2091218652133732491",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://quantumi.sh/public/labs.html",
         "source": "hn",
         "time": "8/22/2026, 2:54:07 PM"
-      },
-      {
-        "title": "Hister – A private, full content search index that you control",
-        "url": "https://hister.org/",
-        "source": "hn",
-        "time": "8/18/2026, 8:00:50 PM"
       }
     ],
     "world": [
