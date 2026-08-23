@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-23T13:25:39.978Z"
+    "built_at": "2026-08-23T14:14:53.786Z"
   },
-  "items": [
-    {
-      "title": "Ask HN: Will AI trigger mass IP protectionism in software?",
-      "url": "https://news.ycombinator.com/item?id=49408691",
-      "date": "2026-08-23T13:24:59.000Z"
-    },
-    {
-      "title": "Procedural Grid Art",
-      "url": "https://twentythreeoeight.com/",
-      "date": "2026-08-23T13:24:19.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
