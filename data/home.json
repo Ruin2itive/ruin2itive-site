@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-23T22:29:30.933Z",
-  "updated_local": "8/23/2026, 10:29:30 PM",
+  "updated_iso": "2026-08-23T23:17:45.574Z",
+  "updated_local": "8/23/2026, 11:17:45 PM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Everything I own, owned",
+        "url": "https://schlarp.com/posts/everything-i-own-owned/",
+        "source": "hn",
+        "time": "8/23/2026, 10:41:04 PM"
+      },
+      {
         "title": "How I find problems to solve as a staff engineer",
         "url": "https://lalitm.com/post/find-problems-staff-engineer/",
         "source": "hn",
         "time": "8/23/2026, 7:23:29 PM"
       },
       {
-        "title": "A complex structure on S^6 [pdf]",
-        "url": "https://alpo.ge/s6.pdf",
+        "title": "Google Workspace thinks my domain is an email provider (2025)",
+        "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
         "source": "hn",
-        "time": "8/23/2026, 9:47:25 PM"
-      },
-      {
-        "title": "How Complex Systems Fail (1998)",
-        "url": "https://how.complexsystems.fail/",
-        "source": "hn",
-        "time": "8/23/2026, 3:13:31 PM"
+        "time": "8/23/2026, 7:29:32 PM"
       },
       {
         "title": "My agent.md to improve LLM-assisted code quality",
@@ -60,10 +60,10 @@
         "time": "8/23/2026, 5:59:52 PM"
       },
       {
-        "title": "The Vibe Tax",
-        "url": "https://insufferable.dev/posts/vibe-tax/",
+        "title": "What Is a Harness?",
+        "url": "https://earendil.com/posts/what-is-a-harness/",
         "source": "hn",
-        "time": "8/23/2026, 6:31:02 PM"
+        "time": "8/23/2026, 2:24:21 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Sun, 23 Aug 2026 21:05:43 GMT"
       },
       {
+        "title": "How easy is it to find an NHS dentist? It depends where you live",
+        "url": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 23 Aug 2026 23:10:18 GMT"
+      },
+      {
+        "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 23 Aug 2026 23:07:10 GMT"
+      },
+      {
         "title": "CrossCountry to provide full service on Monday after major disruption",
         "url": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 23 Aug 2026 19:00:31 GMT"
-      },
-      {
-        "title": "Trump waves green flag to start IndyCar race through Washington streets",
-        "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 23 Aug 2026 20:19:36 GMT"
-      },
-      {
-        "title": "Reform says it will prioritise British-born young workers for social housing",
-        "url": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 23 Aug 2026 21:07:47 GMT"
       }
     ],
     "projects": [
