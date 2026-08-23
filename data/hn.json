@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-23T11:13:25.854Z"
+    "built_at": "2026-08-23T12:22:07.584Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Free global board for favourite products and shops",
+      "url": "https://shopat.lol",
+      "date": "2026-08-23T12:21:01.000Z"
+    },
+    {
+      "title": "Vorssaint – One menu bar icon doing the job of a dozen paid Mac apps",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "date": "2026-08-23T12:19:27.000Z"
+    }
+  ]
 }
