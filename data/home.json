@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-23T19:27:05.455Z",
-  "updated_local": "8/23/2026, 7:27:05 PM",
+  "updated_iso": "2026-08-23T20:18:38.588Z",
+  "updated_local": "8/23/2026, 8:18:38 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-        "url": "https://ericpardee.github.io/fire-hd-ownership/",
-        "source": "hn",
-        "time": "8/23/2026, 2:23:09 PM"
-      },
-      {
         "title": "A website for debloated open source alternatives",
         "url": "https://debloat.dev/",
         "source": "hn",
         "time": "8/23/2026, 4:54:10 PM"
+      },
+      {
+        "title": "How I Find Problems to Solve as a Staff Engineer",
+        "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+        "source": "hn",
+        "time": "8/23/2026, 7:23:29 PM"
+      },
+      {
+        "title": "Fable and the End of the Free Lunch",
+        "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+        "source": "hn",
+        "time": "8/23/2026, 7:06:09 PM"
       },
       {
         "title": "How Complex Systems Fail (1998)",
@@ -58,12 +64,6 @@
         "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
         "source": "hn",
         "time": "8/23/2026, 3:59:08 PM"
-      },
-      {
-        "title": "Malware infects Android-based automotive head unit firmware",
-        "url": "https://securelist.com/android-head-unit-malware/121106/",
-        "source": "hn",
-        "time": "8/23/2026, 1:05:38 PM"
       }
     ],
     "world": [
@@ -74,10 +74,10 @@
         "time": "Sun, 23 Aug 2026 14:58:40 GMT"
       },
       {
-        "title": "CrossCountry cancels 'almost all' UK services after power cut",
-        "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "CrossCountry to provide full service on Monday after major disruption",
+        "url": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 23 Aug 2026 14:05:16 GMT"
+        "time": "Sun, 23 Aug 2026 19:00:31 GMT"
       },
       {
         "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -86,16 +86,16 @@
         "time": "Sun, 23 Aug 2026 19:11:30 GMT"
       },
       {
-        "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 23 Aug 2026 12:56:43 GMT"
-      },
-      {
         "title": "Newcastle and Liverpool united in tribute to legend Keegan",
         "url": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 23 Aug 2026 15:53:38 GMT"
+      },
+      {
+        "title": "Man arrested travelling to France after London fire left one dead and eight injured",
+        "url": "https://www.bbc.co.uk/news/articles/cqlxlxy6z2no?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 23 Aug 2026 16:38:24 GMT"
       }
     ],
     "projects": [
