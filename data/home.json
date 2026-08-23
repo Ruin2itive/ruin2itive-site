@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-22T23:27:14.310Z",
-  "updated_local": "8/22/2026, 11:27:14 PM",
+  "updated_iso": "2026-08-23T01:09:39.885Z",
+  "updated_local": "8/23/2026, 1:09:39 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "NanoGPT Speedrun Frontier",
+        "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+        "source": "hn",
+        "time": "8/22/2026, 10:14:27 PM"
+      },
+      {
         "title": "Scrap",
         "url": "https://twitter.com/moxie/status/2091218652133732491",
         "source": "hn",
@@ -46,12 +52,6 @@
         "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
         "source": "hn",
         "time": "8/22/2026, 6:14:16 PM"
-      },
-      {
-        "title": "NetBSD and my life (2005)",
-        "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-        "source": "hn",
-        "time": "8/22/2026, 7:07:46 PM"
       },
       {
         "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
