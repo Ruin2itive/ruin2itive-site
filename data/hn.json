@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-23T04:28:18.297Z"
+    "built_at": "2026-08-23T05:20:48.937Z"
   },
-  "items": [
-    {
-      "title": "Activity Monitor for AI Application on Mac OS X",
-      "url": "https://popy.app/apps/corral",
-      "date": "2026-08-23T04:23:35.000Z"
-    },
-    {
-      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
-      "date": "2026-08-23T04:19:24.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
