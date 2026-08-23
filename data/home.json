@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-23T12:54:05.112Z",
-  "updated_local": "8/23/2026, 12:54:05 PM",
+  "updated_iso": "2026-08-23T13:29:29.084Z",
+  "updated_local": "8/23/2026, 1:29:29 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Malware infects Android-based automotive head unit firmware",
+        "url": "https://securelist.com/android-head-unit-malware/121106/",
+        "source": "hn",
+        "time": "8/23/2026, 1:05:38 PM"
+      },
+      {
         "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
         "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
         "source": "hn",
@@ -54,16 +60,10 @@
         "time": "8/23/2026, 5:51:01 AM"
       },
       {
-        "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-        "url": "https://skylens.yantraai.app/",
+        "title": "JIT Compiling Code in 5μs",
+        "url": "https://malisper.me/jit-compiling-code-in-5-us/",
         "source": "hn",
-        "time": "8/23/2026, 9:27:40 AM"
-      },
-      {
-        "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-        "url": "https://martypc.net/",
-        "source": "hn",
-        "time": "8/23/2026, 3:13:16 AM"
+        "time": "8/23/2026, 6:04:51 AM"
       }
     ],
     "world": [
@@ -80,10 +80,10 @@
         "time": "Sun, 23 Aug 2026 10:02:23 GMT"
       },
       {
-        "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+        "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 23 Aug 2026 09:37:05 GMT"
+        "time": "Sun, 23 Aug 2026 12:56:43 GMT"
       },
       {
         "title": "How a new era of heatwaves could shake up the school calendar",
@@ -95,7 +95,7 @@
         "title": "CrossCountry cancels 'almost all' UK services after power cut",
         "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 23 Aug 2026 12:38:01 GMT"
+        "time": "Sun, 23 Aug 2026 13:09:58 GMT"
       }
     ],
     "projects": [
