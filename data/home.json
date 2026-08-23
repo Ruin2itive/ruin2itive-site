@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-23T03:10:12.108Z",
-  "updated_local": "8/23/2026, 3:10:12 AM",
+  "updated_iso": "2026-08-23T03:55:53.973Z",
+  "updated_local": "8/23/2026, 3:55:53 AM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-        "url": "https://marcua.net/minitools/figmimic/",
-        "source": "hn",
-        "time": "8/22/2026, 6:11:40 PM"
-      },
-      {
         "title": "Scrap (2006)",
         "url": "https://twitter.com/moxie/status/2091218652133732491",
         "source": "hn",
         "time": "8/22/2026, 6:08:56 PM"
-      },
-      {
-        "title": "NanoGPT Speedrun Frontier",
-        "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-        "source": "hn",
-        "time": "8/22/2026, 10:14:27 PM"
       },
       {
         "title": "Why your local LLM feels dumber than it is",
@@ -60,24 +48,36 @@
         "time": "8/22/2026, 6:14:16 PM"
       },
       {
+        "title": "NanoGPT Speedrun Frontier",
+        "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+        "source": "hn",
+        "time": "8/22/2026, 10:14:27 PM"
+      },
+      {
         "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
         "url": "https://quantumi.sh/public/labs.html",
         "source": "hn",
         "time": "8/22/2026, 2:54:07 PM"
+      },
+      {
+        "title": "Hister – A private, full content search index that you control",
+        "url": "https://hister.org/",
+        "source": "hn",
+        "time": "8/18/2026, 8:00:50 PM"
       }
     ],
     "world": [
+      {
+        "title": "Mayors to get powers to overrule local councils on planning decisions",
+        "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 23 Aug 2026 03:10:51 GMT"
+      },
       {
         "title": "Two police officers among seven killed in wrong-way car crash",
         "url": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 22 Aug 2026 19:28:14 GMT"
-      },
-      {
-        "title": "Video appears to show police chase minutes before fatal A66 crash",
-        "url": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 22 Aug 2026 20:14:04 GMT"
       },
       {
         "title": "Struggling households need more help with bills, energy industry says",
