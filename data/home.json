@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-24T15:36:02.618Z",
-  "updated_local": "8/24/2026, 3:36:02 PM",
+  "updated_iso": "2026-08-24T15:47:14.176Z",
+  "updated_local": "8/24/2026, 3:47:14 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitmine Buys Another $81M in Ethereum as ETH Outperforms Bitcoin",
+        "url": "https://decrypt.co/376336/bitmine-81m-more-ethereum-eth-tops-bitcoin",
+        "source": "crypto",
+        "time": "Mon, 24 Aug 2026 15:43:36 +0000"
+      },
       {
         "title": "Morning Minute: Saylor’s Strategy Back in Green As BTC Soars to $78k",
         "url": "https://decrypt.co/376321/morning-minute-saylors-strategy-back-in-green-as-btc-soars-to-78k",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/376315/bitcoins-next-test-is-80000-as-jackson-hole-meeting-looms",
         "source": "crypto",
         "time": "Mon, 24 Aug 2026 10:49:00 +0000"
-      },
-      {
-        "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
-        "url": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
-        "source": "crypto",
-        "time": "Sun, 23 Aug 2026 16:31:04 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "8/24/2026, 3:08:17 PM"
       },
       {
-        "title": "How Europe is killing makers and micro-entrepreneurs",
-        "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-        "source": "hn",
-        "time": "8/24/2026, 1:05:25 PM"
-      },
-      {
         "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
         "url": "https://developers.openai.com/api/docs/pricing",
         "source": "hn",
         "time": "8/24/2026, 3:22:43 PM"
+      },
+      {
+        "title": "How Europe is killing makers and micro-entrepreneurs",
+        "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+        "source": "hn",
+        "time": "8/24/2026, 1:05:25 PM"
       },
       {
         "title": "SeL4 security proofs now complete on AArch64",
@@ -60,10 +60,10 @@
         "time": "8/24/2026, 11:32:51 AM"
       },
       {
-        "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
-        "url": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
+        "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+        "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
         "source": "hn",
-        "time": "8/24/2026, 2:48:58 PM"
+        "time": "8/24/2026, 3:28:04 PM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Mon, 24 Aug 2026 12:51:10 GMT"
       },
       {
-        "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
-        "url": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 24 Aug 2026 05:00:22 GMT"
-      },
-      {
         "title": "Snooker champion Graeme Dott guilty of child sex abuse",
         "url": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 24 Aug 2026 10:13:58 GMT"
+      },
+      {
+        "title": "Prince Harry steps down from African wildlife charity board",
+        "url": "https://www.bbc.co.uk/news/articles/c750n3nx76ko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 24 Aug 2026 15:28:06 GMT"
       }
     ],
     "projects": [
