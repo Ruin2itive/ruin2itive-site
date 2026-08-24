@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-24T21:20:25.473Z"
+    "built_at": "2026-08-24T22:16:52.006Z"
   },
-  "items": [
-    {
-      "title": "YouTube Premium is getting another price hike for users all around the world",
-      "url": "https://9to5google.com/2026/08/21/youtube-premium-price-hike-europe-other-regions/",
-      "date": "2026-08-24T21:19:45.000Z"
-    },
-    {
-      "title": "Owner of grok.bot domain name asks for $1M",
-      "url": "https://grok.bot/",
-      "date": "2026-08-24T21:19:26.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
