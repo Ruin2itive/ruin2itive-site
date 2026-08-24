@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-24T11:35:39.286Z",
-  "updated_local": "8/24/2026, 11:35:39 AM",
+  "updated_iso": "2026-08-24T12:43:07.982Z",
+  "updated_local": "8/24/2026, 12:43:07 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Pakistan Sets September 5 Deadline for Crypto Firms to Register",
+        "url": "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register",
+        "source": "crypto",
+        "time": "Mon, 24 Aug 2026 12:14:27 +0000"
+      },
       {
         "title": "Bitcoin&#39;s Next Test Is $80,000 as Jackson Hole Meeting Looms",
         "url": "https://decrypt.co/376315/bitcoins-next-test-is-80000-as-jackson-hole-meeting-looms",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
         "source": "crypto",
         "time": "Sat, 22 Aug 2026 17:31:03 +0000"
-      },
-      {
-        "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
-        "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
-        "source": "crypto",
-        "time": "Sat, 22 Aug 2026 15:31:04 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "SeL4 security proofs now complete on AArch64",
+        "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+        "source": "hn",
+        "time": "8/24/2026, 11:32:51 AM"
+      },
       {
         "title": "I were 17, I'd learn how to build LLMs from scratch",
         "url": "https://twitter.com/paulg/status/2091544343589060625",
@@ -48,30 +54,24 @@
         "time": "8/23/2026, 10:41:04 PM"
       },
       {
+        "title": "Omakase Computing",
+        "url": "https://learn.omacom.io/3/omacom/76/omakase-computing",
+        "source": "hn",
+        "time": "8/24/2026, 11:13:53 AM"
+      },
+      {
         "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
         "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
         "source": "hn",
         "time": "8/24/2026, 6:30:07 AM"
-      },
-      {
-        "title": "OCR It – pull text out of un-copyable documents for your LLM",
-        "url": "https://github.com/thiagotigaz/ocr-it",
-        "source": "hn",
-        "time": "8/24/2026, 6:25:31 AM"
-      },
-      {
-        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-        "source": "hn",
-        "time": "8/23/2026, 6:16:37 PM"
       }
     ],
     "world": [
       {
-        "title": "Social media firms should remove dangerous driving videos, minister says",
+        "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
         "url": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 24 Aug 2026 10:36:15 GMT"
+        "time": "Mon, 24 Aug 2026 12:28:16 GMT"
       },
       {
         "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
@@ -80,7 +80,7 @@
         "time": "Mon, 24 Aug 2026 05:00:22 GMT"
       },
       {
-        "title": "Graduate job vacancies drop by almost 50% in a year",
+        "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
         "url": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 24 Aug 2026 10:55:47 GMT"
@@ -92,10 +92,10 @@
         "time": "Mon, 24 Aug 2026 05:15:25 GMT"
       },
       {
-        "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-        "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Race Across the World star Jo Gardiner dies aged 61 one year after son's death",
+        "url": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 24 Aug 2026 11:25:21 GMT"
+        "time": "Mon, 24 Aug 2026 10:13:58 GMT"
       }
     ],
     "projects": [
