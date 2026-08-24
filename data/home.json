@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-24T09:43:11.531Z",
-  "updated_local": "8/24/2026, 9:43:11 AM",
+  "updated_iso": "2026-08-24T09:56:50.597Z",
+  "updated_local": "8/24/2026, 9:56:50 AM",
   "sections": {
     "crypto": [
       {
@@ -48,6 +48,12 @@
         "time": "8/23/2026, 8:38:09 PM"
       },
       {
+        "title": "We never use AI. For anything",
+        "url": "https://corkmac.app/our-ai-stance/",
+        "source": "hn",
+        "time": "8/24/2026, 9:32:32 AM"
+      },
+      {
         "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
         "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
         "source": "hn",
@@ -58,15 +64,15 @@
         "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
         "source": "hn",
         "time": "8/23/2026, 6:16:37 PM"
-      },
-      {
-        "title": "OCR It – pull text out of un-copyable documents for your LLM",
-        "url": "https://github.com/thiagotigaz/ocr-it",
-        "source": "hn",
-        "time": "8/24/2026, 6:25:31 AM"
       }
     ],
     "world": [
+      {
+        "title": "UK minister urges social media firms to remove dangerous driving videos",
+        "url": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 24 Aug 2026 09:48:43 GMT"
+      },
       {
         "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
         "url": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 24 Aug 2026 08:34:26 GMT"
-      },
-      {
-        "title": "Australian shark attack victim grateful for 'second chance at life'",
-        "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 24 Aug 2026 05:31:53 GMT"
       }
     ],
     "projects": [
