@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-24T08:56:43.819Z",
-  "updated_local": "8/24/2026, 8:56:43 AM",
+  "updated_iso": "2026-08-24T09:43:11.531Z",
+  "updated_local": "8/24/2026, 9:43:11 AM",
   "sections": {
     "crypto": [
       {
@@ -42,37 +42,31 @@
         "time": "8/23/2026, 10:41:04 PM"
       },
       {
-        "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-        "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-        "source": "hn",
-        "time": "8/24/2026, 6:30:07 AM"
-      },
-      {
         "title": "I were 17, I'd learn how to build LLMs from scratch",
         "url": "https://twitter.com/paulg/status/2091544343589060625",
         "source": "hn",
         "time": "8/23/2026, 8:38:09 PM"
       },
       {
-        "title": "The Work Number: credit score but for your employment history – by Equifax",
-        "url": "https://employees.theworknumber.com",
+        "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+        "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
         "source": "hn",
-        "time": "8/24/2026, 7:17:02 AM"
+        "time": "8/24/2026, 6:30:07 AM"
       },
       {
         "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
         "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
         "source": "hn",
         "time": "8/23/2026, 6:16:37 PM"
+      },
+      {
+        "title": "OCR It – pull text out of un-copyable documents for your LLM",
+        "url": "https://github.com/thiagotigaz/ocr-it",
+        "source": "hn",
+        "time": "8/24/2026, 6:25:31 AM"
       }
     ],
     "world": [
-      {
-        "title": "Families of two police officers killed in crash say they were heroes",
-        "url": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 24 Aug 2026 07:18:06 GMT"
-      },
       {
         "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
         "url": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&amp;at_campaign=rss",
@@ -80,7 +74,7 @@
         "time": "Mon, 24 Aug 2026 05:00:22 GMT"
       },
       {
-        "title": "Nearly three million Teslas recalled in China over hidden door handles",
+        "title": "Tesla recalls nearly three million cars in China over hidden door handles",
         "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 24 Aug 2026 05:01:17 GMT"
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 24 Aug 2026 08:34:26 GMT"
+      },
+      {
+        "title": "Australian shark attack victim grateful for 'second chance at life'",
+        "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 24 Aug 2026 05:31:53 GMT"
       }
     ],
     "projects": [
