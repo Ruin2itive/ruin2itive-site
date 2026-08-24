@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-08-24T17:36:34.322Z",
-  "updated_local": "8/24/2026, 5:36:34 PM",
+  "updated_iso": "2026-08-24T18:36:05.469Z",
+  "updated_local": "8/24/2026, 6:36:05 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
+        "url": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock",
+        "source": "crypto",
+        "time": "Mon, 24 Aug 2026 18:30:27 +0000"
+      },
+      {
+        "title": "Zcash Hits Eight-Year High as Futures Bets Nearly Double",
+        "url": "https://decrypt.co/376372/zcash-eight-year-high-price-futures-bets",
+        "source": "crypto",
+        "time": "Mon, 24 Aug 2026 17:50:35 +0000"
+      },
       {
         "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week—Only $2.6 Billion Was New Money",
         "url": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/376321/morning-minute-saylors-strategy-back-in-green-as-btc-soars-to-78k",
         "source": "crypto",
         "time": "Mon, 24 Aug 2026 12:54:23 +0000"
-      },
-      {
-        "title": "Strategy Raises $2B Selling MSTR Stock, Establishes &#39;USD Cash&#39; Pot",
-        "url": "https://decrypt.co/376325/strategy-raises-2b-selling-mstr-stock-establishes-usd-cash-pot",
-        "source": "crypto",
-        "time": "Mon, 24 Aug 2026 12:49:33 +0000"
-      },
-      {
-        "title": "Pakistan Sets September 5 Deadline for Crypto Firms to Register",
-        "url": "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register",
-        "source": "crypto",
-        "time": "Mon, 24 Aug 2026 12:14:27 +0000"
       }
     ],
     "hacker": [
@@ -54,19 +54,25 @@
         "time": "8/24/2026, 3:48:45 PM"
       },
       {
-        "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
-        "url": "https://alexschapiro.com/security/vulnerability/2026/07/16/beam-living-graphql-data-exposure",
+        "title": "The entire city of San Francisco as a video game",
+        "url": "https://sf.thijs.gg/",
         "source": "hn",
-        "time": "8/24/2026, 4:29:00 PM"
+        "time": "8/24/2026, 5:05:38 PM"
       },
       {
-        "title": "Public services are increasingly strained by LLM-written appeals for benefits",
-        "url": "https://arxiv.org/abs/2608.16603",
+        "title": "How Europe is killing makers and micro-entrepreneurs",
+        "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
         "source": "hn",
-        "time": "8/24/2026, 4:30:21 PM"
+        "time": "8/24/2026, 1:05:25 PM"
       }
     ],
     "world": [
+      {
+        "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
+        "url": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 24 Aug 2026 17:53:40 GMT"
+      },
       {
         "title": "How the deadly A66 crash unfolded leaving seven dead",
         "url": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&amp;at_campaign=rss",
@@ -86,16 +92,10 @@
         "time": "Mon, 24 Aug 2026 15:14:14 GMT"
       },
       {
-        "title": "Snooker champion Graeme Dott guilty of child sex abuse",
-        "url": "https://www.bbc.co.uk/news/articles/c0lr80rk0dno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Police pass Mohamed Al Fayed case file to prosecutors",
+        "url": "https://www.bbc.co.uk/news/articles/cz6zx0njdywo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 24 Aug 2026 17:35:35 GMT"
-      },
-      {
-        "title": "Prince Harry steps down from African wildlife charity board",
-        "url": "https://www.bbc.co.uk/news/articles/c750n3nx76ko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 24 Aug 2026 15:28:06 GMT"
+        "time": "Mon, 24 Aug 2026 18:20:37 GMT"
       }
     ],
     "projects": [
