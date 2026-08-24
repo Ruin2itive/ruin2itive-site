@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-24T22:16:52.006Z"
+    "built_at": "2026-08-24T23:15:11.733Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Handling 8 thousand mouse refreshes per second in Godot Engine",
+      "url": "https://godotengine.org/article/fixing-high-polling-rate-mice-on-windows/",
+      "date": "2026-08-24T23:14:16.000Z"
+    },
+    {
+      "title": "UK will use Ukraine battlefield data to train AI and use it againsts protesters",
+      "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
+      "date": "2026-08-24T23:12:13.000Z"
+    }
+  ]
 }
