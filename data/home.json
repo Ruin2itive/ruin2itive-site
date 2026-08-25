@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-25T10:39:54.977Z",
-  "updated_local": "8/25/2026, 10:39:54 AM",
+  "updated_iso": "2026-08-25T11:23:47.937Z",
+  "updated_local": "8/25/2026, 11:23:47 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme",
+        "url": "https://decrypt.co/376427/jury-convicts-las-vegas-man-of-24m-ai-crypto-mining-ponzi-scheme",
+        "source": "crypto",
+        "time": "Tue, 25 Aug 2026 10:50:23 +0000"
+      },
       {
         "title": "US Can Now Sanction Anyone Operating in Iran&#39;s Crypto Sector",
         "url": "https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/376416/strive-buys-81-million-bitcoin-more-shares",
         "source": "crypto",
         "time": "Mon, 24 Aug 2026 21:28:30 +0000"
-      },
-      {
-        "title": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
-        "url": "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
-        "source": "crypto",
-        "time": "Mon, 24 Aug 2026 20:46:03 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Why some US restaurants are banning tips",
-        "url": "https://www.bbc.com/news/articles/c4g36yze692o",
+        "title": "Quantum battery upends the rules of charging",
+        "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
         "source": "hn",
-        "time": "8/25/2026, 10:09:47 AM"
+        "time": "8/25/2026, 10:34:12 AM"
       },
       {
         "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
@@ -48,30 +48,30 @@
         "time": "8/24/2026, 10:13:40 PM"
       },
       {
-        "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-        "url": "https://twitter.com/lemire/status/2091894299289874926",
-        "source": "hn",
-        "time": "8/24/2026, 3:08:17 PM"
-      },
-      {
         "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
         "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
         "source": "hn",
         "time": "8/24/2026, 3:28:04 PM"
       },
       {
-        "title": "How Universities Should Prepare Founders",
-        "url": "https://paulgraham.com/prepare.html",
+        "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+        "url": "https://twitter.com/lemire/status/2091894299289874926",
         "source": "hn",
-        "time": "8/25/2026, 1:40:39 AM"
+        "time": "8/24/2026, 3:08:17 PM"
+      },
+      {
+        "title": "Why some US restaurants are banning tips",
+        "url": "https://www.bbc.com/news/articles/c4g36yze692o",
+        "source": "hn",
+        "time": "8/25/2026, 10:09:47 AM"
       }
     ],
     "world": [
       {
-        "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-        "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+        "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 25 Aug 2026 08:08:26 GMT"
+        "time": "Tue, 25 Aug 2026 10:56:03 GMT"
       },
       {
         "title": "Man dies in crash after police pursuit",
@@ -86,16 +86,16 @@
         "time": "Tue, 25 Aug 2026 10:06:04 GMT"
       },
       {
-        "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
-        "url": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Young care leavers dying early a 'national tragedy'",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zn4p9019o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 24 Aug 2026 22:13:20 GMT"
+        "time": "Tue, 25 Aug 2026 11:05:37 GMT"
       },
       {
-        "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
-        "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Moment tornado tears through southern France",
+        "url": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 25 Aug 2026 08:25:36 GMT"
+        "time": "Tue, 25 Aug 2026 00:16:35 GMT"
       }
     ],
     "projects": [
