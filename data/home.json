@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-08-25T16:46:21.704Z",
-  "updated_local": "8/25/2026, 4:46:21 PM",
+  "updated_iso": "2026-08-25T17:28:38.049Z",
+  "updated_local": "8/25/2026, 5:28:38 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Gold Hits Three-Month High as Bitcoin Tests $80,000",
+        "url": "https://decrypt.co/376489/gold-price-three-month-high-bitcoin",
+        "source": "crypto",
+        "time": "Tue, 25 Aug 2026 17:24:54 +0000"
+      },
+      {
+        "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+        "url": "https://decrypt.co/376446/bitcoins-price-rally-outrunning-market",
+        "source": "crypto",
+        "time": "Tue, 25 Aug 2026 16:45:59 +0000"
+      },
       {
         "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
         "url": "https://decrypt.co/376445/crypto-group-regulators-stablecoin-identity-checks",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/376432/dozens-of-fake-firefox-wallet-extensions-linked-to-crypto-stealing-malware",
         "source": "crypto",
         "time": "Tue, 25 Aug 2026 14:10:05 +0000"
-      },
-      {
-        "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
-        "url": "https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
-        "source": "crypto",
-        "time": "Tue, 25 Aug 2026 12:01:03 +0000"
-      },
-      {
-        "title": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
-        "url": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
-        "source": "crypto",
-        "time": "Tue, 25 Aug 2026 11:58:22 +0000"
       }
     ],
     "hacker": [
@@ -48,22 +48,22 @@
         "time": "8/25/2026, 1:03:17 PM"
       },
       {
+        "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+        "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+        "source": "hn",
+        "time": "8/25/2026, 2:29:32 PM"
+      },
+      {
         "title": "New Mac mini, featuring M6 and M5 Pro",
         "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
         "source": "hn",
         "time": "8/25/2026, 1:13:00 PM"
       },
       {
-        "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
-        "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+        "title": "Black hole singularity is a surface not a point",
+        "url": "https://arxiv.org/abs/2608.21590",
         "source": "hn",
-        "time": "8/25/2026, 2:29:32 PM"
-      },
-      {
-        "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
-        "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
-        "source": "hn",
-        "time": "8/25/2026, 11:49:43 AM"
+        "time": "8/25/2026, 5:02:49 PM"
       }
     ],
     "world": [
@@ -71,13 +71,19 @@
         "title": "Father's house rammed before son died in A66 crash",
         "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 25 Aug 2026 15:26:11 GMT"
+        "time": "Tue, 25 Aug 2026 17:21:18 GMT"
       },
       {
-        "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-        "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+        "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 25 Aug 2026 11:53:36 GMT"
+        "time": "Tue, 25 Aug 2026 16:56:20 GMT"
+      },
+      {
+        "title": "Trump says all mines cleared from Strait of Hormuz",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 25 Aug 2026 16:43:58 GMT"
       },
       {
         "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 25 Aug 2026 16:06:56 GMT"
-      },
-      {
-        "title": "CIA chief in Moscow for unannounced talks, US media reports",
-        "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 25 Aug 2026 16:08:26 GMT"
       }
     ],
     "projects": [
