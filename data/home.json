@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-25T12:41:36.498Z",
-  "updated_local": "8/25/2026, 12:41:36 PM",
+  "updated_iso": "2026-08-25T13:01:04.094Z",
+  "updated_local": "8/25/2026, 1:01:04 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "8/25/2026, 11:49:48 AM"
       },
       {
+        "title": "France's tax agency got hacked (in French)",
+        "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
+        "source": "hn",
+        "time": "8/25/2026, 12:44:35 PM"
+      },
+      {
         "title": "HelloAssembly The smallest possible complete Windows application",
         "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
         "source": "hn",
@@ -58,15 +64,15 @@
         "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
         "source": "hn",
         "time": "8/24/2026, 3:28:04 PM"
-      },
-      {
-        "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-        "url": "https://twitter.com/lemire/status/2091894299289874926",
-        "source": "hn",
-        "time": "8/24/2026, 3:08:17 PM"
       }
     ],
     "world": [
+      {
+        "title": "Five more arrests in wrong-way crash investigation",
+        "url": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 25 Aug 2026 12:53:26 GMT"
+      },
       {
         "title": "China warns it will protect its interests after US widens sanctions against Iran",
         "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +80,22 @@
         "time": "Tue, 25 Aug 2026 11:53:36 GMT"
       },
       {
+        "title": "Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise",
+        "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 25 Aug 2026 12:37:53 GMT"
+      },
+      {
         "title": "Man dies in crash after police pursuit",
         "url": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 25 Aug 2026 11:52:31 GMT"
+        "time": "Tue, 25 Aug 2026 12:52:58 GMT"
       },
       {
         "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
         "url": "https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 25 Aug 2026 10:06:04 GMT"
-      },
-      {
-        "title": "Young people leaving care have death rate four times higher than national average",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zn4p9019o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 25 Aug 2026 11:05:37 GMT"
-      },
-      {
-        "title": "Moment tornado tears through southern France",
-        "url": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 25 Aug 2026 00:16:35 GMT"
       }
     ],
     "projects": [
