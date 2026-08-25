@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-25T08:32:04.039Z"
+    "built_at": "2026-08-25T09:26:21.913Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Trump's tariffs risk higher prices for AI, video games, cellphones: experts",
+      "url": "https://www.cbc.ca/news/business/trump-tariff-ai-9.7318970",
+      "date": "2026-08-25T09:22:18.000Z"
+    },
+    {
+      "title": "Show HN: The Daily Outbid – outbid.lol, but as a newspaper front page",
+      "url": "https://www.thedailyoutbid.lol",
+      "date": "2026-08-25T09:22:13.000Z"
+    }
+  ]
 }
