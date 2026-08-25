@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-25T03:40:57.249Z"
+    "built_at": "2026-08-25T04:30:43.931Z"
   },
-  "items": [
-    {
-      "title": "Show HN: JSON Support – Free JSON and CSV to Excel Conversion Without Signups",
-      "url": "https://www.jsonsupport.com/",
-      "date": "2026-08-25T03:32:17.000Z"
-    },
-    {
-      "title": "Have We Forgotten How to Design?",
-      "url": "https://lmnt.me/blog/have-we-forgotten-how-to-design.html",
-      "date": "2026-08-25T03:29:59.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
