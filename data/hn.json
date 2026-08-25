@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-25T04:30:43.931Z"
+    "built_at": "2026-08-25T05:24:07.030Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Logging in Was Never Supposed to Be This Complicated",
+      "url": "https://www.theatlantic.com/technology/2026/08/password-manager-login-difficulty/688396/",
+      "date": "2026-08-25T05:16:04.000Z"
+    },
+    {
+      "title": "Rupert Lowe set to be paid as much for divisive posts on X as for being MP",
+      "url": "https://www.theguardian.com/politics/2026/aug/24/rupert-lowe-restore-britain-earn-same-on-x-as-being-mp-elon-musk",
+      "date": "2026-08-25T05:12:40.000Z"
+    }
+  ]
 }
