@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-25T09:42:46.178Z",
-  "updated_local": "8/25/2026, 9:42:46 AM",
+  "updated_iso": "2026-08-25T10:28:57.921Z",
+  "updated_local": "8/25/2026, 10:28:57 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "US Can Now Sanction Anyone Operating in Iran&#39;s Crypto Sector",
+        "url": "https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector",
+        "source": "crypto",
+        "time": "Tue, 25 Aug 2026 10:21:41 +0000"
+      },
       {
         "title": "Franklin Templeton&#39;s Tokenized Treasury Fund Lands on HashKey",
         "url": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
         "source": "crypto",
         "time": "Mon, 24 Aug 2026 20:46:03 +0000"
-      },
-      {
-        "title": "Why the Bitcoin Rally Looks Like a Vote Against the Dollar",
-        "url": "https://decrypt.co/376394/bitcoins-price-rally-trade-against-dollar",
-        "source": "crypto",
-        "time": "Mon, 24 Aug 2026 20:16:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Why some US restaurants are banning tips",
+        "url": "https://www.bbc.com/news/articles/c4g36yze692o",
+        "source": "hn",
+        "time": "8/25/2026, 10:09:47 AM"
+      },
       {
         "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
         "url": "https://developer.apple.com/news/?id=1ptvdtcm",
@@ -58,12 +64,6 @@
         "url": "https://paulgraham.com/prepare.html",
         "source": "hn",
         "time": "8/25/2026, 1:40:39 AM"
-      },
-      {
-        "title": "SiFive's First Server Platform",
-        "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
-        "source": "hn",
-        "time": "8/25/2026, 3:06:26 AM"
       }
     ],
     "world": [
@@ -80,10 +80,10 @@
         "time": "Tue, 25 Aug 2026 08:25:36 GMT"
       },
       {
-        "title": "Lockerbie bombing trial postponed days before it was due to start",
-        "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
+        "url": "https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 25 Aug 2026 09:08:13 GMT"
+        "time": "Tue, 25 Aug 2026 10:06:04 GMT"
       },
       {
         "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
@@ -92,10 +92,10 @@
         "time": "Mon, 24 Aug 2026 22:13:20 GMT"
       },
       {
-        "title": "The grieving family who say the coroners' courts aren't working",
-        "url": "https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Man dies in crash following police pursuit",
+        "url": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 24 Aug 2026 23:09:16 GMT"
+        "time": "Tue, 25 Aug 2026 10:14:21 GMT"
       }
     ],
     "projects": [
