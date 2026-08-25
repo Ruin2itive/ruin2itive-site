@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-25T15:50:55.535Z",
-  "updated_local": "8/25/2026, 3:50:55 PM",
+  "updated_iso": "2026-08-25T16:33:32.237Z",
+  "updated_local": "8/25/2026, 4:33:32 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
+        "url": "https://decrypt.co/376445/crypto-group-regulators-stablecoin-identity-checks",
+        "source": "crypto",
+        "time": "Tue, 25 Aug 2026 16:28:59 +0000"
+      },
       {
         "title": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot",
         "url": "https://decrypt.co/376441/crypto-fund-founder-convicted-of-fraud-over-fake-trading-bot",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
         "source": "crypto",
         "time": "Tue, 25 Aug 2026 11:58:22 +0000"
-      },
-      {
-        "title": "Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme",
-        "url": "https://decrypt.co/376427/jury-convicts-las-vegas-man-of-24m-ai-crypto-mining-ponzi-scheme",
-        "source": "crypto",
-        "time": "Tue, 25 Aug 2026 10:50:23 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "8/25/2026, 1:13:00 PM"
       },
       {
-        "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
-        "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-        "source": "hn",
-        "time": "8/25/2026, 2:29:32 PM"
-      },
-      {
         "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
         "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
         "source": "hn",
         "time": "8/25/2026, 11:49:43 AM"
+      },
+      {
+        "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
+        "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+        "source": "hn",
+        "time": "8/25/2026, 2:29:32 PM"
       }
     ],
     "world": [
@@ -89,13 +89,13 @@
         "title": "Man dies in crash after police pursuit",
         "url": "https://www.bbc.co.uk/news/articles/cly7ne4xegmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 25 Aug 2026 13:44:52 GMT"
+        "time": "Tue, 25 Aug 2026 16:06:56 GMT"
       },
       {
         "title": "CIA chief in Moscow for unannounced talks, US media reports",
         "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 25 Aug 2026 15:43:50 GMT"
+        "time": "Tue, 25 Aug 2026 16:08:26 GMT"
       }
     ],
     "projects": [
