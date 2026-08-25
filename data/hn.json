@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-25T19:24:18.541Z"
+    "built_at": "2026-08-25T20:18:54.431Z"
   },
-  "items": [
-    {
-      "title": "Serverless Game Servers/Back Ends on Proxylity",
-      "url": "https://proxylity.com/articles/serverless-game-server-backend.html",
-      "date": "2026-08-25T19:23:57.000Z"
-    },
-    {
-      "title": "The Kill Switch for Harmful Genes",
-      "url": "https://worksinprogress.co/issue/the-kill-switch-for-harmful-genes/",
-      "date": "2026-08-25T19:23:07.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
