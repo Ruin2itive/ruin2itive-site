@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-26T03:45:51.106Z"
+    "built_at": "2026-08-26T04:31:27.782Z"
   },
-  "items": [
-    {
-      "title": "Semantic caching has a structural gap that no threshold fixes",
-      "url": "https://github.com/KushagraKanaujia/throttle/blob/main/scripts/negation_check.py",
-      "date": "2026-08-26T03:38:09.000Z"
-    },
-    {
-      "title": "Show HN: A proxy that makes Forgejo speak the GitHub API",
-      "url": "https://github.com/ThatXliner/anvil",
-      "date": "2026-08-26T03:31:58.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
