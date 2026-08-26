@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-26T10:25:55.957Z"
+    "built_at": "2026-08-26T11:21:06.205Z"
   },
-  "items": [
-    {
-      "title": "I Stabilized Never Type",
-      "url": "https://blog.ihatereality.space/0C-never-type/",
-      "date": "2026-08-26T10:25:14.000Z"
-    },
-    {
-      "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
-      "url": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
-      "date": "2026-08-26T10:23:53.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
