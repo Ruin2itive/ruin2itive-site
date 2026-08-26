@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-26T00:49:07.465Z"
+    "built_at": "2026-08-26T02:20:08.101Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Buying power. Do Duke Energy's NC campaign donations fuel influence?",
+      "url": "https://carolinapublicpress.org/75549/buying-power-do-dukes-energys-nc-campaign-donations-fuel-influence/",
+      "date": "2026-08-26T02:19:29.000Z"
+    },
+    {
+      "title": "Show HN: Weavit UI – A Weaviate GUI for macOS, Windows and Linux",
+      "url": "https://github.com/XenoraAI/weavit-ui",
+      "date": "2026-08-26T02:17:18.000Z"
+    }
+  ]
 }
