@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-08-26T11:36:23.334Z",
-  "updated_local": "8/26/2026, 11:36:23 AM",
+  "updated_iso": "2026-08-26T12:45:26.380Z",
+  "updated_local": "8/26/2026, 12:45:26 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Revolut Launches Euro-Pegged EURR Stablecoin",
+        "url": "https://decrypt.co/376575/revolut-launches-euro-pegged-eurr-stablecoin",
+        "source": "crypto",
+        "time": "Wed, 26 Aug 2026 12:31:13 +0000"
+      },
+      {
+        "title": "Morning Minute: LayerZero Announces ATLAS as New Settlement Engine",
+        "url": "https://decrypt.co/376580/morning-minute-layerzero-announces-atlas-as-new-settlement-engine",
+        "source": "crypto",
+        "time": "Wed, 26 Aug 2026 11:50:27 +0000"
+      },
       {
         "title": "Roman Storm&#39;s Tornado Cash Retrial Pushed to April 2027",
         "url": "https://decrypt.co/376577/roman-storms-tornado-cash-retrial-pushed-to-april-2027",
@@ -20,21 +32,15 @@
         "url": "https://decrypt.co/376559/xrp-price-cools-where-next",
         "source": "crypto",
         "time": "Tue, 25 Aug 2026 21:46:04 +0000"
-      },
-      {
-        "title": "Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer",
-        "url": "https://decrypt.co/376530/alibaba-qwen-3-8-flash-next-preview-qwen-4",
-        "source": "crypto",
-        "time": "Tue, 25 Aug 2026 21:16:04 +0000"
-      },
-      {
-        "title": "These Researchers Just Shrunk an AI Model and Somehow Made It Smarter",
-        "url": "https://decrypt.co/376536/researchers-shrink-ai-model-made-smarter",
-        "source": "crypto",
-        "time": "Tue, 25 Aug 2026 20:46:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Omarchy is full of security holes",
+        "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+        "source": "hn",
+        "time": "8/26/2026, 12:17:43 PM"
+      },
       {
         "title": "RAG Is Simpler Than You Think",
         "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
@@ -48,36 +54,36 @@
         "time": "8/26/2026, 8:57:46 AM"
       },
       {
-        "title": "It's Not the End of Programming",
-        "url": "https://mathstodon.xyz/@abuseofnotation/117161292083848755",
-        "source": "hn",
-        "time": "8/26/2026, 10:25:33 AM"
-      },
-      {
         "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
         "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
         "source": "hn",
         "time": "8/26/2026, 10:04:55 AM"
       },
       {
-        "title": "Show HN: Buslens – where can I get to by bus? (UK)",
-        "url": "https://rupertlinacre.com/buslens/",
+        "title": "Value Classes Still Need Compiler Sympathy",
+        "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
         "source": "hn",
-        "time": "8/26/2026, 7:36:52 AM"
+        "time": "8/26/2026, 8:59:15 AM"
       }
     ],
     "world": [
       {
+        "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
+        "url": "https://www.bbc.co.uk/news/videos/c62jmlgev3po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 26 Aug 2026 12:36:04 GMT"
+      },
+      {
         "title": "Murder probe as two people dead in house fire in Middlesbrough",
         "url": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 26 Aug 2026 11:30:10 GMT"
+        "time": "Wed, 26 Aug 2026 12:21:25 GMT"
       },
       {
-        "title": "Prince Harry and Meghan due to arrive in UK today",
+        "title": "Prince Harry and Meghan land in UK",
         "url": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 26 Aug 2026 11:30:03 GMT"
+        "time": "Wed, 26 Aug 2026 12:07:32 GMT"
       },
       {
         "title": "From 'dirt poor' to philanthropic superstar - the life of Dolly Parton",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 26 Aug 2026 10:29:36 GMT"
-      },
-      {
-        "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
-        "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 26 Aug 2026 11:03:50 GMT"
       }
     ],
     "projects": [
