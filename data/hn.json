@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-26T08:33:00.409Z"
+    "built_at": "2026-08-26T09:32:30.498Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Bolt migrated 10M monthly Looker queries from Presto to Databricks",
+      "url": "https://bolt.eu/en/blog/migrating-looker-to-databricks/",
+      "date": "2026-08-26T09:31:43.000Z"
+    },
+    {
+      "title": "AI-powered email agent that syncs your emails via IMAP",
+      "url": "https://github.com/peterretief/emailai/tree/main",
+      "date": "2026-08-26T09:28:40.000Z"
+    }
+  ]
 }
