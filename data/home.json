@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-26T10:41:37.537Z",
-  "updated_local": "8/26/2026, 10:41:37 AM",
+  "updated_iso": "2026-08-26T11:26:26.626Z",
+  "updated_local": "8/26/2026, 11:26:26 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Roman Storm&#39;s Tornado Cash Retrial Pushed to April 2027",
+        "url": "https://decrypt.co/376577/roman-storms-tornado-cash-retrial-pushed-to-april-2027",
+        "source": "crypto",
+        "time": "Wed, 26 Aug 2026 10:42:35 +0000"
+      },
       {
         "title": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
         "url": "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/376536/researchers-shrink-ai-model-made-smarter",
         "source": "crypto",
         "time": "Tue, 25 Aug 2026 20:46:03 +0000"
-      },
-      {
-        "title": "Bitcoin Open Interest Collapses to 12%. Is the Short Squeeze Over?",
-        "url": "https://decrypt.co/376473/bitcoin-open-interest-price-short-squeeze",
-        "source": "crypto",
-        "time": "Tue, 25 Aug 2026 20:16:04 +0000"
       }
     ],
     "hacker": [
@@ -48,25 +48,37 @@
         "time": "8/26/2026, 8:39:17 AM"
       },
       {
-        "title": "Value Classes Still Need Compiler Sympathy",
-        "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
-        "source": "hn",
-        "time": "8/26/2026, 8:59:15 AM"
-      },
-      {
         "title": "Show HN: Buslens – where can I get to by bus? (UK)",
         "url": "https://rupertlinacre.com/buslens/",
         "source": "hn",
         "time": "8/26/2026, 7:36:52 AM"
       },
       {
-        "title": "Apple introduces M6 and M5 Ultra",
-        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+        "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
         "source": "hn",
-        "time": "8/25/2026, 1:01:22 PM"
+        "time": "8/26/2026, 10:04:55 AM"
+      },
+      {
+        "title": "Value Classes Still Need Compiler Sympathy",
+        "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+        "source": "hn",
+        "time": "8/26/2026, 8:59:15 AM"
       }
     ],
     "world": [
+      {
+        "title": "Murder probe as two people dead in house fire",
+        "url": "https://www.bbc.co.uk/news/articles/c4gmrz8d31mo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 26 Aug 2026 11:22:31 GMT"
+      },
+      {
+        "title": "Prince Harry and Meghan due to arrive in UK today",
+        "url": "https://www.bbc.co.uk/news/articles/czrzm6p6zxeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 26 Aug 2026 11:22:19 GMT"
+      },
       {
         "title": "From 'dirt poor' to philanthropic superstar - the life of Dolly Parton",
         "url": "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +86,16 @@
         "time": "Tue, 25 Aug 2026 18:27:22 GMT"
       },
       {
+        "title": "Cosmic radiation link in flight attendant's breast cancer, French court finds",
+        "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 26 Aug 2026 10:29:36 GMT"
+      },
+      {
         "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
         "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 26 Aug 2026 09:31:51 GMT"
-      },
-      {
-        "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
-        "url": "https://www.bbc.co.uk/news/articles/c0rewr790jyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 26 Aug 2026 05:14:12 GMT"
-      },
-      {
-        "title": "Yellow warnings remain in force as rain and thunderstorms hit parts of UK",
-        "url": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 26 Aug 2026 09:28:03 GMT"
-      },
-      {
-        "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
-        "url": "https://www.bbc.co.uk/news/articles/cj63jyl09jxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 25 Aug 2026 23:13:34 GMT"
+        "time": "Wed, 26 Aug 2026 11:03:50 GMT"
       }
     ],
     "projects": [
