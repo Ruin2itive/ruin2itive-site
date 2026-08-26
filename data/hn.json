@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-26T05:25:30.154Z"
+    "built_at": "2026-08-26T06:33:40.029Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Gaming with a cast iron drill press, a mouse, and an ESP-32 [video]",
+      "url": "https://www.youtube.com/watch?v=-8ZY74LW4W4",
+      "date": "2026-08-26T06:31:49.000Z"
+    },
+    {
+      "title": "The wise do not hurry the seasons",
+      "url": "https://news.ycombinator.com/item?id=49444839",
+      "date": "2026-08-26T06:30:53.000Z"
+    }
+  ]
 }
