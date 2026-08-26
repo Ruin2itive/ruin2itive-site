@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-25T23:17:51.489Z"
+    "built_at": "2026-08-26T00:49:07.465Z"
   },
-  "items": [
-    {
-      "title": "Watch Tesla FSD v14 Lite drive over a giant log without stopping",
-      "url": "https://electrek.co/2026/08/24/tesla-fsd-v14-1-lite-drove-over-log/",
-      "date": "2026-08-25T23:15:41.000Z"
-    },
-    {
-      "title": "Hermes Agent – Open-Source AI Agent That Grows with You",
-      "url": "https://hermes-agent.nousresearch.com",
-      "date": "2026-08-25T23:14:41.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
