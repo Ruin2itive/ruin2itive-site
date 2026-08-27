@@ -1,37 +1,37 @@
 {
-  "updated_iso": "2026-08-27T09:19:48.943Z",
-  "updated_local": "8/27/2026, 9:19:48 AM",
+  "updated_iso": "2026-08-27T13:45:28.324Z",
+  "updated_local": "8/27/2026, 1:45:28 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Robinhood Chain Levels Up as Memes and RWAs Soar",
+        "url": "https://decrypt.co/376689/morning-minute-robinhood-chain-levels-up-as-memes-and-rwas-soar",
+        "source": "crypto",
+        "time": "Thu, 27 Aug 2026 12:13:26 +0000"
+      },
+      {
+        "title": "Bank of England Handed New Legal Duty to Foster Stablecoin Innovation",
+        "url": "https://decrypt.co/376686/bank-of-england-handed-new-legal-duty-to-foster-stablecoin-innovation",
+        "source": "crypto",
+        "time": "Thu, 27 Aug 2026 11:10:31 +0000"
+      },
+      {
+        "title": "Bitcoin ETFs Draw $2.8B in Eight-Day Streak as BTC Tests $80K",
+        "url": "https://decrypt.co/376683/bitcoin-etfs-draw-2-8b-in-eight-day-streak-as-btc-tests-80k",
+        "source": "crypto",
+        "time": "Thu, 27 Aug 2026 10:39:10 +0000"
+      },
+      {
+        "title": "Rogue OpenAI Agents Sacrificed Their Own Runs to Hack Hugging Face, Report Finds",
+        "url": "https://decrypt.co/376680/rogue-openai-agents-sacrificed-their-own-runs-to-hack-hugging-face-report-finds",
+        "source": "crypto",
+        "time": "Thu, 27 Aug 2026 09:46:19 +0000"
+      },
       {
         "title": "Russian Influence Network Used ChatGPT to Masquerade as Academic Experts",
         "url": "https://decrypt.co/376662/russia-chatgpt-influence-campaign",
         "source": "crypto",
         "time": "Wed, 26 Aug 2026 22:46:03 +0000"
-      },
-      {
-        "title": "Bill Gates Wants a Robot Tax and Jobs Humans Can&#39;t Be Fired From",
-        "url": "https://decrypt.co/376663/bill-gates-robot-tax-jobs-humans-cant-be-fired",
-        "source": "crypto",
-        "time": "Wed, 26 Aug 2026 22:16:03 +0000"
-      },
-      {
-        "title": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
-        "url": "https://decrypt.co/376664/nvidia-shares-surge-record-q2-revenue",
-        "source": "crypto",
-        "time": "Wed, 26 Aug 2026 21:42:42 +0000"
-      },
-      {
-        "title": "What Traders Are Watching for Bitcoin&#39;s Next Move",
-        "url": "https://decrypt.co/376649/what-traders-watching-bitcoin-next-move",
-        "source": "crypto",
-        "time": "Wed, 26 Aug 2026 20:22:17 +0000"
-      },
-      {
-        "title": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
-        "url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
-        "source": "crypto",
-        "time": "Wed, 26 Aug 2026 19:56:03 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
         "source": "hn",
         "time": "8/27/2026, 1:12:55 AM"
+      },
+      {
+        "title": "Pollen Robotics (Hugging Face) Microduck",
+        "url": "https://pollen-robotics.com/microduck/",
+        "source": "hn",
+        "time": "8/27/2026, 10:57:56 AM"
       },
       {
         "title": "Mechanical Turk shutting down September 30",
@@ -54,48 +60,42 @@
         "time": "8/26/2026, 2:08:50 PM"
       },
       {
-        "title": "Asahi Linux Progress Report: Linux 7.2",
-        "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+        "title": "U.S. State Department pauses immigrant visa applications",
+        "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
         "source": "hn",
-        "time": "8/26/2026, 10:35:02 PM"
-      },
-      {
-        "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-        "url": "https://github.com/tailscale/tailcat",
-        "source": "hn",
-        "time": "8/26/2026, 5:42:22 PM"
+        "time": "8/26/2026, 5:22:16 PM"
       }
     ],
     "world": [
       {
-        "title": "Watch: Rescue teams pull survivors from thick mud",
-        "url": "https://www.bbc.co.uk/news/videos/cq63431rgljo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: How the collapse of a glacier caused such devastation",
+        "url": "https://www.bbc.co.uk/news/videos/ckgxnrg8j19o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 27 Aug 2026 06:02:03 GMT"
+        "time": "Thu, 27 Aug 2026 10:17:45 GMT"
       },
       {
-        "title": "Two teenagers, 13 and 14, among 33 UK nationals missing in disaster",
-        "url": "https://www.bbc.co.uk/news/articles/cnvlde5075no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'My family members were swept away': Survivors describe horror",
+        "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 27 Aug 2026 08:39:42 GMT"
+        "time": "Thu, 27 Aug 2026 07:09:52 GMT"
       },
       {
-        "title": "Residents need to feel safe after deadly crash and fire near Middlesbrough, council leader says",
-        "url": "https://www.bbc.co.uk/news/articles/ckgvnjpv1l0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK salmonella cases nearing 500 as egg investigations continue",
+        "url": "https://www.bbc.co.uk/news/articles/cn8ej0zvppxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 27 Aug 2026 09:00:30 GMT"
+        "time": "Thu, 27 Aug 2026 11:00:35 GMT"
       },
       {
-        "title": "World's first patient to undergo live AI-assisted brain surgery has tumour removed",
-        "url": "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Dame Jenni Murray died days after car crash, inquest hears",
+        "url": "https://www.bbc.co.uk/news/articles/cm27y2dx7pwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 26 Aug 2026 23:07:22 GMT"
+        "time": "Thu, 27 Aug 2026 11:52:28 GMT"
       },
       {
-        "title": "Japanese polka dot artist Yayoi Kusama dies aged 97",
-        "url": "https://www.bbc.co.uk/news/articles/c3v4k0re3vwo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "In pictures: The dotty world of Japanese artist Yayoi Kusama, who has died aged 97",
+        "url": "https://www.bbc.co.uk/news/articles/cjdv57kvnk0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 27 Aug 2026 05:47:44 GMT"
+        "time": "Thu, 27 Aug 2026 09:23:15 GMT"
       }
     ],
     "projects": [
