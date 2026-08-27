@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-26T23:18:04.031Z",
-  "updated_local": "8/26/2026, 11:18:04 PM",
+  "updated_iso": "2026-08-27T02:53:44.870Z",
+  "updated_local": "8/27/2026, 2:53:44 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-        "url": "https://github.com/tailscale/tailcat",
+        "title": "Nvidia agrees to acquire Hugging Face for $13B",
+        "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
         "source": "hn",
-        "time": "8/26/2026, 5:42:22 PM"
+        "time": "8/27/2026, 1:12:55 AM"
+      },
+      {
+        "title": "Mechanical Turk shutting down September 30",
+        "url": "https://www.mturk.com/",
+        "source": "hn",
+        "time": "8/26/2026, 11:55:44 PM"
+      },
+      {
+        "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+        "url": "https://github.com/SenteLabsAI/OpenExecutive",
+        "source": "hn",
+        "time": "8/27/2026, 1:46:22 AM"
       },
       {
         "title": "GLM-5.3-Flash",
@@ -48,22 +60,10 @@
         "time": "8/26/2026, 2:08:50 PM"
       },
       {
-        "title": "AWS Acquires DuckLabs",
-        "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+        "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+        "url": "https://github.com/tailscale/tailcat",
         "source": "hn",
-        "time": "8/26/2026, 12:59:26 PM"
-      },
-      {
-        "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
-        "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
-        "source": "hn",
-        "time": "8/26/2026, 7:23:01 PM"
-      },
-      {
-        "title": "An ongoing 3D-printer AGPL violation",
-        "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-        "source": "hn",
-        "time": "8/26/2026, 5:41:40 PM"
+        "time": "8/26/2026, 5:42:22 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Wed, 26 Aug 2026 21:15:34 GMT"
       },
       {
-        "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-        "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 26 Aug 2026 21:27:23 GMT"
-      },
-      {
         "title": "Woman who died in fire with niece, 7, was 'beautiful soul', mother tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/cgmrglpj8rlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 26 Aug 2026 21:29:01 GMT"
+        "time": "Thu, 27 Aug 2026 00:12:22 GMT"
       },
       {
-        "title": "Rocky Horror star Tim Curry dies at 80",
-        "url": "https://www.bbc.co.uk/news/articles/c5yd92gkk7vo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "New thunderstorm warnings for parts of UK as rain set to continue",
+        "url": "https://www.bbc.co.uk/weather/articles/cvgydkpdn99o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 26 Aug 2026 19:53:35 GMT"
+        "time": "Wed, 26 Aug 2026 19:15:35 GMT"
       },
       {
-        "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
-        "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
+        "url": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 26 Aug 2026 11:32:11 GMT"
+        "time": "Wed, 26 Aug 2026 23:04:24 GMT"
+      },
+      {
+        "title": "At least one dead after car crashes into crowd in northern France",
+        "url": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 27 Aug 2026 02:42:17 GMT"
       }
     ],
     "projects": [
