@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-29T10:46:12.543Z",
-  "updated_local": "8/29/2026, 10:46:12 AM",
+  "updated_iso": "2026-08-29T14:59:45.899Z",
+  "updated_local": "8/29/2026, 2:59:45 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "BitGo Buys NYDIG&#39;s Institutional Trading Arm to Beef Up Derivatives and Financing",
+        "url": "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm",
+        "source": "crypto",
+        "time": "Sat, 29 Aug 2026 13:31:04 +0000"
+      },
       {
         "title": "Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish",
         "url": "https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/376838/us-cities-ai-data-center-limits",
         "source": "crypto",
         "time": "Fri, 28 Aug 2026 19:14:37 +0000"
-      },
-      {
-        "title": "Solana Will Now Print Less SOL as Disinflation Vote Passes in Dramatic Fashion",
-        "url": "https://decrypt.co/376825/solana-sol-disinflation-vote-passes",
-        "source": "crypto",
-        "time": "Fri, 28 Aug 2026 17:44:09 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Debian votes to allow \"responsible use of generative AI\"",
+        "url": "https://lwn.net/Articles/1091231/",
+        "source": "hn",
+        "time": "8/29/2026, 2:02:10 PM"
+      },
+      {
+        "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+        "url": "https://uecker.codeberg.page/2026-08-29.html",
+        "source": "hn",
+        "time": "8/29/2026, 2:20:33 PM"
+      },
       {
         "title": "Samsung's Processing-in-Memory (PIM)",
         "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
@@ -42,42 +54,30 @@
         "time": "8/29/2026, 6:06:51 AM"
       },
       {
-        "title": "Europe's last regular standard-gauge steam passenger service",
-        "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
+        "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+        "url": "https://typebase.io",
         "source": "hn",
-        "time": "8/26/2026, 10:32:00 PM"
+        "time": "8/26/2026, 11:33:31 AM"
       },
       {
         "title": "GUIs should be fully keyboard-driven",
         "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
         "source": "hn",
         "time": "8/28/2026, 3:17:09 PM"
-      },
-      {
-        "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-        "url": "https://github.com/Lakr233/vphone-cli",
-        "source": "hn",
-        "time": "8/28/2026, 11:02:21 PM"
-      },
-      {
-        "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
-        "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
-        "source": "hn",
-        "time": "8/26/2026, 3:22:48 PM"
       }
     ],
     "world": [
       {
-        "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
-        "url": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 28 Aug 2026 21:17:54 GMT"
-      },
-      {
         "title": "Christian festival 'devastated' as man dies after sign falls",
         "url": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 29 Aug 2026 09:40:34 GMT"
+        "time": "Sat, 29 Aug 2026 14:12:30 GMT"
+      },
+      {
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+        "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 29 Aug 2026 14:43:04 GMT"
       },
       {
         "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
@@ -86,16 +86,16 @@
         "time": "Sat, 29 Aug 2026 10:31:18 GMT"
       },
       {
-        "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-        "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Football fans pay tribute to crash death officers at Middlesbrough match",
+        "url": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 29 Aug 2026 00:32:17 GMT"
+        "time": "Sat, 29 Aug 2026 13:02:27 GMT"
       },
       {
-        "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-        "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
+        "url": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 29 Aug 2026 00:56:19 GMT"
+        "time": "Sat, 29 Aug 2026 10:43:25 GMT"
       }
     ],
     "projects": [
