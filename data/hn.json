@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-30T18:18:23.478Z"
+    "built_at": "2026-08-30T21:45:39.379Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Mark Zuckerberg's Social Reckoning",
+      "url": "https://www.newyorker.com/magazine/2026/09/07/mark-zuckerbergs-social-reckoning",
+      "date": "2026-08-30T21:41:54.000Z"
+    },
+    {
+      "title": "Music Sparks Story-Like Brain Activity",
+      "url": "https://communitynews.org/science-tech/princeton-study-music-brain-activity-imagined-narratives/",
+      "date": "2026-08-30T21:39:51.000Z"
+    }
+  ]
 }
