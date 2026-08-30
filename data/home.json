@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-30T13:31:25.493Z",
-  "updated_local": "8/30/2026, 1:31:25 PM",
+  "updated_iso": "2026-08-30T17:19:02.856Z",
+  "updated_local": "8/30/2026, 5:19:02 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
+        "url": "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses",
+        "source": "crypto",
+        "time": "Sun, 30 Aug 2026 13:31:04 +0000"
+      },
       {
         "title": "Bernie Sanders Vows Legislation to &#39;Stop Flock and AI Mass Surveillance&#39;",
         "url": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
@@ -26,47 +32,47 @@
         "url": "https://decrypt.co/376846/bitcoin-rally-stalls-sentiment-bullish",
         "source": "crypto",
         "time": "Fri, 28 Aug 2026 21:16:04 +0000"
-      },
-      {
-        "title": "Meta Tests Robots to Handle Data Center Work",
-        "url": "https://decrypt.co/376843/meta-tests-robots-data-center",
-        "source": "crypto",
-        "time": "Fri, 28 Aug 2026 20:19:44 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-        "url": "https://github.com/anthropics/claude-code/issues/66504",
+        "title": "Omarchy: Any User Process Can Escalate to Root",
+        "url": "https://0xcc.io/posts/omarchy-root-creds/",
         "source": "hn",
-        "time": "8/30/2026, 12:50:54 PM"
+        "time": "8/30/2026, 3:59:49 PM"
+      },
+      {
+        "title": "Creepy Crawlies",
+        "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+        "source": "hn",
+        "time": "8/29/2026, 5:49:01 PM"
+      },
+      {
+        "title": "Haiku R1/beta6 has been released",
+        "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+        "source": "hn",
+        "time": "8/30/2026, 4:01:10 PM"
+      },
+      {
+        "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+        "url": "https://komoroske.com/slime-mold/",
+        "source": "hn",
+        "time": "8/30/2026, 4:03:17 PM"
       },
       {
         "title": "Hacking IKEA Furniture",
         "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
         "source": "hn",
         "time": "8/30/2026, 11:39:43 AM"
-      },
-      {
-        "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-        "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-        "source": "hn",
-        "time": "8/30/2026, 8:51:39 AM"
-      },
-      {
-        "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-        "url": "https://arxiv.org/abs/1804.07389",
-        "source": "hn",
-        "time": "8/30/2026, 8:23:26 AM"
-      },
-      {
-        "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
-        "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
-        "source": "hn",
-        "time": "8/27/2026, 12:40:43 PM"
       }
     ],
     "world": [
+      {
+        "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+        "url": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 30 Aug 2026 16:48:13 GMT"
+      },
       {
         "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
         "url": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +80,22 @@
         "time": "Sun, 30 Aug 2026 08:59:58 GMT"
       },
       {
-        "title": "Burnham gets the early prison release changes he wanted - but at what cost?",
-        "url": "https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Police release one of two men arrested over fatal house fire",
+        "url": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 30 Aug 2026 07:58:31 GMT"
+        "time": "Sun, 30 Aug 2026 14:34:20 GMT"
       },
       {
         "title": "British woman killed in stabbing at German railway station",
         "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 30 Aug 2026 11:34:48 GMT"
+        "time": "Sun, 30 Aug 2026 16:11:46 GMT"
       },
       {
-        "title": "Church names pastor killed by falling sign at Christian festival",
-        "url": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Man Utd pay tribute to 'proud Red' officer who died in A66 crash",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 30 Aug 2026 11:46:07 GMT"
-      },
-      {
-        "title": "Iceland votes against restarting talks on joining EU",
-        "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 30 Aug 2026 10:49:11 GMT"
+        "time": "Sun, 30 Aug 2026 16:30:05 GMT"
       }
     ],
     "projects": [
