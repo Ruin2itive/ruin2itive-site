@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-08-30T20:55:49.176Z",
-  "updated_local": "8/30/2026, 8:55:49 PM",
+  "updated_iso": "2026-08-30T23:09:09.268Z",
+  "updated_local": "8/30/2026, 11:09:09 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
+        "url": "https://decrypt.co/376911/polygon-quietly-patched-security-flaws",
+        "source": "crypto",
+        "time": "Sun, 30 Aug 2026 22:31:04 +0000"
+      },
+      {
+        "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
+        "url": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
+        "source": "crypto",
+        "time": "Sun, 30 Aug 2026 21:31:04 +0000"
+      },
       {
         "title": "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?",
         "url": "https://decrypt.co/376884/strategy-bitcoin-2-8-billion-profit-saylor-btc-buy",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
         "source": "crypto",
         "time": "Sat, 29 Aug 2026 17:31:03 +0000"
-      },
-      {
-        "title": "Bitcoin&#39;s Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen",
-        "url": "https://decrypt.co/376866/bitcoin-oldest-coins-waking-up-2026",
-        "source": "crypto",
-        "time": "Sat, 29 Aug 2026 15:31:04 +0000"
-      },
-      {
-        "title": "BitGo Buys NYDIG&#39;s Institutional Trading Arm to Beef Up Derivatives and Financing",
-        "url": "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm",
-        "source": "crypto",
-        "time": "Sat, 29 Aug 2026 13:31:04 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
         "source": "hn",
         "time": "8/29/2026, 5:49:01 PM"
+      },
+      {
+        "title": "\"I just chose words carefully.\"",
+        "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+        "source": "hn",
+        "time": "8/30/2026, 10:49:48 PM"
       },
       {
         "title": "Haiku R1/beta6 has been released",
@@ -54,16 +60,10 @@
         "time": "8/30/2026, 8:00:25 PM"
       },
       {
-        "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-        "url": "https://komoroske.com/slime-mold/",
+        "title": "Thoughts on Pope Leo XIV's Magnifica Humanitas",
+        "url": "https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/",
         "source": "hn",
-        "time": "8/30/2026, 4:03:17 PM"
-      },
-      {
-        "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-        "url": "https://github.com/KodeMunkie/sm750hdmifb",
-        "source": "hn",
-        "time": "8/30/2026, 6:49:08 PM"
+        "time": "8/30/2026, 10:46:04 PM"
       }
     ],
     "world": [
@@ -80,10 +80,10 @@
         "time": "Sun, 30 Aug 2026 20:02:43 GMT"
       },
       {
-        "title": "'A giant leap forward': Nasa launches powerful new space telescope",
-        "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 30 Aug 2026 18:53:53 GMT"
+        "time": "Sun, 30 Aug 2026 21:15:42 GMT"
       },
       {
         "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
@@ -92,10 +92,10 @@
         "time": "Sun, 30 Aug 2026 16:30:05 GMT"
       },
       {
-        "title": "Church names pastor killed by falling sign at Christian festival",
-        "url": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+        "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 30 Aug 2026 11:46:07 GMT"
+        "time": "Sun, 30 Aug 2026 18:53:53 GMT"
       }
     ],
     "projects": [
