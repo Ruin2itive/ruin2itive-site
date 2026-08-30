@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-08-30T07:51:06.889Z",
-  "updated_local": "8/30/2026, 7:51:06 AM",
+  "updated_iso": "2026-08-30T12:45:22.524Z",
+  "updated_local": "8/30/2026, 12:45:22 PM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
-        "title": "Bug Blindness",
-        "url": "https://danluu.com/bug-blind/",
+        "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+        "url": "https://arxiv.org/abs/1804.07389",
         "source": "hn",
-        "time": "8/30/2026, 12:21:40 AM"
+        "time": "8/30/2026, 8:23:26 AM"
+      },
+      {
+        "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+        "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+        "source": "hn",
+        "time": "8/30/2026, 8:51:39 AM"
+      },
+      {
+        "title": "Brits would quite like their private messages to stay private",
+        "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+        "source": "hn",
+        "time": "8/30/2026, 9:26:08 AM"
+      },
+      {
+        "title": "Everyone Should Build Their Own Network Stack",
+        "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+        "source": "hn",
+        "time": "8/30/2026, 9:52:15 AM"
       },
       {
         "title": "RISC-V is now officially supported by CPython",
         "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
         "source": "hn",
         "time": "8/24/2026, 8:12:22 PM"
-      },
-      {
-        "title": "Hy4 preview",
-        "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-        "source": "hn",
-        "time": "8/29/2026, 7:33:23 PM"
-      },
-      {
-        "title": "FreeCORE TrueNAS Core – Continued",
-        "url": "https://freecore.org/",
-        "source": "hn",
-        "time": "8/30/2026, 1:31:32 AM"
-      },
-      {
-        "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-        "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-        "source": "hn",
-        "time": "8/30/2026, 3:15:36 AM"
       }
     ],
     "world": [
@@ -71,31 +71,31 @@
         "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
         "url": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 30 Aug 2026 07:46:34 GMT"
+        "time": "Sun, 30 Aug 2026 08:59:58 GMT"
       },
       {
         "title": "Burnham gets the early prison release changes he wanted - but at what cost?",
         "url": "https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 30 Aug 2026 06:33:56 GMT"
+        "time": "Sun, 30 Aug 2026 07:58:31 GMT"
       },
       {
-        "title": "WhatsApp group chat used to send millions in cash, funding crime and extremism",
-        "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "British woman killed in stabbing at German railway station",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 30 Aug 2026 04:59:56 GMT"
+        "time": "Sun, 30 Aug 2026 11:34:48 GMT"
       },
       {
-        "title": "Manhunt after one killed and five injured in Swiss shooting, police say",
-        "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Church names pastor killed by falling sign at Christian festival",
+        "url": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 30 Aug 2026 07:05:20 GMT"
+        "time": "Sun, 30 Aug 2026 11:46:07 GMT"
       },
       {
-        "title": "Search continues for boat 'in distress' in Channel as two people still missing",
-        "url": "https://www.bbc.co.uk/news/articles/cjrx2qjv3e3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Iceland votes against restarting talks on joining EU",
+        "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 30 Aug 2026 07:23:07 GMT"
+        "time": "Sun, 30 Aug 2026 10:49:11 GMT"
       }
     ],
     "projects": [
