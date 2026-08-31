@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-08-31T14:40:16.191Z"
+    "built_at": "2026-08-31T20:31:50.396Z"
   },
-  "items": [
-    {
-      "title": "Show HN: WOML – an HTML-like language for building workflows",
-      "url": "https://woml.org/",
-      "date": "2026-08-31T14:38:42.000Z"
-    },
-    {
-      "title": "I found two Shopify plugin vulns with GLM-5.3 Flash",
-      "url": "https://alec.is/posts/i-found-two-shopify-plugin-zero-days-in-a-bathtub/",
-      "date": "2026-08-31T14:37:51.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
