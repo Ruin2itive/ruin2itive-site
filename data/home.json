@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-08-31T05:16:26.587Z",
-  "updated_local": "8/31/2026, 5:16:26 AM",
+  "updated_iso": "2026-08-31T10:30:39.091Z",
+  "updated_local": "8/31/2026, 10:30:39 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Crypto.com&#39;s Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
+        "url": "https://decrypt.co/376913/crypto-coms-cronos-halts-entire-blockchain-after-75m-tectonic-exploit",
+        "source": "crypto",
+        "time": "Mon, 31 Aug 2026 09:41:27 +0000"
+      },
       {
         "title": "Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading",
         "url": "https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading",
@@ -26,20 +32,26 @@
         "url": "https://decrypt.co/376884/strategy-bitcoin-2-8-billion-profit-saylor-btc-buy",
         "source": "crypto",
         "time": "Sun, 30 Aug 2026 19:39:55 +0000"
-      },
-      {
-        "title": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
-        "url": "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses",
-        "source": "crypto",
-        "time": "Sun, 30 Aug 2026 13:31:04 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+        "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+        "source": "hn",
+        "time": "8/31/2026, 9:59:05 AM"
+      },
       {
         "title": "“I just chose words carefully”",
         "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
         "source": "hn",
         "time": "8/30/2026, 10:49:48 PM"
+      },
+      {
+        "title": "Breaking Claude Code Opus 5 Auto Mode",
+        "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+        "source": "hn",
+        "time": "8/31/2026, 7:49:18 AM"
       },
       {
         "title": "P99 0 ms* autocomplete for 240M domain names",
@@ -52,50 +64,38 @@
         "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
         "source": "hn",
         "time": "8/29/2026, 5:49:01 PM"
-      },
-      {
-        "title": "It takes 5 cloud services to hear my doorbell",
-        "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
-        "source": "hn",
-        "time": "8/28/2026, 3:34:30 PM"
-      },
-      {
-        "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
-        "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
-        "source": "hn",
-        "time": "8/31/2026, 3:45:57 AM"
       }
     ],
     "world": [
       {
-        "title": "Prisoners freed early are returning to jail at rapid rate, governors tell BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Early release scheme could see dangerous criminals released, Conservatives warn",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwxx0dg05o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 30 Aug 2026 18:33:36 GMT"
+        "time": "Mon, 31 Aug 2026 08:20:54 GMT"
       },
       {
         "title": "US and Iran trade strikes for first time in weeks",
         "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 31 Aug 2026 04:54:32 GMT"
+        "time": "Mon, 31 Aug 2026 08:34:25 GMT"
       },
       {
-        "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Dolly Parton laid to rest alongside husband in Nashville",
+        "url": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 31 Aug 2026 02:03:38 GMT"
+        "time": "Mon, 31 Aug 2026 09:24:50 GMT"
       },
       {
-        "title": "Parents of seriously ill children should get paid leave, says commissioner",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z4n8j14do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Djokovic in tears during US Open first-round exit",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c39m1le9gjeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 31 Aug 2026 04:17:28 GMT"
+        "time": "Mon, 31 Aug 2026 06:51:44 GMT"
       },
       {
-        "title": "This actor was told he had Alzheimer's, now he's performing a one-man show",
-        "url": "https://www.bbc.co.uk/news/articles/c4g3nwwjd8go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "The mystery of why so many black Britons still can't swim",
+        "url": "https://www.bbc.co.uk/news/articles/cx27vxkpdz1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 31 Aug 2026 01:47:54 GMT"
+        "time": "Mon, 31 Aug 2026 00:31:22 GMT"
       }
     ],
     "projects": [
