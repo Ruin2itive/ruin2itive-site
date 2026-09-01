@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-01T21:41:56.094Z",
-  "updated_local": "9/1/2026, 9:41:56 PM",
+  "updated_iso": "2026-09-01T22:59:39.567Z",
+  "updated_local": "9/1/2026, 10:59:39 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes",
+        "url": "https://decrypt.co/377135/openclaw-2-0-is-here-whats-new",
+        "source": "crypto",
+        "time": "Tue, 01 Sep 2026 22:16:04 +0000"
+      },
       {
         "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
         "url": "https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/377099/dropbox-security-breach",
         "source": "crypto",
         "time": "Tue, 01 Sep 2026 20:01:05 +0000"
-      },
-      {
-        "title": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark",
-        "url": "https://decrypt.co/377078/anthropic-claude-fable-5-1",
-        "source": "crypto",
-        "time": "Tue, 01 Sep 2026 19:29:12 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "9/1/2026, 5:53:53 PM"
       },
       {
-        "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-        "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+        "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+        "url": "https://danluu.com/zitron/",
         "source": "hn",
-        "time": "9/1/2026, 7:55:47 PM"
+        "time": "9/1/2026, 6:35:15 PM"
+      },
+      {
+        "title": "Hang on to Your Firefox",
+        "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+        "source": "hn",
+        "time": "9/1/2026, 8:30:51 PM"
+      },
+      {
+        "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+        "url": "https://masteranza.github.io/weedout/",
+        "source": "hn",
+        "time": "9/1/2026, 10:06:57 PM"
       },
       {
         "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
         "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
         "source": "hn",
         "time": "9/1/2026, 8:07:57 PM"
-      },
-      {
-        "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-        "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
-        "source": "hn",
-        "time": "9/1/2026, 10:11:02 AM"
-      },
-      {
-        "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-        "url": "https://www.norirobotics.com/",
-        "source": "hn",
-        "time": "9/1/2026, 5:35:10 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Burnham promises more devolution and public control of essential services",
         "url": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 01 Sep 2026 20:52:15 GMT"
+        "time": "Tue, 01 Sep 2026 21:48:44 GMT"
       },
       {
         "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
@@ -95,7 +95,7 @@
         "title": "US strikes Iran as state media reports four killed at wedding party",
         "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 01 Sep 2026 21:32:23 GMT"
+        "time": "Tue, 01 Sep 2026 21:48:28 GMT"
       }
     ],
     "projects": [
