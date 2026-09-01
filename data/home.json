@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-09-01T20:32:24.516Z",
-  "updated_local": "9/1/2026, 8:32:24 PM",
+  "updated_iso": "2026-09-01T21:41:56.094Z",
+  "updated_local": "9/1/2026, 9:41:56 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
+        "url": "https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek",
+        "source": "crypto",
+        "time": "Tue, 01 Sep 2026 21:31:04 +0000"
+      },
+      {
+        "title": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
+        "url": "https://decrypt.co/377126/robinhood-chain-dex-volume-jumps",
+        "source": "crypto",
+        "time": "Tue, 01 Sep 2026 21:01:04 +0000"
+      },
       {
         "title": "What Is &#39;Red September&#39;? Bitcoin&#39;s Curse, and Why Wall Street Has the Same One",
         "url": "https://decrypt.co/377100/what-is-red-september-bitcoin-curse",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/377078/anthropic-claude-fable-5-1",
         "source": "crypto",
         "time": "Tue, 01 Sep 2026 19:29:12 +0000"
-      },
-      {
-        "title": "Bitcoin&#39;s Next Move: Bullish Bets Run Up Against a Historical Wall",
-        "url": "https://decrypt.co/377052/bitcoins-next-move-bullish-bets-run-up-against-a-historical-wall",
-        "source": "crypto",
-        "time": "Tue, 01 Sep 2026 18:22:09 +0000"
-      },
-      {
-        "title": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
-        "url": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
-        "source": "crypto",
-        "time": "Tue, 01 Sep 2026 18:03:47 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "9/1/2026, 5:53:53 PM"
       },
       {
-        "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
-        "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+        "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+        "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
         "source": "hn",
-        "time": "9/1/2026, 3:55:53 PM"
+        "time": "9/1/2026, 7:55:47 PM"
       },
       {
         "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
@@ -54,10 +54,10 @@
         "time": "9/1/2026, 8:07:57 PM"
       },
       {
-        "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-        "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+        "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+        "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
         "source": "hn",
-        "time": "9/1/2026, 7:55:47 PM"
+        "time": "9/1/2026, 10:11:02 AM"
       },
       {
         "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
@@ -71,7 +71,7 @@
         "title": "Burnham promises more devolution and public control of essential services",
         "url": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 01 Sep 2026 19:18:30 GMT"
+        "time": "Tue, 01 Sep 2026 20:52:15 GMT"
       },
       {
         "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
@@ -89,13 +89,13 @@
         "title": "Germany says Russia behind Leipzig airport drone attack",
         "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 01 Sep 2026 19:13:03 GMT"
+        "time": "Tue, 01 Sep 2026 21:05:22 GMT"
       },
       {
-        "title": "Flood chased me as I ran for 20 minutes, Nepal tunnel worker tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US strikes Iran as state media reports four killed at wedding party",
+        "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 01 Sep 2026 16:11:18 GMT"
+        "time": "Tue, 01 Sep 2026 21:32:23 GMT"
       }
     ],
     "projects": [
