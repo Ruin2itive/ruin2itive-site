@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-01T05:55:09.914Z"
+    "built_at": "2026-09-01T10:51:58.619Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "We Let AI Agents Rewrite a 92M-Message-a-Day Service in Go",
+      "url": "https://www.checklyhq.com/blog/agentic-rewrite-nodejs-to-go/",
+      "date": "2026-09-01T10:50:46.000Z"
+    },
+    {
+      "title": "Rui Ueyama: \"We are rewriting the mold linker in Rust\"",
+      "url": "https://twitter.com/rui314/status/2094677980857680052",
+      "date": "2026-09-01T10:50:46.000Z"
+    }
+  ]
 }
