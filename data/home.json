@@ -1,37 +1,37 @@
 {
-  "updated_iso": "2026-09-01T18:20:34.037Z",
-  "updated_local": "9/1/2026, 6:20:34 PM",
+  "updated_iso": "2026-09-01T20:32:24.516Z",
+  "updated_local": "9/1/2026, 8:32:24 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "What Is &#39;Red September&#39;? Bitcoin&#39;s Curse, and Why Wall Street Has the Same One",
+        "url": "https://decrypt.co/377100/what-is-red-september-bitcoin-curse",
+        "source": "crypto",
+        "time": "Tue, 01 Sep 2026 20:31:05 +0000"
+      },
+      {
+        "title": "Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw",
+        "url": "https://decrypt.co/377099/dropbox-security-breach",
+        "source": "crypto",
+        "time": "Tue, 01 Sep 2026 20:01:05 +0000"
+      },
+      {
+        "title": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark",
+        "url": "https://decrypt.co/377078/anthropic-claude-fable-5-1",
+        "source": "crypto",
+        "time": "Tue, 01 Sep 2026 19:29:12 +0000"
+      },
+      {
+        "title": "Bitcoin&#39;s Next Move: Bullish Bets Run Up Against a Historical Wall",
+        "url": "https://decrypt.co/377052/bitcoins-next-move-bullish-bets-run-up-against-a-historical-wall",
+        "source": "crypto",
+        "time": "Tue, 01 Sep 2026 18:22:09 +0000"
+      },
       {
         "title": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
         "url": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
         "source": "crypto",
         "time": "Tue, 01 Sep 2026 18:03:47 +0000"
-      },
-      {
-        "title": "X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested",
-        "url": "https://decrypt.co/377048/x-data-breach-users-flooded-password-reset",
-        "source": "crypto",
-        "time": "Tue, 01 Sep 2026 16:26:10 +0000"
-      },
-      {
-        "title": "Cathie Wood’s Ark Invest Buys $37 Million in Bitcoin and Payments Firm Block",
-        "url": "https://decrypt.co/377046/cathie-wood-ark-invest-buys-more-block",
-        "source": "crypto",
-        "time": "Tue, 01 Sep 2026 16:13:28 +0000"
-      },
-      {
-        "title": "Gal Gadot Defends AI Use in Bitcoin Film: &#39;Work With It or Be Out of the Game&#39;",
-        "url": "https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
-        "source": "crypto",
-        "time": "Tue, 01 Sep 2026 14:39:55 +0000"
-      },
-      {
-        "title": "Morning Minute: Saylor’s Back Buying Bitcoin",
-        "url": "https://decrypt.co/377014/morning-minute-saylors-back-buying-bitcoin",
-        "source": "crypto",
-        "time": "Tue, 01 Sep 2026 12:21:23 +0000"
       }
     ],
     "hacker": [
@@ -48,25 +48,31 @@
         "time": "9/1/2026, 3:55:53 PM"
       },
       {
+        "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+        "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+        "source": "hn",
+        "time": "9/1/2026, 8:07:57 PM"
+      },
+      {
+        "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+        "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+        "source": "hn",
+        "time": "9/1/2026, 7:55:47 PM"
+      },
+      {
         "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
         "url": "https://www.norirobotics.com/",
         "source": "hn",
         "time": "9/1/2026, 5:35:10 PM"
-      },
-      {
-        "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-        "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
-        "source": "hn",
-        "time": "9/1/2026, 10:11:02 AM"
-      },
-      {
-        "title": "Ambient CSS v3 – Blender meets CSS",
-        "url": "https://ambientcss.vercel.app/",
-        "source": "hn",
-        "time": "9/1/2026, 3:35:11 PM"
       }
     ],
     "world": [
+      {
+        "title": "Burnham promises more devolution and public control of essential services",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 01 Sep 2026 19:18:30 GMT"
+      },
       {
         "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
         "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&amp;at_campaign=rss",
@@ -83,13 +89,7 @@
         "title": "Germany says Russia behind Leipzig airport drone attack",
         "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 01 Sep 2026 16:53:40 GMT"
-      },
-      {
-        "title": "Briton among 119 rescued in Nepal after deadly floods, army says",
-        "url": "https://www.bbc.co.uk/news/articles/c3eq499d0lgo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 01 Sep 2026 17:46:07 GMT"
+        "time": "Tue, 01 Sep 2026 19:13:03 GMT"
       },
       {
         "title": "Flood chased me as I ran for 20 minutes, Nepal tunnel worker tells BBC",
