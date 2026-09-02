@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-02T00:58:04.223Z",
-  "updated_local": "9/2/2026, 12:58:04 AM",
+  "updated_iso": "2026-09-02T04:17:47.399Z",
+  "updated_local": "9/2/2026, 4:17:47 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "Hang on to Your Firefox",
-        "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
-        "source": "hn",
-        "time": "9/1/2026, 8:30:51 PM"
-      },
-      {
         "title": "Claude Fable 5.1 and Claude Mythos 5.1",
         "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
         "source": "hn",
@@ -54,19 +48,37 @@
         "time": "9/1/2026, 6:35:15 PM"
       },
       {
+        "title": "True Rate of Unemployment",
+        "url": "https://www.lisep.org/tru",
+        "source": "hn",
+        "time": "9/2/2026, 2:21:10 AM"
+      },
+      {
+        "title": "WebFPGA",
+        "url": "https://webfpga.io/",
+        "source": "hn",
+        "time": "9/2/2026, 3:54:58 AM"
+      },
+      {
         "title": "The efficient frontier of LLM inference",
         "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
         "source": "hn",
         "time": "9/1/2026, 11:48:05 PM"
-      },
-      {
-        "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-        "url": "https://masteranza.github.io/weedout/",
-        "source": "hn",
-        "time": "9/1/2026, 10:06:57 PM"
       }
     ],
     "world": [
+      {
+        "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
+        "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 02 Sep 2026 03:19:44 GMT"
+      },
+      {
+        "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+        "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 02 Sep 2026 01:59:10 GMT"
+      },
       {
         "title": "Burnham promises more devolution and public control of essential services",
         "url": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&amp;at_campaign=rss",
@@ -77,25 +89,13 @@
         "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
         "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 01 Sep 2026 16:36:42 GMT"
-      },
-      {
-        "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
-        "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 02 Sep 2026 00:38:14 GMT"
+        "time": "Wed, 02 Sep 2026 01:23:00 GMT"
       },
       {
         "title": "Rising numbers of children in mental health crisis ending up in A&E",
         "url": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 01 Sep 2026 23:38:20 GMT"
-      },
-      {
-        "title": "Germany says Russia behind Leipzig airport drone attack",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 01 Sep 2026 21:05:22 GMT"
       }
     ],
     "projects": [
