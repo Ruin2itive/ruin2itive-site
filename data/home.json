@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-01T23:57:37.950Z",
-  "updated_local": "9/1/2026, 11:57:37 PM",
+  "updated_iso": "2026-09-02T00:58:04.223Z",
+  "updated_local": "9/2/2026, 12:58:04 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "source": "hn",
-        "time": "9/1/2026, 5:53:53 PM"
-      },
-      {
         "title": "Hang on to Your Firefox",
         "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
         "source": "hn",
         "time": "9/1/2026, 8:30:51 PM"
+      },
+      {
+        "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+        "source": "hn",
+        "time": "9/1/2026, 5:53:53 PM"
       },
       {
         "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
@@ -54,16 +54,16 @@
         "time": "9/1/2026, 6:35:15 PM"
       },
       {
+        "title": "The efficient frontier of LLM inference",
+        "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+        "source": "hn",
+        "time": "9/1/2026, 11:48:05 PM"
+      },
+      {
         "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
         "url": "https://masteranza.github.io/weedout/",
         "source": "hn",
         "time": "9/1/2026, 10:06:57 PM"
-      },
-      {
-        "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-        "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
-        "source": "hn",
-        "time": "9/1/2026, 10:11:02 AM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Tue, 01 Sep 2026 16:36:42 GMT"
       },
       {
+        "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+        "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 02 Sep 2026 00:38:14 GMT"
+      },
+      {
         "title": "Rising numbers of children in mental health crisis ending up in A&E",
         "url": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 01 Sep 2026 21:05:22 GMT"
-      },
-      {
-        "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
-        "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 01 Sep 2026 23:56:44 GMT"
       }
     ],
     "projects": [
