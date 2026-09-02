@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-02T14:50:26.201Z"
+    "built_at": "2026-09-02T18:16:36.845Z"
   },
-  "items": [
-    {
-      "title": "U.S. Teletext Archive",
-      "url": "https://tvta-yt.github.io/U.S.-Teletext-Website/",
-      "date": "2026-09-02T14:49:39.000Z"
-    },
-    {
-      "title": "Fine-tuning your LLM might be making it dumber",
-      "url": "https://github.com/aryanyaksh-art/did-it-even-learn",
-      "date": "2026-09-02T14:49:39.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
