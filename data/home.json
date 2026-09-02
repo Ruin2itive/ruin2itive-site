@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-02T05:35:09.841Z",
-  "updated_local": "9/2/2026, 5:35:09 AM",
+  "updated_iso": "2026-09-02T09:26:13.644Z",
+  "updated_local": "9/2/2026, 9:26:13 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself",
+        "url": "https://decrypt.co/377142/kalshi-suspends-house-candidate-laurie-buckhout-for-betting-on-herself",
+        "source": "crypto",
+        "time": "Wed, 02 Sep 2026 09:06:22 +0000"
+      },
       {
         "title": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes",
         "url": "https://decrypt.co/377135/openclaw-2-0-is-here-whats-new",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/377100/what-is-red-september-bitcoin-curse",
         "source": "crypto",
         "time": "Tue, 01 Sep 2026 20:31:05 +0000"
-      },
-      {
-        "title": "Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw",
-        "url": "https://decrypt.co/377099/dropbox-security-breach",
-        "source": "crypto",
-        "time": "Tue, 01 Sep 2026 20:01:05 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "9/1/2026, 5:53:53 PM"
       },
       {
-        "title": "True Rate of Unemployment",
-        "url": "https://www.lisep.org/tru",
-        "source": "hn",
-        "time": "9/2/2026, 2:21:10 AM"
-      },
-      {
         "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
         "url": "https://arxiv.org/abs/2608.29530",
         "source": "hn",
         "time": "9/2/2026, 4:15:56 AM"
+      },
+      {
+        "title": "Commodore 64 released September 1, 1982",
+        "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+        "source": "hn",
+        "time": "9/2/2026, 8:36:43 AM"
       },
       {
         "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
@@ -60,18 +60,30 @@
         "time": "9/1/2026, 6:35:15 PM"
       },
       {
-        "title": "WebFPGA",
-        "url": "https://webfpga.io/",
+        "title": "Fine, I'll build my own text editor",
+        "url": "https://dbushell.com/2026/09/01/text-editor/",
         "source": "hn",
-        "time": "9/2/2026, 3:54:58 AM"
+        "time": "9/1/2026, 5:12:15 PM"
       }
     ],
     "world": [
       {
-        "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
-        "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?",
+        "url": "https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 02 Sep 2026 05:12:07 GMT"
+        "time": "Wed, 02 Sep 2026 04:49:23 GMT"
+      },
+      {
+        "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+        "url": "https://www.bbc.co.uk/news/videos/cy0zdw78ngdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 02 Sep 2026 08:29:42 GMT"
+      },
+      {
+        "title": "Four charged with murder after baby stabbed to death",
+        "url": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 02 Sep 2026 09:25:11 GMT"
       },
       {
         "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
@@ -80,22 +92,10 @@
         "time": "Wed, 02 Sep 2026 01:59:10 GMT"
       },
       {
-        "title": "Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?",
-        "url": "https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ariana Grande makes emotional tour exit and steps back from public life",
+        "url": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 02 Sep 2026 04:49:23 GMT"
-      },
-      {
-        "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-        "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 02 Sep 2026 01:23:00 GMT"
-      },
-      {
-        "title": "Israel expanding presence in Lebanon, officials say, as BBC visits occupied areas",
-        "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 02 Sep 2026 05:03:09 GMT"
+        "time": "Tue, 01 Sep 2026 21:41:05 GMT"
       }
     ],
     "projects": [
