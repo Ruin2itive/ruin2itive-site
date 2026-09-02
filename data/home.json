@@ -1,40 +1,46 @@
 {
-  "updated_iso": "2026-09-02T14:57:28.129Z",
-  "updated_local": "9/2/2026, 2:57:28 PM",
+  "updated_iso": "2026-09-02T18:28:43.650Z",
+  "updated_local": "9/2/2026, 6:28:43 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Crypto Groups Push SEC for Tailored Rules on Novel ETFs",
+        "url": "https://decrypt.co/377184/crypto-groups-sec-novel-etfs",
+        "source": "crypto",
+        "time": "Wed, 02 Sep 2026 17:41:04 +0000"
+      },
+      {
+        "title": "OpenAI&#39;s Astra Becomes Its First AI Model With &#39;Critical&#39; Hacking Abilities",
+        "url": "https://decrypt.co/377180/openai-astra-first-ai-model-critical-hacking",
+        "source": "crypto",
+        "time": "Wed, 02 Sep 2026 16:43:53 +0000"
+      },
+      {
+        "title": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
+        "url": "https://decrypt.co/377171/tether-sued-freeze-42-4-million-usdt",
+        "source": "crypto",
+        "time": "Wed, 02 Sep 2026 15:42:13 +0000"
+      },
+      {
+        "title": "Norway Moves to Regulate &#39;Pervert Glasses,&#39; Weighs Facial Recognition Ban",
+        "url": "https://decrypt.co/377169/norway-moves-to-regulate-pervert-glasses-weighs-facial-recognition-ban",
+        "source": "crypto",
+        "time": "Wed, 02 Sep 2026 15:18:44 +0000"
+      },
       {
         "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
         "url": "https://decrypt.co/377162/ai-billionaires-fund-ad-blitz-as-data-center-opposition-hits-61",
         "source": "crypto",
         "time": "Wed, 02 Sep 2026 14:16:44 +0000"
-      },
-      {
-        "title": "Morning Minute: Bitcoin Enters ‘Rektember’ After Best August Since 2017",
-        "url": "https://decrypt.co/377159/morning-minute-bitcoin-enters-rektember-after-best-august-since-2017",
-        "source": "crypto",
-        "time": "Wed, 02 Sep 2026 11:55:48 +0000"
-      },
-      {
-        "title": "Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum",
-        "url": "https://decrypt.co/377156/sality-botnet-dismantled-after-eight-years-of-stealing-bitcoin-and-ethereum",
-        "source": "crypto",
-        "time": "Wed, 02 Sep 2026 11:30:45 +0000"
-      },
-      {
-        "title": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
-        "url": "https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization",
-        "source": "crypto",
-        "time": "Wed, 02 Sep 2026 10:25:02 +0000"
-      },
-      {
-        "title": "Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself",
-        "url": "https://decrypt.co/377142/kalshi-suspends-house-candidate-laurie-buckhout-for-betting-on-herself",
-        "source": "crypto",
-        "time": "Wed, 02 Sep 2026 09:06:22 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+        "source": "hn",
+        "time": "9/2/2026, 3:12:40 PM"
+      },
       {
         "title": "A Note from LWN",
         "url": "https://lwn.net/Articles/1090585/",
@@ -42,60 +48,54 @@
         "time": "9/2/2026, 1:17:12 PM"
       },
       {
-        "title": "Three sites made 215,128 \"best software\" pages for AI. Perplexity cites them",
-        "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+        "title": "I Don't Have a Smartphone",
+        "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
         "source": "hn",
-        "time": "9/2/2026, 1:59:59 PM"
+        "time": "9/2/2026, 5:51:29 PM"
       },
       {
-        "title": "GrapheneOS says Pixel 11 has MTE support after all",
-        "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
+        "title": "Paint.net 5.2 alpha now runs on Linux",
+        "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
         "source": "hn",
-        "time": "9/2/2026, 2:00:28 PM"
+        "time": "9/2/2026, 5:18:39 PM"
       },
       {
-        "title": "Biggest dark matter detector spots a single weird particle",
-        "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+        "title": "Mistral now trains on user input by default, except on enterprise tier",
+        "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
         "source": "hn",
-        "time": "9/2/2026, 1:40:29 PM"
-      },
-      {
-        "title": "Poisson Disk Sampling",
-        "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
-        "source": "hn",
-        "time": "9/2/2026, 1:47:49 PM"
+        "time": "9/2/2026, 12:30:39 PM"
       }
     ],
     "world": [
       {
-        "title": "Burnham's PMQs debut shows the challenge of delivering new style of politics",
+        "title": "Burnham pressed on economy at first PMQs as UK borrowing costs rise",
+        "url": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 02 Sep 2026 16:27:03 GMT"
+      },
+      {
+        "title": "PMQs shows the challenge Burnham has in delivering new style of politics",
         "url": "https://www.bbc.co.uk/news/articles/c0m3wpk7rdjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 02 Sep 2026 14:26:39 GMT"
       },
       {
-        "title": "Farage tells BBC 'we live in a complainants' society' after questions over Reform funding",
-        "url": "https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
+        "url": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 02 Sep 2026 14:52:48 GMT"
+        "time": "Wed, 02 Sep 2026 17:05:09 GMT"
       },
       {
-        "title": "Four in court over murder of baby stabbed to death",
-        "url": "https://www.bbc.co.uk/news/articles/cn458wx1w0eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
+        "url": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 02 Sep 2026 13:02:08 GMT"
+        "time": "Wed, 02 Sep 2026 18:24:50 GMT"
       },
       {
-        "title": "Lucy Letby 'boyfriend' doctor named as court order lifted",
-        "url": "https://www.bbc.co.uk/news/articles/cy8z3jv98xyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
+        "url": "https://www.bbc.co.uk/news/videos/cn0j4k45z32o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 02 Sep 2026 13:49:17 GMT"
-      },
-      {
-        "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-        "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 02 Sep 2026 11:47:11 GMT"
+        "time": "Wed, 02 Sep 2026 15:16:42 GMT"
       }
     ],
     "projects": [
