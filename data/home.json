@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-09-03T19:38:25.833Z",
-  "updated_local": "9/3/2026, 7:38:25 PM",
+  "updated_iso": "2026-09-03T21:38:14.868Z",
+  "updated_local": "9/3/2026, 9:38:14 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
+        "url": "https://decrypt.co/377363/bitcoin-mine-ai-deal-1-2-billion",
+        "source": "crypto",
+        "time": "Thu, 03 Sep 2026 21:31:05 +0000"
+      },
+      {
+        "title": "What Is Pons? The Robinhood Chain Meme Coin Factory Token Up 18,000% Since July",
+        "url": "https://decrypt.co/377349/pons-robinhood-chain-meme-coin-token-factory",
+        "source": "crypto",
+        "time": "Thu, 03 Sep 2026 20:46:04 +0000"
+      },
+      {
+        "title": "Bernie Sanders Pushes Bill to Ban Advanced AI Development",
+        "url": "https://decrypt.co/377340/bernie-sanders-ban-advanced-ai",
+        "source": "crypto",
+        "time": "Thu, 03 Sep 2026 20:16:04 +0000"
+      },
       {
         "title": "OpenAI Releases GPT-6 Astra: The Closest AI Model Yet to AGI",
         "url": "https://decrypt.co/377341/openai-releases-gpt-6-astra-agi",
@@ -14,38 +32,20 @@
         "url": "https://decrypt.co/377337/chatgpt-claude-grok-outages-work-without-ai",
         "source": "crypto",
         "time": "Thu, 03 Sep 2026 18:31:26 +0000"
-      },
-      {
-        "title": "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
-        "url": "https://decrypt.co/377284/bitcoin-etfs-rebound-ethereum-xrp-end-streaks",
-        "source": "crypto",
-        "time": "Thu, 03 Sep 2026 18:15:07 +0000"
-      },
-      {
-        "title": "CFTC Asks Judge to Dismiss CME Lawsuit Over Crypto Perpetual Futures",
-        "url": "https://decrypt.co/377315/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures",
-        "source": "crypto",
-        "time": "Thu, 03 Sep 2026 17:31:04 +0000"
-      },
-      {
-        "title": "Bitcoin Pumps as Fed Signals Rate Pause, $415 Million in Shorts Get Rekt",
-        "url": "https://decrypt.co/377314/bitcoin-pump-fed-rate-pause-shorts-get-rekt",
-        "source": "crypto",
-        "time": "Thu, 03 Sep 2026 16:38:17 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-        "url": "https://inference-docs.cerebras.ai/models/overview",
-        "source": "hn",
-        "time": "9/3/2026, 6:32:13 PM"
-      },
       {
         "title": "GPT-6 Astra",
         "url": "https://openai.com/index/gpt-6-astra/",
         "source": "hn",
         "time": "9/3/2026, 6:41:05 PM"
+      },
+      {
+        "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+        "url": "https://inference-docs.cerebras.ai/models/overview",
+        "source": "hn",
+        "time": "9/3/2026, 6:32:13 PM"
       },
       {
         "title": ".name Termination",
@@ -54,10 +54,10 @@
         "time": "9/3/2026, 2:54:39 PM"
       },
       {
-        "title": "K2 Horizon: A connected fleet of six open models",
-        "url": "https://ifm.ai/blog/k2/",
+        "title": "The largest electric aircraft just flew [video]",
+        "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
         "source": "hn",
-        "time": "9/3/2026, 3:36:43 PM"
+        "time": "9/1/2026, 7:02:34 PM"
       },
       {
         "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
@@ -68,10 +68,10 @@
     ],
     "world": [
       {
-        "title": "Burnham and Macron agree to scale up action on small boats in first meeting",
-        "url": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Farage senior aide filmed suggesting way to avoid donations law",
+        "url": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 03 Sep 2026 15:46:49 GMT"
+        "time": "Thu, 03 Sep 2026 21:07:58 GMT"
       },
       {
         "title": "Schools to close early for A66 crash funeral amid safety concerns",
@@ -86,10 +86,10 @@
         "time": "Thu, 03 Sep 2026 19:01:43 GMT"
       },
       {
-        "title": "Reform UK promises £80bn cuts to public spending",
-        "url": "https://www.bbc.co.uk/news/articles/czxz4dl1plwo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "British army told to stop non-essential training exercises to save money",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyqey6rlyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 03 Sep 2026 18:49:34 GMT"
+        "time": "Thu, 03 Sep 2026 19:56:14 GMT"
       },
       {
         "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
