@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-02T23:43:22.800Z"
+    "built_at": "2026-09-03T02:18:50.860Z"
   },
-  "items": [
-    {
-      "title": "JPMorgan curbed lending to Jane Street as trading firm muscled into bond market",
-      "url": "https://www.ft.com/content/07e849ac-ea87-4227-81d4-7f18b0d7d473",
-      "date": "2026-09-02T23:39:41.000Z"
-    },
-    {
-      "title": "Workplace surveillance is on the rise, spurred by AI",
-      "url": "https://knowablemagazine.org/content/article/society/2026/surveillance-at-work-is-increasing",
-      "date": "2026-09-02T23:39:26.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
