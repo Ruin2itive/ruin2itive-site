@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-03T07:33:16.006Z"
+    "built_at": "2026-09-03T12:24:19.875Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Mitmcloak – mirror the client's TLS/H2/H3 fingerprint in mitmproxy",
-      "url": "https://github.com/sardanioss/mitmcloak",
-      "date": "2026-09-03T07:32:14.000Z"
-    },
-    {
-      "title": "John Ternus Is Now Apple CEO",
-      "url": "https://www.macrumors.com/2026/09/01/john-ternus-first-memo/",
-      "date": "2026-09-03T07:31:14.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
