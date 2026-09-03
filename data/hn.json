@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-03T16:47:33.220Z"
+    "built_at": "2026-09-03T19:31:55.469Z"
   },
-  "items": [
-    {
-      "title": "American Bureaucracy (Literally) Steals Years from Your Life",
-      "url": "https://lithub.com/how-american-bureaucracy-literally-steals-years-from-your-life/",
-      "date": "2026-09-03T16:44:25.000Z"
-    },
-    {
-      "title": "Show HN: Deterministic Linter for Agent Runs",
-      "url": "https://github.com/AshwinUgale/tracelint",
-      "date": "2026-09-03T16:43:59.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
