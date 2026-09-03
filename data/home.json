@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-03T07:46:39.604Z",
-  "updated_local": "9/3/2026, 7:46:39 AM",
+  "updated_iso": "2026-09-03T09:36:24.225Z",
+  "updated_local": "9/3/2026, 9:36:24 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Michigan Judge Bars Kalshi Sports Bets, Threatens $500K Daily Fine",
+        "url": "https://decrypt.co/377238/michigan-judge-bars-kalshi-sports-bets-threatens-500k-daily-fine",
+        "source": "crypto",
+        "time": "Thu, 03 Sep 2026 08:47:34 +0000"
+      },
       {
         "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
         "url": "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
         "source": "crypto",
         "time": "Wed, 02 Sep 2026 21:31:05 +0000"
-      },
-      {
-        "title": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show",
-        "url": "https://decrypt.co/377225/pentagon-ai-official-sold-millions-perplexity-stock",
-        "source": "crypto",
-        "time": "Wed, 02 Sep 2026 20:46:04 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Pre-Release of Polars 2.0",
+        "url": "https://pola.rs/posts/announcing-polars-2/",
+        "source": "hn",
+        "time": "9/3/2026, 6:59:08 AM"
+      },
+      {
+        "title": "The Browser's Main Thread Is Expensive",
+        "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+        "source": "hn",
+        "time": "9/1/2026, 2:00:15 PM"
+      },
       {
         "title": "Muse Spark 1.3",
         "url": "https://developer.meta.com/ai/models/muse-spark/",
@@ -48,22 +60,10 @@
         "time": "9/2/2026, 3:12:40 PM"
       },
       {
-        "title": "The Computer Museum of America reclamation project",
-        "url": "https://computer-museum.org/wp/",
+        "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+        "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
         "source": "hn",
-        "time": "8/31/2026, 4:15:37 PM"
-      },
-      {
-        "title": "Holden's Lightning Flight",
-        "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
-        "source": "hn",
-        "time": "8/31/2026, 11:29:44 AM"
-      },
-      {
-        "title": "Google avoids a breakup of its ad tech business",
-        "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-        "source": "hn",
-        "time": "9/2/2026, 2:46:16 PM"
+        "time": "9/3/2026, 7:04:13 AM"
       }
     ],
     "world": [
@@ -74,7 +74,7 @@
         "time": "Thu, 03 Sep 2026 05:00:04 GMT"
       },
       {
-        "title": "Watch: Drop in small boats crossings forces smugglers to adapt",
+        "title": "Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day",
         "url": "https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 03 Sep 2026 06:21:09 GMT"
@@ -86,10 +86,10 @@
         "time": "Thu, 03 Sep 2026 06:01:54 GMT"
       },
       {
-        "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
-        "url": "https://www.bbc.co.uk/news/articles/cy7zx6k404go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Zack Polanski seeks to stand for by-election in former PM Starmer's seat",
+        "url": "https://www.bbc.co.uk/news/articles/cge41ee40vwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 02 Sep 2026 18:57:51 GMT"
+        "time": "Thu, 03 Sep 2026 08:45:04 GMT"
       },
       {
         "title": "Watch: Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
