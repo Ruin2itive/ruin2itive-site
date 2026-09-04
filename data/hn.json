@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-04T10:15:38.656Z"
+    "built_at": "2026-09-04T14:39:03.560Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Fluxion: A Propagator-Based Reactive Web UI Framework in Common Lisp",
+      "url": "https://glenneth.org/content/posts/2026-04-25-fluxion-reactive-web-ui-common-lisp.html",
+      "date": "2026-09-04T14:37:20.000Z"
+    },
+    {
+      "title": "Show HN: Learn/Practice Sudoku strategies web app",
+      "url": "https://sw-fun.github.io/sudoku/",
+      "date": "2026-09-04T14:35:45.000Z"
+    }
+  ]
 }
