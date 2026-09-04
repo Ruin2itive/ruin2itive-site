@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-04T09:31:40.439Z",
-  "updated_local": "9/4/2026, 9:31:40 AM",
+  "updated_iso": "2026-09-04T10:37:13.347Z",
+  "updated_local": "9/4/2026, 10:37:13 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "FinCEN Ties $12.7B to Crypto Scams Run From Asian Compounds",
+        "url": "https://decrypt.co/377386/fincen-ties-12-7b-to-crypto-scams-run-from-asian-compounds",
+        "source": "crypto",
+        "time": "Fri, 04 Sep 2026 10:22:57 +0000"
+      },
       {
         "title": "AMC CEO Calls Robinhood Stock Tokens &#39;Contemptible&#39; and &#39;Vile&#39;",
         "url": "https://decrypt.co/377378/amc-ceo-calls-robinhood-stock-tokens-contemptible-and-vile",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/377349/pons-robinhood-chain-meme-coin-token-factory",
         "source": "crypto",
         "time": "Thu, 03 Sep 2026 20:46:04 +0000"
-      },
-      {
-        "title": "Bernie Sanders Pushes Bill to Ban Advanced AI Development",
-        "url": "https://decrypt.co/377340/bernie-sanders-ban-advanced-ai",
-        "source": "crypto",
-        "time": "Thu, 03 Sep 2026 20:16:04 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "9/4/2026, 8:19:57 AM"
       },
       {
-        "title": "Authorization terminology is a mess: Let's fix it",
-        "url": "https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/",
-        "source": "hn",
-        "time": "9/1/2026, 2:18:54 PM"
-      },
-      {
         "title": "The Raspberry Pi Interactive Timeline · 2006–2026",
         "url": "https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline",
         "source": "hn",
         "time": "9/4/2026, 8:35:15 AM"
+      },
+      {
+        "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+        "url": "https://inference-docs.cerebras.ai/models/overview",
+        "source": "hn",
+        "time": "9/3/2026, 6:32:13 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Fri, 04 Sep 2026 00:55:45 GMT"
       },
       {
-        "title": "British army told to stop non-essential training exercises to save money",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyqey6rlyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+        "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 03 Sep 2026 19:56:14 GMT"
+        "time": "Fri, 04 Sep 2026 10:00:18 GMT"
       }
     ],
     "projects": [
