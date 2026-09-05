@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-05T14:34:12.376Z",
-  "updated_local": "9/5/2026, 2:34:12 PM",
+  "updated_iso": "2026-09-05T15:55:12.712Z",
+  "updated_local": "9/5/2026, 3:55:12 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
+        "url": "https://decrypt.co/377501/google-chrome-zero-day-exploited",
+        "source": "crypto",
+        "time": "Sat, 05 Sep 2026 15:01:04 +0000"
+      },
       {
         "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
         "url": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/377483/polymarket-crypto-perpetual-futures",
         "source": "crypto",
         "time": "Fri, 04 Sep 2026 20:31:03 +0000"
-      },
-      {
-        "title": "Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood—And It&#39;s Working (Sort Of)",
-        "url": "https://decrypt.co/377463/crypto-meme-coin-stock-pairs-robinhood",
-        "source": "crypto",
-        "time": "Fri, 04 Sep 2026 19:16:03 +0000"
       }
     ],
     "hacker": [
@@ -54,21 +54,27 @@
         "time": "9/4/2026, 11:54:53 AM"
       },
       {
+        "title": "How the Planet-Altering Disaster of \"Forever Chemicals\" Was Kept Secret",
+        "url": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
+        "source": "hn",
+        "time": "9/5/2026, 2:40:52 PM"
+      },
+      {
         "title": "Nitter has more working instances than before the takedowns",
         "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
         "source": "hn",
         "time": "9/5/2026, 12:04:16 AM"
-      },
-      {
-        "title": "Formalizing Fermat's Last Theorem",
-        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-        "source": "hn",
-        "time": "9/4/2026, 6:42:56 PM"
       }
     ],
     "world": [
       {
-        "title": "Nigel Farage tells BBC he 'wasn't listening' to foreign donor talks filmed undercover",
+        "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
+        "url": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 05 Sep 2026 14:41:17 GMT"
+      },
+      {
+        "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
         "url": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 05 Sep 2026 14:26:37 GMT"
@@ -80,22 +86,16 @@
         "time": "Sat, 05 Sep 2026 12:32:31 GMT"
       },
       {
-        "title": "Cleveland police chief proud of force but being 'let down' by funding",
-        "url": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+        "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 05 Sep 2026 05:40:03 GMT"
+        "time": "Sat, 05 Sep 2026 15:14:21 GMT"
       },
       {
         "title": "Jaguar Land Rover confirms planned job cuts",
         "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 05 Sep 2026 13:22:17 GMT"
-      },
-      {
-        "title": "Trump's response is key as Argentina's Falklands demands get louder",
-        "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 05 Sep 2026 06:20:04 GMT"
       }
     ],
     "projects": [
