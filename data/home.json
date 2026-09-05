@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-05T19:55:38.205Z",
-  "updated_local": "9/5/2026, 7:55:38 PM",
+  "updated_iso": "2026-09-05T21:05:18.512Z",
+  "updated_local": "9/5/2026, 9:05:18 PM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "The Luxuries in Life",
+        "title": "The Real Luxuries In Life",
         "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
         "source": "hn",
         "time": "9/5/2026, 5:46:16 PM"
+      },
+      {
+        "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation",
+        "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+        "source": "hn",
+        "time": "9/5/2026, 8:25:59 PM"
+      },
+      {
+        "title": "Private German rocket makes history, reaches orbit from European soil",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+        "source": "hn",
+        "time": "9/5/2026, 8:31:38 PM"
       },
       {
         "title": "Learn Programming with OCaml",
@@ -52,18 +64,6 @@
         "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
         "source": "hn",
         "time": "9/5/2026, 1:36:38 PM"
-      },
-      {
-        "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-        "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-        "source": "hn",
-        "time": "9/5/2026, 1:31:05 PM"
-      },
-      {
-        "title": "Discovery of a new OpenAI agent message board",
-        "url": "https://collusion.wiki/",
-        "source": "hn",
-        "time": "9/4/2026, 11:54:53 AM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "US envoys meet Putin in Moscow for Ukraine talks",
         "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 05 Sep 2026 19:01:31 GMT"
+        "time": "Sat, 05 Sep 2026 20:15:49 GMT"
       },
       {
         "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
@@ -86,16 +86,16 @@
         "time": "Sat, 05 Sep 2026 14:26:37 GMT"
       },
       {
-        "title": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
-        "url": "https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 05 Sep 2026 12:32:31 GMT"
-      },
-      {
         "title": "US hits three Iranian oil tankers after saying its warships were targeted",
         "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 05 Sep 2026 18:48:37 GMT"
+        "time": "Sat, 05 Sep 2026 20:41:59 GMT"
+      },
+      {
+        "title": "Jaguar Land Rover confirms planned job cuts",
+        "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 05 Sep 2026 13:22:17 GMT"
       }
     ],
     "projects": [
