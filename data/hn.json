@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-05T09:43:48.420Z"
+    "built_at": "2026-09-05T13:08:29.897Z"
   },
-  "error": "fetch failed",
-  "items": []
+  "items": [
+    {
+      "title": "I built an AI junior trader. It forked its own constitution",
+      "url": "https://www.haipa.ai/blog/no-rogue-ai-traders",
+      "date": "2026-09-05T13:07:09.000Z"
+    },
+    {
+      "title": "Twenty Years of jQuery: How a Little Library Rewired Web Development",
+      "url": "https://www.infoq.com/news/2026/09/jquery-20-years/",
+      "date": "2026-09-05T13:06:23.000Z"
+    }
+  ]
 }
