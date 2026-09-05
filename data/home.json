@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-05T08:56:09.981Z",
-  "updated_local": "9/5/2026, 8:56:09 AM",
+  "updated_iso": "2026-09-05T11:37:39.933Z",
+  "updated_local": "9/5/2026, 11:37:39 AM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "AI handles incidents, engineers lose touch with their systems",
-        "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-        "source": "hn",
-        "time": "9/5/2026, 7:52:50 AM"
-      },
-      {
         "title": "Actively exploited sandbox RCE in all Chromium versions",
         "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
         "source": "hn",
         "time": "9/4/2026, 9:52:01 PM"
-      },
-      {
-        "title": "Git hosting that never leaves Europe",
-        "url": "https://pushin.eu",
-        "source": "hn",
-        "time": "9/5/2026, 6:31:49 AM"
       },
       {
         "title": "Discovery of a new OpenAI agent message board",
@@ -60,10 +48,22 @@
         "time": "9/4/2026, 11:54:53 AM"
       },
       {
+        "title": "AI handles incidents, engineers lose touch with their systems",
+        "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+        "source": "hn",
+        "time": "9/5/2026, 7:52:50 AM"
+      },
+      {
         "title": "Formalizing Fermat's Last Theorem",
         "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
         "source": "hn",
         "time": "9/4/2026, 6:42:56 PM"
+      },
+      {
+        "title": "Nitter has more working instances than before the takedowns",
+        "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+        "source": "hn",
+        "time": "9/5/2026, 12:04:16 AM"
       }
     ],
     "world": [
@@ -83,19 +83,19 @@
         "title": "Reform promises to increase tax-free personal allowance to £15,000",
         "url": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 05 Sep 2026 07:41:42 GMT"
-      },
-      {
-        "title": "Disruption at Port of Dover as masked men hold protest",
-        "url": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 05 Sep 2026 08:54:49 GMT"
+        "time": "Sat, 05 Sep 2026 11:16:11 GMT"
       },
       {
         "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
         "url": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 05 Sep 2026 06:37:46 GMT"
+        "time": "Sat, 05 Sep 2026 10:02:29 GMT"
+      },
+      {
+        "title": "Trump's response is key as Argentina's Falklands demands get louder",
+        "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 05 Sep 2026 06:20:04 GMT"
       }
     ],
     "projects": [
