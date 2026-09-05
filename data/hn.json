@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-05T00:30:18.512Z"
+    "built_at": "2026-09-05T05:06:36.351Z"
   },
-  "items": [
-    {
-      "title": "Hegel-Rust OSS bug-finding",
-      "url": "https://github.com/DRMacIver/hegel-rust-oss-bug-finding",
-      "date": "2026-09-05T00:28:18.000Z"
-    },
-    {
-      "title": "Elastic Cloud (Public) Status – Replication bug causing slow recoveries",
-      "url": "https://status.elastic.co/incidents/l6zgdnvvg41j",
-      "date": "2026-09-05T00:27:35.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
