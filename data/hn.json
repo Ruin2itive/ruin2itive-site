@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-05T18:41:34.352Z"
+    "built_at": "2026-09-05T20:50:48.756Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "PR review when everyone has LLMs",
+      "url": "https://octet-stream.net/b/scb/2026-09-05-pr-review-when-everyone-has-llms.html",
+      "date": "2026-09-05T20:49:41.000Z"
+    },
+    {
+      "title": "Show HN: Merge Wikipedia articles across languages into one page",
+      "url": "https://github.com/gojiplus/wikifuse",
+      "date": "2026-09-05T20:48:43.000Z"
+    }
+  ]
 }
