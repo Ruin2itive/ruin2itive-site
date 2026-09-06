@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-06T16:36:23.513Z"
+    "built_at": "2026-09-06T18:45:37.168Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Local audit trail for Claude Code tool calls",
+      "url": "https://github.com/zaghaghi/toolog",
+      "date": "2026-09-06T18:43:06.000Z"
+    },
+    {
+      "title": "Data races and the limits of ThreadSanitizer in C and Go",
+      "url": "https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html",
+      "date": "2026-09-06T18:41:14.000Z"
+    }
+  ]
 }
