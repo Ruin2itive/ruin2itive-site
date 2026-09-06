@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-06T09:17:11.041Z",
-  "updated_local": "9/6/2026, 9:17:11 AM",
+  "updated_iso": "2026-09-06T11:56:43.769Z",
+  "updated_local": "9/6/2026, 11:56:43 AM",
   "sections": {
     "crypto": [
       {
@@ -42,36 +42,48 @@
         "time": "9/6/2026, 7:21:06 AM"
       },
       {
+        "title": "I Changed My License",
+        "url": "https://bergie.iki.fi/blog/eupl/",
+        "source": "hn",
+        "time": "9/6/2026, 10:39:44 AM"
+      },
+      {
         "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
         "url": "https://cloudinabottle.org/blog/launch-post",
         "source": "hn",
         "time": "9/6/2026, 12:03:29 AM"
       },
       {
-        "title": "Play GTA Vice City in the Browser",
-        "url": "https://quenq.com/apps/vice-city-online/",
+        "title": "The revolt of the reader",
+        "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
         "source": "hn",
-        "time": "9/6/2026, 7:33:17 AM"
+        "time": "9/5/2026, 9:37:49 PM"
       },
       {
         "title": "Music Theory for Programmers",
         "url": "https://runjs.app/blog/music-theory-for-programmers",
         "source": "hn",
         "time": "9/2/2026, 8:19:13 PM"
-      },
-      {
-        "title": "The revolt of the reader",
-        "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-        "source": "hn",
-        "time": "9/5/2026, 9:37:49 PM"
       }
     ],
     "world": [
       {
-        "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+        "title": "US envoys arrive in Ukraine for talks after meeting Putin in Russia",
         "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 06 Sep 2026 02:24:16 GMT"
+        "time": "Sun, 06 Sep 2026 11:19:30 GMT"
+      },
+      {
+        "title": "Police slow to respond to Dover protest, says council boss",
+        "url": "https://www.bbc.co.uk/news/articles/cew9dq9we5eo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 06 Sep 2026 10:59:35 GMT"
+      },
+      {
+        "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+        "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 06 Sep 2026 10:29:03 GMT"
       },
       {
         "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
@@ -80,22 +92,10 @@
         "time": "Sun, 06 Sep 2026 08:05:22 GMT"
       },
       {
-        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "The next James Bond: The (00)7 questions fans want answered",
+        "url": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 05 Sep 2026 23:20:00 GMT"
-      },
-      {
-        "title": "Temperatures could climb to 28C in late burst of warmth",
-        "url": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 06 Sep 2026 04:08:41 GMT"
-      },
-      {
-        "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 06 Sep 2026 07:06:50 GMT"
+        "time": "Sun, 06 Sep 2026 00:06:10 GMT"
       }
     ],
     "projects": [
