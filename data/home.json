@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-06T04:19:24.420Z",
-  "updated_local": "9/6/2026, 4:19:24 AM",
+  "updated_iso": "2026-09-06T07:37:40.486Z",
+  "updated_local": "9/6/2026, 7:37:40 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
+        "title": "Site Is Closed on Sundays",
+        "url": "https://v7.robweychert.com/",
+        "source": "hn",
+        "time": "9/6/2026, 6:23:05 AM"
+      },
+      {
         "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
         "url": "https://cloudinabottle.org/blog/launch-post",
         "source": "hn",
         "time": "9/6/2026, 12:03:29 AM"
-      },
-      {
-        "title": "GPT-6 Astra on robot arms",
-        "url": "https://openai.robocurve.org/gpt-6-astra/",
-        "source": "hn",
-        "time": "9/6/2026, 1:52:45 AM"
       },
       {
         "title": "The revolt of the reader",
@@ -54,48 +54,48 @@
         "time": "9/5/2026, 9:37:49 PM"
       },
       {
-        "title": "OpenBSD Stories: Strange Medieval Devices",
-        "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
+        "title": "Music Theory for Programmers",
+        "url": "https://runjs.app/blog/music-theory-for-programmers",
         "source": "hn",
-        "time": "9/2/2026, 5:44:24 PM"
+        "time": "9/2/2026, 8:19:13 PM"
       },
       {
-        "title": "Chrome again exempts Google from user site data settings",
-        "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+        "title": "The ColorChecker, photography's most important 24 squares, turns 50",
+        "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
         "source": "hn",
-        "time": "9/5/2026, 11:39:47 PM"
+        "time": "9/1/2026, 10:54:15 PM"
       }
     ],
     "world": [
       {
-        "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+        "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
         "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 06 Sep 2026 02:24:16 GMT"
       },
       {
-        "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
-        "url": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+        "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 05 Sep 2026 21:29:02 GMT"
+        "time": "Sun, 06 Sep 2026 05:04:04 GMT"
       },
       {
-        "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
-        "url": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Temperatures could climb to 28C in late burst of warmth",
+        "url": "https://www.bbc.co.uk/weather/articles/cvgydp1247ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 05 Sep 2026 14:26:37 GMT"
-      },
-      {
-        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-        "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 05 Sep 2026 22:44:07 GMT"
+        "time": "Sun, 06 Sep 2026 04:08:41 GMT"
       },
       {
         "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
         "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 05 Sep 2026 23:20:00 GMT"
+      },
+      {
+        "title": "Prince William to attend King Harald's funeral in Norway",
+        "url": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 05 Sep 2026 21:00:02 GMT"
       }
     ],
     "projects": [
