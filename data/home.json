@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-06T18:00:07.337Z",
-  "updated_local": "9/6/2026, 6:00:07 PM",
+  "updated_iso": "2026-09-06T19:00:49.030Z",
+  "updated_local": "9/6/2026, 7:00:49 PM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,10 @@
         "time": "9/6/2026, 1:02:41 PM"
       },
       {
-        "title": "Your intellectual fly is open (2025)",
-        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+        "title": "Nitter is unarchived and will continue",
+        "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
         "source": "hn",
-        "time": "9/6/2026, 11:56:43 AM"
-      },
-      {
-        "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-        "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-        "source": "hn",
-        "time": "9/6/2026, 3:44:24 PM"
+        "time": "9/6/2026, 5:49:47 PM"
       },
       {
         "title": "An Alien Mind",
@@ -60,24 +54,30 @@
         "time": "9/6/2026, 4:27:05 PM"
       },
       {
-        "title": "We monitor internal coding agents for misalignment",
-        "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
+        "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+        "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
         "source": "hn",
-        "time": "9/6/2026, 4:37:55 PM"
+        "time": "9/6/2026, 3:44:24 PM"
+      },
+      {
+        "title": "Your intellectual fly is open (2025)",
+        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+        "source": "hn",
+        "time": "9/6/2026, 11:56:43 AM"
       }
     ],
     "world": [
       {
-        "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 06 Sep 2026 15:32:27 GMT"
-      },
-      {
         "title": "German far-right set for big win in eastern state - projections",
         "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 06 Sep 2026 17:42:19 GMT"
+        "time": "Sun, 06 Sep 2026 18:15:11 GMT"
+      },
+      {
+        "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 06 Sep 2026 18:33:50 GMT"
       },
       {
         "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
