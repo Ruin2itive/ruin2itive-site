@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-06T20:19:30.135Z",
-  "updated_local": "9/6/2026, 8:19:30 PM",
+  "updated_iso": "2026-09-06T22:04:14.025Z",
+  "updated_local": "9/6/2026, 10:04:14 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "Nitter is unarchived and will continue",
-        "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+        "title": "It took a year to ship WebAssembly in Anubis",
+        "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
         "source": "hn",
-        "time": "9/6/2026, 5:49:47 PM"
+        "time": "9/6/2026, 8:32:38 PM"
       },
       {
-        "title": "An Alien Mind",
-        "url": "https://openai.com/index/an-alien-mind/",
+        "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+        "url": "https://github.com/marsbos/mador",
         "source": "hn",
-        "time": "9/6/2026, 4:27:05 PM"
+        "time": "9/6/2026, 8:45:13 PM"
+      },
+      {
+        "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+        "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+        "source": "hn",
+        "time": "9/6/2026, 8:24:00 PM"
       },
       {
         "title": "Your intellectual fly is open (2025)",
@@ -54,30 +60,24 @@
         "time": "9/6/2026, 11:56:43 AM"
       },
       {
-        "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-        "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+        "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+        "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
         "source": "hn",
-        "time": "9/6/2026, 3:44:24 PM"
-      },
-      {
-        "title": "The car industry A/B tested selling a car with and without CarPlay",
-        "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
-        "source": "hn",
-        "time": "9/6/2026, 7:53:23 PM"
+        "time": "9/6/2026, 7:21:06 AM"
       }
     ],
     "world": [
       {
-        "title": "German far-right set for big win in eastern state, projections show",
+        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
         "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 06 Sep 2026 20:16:35 GMT"
+        "time": "Sun, 06 Sep 2026 21:37:05 GMT"
       },
       {
         "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
         "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 06 Sep 2026 20:18:52 GMT"
+        "time": "Sun, 06 Sep 2026 20:41:58 GMT"
       },
       {
         "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
@@ -92,10 +92,10 @@
         "time": "Sun, 06 Sep 2026 16:39:45 GMT"
       },
       {
-        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "BBC News presenter reveals she has blood cancer",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 06 Sep 2026 16:00:21 GMT"
+        "time": "Sun, 06 Sep 2026 22:00:36 GMT"
       }
     ],
     "projects": [
