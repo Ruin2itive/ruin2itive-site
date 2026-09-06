@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-06T05:21:06.474Z"
+    "built_at": "2026-09-06T09:59:09.657Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "About Arks",
+      "url": "https://arks.org/about/",
+      "date": "2026-09-06T09:57:49.000Z"
+    },
+    {
+      "title": "State of the Map 2026 Video Channel",
+      "url": "https://peertube.openstreetmap.fr/c/sotm_2026/videos",
+      "date": "2026-09-06T09:57:43.000Z"
+    }
+  ]
 }
