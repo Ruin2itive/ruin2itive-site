@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-05T23:44:30.175Z",
-  "updated_local": "9/5/2026, 11:44:30 PM",
+  "updated_iso": "2026-09-06T02:55:02.490Z",
+  "updated_local": "9/6/2026, 2:55:02 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,24 @@
     ],
     "hacker": [
       {
+        "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+        "url": "https://cloudinabottle.org/blog/launch-post",
+        "source": "hn",
+        "time": "9/6/2026, 12:03:29 AM"
+      },
+      {
+        "title": "The revolt of the reader",
+        "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+        "source": "hn",
+        "time": "9/5/2026, 9:37:49 PM"
+      },
+      {
+        "title": "GPT-6 Astra on robot arms",
+        "url": "https://openai.robocurve.org/gpt-6-astra/",
+        "source": "hn",
+        "time": "9/6/2026, 1:52:45 AM"
+      },
+      {
         "title": "Private German rocket makes history, reaches orbit from European soil",
         "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
         "source": "hn",
@@ -46,32 +64,14 @@
         "url": "https://usr.lmf.cnrs.fr/lpo/",
         "source": "hn",
         "time": "9/5/2026, 4:45:02 PM"
-      },
-      {
-        "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-        "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-        "source": "hn",
-        "time": "9/5/2026, 8:25:59 PM"
-      },
-      {
-        "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-        "url": "https://github.com/okf-memory/okf-agent-memory",
-        "source": "hn",
-        "time": "9/5/2026, 10:15:52 PM"
-      },
-      {
-        "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-        "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-        "source": "hn",
-        "time": "9/5/2026, 1:36:38 PM"
       }
     ],
     "world": [
       {
-        "title": "US envoys meet Putin in Moscow for Ukraine talks",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 05 Sep 2026 21:39:02 GMT"
+        "time": "Sun, 06 Sep 2026 02:24:16 GMT"
       },
       {
         "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
