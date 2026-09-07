@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-09-07T21:06:27.451Z",
-  "updated_local": "9/7/2026, 9:06:27 PM",
+  "updated_iso": "2026-09-07T21:57:02.883Z",
+  "updated_local": "9/7/2026, 9:57:02 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Your LG TV Might Still Be Listening to You—Even When It Looks Like It’s Off",
+        "url": "https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off",
+        "source": "crypto",
+        "time": "Mon, 07 Sep 2026 21:46:04 +0000"
+      },
+      {
+        "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
+        "url": "https://decrypt.co/377635/openai-chief-scientist-warns-ai-slow-down",
+        "source": "crypto",
+        "time": "Mon, 07 Sep 2026 21:16:03 +0000"
+      },
       {
         "title": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
         "url": "https://decrypt.co/377621/brazilian-banks-expand-crypto-offerings",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/377600/liquid-hackers-return-270m-bitcoin",
         "source": "crypto",
         "time": "Mon, 07 Sep 2026 19:13:56 +0000"
-      },
-      {
-        "title": "Middle East Crypto Activity Triples to $350 Billion Amid Ongoing Conflict, Report Finds",
-        "url": "https://decrypt.co/377597/middle-east-crypto-activity-350-billion",
-        "source": "crypto",
-        "time": "Mon, 07 Sep 2026 18:16:04 +0000"
-      },
-      {
-        "title": "Malone Lam Faces Plea Hearing Over $245M Bitcoin Theft",
-        "url": "https://decrypt.co/377595/malone-lam-faces-plea-hearing-over-245m-bitcoin-theft",
-        "source": "crypto",
-        "time": "Mon, 07 Sep 2026 17:41:55 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://lax-skyline.parcelscope.net/",
         "source": "hn",
         "time": "9/7/2026, 6:52:06 PM"
+      },
+      {
+        "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+        "url": "https://arxiv.org/abs/2607.24888",
+        "source": "hn",
+        "time": "9/5/2026, 11:25:18 AM"
       },
       {
         "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
@@ -54,16 +60,10 @@
         "time": "9/3/2026, 4:06:08 PM"
       },
       {
-        "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-        "url": "https://arxiv.org/abs/2607.24888",
+        "title": "Scientists observe Einstein's gravity in the quantum world",
+        "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
         "source": "hn",
-        "time": "9/5/2026, 11:25:18 AM"
-      },
-      {
-        "title": "Macbeth and His Problems",
-        "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
-        "source": "hn",
-        "time": "9/7/2026, 8:34:32 PM"
+        "time": "9/4/2026, 8:28:52 PM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Mon, 07 Sep 2026 15:20:48 GMT"
       },
       {
-        "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-        "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 07 Sep 2026 14:57:30 GMT"
-      },
-      {
         "title": "King makes clear Harry and Meghan remain non-working royals",
         "url": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 07 Sep 2026 15:41:52 GMT"
+      },
+      {
+        "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+        "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 07 Sep 2026 14:57:30 GMT"
       }
     ],
     "projects": [
