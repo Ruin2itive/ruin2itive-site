@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-09-07T05:55:39.811Z",
-  "updated_local": "9/7/2026, 5:55:39 AM",
+  "updated_iso": "2026-09-07T11:34:24.440Z",
+  "updated_local": "9/7/2026, 11:34:24 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Coldcard Hacker Moves $7.7M, Nearly Half of Third-Wave Bitcoin Haul",
+        "url": "https://decrypt.co/377537/coldcard-hacker-moves-7-7m-nearly-half-of-third-wave-bitcoin-haul",
+        "source": "crypto",
+        "time": "Mon, 07 Sep 2026 11:09:27 +0000"
+      },
+      {
+        "title": "&#39;Purported White-Hat Hackers&#39; Withdraw $320M in Bitcoin From Liquid",
+        "url": "https://decrypt.co/377528/purported-white-hat-hackers-withdraw-320m-in-bitcoin-from-liquid",
+        "source": "crypto",
+        "time": "Mon, 07 Sep 2026 09:55:42 +0000"
+      },
       {
         "title": "OpenAI&#39;s GPT-6 Astra Is Shockingly Good at Almost Everything",
         "url": "https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/377280/stablecoins-wont-scale-without-banks",
         "source": "crypto",
         "time": "Sun, 06 Sep 2026 15:01:03 +0000"
-      },
-      {
-        "title": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
-        "url": "https://decrypt.co/377494/pencil-finance-1-million-student-loan",
-        "source": "crypto",
-        "time": "Sun, 06 Sep 2026 13:01:04 +0000"
-      },
-      {
-        "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
-        "url": "https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
-        "source": "crypto",
-        "time": "Sat, 05 Sep 2026 17:01:04 +0000"
       }
     ],
     "hacker": [
@@ -42,30 +42,48 @@
         "time": "9/7/2026, 3:29:51 AM"
       },
       {
-        "title": "Making a Python interpreter in 1024 bytes",
-        "url": "https://austinhenley.com/blog/python1024.html",
+        "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+        "url": "https://mathathonchallenge.com/index.html",
         "source": "hn",
-        "time": "9/6/2026, 11:14:08 PM"
+        "time": "9/7/2026, 9:26:53 AM"
       },
       {
-        "title": "I'm a seeing-eye dog for a computer",
-        "url": "https://claytonwramsey.com/blog/seeing-eye/",
+        "title": "Live map of public transport in Belgium",
+        "url": "https://openbaarvervoerbelgie.be/",
         "source": "hn",
-        "time": "9/3/2026, 2:20:06 PM"
+        "time": "9/7/2026, 9:02:47 AM"
       },
       {
-        "title": "It took a year to ship WebAssembly in Anubis",
-        "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+        "title": "Speculative Decoding in vLLM on AMD GPUs",
+        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
         "source": "hn",
-        "time": "9/6/2026, 8:32:38 PM"
+        "time": "9/7/2026, 9:26:41 AM"
+      },
+      {
+        "title": "Impedance Matching",
+        "url": "https://www.edge.org/response-detail/27238",
+        "source": "hn",
+        "time": "9/7/2026, 9:52:26 AM"
       }
     ],
     "world": [
       {
-        "title": "Protesters block roads in Portsmouth after 140 migrants rescued",
-        "url": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How anti-migrant boat protests were organised and who is behind them",
+        "url": "https://www.bbc.co.uk/news/articles/cpq0nn1l7w0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 07 Sep 2026 02:10:46 GMT"
+        "time": "Mon, 07 Sep 2026 11:27:53 GMT"
+      },
+      {
+        "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+        "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 07 Sep 2026 11:07:12 GMT"
+      },
+      {
+        "title": "Murder arrests over baby girl's death in woodland",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 07 Sep 2026 11:31:43 GMT"
       },
       {
         "title": "New videos of man at centre of 9/11 lawsuit reveal links to extremists and Saudi state",
@@ -74,22 +92,10 @@
         "time": "Mon, 07 Sep 2026 05:31:06 GMT"
       },
       {
-        "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
-        "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+        "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 07 Sep 2026 04:48:02 GMT"
-      },
-      {
-        "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
-        "url": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 07 Sep 2026 04:07:23 GMT"
-      },
-      {
-        "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
-        "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 06 Sep 2026 23:34:18 GMT"
+        "time": "Mon, 07 Sep 2026 11:32:32 GMT"
       }
     ],
     "projects": [
