@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-08T19:49:21.086Z",
-  "updated_local": "9/8/2026, 7:49:21 PM",
+  "updated_iso": "2026-09-08T21:33:05.644Z",
+  "updated_local": "9/8/2026, 9:33:05 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "$47M Still Missing After Liquid Hack as Blockstream Bargains With &#39;White Hats&#39;",
+        "url": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
+        "source": "crypto",
+        "time": "Tue, 08 Sep 2026 20:46:34 +0000"
+      },
       {
         "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
         "url": "https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
         "source": "crypto",
         "time": "Tue, 08 Sep 2026 17:10:51 +0000"
-      },
-      {
-        "title": "US Police Fear Meta Glasses Are Watching Them Back: Report",
-        "url": "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report",
-        "source": "crypto",
-        "time": "Tue, 08 Sep 2026 15:28:43 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Muse: Meta's personal AI agent, features and capabilities",
-        "url": "https://ai.meta.com/muse/",
+        "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+        "url": "https://github.com/argonautlabsai/deltafin",
         "source": "hn",
-        "time": "9/8/2026, 7:25:00 PM"
+        "time": "9/8/2026, 8:07:55 PM"
       },
       {
         "title": "Google DeepMind Releases AlphaGenome Atlas",
@@ -48,22 +48,22 @@
         "time": "9/8/2026, 2:55:45 PM"
       },
       {
-        "title": "DaVinci Resolve 21.1",
-        "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+        "title": "Mercury 2.5",
+        "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
         "source": "hn",
-        "time": "9/8/2026, 1:36:53 PM"
+        "time": "9/8/2026, 8:14:52 PM"
       },
       {
-        "title": "100s of flights cancelled at UK airports due to ATC issue",
-        "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+        "title": "On the Navier–Stokes Millennium Prize Problem",
+        "url": "https://openai.com/index/navier-stokes-solution/",
         "source": "hn",
-        "time": "9/8/2026, 6:26:27 PM"
+        "time": "9/8/2026, 5:13:21 PM"
       },
       {
-        "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-        "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
         "source": "hn",
-        "time": "9/8/2026, 2:49:19 PM"
+        "time": "9/8/2026, 5:42:28 AM"
       }
     ],
     "world": [
@@ -74,16 +74,16 @@
         "time": "Tue, 08 Sep 2026 19:11:39 GMT"
       },
       {
-        "title": "Ports denied request to land 120 migrants in RNLI boats",
-        "url": "https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+        "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 08 Sep 2026 15:26:05 GMT"
+        "time": "Tue, 08 Sep 2026 20:45:56 GMT"
       },
       {
-        "title": "Trump shares misleading video of King and fainting worker",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "RNLI boss says volunteers facing 'unacceptable' abuse",
+        "url": "https://www.bbc.co.uk/news/articles/c0j3912qe33o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 08 Sep 2026 16:31:16 GMT"
+        "time": "Tue, 08 Sep 2026 20:25:12 GMT"
       },
       {
         "title": "Glastonbury confirms ticket sale dates - and highest ever price",
@@ -92,10 +92,10 @@
         "time": "Tue, 08 Sep 2026 18:10:14 GMT"
       },
       {
-        "title": "British widow faces deportation from Sweden after 22 years",
-        "url": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump shares misleading video of King and fainting worker",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 08 Sep 2026 18:02:42 GMT"
+        "time": "Tue, 08 Sep 2026 16:31:16 GMT"
       }
     ],
     "projects": [
