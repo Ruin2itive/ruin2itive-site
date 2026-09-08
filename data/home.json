@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-08T21:33:05.644Z",
-  "updated_local": "9/8/2026, 9:33:05 PM",
+  "updated_iso": "2026-09-08T22:31:46.395Z",
+  "updated_local": "9/8/2026, 10:31:46 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
+        "url": "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
+        "source": "crypto",
+        "time": "Tue, 08 Sep 2026 21:38:34 +0000"
+      },
       {
         "title": "$47M Still Missing After Liquid Hack as Blockstream Bargains With &#39;White Hats&#39;",
         "url": "https://decrypt.co/377723/liquid-hack-47m-blockstream-bargains-white-hat",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion",
         "source": "crypto",
         "time": "Tue, 08 Sep 2026 17:46:05 +0000"
-      },
-      {
-        "title": "Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit",
-        "url": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
-        "source": "crypto",
-        "time": "Tue, 08 Sep 2026 17:10:51 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-        "url": "https://github.com/argonautlabsai/deltafin",
-        "source": "hn",
-        "time": "9/8/2026, 8:07:55 PM"
-      },
       {
         "title": "Google DeepMind Releases AlphaGenome Atlas",
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
@@ -48,10 +42,10 @@
         "time": "9/8/2026, 2:55:45 PM"
       },
       {
-        "title": "Mercury 2.5",
-        "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
         "source": "hn",
-        "time": "9/8/2026, 8:14:52 PM"
+        "time": "9/8/2026, 5:42:28 AM"
       },
       {
         "title": "On the Navier–Stokes Millennium Prize Problem",
@@ -60,10 +54,16 @@
         "time": "9/8/2026, 5:13:21 PM"
       },
       {
-        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+        "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+        "url": "https://github.com/argonautlabsai/deltafin",
         "source": "hn",
-        "time": "9/8/2026, 5:42:28 AM"
+        "time": "9/8/2026, 8:07:55 PM"
+      },
+      {
+        "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+        "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+        "source": "hn",
+        "time": "9/8/2026, 9:47:38 PM"
       }
     ],
     "world": [
@@ -77,7 +77,13 @@
         "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
         "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 08 Sep 2026 20:45:56 GMT"
+        "time": "Tue, 08 Sep 2026 21:46:31 GMT"
+      },
+      {
+        "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+        "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 08 Sep 2026 21:46:21 GMT"
       },
       {
         "title": "RNLI boss says volunteers facing 'unacceptable' abuse",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c0klzvdn8epo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 08 Sep 2026 18:10:14 GMT"
-      },
-      {
-        "title": "Trump shares misleading video of King and fainting worker",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 08 Sep 2026 16:31:16 GMT"
       }
     ],
     "projects": [
