@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-08T07:37:44.431Z"
+    "built_at": "2026-09-08T12:27:06.813Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Hybrid Nav2 and PPO RL for indoor Lidar-only robot navigation",
-      "url": "https://github.com/Sourav29-2/ppo-lidar-navigation-",
-      "date": "2026-09-08T07:34:30.000Z"
-    },
-    {
-      "title": "Stable Singularity of the Euler Equations on R^3 without forcing – Anima on AI",
-      "url": "https://anima-ai.org/2026/09/07/stable-singularity-of-the-euler-equations-on-r3-without-forcing/",
-      "date": "2026-09-08T07:34:27.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
