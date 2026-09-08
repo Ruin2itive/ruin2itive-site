@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-09-08T14:07:26.024Z",
-  "updated_local": "9/8/2026, 2:07:26 PM",
+  "updated_iso": "2026-09-08T16:30:52.130Z",
+  "updated_local": "9/8/2026, 4:30:52 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "US Police Fear Meta Glasses Are Watching Them Back: Report",
+        "url": "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report",
+        "source": "crypto",
+        "time": "Tue, 08 Sep 2026 15:28:43 +0000"
+      },
+      {
+        "title": "Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets",
+        "url": "https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets",
+        "source": "crypto",
+        "time": "Tue, 08 Sep 2026 15:25:16 +0000"
+      },
+      {
+        "title": "Tom Lee&#39;s Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH",
+        "url": "https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum",
+        "source": "crypto",
+        "time": "Tue, 08 Sep 2026 15:04:44 +0000"
+      },
       {
         "title": "Strategy&#39;s Return to Bitcoin Buying Lasted Exactly One Week",
         "url": "https://decrypt.co/377664/strategys-return-to-bitcoin-buying-lasted-exactly-one-week",
@@ -14,27 +32,15 @@
         "url": "https://decrypt.co/377661/morning-minute-the-trenches-just-had-their-biggest-week-since-trump",
         "source": "crypto",
         "time": "Tue, 08 Sep 2026 13:06:33 +0000"
-      },
-      {
-        "title": "What Is LAPTOP? Hunter Biden&#39;s Meme Coin Targeting TRUMP Holders",
-        "url": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
-        "source": "crypto",
-        "time": "Tue, 08 Sep 2026 11:33:50 +0000"
-      },
-      {
-        "title": "Polish Court Detains Fifth Suspect in Zondacrypto Exchange Probe",
-        "url": "https://decrypt.co/377650/polish-court-detains-fifth-suspect-in-zondacrypto-exchange-probe",
-        "source": "crypto",
-        "time": "Tue, 08 Sep 2026 09:54:59 +0000"
-      },
-      {
-        "title": "Your LG TV Might Still Be Listening to You—Even When It Looks Like It’s Off",
-        "url": "https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off",
-        "source": "crypto",
-        "time": "Mon, 07 Sep 2026 21:46:04 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Google DeepMind Releases AlphaGenome Atlas",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+        "source": "hn",
+        "time": "9/8/2026, 2:55:45 PM"
+      },
       {
         "title": "DaVinci Resolve 21.1",
         "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
@@ -42,31 +48,31 @@
         "time": "9/8/2026, 1:36:53 PM"
       },
       {
+        "title": "LibreOffice breaks download records after declaring it has no AI features",
+        "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+        "source": "hn",
+        "time": "9/8/2026, 2:05:57 PM"
+      },
+      {
+        "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+        "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+        "source": "hn",
+        "time": "9/8/2026, 2:49:19 PM"
+      },
+      {
         "title": "Show HN: Copperhead – Hardware as Fast as Software",
         "url": "https://copperhead.sh/",
         "source": "hn",
         "time": "9/8/2026, 1:26:45 PM"
-      },
-      {
-        "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
-        "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
-        "source": "hn",
-        "time": "9/8/2026, 8:42:56 AM"
-      },
-      {
-        "title": "Antiquated HTML Snippets and Artefacts",
-        "url": "https://vale.rocks/posts/html-relics",
-        "source": "hn",
-        "time": "9/8/2026, 9:43:14 AM"
-      },
-      {
-        "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-        "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-        "source": "hn",
-        "time": "9/8/2026, 1:16:59 AM"
       }
     ],
     "world": [
+      {
+        "title": "Ports denied request to land 120 migrants in RNLI boats",
+        "url": "https://www.bbc.co.uk/news/articles/cm27v3743mno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 08 Sep 2026 15:26:05 GMT"
+      },
       {
         "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
         "url": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,10 +80,10 @@
         "time": "Tue, 08 Sep 2026 09:43:53 GMT"
       },
       {
-        "title": "Nottingham attacks victim's death 'potentially preventable'",
-        "url": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Renoir paintings worth millions stolen in French museum heist",
+        "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 08 Sep 2026 12:28:20 GMT"
+        "time": "Tue, 08 Sep 2026 13:35:28 GMT"
       },
       {
         "title": "Monty Don to leave Gardeners' World after more than 20 years",
@@ -86,16 +92,10 @@
         "time": "Tue, 08 Sep 2026 11:43:32 GMT"
       },
       {
-        "title": "Prince George begins first day at a rainy Eton College",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Nottingham attacks victim's death 'potentially preventable'",
+        "url": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 08 Sep 2026 11:52:40 GMT"
-      },
-      {
-        "title": "Argentina to file criminal case against oil company operating in Falklands",
-        "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 08 Sep 2026 11:09:54 GMT"
+        "time": "Tue, 08 Sep 2026 15:18:10 GMT"
       }
     ],
     "projects": [
