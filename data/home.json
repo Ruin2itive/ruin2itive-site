@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-08T00:11:39.534Z",
-  "updated_local": "9/8/2026, 12:11:39 AM",
+  "updated_iso": "2026-09-08T04:16:41.949Z",
+  "updated_local": "9/8/2026, 4:16:41 AM",
   "sections": {
     "crypto": [
       {
@@ -36,48 +36,54 @@
     ],
     "hacker": [
       {
+        "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+        "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+        "source": "hn",
+        "time": "9/8/2026, 1:16:59 AM"
+      },
+      {
+        "title": "TALA Is Open-Source",
+        "url": "https://d2lang.com/blog/tala-is-open-source/",
+        "source": "hn",
+        "time": "9/7/2026, 11:37:42 PM"
+      },
+      {
+        "title": "Jellyfin 12.0",
+        "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+        "source": "hn",
+        "time": "9/8/2026, 1:56:35 AM"
+      },
+      {
         "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
         "url": "https://lax-skyline.parcelscope.net/",
         "source": "hn",
         "time": "9/7/2026, 6:52:06 PM"
       },
       {
-        "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-        "url": "https://arxiv.org/abs/2607.24888",
+        "title": "John Margolies' photographs of roadside America",
+        "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
         "source": "hn",
-        "time": "9/5/2026, 11:25:18 AM"
-      },
-      {
-        "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
-        "url": "https://github.com/Sadpainy/Stuxnet",
-        "source": "hn",
-        "time": "9/7/2026, 10:12:38 PM"
-      },
-      {
-        "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-        "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-        "source": "hn",
-        "time": "9/7/2026, 8:32:55 PM"
-      },
-      {
-        "title": "Working on Economics with Fable 5",
-        "url": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
-        "source": "hn",
-        "time": "9/7/2026, 9:18:15 PM"
+        "time": "9/4/2026, 4:57:22 AM"
       }
     ],
     "world": [
+      {
+        "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+        "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 08 Sep 2026 01:50:55 GMT"
+      },
+      {
+        "title": "A&E did not get the basics right - now my son's life is ruined at 32",
+        "url": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 08 Sep 2026 03:49:39 GMT"
+      },
       {
         "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
         "url": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 07 Sep 2026 19:04:09 GMT"
-      },
-      {
-        "title": "What we know about anti-migrant protests and organiser Danny Thomas",
-        "url": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 07 Sep 2026 15:20:48 GMT"
       },
       {
         "title": "King makes clear Harry and Meghan remain non-working royals",
@@ -86,16 +92,10 @@
         "time": "Mon, 07 Sep 2026 18:23:31 GMT"
       },
       {
-        "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-        "url": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+        "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 07 Sep 2026 15:41:52 GMT"
-      },
-      {
-        "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-        "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 07 Sep 2026 14:57:30 GMT"
+        "time": "Mon, 07 Sep 2026 22:23:03 GMT"
       }
     ],
     "projects": [
