@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-08T18:17:22.142Z",
-  "updated_local": "9/8/2026, 6:17:22 PM",
+  "updated_iso": "2026-09-08T19:49:21.086Z",
+  "updated_local": "9/8/2026, 7:49:21 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Holds, Wall Street Stalls as Oil Shock Revives Fed Hike Bets",
+        "url": "https://decrypt.co/377705/bitcoin-holds-wall-street-stalls-oil-shock-fed-hike",
+        "source": "crypto",
+        "time": "Tue, 08 Sep 2026 18:59:35 +0000"
+      },
       {
         "title": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs",
         "url": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report",
         "source": "crypto",
         "time": "Tue, 08 Sep 2026 15:28:43 +0000"
-      },
-      {
-        "title": "Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets",
-        "url": "https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets",
-        "source": "crypto",
-        "time": "Tue, 08 Sep 2026 15:25:16 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Muse: Meta's personal AI agent, features and capabilities",
+        "url": "https://ai.meta.com/muse/",
+        "source": "hn",
+        "time": "9/8/2026, 7:25:00 PM"
+      },
       {
         "title": "Google DeepMind Releases AlphaGenome Atlas",
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
@@ -48,22 +54,16 @@
         "time": "9/8/2026, 1:36:53 PM"
       },
       {
-        "title": "On the Navier–Stokes Millennium Prize Problem",
-        "url": "https://openai.com/index/navier-stokes-solution/",
+        "title": "100s of flights cancelled at UK airports due to ATC issue",
+        "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
         "source": "hn",
-        "time": "9/8/2026, 5:13:21 PM"
+        "time": "9/8/2026, 6:26:27 PM"
       },
       {
         "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
         "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
         "source": "hn",
         "time": "9/8/2026, 2:49:19 PM"
-      },
-      {
-        "title": "The Helicopter with Radioactive Blades",
-        "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
-        "source": "hn",
-        "time": "9/7/2026, 5:44:33 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
         "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 08 Sep 2026 17:59:07 GMT"
+        "time": "Tue, 08 Sep 2026 19:11:39 GMT"
       },
       {
         "title": "Ports denied request to land 120 migrants in RNLI boats",
@@ -80,22 +80,22 @@
         "time": "Tue, 08 Sep 2026 15:26:05 GMT"
       },
       {
-        "title": "Renoir paintings worth millions stolen in French museum heist",
-        "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump shares misleading video of King and fainting worker",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 08 Sep 2026 13:35:28 GMT"
+        "time": "Tue, 08 Sep 2026 16:31:16 GMT"
+      },
+      {
+        "title": "Glastonbury confirms ticket sale dates - and highest ever price",
+        "url": "https://www.bbc.co.uk/news/articles/c0klzvdn8epo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 08 Sep 2026 18:10:14 GMT"
       },
       {
         "title": "British widow faces deportation from Sweden after 22 years",
         "url": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 08 Sep 2026 18:02:42 GMT"
-      },
-      {
-        "title": "Prince George attends first day at Eton College",
-        "url": "https://www.bbc.co.uk/news/videos/clyjdgvzg0yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 08 Sep 2026 16:32:06 GMT"
       }
     ],
     "projects": [
