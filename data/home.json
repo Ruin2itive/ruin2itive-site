@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-09T07:18:16.949Z",
-  "updated_local": "9/9/2026, 7:18:16 AM",
+  "updated_iso": "2026-09-09T08:36:43.545Z",
+  "updated_local": "9/9/2026, 8:36:43 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Jack Dorsey&#39;s Block Applies for Bank Charter to Custody Bitcoin",
+        "url": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
+        "source": "crypto",
+        "time": "Wed, 09 Sep 2026 08:26:08 +0000"
+      },
       {
         "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
         "url": "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
         "source": "crypto",
         "time": "Tue, 08 Sep 2026 18:16:04 +0000"
-      },
-      {
-        "title": "Strive Buys $109 Million in Bitcoin, Pushes Preferred Stock Toward $1 Billion",
-        "url": "https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion",
-        "source": "crypto",
-        "time": "Tue, 08 Sep 2026 17:46:05 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Copyright does more harm than good and should be abolished",
-        "url": "https://grapheneos.social/@GrapheneOS/117231186011306184",
+        "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+        "url": "https://openai.com/index/codex-quantum-computing-experiments/",
         "source": "hn",
-        "time": "9/9/2026, 6:31:28 AM"
+        "time": "9/9/2026, 7:22:46 AM"
       },
       {
         "title": "Muse – Meta’s personal AI agent",
@@ -48,13 +48,7 @@
         "time": "9/8/2026, 7:25:00 PM"
       },
       {
-        "title": "The Navier–Stokes Millennium Prize Problem",
-        "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
-        "source": "hn",
-        "time": "9/9/2026, 5:55:39 AM"
-      },
-      {
-        "title": "Trying",
+        "title": "On Really Trying (2009)",
         "url": "https://gwern.net/on-really-trying",
         "source": "hn",
         "time": "9/9/2026, 6:58:44 AM"
@@ -64,6 +58,12 @@
         "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
         "source": "hn",
         "time": "9/3/2026, 7:29:40 AM"
+      },
+      {
+        "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+        "source": "hn",
+        "time": "9/8/2026, 5:42:28 AM"
       }
     ],
     "world": [
@@ -72,12 +72,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 08 Sep 2026 21:46:31 GMT"
-      },
-      {
-        "title": "More flights delayed after hundreds cancelled by air traffic control glitch",
-        "url": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 09 Sep 2026 02:59:38 GMT"
       },
       {
         "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 08 Sep 2026 23:30:39 GMT"
+      },
+      {
+        "title": "Alan Carr holds back tears on special night at National Television Awards",
+        "url": "https://www.bbc.co.uk/news/articles/clyl6866j1jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 09 Sep 2026 01:28:19 GMT"
       }
     ],
     "projects": [
