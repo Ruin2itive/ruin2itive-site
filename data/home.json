@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-09-09T17:32:10.151Z",
-  "updated_local": "9/9/2026, 5:32:10 PM",
+  "updated_iso": "2026-09-09T20:24:01.568Z",
+  "updated_local": "9/9/2026, 8:24:01 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators&#39; Home States",
+        "url": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
+        "source": "crypto",
+        "time": "Wed, 09 Sep 2026 18:56:58 +0000"
+      },
+      {
+        "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
+        "url": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
+        "source": "crypto",
+        "time": "Wed, 09 Sep 2026 17:50:14 +0000"
+      },
       {
         "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
         "url": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
@@ -20,50 +32,38 @@
         "url": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
         "source": "crypto",
         "time": "Wed, 09 Sep 2026 16:40:50 +0000"
-      },
-      {
-        "title": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions",
-        "url": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet",
-        "source": "crypto",
-        "time": "Wed, 09 Sep 2026 16:16:04 +0000"
-      },
-      {
-        "title": "Hunter Biden&#39;s LAPTOP Meme Coin Crashes 99% on Debut",
-        "url": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes",
-        "source": "crypto",
-        "time": "Wed, 09 Sep 2026 15:47:09 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Tailwind Labs is joining Shopify",
+        "title": "iPhone Duo",
+        "url": "https://www.apple.com/iphone-duo/",
+        "source": "hn",
+        "time": "9/9/2026, 6:15:43 PM"
+      },
+      {
+        "title": "AirPods 5",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+        "source": "hn",
+        "time": "9/9/2026, 5:39:24 PM"
+      },
+      {
+        "title": "Shopify acquires Tailwind",
         "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
         "source": "hn",
         "time": "9/9/2026, 1:27:11 PM"
       },
       {
-        "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+        "title": "What do Visa and Mastercard do? An intro to card networks",
+        "url": "https://tautology.town/2026/06/01/card-networks.html",
         "source": "hn",
-        "time": "9/9/2026, 2:37:47 PM"
+        "time": "9/8/2026, 6:11:05 PM"
       },
       {
-        "title": "GNU Radio in the browser",
-        "url": "https://gnuradioworld.com/",
+        "title": "Apple Watch Series 12",
+        "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
         "source": "hn",
-        "time": "9/9/2026, 3:53:06 PM"
-      },
-      {
-        "title": "Growing proof that autonomous cars save lives",
-        "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-        "source": "hn",
-        "time": "9/9/2026, 5:14:59 PM"
-      },
-      {
-        "title": "Planet Labs' open satellite feed",
-        "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
-        "source": "hn",
-        "time": "9/9/2026, 3:44:09 PM"
+        "time": "9/9/2026, 5:56:17 PM"
       }
     ],
     "world": [
@@ -71,7 +71,13 @@
         "title": "Police launch criminal investigation into Reform UK donations",
         "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 09 Sep 2026 17:21:14 GMT"
+        "time": "Wed, 09 Sep 2026 20:22:00 GMT"
+      },
+      {
+        "title": "Air traffic failure was avoidable, says transport secretary",
+        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 09 Sep 2026 18:21:16 GMT"
       },
       {
         "title": "National security can't come at expense of social security, Burnham says",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 09 Sep 2026 13:28:58 GMT"
-      },
-      {
-        "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
-        "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 09 Sep 2026 15:01:58 GMT"
       }
     ],
     "projects": [
