@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-09T10:29:31.653Z"
+    "built_at": "2026-09-09T14:56:26.621Z"
   },
-  "items": [
-    {
-      "title": "The deployment decalogue (10 commandments for shipping without fear)",
-      "url": "https://www.alexarvanitidis.dev/blog/the-deploy-decalogue",
-      "date": "2026-09-09T10:27:50.000Z"
-    },
-    {
-      "title": "Show HN: Hushstat – Cookie-free web analytics with heatmaps",
-      "url": "https://hushstat.com",
-      "date": "2026-09-09T10:27:37.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
