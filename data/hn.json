@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-09T23:42:27.493Z"
+    "built_at": "2026-09-10T02:21:38.995Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Ambient Context v1.0.0 (Missing context for AI assistants)",
-      "url": "https://github.com/dragthelake/ambient-context/releases",
-      "date": "2026-09-09T23:40:02.000Z"
-    },
-    {
-      "title": "I Let an AI Agent Hack All My Gadgets–and I'd Do It Again",
-      "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
-      "date": "2026-09-09T23:39:47.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
