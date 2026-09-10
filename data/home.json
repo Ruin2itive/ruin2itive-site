@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-10T09:33:27.724Z",
-  "updated_local": "9/10/2026, 9:33:27 AM",
+  "updated_iso": "2026-09-10T10:36:03.360Z",
+  "updated_local": "9/10/2026, 10:36:03 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
+        "url": "https://decrypt.co/377857/vitalik-buterin-pushes-ethereum-plan-to-slash-quantum-safe-privacy-costs",
+        "source": "crypto",
+        "time": "Thu, 10 Sep 2026 10:11:52 +0000"
+      },
       {
         "title": "Bitcoin Wallet Maker Trezor Says Hackers Breached Its Email Provider",
         "url": "https://decrypt.co/377831/bitcoin-wallet-trezor-hackers-breach-email",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
         "source": "crypto",
         "time": "Wed, 09 Sep 2026 17:50:14 +0000"
-      },
-      {
-        "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
-        "url": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
-        "source": "crypto",
-        "time": "Wed, 09 Sep 2026 17:16:08 +0000"
       }
     ],
     "hacker": [
@@ -42,36 +42,42 @@
         "time": "9/10/2026, 6:11:05 AM"
       },
       {
+        "title": "What algorithm did Windows XP use to choose your initial user picture?",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+        "source": "hn",
+        "time": "9/10/2026, 9:04:14 AM"
+      },
+      {
         "title": "iPhone Duo",
         "url": "https://www.apple.com/iphone-duo/",
         "source": "hn",
         "time": "9/9/2026, 6:15:43 PM"
       },
       {
+        "title": "Stockfish 19",
+        "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
+        "source": "hn",
+        "time": "9/7/2026, 4:17:27 PM"
+      },
+      {
         "title": "Show HN: What if the speed of light was 5 km/h?",
         "url": "https://rivendell.dmitrybrant.com/relativity/",
         "source": "hn",
         "time": "9/10/2026, 1:58:00 AM"
-      },
-      {
-        "title": "Larger Pacific Striped Octopus",
-        "url": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
-        "source": "hn",
-        "time": "9/9/2026, 4:32:22 AM"
-      },
-      {
-        "title": "Shopify acquires Tailwind",
-        "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-        "source": "hn",
-        "time": "9/9/2026, 1:27:11 PM"
       }
     ],
     "world": [
       {
+        "title": "England's mayors to be given power to introduce tourist tax",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 10 Sep 2026 10:17:36 GMT"
+      },
+      {
         "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
         "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 10 Sep 2026 09:00:05 GMT"
+        "time": "Thu, 10 Sep 2026 10:07:19 GMT"
       },
       {
         "title": "Watch: Is Trump's $5,000 election pledge legal?",
@@ -80,22 +86,16 @@
         "time": "Thu, 10 Sep 2026 07:12:32 GMT"
       },
       {
-        "title": "England's mayors to be given power to introduce tourist tax",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Why some experts increasingly fear AI will take over",
+        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 10 Sep 2026 09:01:13 GMT"
+        "time": "Wed, 09 Sep 2026 23:17:33 GMT"
       },
       {
         "title": "RNLI reviews security after volunteers targeted online",
         "url": "https://www.bbc.co.uk/news/articles/cn746l402vjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 10 Sep 2026 09:07:49 GMT"
-      },
-      {
-        "title": "Why some experts increasingly fear AI will take over",
-        "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 09 Sep 2026 23:17:33 GMT"
       }
     ],
     "projects": [
