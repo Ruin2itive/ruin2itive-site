@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-11T21:39:06.537Z",
-  "updated_local": "9/11/2026, 9:39:06 PM",
+  "updated_iso": "2026-09-11T22:14:48.932Z",
+  "updated_local": "9/11/2026, 10:14:48 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
+        "url": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
+        "source": "crypto",
+        "time": "Fri, 11 Sep 2026 21:45:05 +0000"
+      },
       {
         "title": "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
         "url": "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/377973/bitwise-shuts-dogecoin-etf",
         "source": "crypto",
         "time": "Fri, 11 Sep 2026 16:16:05 +0000"
-      },
-      {
-        "title": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
-        "url": "https://decrypt.co/377962/bitcoin-price-cpi-inflation-fed-rate-decision",
-        "source": "crypto",
-        "time": "Fri, 11 Sep 2026 15:32:08 +0000"
       }
     ],
     "hacker": [
@@ -42,19 +42,13 @@
         "time": "9/11/2026, 5:45:12 PM"
       },
       {
-        "title": "ElevenLabs Music v2.5",
-        "url": "https://elevenmusic.io/blog/introducing-music-v2-5",
-        "source": "hn",
-        "time": "9/11/2026, 8:53:16 PM"
-      },
-      {
         "title": "GrapheneOS' rewritten Messages app is released",
         "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
         "source": "hn",
         "time": "9/11/2026, 6:50:36 PM"
       },
       {
-        "title": "I spent $220 on Google app ads. 60% of the installs were robots",
+        "title": "I spent $220 on Google app ads and 60% of the installs were robots",
         "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
         "source": "hn",
         "time": "9/11/2026, 6:24:55 PM"
@@ -64,6 +58,12 @@
         "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
         "source": "hn",
         "time": "9/9/2026, 1:59:50 PM"
+      },
+      {
+        "title": "Litelm: LiteLLM Without the Bloat",
+        "url": "https://github.com/kennethwolters/litelm",
+        "source": "hn",
+        "time": "9/11/2026, 6:10:20 PM"
       }
     ],
     "world": [
@@ -89,7 +89,7 @@
         "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
         "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 11 Sep 2026 20:11:47 GMT"
+        "time": "Fri, 11 Sep 2026 21:54:56 GMT"
       },
       {
         "title": "How global trade and oil prices could be hit by Houthi advance",
