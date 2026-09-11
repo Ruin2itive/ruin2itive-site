@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-10T22:07:43.690Z"
+    "built_at": "2026-09-11T00:42:53.145Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Abu Dhabi buys into China's Luckin Coffee with $1B deal",
+      "url": "https://www.ft.com/content/7f9a5140-e3f5-45a9-9620-08b8e819ba41",
+      "date": "2026-09-11T00:41:24.000Z"
+    },
+    {
+      "title": "The New Cinema Camera Dominating the Film Industry",
+      "url": "https://www.indepthcine.com/videos/new-popular-cinema-camera-2026",
+      "date": "2026-09-11T00:38:51.000Z"
+    }
+  ]
 }
