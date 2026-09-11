@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-11T05:28:23.652Z"
+    "built_at": "2026-09-11T10:20:04.676Z"
   },
-  "items": [
-    {
-      "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
-      "url": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
-      "date": "2026-09-11T05:26:58.000Z"
-    },
-    {
-      "title": "Racing to solve maths problems now 'pointless'",
-      "url": "https://www.abc.net.au/news/2026-09-11/racing-to-solve-maths-problems-pointless-tristan-buckmaster-says/107141628",
-      "date": "2026-09-11T05:23:52.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
