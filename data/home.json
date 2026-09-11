@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-11T18:21:07.289Z",
-  "updated_local": "9/11/2026, 6:21:07 PM",
+  "updated_iso": "2026-09-11T19:27:17.636Z",
+  "updated_local": "9/11/2026, 7:27:17 PM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
+        "title": "A misalignment of AI in mathematics",
+        "url": "https://mathandai.org/",
+        "source": "hn",
+        "time": "9/11/2026, 5:45:12 PM"
+      },
+      {
         "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
         "url": "https://snap.berkeley.edu/",
         "source": "hn",
         "time": "9/11/2026, 5:36:11 PM"
       },
       {
-        "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
-        "url": "https://github.com/godot-pty/gpty",
+        "title": "Litelm: LiteLLM Without the Bloat",
+        "url": "https://github.com/kennethwolters/litelm",
         "source": "hn",
-        "time": "9/11/2026, 4:03:05 PM"
+        "time": "9/11/2026, 6:10:20 PM"
       },
       {
-        "title": "Show HN: Toast, a beautiful by default in terminal IDE",
-        "url": "https://github.com/paradise-runner/toast",
+        "title": "Claude is only available to people over 18 years",
+        "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
         "source": "hn",
-        "time": "9/11/2026, 5:54:53 PM"
+        "time": "9/11/2026, 10:48:00 AM"
       },
       {
-        "title": "118M Queries per Second on Neki",
-        "url": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
+        "title": "The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution",
+        "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
         "source": "hn",
-        "time": "9/11/2026, 3:56:37 PM"
-      },
-      {
-        "title": "Logo Programming Language",
-        "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-        "source": "hn",
-        "time": "9/9/2026, 7:07:26 AM"
+        "time": "9/11/2026, 6:05:21 PM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Fri, 11 Sep 2026 16:49:47 GMT"
       },
       {
+        "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+        "url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 11 Sep 2026 19:16:32 GMT"
+      },
+      {
         "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
         "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 11 Sep 2026 16:13:39 GMT"
-      },
-      {
-        "title": "UK government rejects 'kill switch' idea for dangerous AI",
-        "url": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 11 Sep 2026 15:07:07 GMT"
       }
     ],
     "projects": [
