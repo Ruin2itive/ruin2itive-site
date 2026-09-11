@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-11T12:43:29.515Z",
-  "updated_local": "9/11/2026, 12:43:29 PM",
+  "updated_iso": "2026-09-11T14:14:48.914Z",
+  "updated_local": "9/11/2026, 2:14:48 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Houthis 'take control' of key island in global shipping route",
+        "url": "https://www.bbc.com/news/live/cmd683p01eljt",
+        "source": "hn",
+        "time": "9/11/2026, 1:41:38 PM"
+      },
+      {
         "title": "The Waymo effect: how AI is quietly making research less collaborative",
         "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
         "source": "hn",
@@ -48,42 +54,30 @@
         "time": "9/11/2026, 11:15:13 AM"
       },
       {
-        "title": "Cherenkov Radiation - traveling faster than light",
-        "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+        "title": "Diesel prices in U.S. top $6 a gallon for first time",
+        "url": "https://www.cbsnews.com/news/rising-diesel-prices-consumer-impact/",
         "source": "hn",
-        "time": "9/11/2026, 8:42:04 AM"
+        "time": "9/11/2026, 1:35:30 PM"
       },
       {
-        "title": "So you want to use OpenRouter?",
-        "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+        "title": "If coding is solved, what now?: Measuring the sloppiness of code",
+        "url": "https://earendil.com/posts/measuring-code-sloppiness/",
         "source": "hn",
-        "time": "9/9/2026, 5:37:21 AM"
-      },
-      {
-        "title": "Shopify is moving from React Native back to Swift and Kotlin",
-        "url": "https://shopify.engineering/back-to-native",
-        "source": "hn",
-        "time": "9/10/2026, 2:09:31 PM"
+        "time": "9/11/2026, 1:42:28 PM"
       }
     ],
     "world": [
       {
-        "title": "Watch: Americans remember what they were doing on 9/11",
-        "url": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 11 Sep 2026 02:48:43 GMT"
+        "time": "Fri, 11 Sep 2026 08:15:25 GMT"
       },
       {
         "title": "AI boom helps drive surprise UK growth in July",
         "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 11 Sep 2026 10:17:28 GMT"
-      },
-      {
-        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 11 Sep 2026 08:15:25 GMT"
       },
       {
         "title": "Princess Diana's 'revenge dress' goes up for auction",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 10 Sep 2026 23:22:33 GMT"
+      },
+      {
+        "title": "Israel says it has destroyed major underground Hezbollah base",
+        "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 11 Sep 2026 11:34:07 GMT"
       }
     ],
     "projects": [
