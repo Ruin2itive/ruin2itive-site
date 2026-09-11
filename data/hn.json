@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-11T18:02:17.877Z"
+    "built_at": "2026-09-11T21:28:35.446Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Mapping WYSIWYG diffs to AI runs and sources",
+      "url": "https://lexifina.com/blog/granular-ai-diffs-and-source-tracing",
+      "date": "2026-09-11T21:27:24.000Z"
+    },
+    {
+      "title": "Build your own Flappy Bird pushup game with QuickPose SDKs",
+      "url": "https://github.com/quickpose/Flappy-Pushups-iOS-Demo-App",
+      "date": "2026-09-11T21:27:19.000Z"
+    }
+  ]
 }
