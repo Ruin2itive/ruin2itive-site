@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-11T04:26:29.784Z",
-  "updated_local": "9/11/2026, 4:26:29 AM",
+  "updated_iso": "2026-09-11T07:58:10.490Z",
+  "updated_local": "9/11/2026, 7:58:10 AM",
   "sections": {
     "crypto": [
       {
@@ -36,54 +36,54 @@
     ],
     "hacker": [
       {
+        "title": "Astra for Coding: Why Are We Doing This Again?",
+        "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+        "source": "hn",
+        "time": "9/11/2026, 6:23:06 AM"
+      },
+      {
         "title": "Shopify is moving from React Native back to Swift and Kotlin",
         "url": "https://shopify.engineering/back-to-native",
         "source": "hn",
         "time": "9/10/2026, 2:09:31 PM"
       },
       {
-        "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-        "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+        "title": "The Gemini app is now available for Windows",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
         "source": "hn",
-        "time": "9/10/2026, 6:49:43 AM"
+        "time": "9/11/2026, 4:52:20 AM"
       },
       {
-        "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
-        "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+        "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
+        "url": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
         "source": "hn",
-        "time": "9/11/2026, 1:00:56 AM"
+        "time": "9/11/2026, 5:26:58 AM"
       },
       {
-        "title": "YuE2 · Frontier Music with Symbolic Planning",
-        "url": "https://map-yue2.github.io/",
+        "title": "Don't let anyone take away your big box of cables",
+        "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
         "source": "hn",
-        "time": "9/11/2026, 12:33:26 AM"
-      },
-      {
-        "title": "Finite time blowup with smooth forcing term for the incompressible porous medium",
-        "url": "https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/",
-        "source": "hn",
-        "time": "9/8/2026, 9:38:25 AM"
+        "time": "9/10/2026, 3:27:22 PM"
       }
     ],
     "world": [
       {
-        "title": "MPs to vote on legalising assisted dying in England and Wales",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 11 Sep 2026 02:05:23 GMT"
-      },
-      {
         "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
         "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 10 Sep 2026 23:21:00 GMT"
+        "time": "Fri, 11 Sep 2026 05:53:06 GMT"
       },
       {
-        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK economy grew faster than expected in July",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 10 Sep 2026 17:38:31 GMT"
+        "time": "Fri, 11 Sep 2026 07:45:18 GMT"
+      },
+      {
+        "title": "Assisted dying bill for England and Wales faces new vote in Commons",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 11 Sep 2026 06:12:23 GMT"
       },
       {
         "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
@@ -92,10 +92,10 @@
         "time": "Fri, 11 Sep 2026 02:46:30 GMT"
       },
       {
-        "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
-        "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "As Trump dominates convention, some Republicans quietly ask who comes next",
+        "url": "https://www.bbc.co.uk/news/articles/c2l8xvvw95no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 10 Sep 2026 23:22:11 GMT"
+        "time": "Fri, 11 Sep 2026 06:10:59 GMT"
       }
     ],
     "projects": [
