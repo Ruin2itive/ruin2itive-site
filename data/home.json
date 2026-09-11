@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-11T07:58:10.490Z",
-  "updated_local": "9/11/2026, 7:58:10 AM",
+  "updated_iso": "2026-09-11T09:30:05.204Z",
+  "updated_local": "9/11/2026, 9:30:05 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction",
+        "url": "https://decrypt.co/377931/sam-bankman-fried-asks-supreme-court-to-overturn-ftx-fraud-conviction",
+        "source": "crypto",
+        "time": "Fri, 11 Sep 2026 09:04:11 +0000"
+      },
       {
         "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
         "url": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
         "source": "crypto",
         "time": "Thu, 10 Sep 2026 18:51:04 +0000"
-      },
-      {
-        "title": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
-        "url": "https://decrypt.co/377903/bitcoin-price-golden-cross-coming",
-        "source": "crypto",
-        "time": "Thu, 10 Sep 2026 18:46:04 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Astra for Coding: Why Are We Doing This Again?",
-        "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+        "title": "Cherenkov Radiation - traveling faster than light",
+        "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
         "source": "hn",
-        "time": "9/11/2026, 6:23:06 AM"
+        "time": "9/11/2026, 8:42:04 AM"
       },
       {
         "title": "Shopify is moving from React Native back to Swift and Kotlin",
@@ -48,22 +48,22 @@
         "time": "9/10/2026, 2:09:31 PM"
       },
       {
-        "title": "The Gemini app is now available for Windows",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-        "source": "hn",
-        "time": "9/11/2026, 4:52:20 AM"
-      },
-      {
-        "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
-        "url": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
-        "source": "hn",
-        "time": "9/11/2026, 5:26:58 AM"
-      },
-      {
         "title": "Don't let anyone take away your big box of cables",
         "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
         "source": "hn",
         "time": "9/10/2026, 3:27:22 PM"
+      },
+      {
+        "title": "Working with Git Worktrees in Magit",
+        "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
+        "source": "hn",
+        "time": "9/8/2026, 6:31:59 AM"
+      },
+      {
+        "title": "OpenAI Agents API",
+        "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+        "source": "hn",
+        "time": "9/10/2026, 7:43:22 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Fri, 11 Sep 2026 05:53:06 GMT"
       },
       {
-        "title": "UK economy grew faster than expected in July",
+        "title": "AI boom helps drive surprise UK growth in July",
         "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 11 Sep 2026 07:45:18 GMT"
+        "time": "Fri, 11 Sep 2026 08:04:22 GMT"
       },
       {
-        "title": "Assisted dying bill for England and Wales faces new vote in Commons",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 11 Sep 2026 06:12:23 GMT"
-      },
-      {
-        "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
         "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 11 Sep 2026 02:46:30 GMT"
+        "time": "Fri, 11 Sep 2026 08:15:25 GMT"
       },
       {
-        "title": "As Trump dominates convention, some Republicans quietly ask who comes next",
-        "url": "https://www.bbc.co.uk/news/articles/c2l8xvvw95no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
+        "url": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 11 Sep 2026 06:10:59 GMT"
+        "time": "Thu, 10 Sep 2026 23:22:33 GMT"
+      },
+      {
+        "title": "Princess Diana's 'revenge dress' goes up for auction",
+        "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 11 Sep 2026 06:54:46 GMT"
       }
     ],
     "projects": [
