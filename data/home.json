@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-12T00:04:38.961Z",
-  "updated_local": "9/12/2026, 12:04:38 AM",
+  "updated_iso": "2026-09-12T00:54:09.579Z",
+  "updated_local": "9/12/2026, 12:54:09 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-        "url": "https://www.rubyhack.ai/",
-        "source": "hn",
-        "time": "9/11/2026, 11:17:42 PM"
-      },
-      {
         "title": "A misalignment of AI in mathematics",
         "url": "https://mathandai.org/",
         "source": "hn",
@@ -54,16 +48,22 @@
         "time": "9/11/2026, 6:24:55 PM"
       },
       {
-        "title": "GrapheneOS' rewritten Messages app is released",
-        "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+        "url": "https://www.rubyhack.ai/",
         "source": "hn",
-        "time": "9/11/2026, 6:50:36 PM"
+        "time": "9/11/2026, 11:17:42 PM"
       },
       {
         "title": "A Design Space Exploration of Async/Await",
         "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
         "source": "hn",
         "time": "9/9/2026, 1:59:50 PM"
+      },
+      {
+        "title": "GrapheneOS' rewritten Messages app is released",
+        "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+        "source": "hn",
+        "time": "9/11/2026, 6:50:36 PM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "MPs vote against fresh attempt to legalise assisted dying",
         "url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 11 Sep 2026 17:22:39 GMT"
+        "time": "Sat, 12 Sep 2026 00:10:55 GMT"
       },
       {
         "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
@@ -86,16 +86,16 @@
         "time": "Fri, 11 Sep 2026 23:06:39 GMT"
       },
       {
-        "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-        "url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 11 Sep 2026 20:12:01 GMT"
-      },
-      {
         "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
         "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 11 Sep 2026 22:17:45 GMT"
+      },
+      {
+        "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+        "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 11 Sep 2026 19:44:58 GMT"
       }
     ],
     "projects": [
