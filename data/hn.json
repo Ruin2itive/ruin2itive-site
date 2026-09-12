@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-12T11:50:24.927Z"
+    "built_at": "2026-09-12T14:43:12.484Z"
   },
-  "items": [
-    {
-      "title": "Here Comes the Sun",
-      "url": "https://granta.com/here-comes-the-sun/",
-      "date": "2026-09-12T11:49:11.000Z"
-    },
-    {
-      "title": "Show HN: TattooPreview AI – a planning workflow for tattoo artist conversations",
-      "url": "https://tattoopreviewai.com",
-      "date": "2026-09-12T11:46:14.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
