@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-12T17:01:11.418Z",
-  "updated_local": "9/12/2026, 5:01:11 PM",
+  "updated_iso": "2026-09-12T18:56:08.120Z",
+  "updated_local": "9/12/2026, 6:56:08 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
+        "url": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
+        "source": "crypto",
+        "time": "Sat, 12 Sep 2026 17:01:04 +0000"
+      },
       {
         "title": "GPT-6 Astra Users Say OpenAI&#39;s Newest Model Got Dumber. It Happened Before, Too",
         "url": "https://decrypt.co/378101/gpt-6-astra-openai-model-dumber-nerfed",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/377998/chatgpt-images-2-5-vs-nano-banana-2-review",
         "source": "crypto",
         "time": "Sat, 12 Sep 2026 13:01:03 +0000"
-      },
-      {
-        "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
-        "url": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
-        "source": "crypto",
-        "time": "Fri, 11 Sep 2026 21:45:05 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+        "source": "hn",
+        "time": "9/10/2026, 3:31:37 PM"
+      },
+      {
+        "title": "Make your first edit to OpenStreetMap",
+        "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+        "source": "hn",
+        "time": "9/12/2026, 4:25:08 PM"
+      },
       {
         "title": "Nvidia is the central bank of AI",
         "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
@@ -42,28 +54,16 @@
         "time": "9/12/2026, 3:08:27 PM"
       },
       {
-        "title": "Make Your First Edit to OpenStreetMap in the Next 15 Minutes",
-        "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+        "title": "Will There Be a 7G?",
+        "url": "https://arxiv.org/abs/2609.01877",
         "source": "hn",
-        "time": "9/12/2026, 4:25:08 PM"
-      },
-      {
-        "title": "A Mathematical Framework for Transformer Circuits (2021)",
-        "url": "https://transformer-circuits.pub/2021/framework/index.html",
-        "source": "hn",
-        "time": "9/12/2026, 1:56:58 PM"
+        "time": "9/12/2026, 5:05:31 PM"
       },
       {
         "title": "IKEA made a mod for Skyrim [video]",
         "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
         "source": "hn",
         "time": "9/10/2026, 7:20:50 AM"
-      },
-      {
-        "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-        "url": "https://eiln.github.io/posts/ane.html",
-        "source": "hn",
-        "time": "9/12/2026, 7:54:03 AM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Reform receives second £36m donation in two days as crypto investor matches record",
         "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 12 Sep 2026 16:41:09 GMT"
+        "time": "Sat, 12 Sep 2026 17:36:45 GMT"
       },
       {
         "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
@@ -89,13 +89,13 @@
         "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
         "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 12 Sep 2026 16:38:02 GMT"
+        "time": "Sat, 12 Sep 2026 17:42:38 GMT"
       },
       {
-        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-        "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Céline Dion fans prepare for comeback concert in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 12 Sep 2026 12:15:50 GMT"
+        "time": "Sat, 12 Sep 2026 17:36:20 GMT"
       }
     ],
     "projects": [
