@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-12T00:54:09.579Z",
-  "updated_local": "9/12/2026, 12:54:09 AM",
+  "updated_iso": "2026-09-12T05:23:38.064Z",
+  "updated_local": "9/12/2026, 5:23:38 AM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
+        "title": "Google no longer provides direct URLs in search results",
+        "url": "https://www.autom.dev/blog/google-search-goto-links",
+        "source": "hn",
+        "time": "9/12/2026, 3:14:20 AM"
+      },
+      {
         "title": "A misalignment of AI in mathematics",
         "url": "https://mathandai.org/",
         "source": "hn",
         "time": "9/11/2026, 5:45:12 PM"
       },
       {
+        "title": "Usenet rewind archive search engine",
+        "url": "https://www.usenet-rewind.com/",
+        "source": "hn",
+        "time": "9/12/2026, 4:19:52 AM"
+      },
+      {
+        "title": "Clay Mathematics Institute on the Navier-Stokes Problem",
+        "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+        "source": "hn",
+        "time": "9/12/2026, 4:09:43 AM"
+      },
+      {
         "title": "I spent $220 on Google app ads and 60% of the installs were robots",
         "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
         "source": "hn",
         "time": "9/11/2026, 6:24:55 PM"
-      },
-      {
-        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-        "url": "https://www.rubyhack.ai/",
-        "source": "hn",
-        "time": "9/11/2026, 11:17:42 PM"
-      },
-      {
-        "title": "A Design Space Exploration of Async/Await",
-        "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-        "source": "hn",
-        "time": "9/9/2026, 1:59:50 PM"
-      },
-      {
-        "title": "GrapheneOS' rewritten Messages app is released",
-        "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-        "source": "hn",
-        "time": "9/11/2026, 6:50:36 PM"
       }
     ],
     "world": [
@@ -74,10 +74,16 @@
         "time": "Fri, 11 Sep 2026 23:27:18 GMT"
       },
       {
-        "title": "MPs vote against fresh attempt to legalise assisted dying",
-        "url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+        "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 12 Sep 2026 00:10:55 GMT"
+        "time": "Sat, 12 Sep 2026 04:43:10 GMT"
+      },
+      {
+        "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+        "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 11 Sep 2026 19:44:58 GMT"
       },
       {
         "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
@@ -86,16 +92,10 @@
         "time": "Fri, 11 Sep 2026 23:06:39 GMT"
       },
       {
-        "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-        "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+        "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 11 Sep 2026 22:17:45 GMT"
-      },
-      {
-        "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-        "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 11 Sep 2026 19:44:58 GMT"
+        "time": "Sat, 12 Sep 2026 02:29:49 GMT"
       }
     ],
     "projects": [
