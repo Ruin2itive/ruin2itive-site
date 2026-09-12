@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-11T22:14:48.932Z",
-  "updated_local": "9/11/2026, 10:14:48 PM",
+  "updated_iso": "2026-09-12T00:04:38.961Z",
+  "updated_local": "9/12/2026, 12:04:38 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
+        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+        "url": "https://www.rubyhack.ai/",
+        "source": "hn",
+        "time": "9/11/2026, 11:17:42 PM"
+      },
+      {
         "title": "A misalignment of AI in mathematics",
         "url": "https://mathandai.org/",
         "source": "hn",
         "time": "9/11/2026, 5:45:12 PM"
-      },
-      {
-        "title": "GrapheneOS' rewritten Messages app is released",
-        "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-        "source": "hn",
-        "time": "9/11/2026, 6:50:36 PM"
       },
       {
         "title": "I spent $220 on Google app ads and 60% of the installs were robots",
@@ -54,19 +54,25 @@
         "time": "9/11/2026, 6:24:55 PM"
       },
       {
+        "title": "GrapheneOS' rewritten Messages app is released",
+        "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+        "source": "hn",
+        "time": "9/11/2026, 6:50:36 PM"
+      },
+      {
         "title": "A Design Space Exploration of Async/Await",
         "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
         "source": "hn",
         "time": "9/9/2026, 1:59:50 PM"
-      },
-      {
-        "title": "Litelm: LiteLLM Without the Bloat",
-        "url": "https://github.com/kennethwolters/litelm",
-        "source": "hn",
-        "time": "9/11/2026, 6:10:20 PM"
       }
     ],
     "world": [
+      {
+        "title": "Reform receives record £36m donation from crypto billionaire",
+        "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 11 Sep 2026 23:27:18 GMT"
+      },
       {
         "title": "MPs vote against fresh attempt to legalise assisted dying",
         "url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&amp;at_campaign=rss",
@@ -74,10 +80,10 @@
         "time": "Fri, 11 Sep 2026 17:22:39 GMT"
       },
       {
-        "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
-        "url": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Masked men, lorries and road blocks: How anti-migrant activists are changing tactics",
+        "url": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 11 Sep 2026 16:49:47 GMT"
+        "time": "Fri, 11 Sep 2026 23:06:39 GMT"
       },
       {
         "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
@@ -89,13 +95,7 @@
         "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
         "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 11 Sep 2026 21:54:56 GMT"
-      },
-      {
-        "title": "How global trade and oil prices could be hit by Houthi advance",
-        "url": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 11 Sep 2026 16:13:39 GMT"
+        "time": "Fri, 11 Sep 2026 22:17:45 GMT"
       }
     ],
     "projects": [
