@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-13T16:05:39.331Z",
-  "updated_local": "9/13/2026, 4:05:39 PM",
+  "updated_iso": "2026-09-13T17:14:49.256Z",
+  "updated_local": "9/13/2026, 5:14:49 PM",
   "sections": {
     "crypto": [
       {
@@ -42,28 +42,28 @@
         "time": "9/13/2026, 2:28:36 PM"
       },
       {
+        "title": "CUDA for AMD on Windows",
+        "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+        "source": "hn",
+        "time": "9/13/2026, 2:25:13 PM"
+      },
+      {
         "title": "JetKVM Mini",
         "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
         "source": "hn",
         "time": "9/13/2026, 7:49:46 AM"
       },
       {
-        "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-        "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+        "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
         "source": "hn",
-        "time": "9/13/2026, 12:01:52 PM"
+        "time": "9/13/2026, 12:30:15 PM"
       },
       {
-        "title": "Libraries Run Rust Inside Python (With PyO3)",
-        "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+        "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+        "url": "https://cpak.it/",
         "source": "hn",
-        "time": "9/13/2026, 3:24:05 PM"
-      },
-      {
-        "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-        "url": "https://bensimms.moe/reverse-engineering-scooter/",
-        "source": "hn",
-        "time": "9/10/2026, 3:32:04 AM"
+        "time": "9/13/2026, 3:02:56 PM"
       }
     ],
     "world": [
@@ -74,10 +74,16 @@
         "time": "Sun, 13 Sep 2026 15:40:38 GMT"
       },
       {
-        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+        "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 13 Sep 2026 14:53:40 GMT"
+        "time": "Sun, 13 Sep 2026 17:13:52 GMT"
+      },
+      {
+        "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
+        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 13 Sep 2026 16:29:27 GMT"
       },
       {
         "title": "Andy Burnham among Great North Run finishers",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 13 Sep 2026 11:16:06 GMT"
-      },
-      {
-        "title": "Trump doubles down on united Ireland comments on day two of visit",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 13 Sep 2026 15:42:50 GMT"
       }
     ],
     "projects": [
