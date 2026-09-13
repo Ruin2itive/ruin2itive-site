@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-13T22:19:12.807Z",
-  "updated_local": "9/13/2026, 10:19:12 PM",
+  "updated_iso": "2026-09-13T22:51:31.101Z",
+  "updated_local": "9/13/2026, 10:51:31 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+        "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
         "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
         "source": "hn",
         "time": "9/13/2026, 9:06:13 PM"
-      },
-      {
-        "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
-        "url": "https://twitter.com/TechEmails/status/2099214399840059428",
-        "source": "hn",
-        "time": "9/13/2026, 8:08:45 PM"
       },
       {
         "title": "Why is Google still serving dodgy ads?",
@@ -64,6 +58,12 @@
         "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
         "source": "hn",
         "time": "9/13/2026, 2:28:36 PM"
+      },
+      {
+        "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
+        "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+        "source": "hn",
+        "time": "9/13/2026, 8:33:18 PM"
       }
     ],
     "world": [
