@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-13T05:55:15.998Z",
-  "updated_local": "9/13/2026, 5:55:15 AM",
+  "updated_iso": "2026-09-13T11:37:28.409Z",
+  "updated_local": "9/13/2026, 11:37:28 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "The Interim Computer Museum",
-        "url": "https://icm.museum/",
+        "title": "JetKVM Mini",
+        "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
         "source": "hn",
-        "time": "9/13/2026, 2:43:57 AM"
+        "time": "9/13/2026, 7:49:46 AM"
+      },
+      {
+        "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+        "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+        "source": "hn",
+        "time": "9/13/2026, 10:29:18 AM"
+      },
+      {
+        "title": "Why are AI agents lying, cheating and coordinating?",
+        "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+        "source": "hn",
+        "time": "9/13/2026, 1:22:31 AM"
       },
       {
         "title": "Make your first edit to OpenStreetMap",
@@ -48,22 +60,10 @@
         "time": "9/12/2026, 4:25:08 PM"
       },
       {
-        "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-        "url": "https://withspecific.com/benchmarks/real-swe",
+        "title": "The Interim Computer Museum",
+        "url": "https://icm.museum/",
         "source": "hn",
-        "time": "9/12/2026, 8:25:48 PM"
-      },
-      {
-        "title": "Don't call yourself an artisanal programmer",
-        "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
-        "source": "hn",
-        "time": "9/13/2026, 2:29:39 AM"
-      },
-      {
-        "title": "I Made a Non-Wi-Fi Mitsubishi AC Smart with an ESP32",
-        "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
-        "source": "hn",
-        "time": "9/10/2026, 9:32:17 AM"
+        "time": "9/13/2026, 2:43:57 AM"
       }
     ],
     "world": [
@@ -71,19 +71,19 @@
         "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 13 Sep 2026 04:30:44 GMT"
+        "time": "Sun, 13 Sep 2026 11:13:07 GMT"
       },
       {
-        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-        "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Reform's £72m donations 'entirely in line with law', Jenrick says",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 12 Sep 2026 17:28:53 GMT"
+        "time": "Sun, 13 Sep 2026 10:54:50 GMT"
       },
       {
-        "title": "PM's top security adviser says Europe faces hard winter to keep pressure on Putin",
-        "url": "https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 13 Sep 2026 05:03:12 GMT"
+        "time": "Sun, 13 Sep 2026 11:16:06 GMT"
       },
       {
         "title": "Will the Thirlwall report change the debate about Lucy Letby?",
@@ -92,10 +92,10 @@
         "time": "Sat, 12 Sep 2026 23:15:54 GMT"
       },
       {
-        "title": "One dead, 102 rescued from Indonesian ferry that went missing in Java Sea",
-        "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Europe must endure winter of hardship to keep pressure on Putin, says PM's security adviser",
+        "url": "https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 13 Sep 2026 05:17:29 GMT"
+        "time": "Sun, 13 Sep 2026 06:21:12 GMT"
       }
     ],
     "projects": [
