@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-09-14T17:40:55.062Z",
-  "updated_local": "9/14/2026, 5:40:55 PM",
+  "updated_iso": "2026-09-14T19:13:28.051Z",
+  "updated_local": "9/14/2026, 7:13:28 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Microsoft Unveils &#39;Humanist AI&#39; Code of Conduct, Asks the Public to Poke Holes in It",
+        "url": "https://decrypt.co/378168/microsoft-humanist-ai-code-of-conduct",
+        "source": "crypto",
+        "time": "Mon, 14 Sep 2026 19:07:28 +0000"
+      },
+      {
+        "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
+        "url": "https://decrypt.co/378166/trump-ai-guardrails-attacks-anthropic",
+        "source": "crypto",
+        "time": "Mon, 14 Sep 2026 18:26:04 +0000"
+      },
+      {
+        "title": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
+        "url": "https://decrypt.co/378157/bitcoin-climbs-ai-slowdown-nvidia-chip-stocks",
+        "source": "crypto",
+        "time": "Mon, 14 Sep 2026 17:40:04 +0000"
+      },
       {
         "title": "Crypto Market Has &#39;Definitely Not Priced In&#39; Clarity Act Surprise, Says Bernstein",
         "url": "https://decrypt.co/378155/crypto-not-priced-in-clarity-act-surprise-bernstein",
@@ -14,38 +32,20 @@
         "url": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
         "source": "crypto",
         "time": "Mon, 14 Sep 2026 16:02:25 +0000"
-      },
-      {
-        "title": "Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week",
-        "url": "https://decrypt.co/378134/strategy-buys-139-million-strc-bitcoin-frozen",
-        "source": "crypto",
-        "time": "Mon, 14 Sep 2026 15:41:46 +0000"
-      },
-      {
-        "title": "Why Trump Backed Tougher Ethics Rules in Clarity Act, and Why the Crypto Industry Thinks It Can Pass",
-        "url": "https://decrypt.co/378125/clarity-act-crypto-ethics-trump-key-vote",
-        "source": "crypto",
-        "time": "Mon, 14 Sep 2026 15:22:51 +0000"
-      },
-      {
-        "title": "Morning Minute: Clarity Act Odds Soar as Trump Agrees to Ethics Provisions",
-        "url": "https://decrypt.co/378122/morning-minute-clarity-act-odds-soar-trump-ethics",
-        "source": "crypto",
-        "time": "Mon, 14 Sep 2026 14:37:21 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Pion, an agent designed to run any company autonomously",
+        "url": "https://andonlabs.com/blog/why-we-built-pion",
+        "source": "hn",
+        "time": "9/14/2026, 5:16:06 PM"
+      },
       {
         "title": "Distributed Systems Classics (2017)",
         "url": "https://nvartolomei.com/dist-sys-classics/",
         "source": "hn",
         "time": "9/14/2026, 4:02:01 PM"
-      },
-      {
-        "title": "Principles for Fast Tokio Applications",
-        "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-        "source": "hn",
-        "time": "9/14/2026, 3:27:56 PM"
       },
       {
         "title": "Why don't machine learning research agents overfit?",
@@ -54,16 +54,16 @@
         "time": "9/14/2026, 4:32:23 PM"
       },
       {
-        "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
-        "url": "https://www.neobrutalism.dev/",
+        "title": "Steam Frame starts at $1059",
+        "url": "https://store.steampowered.com/hardware/steamframe",
         "source": "hn",
-        "time": "9/14/2026, 4:02:02 PM"
+        "time": "9/14/2026, 5:27:55 PM"
       },
       {
-        "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-        "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+        "title": "Principles for Fast Tokio Applications",
+        "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
         "source": "hn",
-        "time": "9/14/2026, 1:59:09 PM"
+        "time": "9/14/2026, 3:27:56 PM"
       }
     ],
     "world": [
@@ -77,13 +77,13 @@
         "title": "Burnham cancels engagements after death of his father",
         "url": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 14 Sep 2026 14:24:10 GMT"
+        "time": "Mon, 14 Sep 2026 18:53:38 GMT"
       },
       {
         "title": "Farage says £72m donations are compliant 'with the law today'",
         "url": "https://www.bbc.co.uk/news/articles/c623xee9dkdyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 14 Sep 2026 15:27:12 GMT"
+        "time": "Mon, 14 Sep 2026 17:50:29 GMT"
       },
       {
         "title": "Member of UK armed forces dies in road traffic incident in Ukraine",
