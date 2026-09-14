@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-13T22:51:31.101Z",
-  "updated_local": "9/13/2026, 10:51:31 PM",
+  "updated_iso": "2026-09-14T00:42:33.251Z",
+  "updated_local": "9/14/2026, 12:42:33 AM",
   "sections": {
     "crypto": [
       {
@@ -48,7 +48,13 @@
         "time": "9/13/2026, 5:37:44 PM"
       },
       {
-        "title": "Julia 1.13 Highlights",
+        "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+        "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+        "source": "hn",
+        "time": "9/13/2026, 9:47:04 PM"
+      },
+      {
+        "title": "Julia 1.13 highlights",
         "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
         "source": "hn",
         "time": "9/10/2026, 12:27:25 PM"
@@ -58,12 +64,6 @@
         "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
         "source": "hn",
         "time": "9/13/2026, 2:28:36 PM"
-      },
-      {
-        "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
-        "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-        "source": "hn",
-        "time": "9/13/2026, 8:33:18 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Sun, 13 Sep 2026 18:49:37 GMT"
       },
       {
+        "title": "Zverev caps transformational year with US Open triumph",
+        "url": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 13 Sep 2026 22:55:31 GMT"
+      },
+      {
         "title": "Will record donations to Reform go down as a moment of political change?",
         "url": "https://www.bbc.co.uk/news/articles/cr7dl593k8yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 13 Sep 2026 17:51:19 GMT"
-      },
-      {
-        "title": "Deep-fried food banned under new school dinner rules in England",
-        "url": "https://www.bbc.co.uk/news/articles/cy4zrepw78eo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 13 Sep 2026 21:30:29 GMT"
       }
     ],
     "projects": [
