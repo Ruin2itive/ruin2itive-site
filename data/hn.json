@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-14T08:22:52.452Z"
+    "built_at": "2026-09-14T15:31:00.219Z"
   },
-  "items": [
-    {
-      "title": "Reverse Engineering Google's TPUs",
-      "url": "https://gherkinlabs.com/reverse-engineering-google-tpus",
-      "date": "2026-09-14T08:21:22.000Z"
-    },
-    {
-      "title": "Disclock – Discord timestamp converter with timezone preview",
-      "url": "https://disclock.io/",
-      "date": "2026-09-14T08:18:42.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
