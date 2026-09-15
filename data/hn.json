@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-15T02:43:14.902Z"
+    "built_at": "2026-09-15T08:14:29.877Z"
   },
-  "items": [
-    {
-      "title": "CrofAI Is an OpenRouter Wrapper",
-      "url": "https://kendell.dev/blog/crofaifalse/",
-      "date": "2026-09-15T02:42:15.000Z"
-    },
-    {
-      "title": "Internet Guestbooks: The Rise, Decline, and Afterlife",
-      "url": "https://curiouxify.com/internet-guestbooks/",
-      "date": "2026-09-15T02:42:11.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
