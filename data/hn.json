@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-15T18:37:26.370Z"
+    "built_at": "2026-09-15T21:51:35.106Z"
   },
-  "items": [
-    {
-      "title": "Garbage Trucks Now Have AI Cameras to Score Your House and Clock Code Violations",
-      "url": "https://www.thedrive.com/news/garbage-trucks-now-have-ai-cameras-to-score-your-house-and-clock-code-violations",
-      "date": "2026-09-15T18:36:36.000Z"
-    },
-    {
-      "title": "The Tube Computer: A modern 8 bit design, built with recycled 1950s vacuum tubes",
-      "url": "https://thetubecomputer.com/",
-      "date": "2026-09-15T18:36:21.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
