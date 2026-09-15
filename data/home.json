@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-09-15T11:03:33.234Z",
-  "updated_local": "9/15/2026, 11:03:33 AM",
+  "updated_iso": "2026-09-15T14:52:22.142Z",
+  "updated_local": "9/15/2026, 2:52:22 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Clarity Act Odds Slump After Democrat Pushback",
+        "url": "https://decrypt.co/378230/morning-minute-clarity-act-odds-slump-after-democrat-pushback",
+        "source": "crypto",
+        "time": "Tue, 15 Sep 2026 14:05:47 +0000"
+      },
+      {
+        "title": "Why an AI Slowdown Could Collapse Under Commercial and US-China Pressure",
+        "url": "https://decrypt.co/378203/ai-slowdown-us-china-pressure",
+        "source": "crypto",
+        "time": "Tue, 15 Sep 2026 13:00:05 +0000"
+      },
       {
         "title": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
         "url": "https://decrypt.co/378183/solana-defi-development-corp-chad",
@@ -20,21 +32,27 @@
         "url": "https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote",
         "source": "crypto",
         "time": "Mon, 14 Sep 2026 21:46:04 +0000"
-      },
-      {
-        "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
-        "url": "https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai",
-        "source": "crypto",
-        "time": "Mon, 14 Sep 2026 21:16:04 +0000"
-      },
-      {
-        "title": "Trump Says He &#39;Likes&#39; Flock Surveillance Cameras Amid Bipartisan Pushback",
-        "url": "https://decrypt.co/378171/trump-likes-flocks-ai-surveillance-cameras",
-        "source": "crypto",
-        "time": "Mon, 14 Sep 2026 20:07:41 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+        "url": "https://github.com/arnegiacomo/fugleramme",
+        "source": "hn",
+        "time": "9/15/2026, 12:31:10 PM"
+      },
+      {
+        "title": "Java 27 Released",
+        "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+        "source": "hn",
+        "time": "9/15/2026, 1:13:43 PM"
+      },
+      {
+        "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+        "url": "https://bkovac.github.io/modem-thing/",
+        "source": "hn",
+        "time": "9/15/2026, 1:20:24 PM"
+      },
       {
         "title": "I can't stop thinking about Papua New Guinea",
         "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
@@ -42,60 +60,42 @@
         "time": "9/15/2026, 6:16:24 AM"
       },
       {
-        "title": "Suspected sabotage causes major Netherlands rail disruption",
-        "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+        "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+        "url": "https://withcapsule.app/",
         "source": "hn",
-        "time": "9/15/2026, 10:22:46 AM"
-      },
-      {
-        "title": "How much of F-Droid is LLM generated?",
-        "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-        "source": "hn",
-        "time": "9/15/2026, 9:47:48 AM"
-      },
-      {
-        "title": "Alternatives to MinIO for single-node local S3",
-        "url": "https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/",
-        "source": "hn",
-        "time": "9/15/2026, 8:21:27 AM"
-      },
-      {
-        "title": "iOS 27, iPadOS 27, and macOS 27",
-        "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-        "source": "hn",
-        "time": "9/14/2026, 5:50:29 PM"
+        "time": "9/15/2026, 1:31:40 PM"
       }
     ],
     "world": [
       {
+        "title": "Key findings from Lucy Letby Thirlwall Inquiry",
+        "url": "https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 15 Sep 2026 12:37:11 GMT"
+      },
+      {
         "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
         "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 15 Sep 2026 08:51:39 GMT"
-      },
-      {
-        "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-        "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 15 Sep 2026 08:49:31 GMT"
-      },
-      {
-        "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-        "url": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 15 Sep 2026 03:50:06 GMT"
-      },
-      {
-        "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
-        "url": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 15 Sep 2026 01:15:15 GMT"
+        "time": "Tue, 15 Sep 2026 11:05:42 GMT"
       },
       {
         "title": "Denmark says Russian warship fired flares at military helicopter",
         "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 15 Sep 2026 10:12:49 GMT"
+        "time": "Tue, 15 Sep 2026 11:40:00 GMT"
+      },
+      {
+        "title": "Trump criticises Supreme Court after justices block mail-in ballot restrictions",
+        "url": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 15 Sep 2026 11:49:33 GMT"
+      },
+      {
+        "title": "Satellite image reveals major damage that shut crucial oil pipeline",
+        "url": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 15 Sep 2026 14:21:14 GMT"
       }
     ],
     "projects": [
