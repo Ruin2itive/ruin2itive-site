@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-15T04:40:13.140Z",
-  "updated_local": "9/15/2026, 4:40:13 AM",
+  "updated_iso": "2026-09-15T05:47:46.862Z",
+  "updated_local": "9/15/2026, 5:47:46 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "9/14/2026, 5:50:29 PM"
       },
       {
+        "title": "Linux from Scratch",
+        "url": "https://www.linuxfromscratch.org/",
+        "source": "hn",
+        "time": "9/15/2026, 4:15:23 AM"
+      },
+      {
         "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
         "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
         "source": "hn",
@@ -54,16 +60,10 @@
         "time": "9/14/2026, 5:16:06 PM"
       },
       {
-        "title": "Charts built for Chat",
-        "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+        "title": "OpenArm: An open-source 7DOF humanoid arm",
+        "url": "https://github.com/enactic/OpenArm",
         "source": "hn",
-        "time": "9/14/2026, 9:22:54 PM"
-      },
-      {
-        "title": "Every invoice in Brazil's economy runs on SOAP 1.2. We mapped it all",
-        "url": "https://github.com/stoix-dev/sefaz-webservices-postman",
-        "source": "hn",
-        "time": "9/13/2026, 3:19:54 AM"
+        "time": "9/13/2026, 2:17:49 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Mon, 14 Sep 2026 23:51:03 GMT"
       },
       {
-        "title": "Nato jets down drone that entered Lithuanian airspace",
-        "url": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 15 Sep 2026 02:22:07 GMT"
-      },
-      {
         "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
         "url": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 15 Sep 2026 03:50:06 GMT"
+      },
+      {
+        "title": "Superstars and broken records: 2026 Emmy highlights",
+        "url": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 15 Sep 2026 05:14:24 GMT"
       }
     ],
     "projects": [
