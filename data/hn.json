@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-15T21:51:35.106Z"
+    "built_at": "2026-09-15T23:51:56.122Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Independent Lens – Ghost in the Machine: AI's troubled history, current impacts",
+      "url": "https://www.pbs.org/video/ghost-in-the-machine-nynp3f/",
+      "date": "2026-09-15T23:50:43.000Z"
+    },
+    {
+      "title": "Ask HN: Who has been contacted by 5+ hiring platforms?",
+      "url": "https://news.ycombinator.com/item?id=49720414",
+      "date": "2026-09-15T23:49:51.000Z"
+    }
+  ]
 }
