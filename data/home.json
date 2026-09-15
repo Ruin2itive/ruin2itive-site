@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-14T23:03:27.745Z",
-  "updated_local": "9/14/2026, 11:03:27 PM",
+  "updated_iso": "2026-09-15T00:16:12.796Z",
+  "updated_local": "9/15/2026, 12:16:12 AM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
+        "title": "iOS 27, iPadOS 27, and macOS 27",
+        "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+        "source": "hn",
+        "time": "9/14/2026, 5:50:29 PM"
+      },
+      {
         "title": "Pion, an agent designed to run any company autonomously",
         "url": "https://andonlabs.com/blog/why-we-built-pion",
         "source": "hn",
         "time": "9/14/2026, 5:16:06 PM"
       },
       {
-        "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-        "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+        "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+        "url": "https://github.com/JamesRyanATX/fcbnerd",
         "source": "hn",
-        "time": "9/14/2026, 9:05:22 PM"
+        "time": "9/14/2026, 11:01:36 PM"
       },
       {
-        "title": "Distributed Systems Classics (2017)",
-        "url": "https://nvartolomei.com/dist-sys-classics/",
+        "title": "Charts built for Chat",
+        "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
         "source": "hn",
-        "time": "9/14/2026, 4:02:01 PM"
+        "time": "9/14/2026, 9:22:54 PM"
       },
       {
         "title": "Compressing a Flag to 11 Bits",
         "url": "https://read.vantezzen.io/miniflags",
         "source": "hn",
         "time": "9/12/2026, 3:57:43 PM"
-      },
-      {
-        "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-        "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-        "source": "hn",
-        "time": "9/14/2026, 12:40:57 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Mon, 14 Sep 2026 16:54:26 GMT"
       },
       {
-        "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+        "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 14 Sep 2026 22:10:10 GMT"
+      },
+      {
+        "title": "Chris Mason: Row over Reform's mega donations has mileage in it yet",
+        "url": "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 14 Sep 2026 23:51:03 GMT"
+      },
+      {
+        "title": "Nato jets down drone that entered Lithuanian airspace",
+        "url": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 15 Sep 2026 00:10:48 GMT"
       },
       {
         "title": "Burnham cancels engagements after death of his father",
         "url": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 14 Sep 2026 18:53:38 GMT"
-      },
-      {
-        "title": "Farage says £72m donations are compliant 'with the law today'",
-        "url": "https://www.bbc.co.uk/news/articles/c623xee9dkdyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 14 Sep 2026 17:50:29 GMT"
-      },
-      {
-        "title": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
-        "url": "https://www.bbc.co.uk/news/articles/cq0m3pkmgg1ko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 14 Sep 2026 21:10:49 GMT"
       }
     ],
     "projects": [
