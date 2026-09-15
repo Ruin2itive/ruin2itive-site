@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-15T05:47:46.862Z",
-  "updated_local": "9/15/2026, 5:47:46 AM",
+  "updated_iso": "2026-09-15T09:57:24.425Z",
+  "updated_local": "9/15/2026, 9:57:24 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Strive&#39;s Bitcoin Stash Hits an Even 25,000 BTC After $36.6 Million Buy",
+        "url": "https://decrypt.co/378190/strive-bitcoin-25000-btc-after-buy",
+        "source": "crypto",
+        "time": "Tue, 15 Sep 2026 09:01:05 +0000"
+      },
       {
         "title": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
         "url": "https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote",
@@ -26,20 +32,26 @@
         "url": "https://decrypt.co/378168/microsoft-humanist-ai-code-of-conduct",
         "source": "crypto",
         "time": "Mon, 14 Sep 2026 19:07:28 +0000"
-      },
-      {
-        "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
-        "url": "https://decrypt.co/378166/trump-ai-guardrails-attacks-anthropic",
-        "source": "crypto",
-        "time": "Mon, 14 Sep 2026 18:26:04 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "I can't stop thinking about Papua New Guinea",
+        "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+        "source": "hn",
+        "time": "9/15/2026, 6:16:24 AM"
+      },
       {
         "title": "iOS 27, iPadOS 27, and macOS 27",
         "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
         "source": "hn",
         "time": "9/14/2026, 5:50:29 PM"
+      },
+      {
+        "title": "OpenArm: An open-source 7DOF humanoid arm",
+        "url": "https://github.com/enactic/OpenArm",
+        "source": "hn",
+        "time": "9/13/2026, 2:17:49 PM"
       },
       {
         "title": "Linux from Scratch",
@@ -48,42 +60,24 @@
         "time": "9/15/2026, 4:15:23 AM"
       },
       {
-        "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-        "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-        "source": "hn",
-        "time": "9/12/2026, 6:51:40 PM"
-      },
-      {
         "title": "Pion, an agent designed to run any company autonomously",
         "url": "https://andonlabs.com/blog/why-we-built-pion",
         "source": "hn",
         "time": "9/14/2026, 5:16:06 PM"
-      },
-      {
-        "title": "OpenArm: An open-source 7DOF humanoid arm",
-        "url": "https://github.com/enactic/OpenArm",
-        "source": "hn",
-        "time": "9/13/2026, 2:17:49 PM"
       }
     ],
     "world": [
       {
-        "title": "Lucy Letby public inquiry findings set to be published",
-        "url": "https://www.bbc.co.uk/news/articles/cjw57xyd4q0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+        "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 15 Sep 2026 01:54:35 GMT"
+        "time": "Tue, 15 Sep 2026 08:51:39 GMT"
       },
       {
         "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
         "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 15 Sep 2026 03:47:27 GMT"
-      },
-      {
-        "title": "Chris Mason: Row over Reform's mega donations has mileage in it yet",
-        "url": "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 14 Sep 2026 23:51:03 GMT"
+        "time": "Tue, 15 Sep 2026 08:49:31 GMT"
       },
       {
         "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
@@ -92,10 +86,16 @@
         "time": "Tue, 15 Sep 2026 03:50:06 GMT"
       },
       {
-        "title": "Superstars and broken records: 2026 Emmy highlights",
+        "title": "TV superstars and a Taylor Swift cameo: 2026 Emmy highlights",
         "url": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 15 Sep 2026 05:14:24 GMT"
+      },
+      {
+        "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+        "url": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 15 Sep 2026 01:15:15 GMT"
       }
     ],
     "projects": [
