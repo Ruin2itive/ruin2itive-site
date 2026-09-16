@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-16T08:07:48.459Z"
+    "built_at": "2026-09-16T13:55:55.670Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Apple May Return to Server Market with Nvidia Technology",
+      "url": "https://www.macrumors.com/2026/09/16/apple-may-return-to-server-market/",
+      "date": "2026-09-16T13:54:52.000Z"
+    },
+    {
+      "title": "Show HN: A Stateful LLM API that works across providers",
+      "url": "https://twigg.ai",
+      "date": "2026-09-16T13:53:49.000Z"
+    }
+  ]
 }
