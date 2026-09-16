@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-16T20:42:12.524Z"
+    "built_at": "2026-09-16T23:26:42.557Z"
   },
-  "items": [
-    {
-      "title": "Automattic's interim CEO and legal chief signed reciprocal severance deals",
-      "url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
-      "date": "2026-09-16T20:40:14.000Z"
-    },
-    {
-      "title": "Arrow 2 and Arrow 2 Telos",
-      "url": "https://quiver.ai/blog/introducing-arrow-2-0/",
-      "date": "2026-09-16T20:40:13.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
