@@ -1,77 +1,83 @@
 {
-  "updated_iso": "2026-09-16T18:06:33.850Z",
-  "updated_local": "9/16/2026, 6:06:33 PM",
+  "updated_iso": "2026-09-16T21:01:32.230Z",
+  "updated_local": "9/16/2026, 9:01:32 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI&#39;s Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
+        "url": "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack",
+        "source": "crypto",
+        "time": "Wed, 16 Sep 2026 20:31:03 +0000"
+      },
+      {
+        "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
+        "url": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
+        "source": "crypto",
+        "time": "Wed, 16 Sep 2026 19:43:24 +0000"
+      },
+      {
+        "title": "Bitcoin Core Software Update Aims for Speed and Security Patches",
+        "url": "https://decrypt.co/378430/bitcoin-core-software-october-update",
+        "source": "crypto",
+        "time": "Wed, 16 Sep 2026 18:53:48 +0000"
+      },
+      {
+        "title": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
+        "url": "https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin",
+        "source": "crypto",
+        "time": "Wed, 16 Sep 2026 18:15:38 +0000"
+      },
       {
         "title": "CFTC and SEC Double Down on Crypto After Clarity Act Defeat",
         "url": "https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act",
         "source": "crypto",
         "time": "Wed, 16 Sep 2026 17:17:03 +0000"
-      },
-      {
-        "title": "Hackers Hijack HBO Max’s Reddit Account to Spread Crypto-Stealing Malware",
-        "url": "https://decrypt.co/378401/hackers-hbo-max-reddit-account-crypto-malware",
-        "source": "crypto",
-        "time": "Wed, 16 Sep 2026 17:06:02 +0000"
-      },
-      {
-        "title": "Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone",
-        "url": "https://decrypt.co/378381/zuckerberg-pushes-back-ai-slowdown",
-        "source": "crypto",
-        "time": "Wed, 16 Sep 2026 16:31:03 +0000"
-      },
-      {
-        "title": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote",
-        "url": "https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote",
-        "source": "crypto",
-        "time": "Wed, 16 Sep 2026 15:50:07 +0000"
-      },
-      {
-        "title": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators",
-        "url": "https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators",
-        "source": "crypto",
-        "time": "Wed, 16 Sep 2026 14:56:02 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Small Programming Tricks",
+        "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+        "url": "https://rohanbansal.com/qorl",
+        "source": "hn",
+        "time": "9/16/2026, 6:50:00 PM"
+      },
+      {
+        "title": "Vectorized and performance-portable Quicksort (2022)",
+        "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+        "source": "hn",
+        "time": "9/16/2026, 6:31:35 PM"
+      },
+      {
+        "title": "Xiami Mimo 2.6 Live Post-Training Dashboard",
+        "url": "https://mimo.xiaomi.com/rl/",
+        "source": "hn",
+        "time": "9/16/2026, 8:09:18 PM"
+      },
+      {
+        "title": "Small programming tricks",
         "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
         "source": "hn",
         "time": "9/16/2026, 3:56:47 PM"
       },
       {
-        "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-        "url": "https://arxiv.org/abs/2609.14858",
+        "title": "Accurate Models of AMD Matrix Cores",
+        "url": "https://arxiv.org/abs/2609.14845",
         "source": "hn",
-        "time": "9/16/2026, 1:44:40 PM"
-      },
-      {
-        "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-        "url": "https://mistral.ai/news/mistral-x-mozilla/",
-        "source": "hn",
-        "time": "9/16/2026, 8:08:57 AM"
-      },
-      {
-        "title": "Tell the speakers that you liked their talks",
-        "url": "https://ohhelloana.blog/tell-the-speakers/",
-        "source": "hn",
-        "time": "9/15/2026, 11:28:19 AM"
-      },
-      {
-        "title": "Introducing System One Models and Jev",
-        "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-        "source": "hn",
-        "time": "9/15/2026, 7:25:03 PM"
+        "time": "9/16/2026, 6:56:05 PM"
       }
     ],
     "world": [
       {
-        "title": "Charles said Diana would be forgotten 'soon enough', Earl Spencer claims in book",
+        "title": "Body found in search for missing three-year-old Noah Woods",
+        "url": "https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 16 Sep 2026 18:50:09 GMT"
+      },
+      {
+        "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
         "url": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 16 Sep 2026 17:47:17 GMT"
+        "time": "Wed, 16 Sep 2026 20:46:30 GMT"
       },
       {
         "title": "EU chief backs plan for Canada to become 'associate member'",
@@ -89,13 +95,7 @@
         "title": "Photos show widespread damage at US sites from Iranian attacks",
         "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 16 Sep 2026 16:33:56 GMT"
-      },
-      {
-        "title": "Watch: BBC crew catch thieves in act while filming shoplifting report",
-        "url": "https://www.bbc.co.uk/news/videos/cmq5xyq78gp1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 16 Sep 2026 06:13:05 GMT"
+        "time": "Wed, 16 Sep 2026 18:36:16 GMT"
       }
     ],
     "projects": [
