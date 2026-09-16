@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-16T02:37:23.022Z"
+    "built_at": "2026-09-16T08:07:48.459Z"
   },
-  "items": [
-    {
-      "title": "Musk's companies must explain why they dropped antitrust claims against Apple",
-      "url": "https://www.politico.com/news/2026/09/15/elon-musk-antitrust-apple-openai-01078840",
-      "date": "2026-09-16T02:36:59.000Z"
-    },
-    {
-      "title": "A History of Mathematics – Victor J. Katz",
-      "url": "https://books.google.com/books/about/A_History_of_Mathematics.html",
-      "date": "2026-09-16T02:36:27.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
