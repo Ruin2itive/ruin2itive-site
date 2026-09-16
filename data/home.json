@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-09-16T21:01:32.230Z",
-  "updated_local": "9/16/2026, 9:01:32 PM",
+  "updated_iso": "2026-09-16T22:02:01.994Z",
+  "updated_local": "9/16/2026, 10:02:01 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
+        "url": "https://decrypt.co/378449/crypto-tax-bill-clears-house-committee",
+        "source": "crypto",
+        "time": "Wed, 16 Sep 2026 21:46:03 +0000"
+      },
+      {
+        "title": "Meta May Have Found a Fix for Its &#39;Pervert Glasses&#39;",
+        "url": "https://decrypt.co/378448/meta-fix-pervert-glasses",
+        "source": "crypto",
+        "time": "Wed, 16 Sep 2026 21:16:03 +0000"
+      },
       {
         "title": "OpenAI&#39;s Rogue AI Agents Were Probing Hugging Face Two Months Before Hack",
         "url": "https://decrypt.co/378446/openai-rogue-agents-hugging-face-two-months-before-hack",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/378430/bitcoin-core-software-october-update",
         "source": "crypto",
         "time": "Wed, 16 Sep 2026 18:53:48 +0000"
-      },
-      {
-        "title": "Fed Hikes Rates for the First Time Since 2023, Bitcoin Spikes",
-        "url": "https://decrypt.co/378417/fed-hikes-rates-first-time-since-2023-bitcoin",
-        "source": "crypto",
-        "time": "Wed, 16 Sep 2026 18:15:38 +0000"
-      },
-      {
-        "title": "CFTC and SEC Double Down on Crypto After Clarity Act Defeat",
-        "url": "https://decrypt.co/378408/cftc-sec-double-down-crypto-clarity-act",
-        "source": "crypto",
-        "time": "Wed, 16 Sep 2026 17:17:03 +0000"
       }
     ],
     "hacker": [
@@ -42,13 +42,13 @@
         "time": "9/16/2026, 6:50:00 PM"
       },
       {
-        "title": "Vectorized and performance-portable Quicksort (2022)",
-        "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+        "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+        "url": "https://arxiv.org/abs/2609.16338",
         "source": "hn",
-        "time": "9/16/2026, 6:31:35 PM"
+        "time": "9/16/2026, 8:59:24 PM"
       },
       {
-        "title": "Xiami Mimo 2.6 Live Post-Training Dashboard",
+        "title": "Xiaomi Mimo 2.6 live post-training dashboard",
         "url": "https://mimo.xiaomi.com/rl/",
         "source": "hn",
         "time": "9/16/2026, 8:09:18 PM"
@@ -60,10 +60,10 @@
         "time": "9/16/2026, 3:56:47 PM"
       },
       {
-        "title": "Accurate Models of AMD Matrix Cores",
-        "url": "https://arxiv.org/abs/2609.14845",
+        "title": "macOS 27 Golden Gate – Review",
+        "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
         "source": "hn",
-        "time": "9/16/2026, 6:56:05 PM"
+        "time": "9/16/2026, 7:53:36 PM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 16 Sep 2026 18:50:09 GMT"
+      },
+      {
+        "title": "US interest rates raised for first time in three years",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 16 Sep 2026 21:02:11 GMT"
       },
       {
         "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6783ekp0yn8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 16 Sep 2026 15:56:06 GMT"
-      },
-      {
-        "title": "Photos show widespread damage at US sites from Iranian attacks",
-        "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 16 Sep 2026 18:36:16 GMT"
       }
     ],
     "projects": [
