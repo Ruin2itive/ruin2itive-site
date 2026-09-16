@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-16T13:07:04.710Z",
-  "updated_local": "9/16/2026, 1:07:04 PM",
+  "updated_iso": "2026-09-16T13:24:13.339Z",
+  "updated_local": "9/16/2026, 1:24:13 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "FCA Guidance Lands Two Weeks Before UK Crypto Authorization Window Opens",
+        "url": "https://decrypt.co/378363/fca-guidance-lands-two-weeks-before-uk-crypto-authorization-window-opens",
+        "source": "crypto",
+        "time": "Wed, 16 Sep 2026 13:12:33 +0000"
+      },
       {
         "title": "Morning Minute: Clarity Act Vote Falls Short as Democrats All Vote ‘No’",
         "url": "https://decrypt.co/378352/morning-minute-clarity-act-vote-falls-short-as-democrats-all-vote-no",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/378265/tonkeeper-keeper-adds-bitcoin-ethereum-tron",
         "source": "crypto",
         "time": "Wed, 16 Sep 2026 09:01:03 +0000"
-      },
-      {
-        "title": "Crypto Exchange CoinEx Is Shutting Down After Nine Years, Giving Users Until December to Cash Out",
-        "url": "https://decrypt.co/378324/coinex-shutting-down",
-        "source": "crypto",
-        "time": "Wed, 16 Sep 2026 08:01:03 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "9/16/2026, 8:08:57 AM"
       },
       {
+        "title": "Salesforce Global Outage",
+        "url": "https://status.salesforce.com/products/all",
+        "source": "hn",
+        "time": "9/16/2026, 10:37:08 AM"
+      },
+      {
         "title": "Introducing System One Models and Jev",
         "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
         "source": "hn",
         "time": "9/15/2026, 7:25:03 PM"
-      },
-      {
-        "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-        "url": "https://github.com/arnegiacomo/fugleramme",
-        "source": "hn",
-        "time": "9/15/2026, 12:31:10 PM"
       }
     ],
     "world": [
