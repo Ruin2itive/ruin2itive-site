@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-17T01:16:38.447Z",
-  "updated_local": "9/17/2026, 1:16:38 AM",
+  "updated_iso": "2026-09-17T05:42:58.807Z",
+  "updated_local": "9/17/2026, 5:42:58 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+        "url": "https://ryan.science/blog/keys-not-included",
+        "source": "hn",
+        "time": "9/17/2026, 3:03:23 AM"
+      },
+      {
         "title": "Nvidia announces native GPU programming in Rust",
         "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
         "source": "hn",
@@ -46,12 +52,6 @@
         "url": "https://rohanbansal.com/qorl",
         "source": "hn",
         "time": "9/16/2026, 6:50:00 PM"
-      },
-      {
-        "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-        "url": "https://arxiv.org/abs/2609.16338",
-        "source": "hn",
-        "time": "9/16/2026, 8:59:24 PM"
       },
       {
         "title": "Xiaomi Mimo 2.6 live post-training dashboard",
@@ -68,22 +68,16 @@
     ],
     "world": [
       {
-        "title": "Body found in search for missing three-year-old Noah Woods",
-        "url": "https://www.bbc.co.uk/news/articles/cm93v1573vqro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Palace in war of words with Earl Spencer over claims in Diana book",
+        "url": "https://www.bbc.co.uk/news/articles/cmvgyp871j03o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 16 Sep 2026 18:50:09 GMT"
+        "time": "Thu, 17 Sep 2026 05:00:21 GMT"
       },
       {
-        "title": "US interest rates raised for first time in three years",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Bank of England expected to hold interest rates as it faces tough choices",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 17 Sep 2026 00:40:17 GMT"
-      },
-      {
-        "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
-        "url": "https://www.bbc.co.uk/news/articles/c8e3rk47r4ego?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 16 Sep 2026 20:46:30 GMT"
+        "time": "Wed, 16 Sep 2026 23:15:01 GMT"
       },
       {
         "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
@@ -92,10 +86,16 @@
         "time": "Wed, 16 Sep 2026 23:50:56 GMT"
       },
       {
-        "title": "Interest rates hold expected but Bank of England facing tough choices",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ed Sheeran asked me to donate $2m in aid, Robert Kraft says after Macklemore backlash",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3073x6464o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 16 Sep 2026 23:15:01 GMT"
+        "time": "Thu, 17 Sep 2026 04:09:17 GMT"
+      },
+      {
+        "title": "Assad regime planned US journalist Austin Tice's kidnap for weeks, BBC finds",
+        "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 17 Sep 2026 05:00:18 GMT"
       }
     ],
     "projects": [
