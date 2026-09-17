@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-17T22:02:55.479Z",
-  "updated_local": "9/17/2026, 10:02:55 PM",
+  "updated_iso": "2026-09-17T22:39:02.621Z",
+  "updated_local": "9/17/2026, 10:39:02 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
+        "url": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
+        "source": "crypto",
+        "time": "Thu, 17 Sep 2026 22:31:03 +0000"
+      },
       {
         "title": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
         "url": "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/378560/cftc-crypto-apps-regulated-derivatives-access",
         "source": "crypto",
         "time": "Thu, 17 Sep 2026 20:16:04 +0000"
-      },
-      {
-        "title": "OpenAI Says It&#39;s Made Progress on a Second $1 Million Math Problem",
-        "url": "https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
-        "source": "crypto",
-        "time": "Thu, 17 Sep 2026 19:32:22 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,10 @@
         "time": "9/17/2026, 8:17:48 PM"
       },
       {
-        "title": "Bend – A language that blocks AI mistakes via proof and runs on GPUs",
+        "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
         "url": "https://bend-lang.com/",
         "source": "hn",
         "time": "9/17/2026, 8:36:13 PM"
-      },
-      {
-        "title": "I Hate You Microsoft",
-        "url": "https://henriquenunez.eu/posts/you_did_it_again_ms/",
-        "source": "hn",
-        "time": "9/17/2026, 9:41:48 PM"
       },
       {
         "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
@@ -64,6 +58,12 @@
         "url": "https://github.com/asciimoo/hister",
         "source": "hn",
         "time": "9/17/2026, 4:25:37 PM"
+      },
+      {
+        "title": "Wax motor",
+        "url": "https://en.wikipedia.org/wiki/Wax_motor",
+        "source": "hn",
+        "time": "9/16/2026, 12:35:14 PM"
       }
     ],
     "world": [
