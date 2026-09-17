@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-17T02:41:32.275Z"
+    "built_at": "2026-09-17T08:14:27.825Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "One Year of Sponsored Servo Development",
+      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "date": "2026-09-17T08:13:54.000Z"
+    },
+    {
+      "title": "EpicSemi Contrail AIX RISC-V Servers",
+      "url": "https://www.epicsemi.com/products/contrail/compute/contrail-aix/",
+      "date": "2026-09-17T08:13:11.000Z"
+    }
+  ]
 }
