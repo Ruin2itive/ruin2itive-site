@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-18T01:11:54.402Z",
-  "updated_local": "9/18/2026, 1:11:54 AM",
+  "updated_iso": "2026-09-18T07:01:43.118Z",
+  "updated_local": "9/18/2026, 7:01:43 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "Hacking OpenAI",
+        "url": "https://www.hacktron.ai/blog/hacking-openai",
+        "source": "hn",
+        "time": "9/18/2026, 2:47:24 AM"
+      },
+      {
+        "title": "Jemalloc 5.4.0",
+        "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+        "source": "hn",
+        "time": "9/18/2026, 4:20:24 AM"
+      },
+      {
         "title": "Astra for Law",
         "url": "https://openai.com/index/astra-for-law/",
         "source": "hn",
@@ -48,36 +60,24 @@
         "time": "9/17/2026, 9:13:31 PM"
       },
       {
-        "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-        "url": "https://bend-lang.com/",
+        "title": "The scourge of x86 emulation",
+        "url": "https://fex-emu.com/Scourge-of-emulation/",
         "source": "hn",
-        "time": "9/17/2026, 8:36:13 PM"
-      },
-      {
-        "title": "Hister: A private search engine for the pages you visit and the files you keep",
-        "url": "https://github.com/asciimoo/hister",
-        "source": "hn",
-        "time": "9/17/2026, 4:25:37 PM"
-      },
-      {
-        "title": "Wax motor",
-        "url": "https://en.wikipedia.org/wiki/Wax_motor",
-        "source": "hn",
-        "time": "9/16/2026, 12:35:14 PM"
+        "time": "9/18/2026, 4:09:48 AM"
       }
     ],
     "world": [
       {
-        "title": "Remains found after wildfire identified as mother-of-three missing since 2019",
-        "url": "https://www.bbc.co.uk/news/articles/c9e8e21x3vp4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Twenty women had breasts removed unnecessarily during cancer treatment, NHS trust admits",
+        "url": "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 17 Sep 2026 15:08:05 GMT"
+        "time": "Fri, 18 Sep 2026 04:58:31 GMT"
       },
       {
         "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
         "url": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 18 Sep 2026 00:54:05 GMT"
+        "time": "Fri, 18 Sep 2026 06:17:45 GMT"
       },
       {
         "title": "War may be coming. Are we psychologically ready?",
@@ -86,16 +86,16 @@
         "time": "Thu, 17 Sep 2026 23:22:17 GMT"
       },
       {
-        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Met was negligent and reckless, sisters of 'Putney pusher' suspect tell BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 17 Sep 2026 20:34:30 GMT"
+        "time": "Fri, 18 Sep 2026 06:54:19 GMT"
       },
       {
-        "title": "New wild cat species discovered - with only one known living member",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US fans with Ed Sheeran tickets left 'torn' over Macklemore controversy",
+        "url": "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 17 Sep 2026 23:15:55 GMT"
+        "time": "Fri, 18 Sep 2026 00:38:03 GMT"
       }
     ],
     "projects": [
