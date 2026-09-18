@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-09-18T07:19:44.750Z",
-  "updated_local": "9/18/2026, 7:19:44 AM",
+  "updated_iso": "2026-09-18T12:41:08.418Z",
+  "updated_local": "9/18/2026, 12:41:08 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward",
+        "url": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
+        "source": "crypto",
+        "time": "Fri, 18 Sep 2026 12:34:50 +0000"
+      },
+      {
+        "title": "UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings",
+        "url": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings",
+        "source": "crypto",
+        "time": "Fri, 18 Sep 2026 09:57:33 +0000"
+      },
+      {
+        "title": "Treasury Sanctions Crypto Exchange Behind Iran&#39;s Bitcoin Tolls on Hormuz Ships",
+        "url": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships",
+        "source": "crypto",
+        "time": "Fri, 18 Sep 2026 09:01:55 +0000"
+      },
       {
         "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions—And Sometimes Obeying Them",
         "url": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
@@ -14,70 +32,58 @@
         "url": "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
         "source": "crypto",
         "time": "Thu, 17 Sep 2026 21:46:03 +0000"
-      },
-      {
-        "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What&#39;s Left",
-        "url": "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
-        "source": "crypto",
-        "time": "Thu, 17 Sep 2026 21:16:03 +0000"
-      },
-      {
-        "title": "Why Is Chipotle Now Working With the CIA-Funded Palantir?",
-        "url": "https://decrypt.co/378553/why-chipotle-working-with-palantir",
-        "source": "crypto",
-        "time": "Thu, 17 Sep 2026 20:46:03 +0000"
-      },
-      {
-        "title": "CFTC Opens Door for Crypto Apps to Offer Regulated Derivatives Access",
-        "url": "https://decrypt.co/378560/cftc-crypto-apps-regulated-derivatives-access",
-        "source": "crypto",
-        "time": "Thu, 17 Sep 2026 20:16:04 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Hacking OpenAI",
-        "url": "https://www.hacktron.ai/blog/hacking-openai",
+        "title": "Bend 2 and the Vibe-Coding Trap",
+        "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
         "source": "hn",
-        "time": "9/18/2026, 2:47:24 AM"
+        "time": "9/18/2026, 12:03:55 PM"
+      },
+      {
+        "title": "I don't like passkeys",
+        "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+        "source": "hn",
+        "time": "9/18/2026, 12:06:50 PM"
+      },
+      {
+        "title": "OpenJev",
+        "url": "https://openjev.com/",
+        "source": "hn",
+        "time": "9/18/2026, 9:42:22 AM"
+      },
+      {
+        "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+        "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+        "source": "hn",
+        "time": "9/18/2026, 10:35:28 AM"
       },
       {
         "title": "Jemalloc 5.4.0",
         "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
         "source": "hn",
         "time": "9/18/2026, 4:20:24 AM"
-      },
-      {
-        "title": "The scourge of x86 emulation",
-        "url": "https://fex-emu.com/Scourge-of-emulation/",
-        "source": "hn",
-        "time": "9/18/2026, 4:09:48 AM"
-      },
-      {
-        "title": "Astra for Law",
-        "url": "https://openai.com/index/astra-for-law/",
-        "source": "hn",
-        "time": "9/17/2026, 8:17:48 PM"
-      },
-      {
-        "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-        "url": "https://prismml.com/news/bonsai-2-27b",
-        "source": "hn",
-        "time": "9/17/2026, 9:13:31 PM"
       }
     ],
     "world": [
       {
-        "title": "Twenty women had breasts removed unnecessarily during cancer treatment, NHS trust admits",
-        "url": "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+        "url": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 18 Sep 2026 04:58:31 GMT"
+        "time": "Fri, 18 Sep 2026 12:30:16 GMT"
       },
       {
-        "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
-        "url": "https://www.bbc.co.uk/news/articles/cqkg083ve78ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm",
+        "url": "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 18 Sep 2026 06:17:45 GMT"
+        "time": "Fri, 18 Sep 2026 09:46:17 GMT"
+      },
+      {
+        "title": "Sisters of 'Putney pusher' suspect say DNA will clear his name",
+        "url": "https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 18 Sep 2026 12:36:18 GMT"
       },
       {
         "title": "War may be coming. Are we psychologically ready?",
@@ -86,16 +92,10 @@
         "time": "Thu, 17 Sep 2026 23:22:17 GMT"
       },
       {
-        "title": "Met was negligent and reckless, sisters of 'Putney pusher' suspect tell BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Council staff refused anonymity for Sara Sharif inquest",
+        "url": "https://www.bbc.co.uk/news/articles/c6z0zg53vp4lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 18 Sep 2026 07:17:13 GMT"
-      },
-      {
-        "title": "US fans with Ed Sheeran tickets left 'torn' over Macklemore controversy",
-        "url": "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 18 Sep 2026 00:38:03 GMT"
+        "time": "Fri, 18 Sep 2026 10:21:25 GMT"
       }
     ],
     "projects": [
