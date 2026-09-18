@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-18T19:20:50.195Z"
+    "built_at": "2026-09-18T22:07:05.475Z"
   },
-  "items": [
-    {
-      "title": "Debunk bot: debunk wild claims",
-      "url": "https://debunkbot.com/",
-      "date": "2026-09-18T19:19:51.000Z"
-    },
-    {
-      "title": "Show HN: Go Implementation of Systemd Time",
-      "url": "https://gitlab.com/allddd/go-systemd-time",
-      "date": "2026-09-18T19:18:11.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
