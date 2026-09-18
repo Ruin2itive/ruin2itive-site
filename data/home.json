@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-09-18T17:02:09.319Z",
-  "updated_local": "9/18/2026, 5:02:09 PM",
+  "updated_iso": "2026-09-18T19:26:11.912Z",
+  "updated_local": "9/18/2026, 7:26:11 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Zcash Is Running—Devs Want to Make It Faster",
+        "url": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
+        "source": "crypto",
+        "time": "Fri, 18 Sep 2026 19:16:03 +0000"
+      },
+      {
+        "title": "Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch",
+        "url": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
+        "source": "crypto",
+        "time": "Fri, 18 Sep 2026 18:35:54 +0000"
+      },
       {
         "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
         "url": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/378630/bitcoin-blasts-short-squeeze-crypto-liquidations",
         "source": "crypto",
         "time": "Fri, 18 Sep 2026 15:22:49 +0000"
-      },
-      {
-        "title": "Microsoft Staff Asked If AI Scraping Was &#39;Largest Theft of Labor in Human History&#39;",
-        "url": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
-        "source": "crypto",
-        "time": "Fri, 18 Sep 2026 12:52:03 +0000"
-      },
-      {
-        "title": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward",
-        "url": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
-        "source": "crypto",
-        "time": "Fri, 18 Sep 2026 12:34:50 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,16 @@
         "time": "9/18/2026, 2:18:41 PM"
       },
       {
-        "title": "An Empirical Study of Harness Design for Coding Agents",
-        "url": "https://arxiv.org/abs/2609.20804",
+        "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+        "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
         "source": "hn",
-        "time": "9/18/2026, 1:06:30 PM"
+        "time": "9/18/2026, 4:54:18 PM"
+      },
+      {
+        "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+        "url": "https://cactuscompute.com/needle",
+        "source": "hn",
+        "time": "9/18/2026, 12:11:44 AM"
       },
       {
         "title": "North Korean nuclear test sets off years of earthquakes",
@@ -54,16 +60,10 @@
         "time": "9/18/2026, 2:45:32 PM"
       },
       {
-        "title": "I vibed a proof of Conway's conjecture",
-        "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+        "title": "US Military had close call after using AI for hallucinated intelligence report",
+        "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
         "source": "hn",
-        "time": "9/18/2026, 2:36:10 PM"
-      },
-      {
-        "title": "Show HN: Microsoft Office running with Wine on Linux with no virtualization",
-        "url": "https://github.com/Tombert/office365_flake",
-        "source": "hn",
-        "time": "9/17/2026, 8:52:22 PM"
+        "time": "9/18/2026, 5:28:01 PM"
       }
     ],
     "world": [
