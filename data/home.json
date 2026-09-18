@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-18T12:41:08.418Z",
-  "updated_local": "9/18/2026, 12:41:08 PM",
+  "updated_iso": "2026-09-18T12:54:26.484Z",
+  "updated_local": "9/18/2026, 12:54:26 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Microsoft Staff Asked If AI Scraping Was &#39;Largest Theft of Labor in Human History&#39;",
+        "url": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
+        "source": "crypto",
+        "time": "Fri, 18 Sep 2026 12:52:03 +0000"
+      },
       {
         "title": "Morning Minute: SEC Approves ‘Innovation Exemption’ Moving Tokenized Stocks Forward",
         "url": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
         "source": "crypto",
         "time": "Thu, 17 Sep 2026 22:31:03 +0000"
-      },
-      {
-        "title": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
-        "url": "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
-        "source": "crypto",
-        "time": "Thu, 17 Sep 2026 21:46:03 +0000"
       }
     ],
     "hacker": [
@@ -40,12 +40,6 @@
         "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
         "source": "hn",
         "time": "9/18/2026, 12:03:55 PM"
-      },
-      {
-        "title": "I don't like passkeys",
-        "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
-        "source": "hn",
-        "time": "9/18/2026, 12:06:50 PM"
       },
       {
         "title": "OpenJev",
@@ -64,6 +58,12 @@
         "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
         "source": "hn",
         "time": "9/18/2026, 4:20:24 AM"
+      },
+      {
+        "title": "I don't like passkeys",
+        "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+        "source": "hn",
+        "time": "9/18/2026, 12:06:50 PM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Fri, 18 Sep 2026 09:46:17 GMT"
       },
       {
+        "title": "Flight chaos caused by software defect, says air traffic control body",
+        "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 18 Sep 2026 12:50:05 GMT"
+      },
+      {
         "title": "Sisters of 'Putney pusher' suspect say DNA will clear his name",
         "url": "https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 17 Sep 2026 23:22:17 GMT"
-      },
-      {
-        "title": "Council staff refused anonymity for Sara Sharif inquest",
-        "url": "https://www.bbc.co.uk/news/articles/c6z0zg53vp4lo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 18 Sep 2026 10:21:25 GMT"
       }
     ],
     "projects": [
