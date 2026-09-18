@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-18T20:48:17.413Z",
-  "updated_local": "9/18/2026, 8:48:17 PM",
+  "updated_iso": "2026-09-18T22:16:24.101Z",
+  "updated_local": "9/18/2026, 10:16:24 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+        "url": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
+        "source": "crypto",
+        "time": "Fri, 18 Sep 2026 21:01:30 +0000"
+      },
       {
         "title": "Zcash Is Running—Devs Want to Make It Faster",
         "url": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
         "source": "crypto",
         "time": "Fri, 18 Sep 2026 16:08:13 +0000"
-      },
-      {
-        "title": "Bitcoin Blasts Past $80K and a Fresh Short Squeeze Is On",
-        "url": "https://decrypt.co/378630/bitcoin-blasts-short-squeeze-crypto-liquidations",
-        "source": "crypto",
-        "time": "Fri, 18 Sep 2026 15:22:49 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Korea raises data breach fines to 10% of revenue",
-        "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+        "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+        "url": "https://code.claude.com/docs/en/changelog",
         "source": "hn",
-        "time": "9/18/2026, 8:02:54 PM"
+        "time": "9/18/2026, 9:00:32 PM"
       },
       {
         "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
@@ -48,19 +48,19 @@
         "time": "9/18/2026, 7:03:09 PM"
       },
       {
+        "title": "Saving another 100TB of RAM",
+        "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+        "source": "hn",
+        "time": "9/18/2026, 6:51:46 PM"
+      },
+      {
         "title": "Cloudflare Quick Tunnels",
         "url": "https://try.cloudflare.com/",
         "source": "hn",
         "time": "9/18/2026, 2:18:41 PM"
       },
       {
-        "title": "Saving another 100TB of RAM with math (and Rust)",
-        "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-        "source": "hn",
-        "time": "9/18/2026, 6:51:46 PM"
-      },
-      {
-        "title": "Apple releases iPhone Duo simulator and Xcode 27.1 beta",
+        "title": "Xcode 27.1 Beta Release Notes",
         "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
         "source": "hn",
         "time": "9/18/2026, 6:39:31 PM"
@@ -68,16 +68,16 @@
     ],
     "world": [
       {
+        "title": "US and Denmark reach deal over Greenland's security",
+        "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 18 Sep 2026 22:10:24 GMT"
+      },
+      {
         "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
         "url": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 18 Sep 2026 15:59:59 GMT"
-      },
-      {
-        "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
-        "url": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 18 Sep 2026 15:59:21 GMT"
       },
       {
         "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
@@ -95,7 +95,7 @@
         "title": "Trump says he is banning CNN and Politico from White House",
         "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 18 Sep 2026 20:47:49 GMT"
+        "time": "Fri, 18 Sep 2026 21:45:19 GMT"
       }
     ],
     "projects": [
