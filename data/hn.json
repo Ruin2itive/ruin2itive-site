@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-18T07:48:36.610Z"
+    "built_at": "2026-09-18T12:32:46.013Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Managed IT Support for Law Firms",
+      "url": "https://andersenlab.com/services/managed-it-services/law-firms",
+      "date": "2026-09-18T12:30:03.000Z"
+    },
+    {
+      "title": "Query Plan Rewriting in PostgreSQL",
+      "url": "https://theconsensus.dev/p/2026/09/13/query-plan-rewriting-in-postgresql.html",
+      "date": "2026-09-18T12:29:05.000Z"
+    }
+  ]
 }
