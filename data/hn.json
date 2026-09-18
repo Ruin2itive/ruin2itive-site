@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-17T23:49:11.966Z"
+    "built_at": "2026-09-18T02:28:43.703Z"
   },
-  "items": [
-    {
-      "title": "LawConnect",
-      "url": "https://lawconnect.com/en-au",
-      "date": "2026-09-17T23:43:26.000Z"
-    },
-    {
-      "title": "Email marketing from Grok Bot official integration",
-      "url": "https://twitter.com/Migma_AI/status/2100617616704295197",
-      "date": "2026-09-17T23:41:31.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
