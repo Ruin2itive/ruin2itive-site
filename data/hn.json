@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-19T17:37:19.370Z"
+    "built_at": "2026-09-19T19:49:13.405Z"
   },
-  "items": [
-    {
-      "title": "Brain adapts to give deaf people a better visual 'danger radar'",
-      "url": "https://sheffield.ac.uk/news/brain-adapts-give-deaf-people-better-visual-danger-radar",
-      "date": "2026-09-19T17:36:48.000Z"
-    },
-    {
-      "title": "CNN, MS NOW and Politico denied access to White House after Trump 'ban'",
-      "url": "https://www.cnn.com/2026/09/19/media/trump-msnow-cnn-politico-white-house-ban",
-      "date": "2026-09-19T17:36:04.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
