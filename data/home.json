@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-19T20:29:05.320Z",
-  "updated_local": "9/19/2026, 8:29:05 PM",
+  "updated_iso": "2026-09-19T22:39:10.610Z",
+  "updated_local": "9/19/2026, 10:39:10 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "English: A vs. An",
+        "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+        "source": "hn",
+        "time": "9/19/2026, 8:41:26 PM"
+      },
+      {
         "title": "I built non-autoregressive decision models with RL a year ago",
         "url": "https://laya.convaiinnovations.com/",
         "source": "hn",
@@ -48,30 +54,24 @@
         "time": "9/19/2026, 9:20:58 AM"
       },
       {
-        "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
-        "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+        "title": "Measure internet censorship. Contribute to the largest open dataset",
+        "url": "https://ooni.org/install",
         "source": "hn",
-        "time": "9/19/2026, 6:11:40 PM"
+        "time": "9/19/2026, 8:00:59 PM"
       },
       {
-        "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-        "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+        "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+        "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
         "source": "hn",
-        "time": "9/19/2026, 5:48:50 AM"
-      },
-      {
-        "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
-        "url": "https://eprint.iacr.org/2026/2039",
-        "source": "hn",
-        "time": "9/19/2026, 7:23:23 PM"
+        "time": "9/19/2026, 9:30:59 PM"
       }
     ],
     "world": [
       {
-        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-        "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 19 Sep 2026 11:36:55 GMT"
+        "time": "Sat, 19 Sep 2026 20:16:07 GMT"
       },
       {
         "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
@@ -80,10 +80,10 @@
         "time": "Sat, 19 Sep 2026 20:11:35 GMT"
       },
       {
-        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+        "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 19 Sep 2026 20:16:07 GMT"
+        "time": "Sat, 19 Sep 2026 11:36:55 GMT"
       },
       {
         "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
@@ -92,10 +92,10 @@
         "time": "Sat, 19 Sep 2026 18:03:30 GMT"
       },
       {
-        "title": "Watch: Earl Spencer says he is telling the truth about a phone call with Charles after Diana's death",
-        "url": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 18 Sep 2026 15:59:21 GMT"
+        "time": "Sat, 19 Sep 2026 21:27:06 GMT"
       }
     ],
     "projects": [
