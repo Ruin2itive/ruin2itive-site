@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-19T05:32:18.725Z",
-  "updated_local": "9/19/2026, 5:32:18 AM",
+  "updated_iso": "2026-09-19T09:21:35.236Z",
+  "updated_local": "9/19/2026, 9:21:35 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,24 @@
     ],
     "hacker": [
       {
+        "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+        "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+        "source": "hn",
+        "time": "9/19/2026, 5:48:50 AM"
+      },
+      {
+        "title": "If math is more than proof, we need to better celebrate the rest of it",
+        "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+        "source": "hn",
+        "time": "9/19/2026, 6:28:02 AM"
+      },
+      {
+        "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+        "source": "hn",
+        "time": "9/19/2026, 6:41:44 AM"
+      },
+      {
         "title": "San Francisco Onion Futures Company",
         "url": "https://onionfutures.com/",
         "source": "hn",
@@ -46,24 +64,6 @@
         "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
         "source": "hn",
         "time": "9/18/2026, 7:03:09 PM"
-      },
-      {
-        "title": "SDCC – Small Device C Compiler",
-        "url": "https://sdcc.sourceforge.net/",
-        "source": "hn",
-        "time": "9/19/2026, 2:32:36 AM"
-      },
-      {
-        "title": "Science Is Open Software",
-        "url": "https://jepedersen.dk/blog/202505_research/",
-        "source": "hn",
-        "time": "9/19/2026, 2:21:35 AM"
-      },
-      {
-        "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
-        "url": "https://github.com/awlevin/typesafe-computer-use",
-        "source": "hn",
-        "time": "9/16/2026, 10:01:49 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Fri, 18 Sep 2026 15:59:21 GMT"
       },
       {
-        "title": "Flight chaos caused by software defect in space of a millisecond, report says",
-        "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 18 Sep 2026 15:48:58 GMT"
-      },
-      {
         "title": "Billionaire Man United owner says he has lost confidence in the UK",
         "url": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 18 Sep 2026 23:06:16 GMT"
+      },
+      {
+        "title": "Google's Gemini AI hacked three companies in security test",
+        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 19 Sep 2026 04:27:11 GMT"
       }
     ],
     "projects": [
