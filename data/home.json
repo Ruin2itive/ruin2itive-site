@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-19T17:45:19.627Z",
-  "updated_local": "9/19/2026, 5:45:19 PM",
+  "updated_iso": "2026-09-19T20:01:45.105Z",
+  "updated_local": "9/19/2026, 8:01:45 PM",
   "sections": {
     "crypto": [
       {
@@ -36,7 +36,7 @@
     ],
     "hacker": [
       {
-        "title": "I Built Non-Autoregressive Decision Models with RL a Year Ago",
+        "title": "I built non-autoregressive decision models with RL a year ago",
         "url": "https://laya.convaiinnovations.com/",
         "source": "hn",
         "time": "9/19/2026, 10:46:58 AM"
@@ -46,6 +46,12 @@
         "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
         "source": "hn",
         "time": "9/19/2026, 9:20:58 AM"
+      },
+      {
+        "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+        "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+        "source": "hn",
+        "time": "9/19/2026, 6:11:40 PM"
       },
       {
         "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
@@ -58,12 +64,6 @@
         "url": "https://github.com/mindbox77/zxdesk",
         "source": "hn",
         "time": "9/19/2026, 2:01:58 PM"
-      },
-      {
-        "title": "“The Secret Life of Circuits” is here",
-        "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-        "source": "hn",
-        "time": "9/15/2026, 11:15:05 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Sat, 19 Sep 2026 11:36:55 GMT"
       },
       {
-        "title": "Journalists report being denied White House access after Trump bans some outlets",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 19 Sep 2026 15:19:39 GMT"
-      },
-      {
-        "title": "Major seaside hotel fire treated as suspicious",
+        "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
         "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 19 Sep 2026 16:43:21 GMT"
       },
       {
+        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 19 Sep 2026 19:09:49 GMT"
+      },
+      {
         "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
         "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 19 Sep 2026 15:00:32 GMT"
+        "time": "Sat, 19 Sep 2026 18:03:30 GMT"
       },
       {
-        "title": "Smoke seen near Riyadh airport after air raid alerts in Saudi capital",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Earl Spencer says he is telling the truth about a phone call with Charles after Diana's death",
+        "url": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 19 Sep 2026 14:43:46 GMT"
+        "time": "Fri, 18 Sep 2026 15:59:21 GMT"
       }
     ],
     "projects": [
