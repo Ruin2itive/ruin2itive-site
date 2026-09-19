@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-19T00:50:23.130Z"
+    "built_at": "2026-09-19T05:20:56.311Z"
   },
-  "items": [
-    {
-      "title": "Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked",
-      "url": "https://www.nytimes.com/2026/09/17/science/lung-cancer-gene-mutation-risk.html",
-      "date": "2026-09-19T00:48:09.000Z"
-    },
-    {
-      "title": "macOS Liquid Glass in VS Code: Cursed or Blursed?",
-      "url": "https://alec.is/posts/macos-liquid-glass-and-vscode/",
-      "date": "2026-09-19T00:45:23.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
