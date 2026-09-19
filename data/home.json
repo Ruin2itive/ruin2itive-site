@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-19T00:56:50.633Z",
-  "updated_local": "9/19/2026, 12:56:50 AM",
+  "updated_iso": "2026-09-19T04:23:14.161Z",
+  "updated_local": "9/19/2026, 4:23:14 AM",
   "sections": {
     "crypto": [
       {
@@ -42,10 +42,16 @@
         "time": "9/18/2026, 7:03:09 PM"
       },
       {
-        "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-        "url": "https://spectrum.ieee.org/llms-for-chip-design",
+        "title": "Science Is Open Software",
+        "url": "https://jepedersen.dk/blog/202505_research/",
         "source": "hn",
-        "time": "9/18/2026, 11:04:17 PM"
+        "time": "9/19/2026, 2:21:35 AM"
+      },
+      {
+        "title": "SDCC – Small Device C Compiler",
+        "url": "https://sdcc.sourceforge.net/",
+        "source": "hn",
+        "time": "9/19/2026, 2:32:36 AM"
       },
       {
         "title": "Cloudflare Quick Tunnels",
@@ -58,12 +64,6 @@
         "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
         "source": "hn",
         "time": "9/18/2026, 6:51:46 PM"
-      },
-      {
-        "title": "The Farnese letter",
-        "url": "https://simonklee.dk/farnese-letter",
-        "source": "hn",
-        "time": "9/17/2026, 5:39:01 PM"
       }
     ],
     "world": [
