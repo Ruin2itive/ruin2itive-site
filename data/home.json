@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-18T23:11:00.574Z",
-  "updated_local": "9/18/2026, 11:11:00 PM",
+  "updated_iso": "2026-09-19T00:56:50.633Z",
+  "updated_local": "9/19/2026, 12:56:50 AM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-        "url": "https://code.claude.com/docs/en/changelog",
-        "source": "hn",
-        "time": "9/18/2026, 9:00:32 PM"
-      },
-      {
         "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
         "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
         "source": "hn",
         "time": "9/18/2026, 7:03:09 PM"
       },
       {
-        "title": "Saving another 100TB of RAM",
-        "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+        "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+        "url": "https://spectrum.ieee.org/llms-for-chip-design",
         "source": "hn",
-        "time": "9/18/2026, 6:51:46 PM"
+        "time": "9/18/2026, 11:04:17 PM"
       },
       {
         "title": "Cloudflare Quick Tunnels",
@@ -60,10 +54,16 @@
         "time": "9/18/2026, 2:18:41 PM"
       },
       {
-        "title": "Xcode 27.1 Beta Release Notes",
-        "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+        "title": "Saving another 100TB of RAM",
+        "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
         "source": "hn",
-        "time": "9/18/2026, 6:39:31 PM"
+        "time": "9/18/2026, 6:51:46 PM"
+      },
+      {
+        "title": "The Farnese letter",
+        "url": "https://simonklee.dk/farnese-letter",
+        "source": "hn",
+        "time": "9/17/2026, 5:39:01 PM"
       }
     ],
     "world": [
@@ -80,10 +80,10 @@
         "time": "Fri, 18 Sep 2026 15:59:59 GMT"
       },
       {
-        "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
-        "url": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
+        "url": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 18 Sep 2026 12:30:16 GMT"
+        "time": "Fri, 18 Sep 2026 15:59:21 GMT"
       },
       {
         "title": "Flight chaos caused by software defect in space of a millisecond, report says",
@@ -92,10 +92,10 @@
         "time": "Fri, 18 Sep 2026 15:48:58 GMT"
       },
       {
-        "title": "Trump says he is banning CNN and Politico from White House",
-        "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Billionaire Man United owner says he has lost confidence in the UK",
+        "url": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 18 Sep 2026 23:06:59 GMT"
+        "time": "Fri, 18 Sep 2026 23:06:16 GMT"
       }
     ],
     "projects": [
