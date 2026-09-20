@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-20T20:03:16.137Z"
+    "built_at": "2026-09-20T22:49:33.163Z"
   },
-  "items": [
-    {
-      "title": "Expert ratings are ignoring signs of a blue wave",
-      "url": "https://www.natesilver.net/p/expert-ratings-are-ignoring-signs",
-      "date": "2026-09-20T20:02:58.000Z"
-    },
-    {
-      "title": "I see the mathematicians panicking at what we can do with agentic AI",
-      "url": "https://twitter.com/lemire/status/2101684818358439959",
-      "date": "2026-09-20T20:02:46.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
