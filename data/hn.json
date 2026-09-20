@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-20T08:56:13.796Z"
+    "built_at": "2026-09-20T13:24:19.385Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Humble Proxy Detection",
+      "url": "https://proxy.kyc.red/",
+      "date": "2026-09-20T13:22:33.000Z"
+    },
+    {
+      "title": "Polygonal Outer Billiard Discontinuity Sets",
+      "url": "https://lael.dev/talks/imso",
+      "date": "2026-09-20T13:22:30.000Z"
+    }
+  ]
 }
