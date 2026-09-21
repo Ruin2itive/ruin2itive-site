@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-21T00:42:03.939Z"
+    "built_at": "2026-09-21T05:43:04.251Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "How Notion handles concurrent editing with CRDTs",
+      "url": "https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts",
+      "date": "2026-09-21T05:42:17.000Z"
+    },
+    {
+      "title": "Faraday Learns to Reason",
+      "url": "https://medium.com/@vektormemory/vektor-v1-9-4-real-tools-for-desk-chat-faraday-learns-to-reason-f94ccb822e65",
+      "date": "2026-09-21T05:38:31.000Z"
+    }
+  ]
 }
