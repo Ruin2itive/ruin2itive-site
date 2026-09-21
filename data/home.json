@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-21T22:25:47.473Z",
-  "updated_local": "9/21/2026, 10:25:47 PM",
+  "updated_iso": "2026-09-21T23:10:03.435Z",
+  "updated_local": "9/21/2026, 11:10:03 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks",
+        "url": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
+        "source": "crypto",
+        "time": "Mon, 21 Sep 2026 22:46:03 +0000"
+      },
       {
         "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
         "url": "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
         "source": "crypto",
         "time": "Mon, 21 Sep 2026 19:26:49 +0000"
-      },
-      {
-        "title": "Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
-        "url": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
-        "source": "crypto",
-        "time": "Mon, 21 Sep 2026 19:00:04 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "9/21/2026, 8:12:12 PM"
       },
       {
-        "title": "The NASA/ESA Mars Sample Return mission has been canceled",
+        "title": "NASA’s Mars Sample Return mission is dead",
         "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
         "source": "hn",
         "time": "9/21/2026, 7:14:12 PM"
+      },
+      {
+        "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
+        "url": "https://www.personalimportation.org/advocacy",
+        "source": "hn",
+        "time": "9/21/2026, 8:58:17 PM"
+      },
+      {
+        "title": "Data Protection Commission fines Google €403M over processing of location data",
+        "url": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
+        "source": "hn",
+        "time": "9/21/2026, 10:33:45 PM"
       },
       {
         "title": "Transformers Explained Visually",
         "url": "https://poloclub.github.io/transformer-explainer/",
         "source": "hn",
         "time": "9/21/2026, 7:43:49 PM"
-      },
-      {
-        "title": "What Sun got wrong",
-        "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-        "source": "hn",
-        "time": "9/21/2026, 2:03:18 PM"
-      },
-      {
-        "title": "Attention is all you have",
-        "url": "https://alicegg.tech/2026/09/21/attention",
-        "source": "hn",
-        "time": "9/21/2026, 2:26:56 PM"
       }
     ],
     "world": [
@@ -95,7 +95,7 @@
         "title": "Flights at major US airports delayed after cable cut by construction workers",
         "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 21 Sep 2026 21:31:42 GMT"
+        "time": "Mon, 21 Sep 2026 22:54:49 GMT"
       }
     ],
     "projects": [
