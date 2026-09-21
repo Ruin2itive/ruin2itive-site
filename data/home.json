@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-20T22:57:55.235Z",
-  "updated_local": "9/20/2026, 10:57:55 PM",
+  "updated_iso": "2026-09-21T00:56:32.343Z",
+  "updated_local": "9/21/2026, 12:56:32 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "Google's Open Agentic Orchestrator",
+        "url": "https://agentexecutor.io",
+        "source": "hn",
+        "time": "9/20/2026, 10:32:43 PM"
+      },
+      {
+        "title": "What happened to the Snowden archive",
+        "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+        "source": "hn",
+        "time": "9/20/2026, 10:35:49 PM"
+      },
+      {
         "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
         "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
         "source": "hn",
@@ -48,22 +60,10 @@
         "time": "9/20/2026, 3:18:44 PM"
       },
       {
-        "title": "Google's Open Agentic Orchestrator",
-        "url": "https://agentexecutor.io",
-        "source": "hn",
-        "time": "9/20/2026, 10:32:43 PM"
-      },
-      {
         "title": "Nobody pays for FOSS, we can force them to",
         "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
         "source": "hn",
         "time": "9/20/2026, 9:04:32 PM"
-      },
-      {
-        "title": "Qwen Image 2.1",
-        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-        "source": "hn",
-        "time": "9/20/2026, 1:09:25 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Sun, 20 Sep 2026 15:21:19 GMT"
       },
       {
-        "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
-        "url": "https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 20 Sep 2026 15:00:09 GMT"
-      },
-      {
         "title": "Specialist courts for rape cases to be rolled out across England and Wales",
         "url": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 20 Sep 2026 22:43:31 GMT"
       },
       {
-        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Union calls for halt to graded Ofsted inspections over health concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cv1j4k1nez76o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 20 Sep 2026 10:45:39 GMT"
+        "time": "Sun, 20 Sep 2026 23:02:05 GMT"
+      },
+      {
+        "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
+        "url": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 20 Sep 2026 17:25:49 GMT"
       }
     ],
     "projects": [
