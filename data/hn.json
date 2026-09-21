@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-21T11:34:43.572Z"
+    "built_at": "2026-09-21T17:32:23.223Z"
   },
-  "items": [
-    {
-      "title": "Where the physical economy is being built: 10k planned projects worldwide",
-      "url": "https://fluidify.org/map",
-      "date": "2026-09-21T11:33:37.000Z"
-    },
-    {
-      "title": "AI-controlled robot arms attempted harmful tasks 97% of the time",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-controlled-robot-arms-attempted-harmful-tasks-97-percent-of-the-time-experiments-included-stabbing-a-baby-doll-mixing-chemicals-openai-and-anthropic-models-try-mixing-bleach-and-stabbing-dolls-without-jailbreaks",
-      "date": "2026-09-21T11:31:53.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
