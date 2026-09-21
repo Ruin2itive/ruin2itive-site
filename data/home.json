@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-21T00:58:35.830Z",
-  "updated_local": "9/21/2026, 12:58:35 AM",
+  "updated_iso": "2026-09-21T05:57:06.229Z",
+  "updated_local": "9/21/2026, 5:57:06 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Google's Open Agentic Orchestrator",
+        "title": "AX – Google’s Open Agentic Orchestrator",
         "url": "https://agentexecutor.io",
         "source": "hn",
         "time": "9/20/2026, 10:32:43 PM"
-      },
-      {
-        "title": "What happened to the Snowden archive",
-        "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-        "source": "hn",
-        "time": "9/20/2026, 10:35:49 PM"
       },
       {
         "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
@@ -54,36 +48,42 @@
         "time": "9/20/2026, 5:38:50 PM"
       },
       {
-        "title": "ChatGPT now knows what you do on other websites via ad collector",
-        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+        "title": "Winning the Visa Lottery",
+        "url": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
         "source": "hn",
-        "time": "9/20/2026, 3:18:44 PM"
+        "time": "9/21/2026, 3:37:02 AM"
       },
       {
-        "title": "Nobody pays for FOSS, we can force them to",
-        "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+        "title": "What happened to the Snowden archive",
+        "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
         "source": "hn",
-        "time": "9/20/2026, 9:04:32 PM"
+        "time": "9/20/2026, 10:35:49 PM"
+      },
+      {
+        "title": "Qwen Image 2.1",
+        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "source": "hn",
+        "time": "9/20/2026, 1:09:25 PM"
       }
     ],
     "world": [
-      {
-        "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-        "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 20 Sep 2026 20:21:40 GMT"
-      },
-      {
-        "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
-        "url": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 20 Sep 2026 15:21:19 GMT"
-      },
       {
         "title": "Specialist courts for rape cases to be rolled out across England and Wales",
         "url": "https://www.bbc.co.uk/news/articles/c5lympv9nw3jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 20 Sep 2026 22:43:31 GMT"
+      },
+      {
+        "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+        "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 21 Sep 2026 03:22:44 GMT"
+      },
+      {
+        "title": "Oxford grooming gang survivors tell BBC 'hundreds' of abusers still free",
+        "url": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 21 Sep 2026 05:00:34 GMT"
       },
       {
         "title": "Union calls for halt to graded Ofsted inspections over health concerns",
@@ -92,10 +92,10 @@
         "time": "Sun, 20 Sep 2026 23:02:05 GMT"
       },
       {
-        "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
-        "url": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 20 Sep 2026 17:25:49 GMT"
+        "time": "Mon, 21 Sep 2026 04:00:38 GMT"
       }
     ],
     "projects": [
