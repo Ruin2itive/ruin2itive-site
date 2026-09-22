@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-22T19:25:50.941Z"
+    "built_at": "2026-09-22T22:34:32.903Z"
   },
-  "items": [
-    {
-      "title": "A Faster Shortest Path Algorithm",
-      "url": "https://www.vals.ai/blogs/faster-shortest-path-algorithm",
-      "date": "2026-09-22T19:24:58.000Z"
-    },
-    {
-      "title": "New time zone code: PCT for British Columbia",
-      "url": "https://archive.news.gov.bc.ca/releases/news_releases_2024-2028/2026CITZ0009-001073.htm",
-      "date": "2026-09-22T19:24:49.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
