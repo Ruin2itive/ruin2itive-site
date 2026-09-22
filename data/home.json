@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-09-22T14:38:16.665Z",
-  "updated_local": "9/22/2026, 2:38:16 PM",
+  "updated_iso": "2026-09-22T17:55:49.655Z",
+  "updated_local": "9/22/2026, 5:55:49 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Anthropic’s New Claude Opus 5.5 Matches Fable at 60% the Price",
+        "url": "https://decrypt.co/378947/anthropic-claude-opus-5-5-fable-price-comparison",
+        "source": "crypto",
+        "time": "Tue, 22 Sep 2026 17:49:07 +0000"
+      },
+      {
+        "title": "Dogecoin Jumps to Highest Price in Months: Here&#39;s What&#39;s Going On",
+        "url": "https://decrypt.co/378934/dogecoin-price-jumps-highest-months",
+        "source": "crypto",
+        "time": "Tue, 22 Sep 2026 17:09:30 +0000"
+      },
+      {
+        "title": "Bitcoin ETFs Take Nearly $1B in a Day as Average Holder Returns to Profit",
+        "url": "https://decrypt.co/378921/bitcoin-etfs-take-nearly-1b-in-a-day-as-average-holder-returns-to-profit",
+        "source": "crypto",
+        "time": "Tue, 22 Sep 2026 14:59:37 +0000"
+      },
       {
         "title": "Morning Minute: Robinhood CEO Bets Crypto Will Beat Sports at Prediction Markets",
         "url": "https://decrypt.co/378918/morning-minute-robinhood-ceo-bets-crypto-will-beat-sports-at-prediction-markets",
@@ -14,27 +32,15 @@
         "url": "https://decrypt.co/378910/binance-takes-100m-stake-in-circle-under-five-year-usdc-promotion-deal",
         "source": "crypto",
         "time": "Tue, 22 Sep 2026 11:39:37 +0000"
-      },
-      {
-        "title": "US Probes Whether Binance &#39;Knowingly&#39; Let Iran-Linked Trades Through: Report",
-        "url": "https://decrypt.co/378902/us-probes-whether-binance-knowingly-let-iran-linked-trades-through-report",
-        "source": "crypto",
-        "time": "Tue, 22 Sep 2026 09:47:47 +0000"
-      },
-      {
-        "title": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks",
-        "url": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
-        "source": "crypto",
-        "time": "Mon, 21 Sep 2026 22:46:03 +0000"
-      },
-      {
-        "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
-        "url": "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
-        "source": "crypto",
-        "time": "Mon, 21 Sep 2026 22:16:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Claude Opus 5.5",
+        "url": "https://www.anthropic.com/claude-opus-5-5",
+        "source": "hn",
+        "time": "9/22/2026, 4:29:05 PM"
+      },
       {
         "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
         "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
@@ -42,48 +48,36 @@
         "time": "9/22/2026, 1:52:15 PM"
       },
       {
-        "title": "Show HN: Drop – a rootless Linux sandbox with gVisor support",
-        "url": "https://droprun.sh/",
+        "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
+        "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
         "source": "hn",
-        "time": "9/22/2026, 1:52:47 PM"
+        "time": "9/22/2026, 5:12:51 PM"
       },
       {
-        "title": "Can gzip be a language model?",
-        "url": "https://nathan.rs/posts/gzip-lm/",
+        "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+        "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
         "source": "hn",
-        "time": "9/22/2026, 6:08:39 AM"
+        "time": "9/22/2026, 4:51:31 PM"
       },
       {
-        "title": "MiMo v2.6",
-        "url": "https://mimo.xiaomi.com/mimo-v2-6",
+        "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+        "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
         "source": "hn",
-        "time": "9/21/2026, 8:12:12 PM"
-      },
-      {
-        "title": "Spymarks, Not Watermarks",
-        "url": "https://brand.io/article/spymarks/",
-        "source": "hn",
-        "time": "9/21/2026, 11:03:49 PM"
+        "time": "9/22/2026, 4:33:45 PM"
       }
     ],
     "world": [
+      {
+        "title": "Plot targeting Manchester's Jewish community disrupted, say police",
+        "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 22 Sep 2026 16:52:09 GMT"
+      },
       {
         "title": "New EU industry rules would damage UK, warns Burnham",
         "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 22 Sep 2026 13:10:23 GMT"
-      },
-      {
-        "title": "Martha's Rule rolled out at every A&E department in England",
-        "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 22 Sep 2026 08:32:32 GMT"
-      },
-      {
-        "title": "Father admits causing death of his son in hotel fall",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 22 Sep 2026 14:31:34 GMT"
       },
       {
         "title": "Tim Westwood charged with two more sexual offences",
@@ -92,10 +86,16 @@
         "time": "Tue, 22 Sep 2026 14:29:31 GMT"
       },
       {
-        "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
-        "url": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Father admits causing death of his son in hotel fall",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 22 Sep 2026 14:30:01 GMT"
+        "time": "Tue, 22 Sep 2026 15:52:35 GMT"
+      },
+      {
+        "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
+        "url": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 22 Sep 2026 17:50:13 GMT"
       }
     ],
     "projects": [
