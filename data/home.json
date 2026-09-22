@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-22T17:55:49.655Z",
-  "updated_local": "9/22/2026, 5:55:49 PM",
+  "updated_iso": "2026-09-22T18:43:24.110Z",
+  "updated_local": "9/22/2026, 6:43:24 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bernstein Predicts $10 Trillion Prediction Market by 2035—10X Its Original Forecast",
+        "url": "https://decrypt.co/378963/bernstein-10-trillion-prediction-markets",
+        "source": "crypto",
+        "time": "Tue, 22 Sep 2026 18:16:03 +0000"
+      },
       {
         "title": "Anthropic’s New Claude Opus 5.5 Matches Fable at 60% the Price",
         "url": "https://decrypt.co/378947/anthropic-claude-opus-5-5-fable-price-comparison",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/378918/morning-minute-robinhood-ceo-bets-crypto-will-beat-sports-at-prediction-markets",
         "source": "crypto",
         "time": "Tue, 22 Sep 2026 12:15:44 +0000"
-      },
-      {
-        "title": "Binance Takes $100M Stake in Circle Under Five-Year USDC Promotion Deal",
-        "url": "https://decrypt.co/378910/binance-takes-100m-stake-in-circle-under-five-year-usdc-promotion-deal",
-        "source": "crypto",
-        "time": "Tue, 22 Sep 2026 11:39:37 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "GPT-6 Sol and Luna",
+        "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+        "source": "hn",
+        "time": "9/22/2026, 6:00:34 PM"
+      },
       {
         "title": "Claude Opus 5.5",
         "url": "https://www.anthropic.com/claude-opus-5-5",
@@ -48,22 +54,16 @@
         "time": "9/22/2026, 1:52:15 PM"
       },
       {
-        "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
-        "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
+        "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+        "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
         "source": "hn",
-        "time": "9/22/2026, 5:12:51 PM"
+        "time": "9/22/2026, 4:33:45 PM"
       },
       {
         "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
         "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
         "source": "hn",
         "time": "9/22/2026, 4:51:31 PM"
-      },
-      {
-        "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
-        "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
-        "source": "hn",
-        "time": "9/22/2026, 4:33:45 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Plot targeting Manchester's Jewish community disrupted, say police",
         "url": "https://www.bbc.co.uk/news/articles/cq07ly8xzvn4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 22 Sep 2026 16:52:09 GMT"
+        "time": "Tue, 22 Sep 2026 18:00:17 GMT"
       },
       {
         "title": "New EU industry rules would damage UK, warns Burnham",
@@ -86,16 +86,16 @@
         "time": "Tue, 22 Sep 2026 14:29:31 GMT"
       },
       {
-        "title": "Father admits causing death of his son in hotel fall",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 22 Sep 2026 15:52:35 GMT"
-      },
-      {
         "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
         "url": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 22 Sep 2026 17:50:13 GMT"
+      },
+      {
+        "title": "Father admits causing death of his son in hotel fall",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 22 Sep 2026 15:52:35 GMT"
       }
     ],
     "projects": [
