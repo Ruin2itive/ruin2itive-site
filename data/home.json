@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-22T20:55:06.866Z",
-  "updated_local": "9/22/2026, 8:55:06 PM",
+  "updated_iso": "2026-09-22T21:57:40.542Z",
+  "updated_local": "9/22/2026, 9:57:40 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks",
+        "url": "https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks",
+        "source": "crypto",
+        "time": "Tue, 22 Sep 2026 21:16:03 +0000"
+      },
       {
         "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
         "url": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
         "source": "crypto",
         "time": "Tue, 22 Sep 2026 19:00:38 +0000"
-      },
-      {
-        "title": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
-        "url": "https://decrypt.co/378972/bitcoin-breaks-out-nasdaq-hits-records-oil-slides",
-        "source": "crypto",
-        "time": "Tue, 22 Sep 2026 18:46:03 +0000"
       }
     ],
     "hacker": [
@@ -48,10 +48,10 @@
         "time": "9/22/2026, 4:29:05 PM"
       },
       {
-        "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-        "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+        "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+        "url": "https://foxscript.org/",
         "source": "hn",
-        "time": "9/22/2026, 1:52:15 PM"
+        "time": "9/22/2026, 9:00:30 PM"
       },
       {
         "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
@@ -60,13 +60,19 @@
         "time": "9/22/2026, 5:46:02 PM"
       },
       {
-        "title": "SAML: A Fractal of Bad Design",
-        "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+        "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+        "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
         "source": "hn",
-        "time": "9/22/2026, 6:57:17 PM"
+        "time": "9/22/2026, 1:52:15 PM"
       }
     ],
     "world": [
+      {
+        "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+        "url": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 22 Sep 2026 21:22:36 GMT"
+      },
       {
         "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
         "url": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr93e2nz0281o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 22 Sep 2026 20:08:52 GMT"
-      },
-      {
-        "title": "Father admits causing death of his son in hotel fall",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 22 Sep 2026 15:52:35 GMT"
       }
     ],
     "projects": [
