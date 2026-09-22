@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-22T13:04:41.348Z",
-  "updated_local": "9/22/2026, 1:04:41 PM",
+  "updated_iso": "2026-09-22T14:38:16.665Z",
+  "updated_local": "9/22/2026, 2:38:16 PM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "AI Has No Wisdom and Neither Will You",
-        "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+        "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+        "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
         "source": "hn",
-        "time": "9/22/2026, 12:11:09 PM"
+        "time": "9/22/2026, 1:52:15 PM"
+      },
+      {
+        "title": "Show HN: Drop – a rootless Linux sandbox with gVisor support",
+        "url": "https://droprun.sh/",
+        "source": "hn",
+        "time": "9/22/2026, 1:52:47 PM"
       },
       {
         "title": "Can gzip be a language model?",
@@ -48,30 +54,24 @@
         "time": "9/22/2026, 6:08:39 AM"
       },
       {
-        "title": "AMD's random number generator can't generate a 0?",
-        "url": "https://board.flatassembler.net/topic.php?t=24261",
-        "source": "hn",
-        "time": "9/22/2026, 8:39:43 AM"
-      },
-      {
-        "title": "Will Open Source Survive the Agents That Replaced It?",
-        "url": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/",
-        "source": "hn",
-        "time": "9/22/2026, 12:05:17 PM"
-      },
-      {
         "title": "MiMo v2.6",
         "url": "https://mimo.xiaomi.com/mimo-v2-6",
         "source": "hn",
         "time": "9/21/2026, 8:12:12 PM"
+      },
+      {
+        "title": "Spymarks, Not Watermarks",
+        "url": "https://brand.io/article/spymarks/",
+        "source": "hn",
+        "time": "9/21/2026, 11:03:49 PM"
       }
     ],
     "world": [
       {
-        "title": "PM to warn EU chief of 'damage' posed by Made in Europe scheme",
+        "title": "New EU industry rules would damage UK, warns Burnham",
         "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 22 Sep 2026 11:24:27 GMT"
+        "time": "Tue, 22 Sep 2026 13:10:23 GMT"
       },
       {
         "title": "Martha's Rule rolled out at every A&E department in England",
@@ -80,22 +80,22 @@
         "time": "Tue, 22 Sep 2026 08:32:32 GMT"
       },
       {
-        "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Father admits causing death of his son in hotel fall",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 22 Sep 2026 08:52:12 GMT"
+        "time": "Tue, 22 Sep 2026 14:31:34 GMT"
       },
       {
-        "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
-        "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Tim Westwood charged with two more sexual offences",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2zv0rx0nqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 22 Sep 2026 11:34:11 GMT"
+        "time": "Tue, 22 Sep 2026 14:29:31 GMT"
       },
       {
-        "title": "Scientists discover why Kent meningitis outbreak was so severe",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
+        "url": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 22 Sep 2026 07:55:56 GMT"
+        "time": "Tue, 22 Sep 2026 14:30:01 GMT"
       }
     ],
     "projects": [
