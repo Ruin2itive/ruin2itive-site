@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-09-23T22:02:34.733Z",
-  "updated_local": "9/23/2026, 10:02:34 PM",
+  "updated_iso": "2026-09-23T23:34:10.365Z",
+  "updated_local": "9/23/2026, 11:34:10 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn&#39;t Know What",
+        "url": "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
+        "source": "crypto",
+        "time": "Wed, 23 Sep 2026 22:56:03 +0000"
+      },
+      {
+        "title": "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
+        "url": "https://decrypt.co/379134/an-ai-agent-just-hacked-a-government-website-for-the-first-time-australia-pm-says",
+        "source": "crypto",
+        "time": "Wed, 23 Sep 2026 22:31:45 +0000"
+      },
+      {
+        "title": "OpenAI Gives Ukraine Access to Daybreak AI Cyber-Defense Tool",
+        "url": "https://decrypt.co/379126/openai-ukraine-access-daybreak-ai-cyber-defense-tool",
+        "source": "crypto",
+        "time": "Wed, 23 Sep 2026 22:06:04 +0000"
+      },
       {
         "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic&#39;s Claude",
         "url": "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
@@ -14,24 +32,6 @@
         "url": "https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how",
         "source": "crypto",
         "time": "Wed, 23 Sep 2026 20:44:20 +0000"
-      },
-      {
-        "title": "Zcash&#39;s Wall Street Moment Reaches Europe With Its First ETP Listing",
-        "url": "https://decrypt.co/379105/zcash-wall-street-europe-first-etp",
-        "source": "crypto",
-        "time": "Wed, 23 Sep 2026 19:36:15 +0000"
-      },
-      {
-        "title": "$15.6 Billion in Bitcoin Options Expire Friday—Here&#39;s What It Means",
-        "url": "https://decrypt.co/379093/15-6-billion-bitcoin-options-expire-friday-what-means",
-        "source": "crypto",
-        "time": "Wed, 23 Sep 2026 18:46:03 +0000"
-      },
-      {
-        "title": "Borrow Against Your Bitcoin at a Fixed Rate: Coinbase Expands Morpho Loans",
-        "url": "https://decrypt.co/379091/borrow-against-bitcoin-fixed-rate-coinbase-morpho",
-        "source": "crypto",
-        "time": "Wed, 23 Sep 2026 18:15:06 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "9/23/2026, 6:06:47 PM"
       },
       {
-        "title": "VSCode's SSH Agent Is Bananas",
+        "title": "Linux support is coming to Snapdragon X2 Series",
+        "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+        "source": "hn",
+        "time": "9/23/2026, 10:38:16 PM"
+      },
+      {
+        "title": "VSCode's SSH Agent Is Bananas (2025)",
         "url": "https://fly.io/blog/vscode-ssh-wtf/",
         "source": "hn",
         "time": "9/23/2026, 9:01:48 PM"
+      },
+      {
+        "title": "We just shipped support for the ugliest part of HTTP: Vary – Cloudflare Blog",
+        "url": "https://blog.cloudflare.com/vary-support/",
+        "source": "hn",
+        "time": "9/23/2026, 10:03:21 PM"
       },
       {
         "title": "Fixing the Portobello Police Station Clock",
         "url": "https://pointinthecloud.com/2026-04-11-211700.html",
         "source": "hn",
         "time": "9/23/2026, 3:18:53 PM"
-      },
-      {
-        "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
-        "url": "https://huggingface.co/apple/LensVLM-9B",
-        "source": "hn",
-        "time": "9/23/2026, 6:36:29 PM"
-      },
-      {
-        "title": "A brief history of Windows scroll bar shortcuts",
-        "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-        "source": "hn",
-        "time": "9/23/2026, 6:02:08 PM"
       }
     ],
     "world": [
@@ -74,16 +74,16 @@
         "time": "Wed, 23 Sep 2026 21:01:06 GMT"
       },
       {
+        "title": "What video footage tells us about RAF training jet crash",
+        "url": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 23 Sep 2026 22:48:29 GMT"
+      },
+      {
         "title": "UK military jamming other nations' satellites to defend itself, BBC told",
         "url": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 23 Sep 2026 17:01:11 GMT"
-      },
-      {
-        "title": "Watch: Moment pilots eject as RAF jet crashes in Anglesey",
-        "url": "https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 23 Sep 2026 15:23:49 GMT"
       },
       {
         "title": "Home secretary says undetected migrant landings 'unacceptable'",
