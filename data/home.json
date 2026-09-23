@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-23T05:47:44.580Z",
-  "updated_local": "9/23/2026, 5:47:44 AM",
+  "updated_iso": "2026-09-23T09:03:48.948Z",
+  "updated_local": "9/23/2026, 9:03:48 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Jev in 25 Lines of Python",
+        "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+        "source": "hn",
+        "time": "9/23/2026, 7:26:23 AM"
+      },
+      {
         "title": "GPT-6 Sol and Luna",
         "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
         "source": "hn",
@@ -48,16 +54,10 @@
         "time": "9/22/2026, 4:29:05 PM"
       },
       {
-        "title": "Transit rewards (Waymo pays you to take the train)",
+        "title": "Transit rewards",
         "url": "https://waymo.com/blog/2026/09/transit-rewards/",
         "source": "hn",
         "time": "9/23/2026, 2:52:29 AM"
-      },
-      {
-        "title": "Data-only attacks are easier than you think (2024)",
-        "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
-        "source": "hn",
-        "time": "9/23/2026, 3:49:28 AM"
       },
       {
         "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
@@ -68,16 +68,22 @@
     ],
     "world": [
       {
-        "title": "UK to fight Russian disinformation and push new global AI standards, Burnham says",
-        "url": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 23 Sep 2026 01:08:40 GMT"
+        "time": "Wed, 23 Sep 2026 08:31:24 GMT"
       },
       {
-        "title": "Watch: Key moments from Andy Burnham's first UN speech",
-        "url": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK to step up fight against Russian disinformation and push global AI standards, PM says",
+        "url": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 23 Sep 2026 01:25:47 GMT"
+        "time": "Wed, 23 Sep 2026 07:07:20 GMT"
+      },
+      {
+        "title": "Chris Mason: From inside the room, how Burnham survived first Trump meeting",
+        "url": "https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 23 Sep 2026 04:32:59 GMT"
       },
       {
         "title": "Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cjp306113l0wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 23 Sep 2026 05:00:32 GMT"
-      },
-      {
-        "title": "'Poison seller' who sold my daughter deadly drugs should rot in hell",
-        "url": "https://www.bbc.co.uk/news/articles/c9j3dgxl8j58o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 22 Sep 2026 23:20:43 GMT"
       }
     ],
     "projects": [
