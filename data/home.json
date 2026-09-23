@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-09-23T11:21:09.207Z",
-  "updated_local": "9/23/2026, 11:21:09 AM",
+  "updated_iso": "2026-09-23T14:39:58.066Z",
+  "updated_local": "9/23/2026, 2:39:58 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Bitcoin Hits $86,000 as Oil Slides and ETFs Bid",
+        "url": "https://decrypt.co/379033/morning-minute-bitcoin-hits-86000-as-oil-slides-and-etfs-bid",
+        "source": "crypto",
+        "time": "Wed, 23 Sep 2026 12:26:07 +0000"
+      },
+      {
+        "title": "North Korea&#39;s Fake Job Interviews Drained $11M From 7,000 Crypto Wallets",
+        "url": "https://decrypt.co/379032/north-koreas-fake-job-interviews-drained-11m-from-7000-crypto-wallets",
+        "source": "crypto",
+        "time": "Wed, 23 Sep 2026 12:15:18 +0000"
+      },
       {
         "title": "CFTC Staff Advisory Says Prediction Market &#39;Mention&#39; Contracts Invite Manipulation",
         "url": "https://decrypt.co/379030/cftc-staff-advisory-says-prediction-market-mention-contracts-invite-manipulation",
@@ -20,26 +32,26 @@
         "url": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
         "source": "crypto",
         "time": "Tue, 22 Sep 2026 22:16:03 +0000"
-      },
-      {
-        "title": "$161 Million in Decade-Old Bitcoin Has Moved in Just Two Weeks",
-        "url": "https://decrypt.co/379006/161-million-decade-old-bitcoin-moves-two-weeks",
-        "source": "crypto",
-        "time": "Tue, 22 Sep 2026 21:16:03 +0000"
-      },
-      {
-        "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
-        "url": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
-        "source": "crypto",
-        "time": "Tue, 22 Sep 2026 20:46:03 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "The darker side of being a doctor",
-        "url": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
+        "title": "Claude Code reads AGENTS.md only when telemetry is on",
+        "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
         "source": "hn",
-        "time": "9/23/2026, 10:54:55 AM"
+        "time": "9/23/2026, 12:15:33 PM"
+      },
+      {
+        "title": "The GitHub wiki is an anti-pattern",
+        "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+        "source": "hn",
+        "time": "9/23/2026, 1:05:49 PM"
+      },
+      {
+        "title": "I Don't Want the Details",
+        "url": "https://michaelheap.com/i-dont-want-the-details/",
+        "source": "hn",
+        "time": "9/23/2026, 1:04:44 PM"
       },
       {
         "title": "Jev in 25 Lines of Python",
@@ -48,22 +60,10 @@
         "time": "9/23/2026, 7:26:23 AM"
       },
       {
-        "title": "GPT-6 Sol and Luna",
-        "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+        "title": "Z80 REPL",
+        "url": "https://abagames.github.io/z80-repl/index.html",
         "source": "hn",
-        "time": "9/22/2026, 6:00:34 PM"
-      },
-      {
-        "title": "Claude Opus 5.5",
-        "url": "https://www.anthropic.com/claude-opus-5-5",
-        "source": "hn",
-        "time": "9/22/2026, 4:29:05 PM"
-      },
-      {
-        "title": "Transit rewards",
-        "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-        "source": "hn",
-        "time": "9/23/2026, 2:52:29 AM"
+        "time": "9/23/2026, 11:04:52 AM"
       }
     ],
     "world": [
@@ -71,31 +71,31 @@
         "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 23 Sep 2026 10:49:44 GMT"
+        "time": "Wed, 23 Sep 2026 12:52:53 GMT"
       },
       {
-        "title": "Chris Mason: From inside the room, how Burnham survived first Trump meeting",
-        "url": "https://www.bbc.co.uk/news/articles/cm158y74n5vxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Police examine video of anti-migrant activist slashing dinghy with knife",
+        "url": "https://www.bbc.co.uk/news/articles/c3rr48pxg54qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 23 Sep 2026 04:32:59 GMT"
-      },
-      {
-        "title": "Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery",
-        "url": "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 23 Sep 2026 05:00:25 GMT"
-      },
-      {
-        "title": "'My eyelids became infected - I was scared to sleep'",
-        "url": "https://www.bbc.co.uk/news/videos/cjp306113l0wo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 23 Sep 2026 05:00:32 GMT"
+        "time": "Wed, 23 Sep 2026 11:47:17 GMT"
       },
       {
         "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
         "url": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 23 Sep 2026 11:00:08 GMT"
+        "time": "Wed, 23 Sep 2026 13:50:25 GMT"
+      },
+      {
+        "title": "Two pilots eject and parachute out of RAF plane before crash",
+        "url": "https://www.bbc.co.uk/news/articles/cq62k1947l7po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 23 Sep 2026 14:20:17 GMT"
+      },
+      {
+        "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
+        "url": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 23 Sep 2026 11:00:09 GMT"
       }
     ],
     "projects": [
