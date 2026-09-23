@@ -1,77 +1,89 @@
 {
-  "updated_iso": "2026-09-23T14:39:58.066Z",
-  "updated_local": "9/23/2026, 2:39:58 PM",
+  "updated_iso": "2026-09-23T16:43:05.688Z",
+  "updated_local": "9/23/2026, 4:43:05 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
+        "url": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs",
+        "source": "crypto",
+        "time": "Wed, 23 Sep 2026 16:36:03 +0000"
+      },
+      {
+        "title": "Americans Would Use Stablecoins—If They Came With Bank Protections, Visa Study Finds",
+        "url": "https://decrypt.co/379073/americans-stablecoins-bank-protections-visa",
+        "source": "crypto",
+        "time": "Wed, 23 Sep 2026 16:26:03 +0000"
+      },
+      {
+        "title": "Bitcoin Dips, But Its Forks Are Flying Again",
+        "url": "https://decrypt.co/379048/bitcoin-dips-but-forks-are-flying-bch-bsv",
+        "source": "crypto",
+        "time": "Wed, 23 Sep 2026 15:56:03 +0000"
+      },
+      {
+        "title": "BlackRock: AI Agents Could Drive Crypto&#39;s Next Demand Wave",
+        "url": "https://decrypt.co/379070/blackrock-ai-agents-crypto-next-demand-wave",
+        "source": "crypto",
+        "time": "Wed, 23 Sep 2026 15:41:46 +0000"
+      },
       {
         "title": "Morning Minute: Bitcoin Hits $86,000 as Oil Slides and ETFs Bid",
         "url": "https://decrypt.co/379033/morning-minute-bitcoin-hits-86000-as-oil-slides-and-etfs-bid",
         "source": "crypto",
         "time": "Wed, 23 Sep 2026 12:26:07 +0000"
-      },
-      {
-        "title": "North Korea&#39;s Fake Job Interviews Drained $11M From 7,000 Crypto Wallets",
-        "url": "https://decrypt.co/379032/north-koreas-fake-job-interviews-drained-11m-from-7000-crypto-wallets",
-        "source": "crypto",
-        "time": "Wed, 23 Sep 2026 12:15:18 +0000"
-      },
-      {
-        "title": "CFTC Staff Advisory Says Prediction Market &#39;Mention&#39; Contracts Invite Manipulation",
-        "url": "https://decrypt.co/379030/cftc-staff-advisory-says-prediction-market-mention-contracts-invite-manipulation",
-        "source": "crypto",
-        "time": "Wed, 23 Sep 2026 10:43:46 +0000"
-      },
-      {
-        "title": "Former Polish Police Officer Charged as Zondacrypto Probe Searches Fuel Depot",
-        "url": "https://decrypt.co/379021/former-polish-police-officer-charged-as-zondacrypto-probe-searches-fuel-depot",
-        "source": "crypto",
-        "time": "Wed, 23 Sep 2026 09:53:07 +0000"
-      },
-      {
-        "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
-        "url": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
-        "source": "crypto",
-        "time": "Tue, 22 Sep 2026 22:16:03 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Claude Code reads AGENTS.md only when telemetry is on",
-        "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+        "title": "Fixing the Portobello Police Station Clock",
+        "url": "https://pointinthecloud.com/2026-04-11-211700.html",
         "source": "hn",
-        "time": "9/23/2026, 12:15:33 PM"
+        "time": "9/23/2026, 3:18:53 PM"
       },
       {
-        "title": "The GitHub wiki is an anti-pattern",
-        "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+        "title": "Gemini 3.8 text-to-speech says hello",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
         "source": "hn",
-        "time": "9/23/2026, 1:05:49 PM"
+        "time": "9/23/2026, 3:29:23 PM"
       },
       {
-        "title": "I Don't Want the Details",
-        "url": "https://michaelheap.com/i-dont-want-the-details/",
+        "title": "GPT-6 Astra has gained the ability to drive a car",
+        "url": "https://drivingbench.com/",
         "source": "hn",
-        "time": "9/23/2026, 1:04:44 PM"
+        "time": "9/23/2026, 3:14:22 PM"
       },
       {
-        "title": "Jev in 25 Lines of Python",
-        "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+        "title": "Stripe's Knowledge AI Platform",
+        "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
         "source": "hn",
-        "time": "9/23/2026, 7:26:23 AM"
+        "time": "9/23/2026, 1:38:00 PM"
       },
       {
-        "title": "Z80 REPL",
-        "url": "https://abagames.github.io/z80-repl/index.html",
+        "title": "Strands Harness",
+        "url": "https://strandsagents.com/blog/introducing-strands-harness/",
         "source": "hn",
-        "time": "9/23/2026, 11:04:52 AM"
+        "time": "9/23/2026, 3:05:46 PM"
       }
     ],
     "world": [
       {
-        "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Home secretary says undetected migrant landings 'unacceptable'",
+        "url": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 23 Sep 2026 12:52:53 GMT"
+        "time": "Wed, 23 Sep 2026 16:42:23 GMT"
+      },
+      {
+        "title": "Watch: Moment pilots eject as RAF jet crashes in Anglesey",
+        "url": "https://www.bbc.co.uk/news/videos/c6wyz0zlx10qo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 23 Sep 2026 15:23:49 GMT"
+      },
+      {
+        "title": "Iran's president tells Trump it will never 'bend the knee'",
+        "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 23 Sep 2026 15:58:13 GMT"
       },
       {
         "title": "Police examine video of anti-migrant activist slashing dinghy with knife",
@@ -80,22 +92,10 @@
         "time": "Wed, 23 Sep 2026 11:47:17 GMT"
       },
       {
-        "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
-        "url": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 23 Sep 2026 13:50:25 GMT"
-      },
-      {
-        "title": "Two pilots eject and parachute out of RAF plane before crash",
-        "url": "https://www.bbc.co.uk/news/articles/cq62k1947l7po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 23 Sep 2026 14:20:17 GMT"
-      },
-      {
-        "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
-        "url": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 23 Sep 2026 11:00:09 GMT"
+        "time": "Wed, 23 Sep 2026 12:52:53 GMT"
       }
     ],
     "projects": [
