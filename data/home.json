@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-09-23T09:03:48.948Z",
-  "updated_local": "9/23/2026, 9:03:48 AM",
+  "updated_iso": "2026-09-23T11:21:09.207Z",
+  "updated_local": "9/23/2026, 11:21:09 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "CFTC Staff Advisory Says Prediction Market &#39;Mention&#39; Contracts Invite Manipulation",
+        "url": "https://decrypt.co/379030/cftc-staff-advisory-says-prediction-market-mention-contracts-invite-manipulation",
+        "source": "crypto",
+        "time": "Wed, 23 Sep 2026 10:43:46 +0000"
+      },
+      {
+        "title": "Former Polish Police Officer Charged as Zondacrypto Probe Searches Fuel Depot",
+        "url": "https://decrypt.co/379021/former-polish-police-officer-charged-as-zondacrypto-probe-searches-fuel-depot",
+        "source": "crypto",
+        "time": "Wed, 23 Sep 2026 09:53:07 +0000"
+      },
       {
         "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
         "url": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
@@ -20,21 +32,15 @@
         "url": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
         "source": "crypto",
         "time": "Tue, 22 Sep 2026 20:46:03 +0000"
-      },
-      {
-        "title": "Inside Coinbase’s $250 Billion Playbook for Post-Quantum Bitcoin Custody",
-        "url": "https://decrypt.co/379000/coinbase-playbook-post-quantum-bitcoin-custody",
-        "source": "crypto",
-        "time": "Tue, 22 Sep 2026 20:01:03 +0000"
-      },
-      {
-        "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into &#39;Recovery Trust&#39;",
-        "url": "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust",
-        "source": "crypto",
-        "time": "Tue, 22 Sep 2026 19:31:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "The darker side of being a doctor",
+        "url": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
+        "source": "hn",
+        "time": "9/23/2026, 10:54:55 AM"
+      },
       {
         "title": "Jev in 25 Lines of Python",
         "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
@@ -58,12 +64,6 @@
         "url": "https://waymo.com/blog/2026/09/transit-rewards/",
         "source": "hn",
         "time": "9/23/2026, 2:52:29 AM"
-      },
-      {
-        "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-        "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-        "source": "hn",
-        "time": "9/22/2026, 1:52:15 PM"
       }
     ],
     "world": [
@@ -71,13 +71,7 @@
         "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 23 Sep 2026 08:31:24 GMT"
-      },
-      {
-        "title": "UK to step up fight against Russian disinformation and push global AI standards, PM says",
-        "url": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 23 Sep 2026 07:07:20 GMT"
+        "time": "Wed, 23 Sep 2026 10:49:44 GMT"
       },
       {
         "title": "Chris Mason: From inside the room, how Burnham survived first Trump meeting",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/videos/cjp306113l0wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 23 Sep 2026 05:00:32 GMT"
+      },
+      {
+        "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
+        "url": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 23 Sep 2026 11:00:08 GMT"
       }
     ],
     "projects": [
