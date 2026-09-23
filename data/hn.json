@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-22T22:34:32.903Z"
+    "built_at": "2026-09-23T01:05:54.743Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Nearly Half of Age of Empires Dev Edge Laid Off",
+      "url": "https://www.vgchartz.com/article/469158/nearly-half-of-age-of-empires-dev-worlds-edge-laid-off/",
+      "date": "2026-09-23T01:00:11.000Z"
+    },
+    {
+      "title": "We're Making Tailscale Faster",
+      "url": "https://tailscale.com/blog/making-tailscale-faster",
+      "date": "2026-09-23T00:59:10.000Z"
+    }
+  ]
 }
