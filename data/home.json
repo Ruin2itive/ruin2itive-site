@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-09-23T20:08:38.117Z",
-  "updated_local": "9/23/2026, 8:08:38 PM",
+  "updated_iso": "2026-09-23T22:02:34.733Z",
+  "updated_local": "9/23/2026, 10:02:34 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic&#39;s Claude",
+        "url": "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
+        "source": "crypto",
+        "time": "Wed, 23 Sep 2026 21:31:03 +0000"
+      },
+      {
+        "title": "Meta&#39;s Muse AI Agent Read a User&#39;s Private iMessages. Then It Lied About How",
+        "url": "https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how",
+        "source": "crypto",
+        "time": "Wed, 23 Sep 2026 20:44:20 +0000"
+      },
       {
         "title": "Zcash&#39;s Wall Street Moment Reaches Europe With Its First ETP Listing",
         "url": "https://decrypt.co/379105/zcash-wall-street-europe-first-etp",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/379091/borrow-against-bitcoin-fixed-rate-coinbase-morpho",
         "source": "crypto",
         "time": "Wed, 23 Sep 2026 18:15:06 +0000"
-      },
-      {
-        "title": "Crypto Exchange That Invented 100x Leverage Is No More: Here’s What BitMEX Users Need to Know",
-        "url": "https://decrypt.co/379089/crypto-exchange-that-invented-100x-leverage-is-no-more-heres-what-bitmex-users-need-to-know",
-        "source": "crypto",
-        "time": "Wed, 23 Sep 2026 17:31:03 +0000"
-      },
-      {
-        "title": "Canada&#39;s Six Biggest Banks Team Up on a Shared Digital-Dollar Network",
-        "url": "https://decrypt.co/379081/canada-six-biggest-banks-shared-digital-dollar-network",
-        "source": "crypto",
-        "time": "Wed, 23 Sep 2026 17:01:03 +0000"
       }
     ],
     "hacker": [
@@ -42,42 +42,42 @@
         "time": "9/23/2026, 6:06:47 PM"
       },
       {
+        "title": "VSCode's SSH Agent Is Bananas",
+        "url": "https://fly.io/blog/vscode-ssh-wtf/",
+        "source": "hn",
+        "time": "9/23/2026, 9:01:48 PM"
+      },
+      {
         "title": "Fixing the Portobello Police Station Clock",
         "url": "https://pointinthecloud.com/2026-04-11-211700.html",
         "source": "hn",
         "time": "9/23/2026, 3:18:53 PM"
       },
       {
-        "title": "How we made claude.ai 3x faster in two weeks",
-        "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+        "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
+        "url": "https://huggingface.co/apple/LensVLM-9B",
         "source": "hn",
-        "time": "9/23/2026, 7:23:40 PM"
+        "time": "9/23/2026, 6:36:29 PM"
       },
       {
         "title": "A brief history of Windows scroll bar shortcuts",
         "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
         "source": "hn",
         "time": "9/23/2026, 6:02:08 PM"
-      },
-      {
-        "title": "Cloud Agents Are Inevitable AI Prisons",
-        "url": "https://normanponte.io/19df691f",
-        "source": "hn",
-        "time": "9/23/2026, 6:16:41 PM"
       }
     ],
     "world": [
+      {
+        "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+        "url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 23 Sep 2026 21:01:06 GMT"
+      },
       {
         "title": "UK military jamming other nations' satellites to defend itself, BBC told",
         "url": "https://www.bbc.co.uk/news/articles/c32l8y8kygdvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 23 Sep 2026 17:01:11 GMT"
-      },
-      {
-        "title": "Home secretary says undetected migrant landings 'unacceptable'",
-        "url": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 23 Sep 2026 17:18:49 GMT"
       },
       {
         "title": "Watch: Moment pilots eject as RAF jet crashes in Anglesey",
@@ -86,16 +86,16 @@
         "time": "Wed, 23 Sep 2026 15:23:49 GMT"
       },
       {
-        "title": "Iran's president tells Trump it will never 'bend the knee'",
-        "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Home secretary says undetected migrant landings 'unacceptable'",
+        "url": "https://www.bbc.co.uk/news/articles/cm5yjzj8l5k5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 23 Sep 2026 18:15:31 GMT"
+        "time": "Wed, 23 Sep 2026 17:18:49 GMT"
       },
       {
-        "title": "Police examine video of anti-migrant activist slashing dinghy with knife",
-        "url": "https://www.bbc.co.uk/news/articles/c3rr48pxg54qo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Burnham brands ban on football fans drinking alcohol in stands as 'discrimination'",
+        "url": "https://www.bbc.co.uk/news/articles/c933ky0nknxko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 23 Sep 2026 11:47:17 GMT"
+        "time": "Wed, 23 Sep 2026 21:01:16 GMT"
       }
     ],
     "projects": [
