@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-24T00:08:36.988Z"
+    "built_at": "2026-09-24T05:41:31.852Z"
   },
-  "items": [
-    {
-      "title": "From biologists, math could learn to live with AI",
-      "url": "https://terrytao.wordpress.com/2026/09/22/open-problems-open-mathematics/",
-      "date": "2026-09-24T00:04:00.000Z"
-    },
-    {
-      "title": "Do Social Norms Substitute for Enforcement? [pdf]",
-      "url": "https://www.nber.org/system/files/working_papers/w35756/w35756.pdf",
-      "date": "2026-09-24T00:02:01.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
