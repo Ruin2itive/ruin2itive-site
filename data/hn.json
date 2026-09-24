@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-24T10:50:09.823Z"
+    "built_at": "2026-09-24T15:37:28.988Z"
   },
-  "items": [
-    {
-      "title": "I built aiFlow, a free and open-source macOS file manager",
-      "url": "https://github.com/nnikolaandric-sudo/aiFlow",
-      "date": "2026-09-24T10:49:52.000Z"
-    },
-    {
-      "title": "Enjoy.dev: one person, infinite engineers",
-      "url": "https://enjoy.dev/",
-      "date": "2026-09-24T10:48:40.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
