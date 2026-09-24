@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-24T07:10:19.142Z",
-  "updated_local": "9/24/2026, 7:10:19 AM",
+  "updated_iso": "2026-09-24T09:51:52.449Z",
+  "updated_local": "9/24/2026, 9:51:52 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
+        "url": "https://decrypt.co/379153/brooklyn-man-who-bragged-about-16m-coinbase-scam-gets-up-to-12-years",
+        "source": "crypto",
+        "time": "Thu, 24 Sep 2026 09:00:46 +0000"
+      },
       {
         "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn&#39;t Know What",
         "url": "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
         "source": "crypto",
         "time": "Wed, 23 Sep 2026 21:31:03 +0000"
-      },
-      {
-        "title": "Meta&#39;s Muse AI Agent Read a User&#39;s Private iMessages. Then It Lied About How",
-        "url": "https://decrypt.co/379122/metas-muse-ai-agent-user-private-imessages-lied-how",
-        "source": "crypto",
-        "time": "Wed, 23 Sep 2026 20:44:20 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "9/23/2026, 10:38:16 PM"
       },
       {
-        "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "source": "hn",
-        "time": "9/23/2026, 6:06:47 PM"
-      },
-      {
         "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
         "url": "https://transluce.org/agent-activity",
         "source": "hn",
         "time": "9/24/2026, 5:21:10 AM"
+      },
+      {
+        "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "source": "hn",
+        "time": "9/23/2026, 6:06:47 PM"
       },
       {
         "title": "Ideas on modernizing the open-source desktop",
@@ -68,10 +68,16 @@
     ],
     "world": [
       {
-        "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
-        "url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found",
+        "url": "https://www.bbc.co.uk/news/articles/ckddvje77m2zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 23 Sep 2026 21:01:06 GMT"
+        "time": "Thu, 24 Sep 2026 09:51:31 GMT"
+      },
+      {
+        "title": "Anti-migrant activist arrested over video of dinghy slashing",
+        "url": "https://www.bbc.co.uk/news/articles/c6eq8e98wnr7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 24 Sep 2026 08:42:35 GMT"
       },
       {
         "title": "Watch: Trump greets China's Xi beside plane in rare presidential welcome for foreign leader",
@@ -80,19 +86,13 @@
         "time": "Wed, 23 Sep 2026 23:03:56 GMT"
       },
       {
-        "title": "Teenagers to be offered new vocational GCSE subjects in school",
-        "url": "https://www.bbc.co.uk/news/articles/c6rerl41evw5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
+        "url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 24 Sep 2026 07:02:45 GMT"
+        "time": "Thu, 24 Sep 2026 07:10:19 GMT"
       },
       {
-        "title": "Judge temporarily overturns Trump's White House media ban",
-        "url": "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 24 Sep 2026 06:40:18 GMT"
-      },
-      {
-        "title": "What video footage tells us about RAF training jet crash",
+        "title": "What we know after video shows moment of RAF training jet crash",
         "url": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 23 Sep 2026 22:48:29 GMT"
