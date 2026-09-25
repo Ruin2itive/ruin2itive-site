@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-25T12:27:59.912Z"
+    "built_at": "2026-09-25T17:39:47.777Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Nearly 2,400-year-old school where Aristotle taught Alexander the Great",
+      "url": "https://www.livescience.com/archaeology/nearly-2-400-year-old-school-where-aristotle-taught-alexander-the-great-discovered-in-greece",
+      "date": "2026-09-25T17:37:39.000Z"
+    },
+    {
+      "title": "September Update: Meet the Latchkey CLI",
+      "url": "https://latchkey.dev/blog/latchkey-cli",
+      "date": "2026-09-25T17:36:27.000Z"
+    }
+  ]
 }
