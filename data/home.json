@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-09-25T13:35:40.722Z",
-  "updated_local": "9/25/2026, 1:35:40 PM",
+  "updated_iso": "2026-09-25T16:31:19.525Z",
+  "updated_local": "9/25/2026, 4:31:19 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
+        "url": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
+        "source": "crypto",
+        "time": "Fri, 25 Sep 2026 16:17:19 +0000"
+      },
+      {
+        "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing",
+        "url": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
+        "source": "crypto",
+        "time": "Fri, 25 Sep 2026 16:06:23 +0000"
+      },
       {
         "title": "Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year",
         "url": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
@@ -20,26 +32,14 @@
         "url": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
         "source": "crypto",
         "time": "Fri, 25 Sep 2026 13:04:06 +0000"
-      },
-      {
-        "title": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
-        "url": "https://decrypt.co/379290/defense-secretary-pete-hegseth-holds-bitcoin-in-a-coinbase-wallet-filing-shows",
-        "source": "crypto",
-        "time": "Fri, 25 Sep 2026 12:01:15 +0000"
-      },
-      {
-        "title": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
-        "url": "https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit",
-        "source": "crypto",
-        "time": "Fri, 25 Sep 2026 11:09:52 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-        "url": "https://www.dawo.community/en/",
+        "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+        "url": "https://github.com/Avinash-jetwani/jevmem",
         "source": "hn",
-        "time": "9/25/2026, 8:06:49 AM"
+        "time": "9/25/2026, 4:04:04 PM"
       },
       {
         "title": "Platform-Independent SIMD in Go",
@@ -48,42 +48,42 @@
         "time": "9/25/2026, 11:47:06 AM"
       },
       {
-        "title": "I'm Tired of Being on the Network",
-        "url": "https://matduggan.com/im-tired-of-being-on-the-network/",
-        "source": "hn",
-        "time": "9/25/2026, 12:13:55 PM"
-      },
-      {
         "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
         "url": "https://github.com/git-bug/git-bug",
         "source": "hn",
         "time": "9/25/2026, 11:38:31 AM"
       },
       {
-        "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-        "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+        "title": "First Principles Thinking",
+        "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
         "source": "hn",
-        "time": "9/25/2026, 7:27:45 AM"
+        "time": "9/25/2026, 1:55:37 PM"
+      },
+      {
+        "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+        "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+        "source": "hn",
+        "time": "9/25/2026, 3:27:35 PM"
       }
     ],
     "world": [
       {
-        "title": "Noah Woods left playground through gap in fence, inquest hears",
-        "url": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: What could the potential sanctions for Man City be?",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 25 Sep 2026 12:51:48 GMT"
+        "time": "Fri, 25 Sep 2026 14:55:14 GMT"
       },
       {
-        "title": "Daniel Thomas pleads not guilty after dinghy slashed",
-        "url": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "I'm not tempted to call an early election, Burnham says",
+        "url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 25 Sep 2026 11:37:17 GMT"
+        "time": "Fri, 25 Sep 2026 16:04:05 GMT"
       },
       {
-        "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-        "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Special agents' blood and urine test results stolen in FBI hack",
+        "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 25 Sep 2026 03:57:09 GMT"
+        "time": "Fri, 25 Sep 2026 13:56:16 GMT"
       },
       {
         "title": "Some BBC channels and radio stations may well have to close, director general says",
@@ -92,10 +92,10 @@
         "time": "Fri, 25 Sep 2026 12:00:11 GMT"
       },
       {
-        "title": "NHS to suspend staff suspected of snooping on patient records",
-        "url": "https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Noah Woods left playground through gap in fence, inquest hears",
+        "url": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 25 Sep 2026 12:47:03 GMT"
+        "time": "Fri, 25 Sep 2026 12:51:48 GMT"
       }
     ],
     "projects": [
