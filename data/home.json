@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-25T07:35:51.307Z",
-  "updated_local": "9/25/2026, 7:35:51 AM",
+  "updated_iso": "2026-09-25T11:07:50.044Z",
+  "updated_local": "9/25/2026, 11:07:50 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Researchers Publish &#39;Zcash-Style&#39; Design for Private Bitcoin Transfers",
+        "url": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers",
+        "source": "crypto",
+        "time": "Fri, 25 Sep 2026 09:50:01 +0000"
+      },
       {
         "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
         "url": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
@@ -26,76 +32,70 @@
         "url": "https://decrypt.co/379253/meta-ai-toy-muse-charm-keychain-watches-listens",
         "source": "crypto",
         "time": "Thu, 24 Sep 2026 19:16:03 +0000"
-      },
-      {
-        "title": "AI Can Now Doxx Your Anonymous Accounts? Here&#39;s What’s Going On",
-        "url": "https://decrypt.co/379228/ai-can-now-doxx-your-anonymous-accounts-heres-whats-going-on",
-        "source": "crypto",
-        "time": "Thu, 24 Sep 2026 18:31:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+        "url": "https://www.dawo.community/en/",
+        "source": "hn",
+        "time": "9/25/2026, 8:06:49 AM"
+      },
+      {
+        "title": "The Mafia may be keeping fentanyl out of Italy",
+        "url": "https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy",
+        "source": "hn",
+        "time": "9/25/2026, 10:20:20 AM"
+      },
+      {
+        "title": "Ink and Switch Interactive Homepage",
+        "url": "https://www.inkandswitch.com/",
+        "source": "hn",
+        "time": "9/25/2026, 9:50:25 AM"
+      },
+      {
+        "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+        "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+        "source": "hn",
+        "time": "9/25/2026, 7:27:45 AM"
+      },
       {
         "title": "F-Droid 2.0",
         "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
         "source": "hn",
         "time": "9/24/2026, 3:26:12 PM"
-      },
-      {
-        "title": "Show HN: Make cursed fonts like Times New Bastard",
-        "url": "https://bastardica.mitpit.com",
-        "source": "hn",
-        "time": "9/23/2026, 10:53:28 PM"
-      },
-      {
-        "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
-        "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
-        "source": "hn",
-        "time": "9/25/2026, 7:03:46 AM"
-      },
-      {
-        "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-        "url": "https://github.com/devdotfast/whiteboard",
-        "source": "hn",
-        "time": "9/24/2026, 5:21:36 PM"
-      },
-      {
-        "title": "Why is the liver so weirdly regenerative?",
-        "url": "https://dynomight.substack.com/p/liver",
-        "source": "hn",
-        "time": "9/24/2026, 4:23:00 PM"
       }
     ],
     "world": [
       {
-        "title": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
-        "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Noah Woods left playground through gap in fence, inquest hears",
+        "url": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 25 Sep 2026 06:40:18 GMT"
+        "time": "Fri, 25 Sep 2026 11:03:48 GMT"
       },
       {
-        "title": "Watch: The world’s two most powerful men just met. How did it go?",
-        "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Families failed by decision to bail sex offender to flat near playground, victims' commissioner says",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyzrrnn015o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 25 Sep 2026 01:27:10 GMT"
+        "time": "Fri, 25 Sep 2026 10:03:25 GMT"
       },
       {
-        "title": "Brain tumour diagnosis cut from weeks to hours with rapid new test",
-        "url": "https://www.bbc.co.uk/news/articles/cr3wj04d88ywo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+        "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 24 Sep 2026 23:44:00 GMT"
+        "time": "Fri, 25 Sep 2026 03:57:09 GMT"
+      },
+      {
+        "title": "Daniel Thomas pleads not guilty after dinghy slashed",
+        "url": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 25 Sep 2026 11:06:53 GMT"
       },
       {
         "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
         "url": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 24 Sep 2026 23:45:08 GMT"
-      },
-      {
-        "title": "New policies, election speculation: What to expect from Burnham's first Labour conference as PM",
-        "url": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 24 Sep 2026 23:44:38 GMT"
       }
     ],
     "projects": [
