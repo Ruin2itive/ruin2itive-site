@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-09-25T18:27:26.275Z",
-  "updated_local": "9/25/2026, 6:27:26 PM",
+  "updated_iso": "2026-09-25T20:14:13.969Z",
+  "updated_local": "9/25/2026, 8:14:13 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
+        "url": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
+        "source": "crypto",
+        "time": "Fri, 25 Sep 2026 19:45:39 +0000"
+      },
+      {
+        "title": "Google Built an AI That Hunts Its Own Security Bugs",
+        "url": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
+        "source": "crypto",
+        "time": "Fri, 25 Sep 2026 19:16:04 +0000"
+      },
+      {
+        "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
+        "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+        "source": "crypto",
+        "time": "Fri, 25 Sep 2026 18:42:51 +0000"
+      },
       {
         "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
         "url": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
@@ -14,56 +32,38 @@
         "url": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
         "source": "crypto",
         "time": "Fri, 25 Sep 2026 17:08:57 +0000"
-      },
-      {
-        "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
-        "url": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
-        "source": "crypto",
-        "time": "Fri, 25 Sep 2026 16:17:19 +0000"
-      },
-      {
-        "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits—XRP and Solana Keep Climbing",
-        "url": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
-        "source": "crypto",
-        "time": "Fri, 25 Sep 2026 16:06:23 +0000"
-      },
-      {
-        "title": "Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year",
-        "url": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
-        "source": "crypto",
-        "time": "Fri, 25 Sep 2026 13:22:00 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Platform-Independent SIMD in Go",
+        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+        "url": "https://ollaya.dev/",
+        "source": "hn",
+        "time": "9/25/2026, 6:33:50 PM"
+      },
+      {
+        "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+        "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+        "source": "hn",
+        "time": "9/25/2026, 6:37:05 PM"
+      },
+      {
+        "title": "Platform-independent SIMD in Go",
         "url": "https://go.dev/blog/simd-experiment",
         "source": "hn",
         "time": "9/25/2026, 11:47:06 AM"
       },
       {
-        "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-        "url": "https://github.com/git-bug/git-bug",
+        "title": "Advice to a Beginning Graduate Student (2001)",
+        "url": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html",
         "source": "hn",
-        "time": "9/25/2026, 11:38:31 AM"
+        "time": "9/25/2026, 7:12:45 PM"
       },
       {
         "title": "First Principles Thinking",
         "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
         "source": "hn",
         "time": "9/25/2026, 1:55:37 PM"
-      },
-      {
-        "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-        "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-        "source": "hn",
-        "time": "9/25/2026, 7:27:45 AM"
-      },
-      {
-        "title": "F-Droid 2.0",
-        "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-        "source": "hn",
-        "time": "9/24/2026, 3:26:12 PM"
       }
     ],
     "world": [
