@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-09-25T16:31:19.525Z",
-  "updated_local": "9/25/2026, 4:31:19 PM",
+  "updated_iso": "2026-09-25T18:27:26.275Z",
+  "updated_local": "9/25/2026, 6:27:26 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
+        "url": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
+        "source": "crypto",
+        "time": "Fri, 25 Sep 2026 17:46:05 +0000"
+      },
+      {
+        "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
+        "url": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
+        "source": "crypto",
+        "time": "Fri, 25 Sep 2026 17:08:57 +0000"
+      },
       {
         "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
         "url": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
@@ -20,27 +32,9 @@
         "url": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
         "source": "crypto",
         "time": "Fri, 25 Sep 2026 13:22:00 +0000"
-      },
-      {
-        "title": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on &#39;More Institutional&#39; Play",
-        "url": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
-        "source": "crypto",
-        "time": "Fri, 25 Sep 2026 13:16:03 +0000"
-      },
-      {
-        "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
-        "url": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
-        "source": "crypto",
-        "time": "Fri, 25 Sep 2026 13:04:06 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
-        "url": "https://github.com/Avinash-jetwani/jevmem",
-        "source": "hn",
-        "time": "9/25/2026, 4:04:04 PM"
-      },
       {
         "title": "Platform-Independent SIMD in Go",
         "url": "https://go.dev/blog/simd-experiment",
@@ -60,10 +54,16 @@
         "time": "9/25/2026, 1:55:37 PM"
       },
       {
-        "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-        "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+        "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+        "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
         "source": "hn",
-        "time": "9/25/2026, 3:27:35 PM"
+        "time": "9/25/2026, 7:27:45 AM"
+      },
+      {
+        "title": "F-Droid 2.0",
+        "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+        "source": "hn",
+        "time": "9/24/2026, 3:26:12 PM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "I'm not tempted to call an early election, Burnham says",
         "url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 25 Sep 2026 16:04:05 GMT"
+        "time": "Fri, 25 Sep 2026 17:15:35 GMT"
       },
       {
         "title": "Special agents' blood and urine test results stolen in FBI hack",
@@ -92,10 +92,10 @@
         "time": "Fri, 25 Sep 2026 12:00:11 GMT"
       },
       {
-        "title": "Noah Woods left playground through gap in fence, inquest hears",
-        "url": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Daniel Thomas pleads not guilty after dinghy slashed",
+        "url": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 25 Sep 2026 12:51:48 GMT"
+        "time": "Fri, 25 Sep 2026 15:01:42 GMT"
       }
     ],
     "projects": [
