@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-24T22:52:24.661Z"
+    "built_at": "2026-09-25T01:03:02.911Z"
   },
-  "items": [
-    {
-      "title": "A24, Sony, or the New York Times May Soon Swallow Letterboxd",
-      "url": "https://gizmodo.com/a24-sony-or-the-new-york-times-may-soon-swallow-letterboxd-2000817016",
-      "date": "2026-09-24T22:51:30.000Z"
-    },
-    {
-      "title": "Lessons for Software Developers from Heinlein (2009)",
-      "url": "https://www.computerworld.com/article/1449456/7-lessons-for-software-developers-from-heinlein.html",
-      "date": "2026-09-24T22:51:19.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
