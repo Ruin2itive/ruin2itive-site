@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-25T20:14:13.969Z",
-  "updated_local": "9/25/2026, 8:14:13 PM",
+  "updated_iso": "2026-09-25T22:11:45.524Z",
+  "updated_local": "9/25/2026, 10:11:45 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
+        "url": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
+        "source": "crypto",
+        "time": "Fri, 25 Sep 2026 21:25:35 +0000"
+      },
       {
         "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
         "url": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
         "source": "crypto",
         "time": "Fri, 25 Sep 2026 17:46:05 +0000"
-      },
-      {
-        "title": "Bitget Hack Losses Climb to $387M: Here’s What Happened, and Why North Korea Is a Suspect",
-        "url": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
-        "source": "crypto",
-        "time": "Fri, 25 Sep 2026 17:08:57 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "9/25/2026, 6:33:50 PM"
       },
       {
-        "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-        "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "url": "https://swarmtraces.org/",
         "source": "hn",
-        "time": "9/25/2026, 6:37:05 PM"
+        "time": "9/25/2026, 9:09:27 PM"
       },
       {
         "title": "Platform-independent SIMD in Go",
@@ -54,10 +54,10 @@
         "time": "9/25/2026, 11:47:06 AM"
       },
       {
-        "title": "Advice to a Beginning Graduate Student (2001)",
-        "url": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html",
+        "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+        "url": "https://github.com/git-bug/git-bug",
         "source": "hn",
-        "time": "9/25/2026, 7:12:45 PM"
+        "time": "9/25/2026, 11:38:31 AM"
       },
       {
         "title": "First Principles Thinking",
@@ -68,10 +68,22 @@
     ],
     "world": [
       {
+        "title": "Man City found guilty of majority of 115 financial rule breaches",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 25 Sep 2026 20:11:12 GMT"
+      },
+      {
         "title": "Watch: What could the potential sanctions for Man City be?",
         "url": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 25 Sep 2026 14:55:14 GMT"
+      },
+      {
+        "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 25 Sep 2026 21:57:23 GMT"
       },
       {
         "title": "I'm not tempted to call an early election, Burnham says",
@@ -80,22 +92,10 @@
         "time": "Fri, 25 Sep 2026 17:15:35 GMT"
       },
       {
-        "title": "Special agents' blood and urine test results stolen in FBI hack",
-        "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 25 Sep 2026 13:56:16 GMT"
-      },
-      {
-        "title": "Some BBC channels and radio stations may well have to close, director general says",
-        "url": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 25 Sep 2026 12:00:11 GMT"
-      },
-      {
-        "title": "Daniel Thomas pleads not guilty after dinghy slashed",
-        "url": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 25 Sep 2026 15:01:42 GMT"
+        "time": "Fri, 25 Sep 2026 20:47:49 GMT"
       }
     ],
     "projects": [
