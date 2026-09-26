@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-09-26T14:05:06.833Z",
-  "updated_local": "9/26/2026, 2:05:06 PM",
+  "updated_iso": "2026-09-26T17:03:54.946Z",
+  "updated_local": "9/26/2026, 5:03:54 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
+        "url": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
+        "source": "crypto",
+        "time": "Sat, 26 Sep 2026 17:01:03 +0000"
+      },
+      {
+        "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
+        "url": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
+        "source": "crypto",
+        "time": "Sat, 26 Sep 2026 16:06:03 +0000"
+      },
+      {
+        "title": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
+        "url": "https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap",
+        "source": "crypto",
+        "time": "Sat, 26 Sep 2026 15:01:05 +0000"
+      },
       {
         "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
         "url": "https://decrypt.co/379353/google-free-1080p-ai-video-generation",
@@ -14,24 +32,6 @@
         "url": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
         "source": "crypto",
         "time": "Fri, 25 Sep 2026 21:25:35 +0000"
-      },
-      {
-        "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
-        "url": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
-        "source": "crypto",
-        "time": "Fri, 25 Sep 2026 19:45:39 +0000"
-      },
-      {
-        "title": "Google Built an AI That Hunts Its Own Security Bugs",
-        "url": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
-        "source": "crypto",
-        "time": "Fri, 25 Sep 2026 19:16:04 +0000"
-      },
-      {
-        "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack—But Most Funds Slip Away",
-        "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-        "source": "crypto",
-        "time": "Fri, 25 Sep 2026 18:42:51 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "9/26/2026, 10:55:56 AM"
       },
       {
-        "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-        "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+        "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+        "url": "https://github.com/InfinityLoop1308/PipePipe",
         "source": "hn",
-        "time": "9/26/2026, 1:05:36 PM"
+        "time": "9/25/2026, 10:55:40 AM"
       },
       {
         "title": "Fifteen years later, the Apple Cards origin story",
@@ -54,30 +54,36 @@
         "time": "9/26/2026, 9:13:41 AM"
       },
       {
-        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "url": "https://swarmtraces.org/",
+        "title": "The Lost Atomic Update on Loongson CPU",
+        "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
         "source": "hn",
-        "time": "9/25/2026, 9:09:27 PM"
+        "time": "9/24/2026, 8:36:40 AM"
       },
       {
-        "title": "ASML currently sells no chipmaking machines in Europe, executive says",
-        "url": "https://nltimes.nl/2026/09/22/asml-currently-sells-chipmaking-machines-europe-executive-says",
+        "title": "Show HN: A Claude Code skill to analyze your chess games",
+        "url": "https://github.com/brumar/chess-postmortem-skills",
         "source": "hn",
-        "time": "9/23/2026, 10:42:13 PM"
+        "time": "9/26/2026, 3:34:53 PM"
       }
     ],
     "world": [
       {
-        "title": "Man City legal fight could spiral out of control, former Premier League club executive warns",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+        "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 26 Sep 2026 11:03:53 GMT"
+        "time": "Sat, 26 Sep 2026 16:54:26 GMT"
       },
       {
-        "title": "British national among six dead in building explosion close to Acropolis in Athens",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Heathrow Airport warns third runway could be delayed by four years",
+        "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 26 Sep 2026 12:47:25 GMT"
+        "time": "Sat, 26 Sep 2026 16:32:42 GMT"
+      },
+      {
+        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 26 Sep 2026 16:58:39 GMT"
       },
       {
         "title": "How long can Labour's feel-good factor last?",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c60m334grx9vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 26 Sep 2026 13:21:27 GMT"
-      },
-      {
-        "title": "Republic of Ireland confirm Israel game will go ahead",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 26 Sep 2026 13:38:29 GMT"
       }
     ],
     "projects": [
