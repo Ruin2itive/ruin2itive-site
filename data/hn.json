@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-26T08:10:25.619Z"
+    "built_at": "2026-09-26T13:31:05.528Z"
   },
-  "items": [
-    {
-      "title": "The eruption that destroyed Pompeii is helping scientists date Earth's history",
-      "url": "https://news.berkeley.edu/2026/09/25/the-eruption-that-destroyed-pompeii-is-helping-scientists-date-earths-history/",
-      "date": "2026-09-26T08:09:35.000Z"
-    },
-    {
-      "title": "Who is behind the AI safety backlash?",
-      "url": "https://twitter.com/TheMidasProj/status/2103577207700365719",
-      "date": "2026-09-26T08:03:46.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
