@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-27T00:13:07.959Z",
-  "updated_local": "9/27/2026, 12:13:07 AM",
+  "updated_iso": "2026-09-27T05:05:42.647Z",
+  "updated_local": "9/27/2026, 5:05:42 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Does Georgism work? Five years later",
-        "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+        "title": "Go Concurrency Distilled",
+        "url": "https://antonz.org/go-concurrency-distilled/",
         "source": "hn",
-        "time": "9/25/2026, 1:48:38 PM"
-      },
-      {
-        "title": "DeepSeek Elastic Compute (DSec)",
-        "url": "https://arxiv.org/abs/2609.22978",
-        "source": "hn",
-        "time": "9/26/2026, 6:22:41 PM"
+        "time": "9/26/2026, 2:34:49 PM"
       },
       {
         "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
@@ -54,24 +48,36 @@
         "time": "9/25/2026, 10:55:40 AM"
       },
       {
-        "title": "Evolving programming languages in the AI era",
-        "url": "https://dashbit.co/blog/evolving-ai-era",
+        "title": "DeepSeek Elastic Compute (DSec)",
+        "url": "https://arxiv.org/abs/2609.22978",
         "source": "hn",
-        "time": "9/25/2026, 2:34:39 AM"
+        "time": "9/26/2026, 6:22:41 PM"
       },
       {
         "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
         "url": "https://github.com/reladraw/reladraw",
         "source": "hn",
         "time": "9/26/2026, 5:10:40 PM"
+      },
+      {
+        "title": "If we do not stop to help each other, what do we become?",
+        "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+        "source": "hn",
+        "time": "9/27/2026, 3:20:46 AM"
       }
     ],
     "world": [
       {
+        "title": "Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama",
+        "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 27 Sep 2026 04:15:40 GMT"
+      },
+      {
         "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
         "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 26 Sep 2026 18:50:02 GMT"
+        "time": "Sun, 27 Sep 2026 05:00:42 GMT"
       },
       {
         "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
@@ -80,22 +86,16 @@
         "time": "Sat, 26 Sep 2026 23:00:42 GMT"
       },
       {
-        "title": "Court of Appeal overturns ban on Drumcree parade",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
+        "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 26 Sep 2026 23:42:11 GMT"
+        "time": "Sun, 27 Sep 2026 02:16:52 GMT"
       },
       {
         "title": "Heathrow Airport warns third runway could be delayed by four years",
         "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 26 Sep 2026 16:32:42 GMT"
-      },
-      {
-        "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 26 Sep 2026 22:15:59 GMT"
       }
     ],
     "projects": [
