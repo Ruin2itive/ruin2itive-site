@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-27T05:05:42.647Z",
-  "updated_local": "9/27/2026, 5:05:42 AM",
+  "updated_iso": "2026-09-27T06:11:43.810Z",
+  "updated_local": "9/27/2026, 6:11:43 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+        "url": "https://swarmcha.se/posts/openai-unctad",
+        "source": "hn",
+        "time": "9/27/2026, 1:08:07 AM"
+      },
+      {
         "title": "Go Concurrency Distilled",
         "url": "https://antonz.org/go-concurrency-distilled/",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://github.com/reladraw/reladraw",
         "source": "hn",
         "time": "9/26/2026, 5:10:40 PM"
-      },
-      {
-        "title": "If we do not stop to help each other, what do we become?",
-        "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
-        "source": "hn",
-        "time": "9/27/2026, 3:20:46 AM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Sat, 26 Sep 2026 23:00:42 GMT"
       },
       {
+        "title": "Investigation launched as NHS trust apologises for Noah Woods data breach",
+        "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 27 Sep 2026 05:58:08 GMT"
+      },
+      {
         "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
         "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 27 Sep 2026 02:16:52 GMT"
-      },
-      {
-        "title": "Heathrow Airport warns third runway could be delayed by four years",
-        "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 26 Sep 2026 16:32:42 GMT"
       }
     ],
     "projects": [
