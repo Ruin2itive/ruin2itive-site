@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-27T20:52:06.948Z",
-  "updated_local": "9/27/2026, 8:52:06 PM",
+  "updated_iso": "2026-09-27T23:38:09.326Z",
+  "updated_local": "9/27/2026, 11:38:09 PM",
   "sections": {
     "crypto": [
       {
@@ -48,7 +48,13 @@
         "time": "9/27/2026, 5:31:53 PM"
       },
       {
-        "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
+        "title": "Lunar Terminator Paradox",
+        "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+        "source": "hn",
+        "time": "9/27/2026, 9:06:17 PM"
+      },
+      {
+        "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
         "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
         "source": "hn",
         "time": "9/27/2026, 7:37:05 PM"
@@ -58,12 +64,6 @@
         "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
         "source": "hn",
         "time": "9/25/2026, 1:46:34 PM"
-      },
-      {
-        "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-        "url": "https://loficities.com/",
-        "source": "hn",
-        "time": "9/27/2026, 6:44:30 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Sun, 27 Sep 2026 19:47:44 GMT"
       },
       {
-        "title": "Burnham proposes NHS-style social care system for England",
-        "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Inside Yemen's front-line city as Houthis battle for control",
+        "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 27 Sep 2026 13:48:05 GMT"
+        "time": "Sun, 27 Sep 2026 21:16:31 GMT"
       },
       {
-        "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
-        "url": "https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+        "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 27 Sep 2026 14:07:17 GMT"
+        "time": "Sun, 27 Sep 2026 21:00:06 GMT"
       },
       {
-        "title": "Ten NHS staff removed over Noah Woods data breach",
-        "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "My hometown shows that high streets have to change or die",
+        "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 27 Sep 2026 13:25:27 GMT"
+        "time": "Sun, 27 Sep 2026 23:05:53 GMT"
       }
     ],
     "projects": [
