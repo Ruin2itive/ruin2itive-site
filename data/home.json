@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-27T20:00:56.457Z",
-  "updated_local": "9/27/2026, 8:00:56 PM",
+  "updated_iso": "2026-09-27T20:52:06.948Z",
+  "updated_local": "9/27/2026, 8:52:06 PM",
   "sections": {
     "crypto": [
       {
@@ -36,28 +36,28 @@
     ],
     "hacker": [
       {
+        "title": "When did Google get so weird?",
+        "url": "https://sancho.bearblog.dev/google-weird/",
+        "source": "hn",
+        "time": "9/27/2026, 8:12:54 PM"
+      },
+      {
         "title": "Ember-1",
         "url": "https://fireworks.ai/blog/ember-1",
         "source": "hn",
         "time": "9/27/2026, 5:31:53 PM"
       },
       {
+        "title": "Alan Kay's answer to \"Did the ENIAC have a BIOS\"?",
+        "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+        "source": "hn",
+        "time": "9/27/2026, 7:37:05 PM"
+      },
+      {
         "title": "The state of SIMD in Rust in 2026",
         "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
         "source": "hn",
         "time": "9/25/2026, 1:46:34 PM"
-      },
-      {
-        "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
-        "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
-        "source": "hn",
-        "time": "9/27/2026, 6:02:43 PM"
-      },
-      {
-        "title": "In an $80 motel room, a discovery to shed light on the origins of life",
-        "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-        "source": "hn",
-        "time": "9/27/2026, 2:30:55 PM"
       },
       {
         "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
@@ -68,7 +68,13 @@
     ],
     "world": [
       {
-        "title": "What we know about RAF base counter-terror investigation",
+        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 27 Sep 2026 20:10:51 GMT"
+      },
+      {
+        "title": "What we know about RAF Fairford counter-terror probe",
         "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 27 Sep 2026 19:47:44 GMT"
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 27 Sep 2026 13:25:27 GMT"
-      },
-      {
-        "title": "No handshakes between Republic of Ireland and Israel",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 27 Sep 2026 18:58:35 GMT"
       }
     ],
     "projects": [
