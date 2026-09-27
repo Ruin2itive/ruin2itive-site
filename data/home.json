@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-27T06:11:43.810Z",
-  "updated_local": "9/27/2026, 6:11:43 AM",
+  "updated_iso": "2026-09-27T11:52:50.890Z",
+  "updated_local": "9/27/2026, 11:52:50 AM",
   "sections": {
     "crypto": [
       {
@@ -36,66 +36,66 @@
     ],
     "hacker": [
       {
-        "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-        "url": "https://swarmcha.se/posts/openai-unctad",
+        "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+        "url": "https://arxiv.org/abs/2609.25021",
         "source": "hn",
-        "time": "9/27/2026, 1:08:07 AM"
+        "time": "9/27/2026, 10:26:25 AM"
+      },
+      {
+        "title": "Flip Fluid on Flip Dots",
+        "url": "https://mitxela.com/projects/flipflip",
+        "source": "hn",
+        "time": "9/26/2026, 7:50:24 AM"
+      },
+      {
+        "title": "Does Georgism work? Five years later",
+        "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+        "source": "hn",
+        "time": "9/25/2026, 1:48:38 PM"
+      },
+      {
+        "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+        "source": "hn",
+        "time": "9/27/2026, 6:19:33 AM"
       },
       {
         "title": "Go Concurrency Distilled",
         "url": "https://antonz.org/go-concurrency-distilled/",
         "source": "hn",
         "time": "9/26/2026, 2:34:49 PM"
-      },
-      {
-        "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-        "url": "https://github.com/InfinityLoop1308/PipePipe",
-        "source": "hn",
-        "time": "9/25/2026, 10:55:40 AM"
-      },
-      {
-        "title": "DeepSeek Elastic Compute (DSec)",
-        "url": "https://arxiv.org/abs/2609.22978",
-        "source": "hn",
-        "time": "9/26/2026, 6:22:41 PM"
-      },
-      {
-        "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-        "url": "https://github.com/reladraw/reladraw",
-        "source": "hn",
-        "time": "9/26/2026, 5:10:40 PM"
       }
     ],
     "world": [
       {
-        "title": "Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Burnham proposes NHS-style social care system for England",
+        "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 27 Sep 2026 04:15:40 GMT"
+        "time": "Sun, 27 Sep 2026 11:16:53 GMT"
       },
       {
-        "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
-        "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Broken social care will in the end break the NHS,' says Burnham",
+        "url": "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 27 Sep 2026 05:00:42 GMT"
+        "time": "Sun, 27 Sep 2026 09:52:49 GMT"
       },
       {
-        "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
-        "url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 26 Sep 2026 23:00:42 GMT"
-      },
-      {
-        "title": "Investigation launched as NHS trust apologises for Noah Woods data breach",
+        "title": "Ten NHS staff removed over Noah Woods data breach",
         "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 27 Sep 2026 05:58:08 GMT"
+        "time": "Sun, 27 Sep 2026 11:08:10 GMT"
       },
       {
-        "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Two mass shootings in South Africa leave 27 dead",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 27 Sep 2026 02:16:52 GMT"
+        "time": "Sun, 27 Sep 2026 10:00:36 GMT"
+      },
+      {
+        "title": "Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?",
+        "url": "https://www.bbc.co.uk/news/articles/cv5yjzz803edo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 26 Sep 2026 23:01:47 GMT"
       }
     ],
     "projects": [
