@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-09-28T05:07:43.719Z",
-  "updated_local": "9/28/2026, 5:07:43 AM",
+  "updated_iso": "2026-09-28T10:32:53.150Z",
+  "updated_local": "9/28/2026, 10:32:53 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "California Bans Public Officials From Issuing Meme Coins Under New Newsom Law",
+        "url": "https://decrypt.co/379404/california-bans-public-officials-from-issuing-meme-coins-under-new-newsom-law",
+        "source": "crypto",
+        "time": "Mon, 28 Sep 2026 10:16:25 +0000"
+      },
       {
         "title": "AI Agents Keep Escaping Their Creators&#39; Control—Here&#39;s What We Know",
         "url": "https://decrypt.co/379402/ai-agents-keep-escaping-creators-control",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green",
         "source": "crypto",
         "time": "Sat, 26 Sep 2026 17:01:03 +0000"
-      },
-      {
-        "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
-        "url": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
-        "source": "crypto",
-        "time": "Sat, 26 Sep 2026 16:06:03 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "9/28/2026, 2:05:13 AM"
       },
       {
-        "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+        "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
         "url": "https://arxiv.org/abs/2110.01834",
         "source": "hn",
         "time": "9/28/2026, 3:23:53 AM"
       },
       {
-        "title": "Nissan's third generation e-POWER powertrain",
-        "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+        "title": "Footguns with Postgres \"at time zone 'UTC'\"",
+        "url": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
         "source": "hn",
-        "time": "9/28/2026, 2:31:23 AM"
+        "time": "9/27/2026, 10:19:51 AM"
       },
       {
         "title": "Ember-1",
@@ -68,34 +68,34 @@
     ],
     "world": [
       {
-        "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
-        "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 27 Sep 2026 20:10:51 GMT"
-      },
-      {
-        "title": "What we know about RAF Fairford counter-terror probe",
+        "title": "What we know about RAF Fairford counter-terror probe and the five men arrested",
         "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 27 Sep 2026 19:47:44 GMT"
+        "time": "Mon, 28 Sep 2026 09:37:33 GMT"
       },
       {
-        "title": "Protesters disperse after blocking contentious Orange Order parade",
-        "url": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK diesel price hits all-time high, RAC says",
+        "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 28 Sep 2026 03:27:56 GMT"
+        "time": "Mon, 28 Sep 2026 10:00:18 GMT"
+      },
+      {
+        "title": "Thousands of illegal ghost plates on cars revealed by new cameras",
+        "url": "https://www.bbc.co.uk/news/articles/cq9860162dj2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 28 Sep 2026 05:02:30 GMT"
+      },
+      {
+        "title": "Police block Protestant Orange Order from controversial parade route",
+        "url": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 28 Sep 2026 10:13:19 GMT"
       },
       {
         "title": "Inside Yemen's front-line city as Houthis battle for control",
         "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 27 Sep 2026 21:16:31 GMT"
-      },
-      {
-        "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
-        "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 27 Sep 2026 21:00:06 GMT"
       }
     ],
     "projects": [
