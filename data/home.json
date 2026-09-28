@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-27T23:44:14.828Z",
-  "updated_local": "9/27/2026, 11:44:14 PM",
+  "updated_iso": "2026-09-28T03:37:53.084Z",
+  "updated_local": "9/28/2026, 3:37:53 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "When did Google get so weird?",
-        "url": "https://sancho.bearblog.dev/google-weird/",
+        "title": "Owed a billion dollars in Nvidia stock",
+        "url": "https://colo.to/nvidia-stock-narrative.html",
         "source": "hn",
-        "time": "9/27/2026, 8:12:54 PM"
+        "time": "9/28/2026, 2:05:13 AM"
+      },
+      {
+        "title": "Self-parking car using genetic algorithm (2021)",
+        "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
+        "source": "hn",
+        "time": "9/28/2026, 1:21:32 AM"
       },
       {
         "title": "Ember-1",
@@ -48,22 +54,16 @@
         "time": "9/27/2026, 5:31:53 PM"
       },
       {
-        "title": "Lunar Terminator Paradox",
-        "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+        "title": "When did Google get so weird?",
+        "url": "https://sancho.bearblog.dev/google-weird/",
         "source": "hn",
-        "time": "9/27/2026, 9:06:17 PM"
+        "time": "9/27/2026, 8:12:54 PM"
       },
       {
-        "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
-        "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+        "title": "Nissan's third generation e-POWER powertrain",
+        "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
         "source": "hn",
-        "time": "9/27/2026, 7:37:05 PM"
-      },
-      {
-        "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-        "url": "https://loficities.com/",
-        "source": "hn",
-        "time": "9/27/2026, 6:44:30 PM"
+        "time": "9/28/2026, 2:31:23 AM"
       }
     ],
     "world": [
@@ -80,6 +80,12 @@
         "time": "Sun, 27 Sep 2026 19:47:44 GMT"
       },
       {
+        "title": "Protesters disperse after blocking contentious Orange Order parade",
+        "url": "https://www.bbc.co.uk/news/articles/c6qjkk55wd47o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 28 Sep 2026 03:27:56 GMT"
+      },
+      {
         "title": "Inside Yemen's front-line city as Houthis battle for control",
         "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 27 Sep 2026 21:00:06 GMT"
-      },
-      {
-        "title": "My hometown shows that high streets have to change or die",
-        "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 27 Sep 2026 23:05:53 GMT"
       }
     ],
     "projects": [
