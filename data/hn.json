@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-28T06:09:32.367Z"
+    "built_at": "2026-09-28T14:46:23.651Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Resticker, restic backups in your macOS menu bar",
-      "url": "https://github.com/marcboeker/resticker",
-      "date": "2026-09-28T06:09:05.000Z"
-    },
-    {
-      "title": "Show HN: Bounded Loops and Graphs",
-      "url": "https://github.com/qualixar/bounded-loops",
-      "date": "2026-09-28T06:08:26.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
