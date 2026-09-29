@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-09-29T21:51:17.151Z",
-  "updated_local": "9/29/2026, 9:51:17 PM",
+  "updated_iso": "2026-09-29T23:36:42.812Z",
+  "updated_local": "9/29/2026, 11:36:42 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+        "url": "https://github.com/ninjahawk/livenerf",
+        "source": "hn",
+        "time": "9/29/2026, 10:36:14 PM"
+      },
+      {
         "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
         "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "9/29/2026, 5:06:45 PM"
       },
       {
-        "title": "How Delhi cut electricity loss from 50 to 5 percent",
-        "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+        "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+        "url": "https://space.bl2.net/",
         "source": "hn",
-        "time": "9/29/2026, 12:43:29 PM"
+        "time": "9/29/2026, 7:08:01 PM"
       },
       {
         "title": "PS5 Relapse Exploit",
         "url": "https://github.com/ntfargo/Relapse-Exploit",
         "source": "hn",
         "time": "9/29/2026, 3:44:41 PM"
-      },
-      {
-        "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
-        "url": "https://github.com/lostmsu/TurboGPT",
-        "source": "hn",
-        "time": "9/29/2026, 7:20:02 PM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Tue, 29 Sep 2026 19:13:14 GMT"
       },
       {
-        "title": "Man City guilty of 'sham' contracts and misleading accounts",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 29 Sep 2026 18:12:33 GMT"
-      },
-      {
         "title": "'Quantity of petrol' but no explosives found in three vehicles near RAF Fairford",
         "url": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 29 Sep 2026 19:54:07 GMT"
+      },
+      {
+        "title": "Household energy bills forecast to see biggest rise in four years",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 29 Sep 2026 23:03:13 GMT"
       }
     ],
     "projects": [
