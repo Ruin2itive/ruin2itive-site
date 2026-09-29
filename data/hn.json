@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-28T20:57:44.656Z"
+    "built_at": "2026-09-29T00:49:13.612Z"
   },
-  "items": [
-    {
-      "title": "25% autistic guy (me) spent 10k hours making an HTML table move smoothly",
-      "url": "https://number-garden.com/?108284844384797m22",
-      "date": "2026-09-28T20:56:34.000Z"
-    },
-    {
-      "title": "FAA to Delay 737 MAX 10 Approval over New Software Glitch",
-      "url": "https://www.wsj.com/business/airlines/faa-to-delay-737-max-10-approval-over-new-software-glitch-9e52602d",
-      "date": "2026-09-28T20:56:05.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
