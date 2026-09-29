@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-29T13:35:51.103Z"
+    "built_at": "2026-09-29T19:00:55.088Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Check whether a job posting is still real before you apply",
-      "url": "https://unlisted.careers/ghost-jobs",
-      "date": "2026-09-29T13:34:38.000Z"
-    },
-    {
-      "title": "Backblaze Drive Stats for Q2 2026",
-      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
-      "date": "2026-09-29T13:34:20.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
