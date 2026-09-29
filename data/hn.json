@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-29T00:49:13.612Z"
+    "built_at": "2026-09-29T06:27:04.474Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Hackers Jailbreak AI Chatbots",
+      "url": "https://twitter.com/Hamzaonchain/status/2104494046362095669",
+      "date": "2026-09-29T06:26:29.000Z"
+    },
+    {
+      "title": "CVE-2026-85706 (CVSS 10.0)",
+      "url": "https://twitter.com/EQSTLab/status/2104463962100351331",
+      "date": "2026-09-29T06:25:30.000Z"
+    }
+  ]
 }
