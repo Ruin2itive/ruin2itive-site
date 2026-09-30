@@ -1,40 +1,52 @@
 {
-  "updated_iso": "2026-09-30T07:57:22.195Z",
-  "updated_local": "9/30/2026, 7:57:22 AM",
+  "updated_iso": "2026-09-30T12:24:07.966Z",
+  "updated_local": "9/30/2026, 12:24:07 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders",
+        "url": "https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders",
+        "source": "crypto",
+        "time": "Wed, 30 Sep 2026 11:54:22 +0000"
+      },
+      {
+        "title": "CFTC Investigating Adam Kinzinger Over Kalshi Bets on His Own Pardon: Report",
+        "url": "https://decrypt.co/379639/cftc-investigating-adam-kinzinger-over-kalshi-bets-on-his-own-pardon-report",
+        "source": "crypto",
+        "time": "Wed, 30 Sep 2026 11:46:16 +0000"
+      },
+      {
+        "title": "McDonald&#39;s AI ‘Pricing Engine’ Gauges What Customers Will Pay for a Big Mac: Report",
+        "url": "https://decrypt.co/379632/mcdonalds-ai-pricing-engine-gauges-what-customers-will-pay-for-a-big-mac-report",
+        "source": "crypto",
+        "time": "Wed, 30 Sep 2026 11:06:59 +0000"
+      },
+      {
+        "title": "US Senator Blumenthal Calls Tether&#39;s USDT a &#39;Superhighway&#39; for Iranian Sanctions Evasion",
+        "url": "https://decrypt.co/379624/us-senator-blumenthal-calls-tethers-usdt-a-superhighway-for-iranian-sanctions-evasion",
+        "source": "crypto",
+        "time": "Wed, 30 Sep 2026 10:32:01 +0000"
+      },
       {
         "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
         "url": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
         "source": "crypto",
         "time": "Tue, 29 Sep 2026 21:46:03 +0000"
-      },
-      {
-        "title": "Cboe&#39;s New S&amp;amp;P Deal Opens the Door to Tokenized Options",
-        "url": "https://decrypt.co/379619/cboes-sp-deal-tokenized-options",
-        "source": "crypto",
-        "time": "Tue, 29 Sep 2026 21:16:04 +0000"
-      },
-      {
-        "title": "Bitwise Launches First US Spot Near ETF After Token Nearly Triples Since August",
-        "url": "https://decrypt.co/379612/bitwise-launches-first-spot-near-etf",
-        "source": "crypto",
-        "time": "Tue, 29 Sep 2026 20:36:04 +0000"
-      },
-      {
-        "title": "Anthropic Lost $42 Billion Last Year. It Wants to Go Public at $2 Trillion",
-        "url": "https://decrypt.co/379605/anthropic-lost-42-billion-last-year-wants-ipo-2-trillion",
-        "source": "crypto",
-        "time": "Tue, 29 Sep 2026 20:06:03 +0000"
-      },
-      {
-        "title": "Someone Finally Jailbroke the PS5—Just After Sony Said Players Don’t Own Their Games",
-        "url": "https://decrypt.co/379583/sony-ps5-jailbreak-digital-games-ownership",
-        "source": "crypto",
-        "time": "Tue, 29 Sep 2026 19:31:04 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Pi.dev: You Said No MCP",
+        "url": "https://earendil.com/posts/you-said-no-mcp/",
+        "source": "hn",
+        "time": "9/30/2026, 9:55:23 AM"
+      },
+      {
+        "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
+        "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
+        "source": "hn",
+        "time": "9/29/2026, 10:05:56 AM"
+      },
       {
         "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
         "url": "https://github.com/ninjahawk/livenerf",
@@ -48,25 +60,19 @@
         "time": "9/29/2026, 2:27:54 AM"
       },
       {
-        "title": "Dots: Always-on agents",
-        "url": "https://openai.com/index/introducing-dots/",
+        "title": "September 2026: The world today, as seen by one Polish guy",
+        "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
         "source": "hn",
-        "time": "9/29/2026, 5:07:57 PM"
-      },
-      {
-        "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-        "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-        "source": "hn",
-        "time": "9/29/2026, 7:30:17 PM"
-      },
-      {
-        "title": "RSS Feeds for Last.fm",
-        "url": "https://lfm.xiffy.nl/",
-        "source": "hn",
-        "time": "9/30/2026, 3:00:05 AM"
+        "time": "9/30/2026, 7:12:31 AM"
       }
     ],
     "world": [
+      {
+        "title": "Move to rejoin EU among options for UK, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 30 Sep 2026 11:36:59 GMT"
+      },
       {
         "title": "One of the five men arrested near RAF Fairford called 999 himself",
         "url": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +80,22 @@
         "time": "Wed, 30 Sep 2026 00:12:24 GMT"
       },
       {
-        "title": "Household energy bills forecast to see biggest rise in four years",
-        "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Sussexes condemn 'reckless intrusion' after men spotted near Archie and Lilibet's school",
+        "url": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 30 Sep 2026 05:27:23 GMT"
+        "time": "Wed, 30 Sep 2026 10:59:17 GMT"
       },
       {
-        "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-        "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Police seek charges against 20 firms and 54 people over Grenfell Tower fire",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 30 Sep 2026 05:02:50 GMT"
+        "time": "Wed, 30 Sep 2026 11:33:15 GMT"
       },
       {
-        "title": "Man City charges leave football fans questioning legitimacy of team's achievements",
+        "title": "The transfers that helped Man City dominate while breaking financial rules",
         "url": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 30 Sep 2026 06:26:34 GMT"
-      },
-      {
-        "title": "'Mum sent them £140,000': How to spot the signs a loved one is being scammed",
-        "url": "https://www.bbc.co.uk/news/articles/c674evx4p1x1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 29 Sep 2026 23:09:37 GMT"
       }
     ],
     "projects": [
