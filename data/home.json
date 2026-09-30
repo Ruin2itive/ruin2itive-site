@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-09-30T19:48:44.970Z",
-  "updated_local": "9/30/2026, 7:48:44 PM",
+  "updated_iso": "2026-09-30T22:54:49.734Z",
+  "updated_local": "9/30/2026, 10:54:49 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
+        "url": "https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
+        "source": "crypto",
+        "time": "Wed, 30 Sep 2026 21:46:03 +0000"
+      },
+      {
+        "title": "FBI Tells Its Employees to Assume Hackers Have Their Personal Data",
+        "url": "https://decrypt.co/379769/fbi-employees-assume-hackers-personal-data",
+        "source": "crypto",
+        "time": "Wed, 30 Sep 2026 21:16:04 +0000"
+      },
+      {
+        "title": "Coinbase-Backed Crypto Group Reveals Midterm Endorsements After Clarity Act Collapse",
+        "url": "https://decrypt.co/379767/coinbase-crypto-group-senate-midterm-endorsements-clarity-act",
+        "source": "crypto",
+        "time": "Wed, 30 Sep 2026 20:31:04 +0000"
+      },
       {
         "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
         "url": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
@@ -14,88 +32,70 @@
         "url": "https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem",
         "source": "crypto",
         "time": "Wed, 30 Sep 2026 19:16:02 +0000"
-      },
-      {
-        "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
-        "url": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets",
-        "source": "crypto",
-        "time": "Wed, 30 Sep 2026 18:39:21 +0000"
-      },
-      {
-        "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
-        "url": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
-        "source": "crypto",
-        "time": "Wed, 30 Sep 2026 17:27:43 +0000"
-      },
-      {
-        "title": "Introducing The Information Exchange on Solana, Powered by Decrypt and MYR",
-        "url": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
-        "source": "crypto",
-        "time": "Wed, 30 Sep 2026 16:36:10 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-        "url": "https://github.com/magnitudedev/magnitude",
+        "title": "Gemini 4 Argon",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
         "source": "hn",
-        "time": "9/30/2026, 5:37:40 PM"
+        "time": "9/30/2026, 8:04:37 PM"
       },
       {
-        "title": "Commit description as a thinking tool",
-        "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+        "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+        "url": "https://www.thespacereview.com/article/4951/1",
         "source": "hn",
-        "time": "9/30/2026, 5:18:13 PM"
+        "time": "9/30/2026, 10:03:04 PM"
       },
       {
-        "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+        "title": "Surprisingly complex waves reveal the brain's inner workings",
         "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
         "source": "hn",
         "time": "9/30/2026, 7:04:50 PM"
-      },
-      {
-        "title": "A brief history of the Bloomberg terminal",
-        "url": "https://spectrum.ieee.org/bloomberg-terminal",
-        "source": "hn",
-        "time": "9/30/2026, 2:34:07 PM"
       },
       {
         "title": "EDG C++ front-end goes public",
         "url": "https://edgcpp.org/#transition",
         "source": "hn",
         "time": "9/30/2026, 7:26:37 PM"
+      },
+      {
+        "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+        "url": "https://github.com/magnitudedev/magnitude",
+        "source": "hn",
+        "time": "9/30/2026, 5:37:40 PM"
       }
     ],
     "world": [
       {
-        "title": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
-        "url": "https://www.bbc.co.uk/news/videos/c6rered722j5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/c4g4z255y30o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 30 Sep 2026 18:40:36 GMT"
+        "time": "Wed, 30 Sep 2026 21:30:38 GMT"
+      },
+      {
+        "title": "Dame Esther Rantzen: A presenter who campaigned for change",
+        "url": "https://www.bbc.co.uk/news/videos/cmn8e8736wjyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 30 Sep 2026 19:00:50 GMT"
       },
       {
         "title": "UK believes Iran involved in RAF Fairford incident, PM says",
         "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 30 Sep 2026 15:59:51 GMT"
+        "time": "Wed, 30 Sep 2026 21:26:59 GMT"
+      },
+      {
+        "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
+        "url": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 30 Sep 2026 22:38:33 GMT"
       },
       {
         "title": "UK-France 'one in, one out' migrant scheme scrapped",
         "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 30 Sep 2026 17:11:08 GMT"
-      },
-      {
-        "title": "China funding UK research and sending it to Beijing's spies, MI5 warns",
-        "url": "https://www.bbc.co.uk/news/articles/cwy7zrljp527o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 30 Sep 2026 18:15:15 GMT"
-      },
-      {
-        "title": "Teens who died in car that entered River Wear named",
-        "url": "https://www.bbc.co.uk/news/articles/ck5yw1zg8lqgo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 30 Sep 2026 18:40:18 GMT"
       }
     ],
     "projects": [
