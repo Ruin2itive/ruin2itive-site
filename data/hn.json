@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-29T23:18:10.556Z"
+    "built_at": "2026-09-30T03:15:24.223Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Image Categorizer – sort a photo library with local vision models",
-      "url": "https://github.com/DrBenedictPorkins/image-categorizer",
-      "date": "2026-09-29T23:17:25.000Z"
-    },
-    {
-      "title": "How to Stand Out in a World of AI Slop? Be a Green Unicorn",
-      "url": "https://sajit.substack.com/p/how-to-stand-out-in-a-sea-of-ai-slop",
-      "date": "2026-09-29T23:16:27.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
