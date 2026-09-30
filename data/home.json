@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-09-30T18:21:49.141Z",
-  "updated_local": "9/30/2026, 6:21:49 PM",
+  "updated_iso": "2026-09-30T19:48:44.970Z",
+  "updated_local": "9/30/2026, 7:48:44 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
+        "url": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
+        "source": "crypto",
+        "time": "Wed, 30 Sep 2026 19:46:04 +0000"
+      },
+      {
+        "title": "US Government&#39;s New AI Chatbot Has a Weird Minecraft Secret",
+        "url": "https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem",
+        "source": "crypto",
+        "time": "Wed, 30 Sep 2026 19:16:02 +0000"
+      },
+      {
+        "title": "CFTC Sends White House New Rules to Cement Its Grip on Prediction Markets",
+        "url": "https://decrypt.co/379750/cftc-sends-white-house-new-rules-to-cement-its-grip-on-prediction-markets",
+        "source": "crypto",
+        "time": "Wed, 30 Sep 2026 18:39:21 +0000"
+      },
       {
         "title": "Bitcoin ETFs Extend Win Streak to 9 Days, Matching August Rally",
         "url": "https://decrypt.co/379731/bitcoin-etf-9-day-streak-august-rally",
@@ -14,24 +32,6 @@
         "url": "https://decrypt.co/379655/introducing-the-information-exchange-powered-by-decrypt-and-myr",
         "source": "crypto",
         "time": "Wed, 30 Sep 2026 16:36:10 +0000"
-      },
-      {
-        "title": "Trump Unveils &#39;Morally Binding&#39; AI Accord Signed by OpenAI, Google and Nvidia",
-        "url": "https://decrypt.co/379728/trump-unveils-morally-binding-ai-accord-signed-by-openai-google-and-nvidia",
-        "source": "crypto",
-        "time": "Wed, 30 Sep 2026 16:06:03 +0000"
-      },
-      {
-        "title": "Bitcoin Jumps on Cool PCE Inflation Data as Bond Yields Hit 20-Year Highs",
-        "url": "https://decrypt.co/379705/bitcoin-jumps-cool-pce-inflation-data",
-        "source": "crypto",
-        "time": "Wed, 30 Sep 2026 15:50:25 +0000"
-      },
-      {
-        "title": "Ex-NCA Officer Must Repay $2.4M for Bitcoin He Stole When It Was Worth $77K",
-        "url": "https://decrypt.co/379702/ex-nca-officer-must-repay-2-4m-for-bitcoin-he-stole-when-it-was-worth-77k",
-        "source": "crypto",
-        "time": "Wed, 30 Sep 2026 15:17:45 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,16 @@
         "time": "9/30/2026, 5:37:40 PM"
       },
       {
-        "title": "Commit Description as a Thinking Tool",
+        "title": "Commit description as a thinking tool",
         "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
         "source": "hn",
         "time": "9/30/2026, 5:18:13 PM"
+      },
+      {
+        "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+        "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+        "source": "hn",
+        "time": "9/30/2026, 7:04:50 PM"
       },
       {
         "title": "A brief history of the Bloomberg terminal",
@@ -54,24 +60,18 @@
         "time": "9/30/2026, 2:34:07 PM"
       },
       {
-        "title": "You Said No MCP",
-        "url": "https://earendil.com/posts/you-said-no-mcp/",
+        "title": "EDG C++ front-end goes public",
+        "url": "https://edgcpp.org/#transition",
         "source": "hn",
-        "time": "9/30/2026, 9:55:23 AM"
-      },
-      {
-        "title": "Burning Man Death Rates – A Short Lesson in Statistics",
-        "url": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
-        "source": "hn",
-        "time": "9/28/2026, 6:57:16 PM"
+        "time": "9/30/2026, 7:26:37 PM"
       }
     ],
     "world": [
       {
-        "title": "'We removed him from the cockpit': People speak about what happened",
-        "url": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
+        "url": "https://www.bbc.co.uk/news/videos/c6rered722j5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 30 Sep 2026 15:07:00 GMT"
+        "time": "Wed, 30 Sep 2026 18:40:36 GMT"
       },
       {
         "title": "UK believes Iran involved in RAF Fairford incident, PM says",
@@ -95,7 +95,7 @@
         "title": "Teens who died in car that entered River Wear named",
         "url": "https://www.bbc.co.uk/news/articles/ck5yw1zg8lqgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 30 Sep 2026 17:23:55 GMT"
+        "time": "Wed, 30 Sep 2026 18:40:18 GMT"
       }
     ],
     "projects": [
