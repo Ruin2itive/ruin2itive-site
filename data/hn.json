@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-09-30T10:08:06.422Z"
+    "built_at": "2026-09-30T16:34:03.514Z"
   },
-  "items": [
-    {
-      "title": "Gold Kubb Fanless MiniPC, with 13kg of gold (worth $1.7M)",
-      "url": "https://www.fanlesstech.com/2026/09/gold-kubb-fanless.html",
-      "date": "2026-09-30T10:06:04.000Z"
-    },
-    {
-      "title": "Programmatic Tool Calling",
-      "url": "https://developers.openai.com/api/docs/guides/tools-programmatic-tool-calling",
-      "date": "2026-09-30T10:05:40.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
