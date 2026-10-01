@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-10-01T16:16:08.682Z",
-  "updated_local": "10/1/2026, 4:16:08 PM",
+  "updated_iso": "2026-10-01T18:00:26.463Z",
+  "updated_local": "10/1/2026, 6:00:26 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "It&#39;s the Start of Uptober. Will Bitcoin Live Up to It?",
+        "url": "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it",
+        "source": "crypto",
+        "time": "Thu, 01 Oct 2026 17:11:44 +0000"
+      },
+      {
+        "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
+        "url": "https://decrypt.co/379830/illinois-delays-controversial-crypto-tax",
+        "source": "crypto",
+        "time": "Thu, 01 Oct 2026 16:16:03 +0000"
+      },
       {
         "title": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
         "url": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
@@ -20,21 +32,21 @@
         "url": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
         "source": "crypto",
         "time": "Thu, 01 Oct 2026 12:29:00 +0000"
-      },
-      {
-        "title": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
-        "url": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
-        "source": "crypto",
-        "time": "Thu, 01 Oct 2026 12:23:15 +0000"
-      },
-      {
-        "title": "MetaMask Exits Lido Validators Amid Infrastructure ‘Security Incident’",
-        "url": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
-        "source": "crypto",
-        "time": "Thu, 01 Oct 2026 09:38:06 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+        "url": "https://blog.cloudflare.com/clef-decision-models/",
+        "source": "hn",
+        "time": "10/1/2026, 4:18:57 PM"
+      },
+      {
+        "title": "RIP, vector database",
+        "url": "https://turbopuffer.com/blog/rip-vector-database",
+        "source": "hn",
+        "time": "10/1/2026, 4:01:56 PM"
+      },
       {
         "title": "StreetComplete on iOS is now in public beta",
         "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
@@ -42,31 +54,25 @@
         "time": "10/1/2026, 10:59:57 AM"
       },
       {
-        "title": "How to speed up the Rust compiler in September 2026",
-        "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-        "source": "hn",
-        "time": "10/1/2026, 12:44:38 PM"
-      },
-      {
-        "title": "OpenID Foundation: Identity Management for Agentic AI [pdf] (2025)",
-        "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-        "source": "hn",
-        "time": "10/1/2026, 3:11:10 PM"
-      },
-      {
         "title": "RacketCon Is Saturday",
         "url": "https://con.racket-lang.org/",
         "source": "hn",
         "time": "10/1/2026, 2:58:13 PM"
-      },
-      {
-        "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-        "url": "https://www.polyedergarten.de/e_index.htm",
-        "source": "hn",
-        "time": "10/1/2026, 3:02:51 PM"
       }
     ],
     "world": [
+      {
+        "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 01 Oct 2026 17:51:23 GMT"
+      },
+      {
+        "title": "Netanyahu says Flydubai flight attacker 'underwent Islamist radical indoctrination'",
+        "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 01 Oct 2026 15:38:13 GMT"
+      },
       {
         "title": "Hundreds of criminals start leaving prison under new early release scheme",
         "url": "https://www.bbc.co.uk/news/articles/c6evwvdwggrlo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +80,16 @@
         "time": "Thu, 01 Oct 2026 15:18:22 GMT"
       },
       {
-        "title": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
-        "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 01 Oct 2026 15:38:13 GMT"
-      },
-      {
-        "title": "Man City to argue sponsorship deals came from Abu Dhabi government",
+        "title": "HMRC urged to scrutinise tax implications of Man City case",
         "url": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 01 Oct 2026 15:38:08 GMT"
+        "time": "Thu, 01 Oct 2026 17:23:09 GMT"
       },
       {
-        "title": "Burnham's Man City comments 'completely out of touch', Tories say",
+        "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
         "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 01 Oct 2026 15:38:46 GMT"
-      },
-      {
-        "title": "Tennessee halts executions after death row inmate Christa Pike survives hers",
-        "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 01 Oct 2026 15:43:05 GMT"
+        "time": "Thu, 01 Oct 2026 17:26:40 GMT"
       }
     ],
     "projects": [
