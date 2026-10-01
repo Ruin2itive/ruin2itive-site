@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-01T06:47:31.270Z"
+    "built_at": "2026-10-01T14:03:16.348Z"
   },
-  "items": [
-    {
-      "title": "Programming the ENIAC(2011)",
-      "url": "https://www.columbia.edu/cu/computinghistory/eniac.html",
-      "date": "2026-10-01T06:46:48.000Z"
-    },
-    {
-      "title": "Stephen Fry: AI, a means to an end, or a means to our end? (Sep 2024)",
-      "url": "https://web.archive.org/web/20240915122038/https://stephenfry.substack.com/p/ai-a-means-to-an-end-or-a-means-to",
-      "date": "2026-10-01T06:43:42.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
