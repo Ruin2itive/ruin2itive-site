@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-02T02:06:20.021Z",
-  "updated_local": "10/2/2026, 2:06:20 AM",
+  "updated_iso": "2026-10-02T08:20:26.465Z",
+  "updated_local": "10/2/2026, 8:20:26 AM",
   "sections": {
     "crypto": [
       {
@@ -42,30 +42,48 @@
         "time": "10/1/2026, 7:33:05 PM"
       },
       {
+        "title": "Shimano Bicycle Museum Review",
+        "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+        "source": "hn",
+        "time": "10/2/2026, 5:12:58 AM"
+      },
+      {
+        "title": "How Singapore's government-run dating service works",
+        "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+        "source": "hn",
+        "time": "10/2/2026, 1:56:52 AM"
+      },
+      {
         "title": "Several vulnerabilities have been discovered in the Linux kernel",
         "url": "https://lwn.net/Articles/1097401/",
         "source": "hn",
         "time": "10/1/2026, 11:10:44 PM"
       },
       {
-        "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-        "url": "https://blog.cloudflare.com/clef-decision-models/",
+        "title": "DeepSeek Harness Desktop for macOS and Windows",
+        "url": "https://www.deepseek.com/en/harness/",
         "source": "hn",
-        "time": "10/1/2026, 4:18:57 PM"
-      },
-      {
-        "title": "SvelteKit 3",
-        "url": "https://svelte.dev/blog/sveltekit-3-is-here",
-        "source": "hn",
-        "time": "10/1/2026, 8:14:23 PM"
+        "time": "10/2/2026, 3:11:20 AM"
       }
     ],
     "world": [
       {
-        "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx5xw36492o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+        "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 02 Oct 2026 00:20:39 GMT"
+        "time": "Fri, 02 Oct 2026 08:16:53 GMT"
+      },
+      {
+        "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 02 Oct 2026 08:16:32 GMT"
+      },
+      {
+        "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
+        "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 01 Oct 2026 22:22:43 GMT"
       },
       {
         "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
@@ -74,22 +92,10 @@
         "time": "Thu, 01 Oct 2026 23:45:06 GMT"
       },
       {
-        "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
-        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 01 Oct 2026 22:21:16 GMT"
-      },
-      {
         "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
         "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 01 Oct 2026 22:28:45 GMT"
-      },
-      {
-        "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
-        "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 01 Oct 2026 22:22:43 GMT"
       }
     ],
     "projects": [
