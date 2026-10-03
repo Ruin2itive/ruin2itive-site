@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-02T21:08:40.649Z",
-  "updated_local": "10/2/2026, 9:08:40 PM",
+  "updated_iso": "2026-10-03T00:21:20.846Z",
+  "updated_local": "10/3/2026, 12:21:20 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
+        "url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
+        "source": "crypto",
+        "time": "Fri, 02 Oct 2026 21:16:04 +0000"
+      },
       {
         "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
         "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/379972/ethereum-layer-2-blast-shutting-down",
         "source": "crypto",
         "time": "Fri, 02 Oct 2026 17:47:06 +0000"
-      },
-      {
-        "title": "Nvidia Hits Record High as Market Value Reaches $5.7 Trillion",
-        "url": "https://decrypt.co/379959/nvidia-hits-record-high-market-value-5-7-trillion",
-        "source": "crypto",
-        "time": "Fri, 02 Oct 2026 17:30:40 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "The Forgetful CPU (Linux on M4)",
+        "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+        "source": "hn",
+        "time": "10/2/2026, 2:22:12 PM"
+      },
       {
         "title": "Apple Pass Designer",
         "url": "https://developer.apple.com/pass-designer/",
@@ -54,16 +60,10 @@
         "time": "10/2/2026, 11:07:17 AM"
       },
       {
-        "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-        "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+        "title": "With most information hidden, the game Stratego had stumped AI until now",
+        "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
         "source": "hn",
-        "time": "10/2/2026, 2:51:27 AM"
-      },
-      {
-        "title": "From the creator of Redis; run LLM locally with ds4",
-        "url": "https://dwarfstar.sh/",
-        "source": "hn",
-        "time": "10/2/2026, 6:01:16 PM"
+        "time": "10/2/2026, 2:11:24 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Widdecombe suspect charged with planning terror act against Farage",
         "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 02 Oct 2026 19:40:05 GMT"
+        "time": "Fri, 02 Oct 2026 21:32:25 GMT"
       },
       {
         "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
@@ -89,13 +89,13 @@
         "title": "Men charged over alleged plot to target Manchester Jewish community",
         "url": "https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 02 Oct 2026 20:52:18 GMT"
+        "time": "Fri, 02 Oct 2026 21:38:05 GMT"
       },
       {
         "title": "Riot police clash with students as education protests rage in France",
         "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 02 Oct 2026 17:43:10 GMT"
+        "time": "Fri, 02 Oct 2026 21:13:27 GMT"
       }
     ],
     "projects": [
