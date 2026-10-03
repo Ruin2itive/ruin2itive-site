@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-03T16:58:00.124Z",
-  "updated_local": "10/3/2026, 4:58:00 PM",
+  "updated_iso": "2026-10-03T17:09:47.196Z",
+  "updated_local": "10/3/2026, 5:09:47 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
+        "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
+        "source": "crypto",
+        "time": "Sat, 03 Oct 2026 17:01:03 +0000"
+      },
       {
         "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
         "url": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
         "source": "crypto",
         "time": "Fri, 02 Oct 2026 21:16:04 +0000"
-      },
-      {
-        "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
-        "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
-        "source": "crypto",
-        "time": "Fri, 02 Oct 2026 20:16:04 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-        "url": "https://tej.as/blog/aleph-alpha-kolibri",
-        "source": "hn",
-        "time": "10/3/2026, 10:43:51 AM"
-      },
       {
         "title": "City building games have a Soul Problem pt.2",
         "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
         "source": "hn",
         "time": "10/3/2026, 3:52:07 PM"
+      },
+      {
+        "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+        "url": "https://tej.as/blog/aleph-alpha-kolibri",
+        "source": "hn",
+        "time": "10/3/2026, 10:43:51 AM"
       },
       {
         "title": "FTL: A new operating system for clouds",
