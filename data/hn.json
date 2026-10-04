@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-04T17:20:01.559Z"
+    "built_at": "2026-10-04T20:42:52.470Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Iran is going after America's debt it's targeting the $40T America owes",
+      "url": "https://jaymartin.substack.com/p/iran-is-going-after-americas-debt",
+      "date": "2026-10-04T20:42:12.000Z"
+    },
+    {
+      "title": "We Built an Independent DNS Cache Edge",
+      "url": "https://blog.dnsimple.com/2026/08/building-our-fully-independent-dns-edge/",
+      "date": "2026-10-04T20:39:28.000Z"
+    }
+  ]
 }
