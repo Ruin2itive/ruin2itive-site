@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-05T22:30:00.211Z",
-  "updated_local": "10/5/2026, 10:30:00 PM",
+  "updated_iso": "2026-10-05T23:43:32.667Z",
+  "updated_local": "10/5/2026, 11:43:32 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
+        "url": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
+        "source": "crypto",
+        "time": "Mon, 05 Oct 2026 22:30:20 +0000"
+      },
       {
         "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
         "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/380120/treasury-kills-crypto-unhosted-wallet-mixer-surveillance-rules",
         "source": "crypto",
         "time": "Mon, 05 Oct 2026 20:19:38 +0000"
-      },
-      {
-        "title": "Crypto Sleuth ZachXBT Fronted $350K to Pose as a Client of Lazarus&#39; Chinese Launderers",
-        "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
-        "source": "crypto",
-        "time": "Mon, 05 Oct 2026 18:46:02 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://reflection.ai/blog/introducing-beam",
         "source": "hn",
         "time": "10/5/2026, 7:16:35 PM"
+      },
+      {
+        "title": "Find the flattest route between any two points in SF",
+        "url": "https://flattensf.com/",
+        "source": "hn",
+        "time": "10/5/2026, 9:40:50 PM"
       },
       {
         "title": "Dust: Pretraining Transformers Without Backpropagation",
@@ -54,16 +60,10 @@
         "time": "10/5/2026, 9:00:21 PM"
       },
       {
-        "title": "Find the flattest route between any two points in SF",
-        "url": "https://flattensf.com/",
+        "title": "Example.com Just Launched the Biggest Redesign in Decades",
+        "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
         "source": "hn",
-        "time": "10/5/2026, 9:40:50 PM"
-      },
-      {
-        "title": "Web Search API",
-        "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-        "source": "hn",
-        "time": "10/5/2026, 10:47:06 AM"
+        "time": "10/5/2026, 10:55:11 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Mon, 05 Oct 2026 13:09:42 GMT"
       },
       {
-        "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-        "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "France braces for national day of school protests after injuries and mass arrests",
+        "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 05 Oct 2026 16:32:18 GMT"
+        "time": "Mon, 05 Oct 2026 21:18:10 GMT"
       }
     ],
     "projects": [
