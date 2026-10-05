@@ -1,77 +1,89 @@
 {
-  "updated_iso": "2026-10-05T17:52:06.090Z",
-  "updated_local": "10/5/2026, 5:52:06 PM",
+  "updated_iso": "2026-10-05T22:30:00.211Z",
+  "updated_local": "10/5/2026, 10:30:00 PM",
   "sections": {
     "crypto": [
       {
-        "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
-        "url": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage",
+        "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
+        "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
         "source": "crypto",
-        "time": "Mon, 05 Oct 2026 16:46:03 +0000"
+        "time": "Mon, 05 Oct 2026 21:48:03 +0000"
       },
       {
-        "title": "Bitcoin Just Flashed a Second, Stronger Golden Cross: Here&#39;s What That Means",
-        "url": "https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate",
+        "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
+        "url": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
         "source": "crypto",
-        "time": "Mon, 05 Oct 2026 16:10:00 +0000"
+        "time": "Mon, 05 Oct 2026 21:16:03 +0000"
       },
       {
-        "title": "NEXTPredict Founder: &#39;Nobody Was Serving&#39; Prediction Markets&#39; Enormous Audience",
-        "url": "https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience",
+        "title": "Why a 4chan Bitcoin Prophecy Says Today Is the End of Crypto Winter",
+        "url": "https://decrypt.co/380113/4chan-bitcoin-prophecy-end-crypto-winter",
         "source": "crypto",
-        "time": "Mon, 05 Oct 2026 16:03:03 +0000"
+        "time": "Mon, 05 Oct 2026 20:46:03 +0000"
       },
       {
-        "title": "Bitmine Buys $41M More Ethereum, Reaching 99% of Its &#39;Alchemy of 5%&#39; Target",
-        "url": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target",
+        "title": "Treasury Kills Crypto &#39;Unhosted Wallet&#39; and Mixer Surveillance Rules",
+        "url": "https://decrypt.co/380120/treasury-kills-crypto-unhosted-wallet-mixer-surveillance-rules",
         "source": "crypto",
-        "time": "Mon, 05 Oct 2026 14:54:17 +0000"
+        "time": "Mon, 05 Oct 2026 20:19:38 +0000"
       },
       {
-        "title": "Strategy Posts $21B Q3 Gain, Buys $29M in BTC, Repurchases $176M in STRC",
-        "url": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc",
+        "title": "Crypto Sleuth ZachXBT Fronted $350K to Pose as a Client of Lazarus&#39; Chinese Launderers",
+        "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
         "source": "crypto",
-        "time": "Mon, 05 Oct 2026 12:51:42 +0000"
+        "time": "Mon, 05 Oct 2026 18:46:02 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Beam: Reflection's 501B open-weight model",
+        "url": "https://reflection.ai/blog/introducing-beam",
+        "source": "hn",
+        "time": "10/5/2026, 7:16:35 PM"
+      },
+      {
+        "title": "Dust: Pretraining Transformers Without Backpropagation",
+        "url": "https://qlabs.sh/research/dust",
+        "source": "hn",
+        "time": "10/5/2026, 9:15:07 PM"
+      },
+      {
+        "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+        "source": "hn",
+        "time": "10/5/2026, 9:00:21 PM"
+      },
+      {
+        "title": "Find the flattest route between any two points in SF",
+        "url": "https://flattensf.com/",
+        "source": "hn",
+        "time": "10/5/2026, 9:40:50 PM"
+      },
       {
         "title": "Web Search API",
         "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
         "source": "hn",
         "time": "10/5/2026, 10:47:06 AM"
-      },
-      {
-        "title": "Making a GTK application in Haskell, part 1",
-        "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-        "source": "hn",
-        "time": "10/5/2026, 2:23:47 PM"
-      },
-      {
-        "title": "The future of independence is interdependence",
-        "url": "https://onlys.ky/independence-is-interdependence/",
-        "source": "hn",
-        "time": "10/5/2026, 3:30:08 PM"
-      },
-      {
-        "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
-        "url": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
-        "source": "hn",
-        "time": "10/5/2026, 5:01:27 PM"
-      },
-      {
-        "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-        "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-        "source": "hn",
-        "time": "10/5/2026, 8:09:36 AM"
       }
     ],
     "world": [
       {
+        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 05 Oct 2026 21:46:22 GMT"
+      },
+      {
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 05 Oct 2026 21:41:53 GMT"
+      },
+      {
         "title": "King's funding for Andrew not to be used for legal action against police",
         "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 05 Oct 2026 17:18:21 GMT"
+        "time": "Mon, 05 Oct 2026 18:48:40 GMT"
       },
       {
         "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
@@ -80,22 +92,10 @@
         "time": "Mon, 05 Oct 2026 13:09:42 GMT"
       },
       {
-        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
-        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 05 Oct 2026 16:13:35 GMT"
-      },
-      {
         "title": "Teenager's hand blown off during confrontation between France school protesters and police",
         "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 05 Oct 2026 16:32:18 GMT"
-      },
-      {
-        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 05 Oct 2026 16:13:21 GMT"
       }
     ],
     "projects": [
