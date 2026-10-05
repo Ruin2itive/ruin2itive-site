@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-10-05T15:50:23.666Z",
-  "updated_local": "10/5/2026, 3:50:23 PM",
+  "updated_iso": "2026-10-05T17:52:06.090Z",
+  "updated_local": "10/5/2026, 5:52:06 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
+        "url": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage",
+        "source": "crypto",
+        "time": "Mon, 05 Oct 2026 16:46:03 +0000"
+      },
+      {
+        "title": "Bitcoin Just Flashed a Second, Stronger Golden Cross: Here&#39;s What That Means",
+        "url": "https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate",
+        "source": "crypto",
+        "time": "Mon, 05 Oct 2026 16:10:00 +0000"
+      },
+      {
+        "title": "NEXTPredict Founder: &#39;Nobody Was Serving&#39; Prediction Markets&#39; Enormous Audience",
+        "url": "https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience",
+        "source": "crypto",
+        "time": "Mon, 05 Oct 2026 16:03:03 +0000"
+      },
       {
         "title": "Bitmine Buys $41M More Ethereum, Reaching 99% of Its &#39;Alchemy of 5%&#39; Target",
         "url": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target",
@@ -14,39 +32,9 @@
         "url": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc",
         "source": "crypto",
         "time": "Mon, 05 Oct 2026 12:51:42 +0000"
-      },
-      {
-        "title": "Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point",
-        "url": "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point",
-        "source": "crypto",
-        "time": "Mon, 05 Oct 2026 12:04:01 +0000"
-      },
-      {
-        "title": "Morning Minute: Uptober Off to a Green Start",
-        "url": "https://decrypt.co/380050/morning-minute-uptober-off-to-a-green-start",
-        "source": "crypto",
-        "time": "Mon, 05 Oct 2026 11:39:08 +0000"
-      },
-      {
-        "title": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
-        "url": "https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme",
-        "source": "crypto",
-        "time": "Mon, 05 Oct 2026 11:18:01 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
-        "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
-        "source": "hn",
-        "time": "10/5/2026, 1:02:25 PM"
-      },
-      {
-        "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-        "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-        "source": "hn",
-        "time": "10/5/2026, 11:13:51 AM"
-      },
       {
         "title": "Web Search API",
         "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
@@ -54,24 +42,36 @@
         "time": "10/5/2026, 10:47:06 AM"
       },
       {
+        "title": "Making a GTK application in Haskell, part 1",
+        "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+        "source": "hn",
+        "time": "10/5/2026, 2:23:47 PM"
+      },
+      {
+        "title": "The future of independence is interdependence",
+        "url": "https://onlys.ky/independence-is-interdependence/",
+        "source": "hn",
+        "time": "10/5/2026, 3:30:08 PM"
+      },
+      {
+        "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
+        "url": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
+        "source": "hn",
+        "time": "10/5/2026, 5:01:27 PM"
+      },
+      {
         "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
         "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
         "source": "hn",
         "time": "10/5/2026, 8:09:36 AM"
-      },
-      {
-        "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-        "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
-        "source": "hn",
-        "time": "10/5/2026, 10:35:59 AM"
       }
     ],
     "world": [
       {
-        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
-        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "King's funding for Andrew not to be used for legal action against police",
+        "url": "https://www.bbc.co.uk/news/articles/c9ly0l028d1go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 05 Oct 2026 13:16:00 GMT"
+        "time": "Mon, 05 Oct 2026 17:18:21 GMT"
       },
       {
         "title": "What we know about Andrew Mountbatten-Windsor's legal action against police",
@@ -80,22 +80,22 @@
         "time": "Mon, 05 Oct 2026 13:09:42 GMT"
       },
       {
-        "title": "Twelve arrests after protest over migrant boat arrival",
-        "url": "https://www.bbc.co.uk/news/articles/cr20w64ll61lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
+        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 05 Oct 2026 13:26:19 GMT"
+        "time": "Mon, 05 Oct 2026 16:13:35 GMT"
       },
       {
-        "title": "Spanish PM Sánchez calls early election after housing protests",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+        "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 05 Oct 2026 10:18:47 GMT"
+        "time": "Mon, 05 Oct 2026 16:32:18 GMT"
       },
       {
-        "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
-        "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 05 Oct 2026 11:34:59 GMT"
+        "time": "Mon, 05 Oct 2026 16:13:21 GMT"
       }
     ],
     "projects": [
