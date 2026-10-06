@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-06T15:35:56.862Z"
+    "built_at": "2026-10-06T20:41:30.299Z"
   },
-  "items": [
-    {
-      "title": "I made a way for SaaS products to ship n8n nodes",
-      "url": "https://www.nativeship.io",
-      "date": "2026-10-06T15:32:12.000Z"
-    },
-    {
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-      "date": "2026-10-06T15:31:56.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
