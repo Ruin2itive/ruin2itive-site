@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-06T10:03:11.185Z",
-  "updated_local": "10/6/2026, 10:03:11 AM",
+  "updated_iso": "2026-10-06T11:46:45.288Z",
+  "updated_local": "10/6/2026, 11:46:45 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Crypto &#39;Godfather&#39; Gets Six Years for Hiring Sheriff&#39;s Deputies, $37M Meta Fraud",
+        "url": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud",
+        "source": "crypto",
+        "time": "Tue, 06 Oct 2026 10:36:57 +0000"
+      },
       {
         "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
         "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
         "source": "crypto",
         "time": "Mon, 05 Oct 2026 21:16:03 +0000"
-      },
-      {
-        "title": "Why a 4chan Bitcoin Prophecy Says Today Is the End of Crypto Winter",
-        "url": "https://decrypt.co/380113/4chan-bitcoin-prophecy-end-crypto-winter",
-        "source": "crypto",
-        "time": "Mon, 05 Oct 2026 20:46:03 +0000"
       }
     ],
     "hacker": [
@@ -48,6 +48,12 @@
         "time": "10/5/2026, 7:16:35 PM"
       },
       {
+        "title": "Gleam doesn't compile to Erlang source anymore",
+        "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+        "source": "hn",
+        "time": "10/6/2026, 8:08:20 AM"
+      },
+      {
         "title": "Find the flattest route between any two points in SF",
         "url": "https://flattensf.com/",
         "source": "hn",
@@ -58,44 +64,38 @@
         "url": "https://qlabs.sh/research/dust",
         "source": "hn",
         "time": "10/5/2026, 9:15:07 PM"
-      },
-      {
-        "title": "Accountability mechanisms can be joyful (2024)",
-        "url": "https://liquidbrain.net/blog/accountability-and-joy/",
-        "source": "hn",
-        "time": "10/4/2026, 6:15:17 AM"
       }
     ],
     "world": [
       {
-        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: At the scene of student protests on the streets of Lille",
+        "url": "https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 06 Oct 2026 07:02:24 GMT"
+        "time": "Tue, 06 Oct 2026 10:22:42 GMT"
       },
       {
-        "title": "ASOS app users receive notifications from hackers in apparent breach",
-        "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Former German spy chief arrested for espionage and treason",
+        "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 06 Oct 2026 09:49:42 GMT"
+        "time": "Tue, 06 Oct 2026 10:05:42 GMT"
       },
       {
-        "title": "Author and former politician Jeffrey Archer dies aged 86",
-        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Tories pledge £10bn for British anti-missile defence system",
+        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 06 Oct 2026 09:17:05 GMT"
+        "time": "Tue, 06 Oct 2026 11:20:36 GMT"
       },
       {
-        "title": "MPs call for investigation after Lutnick-Epstein whistleblower dies",
-        "url": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "One million UK people who have never smoked are now vaping",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8ldgzj277o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 05 Oct 2026 23:29:02 GMT"
+        "time": "Tue, 06 Oct 2026 10:09:28 GMT"
       },
       {
-        "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Ghost particles' from space telescope wins physics Nobel",
+        "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 05 Oct 2026 23:07:08 GMT"
+        "time": "Tue, 06 Oct 2026 11:24:19 GMT"
       }
     ],
     "projects": [
