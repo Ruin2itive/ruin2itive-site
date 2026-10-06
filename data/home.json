@@ -1,40 +1,58 @@
 {
-  "updated_iso": "2026-10-06T11:46:45.288Z",
-  "updated_local": "10/6/2026, 11:46:45 AM",
+  "updated_iso": "2026-10-06T17:07:34.925Z",
+  "updated_local": "10/6/2026, 5:07:34 PM",
   "sections": {
     "crypto": [
       {
-        "title": "Crypto &#39;Godfather&#39; Gets Six Years for Hiring Sheriff&#39;s Deputies, $37M Meta Fraud",
-        "url": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud",
+        "title": "Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up",
+        "url": "https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up",
         "source": "crypto",
-        "time": "Tue, 06 Oct 2026 10:36:57 +0000"
+        "time": "Tue, 06 Oct 2026 16:38:15 +0000"
       },
       {
-        "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
-        "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
+        "title": "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study",
+        "url": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
         "source": "crypto",
-        "time": "Tue, 06 Oct 2026 02:01:03 +0000"
+        "time": "Tue, 06 Oct 2026 15:26:41 +0000"
       },
       {
-        "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
-        "url": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
+        "title": "Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation",
+        "url": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation",
         "source": "crypto",
-        "time": "Mon, 05 Oct 2026 22:30:20 +0000"
+        "time": "Tue, 06 Oct 2026 12:53:04 +0000"
       },
       {
-        "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
-        "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
+        "title": "Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges",
+        "url": "https://decrypt.co/380146/morning-minute-the-cftc-reveals-plan-to-regulate-crypto-exchanges",
         "source": "crypto",
-        "time": "Mon, 05 Oct 2026 21:48:03 +0000"
+        "time": "Tue, 06 Oct 2026 12:27:11 +0000"
       },
       {
-        "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
-        "url": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
+        "title": "Don Davis Bill Would Fine Candidates $10K for Trading on Their Own Elections",
+        "url": "https://decrypt.co/380147/don-davis-bill-would-fine-candidates-10k-for-trading-on-their-own-elections",
         "source": "crypto",
-        "time": "Mon, 05 Oct 2026 21:16:03 +0000"
+        "time": "Tue, 06 Oct 2026 12:11:50 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Mistral Large 4",
+        "url": "https://mistral.ai/news/mistral-large-4/\\",
+        "source": "hn",
+        "time": "10/6/2026, 1:15:49 PM"
+      },
+      {
+        "title": "AI is now capable of developing its own inference hardware",
+        "url": "https://github.com/FeSens/openTPU",
+        "source": "hn",
+        "time": "10/6/2026, 4:23:25 PM"
+      },
+      {
+        "title": "Release of Polars 2.0",
+        "url": "https://pola.rs/posts/release-polars-2/",
+        "source": "hn",
+        "time": "10/6/2026, 11:59:01 AM"
+      },
       {
         "title": "Nobel Prize in Physics goes to Francis Halzen",
         "url": "https://www.nobelprize.org/prizes/physics/2026/",
@@ -42,60 +60,42 @@
         "time": "10/6/2026, 9:48:46 AM"
       },
       {
-        "title": "Beam: Reflection's 501B open-weight model",
-        "url": "https://reflection.ai/blog/introducing-beam",
+        "title": "The Early History of Smalltalk (1993)",
+        "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
         "source": "hn",
-        "time": "10/5/2026, 7:16:35 PM"
-      },
-      {
-        "title": "Gleam doesn't compile to Erlang source anymore",
-        "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-        "source": "hn",
-        "time": "10/6/2026, 8:08:20 AM"
-      },
-      {
-        "title": "Find the flattest route between any two points in SF",
-        "url": "https://flattensf.com/",
-        "source": "hn",
-        "time": "10/5/2026, 9:40:50 PM"
-      },
-      {
-        "title": "Dust: Pretraining Transformers Without Backpropagation",
-        "url": "https://qlabs.sh/research/dust",
-        "source": "hn",
-        "time": "10/5/2026, 9:15:07 PM"
+        "time": "10/6/2026, 3:19:57 PM"
       }
     ],
     "world": [
       {
-        "title": "Watch: At the scene of student protests on the streets of Lille",
-        "url": "https://www.bbc.co.uk/news/videos/c6reyz98gz2no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: At the scene of student protests in Lille",
+        "url": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 06 Oct 2026 10:22:42 GMT"
+        "time": "Tue, 06 Oct 2026 15:02:56 GMT"
       },
       {
-        "title": "Former German spy chief arrested for espionage and treason",
-        "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "British national arrested in connection with RAF Fairford incident",
+        "url": "https://www.bbc.co.uk/news/articles/cqlye0xd72wdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 06 Oct 2026 10:05:42 GMT"
+        "time": "Tue, 06 Oct 2026 15:03:58 GMT"
       },
       {
-        "title": "Tories pledge £10bn for British anti-missile defence system",
-        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "ASOS app users receive push notifications apparently sent by hackers",
+        "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 06 Oct 2026 11:20:36 GMT"
+        "time": "Tue, 06 Oct 2026 10:37:50 GMT"
       },
       {
-        "title": "One million UK people who have never smoked are now vaping",
-        "url": "https://www.bbc.co.uk/news/articles/cwe8ldgzj277o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 06 Oct 2026 10:09:28 GMT"
+        "time": "Tue, 06 Oct 2026 17:00:03 GMT"
       },
       {
-        "title": "'Ghost particles' from space telescope wins physics Nobel",
-        "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "PCs who used Taser and baton on amputee, 92, sacked",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8ry2dn6z7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 06 Oct 2026 11:24:19 GMT"
+        "time": "Tue, 06 Oct 2026 15:58:15 GMT"
       }
     ],
     "projects": [
