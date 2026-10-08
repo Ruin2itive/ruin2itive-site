@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-08T17:18:13.056Z",
-  "updated_local": "10/8/2026, 5:18:13 PM",
+  "updated_iso": "2026-10-08T17:49:03.170Z",
+  "updated_local": "10/8/2026, 5:49:03 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red",
+        "url": "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red",
+        "source": "crypto",
+        "time": "Thu, 08 Oct 2026 17:46:05 +0000"
+      },
       {
         "title": "Will AI Break Crypto Encryption? Ethereum’s Vitalik Buterin Weighs In on &#39;Bunker Mode&#39; Shift",
         "url": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
         "source": "crypto",
         "time": "Thu, 08 Oct 2026 15:42:16 +0000"
-      },
-      {
-        "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
-        "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
-        "source": "crypto",
-        "time": "Thu, 08 Oct 2026 15:10:49 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Trump administration is suspending Microsoft from a green card program",
-        "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
-        "source": "hn",
-        "time": "10/8/2026, 3:15:00 PM"
-      },
       {
         "title": "Whistle: Speech to Text in 16.9 MB",
         "url": "https://cactuscompute.com/blog/whistle",
         "source": "hn",
         "time": "10/8/2026, 4:59:39 PM"
+      },
+      {
+        "title": "Trump administration is suspending Microsoft from a green card program",
+        "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+        "source": "hn",
+        "time": "10/8/2026, 3:15:00 PM"
       },
       {
         "title": "Beauty in DVD Menus",
@@ -58,6 +58,12 @@
         "url": "https://mathstodon.xyz/@tao/117395269325940185",
         "source": "hn",
         "time": "10/8/2026, 5:14:14 AM"
+      },
+      {
+        "title": "Archaeologists Are Reconstructing the 'Invisible' Technologies of the Stone Age",
+        "url": "https://www.smithsonianmag.com/science-nature/archaeologists-are-reconstructing-the-invisible-technologies-of-the-stone-age-from-rope-to-thread-and-twine-180989534/",
+        "source": "hn",
+        "time": "10/7/2026, 9:25:16 PM"
       }
     ],
     "world": [
@@ -68,10 +74,16 @@
         "time": "Thu, 08 Oct 2026 16:33:29 GMT"
       },
       {
+        "title": "Watch: Why the search warrants were deemed unlawful and what happens next?",
+        "url": "https://www.bbc.co.uk/news/videos/c6qxn8dd0zllo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 08 Oct 2026 17:26:49 GMT"
+      },
+      {
         "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
         "url": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 08 Oct 2026 16:19:43 GMT"
+        "time": "Thu, 08 Oct 2026 17:36:28 GMT"
       },
       {
         "title": "Three sisters who drowned in sea off Brighton took own lives, inquest finds",
@@ -84,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cw203n6emde8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 08 Oct 2026 12:44:03 GMT"
-      },
-      {
-        "title": "Asos hackers took more personal details than first revealed, BBC finds",
-        "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 08 Oct 2026 16:29:33 GMT"
       }
     ],
     "projects": [
