@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-09T19:56:40.036Z"
+    "built_at": "2026-10-09T23:47:04.499Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Anthropic and OpenAI wargaming public and political revolt after AI catastrophe",
+      "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
+      "date": "2026-10-09T23:37:34.000Z"
+    },
+    {
+      "title": "Faster Python startup with lazy imports",
+      "url": "https://lemire.me/blog/2026/10/09/faster-python-startup-with-lazy-imports/",
+      "date": "2026-10-09T23:33:55.000Z"
+    }
+  ]
 }
