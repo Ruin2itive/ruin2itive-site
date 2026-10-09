@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-09T19:24:33.239Z",
-  "updated_local": "10/9/2026, 7:24:33 PM",
+  "updated_iso": "2026-10-09T22:14:17.476Z",
+  "updated_local": "10/9/2026, 10:14:17 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
+        "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
+        "source": "crypto",
+        "time": "Fri, 09 Oct 2026 19:47:01 +0000"
+      },
       {
         "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
         "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
@@ -26,26 +32,26 @@
         "url": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
         "source": "crypto",
         "time": "Fri, 09 Oct 2026 16:36:03 +0000"
-      },
-      {
-        "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
-        "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
-        "source": "crypto",
-        "time": "Fri, 09 Oct 2026 16:08:23 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+        "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+        "source": "hn",
+        "time": "10/9/2026, 9:06:59 PM"
+      },
+      {
+        "title": "No Man Is an Island",
+        "url": "https://borretti.me/article/no-man-is-an-island",
+        "source": "hn",
+        "time": "10/9/2026, 8:04:00 PM"
+      },
       {
         "title": "Cloudflare acquires Deno",
         "url": "https://deno.com/blog/cloudflare",
         "source": "hn",
         "time": "10/9/2026, 1:03:48 PM"
-      },
-      {
-        "title": "Our $445M Series D",
-        "url": "https://oxide.computer/blog/our-445m-series-d",
-        "source": "hn",
-        "time": "10/9/2026, 1:12:47 PM"
       },
       {
         "title": "Triple-A Minesweeper",
@@ -58,15 +64,21 @@
         "url": "https://carrierexplode.com/",
         "source": "hn",
         "time": "10/9/2026, 6:10:55 PM"
-      },
-      {
-        "title": "Sorry, I'm in a meeting",
-        "url": "https://iminafleeting.com/",
-        "source": "hn",
-        "time": "10/9/2026, 9:21:48 AM"
       }
     ],
     "world": [
+      {
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 09 Oct 2026 21:54:28 GMT"
+      },
+      {
+        "title": "NI secretary to ban the Drumcree parade",
+        "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 09 Oct 2026 21:46:19 GMT"
+      },
       {
         "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
         "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&amp;at_campaign=rss",
@@ -77,25 +89,13 @@
         "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
         "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 09 Oct 2026 15:16:54 GMT"
+        "time": "Fri, 09 Oct 2026 19:26:53 GMT"
       },
       {
         "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
         "url": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 09 Oct 2026 12:29:02 GMT"
-      },
-      {
-        "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-        "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 09 Oct 2026 18:40:05 GMT"
-      },
-      {
-        "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
-        "url": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 09 Oct 2026 14:35:31 GMT"
       }
     ],
     "projects": [
