@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-09T05:52:22.791Z",
-  "updated_local": "10/9/2026, 5:52:22 AM",
+  "updated_iso": "2026-10-09T10:01:54.089Z",
+  "updated_local": "10/9/2026, 10:01:54 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
+        "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
+        "source": "crypto",
+        "time": "Fri, 09 Oct 2026 08:59:31 +0000"
+      },
       {
         "title": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
         "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
@@ -26,26 +32,14 @@
         "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
         "source": "crypto",
         "time": "Thu, 08 Oct 2026 19:31:03 +0000"
-      },
-      {
-        "title": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
-        "url": "https://decrypt.co/380514/satoshi-era-bitcoin-mined-2010-moves-16-years",
-        "source": "crypto",
-        "time": "Thu, 08 Oct 2026 18:46:04 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Show HN: Quake ported to safe Rust, playable in browser",
-        "url": "https://quake-srp.pages.dev/",
+        "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+        "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
         "source": "hn",
-        "time": "10/9/2026, 5:22:58 AM"
-      },
-      {
-        "title": "Reducing undefined behavior in the C language",
-        "url": "https://lwn.net/Articles/1095811/",
-        "source": "hn",
-        "time": "10/9/2026, 2:02:53 AM"
+        "time": "10/8/2026, 12:14:48 AM"
       },
       {
         "title": "Whistle: Speech to Text in 16.9 MB",
@@ -54,10 +48,16 @@
         "time": "10/8/2026, 4:59:39 PM"
       },
       {
-        "title": "Theranos.world",
-        "url": "https://www.theranos.world/",
+        "title": "MXC - a sandboxed code execution system",
+        "url": "https://github.com/microsoft/mxc",
         "source": "hn",
-        "time": "10/8/2026, 5:51:49 PM"
+        "time": "10/9/2026, 5:51:29 AM"
+      },
+      {
+        "title": "Keyboard differences between Windows and Macs",
+        "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+        "source": "hn",
+        "time": "10/9/2026, 3:08:05 AM"
       },
       {
         "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
@@ -68,34 +68,34 @@
     ],
     "world": [
       {
-        "title": "Zack Polanski defends leadership after Zionism row and by-election loss",
+        "title": "I would not have voted for Zionism motion, Polanski says",
         "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 09 Oct 2026 04:38:19 GMT"
+        "time": "Fri, 09 Oct 2026 08:48:53 GMT"
       },
       {
-        "title": "Chris Mason: Polanski faces greatest crisis of his leadership so far",
-        "url": "https://www.bbc.co.uk/news/articles/cm70p821d6w4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Chris Mason: Questions remain for Green Party leader Zack Polanski",
+        "url": "https://www.bbc.co.uk/news/videos/cxly4jy042eno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 09 Oct 2026 04:54:25 GMT"
-      },
-      {
-        "title": "ADHD and autism at risk of over-diagnosis, says government review",
-        "url": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 08 Oct 2026 23:01:30 GMT"
+        "time": "Fri, 09 Oct 2026 06:39:13 GMT"
       },
       {
         "title": "Firing squad execution to be livestreamed, Pentagon says",
         "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 09 Oct 2026 03:36:12 GMT"
+        "time": "Fri, 09 Oct 2026 09:29:52 GMT"
       },
       {
-        "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
-        "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 08 Oct 2026 23:11:10 GMT"
+        "time": "Fri, 09 Oct 2026 09:43:22 GMT"
+      },
+      {
+        "title": "Emotions run high at the round table as Celebrity Traitors banish two players",
+        "url": "https://www.bbc.co.uk/news/articles/cm9dzl7wx2qyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 08 Oct 2026 23:08:09 GMT"
       }
     ],
     "projects": [
