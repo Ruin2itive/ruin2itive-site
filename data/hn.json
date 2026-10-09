@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-09T07:01:42.192Z"
+    "built_at": "2026-10-09T14:49:46.106Z"
   },
-  "items": [
-    {
-      "title": "NPM Package for CV Scoring",
-      "url": "https://www.npmjs.com/package/cv-score",
-      "date": "2026-10-09T07:00:16.000Z"
-    },
-    {
-      "title": "Show HN: Sticky Notes for the Whole Web",
-      "url": "https://leafovers.com/",
-      "date": "2026-10-09T06:57:45.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
