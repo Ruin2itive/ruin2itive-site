@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-10-10T15:41:34.668Z",
-  "updated_local": "10/10/2026, 3:41:34 PM",
+  "updated_iso": "2026-10-10T17:45:04.334Z",
+  "updated_local": "10/10/2026, 5:45:04 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+        "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+        "source": "crypto",
+        "time": "Sat, 10 Oct 2026 17:01:03 +0000"
+      },
+      {
+        "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+        "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+        "source": "crypto",
+        "time": "Sat, 10 Oct 2026 16:01:04 +0000"
+      },
       {
         "title": "Here’s a Way to Predict When AI Chatbots Will Turn Bad",
         "url": "https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
@@ -20,26 +32,20 @@
         "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
         "source": "crypto",
         "time": "Fri, 09 Oct 2026 19:47:01 +0000"
-      },
-      {
-        "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
-        "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
-        "source": "crypto",
-        "time": "Fri, 09 Oct 2026 18:46:03 +0000"
-      },
-      {
-        "title": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
-        "url": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
-        "source": "crypto",
-        "time": "Fri, 09 Oct 2026 18:06:03 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Bitwarden Dual License Model",
-        "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+        "title": "Grieving the Loss of Details",
+        "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
         "source": "hn",
-        "time": "10/10/2026, 2:32:50 PM"
+        "time": "10/6/2026, 4:37:21 PM"
+      },
+      {
+        "title": "Knuth Reward Check",
+        "url": "https://www.thomas-huehn.com/knuth-reward-check",
+        "source": "hn",
+        "time": "10/10/2026, 3:47:01 PM"
       },
       {
         "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
@@ -54,36 +60,30 @@
         "time": "10/9/2026, 5:52:07 PM"
       },
       {
-        "title": "REA Reverse – Engineer Anything",
-        "url": "https://rea.tools/",
+        "title": "Bitwarden Dual License Model",
+        "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
         "source": "hn",
-        "time": "10/10/2026, 12:37:07 AM"
-      },
-      {
-        "title": "Cloudflare acquires Deno",
-        "url": "https://deno.com/blog/cloudflare",
-        "source": "hn",
-        "time": "10/9/2026, 1:03:48 PM"
+        "time": "10/10/2026, 2:32:50 PM"
       }
     ],
     "world": [
       {
-        "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+        "title": "Man dies after tiger attack at wildlife park",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 10 Oct 2026 17:42:31 GMT"
+      },
+      {
+        "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
         "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 10 Oct 2026 15:28:10 GMT"
+        "time": "Sat, 10 Oct 2026 17:44:26 GMT"
       },
       {
         "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
         "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 10 Oct 2026 14:24:14 GMT"
-      },
-      {
-        "title": "'Serious incident' at tiger enclosure closes Yorkshire Wildlife Park",
-        "url": "https://www.bbc.co.uk/news/articles/c6jrw8g1123vo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 10 Oct 2026 14:57:57 GMT"
       },
       {
         "title": "Head of Met's volunteer force fired after AI tool found deleted intimate images on work phone",
