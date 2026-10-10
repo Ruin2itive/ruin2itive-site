@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-09T23:57:24.223Z",
-  "updated_local": "10/9/2026, 11:57:24 PM",
+  "updated_iso": "2026-10-10T02:03:41.291Z",
+  "updated_local": "10/10/2026, 2:03:41 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "REA Reverse – Engineer Anything",
+        "url": "https://rea.tools/",
+        "source": "hn",
+        "time": "10/10/2026, 12:37:07 AM"
+      },
+      {
         "title": "Cloudflare acquires Deno",
         "url": "https://deno.com/blog/cloudflare",
         "source": "hn",
@@ -48,30 +54,24 @@
         "time": "10/9/2026, 3:51:05 PM"
       },
       {
-        "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-        "url": "https://carrierexplode.com/",
-        "source": "hn",
-        "time": "10/9/2026, 6:10:55 PM"
-      },
-      {
         "title": "Our $445M Series D",
         "url": "https://oxide.computer/blog/our-445m-series-d",
         "source": "hn",
         "time": "10/9/2026, 1:12:47 PM"
       },
       {
-        "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-        "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+        "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+        "url": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
         "source": "hn",
-        "time": "10/9/2026, 9:06:59 PM"
+        "time": "10/9/2026, 11:56:55 PM"
       }
     ],
     "world": [
       {
-        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
         "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 09 Oct 2026 21:54:28 GMT"
+        "time": "Sat, 10 Oct 2026 00:45:51 GMT"
       },
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
@@ -86,16 +86,16 @@
         "time": "Fri, 09 Oct 2026 21:46:19 GMT"
       },
       {
+        "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+        "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 09 Oct 2026 21:50:47 GMT"
+      },
+      {
         "title": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
         "url": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 09 Oct 2026 22:51:57 GMT"
-      },
-      {
-        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 09 Oct 2026 18:40:10 GMT"
       }
     ],
     "projects": [
