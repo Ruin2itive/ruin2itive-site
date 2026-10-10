@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-10T09:23:07.145Z",
-  "updated_local": "10/10/2026, 9:23:07 AM",
+  "updated_iso": "2026-10-10T12:20:09.876Z",
+  "updated_local": "10/10/2026, 12:20:09 PM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
+        "title": "`123456' password used in Danish CPR data breach",
+        "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+        "source": "hn",
+        "time": "10/10/2026, 9:51:49 AM"
+      },
+      {
+        "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+        "url": "https://github.com/rociiu/talorys",
+        "source": "hn",
+        "time": "10/10/2026, 10:52:09 AM"
+      },
+      {
+        "title": "Apple/macOS silently removed from official Unix registry",
+        "url": "https://www.opengroup.org//openbrand/register/",
+        "source": "hn",
+        "time": "10/10/2026, 10:57:31 AM"
+      },
+      {
         "title": "REA Reverse – Engineer Anything",
         "url": "https://rea.tools/",
         "source": "hn",
         "time": "10/10/2026, 12:37:07 AM"
       },
       {
-        "title": "Computers Cannot Make Decisions",
-        "url": "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
-        "source": "hn",
-        "time": "10/10/2026, 5:47:46 AM"
-      },
-      {
         "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
         "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
         "source": "hn",
         "time": "10/10/2026, 3:02:47 AM"
-      },
-      {
-        "title": "Cloudflare acquires Deno",
-        "url": "https://deno.com/blog/cloudflare",
-        "source": "hn",
-        "time": "10/9/2026, 1:03:48 PM"
-      },
-      {
-        "title": "Triple-A Minesweeper",
-        "url": "https://minesweeper.mikelacher.com/",
-        "source": "hn",
-        "time": "10/9/2026, 3:51:05 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Sat, 10 Oct 2026 04:38:20 GMT"
       },
       {
-        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-        "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people including three children",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 09 Oct 2026 22:30:22 GMT"
+        "time": "Sat, 10 Oct 2026 11:17:15 GMT"
       },
       {
-        "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-        "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Head of Met's volunteer force fired after AI tool found deleted intimate images on work phone",
+        "url": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 10 Oct 2026 04:34:55 GMT"
+        "time": "Sat, 10 Oct 2026 09:19:53 GMT"
       },
       {
-        "title": "Early release scheme prisoner jailed days after leaving",
-        "url": "https://www.bbc.co.uk/news/articles/c699zyyyn4y0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Rogue Anthropic AI agent gave US police fake tip in unsolved murder case",
+        "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 09 Oct 2026 20:11:36 GMT"
+        "time": "Sat, 10 Oct 2026 10:06:23 GMT"
       },
       {
-        "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Drumcree parade ban was in interests of peace, says Bryant",
+        "url": "https://www.bbc.co.uk/news/articles/c6z0vlg3xvz3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 10 Oct 2026 04:51:57 GMT"
+        "time": "Sat, 10 Oct 2026 11:21:28 GMT"
       }
     ],
     "projects": [
