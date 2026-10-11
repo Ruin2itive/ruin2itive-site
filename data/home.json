@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-11T00:47:41.412Z",
-  "updated_local": "10/11/2026, 12:47:41 AM",
+  "updated_iso": "2026-10-11T03:58:47.722Z",
+  "updated_local": "10/11/2026, 3:58:47 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "WallHop – 12ft.io is gone, so I built a replacement",
+        "url": "https://wallhop.io/",
+        "source": "hn",
+        "time": "10/11/2026, 12:46:48 AM"
+      },
+      {
         "title": "Build your own decision model",
         "url": "https://nishtahir.com/build-your-own-decision-model/",
         "source": "hn",
@@ -54,16 +60,10 @@
         "time": "10/10/2026, 8:31:50 PM"
       },
       {
-        "title": "Nix wrote half of my debugger",
-        "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+        "title": "PSPi 6 – Raspberry Pi in a PSP",
+        "url": "https://github.com/othermod/PSPi-Version-6",
         "source": "hn",
-        "time": "10/9/2026, 7:29:08 AM"
-      },
-      {
-        "title": "The Lightbulb Computer",
-        "url": "https://lightbulbcomputer.com/",
-        "source": "hn",
-        "time": "10/10/2026, 4:12:26 AM"
+        "time": "10/11/2026, 12:45:49 AM"
       }
     ],
     "world": [
@@ -71,31 +71,31 @@
         "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
         "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 11 Oct 2026 00:21:52 GMT"
+        "time": "Sun, 11 Oct 2026 03:57:22 GMT"
       },
       {
         "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
         "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 10 Oct 2026 19:28:28 GMT"
+        "time": "Sun, 11 Oct 2026 01:41:29 GMT"
       },
       {
         "title": "Man dies after tiger attack at wildlife park",
         "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 10 Oct 2026 19:09:59 GMT"
+        "time": "Sun, 11 Oct 2026 01:05:37 GMT"
       },
       {
-        "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-        "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US justice department investigates TV networks over Trump pool coverage",
+        "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 10 Oct 2026 17:44:26 GMT"
+        "time": "Sun, 11 Oct 2026 00:49:17 GMT"
       },
       {
-        "title": "King warns malicious online actors are evolving tactics",
-        "url": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK launch flood taskforce to prepare for extreme winter weather",
+        "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 10 Oct 2026 15:56:32 GMT"
+        "time": "Sun, 11 Oct 2026 00:44:37 GMT"
       }
     ],
     "projects": [
