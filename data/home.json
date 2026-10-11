@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-11T06:59:53.348Z",
-  "updated_local": "10/11/2026, 6:59:53 AM",
+  "updated_iso": "2026-10-11T10:43:56.166Z",
+  "updated_local": "10/11/2026, 10:43:56 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "IRCv3",
+        "url": "https://ircv3.net/",
+        "source": "hn",
+        "time": "10/11/2026, 10:11:27 AM"
+      },
+      {
+        "title": "LineageOS 24.0",
+        "url": "https://lineageos.org/Changelog-32/",
+        "source": "hn",
+        "time": "10/11/2026, 6:18:59 AM"
+      },
+      {
         "title": "Build your own decision model",
         "url": "https://nishtahir.com/build-your-own-decision-model/",
         "source": "hn",
@@ -52,18 +64,6 @@
         "url": "https://housing.over.pizza/",
         "source": "hn",
         "time": "10/10/2026, 8:31:50 PM"
-      },
-      {
-        "title": "AI agents in a stand-up call",
-        "url": "https://atoll92.github.io/agent-standup/",
-        "source": "hn",
-        "time": "10/11/2026, 3:42:47 AM"
-      },
-      {
-        "title": "The Lightbulb Computer",
-        "url": "https://lightbulbcomputer.com/",
-        "source": "hn",
-        "time": "10/10/2026, 4:12:26 AM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Sat, 10 Oct 2026 23:04:37 GMT"
       },
       {
-        "title": "UK launches flood taskforce to prepare for extreme winter weather",
-        "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Delhi sees more protests as 'cockroach' group's leaders released",
+        "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 11 Oct 2026 00:44:37 GMT"
+        "time": "Sun, 11 Oct 2026 08:50:21 GMT"
       }
     ],
     "projects": [
