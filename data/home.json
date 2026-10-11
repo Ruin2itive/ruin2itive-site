@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-11T10:43:56.166Z",
-  "updated_local": "10/11/2026, 10:43:56 AM",
+  "updated_iso": "2026-10-11T13:56:51.080Z",
+  "updated_local": "10/11/2026, 1:56:51 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
+        "url": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
+        "source": "crypto",
+        "time": "Sun, 11 Oct 2026 13:00:03 +0000"
+      },
       {
         "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
         "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
@@ -26,20 +32,20 @@
         "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
         "source": "crypto",
         "time": "Sat, 10 Oct 2026 13:01:03 +0000"
-      },
-      {
-        "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
-        "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
-        "source": "crypto",
-        "time": "Fri, 09 Oct 2026 19:47:01 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "IRCv3",
-        "url": "https://ircv3.net/",
+        "title": "I paid people to try and follow my README",
+        "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
         "source": "hn",
-        "time": "10/11/2026, 10:11:27 AM"
+        "time": "10/11/2026, 11:47:29 AM"
+      },
+      {
+        "title": "Don't Put Tilde In Your Path",
+        "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+        "source": "hn",
+        "time": "10/11/2026, 12:13:13 PM"
       },
       {
         "title": "LineageOS 24.0",
@@ -48,54 +54,48 @@
         "time": "10/11/2026, 6:18:59 AM"
       },
       {
-        "title": "Build your own decision model",
-        "url": "https://nishtahir.com/build-your-own-decision-model/",
+        "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+        "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
         "source": "hn",
-        "time": "10/10/2026, 10:50:10 PM"
+        "time": "10/11/2026, 10:27:53 AM"
       },
       {
-        "title": "2D Vehicles",
-        "url": "https://patkerr.co.uk/2d-vehicles/",
+        "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+        "url": "https://verdagon.dev/blog/valen-group-borrowing",
         "source": "hn",
-        "time": "10/7/2026, 12:30:40 PM"
-      },
-      {
-        "title": "A city-building game in which the city would prefer you didn't",
-        "url": "https://housing.over.pizza/",
-        "source": "hn",
-        "time": "10/10/2026, 8:31:50 PM"
+        "time": "10/11/2026, 12:06:22 PM"
       }
     ],
     "world": [
       {
-        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-        "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+        "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 11 Oct 2026 01:41:29 GMT"
+        "time": "Sun, 11 Oct 2026 11:32:50 GMT"
       },
       {
-        "title": "Man dies after tiger attack at wildlife park",
-        "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Buildings swept away as flash floods hit central Nepal",
+        "url": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 11 Oct 2026 06:58:54 GMT"
+        "time": "Sun, 11 Oct 2026 10:34:02 GMT"
       },
       {
-        "title": "US justice department investigates TV networks over Trump pool coverage",
-        "url": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Wildlife park remains closed after fatal tiger attack",
+        "url": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 11 Oct 2026 05:05:43 GMT"
+        "time": "Sun, 11 Oct 2026 12:38:02 GMT"
       },
       {
-        "title": "MPs seek to overturn ruling that stops police being sued for failings",
-        "url": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK does not support Trump's Russia diesel deal, says Streeting",
+        "url": "https://www.bbc.co.uk/news/articles/c65yn92nj423o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 10 Oct 2026 23:04:37 GMT"
+        "time": "Sun, 11 Oct 2026 11:00:49 GMT"
       },
       {
-        "title": "Delhi sees more protests as 'cockroach' group's leaders released",
-        "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Pope Leo to have surgery after lump found on lung",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 11 Oct 2026 08:50:21 GMT"
+        "time": "Sun, 11 Oct 2026 13:38:55 GMT"
       }
     ],
     "projects": [
