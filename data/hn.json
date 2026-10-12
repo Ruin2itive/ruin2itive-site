@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-11T22:35:54.457Z"
+    "built_at": "2026-10-12T01:56:39.712Z"
   },
-  "items": [
-    {
-      "title": "HPE Unveils the First of the Next Generation of ProLiants for the AI Era",
-      "url": "https://www.nextplatform.com/compute/2026/10/08/hpe-unveils-the-first-of-the-next-generation-of-proliants-for-the-ai-era/5301808",
-      "date": "2026-10-11T22:33:48.000Z"
-    },
-    {
-      "title": "Fingerprints Are the New Cookies",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "date": "2026-10-11T22:33:39.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
