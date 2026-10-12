@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-12T06:57:27.101Z",
-  "updated_local": "10/12/2026, 6:57:27 AM",
+  "updated_iso": "2026-10-12T10:35:53.732Z",
+  "updated_local": "10/12/2026, 10:35:53 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "UK Freezes $12M London Penthouse of Alleged Prince Group Finance Chief",
+        "url": "https://decrypt.co/380661/uk-freezes-12m-london-penthouse-of-alleged-prince-group-finance-chief",
+        "source": "crypto",
+        "time": "Mon, 12 Oct 2026 10:12:48 +0000"
+      },
       {
         "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
         "url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
         "source": "crypto",
         "time": "Sat, 10 Oct 2026 17:01:03 +0000"
-      },
-      {
-        "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
-        "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
-        "source": "crypto",
-        "time": "Sat, 10 Oct 2026 16:01:04 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "10/12/2026, 5:02:34 AM"
       },
       {
-        "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-        "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
-        "source": "hn",
-        "time": "10/12/2026, 4:54:00 AM"
-      },
-      {
         "title": "Fingerprints are the new cookies",
         "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
         "source": "hn",
         "time": "10/11/2026, 10:33:39 PM"
+      },
+      {
+        "title": "Postgres isn't slow, your storage is",
+        "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+        "source": "hn",
+        "time": "10/12/2026, 6:36:53 AM"
       },
       {
         "title": "Total Annihilation, rebuilt for modern computers",
@@ -60,15 +60,15 @@
         "time": "10/11/2026, 6:04:47 PM"
       },
       {
-        "title": "Whatever became of holography? (2011)",
-        "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+        "title": "Calculus with Julia",
+        "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
         "source": "hn",
-        "time": "10/11/2026, 11:50:34 PM"
+        "time": "10/10/2026, 3:59:52 PM"
       }
     ],
     "world": [
       {
-        "title": "Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth",
+        "title": "Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth, BBC finds",
         "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 12 Oct 2026 05:00:52 GMT"
@@ -80,22 +80,22 @@
         "time": "Mon, 12 Oct 2026 05:01:22 GMT"
       },
       {
+        "title": "Russell Brand arrives at court for start of rape trial",
+        "url": "https://www.bbc.co.uk/news/articles/cmqxn0lw25r3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 12 Oct 2026 08:16:21 GMT"
+      },
+      {
         "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
         "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 11 Oct 2026 22:45:58 GMT"
       },
       {
-        "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
-        "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 12 Oct 2026 06:23:50 GMT"
-      },
-      {
-        "title": "Reform would suspend asylum system for parliamentary term if in government",
-        "url": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 11 Oct 2026 21:18:15 GMT"
+        "time": "Mon, 12 Oct 2026 09:38:03 GMT"
       }
     ],
     "projects": [
