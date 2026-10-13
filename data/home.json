@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-13T02:30:41.267Z",
-  "updated_local": "10/13/2026, 2:30:41 AM",
+  "updated_iso": "2026-10-13T05:28:04.555Z",
+  "updated_local": "10/13/2026, 5:28:04 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "GLM-Legal",
-        "url": "https://z.ai/blog/glm-legal",
+        "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+        "url": "https://arxiv.org/abs/2610.13928",
         "source": "hn",
-        "time": "10/12/2026, 4:11:45 PM"
+        "time": "10/13/2026, 2:07:08 AM"
       },
       {
         "title": "The baffling intelligence of a single cell (2024)",
@@ -48,22 +48,22 @@
         "time": "10/11/2026, 11:02:30 AM"
       },
       {
-        "title": "Who is vfmaddrnd231pd?",
-        "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+        "title": "GLM-Legal",
+        "url": "https://z.ai/blog/glm-legal",
         "source": "hn",
-        "time": "10/12/2026, 9:12:43 PM"
-      },
-      {
-        "title": "A Modern Web App in C",
-        "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-        "source": "hn",
-        "time": "10/12/2026, 4:13:10 PM"
+        "time": "10/12/2026, 4:11:45 PM"
       },
       {
         "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
         "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
         "source": "hn",
         "time": "10/12/2026, 9:35:35 PM"
+      },
+      {
+        "title": "A Modern Web App in C",
+        "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+        "source": "hn",
+        "time": "10/12/2026, 4:13:10 PM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Tue, 13 Oct 2026 01:27:59 GMT"
       },
       {
-        "title": "Government expands police support to political figures who are not MPs",
-        "url": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 12 Oct 2026 19:51:34 GMT"
-      },
-      {
         "title": "Heating oil customers face tough winter despite shake-up promise",
         "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 12 Oct 2026 23:37:00 GMT"
+      },
+      {
+        "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 13 Oct 2026 05:02:34 GMT"
       }
     ],
     "projects": [
