@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-10-13T20:04:09.921Z",
-  "updated_local": "10/13/2026, 8:04:09 PM",
+  "updated_iso": "2026-10-13T23:14:13.086Z",
+  "updated_local": "10/13/2026, 11:14:13 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
+        "url": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
+        "source": "crypto",
+        "time": "Tue, 13 Oct 2026 21:46:04 +0000"
+      },
+      {
+        "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million—And Users Get Grief Resources",
+        "url": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
+        "source": "crypto",
+        "time": "Tue, 13 Oct 2026 21:16:04 +0000"
+      },
+      {
+        "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
+        "url": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
+        "source": "crypto",
+        "time": "Tue, 13 Oct 2026 20:16:03 +0000"
+      },
       {
         "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
         "url": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
@@ -14,27 +32,15 @@
         "url": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
         "source": "crypto",
         "time": "Tue, 13 Oct 2026 18:15:05 +0000"
-      },
-      {
-        "title": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec",
-        "url": "https://decrypt.co/380857/ai-researchers-smoking-cigarettes-prove-ai-cure-cancer",
-        "source": "crypto",
-        "time": "Tue, 13 Oct 2026 17:37:46 +0000"
-      },
-      {
-        "title": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
-        "url": "https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters",
-        "source": "crypto",
-        "time": "Tue, 13 Oct 2026 16:46:05 +0000"
-      },
-      {
-        "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
-        "url": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
-        "source": "crypto",
-        "time": "Tue, 13 Oct 2026 16:14:50 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "OpenAI engineer arrested in bugging of executive conference room",
+        "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+        "source": "hn",
+        "time": "10/13/2026, 8:23:55 PM"
+      },
       {
         "title": "Gemini 4 Argon",
         "url": "https://deepmind.google/models/gemini/",
@@ -42,10 +48,10 @@
         "time": "10/13/2026, 4:03:16 PM"
       },
       {
-        "title": "Apple HomeView",
-        "url": "https://www.apple.com/apple-homeview/",
+        "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+        "url": "https://guitoro.com/",
         "source": "hn",
-        "time": "10/13/2026, 1:02:12 PM"
+        "time": "10/13/2026, 7:11:48 PM"
       },
       {
         "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
@@ -54,19 +60,31 @@
         "time": "10/12/2026, 10:09:37 AM"
       },
       {
-        "title": "A plea not to use uv-build",
-        "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+        "title": "Redesigning source control at Anthropic",
+        "url": "https://www.anthropic.com/engineering/redesigning-source-control",
         "source": "hn",
-        "time": "10/13/2026, 6:09:26 PM"
-      },
-      {
-        "title": "Thunderbird for iOS",
-        "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-        "source": "hn",
-        "time": "10/13/2026, 3:07:37 PM"
+        "time": "10/13/2026, 3:49:56 PM"
       }
     ],
     "world": [
+      {
+        "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+        "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 13 Oct 2026 22:07:06 GMT"
+      },
+      {
+        "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 13 Oct 2026 20:46:06 GMT"
+      },
+      {
+        "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+        "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 13 Oct 2026 21:42:49 GMT"
+      },
       {
         "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
         "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +92,10 @@
         "time": "Tue, 13 Oct 2026 15:52:15 GMT"
       },
       {
-        "title": "Man killed in tiger attack identified as William Chapman",
-        "url": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 13 Oct 2026 19:35:21 GMT"
-      },
-      {
-        "title": "Football regulator says he would quit over any political interference in Man City case",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 13 Oct 2026 16:00:18 GMT"
-      },
-      {
-        "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-        "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 13 Oct 2026 19:23:28 GMT"
-      },
-      {
-        "title": "Three things we've learnt about the UK economy from the IMF",
-        "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 13 Oct 2026 11:58:43 GMT"
+        "time": "Tue, 13 Oct 2026 18:25:28 GMT"
       }
     ],
     "projects": [
