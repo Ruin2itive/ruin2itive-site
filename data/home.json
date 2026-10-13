@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-10-13T18:05:52.650Z",
-  "updated_local": "10/13/2026, 6:05:52 PM",
+  "updated_iso": "2026-10-13T20:04:09.921Z",
+  "updated_local": "10/13/2026, 8:04:09 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
+        "url": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
+        "source": "crypto",
+        "time": "Tue, 13 Oct 2026 19:38:12 +0000"
+      },
+      {
+        "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
+        "url": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
+        "source": "crypto",
+        "time": "Tue, 13 Oct 2026 18:15:05 +0000"
+      },
       {
         "title": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec",
         "url": "https://decrypt.co/380857/ai-researchers-smoking-cigarettes-prove-ai-cure-cancer",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
         "source": "crypto",
         "time": "Tue, 13 Oct 2026 16:14:50 +0000"
-      },
-      {
-        "title": "AI Powered PlayStation Crack Could Let You Play GTA 6 on PC at Launch",
-        "url": "https://decrypt.co/380833/ai-powered-playstation-crack-could-let-you-play-gta-6-on-pc-at-launch",
-        "source": "crypto",
-        "time": "Tue, 13 Oct 2026 14:51:28 +0000"
-      },
-      {
-        "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
-        "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
-        "source": "crypto",
-        "time": "Tue, 13 Oct 2026 11:53:15 +0000"
       }
     ],
     "hacker": [
@@ -48,22 +48,22 @@
         "time": "10/13/2026, 1:02:12 PM"
       },
       {
-        "title": "Cyberattack halts construction of tunnel between Denmark and Germany",
-        "url": "https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24",
+        "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+        "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
         "source": "hn",
-        "time": "10/13/2026, 4:24:15 PM"
+        "time": "10/12/2026, 10:09:37 AM"
+      },
+      {
+        "title": "A plea not to use uv-build",
+        "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+        "source": "hn",
+        "time": "10/13/2026, 6:09:26 PM"
       },
       {
         "title": "Thunderbird for iOS",
         "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
         "source": "hn",
         "time": "10/13/2026, 3:07:37 PM"
-      },
-      {
-        "title": "11 year old unsoundness bugs found in Rust borrow checker",
-        "url": "https://github.com/rust-lang/rust/issues/164250",
-        "source": "hn",
-        "time": "10/13/2026, 10:27:00 AM"
       }
     ],
     "world": [
@@ -77,7 +77,7 @@
         "title": "Man killed in tiger attack identified as William Chapman",
         "url": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 13 Oct 2026 16:30:58 GMT"
+        "time": "Tue, 13 Oct 2026 19:35:21 GMT"
       },
       {
         "title": "Football regulator says he would quit over any political interference in Man City case",
@@ -86,16 +86,16 @@
         "time": "Tue, 13 Oct 2026 16:00:18 GMT"
       },
       {
+        "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+        "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 13 Oct 2026 19:23:28 GMT"
+      },
+      {
         "title": "Three things we've learnt about the UK economy from the IMF",
         "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 13 Oct 2026 11:58:43 GMT"
-      },
-      {
-        "title": "Breaking Bad actor RJ Mitte dies aged 34",
-        "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 13 Oct 2026 08:03:34 GMT"
       }
     ],
     "projects": [
