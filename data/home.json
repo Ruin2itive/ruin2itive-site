@@ -1,45 +1,57 @@
 {
-  "updated_iso": "2026-10-13T10:23:54.979Z",
-  "updated_local": "10/13/2026, 10:23:54 AM",
+  "updated_iso": "2026-10-13T13:33:39.480Z",
+  "updated_local": "10/13/2026, 1:33:39 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
+        "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
+        "source": "crypto",
+        "time": "Tue, 13 Oct 2026 11:53:15 +0000"
+      },
+      {
+        "title": "Morning Minute: Bitcoin Gets Spooked as ‘Uptober’ Lets Down",
+        "url": "https://decrypt.co/380828/morning-minute-bitcoin-gets-spooked-as-uptober-lets-down",
+        "source": "crypto",
+        "time": "Tue, 13 Oct 2026 11:40:51 +0000"
+      },
+      {
+        "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
+        "url": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
+        "source": "crypto",
+        "time": "Tue, 13 Oct 2026 10:51:33 +0000"
+      },
+      {
+        "title": "‘Leave’: Crypto Backlash Over French Proposal to Report Wallets Over $112K",
+        "url": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
+        "source": "crypto",
+        "time": "Tue, 13 Oct 2026 10:30:37 +0000"
+      },
       {
         "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
         "url": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
         "source": "crypto",
         "time": "Tue, 13 Oct 2026 09:12:45 +0000"
-      },
-      {
-        "title": "AI Will Hit 40% of Jobs, IMF Warns. Young People Are First in Line",
-        "url": "https://decrypt.co/380789/ai-hit-40-percent-jobs-imf-warns-young-people-first",
-        "source": "crypto",
-        "time": "Mon, 12 Oct 2026 21:46:03 +0000"
-      },
-      {
-        "title": "Standard Chartered Will Hold Ripple&#39;s Stablecoin in Dubai—And Let Clients Trade With It Without Moving It",
-        "url": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
-        "source": "crypto",
-        "time": "Mon, 12 Oct 2026 21:16:03 +0000"
-      },
-      {
-        "title": "Meta&#39;s New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
-        "url": "https://decrypt.co/380768/meta-muse-wonder-zuckerberg-frontier-ai-race",
-        "source": "crypto",
-        "time": "Mon, 12 Oct 2026 20:46:04 +0000"
-      },
-      {
-        "title": "From GTA V on iPhone to Free Photoshop: This AI Tool Is Upending Software",
-        "url": "https://decrypt.co/380741/gta-v-iphone-free-photoshop-ai-tool-rea-upending-software",
-        "source": "crypto",
-        "time": "Mon, 12 Oct 2026 19:46:03 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "The baffling intelligence of a single cell (2024)",
-        "url": "https://jsomers.net/e-coli-chemotaxis/",
+        "title": "11 year old unsoundness bugs found in Rust borrow checker",
+        "url": "https://github.com/rust-lang/rust/issues/164250",
         "source": "hn",
-        "time": "10/11/2026, 11:02:30 AM"
+        "time": "10/13/2026, 10:27:00 AM"
+      },
+      {
+        "title": "An hour of audio transcribed in about 13s on MacBook Air",
+        "url": "https://eg2.haku.sh/",
+        "source": "hn",
+        "time": "10/13/2026, 11:27:14 AM"
+      },
+      {
+        "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
+        "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+        "source": "hn",
+        "time": "10/13/2026, 12:26:36 PM"
       },
       {
         "title": "Hittite royal archive found in Turkey",
@@ -48,36 +60,30 @@
         "time": "10/13/2026, 6:02:51 AM"
       },
       {
-        "title": "GLM-Legal",
-        "url": "https://z.ai/blog/glm-legal",
+        "title": "Mozilla Introduces Firefox Enterprise",
+        "url": "https://www.firefox.com/en-US/enterprise/",
         "source": "hn",
-        "time": "10/12/2026, 4:11:45 PM"
-      },
-      {
-        "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-        "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-        "source": "hn",
-        "time": "10/12/2026, 9:35:35 PM"
-      },
-      {
-        "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-        "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-        "source": "hn",
-        "time": "10/12/2026, 12:16:42 PM"
+        "time": "10/13/2026, 12:00:42 PM"
       }
     ],
     "world": [
       {
-        "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
-        "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+        "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 13 Oct 2026 09:38:54 GMT"
+        "time": "Tue, 13 Oct 2026 12:52:12 GMT"
       },
       {
-        "title": "Chris Mason: Why the prime minister wants to talk about Brexit again",
-        "url": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Man killed in tiger attack identified as William Chapman",
+        "url": "https://www.bbc.co.uk/news/articles/c3ewegny45jvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 13 Oct 2026 01:27:59 GMT"
+        "time": "Tue, 13 Oct 2026 13:20:04 GMT"
+      },
+      {
+        "title": "Three things we've learnt about the UK economy from the IMF",
+        "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 13 Oct 2026 11:58:43 GMT"
       },
       {
         "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 13 Oct 2026 08:03:34 GMT"
-      },
-      {
-        "title": "Emergency calls from botched Christa Pike execution released to US media",
-        "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 13 Oct 2026 08:20:07 GMT"
       }
     ],
     "projects": [
