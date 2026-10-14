@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-14T05:47:31.181Z",
-  "updated_local": "10/14/2026, 5:47:31 AM",
+  "updated_iso": "2026-10-14T10:01:46.983Z",
+  "updated_local": "10/14/2026, 10:01:46 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "BitMEX Sued in UK for Return of $27M in Bitcoin Over Unlicensed Derivatives",
+        "url": "https://decrypt.co/380904/bitmex-sued-in-uk-for-return-of-27m-in-bitcoin-over-unlicensed-derivatives",
+        "source": "crypto",
+        "time": "Wed, 14 Oct 2026 09:54:52 +0000"
+      },
       {
         "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
         "url": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
         "source": "crypto",
         "time": "Tue, 13 Oct 2026 19:38:12 +0000"
-      },
-      {
-        "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
-        "url": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
-        "source": "crypto",
-        "time": "Tue, 13 Oct 2026 18:15:05 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Felix Rieseberg Homepage",
-        "url": "https://felixrieseberg.com/",
+        "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+        "url": "https://typeof.net/Iosevka/",
         "source": "hn",
-        "time": "10/14/2026, 4:42:33 AM"
+        "time": "10/14/2026, 8:27:59 AM"
       },
       {
         "title": "Gemini 4 Argon",
@@ -54,16 +54,16 @@
         "time": "10/11/2026, 4:46:43 PM"
       },
       {
+        "title": "What agents mean for Rust (and vice versa)",
+        "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+        "source": "hn",
+        "time": "10/14/2026, 8:49:06 AM"
+      },
+      {
         "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
         "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
         "source": "hn",
         "time": "10/12/2026, 10:09:37 AM"
-      },
-      {
-        "title": "Is 'Attention' the Essence of Intelligence?",
-        "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
-        "source": "hn",
-        "time": "10/14/2026, 3:10:25 AM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
         "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 13 Oct 2026 23:58:56 GMT"
+        "time": "Wed, 14 Oct 2026 08:44:04 GMT"
       },
       {
         "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
@@ -86,16 +86,16 @@
         "time": "Wed, 14 Oct 2026 05:00:37 GMT"
       },
       {
-        "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Saudi employee charged with planting recording device in OpenAI office",
+        "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 14 Oct 2026 00:17:00 GMT"
+        "time": "Tue, 13 Oct 2026 21:42:49 GMT"
       },
       {
-        "title": "Royal Mail losing 400 postal workers a week, says union",
-        "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Shipwreck thought to be 4,700 years old found off coast of Turkey",
+        "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 13 Oct 2026 23:03:59 GMT"
+        "time": "Wed, 14 Oct 2026 05:00:35 GMT"
       }
     ],
     "projects": [
