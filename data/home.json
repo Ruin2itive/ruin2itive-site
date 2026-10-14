@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-10-14T16:31:15.585Z",
-  "updated_local": "10/14/2026, 4:31:15 PM",
+  "updated_iso": "2026-10-14T20:07:22.192Z",
+  "updated_local": "10/14/2026, 8:07:22 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Russia&#39;s Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+        "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+        "source": "crypto",
+        "time": "Wed, 14 Oct 2026 19:46:03 +0000"
+      },
+      {
+        "title": "Solana Sets a Date for Its Next Major Upgrade",
+        "url": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
+        "source": "crypto",
+        "time": "Wed, 14 Oct 2026 19:16:04 +0000"
+      },
+      {
+        "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
+        "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
+        "source": "crypto",
+        "time": "Wed, 14 Oct 2026 17:46:05 +0000"
+      },
       {
         "title": "&#39;It Can Take Years&#39;: Coinbase Presses for Bitcoin Quantum Migration to Start Now",
         "url": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
@@ -14,56 +32,38 @@
         "url": "https://decrypt.co/380950/bitcoin-falls-hot-inflation-fed-hike-odds",
         "source": "crypto",
         "time": "Wed, 14 Oct 2026 14:51:44 +0000"
-      },
-      {
-        "title": "Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report",
-        "url": "https://decrypt.co/380948/hex-founder-richard-heart-detained-in-istanbul-on-interpol-red-notice-report",
-        "source": "crypto",
-        "time": "Wed, 14 Oct 2026 14:03:20 +0000"
-      },
-      {
-        "title": "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain",
-        "url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
-        "source": "crypto",
-        "time": "Wed, 14 Oct 2026 13:47:44 +0000"
-      },
-      {
-        "title": "Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad",
-        "url": "https://decrypt.co/380928/notorious-crypto-celeb-meme-coin-promoter-plots-second-wave-on-new-launchpad",
-        "source": "crypto",
-        "time": "Wed, 14 Oct 2026 13:41:21 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+        "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+        "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+        "source": "hn",
+        "time": "10/14/2026, 5:45:23 PM"
+      },
+      {
+        "title": "Better HTTP/1 connection reuse in Go 1.27",
+        "url": "https://go.dev/blog/http-connection-reuse",
+        "source": "hn",
+        "time": "10/14/2026, 4:29:33 PM"
+      },
+      {
+        "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+        "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+        "source": "hn",
+        "time": "10/14/2026, 6:37:21 PM"
+      },
+      {
+        "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
         "url": "https://typeof.net/Iosevka/",
         "source": "hn",
         "time": "10/14/2026, 8:27:59 AM"
       },
       {
-        "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-        "url": "https://github.com/timescale/pg_vectorsearch",
+        "title": "Neckbeard – a DevOps/platform/SRE plugin for your agent",
+        "url": "https://github.com/bealesh/neckbeard",
         "source": "hn",
-        "time": "10/14/2026, 11:47:53 AM"
-      },
-      {
-        "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-        "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-        "source": "hn",
-        "time": "10/14/2026, 2:38:55 PM"
-      },
-      {
-        "title": "Submarine Cable Resilience",
-        "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-        "source": "hn",
-        "time": "10/14/2026, 3:31:15 PM"
-      },
-      {
-        "title": "Running Windows desktop tests from Linux with disposable VMs",
-        "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
-        "source": "hn",
-        "time": "10/14/2026, 2:55:19 PM"
+        "time": "10/14/2026, 5:45:34 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins",
         "url": "https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 14 Oct 2026 16:22:28 GMT"
+        "time": "Wed, 14 Oct 2026 17:55:53 GMT"
       },
       {
         "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
@@ -80,22 +80,22 @@
         "time": "Wed, 14 Oct 2026 13:11:17 GMT"
       },
       {
-        "title": "Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "We are behind you and that will not change, PM tells Zelensky",
+        "url": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 14 Oct 2026 14:30:48 GMT"
+        "time": "Wed, 14 Oct 2026 19:22:28 GMT"
       },
       {
         "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
         "url": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 14 Oct 2026 16:00:06 GMT"
+        "time": "Wed, 14 Oct 2026 16:56:21 GMT"
       },
       {
-        "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
-        "url": "https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+        "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 14 Oct 2026 12:44:17 GMT"
+        "time": "Wed, 14 Oct 2026 17:46:30 GMT"
       }
     ],
     "projects": [
