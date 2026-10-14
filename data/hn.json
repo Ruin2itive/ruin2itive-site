@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-14T00:46:02.117Z"
+    "built_at": "2026-10-14T05:39:56.297Z"
   },
-  "items": [
-    {
-      "title": "HN: Encrypted Privacy Aware Emails, ZyMail Hit the Globe",
-      "url": "https://news.ycombinator.com/item?id=50080983",
-      "date": "2026-10-14T00:43:46.000Z"
-    },
-    {
-      "title": "Ask HN: Could you find funding if you didn't want to build a $1-10B business?",
-      "url": "https://news.ycombinator.com/item?id=50080968",
-      "date": "2026-10-14T00:42:31.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
