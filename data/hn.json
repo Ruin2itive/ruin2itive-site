@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-14T10:55:39.701Z"
+    "built_at": "2026-10-14T15:39:28.517Z"
   },
-  "items": [
-    {
-      "title": "I changed my view on traditional code review",
-      "url": "https://www.minid.net/2026/9/18/three-plus-ones-and-a-prayer",
-      "date": "2026-10-14T10:52:42.000Z"
-    },
-    {
-      "title": "What does deadweight loss have to do with coding agents?",
-      "url": "https://stiven.me/blog/deadweightloss/",
-      "date": "2026-10-14T10:52:39.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
