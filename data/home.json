@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-14T04:38:25.809Z",
-  "updated_local": "10/14/2026, 4:38:25 AM",
+  "updated_iso": "2026-10-14T05:47:31.181Z",
+  "updated_local": "10/14/2026, 5:47:31 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Felix Rieseberg Homepage",
+        "url": "https://felixrieseberg.com/",
+        "source": "hn",
+        "time": "10/14/2026, 4:42:33 AM"
+      },
+      {
         "title": "Gemini 4 Argon",
         "url": "https://deepmind.google/models/gemini/",
         "source": "hn",
         "time": "10/13/2026, 4:03:16 PM"
+      },
+      {
+        "title": "Sound – Bartosz Ciechanowski (2022)",
+        "url": "https://ciechanow.ski/sound/",
+        "source": "hn",
+        "time": "10/11/2026, 4:46:43 PM"
       },
       {
         "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
@@ -48,22 +60,10 @@
         "time": "10/12/2026, 10:09:37 AM"
       },
       {
-        "title": "Grace Hopper Celebration Cancelled",
-        "url": "https://anitab.org/press-release",
+        "title": "Is 'Attention' the Essence of Intelligence?",
+        "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
         "source": "hn",
-        "time": "10/13/2026, 10:46:49 PM"
-      },
-      {
-        "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-        "url": "https://guitoro.com/",
-        "source": "hn",
-        "time": "10/13/2026, 7:11:48 PM"
-      },
-      {
-        "title": "Sound – Bartosz Ciechanowski",
-        "url": "https://ciechanow.ski/sound/",
-        "source": "hn",
-        "time": "10/11/2026, 4:46:43 PM"
+        "time": "10/14/2026, 3:10:25 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Tue, 13 Oct 2026 23:58:56 GMT"
       },
       {
+        "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
+        "url": "https://www.bbc.co.uk/news/articles/cqpvgyz30zepo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 14 Oct 2026 05:01:07 GMT"
+      },
+      {
+        "title": "Watch: BBC joins police on front line against car theft",
+        "url": "https://www.bbc.co.uk/news/videos/cw4g195p3g23o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 14 Oct 2026 05:00:37 GMT"
+      },
+      {
         "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
         "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 14 Oct 2026 00:17:00 GMT"
       },
       {
-        "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-        "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Royal Mail losing 400 postal workers a week, says union",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 13 Oct 2026 21:42:49 GMT"
-      },
-      {
-        "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-        "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 13 Oct 2026 15:52:15 GMT"
-      },
-      {
-        "title": "Zelensky and Burnham to meet in Downing Street",
-        "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 13 Oct 2026 21:31:30 GMT"
+        "time": "Tue, 13 Oct 2026 23:03:59 GMT"
       }
     ],
     "projects": [
