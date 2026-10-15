@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-15T17:31:28.076Z"
+    "built_at": "2026-10-15T20:46:18.296Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Teardown of a $1000 Voting Machine",
+      "url": "https://unfoxo.it/blog/teardown-of-a-1000-voting-machine.html",
+      "date": "2026-10-15T20:45:42.000Z"
+    },
+    {
+      "title": "Ask HN: Any good polished email alternative to Proton Mail?",
+      "url": "https://news.ycombinator.com/item?id=50109923",
+      "date": "2026-10-15T20:42:15.000Z"
+    }
+  ]
 }
