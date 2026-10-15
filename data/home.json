@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-10-15T19:00:25.134Z",
-  "updated_local": "10/15/2026, 7:00:25 PM",
+  "updated_iso": "2026-10-15T21:55:03.210Z",
+  "updated_local": "10/15/2026, 9:55:03 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Google Says It Just Cracked One of Quantum Computing&#39;s Biggest Bottlenecks",
+        "url": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
+        "source": "crypto",
+        "time": "Thu, 15 Oct 2026 21:46:04 +0000"
+      },
+      {
+        "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
+        "url": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+        "source": "crypto",
+        "time": "Thu, 15 Oct 2026 20:31:04 +0000"
+      },
+      {
+        "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
+        "url": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
+        "source": "crypto",
+        "time": "Thu, 15 Oct 2026 19:16:04 +0000"
+      },
       {
         "title": "BlackRock’s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
         "url": "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession",
@@ -14,24 +32,6 @@
         "url": "https://decrypt.co/381061/google-deepmind-ai-isnt-building-itself-writes-most-code",
         "source": "crypto",
         "time": "Thu, 15 Oct 2026 17:36:05 +0000"
-      },
-      {
-        "title": "Mastercard and BVNK Launch &#39;Global Money Platform&#39; to Merge Fiat and Stablecoins",
-        "url": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
-        "source": "crypto",
-        "time": "Thu, 15 Oct 2026 16:28:50 +0000"
-      },
-      {
-        "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
-        "url": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
-        "source": "crypto",
-        "time": "Thu, 15 Oct 2026 15:20:41 +0000"
-      },
-      {
-        "title": "Ethereum, Altcoins See &#39;Outsized Drawdowns&#39; Due to Macro Pressures",
-        "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
-        "source": "crypto",
-        "time": "Thu, 15 Oct 2026 14:27:18 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "10/15/2026, 5:47:39 PM"
       },
       {
+        "title": "What I Self-Host",
+        "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+        "source": "hn",
+        "time": "10/15/2026, 8:23:25 PM"
+      },
+      {
         "title": "Neural networks are clean",
         "url": "https://already-clean.goodfire.com/",
         "source": "hn",
         "time": "10/15/2026, 4:04:01 PM"
-      },
-      {
-        "title": "Krea 3 – An image model built for editing at scale",
-        "url": "https://www.krea.ai/krea-3",
-        "source": "hn",
-        "time": "10/15/2026, 4:04:05 PM"
       },
       {
         "title": "Wayland desktop for Linux with skeuomorphic design",
@@ -60,18 +60,18 @@
         "time": "10/15/2026, 1:23:44 PM"
       },
       {
-        "title": "I Know Why the Mathematicians Weep",
-        "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+        "title": "E Ink Kaleido 4",
+        "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
         "source": "hn",
-        "time": "10/15/2026, 1:44:32 PM"
+        "time": "10/15/2026, 6:38:16 PM"
       }
     ],
     "world": [
       {
-        "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
-        "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Bus hits train stopped on French side of  Channel Tunnel, with 19 injured",
+        "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 15 Oct 2026 15:55:14 GMT"
+        "time": "Thu, 15 Oct 2026 21:12:14 GMT"
       },
       {
         "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
@@ -92,10 +92,10 @@
         "time": "Thu, 15 Oct 2026 16:35:05 GMT"
       },
       {
-        "title": "Banks say Healey is planning Budget tax raid on their profits",
-        "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Why Harry and Meghan's UK relaunch felt so much like a royal engagement",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgdnjqpyvmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 15 Oct 2026 17:14:36 GMT"
+        "time": "Thu, 15 Oct 2026 20:24:32 GMT"
       }
     ],
     "projects": [
