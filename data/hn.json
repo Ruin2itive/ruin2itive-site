@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-16T17:06:34.175Z"
+    "built_at": "2026-10-16T20:19:18.140Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Family Internet Speed Game",
-      "url": "https://guessthespeed.com/",
-      "date": "2026-10-16T17:03:19.000Z"
-    },
-    {
-      "title": "The Diesel Weapon",
-      "url": "https://edconway.substack.com/p/the-diesel-weapon",
-      "date": "2026-10-16T17:00:35.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
