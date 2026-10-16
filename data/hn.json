@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-16T20:19:18.140Z"
+    "built_at": "2026-10-16T23:09:59.443Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "BAE Systems cyberattack disrupts US federal court operations",
+      "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
+      "date": "2026-10-16T23:09:29.000Z"
+    },
+    {
+      "title": "Show HN: CtxWise – MCP schema tree-shaker and firewall for Claude and Codex",
+      "url": "https://github.com/FramY2/ctxwise",
+      "date": "2026-10-16T23:08:42.000Z"
+    }
+  ]
 }
