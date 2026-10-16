@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-10-16T17:55:37.856Z",
-  "updated_local": "10/16/2026, 5:55:37 PM",
+  "updated_iso": "2026-10-16T19:17:22.027Z",
+  "updated_local": "10/16/2026, 7:17:22 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
+        "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
+        "source": "crypto",
+        "time": "Fri, 16 Oct 2026 18:55:37 +0000"
+      },
+      {
+        "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
+        "url": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
+        "source": "crypto",
+        "time": "Fri, 16 Oct 2026 18:16:04 +0000"
+      },
       {
         "title": "India&#39;s Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
         "url": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
@@ -20,44 +32,32 @@
         "url": "https://decrypt.co/381150/bitcoin-price-rebounds-where-next-charts",
         "source": "crypto",
         "time": "Fri, 16 Oct 2026 16:06:05 +0000"
-      },
-      {
-        "title": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner",
-        "url": "https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner",
-        "source": "crypto",
-        "time": "Fri, 16 Oct 2026 15:43:58 +0000"
-      },
-      {
-        "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
-        "url": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
-        "source": "crypto",
-        "time": "Fri, 16 Oct 2026 12:22:18 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Claude reveals ECDSA curve origins",
+        "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+        "source": "hn",
+        "time": "10/16/2026, 6:55:59 PM"
+      },
+      {
+        "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+        "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+        "source": "hn",
+        "time": "10/16/2026, 6:06:17 PM"
+      },
+      {
+        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "url": "https://github.com/cobanov/PS5LM",
+        "source": "hn",
+        "time": "10/16/2026, 6:32:35 PM"
+      },
       {
         "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
         "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
         "source": "hn",
         "time": "10/16/2026, 5:08:38 PM"
-      },
-      {
-        "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-        "source": "hn",
-        "time": "10/16/2026, 1:43:48 PM"
-      },
-      {
-        "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-        "url": "https://calif.io/research/big-fish",
-        "source": "hn",
-        "time": "10/16/2026, 2:44:02 PM"
-      },
-      {
-        "title": "Show HN: Gemini 4 Argon plays StarCraft",
-        "url": "https://starskirmish.com/bench/v0-2/",
-        "source": "hn",
-        "time": "10/16/2026, 2:18:44 PM"
       },
       {
         "title": "JPEG XL vs. AVIF for web use-cases",
