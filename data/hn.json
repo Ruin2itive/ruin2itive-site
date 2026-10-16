@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-16T07:44:13.524Z"
+    "built_at": "2026-10-16T12:53:50.161Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Pdf2epub – free PDF to ePub converter with real chapters",
+      "url": "https://epub.ftak.net/?s=hn",
+      "date": "2026-10-16T12:53:18.000Z"
+    },
+    {
+      "title": "I Love Software Rendering",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "date": "2026-10-16T12:52:08.000Z"
+    }
+  ]
 }
