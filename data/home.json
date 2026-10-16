@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-10-16T19:17:22.027Z",
-  "updated_local": "10/16/2026, 7:17:22 PM",
+  "updated_iso": "2026-10-16T20:53:58.547Z",
+  "updated_local": "10/16/2026, 8:53:58 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Tesla Roadster Rocket Is the Cool &#39;Flying&#39; Car You Can’t Have",
+        "url": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
+        "source": "crypto",
+        "time": "Fri, 16 Oct 2026 20:16:04 +0000"
+      },
+      {
+        "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
+        "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
+        "source": "crypto",
+        "time": "Fri, 16 Oct 2026 19:36:04 +0000"
+      },
       {
         "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
         "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
@@ -20,32 +32,20 @@
         "url": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
         "source": "crypto",
         "time": "Fri, 16 Oct 2026 17:48:06 +0000"
-      },
-      {
-        "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
-        "url": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
-        "source": "crypto",
-        "time": "Fri, 16 Oct 2026 16:36:04 +0000"
-      },
-      {
-        "title": "Bitcoin Bounces, But Where Does It Go Next? Here’s What the Charts Say",
-        "url": "https://decrypt.co/381150/bitcoin-price-rebounds-where-next-charts",
-        "source": "crypto",
-        "time": "Fri, 16 Oct 2026 16:06:05 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Tesla Roadster",
+        "url": "https://www.tesla.com/roadster",
+        "source": "hn",
+        "time": "10/16/2026, 1:32:45 AM"
+      },
       {
         "title": "Claude reveals ECDSA curve origins",
         "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
         "source": "hn",
         "time": "10/16/2026, 6:55:59 PM"
-      },
-      {
-        "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-        "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-        "source": "hn",
-        "time": "10/16/2026, 6:06:17 PM"
       },
       {
         "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
@@ -54,30 +54,36 @@
         "time": "10/16/2026, 6:32:35 PM"
       },
       {
-        "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-        "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+        "title": "The Fatal Flaw of 911",
+        "url": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
         "source": "hn",
-        "time": "10/16/2026, 5:08:38 PM"
+        "time": "10/16/2026, 7:33:00 PM"
       },
       {
-        "title": "JPEG XL vs. AVIF for web use-cases",
-        "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+        "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+        "url": "https://bfl.ai/blog/flux-3-image-klein",
         "source": "hn",
-        "time": "10/16/2026, 4:12:02 PM"
+        "time": "10/16/2026, 7:47:13 PM"
       }
     ],
     "world": [
       {
-        "title": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
-        "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+        "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 16 Oct 2026 15:59:30 GMT"
+        "time": "Fri, 16 Oct 2026 15:45:10 GMT"
       },
       {
-        "title": "Watch: BBC follows Ukraine's Operation Vivaldi pushing Russia back on frontline",
-        "url": "https://www.bbc.co.uk/news/videos/cm1ex06026e8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+        "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 16 Oct 2026 17:41:53 GMT"
+        "time": "Fri, 16 Oct 2026 16:00:30 GMT"
+      },
+      {
+        "title": "Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 16 Oct 2026 16:07:37 GMT"
       },
       {
         "title": "Man killed by tiger may have had medical records breached by NHS staff",
@@ -86,16 +92,10 @@
         "time": "Fri, 16 Oct 2026 16:53:07 GMT"
       },
       {
-        "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-        "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 16 Oct 2026 14:31:04 GMT"
-      },
-      {
-        "title": "Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 16 Oct 2026 16:07:37 GMT"
+        "time": "Fri, 16 Oct 2026 20:08:07 GMT"
       }
     ],
     "projects": [
