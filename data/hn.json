@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-15T23:28:04.366Z"
+    "built_at": "2026-10-16T02:29:09.136Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Find a compatible partner through Matchmaking",
-      "url": "https://modern-matchmaker.com/en",
-      "date": "2026-10-15T23:27:41.000Z"
-    },
-    {
-      "title": "Ask HN: Do you talk to bots online? How has it changed?",
-      "url": "https://news.ycombinator.com/item?id=50111773",
-      "date": "2026-10-15T23:26:27.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
