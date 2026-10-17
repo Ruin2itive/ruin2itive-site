@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-17T06:32:41.417Z",
-  "updated_local": "10/17/2026, 6:32:41 AM",
+  "updated_iso": "2026-10-17T09:09:18.382Z",
+  "updated_local": "10/17/2026, 9:09:18 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+        "source": "hn",
+        "time": "10/17/2026, 8:37:46 AM"
+      },
+      {
         "title": "Ultramarine 1 Flash",
         "url": "https://www.paperinstruments.com/ultramarine",
         "source": "hn",
@@ -48,42 +54,36 @@
         "time": "10/16/2026, 1:32:45 AM"
       },
       {
-        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-        "url": "https://github.com/cobanov/PS5LM",
+        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "url": "https://llmspeed.dev/",
         "source": "hn",
-        "time": "10/16/2026, 6:32:35 PM"
+        "time": "10/17/2026, 4:36:53 AM"
       },
       {
-        "title": "Claude reveals ECDSA curve origins",
-        "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "source": "hn",
-        "time": "10/16/2026, 6:55:59 PM"
-      },
-      {
-        "title": "You could have invented transformers from memory",
-        "url": "https://alexwang.ai/posts/associative-memory/",
-        "source": "hn",
-        "time": "10/16/2026, 7:01:17 PM"
+        "time": "10/17/2026, 8:21:25 AM"
       }
     ],
     "world": [
       {
-        "title": "Trump waives several Russia sanctions as new US law takes effect",
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
         "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 17 Oct 2026 05:02:50 GMT"
+        "time": "Sat, 17 Oct 2026 07:41:01 GMT"
       },
       {
         "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
         "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 17 Oct 2026 01:19:04 GMT"
+        "time": "Sat, 17 Oct 2026 06:49:48 GMT"
       },
       {
-        "title": "Third runway at Heathrow Airport would drive growth, Healey says",
-        "url": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
+        "url": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 17 Oct 2026 03:57:16 GMT"
+        "time": "Sat, 17 Oct 2026 08:34:44 GMT"
       },
       {
         "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
@@ -92,10 +92,10 @@
         "time": "Fri, 16 Oct 2026 21:02:18 GMT"
       },
       {
-        "title": "Five days, one briefing: How Katie Zacharia’s short tenure unfolded",
-        "url": "https://www.bbc.co.uk/news/videos/c6j47ewnn0vyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 16 Oct 2026 20:28:59 GMT"
+        "time": "Sat, 17 Oct 2026 01:59:48 GMT"
       }
     ],
     "projects": [
