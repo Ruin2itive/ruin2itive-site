@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-18T05:41:08.466Z",
-  "updated_local": "10/18/2026, 5:41:08 AM",
+  "updated_iso": "2026-10-18T10:22:59.116Z",
+  "updated_local": "10/18/2026, 10:22:59 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "url": "https://api-docs.deepseek.com/guides/search/",
+        "source": "hn",
+        "time": "10/18/2026, 6:50:36 AM"
+      },
+      {
+        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
         "url": "https://sphinx-six-theta.vercel.app/",
         "source": "hn",
         "time": "10/18/2026, 4:33:49 AM"
+      },
+      {
+        "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+        "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+        "source": "hn",
+        "time": "10/18/2026, 3:19:49 AM"
       },
       {
         "title": "Bleached corals thrive within days when touching healthy neighbour",
@@ -48,54 +60,42 @@
         "time": "10/16/2026, 11:38:27 PM"
       },
       {
-        "title": "Lean now ships with verified kernels",
-        "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+        "title": "Parser Combinators",
+        "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
         "source": "hn",
-        "time": "10/16/2026, 6:16:13 AM"
-      },
-      {
-        "title": "Dam removals are bringing fish back across the northeastern United States",
-        "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-        "source": "hn",
-        "time": "10/16/2026, 11:47:31 PM"
-      },
-      {
-        "title": "DeepSeek-v4.1-Flash-1017",
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "source": "hn",
-        "time": "10/17/2026, 8:21:25 AM"
+        "time": "10/18/2026, 8:19:53 AM"
       }
     ],
     "world": [
       {
-        "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-        "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+        "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 17 Oct 2026 20:52:17 GMT"
+        "time": "Sun, 18 Oct 2026 10:03:17 GMT"
       },
       {
-        "title": "Watch: Moment historic French town hall spire collapses in flames amid protests",
+        "title": "Ending corridor care in hospitals for children will be a priority, says health secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 18 Oct 2026 09:45:59 GMT"
+      },
+      {
+        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+        "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 18 Oct 2026 09:56:45 GMT"
+      },
+      {
+        "title": "Watch: Moment historic French town hall spire collapses in flames during protests",
         "url": "https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 18 Oct 2026 00:49:42 GMT"
       },
       {
-        "title": "More NHS staff sacked over attacks victims' records",
-        "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 17 Oct 2026 16:34:39 GMT"
-      },
-      {
-        "title": "Deaths confirmed in major fire at Canada military base",
+        "title": "Several dead or injured in major fire at Canada military base",
         "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 18 Oct 2026 04:00:50 GMT"
-      },
-      {
-        "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 18 Oct 2026 05:04:31 GMT"
+        "time": "Sun, 18 Oct 2026 08:52:41 GMT"
       }
     ],
     "projects": [
