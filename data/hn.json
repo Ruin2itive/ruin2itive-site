@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-18T12:19:32.947Z"
+    "built_at": "2026-10-18T16:15:51.718Z"
   },
-  "items": [
-    {
-      "title": "Una Watch TOTP – MFA on your wrist!",
-      "url": "https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/",
-      "date": "2026-10-18T12:18:46.000Z"
-    },
-    {
-      "title": "Show HN: I built a smart audiobook converter that sounds human (not KokoroTTS)",
-      "url": "https://www.book2speech.com/",
-      "date": "2026-10-18T12:17:44.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
