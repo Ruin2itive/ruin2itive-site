@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-18T17:48:31.191Z",
-  "updated_local": "10/18/2026, 5:48:31 PM",
+  "updated_iso": "2026-10-18T17:58:37.034Z",
+  "updated_local": "10/18/2026, 5:58:37 PM",
   "sections": {
     "crypto": [
       {
@@ -42,31 +42,37 @@
         "time": "10/18/2026, 5:27:30 PM"
       },
       {
-        "title": "RepRapMicron",
-        "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-        "source": "hn",
-        "time": "10/18/2026, 1:48:48 PM"
-      },
-      {
         "title": "Someone Behind the Software",
         "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
         "source": "hn",
         "time": "10/18/2026, 4:32:00 PM"
       },
       {
-        "title": "macOS 15.8.2 Breaks OpenGL",
-        "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+        "title": "RepRapMicron",
+        "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
         "source": "hn",
-        "time": "10/18/2026, 3:26:06 PM"
+        "time": "10/18/2026, 1:48:48 PM"
       },
       {
         "title": "The Intel 8087 chip: floating-point addition and subtraction",
         "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
         "source": "hn",
         "time": "10/18/2026, 4:20:27 PM"
+      },
+      {
+        "title": "Java sealed classes and exhaustive pattern matching",
+        "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+        "source": "hn",
+        "time": "10/18/2026, 2:47:37 PM"
       }
     ],
     "world": [
+      {
+        "title": "What we know so far about deadly fire at Canadian military base",
+        "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 18 Oct 2026 17:48:53 GMT"
+      },
       {
         "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
         "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 18 Oct 2026 05:30:16 GMT"
-      },
-      {
-        "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-        "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 18 Oct 2026 15:46:10 GMT"
       }
     ],
     "projects": [
