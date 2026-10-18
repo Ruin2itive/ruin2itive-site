@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-17T23:40:10.253Z"
+    "built_at": "2026-10-18T02:21:45.855Z"
   },
-  "items": [
-    {
-      "title": "Open Math Model: The OS for collaborative math research and scientific computing",
-      "url": "https://www.openmathmodel.org/",
-      "date": "2026-10-17T23:37:29.000Z"
-    },
-    {
-      "title": "Does code quality still matter when AI writes the code?",
-      "url": "https://docspring.com/blog/posts/does-code-quality-still-matter-when-ai-writes-the-code/",
-      "date": "2026-10-17T23:33:53.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
