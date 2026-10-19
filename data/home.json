@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-10-19T07:38:22.630Z",
-  "updated_local": "10/19/2026, 7:38:22 AM",
+  "updated_iso": "2026-10-19T12:06:46.120Z",
+  "updated_local": "10/19/2026, 12:06:46 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Sam Altman&#39;s World Takes Proof-of-Human IDs to Banks, Citing $40B AI Fraud Risk",
+        "url": "https://decrypt.co/381288/sam-altmans-world-takes-proof-of-human-ids-to-banks-citing-40b-ai-fraud-risk",
+        "source": "crypto",
+        "time": "Mon, 19 Oct 2026 11:40:40 +0000"
+      },
+      {
+        "title": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
+        "url": "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt",
+        "source": "crypto",
+        "time": "Mon, 19 Oct 2026 10:31:09 +0000"
+      },
+      {
+        "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
+        "url": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
+        "source": "crypto",
+        "time": "Mon, 19 Oct 2026 10:11:21 +0000"
+      },
       {
         "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
         "url": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
@@ -14,56 +32,38 @@
         "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
         "source": "crypto",
         "time": "Sun, 18 Oct 2026 15:01:04 +0000"
-      },
-      {
-        "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
-        "url": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
-        "source": "crypto",
-        "time": "Sun, 18 Oct 2026 13:01:04 +0000"
-      },
-      {
-        "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
-        "url": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
-        "source": "crypto",
-        "time": "Sat, 17 Oct 2026 17:01:03 +0000"
-      },
-      {
-        "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
-        "url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
-        "source": "crypto",
-        "time": "Sat, 17 Oct 2026 16:01:03 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Rabbits were a medieval royal luxury in England until the Black Death",
-        "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
+        "title": "Linux 7.3 Released",
+        "url": "https://lwn.net/Articles/1101143/",
         "source": "hn",
-        "time": "10/17/2026, 2:07:36 PM"
+        "time": "10/19/2026, 7:23:57 AM"
       },
       {
-        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-        "url": "https://arxiv.org/abs/2610.18861",
+        "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+        "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
         "source": "hn",
-        "time": "10/18/2026, 8:48:14 PM"
+        "time": "10/19/2026, 10:45:14 AM"
       },
       {
-        "title": "William Gibson and the trademarking of cyberspace",
-        "url": "https://colo.to/cyberspace.html",
+        "title": "Timestral: Mistral release time-series foundation models",
+        "url": "https://mistral.ai/news/timestral/",
         "source": "hn",
-        "time": "10/18/2026, 11:37:57 PM"
+        "time": "10/19/2026, 9:59:32 AM"
       },
       {
-        "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-        "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+        "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+        "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
         "source": "hn",
-        "time": "10/17/2026, 11:26:35 PM"
+        "time": "10/19/2026, 10:53:39 AM"
       },
       {
-        "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-        "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+        "title": "Gdynia and the Dream of a Maritime Poland",
+        "url": "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/",
         "source": "hn",
-        "time": "10/18/2026, 9:09:12 PM"
+        "time": "10/16/2026, 9:13:08 PM"
       }
     ],
     "world": [
@@ -74,10 +74,10 @@
         "time": "Mon, 19 Oct 2026 04:59:47 GMT"
       },
       {
-        "title": "France's government under pressure after widespread violence",
-        "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+        "url": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 19 Oct 2026 04:16:46 GMT"
+        "time": "Mon, 19 Oct 2026 11:55:47 GMT"
       },
       {
         "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
@@ -92,10 +92,10 @@
         "time": "Mon, 19 Oct 2026 00:28:44 GMT"
       },
       {
-        "title": "Home sellers cut asking prices on 3,000 properties a day",
-        "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Four arrested after police officer injured in shooting",
+        "url": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 18 Oct 2026 23:00:45 GMT"
+        "time": "Mon, 19 Oct 2026 10:52:25 GMT"
       }
     ],
     "projects": [
