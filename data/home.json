@@ -1,51 +1,45 @@
 {
-  "updated_iso": "2026-10-19T12:06:46.120Z",
-  "updated_local": "10/19/2026, 12:06:46 PM",
+  "updated_iso": "2026-10-19T15:29:52.404Z",
+  "updated_local": "10/19/2026, 3:29:52 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Tom Lee’s Bitmine Adds $30 Million in Ethereum as Buying Nears Its Finish Line",
+        "url": "https://decrypt.co/381311/tom-lee-bitmine-adds-30-million-ethereum-buying-nears-finish-line",
+        "source": "crypto",
+        "time": "Mon, 19 Oct 2026 15:13:42 +0000"
+      },
+      {
+        "title": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
+        "url": "https://decrypt.co/381302/strategy-buys-22m-in-bitcoin-buys-back-193m-of-strc",
+        "source": "crypto",
+        "time": "Mon, 19 Oct 2026 13:04:48 +0000"
+      },
+      {
+        "title": "Morning Minute: Crypto Rebounds as &#39;Black Monday&#39; Looms",
+        "url": "https://decrypt.co/381297/morning-minute-crypto-rebounds-as-black-monday-looms",
+        "source": "crypto",
+        "time": "Mon, 19 Oct 2026 12:19:39 +0000"
+      },
+      {
+        "title": "‘Terrifying Precedent’: Dutch Hand US Data From Seized Anti-Fascist Server",
+        "url": "https://decrypt.co/381296/terrifying-precedent-dutch-hand-us-data-from-seized-anti-fascist-server",
+        "source": "crypto",
+        "time": "Mon, 19 Oct 2026 12:07:46 +0000"
+      },
       {
         "title": "Sam Altman&#39;s World Takes Proof-of-Human IDs to Banks, Citing $40B AI Fraud Risk",
         "url": "https://decrypt.co/381288/sam-altmans-world-takes-proof-of-human-ids-to-banks-citing-40b-ai-fraud-risk",
         "source": "crypto",
         "time": "Mon, 19 Oct 2026 11:40:40 +0000"
-      },
-      {
-        "title": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
-        "url": "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt",
-        "source": "crypto",
-        "time": "Mon, 19 Oct 2026 10:31:09 +0000"
-      },
-      {
-        "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
-        "url": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
-        "source": "crypto",
-        "time": "Mon, 19 Oct 2026 10:11:21 +0000"
-      },
-      {
-        "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
-        "url": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
-        "source": "crypto",
-        "time": "Sun, 18 Oct 2026 16:31:03 +0000"
-      },
-      {
-        "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
-        "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
-        "source": "crypto",
-        "time": "Sun, 18 Oct 2026 15:01:04 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Linux 7.3 Released",
-        "url": "https://lwn.net/Articles/1101143/",
+        "title": "Wine Ported to OpenBSD",
+        "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
         "source": "hn",
-        "time": "10/19/2026, 7:23:57 AM"
-      },
-      {
-        "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
-        "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
-        "source": "hn",
-        "time": "10/19/2026, 10:45:14 AM"
+        "time": "10/19/2026, 1:35:34 PM"
       },
       {
         "title": "Timestral: Mistral release time-series foundation models",
@@ -54,30 +48,42 @@
         "time": "10/19/2026, 9:59:32 AM"
       },
       {
+        "title": "Linux 7.3 Released",
+        "url": "https://lwn.net/Articles/1101143/",
+        "source": "hn",
+        "time": "10/19/2026, 7:23:57 AM"
+      },
+      {
+        "title": "Alternatives to Animal Testing Are Finally Taking Off",
+        "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+        "source": "hn",
+        "time": "10/19/2026, 11:10:54 AM"
+      },
+      {
         "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
         "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
         "source": "hn",
         "time": "10/19/2026, 10:53:39 AM"
-      },
-      {
-        "title": "Gdynia and the Dream of a Maritime Poland",
-        "url": "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/",
-        "source": "hn",
-        "time": "10/16/2026, 9:13:08 PM"
       }
     ],
     "world": [
       {
-        "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
-        "url": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Are the French riots a warning of an intense election to come?",
+        "url": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 19 Oct 2026 04:59:47 GMT"
+        "time": "Mon, 19 Oct 2026 13:43:27 GMT"
+      },
+      {
+        "title": "Australian MP critically injured after being hit by car in apparent attack",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 19 Oct 2026 14:09:54 GMT"
       },
       {
         "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
         "url": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 19 Oct 2026 11:55:47 GMT"
+        "time": "Mon, 19 Oct 2026 13:01:50 GMT"
       },
       {
         "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
@@ -86,16 +92,10 @@
         "time": "Mon, 19 Oct 2026 00:06:25 GMT"
       },
       {
-        "title": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
-        "url": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Born in jail to a mum with a heroin addiction - how US teenager Abby has been affected by drugs",
+        "url": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 19 Oct 2026 00:28:44 GMT"
-      },
-      {
-        "title": "Four arrested after police officer injured in shooting",
-        "url": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 19 Oct 2026 10:52:25 GMT"
+        "time": "Mon, 19 Oct 2026 12:12:02 GMT"
       }
     ],
     "projects": [
