@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-10-19T18:59:32.867Z",
-  "updated_local": "10/19/2026, 6:59:32 PM",
+  "updated_iso": "2026-10-19T20:58:38.334Z",
+  "updated_local": "10/19/2026, 8:58:38 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
+        "url": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
+        "source": "crypto",
+        "time": "Mon, 19 Oct 2026 20:46:05 +0000"
+      },
+      {
+        "title": "Hackers Are Running Apple&#39;s iOS on Android Phones for the First Time",
+        "url": "https://decrypt.co/381351/hackers-running-apple-ios-android-phones",
+        "source": "crypto",
+        "time": "Mon, 19 Oct 2026 19:46:04 +0000"
+      },
+      {
+        "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
+        "url": "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments",
+        "source": "crypto",
+        "time": "Mon, 19 Oct 2026 19:16:04 +0000"
+      },
       {
         "title": "Why Some of America’s Biggest Companies Are Objecting to Tokenized Shares",
         "url": "https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares",
@@ -14,24 +32,6 @@
         "url": "https://decrypt.co/381347/us-orders-civilian-agencies-rip-deepseek-out-government-systems",
         "source": "crypto",
         "time": "Mon, 19 Oct 2026 18:16:04 +0000"
-      },
-      {
-        "title": "JPMorgan&#39;s JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
-        "url": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
-        "source": "crypto",
-        "time": "Mon, 19 Oct 2026 17:31:04 +0000"
-      },
-      {
-        "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
-        "url": "https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million",
-        "source": "crypto",
-        "time": "Mon, 19 Oct 2026 16:46:05 +0000"
-      },
-      {
-        "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
-        "url": "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets",
-        "source": "crypto",
-        "time": "Mon, 19 Oct 2026 16:05:09 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,18 @@
         "url": "https://www.minimax.io/blog/minimax-m31f",
         "source": "hn",
         "time": "10/19/2026, 4:39:09 PM"
+      },
+      {
+        "title": "I built a drone with only one motor [video]",
+        "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+        "source": "hn",
+        "time": "10/19/2026, 9:05:07 AM"
+      },
+      {
+        "title": "The reverts will continue until morale improves",
+        "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+        "source": "hn",
+        "time": "10/19/2026, 6:42:32 PM"
       },
       {
         "title": "Wine ported to OpenBSD",
@@ -52,18 +64,6 @@
         "url": "https://github.com/kksimp/Mac.apk",
         "source": "hn",
         "time": "10/19/2026, 4:45:30 PM"
-      },
-      {
-        "title": "RuneScape Bench: MMOs for Agents [video]",
-        "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-        "source": "hn",
-        "time": "10/17/2026, 11:24:05 PM"
-      },
-      {
-        "title": "It's still ok to enjoy programming",
-        "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-        "source": "hn",
-        "time": "10/17/2026, 7:53:20 PM"
       }
     ],
     "world": [
@@ -89,13 +89,13 @@
         "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 19 Oct 2026 18:23:50 GMT"
+        "time": "Mon, 19 Oct 2026 20:49:00 GMT"
       },
       {
-        "title": "Mission set to blast off for Mars to grab a piece of its moon",
+        "title": "Mission blasts off for Mars to grab a piece of its moon",
         "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 19 Oct 2026 08:03:49 GMT"
+        "time": "Mon, 19 Oct 2026 19:45:46 GMT"
       }
     ],
     "projects": [
