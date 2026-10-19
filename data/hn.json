@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-19T11:41:54.173Z"
+    "built_at": "2026-10-19T18:02:33.618Z"
   },
-  "items": [
-    {
-      "title": "What Is Vinix? The V-Language OS That Runs Docker",
-      "url": "https://www.fosslinux.com/162837/what-is-vinix.htm",
-      "date": "2026-10-19T11:34:46.000Z"
-    },
-    {
-      "title": "It Turns Out the Only Thing People Like Less Than AI Is Paying for Adobe",
-      "url": "https://www.inc.com/jason-aten/it-turns-out-the-only-thing-people-like-less-than-ai-is-paying-for-adobe-creative-cloud/91418566",
-      "date": "2026-10-19T11:31:58.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
