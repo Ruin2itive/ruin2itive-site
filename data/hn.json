@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-19T00:38:49.027Z"
+    "built_at": "2026-10-19T05:32:14.884Z"
   },
-  "items": [
-    {
-      "title": "Rusteerio: 4x faster Rust port of Cheerio",
-      "url": "https://www.context.dev/blog/introducing-context-highlights",
-      "date": "2026-10-19T00:34:10.000Z"
-    },
-    {
-      "title": "FBI Busts North Korean \"Laptop Farms\" (CBS)",
-      "url": "https://www.youtube.com/watch?v=D7oTB-7Y8dM",
-      "date": "2026-10-19T00:33:55.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
