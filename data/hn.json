@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-20T01:23:47.031Z"
+    "built_at": "2026-10-20T06:55:21.125Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Vibecoding an LLVM TypeScript Compiler",
+      "url": "https://news.ycombinator.com/item?id=50162270",
+      "date": "2026-10-20T06:53:40.000Z"
+    },
+    {
+      "title": "What if the world hadn't built wind and solar?",
+      "url": "https://www.theclimatebrink.com/p/what-if-the-world-hadnt-built-wind",
+      "date": "2026-10-20T06:53:27.000Z"
+    }
+  ]
 }
