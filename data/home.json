@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-10-20T16:46:23.816Z",
-  "updated_local": "10/20/2026, 4:46:23 PM",
+  "updated_iso": "2026-10-20T18:19:48.392Z",
+  "updated_local": "10/20/2026, 6:19:48 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin&#39;s Next Move: Here&#39;s What to Watch",
+        "url": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch",
+        "source": "crypto",
+        "time": "Tue, 20 Oct 2026 17:45:04 +0000"
+      },
+      {
+        "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
+        "url": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
+        "source": "crypto",
+        "time": "Tue, 20 Oct 2026 17:03:26 +0000"
+      },
       {
         "title": "The Midterms Are the First Real Test of Whether Markets Beat Pollsters",
         "url": "https://decrypt.co/380966/the-midterms-are-the-first-real-test-of-whether-markets-beat-pollsters",
@@ -20,33 +32,9 @@
         "url": "https://decrypt.co/381373/mastercard-opens-up-ai-agent-payments-with-early-access-and-live-demo",
         "source": "crypto",
         "time": "Tue, 20 Oct 2026 16:01:04 +0000"
-      },
-      {
-        "title": "French Lawmakers Back Stablecoin Swap Tax by Just One Vote",
-        "url": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
-        "source": "crypto",
-        "time": "Tue, 20 Oct 2026 14:04:10 +0000"
-      },
-      {
-        "title": "Morning Minute: Nine Blue Chip Companies Say No to Tokenized Stocks",
-        "url": "https://decrypt.co/381399/morning-minute-nine-blue-chip-companies-say-no-to-tokenized-stocks",
-        "source": "crypto",
-        "time": "Tue, 20 Oct 2026 12:06:44 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Facebook now charging to post more than 2 links a month",
-        "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-        "source": "hn",
-        "time": "10/20/2026, 3:06:08 PM"
-      },
-      {
-        "title": "DeepSeek just open-sourced its inference engine",
-        "url": "https://github.com/deepseek-ai/DeepInfer",
-        "source": "hn",
-        "time": "10/20/2026, 9:08:54 AM"
-      },
       {
         "title": "Voxtral 3",
         "url": "https://mistral.ai/news/voxtral-3/",
@@ -54,10 +42,22 @@
         "time": "10/20/2026, 4:02:07 PM"
       },
       {
+        "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+        "url": "https://github.com/deepseek-ai/DeepInfer",
+        "source": "hn",
+        "time": "10/20/2026, 9:08:54 AM"
+      },
+      {
         "title": "EMudhra Intermediate CA Compromise",
         "url": "https://emudhra.we-have-a-problem.com/",
         "source": "hn",
         "time": "10/20/2026, 1:58:33 PM"
+      },
+      {
+        "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+        "url": "https://github.com/google-pytorch/torch_tpu",
+        "source": "hn",
+        "time": "10/20/2026, 4:40:24 PM"
       },
       {
         "title": "Apple broke an essential presentation feature of iPads",
@@ -68,16 +68,22 @@
     ],
     "world": [
       {
+        "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+        "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 20 Oct 2026 17:44:00 GMT"
+      },
+      {
         "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
         "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 20 Oct 2026 15:32:36 GMT"
       },
       {
-        "title": "Google says services recovering after cloud outage hits UK banks and websites",
+        "title": "Google resolves cloud outage affecting UK banks and websites",
         "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 20 Oct 2026 15:37:26 GMT"
+        "time": "Tue, 20 Oct 2026 18:03:19 GMT"
       },
       {
         "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 20 Oct 2026 11:45:49 GMT"
-      },
-      {
-        "title": "Harry says he wants to 'reconcile' with his family",
-        "url": "https://www.bbc.co.uk/news/articles/cry4xj79zxd1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 20 Oct 2026 15:49:54 GMT"
       }
     ],
     "projects": [
