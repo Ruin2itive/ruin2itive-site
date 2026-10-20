@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-10-20T07:08:49.836Z",
-  "updated_local": "10/20/2026, 7:08:49 AM",
+  "updated_iso": "2026-10-20T11:21:32.183Z",
+  "updated_local": "10/20/2026, 11:21:32 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
+        "url": "https://decrypt.co/381392/mt-gox-pushes-repayment-deadline-to-2027-with-2-8b-in-bitcoin-still-to-distribute",
+        "source": "crypto",
+        "time": "Tue, 20 Oct 2026 10:55:48 +0000"
+      },
+      {
+        "title": "BlackRock Files for &#39;Buffer&#39; Bitcoin ETF as IBIT Draws $665M in a Day",
+        "url": "https://decrypt.co/381385/blackrock-files-for-buffer-bitcoin-etf-as-ibit-draws-665m-in-a-day",
+        "source": "crypto",
+        "time": "Tue, 20 Oct 2026 09:13:30 +0000"
+      },
       {
         "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
         "url": "https://decrypt.co/381382/strive-buys-335-million-bitcoin",
@@ -20,21 +32,15 @@
         "url": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
         "source": "crypto",
         "time": "Mon, 19 Oct 2026 20:46:05 +0000"
-      },
-      {
-        "title": "Hackers Are Running Apple&#39;s iOS on Android Phones for the First Time",
-        "url": "https://decrypt.co/381351/hackers-running-apple-ios-android-phones",
-        "source": "crypto",
-        "time": "Mon, 19 Oct 2026 19:46:04 +0000"
-      },
-      {
-        "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
-        "url": "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments",
-        "source": "crypto",
-        "time": "Mon, 19 Oct 2026 19:16:04 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "DeepSeek just open-sourced its inference engine",
+        "url": "https://github.com/deepseek-ai/DeepInfer",
+        "source": "hn",
+        "time": "10/20/2026, 9:08:54 AM"
+      },
       {
         "title": "Nordwand Mono – A monospace font for coders and adventurers",
         "url": "https://github.com/tywr/Nordwand-Mono",
@@ -48,16 +54,10 @@
         "time": "10/20/2026, 2:06:40 AM"
       },
       {
-        "title": "Vite+ an excellent toolchain for AI agent development",
-        "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+        "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+        "url": "https://github.com/microg/GmsCore/wiki",
         "source": "hn",
-        "time": "10/20/2026, 6:40:49 AM"
-      },
-      {
-        "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-        "url": "https://deathplanswitch.com/",
-        "source": "hn",
-        "time": "10/20/2026, 4:37:43 AM"
+        "time": "10/20/2026, 6:37:07 AM"
       },
       {
         "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
@@ -71,7 +71,19 @@
         "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
         "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 20 Oct 2026 06:50:52 GMT"
+        "time": "Tue, 20 Oct 2026 10:06:34 GMT"
+      },
+      {
+        "title": "How the attack on an Australian MP unfolded",
+        "url": "https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 20 Oct 2026 06:02:05 GMT"
+      },
+      {
+        "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 20 Oct 2026 11:09:11 GMT"
       },
       {
         "title": "We asked teens what schools should teach them about work. This is what they said",
@@ -80,22 +92,10 @@
         "time": "Tue, 20 Oct 2026 05:00:14 GMT"
       },
       {
-        "title": "French cities calm overnight after curfews imposed to quell violence, PM says",
-        "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Storm Austen to bring severe gales to UK as weather warning issued",
+        "url": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 20 Oct 2026 06:35:57 GMT"
-      },
-      {
-        "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-        "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 20 Oct 2026 07:04:02 GMT"
-      },
-      {
-        "title": "US church on frontline of battle against drug known as 'tranq'",
-        "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 20 Oct 2026 00:02:32 GMT"
+        "time": "Tue, 20 Oct 2026 09:42:56 GMT"
       }
     ],
     "projects": [
