@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-20T11:21:32.183Z",
-  "updated_local": "10/20/2026, 11:21:32 AM",
+  "updated_iso": "2026-10-20T13:19:14.943Z",
+  "updated_local": "10/20/2026, 1:19:14 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Nine Blue Chip Companies Say No to Tokenized Stocks",
+        "url": "https://decrypt.co/381399/morning-minute-nine-blue-chip-companies-say-no-to-tokenized-stocks",
+        "source": "crypto",
+        "time": "Tue, 20 Oct 2026 12:06:44 +0000"
+      },
       {
         "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
         "url": "https://decrypt.co/381392/mt-gox-pushes-repayment-deadline-to-2027-with-2-8b-in-bitcoin-still-to-distribute",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/381371/anthropic-gives-public-musk-answers-spacex-shares",
         "source": "crypto",
         "time": "Mon, 19 Oct 2026 21:15:04 +0000"
-      },
-      {
-        "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
-        "url": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
-        "source": "crypto",
-        "time": "Mon, 19 Oct 2026 20:46:05 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "10/20/2026, 9:08:54 AM"
       },
       {
+        "title": "Demographic \"Doomsday\" Misses the Mark",
+        "url": "https://www.science.org/doi/10.1126/science.ael8752",
+        "source": "hn",
+        "time": "10/20/2026, 12:22:28 PM"
+      },
+      {
         "title": "Nordwand Mono – A monospace font for coders and adventurers",
         "url": "https://github.com/tywr/Nordwand-Mono",
         "source": "hn",
         "time": "10/18/2026, 2:48:01 PM"
-      },
-      {
-        "title": "OpenBSD 8.0",
-        "url": "https://www.openbsd.org/80.html",
-        "source": "hn",
-        "time": "10/20/2026, 2:06:40 AM"
       },
       {
         "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
@@ -60,42 +60,42 @@
         "time": "10/20/2026, 6:37:07 AM"
       },
       {
-        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "title": "OpenBSD 8.0",
+        "url": "https://www.openbsd.org/80.html",
         "source": "hn",
-        "time": "10/19/2026, 11:22:18 PM"
+        "time": "10/20/2026, 2:06:40 AM"
       }
     ],
     "world": [
       {
-        "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-        "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Key takeaways from Covid report on care homes",
+        "url": "https://www.bbc.co.uk/news/articles/crje5dke7vgqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 20 Oct 2026 10:06:34 GMT"
+        "time": "Tue, 20 Oct 2026 12:16:38 GMT"
       },
       {
-        "title": "How the attack on an Australian MP unfolded",
+        "title": "BBC Three, BBC Scotland and Radio 4 Extra channels to close",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 20 Oct 2026 13:10:43 GMT"
+      },
+      {
+        "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 20 Oct 2026 11:45:49 GMT"
+      },
+      {
+        "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+        "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 20 Oct 2026 11:25:35 GMT"
+      },
+      {
+        "title": "Shock and disbelief: How the attack on an Australian MP unfolded",
         "url": "https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 20 Oct 2026 06:02:05 GMT"
-      },
-      {
-        "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
-        "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 20 Oct 2026 11:09:11 GMT"
-      },
-      {
-        "title": "We asked teens what schools should teach them about work. This is what they said",
-        "url": "https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 20 Oct 2026 05:00:14 GMT"
-      },
-      {
-        "title": "Storm Austen to bring severe gales to UK as weather warning issued",
-        "url": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 20 Oct 2026 09:42:56 GMT"
       }
     ],
     "projects": [
