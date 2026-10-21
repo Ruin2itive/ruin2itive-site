@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-10-21T20:02:23.056Z",
-  "updated_local": "10/21/2026, 8:02:23 PM",
+  "updated_iso": "2026-10-21T22:04:53.990Z",
+  "updated_local": "10/21/2026, 10:04:53 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Ken Griffin Says AI Is &#39;Almost Certainly&#39; in a Bubble—And Compares GPUs to Airline Seats",
+        "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
+        "source": "crypto",
+        "time": "Wed, 21 Oct 2026 21:31:02 +0000"
+      },
+      {
+        "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
+        "url": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
+        "source": "crypto",
+        "time": "Wed, 21 Oct 2026 20:16:02 +0000"
+      },
       {
         "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
         "url": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
@@ -20,32 +32,26 @@
         "url": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
         "source": "crypto",
         "time": "Wed, 21 Oct 2026 17:31:03 +0000"
-      },
-      {
-        "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
-        "url": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
-        "source": "crypto",
-        "time": "Wed, 21 Oct 2026 16:46:04 +0000"
-      },
-      {
-        "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
-        "url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
-        "source": "crypto",
-        "time": "Wed, 21 Oct 2026 16:16:05 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Mistral Large 4",
-        "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-        "source": "hn",
-        "time": "10/21/2026, 7:20:55 PM"
-      },
       {
         "title": "Today's PHP security release, and how we're strengthening security",
         "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
         "source": "hn",
         "time": "10/21/2026, 3:48:56 PM"
+      },
+      {
+        "title": "GitLab Critical Patch Release",
+        "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+        "source": "hn",
+        "time": "10/21/2026, 7:01:12 PM"
+      },
+      {
+        "title": "No More Icons in Every Menu by Default",
+        "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+        "source": "hn",
+        "time": "10/20/2026, 4:27:08 AM"
       },
       {
         "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
@@ -58,12 +64,6 @@
         "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
         "source": "hn",
         "time": "10/20/2026, 12:14:03 AM"
-      },
-      {
-        "title": "Google's Rust Style Guide",
-        "url": "https://google.github.io/styleguide/rustguide.html",
-        "source": "hn",
-        "time": "10/21/2026, 7:11:57 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Wed, 21 Oct 2026 15:36:31 GMT"
       },
       {
-        "title": "Google staff resign in backlash over its AI contracts with military",
-        "url": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 21 Oct 2026 15:41:25 GMT"
-      },
-      {
         "title": "Websites taken down worldwide as critical cyber-security update issued",
         "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 21 Oct 2026 19:54:57 GMT"
       },
       {
-        "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
         "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 21 Oct 2026 17:42:34 GMT"
+        "time": "Wed, 21 Oct 2026 21:27:41 GMT"
       },
       {
-        "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
-        "url": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+        "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 21 Oct 2026 14:26:24 GMT"
+        "time": "Wed, 21 Oct 2026 19:58:06 GMT"
+      },
+      {
+        "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+        "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 21 Oct 2026 18:10:42 GMT"
       }
     ],
     "projects": [
