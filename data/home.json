@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-21T07:02:10.136Z",
-  "updated_local": "10/21/2026, 7:02:10 AM",
+  "updated_iso": "2026-10-21T09:59:29.437Z",
+  "updated_local": "10/21/2026, 9:59:29 AM",
   "sections": {
     "crypto": [
       {
@@ -36,37 +36,55 @@
     ],
     "hacker": [
       {
+        "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+        "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+        "source": "hn",
+        "time": "10/21/2026, 9:07:49 AM"
+      },
+      {
+        "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+        "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+        "source": "hn",
+        "time": "10/21/2026, 9:08:08 AM"
+      },
+      {
         "title": "The Future of CSS",
         "url": "https://www.joshwcomeau.com/css/interop-2027/",
         "source": "hn",
         "time": "10/21/2026, 1:47:28 AM"
       },
       {
+        "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+        "url": "https://news-web.php.net/php.announce/509",
+        "source": "hn",
+        "time": "10/20/2026, 8:15:50 PM"
+      },
+      {
         "title": "Show HN: SimCity, but with Permits",
         "url": "https://permit.petercai.com/",
         "source": "hn",
         "time": "10/20/2026, 6:29:09 PM"
-      },
-      {
-        "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-        "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-        "source": "hn",
-        "time": "10/20/2026, 10:21:05 PM"
-      },
-      {
-        "title": "In Hilbert space, all things are quantumly possible",
-        "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-        "source": "hn",
-        "time": "10/21/2026, 2:04:15 AM"
-      },
-      {
-        "title": "Muse exposes users' personal and business secrets when they share conversations",
-        "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-        "source": "hn",
-        "time": "10/21/2026, 12:45:59 AM"
       }
     ],
     "world": [
+      {
+        "title": "Chris Mason: Jackdaw approved but tricky energy trade-offs remain",
+        "url": "https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 21 Oct 2026 08:49:44 GMT"
+      },
+      {
+        "title": "Russia frees US citizen Stephen Hubbard, state media reports",
+        "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 21 Oct 2026 09:22:23 GMT"
+      },
+      {
+        "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+        "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 21 Oct 2026 09:45:31 GMT"
+      },
       {
         "title": "Lawyer caught by BBC offering to make illegal-worker fine go away",
         "url": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +92,10 @@
         "time": "Wed, 21 Oct 2026 05:00:35 GMT"
       },
       {
-        "title": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
+        "title": "Watch: Undercover filming shows lawyer advising how to avoid £45,000 illegal-worker fine",
         "url": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 21 Oct 2026 05:00:54 GMT"
-      },
-      {
-        "title": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'",
-        "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 21 Oct 2026 06:37:55 GMT"
-      },
-      {
-        "title": "King praises Oman's Strait of Hormuz peace efforts at glittering banquet",
-        "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 21 Oct 2026 01:28:16 GMT"
-      },
-      {
-        "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-        "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 21 Oct 2026 06:50:40 GMT"
       }
     ],
     "projects": [
