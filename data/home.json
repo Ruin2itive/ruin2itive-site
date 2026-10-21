@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-21T22:04:53.990Z",
-  "updated_local": "10/21/2026, 10:04:53 PM",
+  "updated_iso": "2026-10-21T23:57:47.075Z",
+  "updated_local": "10/21/2026, 11:57:47 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Railway Security Disclosure",
+        "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+        "source": "hn",
+        "time": "10/21/2026, 9:58:03 PM"
+      },
+      {
         "title": "Today's PHP security release, and how we're strengthening security",
         "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "10/21/2026, 7:01:12 PM"
       },
       {
-        "title": "No More Icons in Every Menu by Default",
-        "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-        "source": "hn",
-        "time": "10/20/2026, 4:27:08 AM"
-      },
-      {
         "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
         "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
         "source": "hn",
         "time": "10/21/2026, 2:00:26 PM"
       },
       {
-        "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
-        "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+        "title": "Google's Rust Style Guide",
+        "url": "https://google.github.io/styleguide/rustguide.html",
         "source": "hn",
-        "time": "10/20/2026, 12:14:03 AM"
+        "time": "10/21/2026, 7:11:57 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Wed, 21 Oct 2026 19:58:06 GMT"
       },
       {
-        "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-        "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+        "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 21 Oct 2026 18:10:42 GMT"
+        "time": "Wed, 21 Oct 2026 23:02:30 GMT"
       }
     ],
     "projects": [
