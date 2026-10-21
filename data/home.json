@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-21T18:21:49.390Z",
-  "updated_local": "10/21/2026, 6:21:49 PM",
+  "updated_iso": "2026-10-21T20:02:23.056Z",
+  "updated_local": "10/21/2026, 8:02:23 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
+        "url": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
+        "source": "crypto",
+        "time": "Wed, 21 Oct 2026 18:46:08 +0000"
+      },
       {
         "title": "How a SpaceX and Tesla Merger Would Reshape Musk’s AI Empire",
         "url": "https://decrypt.co/381543/elon-musk-spacex-tesla-merger-ai-empire",
@@ -26,20 +32,14 @@
         "url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
         "source": "crypto",
         "time": "Wed, 21 Oct 2026 16:16:05 +0000"
-      },
-      {
-        "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
-        "url": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
-        "source": "crypto",
-        "time": "Wed, 21 Oct 2026 15:43:32 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "PHP 8.2.35",
-        "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+        "title": "Mistral Large 4",
+        "url": "https://docs.mistral.ai/models/mistral-large-4-0",
         "source": "hn",
-        "time": "10/21/2026, 1:45:33 PM"
+        "time": "10/21/2026, 7:20:55 PM"
       },
       {
         "title": "Today's PHP security release, and how we're strengthening security",
@@ -54,16 +54,16 @@
         "time": "10/21/2026, 2:00:26 PM"
       },
       {
-        "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-        "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+        "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+        "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
         "source": "hn",
-        "time": "10/21/2026, 2:01:22 PM"
+        "time": "10/20/2026, 12:14:03 AM"
       },
       {
-        "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-        "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+        "title": "Google's Rust Style Guide",
+        "url": "https://google.github.io/styleguide/rustguide.html",
         "source": "hn",
-        "time": "10/21/2026, 9:08:08 AM"
+        "time": "10/21/2026, 7:11:57 PM"
       }
     ],
     "world": [
@@ -80,10 +80,10 @@
         "time": "Wed, 21 Oct 2026 15:41:25 GMT"
       },
       {
-        "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
-        "url": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Websites taken down worldwide as critical cyber-security update issued",
+        "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 21 Oct 2026 14:26:24 GMT"
+        "time": "Wed, 21 Oct 2026 19:54:57 GMT"
       },
       {
         "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
@@ -92,10 +92,10 @@
         "time": "Wed, 21 Oct 2026 17:42:34 GMT"
       },
       {
-        "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
-        "url": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
+        "url": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 21 Oct 2026 15:56:03 GMT"
+        "time": "Wed, 21 Oct 2026 14:26:24 GMT"
       }
     ],
     "projects": [
