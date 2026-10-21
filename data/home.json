@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-21T01:16:05.270Z",
-  "updated_local": "10/21/2026, 1:16:05 AM",
+  "updated_iso": "2026-10-21T04:26:29.371Z",
+  "updated_local": "10/21/2026, 4:26:29 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "SimCity, but with Permits",
+        "title": "The Future of CSS",
+        "url": "https://www.joshwcomeau.com/css/interop-2027/",
+        "source": "hn",
+        "time": "10/21/2026, 1:47:28 AM"
+      },
+      {
+        "title": "Show HN: SimCity, but with Permits",
         "url": "https://permit.petercai.com/",
         "source": "hn",
         "time": "10/20/2026, 6:29:09 PM"
+      },
+      {
+        "title": "In Hilbert space, all things are quantumly possible",
+        "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+        "source": "hn",
+        "time": "10/21/2026, 2:04:15 AM"
       },
       {
         "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
@@ -48,22 +60,10 @@
         "time": "10/20/2026, 10:21:05 PM"
       },
       {
-        "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-        "url": "https://github.com/deepseek-ai/DeepInfer",
-        "source": "hn",
-        "time": "10/20/2026, 9:08:54 AM"
-      },
-      {
         "title": "Voxtral 3",
         "url": "https://mistral.ai/news/voxtral-3/",
         "source": "hn",
         "time": "10/20/2026, 4:02:07 PM"
-      },
-      {
-        "title": "The Other Epidemic: Trying to get off benzodiazepines",
-        "url": "https://www.thebeliever.net/the-other-epidemic/",
-        "source": "hn",
-        "time": "10/20/2026, 11:04:09 PM"
       }
     ],
     "world": [
@@ -74,10 +74,10 @@
         "time": "Tue, 20 Oct 2026 18:32:14 GMT"
       },
       {
-        "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+        "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
         "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 20 Oct 2026 21:27:39 GMT"
+        "time": "Wed, 21 Oct 2026 03:59:18 GMT"
       },
       {
         "title": "UK government to make Jackdaw gas field announcement",
@@ -95,7 +95,7 @@
         "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
         "url": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 20 Oct 2026 21:10:38 GMT"
+        "time": "Wed, 21 Oct 2026 01:28:16 GMT"
       }
     ],
     "projects": [
