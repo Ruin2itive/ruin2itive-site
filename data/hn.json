@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-22T06:53:26.305Z"
+    "built_at": "2026-10-22T12:40:21.358Z"
   },
-  "items": [
-    {
-      "title": "As Politicians Argue About China, US Patients Find Cutting-Edge Treatment There",
-      "url": "https://kffhealthnews.org/health-industry/china-cancer-drugs-foreign-travel-pharma-biotech-fda-regulation-clinical-trials/",
-      "date": "2026-10-22T06:52:08.000Z"
-    },
-    {
-      "title": "Show HN: Git-found, fixes \"Repository not found\" with multiple GitHub accounts",
-      "url": "https://github.com/advaith334/git-found",
-      "date": "2026-10-22T06:51:06.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
