@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-21T23:57:47.075Z",
-  "updated_local": "10/21/2026, 11:57:47 PM",
+  "updated_iso": "2026-10-22T01:11:42.576Z",
+  "updated_local": "10/22/2026, 1:11:42 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "mitmproxy adds --emudhra option",
+        "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+        "source": "hn",
+        "time": "10/21/2026, 11:51:37 PM"
+      },
+      {
         "title": "Railway Security Disclosure",
         "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
         "source": "hn",
         "time": "10/21/2026, 9:58:03 PM"
+      },
+      {
+        "title": "There isn't an easy exploit for this PHP vulnerability",
+        "url": "https://eliastaylor.com/noexploit/",
+        "source": "hn",
+        "time": "10/21/2026, 11:13:27 PM"
       },
       {
         "title": "Today's PHP security release, and how we're strengthening security",
@@ -52,18 +64,6 @@
         "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
         "source": "hn",
         "time": "10/21/2026, 7:01:12 PM"
-      },
-      {
-        "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-        "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-        "source": "hn",
-        "time": "10/21/2026, 2:00:26 PM"
-      },
-      {
-        "title": "Google's Rust Style Guide",
-        "url": "https://google.github.io/styleguide/rustguide.html",
-        "source": "hn",
-        "time": "10/21/2026, 7:11:57 PM"
       }
     ],
     "world": [
