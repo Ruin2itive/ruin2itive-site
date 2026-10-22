@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-22T04:29:38.586Z",
-  "updated_local": "10/22/2026, 4:29:38 AM",
+  "updated_iso": "2026-10-22T07:04:25.582Z",
+  "updated_local": "10/22/2026, 7:04:25 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "Epic Games Inc v Apple Inc",
-        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
-        "source": "hn",
-        "time": "10/22/2026, 1:52:03 AM"
-      },
-      {
         "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
         "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
         "source": "hn",
@@ -54,39 +48,33 @@
         "time": "10/21/2026, 11:13:27 PM"
       },
       {
+        "title": "OpenAI CLI",
+        "url": "https://github.com/openai/openai-cli",
+        "source": "hn",
+        "time": "10/22/2026, 5:23:11 AM"
+      },
+      {
+        "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+        "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+        "source": "hn",
+        "time": "10/22/2026, 2:18:41 AM"
+      },
+      {
         "title": "Security Disclosure",
         "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
         "source": "hn",
         "time": "10/21/2026, 9:58:03 PM"
-      },
-      {
-        "title": "Rust Style Guide",
-        "url": "https://google.github.io/styleguide/rustguide.html",
-        "source": "hn",
-        "time": "10/21/2026, 7:11:57 PM"
       }
     ],
     "world": [
       {
-        "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
-        "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "What is PHP and why did it spark an international cyber-security alert?",
+        "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 21 Oct 2026 15:36:31 GMT"
+        "time": "Thu, 22 Oct 2026 06:24:59 GMT"
       },
       {
-        "title": "Websites taken down worldwide as critical cyber-security update issued",
-        "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 21 Oct 2026 19:54:57 GMT"
-      },
-      {
-        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 21 Oct 2026 21:27:41 GMT"
-      },
-      {
-        "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+        "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
         "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 21 Oct 2026 19:58:06 GMT"
@@ -96,6 +84,18 @@
         "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 22 Oct 2026 01:17:25 GMT"
+      },
+      {
+        "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
+        "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 21 Oct 2026 23:02:30 GMT"
+      },
+      {
+        "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
+        "url": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 22 Oct 2026 02:09:21 GMT"
       }
     ],
     "projects": [
