@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-22T17:46:19.022Z"
+    "built_at": "2026-10-22T21:01:24.759Z"
   },
-  "items": [
-    {
-      "title": "Php2shell Needs a Shell",
-      "url": "https://vivianvoss.net/blog/php2shell-needs-a-shell",
-      "date": "2026-10-22T17:45:14.000Z"
-    },
-    {
-      "title": "Nvidia OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "date": "2026-10-22T17:44:06.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
