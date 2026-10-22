@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-10-22T18:15:58.083Z",
-  "updated_local": "10/22/2026, 6:15:58 PM",
+  "updated_iso": "2026-10-22T19:56:20.345Z",
+  "updated_local": "10/22/2026, 7:56:20 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
+        "url": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech",
+        "source": "crypto",
+        "time": "Thu, 22 Oct 2026 19:46:02 +0000"
+      },
+      {
+        "title": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
+        "url": "https://decrypt.co/381640/meta-non-voting-stock-fund-ai-buildout-zuckerberg-control",
+        "source": "crypto",
+        "time": "Thu, 22 Oct 2026 19:06:02 +0000"
+      },
+      {
+        "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
+        "url": "https://decrypt.co/381638/coinbase-fined-again-ireland-3-6m-fund-safeguarding",
+        "source": "crypto",
+        "time": "Thu, 22 Oct 2026 18:36:03 +0000"
+      },
       {
         "title": "Tesla&#39;s Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
         "url": "https://decrypt.co/381624/teslas-profit-drops-musk-robots-driverless-cabs",
@@ -14,24 +32,6 @@
         "url": "https://decrypt.co/381613/oil-climbs-above-111-as-ai-stocks-slide-dragging-the-sp-500-and-global-markets-with-them",
         "source": "crypto",
         "time": "Thu, 22 Oct 2026 17:33:38 +0000"
-      },
-      {
-        "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
-        "url": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
-        "source": "crypto",
-        "time": "Thu, 22 Oct 2026 16:31:07 +0000"
-      },
-      {
-        "title": "What Is a Neocloud? The GPU Clouds Powering the AI Boom",
-        "url": "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom",
-        "source": "crypto",
-        "time": "Thu, 22 Oct 2026 15:45:07 +0000"
-      },
-      {
-        "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re &#39;Horrified&#39;",
-        "url": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
-        "source": "crypto",
-        "time": "Thu, 22 Oct 2026 15:24:18 +0000"
       }
     ],
     "hacker": [
@@ -48,22 +48,22 @@
         "time": "10/22/2026, 1:33:39 PM"
       },
       {
+        "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+        "url": "https://github.com/NVIDIA/OpenShell",
+        "source": "hn",
+        "time": "10/22/2026, 5:44:06 PM"
+      },
+      {
+        "title": "eMudhra logins can be bruteforced",
+        "url": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
+        "source": "hn",
+        "time": "10/22/2026, 7:14:01 PM"
+      },
+      {
         "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
         "url": "https://github.com/oosexgang/hackios-xnu-kernel",
         "source": "hn",
         "time": "10/22/2026, 3:26:22 PM"
-      },
-      {
-        "title": "What's Getting Pwned",
-        "url": "https://pwn.watch/",
-        "source": "hn",
-        "time": "10/22/2026, 2:08:12 PM"
-      },
-      {
-        "title": "Getting ready to operate GNU Taler in Germany",
-        "url": "https://www.taler.net/en/news/2026-13.html",
-        "source": "hn",
-        "time": "10/22/2026, 4:14:31 PM"
       }
     ],
     "world": [
