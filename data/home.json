@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-22T07:04:25.582Z",
-  "updated_local": "10/22/2026, 7:04:25 AM",
+  "updated_iso": "2026-10-22T09:59:32.760Z",
+  "updated_local": "10/22/2026, 9:59:32 AM",
   "sections": {
     "crypto": [
       {
@@ -36,28 +36,28 @@
     ],
     "hacker": [
       {
-        "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-        "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+        "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+        "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
         "source": "hn",
-        "time": "10/22/2026, 2:30:52 AM"
-      },
-      {
-        "title": "There isn't an easy exploit for this PHP vulnerability",
-        "url": "https://eliastaylor.com/noexploit/",
-        "source": "hn",
-        "time": "10/21/2026, 11:13:27 PM"
-      },
-      {
-        "title": "OpenAI CLI",
-        "url": "https://github.com/openai/openai-cli",
-        "source": "hn",
-        "time": "10/22/2026, 5:23:11 AM"
+        "time": "10/22/2026, 8:51:31 AM"
       },
       {
         "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
         "url": "https://simedw.com/2026/10/21/world-model-terminal/",
         "source": "hn",
         "time": "10/22/2026, 2:18:41 AM"
+      },
+      {
+        "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+        "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+        "source": "hn",
+        "time": "10/22/2026, 2:30:52 AM"
+      },
+      {
+        "title": "Achieving AI-style reasoning without an LLM",
+        "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+        "source": "hn",
+        "time": "10/22/2026, 8:46:58 AM"
       },
       {
         "title": "Security Disclosure",
@@ -74,28 +74,28 @@
         "time": "Thu, 22 Oct 2026 06:24:59 GMT"
       },
       {
+        "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 22 Oct 2026 09:37:58 GMT"
+      },
+      {
         "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
         "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 21 Oct 2026 19:58:06 GMT"
       },
       {
-        "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
-        "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How Arab parties could hold critical balance of power in Israeli election",
+        "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 22 Oct 2026 01:17:25 GMT"
+        "time": "Thu, 22 Oct 2026 05:30:22 GMT"
       },
       {
-        "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
-        "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Only one female scientist named in GCSEs, research finds",
+        "url": "https://www.bbc.co.uk/news/articles/c69wzv5pg447o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 21 Oct 2026 23:02:30 GMT"
-      },
-      {
-        "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
-        "url": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 22 Oct 2026 02:09:21 GMT"
+        "time": "Wed, 21 Oct 2026 23:02:45 GMT"
       }
     ],
     "projects": [
