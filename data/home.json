@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-23T20:58:41.726Z",
-  "updated_local": "10/23/2026, 8:58:41 PM",
+  "updated_iso": "2026-10-23T23:01:20.560Z",
+  "updated_local": "10/23/2026, 11:01:20 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+        "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+        "source": "crypto",
+        "time": "Fri, 23 Oct 2026 21:16:03 +0000"
+      },
       {
         "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm",
         "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/381717/how-vibe-coded-my-smart-tv-claude-killed-it",
         "source": "crypto",
         "time": "Fri, 23 Oct 2026 17:53:29 +0000"
-      },
-      {
-        "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
-        "url": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
-        "source": "crypto",
-        "time": "Fri, 23 Oct 2026 17:16:03 +0000"
       }
     ],
     "hacker": [
@@ -48,22 +48,22 @@
         "time": "10/23/2026, 12:28:47 PM"
       },
       {
-        "title": "Today, we hacked what we'd set out to hack: the iPhone",
-        "url": "https://blog.calif.io/p/iphone",
-        "source": "hn",
-        "time": "10/23/2026, 4:21:50 PM"
-      },
-      {
         "title": "Dessa: the most authentic full-duplex speech model ever built",
         "url": "https://block.xyz/dessa",
         "source": "hn",
         "time": "10/23/2026, 7:09:54 PM"
       },
       {
-        "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-        "url": "https://edjefferson.com/localwiki/",
+        "title": "Today, we hacked what we'd set out to hack: the iPhone",
+        "url": "https://blog.calif.io/p/iphone",
         "source": "hn",
-        "time": "10/22/2026, 11:01:18 PM"
+        "time": "10/23/2026, 4:21:50 PM"
+      },
+      {
+        "title": "CVE Tracker",
+        "url": "https://cve.0xosprey.com/",
+        "source": "hn",
+        "time": "10/23/2026, 9:21:47 PM"
       }
     ],
     "world": [
@@ -71,7 +71,13 @@
         "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
         "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 23 Oct 2026 18:48:18 GMT"
+        "time": "Fri, 23 Oct 2026 21:10:47 GMT"
+      },
+      {
+        "title": "Watch: Trees ripped up as Storm Austen batters Britain",
+        "url": "https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 23 Oct 2026 21:01:31 GMT"
       },
       {
         "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 23 Oct 2026 19:42:08 GMT"
-      },
-      {
-        "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 23 Oct 2026 19:30:19 GMT"
       }
     ],
     "projects": [
