@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-23T01:11:22.611Z",
-  "updated_local": "10/23/2026, 1:11:22 AM",
+  "updated_iso": "2026-10-23T04:30:01.278Z",
+  "updated_local": "10/23/2026, 4:30:01 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Docker Is Weird",
+        "title": "Docker is weird",
         "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
         "source": "hn",
         "time": "10/22/2026, 11:45:56 PM"
-      },
-      {
-        "title": "Quad9 (DNS Resolver) to Exit France",
-        "url": "https://quad9.net/news/blog/au-revoir-france/",
-        "source": "hn",
-        "time": "10/22/2026, 2:32:38 PM"
       },
       {
         "title": "LLMs are making formal software verification feasible at a much larger scale",
@@ -54,16 +48,22 @@
         "time": "10/22/2026, 10:54:43 PM"
       },
       {
-        "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-        "url": "https://github.com/NVIDIA/OpenShell",
+        "title": "Quad9 (DNS Resolver) to Exit France",
+        "url": "https://quad9.net/news/blog/au-revoir-france/",
         "source": "hn",
-        "time": "10/22/2026, 5:44:06 PM"
+        "time": "10/22/2026, 2:32:38 PM"
       },
       {
-        "title": "Woman faces six years in prison over Cash App account she never opened",
-        "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+        "title": "The Secret Life of Circuits is now in stock everywhere",
+        "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
         "source": "hn",
-        "time": "10/22/2026, 1:11:00 PM"
+        "time": "10/20/2026, 7:15:12 AM"
+      },
+      {
+        "title": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
+        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
+        "source": "hn",
+        "time": "10/20/2026, 10:24:23 PM"
       }
     ],
     "world": [
