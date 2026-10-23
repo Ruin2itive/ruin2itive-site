@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-23T04:30:01.278Z",
-  "updated_local": "10/23/2026, 4:30:01 AM",
+  "updated_iso": "2026-10-23T06:56:31.435Z",
+  "updated_local": "10/23/2026, 6:56:31 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+        "url": "https://edjefferson.com/localwiki/",
+        "source": "hn",
+        "time": "10/22/2026, 11:01:18 PM"
+      },
+      {
         "title": "Docker is weird",
         "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
         "source": "hn",
@@ -48,36 +54,30 @@
         "time": "10/22/2026, 10:54:43 PM"
       },
       {
-        "title": "Quad9 (DNS Resolver) to Exit France",
-        "url": "https://quad9.net/news/blog/au-revoir-france/",
+        "title": "This I Believe (1952)",
+        "url": "https://www.awakin.org/v2/read/view.php?tid=468",
         "source": "hn",
-        "time": "10/22/2026, 2:32:38 PM"
+        "time": "10/23/2026, 2:19:38 AM"
       },
       {
-        "title": "The Secret Life of Circuits is now in stock everywhere",
-        "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
+        "title": "How does Fable 5.1 hide messages in images?",
+        "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
         "source": "hn",
-        "time": "10/20/2026, 7:15:12 AM"
-      },
-      {
-        "title": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
-        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
-        "source": "hn",
-        "time": "10/20/2026, 10:24:23 PM"
+        "time": "10/22/2026, 9:41:13 PM"
       }
     ],
     "world": [
       {
-        "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
-        "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
+        "url": "https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 22 Oct 2026 21:29:44 GMT"
+        "time": "Fri, 23 Oct 2026 05:00:05 GMT"
       },
       {
-        "title": "Race to update services' computer systems after cyber-security flaw found",
-        "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Met chief Rowley not fit for job, says detective raped by colleague",
+        "url": "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 22 Oct 2026 17:12:51 GMT"
+        "time": "Fri, 23 Oct 2026 05:00:12 GMT"
       },
       {
         "title": "Musk has restored access to Ukraine's Starlink network, Trump says",
@@ -92,10 +92,10 @@
         "time": "Fri, 23 Oct 2026 00:14:08 GMT"
       },
       {
-        "title": "Amber warning in place as Storm Austen hits parts of UK",
-        "url": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+        "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 23 Oct 2026 00:08:43 GMT"
+        "time": "Thu, 22 Oct 2026 23:16:16 GMT"
       }
     ],
     "projects": [
