@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-23T06:56:31.435Z",
-  "updated_local": "10/23/2026, 6:56:31 AM",
+  "updated_iso": "2026-10-23T09:54:29.443Z",
+  "updated_local": "10/23/2026, 9:54:29 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin in &#39;Wait and See Mode&#39;—And That Might Be a Good Thing",
+        "url": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
+        "source": "crypto",
+        "time": "Fri, 23 Oct 2026 08:55:35 +0000"
+      },
       {
         "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
         "url": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/381640/meta-non-voting-stock-fund-ai-buildout-zuckerberg-control",
         "source": "crypto",
         "time": "Thu, 22 Oct 2026 19:06:02 +0000"
-      },
-      {
-        "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
-        "url": "https://decrypt.co/381638/coinbase-fined-again-ireland-3-6m-fund-safeguarding",
-        "source": "crypto",
-        "time": "Thu, 22 Oct 2026 18:36:03 +0000"
       }
     ],
     "hacker": [
@@ -48,25 +48,31 @@
         "time": "10/22/2026, 11:45:56 PM"
       },
       {
-        "title": "LLMs are making formal software verification feasible at a much larger scale",
-        "url": "https://www.anthropic.com/research/formal-verification",
-        "source": "hn",
-        "time": "10/22/2026, 10:54:43 PM"
-      },
-      {
-        "title": "This I Believe (1952)",
-        "url": "https://www.awakin.org/v2/read/view.php?tid=468",
-        "source": "hn",
-        "time": "10/23/2026, 2:19:38 AM"
-      },
-      {
         "title": "How does Fable 5.1 hide messages in images?",
         "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
         "source": "hn",
         "time": "10/22/2026, 9:41:13 PM"
+      },
+      {
+        "title": "The alien space of science: Coherent but cognitively unavailable directions",
+        "url": "https://arxiv.org/abs/2603.01092",
+        "source": "hn",
+        "time": "10/22/2026, 1:25:01 PM"
+      },
+      {
+        "title": "The foolishness of \"natural language programming\" (1978)",
+        "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+        "source": "hn",
+        "time": "10/23/2026, 12:52:01 AM"
       }
     ],
     "world": [
+      {
+        "title": "Watch: BBC presenter battles strong winds as storm hits Newquay",
+        "url": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 23 Oct 2026 08:26:47 GMT"
+      },
       {
         "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
         "url": "https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +86,16 @@
         "time": "Fri, 23 Oct 2026 05:00:12 GMT"
       },
       {
-        "title": "Musk has restored access to Ukraine's Starlink network, Trump says",
+        "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+        "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 23 Oct 2026 09:44:40 GMT"
+      },
+      {
+        "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
         "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 22 Oct 2026 21:42:39 GMT"
-      },
-      {
-        "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
-        "url": "https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 23 Oct 2026 00:14:08 GMT"
-      },
-      {
-        "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-        "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 22 Oct 2026 23:16:16 GMT"
+        "time": "Fri, 23 Oct 2026 09:36:43 GMT"
       }
     ],
     "projects": [
