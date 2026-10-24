@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-23T23:47:55.758Z",
-  "updated_local": "10/23/2026, 11:47:55 PM",
+  "updated_iso": "2026-10-24T03:15:57.849Z",
+  "updated_local": "10/24/2026, 3:15:57 AM",
   "sections": {
     "crypto": [
       {
@@ -42,60 +42,60 @@
         "time": "10/23/2026, 4:59:08 PM"
       },
       {
+        "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+        "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+        "source": "hn",
+        "time": "10/23/2026, 11:30:17 PM"
+      },
+      {
+        "title": "Twelve Years of Distributed SQLite",
+        "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+        "source": "hn",
+        "time": "10/24/2026, 1:16:58 AM"
+      },
+      {
         "title": "Apple Music 404 Not Found",
         "url": "https://music.apple.com/this-url-doesnt-exist",
         "source": "hn",
         "time": "10/23/2026, 12:28:47 PM"
       },
       {
-        "title": "Today, we hacked what we'd set out to hack: the iPhone",
-        "url": "https://blog.calif.io/p/iphone",
-        "source": "hn",
-        "time": "10/23/2026, 4:21:50 PM"
-      },
-      {
         "title": "CVE Tracker",
         "url": "https://cve.0xosprey.com/",
         "source": "hn",
         "time": "10/23/2026, 9:21:47 PM"
-      },
-      {
-        "title": "Dessa: the most authentic full-duplex speech model ever built",
-        "url": "https://block.xyz/dessa",
-        "source": "hn",
-        "time": "10/23/2026, 7:09:54 PM"
       }
     ],
     "world": [
       {
-        "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
-        "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
+        "url": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 23 Oct 2026 21:10:47 GMT"
+        "time": "Sat, 24 Oct 2026 02:25:54 GMT"
       },
       {
-        "title": "Watch: Trees ripped up as Storm Austen batters Britain",
-        "url": "https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Australian MP's condition improves after alleged car attack",
+        "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 23 Oct 2026 21:01:31 GMT"
-      },
-      {
-        "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 23 Oct 2026 18:17:06 GMT"
-      },
-      {
-        "title": "Meghan statement offers answers after years of questions about her relationship with father",
-        "url": "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 23 Oct 2026 17:27:50 GMT"
+        "time": "Sat, 24 Oct 2026 01:55:15 GMT"
       },
       {
         "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
         "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 23 Oct 2026 19:42:08 GMT"
+      },
+      {
+        "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+        "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 24 Oct 2026 00:05:45 GMT"
+      },
+      {
+        "title": "Meghan statement offers answers after years of questions about her relationship with father",
+        "url": "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 23 Oct 2026 17:27:50 GMT"
       }
     ],
     "projects": [
