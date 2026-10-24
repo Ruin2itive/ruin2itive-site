@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-24T01:16:03.802Z"
+    "built_at": "2026-10-24T06:42:50.214Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Spritz: Stream Local Videos via AirPlay, Cast and DLNA on Apple Silicon",
+      "url": "https://github.com/Oolab-labs/spritz",
+      "date": "2026-10-24T06:39:35.000Z"
+    },
+    {
+      "title": "Retroviral insertions contributed to divergence of human and chimpanzee brains",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeg5791",
+      "date": "2026-10-24T06:38:26.000Z"
+    }
+  ]
 }
