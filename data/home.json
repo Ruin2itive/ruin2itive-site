@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-24T17:20:17.681Z",
-  "updated_local": "10/24/2026, 5:20:17 PM",
+  "updated_iso": "2026-10-24T20:12:01.990Z",
+  "updated_local": "10/24/2026, 8:12:01 PM",
   "sections": {
     "crypto": [
       {
@@ -36,37 +36,43 @@
     ],
     "hacker": [
       {
+        "title": "No Signs of AI Payoff Outside the Tech Sector",
+        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+        "source": "hn",
+        "time": "10/24/2026, 7:47:19 PM"
+      },
+      {
         "title": "Roku developer repositories moved from GitHub to GitLab",
         "url": "https://blog.roku.com/developer/gitlab-move",
         "source": "hn",
         "time": "10/24/2026, 4:06:26 PM"
       },
       {
-        "title": "FreeDNS",
-        "url": "https://freedns.afraid.org/",
+        "title": "The Goose Programming Language",
+        "url": "https://aardappel.github.io/goose/",
         "source": "hn",
-        "time": "10/24/2026, 3:20:01 PM"
+        "time": "10/24/2026, 7:27:41 PM"
       },
       {
-        "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-        "url": "https://de.numista.com/9866",
+        "title": "Dream-1",
+        "url": "https://dreamlabs.ai/research/dream-1/",
         "source": "hn",
-        "time": "10/24/2026, 4:41:55 PM"
+        "time": "10/24/2026, 6:23:24 PM"
       },
       {
-        "title": "Neural chip decodes interactions between brain regions",
-        "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+        "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+        "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
         "source": "hn",
-        "time": "10/24/2026, 3:57:17 PM"
-      },
-      {
-        "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-        "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-        "source": "hn",
-        "time": "10/24/2026, 1:15:14 AM"
+        "time": "10/24/2026, 7:06:55 PM"
       }
     ],
     "world": [
+      {
+        "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+        "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 24 Oct 2026 19:37:35 GMT"
+      },
       {
         "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
         "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +80,22 @@
         "time": "Sat, 24 Oct 2026 12:59:49 GMT"
       },
       {
-        "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
-        "url": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+        "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 24 Oct 2026 15:45:46 GMT"
+        "time": "Sat, 24 Oct 2026 20:01:23 GMT"
+      },
+      {
+        "title": "Mum who died trying to save sons swept away in Bahamas was hero, husband says",
+        "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 24 Oct 2026 17:11:56 GMT"
       },
       {
         "title": "Between quick wins and big dreams lies Burnham's biggest test",
         "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 24 Oct 2026 11:03:57 GMT"
-      },
-      {
-        "title": "Mum dies after trying to rescue sons swept away at sea in Bahamas",
-        "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 24 Oct 2026 17:11:56 GMT"
-      },
-      {
-        "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 24 Oct 2026 10:30:08 GMT"
       }
     ],
     "projects": [
