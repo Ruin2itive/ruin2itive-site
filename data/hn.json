@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-24T18:28:31.410Z"
+    "built_at": "2026-10-24T21:20:12.730Z"
   },
-  "items": [
-    {
-      "title": "Chess Arena – Minimal chess vs. Hard AI (vanilla JavaScript, no login)",
-      "url": "https://playgama.ai/play/xl6duef7p3",
-      "date": "2026-10-24T18:25:53.000Z"
-    },
-    {
-      "title": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER",
-      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "date": "2026-10-24T18:23:53.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
