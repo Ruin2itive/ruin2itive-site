@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-24T04:20:34.639Z",
-  "updated_local": "10/24/2026, 4:20:34 AM",
+  "updated_iso": "2026-10-24T08:37:42.386Z",
+  "updated_local": "10/24/2026, 8:37:42 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "OBS Studio 33",
+        "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+        "source": "hn",
+        "time": "10/24/2026, 4:49:58 AM"
+      },
+      {
         "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
         "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
         "source": "hn",
@@ -48,36 +54,30 @@
         "time": "10/24/2026, 1:16:58 AM"
       },
       {
-        "title": "Apple Music 404 Not Found",
-        "url": "https://music.apple.com/this-url-doesnt-exist",
+        "title": "Today, we hacked what we'd set out to hack: the iPhone",
+        "url": "https://blog.calif.io/p/iphone",
         "source": "hn",
-        "time": "10/23/2026, 12:28:47 PM"
+        "time": "10/23/2026, 4:21:50 PM"
       },
       {
-        "title": "The Quake Fan who built the map editor everybody uses",
-        "url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
+        "title": "How close can pure functional programming get to C?",
+        "url": "https://rtfeldman.com/fp-vs-c",
         "source": "hn",
-        "time": "10/22/2026, 10:55:22 AM"
-      },
-      {
-        "title": "CVE Tracker",
-        "url": "https://cve.0xosprey.com/",
-        "source": "hn",
-        "time": "10/23/2026, 9:21:47 PM"
+        "time": "10/24/2026, 3:43:54 AM"
       }
     ],
     "world": [
       {
-        "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
-        "url": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 24 Oct 2026 02:25:54 GMT"
-      },
-      {
         "title": "France prepares for day of protest a week after nationwide riots",
         "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 24 Oct 2026 04:03:46 GMT"
+        "time": "Sat, 24 Oct 2026 06:19:46 GMT"
+      },
+      {
+        "title": "Met investigates reports of letter detailing claims about Meghan's father",
+        "url": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 24 Oct 2026 03:17:24 GMT"
       },
       {
         "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
@@ -86,16 +86,16 @@
         "time": "Sat, 24 Oct 2026 00:05:45 GMT"
       },
       {
-        "title": "Australian MP's condition improves after alleged car attack",
-        "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+        "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 24 Oct 2026 01:55:15 GMT"
+        "time": "Fri, 23 Oct 2026 22:47:07 GMT"
       },
       {
-        "title": "Met investigates reports of letter detailing claims about Meghan's father",
-        "url": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Arrest made after fire at Hitler's famed Eagle's Nest retreat",
+        "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 24 Oct 2026 03:17:24 GMT"
+        "time": "Sat, 24 Oct 2026 03:51:25 GMT"
       }
     ],
     "projects": [
