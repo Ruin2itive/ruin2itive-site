@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-25T07:57:33.087Z"
+    "built_at": "2026-10-25T12:57:21.898Z"
   },
-  "items": [
-    {
-      "title": "Joining the 2026 Asian Apiculture Association Conference",
-      "url": "https://boussejra.com/2026/10/24/asian-apiculture-association-conference.html",
-      "date": "2026-10-25T07:56:27.000Z"
-    },
-    {
-      "title": "How Bad Is AI History Content? [video]",
-      "url": "https://www.youtube.com/watch?v=iIm3f1qTvp8",
-      "date": "2026-10-25T07:51:59.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
