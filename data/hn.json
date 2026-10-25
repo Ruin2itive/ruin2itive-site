@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-24T23:53:09.207Z"
+    "built_at": "2026-10-25T02:31:52.272Z"
   },
-  "items": [
-    {
-      "title": "\"Performance\" Oryon: Qualcomm's Little Core",
-      "url": "https://chipsandcheese.com/p/performance-oryon-qualcomms-little",
-      "date": "2026-10-24T23:48:27.000Z"
-    },
-    {
-      "title": "Stop-motion movie Wildwood is a staggering masterpiece",
-      "url": "https://www.cbc.ca/news/entertainment/wildwood-review-laika-9.7393321",
-      "date": "2026-10-24T23:45:19.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
