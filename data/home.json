@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-25T14:47:30.061Z",
-  "updated_local": "10/25/2026, 2:47:30 PM",
+  "updated_iso": "2026-10-25T18:06:26.650Z",
+  "updated_local": "10/25/2026, 6:06:26 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
+        "url": "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks",
+        "source": "crypto",
+        "time": "Sun, 25 Oct 2026 16:01:03 +0000"
+      },
       {
         "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
         "url": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
@@ -26,32 +32,26 @@
         "url": "https://decrypt.co/381674/game-publishers-have-pushed-to-cut-discs-since-2007-infinity-ward-veteran-says",
         "source": "crypto",
         "time": "Sat, 24 Oct 2026 15:01:02 +0000"
-      },
-      {
-        "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
-        "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
-        "source": "crypto",
-        "time": "Sat, 24 Oct 2026 13:01:02 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Tool book of a Nuremberg knight from 1505",
-        "url": "https://loeffelholz-codex.org/en/",
+        "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+        "url": "https://lynchlab.net/llm-skin-cancer",
         "source": "hn",
-        "time": "10/25/2026, 12:37:54 PM"
+        "time": "10/25/2026, 5:15:38 PM"
       },
       {
-        "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
-        "url": "https://github.com/winnin/farol",
+        "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+        "url": "https://talkweb.eu/openweb/4558/",
         "source": "hn",
-        "time": "10/25/2026, 1:28:06 PM"
+        "time": "10/25/2026, 5:30:55 PM"
       },
       {
-        "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-        "url": "https://github.com/ihhub/fheroes2",
+        "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
+        "url": "https://www.youtube.com/watch?v=46wxttvq9qY",
         "source": "hn",
-        "time": "10/25/2026, 11:09:12 AM"
+        "time": "10/24/2026, 5:42:08 PM"
       },
       {
         "title": "We should be more ambitious with the software we build",
@@ -60,19 +60,13 @@
         "time": "10/24/2026, 9:47:31 PM"
       },
       {
-        "title": "Cerebras Deploys Trillion-Parameter AI Models",
-        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+        "title": "Sabre Wulf Remastered",
+        "url": "https://gp-64.com/swr/",
         "source": "hn",
-        "time": "10/25/2026, 1:33:49 AM"
+        "time": "10/25/2026, 5:15:16 PM"
       }
     ],
     "world": [
-      {
-        "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-        "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 25 Oct 2026 09:00:00 GMT"
-      },
       {
         "title": "Burnham open to 'honest discussion' on EU free movement",
         "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&amp;at_campaign=rss",
@@ -86,16 +80,22 @@
         "time": "Sun, 25 Oct 2026 14:38:51 GMT"
       },
       {
-        "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-        "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Venezuelan opposition leader María Machado returns after months in exile",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 25 Oct 2026 11:54:16 GMT"
+        "time": "Sun, 25 Oct 2026 16:21:40 GMT"
       },
       {
-        "title": "Meghan broke contact with father in letter citing abuse claims",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Why the charts are full of old songs - and so are your playlists",
+        "url": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 25 Oct 2026 08:05:31 GMT"
+        "time": "Sat, 24 Oct 2026 23:05:41 GMT"
+      },
+      {
+        "title": "Early reports suggest record high turnout in Serbia elections",
+        "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 25 Oct 2026 16:05:15 GMT"
       }
     ],
     "projects": [
