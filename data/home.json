@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-25T10:42:25.255Z",
-  "updated_local": "10/25/2026, 10:42:25 AM",
+  "updated_iso": "2026-10-25T14:13:54.828Z",
+  "updated_local": "10/25/2026, 2:13:54 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
+        "url": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
+        "source": "crypto",
+        "time": "Sun, 25 Oct 2026 14:01:03 +0000"
+      },
       {
         "title": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
         "url": "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads",
@@ -26,20 +32,26 @@
         "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
         "source": "crypto",
         "time": "Sat, 24 Oct 2026 13:01:02 +0000"
-      },
-      {
-        "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
-        "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
-        "source": "crypto",
-        "time": "Fri, 23 Oct 2026 21:16:03 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-        "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+        "title": "Tool book of a Nuremberg knight from 1505",
+        "url": "https://loeffelholz-codex.org/en/",
         "source": "hn",
-        "time": "10/25/2026, 9:00:40 AM"
+        "time": "10/25/2026, 12:37:54 PM"
+      },
+      {
+        "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+        "url": "https://github.com/ihhub/fheroes2",
+        "source": "hn",
+        "time": "10/25/2026, 11:09:12 AM"
+      },
+      {
+        "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
+        "url": "https://github.com/winnin/farol",
+        "source": "hn",
+        "time": "10/25/2026, 1:28:06 PM"
       },
       {
         "title": "We should be more ambitious with the software we build",
@@ -52,27 +64,9 @@
         "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
         "source": "hn",
         "time": "10/25/2026, 1:33:49 AM"
-      },
-      {
-        "title": "How Japanese Dried Bonito Is Made",
-        "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-        "source": "hn",
-        "time": "10/22/2026, 11:31:03 AM"
-      },
-      {
-        "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
-        "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
-        "source": "hn",
-        "time": "10/25/2026, 9:56:49 AM"
       }
     ],
     "world": [
-      {
-        "title": "Meghan broke contact with father in letter citing abuse claims",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 25 Oct 2026 08:05:31 GMT"
-      },
       {
         "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
         "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss",
@@ -83,19 +77,25 @@
         "title": "Burnham open to 'honest discussion' on EU free movement",
         "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 25 Oct 2026 00:33:19 GMT"
+        "time": "Sun, 25 Oct 2026 12:11:23 GMT"
       },
       {
-        "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-        "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Couple were celebrating anniversary before Bahamas tragedy",
+        "url": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 25 Oct 2026 06:00:15 GMT"
+        "time": "Sun, 25 Oct 2026 13:22:31 GMT"
       },
       {
-        "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+        "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 25 Oct 2026 10:38:15 GMT"
+        "time": "Sun, 25 Oct 2026 11:54:16 GMT"
+      },
+      {
+        "title": "Meghan broke contact with father in letter citing abuse claims",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 25 Oct 2026 08:05:31 GMT"
       }
     ],
     "projects": [
