@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-26T00:53:57.797Z"
+    "built_at": "2026-10-26T05:38:43.435Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Og.video – generate og:video tags that make iMessage previews fun [free/OSS]",
+      "url": "https://og.video/",
+      "date": "2026-10-26T05:36:40.000Z"
+    },
+    {
+      "title": "Show HN: An open-source office suite with built-in MCP",
+      "url": "https://github.com/freeflow-im/mcp-docs",
+      "date": "2026-10-26T05:34:23.000Z"
+    }
+  ]
 }
