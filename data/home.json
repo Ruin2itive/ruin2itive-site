@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-26T05:57:18.756Z",
-  "updated_local": "10/26/2026, 5:57:18 AM",
+  "updated_iso": "2026-10-26T09:41:06.549Z",
+  "updated_local": "10/26/2026, 9:41:06 AM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Switzerland. Block by block. At 1:1 scale",
+        "url": "https://blocks.manifold3d.ch/",
+        "source": "hn",
+        "time": "10/26/2026, 8:46:09 AM"
+      },
+      {
         "title": "Show HN: TitleArt – Make text like it's 1997",
         "url": "https://titleart.dvy.io/",
         "source": "hn",
         "time": "10/26/2026, 3:23:57 AM"
+      },
+      {
+        "title": "The result of the C++26 DIS ballot",
+        "url": "https://train-it.eu/blog/cpp26-contracts-the-ballot-result/",
+        "source": "hn",
+        "time": "10/26/2026, 6:11:52 AM"
       },
       {
         "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
@@ -52,18 +64,6 @@
         "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
         "source": "hn",
         "time": "10/26/2026, 3:31:11 AM"
-      },
-      {
-        "title": "Dolly Parton's Imagination Library",
-        "url": "https://imaginationlibrary.com/",
-        "source": "hn",
-        "time": "10/25/2026, 6:23:54 PM"
-      },
-      {
-        "title": "Show HN: A Truly Modular Keyboard",
-        "url": "https://github.com/notaroomba/keybytes",
-        "source": "hn",
-        "time": "10/25/2026, 3:47:56 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Mon, 26 Oct 2026 02:53:00 GMT"
       },
       {
-        "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
-        "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Clean-up under way as Storm Boelo leaves 90,000 without power",
+        "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 26 Oct 2026 04:41:36 GMT"
+        "time": "Mon, 26 Oct 2026 09:23:40 GMT"
       },
       {
         "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
         "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 26 Oct 2026 01:07:05 GMT"
+        "time": "Mon, 26 Oct 2026 09:04:47 GMT"
+      },
+      {
+        "title": "Knighting Sinfield 'easiest decision anyone's had to make,' says Prince William",
+        "url": "https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 26 Oct 2026 06:00:04 GMT"
       },
       {
         "title": "Faisal Islam: Healey's Budget needs to sustain the stronger economy through gathering clouds",
         "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 26 Oct 2026 00:26:49 GMT"
-      },
-      {
-        "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
-        "url": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 25 Oct 2026 22:37:36 GMT"
       }
     ],
     "projects": [
