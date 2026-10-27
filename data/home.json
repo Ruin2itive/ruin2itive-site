@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-27T13:56:31.441Z",
-  "updated_local": "10/27/2026, 1:56:31 PM",
+  "updated_iso": "2026-10-27T16:22:56.958Z",
+  "updated_local": "10/27/2026, 4:22:56 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "McDonald&#39;s McRib Doesn&#39;t Actually Boost Bitcoin&#39;s Price, Sorry Everyone",
+        "url": "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
+        "source": "crypto",
+        "time": "Tue, 27 Oct 2026 14:31:02 +0000"
+      },
       {
         "title": "Polymarket Has Investigated &#39;Dozens&#39; of Midterm Election Bets: Report",
         "url": "https://decrypt.co/381936/polymarket-has-investigated-dozens-of-midterm-election-bets-report",
@@ -26,20 +32,20 @@
         "url": "https://decrypt.co/381906/why-this-team-of-ninjas-is-tripling-down-on-mining-bitcoin",
         "source": "crypto",
         "time": "Tue, 27 Oct 2026 11:46:51 +0000"
-      },
-      {
-        "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
-        "url": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
-        "source": "crypto",
-        "time": "Tue, 27 Oct 2026 10:16:46 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
-        "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+        "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+        "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
         "source": "hn",
-        "time": "10/27/2026, 10:27:50 AM"
+        "time": "10/27/2026, 1:52:12 PM"
+      },
+      {
+        "title": "Genie 4",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "source": "hn",
+        "time": "10/27/2026, 4:06:01 PM"
       },
       {
         "title": "Python's experimental JIT to be removed",
@@ -48,22 +54,16 @@
         "time": "10/27/2026, 11:17:57 AM"
       },
       {
-        "title": "Wikipedia's Cleanup of AI-Generated Content",
-        "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-        "source": "hn",
-        "time": "10/27/2026, 11:08:15 AM"
-      },
-      {
         "title": "AI promised less work. I've never worked more",
         "url": "https://oioannou.com/blog/ai-promised-less-work/",
         "source": "hn",
         "time": "10/27/2026, 11:08:14 AM"
       },
       {
-        "title": "Wiz: No successful PHP2Shell exploits seen so far; exposure down 67%",
-        "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+        "title": "Wikipedia's Cleanup of AI-Generated Content",
+        "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
         "source": "hn",
-        "time": "10/27/2026, 1:52:12 PM"
+        "time": "10/27/2026, 11:08:15 AM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
         "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 27 Oct 2026 13:18:37 GMT"
+        "time": "Tue, 27 Oct 2026 15:01:27 GMT"
       },
       {
         "title": "Two charged over alleged plot to assist Iran in RAF Fairford incident",
@@ -80,7 +80,7 @@
         "time": "Tue, 27 Oct 2026 12:50:14 GMT"
       },
       {
-        "title": "Turnout so far at record levels as Israelis vote in pivotal election",
+        "title": "Turnout so far highest on record as Israelis vote in pivotal election",
         "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 27 Oct 2026 11:11:33 GMT"
@@ -92,10 +92,10 @@
         "time": "Tue, 27 Oct 2026 10:17:36 GMT"
       },
       {
-        "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-        "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Men abused woman after her husband drugged and advertised her online, court told",
+        "url": "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 27 Oct 2026 13:25:54 GMT"
+        "time": "Tue, 27 Oct 2026 14:28:16 GMT"
       }
     ],
     "projects": [
