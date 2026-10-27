@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-26T23:43:04.526Z",
-  "updated_local": "10/26/2026, 11:43:04 PM",
+  "updated_iso": "2026-10-27T01:06:34.024Z",
+  "updated_local": "10/27/2026, 1:06:34 AM",
   "sections": {
     "crypto": [
       {
@@ -36,7 +36,7 @@
     ],
     "hacker": [
       {
-        "title": "Working with academic communities to build scientific understanding",
+        "title": "Announcing three new discoveries in mathematics, computer science, and physics",
         "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
         "source": "hn",
         "time": "10/26/2026, 9:35:28 PM"
@@ -48,30 +48,42 @@
         "time": "10/26/2026, 9:59:15 PM"
       },
       {
-        "title": "CorridorKey 2.0",
-        "url": "https://corridorkey.com/",
-        "source": "hn",
-        "time": "10/26/2026, 9:18:05 PM"
-      },
-      {
-        "title": "Just Imagining a Workout Can Make You Stronger",
-        "url": "https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068",
-        "source": "hn",
-        "time": "10/26/2026, 11:08:27 PM"
-      },
-      {
         "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
         "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
         "source": "hn",
         "time": "10/26/2026, 3:11:59 PM"
+      },
+      {
+        "title": "Type Server Protocol",
+        "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+        "source": "hn",
+        "time": "10/26/2026, 6:14:49 PM"
+      },
+      {
+        "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+        "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+        "source": "hn",
+        "time": "10/26/2026, 10:41:48 PM"
       }
     ],
     "world": [
       {
-        "title": "Independent review announced into murder of student Henry Nowak",
-        "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 26 Oct 2026 16:15:16 GMT"
+        "time": "Mon, 26 Oct 2026 23:10:59 GMT"
+      },
+      {
+        "title": "Chris Mason: Budget is imminent as tricky issues pile up for Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 26 Oct 2026 23:03:14 GMT"
+      },
+      {
+        "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+        "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 26 Oct 2026 22:30:02 GMT"
       },
       {
         "title": "Israel and the US are both going to the polls - the consequences will be global",
@@ -84,18 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 26 Oct 2026 15:39:39 GMT"
-      },
-      {
-        "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
-        "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 26 Oct 2026 22:43:44 GMT"
-      },
-      {
-        "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-        "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 26 Oct 2026 15:37:33 GMT"
       }
     ],
     "projects": [
