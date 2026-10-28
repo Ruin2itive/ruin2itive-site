@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-28T03:18:43.556Z"
+    "built_at": "2026-10-28T10:12:30.213Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Cirkit – Annotate, Trace, and Ask AI About Schematic PDFs",
-      "url": "https://www.cirkit.us/demo/",
-      "date": "2026-10-28T03:09:20.000Z"
-    },
-    {
-      "title": "Show HN: How to Make AI UGC Ads in 2026 Using an AI Video Generator",
-      "url": "https://www.aivideosugc.com/",
-      "date": "2026-10-28T03:09:03.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
