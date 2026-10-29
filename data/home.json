@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-10-28T21:34:15.715Z",
-  "updated_local": "10/28/2026, 9:34:15 PM",
+  "updated_iso": "2026-10-29T00:45:15.922Z",
+  "updated_local": "10/29/2026, 12:45:15 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
+        "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
+        "source": "crypto",
+        "time": "Wed, 28 Oct 2026 21:46:02 +0000"
+      },
       {
         "title": "Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply",
         "url": "https://decrypt.co/382114/sk-hynix-record-quarter-ai-memory-demand",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
         "source": "crypto",
         "time": "Wed, 28 Oct 2026 19:16:02 +0000"
-      },
-      {
-        "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
-        "url": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
-        "source": "crypto",
-        "time": "Wed, 28 Oct 2026 18:25:18 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "10/28/2026, 5:13:29 PM"
       },
       {
-        "title": "Formlabs Studio 1 $699 Resin Printer",
-        "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+        "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+        "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
         "source": "hn",
-        "time": "10/28/2026, 9:19:30 PM"
+        "time": "10/28/2026, 11:45:46 PM"
       },
       {
-        "title": "Gemini 4 Carbon",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+        "title": "StackOverflow now gets fewer than 1000 questions a month",
+        "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
         "source": "hn",
-        "time": "10/28/2026, 5:01:23 PM"
+        "time": "10/28/2026, 11:35:02 PM"
       },
       {
         "title": "CNC Stone Carving",
@@ -60,10 +60,10 @@
         "time": "10/28/2026, 2:38:22 PM"
       },
       {
-        "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-        "url": "https://surgehq.ai/blog/dayjob-tax",
+        "title": "A Health Update",
+        "url": "https://furbo.org/2026/10/28/a-health-update/",
         "source": "hn",
-        "time": "10/28/2026, 3:46:30 PM"
+        "time": "10/28/2026, 9:13:21 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Wed, 28 Oct 2026 18:45:09 GMT"
       },
       {
-        "title": "Key points at a glance",
+        "title": "Budget key points at a glance",
         "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 28 Oct 2026 16:55:27 GMT"
       },
       {
-        "title": "Chris Mason: Budget felt cautious despite its range of small measures",
-        "url": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "High-speed train crash kills at least 68 people in Spain",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 28 Oct 2026 16:52:16 GMT"
+        "time": "Wed, 28 Oct 2026 21:38:54 GMT"
       },
       {
-        "title": "The main announcements from the Budget - and how they will be funded",
-        "url": "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: At the scene of Spain's deadly train crash",
+        "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 28 Oct 2026 16:12:57 GMT"
+        "time": "Wed, 28 Oct 2026 16:45:16 GMT"
       },
       {
-        "title": "How the Budget affects you",
-        "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 28 Oct 2026 16:43:35 GMT"
+        "time": "Wed, 28 Oct 2026 20:24:39 GMT"
       }
     ],
     "projects": [
