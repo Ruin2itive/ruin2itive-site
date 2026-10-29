@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-29T00:45:15.922Z",
-  "updated_local": "10/29/2026, 12:45:15 AM",
+  "updated_iso": "2026-10-29T01:31:24.492Z",
+  "updated_local": "10/29/2026, 1:31:24 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+        "url": "https://divagr.com/blog/qwenputer",
+        "source": "hn",
+        "time": "10/29/2026, 12:25:45 AM"
+      },
+      {
         "title": "Why is this fingerprinting script creating bioweapons?",
         "url": "https://nullpt.rs/fingerprinting-bioweapons",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "10/28/2026, 11:45:46 PM"
       },
       {
-        "title": "StackOverflow now gets fewer than 1000 questions a month",
-        "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+        "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+        "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
         "source": "hn",
-        "time": "10/28/2026, 11:35:02 PM"
+        "time": "10/29/2026, 12:16:08 AM"
       },
       {
-        "title": "CNC Stone Carving",
-        "url": "https://carmelitegothic.com/cnc-stone-carving/",
+        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+        "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
         "source": "hn",
-        "time": "10/28/2026, 2:38:22 PM"
-      },
-      {
-        "title": "A Health Update",
-        "url": "https://furbo.org/2026/10/28/a-health-update/",
-        "source": "hn",
-        "time": "10/28/2026, 9:13:21 PM"
+        "time": "10/29/2026, 12:30:37 AM"
       }
     ],
     "world": [
@@ -74,10 +74,10 @@
         "time": "Wed, 28 Oct 2026 18:45:09 GMT"
       },
       {
-        "title": "Budget key points at a glance",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 28 Oct 2026 16:55:27 GMT"
+        "time": "Thu, 29 Oct 2026 00:00:25 GMT"
       },
       {
         "title": "High-speed train crash kills at least 68 people in Spain",
@@ -86,16 +86,16 @@
         "time": "Wed, 28 Oct 2026 21:38:54 GMT"
       },
       {
-        "title": "Watch: At the scene of Spain's deadly train crash",
-        "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 28 Oct 2026 16:45:16 GMT"
-      },
-      {
         "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
         "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 28 Oct 2026 20:24:39 GMT"
+      },
+      {
+        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 29 Oct 2026 01:14:01 GMT"
       }
     ],
     "projects": [
