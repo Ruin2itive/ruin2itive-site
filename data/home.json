@@ -1,40 +1,58 @@
 {
-  "updated_iso": "2026-10-29T08:00:11.104Z",
-  "updated_local": "10/29/2026, 8:00:11 AM",
+  "updated_iso": "2026-10-29T14:05:36.524Z",
+  "updated_local": "10/29/2026, 2:05:36 PM",
   "sections": {
     "crypto": [
       {
-        "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-        "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
+        "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
+        "url": "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana",
         "source": "crypto",
-        "time": "Wed, 28 Oct 2026 21:46:02 +0000"
+        "time": "Thu, 29 Oct 2026 13:01:02 +0000"
       },
       {
-        "title": "Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply",
-        "url": "https://decrypt.co/382114/sk-hynix-record-quarter-ai-memory-demand",
+        "title": "Justin Sun&#39;s HTX Agrees to Leave UK in Settlement With Financial Watchdog",
+        "url": "https://decrypt.co/382138/justin-suns-htx-agrees-to-leave-uk-in-settlement-with-financial-watchdog",
         "source": "crypto",
-        "time": "Wed, 28 Oct 2026 21:16:03 +0000"
+        "time": "Thu, 29 Oct 2026 12:58:28 +0000"
       },
       {
-        "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
-        "url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
+        "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
+        "url": "https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in",
         "source": "crypto",
-        "time": "Wed, 28 Oct 2026 20:16:03 +0000"
+        "time": "Thu, 29 Oct 2026 12:30:38 +0000"
       },
       {
-        "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
-        "url": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
+        "title": "Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto",
+        "url": "https://decrypt.co/382132/treasury-sanctions-11-over-north-korean-it-worker-scheme-that-moved-millions-in-crypto",
         "source": "crypto",
-        "time": "Wed, 28 Oct 2026 19:46:03 +0000"
+        "time": "Thu, 29 Oct 2026 11:32:51 +0000"
       },
       {
-        "title": "OpenAI Plans to Buy Google&#39;s AI Chips as It Looks Beyond Nvidia: Report",
-        "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+        "title": "Utah Files Felony Charges Against Kalshi, Co-Founders Over Sports Bets",
+        "url": "https://decrypt.co/382124/utah-files-felony-charges-against-kalshi-co-founders-over-sports-bets",
         "source": "crypto",
-        "time": "Wed, 28 Oct 2026 19:16:02 +0000"
+        "time": "Thu, 29 Oct 2026 11:06:40 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+        "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+        "source": "hn",
+        "time": "10/29/2026, 12:41:56 PM"
+      },
+      {
+        "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
+        "url": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
+        "source": "hn",
+        "time": "10/29/2026, 1:40:04 PM"
+      },
+      {
+        "title": "NetBSD adds a new beginner-friendly text editor called atto",
+        "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+        "source": "hn",
+        "time": "10/29/2026, 11:59:01 AM"
+      },
       {
         "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
         "url": "https://divagr.com/blog/qwenputer",
@@ -42,60 +60,42 @@
         "time": "10/29/2026, 12:25:45 AM"
       },
       {
-        "title": "Why is this fingerprinting script creating bioweapons?",
-        "url": "https://nullpt.rs/fingerprinting-bioweapons",
+        "title": "Zero click, silent, remote Android DoS",
+        "url": "https://smsofdeath.com/",
         "source": "hn",
-        "time": "10/28/2026, 5:13:29 PM"
-      },
-      {
-        "title": "We Won't \"Just Hang Out\"",
-        "url": "https://borretti.me/article/we-wont-just-hang-out",
-        "source": "hn",
-        "time": "10/29/2026, 6:20:06 AM"
-      },
-      {
-        "title": "A new faster algorithm to compute 64-bit signed floor division",
-        "url": "https://www.benjoffe.com/fast-floordiv",
-        "source": "hn",
-        "time": "10/27/2026, 9:13:12 AM"
-      },
-      {
-        "title": "A Health Update",
-        "url": "https://furbo.org/2026/10/28/a-health-update/",
-        "source": "hn",
-        "time": "10/28/2026, 9:13:21 PM"
+        "time": "10/29/2026, 7:08:50 AM"
       }
     ],
     "world": [
       {
-        "title": "Healey promises reduction in welfare bill before next election",
+        "title": "Treasury will not commit to reducing welfare bill before next election",
         "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 29 Oct 2026 05:57:01 GMT"
+        "time": "Thu, 29 Oct 2026 10:41:50 GMT"
       },
       {
-        "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-        "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 29 Oct 2026 00:00:25 GMT"
-      },
-      {
-        "title": "Spain begins three days of mourning after train crash kills dozens",
+        "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
         "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 29 Oct 2026 03:51:05 GMT"
+        "time": "Thu, 29 Oct 2026 11:07:35 GMT"
       },
       {
-        "title": "Ofcom outlines ways social media can verify ages of users",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+        "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 29 Oct 2026 05:57:15 GMT"
+        "time": "Thu, 29 Oct 2026 12:52:50 GMT"
       },
       {
-        "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Serious pollution by water industry remains high despite £5bn investment",
+        "url": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 29 Oct 2026 01:14:01 GMT"
+        "time": "Thu, 29 Oct 2026 12:08:01 GMT"
+      },
+      {
+        "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+        "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 29 Oct 2026 13:25:07 GMT"
       }
     ],
     "projects": [
