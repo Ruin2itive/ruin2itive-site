@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-29T06:55:29.432Z",
-  "updated_local": "10/29/2026, 6:55:29 AM",
+  "updated_iso": "2026-10-29T08:00:11.104Z",
+  "updated_local": "10/29/2026, 8:00:11 AM",
   "sections": {
     "crypto": [
       {
@@ -48,25 +48,31 @@
         "time": "10/28/2026, 5:13:29 PM"
       },
       {
+        "title": "We Won't \"Just Hang Out\"",
+        "url": "https://borretti.me/article/we-wont-just-hang-out",
+        "source": "hn",
+        "time": "10/29/2026, 6:20:06 AM"
+      },
+      {
         "title": "A new faster algorithm to compute 64-bit signed floor division",
         "url": "https://www.benjoffe.com/fast-floordiv",
         "source": "hn",
         "time": "10/27/2026, 9:13:12 AM"
       },
       {
-        "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-        "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "title": "A Health Update",
+        "url": "https://furbo.org/2026/10/28/a-health-update/",
         "source": "hn",
-        "time": "10/28/2026, 11:45:46 PM"
-      },
-      {
-        "title": "Claude Code regularly sends each background agent’s transcript to its model",
-        "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-        "source": "hn",
-        "time": "10/29/2026, 3:33:42 AM"
+        "time": "10/28/2026, 9:13:21 PM"
       }
     ],
     "world": [
+      {
+        "title": "Healey promises reduction in welfare bill before next election",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 29 Oct 2026 05:57:01 GMT"
+      },
       {
         "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
         "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 29 Oct 2026 01:14:01 GMT"
-      },
-      {
-        "title": "Watch: How did Flávio Bolsonaro end up in Miami?",
-        "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 28 Oct 2026 18:51:05 GMT"
       }
     ],
     "projects": [
