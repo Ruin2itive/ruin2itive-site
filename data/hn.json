@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-28T21:27:45.207Z"
+    "built_at": "2026-10-29T01:26:43.264Z"
   },
-  "items": [
-    {
-      "title": "An Ode to OMP",
-      "url": "https://probsteide.com/notes/oh-my-pi.html",
-      "date": "2026-10-28T21:25:25.000Z"
-    },
-    {
-      "title": "Show HN: ~, An open-source agent registry",
-      "url": "https://github.com/trytilde/tilde",
-      "date": "2026-10-28T21:25:24.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
