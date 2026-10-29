@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-29T01:31:24.492Z",
-  "updated_local": "10/29/2026, 1:31:24 AM",
+  "updated_iso": "2026-10-29T06:55:29.432Z",
+  "updated_local": "10/29/2026, 6:55:29 AM",
   "sections": {
     "crypto": [
       {
@@ -48,31 +48,25 @@
         "time": "10/28/2026, 5:13:29 PM"
       },
       {
+        "title": "A new faster algorithm to compute 64-bit signed floor division",
+        "url": "https://www.benjoffe.com/fast-floordiv",
+        "source": "hn",
+        "time": "10/27/2026, 9:13:12 AM"
+      },
+      {
         "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
         "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
         "source": "hn",
         "time": "10/28/2026, 11:45:46 PM"
       },
       {
-        "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
-        "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+        "title": "Claude Code regularly sends each background agent’s transcript to its model",
+        "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
         "source": "hn",
-        "time": "10/29/2026, 12:16:08 AM"
-      },
-      {
-        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-        "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-        "source": "hn",
-        "time": "10/29/2026, 12:30:37 AM"
+        "time": "10/29/2026, 3:33:42 AM"
       }
     ],
     "world": [
-      {
-        "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 28 Oct 2026 18:45:09 GMT"
-      },
       {
         "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
         "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +74,28 @@
         "time": "Thu, 29 Oct 2026 00:00:25 GMT"
       },
       {
-        "title": "High-speed train crash kills at least 68 people in Spain",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Spain begins three days of mourning after train crash kills dozens",
+        "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 28 Oct 2026 21:38:54 GMT"
+        "time": "Thu, 29 Oct 2026 03:51:05 GMT"
       },
       {
-        "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ofcom outlines ways social media can verify ages of users",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 28 Oct 2026 20:24:39 GMT"
+        "time": "Thu, 29 Oct 2026 05:57:15 GMT"
       },
       {
         "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
         "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 29 Oct 2026 01:14:01 GMT"
+      },
+      {
+        "title": "Watch: How did Flávio Bolsonaro end up in Miami?",
+        "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 28 Oct 2026 18:51:05 GMT"
       }
     ],
     "projects": [
