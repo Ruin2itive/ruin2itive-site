@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-30T22:53:49.236Z",
-  "updated_local": "10/30/2026, 10:53:49 PM",
+  "updated_iso": "2026-10-30T23:36:21.417Z",
+  "updated_local": "10/30/2026, 11:36:21 PM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
-        "title": "Linode Security Incident",
-        "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
-        "source": "hn",
-        "time": "10/30/2026, 9:57:40 PM"
-      },
-      {
-        "title": "Bunny CDN Security Incident",
-        "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
-        "source": "hn",
-        "time": "10/30/2026, 7:05:22 PM"
-      },
-      {
         "title": "My favourite PowerMac is a Nintendo Wii",
         "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
         "source": "hn",
         "time": "10/30/2026, 5:25:15 PM"
       },
       {
-        "title": "France is getting download tax for content providers (€0.055/GB)",
-        "url": "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/",
+        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
         "source": "hn",
-        "time": "10/30/2026, 10:10:12 PM"
+        "time": "10/30/2026, 7:09:12 AM"
       },
       {
-        "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+        "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
         "url": "https://www.firezone.dev/blog/introducing-sanstun",
         "source": "hn",
         "time": "10/30/2026, 9:30:00 PM"
+      },
+      {
+        "title": "Northflank Breached",
+        "url": "https://status.northflank.com",
+        "source": "hn",
+        "time": "10/30/2026, 3:10:31 PM"
+      },
+      {
+        "title": "Jules Verne's Lost Novel",
+        "url": "https://blue-continuum.com/verne-paris",
+        "source": "hn",
+        "time": "10/30/2026, 7:55:10 PM"
       }
     ],
     "world": [
