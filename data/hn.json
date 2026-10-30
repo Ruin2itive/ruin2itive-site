@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-30T10:38:04.548Z"
+    "built_at": "2026-10-30T16:53:53.577Z"
   },
-  "items": [
-    {
-      "title": "Learning with Errors",
-      "url": "https://en.wikipedia.org/wiki/Learning_with_errors",
-      "date": "2026-10-30T10:37:41.000Z"
-    },
-    {
-      "title": "What inference engine and KV offload engine do you use and why?",
-      "url": "https://news.ycombinator.com/item?id=50302109",
-      "date": "2026-10-30T10:37:04.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
