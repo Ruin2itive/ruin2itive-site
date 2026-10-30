@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-29T23:50:17.182Z"
+    "built_at": "2026-10-30T03:45:40.096Z"
   },
-  "items": [
-    {
-      "title": "A Little Determinism",
-      "url": "https://cra.mr/a-little-determinism/",
-      "date": "2026-10-29T23:49:44.000Z"
-    },
-    {
-      "title": "Critical TCP use-after-free: CVE-2026-98432",
-      "url": "https://www.rescana.com/post/linux-kernel-tcp-cve-2026-98432-use-after-free-prepare-now",
-      "date": "2026-10-29T23:48:32.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
