@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-31T19:42:37.903Z",
-  "updated_local": "10/31/2026, 7:42:37 PM",
+  "updated_iso": "2026-10-31T21:21:53.187Z",
+  "updated_local": "10/31/2026, 9:21:53 PM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-        "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+        "title": "HackerTube: YouTube built from videos recommended by HN",
+        "url": "https://karpathy.bearblog.dev/hacker-tube/",
         "source": "hn",
-        "time": "10/31/2026, 6:50:34 PM"
+        "time": "10/31/2026, 7:56:53 PM"
+      },
+      {
+        "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+        "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+        "source": "hn",
+        "time": "10/31/2026, 7:16:30 PM"
+      },
+      {
+        "title": "It's the Memory Latency, Stupid",
+        "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+        "source": "hn",
+        "time": "10/31/2026, 6:38:16 PM"
       },
       {
         "title": "The Duty of a Scholar",
@@ -48,42 +60,30 @@
         "time": "10/31/2026, 7:07:36 PM"
       },
       {
-        "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-        "url": "https://piefed.world/post/1503394",
+        "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+        "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
         "source": "hn",
-        "time": "10/31/2026, 10:23:41 AM"
-      },
-      {
-        "title": "Jepsen: ParticleDB 1.1.4",
-        "url": "https://jepsen.io/analyses/particledb-1.1.4",
-        "source": "hn",
-        "time": "10/31/2026, 1:39:52 PM"
-      },
-      {
-        "title": "It's the Memory Latency, Stupid",
-        "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-        "source": "hn",
-        "time": "10/31/2026, 6:38:16 PM"
+        "time": "10/31/2026, 8:46:39 PM"
       }
     ],
     "world": [
       {
-        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
         "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 31 Oct 2026 19:22:26 GMT"
       },
       {
-        "title": "Emotional reunions with loved ones for Oleshky evacuees",
-        "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 31 Oct 2026 16:55:47 GMT"
-      },
-      {
-        "title": "Healey risks breaking minimum wage promise for younger workers",
+        "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
         "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 31 Oct 2026 17:26:29 GMT"
+      },
+      {
+        "title": "Clashes erupt between police and protesters in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 31 Oct 2026 19:37:43 GMT"
       },
       {
         "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
