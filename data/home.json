@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-30T23:36:21.417Z",
-  "updated_local": "10/30/2026, 11:36:21 PM",
+  "updated_iso": "2026-10-31T01:59:50.116Z",
+  "updated_local": "10/31/2026, 1:59:50 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+        "url": "https://tng.episodle.com/",
+        "source": "hn",
+        "time": "10/30/2026, 11:51:24 PM"
+      },
+      {
+        "title": "Cloudflare Turnstile solver library (no headless browser required)",
+        "url": "https://github.com/chris124567/cfsolve",
+        "source": "hn",
+        "time": "10/28/2026, 5:29:23 PM"
+      },
+      {
         "title": "My favourite PowerMac is a Nintendo Wii",
         "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
         "source": "hn",
@@ -48,22 +60,10 @@
         "time": "10/30/2026, 7:09:12 AM"
       },
       {
-        "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
-        "url": "https://www.firezone.dev/blog/introducing-sanstun",
-        "source": "hn",
-        "time": "10/30/2026, 9:30:00 PM"
-      },
-      {
         "title": "Northflank Breached",
         "url": "https://status.northflank.com",
         "source": "hn",
         "time": "10/30/2026, 3:10:31 PM"
-      },
-      {
-        "title": "Jules Verne's Lost Novel",
-        "url": "https://blue-continuum.com/verne-paris",
-        "source": "hn",
-        "time": "10/30/2026, 7:55:10 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "US approves sale of 500 Patriot missiles to Ukraine",
         "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 30 Oct 2026 22:20:52 GMT"
+        "time": "Sat, 31 Oct 2026 00:40:43 GMT"
       },
       {
         "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
@@ -95,7 +95,7 @@
         "title": "Police deployed during stand-off over control of top Poland court",
         "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 30 Oct 2026 20:52:01 GMT"
+        "time": "Sat, 31 Oct 2026 01:11:43 GMT"
       }
     ],
     "projects": [
