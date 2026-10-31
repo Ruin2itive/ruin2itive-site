@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-10-31T17:37:06.898Z",
-  "updated_local": "10/31/2026, 5:37:06 PM",
+  "updated_iso": "2026-10-31T19:42:37.903Z",
+  "updated_local": "10/31/2026, 7:42:37 PM",
   "sections": {
     "crypto": [
       {
@@ -36,10 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "Malware uses LLMs to rank victims by how much they're worth",
-        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+        "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+        "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
         "source": "hn",
-        "time": "10/31/2026, 2:29:03 PM"
+        "time": "10/31/2026, 6:50:34 PM"
+      },
+      {
+        "title": "The Duty of a Scholar",
+        "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+        "source": "hn",
+        "time": "10/31/2026, 7:07:36 PM"
       },
       {
         "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
@@ -48,30 +54,24 @@
         "time": "10/31/2026, 10:23:41 AM"
       },
       {
-        "title": "We Took over ChatGPT Accounts",
-        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+        "title": "Jepsen: ParticleDB 1.1.4",
+        "url": "https://jepsen.io/analyses/particledb-1.1.4",
         "source": "hn",
-        "time": "10/31/2026, 10:30:11 AM"
+        "time": "10/31/2026, 1:39:52 PM"
       },
       {
-        "title": "A/SIDE – Private photo sharing and encrypted messages",
-        "url": "https://a-side.social/",
+        "title": "It's the Memory Latency, Stupid",
+        "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
         "source": "hn",
-        "time": "10/31/2026, 4:16:20 PM"
-      },
-      {
-        "title": "Casio Watches of the 1980s",
-        "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
-        "source": "hn",
-        "time": "10/31/2026, 4:00:48 PM"
+        "time": "10/31/2026, 6:38:16 PM"
       }
     ],
     "world": [
       {
-        "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+        "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 31 Oct 2026 15:50:41 GMT"
+        "time": "Sat, 31 Oct 2026 19:22:26 GMT"
       },
       {
         "title": "Emotional reunions with loved ones for Oleshky evacuees",
