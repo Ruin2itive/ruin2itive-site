@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-01T04:22:49.425Z",
-  "updated_local": "11/1/2026, 4:22:49 AM",
+  "updated_iso": "2026-11-01T07:19:36.011Z",
+  "updated_local": "11/1/2026, 7:19:36 AM",
   "sections": {
     "crypto": [
       {
@@ -48,6 +48,12 @@
         "time": "10/31/2026, 10:41:06 PM"
       },
       {
+        "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+        "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+        "source": "hn",
+        "time": "11/1/2026, 2:19:53 AM"
+      },
+      {
         "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
         "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
         "source": "hn",
         "time": "10/31/2026, 10:46:12 PM"
-      },
-      {
-        "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-        "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-        "source": "hn",
-        "time": "11/1/2026, 2:19:53 AM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Shops looted as German cost of living protests turn violent",
         "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 01 Nov 2026 01:59:57 GMT"
+        "time": "Sun, 01 Nov 2026 07:05:50 GMT"
       },
       {
         "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
@@ -80,22 +80,22 @@
         "time": "Sat, 31 Oct 2026 17:26:29 GMT"
       },
       {
-        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-        "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Emotional reunions for Oleshky evacuees after years in Russia-occupied city",
+        "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 31 Oct 2026 19:22:26 GMT"
+        "time": "Sat, 31 Oct 2026 16:55:47 GMT"
+      },
+      {
+        "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 01 Nov 2026 06:03:57 GMT"
       },
       {
         "title": "Reeves says UK's future should be inside the EU",
         "url": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 01 Nov 2026 02:57:34 GMT"
-      },
-      {
-        "title": "Who are the real winners of Celebrity Traitors?",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 01 Nov 2026 00:06:01 GMT"
       }
     ],
     "projects": [
