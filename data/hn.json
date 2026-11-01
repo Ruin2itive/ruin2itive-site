@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-01T19:59:57.413Z"
+    "built_at": "2026-11-01T23:26:00.281Z"
   },
-  "items": [
-    {
-      "title": "ParticleDB – Orkes Launch Announcement",
-      "url": "https://orkes.io/blog/particledb-database-built-for-ai-agents",
-      "date": "2026-11-01T19:58:37.000Z"
-    },
-    {
-      "title": "Old Ideas",
-      "url": "https://blog.fogus.me/thoughts/old-ideas.html",
-      "date": "2026-11-01T19:56:28.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
