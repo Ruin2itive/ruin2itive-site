@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-10-31T22:09:36.793Z"
+    "built_at": "2026-11-01T01:43:21.923Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Medo: A modern UHD 4K open source Media editor for Haiku OS in less than 1.44MB",
+      "url": "https://github.com/smallstepforman/Medo",
+      "date": "2026-11-01T01:38:12.000Z"
+    },
+    {
+      "title": "What a mother's 1834 letter about measles tells us about MAHA",
+      "url": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/",
+      "date": "2026-11-01T01:37:22.000Z"
+    }
+  ]
 }
