@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-02T01:15:11.149Z",
-  "updated_local": "11/2/2026, 1:15:11 AM",
+  "updated_iso": "2026-11-02T05:44:15.523Z",
+  "updated_local": "11/2/2026, 5:44:15 AM",
   "sections": {
     "crypto": [
       {
@@ -42,7 +42,13 @@
         "time": "11/1/2026, 3:58:28 PM"
       },
       {
-        "title": "Postgres 19 is late, and it's AI's fault",
+        "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+        "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+        "source": "hn",
+        "time": "11/2/2026, 1:59:38 AM"
+      },
+      {
+        "title": "Postgres 19 is late because so many more bugs are being found now",
         "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
         "source": "hn",
         "time": "10/31/2026, 1:38:56 AM"
@@ -54,25 +60,13 @@
         "time": "10/31/2026, 7:56:53 PM"
       },
       {
-        "title": "Nibnib: Image compression with extreme decompression speed",
-        "url": "https://github.com/raphlinus/nibnib",
+        "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+        "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
         "source": "hn",
-        "time": "10/30/2026, 4:17:06 AM"
-      },
-      {
-        "title": "America on Data Centers: 10k city council comments",
-        "url": "https://www.americansentiment.com/datacenters",
-        "source": "hn",
-        "time": "11/2/2026, 12:17:33 AM"
+        "time": "10/31/2026, 11:53:47 AM"
       }
     ],
     "world": [
-      {
-        "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-        "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 01 Nov 2026 22:38:24 GMT"
-      },
       {
         "title": "Five teenagers stabbed at Halloween party",
         "url": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&amp;at_campaign=rss",
@@ -83,19 +77,25 @@
         "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
         "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 01 Nov 2026 23:15:56 GMT"
+        "time": "Mon, 02 Nov 2026 02:59:02 GMT"
       },
       {
-        "title": "Thousands of jobs at Virgin Media O2 to be cut",
-        "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How a Democrat in Michigan rocked the party days before the US midterms",
+        "url": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 01 Nov 2026 16:57:14 GMT"
+        "time": "Mon, 02 Nov 2026 04:40:00 GMT"
       },
       {
-        "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-        "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Democrats have high hopes for midterms, but polls have let them down before",
+        "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 02 Nov 2026 00:02:15 GMT"
+        "time": "Mon, 02 Nov 2026 00:25:12 GMT"
+      },
+      {
+        "title": "Binance users withdraw $3.6bn after record crypto hack",
+        "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 02 Nov 2026 03:32:14 GMT"
       }
     ],
     "projects": [
