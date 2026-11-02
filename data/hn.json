@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-02T03:40:58.463Z"
+    "built_at": "2026-11-02T11:53:23.330Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Take a break, play some puzzles",
+      "url": "https://gridmino.com/",
+      "date": "2026-11-02T10:34:38.000Z"
+    },
+    {
+      "title": "France's Weird Per-Gigabyte Data Tax Could Cost VLC over €1M a Year",
+      "url": "https://itsfoss.com/news/vlc-outrage-at-french-internet-tax/",
+      "date": "2026-11-02T10:33:45.000Z"
+    }
+  ]
 }
