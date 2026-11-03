@@ -1,40 +1,52 @@
 {
-  "updated_iso": "2026-11-03T09:23:50.956Z",
-  "updated_local": "11/3/2026, 9:23:50 AM",
+  "updated_iso": "2026-11-03T14:58:15.009Z",
+  "updated_local": "11/3/2026, 2:58:15 PM",
   "sections": {
     "crypto": [
       {
-        "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
-        "url": "https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks",
+        "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
+        "url": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
         "source": "crypto",
-        "time": "Mon, 02 Nov 2026 23:10:25 +0000"
+        "time": "Tue, 03 Nov 2026 14:01:02 +0000"
       },
       {
-        "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
-        "url": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
+        "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
+        "url": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
         "source": "crypto",
-        "time": "Mon, 02 Nov 2026 22:16:02 +0000"
+        "time": "Tue, 03 Nov 2026 13:11:47 +0000"
       },
       {
-        "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
-        "url": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
+        "title": "Binance Misses Monthly Luna Classic Burn for First Time Since 2023",
+        "url": "https://decrypt.co/382401/binance-misses-monthly-luna-classic-burn-for-first-time-since-2023",
         "source": "crypto",
-        "time": "Mon, 02 Nov 2026 21:16:03 +0000"
+        "time": "Tue, 03 Nov 2026 12:15:29 +0000"
       },
       {
-        "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn&#39;t Patched",
-        "url": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
+        "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
+        "url": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
         "source": "crypto",
-        "time": "Mon, 02 Nov 2026 20:36:03 +0000"
+        "time": "Tue, 03 Nov 2026 11:22:10 +0000"
       },
       {
-        "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
-        "url": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
+        "title": "North Korea Denies $6.3B Binance Hack, Calls FBI Finding a &#39;Political Provocation&#39;",
+        "url": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation",
         "source": "crypto",
-        "time": "Mon, 02 Nov 2026 19:46:02 +0000"
+        "time": "Tue, 03 Nov 2026 10:18:48 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+        "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+        "source": "hn",
+        "time": "11/3/2026, 12:21:17 PM"
+      },
+      {
+        "title": "Just a little AI resistance, as a treat",
+        "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+        "source": "hn",
+        "time": "11/3/2026, 2:14:12 PM"
+      },
       {
         "title": "Astra can read and write weights to improve Qwen",
         "url": "https://rikiyat.github.io/blog/weight-space-programming/",
@@ -42,60 +54,48 @@
         "time": "11/2/2026, 6:21:28 PM"
       },
       {
-        "title": "Nvidia – open-source auto-ontology",
-        "url": "https://github.com/NVIDIA/auto-ontology",
+        "title": "Charles Tandy, the mastermind behind Radio Shack",
+        "url": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
         "source": "hn",
-        "time": "11/3/2026, 7:04:50 AM"
+        "time": "11/3/2026, 12:42:30 PM"
       },
       {
-        "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-        "url": "https://hackertimes.ca/",
+        "title": "Life with Down Syndrome",
+        "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
         "source": "hn",
-        "time": "11/3/2026, 1:53:34 AM"
-      },
-      {
-        "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-        "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-        "source": "hn",
-        "time": "11/3/2026, 1:33:43 AM"
-      },
-      {
-        "title": "European RISC-V Industrial Computing Initiative",
-        "url": "https://erici.eu",
-        "source": "hn",
-        "time": "11/2/2026, 8:58:33 AM"
+        "time": "11/1/2026, 4:26:21 PM"
       }
     ],
     "world": [
       {
-        "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-        "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+        "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 03 Nov 2026 09:14:07 GMT"
+        "time": "Tue, 03 Nov 2026 10:32:56 GMT"
       },
       {
-        "title": "Americans head to the polls for elections that could define Trump's closing chapter",
-        "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 03 Nov 2026 05:00:43 GMT"
-      },
-      {
-        "title": "US strikes Iranian island ahead of midterm elections",
-        "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 03 Nov 2026 03:39:08 GMT"
-      },
-      {
-        "title": "Mahmood refuses to detail cost of revised settlement plans",
-        "url": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 03 Nov 2026 09:10:50 GMT"
-      },
-      {
-        "title": "Tenerife striker De Miguel dies after on-field collision",
+        "title": "Spanish footballer dies after collision with goalkeeper during match",
         "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 03 Nov 2026 09:09:18 GMT"
+      },
+      {
+        "title": "MI5 will not face contempt of court charges despite admitting its evidence was a lie",
+        "url": "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 03 Nov 2026 11:02:47 GMT"
+      },
+      {
+        "title": "Watch: Why is 'Mogging' the word of the year?",
+        "url": "https://www.bbc.co.uk/news/videos/cm3wv029jlxyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 03 Nov 2026 14:03:57 GMT"
+      },
+      {
+        "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
+        "url": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 03 Nov 2026 14:33:14 GMT"
       }
     ],
     "projects": [
