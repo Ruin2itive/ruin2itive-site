@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-03T06:25:20.005Z",
-  "updated_local": "11/3/2026, 6:25:20 AM",
+  "updated_iso": "2026-11-03T09:23:50.956Z",
+  "updated_local": "11/3/2026, 9:23:50 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "11/2/2026, 6:21:28 PM"
       },
       {
+        "title": "Nvidia – open-source auto-ontology",
+        "url": "https://github.com/NVIDIA/auto-ontology",
+        "source": "hn",
+        "time": "11/3/2026, 7:04:50 AM"
+      },
+      {
         "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
         "url": "https://hackertimes.ca/",
         "source": "hn",
@@ -58,15 +64,15 @@
         "url": "https://erici.eu",
         "source": "hn",
         "time": "11/2/2026, 8:58:33 AM"
-      },
-      {
-        "title": "Scaling Git at OpenAI",
-        "url": "https://openai.com/index/scaling-git-at-openai/",
-        "source": "hn",
-        "time": "11/2/2026, 11:47:56 PM"
       }
     ],
     "world": [
+      {
+        "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 03 Nov 2026 09:14:07 GMT"
+      },
       {
         "title": "Americans head to the polls for elections that could define Trump's closing chapter",
         "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +80,22 @@
         "time": "Tue, 03 Nov 2026 05:00:43 GMT"
       },
       {
-        "title": "US strikes Iran ahead of midterm elections",
+        "title": "US strikes Iranian island ahead of midterm elections",
         "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 03 Nov 2026 03:39:08 GMT"
       },
       {
-        "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-        "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Mahmood refuses to detail cost of revised settlement plans",
+        "url": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 03 Nov 2026 02:11:13 GMT"
+        "time": "Tue, 03 Nov 2026 09:10:50 GMT"
       },
       {
-        "title": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin",
-        "url": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Tenerife striker De Miguel dies after on-field collision",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 03 Nov 2026 00:26:04 GMT"
-      },
-      {
-        "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-        "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 03 Nov 2026 00:07:05 GMT"
+        "time": "Tue, 03 Nov 2026 09:09:18 GMT"
       }
     ],
     "projects": [
