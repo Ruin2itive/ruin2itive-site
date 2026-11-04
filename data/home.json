@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-03T22:53:39.659Z",
-  "updated_local": "11/3/2026, 10:53:39 PM",
+  "updated_iso": "2026-11-04T01:11:25.029Z",
+  "updated_local": "11/4/2026, 1:11:25 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to &#39;Protect the Grid&#39;",
+        "url": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
+        "source": "crypto",
+        "time": "Tue, 03 Nov 2026 23:48:32 +0000"
+      },
       {
         "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
         "url": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties",
         "source": "crypto",
         "time": "Tue, 03 Nov 2026 20:36:02 +0000"
-      },
-      {
-        "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
-        "url": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
-        "source": "crypto",
-        "time": "Tue, 03 Nov 2026 19:46:03 +0000"
       }
     ],
     "hacker": [
@@ -40,12 +40,6 @@
         "url": "https://arxiv.org/abs/2605.29713",
         "source": "hn",
         "time": "11/3/2026, 9:40:53 PM"
-      },
-      {
-        "title": "The Internals of PostgreSQL",
-        "url": "https://www.interdb.jp/pg/index.html",
-        "source": "hn",
-        "time": "11/3/2026, 9:51:06 PM"
       },
       {
         "title": "Safari introduces Adaptive Dark Mode in 27.3",
@@ -60,6 +54,12 @@
         "time": "11/2/2026, 4:29:19 PM"
       },
       {
+        "title": "The Internals of PostgreSQL",
+        "url": "https://www.interdb.jp/pg/index.html",
+        "source": "hn",
+        "time": "11/3/2026, 9:51:06 PM"
+      },
+      {
         "title": "Stringman, an $800 open-source room scale gripper robot",
         "url": "https://neufangled.com/",
         "source": "hn",
@@ -68,34 +68,34 @@
     ],
     "world": [
       {
+        "title": "When will we know the results?",
+        "url": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 04 Nov 2026 00:56:05 GMT"
+      },
+      {
+        "title": "US voters name economy and state of democracy as top issues, poll says",
+        "url": "https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 03 Nov 2026 23:55:37 GMT"
+      },
+      {
         "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
         "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 03 Nov 2026 10:32:56 GMT"
       },
       {
-        "title": "Spanish transport minister resigns days after deadly train crash",
-        "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "The key US Senate races to watch",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 03 Nov 2026 22:45:59 GMT"
+        "time": "Tue, 03 Nov 2026 10:16:56 GMT"
       },
       {
-        "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
-        "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Queues, smiles and Uncle Sam: The US midterms in pictures",
+        "url": "https://www.bbc.co.uk/news/articles/cm89zn2kxjdno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 03 Nov 2026 20:38:38 GMT"
-      },
-      {
-        "title": "Seven flights across Europe targeted by suspected bomb threats",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 03 Nov 2026 20:42:47 GMT"
-      },
-      {
-        "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
-        "url": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 03 Nov 2026 16:34:33 GMT"
+        "time": "Tue, 03 Nov 2026 20:16:17 GMT"
       }
     ],
     "projects": [
