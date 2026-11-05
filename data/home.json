@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-05T21:53:43.753Z",
-  "updated_local": "11/5/2026, 9:53:43 PM",
+  "updated_iso": "2026-11-05T22:31:20.802Z",
+  "updated_local": "11/5/2026, 10:31:20 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
+        "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
+        "source": "crypto",
+        "time": "Thu, 05 Nov 2026 22:16:03 +0000"
+      },
       {
         "title": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
         "url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto",
         "source": "crypto",
         "time": "Thu, 05 Nov 2026 19:46:03 +0000"
-      },
-      {
-        "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
-        "url": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
-        "source": "crypto",
-        "time": "Thu, 05 Nov 2026 19:16:03 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "11/5/2026, 8:03:34 PM"
       },
       {
-        "title": "sshole",
-        "url": "https://sshhole.com",
-        "source": "hn",
-        "time": "11/5/2026, 12:19:02 PM"
-      },
-      {
         "title": "MS Paint Remote Code Execution Vulnerability",
         "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
         "source": "hn",
         "time": "11/5/2026, 8:43:42 PM"
+      },
+      {
+        "title": "sshole",
+        "url": "https://sshhole.com",
+        "source": "hn",
+        "time": "11/5/2026, 12:19:02 PM"
       },
       {
         "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
@@ -86,10 +86,10 @@
         "time": "Thu, 05 Nov 2026 18:53:47 GMT"
       },
       {
-        "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-        "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "California governor commutes sentences for state's 548 death row inmates",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 05 Nov 2026 17:39:48 GMT"
+        "time": "Thu, 05 Nov 2026 21:25:48 GMT"
       },
       {
         "title": "Messages reveal how hoax threat was passed on by air traffic control",
