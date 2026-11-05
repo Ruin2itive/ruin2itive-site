@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-05T01:12:20.225Z"
+    "built_at": "2026-11-05T08:47:51.127Z"
   },
-  "items": [
-    {
-      "title": "Anthropic buys one-person Kendall Square biotech ahead of IPO. Here's why",
-      "url": "https://www.masslive.com/news/2026/11/anthropic-buys-one-person-kendall-square-biotech-ahead-of-ipo-heres-why.html",
-      "date": "2026-11-05T01:07:23.000Z"
-    },
-    {
-      "title": "Agent State Machines: Building Deterministic Scaffolding for Agents",
-      "url": "https://twitter.com/josharosen/status/2117687393213932003",
-      "date": "2026-11-05T01:07:15.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
