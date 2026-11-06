@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-06T03:08:25.520Z",
-  "updated_local": "11/6/2026, 3:08:25 AM",
+  "updated_iso": "2026-11-06T10:41:02.655Z",
+  "updated_local": "11/6/2026, 10:41:02 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Zcash&#39;s NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
+        "url": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
+        "source": "crypto",
+        "time": "Fri, 06 Nov 2026 10:13:27 +0000"
+      },
       {
         "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
         "url": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse",
         "source": "crypto",
         "time": "Thu, 05 Nov 2026 20:46:02 +0000"
-      },
-      {
-        "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
-        "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
-        "source": "crypto",
-        "time": "Thu, 05 Nov 2026 20:16:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+        "url": "https://github.com/ppmpreetham/BUI",
+        "source": "hn",
+        "time": "11/6/2026, 7:40:35 AM"
+      },
       {
         "title": "Claude Code sends your email address to websites",
         "url": "https://github.com/anthropics/claude-code/issues/107757",
@@ -42,10 +48,10 @@
         "time": "11/5/2026, 10:17:15 PM"
       },
       {
-        "title": "Search for everyone",
-        "url": "https://kagi.com/changelog#11820",
+        "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+        "url": "https://apps.metaebene.me/en/kugelblitz",
         "source": "hn",
-        "time": "11/5/2026, 8:03:34 PM"
+        "time": "11/6/2026, 7:47:38 AM"
       },
       {
         "title": "sshole",
@@ -54,48 +60,42 @@
         "time": "11/5/2026, 12:19:02 PM"
       },
       {
-        "title": "MS Paint Remote Code Execution Vulnerability",
-        "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+        "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+        "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
         "source": "hn",
-        "time": "11/5/2026, 8:43:42 PM"
-      },
-      {
-        "title": "Inkling 2 Small",
-        "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-        "source": "hn",
-        "time": "11/6/2026, 12:00:24 AM"
+        "time": "11/6/2026, 9:27:12 AM"
       }
     ],
     "world": [
       {
-        "title": "Russell Brand found guilty of rape and sexual assault",
-        "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Did a data centre revolt affect the US mid-term election results?",
+        "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 06 Nov 2026 02:21:20 GMT"
-      },
-      {
-        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 06 Nov 2026 02:57:24 GMT"
+        "time": "Fri, 06 Nov 2026 06:01:13 GMT"
       },
       {
         "title": "Met chief warns policing 'heading for failure' without reform",
         "url": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 06 Nov 2026 01:13:53 GMT"
+        "time": "Fri, 06 Nov 2026 10:19:19 GMT"
       },
       {
-        "title": "Firms told to publish salaries in job adverts ahead of new law",
-        "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Misleading' student loans information left out examples of higher-salary repayments",
+        "url": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 05 Nov 2026 22:32:02 GMT"
+        "time": "Fri, 06 Nov 2026 06:06:36 GMT"
       },
       {
-        "title": "California governor commutes sentences for state's 548 death row inmates",
-        "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Met Police release Brand interview footage",
+        "url": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 05 Nov 2026 23:09:33 GMT"
+        "time": "Thu, 05 Nov 2026 16:01:56 GMT"
+      },
+      {
+        "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+        "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 06 Nov 2026 01:22:39 GMT"
       }
     ],
     "projects": [
