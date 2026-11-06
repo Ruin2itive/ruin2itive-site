@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-06T10:35:39.813Z"
+    "built_at": "2026-11-06T17:45:43.189Z"
   },
-  "items": [
-    {
-      "title": "X-87 – DOS 256 bytes",
-      "url": "https://www.onirom.fr/wiki/codegolf/x-87/",
-      "date": "2026-11-06T10:33:44.000Z"
-    },
-    {
-      "title": "Show HN: Overhead – the planes overhead, painted on an e-ink frame",
-      "url": "https://github.com/dmellok/tesserae-widget-overhead",
-      "date": "2026-11-06T10:30:15.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
