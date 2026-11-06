@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-05T22:31:20.802Z",
-  "updated_local": "11/5/2026, 10:31:20 PM",
+  "updated_iso": "2026-11-06T02:11:39.776Z",
+  "updated_local": "11/6/2026, 2:11:39 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
+        "url": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
+        "source": "crypto",
+        "time": "Thu, 05 Nov 2026 23:06:02 +0000"
+      },
       {
         "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
         "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
         "source": "crypto",
         "time": "Thu, 05 Nov 2026 20:16:03 +0000"
-      },
-      {
-        "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
-        "url": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto",
-        "source": "crypto",
-        "time": "Thu, 05 Nov 2026 19:46:03 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Kagi Search for Everyone",
-        "url": "https://kagi.com/changelog",
+        "title": "Claude Code sends your email address to websites",
+        "url": "https://github.com/anthropics/claude-code/issues/107757",
         "source": "hn",
-        "time": "11/5/2026, 8:03:34 PM"
+        "time": "11/5/2026, 10:17:15 PM"
       },
       {
-        "title": "MS Paint Remote Code Execution Vulnerability",
-        "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+        "title": "Search for everyone",
+        "url": "https://kagi.com/changelog#11820",
         "source": "hn",
-        "time": "11/5/2026, 8:43:42 PM"
+        "time": "11/5/2026, 8:03:34 PM"
       },
       {
         "title": "sshole",
@@ -54,16 +54,16 @@
         "time": "11/5/2026, 12:19:02 PM"
       },
       {
-        "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-        "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+        "title": "MS Paint Remote Code Execution Vulnerability",
+        "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
         "source": "hn",
-        "time": "11/5/2026, 2:44:20 PM"
+        "time": "11/5/2026, 8:43:42 PM"
       },
       {
-        "title": "The Hackintosh Reborn",
-        "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+        "title": "Inkling 2 Small",
+        "url": "https://thinkingmachines.ai/news/inkling-2-small/",
         "source": "hn",
-        "time": "11/5/2026, 7:08:22 PM"
+        "time": "11/6/2026, 12:00:24 AM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Thu, 05 Nov 2026 18:28:35 GMT"
       },
       {
-        "title": "Watch: Met Police release Brand interview footage",
-        "url": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 05 Nov 2026 16:01:56 GMT"
+        "time": "Fri, 06 Nov 2026 01:44:03 GMT"
       },
       {
-        "title": "Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal",
-        "url": "https://www.bbc.co.uk/news/articles/cmwy9z5423p2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Met chief warns policing 'heading for failure' without reform",
+        "url": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 05 Nov 2026 18:53:47 GMT"
+        "time": "Fri, 06 Nov 2026 01:13:53 GMT"
+      },
+      {
+        "title": "Firms told to publish salaries in job adverts ahead of new law",
+        "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 05 Nov 2026 22:32:02 GMT"
       },
       {
         "title": "California governor commutes sentences for state's 548 death row inmates",
         "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 05 Nov 2026 21:25:48 GMT"
-      },
-      {
-        "title": "Messages reveal how hoax threat was passed on by air traffic control",
-        "url": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 05 Nov 2026 18:22:46 GMT"
+        "time": "Thu, 05 Nov 2026 23:09:33 GMT"
       }
     ],
     "projects": [
