@@ -1,40 +1,58 @@
 {
-  "updated_iso": "2026-11-06T18:52:49.116Z",
-  "updated_local": "11/6/2026, 6:52:49 PM",
+  "updated_iso": "2026-11-06T22:58:12.321Z",
+  "updated_local": "11/6/2026, 10:58:12 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
+        "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
+        "source": "crypto",
+        "time": "Fri, 06 Nov 2026 21:06:03 +0000"
+      },
+      {
+        "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
+        "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+        "source": "crypto",
+        "time": "Fri, 06 Nov 2026 20:36:03 +0000"
+      },
+      {
+        "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
+        "url": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
+        "source": "crypto",
+        "time": "Fri, 06 Nov 2026 19:46:03 +0000"
+      },
+      {
+        "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
+        "url": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
+        "source": "crypto",
+        "time": "Fri, 06 Nov 2026 19:16:03 +0000"
+      },
       {
         "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
         "url": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
         "source": "crypto",
         "time": "Fri, 06 Nov 2026 18:36:03 +0000"
-      },
-      {
-        "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
-        "url": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
-        "source": "crypto",
-        "time": "Fri, 06 Nov 2026 17:42:31 +0000"
-      },
-      {
-        "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
-        "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
-        "source": "crypto",
-        "time": "Fri, 06 Nov 2026 16:41:29 +0000"
-      },
-      {
-        "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
-        "url": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
-        "source": "crypto",
-        "time": "Fri, 06 Nov 2026 16:34:07 +0000"
-      },
-      {
-        "title": "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report",
-        "url": "https://decrypt.co/382716/anthropic-ipo-valuation-could-fall-to-1-trillion-after-ai-stock-rout-report",
-        "source": "crypto",
-        "time": "Fri, 06 Nov 2026 16:28:58 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+        "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+        "source": "hn",
+        "time": "11/6/2026, 7:48:51 PM"
+      },
+      {
+        "title": "AI is dramatically accelerating AI research",
+        "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+        "source": "hn",
+        "time": "11/6/2026, 8:27:23 PM"
+      },
+      {
+        "title": "Firecracker VM Escape: PwnEscape Part 2",
+        "url": "https://pwn.ai/blog/firecracker-escape",
+        "source": "hn",
+        "time": "11/6/2026, 7:33:38 PM"
+      },
       {
         "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
         "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
@@ -46,27 +64,15 @@
         "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
         "source": "hn",
         "time": "11/6/2026, 12:13:51 PM"
-      },
-      {
-        "title": "First steps in bare-metal programming using UEFI",
-        "url": "https://kevinboone.me/efitest_index.html",
-        "source": "hn",
-        "time": "11/6/2026, 4:50:29 PM"
-      },
-      {
-        "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-        "url": "https://github.com/anomalyco/rune",
-        "source": "hn",
-        "time": "11/6/2026, 4:31:32 PM"
-      },
-      {
-        "title": "Size-It-Up (Game)",
-        "url": "https://magnitudle.com/size-it-up",
-        "source": "hn",
-        "time": "11/6/2026, 5:59:59 PM"
       }
     ],
     "world": [
+      {
+        "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 06 Nov 2026 21:26:56 GMT"
+      },
       {
         "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
         "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&amp;at_campaign=rss",
@@ -74,28 +80,22 @@
         "time": "Fri, 06 Nov 2026 16:49:31 GMT"
       },
       {
-        "title": "AI stocks climb after trillions wiped from market values",
-        "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 06 Nov 2026 17:03:02 GMT"
+        "time": "Fri, 06 Nov 2026 12:16:44 GMT"
+      },
+      {
+        "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 06 Nov 2026 20:11:45 GMT"
       },
       {
         "title": "New wave of bomb threats hit European airlines",
         "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 06 Nov 2026 15:25:35 GMT"
-      },
-      {
-        "title": "How unprecedented changes to the polar vortex may impact the UK's weather",
-        "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 06 Nov 2026 01:22:39 GMT"
-      },
-      {
-        "title": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 06 Nov 2026 16:31:15 GMT"
       }
     ],
     "projects": [
