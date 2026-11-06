@@ -1,45 +1,57 @@
 {
-  "updated_iso": "2026-11-06T11:48:00.840Z",
-  "updated_local": "11/6/2026, 11:48:00 AM",
+  "updated_iso": "2026-11-06T17:52:43.874Z",
+  "updated_local": "11/6/2026, 5:52:43 PM",
   "sections": {
     "crypto": [
       {
-        "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
-        "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+        "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
+        "url": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
         "source": "crypto",
-        "time": "Fri, 06 Nov 2026 10:57:06 +0000"
+        "time": "Fri, 06 Nov 2026 17:42:31 +0000"
       },
       {
-        "title": "Zcash&#39;s NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
-        "url": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
+        "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+        "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
         "source": "crypto",
-        "time": "Fri, 06 Nov 2026 10:13:27 +0000"
+        "time": "Fri, 06 Nov 2026 16:41:29 +0000"
       },
       {
-        "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
-        "url": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
+        "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
+        "url": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
         "source": "crypto",
-        "time": "Thu, 05 Nov 2026 23:06:02 +0000"
+        "time": "Fri, 06 Nov 2026 16:34:07 +0000"
       },
       {
-        "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
-        "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
+        "title": "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report",
+        "url": "https://decrypt.co/382716/anthropic-ipo-valuation-could-fall-to-1-trillion-after-ai-stock-rout-report",
         "source": "crypto",
-        "time": "Thu, 05 Nov 2026 22:16:03 +0000"
+        "time": "Fri, 06 Nov 2026 16:28:58 +0000"
       },
       {
-        "title": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
-        "url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
+        "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+        "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
         "source": "crypto",
-        "time": "Thu, 05 Nov 2026 21:36:03 +0000"
+        "time": "Fri, 06 Nov 2026 14:04:18 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-        "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+        "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+        "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
         "source": "hn",
-        "time": "11/6/2026, 9:27:12 AM"
+        "time": "11/6/2026, 4:00:28 AM"
+      },
+      {
+        "title": "Tesla to wind down Cybertruck production",
+        "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+        "source": "hn",
+        "time": "11/6/2026, 12:13:51 PM"
+      },
+      {
+        "title": "Gemini Omni 1.2 Flash",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+        "source": "hn",
+        "time": "11/6/2026, 1:35:27 PM"
       },
       {
         "title": "Blender's UI and Runtime: Much Faster Than GPUI",
@@ -48,54 +60,42 @@
         "time": "11/6/2026, 7:40:35 AM"
       },
       {
-        "title": "Claude Code sends your email address to websites",
-        "url": "https://github.com/anthropics/claude-code/issues/107757",
+        "title": "Deus Ex",
+        "url": "https://www.filfre.net/2026/11/deus-ex/",
         "source": "hn",
-        "time": "11/5/2026, 10:17:15 PM"
-      },
-      {
-        "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-        "url": "https://jhr.pensoft.net/articles.php?id=9096",
-        "source": "hn",
-        "time": "11/6/2026, 10:21:15 AM"
-      },
-      {
-        "title": "Kugelblitz – Mac-Native Google Earth Alternative",
-        "url": "https://apps.metaebene.me/en/kugelblitz",
-        "source": "hn",
-        "time": "11/6/2026, 7:47:38 AM"
+        "time": "11/6/2026, 3:44:36 PM"
       }
     ],
     "world": [
       {
-        "title": "Did a data centre revolt affect the US midterm election results?",
-        "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
+        "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 06 Nov 2026 06:01:13 GMT"
+        "time": "Fri, 06 Nov 2026 16:49:31 GMT"
       },
       {
-        "title": "Met chief warns policing 'heading for failure' without reform",
-        "url": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "AI stocks climb after trillions wiped from market values",
+        "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 06 Nov 2026 10:19:19 GMT"
+        "time": "Fri, 06 Nov 2026 17:03:02 GMT"
       },
       {
-        "title": "'Misleading' student loans information left out examples of higher-salary repayments",
-        "url": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "New wave of bomb threats hit European airlines",
+        "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 06 Nov 2026 06:06:36 GMT"
+        "time": "Fri, 06 Nov 2026 15:25:35 GMT"
       },
       {
-        "title": "Firms should publish salaries in job adverts ahead of new law, says PM",
-        "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How unprecedented changes to the polar vortex may impact the UK's weather",
+        "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 06 Nov 2026 07:36:41 GMT"
+        "time": "Fri, 06 Nov 2026 01:22:39 GMT"
       },
       {
-        "title": "Tube drivers to stage strikes in Christmas run-up",
-        "url": "https://www.bbc.co.uk/news/articles/ck7vpplgvrjqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 06 Nov 2026 11:41:01 GMT"
+        "time": "Fri, 06 Nov 2026 16:31:15 GMT"
       }
     ],
     "projects": [
