@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-07T02:29:08.963Z"
+    "built_at": "2026-11-07T09:27:59.480Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: I taught my Fujifilm X-T30 II to print on an instax Link 3 over BLE",
+      "url": "https://ronangaillard.github.io/posts/fujifilm-x-t30-ii-instax-link-3/",
+      "date": "2026-11-07T09:27:06.000Z"
+    },
+    {
+      "title": "Show HN: FastVM – MicroVMs that sleep on idle and wake when packets arrive",
+      "url": "https://github.com/tuananh/fastvm",
+      "date": "2026-11-07T09:26:45.000Z"
+    }
+  ]
 }
