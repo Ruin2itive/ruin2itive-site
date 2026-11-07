@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-07T09:52:59.628Z",
-  "updated_local": "11/7/2026, 9:52:59 AM",
+  "updated_iso": "2026-11-07T11:29:53.606Z",
+  "updated_local": "11/7/2026, 11:29:53 AM",
   "sections": {
     "crypto": [
       {
@@ -36,54 +36,48 @@
     ],
     "hacker": [
       {
+        "title": "Upload Your RAM",
+        "url": "https://uploadyourram.org",
+        "source": "hn",
+        "time": "11/7/2026, 10:15:26 AM"
+      },
+      {
         "title": "Libghostty 1.0",
         "url": "https://mitchellh.com/writing/libghostty-1-0",
         "source": "hn",
         "time": "11/6/2026, 11:30:52 PM"
       },
       {
-        "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-        "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+        "title": "Every Mac comes with an (undocumented) family member classifier",
+        "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
         "source": "hn",
-        "time": "11/7/2026, 4:54:36 AM"
+        "time": "11/7/2026, 9:46:03 AM"
+      },
+      {
+        "title": "Need for Speed Underground 2 online in the browser",
+        "url": "https://nfsu2.xyz/",
+        "source": "hn",
+        "time": "11/7/2026, 9:36:36 AM"
       },
       {
         "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
         "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
         "source": "hn",
         "time": "11/6/2026, 7:48:51 PM"
-      },
-      {
-        "title": "The Components of Agent Memory",
-        "url": "https://www.anthropic.com/research/components-of-agent-memory",
-        "source": "hn",
-        "time": "11/7/2026, 6:39:04 AM"
-      },
-      {
-        "title": "Tesla to wind down Cybertruck production",
-        "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-        "source": "hn",
-        "time": "11/6/2026, 12:13:51 PM"
       }
     ],
     "world": [
       {
-        "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-        "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
+        "url": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 07 Nov 2026 07:27:44 GMT"
+        "time": "Sat, 07 Nov 2026 11:04:28 GMT"
       },
       {
-        "title": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
-        "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Two men arrested after boy injured in sword attack",
+        "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 06 Nov 2026 23:24:15 GMT"
-      },
-      {
-        "title": "Paraguay's president impeached after collapse of bank",
-        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 07 Nov 2026 07:20:00 GMT"
+        "time": "Sat, 07 Nov 2026 10:38:21 GMT"
       },
       {
         "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
@@ -92,10 +86,16 @@
         "time": "Sat, 07 Nov 2026 00:31:54 GMT"
       },
       {
-        "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
-        "url": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
+        "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 07 Nov 2026 05:12:52 GMT"
+        "time": "Fri, 06 Nov 2026 23:24:15 GMT"
+      },
+      {
+        "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 07 Nov 2026 07:27:44 GMT"
       }
     ],
     "projects": [
