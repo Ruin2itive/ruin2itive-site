@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-11-07T11:29:53.606Z",
-  "updated_local": "11/7/2026, 11:29:53 AM",
+  "updated_iso": "2026-11-07T16:16:20.801Z",
+  "updated_local": "11/7/2026, 4:16:20 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
+        "url": "https://decrypt.co/382770/ai-chip-stocks-bounce-global-rout-bubble-starting-burst",
+        "source": "crypto",
+        "time": "Sat, 07 Nov 2026 16:01:02 +0000"
+      },
+      {
+        "title": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say",
+        "url": "https://decrypt.co/382714/sony-axing-game-discs-will-have-outsized-impact-on-low-income-gamers-experts-say",
+        "source": "crypto",
+        "time": "Sat, 07 Nov 2026 14:01:02 +0000"
+      },
       {
         "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
         "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
@@ -20,38 +32,14 @@
         "url": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
         "source": "crypto",
         "time": "Fri, 06 Nov 2026 19:46:03 +0000"
-      },
-      {
-        "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
-        "url": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
-        "source": "crypto",
-        "time": "Fri, 06 Nov 2026 19:16:03 +0000"
-      },
-      {
-        "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
-        "url": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
-        "source": "crypto",
-        "time": "Fri, 06 Nov 2026 18:36:03 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Upload Your RAM",
-        "url": "https://uploadyourram.org",
+        "title": "The $8 Linux Computer (2022)",
+        "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
         "source": "hn",
-        "time": "11/7/2026, 10:15:26 AM"
-      },
-      {
-        "title": "Libghostty 1.0",
-        "url": "https://mitchellh.com/writing/libghostty-1-0",
-        "source": "hn",
-        "time": "11/6/2026, 11:30:52 PM"
-      },
-      {
-        "title": "Every Mac comes with an (undocumented) family member classifier",
-        "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-        "source": "hn",
-        "time": "11/7/2026, 9:46:03 AM"
+        "time": "11/7/2026, 2:00:20 PM"
       },
       {
         "title": "Need for Speed Underground 2 online in the browser",
@@ -60,13 +48,31 @@
         "time": "11/7/2026, 9:36:36 AM"
       },
       {
-        "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-        "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+        "title": "Libghostty 1.0",
+        "url": "https://mitchellh.com/writing/libghostty-1-0",
         "source": "hn",
-        "time": "11/6/2026, 7:48:51 PM"
+        "time": "11/6/2026, 11:30:52 PM"
+      },
+      {
+        "title": "Running a law firm on Free software",
+        "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+        "source": "hn",
+        "time": "11/7/2026, 9:39:06 AM"
+      },
+      {
+        "title": "Google Described Its Agent Sandbox. I Built One with Firecracker and Measured It",
+        "url": "https://antonau.tech/posts/2026/11/agents-microvm-firecracker/",
+        "source": "hn",
+        "time": "11/7/2026, 4:01:40 PM"
       }
     ],
     "world": [
+      {
+        "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 07 Nov 2026 15:19:35 GMT"
+      },
       {
         "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
         "url": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&amp;at_campaign=rss",
@@ -77,7 +83,7 @@
         "title": "Two men arrested after boy injured in sword attack",
         "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 07 Nov 2026 10:38:21 GMT"
+        "time": "Sat, 07 Nov 2026 15:10:54 GMT"
       },
       {
         "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
@@ -86,16 +92,10 @@
         "time": "Sat, 07 Nov 2026 00:31:54 GMT"
       },
       {
-        "title": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
-        "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "No clear winner after tight New Zealand general election",
+        "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 06 Nov 2026 23:24:15 GMT"
-      },
-      {
-        "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-        "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 07 Nov 2026 07:27:44 GMT"
+        "time": "Sat, 07 Nov 2026 15:56:28 GMT"
       }
     ],
     "projects": [
