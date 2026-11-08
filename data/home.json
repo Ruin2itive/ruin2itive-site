@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-08T07:08:13.619Z",
-  "updated_local": "11/8/2026, 7:08:13 AM",
+  "updated_iso": "2026-11-08T08:34:45.740Z",
+  "updated_local": "11/8/2026, 8:34:45 AM",
   "sections": {
     "crypto": [
       {
@@ -54,31 +54,19 @@
         "time": "11/7/2026, 8:45:32 PM"
       },
       {
-        "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
-        "url": "https://github.com/crmne/zapfast",
+        "title": "Kirlian Photography: Building Your Own Equipment",
+        "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
         "source": "hn",
-        "time": "11/8/2026, 2:02:27 AM"
+        "time": "11/8/2026, 4:14:12 AM"
       },
       {
-        "title": "Making any integer with four 2s (2025)",
-        "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+        "title": "Clj.rs – a Clojure dialect implemented in Rust",
+        "url": "https://clj.rs/",
         "source": "hn",
-        "time": "11/7/2026, 10:38:58 PM"
+        "time": "11/4/2026, 3:23:16 PM"
       }
     ],
     "world": [
-      {
-        "title": "Briton among six killed in Krakow shooting as three more bodies found at suspect's home",
-        "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 08 Nov 2026 00:55:17 GMT"
-      },
-      {
-        "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-        "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 08 Nov 2026 00:48:59 GMT"
-      },
       {
         "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
         "url": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&amp;at_campaign=rss",
@@ -92,10 +80,22 @@
         "time": "Sun, 08 Nov 2026 01:24:58 GMT"
       },
       {
-        "title": "Two seriously injured after M20 crash involving more than 30 vehicles in Kent",
+        "title": "Two seriously hurt in 30-vehicle crash on the M20 in Kent",
         "url": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 08 Nov 2026 04:09:21 GMT"
+      },
+      {
+        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 07 Nov 2026 22:19:59 GMT"
+      },
+      {
+        "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+        "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 08 Nov 2026 00:48:59 GMT"
       }
     ],
     "projects": [
