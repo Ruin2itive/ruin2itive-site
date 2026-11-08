@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-08T01:03:49.563Z",
-  "updated_local": "11/8/2026, 1:03:49 AM",
+  "updated_iso": "2026-11-08T07:08:13.619Z",
+  "updated_local": "11/8/2026, 7:08:13 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "The end of Microsoft Research's AI Frontiers group",
-        "url": "https://hunch.net/?p=13764006",
+        "title": "Goodbye Claude, Hello Pi",
+        "url": "https://caleb.software/posts/claude-to-pi.html",
         "source": "hn",
-        "time": "11/7/2026, 6:02:17 PM"
-      },
-      {
-        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-        "source": "hn",
-        "time": "11/7/2026, 8:45:32 PM"
+        "time": "11/8/2026, 3:11:48 AM"
       },
       {
         "title": "What I run on my $10 USD OpenStick homelab",
@@ -54,10 +48,16 @@
         "time": "11/7/2026, 6:12:12 PM"
       },
       {
-        "title": "GitHub New pull request overview page in public preview",
-        "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
         "source": "hn",
-        "time": "11/7/2026, 11:09:40 PM"
+        "time": "11/7/2026, 8:45:32 PM"
+      },
+      {
+        "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+        "url": "https://github.com/crmne/zapfast",
+        "source": "hn",
+        "time": "11/8/2026, 2:02:27 AM"
       },
       {
         "title": "Making any integer with four 2s (2025)",
@@ -68,34 +68,34 @@
     ],
     "world": [
       {
-        "title": "Briton among six killed in 'far-right' shooting in Krakow",
+        "title": "Briton among six killed in Krakow shooting as three more bodies found at suspect's home",
         "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 08 Nov 2026 00:55:17 GMT"
-      },
-      {
-        "title": "What we know so far after Krakow gun attack",
-        "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 07 Nov 2026 22:58:49 GMT"
-      },
-      {
-        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-        "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 07 Nov 2026 22:19:59 GMT"
-      },
-      {
-        "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
-        "url": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 07 Nov 2026 17:32:42 GMT"
       },
       {
         "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
         "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 08 Nov 2026 00:48:59 GMT"
+      },
+      {
+        "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+        "url": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 08 Nov 2026 03:34:22 GMT"
+      },
+      {
+        "title": "Royal Family join veterans and families at Festival of Remembrance",
+        "url": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 08 Nov 2026 01:24:58 GMT"
+      },
+      {
+        "title": "Two seriously injured after M20 crash involving more than 30 vehicles in Kent",
+        "url": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 08 Nov 2026 04:09:21 GMT"
       }
     ],
     "projects": [
