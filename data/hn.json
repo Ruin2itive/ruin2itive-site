@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-08T16:53:34.932Z"
+    "built_at": "2026-11-08T20:54:50.144Z"
   },
-  "items": [
-    {
-      "title": "Simon Winchester, RIP",
-      "url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
-      "date": "2026-11-08T16:51:23.000Z"
-    },
-    {
-      "title": "What I've Been Reading",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/11/what-ive-been-reading-298.html",
-      "date": "2026-11-08T16:50:58.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
