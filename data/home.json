@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-08T20:10:25.721Z",
-  "updated_local": "11/8/2026, 8:10:25 PM",
+  "updated_iso": "2026-11-08T23:36:11.257Z",
+  "updated_local": "11/8/2026, 11:36:11 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+        "url": "https://ketchup3d.github.io/app/",
         "source": "hn",
-        "time": "11/8/2026, 6:16:07 PM"
-      },
-      {
-        "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-        "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-        "source": "hn",
-        "time": "11/8/2026, 7:20:32 PM"
+        "time": "11/8/2026, 10:35:35 PM"
       },
       {
         "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
@@ -54,24 +48,30 @@
         "time": "11/8/2026, 7:08:51 PM"
       },
       {
-        "title": "How I Fight AI Brain Fry",
-        "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+        "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+        "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
         "source": "hn",
-        "time": "11/8/2026, 7:37:42 PM"
+        "time": "11/8/2026, 10:20:09 PM"
       },
       {
-        "title": "Declarative Dragging",
-        "url": "https://declarative-dragging.github.io/",
+        "title": "Chimera Vocal Synth",
+        "url": "https://chimera-vocal-synth.vercel.app/",
         "source": "hn",
-        "time": "11/4/2026, 5:05:07 PM"
+        "time": "11/8/2026, 10:36:03 PM"
       }
     ],
     "world": [
       {
+        "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 08 Nov 2026 22:42:41 GMT"
+      },
+      {
         "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
         "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 08 Nov 2026 18:22:53 GMT"
+        "time": "Sun, 08 Nov 2026 23:34:18 GMT"
       },
       {
         "title": "King leads solemn Remembrance Sunday service at Cenotaph",
@@ -80,22 +80,16 @@
         "time": "Sun, 08 Nov 2026 18:20:53 GMT"
       },
       {
+        "title": "Maya Jama steps down as host of reality TV show Love Island",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 08 Nov 2026 21:19:48 GMT"
+      },
+      {
         "title": "Seven dead and more than 100 injured after trains collide in Egypt",
         "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 08 Nov 2026 19:58:02 GMT"
-      },
-      {
-        "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-        "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 08 Nov 2026 16:05:57 GMT"
-      },
-      {
-        "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 08 Nov 2026 13:05:30 GMT"
       }
     ],
     "projects": [
