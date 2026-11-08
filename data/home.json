@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-08T08:34:45.740Z",
-  "updated_local": "11/8/2026, 8:34:45 AM",
+  "updated_iso": "2026-11-08T14:58:14.867Z",
+  "updated_local": "11/8/2026, 2:58:14 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
+        "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+        "source": "crypto",
+        "time": "Sun, 08 Nov 2026 14:01:03 +0000"
+      },
       {
         "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
         "url": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
@@ -26,76 +32,70 @@
         "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
         "source": "crypto",
         "time": "Fri, 06 Nov 2026 21:06:03 +0000"
-      },
-      {
-        "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
-        "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
-        "source": "crypto",
-        "time": "Fri, 06 Nov 2026 20:36:03 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Goodbye Claude, Hello Pi",
-        "url": "https://caleb.software/posts/claude-to-pi.html",
+        "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "url": "https://github.com/synchopate/llama-modchip",
         "source": "hn",
-        "time": "11/8/2026, 3:11:48 AM"
+        "time": "11/8/2026, 10:22:04 AM"
       },
       {
-        "title": "What I run on my $10 USD OpenStick homelab",
-        "url": "https://blog.bosscher.ch/posts/openstick/",
+        "title": "Quadrillion-parameter transformers and how to train them",
+        "url": "https://qlabs.sh/research/parameters",
         "source": "hn",
-        "time": "11/7/2026, 6:12:12 PM"
+        "time": "11/3/2026, 2:37:17 PM"
       },
       {
-        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "title": "Porting Android 16 to my blind mother's keypad phone",
+        "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
         "source": "hn",
-        "time": "11/7/2026, 8:45:32 PM"
+        "time": "11/4/2026, 3:18:59 PM"
       },
       {
-        "title": "Kirlian Photography: Building Your Own Equipment",
-        "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+        "title": "JIT bitmap text rendering for microcontrollers",
+        "url": "https://linebender.org/blog/jit-bitmap-text/",
         "source": "hn",
-        "time": "11/8/2026, 4:14:12 AM"
+        "time": "11/8/2026, 10:42:15 AM"
       },
       {
-        "title": "Clj.rs – a Clojure dialect implemented in Rust",
-        "url": "https://clj.rs/",
+        "title": "Person of Interest",
+        "url": "https://krthr.co/person-of-interest/",
         "source": "hn",
-        "time": "11/4/2026, 3:23:16 PM"
+        "time": "11/8/2026, 11:23:28 AM"
       }
     ],
     "world": [
       {
-        "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
-        "url": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "King leads solemn Remembrance service at Cenotaph",
+        "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 08 Nov 2026 03:34:22 GMT"
+        "time": "Sun, 08 Nov 2026 13:49:07 GMT"
       },
       {
-        "title": "Royal Family join veterans and families at Festival of Remembrance",
-        "url": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Royals and veterans reflect at Remembrance ceremony",
+        "url": "https://www.bbc.co.uk/news/videos/cw1l307v4edlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 08 Nov 2026 01:24:58 GMT"
+        "time": "Sun, 08 Nov 2026 12:16:10 GMT"
       },
       {
-        "title": "Two seriously hurt in 30-vehicle crash on the M20 in Kent",
-        "url": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
+        "url": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 08 Nov 2026 04:09:21 GMT"
+        "time": "Sun, 08 Nov 2026 13:57:43 GMT"
       },
       {
-        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-        "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 07 Nov 2026 22:19:59 GMT"
+        "time": "Sun, 08 Nov 2026 11:25:32 GMT"
       },
       {
-        "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-        "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "My parents chose to die together and I was left to grieve alone",
+        "url": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 08 Nov 2026 00:48:59 GMT"
+        "time": "Sun, 08 Nov 2026 01:10:21 GMT"
       }
     ],
     "projects": [
