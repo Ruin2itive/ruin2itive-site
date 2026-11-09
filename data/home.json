@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-09T00:31:33.174Z",
-  "updated_local": "11/9/2026, 12:31:33 AM",
+  "updated_iso": "2026-11-09T05:56:52.652Z",
+  "updated_local": "11/9/2026, 5:56:52 AM",
   "sections": {
     "crypto": [
       {
@@ -36,60 +36,66 @@
     ],
     "hacker": [
       {
+        "title": "RIP, Harvest",
+        "url": "https://aphyr.com/posts/427-rip-harvest",
+        "source": "hn",
+        "time": "11/9/2026, 1:58:21 AM"
+      },
+      {
+        "title": "A Critique of GPUI",
+        "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+        "source": "hn",
+        "time": "11/9/2026, 3:51:10 AM"
+      },
+      {
         "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
         "url": "https://ketchup3d.github.io/app/",
         "source": "hn",
         "time": "11/8/2026, 10:35:35 PM"
       },
       {
-        "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
-        "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+        "title": "Unlocking any car from X brand in most of the world",
+        "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
         "source": "hn",
-        "time": "11/8/2026, 11:28:01 PM"
+        "time": "11/9/2026, 12:10:50 AM"
       },
       {
         "title": "Chimera Vocal Synth",
         "url": "https://chimera-vocal-synth.vercel.app/",
         "source": "hn",
         "time": "11/8/2026, 10:36:03 PM"
-      },
-      {
-        "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-        "url": "https://duxlabs.dev/",
-        "source": "hn",
-        "time": "11/8/2026, 7:08:51 PM"
       }
     ],
     "world": [
       {
-        "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-        "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 09 Nov 2026 00:16:49 GMT"
+        "time": "Mon, 09 Nov 2026 00:57:05 GMT"
       },
       {
-        "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-        "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Dense fog threatens Monday morning rush-hour disruption",
+        "url": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 08 Nov 2026 23:34:18 GMT"
+        "time": "Mon, 09 Nov 2026 05:22:03 GMT"
       },
       {
-        "title": "King leads solemn Remembrance Sunday service at Cenotaph",
-        "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+        "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 08 Nov 2026 18:20:53 GMT"
+        "time": "Sun, 08 Nov 2026 22:05:12 GMT"
+      },
+      {
+        "title": "Government's EV targets expected to be reduced this week",
+        "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 09 Nov 2026 05:00:43 GMT"
       },
       {
         "title": "Maya Jama steps down as host of reality TV show Love Island",
         "url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 08 Nov 2026 21:19:48 GMT"
-      },
-      {
-        "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 08 Nov 2026 19:58:02 GMT"
       }
     ],
     "projects": [
