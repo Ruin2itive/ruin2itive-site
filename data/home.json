@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-09T05:56:52.652Z",
-  "updated_local": "11/9/2026, 5:56:52 AM",
+  "updated_iso": "2026-11-09T07:38:41.920Z",
+  "updated_local": "11/9/2026, 7:38:41 AM",
   "sections": {
     "crypto": [
       {
@@ -36,18 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "RIP, Harvest",
-        "url": "https://aphyr.com/posts/427-rip-harvest",
-        "source": "hn",
-        "time": "11/9/2026, 1:58:21 AM"
-      },
-      {
-        "title": "A Critique of GPUI",
-        "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
-        "source": "hn",
-        "time": "11/9/2026, 3:51:10 AM"
-      },
-      {
         "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
         "url": "https://ketchup3d.github.io/app/",
         "source": "hn",
@@ -60,42 +48,54 @@
         "time": "11/9/2026, 12:10:50 AM"
       },
       {
+        "title": "I'm not convinced the AI bubble exists",
+        "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+        "source": "hn",
+        "time": "11/8/2026, 11:44:36 PM"
+      },
+      {
         "title": "Chimera Vocal Synth",
         "url": "https://chimera-vocal-synth.vercel.app/",
         "source": "hn",
         "time": "11/8/2026, 10:36:03 PM"
+      },
+      {
+        "title": "Declarative Dragging",
+        "url": "https://declarative-dragging.github.io/",
+        "source": "hn",
+        "time": "11/4/2026, 5:05:07 PM"
       }
     ],
     "world": [
+      {
+        "title": "Will Jensen Huang’s rockstar reputation survive after scandal?",
+        "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 09 Nov 2026 07:10:11 GMT"
+      },
+      {
+        "title": "Inside the French drug gangs recruiting children to kill",
+        "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 09 Nov 2026 06:00:26 GMT"
+      },
+      {
+        "title": "Krakow shooting suspect has died in hospital, police say",
+        "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 09 Nov 2026 07:26:09 GMT"
+      },
+      {
+        "title": "Scientists predict 2026 hottest year on record as climate talks begin",
+        "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 09 Nov 2026 07:30:12 GMT"
+      },
       {
         "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
         "url": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 09 Nov 2026 00:57:05 GMT"
-      },
-      {
-        "title": "Dense fog threatens Monday morning rush-hour disruption",
-        "url": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 09 Nov 2026 05:22:03 GMT"
-      },
-      {
-        "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
-        "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 08 Nov 2026 22:05:12 GMT"
-      },
-      {
-        "title": "Government's EV targets expected to be reduced this week",
-        "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 09 Nov 2026 05:00:43 GMT"
-      },
-      {
-        "title": "Maya Jama steps down as host of reality TV show Love Island",
-        "url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 08 Nov 2026 21:19:48 GMT"
       }
     ],
     "projects": [
