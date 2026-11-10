@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-10T17:23:29.302Z"
+    "built_at": "2026-11-10T22:40:49.556Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Garmin and Waze team up to alert drivers to nearby cyclists in real time",
+      "url": "https://road.cc/tech-news/a-safer-riding-environment-garmin-and-waze-team-up-to-alert-drivers-to-nearby-cyclists-in-real-time",
+      "date": "2026-11-10T22:39:10.000Z"
+    },
+    {
+      "title": "America's Measles Problem Has Reached Endemic Level",
+      "url": "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html",
+      "date": "2026-11-10T22:38:18.000Z"
+    }
+  ]
 }
