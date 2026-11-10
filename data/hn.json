@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-10T01:48:57.744Z"
+    "built_at": "2026-11-10T09:00:14.992Z"
   },
-  "items": [
-    {
-      "title": "New FreeBSD pkgbase-update(8) Tool",
-      "url": "https://vermaden.wordpress.com/2026/11/10/freebsd-pkgbase-update-tool/",
-      "date": "2026-11-10T01:41:26.000Z"
-    },
-    {
-      "title": "How a mathematical discovery changed the rules of chess",
-      "url": "https://www.infinitelymore.xyz/p/thue-morse-sequence",
-      "date": "2026-11-10T01:38:37.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
