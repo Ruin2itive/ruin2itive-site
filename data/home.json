@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-10T01:52:40.424Z",
-  "updated_local": "11/10/2026, 1:52:40 AM",
+  "updated_iso": "2026-11-10T08:13:20.511Z",
+  "updated_local": "11/10/2026, 8:13:20 AM",
   "sections": {
     "crypto": [
       {
@@ -36,48 +36,42 @@
     ],
     "hacker": [
       {
+        "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+        "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+        "source": "hn",
+        "time": "11/10/2026, 6:01:08 AM"
+      },
+      {
+        "title": "Claude Fable 5.2 and Mythos 5.2",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "source": "hn",
+        "time": "11/9/2026, 6:01:10 PM"
+      },
+      {
         "title": "USPS now offers official ZIP Code boundary polygons",
         "url": "https://postalpro.usps.com/zcb",
         "source": "hn",
         "time": "11/9/2026, 7:58:59 PM"
       },
       {
-        "title": "TPU 8tx and TPU 8i Max",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+        "title": "Your TV can see through walls",
+        "url": "https://maurycyz.com/projects/fading/",
         "source": "hn",
-        "time": "11/9/2026, 9:56:57 PM"
+        "time": "11/10/2026, 5:24:45 AM"
       },
       {
-        "title": "Fable 5.2 one-shotted my nephew's dream game",
-        "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+        "title": "Locating the source of a mysterious beep",
+        "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
         "source": "hn",
-        "time": "11/9/2026, 11:08:13 PM"
-      },
-      {
-        "title": "Google Gemini routes personal Drive files and emails to human annotators",
-        "url": "https://github.com/thisisme6598/gemini_files/",
-        "source": "hn",
-        "time": "11/9/2026, 6:24:38 PM"
-      },
-      {
-        "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-        "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-        "source": "hn",
-        "time": "11/9/2026, 8:04:55 PM"
+        "time": "11/10/2026, 12:10:46 AM"
       }
     ],
     "world": [
       {
-        "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
-        "url": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 09 Nov 2026 17:31:08 GMT"
-      },
-      {
-        "title": "Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
+        "title": "Russell Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
         "url": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 09 Nov 2026 22:06:29 GMT"
+        "time": "Tue, 10 Nov 2026 02:59:42 GMT"
       },
       {
         "title": "What happened inside court as Brand was sentenced",
@@ -86,10 +80,16 @@
         "time": "Mon, 09 Nov 2026 20:13:41 GMT"
       },
       {
-        "title": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
-        "url": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump says more US attacks on Iran 'highly unlikely'",
+        "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 09 Nov 2026 22:16:37 GMT"
+        "time": "Tue, 10 Nov 2026 05:33:25 GMT"
+      },
+      {
+        "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+        "url": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 09 Nov 2026 22:51:09 GMT"
       },
       {
         "title": "The superpower battle over energy – and what it means for your bills",
