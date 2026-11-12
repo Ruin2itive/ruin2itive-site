@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-12T01:26:30.157Z",
-  "updated_local": "11/12/2026, 1:26:30 AM",
+  "updated_iso": "2026-11-12T09:16:38.155Z",
+  "updated_local": "11/12/2026, 9:16:38 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
-        "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+        "title": "Humble Bundle just killed most of their security through vibecoding",
+        "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+        "source": "hn",
+        "time": "11/12/2026, 6:52:48 AM"
+      },
+      {
+        "title": "Jane Street: Socratic Tutor",
+        "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+        "source": "hn",
+        "time": "11/10/2026, 10:18:22 AM"
+      },
+      {
+        "title": "93% of paint splatters are valid Perl programs (2019)",
         "url": "https://www.mcmillen.dev/sigbovik/",
         "source": "hn",
         "time": "11/11/2026, 10:34:23 PM"
-      },
-      {
-        "title": "AWS emulator",
-        "url": "https://github.com/aws/aws-emulator",
-        "source": "hn",
-        "time": "11/11/2026, 6:21:38 PM"
       },
       {
         "title": "Tim Peters has died",
@@ -54,36 +60,30 @@
         "time": "11/11/2026, 7:03:17 AM"
       },
       {
-        "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-        "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+        "title": "Critical RCE Vulnerability in Apache HTTP Server",
+        "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
         "source": "hn",
-        "time": "11/11/2026, 9:24:35 PM"
-      },
-      {
-        "title": "Lock Your GitHub Actions",
-        "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-        "source": "hn",
-        "time": "11/11/2026, 10:16:41 PM"
+        "time": "11/12/2026, 2:11:11 AM"
       }
     ],
     "world": [
       {
-        "title": "Author says there were 'real concerns' about David Walliams within publishing industry",
-        "url": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 11 Nov 2026 20:40:47 GMT"
-      },
-      {
-        "title": "Some under-25s should get less benefits, Milburn review to say",
+        "title": "Some under-25s should get fewer benefits, Milburn review to say",
         "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 11 Nov 2026 23:22:04 GMT"
+        "time": "Thu, 12 Nov 2026 08:59:08 GMT"
       },
       {
-        "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+        "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 11 Nov 2026 22:07:37 GMT"
+        "time": "Thu, 12 Nov 2026 07:59:33 GMT"
+      },
+      {
+        "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 12 Nov 2026 09:00:15 GMT"
       },
       {
         "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
