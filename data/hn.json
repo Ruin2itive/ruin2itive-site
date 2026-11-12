@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-12T09:01:08.909Z"
+    "built_at": "2026-11-12T17:48:54.394Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Jensen Huang Should Have Fought for AGI",
+      "url": "https://blog.jtoy.net/jensen-huang-should-have-fought-for-agi/",
+      "date": "2026-11-12T17:46:01.000Z"
+    },
+    {
+      "title": "Should cities use automated license plate cameras like Flock?",
+      "url": "https://www.reasond.de/topics/6af5f83784680f664a7da503",
+      "date": "2026-11-12T17:45:14.000Z"
+    }
+  ]
 }
