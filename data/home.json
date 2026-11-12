@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-12T09:16:38.155Z",
-  "updated_local": "11/12/2026, 9:16:38 AM",
+  "updated_iso": "2026-11-12T09:39:50.636Z",
+  "updated_local": "11/12/2026, 9:39:50 AM",
   "sections": {
     "crypto": [
       {
@@ -36,22 +36,10 @@
     ],
     "hacker": [
       {
-        "title": "Humble Bundle just killed most of their security through vibecoding",
-        "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
-        "source": "hn",
-        "time": "11/12/2026, 6:52:48 AM"
-      },
-      {
         "title": "Jane Street: Socratic Tutor",
         "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
         "source": "hn",
         "time": "11/10/2026, 10:18:22 AM"
-      },
-      {
-        "title": "93% of paint splatters are valid Perl programs (2019)",
-        "url": "https://www.mcmillen.dev/sigbovik/",
-        "source": "hn",
-        "time": "11/11/2026, 10:34:23 PM"
       },
       {
         "title": "Tim Peters has died",
@@ -60,10 +48,22 @@
         "time": "11/11/2026, 7:03:17 AM"
       },
       {
+        "title": "93% of paint splatters are valid Perl programs (2019)",
+        "url": "https://www.mcmillen.dev/sigbovik/",
+        "source": "hn",
+        "time": "11/11/2026, 10:34:23 PM"
+      },
+      {
         "title": "Critical RCE Vulnerability in Apache HTTP Server",
         "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
         "source": "hn",
         "time": "11/12/2026, 2:11:11 AM"
+      },
+      {
+        "title": "AWS emulator",
+        "url": "https://github.com/aws/aws-emulator",
+        "source": "hn",
+        "time": "11/11/2026, 6:21:38 PM"
       }
     ],
     "world": [
