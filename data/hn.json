@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-11T18:14:43.320Z"
+    "built_at": "2026-11-12T01:12:07.679Z"
   },
-  "items": [
-    {
-      "title": "Dropbox Plans to Acquire Tigris – Tigris Object Storage",
-      "url": "https://www.tigrisdata.com/blog/dropbox-plans-acquire-tigris/",
-      "date": "2026-11-11T18:13:09.000Z"
-    },
-    {
-      "title": "InfiShark CTF: Learn IoT security with virtual and physical devices",
-      "url": "https://ctf.infishark.com/",
-      "date": "2026-11-11T18:12:25.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
