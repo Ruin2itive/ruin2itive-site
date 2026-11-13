@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-13T04:22:25.256Z"
+    "built_at": "2026-11-13T12:44:25.718Z"
   },
-  "items": [
-    {
-      "title": "Open-Source LLM Gateway with Sub-Millisecond Median Overhead",
-      "url": "https://www.aklivity.io/post/sub-millisecond-median-overhead-for-the-zilla-llm-gateway-aklivity-zilla-benchmark-series-part-4",
-      "date": "2026-11-13T04:21:25.000Z"
-    },
-    {
-      "title": "Huang's fall is an indictment of founder mode at Big Tech",
-      "url": "https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25",
-      "date": "2026-11-13T04:20:53.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
