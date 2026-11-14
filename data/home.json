@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-14T17:53:58.466Z",
-  "updated_local": "11/14/2026, 5:53:58 PM",
+  "updated_iso": "2026-11-14T20:24:19.502Z",
+  "updated_local": "11/14/2026, 8:24:19 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
+        "url": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
+        "source": "crypto",
+        "time": "Sat, 14 Nov 2026 18:01:02 +0000"
+      },
       {
         "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
         "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
@@ -26,20 +32,26 @@
         "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
         "source": "crypto",
         "time": "Fri, 13 Nov 2026 22:16:03 +0000"
-      },
-      {
-        "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
-        "url": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
-        "source": "crypto",
-        "time": "Fri, 13 Nov 2026 21:36:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Lovable apps expose passport details and more than 200K private messages",
+        "url": "https://www.crissyfield.de/research/lovable-en/",
+        "source": "hn",
+        "time": "11/14/2026, 5:43:10 PM"
+      },
       {
         "title": "PyPI's redesigned project pages with clearer security signals are now live",
         "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
         "source": "hn",
         "time": "11/14/2026, 3:40:52 PM"
+      },
+      {
+        "title": "A Family Tree of Software Job Titles",
+        "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+        "source": "hn",
+        "time": "11/14/2026, 5:45:19 PM"
       },
       {
         "title": "KDE: The documentary [video]",
@@ -52,21 +64,15 @@
         "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
         "source": "hn",
         "time": "11/10/2026, 2:16:05 PM"
-      },
-      {
-        "title": "Advancing science and engineering with Antigravity's /teamwork",
-        "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-        "source": "hn",
-        "time": "11/14/2026, 1:20:43 PM"
-      },
-      {
-        "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-        "url": "https://gitlab.com/snipedbywifi/terminactory",
-        "source": "hn",
-        "time": "11/14/2026, 2:05:54 PM"
       }
     ],
     "world": [
+      {
+        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 14 Nov 2026 19:21:10 GMT"
+      },
       {
         "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&amp;at_campaign=rss",
@@ -78,12 +84,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 14 Nov 2026 12:22:43 GMT"
-      },
-      {
-        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 14 Nov 2026 15:15:57 GMT"
       },
       {
         "title": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
