@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-14T15:25:59.803Z"
+    "built_at": "2026-11-14T20:15:46.240Z"
   },
-  "items": [
-    {
-      "title": "Kildall's Algorithm",
-      "url": "https://bike.github.io/posts/kildall.html",
-      "date": "2026-11-14T15:24:34.000Z"
-    },
-    {
-      "title": "OnlyFans livestreaming must be banned say MPs in 'e-pimps' warning",
-      "url": "https://www.mirror.co.uk/news/politics/only-fans-web-camming-crackdown-37850365",
-      "date": "2026-11-14T15:23:26.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
