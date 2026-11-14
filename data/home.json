@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-11-14T15:32:19.878Z",
-  "updated_local": "11/14/2026, 3:32:19 PM",
+  "updated_iso": "2026-11-14T17:53:58.466Z",
+  "updated_local": "11/14/2026, 5:53:58 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
+        "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
+        "source": "crypto",
+        "time": "Sat, 14 Nov 2026 17:01:02 +0000"
+      },
+      {
+        "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
+        "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+        "source": "crypto",
+        "time": "Sat, 14 Nov 2026 16:01:02 +0000"
+      },
       {
         "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
         "url": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
@@ -20,21 +32,21 @@
         "url": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
         "source": "crypto",
         "time": "Fri, 13 Nov 2026 21:36:03 +0000"
-      },
-      {
-        "title": "China’s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts",
-        "url": "https://decrypt.co/383266/china-ai-pipeline-nvidia-chips-washington-restricts",
-        "source": "crypto",
-        "time": "Fri, 13 Nov 2026 20:45:03 +0000"
-      },
-      {
-        "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
-        "url": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
-        "source": "crypto",
-        "time": "Fri, 13 Nov 2026 20:16:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "PyPI's redesigned project pages with clearer security signals are now live",
+        "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+        "source": "hn",
+        "time": "11/14/2026, 3:40:52 PM"
+      },
+      {
+        "title": "KDE: The documentary [video]",
+        "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+        "source": "hn",
+        "time": "11/14/2026, 1:43:28 PM"
+      },
       {
         "title": "Why get an expensive Pi when I have an old phone?",
         "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
@@ -42,28 +54,16 @@
         "time": "11/10/2026, 2:16:05 PM"
       },
       {
-        "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-        "url": "https://gitlab.com/snipedbywifi/terminactory",
-        "source": "hn",
-        "time": "11/14/2026, 2:05:54 PM"
-      },
-      {
-        "title": "KDE: The Documentary on Free Software [video]",
-        "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-        "source": "hn",
-        "time": "11/14/2026, 1:43:28 PM"
-      },
-      {
-        "title": "Generative AI uses more energy on non-English text",
-        "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-        "source": "hn",
-        "time": "11/10/2026, 3:07:28 PM"
-      },
-      {
         "title": "Advancing science and engineering with Antigravity's /teamwork",
         "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
         "source": "hn",
         "time": "11/14/2026, 1:20:43 PM"
+      },
+      {
+        "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+        "url": "https://gitlab.com/snipedbywifi/terminactory",
+        "source": "hn",
+        "time": "11/14/2026, 2:05:54 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Sat, 14 Nov 2026 14:46:26 GMT"
       },
       {
-        "title": "King jokes with Elton John as he marks 78th birthday with radio show",
-        "url": "https://www.bbc.co.uk/news/articles/ck0jx8pxxx6eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Thousands turn out in Edinburgh to protest against AI data centres",
+        "url": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 14 Nov 2026 10:02:59 GMT"
+        "time": "Sat, 14 Nov 2026 17:20:33 GMT"
       }
     ],
     "projects": [
