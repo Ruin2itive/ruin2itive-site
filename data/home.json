@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-13T22:28:15.694Z",
-  "updated_local": "11/13/2026, 10:28:15 PM",
+  "updated_iso": "2026-11-14T01:15:57.209Z",
+  "updated_local": "11/14/2026, 1:15:57 AM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
-        "title": "FAA Issues National Ground Stop",
-        "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
+        "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+        "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+        "source": "hn",
+        "time": "11/14/2026, 12:52:29 AM"
+      },
+      {
+        "title": "FAA issues national ground stop",
+        "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
         "source": "hn",
         "time": "11/13/2026, 9:05:53 PM"
       },
       {
-        "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-        "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+        "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+        "url": "https://orcasairband.com/",
         "source": "hn",
-        "time": "11/13/2026, 6:40:44 PM"
+        "time": "11/13/2026, 10:04:24 PM"
       },
       {
-        "title": "FM-1 Workbench",
-        "url": "https://open.m-vave.com/fm1-workbench",
+        "title": "What Happened to 3Com?",
+        "url": "https://dfarq.homeip.net/what-happened-to-3com/",
         "source": "hn",
-        "time": "11/13/2026, 7:14:02 PM"
+        "time": "11/13/2026, 11:48:59 PM"
       },
       {
-        "title": "After 600 experiments, here's what I discovered about JEPA world models",
-        "url": "https://haddyalchaer.com/jepa",
+        "title": "Hawaii DOT: All West Coast flights halted by SpaceX debris after FAA ground stop",
+        "url": "https://www.hawaiinewsnow.com/2026/11/14/dot-all-west-coast-flights-halted-by-spacex-debris-after-faa-ground-stop/",
         "source": "hn",
-        "time": "11/13/2026, 5:55:28 PM"
-      },
-      {
-        "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-        "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-        "source": "hn",
-        "time": "11/12/2026, 10:03:09 PM"
+        "time": "11/14/2026, 1:09:52 AM"
       }
     ],
     "world": [
@@ -72,6 +72,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 13 Nov 2026 16:53:50 GMT"
+      },
+      {
+        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+        "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 13 Nov 2026 23:40:45 GMT"
       },
       {
         "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 13 Nov 2026 16:40:31 GMT"
-      },
-      {
-        "title": "Former Hamas bodyguard guilty of UK knife attack",
-        "url": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 13 Nov 2026 15:51:24 GMT"
       }
     ],
     "projects": [
