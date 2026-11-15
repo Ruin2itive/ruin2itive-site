@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-15T12:04:42.043Z"
+    "built_at": "2026-11-15T13:02:47.223Z"
   },
-  "items": [
-    {
-      "title": "We Need Guidelines for Learning and AI",
-      "url": "https://www.scotthyoung.com/blog/2026/07/22/we-need-guidelines-for-learning-and-ai/",
-      "date": "2026-11-15T12:03:33.000Z"
-    },
-    {
-      "title": "No Second Run: Does RSI Stop at Frontier Pre-Training?",
-      "url": "https://arxiv.org/abs/2611.10719",
-      "date": "2026-11-15T12:02:15.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
