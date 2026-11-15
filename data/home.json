@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-15T05:11:12.299Z",
-  "updated_local": "11/15/2026, 5:11:12 AM",
+  "updated_iso": "2026-11-15T06:09:42.913Z",
+  "updated_local": "11/15/2026, 6:09:42 AM",
   "sections": {
     "crypto": [
       {
@@ -48,16 +48,16 @@
         "time": "11/14/2026, 5:43:10 PM"
       },
       {
+        "title": "Memory Safety Bugs in Rust Standard Library",
+        "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+        "source": "hn",
+        "time": "11/13/2026, 5:22:08 AM"
+      },
+      {
         "title": "Show HN: Gawain – Require type hints on all Python variables",
         "url": "https://github.com/matheuzgomes/gawain",
         "source": "hn",
         "time": "11/15/2026, 4:39:25 AM"
-      },
-      {
-        "title": "Kiri – The Modern Container Runtime",
-        "url": "https://runkiri.com/",
-        "source": "hn",
-        "time": "11/15/2026, 4:40:41 AM"
       },
       {
         "title": "How did Woz write the Apple 1 BASIC before building the computer?",
@@ -68,10 +68,10 @@
     ],
     "world": [
       {
-        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ex-Met Police inspector lied about wife's death in Barbados",
+        "url": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 14 Nov 2026 22:37:25 GMT"
+        "time": "Sun, 15 Nov 2026 06:01:46 GMT"
       },
       {
         "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
@@ -86,16 +86,16 @@
         "time": "Sat, 14 Nov 2026 22:37:14 GMT"
       },
       {
+        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 14 Nov 2026 22:37:25 GMT"
+      },
+      {
         "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
         "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 14 Nov 2026 22:09:40 GMT"
-      },
-      {
-        "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-        "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 14 Nov 2026 22:27:06 GMT"
       }
     ],
     "projects": [
