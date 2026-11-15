@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-15T04:03:43.713Z"
+    "built_at": "2026-11-15T05:03:01.822Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Rust Is the New C",
+      "url": "https://www.namtao.com/rust-is-the-new-c/",
+      "date": "2026-11-15T04:59:47.000Z"
+    },
+    {
+      "title": "Munich Laser Emits a Beam of Matter Waves (1999)",
+      "url": "https://www.sciencedaily.com/releases/1999/03/990317060831.htm",
+      "date": "2026-11-15T04:49:09.000Z"
+    }
+  ]
 }
