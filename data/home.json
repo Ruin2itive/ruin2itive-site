@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-14T22:14:28.243Z",
-  "updated_local": "11/14/2026, 10:14:28 PM",
+  "updated_iso": "2026-11-15T00:35:18.624Z",
+  "updated_local": "11/15/2026, 12:35:18 AM",
   "sections": {
     "crypto": [
       {
@@ -36,19 +36,25 @@
     ],
     "hacker": [
       {
+        "title": "SpaceX catches the Starship to end Flight 15",
+        "url": "https://www.spacex.com/launches/starship-flight-15",
+        "source": "hn",
+        "time": "11/14/2026, 9:22:24 PM"
+      },
+      {
         "title": "Lovable apps expose passport details and more than 200K private messages",
         "url": "https://www.crissyfield.de/research/lovable-en/",
         "source": "hn",
         "time": "11/14/2026, 5:43:10 PM"
       },
       {
-        "title": "SpaceX Catches the Starship to end Flight 15",
-        "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+        "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+        "url": "https://retrocomputing.stackexchange.com/questions/17957",
         "source": "hn",
-        "time": "11/14/2026, 9:22:24 PM"
+        "time": "11/14/2026, 10:22:49 PM"
       },
       {
-        "title": "A Family Tree of Software Job Titles",
+        "title": "A family tree of software job titles",
         "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
         "source": "hn",
         "time": "11/14/2026, 5:45:19 PM"
@@ -58,12 +64,6 @@
         "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
         "source": "hn",
         "time": "11/14/2026, 1:43:28 PM"
-      },
-      {
-        "title": "PyPI's redesigned project pages with clearer security signals are now live",
-        "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-        "source": "hn",
-        "time": "11/14/2026, 3:40:52 PM"
       }
     ],
     "world": [
@@ -71,13 +71,7 @@
         "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
         "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 14 Nov 2026 20:41:45 GMT"
-      },
-      {
-        "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 14 Nov 2026 13:48:37 GMT"
+        "time": "Sat, 14 Nov 2026 22:37:25 GMT"
       },
       {
         "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
@@ -86,16 +80,22 @@
         "time": "Sat, 14 Nov 2026 12:22:43 GMT"
       },
       {
-        "title": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
-        "url": "https://www.bbc.co.uk/news/articles/cw808ll7x093o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Alleged Russell Brand rape victim wants age of consent law changed",
+        "url": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 14 Nov 2026 14:46:26 GMT"
+        "time": "Sat, 14 Nov 2026 22:37:14 GMT"
       },
       {
         "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
         "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 14 Nov 2026 22:09:40 GMT"
+      },
+      {
+        "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 14 Nov 2026 19:12:25 GMT"
       }
     ],
     "projects": [
