@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-15T04:13:37.277Z",
-  "updated_local": "11/15/2026, 4:13:37 AM",
+  "updated_iso": "2026-11-15T05:06:19.382Z",
+  "updated_local": "11/15/2026, 5:06:19 AM",
   "sections": {
     "crypto": [
       {
@@ -48,22 +48,22 @@
         "time": "11/14/2026, 5:43:10 PM"
       },
       {
+        "title": "Show HN: Gawain – Require type hints on all Python variables",
+        "url": "https://github.com/matheuzgomes/gawain",
+        "source": "hn",
+        "time": "11/15/2026, 4:39:25 AM"
+      },
+      {
+        "title": "Kiri – The Modern Container Runtime",
+        "url": "https://runkiri.com/",
+        "source": "hn",
+        "time": "11/15/2026, 4:40:41 AM"
+      },
+      {
         "title": "How did Woz write the Apple 1 BASIC before building the computer?",
         "url": "https://retrocomputing.stackexchange.com/questions/17957",
         "source": "hn",
         "time": "11/14/2026, 10:22:49 PM"
-      },
-      {
-        "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-        "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-        "source": "hn",
-        "time": "11/15/2026, 2:00:54 AM"
-      },
-      {
-        "title": "A family tree of software job titles",
-        "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-        "source": "hn",
-        "time": "11/14/2026, 5:45:19 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Sat, 14 Nov 2026 22:37:14 GMT"
       },
       {
-        "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-        "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 14 Nov 2026 22:27:06 GMT"
-      },
-      {
         "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
         "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 14 Nov 2026 22:09:40 GMT"
+      },
+      {
+        "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+        "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 14 Nov 2026 22:27:06 GMT"
       }
     ],
     "projects": [
