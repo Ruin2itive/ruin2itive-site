@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-15T17:02:43.390Z"
+    "built_at": "2026-11-15T18:03:22.936Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Snippai – an open-source, promptless Mathpix alternative",
-      "url": "https://github.com/xyTom/snippai",
-      "date": "2026-11-15T17:02:20.000Z"
-    },
-    {
-      "title": "Show HN: Skillroll – pure Markdown evals for any skill using a Dungeon Master",
-      "url": "https://github.com/hagaiw/skillroll",
-      "date": "2026-11-15T17:01:21.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
