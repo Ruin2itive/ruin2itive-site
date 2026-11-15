@@ -4,8 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-15T09:03:08.154Z"
+    "built_at": "2026-11-15T11:02:41.147Z"
   },
-  "error": "fetch failed",
+  "error": "HTTP 502",
   "items": []
 }
