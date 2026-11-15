@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-15T02:04:53.486Z"
+    "built_at": "2026-11-15T03:04:17.347Z"
   },
-  "items": [
-    {
-      "title": "Game Repacker DODI Retires Ahead of Wedding, Hands Site to New Team",
-      "url": "https://torrentfreak.com/game-repacker-dodi-retires-ahead-of-wedding-hands-site-to-new-team/",
-      "date": "2026-11-15T02:04:06.000Z"
-    },
-    {
-      "title": "Toyota Plans to Sell a Kei Pickup Truck in the U.S.",
-      "url": "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
-      "date": "2026-11-15T02:03:43.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
