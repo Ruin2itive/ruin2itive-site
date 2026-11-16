@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-16T16:03:35.432Z"
+    "built_at": "2026-11-16T17:03:04.368Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Emelyn, Your AI Social Media Manager",
+      "url": "https://www.emelyn.ai",
+      "date": "2026-11-16T16:57:21.000Z"
+    },
+    {
+      "title": "One actor's estimated $7M dropcatch spend on 10k expired domains",
+      "url": "https://www.infoblox.com/blog/threat-intelligence/2026/08/7-million-in-expired-domains-fuel-a-streaming-empire-with-a-malware-secret",
+      "date": "2026-11-16T16:57:21.000Z"
+    }
+  ]
 }
