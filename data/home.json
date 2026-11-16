@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-16T12:23:21.880Z",
-  "updated_local": "11/16/2026, 12:23:21 PM",
+  "updated_iso": "2026-11-16T13:17:41.069Z",
+  "updated_local": "11/16/2026, 1:17:41 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Ledger Brings Clear Signing to Solana, Ending &#39;Blind&#39; Signing for Jupiter Swaps",
+        "url": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
+        "source": "crypto",
+        "time": "Mon, 16 Nov 2026 13:12:08 +0000"
+      },
       {
         "title": "German Lawmakers Back Customs Powers to Seize Crypto of &#39;Unclear Origin&#39;",
         "url": "https://decrypt.co/383297/german-lawmakers-back-customs-powers-to-seize-crypto-of-unclear-origin",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
         "source": "crypto",
         "time": "Sun, 15 Nov 2026 16:01:02 +0000"
-      },
-      {
-        "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
-        "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
-        "source": "crypto",
-        "time": "Sun, 15 Nov 2026 14:01:02 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "11/16/2026, 11:03:16 AM"
       },
       {
-        "title": "Doing Show HN generates a ton of automated email pitches",
-        "url": "https://petervandijck.com/post/pbrgs-ev0bc",
+        "title": "How to make almost anything",
+        "url": "https://pub.cba.mit.edu/863.26/site/",
         "source": "hn",
-        "time": "11/16/2026, 11:00:02 AM"
+        "time": "11/16/2026, 5:50:37 AM"
       },
       {
         "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
@@ -54,19 +54,25 @@
         "time": "11/16/2026, 11:39:31 AM"
       },
       {
-        "title": "How to make almost anything",
-        "url": "https://pub.cba.mit.edu/863.26/site/",
-        "source": "hn",
-        "time": "11/16/2026, 5:50:37 AM"
-      },
-      {
         "title": "Universal XSS in uBlock Origin from website-driven element picker",
         "url": "https://iter.ca/post/ubo-uxss/",
         "source": "hn",
         "time": "11/16/2026, 2:04:48 AM"
+      },
+      {
+        "title": "Researchers track whole body movement with just a smartwatch",
+        "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+        "source": "hn",
+        "time": "11/13/2026, 5:29:49 PM"
       }
     ],
     "world": [
+      {
+        "title": "Russell Brand prison message denying rape 'appalling' and being investigated, No 10 says",
+        "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 16 Nov 2026 13:12:23 GMT"
+      },
       {
         "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
         "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cqe9kgegd2y4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 16 Nov 2026 06:02:44 GMT"
-      },
-      {
-        "title": "Russell Brand's lack of remorse in prison message 'revolting', Miliband says",
-        "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 16 Nov 2026 11:04:59 GMT"
       }
     ],
     "projects": [
