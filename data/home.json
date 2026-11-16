@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-16T03:09:01.959Z",
-  "updated_local": "11/16/2026, 3:09:01 AM",
+  "updated_iso": "2026-11-16T03:16:27.150Z",
+  "updated_local": "11/16/2026, 3:16:27 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "Qwen4-Max",
-        "url": "https://qwen.ai/blog?id=qwen4-max",
-        "source": "hn",
-        "time": "11/16/2026, 2:14:44 AM"
-      },
-      {
         "title": "Universal XSS in uBlock Origin from website-driven element picker",
         "url": "https://iter.ca/post/ubo-uxss/",
         "source": "hn",
@@ -60,6 +54,12 @@
         "time": "11/16/2026, 1:14:35 AM"
       },
       {
+        "title": "Qwen4-Max",
+        "url": "https://qwen.ai/blog?id=qwen4-max",
+        "source": "hn",
+        "time": "11/16/2026, 2:14:44 AM"
+      },
+      {
         "title": "Preserving 30 years of Salon journalism",
         "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
         "source": "hn",
@@ -72,12 +72,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 15 Nov 2026 22:30:03 GMT"
-      },
-      {
-        "title": "Staggered age of consent to be discussed after Brand case, minister says",
-        "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 15 Nov 2026 17:15:46 GMT"
       },
       {
         "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 15 Nov 2026 22:00:24 GMT"
+      },
+      {
+        "title": "Trident submarine returns home after record-breaking undersea patrol",
+        "url": "https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 15 Nov 2026 21:48:10 GMT"
       }
     ],
     "projects": [
