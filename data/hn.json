@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-16T10:03:22.979Z"
+    "built_at": "2026-11-16T11:04:11.406Z"
   },
-  "items": [
-    {
-      "title": "Running untrusted CMS plugins in WebAssembly",
-      "url": "https://hatamoto.dev/post/running-untrusted-cms-plugins-in-webassembly",
-      "date": "2026-11-16T09:35:32.000Z"
-    },
-    {
-      "title": "Six hours and a stack of .md files",
-      "url": "https://security.is.fucked.blog/six-hours-and-a-stack-of-md-files",
-      "date": "2026-11-16T09:35:04.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
