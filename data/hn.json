@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-16T18:03:49.942Z"
+    "built_at": "2026-11-16T19:02:47.956Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Rich in Hindsight (grow v$100 in 1970 using historical stock prices)",
+      "url": "https://agitestsuite.com/games/richinhindsight",
+      "date": "2026-11-16T19:01:42.000Z"
+    },
+    {
+      "title": "gggigs – a job board with no accounts, no ads and no trackers",
+      "url": "https://gggigs.com",
+      "date": "2026-11-16T19:00:03.000Z"
+    }
+  ]
 }
