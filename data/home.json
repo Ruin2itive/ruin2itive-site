@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-16T00:38:19.949Z",
-  "updated_local": "11/16/2026, 12:38:19 AM",
+  "updated_iso": "2026-11-16T01:08:16.503Z",
+  "updated_local": "11/16/2026, 1:08:16 AM",
   "sections": {
     "crypto": [
       {
@@ -48,25 +48,31 @@
         "time": "11/15/2026, 11:00:11 PM"
       },
       {
+        "title": "Mini.nvim Is Now on Tangled",
+        "url": "https://tangled.org/nvim-mini.org/mini.nvim",
+        "source": "hn",
+        "time": "11/15/2026, 11:55:41 PM"
+      },
+      {
+        "title": "What's Next for Nvidia?",
+        "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+        "source": "hn",
+        "time": "11/15/2026, 11:55:55 PM"
+      },
+      {
         "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
         "url": "https://bruceroettgers.eu/blog/protomaps/",
         "source": "hn",
         "time": "11/15/2026, 7:26:22 PM"
-      },
-      {
-        "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
-        "url": "https://lastcomplication.com/",
-        "source": "hn",
-        "time": "11/15/2026, 10:48:52 PM"
-      },
-      {
-        "title": "A short explainer on how El Niño works [video]",
-        "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-        "source": "hn",
-        "time": "11/15/2026, 6:23:21 PM"
       }
     ],
     "world": [
+      {
+        "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+        "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 15 Nov 2026 22:30:03 GMT"
+      },
       {
         "title": "Staggered age of consent to be discussed after Brand case, minister says",
         "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&amp;at_campaign=rss",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 15 Nov 2026 22:00:24 GMT"
-      },
-      {
-        "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
-        "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 15 Nov 2026 22:30:03 GMT"
       }
     ],
     "projects": [
