@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-16T02:18:06.890Z",
-  "updated_local": "11/16/2026, 2:18:06 AM",
+  "updated_iso": "2026-11-16T03:09:01.959Z",
+  "updated_local": "11/16/2026, 3:09:01 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,18 @@
     ],
     "hacker": [
       {
+        "title": "Qwen4-Max",
+        "url": "https://qwen.ai/blog?id=qwen4-max",
+        "source": "hn",
+        "time": "11/16/2026, 2:14:44 AM"
+      },
+      {
+        "title": "Universal XSS in uBlock Origin from website-driven element picker",
+        "url": "https://iter.ca/post/ubo-uxss/",
+        "source": "hn",
+        "time": "11/16/2026, 2:04:48 AM"
+      },
+      {
         "title": "Old Bitly links are being hijacked",
         "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
         "source": "hn",
@@ -52,18 +64,6 @@
         "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
         "source": "hn",
         "time": "11/15/2026, 11:00:11 PM"
-      },
-      {
-        "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-        "url": "https://bruceroettgers.eu/blog/protomaps/",
-        "source": "hn",
-        "time": "11/15/2026, 7:26:22 PM"
-      },
-      {
-        "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-        "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-        "source": "hn",
-        "time": "11/16/2026, 12:21:54 AM"
       }
     ],
     "world": [
@@ -86,10 +86,10 @@
         "time": "Sun, 15 Nov 2026 19:32:39 GMT"
       },
       {
-        "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Prince and Princess of Wales arrive in India ahead of meeting with Modi",
+        "url": "https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 15 Nov 2026 22:00:13 GMT"
+        "time": "Mon, 16 Nov 2026 02:53:15 GMT"
       },
       {
         "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
