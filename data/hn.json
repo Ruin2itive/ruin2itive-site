@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-16T07:08:56.805Z"
+    "built_at": "2026-11-16T08:12:34.920Z"
   },
-  "items": [
-    {
-      "title": "Espressif Posts a Linux BSP for the ESP32-S31",
-      "url": "https://blog.adafruit.com/2026/08/25/espressif-posts-a-linux-bsp-for-the-esp32-s31/",
-      "date": "2026-11-16T07:06:51.000Z"
-    },
-    {
-      "title": "Peripeteia",
-      "url": "https://en.wikipedia.org/wiki/Peripeteia",
-      "date": "2026-11-16T07:03:53.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
