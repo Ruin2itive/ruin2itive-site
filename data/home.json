@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-11-16T22:10:47.665Z",
-  "updated_local": "11/16/2026, 10:10:47 PM",
+  "updated_iso": "2026-11-16T23:05:14.181Z",
+  "updated_local": "11/16/2026, 11:05:14 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Alibaba&#39;s Qwen 4 Max Leads China&#39;s AI Agent Race—But You Can&#39;t Download It",
+        "url": "https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it",
+        "source": "crypto",
+        "time": "Mon, 16 Nov 2026 22:46:02 +0000"
+      },
+      {
+        "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
+        "url": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
+        "source": "crypto",
+        "time": "Mon, 16 Nov 2026 22:18:03 +0000"
+      },
       {
         "title": "Bitcoin&#39;s $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
         "url": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
@@ -20,32 +32,26 @@
         "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
         "source": "crypto",
         "time": "Mon, 16 Nov 2026 20:36:03 +0000"
-      },
-      {
-        "title": "Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief",
-        "url": "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief",
-        "source": "crypto",
-        "time": "Mon, 16 Nov 2026 19:36:03 +0000"
-      },
-      {
-        "title": "Trump Backs Jensen Huang’s Return to Nvidia as Sam Altman Says &#39;Heroes Have Flaws&#39;",
-        "url": "https://decrypt.co/383351/trump-elon-musk-sam-altman-jensen-huang-nvidia",
-        "source": "crypto",
-        "time": "Mon, 16 Nov 2026 19:05:02 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
-        "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-        "source": "hn",
-        "time": "11/16/2026, 6:31:30 PM"
-      },
       {
         "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
         "url": "https://www.cs.cmu.edu/learn/",
         "source": "hn",
         "time": "11/16/2026, 8:43:36 PM"
+      },
+      {
+        "title": "BugMeNot Has Closed",
+        "url": "https://www.bugmenot.com/",
+        "source": "hn",
+        "time": "11/16/2026, 9:32:17 PM"
+      },
+      {
+        "title": "How to Break into Security, Ptacek Edition (2012)",
+        "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+        "source": "hn",
+        "time": "11/16/2026, 10:19:23 PM"
       },
       {
         "title": "Rust changed me as a developer",
@@ -54,24 +60,18 @@
         "time": "11/16/2026, 8:16:50 PM"
       },
       {
-        "title": "Grazing sheep in fields with solar arrays",
-        "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+        "title": "Spamhaus new email sender requirements in November",
+        "url": "https://www.spamhaus.org/sender-guidelines/",
         "source": "hn",
-        "time": "11/16/2026, 5:27:46 PM"
-      },
-      {
-        "title": "Jiff 1.0: A datetime library for Rust",
-        "url": "https://burntsushi.net/jiff/",
-        "source": "hn",
-        "time": "11/16/2026, 4:53:39 PM"
+        "time": "11/16/2026, 9:47:19 PM"
       }
     ],
     "world": [
       {
-        "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
-        "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+        "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 16 Nov 2026 18:22:22 GMT"
+        "time": "Mon, 16 Nov 2026 22:32:47 GMT"
       },
       {
         "title": "Robert Pattinson to replace Daniel Craig as James Bond",
@@ -80,16 +80,16 @@
         "time": "Mon, 16 Nov 2026 19:43:58 GMT"
       },
       {
-        "title": "When will we see Robert Pattinson as Bond in cinemas?",
-        "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Cass report author says she does not support draft conversion practices bill",
+        "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 16 Nov 2026 17:18:54 GMT"
+        "time": "Mon, 16 Nov 2026 22:08:03 GMT"
       },
       {
-        "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-        "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
+        "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 16 Nov 2026 13:19:33 GMT"
+        "time": "Mon, 16 Nov 2026 18:22:22 GMT"
       },
       {
         "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
