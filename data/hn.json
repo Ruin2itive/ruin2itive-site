@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-16T14:14:26.667Z"
+    "built_at": "2026-11-16T15:03:09.386Z"
   },
-  "items": [
-    {
-      "title": "SpaceX's landing reminds us even extraordinary technology will be reinvented",
-      "url": "https://www.theatlantic.com/technology/2026/11/spacex-starship-catch/689453/",
-      "date": "2026-11-16T14:13:23.000Z"
-    },
-    {
-      "title": "Show HN: Neoma P-CAM – Sub-millisecond physical equilibrium and 64-spin Ising",
-      "url": "https://github.com/neoma-pcam/pcam-live",
-      "date": "2026-11-16T14:12:22.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
