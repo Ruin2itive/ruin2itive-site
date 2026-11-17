@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-17T15:03:30.025Z"
+    "built_at": "2026-11-17T16:03:37.133Z"
   },
-  "items": [
-    {
-      "title": "MySQL Development as It Happens, Part 2 – Vector Indexes",
-      "url": "https://blogs.oracle.com/mysql/mysql-development-as-it-happens-part-2-vector-indexes",
-      "date": "2026-11-17T15:02:58.000Z"
-    },
-    {
-      "title": "Pentagon fails 9th financial audit in a row",
-      "url": "https://thehill.com/policy/defense/6224597-pentagon-fails-ninth-audit/",
-      "date": "2026-11-17T15:02:53.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
