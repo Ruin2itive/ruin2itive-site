@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-17T21:03:00.409Z"
+    "built_at": "2026-11-17T22:03:13.103Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Phonecard Index – 48,657 phonecards and SIM card carriers",
+      "url": "https://endtime-instruments.org/phonecard-index/",
+      "date": "2026-11-17T22:02:34.000Z"
+    },
+    {
+      "title": "California bans Waymo autonomous vehicles from state freeways",
+      "url": "https://apnews.com/article/waymo-driverless-vehicle-california-freeway-ban-37bcd5371a4699a1850b7666b271946b",
+      "date": "2026-11-17T22:00:41.000Z"
+    }
+  ]
 }
