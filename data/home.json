@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-11-17T19:09:55.987Z",
-  "updated_local": "11/17/2026, 7:09:55 PM",
+  "updated_iso": "2026-11-17T20:06:51.000Z",
+  "updated_local": "11/17/2026, 8:06:51 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Cathie Wood&#39;s ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
+        "url": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks",
+        "source": "crypto",
+        "time": "Tue, 17 Nov 2026 19:46:03 +0000"
+      },
+      {
+        "title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
+        "url": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
+        "source": "crypto",
+        "time": "Tue, 17 Nov 2026 19:26:02 +0000"
+      },
       {
         "title": "Jensen Huang Says He&#39;d Be &#39;Honored&#39; to Return as Nvidia CEO, Despite Board&#39;s Resistance",
         "url": "https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/383443/former-robinhood-engineer-pleads-guilty-crypto-insider-trading",
         "source": "crypto",
         "time": "Tue, 17 Nov 2026 16:41:38 +0000"
-      },
-      {
-        "title": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
-        "url": "https://decrypt.co/383434/standard-life-chair-wants-tokenized-gilts-to-open-uk-government-bonds-to-retail-savers",
-        "source": "crypto",
-        "time": "Tue, 17 Nov 2026 15:30:37 +0000"
-      },
-      {
-        "title": "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack",
-        "url": "https://decrypt.co/383418/morning-minute-the-cftc-officially-greenlights-perps-in-the-us-starting-with-backpack",
-        "source": "crypto",
-        "time": "Tue, 17 Nov 2026 12:56:24 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "11/17/2026, 6:25:13 PM"
       },
       {
-        "title": "What is the best harness for each model?",
-        "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+        "title": "Phrack 73 Released",
+        "url": "https://phrack.org/issues/73/introduction_md",
         "source": "hn",
-        "time": "11/17/2026, 2:53:43 PM"
+        "time": "11/17/2026, 6:31:25 PM"
       },
       {
-        "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
-        "url": "https://alloyhtml.com/example.html",
+        "title": "jQuery 4.1.0",
+        "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
         "source": "hn",
-        "time": "11/17/2026, 3:07:09 PM"
+        "time": "11/17/2026, 7:50:40 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Tue, 17 Nov 2026 18:24:21 GMT"
       },
       {
+        "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+        "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 17 Nov 2026 19:08:25 GMT"
+      },
+      {
         "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
         "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 17 Nov 2026 16:56:38 GMT"
-      },
-      {
-        "title": "BBC reports from Kyiv bridge hit by Russian attack",
-        "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 17 Nov 2026 15:54:15 GMT"
       }
     ],
     "projects": [
