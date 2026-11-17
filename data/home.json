@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-11-17T09:13:35.447Z",
-  "updated_local": "11/17/2026, 9:13:35 AM",
+  "updated_iso": "2026-11-17T10:06:35.499Z",
+  "updated_local": "11/17/2026, 10:06:35 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Nvidia Board Not Considering Jensen Huang&#39;s Return: Report",
+        "url": "https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report",
+        "source": "crypto",
+        "time": "Tue, 17 Nov 2026 09:54:32 +0000"
+      },
+      {
+        "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
+        "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+        "source": "crypto",
+        "time": "Tue, 17 Nov 2026 09:27:29 +0000"
+      },
       {
         "title": "Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading",
         "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
         "source": "crypto",
         "time": "Mon, 16 Nov 2026 22:18:03 +0000"
-      },
-      {
-        "title": "Bitcoin&#39;s $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
-        "url": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
-        "source": "crypto",
-        "time": "Mon, 16 Nov 2026 21:46:03 +0000"
-      },
-      {
-        "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
-        "url": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
-        "source": "crypto",
-        "time": "Mon, 16 Nov 2026 21:16:03 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "11/16/2026, 8:43:36 PM"
       },
       {
-        "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
-        "url": "https://github.com/ZigaoWang/zigzag",
+        "title": "BugMeNot has closed",
+        "url": "https://www.bugmenot.com/",
         "source": "hn",
-        "time": "11/14/2026, 1:17:10 PM"
+        "time": "11/16/2026, 9:32:17 PM"
       },
       {
         "title": "Nimony: A New Compiler for Nim",
@@ -54,16 +54,16 @@
         "time": "11/16/2026, 1:05:22 AM"
       },
       {
-        "title": "BugMeNot has closed",
-        "url": "https://www.bugmenot.com/",
-        "source": "hn",
-        "time": "11/16/2026, 9:32:17 PM"
-      },
-      {
         "title": "Optimizely compromised, served malware on Zoom, GitLab",
         "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
         "source": "hn",
         "time": "11/16/2026, 11:00:34 PM"
+      },
+      {
+        "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+        "url": "https://github.com/ZigaoWang/zigzag",
+        "source": "hn",
+        "time": "11/14/2026, 1:17:10 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Mon, 16 Nov 2026 22:08:03 GMT"
       },
       {
-        "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+        "title": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
         "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Nov 2026 08:06:32 GMT"
+        "time": "Tue, 17 Nov 2026 09:27:41 GMT"
       }
     ],
     "projects": [
