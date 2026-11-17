@@ -4,18 +4,8 @@
     "label": "reuters",
     "source_url": "https://news.google.com/rss/search?q=site%3Areuters.com%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
     "take": 2,
-    "built_at": "2026-11-17T07:03:53.845Z"
+    "built_at": "2026-11-17T08:04:54.360Z"
   },
-  "items": [
-    {
-      "title": "US releases details of Megaspeed probe, says investigation began in 2024 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMU0tbGd6YXl4clNDZzNQY1Q3N2tFWmsxNVBRa0NOMFEwbjFJYzJFRzdVT3BrdFdpRDZRdmJTR0Fhck95bWlTdWp2NmtoazBXbWl2ZkZnOXNlUWhhazN6NFRqRXNrZU5kNXgzTWpadHF4NU5PTFZuQ0QzcTd2TFN5cG04dFNBMC1JSmN3VnE1WGV3eS1zbWp2OTg3VmdXRTZpMTM4aG9wUnpyeV9nYXFPRnREWHRLMW1WWXhyN2hUZTY?oc=5",
-      "date": "2026-11-17T05:18:00.000Z"
-    },
-    {
-      "title": "Taiwan, Japan flag incursions by Russian aircraft as Putin set to arrive in China - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZGFJMTUwWmFyejl3MmtfWlhQM2Fud3FVQWFpYXFuU1lLUC0zREVYZDZ0SHgtU3drVzhYdkRXdGtKU0dQUFBCa3A4RWpIVjl5bnVDd0tRY2sxUHRZZlVvQzZtTDBtaHdUa3ZYSVREOE1wZEZUNVAtWWFKcVQyTjdvbnRreGpsbjZtQ2JMc25ZcUNTVkZVMTVjb21XbmZySkhIczRzRU8xRDRGMFpTbDVTQ1QzeWtRYlo4UkNoVHZQMHhiWlVCOERxU0t2cXI?oc=5",
-      "date": "2026-11-17T04:33:00.000Z"
-    }
-  ]
+  "error": "HTTP 429",
+  "items": []
 }

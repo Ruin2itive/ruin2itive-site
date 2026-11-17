@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-17T07:03:53.193Z"
+    "built_at": "2026-11-17T08:04:49.408Z"
   },
-  "items": [
-    {
-      "title": "15M emails and documents reveal the dark secrets of Deutsche Bank",
-      "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-datenleak-inside-deutsche-bank-enthuellt-dunkle-geheimnisse-a-088e254f-17a3-4855-9869-39206c702fee",
-      "date": "2026-11-17T06:57:34.000Z"
-    },
-    {
-      "title": "Rex Demo: Remote Copy/Paste, Drag/Drop, and Port Forwarding [video]",
-      "url": "https://www.youtube.com/watch?v=pkH_WJApzH0",
-      "date": "2026-11-17T06:57:16.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
