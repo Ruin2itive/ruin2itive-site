@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-17T09:03:39.276Z"
+    "built_at": "2026-11-17T10:03:25.374Z"
   },
-  "items": [
-    {
-      "title": "Mini Organ Made from Paper [video]",
-      "url": "https://www.youtube.com/watch?v=ujdlxAQw5oA",
-      "date": "2026-11-17T09:02:57.000Z"
-    },
-    {
-      "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
-      "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
-      "date": "2026-11-17T09:02:23.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
