@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-17T11:05:34.731Z",
-  "updated_local": "11/17/2026, 11:05:34 AM",
+  "updated_iso": "2026-11-17T11:10:47.864Z",
+  "updated_local": "11/17/2026, 11:10:47 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
+        "url": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
+        "source": "crypto",
+        "time": "Tue, 17 Nov 2026 11:05:25 +0000"
+      },
       {
         "title": "Nvidia Board Not Considering Jensen Huang&#39;s Return: Report",
         "url": "https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it",
         "source": "crypto",
         "time": "Mon, 16 Nov 2026 22:46:02 +0000"
-      },
-      {
-        "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
-        "url": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
-        "source": "crypto",
-        "time": "Mon, 16 Nov 2026 22:18:03 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "11/16/2026, 8:43:36 PM"
       },
       {
-        "title": "Japan's Hometown Tax (2018)",
-        "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
-        "source": "hn",
-        "time": "11/15/2026, 5:34:22 PM"
-      },
-      {
         "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
         "url": "https://visualbasic.world/",
         "source": "hn",
         "time": "11/15/2026, 11:08:30 PM"
+      },
+      {
+        "title": "Japan's Hometown Tax (2018)",
+        "url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
+        "source": "hn",
+        "time": "11/15/2026, 5:34:22 PM"
       },
       {
         "title": "Nimony: A New Compiler for Nim",
