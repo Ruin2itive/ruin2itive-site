@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-16T22:02:55.459Z"
+    "built_at": "2026-11-17T00:09:12.028Z"
   },
-  "items": [
-    {
-      "title": "Cooked",
-      "url": "https://news.ycombinator.com/item?id=50523969",
-      "date": "2026-11-16T21:59:10.000Z"
-    },
-    {
-      "title": "No matter how you ask, more Americans are negative than positive about AI",
-      "url": "https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai",
-      "date": "2026-11-16T21:58:29.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
