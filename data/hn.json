@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-17T04:03:44.445Z"
+    "built_at": "2026-11-17T05:03:15.761Z"
   },
-  "items": [
-    {
-      "title": "Nvidia faces daunting challenge of replacing CEO Jensen Huang",
-      "url": "https://www.washingtonpost.com/technology/2026/11/14/nvidia-faces-daunting-challenge-replacing-ceo-jensen-huang/",
-      "date": "2026-11-17T04:01:50.000Z"
-    },
-    {
-      "title": "Show HN: Woolly, a local mem0-compatible memory API for AI agents",
-      "url": "https://usewoolly.com/",
-      "date": "2026-11-17T04:01:19.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
