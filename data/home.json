@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-11-17T22:10:58.903Z",
-  "updated_local": "11/17/2026, 10:10:58 PM",
+  "updated_iso": "2026-11-17T23:05:17.217Z",
+  "updated_local": "11/17/2026, 11:05:17 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Nvidia Board Shuts Down Jensen Huang Comeback, Launches Search for New CEO",
+        "url": "https://decrypt.co/383513/nvidia-board-shuts-down-jensen-huang-comeback",
+        "source": "crypto",
+        "time": "Tue, 17 Nov 2026 22:39:53 +0000"
+      },
+      {
+        "title": "Nvidia Shares Rise After Earnings Beat in First Report Since Jensen Huang&#39;s Exit",
+        "url": "https://decrypt.co/383505/nvidia-shares-rise-earnings-beat-first-report-jensen-huang-exit",
+        "source": "crypto",
+        "time": "Tue, 17 Nov 2026 22:18:18 +0000"
+      },
       {
         "title": "OpenAI&#39;s GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
         "url": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark",
@@ -20,27 +32,9 @@
         "url": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
         "source": "crypto",
         "time": "Tue, 17 Nov 2026 20:36:03 +0000"
-      },
-      {
-        "title": "Cathie Wood&#39;s ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
-        "url": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks",
-        "source": "crypto",
-        "time": "Tue, 17 Nov 2026 19:46:03 +0000"
-      },
-      {
-        "title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
-        "url": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
-        "source": "crypto",
-        "time": "Tue, 17 Nov 2026 19:26:02 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "GPT‑6.2 Astra and Sol",
-        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-        "source": "hn",
-        "time": "11/17/2026, 5:46:43 PM"
-      },
       {
         "title": "Java4Shell: RCE in OpenJDK when processing Base64",
         "url": "https://calif.io/java4shell/",
@@ -48,16 +42,22 @@
         "time": "11/17/2026, 9:11:28 PM"
       },
       {
+        "title": "GPT‑6.2 Astra and Sol",
+        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+        "source": "hn",
+        "time": "11/17/2026, 5:46:43 PM"
+      },
+      {
+        "title": "Quad9's withdrawal from France: A canary in the coal mine",
+        "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+        "source": "hn",
+        "time": "11/17/2026, 10:13:34 PM"
+      },
+      {
         "title": "jQuery 4.1.0",
         "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
         "source": "hn",
         "time": "11/17/2026, 7:50:40 PM"
-      },
-      {
-        "title": "MAI Code 2 and Code 2 Flash",
-        "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-        "source": "hn",
-        "time": "11/17/2026, 6:25:13 PM"
       },
       {
         "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
@@ -74,10 +74,10 @@
         "time": "Tue, 17 Nov 2026 18:43:05 GMT"
       },
       {
-        "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
+        "title": "'It's hard to keep going': Neets speak to BBC about struggling to get a job",
         "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Nov 2026 17:35:22 GMT"
+        "time": "Tue, 17 Nov 2026 22:51:15 GMT"
       },
       {
         "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
@@ -89,7 +89,7 @@
         "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
         "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Nov 2026 20:44:54 GMT"
+        "time": "Tue, 17 Nov 2026 22:46:30 GMT"
       },
       {
         "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
