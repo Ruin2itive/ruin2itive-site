@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-17T18:03:46.606Z"
+    "built_at": "2026-11-17T19:03:09.719Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Helped This Many – count the good you do, with error bars and a badge",
+      "url": "https://helpedthismany.com",
+      "date": "2026-11-17T19:02:45.000Z"
+    },
+    {
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "url": "https://starsling.dev",
+      "date": "2026-11-17T19:01:43.000Z"
+    }
+  ]
 }
