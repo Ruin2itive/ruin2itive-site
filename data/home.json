@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-17T21:10:48.461Z",
-  "updated_local": "11/17/2026, 9:10:48 PM",
+  "updated_iso": "2026-11-17T22:05:44.275Z",
+  "updated_local": "11/17/2026, 10:05:44 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI&#39;s GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
+        "url": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark",
+        "source": "crypto",
+        "time": "Tue, 17 Nov 2026 21:46:02 +0000"
+      },
       {
         "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
         "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
         "source": "crypto",
         "time": "Tue, 17 Nov 2026 19:26:02 +0000"
-      },
-      {
-        "title": "Jensen Huang Says He&#39;d Be &#39;Honored&#39; to Return as Nvidia CEO, Despite Board&#39;s Resistance",
-        "url": "https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance",
-        "source": "crypto",
-        "time": "Tue, 17 Nov 2026 18:23:43 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "11/17/2026, 5:46:43 PM"
       },
       {
+        "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+        "url": "https://calif.io/java4shell/",
+        "source": "hn",
+        "time": "11/17/2026, 9:11:28 PM"
+      },
+      {
         "title": "jQuery 4.1.0",
         "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
         "source": "hn",
         "time": "11/17/2026, 7:50:40 PM"
       },
       {
-        "title": "MAI Code 2 and Code 2 Flash",
-        "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-        "source": "hn",
-        "time": "11/17/2026, 6:25:13 PM"
-      },
-      {
-        "title": "350 years ago, this man discovered that light has a finite speed",
+        "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
         "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
         "source": "hn",
         "time": "11/17/2026, 7:25:27 PM"
       },
       {
-        "title": "Web Browser Engineering (2021)",
-        "url": "https://browser.engineering/",
+        "title": "MAI Code 2 and Code 2 Flash",
+        "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
         "source": "hn",
-        "time": "11/17/2026, 8:01:35 PM"
+        "time": "11/17/2026, 6:25:13 PM"
       }
     ],
     "world": [
@@ -95,7 +95,7 @@
         "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
         "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Nov 2026 16:56:38 GMT"
+        "time": "Tue, 17 Nov 2026 21:24:35 GMT"
       }
     ],
     "projects": [
