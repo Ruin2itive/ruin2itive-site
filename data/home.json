@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-17T11:10:47.864Z",
-  "updated_local": "11/17/2026, 11:10:47 AM",
+  "updated_iso": "2026-11-17T12:09:26.101Z",
+  "updated_local": "11/17/2026, 12:09:26 PM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,12 @@
         "time": "11/16/2026, 8:43:36 PM"
       },
       {
+        "title": "How the Claude Code team thinks about verification",
+        "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+        "source": "hn",
+        "time": "11/17/2026, 10:20:40 AM"
+      },
+      {
         "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
         "url": "https://visualbasic.world/",
         "source": "hn",
@@ -54,12 +60,6 @@
         "time": "11/15/2026, 5:34:22 PM"
       },
       {
-        "title": "Nimony: A New Compiler for Nim",
-        "url": "https://nimony.org/",
-        "source": "hn",
-        "time": "11/16/2026, 1:05:22 AM"
-      },
-      {
         "title": "BugMeNot has closed",
         "url": "https://www.bugmenot.com/",
         "source": "hn",
@@ -68,13 +68,25 @@
     ],
     "world": [
       {
+        "title": "Watch: What's in the Milburn review?",
+        "url": "https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 17 Nov 2026 11:30:06 GMT"
+      },
+      {
+        "title": "At a glance: Key proposals from Milburn's Neets report",
+        "url": "https://www.bbc.co.uk/news/articles/cq074grvdpz2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 17 Nov 2026 11:31:40 GMT"
+      },
+      {
         "title": "The young people caught up in Britain's Neets crisis",
         "url": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Nov 2026 00:06:34 GMT"
+        "time": "Tue, 17 Nov 2026 11:55:25 GMT"
       },
       {
-        "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+        "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
         "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 17 Nov 2026 10:45:55 GMT"
@@ -84,18 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6kgq8d779lro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 17 Nov 2026 06:02:28 GMT"
-      },
-      {
-        "title": "Watch: Predatory Met detective's behaviour became increasingly extreme",
-        "url": "https://www.bbc.co.uk/news/videos/cqlymxe49g30o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 17 Nov 2026 07:10:08 GMT"
-      },
-      {
-        "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
-        "url": "https://www.bbc.co.uk/news/articles/cqvg27zyrd99o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 17 Nov 2026 10:11:00 GMT"
       }
     ],
     "projects": [
