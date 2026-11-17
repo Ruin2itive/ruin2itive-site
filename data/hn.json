@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-17T16:03:37.133Z"
+    "built_at": "2026-11-17T17:03:07.669Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Do Apple M-Series Processors Enforce the Compound Memory Model?",
+      "url": "https://arxiv.org/abs/2611.21406",
+      "date": "2026-11-17T17:02:06.000Z"
+    },
+    {
+      "title": "A Town's Forgotten History Helped Protect Its Drinking Water",
+      "url": "https://blog.archive.org/2026/11/17/the-falmouth-story/",
+      "date": "2026-11-17T17:01:14.000Z"
+    }
+  ]
 }
