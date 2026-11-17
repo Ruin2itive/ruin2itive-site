@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-17T16:14:21.571Z",
-  "updated_local": "11/17/2026, 4:14:21 PM",
+  "updated_iso": "2026-11-17T17:06:06.532Z",
+  "updated_local": "11/17/2026, 5:06:06 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
+        "url": "https://decrypt.co/383443/former-robinhood-engineer-pleads-guilty-crypto-insider-trading",
+        "source": "crypto",
+        "time": "Tue, 17 Nov 2026 16:41:38 +0000"
+      },
       {
         "title": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
         "url": "https://decrypt.co/383434/standard-life-chair-wants-tokenized-gilts-to-open-uk-government-bonds-to-retail-savers",
@@ -26,32 +32,26 @@
         "url": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
         "source": "crypto",
         "time": "Tue, 17 Nov 2026 11:05:25 +0000"
-      },
-      {
-        "title": "Nvidia Board Not Considering Jensen Huang&#39;s Return: Report",
-        "url": "https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report",
-        "source": "crypto",
-        "time": "Tue, 17 Nov 2026 09:54:32 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "We don't need more apps. We need better open source",
-        "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
-        "source": "hn",
-        "time": "11/17/2026, 2:45:36 PM"
-      },
-      {
-        "title": "Loopholes Are for Assholes",
-        "url": "https://actsofvolition.com/2026/11/loopholes-are-for-assholes/",
-        "source": "hn",
-        "time": "11/17/2026, 2:20:32 PM"
-      },
-      {
-        "title": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+        "title": "What is the best harness for each model?",
         "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
         "source": "hn",
         "time": "11/17/2026, 2:53:43 PM"
+      },
+      {
+        "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+        "url": "https://alloyhtml.com/example.html",
+        "source": "hn",
+        "time": "11/17/2026, 3:07:09 PM"
+      },
+      {
+        "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+        "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+        "source": "hn",
+        "time": "11/17/2026, 11:45:51 AM"
       },
       {
         "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
@@ -60,19 +60,13 @@
         "time": "11/16/2026, 3:02:20 PM"
       },
       {
-        "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-        "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+        "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+        "url": "https://www.cs.cmu.edu/learn/",
         "source": "hn",
-        "time": "11/17/2026, 11:45:51 AM"
+        "time": "11/16/2026, 8:43:36 PM"
       }
     ],
     "world": [
-      {
-        "title": "Watch: What's in the Milburn review?",
-        "url": "https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 17 Nov 2026 11:30:06 GMT"
-      },
       {
         "title": "At a glance: Key proposals from Milburn's Neets report",
         "url": "https://www.bbc.co.uk/news/articles/cq074grvdpz2o?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +74,28 @@
         "time": "Tue, 17 Nov 2026 11:31:40 GMT"
       },
       {
-        "title": "Why Milburn's Neets reforms will only save £200m a year by 2036",
-        "url": "https://www.bbc.co.uk/news/articles/c6205wlz8vn0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Jensen Huang says he would return as Nvidia boss if asked by the board",
+        "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Nov 2026 13:15:59 GMT"
+        "time": "Tue, 17 Nov 2026 16:39:54 GMT"
       },
       {
-        "title": "Out of work and not in college: How quickly could Milburn's plans help you?",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2wnz3k7lno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 17 Nov 2026 14:43:05 GMT"
-      },
-      {
-        "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
         "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Nov 2026 16:07:41 GMT"
+        "time": "Tue, 17 Nov 2026 16:56:38 GMT"
+      },
+      {
+        "title": "BBC reports from Kyiv bridge hit by Russian attack",
+        "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 17 Nov 2026 15:54:15 GMT"
+      },
+      {
+        "title": "Rooney says he considered taking his own life at Man Utd",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 17 Nov 2026 14:09:19 GMT"
       }
     ],
     "projects": [
