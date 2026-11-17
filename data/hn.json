@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-17T01:03:28.784Z"
+    "built_at": "2026-11-17T02:04:56.018Z"
   },
-  "items": [
-    {
-      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-      "url": "https://kobi.music/research/dettato",
-      "date": "2026-11-17T01:03:05.000Z"
-    },
-    {
-      "title": "Meta faces sanctions bid over withheld evidence in teen mental health cases",
-      "url": "https://www.reuters.com/legal/litigation/meta-faces-sanctions-bid-over-withheld-evidence-teen-mental-health-cases-2026-11-16/",
-      "date": "2026-11-17T01:02:48.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
