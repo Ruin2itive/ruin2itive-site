@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-17T18:14:37.104Z",
-  "updated_local": "11/17/2026, 6:14:37 PM",
+  "updated_iso": "2026-11-17T19:05:32.024Z",
+  "updated_local": "11/17/2026, 7:05:32 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Jensen Huang Says He&#39;d Be &#39;Honored&#39; to Return as Nvidia CEO, Despite Board&#39;s Resistance",
+        "url": "https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance",
+        "source": "crypto",
+        "time": "Tue, 17 Nov 2026 18:23:43 +0000"
+      },
       {
         "title": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
         "url": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/383418/morning-minute-the-cftc-officially-greenlights-perps-in-the-us-starting-with-backpack",
         "source": "crypto",
         "time": "Tue, 17 Nov 2026 12:56:24 +0000"
-      },
-      {
-        "title": "&#39;The Biggest Opportunity in Crypto Is Already Underway&#39;: Solana Bets Big on AI Agents",
-        "url": "https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents",
-        "source": "crypto",
-        "time": "Tue, 17 Nov 2026 12:50:55 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,18 @@
         "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
         "source": "hn",
         "time": "11/17/2026, 5:46:43 PM"
+      },
+      {
+        "title": "Apple Services Down",
+        "url": "https://developer.apple.com/system-status/",
+        "source": "hn",
+        "time": "11/17/2026, 5:47:14 PM"
+      },
+      {
+        "title": "MAI Code 2 and Code 2 Flash",
+        "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+        "source": "hn",
+        "time": "11/17/2026, 6:25:13 PM"
       },
       {
         "title": "What is the best harness for each model?",
@@ -52,21 +64,15 @@
         "url": "https://alloyhtml.com/example.html",
         "source": "hn",
         "time": "11/17/2026, 3:07:09 PM"
-      },
-      {
-        "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-        "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-        "source": "hn",
-        "time": "11/17/2026, 11:45:51 AM"
-      },
-      {
-        "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-        "url": "https://www.cs.cmu.edu/learn/",
-        "source": "hn",
-        "time": "11/16/2026, 8:43:36 PM"
       }
     ],
     "world": [
+      {
+        "title": "Government backs welfare shake-up to prevent 'lost generation'",
+        "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 17 Nov 2026 18:43:05 GMT"
+      },
       {
         "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
         "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&amp;at_campaign=rss",
@@ -74,10 +80,10 @@
         "time": "Tue, 17 Nov 2026 17:35:22 GMT"
       },
       {
-        "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+        "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
         "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 17 Nov 2026 17:42:26 GMT"
+        "time": "Tue, 17 Nov 2026 18:24:21 GMT"
       },
       {
         "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 17 Nov 2026 15:54:15 GMT"
-      },
-      {
-        "title": "Rooney says he considered taking his own life at Man Utd",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 17 Nov 2026 14:09:19 GMT"
       }
     ],
     "projects": [
