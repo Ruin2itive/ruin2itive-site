@@ -4,8 +4,18 @@
     "label": "decrypt",
     "source_url": "https://decrypt.co/feed",
     "take": 2,
-    "built_at": "2026-11-17T14:03:24.626Z"
+    "built_at": "2026-11-17T15:03:29.834Z"
   },
-  "error": "fetch failed",
-  "items": []
+  "items": [
+    {
+      "title": "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack",
+      "url": "https://decrypt.co/383418/morning-minute-the-cftc-officially-greenlights-perps-in-the-us-starting-with-backpack",
+      "date": "2026-11-17T12:56:24.000Z"
+    },
+    {
+      "title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
+      "url": "https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents",
+      "date": "2026-11-17T12:50:55.000Z"
+    }
+  ]
 }
