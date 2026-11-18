@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-18T00:09:18.533Z"
+    "built_at": "2026-11-18T01:03:27.456Z"
   },
-  "items": [
-    {
-      "title": "Calif discloses Java4Shell flaw in OpenJDK's Base64 decoder",
-      "url": "https://runtimewire.com/article/calif-discloses-java4shell-flaw-in-openjdk-s-base64-decoder",
-      "date": "2026-11-18T00:08:32.000Z"
-    },
-    {
-      "title": "Dynamic Any-Casting in C++",
-      "url": "https://nicbn.com/posts/dynamic_any_cast_cxx/",
-      "date": "2026-11-18T00:07:50.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
