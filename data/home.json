@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-18T22:11:00.772Z",
-  "updated_local": "11/18/2026, 10:11:00 PM",
+  "updated_iso": "2026-11-18T23:05:21.958Z",
+  "updated_local": "11/18/2026, 11:05:21 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
+        "url": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
+        "source": "crypto",
+        "time": "Wed, 18 Nov 2026 22:16:02 +0000"
+      },
       {
         "title": "ChatGPT, Claude, Gemini and Grok Helped Plan Terror Attacks in Government Tests",
         "url": "https://decrypt.co/383584/chatgpt-claude-gemini-grok-help-plan-terror-attacks-government-tests",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
         "source": "crypto",
         "time": "Wed, 18 Nov 2026 19:46:02 +0000"
-      },
-      {
-        "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
-        "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
-        "source": "crypto",
-        "time": "Wed, 18 Nov 2026 19:16:02 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Gemini 4 Neon",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-        "source": "hn",
-        "time": "11/18/2026, 9:34:07 PM"
-      },
       {
         "title": "Unauthenticated remote code execution in Nginx",
         "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
@@ -54,16 +48,22 @@
         "time": "11/18/2026, 4:08:24 PM"
       },
       {
+        "title": "Inside Deutsche Bank",
+        "url": "https://www.inside-db.com/",
+        "source": "hn",
+        "time": "11/18/2026, 3:38:33 PM"
+      },
+      {
         "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
         "url": "https://www.radixark.com/blog/daisyrose-27b",
         "source": "hn",
         "time": "11/18/2026, 7:39:16 PM"
       },
       {
-        "title": "Inside Deutsche Bank",
-        "url": "https://www.inside-db.com/",
+        "title": "Gemini 4 Neon",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
         "source": "hn",
-        "time": "11/18/2026, 3:38:33 PM"
+        "time": "11/18/2026, 9:34:07 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Wed, 18 Nov 2026 13:17:06 GMT"
       },
       {
-        "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-        "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Council wins legal fight against flags on lamp-posts",
+        "url": "https://www.bbc.co.uk/news/articles/ckq5vg81805qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Nov 2026 13:10:01 GMT"
+        "time": "Wed, 18 Nov 2026 18:19:34 GMT"
       }
     ],
     "projects": [
