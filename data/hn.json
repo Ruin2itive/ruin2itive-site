@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-18T07:03:44.382Z"
+    "built_at": "2026-11-18T08:04:38.249Z"
   },
-  "error": "fetch failed",
-  "items": []
+  "items": [
+    {
+      "title": "From 181 bytes: nixpkgs' full-source bootstrap",
+      "url": "https://fzakaria.github.io/from-181-bytes/",
+      "date": "2026-11-18T08:03:05.000Z"
+    },
+    {
+      "title": "Automated LLM Fine-Tuning: GPU Selection, Dataset Analysis and Feedback",
+      "url": "https://sigvard.ai",
+      "date": "2026-11-18T08:03:05.000Z"
+    }
+  ]
 }
