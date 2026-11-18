@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-18T13:11:49.495Z",
-  "updated_local": "11/18/2026, 1:11:49 PM",
+  "updated_iso": "2026-11-18T14:06:49.064Z",
+  "updated_local": "11/18/2026, 2:06:49 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Nvidia Beats, Board Says ‘No’ on Jensen",
+        "url": "https://decrypt.co/383530/morning-minute-nvidia-beats-board-says-no-on-jensen",
+        "source": "crypto",
+        "time": "Wed, 18 Nov 2026 13:37:20 +0000"
+      },
       {
         "title": "&#39;Doomed From the Start&#39;: President Trump&#39;s Meme Coin Hits New Lows After Midterms",
         "url": "https://decrypt.co/383524/doomed-from-the-start-president-trumps-meme-coin-hits-new-lows-after-midterms",
@@ -26,15 +32,21 @@
         "url": "https://decrypt.co/383468/why-microsoft-thinks-smaller-cheaper-ai-beat-claude-gpt",
         "source": "crypto",
         "time": "Tue, 17 Nov 2026 23:16:03 +0000"
-      },
-      {
-        "title": "Nvidia Board Shuts Down Jensen Huang Comeback, Launches Search for New CEO",
-        "url": "https://decrypt.co/383513/nvidia-board-shuts-down-jensen-huang-comeback",
-        "source": "crypto",
-        "time": "Tue, 17 Nov 2026 22:39:53 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+        "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+        "source": "hn",
+        "time": "11/18/2026, 1:18:02 PM"
+      },
+      {
+        "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+        "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+        "source": "hn",
+        "time": "11/18/2026, 1:51:03 PM"
+      },
       {
         "title": "Energy-Based Reasoners: 385x more efficient inference",
         "url": "https://energy-based-reasoners.github.io/",
@@ -52,38 +64,26 @@
         "url": "https://calif.io/java4shell/",
         "source": "hn",
         "time": "11/17/2026, 9:11:28 PM"
-      },
-      {
-        "title": "Google's AI answers reducing search traffic by 40%",
-        "url": "https://revscope.co/blog/search-seo-geo-2026/",
-        "source": "hn",
-        "time": "11/18/2026, 12:17:58 AM"
-      },
-      {
-        "title": "Quad9's withdrawal from France: A canary in the coal mine",
-        "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-        "source": "hn",
-        "time": "11/17/2026, 10:13:34 PM"
       }
     ],
     "world": [
       {
-        "title": "Energy bills forecast to go up by £443 a year from January as UK inflation rises again",
+        "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
         "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Nov 2026 10:10:12 GMT"
+        "time": "Wed, 18 Nov 2026 13:17:06 GMT"
       },
       {
-        "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+        "title": "Trump shakes hands with Putin and Xi ahead of landmark talks in China",
         "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 18 Nov 2026 12:39:24 GMT"
       },
       {
-        "title": "Watch: Why historic US, China and Russia meeting matters",
-        "url": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+        "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Nov 2026 08:33:32 GMT"
+        "time": "Wed, 18 Nov 2026 10:53:21 GMT"
       },
       {
         "title": "Minister criticises media for 'amplifying' Russell Brand's prison message",
@@ -92,10 +92,10 @@
         "time": "Wed, 18 Nov 2026 12:11:39 GMT"
       },
       {
-        "title": "What's gone wrong at Britain's worst bathing site?",
-        "url": "https://www.bbc.co.uk/news/articles/cm752w35lkz3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Banned player says whole Australia team knew about sandpaper cheating plot",
+        "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Nov 2026 06:12:44 GMT"
+        "time": "Wed, 18 Nov 2026 11:12:46 GMT"
       }
     ],
     "projects": [
