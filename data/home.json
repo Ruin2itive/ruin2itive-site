@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-11-18T18:13:37.512Z",
-  "updated_local": "11/18/2026, 6:13:37 PM",
+  "updated_iso": "2026-11-18T19:05:01.109Z",
+  "updated_local": "11/18/2026, 7:05:01 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
+        "url": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom",
+        "source": "crypto",
+        "time": "Wed, 18 Nov 2026 18:46:03 +0000"
+      },
+      {
+        "title": "Fed&#39;s Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks",
+        "url": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks",
+        "source": "crypto",
+        "time": "Wed, 18 Nov 2026 18:16:02 +0000"
+      },
       {
         "title": "Lucky Trader Banks 66,000% Profit on GTA 6 Meme Coin Ticker Confusion",
         "url": "https://decrypt.co/383536/lucky-trader-banks-66000-profit-on-gta-6-meme-coin-ticker-confusion",
@@ -20,29 +32,17 @@
         "url": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
         "source": "crypto",
         "time": "Wed, 18 Nov 2026 14:20:52 +0000"
-      },
-      {
-        "title": "Morning Minute: Nvidia Beats, Board Says ‘No’ on Jensen",
-        "url": "https://decrypt.co/383530/morning-minute-nvidia-beats-board-says-no-on-jensen",
-        "source": "crypto",
-        "time": "Wed, 18 Nov 2026 13:37:20 +0000"
-      },
-      {
-        "title": "&#39;Doomed From the Start&#39;: President Trump&#39;s Meme Coin Hits New Lows After Midterms",
-        "url": "https://decrypt.co/383524/doomed-from-the-start-president-trumps-meme-coin-hits-new-lows-after-midterms",
-        "source": "crypto",
-        "time": "Wed, 18 Nov 2026 12:45:37 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+        "title": "Unauthenticated remote code execution in Nginx (CVE-2026-123633/CVE-2026-123007)",
         "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
         "source": "hn",
         "time": "11/18/2026, 3:19:55 PM"
       },
       {
-        "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+        "title": "Seven new models at scalable price-performance",
         "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
         "source": "hn",
         "time": "11/18/2026, 4:08:24 PM"
@@ -54,16 +54,16 @@
         "time": "11/18/2026, 3:38:33 PM"
       },
       {
-        "title": "CVE-2026-99312: KVM Guest-to-Host Escape",
-        "url": "https://www.terra.security/blog/kvm-guest-to-host-escape",
-        "source": "hn",
-        "time": "11/18/2026, 4:06:21 PM"
-      },
-      {
-        "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+        "title": "DNS resolvers are the wrong place to fight piracy",
         "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
         "source": "hn",
         "time": "11/18/2026, 1:18:02 PM"
+      },
+      {
+        "title": "AI agents ask better questions than KPMG accountants in audit trial",
+        "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+        "source": "hn",
+        "time": "11/18/2026, 3:49:34 PM"
       }
     ],
     "world": [
