@@ -4,18 +4,18 @@
     "label": "bbc",
     "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
     "take": 2,
-    "built_at": "2026-11-18T22:03:20.061Z"
+    "built_at": "2026-11-18T23:03:05.632Z"
   },
   "items": [
+    {
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-18T22:34:56.000Z"
+    },
     {
       "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
       "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-18T21:28:08.000Z"
-    },
-    {
-      "title": "UK government asks for Russell Brand's YouTube account to be removed",
-      "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T21:17:50.000Z"
     }
   ]
 }

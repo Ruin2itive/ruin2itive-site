@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-18T22:03:07.197Z"
+    "built_at": "2026-11-18T23:03:01.132Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "U.S. School Districts Weigh Breaking Up with Google Search over A.I",
+      "url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
+      "date": "2026-11-18T23:01:39.000Z"
+    },
+    {
+      "title": "Anthropic reportedly prices its IPO at $83 per share, valuing at $1.5T",
+      "url": "https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c",
+      "date": "2026-11-18T23:00:26.000Z"
+    }
+  ]
 }
