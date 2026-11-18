@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-18T10:11:54.039Z",
-  "updated_local": "11/18/2026, 10:11:54 AM",
+  "updated_iso": "2026-11-18T11:05:46.430Z",
+  "updated_local": "11/18/2026, 11:05:46 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Scattered Spider Hacker Sentenced to 6 Years Over $11.6M in Stolen Crypto",
+        "url": "https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto",
+        "source": "crypto",
+        "time": "Wed, 18 Nov 2026 10:17:17 +0000"
+      },
       {
         "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
         "url": "https://decrypt.co/383468/why-microsoft-thinks-smaller-cheaper-ai-beat-claude-gpt",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark",
         "source": "crypto",
         "time": "Tue, 17 Nov 2026 21:46:02 +0000"
-      },
-      {
-        "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
-        "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
-        "source": "crypto",
-        "time": "Tue, 17 Nov 2026 20:56:03 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Codeberg.org Not Reachable",
+        "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+        "source": "hn",
+        "time": "11/18/2026, 10:02:17 AM"
+      },
       {
         "title": "Java4Shell: RCE in OpenJDK when processing Base64",
         "url": "https://calif.io/java4shell/",
         "source": "hn",
         "time": "11/17/2026, 9:11:28 PM"
-      },
-      {
-        "title": "ID.me terms required for IRS sign-in",
-        "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-        "source": "hn",
-        "time": "11/18/2026, 12:51:45 AM"
       },
       {
         "title": "Google's AI answers reducing search traffic by 40%",
@@ -54,21 +54,21 @@
         "time": "11/18/2026, 12:17:58 AM"
       },
       {
+        "title": "ID.me terms required for IRS sign-in",
+        "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+        "source": "hn",
+        "time": "11/18/2026, 12:51:45 AM"
+      },
+      {
         "title": "Quad9's withdrawal from France: A canary in the coal mine",
         "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
         "source": "hn",
         "time": "11/17/2026, 10:13:34 PM"
-      },
-      {
-        "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-        "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-        "source": "hn",
-        "time": "11/17/2026, 5:12:06 PM"
       }
     ],
     "world": [
       {
-        "title": "BBC correspondents discuss why historic US, China and Russia meeting matters",
+        "title": "Watch: Why historic US, China and Russia meeting matters",
         "url": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 18 Nov 2026 08:33:32 GMT"
