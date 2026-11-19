@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-19T11:11:08.936Z",
-  "updated_local": "11/19/2026, 11:11:08 AM",
+  "updated_iso": "2026-11-19T12:09:17.732Z",
+  "updated_local": "11/19/2026, 12:09:17 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "GameStop CEO Says Digital-Only Games Have ‘Hurt Consumers’ as GTA 6 Skips Discs",
+        "url": "https://decrypt.co/383600/gamestop-ceo-says-digital-only-games-have-hurt-consumers-as-gta-6-skips-discs",
+        "source": "crypto",
+        "time": "Thu, 19 Nov 2026 11:15:08 +0000"
+      },
       {
         "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
         "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
@@ -26,26 +32,26 @@
         "url": "https://decrypt.co/383576/palmer-luckey-offshore-haven-industry-illegal-medicine",
         "source": "crypto",
         "time": "Wed, 18 Nov 2026 21:16:02 +0000"
-      },
-      {
-        "title": "Google&#39;s Genie 4 Is Here, Letting Ultra Subscribers Build AI Worlds in Real Time",
-        "url": "https://decrypt.co/383572/google-genie-4-ultra-subscribers-build-ai-worlds-real-time",
-        "source": "crypto",
-        "time": "Wed, 18 Nov 2026 20:16:02 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-        "url": "https://verialabs.com/ruby2shell/",
+        "title": "How the European Commission rolled out Matrix to more than 40k staff",
+        "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
         "source": "hn",
-        "time": "11/19/2026, 5:09:11 AM"
+        "time": "11/19/2026, 10:58:29 AM"
       },
       {
         "title": "What's New in PHP 8.6",
         "url": "https://www.php.net/releases/8.6/en.php",
         "source": "hn",
         "time": "11/19/2026, 9:27:15 AM"
+      },
+      {
+        "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+        "url": "https://verialabs.com/ruby2shell/",
+        "source": "hn",
+        "time": "11/19/2026, 5:09:11 AM"
       },
       {
         "title": "Distributed, high-performance blob storage on SQLite",
@@ -58,12 +64,6 @@
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
         "source": "hn",
         "time": "11/18/2026, 9:34:07 PM"
-      },
-      {
-        "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-        "url": "https://kapteko.com/15-million-webservers/",
-        "source": "hn",
-        "time": "11/19/2026, 5:56:36 AM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Thu, 19 Nov 2026 09:26:59 GMT"
       },
       {
-        "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
-        "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 19 Nov 2026 10:51:35 GMT"
-      },
-      {
         "title": "Anthropic raises $81bn in record-breaking stock market debut",
         "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 19 Nov 2026 10:48:04 GMT"
+      },
+      {
+        "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
+        "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 19 Nov 2026 11:43:39 GMT"
       }
     ],
     "projects": [
