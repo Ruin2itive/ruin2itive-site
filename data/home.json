@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-19T22:10:58.867Z",
-  "updated_local": "11/19/2026, 10:10:58 PM",
+  "updated_iso": "2026-11-19T23:05:03.233Z",
+  "updated_local": "11/19/2026, 11:05:03 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
+        "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
+        "source": "crypto",
+        "time": "Thu, 19 Nov 2026 22:36:02 +0000"
+      },
       {
         "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
         "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
         "source": "crypto",
         "time": "Thu, 19 Nov 2026 19:08:24 +0000"
-      },
-      {
-        "title": "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
-        "url": "https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks",
-        "source": "crypto",
-        "time": "Thu, 19 Nov 2026 17:55:38 +0000"
       }
     ],
     "hacker": [
@@ -48,16 +48,16 @@
         "time": "11/19/2026, 5:25:33 PM"
       },
       {
+        "title": "Synology Security Advisory",
+        "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+        "source": "hn",
+        "time": "11/19/2026, 10:13:40 PM"
+      },
+      {
         "title": "Claude solves two open problems in the physics of black holes",
         "url": "https://www.anthropic.com/research/claude-black-hole-physics",
         "source": "hn",
         "time": "11/19/2026, 5:30:44 PM"
-      },
-      {
-        "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-        "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-        "source": "hn",
-        "time": "11/19/2026, 6:35:17 PM"
       },
       {
         "title": "Garage Door Spam",
@@ -68,16 +68,10 @@
     ],
     "world": [
       {
-        "title": "Men guilty of abusing woman drugged and advertised for sex by husband",
+        "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
         "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Nov 2026 17:42:25 GMT"
-      },
-      {
-        "title": "'You can be believed and understood': Joanne Young speaks after verdict",
-        "url": "https://www.bbc.co.uk/news/videos/cv0l31g7g8j0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 19 Nov 2026 16:44:22 GMT"
+        "time": "Thu, 19 Nov 2026 22:17:29 GMT"
       },
       {
         "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 19 Nov 2026 12:47:27 GMT"
+      },
+      {
+        "title": "Watch: What did Trump, Xi and Putin get out of their historic meeting?",
+        "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 19 Nov 2026 17:23:29 GMT"
       }
     ],
     "projects": [
