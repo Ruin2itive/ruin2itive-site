@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-18T23:10:37.035Z",
-  "updated_local": "11/18/2026, 11:10:37 PM",
+  "updated_iso": "2026-11-19T00:17:00.625Z",
+  "updated_local": "11/19/2026, 12:17:00 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "We Need Smart People Who Give a Shit",
+        "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+        "source": "hn",
+        "time": "11/18/2026, 11:53:49 PM"
+      },
+      {
         "title": "Unauthenticated remote code execution in Nginx",
         "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "11/18/2026, 4:08:24 PM"
       },
       {
+        "title": "Software companies are trying to kill home computing",
+        "url": "https://lateblt.livejournal.com/526188.html",
+        "source": "hn",
+        "time": "11/18/2026, 11:49:18 PM"
+      },
+      {
         "title": "Inside Deutsche Bank",
         "url": "https://www.inside-db.com/",
         "source": "hn",
         "time": "11/18/2026, 3:38:33 PM"
-      },
-      {
-        "title": "Gemini 4 Neon",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-        "source": "hn",
-        "time": "11/18/2026, 9:34:07 PM"
-      },
-      {
-        "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
-        "url": "https://www.radixark.com/blog/daisyrose-27b",
-        "source": "hn",
-        "time": "11/18/2026, 7:39:16 PM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Wed, 18 Nov 2026 17:00:04 GMT"
       },
       {
-        "title": "UK government asks for Russell Brand's YouTube account to be removed",
-        "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Nov 2026 21:17:50 GMT"
+        "time": "Wed, 18 Nov 2026 23:44:27 GMT"
       },
       {
-        "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-        "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Nov 2026 13:17:06 GMT"
+        "time": "Wed, 18 Nov 2026 21:28:08 GMT"
       },
       {
-        "title": "Council wins legal fight against flags on lamp-posts",
-        "url": "https://www.bbc.co.uk/news/articles/ckq5vg81805qo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 18 Nov 2026 18:19:34 GMT"
+        "time": "Thu, 19 Nov 2026 00:00:59 GMT"
       }
     ],
     "projects": [
