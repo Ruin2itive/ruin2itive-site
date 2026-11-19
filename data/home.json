@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-19T08:08:34.083Z",
-  "updated_local": "11/19/2026, 8:08:34 AM",
+  "updated_iso": "2026-11-19T08:16:09.590Z",
+  "updated_local": "11/19/2026, 8:16:09 AM",
   "sections": {
     "crypto": [
       {
@@ -54,16 +54,16 @@
         "time": "11/19/2026, 5:56:36 AM"
       },
       {
-        "title": "Multiple vulnerabilities in Regexp and String case conversion",
-        "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-        "source": "hn",
-        "time": "11/18/2026, 11:52:50 PM"
-      },
-      {
         "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
         "url": "https://verialabs.com/ruby2shell/",
         "source": "hn",
         "time": "11/19/2026, 5:09:11 AM"
+      },
+      {
+        "title": "Multiple vulnerabilities in Regexp and String case conversion",
+        "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+        "source": "hn",
+        "time": "11/18/2026, 11:52:50 PM"
       }
     ],
     "world": [
@@ -89,7 +89,7 @@
         "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
         "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Nov 2026 07:53:44 GMT"
+        "time": "Thu, 19 Nov 2026 08:11:10 GMT"
       },
       {
         "title": "AI giant Anthropic valued at $1.5 trillion ahead of stock market debut",
