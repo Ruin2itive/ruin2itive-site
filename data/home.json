@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-19T10:11:39.738Z",
-  "updated_local": "11/19/2026, 10:11:39 AM",
+  "updated_iso": "2026-11-19T11:05:38.512Z",
+  "updated_local": "11/19/2026, 11:05:38 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
+        "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
+        "source": "crypto",
+        "time": "Thu, 19 Nov 2026 10:25:05 +0000"
+      },
       {
         "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
         "url": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/383572/google-genie-4-ultra-subscribers-build-ai-worlds-real-time",
         "source": "crypto",
         "time": "Wed, 18 Nov 2026 20:16:02 +0000"
-      },
-      {
-        "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
-        "url": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
-        "source": "crypto",
-        "time": "Wed, 18 Nov 2026 19:46:02 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "SSD prices will start going down the second half of next year",
-        "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
-        "source": "hn",
-        "time": "11/19/2026, 9:05:34 AM"
-      },
       {
         "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
         "url": "https://verialabs.com/ruby2shell/",
@@ -52,6 +46,12 @@
         "url": "https://www.php.net/releases/8.6/en.php",
         "source": "hn",
         "time": "11/19/2026, 9:27:15 AM"
+      },
+      {
+        "title": "Distributed, high-performance blob storage on SQLite",
+        "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+        "source": "hn",
+        "time": "11/19/2026, 8:39:45 AM"
       },
       {
         "title": "Gemini 4 Neon",
@@ -89,13 +89,13 @@
         "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
         "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Nov 2026 08:35:07 GMT"
+        "time": "Thu, 19 Nov 2026 10:51:35 GMT"
       },
       {
-        "title": "Anthropic valued at $1.5 trillion ahead of AI giant's stock market debut",
+        "title": "Anthropic raises $81bn in record-breaking stock market debut",
         "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Nov 2026 02:20:15 GMT"
+        "time": "Thu, 19 Nov 2026 10:48:04 GMT"
       }
     ],
     "projects": [
