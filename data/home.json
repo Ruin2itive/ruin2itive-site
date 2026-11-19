@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-19T14:12:20.548Z",
-  "updated_local": "11/19/2026, 2:12:20 PM",
+  "updated_iso": "2026-11-19T15:06:33.184Z",
+  "updated_local": "11/19/2026, 3:06:33 PM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,16 @@
         "time": "11/19/2026, 10:58:29 AM"
       },
       {
+        "title": "PHP 8.5.13",
+        "url": "https://www.php.net/ChangeLog-8.php",
+        "source": "hn",
+        "time": "11/19/2026, 2:09:50 PM"
+      },
+      {
         "title": "Garage Door Spam",
         "url": "https://blog.harrison.page/garage-door-spam/",
         "source": "hn",
         "time": "11/16/2026, 4:13:36 PM"
-      },
-      {
-        "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-        "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
-        "source": "hn",
-        "time": "11/18/2026, 2:56:04 PM"
       },
       {
         "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
@@ -60,24 +60,30 @@
         "time": "11/19/2026, 1:18:11 PM"
       },
       {
-        "title": "What's New in PHP 8.6",
-        "url": "https://www.php.net/releases/8.6/en.php",
+        "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+        "url": "https://foolscap.works/",
         "source": "hn",
-        "time": "11/19/2026, 9:27:15 AM"
+        "time": "11/19/2026, 1:21:20 PM"
       }
     ],
     "world": [
+      {
+        "title": "Men guilty of assaulting woman drugged and advertised for sex by husband",
+        "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 19 Nov 2026 15:04:28 GMT"
+      },
+      {
+        "title": "Covid inquiry report: key findings on testing, tracing and 'the pingdemic'",
+        "url": "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 19 Nov 2026 12:47:27 GMT"
+      },
       {
         "title": "Watch: Trump greets 'my friend' Putin as pair shake hands",
         "url": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 19 Nov 2026 08:31:09 GMT"
-      },
-      {
-        "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 19 Nov 2026 00:00:59 GMT"
       },
       {
         "title": "Leasehold system set to be scrapped in England and Wales",
@@ -86,16 +92,10 @@
         "time": "Thu, 19 Nov 2026 09:26:59 GMT"
       },
       {
-        "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
-        "url": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Nov 2026 12:26:39 GMT"
-      },
-      {
-        "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
-        "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 19 Nov 2026 13:09:01 GMT"
+        "time": "Thu, 19 Nov 2026 00:00:59 GMT"
       }
     ],
     "projects": [
