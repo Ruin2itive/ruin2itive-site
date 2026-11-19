@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-19T18:03:56.550Z"
+    "built_at": "2026-11-19T19:02:42.380Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "UChicago North Korean Stamp Collection",
+      "url": "https://www.lib.uchicago.edu/turnstile/challenge/?next=/collex/collections/north-korean-stamp-collection/",
+      "date": "2026-11-19T19:01:57.000Z"
+    },
+    {
+      "title": "Designing UI to move out of the way",
+      "url": "https://frigade.com/blog/assistant-that-gets-out-of-your-way",
+      "date": "2026-11-19T19:00:50.000Z"
+    }
+  ]
 }
