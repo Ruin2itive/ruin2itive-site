@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-19T05:03:33.755Z"
+    "built_at": "2026-11-19T06:05:46.103Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Possibly leaked NSA Cyberattack tool behind attacks (2017)",
+      "url": "https://mobile.nytimes.com/2017/05/12/world/europe/uk-national-health-service-cyberattack.html",
+      "date": "2026-11-19T06:00:15.000Z"
+    },
+    {
+      "title": "Show HN: Zpup – Zdog style 3D scenes in JSON, SVG from any angle",
+      "url": "https://github.com/rxolve/zpup",
+      "date": "2026-11-19T05:56:41.000Z"
+    }
+  ]
 }
