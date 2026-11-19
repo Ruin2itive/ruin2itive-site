@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-11-19T12:17:25.439Z",
-  "updated_local": "11/19/2026, 12:17:25 PM",
+  "updated_iso": "2026-11-19T13:06:41.479Z",
+  "updated_local": "11/19/2026, 1:06:41 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Google’s Newest AI Model Tops Benchmarks Ahead of Anthropic IPO",
+        "url": "https://decrypt.co/383609/morning-minute-googles-newest-ai-model-tops-benchmarks-ahead-of-anthropic-ipo",
+        "source": "crypto",
+        "time": "Thu, 19 Nov 2026 13:05:28 +0000"
+      },
+      {
+        "title": "Binance Wins $6.5B Freezing Order Over Hack That Can Be Served via the Blockchain",
+        "url": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain",
+        "source": "crypto",
+        "time": "Thu, 19 Nov 2026 12:59:14 +0000"
+      },
       {
         "title": "GameStop CEO Says Digital-Only Games Have ‘Hurt Consumers’ as GTA 6 Skips Discs",
         "url": "https://decrypt.co/383600/gamestop-ceo-says-digital-only-games-have-hurt-consumers-as-gta-6-skips-discs",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
         "source": "crypto",
         "time": "Wed, 18 Nov 2026 22:16:02 +0000"
-      },
-      {
-        "title": "ChatGPT, Claude, Gemini and Grok Helped Plan Terror Attacks in Government Tests",
-        "url": "https://decrypt.co/383584/chatgpt-claude-gemini-grok-help-plan-terror-attacks-government-tests",
-        "source": "crypto",
-        "time": "Wed, 18 Nov 2026 21:46:03 +0000"
-      },
-      {
-        "title": "Palmer Luckey Says He’s Building an Offshore Haven for Industry—And &#39;Illegal&#39; Medicine",
-        "url": "https://decrypt.co/383576/palmer-luckey-offshore-haven-industry-illegal-medicine",
-        "source": "crypto",
-        "time": "Wed, 18 Nov 2026 21:16:02 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,12 @@
         "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
         "source": "hn",
         "time": "11/19/2026, 10:58:29 AM"
+      },
+      {
+        "title": "The AI Superintelligence Debate Has Serious Flaws",
+        "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+        "source": "hn",
+        "time": "11/19/2026, 12:17:10 PM"
       },
       {
         "title": "What's New in PHP 8.6",
@@ -54,16 +60,10 @@
         "time": "11/19/2026, 5:09:11 AM"
       },
       {
-        "title": "Distributed, high-performance blob storage on SQLite",
-        "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+        "title": "Garage Door Spam",
+        "url": "https://blog.harrison.page/garage-door-spam/",
         "source": "hn",
-        "time": "11/19/2026, 8:39:45 AM"
-      },
-      {
-        "title": "Gemini 4 Neon",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-        "source": "hn",
-        "time": "11/18/2026, 9:34:07 PM"
+        "time": "11/16/2026, 4:13:36 PM"
       }
     ],
     "world": [
