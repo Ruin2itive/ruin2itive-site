@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-19T02:04:53.399Z"
+    "built_at": "2026-11-19T03:04:08.906Z"
   },
-  "items": [
-    {
-      "title": "Why Google Antigravity eats weekly quota fast and what I measured",
-      "url": "https://asubedi.com.np/blog/why-antigravity-eats-weekly-quota-fast/",
-      "date": "2026-11-19T02:01:57.000Z"
-    },
-    {
-      "title": "What football will look like in the future",
-      "url": "https://www.sbnation.com/a/17776-football",
-      "date": "2026-11-19T01:58:33.000Z"
-    }
-  ]
+  "error": "fetch failed",
+  "items": []
 }
