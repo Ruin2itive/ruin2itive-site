@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-11-19T17:09:54.523Z",
-  "updated_local": "11/19/2026, 5:09:54 PM",
+  "updated_iso": "2026-11-19T18:07:35.406Z",
+  "updated_local": "11/19/2026, 6:07:35 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
+        "url": "https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks",
+        "source": "crypto",
+        "time": "Thu, 19 Nov 2026 17:55:38 +0000"
+      },
+      {
+        "title": "What Are Perpetual Futures? How Crypto&#39;s Most Popular Derivative Works",
+        "url": "https://decrypt.co/resources/what-are-perpetual-futures-how-cryptos-most-popular-derivative-works",
+        "source": "crypto",
+        "time": "Thu, 19 Nov 2026 17:28:03 +0000"
+      },
       {
         "title": "Anthropic Stock Opens 33% Above IPO Price as AI Stocks Rally",
         "url": "https://decrypt.co/383631/anthropic-stock-indicated-open-33-above-ipo-price",
@@ -20,50 +32,38 @@
         "url": "https://decrypt.co/383589/gen-z-embraces-crypto-most-americans-side-quest",
         "source": "crypto",
         "time": "Thu, 19 Nov 2026 14:01:02 +0000"
-      },
-      {
-        "title": "Quantum Upgrade Could Be &#39;Particularly Challenging&#39; for Blockchains: IOSCO",
-        "url": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco",
-        "source": "crypto",
-        "time": "Thu, 19 Nov 2026 13:47:00 +0000"
-      },
-      {
-        "title": "Morning Minute: Google’s Newest AI Model Tops Benchmarks Ahead of Anthropic IPO",
-        "url": "https://decrypt.co/383609/morning-minute-googles-newest-ai-model-tops-benchmarks-ahead-of-anthropic-ipo",
-        "source": "crypto",
-        "time": "Thu, 19 Nov 2026 13:05:28 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+        "title": "Anthropic hits $2T in Nasdaq debut",
+        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+        "source": "hn",
+        "time": "11/19/2026, 5:02:40 PM"
+      },
+      {
+        "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
+        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+        "source": "hn",
+        "time": "11/19/2026, 5:30:44 PM"
+      },
+      {
+        "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
         "url": "https://thedataexchange.media/pete-warden-moonshine/",
         "source": "hn",
         "time": "11/19/2026, 3:38:12 PM"
-      },
-      {
-        "title": "How the European Commission rolled out Matrix to more than 40k staff",
-        "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-        "source": "hn",
-        "time": "11/19/2026, 10:58:29 AM"
-      },
-      {
-        "title": "Everything you need to survive and rebuild society",
-        "url": "https://lastbook.org/",
-        "source": "hn",
-        "time": "11/19/2026, 2:47:18 PM"
-      },
-      {
-        "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
-        "url": "https://maccus.fr/en/cooling-overtaking-heating/",
-        "source": "hn",
-        "time": "11/19/2026, 2:57:14 PM"
       },
       {
         "title": "Garage Door Spam",
         "url": "https://blog.harrison.page/garage-door-spam/",
         "source": "hn",
         "time": "11/16/2026, 4:13:36 PM"
+      },
+      {
+        "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+        "url": "https://github.com/onlook-dev/onlook/",
+        "source": "hn",
+        "time": "11/19/2026, 4:34:04 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Men guilty of abusing woman drugged and advertised for sex by husband",
         "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Nov 2026 17:07:28 GMT"
+        "time": "Thu, 19 Nov 2026 17:42:25 GMT"
       },
       {
         "title": "'You can be believed and understood': Joanne Young speaks after verdict",
@@ -95,7 +95,7 @@
         "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
         "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 19 Nov 2026 15:23:34 GMT"
+        "time": "Thu, 19 Nov 2026 17:38:22 GMT"
       }
     ],
     "projects": [
