@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-20T19:09:32.546Z",
-  "updated_local": "11/20/2026, 7:09:32 PM",
+  "updated_iso": "2026-11-20T20:06:23.608Z",
+  "updated_local": "11/20/2026, 8:06:23 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "SBF’s &#39;The Altruists&#39; Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
+        "url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
+        "source": "crypto",
+        "time": "Fri, 20 Nov 2026 19:36:03 +0000"
+      },
       {
         "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
         "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
         "source": "crypto",
         "time": "Fri, 20 Nov 2026 16:35:59 +0000"
-      },
-      {
-        "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
-        "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
-        "source": "crypto",
-        "time": "Fri, 20 Nov 2026 15:42:51 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-        "url": "https://alpo.ge/remark.pdf",
-        "source": "hn",
-        "time": "11/20/2026, 2:16:21 PM"
-      },
       {
         "title": "Hurried Announcement: Alessandro Masullo GRH",
         "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
         "source": "hn",
         "time": "11/20/2026, 6:33:14 PM"
+      },
+      {
+        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "url": "https://alpo.ge/remark.pdf",
+        "source": "hn",
+        "time": "11/20/2026, 2:16:21 PM"
       },
       {
         "title": "Language Models Can Rewrite Their Own Weights",
@@ -54,16 +54,16 @@
         "time": "11/20/2026, 4:29:06 PM"
       },
       {
-        "title": "I'll never buy Framework hardware again",
-        "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
-        "source": "hn",
-        "time": "11/20/2026, 4:06:30 PM"
-      },
-      {
         "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
         "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
         "source": "hn",
         "time": "11/20/2026, 5:21:36 PM"
+      },
+      {
+        "title": "We promoted developers into architects without informing them",
+        "url": "https://manidoraisamy.com/developer-to-architect.html",
+        "source": "hn",
+        "time": "11/20/2026, 6:17:51 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Fri, 20 Nov 2026 15:14:01 GMT"
       },
       {
-        "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
-        "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Man guilty of murdering woman he groomed on fetish site",
+        "url": "https://www.bbc.co.uk/news/articles/cmy49lekdkkzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 20 Nov 2026 16:39:49 GMT"
+        "time": "Fri, 20 Nov 2026 18:17:56 GMT"
       }
     ],
     "projects": [
