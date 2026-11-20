@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-20T11:05:58.750Z",
-  "updated_local": "11/20/2026, 11:05:58 AM",
+  "updated_iso": "2026-11-20T11:11:10.633Z",
+  "updated_local": "11/20/2026, 11:11:10 AM",
   "sections": {
     "crypto": [
       {
@@ -42,16 +42,16 @@
         "time": "11/20/2026, 10:01:41 AM"
       },
       {
-        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-        "url": "https://github.com/openssl/openssl/pull/33652",
-        "source": "hn",
-        "time": "11/20/2026, 2:01:09 AM"
-      },
-      {
         "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars",
         "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
         "source": "hn",
         "time": "11/20/2026, 9:13:09 AM"
+      },
+      {
+        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+        "url": "https://github.com/openssl/openssl/pull/33652",
+        "source": "hn",
+        "time": "11/20/2026, 2:01:09 AM"
       },
       {
         "title": "If you can't explain something in simple terms, you don't understand it (2017)",
@@ -60,10 +60,10 @@
         "time": "11/20/2026, 9:43:19 AM"
       },
       {
-        "title": "µ-Wire – USB on an ATtiny 10",
-        "url": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
+        "title": "The Strongest Sokoban Solver",
+        "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
         "source": "hn",
-        "time": "11/18/2026, 1:02:08 PM"
+        "time": "11/16/2026, 9:04:01 PM"
       }
     ],
     "world": [
