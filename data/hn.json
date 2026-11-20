@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-20T06:05:38.469Z"
+    "built_at": "2026-11-20T07:03:26.350Z"
   },
-  "items": [
-    {
-      "title": "Show HN: Everything else is DOWN while Tokenmobiles stays neutral",
-      "url": "https://news.ycombinator.com/item?id=50570754",
-      "date": "2026-11-20T06:04:44.000Z"
-    },
-    {
-      "title": "Wellness check for friends working in cybersecurity",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xzkwmg/wellness_check_for_friends_working_in/",
-      "date": "2026-11-20T06:03:50.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
