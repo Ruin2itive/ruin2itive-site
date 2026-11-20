@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-20T06:11:17.077Z",
-  "updated_local": "11/20/2026, 6:11:17 AM",
+  "updated_iso": "2026-11-20T06:20:22.540Z",
+  "updated_local": "11/20/2026, 6:20:22 AM",
   "sections": {
     "crypto": [
       {
@@ -48,16 +48,16 @@
         "time": "11/20/2026, 2:01:09 AM"
       },
       {
-        "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-        "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
-        "source": "hn",
-        "time": "11/20/2026, 2:43:49 AM"
-      },
-      {
         "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
         "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
         "source": "hn",
         "time": "11/20/2026, 5:21:02 AM"
+      },
+      {
+        "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+        "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+        "source": "hn",
+        "time": "11/20/2026, 2:43:49 AM"
       },
       {
         "title": "Vint Cerf on why TCP/IP was never patented",
