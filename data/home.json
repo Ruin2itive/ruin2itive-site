@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-20T07:13:35.169Z",
-  "updated_local": "11/20/2026, 7:13:35 AM",
+  "updated_iso": "2026-11-20T08:08:27.151Z",
+  "updated_local": "11/20/2026, 8:08:27 AM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
-        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-        "url": "https://github.com/openssl/openssl/pull/33652",
-        "source": "hn",
-        "time": "11/20/2026, 2:01:09 AM"
-      },
-      {
-        "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
-        "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
-        "source": "hn",
-        "time": "11/20/2026, 5:21:02 AM"
-      },
-      {
         "title": "Jujutsu Primer",
         "url": "https://ethanlowman.com/posts/jj-primer/",
         "source": "hn",
         "time": "11/20/2026, 5:46:01 AM"
       },
       {
-        "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-        "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+        "title": "\"I can tell you wrote this yourself\"",
+        "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
         "source": "hn",
-        "time": "11/20/2026, 2:43:49 AM"
+        "time": "11/20/2026, 7:13:21 AM"
+      },
+      {
+        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+        "url": "https://github.com/openssl/openssl/pull/33652",
+        "source": "hn",
+        "time": "11/20/2026, 2:01:09 AM"
       },
       {
         "title": "FFmpeg 9.1 'Gauss'",
         "url": "https://ffmpeg.org/download.html#release_9.1",
         "source": "hn",
         "time": "11/20/2026, 4:02:39 AM"
+      },
+      {
+        "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+        "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+        "source": "hn",
+        "time": "11/20/2026, 2:43:49 AM"
       }
     ],
     "world": [
@@ -80,16 +80,16 @@
         "time": "Fri, 20 Nov 2026 00:08:22 GMT"
       },
       {
+        "title": "Calls for law change after Joanne Young rape case",
+        "url": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 20 Nov 2026 08:05:23 GMT"
+      },
+      {
         "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
         "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 20 Nov 2026 00:13:21 GMT"
-      },
-      {
-        "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
-        "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 20 Nov 2026 01:12:45 GMT"
       },
       {
         "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
