@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-20T16:11:47.870Z",
-  "updated_local": "11/20/2026, 4:11:47 PM",
+  "updated_iso": "2026-11-20T17:05:02.383Z",
+  "updated_local": "11/20/2026, 5:05:02 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+        "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+        "source": "crypto",
+        "time": "Fri, 20 Nov 2026 16:35:59 +0000"
+      },
       {
         "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
         "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
@@ -26,20 +32,26 @@
         "url": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
         "source": "crypto",
         "time": "Fri, 20 Nov 2026 11:50:51 +0000"
-      },
-      {
-        "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
-        "url": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report",
-        "source": "crypto",
-        "time": "Fri, 20 Nov 2026 11:23:00 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "I'll never buy Framework hardware again",
+        "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+        "source": "hn",
+        "time": "11/20/2026, 4:06:30 PM"
+      },
       {
         "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
         "url": "https://alpo.ge/remark.pdf",
         "source": "hn",
         "time": "11/20/2026, 2:16:21 PM"
+      },
+      {
+        "title": "Language Models Can Rewrite Their Own Weights",
+        "url": "https://arxiv.org/abs/2611.21885",
+        "source": "hn",
+        "time": "11/20/2026, 4:29:06 PM"
       },
       {
         "title": "If you can't explain something in simple terms, you don't understand it (2017)",
@@ -52,26 +64,20 @@
         "url": "https://architectlabs.com/blog/frostbite",
         "source": "hn",
         "time": "11/20/2026, 10:01:41 AM"
-      },
-      {
-        "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-        "url": "https://kobi.music/research/dettato",
-        "source": "hn",
-        "time": "11/17/2026, 1:03:05 AM"
-      },
-      {
-        "title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
-        "url": "https://github.com/bigcrimping/floppy3.5",
-        "source": "hn",
-        "time": "11/19/2026, 2:29:49 PM"
       }
     ],
     "world": [
       {
+        "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+        "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 20 Nov 2026 16:41:52 GMT"
+      },
+      {
         "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
         "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 20 Nov 2026 13:52:04 GMT"
+        "time": "Fri, 20 Nov 2026 16:54:29 GMT"
       },
       {
         "title": "What we know about the latest Russian missile strikes on Ukraine",
@@ -83,19 +89,13 @@
         "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
         "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 20 Nov 2026 15:57:38 GMT"
+        "time": "Fri, 20 Nov 2026 16:39:49 GMT"
       },
       {
         "title": "Secret UK cyber operation protected tens of thousands of fridges from hackers",
         "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 20 Nov 2026 00:02:07 GMT"
-      },
-      {
-        "title": "Calls for consent defence change after Joanne Young rape case",
-        "url": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 20 Nov 2026 13:52:37 GMT"
       }
     ],
     "projects": [
