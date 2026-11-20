@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-20T20:11:26.244Z",
-  "updated_local": "11/20/2026, 8:11:26 PM",
+  "updated_iso": "2026-11-20T21:05:15.921Z",
+  "updated_local": "11/20/2026, 9:05:15 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+        "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
+        "source": "crypto",
+        "time": "Fri, 20 Nov 2026 20:36:54 +0000"
+      },
       {
         "title": "SBF’s &#39;The Altruists&#39; Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
         "url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
         "source": "crypto",
         "time": "Fri, 20 Nov 2026 17:41:45 +0000"
-      },
-      {
-        "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
-        "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
-        "source": "crypto",
-        "time": "Fri, 20 Nov 2026 16:35:59 +0000"
       }
     ],
     "hacker": [
@@ -42,16 +42,16 @@
         "time": "11/20/2026, 6:33:14 PM"
       },
       {
+        "title": "Inkling 2 Mini",
+        "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "source": "hn",
+        "time": "11/20/2026, 8:12:19 PM"
+      },
+      {
         "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
         "url": "https://alpo.ge/remark.pdf",
         "source": "hn",
         "time": "11/20/2026, 2:16:21 PM"
-      },
-      {
-        "title": "Language Models Can Rewrite Their Own Weights",
-        "url": "https://arxiv.org/abs/2611.21885",
-        "source": "hn",
-        "time": "11/20/2026, 4:29:06 PM"
       },
       {
         "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
@@ -60,10 +60,10 @@
         "time": "11/20/2026, 5:21:36 PM"
       },
       {
-        "title": "We promoted developers into architects without informing them",
-        "url": "https://manidoraisamy.com/developer-to-architect.html",
+        "title": "Language Models Can Rewrite Their Own Weights",
+        "url": "https://arxiv.org/abs/2611.21885",
         "source": "hn",
-        "time": "11/20/2026, 6:17:51 PM"
+        "time": "11/20/2026, 4:29:06 PM"
       }
     ],
     "world": [
