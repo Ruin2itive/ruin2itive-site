@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-20T13:11:28.168Z",
-  "updated_local": "11/20/2026, 1:11:28 PM",
+  "updated_iso": "2026-11-20T14:06:49.564Z",
+  "updated_local": "11/20/2026, 2:06:49 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
+        "url": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
+        "source": "crypto",
+        "time": "Fri, 20 Nov 2026 13:23:01 +0000"
+      },
       {
         "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
         "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
         "source": "crypto",
         "time": "Fri, 20 Nov 2026 10:07:46 +0000"
-      },
-      {
-        "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
-        "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
-        "source": "crypto",
-        "time": "Thu, 19 Nov 2026 22:36:02 +0000"
       }
     ],
     "hacker": [
@@ -48,31 +48,25 @@
         "time": "11/20/2026, 9:43:19 AM"
       },
       {
+        "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+        "url": "https://kobi.music/research/dettato",
+        "source": "hn",
+        "time": "11/17/2026, 1:03:05 AM"
+      },
+      {
         "title": "The Making of Oxygene",
         "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
         "source": "hn",
         "time": "11/20/2026, 10:41:10 AM"
       },
       {
-        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-        "url": "https://github.com/openssl/openssl/pull/33652",
+        "title": "Floppy3.5: A portable 3.5-inch floppy WiFi NAS",
+        "url": "https://github.com/bigcrimping/floppy3.5",
         "source": "hn",
-        "time": "11/20/2026, 2:01:09 AM"
-      },
-      {
-        "title": "What people are building, discovered through new domains",
-        "url": "https://startups.novumsignals.com/",
-        "source": "hn",
-        "time": "11/20/2026, 9:54:33 AM"
+        "time": "11/19/2026, 2:29:49 PM"
       }
     ],
     "world": [
-      {
-        "title": "What the Brussels summit could mean for the Brexit deal",
-        "url": "https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 20 Nov 2026 08:07:06 GMT"
-      },
       {
         "title": "Secret UK cyber operation protected tens of thousands of fridges from hackers",
         "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&amp;at_campaign=rss",
@@ -83,19 +77,25 @@
         "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
         "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 20 Nov 2026 12:56:48 GMT"
+        "time": "Fri, 20 Nov 2026 13:52:04 GMT"
       },
       {
-        "title": "Calls for consent law change after Joanne Young rape case",
+        "title": "Calls for consent defence change after Joanne Young rape case",
         "url": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 20 Nov 2026 10:49:48 GMT"
+        "time": "Fri, 20 Nov 2026 13:52:37 GMT"
       },
       {
         "title": "'Dishonest' police officers guilty of misconduct over fatal crash",
         "url": "https://www.bbc.co.uk/news/articles/cm2klg8512z0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 20 Nov 2026 12:34:56 GMT"
+      },
+      {
+        "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+        "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 20 Nov 2026 00:08:22 GMT"
       }
     ],
     "projects": [
