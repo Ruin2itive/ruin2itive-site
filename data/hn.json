@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-20T13:03:13.255Z"
+    "built_at": "2026-11-20T14:03:13.906Z"
   },
-  "items": [
-    {
-      "title": "Aperiodical (Mathematics Site)",
-      "url": "https://aperiodical.com/",
-      "date": "2026-11-20T13:01:57.000Z"
-    },
-    {
-      "title": "A Boolean PII Flag Is Not Enough",
-      "url": "https://kore-nordmann.de/blog/a-boolean-pii-flag-is-not-enough.html",
-      "date": "2026-11-20T13:00:47.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
