@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-11-20T11:11:10.633Z",
-  "updated_local": "11/20/2026, 11:11:10 AM",
+  "updated_iso": "2026-11-20T12:09:25.072Z",
+  "updated_local": "11/20/2026, 12:09:25 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
+        "url": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
+        "source": "crypto",
+        "time": "Fri, 20 Nov 2026 11:50:51 +0000"
+      },
+      {
+        "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
+        "url": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report",
+        "source": "crypto",
+        "time": "Fri, 20 Nov 2026 11:23:00 +0000"
+      },
       {
         "title": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
         "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
@@ -20,38 +32,20 @@
         "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
         "source": "crypto",
         "time": "Thu, 19 Nov 2026 21:12:06 +0000"
-      },
-      {
-        "title": "Meet SHRINCS: Bitcoin&#39;s Emerging Frontrunner for a Post-Quantum Signature",
-        "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
-        "source": "crypto",
-        "time": "Thu, 19 Nov 2026 20:46:02 +0000"
-      },
-      {
-        "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
-        "url": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
-        "source": "crypto",
-        "time": "Thu, 19 Nov 2026 20:15:32 +0000"
       }
     ],
     "hacker": [
       {
-        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-        "url": "https://architectlabs.com/blog/frostbite",
-        "source": "hn",
-        "time": "11/20/2026, 10:01:41 AM"
-      },
-      {
-        "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars",
+        "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
         "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
         "source": "hn",
         "time": "11/20/2026, 9:13:09 AM"
       },
       {
-        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-        "url": "https://github.com/openssl/openssl/pull/33652",
+        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+        "url": "https://architectlabs.com/blog/frostbite",
         "source": "hn",
-        "time": "11/20/2026, 2:01:09 AM"
+        "time": "11/20/2026, 10:01:41 AM"
       },
       {
         "title": "If you can't explain something in simple terms, you don't understand it (2017)",
@@ -60,10 +54,16 @@
         "time": "11/20/2026, 9:43:19 AM"
       },
       {
-        "title": "The Strongest Sokoban Solver",
-        "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+        "url": "https://github.com/openssl/openssl/pull/33652",
         "source": "hn",
-        "time": "11/16/2026, 9:04:01 PM"
+        "time": "11/20/2026, 2:01:09 AM"
+      },
+      {
+        "title": "The Making of Oxygene",
+        "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+        "source": "hn",
+        "time": "11/20/2026, 10:41:10 AM"
       }
     ],
     "world": [
