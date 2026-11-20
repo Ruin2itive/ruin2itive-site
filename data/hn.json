@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-20T22:03:15.435Z"
+    "built_at": "2026-11-20T23:02:52.961Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Donald Trump vows to tax US companies building data centres overseas",
+      "url": "https://www.abc.net.au/news/2026-11-21/trump-vows-tax-companies-building-data-centres-overseas/107412162",
+      "date": "2026-11-20T22:58:19.000Z"
+    },
+    {
+      "title": "Reviving the Donkey Car with Erlang",
+      "url": "https://underjord.io/reviving-the-donkey-car-with-erlang.html",
+      "date": "2026-11-20T22:56:20.000Z"
+    }
+  ]
 }
