@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-20T02:16:54.264Z",
-  "updated_local": "11/20/2026, 2:16:54 AM",
+  "updated_iso": "2026-11-20T03:07:24.962Z",
+  "updated_local": "11/20/2026, 3:07:24 AM",
   "sections": {
     "crypto": [
       {
@@ -54,16 +54,16 @@
         "time": "11/19/2026, 5:25:33 PM"
       },
       {
+        "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+        "url": "https://github.com/openssl/openssl/pull/33652",
+        "source": "hn",
+        "time": "11/20/2026, 2:01:09 AM"
+      },
+      {
         "title": "Claude solves two open problems in the physics of black holes",
         "url": "https://www.anthropic.com/research/claude-black-hole-physics",
         "source": "hn",
         "time": "11/19/2026, 5:30:44 PM"
-      },
-      {
-        "title": "Synology Security Advisory",
-        "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-        "source": "hn",
-        "time": "11/19/2026, 10:13:40 PM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Thu, 19 Nov 2026 23:33:51 GMT"
       },
       {
+        "title": "UK and EU to agree youth mobility scheme, BBC understands",
+        "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 20 Nov 2026 02:40:49 GMT"
+      },
+      {
         "title": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
         "url": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Thu, 19 Nov 2026 20:02:02 GMT"
-      },
-      {
-        "title": "Watch: What did Trump, Xi and Putin get out of their historic meeting?",
-        "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 19 Nov 2026 17:23:29 GMT"
       }
     ],
     "projects": [
