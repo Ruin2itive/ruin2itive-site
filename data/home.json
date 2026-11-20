@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-20T03:07:24.962Z",
-  "updated_local": "11/20/2026, 3:07:24 AM",
+  "updated_iso": "2026-11-20T03:14:36.795Z",
+  "updated_local": "11/20/2026, 3:14:36 AM",
   "sections": {
     "crypto": [
       {
@@ -48,16 +48,16 @@
         "time": "11/19/2026, 11:35:35 PM"
       },
       {
-        "title": "Pancreatic cancer halted by virus injection in three patients",
-        "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-        "source": "hn",
-        "time": "11/19/2026, 5:25:33 PM"
-      },
-      {
         "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
         "url": "https://github.com/openssl/openssl/pull/33652",
         "source": "hn",
         "time": "11/20/2026, 2:01:09 AM"
+      },
+      {
+        "title": "Pancreatic cancer halted by virus injection in three patients",
+        "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+        "source": "hn",
+        "time": "11/19/2026, 5:25:33 PM"
       },
       {
         "title": "Claude solves two open problems in the physics of black holes",
