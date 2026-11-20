@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-20T15:11:36.404Z",
-  "updated_local": "11/20/2026, 3:11:36 PM",
+  "updated_iso": "2026-11-20T16:06:36.380Z",
+  "updated_local": "11/20/2026, 4:06:36 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
+        "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+        "source": "crypto",
+        "time": "Fri, 20 Nov 2026 15:42:51 +0000"
+      },
       {
         "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
         "url": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report",
         "source": "crypto",
         "time": "Fri, 20 Nov 2026 11:23:00 +0000"
-      },
-      {
-        "title": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
-        "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
-        "source": "crypto",
-        "time": "Fri, 20 Nov 2026 10:07:46 +0000"
       }
     ],
     "hacker": [
@@ -68,10 +68,22 @@
     ],
     "world": [
       {
-        "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+        "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
         "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 20 Nov 2026 13:52:04 GMT"
+      },
+      {
+        "title": "What we know about the latest Russian missile strikes on Ukraine",
+        "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 20 Nov 2026 15:14:01 GMT"
+      },
+      {
+        "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
+        "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 20 Nov 2026 15:57:38 GMT"
       },
       {
         "title": "Secret UK cyber operation protected tens of thousands of fridges from hackers",
@@ -84,18 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 20 Nov 2026 13:52:37 GMT"
-      },
-      {
-        "title": "'Dishonest' police officers sacked for lying over fatal crash searches",
-        "url": "https://www.bbc.co.uk/news/articles/cm2klg8512z0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 20 Nov 2026 14:56:06 GMT"
-      },
-      {
-        "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-        "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 20 Nov 2026 00:08:22 GMT"
       }
     ],
     "projects": [
