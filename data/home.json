@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-20T10:11:36.218Z",
-  "updated_local": "11/20/2026, 10:11:36 AM",
+  "updated_iso": "2026-11-20T11:05:58.750Z",
+  "updated_local": "11/20/2026, 11:05:58 AM",
   "sections": {
     "crypto": [
       {
@@ -36,34 +36,34 @@
     ],
     "hacker": [
       {
+        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+        "url": "https://architectlabs.com/blog/frostbite",
+        "source": "hn",
+        "time": "11/20/2026, 10:01:41 AM"
+      },
+      {
         "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
         "url": "https://github.com/openssl/openssl/pull/33652",
         "source": "hn",
         "time": "11/20/2026, 2:01:09 AM"
       },
       {
-        "title": "FFmpeg 9.1 'Gauss'",
-        "url": "https://ffmpeg.org/download.html#release_9.1",
+        "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars",
+        "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
         "source": "hn",
-        "time": "11/20/2026, 4:02:39 AM"
+        "time": "11/20/2026, 9:13:09 AM"
       },
       {
-        "title": "The Strongest Sokoban Solver",
-        "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+        "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+        "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
         "source": "hn",
-        "time": "11/16/2026, 9:04:01 PM"
+        "time": "11/20/2026, 9:43:19 AM"
       },
       {
         "title": "µ-Wire – USB on an ATtiny 10",
         "url": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
         "source": "hn",
         "time": "11/18/2026, 1:02:08 PM"
-      },
-      {
-        "title": "Jujutsu Primer",
-        "url": "https://ethanlowman.com/posts/jj-primer/",
-        "source": "hn",
-        "time": "11/20/2026, 5:46:01 AM"
       }
     ],
     "world": [
@@ -74,7 +74,7 @@
         "time": "Fri, 20 Nov 2026 08:07:06 GMT"
       },
       {
-        "title": "Secret UK cyber operation shielded tens of thousands of fridges from hackers",
+        "title": "Secret UK cyber operation protected tens of thousands of fridges from hackers",
         "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 20 Nov 2026 00:02:07 GMT"
@@ -89,7 +89,7 @@
         "title": "Calls for consent law change after Joanne Young rape case",
         "url": "https://www.bbc.co.uk/news/articles/cqy4jvprxyrdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 20 Nov 2026 09:00:02 GMT"
+        "time": "Fri, 20 Nov 2026 10:49:48 GMT"
       },
       {
         "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
