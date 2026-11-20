@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-20T17:09:16.115Z",
-  "updated_local": "11/20/2026, 5:09:16 PM",
+  "updated_iso": "2026-11-20T18:07:31.884Z",
+  "updated_local": "11/20/2026, 6:07:31 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+        "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+        "source": "crypto",
+        "time": "Fri, 20 Nov 2026 17:41:45 +0000"
+      },
       {
         "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
         "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
         "source": "crypto",
         "time": "Fri, 20 Nov 2026 12:10:14 +0000"
-      },
-      {
-        "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
-        "url": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
-        "source": "crypto",
-        "time": "Fri, 20 Nov 2026 11:50:51 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "Language Models Can Rewrite Their Own Weights",
+        "url": "https://arxiv.org/abs/2611.21885",
+        "source": "hn",
+        "time": "11/20/2026, 4:29:06 PM"
+      },
       {
         "title": "I'll never buy Framework hardware again",
         "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
@@ -48,22 +54,16 @@
         "time": "11/20/2026, 2:16:21 PM"
       },
       {
-        "title": "Language Models Can Rewrite Their Own Weights",
-        "url": "https://arxiv.org/abs/2611.21885",
+        "title": "Finite-time blow-up for the Navier–Stokes equations",
+        "url": "https://github.com/tristanbuckmaster/navier-stokes/",
         "source": "hn",
-        "time": "11/20/2026, 4:29:06 PM"
+        "time": "11/20/2026, 3:34:31 PM"
       },
       {
         "title": "If you can't explain something in simple terms, you don't understand it (2017)",
         "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
         "source": "hn",
         "time": "11/20/2026, 9:43:19 AM"
-      },
-      {
-        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-        "url": "https://architectlabs.com/blog/frostbite",
-        "source": "hn",
-        "time": "11/20/2026, 10:01:41 AM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Fri, 20 Nov 2026 16:39:49 GMT"
       },
       {
-        "title": "Secret UK cyber operation protected tens of thousands of fridges from hackers",
-        "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 20 Nov 2026 00:02:07 GMT"
+        "time": "Fri, 20 Nov 2026 17:36:29 GMT"
       }
     ],
     "projects": [
