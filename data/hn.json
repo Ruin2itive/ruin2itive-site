@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-21T20:02:58.031Z"
+    "built_at": "2026-11-21T21:02:47.820Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Investigations and Post-Mortems",
+      "url": "https://codeberg.org/Codeberg/changelog/issues/7",
+      "date": "2026-11-21T21:01:59.000Z"
+    },
+    {
+      "title": "Air Office – Open-source local-first desktop workspace for AI safety research",
+      "url": "https://gyrogovernance.com/air-office/",
+      "date": "2026-11-21T20:57:01.000Z"
+    }
+  ]
 }
