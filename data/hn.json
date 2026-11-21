@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-21T00:09:05.695Z"
+    "built_at": "2026-11-21T01:03:21.377Z"
   },
-  "items": [
-    {
-      "title": "Forensic dissection of Roland J-6's 64 presets: measuring the hidden settings",
-      "url": "https://github.com/liotier/RolandStuff/blob/main/J-6_presets_measurement/README.md",
-      "date": "2026-11-21T00:07:38.000Z"
-    },
-    {
-      "title": "Is Ssense Pivoting to AI Slop?",
-      "url": "https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html",
-      "date": "2026-11-21T00:06:18.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
