@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-21T22:02:57.041Z"
+    "built_at": "2026-11-21T23:03:00.569Z"
   },
-  "items": [
-    {
-      "title": "People who donate their poo: What it takes to be a super pooper",
-      "url": "https://www.bbc.com/future/article/20261117-faecal-transplants-what-it-takes-to-be-a-super-pooper",
-      "date": "2026-11-21T22:00:52.000Z"
-    },
-    {
-      "title": "Show HN: I built a playable 211M-param world model of the Backrooms",
-      "url": "https://github.com/Yelar/noclip",
-      "date": "2026-11-21T22:00:20.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }

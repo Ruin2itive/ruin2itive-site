@@ -4,8 +4,18 @@
     "label": "reuters",
     "source_url": "https://news.google.com/rss/search?q=site%3Areuters.com%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
     "take": 2,
-    "built_at": "2026-11-21T22:03:09.486Z"
+    "built_at": "2026-11-21T23:03:01.367Z"
   },
-  "error": "HTTP 503",
-  "items": []
+  "items": [
+    {
+      "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
+      "date": "2026-11-21T21:58:48.000Z"
+    },
+    {
+      "title": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp?oc=5",
+      "date": "2026-11-21T21:24:10.000Z"
+    }
+  ]
 }
