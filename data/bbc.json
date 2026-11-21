@@ -4,18 +4,18 @@
     "label": "bbc",
     "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
     "take": 2,
-    "built_at": "2026-11-21T15:03:09.489Z"
+    "built_at": "2026-11-21T16:03:31.282Z"
   },
   "items": [
+    {
+      "title": "Serious crash closes M42 near Birmingham Airport",
+      "url": "https://www.bbc.co.uk/news/articles/c8vg2pd5707wo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21T15:50:01.000Z"
+    },
     {
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-21T14:54:24.000Z"
-    },
-    {
-      "title": "Serious crash closes M42 near Birmingham Airport",
-      "url": "https://www.bbc.co.uk/news/articles/c8vg2pd5707wo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-21T14:10:59.000Z"
     }
   ]
 }
