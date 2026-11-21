@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-21T12:04:56.188Z"
+    "built_at": "2026-11-21T13:02:53.973Z"
   },
-  "items": [
-    {
-      "title": "Passive Solar Building Design",
-      "url": "https://en.wikipedia.org/wiki/Passive_solar_building_design",
-      "date": "2026-11-21T11:59:47.000Z"
-    },
-    {
-      "title": "Show HN: Tetramusic – Multi-track music as MIDI in seconds, on web and desktop",
-      "url": "https://tetramusic.ai/?v=hn",
-      "date": "2026-11-21T11:59:47.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
