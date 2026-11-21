@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-21T07:03:13.015Z"
+    "built_at": "2026-11-21T08:04:03.876Z"
   },
-  "items": [
-    {
-      "title": "The Defender's Window",
-      "url": "https://blog.gregbrockman.com/the-defenders-window",
-      "date": "2026-11-21T07:00:40.000Z"
-    },
-    {
-      "title": "Platonic space: where cognitive and morphological patterns come from",
-      "url": "https://thoughtforms.life/platonic-space-where-cognitive-and-morphological-patterns-come-from-besides-genetics-and-environment/",
-      "date": "2026-11-21T06:51:40.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
