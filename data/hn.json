@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-21T09:03:23.981Z"
+    "built_at": "2026-11-21T10:02:51.519Z"
   },
-  "items": [
-    {
-      "title": "More Suicides at Spy, Cyber Agencies Scrutinized by Congress",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/more-suicides-at-spy-cyber-agencies-scrutinized-by-congress",
-      "date": "2026-11-21T09:02:52.000Z"
-    },
-    {
-      "title": "Show HN: Learnmap, learn programming in a playful way",
-      "url": "https://learnmap.sh",
-      "date": "2026-11-21T08:58:46.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
