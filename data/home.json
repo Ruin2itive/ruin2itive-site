@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-21T13:09:45.485Z",
-  "updated_local": "11/21/2026, 1:09:45 PM",
+  "updated_iso": "2026-11-21T14:05:27.101Z",
+  "updated_local": "11/21/2026, 2:05:27 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
+        "url": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
+        "source": "crypto",
+        "time": "Sat, 21 Nov 2026 14:01:06 +0000"
+      },
       {
         "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
         "url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
         "source": "crypto",
         "time": "Fri, 20 Nov 2026 18:46:03 +0000"
-      },
-      {
-        "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
-        "url": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
-        "source": "crypto",
-        "time": "Fri, 20 Nov 2026 18:16:02 +0000"
       }
     ],
     "hacker": [
@@ -40,6 +40,18 @@
         "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
         "source": "hn",
         "time": "11/17/2026, 3:22:57 PM"
+      },
+      {
+        "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+        "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+        "source": "hn",
+        "time": "11/21/2026, 1:23:14 PM"
+      },
+      {
+        "title": "My Monitor Was Cutting My Download Speed by 75%",
+        "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+        "source": "hn",
+        "time": "11/21/2026, 10:36:32 AM"
       },
       {
         "title": "Hurried Announcement: Alessandro Masullo GRH",
@@ -52,18 +64,6 @@
         "url": "https://alpo.ge/remark.pdf",
         "source": "hn",
         "time": "11/20/2026, 2:16:21 PM"
-      },
-      {
-        "title": "Inkling 2 Mini",
-        "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-        "source": "hn",
-        "time": "11/20/2026, 8:12:19 PM"
-      },
-      {
-        "title": "RCE in Gnupg",
-        "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-        "source": "hn",
-        "time": "11/21/2026, 8:32:58 AM"
       }
     ],
     "world": [
@@ -71,13 +71,19 @@
         "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
         "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 21 Nov 2026 12:52:00 GMT"
+        "time": "Sat, 21 Nov 2026 13:17:38 GMT"
       },
       {
         "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
         "url": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 21 Nov 2026 12:00:03 GMT"
+      },
+      {
+        "title": "'We're not meant to carry life's challenges alone', Catherine says in first clip",
+        "url": "https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 21 Nov 2026 12:17:45 GMT"
       },
       {
         "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 21 Nov 2026 09:52:11 GMT"
-      },
-      {
-        "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
-        "url": "https://www.bbc.co.uk/news/articles/cr4g1l7x52jno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 21 Nov 2026 00:03:16 GMT"
       }
     ],
     "projects": [
