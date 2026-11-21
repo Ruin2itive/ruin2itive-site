@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-21T02:04:42.028Z"
+    "built_at": "2026-11-21T03:03:43.669Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The Kafkaian Agent Swarm That Locked Out My Cofounder",
+      "url": "https://simeoncampos.substack.com/p/on-the-kafkaian-agent-swarm-that",
+      "date": "2026-11-21T02:54:07.000Z"
+    },
+    {
+      "title": "The 'Sullan Republic'",
+      "url": "https://acoup.blog/2026/11/20/collections-on-the-sullan-republic/",
+      "date": "2026-11-21T02:50:28.000Z"
+    }
+  ]
 }
