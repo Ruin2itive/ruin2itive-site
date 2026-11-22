@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-21T23:03:00.569Z"
+    "built_at": "2026-11-22T00:09:48.685Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Open Letter to PixInsight Users: Your Choice",
+      "url": "https://pixinsight.net/dev/index.php?articles/open-letter-to-pixinsight-users-your-choice.32/",
+      "date": "2026-11-22T00:08:43.000Z"
+    },
+    {
+      "title": "Sandwich Simulator",
+      "url": "https://stulle.app/",
+      "date": "2026-11-22T00:07:59.000Z"
+    }
+  ]
 }
