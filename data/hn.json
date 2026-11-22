@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-22T18:03:25.037Z"
+    "built_at": "2026-11-22T19:02:46.153Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The first Britons were not 'black'",
+      "url": "https://www.spiked-online.com/2024/02/07/no-the-first-britons-were-not-black/",
+      "date": "2026-11-22T18:59:39.000Z"
+    },
+    {
+      "title": "Ask HN: Are startups today worth it even in a best case scenario?",
+      "url": "https://news.ycombinator.com/item?id=50602740",
+      "date": "2026-11-22T18:57:26.000Z"
+    }
+  ]
 }
