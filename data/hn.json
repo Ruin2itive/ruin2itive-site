@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-22T04:03:37.663Z"
+    "built_at": "2026-11-22T05:03:10.637Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Strangler pattern, a powerful simple concept to do refactoring (2019)",
+      "url": "https://martinfowler.com/bliki/StranglerFigApplication.html",
+      "date": "2026-11-22T05:01:19.000Z"
+    },
+    {
+      "title": "ING's $500M Data Center Loan Auction Stalls on Weak Demand",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/ing-s-500-million-data-center-loan-auction-stalls-on-low-bids",
+      "date": "2026-11-22T05:00:03.000Z"
+    }
+  ]
 }
