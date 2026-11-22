@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-22T03:14:40.702Z",
-  "updated_local": "11/22/2026, 3:14:40 AM",
+  "updated_iso": "2026-11-22T04:07:09.933Z",
+  "updated_local": "11/22/2026, 4:07:09 AM",
   "sections": {
     "crypto": [
       {
@@ -54,16 +54,16 @@
         "time": "11/21/2026, 6:02:19 PM"
       },
       {
+        "title": "Sandwich Simulator",
+        "url": "https://stulle.app/",
+        "source": "hn",
+        "time": "11/22/2026, 12:07:59 AM"
+      },
+      {
         "title": "Data Processing Incidents on Inference Providers",
         "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
         "source": "hn",
         "time": "11/22/2026, 2:14:14 AM"
-      },
-      {
-        "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
-        "url": "https://github.com/ItsNotRexed/Leonida",
-        "source": "hn",
-        "time": "11/22/2026, 12:57:26 AM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Sat, 21 Nov 2026 16:16:29 GMT"
       },
       {
-        "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sat, 21 Nov 2026 22:19:43 GMT"
-      },
-      {
         "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
         "url": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 21 Nov 2026 12:17:45 GMT"
+      },
+      {
+        "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 21 Nov 2026 22:19:43 GMT"
       }
     ],
     "projects": [
