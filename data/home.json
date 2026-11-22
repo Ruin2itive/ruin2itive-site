@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-22T08:15:11.441Z",
-  "updated_local": "11/22/2026, 8:15:11 AM",
+  "updated_iso": "2026-11-22T09:06:49.370Z",
+  "updated_local": "11/22/2026, 9:06:49 AM",
   "sections": {
     "crypto": [
       {
@@ -48,36 +48,30 @@
         "time": "11/20/2026, 9:03:12 PM"
       },
       {
-        "title": "AI Supply Chain Security: What Canary Tokens Found",
-        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-        "source": "hn",
-        "time": "11/22/2026, 5:11:43 AM"
-      },
-      {
-        "title": "The Engineering Manager's role is under attack (again)",
-        "url": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
-        "source": "hn",
-        "time": "11/22/2026, 7:01:00 AM"
-      },
-      {
         "title": "Lean verification of the Riemann Hypothesis",
         "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
         "source": "hn",
         "time": "11/21/2026, 2:36:45 PM"
+      },
+      {
+        "title": "Show HN: The Riemann Proof Handbook",
+        "url": "https://github.com/tamnd/riemann-handbook",
+        "source": "hn",
+        "time": "11/22/2026, 5:46:30 AM"
+      },
+      {
+        "title": "Notes on the discrete Fourier transform (DFT)",
+        "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+        "source": "hn",
+        "time": "11/22/2026, 6:52:25 AM"
       }
     ],
     "world": [
       {
-        "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-        "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
+        "url": "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 22 Nov 2026 06:54:06 GMT"
-      },
-      {
-        "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
-        "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 22 Nov 2026 06:01:14 GMT"
+        "time": "Sun, 22 Nov 2026 06:01:49 GMT"
       },
       {
         "title": "How a teen gamer and his mother helped rescue a missing girl",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 21 Nov 2026 12:00:03 GMT"
+      },
+      {
+        "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+        "url": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 22 Nov 2026 04:39:13 GMT"
       }
     ],
     "projects": [
