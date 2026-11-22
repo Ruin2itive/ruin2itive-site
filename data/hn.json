@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-22T08:04:06.706Z"
+    "built_at": "2026-11-22T09:03:43.029Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "date": "2026-11-22T08:57:34.000Z"
+    },
+    {
+      "title": "Is AI plagiarizing human research?",
+      "url": "https://twitter.com/Robert_E_Grant_/status/2124338413662847228",
+      "date": "2026-11-22T08:57:25.000Z"
+    }
+  ]
 }
