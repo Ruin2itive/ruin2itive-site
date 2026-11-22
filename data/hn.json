@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-22T16:03:07.795Z"
+    "built_at": "2026-11-22T17:02:46.302Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "How to make Three.js support real-time path tracing?",
+      "url": "https://news.ycombinator.com/item?id=50601473",
+      "date": "2026-11-22T17:01:55.000Z"
+    },
+    {
+      "title": "The Riemann Hypothesis (Post by Marty Ross of Mathologer)",
+      "url": "https://mathematicalcrap.com/2026/11/22/the-riemann-hypothesis/",
+      "date": "2026-11-22T17:01:25.000Z"
+    }
+  ]
 }
