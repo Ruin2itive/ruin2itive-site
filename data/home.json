@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-22T16:11:14.822Z",
-  "updated_local": "11/22/2026, 4:11:14 PM",
+  "updated_iso": "2026-11-22T17:04:49.605Z",
+  "updated_local": "11/22/2026, 5:04:49 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Open Social Web Alliance",
+        "url": "https://osw-alliance.net/en/",
+        "source": "hn",
+        "time": "11/22/2026, 3:24:32 PM"
+      },
+      {
         "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
         "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
         "source": "hn",
@@ -48,22 +54,16 @@
         "time": "11/22/2026, 1:56:58 PM"
       },
       {
-        "title": "A better internet for everyone is possible. Today",
-        "url": "https://osw-alliance.net/en/",
-        "source": "hn",
-        "time": "11/22/2026, 3:24:32 PM"
-      },
-      {
-        "title": "A real Linux kernel, compiled to WebAssembly",
-        "url": "https://github.com/pithings/unkernel",
-        "source": "hn",
-        "time": "11/17/2026, 4:35:46 PM"
-      },
-      {
         "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
         "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
         "source": "hn",
         "time": "11/20/2026, 9:03:12 PM"
+      },
+      {
+        "title": "A Better Vocabulary for Testing",
+        "url": "https://alperenkeles.com/posts/vocab-for-testing/",
+        "source": "hn",
+        "time": "11/21/2026, 10:15:39 PM"
       }
     ],
     "world": [
@@ -74,16 +74,16 @@
         "time": "Sun, 22 Nov 2026 11:50:20 GMT"
       },
       {
-        "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
-        "url": "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Sun, 22 Nov 2026 06:01:49 GMT"
-      },
-      {
         "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
         "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sun, 22 Nov 2026 13:50:21 GMT"
+      },
+      {
+        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sun, 22 Nov 2026 16:05:25 GMT"
       },
       {
         "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
@@ -92,10 +92,10 @@
         "time": "Sun, 22 Nov 2026 14:19:06 GMT"
       },
       {
-        "title": "BBC apologises after noise disruption during Strictly",
-        "url": "https://www.bbc.co.uk/news/videos/ck782j066elvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russell Brand's wife says she'll honour prison rules after message row",
+        "url": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sun, 22 Nov 2026 13:46:00 GMT"
+        "time": "Sun, 22 Nov 2026 16:51:57 GMT"
       }
     ],
     "projects": [
