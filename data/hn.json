@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-22T07:03:18.035Z"
+    "built_at": "2026-11-22T08:04:06.706Z"
   },
-  "items": [
-    {
-      "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
-      "date": "2026-11-22T06:55:05.000Z"
-    },
-    {
-      "title": "Notes on the discrete Fourier transform (DFT)",
-      "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-      "date": "2026-11-22T06:52:25.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
