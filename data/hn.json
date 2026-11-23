@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-23T00:09:48.825Z"
+    "built_at": "2026-11-23T01:03:53.706Z"
   },
-  "items": [
-    {
-      "title": "Do We Still Need Mathematicians?",
-      "url": "https://cacm.acm.org/news/do-we-still-need-mathematicians/",
-      "date": "2026-11-23T00:08:52.000Z"
-    },
-    {
-      "title": "Show HN: I built a simple ambient sounds app with music and white noise",
-      "url": "https://puresound.app",
-      "date": "2026-11-23T00:02:51.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
