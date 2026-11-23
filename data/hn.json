@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-23T21:02:57.240Z"
+    "built_at": "2026-11-23T22:02:52.425Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "The computer age took fifteen years to show up",
+      "url": "https://hrih.si/articles/the-computer-age-took-fifteen-years-to-show-up/",
+      "date": "2026-11-23T22:01:50.000Z"
+    },
+    {
+      "title": "Show HN: My computer was too slow to run this Flash game, so I decompiled it",
+      "url": "https://anduil.neocities.org/n/",
+      "date": "2026-11-23T22:01:09.000Z"
+    }
+  ]
 }
