@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-23T20:11:23.434Z",
-  "updated_local": "11/23/2026, 8:11:23 PM",
+  "updated_iso": "2026-11-23T21:05:16.329Z",
+  "updated_local": "11/23/2026, 9:05:16 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
+        "url": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
+        "source": "crypto",
+        "time": "Mon, 23 Nov 2026 20:36:02 +0000"
+      },
       {
         "title": "Why Nvidia Needed Jensen Huang Back—And What His Return Really Changes",
         "url": "https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt",
         "source": "crypto",
         "time": "Mon, 23 Nov 2026 18:15:45 +0000"
-      },
-      {
-        "title": "Jensen Huang’s Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion",
-        "url": "https://decrypt.co/383815/jensen-huang-fortune-37-billion-nvidia-soars-short-sellers-rekt",
-        "source": "crypto",
-        "time": "Mon, 23 Nov 2026 17:28:08 +0000"
       }
     ],
     "hacker": [
@@ -60,10 +60,10 @@
         "time": "11/23/2026, 10:06:43 AM"
       },
       {
-        "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-        "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+        "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+        "url": "https://twitter.com/ylecun/status/2124550037912920090",
         "source": "hn",
-        "time": "11/23/2026, 1:42:38 PM"
+        "time": "11/23/2026, 5:07:26 PM"
       }
     ],
     "world": [
@@ -74,10 +74,10 @@
         "time": "Mon, 23 Nov 2026 19:10:44 GMT"
       },
       {
-        "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+        "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Nov 2026 15:41:23 GMT"
+        "time": "Mon, 23 Nov 2026 20:48:35 GMT"
       },
       {
         "title": "How Ukraine attacked Russian ships in Libya",
@@ -86,16 +86,16 @@
         "time": "Mon, 23 Nov 2026 14:32:12 GMT"
       },
       {
+        "title": "US rapper Don Toliver postpones two arena shows after Manchester evacuation",
+        "url": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Nov 2026 20:49:08 GMT"
+      },
+      {
         "title": "UK to host 2035 Women's World Cup, Fifa confirms",
         "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 23 Nov 2026 15:09:50 GMT"
-      },
-      {
-        "title": "Andrew Mountbatten-Windsor received £750,000 from Turkish millionaire, court told",
-        "url": "https://www.bbc.co.uk/news/articles/c9gkldn06l87o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Nov 2026 19:36:56 GMT"
       }
     ],
     "projects": [
