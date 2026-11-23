@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-23T07:04:21.538Z"
+    "built_at": "2026-11-23T08:05:08.550Z"
   },
-  "items": [
-    {
-      "title": "The useless computer – Programming is Fun",
-      "url": "https://bitfieldconsulting.com/posts/useless-computer",
-      "date": "2026-11-23T07:00:55.000Z"
-    },
-    {
-      "title": "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
-      "url": "https://dl.acm.org/doi/10.1145/3828523.3857112",
-      "date": "2026-11-23T06:54:08.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
