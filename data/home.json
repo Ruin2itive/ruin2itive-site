@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-11-23T13:13:29.839Z",
-  "updated_local": "11/23/2026, 1:13:29 PM",
+  "updated_iso": "2026-11-23T14:07:19.879Z",
+  "updated_local": "11/23/2026, 2:07:19 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Crypto Rebounds after NVDA Drives Friday Selloff",
+        "url": "https://decrypt.co/383778/morning-minute-crypto-rebounds-after-nvda-drives-friday-selloff",
+        "source": "crypto",
+        "time": "Mon, 23 Nov 2026 13:34:13 +0000"
+      },
+      {
+        "title": "Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot",
+        "url": "https://decrypt.co/383779/strategy-buys-30m-in-bitcoin-moves-1b-from-usd-reserve-to-cash-pot",
+        "source": "crypto",
+        "time": "Mon, 23 Nov 2026 13:25:35 +0000"
+      },
       {
         "title": "Czech Authorities Charge 15 Over $12M Unlicensed Crypto Casino",
         "url": "https://decrypt.co/383775/czech-authorities-charge-15-over-12m-unlicensed-crypto-casino",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low",
         "source": "crypto",
         "time": "Mon, 23 Nov 2026 11:14:22 +0000"
-      },
-      {
-        "title": "Google&#39;s Quantum Chip Beats Classical Limits in &#39;Impossible&#39; Game",
-        "url": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
-        "source": "crypto",
-        "time": "Sun, 22 Nov 2026 14:01:02 +0000"
-      },
-      {
-        "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
-        "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
-        "source": "crypto",
-        "time": "Sat, 21 Nov 2026 18:01:02 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "11/23/2026, 10:06:43 AM"
       },
       {
-        "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-        "url": "https://github.com/AFK-surf/xnulinux",
-        "source": "hn",
-        "time": "11/23/2026, 3:49:24 AM"
-      },
-      {
-        "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-        "url": "https://spelunkr.tv",
-        "source": "hn",
-        "time": "11/23/2026, 1:13:51 AM"
-      },
-      {
-        "title": "MRAM Basics: How Magnetic Memory Is Replacing Embedded Flash",
-        "url": "https://www.allaboutcircuits.com/technical-articles/mram-basics-how-magnetic-memory-is-replacing-embedded-flash/",
-        "source": "hn",
-        "time": "11/21/2026, 10:14:11 AM"
-      },
-      {
         "title": "The next circle of security hell",
         "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
         "source": "hn",
         "time": "11/23/2026, 11:34:16 AM"
+      },
+      {
+        "title": "Jensen Huang Reinstated as Nvidia CEO",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+        "source": "hn",
+        "time": "11/23/2026, 2:01:23 PM"
+      },
+      {
+        "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+        "url": "https://github.com/mikuta0407/win4wine",
+        "source": "hn",
+        "time": "11/23/2026, 12:28:11 PM"
+      },
+      {
+        "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+        "url": "https://github.com/AFK-surf/xnulinux",
+        "source": "hn",
+        "time": "11/23/2026, 3:49:24 AM"
       }
     ],
     "world": [
@@ -86,16 +86,16 @@
         "time": "Mon, 23 Nov 2026 12:42:21 GMT"
       },
       {
-        "title": "Watch: What we know about Co-op Live 'major incident'",
-        "url": "https://www.bbc.co.uk/news/videos/cmn50yy0ypy3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Nov 2026 10:46:28 GMT"
-      },
-      {
         "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
         "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 23 Nov 2026 11:57:33 GMT"
+      },
+      {
+        "title": "Tyson Fury reveals schizophrenia diagnosis",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Nov 2026 09:53:52 GMT"
       }
     ],
     "projects": [
