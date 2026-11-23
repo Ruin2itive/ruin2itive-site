@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-23T13:03:37.903Z"
+    "built_at": "2026-11-23T14:03:25.007Z"
   },
-  "items": [
-    {
-      "title": "Show HN: News Blocklist – a DNS blocklist of 14k news and current-affairs sites",
-      "url": "https://github.com/ruairidhflint/news-blocklist",
-      "date": "2026-11-23T13:02:52.000Z"
-    },
-    {
-      "title": "What Comes After the Riemann Hypothesis?",
-      "url": "https://www.justinmath.com/what-comes-after-the-riemann-hypothesis/",
-      "date": "2026-11-23T13:02:39.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
