@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-23T10:13:01.474Z",
-  "updated_local": "11/23/2026, 10:13:01 AM",
+  "updated_iso": "2026-11-23T11:05:30.098Z",
+  "updated_local": "11/23/2026, 11:05:30 AM",
   "sections": {
     "crypto": [
       {
@@ -48,6 +48,12 @@
         "time": "11/23/2026, 1:13:51 AM"
       },
       {
+        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+        "url": "https://z.ai/blog/glm-5.4",
+        "source": "hn",
+        "time": "11/23/2026, 10:06:43 AM"
+      },
+      {
         "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
         "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
         "source": "hn",
@@ -58,26 +64,14 @@
         "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
         "source": "hn",
         "time": "11/23/2026, 5:00:49 AM"
-      },
-      {
-        "title": "A Partial Evaluator for C",
-        "url": "https://phoenix.labri.fr/software/tempo/",
-        "source": "hn",
-        "time": "11/23/2026, 4:51:48 AM"
       }
     ],
     "world": [
       {
-        "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+        "title": "Police investigate unknown substance that caused Manchester's Co-Op Live evacuation",
         "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Nov 2026 09:52:18 GMT"
-      },
-      {
-        "title": "Boos after concert cancelled as emergency services attend scene",
-        "url": "https://www.bbc.co.uk/news/videos/cm792e3ldq15o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Nov 2026 08:03:49 GMT"
+        "time": "Mon, 23 Nov 2026 10:54:04 GMT"
       },
       {
         "title": "NHS launches world's largest AI breast cancer screening trial",
@@ -86,16 +80,22 @@
         "time": "Mon, 23 Nov 2026 00:49:22 GMT"
       },
       {
+        "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Nov 2026 08:36:57 GMT"
+      },
+      {
+        "title": "Tyson Fury reveals schizophrenia diagnosis",
+        "url": "https://www.bbc.co.uk/sport/boxing/articles/c6y80n3dn15yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Nov 2026 09:53:52 GMT"
+      },
+      {
         "title": "Five takeaways from the failed climate talks COP31",
         "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 23 Nov 2026 06:33:50 GMT"
-      },
-      {
-        "title": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Nov 2026 08:36:57 GMT"
       }
     ],
     "projects": [
