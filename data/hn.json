@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-23T11:03:04.005Z"
+    "built_at": "2026-11-23T12:05:17.322Z"
   },
-  "items": [
-    {
-      "title": "CrowdStrike to Acquire Zscaler for $43.9B",
-      "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-zscaler-bringing-network-security-and-zero",
-      "date": "2026-11-23T11:02:31.000Z"
-    },
-    {
-      "title": "China's prison for the elite is massively expanding",
-      "url": "https://www.economist.com/china/2026/11/19/chinas-prison-for-the-elite-is-massively-expanding",
-      "date": "2026-11-23T10:58:55.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
