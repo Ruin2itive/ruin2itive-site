@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-23T22:10:14.487Z",
-  "updated_local": "11/23/2026, 10:10:14 PM",
+  "updated_iso": "2026-11-23T23:05:56.414Z",
+  "updated_local": "11/23/2026, 11:05:56 PM",
   "sections": {
     "crypto": [
       {
@@ -48,25 +48,37 @@
         "time": "11/23/2026, 4:13:12 PM"
       },
       {
+        "title": "VP ≠ VNP over Every Field",
+        "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+        "source": "hn",
+        "time": "11/23/2026, 10:09:10 PM"
+      },
+      {
+        "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+        "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+        "source": "hn",
+        "time": "11/23/2026, 10:32:29 PM"
+      },
+      {
         "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
         "url": "https://arm.jonpalmisc.com/",
         "source": "hn",
         "time": "11/23/2026, 7:17:55 PM"
-      },
-      {
-        "title": "The horse made the state",
-        "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
-        "source": "hn",
-        "time": "11/23/2026, 8:59:12 PM"
-      },
-      {
-        "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-        "url": "https://z.ai/blog/glm-5.4",
-        "source": "hn",
-        "time": "11/23/2026, 10:06:43 AM"
       }
     ],
     "world": [
+      {
+        "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+        "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Nov 2026 23:02:48 GMT"
+      },
+      {
+        "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+        "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Nov 2026 22:45:51 GMT"
+      },
       {
         "title": "My approach to EU is pragmatic, says Burnham",
         "url": "https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o?at_medium=RSS&amp;at_campaign=rss",
@@ -80,22 +92,10 @@
         "time": "Mon, 23 Nov 2026 20:48:35 GMT"
       },
       {
-        "title": "How Ukraine attacked Russian ships in Libya",
-        "url": "https://www.bbc.co.uk/news/videos/cmz6q3001pw6o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Nov 2026 14:32:12 GMT"
-      },
-      {
         "title": "US rapper Don Toliver postpones two arena shows after Manchester evacuation",
         "url": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 23 Nov 2026 20:49:08 GMT"
-      },
-      {
-        "title": "UK to host 2035 Women's World Cup, Fifa confirms",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Nov 2026 15:09:50 GMT"
       }
     ],
     "projects": [
