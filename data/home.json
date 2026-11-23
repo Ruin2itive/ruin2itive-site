@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-23T21:05:16.329Z",
-  "updated_local": "11/23/2026, 9:05:16 PM",
+  "updated_iso": "2026-11-23T21:10:02.640Z",
+  "updated_local": "11/23/2026, 9:10:02 PM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
-        "url": "https://arm.jonpalmisc.com/",
-        "source": "hn",
-        "time": "11/23/2026, 7:17:55 PM"
-      },
-      {
         "title": "Nvidia Reinstates Jensen Huang as CEO",
         "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
         "source": "hn",
@@ -54,13 +48,19 @@
         "time": "11/23/2026, 4:13:12 PM"
       },
       {
+        "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+        "url": "https://arm.jonpalmisc.com/",
+        "source": "hn",
+        "time": "11/23/2026, 7:17:55 PM"
+      },
+      {
         "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
         "url": "https://z.ai/blog/glm-5.4",
         "source": "hn",
         "time": "11/23/2026, 10:06:43 AM"
       },
       {
-        "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+        "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
         "url": "https://twitter.com/ylecun/status/2124550037912920090",
         "source": "hn",
         "time": "11/23/2026, 5:07:26 PM"
