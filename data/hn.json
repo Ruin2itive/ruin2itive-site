@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-23T01:03:53.706Z"
+    "built_at": "2026-11-23T02:05:18.970Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Becoming a Magician",
+      "url": "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/",
+      "date": "2026-11-23T02:04:25.000Z"
+    },
+    {
+      "title": "The Sea of Pink Flamingos",
+      "url": "https://www.safari.co.za/Kenya_Safari_Guide-travel/nakuru-and-natron-the-pink-seas.html",
+      "date": "2026-11-23T02:01:51.000Z"
+    }
+  ]
 }
