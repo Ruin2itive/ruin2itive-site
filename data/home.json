@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-23T14:07:19.879Z",
-  "updated_local": "11/23/2026, 2:07:19 PM",
+  "updated_iso": "2026-11-23T14:13:34.082Z",
+  "updated_local": "11/23/2026, 2:13:34 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return",
+        "url": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return",
+        "source": "crypto",
+        "time": "Mon, 23 Nov 2026 14:07:21 +0000"
+      },
       {
         "title": "Morning Minute: Crypto Rebounds after NVDA Drives Friday Selloff",
         "url": "https://decrypt.co/383778/morning-minute-crypto-rebounds-after-nvda-drives-friday-selloff",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/383762/solana-meme-coin-for-fiona-the-hippo-sends-100k-to-cincinnati-zoo-charity",
         "source": "crypto",
         "time": "Mon, 23 Nov 2026 12:43:30 +0000"
-      },
-      {
-        "title": "Bitcoin Rebounds to $61K After Weekend Plunge to Two-Year Low",
-        "url": "https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low",
-        "source": "crypto",
-        "time": "Mon, 23 Nov 2026 11:14:22 +0000"
       }
     ],
     "hacker": [
@@ -40,12 +40,6 @@
         "url": "https://z.ai/blog/glm-5.4",
         "source": "hn",
         "time": "11/23/2026, 10:06:43 AM"
-      },
-      {
-        "title": "The next circle of security hell",
-        "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
-        "source": "hn",
-        "time": "11/23/2026, 11:34:16 AM"
       },
       {
         "title": "Jensen Huang Reinstated as Nvidia CEO",
@@ -58,6 +52,12 @@
         "url": "https://github.com/mikuta0407/win4wine",
         "source": "hn",
         "time": "11/23/2026, 12:28:11 PM"
+      },
+      {
+        "title": "The next circle of security hell",
+        "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+        "source": "hn",
+        "time": "11/23/2026, 11:34:16 AM"
       },
       {
         "title": "XNU Linux: Full OS X GUI Userspace on Linux",
