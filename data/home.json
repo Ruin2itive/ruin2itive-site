@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-23T11:05:30.098Z",
-  "updated_local": "11/23/2026, 11:05:30 AM",
+  "updated_iso": "2026-11-23T11:10:31.660Z",
+  "updated_local": "11/23/2026, 11:10:31 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+        "url": "https://z.ai/blog/glm-5.4",
+        "source": "hn",
+        "time": "11/23/2026, 10:06:43 AM"
+      },
+      {
         "title": "XNU Linux: Full OS X GUI Userspace on Linux",
         "url": "https://github.com/AFK-surf/xnulinux",
         "source": "hn",
@@ -46,12 +52,6 @@
         "url": "https://spelunkr.tv",
         "source": "hn",
         "time": "11/23/2026, 1:13:51 AM"
-      },
-      {
-        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-        "url": "https://z.ai/blog/glm-5.4",
-        "source": "hn",
-        "time": "11/23/2026, 10:06:43 AM"
       },
       {
         "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
