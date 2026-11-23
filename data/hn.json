@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-23T09:05:02.467Z"
+    "built_at": "2026-11-23T10:03:23.920Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Style Is Consistent Constraint",
+      "url": "https://stephango.com/style",
+      "date": "2026-11-23T10:02:18.000Z"
+    },
+    {
+      "title": "AI agents violate website scraping policies ~97% of the time (NeurIPS2026)",
+      "url": "https://scrapebench.github.io/",
+      "date": "2026-11-23T09:59:57.000Z"
+    }
+  ]
 }
