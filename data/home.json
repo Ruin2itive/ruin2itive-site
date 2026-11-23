@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-23T15:12:02.354Z",
-  "updated_local": "11/23/2026, 3:12:02 PM",
+  "updated_iso": "2026-11-23T16:06:27.369Z",
+  "updated_local": "11/23/2026, 4:06:27 PM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-        "url": "https://z.ai/blog/glm-5.4",
-        "source": "hn",
-        "time": "11/23/2026, 10:06:43 AM"
-      },
-      {
         "title": "Jensen Huang Reinstated as Nvidia CEO",
         "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
         "source": "hn",
         "time": "11/23/2026, 2:01:23 PM"
+      },
+      {
+        "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+        "url": "https://z.ai/blog/glm-5.4",
+        "source": "hn",
+        "time": "11/23/2026, 10:06:43 AM"
       },
       {
         "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
@@ -60,10 +60,10 @@
         "time": "11/23/2026, 11:31:54 AM"
       },
       {
-        "title": "The next circle of security hell",
-        "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+        "title": "What's the difference between an integer and a pointer? (2018)",
+        "url": "https://blog.regehr.org/archives/1621",
         "source": "hn",
-        "time": "11/23/2026, 11:34:16 AM"
+        "time": "11/21/2026, 8:49:14 AM"
       }
     ],
     "world": [
@@ -71,13 +71,19 @@
         "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
         "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Nov 2026 11:40:01 GMT"
+        "time": "Mon, 23 Nov 2026 15:41:23 GMT"
       },
       {
-        "title": "How Ukraine drone attacks on Russian ships unfolded",
-        "url": "https://www.bbc.co.uk/news/videos/c3y0xjqxy871o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How Ukraine attacked Russian ships in Libya",
+        "url": "https://www.bbc.co.uk/news/videos/cmz6q3001pw6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Mon, 23 Nov 2026 14:16:36 GMT"
+        "time": "Mon, 23 Nov 2026 14:32:12 GMT"
+      },
+      {
+        "title": "UK to host 2035 Women's World Cup, Fifa confirms",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Mon, 23 Nov 2026 15:09:50 GMT"
       },
       {
         "title": "US rapper Don Toliver postpones O2 arena show after Manchester evacuation",
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Mon, 23 Nov 2026 11:57:33 GMT"
-      },
-      {
-        "title": "UK to host 2035 Women's World Cup, Fifa confirms",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Mon, 23 Nov 2026 15:09:50 GMT"
       }
     ],
     "projects": [
