@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-24T02:05:10.074Z"
+    "built_at": "2026-11-24T03:04:19.589Z"
   },
-  "items": [
-    {
-      "title": "Throwing Headcount at the Problem",
-      "url": "https://frontier.replit.com/throwing-headcount-at-the-problem/",
-      "date": "2026-11-24T02:04:24.000Z"
-    },
-    {
-      "title": "Incognide, the AI-native IDE for research and development, reaches 500 gh stars",
-      "url": "https://github.com/NPC-Worldwide/incognide",
-      "date": "2026-11-24T02:02:59.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
