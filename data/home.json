@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-24T15:06:30.505Z",
-  "updated_local": "11/24/2026, 3:06:30 PM",
+  "updated_iso": "2026-11-24T16:07:24.046Z",
+  "updated_local": "11/24/2026, 4:07:24 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Europol Traces $28M in Crypto Behind Europe&#39;s Illegal Streaming Industry",
+        "url": "https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry",
+        "source": "crypto",
+        "time": "Tue, 24 Nov 2026 16:00:44 +0000"
+      },
       {
         "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea&#39;s Binance Hack",
         "url": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/383860/gta-6-pc-ports-nuked-just-days-before-devs-expected-it-to-be-playable",
         "source": "crypto",
         "time": "Tue, 24 Nov 2026 13:01:30 +0000"
-      },
-      {
-        "title": "$14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report",
-        "url": "https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report",
-        "source": "crypto",
-        "time": "Tue, 24 Nov 2026 12:40:47 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "2035 came early",
+        "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+        "source": "hn",
+        "time": "11/24/2026, 6:30:33 AM"
+      },
       {
         "title": "LLM agents work for their parent companies, not for you",
         "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
@@ -42,28 +48,22 @@
         "time": "11/24/2026, 12:40:15 PM"
       },
       {
-        "title": "Who in Washington owns and trades Nvidia stock",
-        "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
-        "source": "hn",
-        "time": "11/24/2026, 11:51:05 AM"
-      },
-      {
-        "title": "2035 Came Early",
-        "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-        "source": "hn",
-        "time": "11/24/2026, 6:30:33 AM"
-      },
-      {
-        "title": "Worshipping at the Altar of Brendan Gregg",
+        "title": "Worshipping at the altar of Brendan Gregg",
         "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
         "source": "hn",
         "time": "11/24/2026, 10:50:14 AM"
       },
       {
-        "title": "The new set of problems for engineers to solve",
-        "url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
+        "title": "Quad9 pulled their DNS service from France",
+        "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
         "source": "hn",
-        "time": "11/22/2026, 11:42:53 PM"
+        "time": "11/24/2026, 8:33:14 AM"
+      },
+      {
+        "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
+        "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
+        "source": "hn",
+        "time": "11/22/2026, 1:21:25 PM"
       }
     ],
     "world": [
@@ -71,13 +71,7 @@
         "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
         "url": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 24 Nov 2026 14:33:50 GMT"
-      },
-      {
-        "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
-        "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 24 Nov 2026 01:21:41 GMT"
+        "time": "Tue, 24 Nov 2026 16:05:57 GMT"
       },
       {
         "title": "Huntley murderer handed new whole life jail term",
@@ -89,13 +83,19 @@
         "title": "Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld",
         "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 24 Nov 2026 15:00:27 GMT"
+        "time": "Tue, 24 Nov 2026 15:40:05 GMT"
       },
       {
         "title": "Zoe Kleinman: My week with Meta's AI agent Muse ahead of its UK launch",
         "url": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 24 Nov 2026 09:33:00 GMT"
+      },
+      {
+        "title": "Watch: BBC secret filming shows dog breeder selling sick puppies for £2k each",
+        "url": "https://www.bbc.co.uk/news/videos/ckx28x5nlr2vo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 24 Nov 2026 06:21:29 GMT"
       }
     ],
     "projects": [
