@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-24T18:04:11.387Z"
+    "built_at": "2026-11-24T19:02:44.631Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Nuance Labs",
+      "url": "https://www.nuancelabs.ai/",
+      "date": "2026-11-24T19:01:33.000Z"
+    },
+    {
+      "title": "Introducing ECS for All [video]",
+      "url": "https://www.youtube.com/watch?v=cAYg3rYUtkQ",
+      "date": "2026-11-24T19:01:18.000Z"
+    }
+  ]
 }
