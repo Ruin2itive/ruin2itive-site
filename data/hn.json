@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-24T11:03:01.852Z"
+    "built_at": "2026-11-24T12:05:22.961Z"
   },
-  "items": [
-    {
-      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
-      "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
-      "date": "2026-11-24T10:59:35.000Z"
-    },
-    {
-      "title": "What VP ≠ VNP Means (In 3 Minutes)",
-      "url": "https://www.friedgil.com/vpvnp",
-      "date": "2026-11-24T10:56:56.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
