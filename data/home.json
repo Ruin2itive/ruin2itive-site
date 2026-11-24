@@ -1,8 +1,26 @@
 {
-  "updated_iso": "2026-11-24T18:14:06.970Z",
-  "updated_local": "11/24/2026, 6:14:06 PM",
+  "updated_iso": "2026-11-24T19:05:07.840Z",
+  "updated_local": "11/24/2026, 7:05:07 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
+        "url": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
+        "source": "crypto",
+        "time": "Tue, 24 Nov 2026 18:55:27 +0000"
+      },
+      {
+        "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
+        "url": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
+        "source": "crypto",
+        "time": "Tue, 24 Nov 2026 18:36:03 +0000"
+      },
+      {
+        "title": "Wall Street and Crypto Are in &#39;Extreme Fear&#39;. What&#39;s Spooking Investors?",
+        "url": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
+        "source": "crypto",
+        "time": "Tue, 24 Nov 2026 18:16:02 +0000"
+      },
       {
         "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
         "url": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained",
@@ -14,24 +32,6 @@
         "url": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
         "source": "crypto",
         "time": "Tue, 24 Nov 2026 17:43:03 +0000"
-      },
-      {
-        "title": "Europol Traces $28M in Crypto Behind Europe&#39;s Illegal Streaming Industry",
-        "url": "https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry",
-        "source": "crypto",
-        "time": "Tue, 24 Nov 2026 16:00:44 +0000"
-      },
-      {
-        "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea&#39;s Binance Hack",
-        "url": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
-        "source": "crypto",
-        "time": "Tue, 24 Nov 2026 14:13:03 +0000"
-      },
-      {
-        "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
-        "url": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
-        "source": "crypto",
-        "time": "Tue, 24 Nov 2026 13:46:03 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "11/22/2026, 11:16:30 AM"
       },
       {
-        "title": "Splitting USB-C: USB 3 and USB 2 on One Port",
-        "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+        "title": "A training engine for your local model, using your idle compute",
+        "url": "https://github.com/sous-labs/songe",
         "source": "hn",
-        "time": "11/24/2026, 2:54:10 PM"
+        "time": "11/24/2026, 3:03:40 PM"
       },
       {
-        "title": "How to Make a Lovable City",
-        "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
+        "title": "2035 came early",
+        "url": "https://fzakaria.com/2026/11/23/2035-came-early",
         "source": "hn",
-        "time": "11/24/2026, 4:19:55 PM"
+        "time": "11/24/2026, 6:30:33 AM"
       }
     ],
     "world": [
@@ -80,22 +80,22 @@
         "time": "Tue, 24 Nov 2026 16:19:29 GMT"
       },
       {
-        "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+        "title": "US attorney general dodges questions about Nvidia investigation",
         "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 24 Nov 2026 17:04:20 GMT"
+        "time": "Tue, 24 Nov 2026 18:55:59 GMT"
+      },
+      {
+        "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+        "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 24 Nov 2026 18:21:43 GMT"
       },
       {
         "title": "'I'm proud of it': Killer confesses after murdering Ian Huntley",
         "url": "https://www.bbc.co.uk/news/videos/c60evp1g7r7no?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 24 Nov 2026 16:24:34 GMT"
-      },
-      {
-        "title": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
-        "url": "https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 24 Nov 2026 17:39:32 GMT"
       }
     ],
     "projects": [
