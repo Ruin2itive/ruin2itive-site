@@ -4,18 +4,18 @@
     "label": "bbc",
     "source_url": "https://feeds.bbci.co.uk/news/rss.xml",
     "take": 2,
-    "built_at": "2026-11-24T04:03:57.597Z"
+    "built_at": "2026-11-24T05:03:15.907Z"
   },
   "items": [
+    {
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-24T02:15:59.000Z"
+    },
     {
       "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
       "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-24T01:21:41.000Z"
-    },
-    {
-      "title": "UK papers:  'Huang returns to Nvidia hotseat' and 'Burnham opens door to second referendum'",
-      "url": "https://www.bbc.co.uk/news/articles/c69vwg0kxvy9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-24T01:08:32.000Z"
     }
   ]
 }
