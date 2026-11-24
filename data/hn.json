@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-24T14:03:32.775Z"
+    "built_at": "2026-11-24T15:03:12.962Z"
   },
-  "items": [
-    {
-      "title": "Dawn: A Workspace Navigator for macOS",
-      "url": "https://opendawn.app/",
-      "date": "2026-11-24T14:02:33.000Z"
-    },
-    {
-      "title": "Praxis: Practical Witness Encryption for NP",
-      "url": "https://arxiv.org/abs/2611.28552",
-      "date": "2026-11-24T14:02:33.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
