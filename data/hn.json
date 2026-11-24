@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-23T23:03:22.965Z"
+    "built_at": "2026-11-24T00:08:54.099Z"
   },
-  "items": [
-    {
-      "title": "Freeing the iPod Nano 5G",
-      "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
-      "date": "2026-11-23T23:03:13.000Z"
-    },
-    {
-      "title": "Voyager OS – AI Made",
-      "url": "https://github.com/LetMePlaySong/VOYAGER-OS-AI-MADE-",
-      "date": "2026-11-23T23:02:31.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
