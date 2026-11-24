@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-11-24T21:11:00.062Z",
-  "updated_local": "11/24/2026, 9:11:00 PM",
+  "updated_iso": "2026-11-24T22:05:42.890Z",
+  "updated_local": "11/24/2026, 10:05:42 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
+        "url": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
+        "source": "crypto",
+        "time": "Tue, 24 Nov 2026 21:46:02 +0000"
+      },
+      {
+        "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
+        "url": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
+        "source": "crypto",
+        "time": "Tue, 24 Nov 2026 21:16:02 +0000"
+      },
       {
         "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
         "url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
         "source": "crypto",
         "time": "Tue, 24 Nov 2026 18:55:27 +0000"
-      },
-      {
-        "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
-        "url": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
-        "source": "crypto",
-        "time": "Tue, 24 Nov 2026 18:36:03 +0000"
-      },
-      {
-        "title": "Wall Street and Crypto Are in &#39;Extreme Fear&#39;. What&#39;s Spooking Investors?",
-        "url": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
-        "source": "crypto",
-        "time": "Tue, 24 Nov 2026 18:16:02 +0000"
       }
     ],
     "hacker": [
@@ -48,16 +48,16 @@
         "time": "11/24/2026, 4:32:17 PM"
       },
       {
+        "title": "Working with AI",
+        "url": "https://www.anthropic.com/research/working-with-ai",
+        "source": "hn",
+        "time": "11/24/2026, 9:07:38 PM"
+      },
+      {
         "title": "The Spray Bottle",
         "url": "https://mechanical-pencil.com/products/spray-bottle",
         "source": "hn",
         "time": "11/22/2026, 11:16:30 AM"
-      },
-      {
-        "title": "Jetty Pro",
-        "url": "http://hypercritical.co/2026/11/23/jetty-pro",
-        "source": "hn",
-        "time": "11/24/2026, 4:23:02 PM"
       }
     ],
     "world": [
@@ -74,22 +74,22 @@
         "time": "Tue, 24 Nov 2026 16:19:29 GMT"
       },
       {
+        "title": "Substance released at Manchester concert could be linked to robberies, police say",
+        "url": "https://www.bbc.co.uk/news/articles/cqrmgvnzwrm3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 24 Nov 2026 22:01:30 GMT"
+      },
+      {
         "title": "US attorney general dodges questions about Nvidia investigation",
         "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 24 Nov 2026 18:55:59 GMT"
+        "time": "Tue, 24 Nov 2026 21:19:42 GMT"
       },
       {
         "title": "Faisal Islam: Fears over the AI boom haven't gone away",
         "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 24 Nov 2026 18:21:43 GMT"
-      },
-      {
-        "title": "Substance released at Manchester concert could be linked to robberies, police say",
-        "url": "https://www.bbc.co.uk/news/articles/cqrmgvnzwrm3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 24 Nov 2026 20:10:14 GMT"
       }
     ],
     "projects": [
