@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-24T22:10:11.476Z",
-  "updated_local": "11/24/2026, 10:10:11 PM",
+  "updated_iso": "2026-11-24T23:05:06.862Z",
+  "updated_local": "11/24/2026, 11:05:06 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
+        "url": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
+        "source": "crypto",
+        "time": "Tue, 24 Nov 2026 22:36:02 +0000"
+      },
       {
         "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
         "url": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
         "source": "crypto",
         "time": "Tue, 24 Nov 2026 19:35:32 +0000"
-      },
-      {
-        "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
-        "url": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
-        "source": "crypto",
-        "time": "Tue, 24 Nov 2026 18:55:27 +0000"
       }
     ],
     "hacker": [
@@ -42,25 +42,31 @@
         "time": "11/24/2026, 8:08:03 PM"
       },
       {
+        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+        "source": "hn",
+        "time": "11/24/2026, 9:02:22 PM"
+      },
+      {
+        "title": "Jensen Huang Spy Story Is a Hoax",
+        "url": "https://www.kenklippenstein.com/p/jensen-huang-spy-story-is-a-hoax",
+        "source": "hn",
+        "time": "11/24/2026, 10:52:16 PM"
+      },
+      {
         "title": "Active intrusion campaign against Check Point security management servers",
         "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
         "source": "hn",
         "time": "11/24/2026, 4:32:17 PM"
-      },
-      {
-        "title": "Working with AI",
-        "url": "https://www.anthropic.com/research/working-with-ai",
-        "source": "hn",
-        "time": "11/24/2026, 9:07:38 PM"
-      },
-      {
-        "title": "The Spray Bottle",
-        "url": "https://mechanical-pencil.com/products/spray-bottle",
-        "source": "hn",
-        "time": "11/22/2026, 11:16:30 AM"
       }
     ],
     "world": [
+      {
+        "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+        "url": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Tue, 24 Nov 2026 22:49:41 GMT"
+      },
       {
         "title": "Disability benefit review calls for closer link with claimant costs",
         "url": "https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&amp;at_campaign=rss",
@@ -84,12 +90,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 24 Nov 2026 21:19:42 GMT"
-      },
-      {
-        "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-        "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 24 Nov 2026 18:21:43 GMT"
       }
     ],
     "projects": [
