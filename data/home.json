@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-25T22:11:21.356Z",
-  "updated_local": "11/25/2026, 10:11:21 PM",
+  "updated_iso": "2026-11-25T23:05:17.641Z",
+  "updated_local": "11/25/2026, 11:05:17 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "China&#39;s Google Just Released Its Fast New AI Model for Free",
+        "url": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+        "source": "crypto",
+        "time": "Wed, 25 Nov 2026 22:38:09 +0000"
+      },
       {
         "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
         "url": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
         "source": "crypto",
         "time": "Wed, 25 Nov 2026 20:06:03 +0000"
-      },
-      {
-        "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
-        "url": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
-        "source": "crypto",
-        "time": "Wed, 25 Nov 2026 19:28:54 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,16 @@
         "time": "11/25/2026, 5:18:26 PM"
       },
       {
-        "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-        "url": "https://scottaaronson.blog/?p=10379",
+        "title": "Much shorter version of GRH Lean verification from Anthropic",
+        "url": "https://github.com/lsernau/grh-lean",
         "source": "hn",
-        "time": "11/25/2026, 7:11:27 PM"
+        "time": "11/25/2026, 9:48:10 PM"
+      },
+      {
+        "title": "The New York Times tells photographers not to use the latest Photoshop",
+        "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+        "source": "hn",
+        "time": "11/25/2026, 9:18:02 PM"
       },
       {
         "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
@@ -54,16 +60,10 @@
         "time": "11/22/2026, 4:44:48 PM"
       },
       {
-        "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-        "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+        "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+        "url": "https://scottaaronson.blog/?p=10379",
         "source": "hn",
-        "time": "11/25/2026, 3:14:32 PM"
-      },
-      {
-        "title": "SSH is a GUI framework",
-        "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
-        "source": "hn",
-        "time": "11/21/2026, 2:52:41 PM"
+        "time": "11/25/2026, 7:11:27 PM"
       }
     ],
     "world": [
@@ -92,10 +92,10 @@
         "time": "Wed, 25 Nov 2026 15:42:10 GMT"
       },
       {
-        "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
         "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Nov 2026 21:25:14 GMT"
+        "time": "Wed, 25 Nov 2026 22:18:06 GMT"
       }
     ],
     "projects": [
