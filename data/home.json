@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-11-25T11:11:13.850Z",
-  "updated_local": "11/25/2026, 11:11:13 AM",
+  "updated_iso": "2026-11-25T12:09:51.004Z",
+  "updated_local": "11/25/2026, 12:09:51 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
+        "url": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam",
+        "source": "crypto",
+        "time": "Wed, 25 Nov 2026 11:52:06 +0000"
+      },
+      {
+        "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
+        "url": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
+        "source": "crypto",
+        "time": "Wed, 25 Nov 2026 11:23:57 +0000"
+      },
       {
         "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
         "url": "https://decrypt.co/383935/take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3007-github-repos",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
         "source": "crypto",
         "time": "Tue, 24 Nov 2026 21:46:02 +0000"
-      },
-      {
-        "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
-        "url": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
-        "source": "crypto",
-        "time": "Tue, 24 Nov 2026 21:16:02 +0000"
-      },
-      {
-        "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
-        "url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
-        "source": "crypto",
-        "time": "Tue, 24 Nov 2026 20:36:02 +0000"
       }
     ],
     "hacker": [
@@ -48,6 +48,12 @@
         "time": "11/25/2026, 3:23:07 AM"
       },
       {
+        "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+        "url": "https://github.com/xoxorwr/pw-loudness-eq",
+        "source": "hn",
+        "time": "11/25/2026, 11:34:25 AM"
+      },
+      {
         "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
         "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://gpu-demo-gallery.pages.dev/",
         "source": "hn",
         "time": "11/25/2026, 4:31:48 AM"
-      },
-      {
-        "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-        "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-        "source": "hn",
-        "time": "11/25/2026, 3:04:37 AM"
       }
     ],
     "world": [
@@ -71,13 +71,7 @@
         "title": "Energy bills to rise by 26% from January after gas prices surge",
         "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Nov 2026 09:54:39 GMT"
-      },
-      {
-        "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-        "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 25 Nov 2026 10:04:55 GMT"
+        "time": "Wed, 25 Nov 2026 11:44:26 GMT"
       },
       {
         "title": "Two men charged with trespass at Prince and Princess of Wales's Norfolk home",
@@ -92,10 +86,16 @@
         "time": "Tue, 24 Nov 2026 23:38:39 GMT"
       },
       {
-        "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
-        "url": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "EU offers UK fresh deal on 'Made in Europe' scheme",
+        "url": "https://www.bbc.co.uk/news/articles/c50md8x9gdgro?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Tue, 24 Nov 2026 22:49:41 GMT"
+        "time": "Wed, 25 Nov 2026 10:59:22 GMT"
+      },
+      {
+        "title": "My family died in Ukraine and my mum blamed Zelensky's troops - the truth is complicated",
+        "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 25 Nov 2026 00:54:13 GMT"
       }
     ],
     "projects": [
