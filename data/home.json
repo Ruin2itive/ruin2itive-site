@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-25T18:13:53.389Z",
-  "updated_local": "11/25/2026, 6:13:53 PM",
+  "updated_iso": "2026-11-25T19:05:02.352Z",
+  "updated_local": "11/25/2026, 7:05:02 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
+        "url": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
+        "source": "crypto",
+        "time": "Wed, 25 Nov 2026 18:18:10 +0000"
+      },
       {
         "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
         "url": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
@@ -26,26 +32,20 @@
         "url": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
         "source": "crypto",
         "time": "Wed, 25 Nov 2026 16:07:35 +0000"
-      },
-      {
-        "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
-        "url": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
-        "source": "crypto",
-        "time": "Wed, 25 Nov 2026 13:41:38 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "1Password Security Incident",
+        "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "source": "hn",
+        "time": "11/25/2026, 5:18:26 PM"
+      },
       {
         "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
         "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
         "source": "hn",
         "time": "11/25/2026, 3:14:32 PM"
-      },
-      {
-        "title": "Investigating degraded experiences across GitHub products",
-        "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-        "source": "hn",
-        "time": "11/25/2026, 3:59:23 PM"
       },
       {
         "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
@@ -54,16 +54,16 @@
         "time": "11/25/2026, 1:33:07 PM"
       },
       {
-        "title": "1Password Security Incident",
-        "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-        "source": "hn",
-        "time": "11/25/2026, 5:18:26 PM"
-      },
-      {
         "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
         "url": "https://github.com/xoxorwr/pw-loudness-eq",
         "source": "hn",
         "time": "11/25/2026, 11:34:25 AM"
+      },
+      {
+        "title": "Predicting LoRA size for any dataset",
+        "url": "https://engram.com/blog/lora-size",
+        "source": "hn",
+        "time": "11/24/2026, 10:34:29 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Poundland collapses putting 11,000 jobs at risk",
         "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Nov 2026 18:04:13 GMT"
+        "time": "Wed, 25 Nov 2026 18:29:42 GMT"
       },
       {
         "title": "Why has Poundland collapsed and what happens next?",
@@ -80,7 +80,13 @@
         "time": "Wed, 25 Nov 2026 16:24:30 GMT"
       },
       {
-        "title": "Wife drugged and raped by husband asked police if she was to blame, mass-sexual offence trial hears",
+        "title": "US announces new tariff proposals on EU, China, and other trade partners",
+        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 25 Nov 2026 16:21:34 GMT"
+      },
+      {
+        "title": "Wife drugged and raped by husband asked police if she was to blame, mass sexual offence trial hears",
         "url": "https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 25 Nov 2026 15:42:10 GMT"
@@ -90,12 +96,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 25 Nov 2026 17:48:28 GMT"
-      },
-      {
-        "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-        "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 25 Nov 2026 17:30:16 GMT"
       }
     ],
     "projects": [
