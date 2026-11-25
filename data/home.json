@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-11-25T21:11:56.413Z",
-  "updated_local": "11/25/2026, 9:11:56 PM",
+  "updated_iso": "2026-11-25T22:05:57.354Z",
+  "updated_local": "11/25/2026, 10:05:57 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
+        "url": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
+        "source": "crypto",
+        "time": "Wed, 25 Nov 2026 21:46:02 +0000"
+      },
+      {
+        "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
+        "url": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+        "source": "crypto",
+        "time": "Wed, 25 Nov 2026 21:16:02 +0000"
+      },
       {
         "title": "Another Bitcoin Mining Firm Flags &#39;Hashrate Hijacking&#39; Attacks That Reroute Rewards",
         "url": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
         "source": "crypto",
         "time": "Wed, 25 Nov 2026 19:28:54 +0000"
-      },
-      {
-        "title": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
-        "url": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
-        "source": "crypto",
-        "time": "Wed, 25 Nov 2026 18:18:10 +0000"
-      },
-      {
-        "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
-        "url": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
-        "source": "crypto",
-        "time": "Wed, 25 Nov 2026 17:46:02 +0000"
       }
     ],
     "hacker": [
@@ -48,6 +48,12 @@
         "time": "11/25/2026, 7:11:27 PM"
       },
       {
+        "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+        "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+        "source": "hn",
+        "time": "11/22/2026, 4:44:48 PM"
+      },
+      {
         "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
         "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
         "source": "hn",
         "time": "11/21/2026, 2:52:41 PM"
-      },
-      {
-        "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-        "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-        "source": "hn",
-        "time": "11/22/2026, 4:44:48 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Poundland collapses putting 11,000 jobs at risk",
         "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Nov 2026 20:43:58 GMT"
+        "time": "Wed, 25 Nov 2026 21:31:10 GMT"
       },
       {
         "title": "Why has Poundland collapsed and what happens next?",
@@ -92,10 +92,10 @@
         "time": "Wed, 25 Nov 2026 15:42:10 GMT"
       },
       {
-        "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
-        "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Nov 2026 17:48:28 GMT"
+        "time": "Wed, 25 Nov 2026 21:25:14 GMT"
       }
     ],
     "projects": [
