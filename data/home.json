@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-11-25T13:12:34.717Z",
-  "updated_local": "11/25/2026, 1:12:34 PM",
+  "updated_iso": "2026-11-25T14:07:10.562Z",
+  "updated_local": "11/25/2026, 2:07:10 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
+        "url": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
+        "source": "crypto",
+        "time": "Wed, 25 Nov 2026 13:41:38 +0000"
+      },
+      {
+        "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
+        "url": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
+        "source": "crypto",
+        "time": "Wed, 25 Nov 2026 13:15:24 +0000"
+      },
       {
         "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
         "url": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/383935/take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3007-github-repos",
         "source": "crypto",
         "time": "Wed, 25 Nov 2026 10:35:57 +0000"
-      },
-      {
-        "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
-        "url": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
-        "source": "crypto",
-        "time": "Tue, 24 Nov 2026 22:36:02 +0000"
-      },
-      {
-        "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
-        "url": "https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
-        "source": "crypto",
-        "time": "Tue, 24 Nov 2026 21:46:02 +0000"
       }
     ],
     "hacker": [
@@ -42,10 +42,10 @@
         "time": "11/25/2026, 11:34:25 AM"
       },
       {
-        "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-        "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+        "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+        "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
         "source": "hn",
-        "time": "11/25/2026, 1:19:26 AM"
+        "time": "11/25/2026, 1:33:07 PM"
       },
       {
         "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
@@ -54,16 +54,16 @@
         "time": "11/25/2026, 3:23:07 AM"
       },
       {
+        "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+        "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+        "source": "hn",
+        "time": "11/25/2026, 1:19:26 AM"
+      },
+      {
         "title": "The short age of dragon riders",
         "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
         "source": "hn",
         "time": "11/23/2026, 5:33:34 AM"
-      },
-      {
-        "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-        "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-        "source": "hn",
-        "time": "11/25/2026, 2:34:21 AM"
       }
     ],
     "world": [
@@ -71,31 +71,31 @@
         "title": "Energy bills to rise by 26% from January after gas prices surge",
         "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Nov 2026 11:44:26 GMT"
+        "time": "Wed, 25 Nov 2026 13:42:08 GMT"
       },
       {
-        "title": "Two men charged with trespass at Prince and Princess of Wales's Norfolk home",
+        "title": "Two men charged with trying to steal cufflinks and clock from Royal home",
         "url": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Nov 2026 10:12:50 GMT"
-      },
-      {
-        "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
-        "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Tue, 24 Nov 2026 23:38:39 GMT"
+        "time": "Wed, 25 Nov 2026 14:03:21 GMT"
       },
       {
         "title": "Raheem Sterling given suspended jail sentence for dangerous driving and nitrous oxide possession",
         "url": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Nov 2026 13:04:11 GMT"
+        "time": "Wed, 25 Nov 2026 13:57:12 GMT"
       },
       {
-        "title": "EU offers UK fresh deal on 'Made in Europe' scheme",
-        "url": "https://www.bbc.co.uk/news/articles/c50md8x9gdgro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly5v11q194o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Nov 2026 10:59:22 GMT"
+        "time": "Wed, 25 Nov 2026 11:57:31 GMT"
+      },
+      {
+        "title": "My family died in Ukraine and my mum blamed Zelensky's troops - the truth is complicated",
+        "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 25 Nov 2026 00:54:13 GMT"
       }
     ],
     "projects": [
