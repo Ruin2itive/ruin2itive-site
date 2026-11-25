@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-25T03:15:11.944Z",
-  "updated_local": "11/25/2026, 3:15:11 AM",
+  "updated_iso": "2026-11-25T04:07:53.714Z",
+  "updated_local": "11/25/2026, 4:07:53 AM",
   "sections": {
     "crypto": [
       {
@@ -42,6 +42,18 @@
         "time": "11/25/2026, 1:19:26 AM"
       },
       {
+        "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+        "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+        "source": "hn",
+        "time": "11/25/2026, 2:34:21 AM"
+      },
+      {
+        "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+        "url": "https://buttons.joshwcomeau.com/",
+        "source": "hn",
+        "time": "11/25/2026, 3:23:07 AM"
+      },
+      {
         "title": "Ternary Bonsai 2.5 27B",
         "url": "https://prismml.com/news/bonsai-2-5-27b",
         "source": "hn",
@@ -52,12 +64,6 @@
         "url": "https://greydanus.github.io/2026/11/12/pengpt/",
         "source": "hn",
         "time": "11/25/2026, 12:54:49 AM"
-      },
-      {
-        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-        "source": "hn",
-        "time": "11/24/2026, 9:02:22 PM"
       }
     ],
     "world": [
@@ -80,16 +86,16 @@
         "time": "Wed, 25 Nov 2026 01:03:05 GMT"
       },
       {
-        "title": "Thomas Markle indicted in US for possessing child sex abuse images",
-        "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 25 Nov 2026 01:40:42 GMT"
-      },
-      {
         "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
         "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 24 Nov 2026 23:38:39 GMT"
+      },
+      {
+        "title": "Thomas Markle indicted in US for possessing child sex abuse images",
+        "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 25 Nov 2026 01:40:42 GMT"
       }
     ],
     "projects": [
