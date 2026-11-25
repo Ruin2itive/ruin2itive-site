@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-25T01:12:59.249Z",
-  "updated_local": "11/25/2026, 1:12:59 AM",
+  "updated_iso": "2026-11-25T02:09:17.799Z",
+  "updated_local": "11/25/2026, 2:09:17 AM",
   "sections": {
     "crypto": [
       {
@@ -36,28 +36,28 @@
     ],
     "hacker": [
       {
+        "title": "Matrix Multiplication is O(n^2.25) [pdf]",
+        "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+        "source": "hn",
+        "time": "11/25/2026, 1:19:26 AM"
+      },
+      {
         "title": "Ternary Bonsai 2.5 27B",
         "url": "https://prismml.com/news/bonsai-2-5-27b",
         "source": "hn",
         "time": "11/24/2026, 8:08:03 PM"
       },
       {
+        "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+        "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+        "source": "hn",
+        "time": "11/25/2026, 12:54:49 AM"
+      },
+      {
         "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
         "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
         "source": "hn",
         "time": "11/24/2026, 9:02:22 PM"
-      },
-      {
-        "title": "Get in, friends, the Atmosphere is happening",
-        "url": "https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9",
-        "source": "hn",
-        "time": "11/24/2026, 11:23:35 PM"
-      },
-      {
-        "title": "Active intrusion campaign against Check Point security management servers",
-        "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-        "source": "hn",
-        "time": "11/24/2026, 4:32:17 PM"
       }
     ],
     "world": [
@@ -74,22 +74,22 @@
         "time": "Tue, 24 Nov 2026 22:45:03 GMT"
       },
       {
-        "title": "US preparing to unveil new tariffs on global trading partners",
-        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Anthony Zurcher: Trump's Nvidia intervention ties his political fortunes to the AI boom",
+        "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Nov 2026 00:38:01 GMT"
+        "time": "Wed, 25 Nov 2026 01:03:05 GMT"
+      },
+      {
+        "title": "Thomas Markle indicted in US for possessing child sex abuse images",
+        "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 25 Nov 2026 01:40:42 GMT"
       },
       {
         "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
         "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 24 Nov 2026 23:38:39 GMT"
-      },
-      {
-        "title": "Thomas Markle indicted in US for possessing child sex abuse images",
-        "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 25 Nov 2026 00:11:39 GMT"
       }
     ],
     "projects": [
