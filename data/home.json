@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-25T17:05:17.051Z",
-  "updated_local": "11/25/2026, 5:05:17 PM",
+  "updated_iso": "2026-11-25T17:09:43.691Z",
+  "updated_local": "11/25/2026, 5:09:43 PM",
   "sections": {
     "crypto": [
       {
@@ -48,22 +48,22 @@
         "time": "11/25/2026, 3:59:23 PM"
       },
       {
-        "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
-        "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-        "source": "hn",
-        "time": "11/25/2026, 1:33:07 PM"
-      },
-      {
         "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
         "url": "https://github.com/xoxorwr/pw-loudness-eq",
         "source": "hn",
         "time": "11/25/2026, 11:34:25 AM"
       },
       {
-        "title": "Anthropic migrated Messages API to Rust with no Rust developers",
-        "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+        "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+        "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
         "source": "hn",
-        "time": "11/25/2026, 4:28:28 PM"
+        "time": "11/25/2026, 1:33:07 PM"
+      },
+      {
+        "title": "Predicting LoRA size for any dataset",
+        "url": "https://engram.com/blog/lora-size",
+        "source": "hn",
+        "time": "11/24/2026, 10:34:29 PM"
       }
     ],
     "world": [
@@ -80,12 +80,6 @@
         "time": "Wed, 25 Nov 2026 16:24:30 GMT"
       },
       {
-        "title": "US stocks fall further as fears over AI intensify",
-        "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 25 Nov 2026 16:07:26 GMT"
-      },
-      {
         "title": "Wife drugged and raped by husband asked police if she was to blame, court hears",
         "url": "https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -96,6 +90,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 25 Nov 2026 16:58:51 GMT"
+      },
+      {
+        "title": "US stocks fall further as fears over AI intensify",
+        "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 25 Nov 2026 16:07:26 GMT"
       }
     ],
     "projects": [
