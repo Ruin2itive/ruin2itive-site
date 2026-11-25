@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-11-25T17:09:43.691Z",
-  "updated_local": "11/25/2026, 5:09:43 PM",
+  "updated_iso": "2026-11-25T18:07:12.941Z",
+  "updated_local": "11/25/2026, 6:07:12 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
+        "url": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
+        "source": "crypto",
+        "time": "Wed, 25 Nov 2026 17:46:02 +0000"
+      },
+      {
+        "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
+        "url": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
+        "source": "crypto",
+        "time": "Wed, 25 Nov 2026 17:16:02 +0000"
+      },
       {
         "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
         "url": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
@@ -20,18 +32,6 @@
         "url": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
         "source": "crypto",
         "time": "Wed, 25 Nov 2026 13:41:38 +0000"
-      },
-      {
-        "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
-        "url": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
-        "source": "crypto",
-        "time": "Wed, 25 Nov 2026 13:15:24 +0000"
-      },
-      {
-        "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
-        "url": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam",
-        "source": "crypto",
-        "time": "Wed, 25 Nov 2026 11:52:06 +0000"
       }
     ],
     "hacker": [
@@ -48,22 +48,22 @@
         "time": "11/25/2026, 3:59:23 PM"
       },
       {
+        "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+        "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+        "source": "hn",
+        "time": "11/25/2026, 1:33:07 PM"
+      },
+      {
         "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
         "url": "https://github.com/xoxorwr/pw-loudness-eq",
         "source": "hn",
         "time": "11/25/2026, 11:34:25 AM"
       },
       {
-        "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
-        "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+        "title": "1Password Security Incident",
+        "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
         "source": "hn",
-        "time": "11/25/2026, 1:33:07 PM"
-      },
-      {
-        "title": "Predicting LoRA size for any dataset",
-        "url": "https://engram.com/blog/lora-size",
-        "source": "hn",
-        "time": "11/24/2026, 10:34:29 PM"
+        "time": "11/25/2026, 5:18:26 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Poundland collapses putting 11,000 jobs at risk",
         "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Nov 2026 17:00:15 GMT"
+        "time": "Wed, 25 Nov 2026 18:04:13 GMT"
       },
       {
         "title": "Why has Poundland collapsed and what happens next?",
@@ -80,7 +80,7 @@
         "time": "Wed, 25 Nov 2026 16:24:30 GMT"
       },
       {
-        "title": "Wife drugged and raped by husband asked police if she was to blame, court hears",
+        "title": "Wife drugged and raped by husband asked police if she was to blame, mass-sexual offence trial hears",
         "url": "https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 25 Nov 2026 15:42:10 GMT"
@@ -89,13 +89,13 @@
         "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
         "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Nov 2026 16:58:51 GMT"
+        "time": "Wed, 25 Nov 2026 17:48:28 GMT"
       },
       {
-        "title": "US stocks fall further as fears over AI intensify",
-        "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+        "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Nov 2026 16:07:26 GMT"
+        "time": "Wed, 25 Nov 2026 17:30:16 GMT"
       }
     ],
     "projects": [
