@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-25T07:13:51.723Z",
-  "updated_local": "11/25/2026, 7:13:51 AM",
+  "updated_iso": "2026-11-25T08:08:44.340Z",
+  "updated_local": "11/25/2026, 8:08:44 AM",
   "sections": {
     "crypto": [
       {
@@ -48,12 +48,6 @@
         "time": "11/25/2026, 3:23:07 AM"
       },
       {
-        "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-        "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-        "source": "hn",
-        "time": "11/25/2026, 4:03:33 AM"
-      },
-      {
         "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
         "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
         "source": "hn",
@@ -64,14 +58,20 @@
         "url": "https://gpu-demo-gallery.pages.dev/",
         "source": "hn",
         "time": "11/25/2026, 4:31:48 AM"
+      },
+      {
+        "title": "Ternary Bonsai 2.5 27B",
+        "url": "https://prismml.com/news/bonsai-2-5-27b",
+        "source": "hn",
+        "time": "11/24/2026, 8:08:03 PM"
       }
     ],
     "world": [
       {
-        "title": "Household energy prices to rise by 26% in January as new price cap confirmed",
+        "title": "Energy bills to rise by 26% from January",
         "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Nov 2026 07:05:29 GMT"
+        "time": "Wed, 25 Nov 2026 07:34:20 GMT"
       },
       {
         "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
@@ -80,22 +80,22 @@
         "time": "Tue, 24 Nov 2026 22:49:41 GMT"
       },
       {
-        "title": "Nuclear test veterans speak to BBC about search for justice",
+        "title": "Nuclear test veterans speak to BBC about 'search for justice'",
         "url": "https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 24 Nov 2026 22:45:03 GMT"
-      },
-      {
-        "title": "Anthony Zurcher: With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
-        "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 25 Nov 2026 01:03:05 GMT"
       },
       {
         "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
         "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Tue, 24 Nov 2026 23:38:39 GMT"
+      },
+      {
+        "title": "Anthony Zurcher: Trump's rescue of Nvidia's Huang brings political risks",
+        "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 25 Nov 2026 01:03:05 GMT"
       }
     ],
     "projects": [
