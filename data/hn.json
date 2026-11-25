@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-25T00:09:41.991Z"
+    "built_at": "2026-11-25T01:03:37.547Z"
   },
-  "items": [
-    {
-      "title": "Frontier models pass DeepSWE and Terminal-Bench tasks without doing the work",
-      "url": "https://www.shreshthrajan.com/envaudit/",
-      "date": "2026-11-25T00:07:10.000Z"
-    },
-    {
-      "title": "I used to orchestrate agents. Now I orchestrate orchestrators",
-      "url": "https://www.nijho.lt/post/orchestrating-orchestrators/",
-      "date": "2026-11-25T00:06:40.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
