@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-25T15:07:01.115Z",
-  "updated_local": "11/25/2026, 3:07:01 PM",
+  "updated_iso": "2026-11-25T16:08:24.515Z",
+  "updated_local": "11/25/2026, 4:08:24 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
+        "url": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
+        "source": "crypto",
+        "time": "Wed, 25 Nov 2026 16:07:35 +0000"
+      },
       {
         "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
         "url": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
@@ -26,15 +32,15 @@
         "url": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
         "source": "crypto",
         "time": "Wed, 25 Nov 2026 11:23:57 +0000"
-      },
-      {
-        "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
-        "url": "https://decrypt.co/383935/take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3007-github-repos",
-        "source": "crypto",
-        "time": "Wed, 25 Nov 2026 10:35:57 +0000"
       }
     ],
     "hacker": [
+      {
+        "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+        "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+        "source": "hn",
+        "time": "11/25/2026, 3:14:32 PM"
+      },
       {
         "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
         "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
@@ -48,30 +54,24 @@
         "time": "11/25/2026, 11:34:25 AM"
       },
       {
-        "title": "The short age of dragon riders",
-        "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+        "title": "In C++, = default and {} are not the same constructor",
+        "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
         "source": "hn",
-        "time": "11/23/2026, 5:33:34 AM"
+        "time": "11/25/2026, 3:20:15 PM"
       },
       {
         "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
         "url": "https://buttons.joshwcomeau.com/",
         "source": "hn",
         "time": "11/25/2026, 3:23:07 AM"
-      },
-      {
-        "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-        "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-        "source": "hn",
-        "time": "11/25/2026, 1:19:26 AM"
       }
     ],
     "world": [
       {
-        "title": "Energy bills to rise by 26% from January after gas prices surge",
-        "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Poundland collapses putting 11,000 jobs at risk",
+        "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Nov 2026 13:42:08 GMT"
+        "time": "Wed, 25 Nov 2026 16:03:07 GMT"
       },
       {
         "title": "Two men charged with trying to steal cufflinks and clock from Royal home",
@@ -80,16 +80,16 @@
         "time": "Wed, 25 Nov 2026 15:05:50 GMT"
       },
       {
+        "title": "US stocks fall further as fears over AI intensify",
+        "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Wed, 25 Nov 2026 16:07:26 GMT"
+      },
+      {
         "title": "Raheem Sterling given suspended jail sentence for dangerous driving and nitrous oxide possession",
         "url": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 25 Nov 2026 13:57:12 GMT"
-      },
-      {
-        "title": "Badenoch challenges Burnham over university fees for EU students",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gn8lxj5r1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 25 Nov 2026 14:18:26 GMT"
       },
       {
         "title": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
