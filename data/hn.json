@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-25T04:03:51.284Z"
+    "built_at": "2026-11-25T05:03:16.678Z"
   },
-  "items": [
-    {
-      "title": "Fly.io Hacksgiving 2026",
-      "url": "https://fly.io/hacksgiving/",
-      "date": "2026-11-25T04:02:48.000Z"
-    },
-    {
-      "title": "Finetuning models 6x cheaper than Tinker",
-      "url": "https://nextron.physionlabs.ai/",
-      "date": "2026-11-25T04:00:36.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
