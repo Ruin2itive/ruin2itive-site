@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-25T18:07:12.941Z",
-  "updated_local": "11/25/2026, 6:07:12 PM",
+  "updated_iso": "2026-11-25T18:13:53.389Z",
+  "updated_local": "11/25/2026, 6:13:53 PM",
   "sections": {
     "crypto": [
       {
@@ -54,16 +54,16 @@
         "time": "11/25/2026, 1:33:07 PM"
       },
       {
-        "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-        "url": "https://github.com/xoxorwr/pw-loudness-eq",
-        "source": "hn",
-        "time": "11/25/2026, 11:34:25 AM"
-      },
-      {
         "title": "1Password Security Incident",
         "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
         "source": "hn",
         "time": "11/25/2026, 5:18:26 PM"
+      },
+      {
+        "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+        "url": "https://github.com/xoxorwr/pw-loudness-eq",
+        "source": "hn",
+        "time": "11/25/2026, 11:34:25 AM"
       }
     ],
     "world": [
