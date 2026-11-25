@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-25T12:09:51.004Z",
-  "updated_local": "11/25/2026, 12:09:51 PM",
+  "updated_iso": "2026-11-25T12:18:40.006Z",
+  "updated_local": "11/25/2026, 12:18:40 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+        "url": "https://github.com/xoxorwr/pw-loudness-eq",
+        "source": "hn",
+        "time": "11/25/2026, 11:34:25 AM"
+      },
+      {
         "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
         "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
         "source": "hn",
@@ -46,12 +52,6 @@
         "url": "https://buttons.joshwcomeau.com/",
         "source": "hn",
         "time": "11/25/2026, 3:23:07 AM"
-      },
-      {
-        "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-        "url": "https://github.com/xoxorwr/pw-loudness-eq",
-        "source": "hn",
-        "time": "11/25/2026, 11:34:25 AM"
       },
       {
         "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
