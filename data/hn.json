@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-26T03:04:19.880Z"
+    "built_at": "2026-11-26T04:03:37.535Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "In which a traveling salesman digs π out of LLM temperature math",
+      "url": "https://www.hexbites.dev/stories/2026-11-25-pi-from-simulated-annealing.html",
+      "date": "2026-11-26T04:03:03.000Z"
+    },
+    {
+      "title": "Solar Wanderer – A 1:1 real-time solar system explorer in the browser",
+      "url": "https://github.com/hyqzz/Solar-Wanderer",
+      "date": "2026-11-26T04:02:01.000Z"
+    }
+  ]
 }
