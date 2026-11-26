@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-26T10:03:21.005Z"
+    "built_at": "2026-11-26T11:03:08.824Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Effective Swarm Riding for Engineers",
+      "url": "https://www.paradigm.xyz/writing/swarms",
+      "date": "2026-11-26T10:52:44.000Z"
+    },
+    {
+      "title": "What is an MCP gateway, and when do you need one?",
+      "url": "https://izylifesolutions.com/articles/what-is-an-mcp-gateway-and-when-you-need-one/",
+      "date": "2026-11-26T10:49:46.000Z"
+    }
+  ]
 }
