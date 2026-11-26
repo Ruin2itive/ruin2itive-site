@@ -4,8 +4,18 @@
     "label": "reuters",
     "source_url": "https://news.google.com/rss/search?q=site%3Areuters.com%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen",
     "take": 2,
-    "built_at": "2026-11-26T16:03:34.774Z"
+    "built_at": "2026-11-26T17:03:00.831Z"
   },
-  "error": "HTTP 503",
-  "items": []
+  "items": [
+    {
+      "title": "Mural near Dutch embassy in Moscow depicts missile supplies for Ukraine - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdlRFQ2E5TGktOUVrZlJQQmwtNjFXVnpkbmFUSUhOcExIZEIzNTJRcWFSOURzYkpONlJIQkhBN1NaemtMQi1oYmhWdTJkYUhIRmIyYjE5bjdSSXRpeUJWU2NhSFN6WTZybFJiQS1QSXpyLXdpekxlZ3VMem10R0dtbWs1alpndTRCMTVpOVVoZnFOdkFhb3owcXJYeXBQU01lUmhUQi1oa3ptTGFkUVFlUnRWSWZGVkNjOWRoSVN2elNHZ1dUSFM5WHdJQVRPRjJvVWtz?oc=5",
+      "date": "2026-11-26T16:33:28.000Z"
+    },
+    {
+      "title": "Russia arrests deputy aerospace commander in reported corruption case - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzFOeDFjM0VPTXBIZkxlelN0ZFAtQ25fOUZkTVVheGM0cURoX1RqVXUzTGttUDlLTmhuczVlelh1eGJUYkVWQllDQ1ZzTlB3OUdQMjloczZsRGR4WGwzbF9XWURoSk9Tb2FybGNlbExBc243elBHTGxtNnpacDR3Y1pSaDctcFZqdUs5UkJiZ1R1Q09lTWxkUmN2TnNSZUdaQlpPNUl1N0tZVDJGd0xOT0lTU0tGUzA?oc=5",
+      "date": "2026-11-26T16:29:52.000Z"
+    }
+  ]
 }
