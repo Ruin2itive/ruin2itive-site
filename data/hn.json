@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-26T05:03:15.710Z"
+    "built_at": "2026-11-26T06:05:53.316Z"
   },
-  "items": [
-    {
-      "title": "I Learned to Stop Worrying and Love the AI",
-      "url": "https://news.ycombinator.com/item?id=50651635",
-      "date": "2026-11-26T05:01:25.000Z"
-    },
-    {
-      "title": "Tate Brothers extradition hearing delayed until mid January",
-      "url": "https://www.independent.co.uk/news/uk/crime/andrew-tate-tristan-tate-extradition-hearing-b3085979.html",
-      "date": "2026-11-26T05:00:49.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
