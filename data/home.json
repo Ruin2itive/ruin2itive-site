@@ -1,8 +1,20 @@
 {
-  "updated_iso": "2026-11-26T18:14:51.466Z",
-  "updated_local": "11/26/2026, 6:14:51 PM",
+  "updated_iso": "2026-11-26T19:04:55.363Z",
+  "updated_local": "11/26/2026, 7:04:55 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
+        "url": "https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study",
+        "source": "crypto",
+        "time": "Thu, 26 Nov 2026 19:01:02 +0000"
+      },
+      {
+        "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+        "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+        "source": "crypto",
+        "time": "Thu, 26 Nov 2026 18:15:29 +0000"
+      },
       {
         "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
         "url": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
@@ -20,27 +32,9 @@
         "url": "https://decrypt.co/384043/elon-musk-says-multiplanetary-spacex-could-be-worth-118-quintillion-yes-quintillion",
         "source": "crypto",
         "time": "Thu, 26 Nov 2026 14:38:55 +0000"
-      },
-      {
-        "title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
-        "url": "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence",
-        "source": "crypto",
-        "time": "Thu, 26 Nov 2026 14:26:22 +0000"
-      },
-      {
-        "title": "Standard Chartered&#39;s Zodia Custody Says Hackers Accessed Client Contact Details",
-        "url": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
-        "source": "crypto",
-        "time": "Thu, 26 Nov 2026 13:13:19 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Tracking Diseases Cured by AI",
-        "url": "https://diseasescuredbyai.com/",
-        "source": "hn",
-        "time": "11/26/2026, 5:16:41 PM"
-      },
       {
         "title": "AMD Specific Patches for Llama.cpp",
         "url": "https://devnull.land/amd-specific-llama-cpp",
@@ -48,36 +42,48 @@
         "time": "11/26/2026, 5:11:29 PM"
       },
       {
-        "title": "YouTube Ad Punisher – Bypass anti-adblock",
-        "url": "https://github.com/antonpictures/youtube-punisher",
-        "source": "hn",
-        "time": "11/26/2026, 5:36:47 PM"
-      },
-      {
-        "title": "NP_R ≠ PAR_R",
-        "url": "https://github.com/samueleverett01/bss-permanent-separations",
-        "source": "hn",
-        "time": "11/26/2026, 4:50:55 PM"
-      },
-      {
         "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
         "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
         "source": "hn",
         "time": "11/26/2026, 5:47:45 PM"
+      },
+      {
+        "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning",
+        "url": "https://github.com/deepseek-ai/deepseek-math",
+        "source": "hn",
+        "time": "11/26/2026, 5:21:14 PM"
+      },
+      {
+        "title": "Intel One Mono font (2023)",
+        "url": "https://github.com/intel/intel-one-mono",
+        "source": "hn",
+        "time": "11/26/2026, 10:11:01 AM"
+      },
+      {
+        "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+        "url": "https://michidk.github.io/sidebyside/",
+        "source": "hn",
+        "time": "11/26/2026, 3:00:06 PM"
       }
     ],
     "world": [
       {
-        "title": "How the train attack unfolded - carriage by carriage",
-        "url": "https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
+        "url": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 26 Nov 2026 15:25:57 GMT"
+        "time": "Thu, 26 Nov 2026 19:00:33 GMT"
       },
       {
-        "title": "Could the Huntingdon attack have been prevented?",
-        "url": "https://www.bbc.co.uk/news/videos/cmdx10e25r2qo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: How knife attack on train unfolded",
+        "url": "https://www.bbc.co.uk/news/videos/cq36gjw04pgjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 26 Nov 2026 15:47:04 GMT"
+        "time": "Thu, 26 Nov 2026 16:03:04 GMT"
+      },
+      {
+        "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
+        "url": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 26 Nov 2026 15:38:38 GMT"
       },
       {
         "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
@@ -89,13 +95,7 @@
         "title": "Drug rape husband says wife 'would have been terrified', court hears",
         "url": "https://www.bbc.co.uk/news/articles/ck053epz2ppmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 26 Nov 2026 17:57:13 GMT"
-      },
-      {
-        "title": "Nearly 100 Labour MPs including ministerial aides oppose Rosebank oil field",
-        "url": "https://www.bbc.co.uk/news/articles/cw24ez32d1n4o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 26 Nov 2026 16:29:54 GMT"
+        "time": "Thu, 26 Nov 2026 18:21:59 GMT"
       }
     ],
     "projects": [
