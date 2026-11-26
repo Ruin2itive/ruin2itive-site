@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-26T15:11:36.368Z",
-  "updated_local": "11/26/2026, 3:11:36 PM",
+  "updated_iso": "2026-11-26T16:07:12.933Z",
+  "updated_local": "11/26/2026, 4:07:12 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
+        "url": "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
+        "source": "crypto",
+        "time": "Thu, 26 Nov 2026 15:11:14 +0000"
+      },
       {
         "title": "Elon Musk Says ‘Multiplanetary’ SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
         "url": "https://decrypt.co/384043/elon-musk-says-multiplanetary-spacex-could-be-worth-118-quintillion-yes-quintillion",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/384030/galaxy-research-withdraws-call-that-bitcoins-bear-market-is-over",
         "source": "crypto",
         "time": "Thu, 26 Nov 2026 12:26:08 +0000"
-      },
-      {
-        "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
-        "url": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
-        "source": "crypto",
-        "time": "Thu, 26 Nov 2026 11:50:23 +0000"
       }
     ],
     "hacker": [
@@ -54,13 +54,25 @@
         "time": "11/25/2026, 7:11:27 PM"
       },
       {
-        "title": "1Password Security Incident",
-        "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "title": "Curiosity Is No Solo Act",
+        "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
         "source": "hn",
-        "time": "11/25/2026, 5:18:26 PM"
+        "time": "11/25/2026, 12:37:07 AM"
       }
     ],
     "world": [
+      {
+        "title": "How the train attack unfolded - carriage by carriage",
+        "url": "https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 26 Nov 2026 15:25:57 GMT"
+      },
+      {
+        "title": "Knifeman told doctor his psychosis drugs weren't working days before attack",
+        "url": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 26 Nov 2026 15:38:38 GMT"
+      },
       {
         "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
         "url": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&amp;at_campaign=rss",
@@ -68,28 +80,16 @@
         "time": "Thu, 26 Nov 2026 14:55:16 GMT"
       },
       {
-        "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-        "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Mandelson kept shares as ambassador despite conflict of interest fears, documents show",
+        "url": "https://www.bbc.co.uk/news/articles/c6808dv4e817o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 26 Nov 2026 05:00:24 GMT"
+        "time": "Thu, 26 Nov 2026 16:05:29 GMT"
       },
       {
-        "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-        "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Burnham joined by former PMs at Ann Widdecombe service",
+        "url": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 26 Nov 2026 05:00:27 GMT"
-      },
-      {
-        "title": "UK reservists contacted as 'threat environment' rises, Streeting says",
-        "url": "https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 26 Nov 2026 13:24:22 GMT"
-      },
-      {
-        "title": "BBC launches partnership with Met Office for weather coverage",
-        "url": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Thu, 26 Nov 2026 00:12:37 GMT"
+        "time": "Thu, 26 Nov 2026 15:00:03 GMT"
       }
     ],
     "projects": [
