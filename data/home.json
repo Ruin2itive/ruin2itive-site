@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-25T23:10:53.435Z",
-  "updated_local": "11/25/2026, 11:10:53 PM",
+  "updated_iso": "2026-11-26T00:16:33.986Z",
+  "updated_local": "11/26/2026, 12:16:33 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Jev is (probably) Qwen3.5-35B-A3B",
+        "url": "https://modaic.dev/blog/latency-doesnt-lie",
+        "source": "hn",
+        "time": "11/25/2026, 10:57:04 PM"
+      },
+      {
         "title": "1Password Security Incident",
         "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
         "source": "hn",
@@ -58,26 +64,20 @@
         "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
         "source": "hn",
         "time": "11/22/2026, 4:44:48 PM"
-      },
-      {
-        "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-        "url": "https://scottaaronson.blog/?p=10379",
-        "source": "hn",
-        "time": "11/25/2026, 7:11:27 PM"
       }
     ],
     "world": [
+      {
+        "title": "Stalking law simplified to become one offence",
+        "url": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Thu, 26 Nov 2026 00:02:50 GMT"
+      },
       {
         "title": "Poundland collapses putting 11,000 jobs at risk",
         "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Wed, 25 Nov 2026 21:31:10 GMT"
-      },
-      {
-        "title": "Why has Poundland collapsed and what happens next?",
-        "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Wed, 25 Nov 2026 16:24:30 GMT"
       },
       {
         "title": "US announces new tariff proposals on EU, China, and other trade partners",
@@ -86,16 +86,16 @@
         "time": "Wed, 25 Nov 2026 16:21:34 GMT"
       },
       {
-        "title": "Wife drugged and raped by husband asked police if she was to blame, mass sexual offence trial hears",
-        "url": "https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+        "url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Nov 2026 15:42:10 GMT"
+        "time": "Thu, 26 Nov 2026 00:08:07 GMT"
       },
       {
-        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "BBC launches partnership with Met Office for weather coverage",
+        "url": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Wed, 25 Nov 2026 22:18:06 GMT"
+        "time": "Thu, 26 Nov 2026 00:12:37 GMT"
       }
     ],
     "projects": [
