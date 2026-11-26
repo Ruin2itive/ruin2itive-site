@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-26T15:03:18.503Z"
+    "built_at": "2026-11-26T16:03:26.226Z"
   },
-  "items": [
-    {
-      "title": "Show HN: HousePrecheck, City of Toronto records for any house on one page",
-      "url": "https://houseprecheck.com",
-      "date": "2026-11-26T15:02:28.000Z"
-    },
-    {
-      "title": "Show HN: Lockward – a lockfile for skills and MCP servers your AI agent loads",
-      "url": "https://github.com/Breaktroughf1/lockward",
-      "date": "2026-11-26T15:01:29.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
