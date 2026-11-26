@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-26T03:14:47.437Z",
-  "updated_local": "11/26/2026, 3:14:47 AM",
+  "updated_iso": "2026-11-26T04:07:25.336Z",
+  "updated_local": "11/26/2026, 4:07:25 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,16 @@
     ],
     "hacker": [
       {
-        "title": "1Password Security Incident",
-        "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-        "source": "hn",
-        "time": "11/25/2026, 5:18:26 PM"
-      },
-      {
         "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
         "url": "https://scottaaronson.blog/?p=10379",
         "source": "hn",
         "time": "11/25/2026, 7:11:27 PM"
+      },
+      {
+        "title": "1Password Security Incident",
+        "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "source": "hn",
+        "time": "11/25/2026, 5:18:26 PM"
       },
       {
         "title": "Much shorter version of GRH Lean verification from Anthropic",
@@ -54,18 +54,18 @@
         "time": "11/25/2026, 9:48:10 PM"
       },
       {
-        "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-        "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+        "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+        "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
         "source": "hn",
-        "time": "11/22/2026, 4:44:48 PM"
+        "time": "11/22/2026, 11:29:44 AM"
       }
     ],
     "world": [
       {
-        "title": "Stalking law simplified to become one offence",
-        "url": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK government set to publish new treaties agreed with EU",
+        "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 26 Nov 2026 00:02:50 GMT"
+        "time": "Thu, 26 Nov 2026 02:13:00 GMT"
       },
       {
         "title": "US approves SpaceX plan to send a million data satellites to space",
@@ -74,10 +74,10 @@
         "time": "Thu, 26 Nov 2026 00:07:51 GMT"
       },
       {
-        "title": "UK government set to publish new treaties agreed with EU",
-        "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Stalking law simplified to become one offence",
+        "url": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Thu, 26 Nov 2026 02:13:00 GMT"
+        "time": "Thu, 26 Nov 2026 00:02:50 GMT"
       },
       {
         "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
