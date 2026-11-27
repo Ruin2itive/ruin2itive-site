@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-27T18:14:19.589Z",
-  "updated_local": "11/27/2026, 6:14:19 PM",
+  "updated_iso": "2026-11-27T19:04:48.361Z",
+  "updated_local": "11/27/2026, 7:04:48 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means",
+        "url": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
+        "source": "crypto",
+        "time": "Fri, 27 Nov 2026 18:16:03 +0000"
+      },
       {
         "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
         "url": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
@@ -26,21 +32,9 @@
         "url": "https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond",
         "source": "crypto",
         "time": "Fri, 27 Nov 2026 13:50:04 +0000"
-      },
-      {
-        "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
-        "url": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
-        "source": "crypto",
-        "time": "Fri, 27 Nov 2026 13:24:17 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "I'm Scared of AI",
-        "url": "https://thesoapbox.email/archive/3",
-        "source": "hn",
-        "time": "11/27/2026, 5:45:31 PM"
-      },
       {
         "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
         "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
@@ -52,6 +46,12 @@
         "url": "https://bouncemarket.minhanhday.com/",
         "source": "hn",
         "time": "11/27/2026, 3:01:50 PM"
+      },
+      {
+        "title": "Convex skills send the user's app idea to a remote server without telling them",
+        "url": "https://github.com/convex/convex-backend-skill/issues/64",
+        "source": "hn",
+        "time": "11/27/2026, 6:02:45 PM"
       },
       {
         "title": "False computer-checked proofs",
@@ -68,6 +68,12 @@
     ],
     "world": [
       {
+        "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+        "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 27 Nov 2026 17:34:16 GMT"
+      },
+      {
         "title": "Watch: What has happened to DWP online services?",
         "url": "https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
@@ -80,22 +86,16 @@
         "time": "Fri, 27 Nov 2026 18:00:40 GMT"
       },
       {
-        "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+        "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
         "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 27 Nov 2026 15:18:51 GMT"
+        "time": "Fri, 27 Nov 2026 18:42:50 GMT"
       },
       {
-        "title": "Police look for more than 100 gig-goers to help Co-op Live probe",
-        "url": "https://www.bbc.co.uk/news/articles/c8wy5vnpggnpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+        "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Fri, 27 Nov 2026 16:40:22 GMT"
-      },
-      {
-        "title": "'I wouldn't be here today without you': Student's praise for man who stopped Huntingdon train attacker",
-        "url": "https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 27 Nov 2026 07:53:24 GMT"
+        "time": "Fri, 27 Nov 2026 18:52:33 GMT"
       }
     ],
     "projects": [
