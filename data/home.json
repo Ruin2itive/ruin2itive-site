@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-27T12:18:04.630Z",
-  "updated_local": "11/27/2026, 12:18:04 PM",
+  "updated_iso": "2026-11-27T13:06:29.901Z",
+  "updated_local": "11/27/2026, 1:06:29 PM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+        "url": "https://eprint.iacr.org/2026/3020.pdf",
+        "source": "hn",
+        "time": "11/27/2026, 12:08:51 PM"
+      },
+      {
         "title": "The group chat where your AI talks behind your back",
         "url": "https://construct22.com/",
         "source": "hn",
@@ -58,12 +64,6 @@
         "url": "https://github.com/antonpictures/youtube-punisher",
         "source": "hn",
         "time": "11/26/2026, 5:36:47 PM"
-      },
-      {
-        "title": "AMD-specific fork of llama.cpp",
-        "url": "https://devnull.land/amd-specific-llama-cpp",
-        "source": "hn",
-        "time": "11/26/2026, 5:11:29 PM"
       }
     ],
     "world": [
