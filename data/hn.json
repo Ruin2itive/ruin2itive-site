@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-27T20:03:04.499Z"
+    "built_at": "2026-11-27T21:03:04.607Z"
   },
-  "items": [
-    {
-      "title": "Can language models drive a humanoid robot?",
-      "url": "https://artificialanalysis.ai/articles/aa-robotics-sim",
-      "date": "2026-11-27T20:02:24.000Z"
-    },
-    {
-      "title": "Pan Cooke ( pancooke): \"A comic I wrote about AI art and what we risk to lose.\"",
-      "url": "https://substack.com/@pancooke/note/c-395539528",
-      "date": "2026-11-27T20:01:33.000Z"
-    }
-  ]
+  "error": "This operation was aborted",
+  "items": []
 }
