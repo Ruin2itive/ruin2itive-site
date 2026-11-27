@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-27T07:03:45.027Z"
+    "built_at": "2026-11-27T08:04:44.070Z"
   },
-  "items": [
-    {
-      "title": "Who gets to decide if something is written by AI?",
-      "url": "https://www.seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/",
-      "date": "2026-11-27T07:02:54.000Z"
-    },
-    {
-      "title": "I Still Believe in Mentorship",
-      "url": "https://endler.dev/2026/why-i-still-believe-in-mentorship/",
-      "date": "2026-11-27T07:00:33.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
