@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-27T10:11:52.935Z",
-  "updated_local": "11/27/2026, 10:11:52 AM",
+  "updated_iso": "2026-11-27T11:05:51.959Z",
+  "updated_local": "11/27/2026, 11:05:51 AM",
   "sections": {
     "crypto": [
+      {
+        "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+        "url": "https://decrypt.co/384104/ethereum-sets-december-15-date-for-delayed-glamsterdam-testnet-upgrade",
+        "source": "crypto",
+        "time": "Fri, 27 Nov 2026 10:15:51 +0000"
+      },
       {
         "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
         "url": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
         "source": "crypto",
         "time": "Thu, 26 Nov 2026 18:15:29 +0000"
-      },
-      {
-        "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
-        "url": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
-        "source": "crypto",
-        "time": "Thu, 26 Nov 2026 16:43:02 +0000"
       }
     ],
     "hacker": [
@@ -54,16 +54,16 @@
         "time": "11/26/2026, 5:36:47 PM"
       },
       {
-        "title": "Claude sabotaging SOTA ML research tasks",
-        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-        "source": "hn",
-        "time": "11/27/2026, 8:28:08 AM"
-      },
-      {
         "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
         "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
         "source": "hn",
         "time": "11/26/2026, 9:08:05 PM"
+      },
+      {
+        "title": "AMD-specific fork of llama.cpp",
+        "url": "https://devnull.land/amd-specific-llama-cpp",
+        "source": "hn",
+        "time": "11/26/2026, 5:11:29 PM"
       }
     ],
     "world": [
