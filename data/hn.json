@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-27T09:03:29.027Z"
+    "built_at": "2026-11-27T10:03:35.985Z"
   },
-  "items": [
-    {
-      "title": "Critical Line – Levent Alpöge, Riemann, Claude – A Claudia Song [video]",
-      "url": "https://www.youtube.com/watch?v=NprdjBAITFI",
-      "date": "2026-11-27T09:01:26.000Z"
-    },
-    {
-      "title": "Software Factories: Escape from Trash Mountain, Gas Town [video]",
-      "url": "https://www.youtube.com/watch?v=SRhXgeNluIk",
-      "date": "2026-11-27T09:01:13.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
