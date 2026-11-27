@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-27T02:05:16.227Z"
+    "built_at": "2026-11-27T03:04:34.998Z"
   },
-  "items": [
-    {
-      "title": "Against the International Oligarchy",
-      "url": "https://parismanifesto.world/en/",
-      "date": "2026-11-27T02:01:59.000Z"
-    },
-    {
-      "title": "Show HN: GravityFinder – Explore Exoplanets and More",
-      "url": "https://gravityfinder.com",
-      "date": "2026-11-27T01:57:34.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
