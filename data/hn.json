@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-27T15:03:04.175Z"
+    "built_at": "2026-11-27T16:03:31.846Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Goodbye, World: The End of Programmers",
+      "url": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
+      "date": "2026-11-27T16:02:26.000Z"
+    },
+    {
+      "title": "Show HN: An MCP that searches X using your own Grokbot plan",
+      "url": "https://github.com/marciob/grok-x-mcp",
+      "date": "2026-11-27T16:01:15.000Z"
+    }
+  ]
 }
