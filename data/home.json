@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-28T13:05:02.215Z",
-  "updated_local": "11/28/2026, 1:05:02 PM",
+  "updated_iso": "2026-11-28T13:10:14.800Z",
+  "updated_local": "11/28/2026, 1:10:14 PM",
   "sections": {
     "crypto": [
       {
@@ -54,16 +54,16 @@
         "time": "11/24/2026, 6:10:45 PM"
       },
       {
-        "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
-        "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
-        "source": "hn",
-        "time": "11/28/2026, 11:57:04 AM"
-      },
-      {
         "title": "Knuth: Moratorium on Error Reports",
         "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
         "source": "hn",
         "time": "11/28/2026, 3:49:21 AM"
+      },
+      {
+        "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+        "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+        "source": "hn",
+        "time": "11/27/2026, 11:06:29 PM"
       }
     ],
     "world": [
