@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-28T17:09:10.289Z",
-  "updated_local": "11/28/2026, 5:09:10 PM",
+  "updated_iso": "2026-11-28T18:07:14.168Z",
+  "updated_local": "11/28/2026, 6:07:14 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "AI Usage Is Soaring But Spending Has Stalled. Here&#39;s What It Means",
+        "url": "https://decrypt.co/384204/ai-usage-soaring-spending-stalled-openrouter",
+        "source": "crypto",
+        "time": "Sat, 28 Nov 2026 18:01:02 +0000"
+      },
       {
         "title": "Bank of Japan Explores Bringing Stablecoins and Tokenized Finance Into Traditional Banking",
         "url": "https://decrypt.co/384221/bank-of-japan-stablecoins-tokenized-finance-banking",
@@ -26,26 +32,26 @@
         "url": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says",
         "source": "crypto",
         "time": "Fri, 27 Nov 2026 20:46:02 +0000"
-      },
-      {
-        "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
-        "url": "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
-        "source": "crypto",
-        "time": "Fri, 27 Nov 2026 19:46:02 +0000"
       }
     ],
     "hacker": [
-      {
-        "title": "Farewell",
-        "url": "https://github.com/p-e-w/heretic/issues/601",
-        "source": "hn",
-        "time": "11/28/2026, 11:42:26 AM"
-      },
       {
         "title": "Audible removes download option for purchased audiobooks",
         "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
         "source": "hn",
         "time": "11/28/2026, 11:51:27 AM"
+      },
+      {
+        "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
+        "url": "https://cs.stanford.edu/~knuth/moratorium.html",
+        "source": "hn",
+        "time": "11/28/2026, 5:53:02 PM"
+      },
+      {
+        "title": "Computer Disease",
+        "url": "https://blog.adafruit.com/2020/01/13/richard-feynman-on-computer-disease/",
+        "source": "hn",
+        "time": "11/28/2026, 5:12:25 PM"
       },
       {
         "title": "Claude Code sabotage: preliminary benchmarking",
@@ -54,16 +60,10 @@
         "time": "11/28/2026, 10:37:40 AM"
       },
       {
-        "title": "Physics Breakthrough Simulator",
-        "url": "https://pages.ethanmdavidson.com/ai-physics-breakthrough",
+        "title": "Silently degrading the model's capabilities IS sabotage",
+        "url": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
         "source": "hn",
-        "time": "11/28/2026, 2:52:45 PM"
-      },
-      {
-        "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
-        "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
-        "source": "hn",
-        "time": "11/28/2026, 11:57:04 AM"
+        "time": "11/28/2026, 3:55:54 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Argentina's bid to stop Falklands oil drilling rejected",
         "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 28 Nov 2026 16:45:30 GMT"
+        "time": "Sat, 28 Nov 2026 18:01:05 GMT"
       },
       {
         "title": "Burnham's No 10 influencer row shows reach matters - but so does scrutiny",
@@ -80,7 +80,7 @@
         "time": "Sat, 28 Nov 2026 16:18:15 GMT"
       },
       {
-        "title": "Dozens killed in Myanmar military strikes, including attack on wedding",
+        "title": "Dozens killed in Myanmar military strikes on wedding venue and school",
         "url": "https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 28 Nov 2026 16:53:20 GMT"
@@ -89,7 +89,7 @@
         "title": "Swinney insists Scotland's NHS is safe despite hospital scandal",
         "url": "https://www.bbc.co.uk/news/articles/c6p3ev43lkk3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 28 Nov 2026 14:43:12 GMT"
+        "time": "Sat, 28 Nov 2026 18:02:35 GMT"
       },
       {
         "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
