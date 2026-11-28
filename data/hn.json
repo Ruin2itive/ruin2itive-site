@@ -4,18 +4,8 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-28T11:02:54.848Z"
+    "built_at": "2026-11-28T12:04:42.513Z"
   },
-  "items": [
-    {
-      "title": "Ask HN: Distribution Is the Hardest Part",
-      "url": "https://news.ycombinator.com/item?id=50676498",
-      "date": "2026-11-28T11:00:15.000Z"
-    },
-    {
-      "title": "Bare-metal Type-1 AMD SVM hypervisor (Ring -1) running beneath Linux kernel",
-      "url": "https://github.com/alesha-pro/llm.asm/tree/main/04-ring1-kernel-surgeon",
-      "date": "2026-11-28T10:59:06.000Z"
-    }
-  ]
+  "error": "HTTP 502",
+  "items": []
 }
