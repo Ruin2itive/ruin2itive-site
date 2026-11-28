@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-28T01:12:54.293Z",
-  "updated_local": "11/28/2026, 1:12:54 AM",
+  "updated_iso": "2026-11-28T02:08:52.843Z",
+  "updated_local": "11/28/2026, 2:08:52 AM",
   "sections": {
     "crypto": [
       {
@@ -36,16 +36,22 @@
     ],
     "hacker": [
       {
+        "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+        "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+        "source": "hn",
+        "time": "11/27/2026, 11:06:29 PM"
+      },
+      {
         "title": "GPT 6.2 Astra Solves a Historical Mystery",
         "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
         "source": "hn",
         "time": "11/25/2026, 3:16:53 PM"
       },
       {
-        "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-        "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+        "title": "The Balatro Timeline",
+        "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
         "source": "hn",
-        "time": "11/27/2026, 11:06:29 PM"
+        "time": "11/26/2026, 5:20:27 PM"
       },
       {
         "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
@@ -58,12 +64,6 @@
         "url": "https://github.com/convex/convex-backend-skill/issues/64",
         "source": "hn",
         "time": "11/27/2026, 6:02:45 PM"
-      },
-      {
-        "title": "Source Control from Hell",
-        "url": "https://frantic.im/git/",
-        "source": "hn",
-        "time": "11/27/2026, 10:06:44 PM"
       }
     ],
     "world": [
