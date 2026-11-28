@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-28T03:13:27.303Z",
-  "updated_local": "11/28/2026, 3:13:27 AM",
+  "updated_iso": "2026-11-28T04:06:57.571Z",
+  "updated_local": "11/28/2026, 4:06:57 AM",
   "sections": {
     "crypto": [
       {
@@ -36,12 +36,6 @@
     ],
     "hacker": [
       {
-        "title": "Atari Homebrew Awards Cancelled",
-        "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
-        "source": "hn",
-        "time": "11/28/2026, 2:03:25 AM"
-      },
-      {
         "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
         "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
         "source": "hn",
@@ -58,6 +52,12 @@
         "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
         "source": "hn",
         "time": "11/26/2026, 5:20:27 PM"
+      },
+      {
+        "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+        "url": "https://unkernel.dev",
+        "source": "hn",
+        "time": "11/28/2026, 3:19:20 AM"
       },
       {
         "title": "Cyberpunk Television Shows",
