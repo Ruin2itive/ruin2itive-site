@@ -1,6 +1,6 @@
 {
-  "updated_iso": "2026-11-28T02:16:02.865Z",
-  "updated_local": "11/28/2026, 2:16:02 AM",
+  "updated_iso": "2026-11-28T03:07:12.748Z",
+  "updated_local": "11/28/2026, 3:07:12 AM",
   "sections": {
     "crypto": [
       {
@@ -36,6 +36,12 @@
     ],
     "hacker": [
       {
+        "title": "Atari Homebrew Awards Cancelled",
+        "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+        "source": "hn",
+        "time": "11/28/2026, 2:03:25 AM"
+      },
+      {
         "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
         "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
         "source": "hn",
@@ -54,16 +60,10 @@
         "time": "11/26/2026, 5:20:27 PM"
       },
       {
-        "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-        "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+        "title": "Cyberpunk Television Shows",
+        "url": "https://shellzine.net/cyberpunk-television/",
         "source": "hn",
-        "time": "11/27/2026, 3:40:31 PM"
-      },
-      {
-        "title": "Convex skills send the user's app idea to a remote server without telling them",
-        "url": "https://github.com/convex/convex-backend-skill/issues/64",
-        "source": "hn",
-        "time": "11/27/2026, 6:02:45 PM"
+        "time": "11/25/2026, 4:32:28 PM"
       }
     ],
     "world": [
@@ -74,28 +74,28 @@
         "time": "Fri, 27 Nov 2026 20:42:44 GMT"
       },
       {
-        "title": "Watch: What has happened to DWP online services?",
-        "url": "https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 27 Nov 2026 17:17:11 GMT"
-      },
-      {
         "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
         "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 27 Nov 2026 22:03:22 GMT"
       },
       {
-        "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-        "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 27 Nov 2026 21:55:53 GMT"
-      },
-      {
         "title": "'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years",
         "url": "https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Fri, 27 Nov 2026 17:47:14 GMT"
+      },
+      {
+        "title": "Set time aside for children to read for pleasure, schools to be told",
+        "url": "https://www.bbc.co.uk/news/articles/c65y1vp4ndqjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 28 Nov 2026 02:20:49 GMT"
+      },
+      {
+        "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+        "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Fri, 27 Nov 2026 21:55:53 GMT"
       }
     ],
     "projects": [
