@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-28T09:03:28.604Z"
+    "built_at": "2026-11-28T10:03:02.460Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "GTA 6: The AI race to clone the biggest video game for PC",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo",
+      "date": "2026-11-28T09:59:57.000Z"
+    },
+    {
+      "title": "Flu is high and early and Covid is back in England this winter",
+      "url": "https://christinapagel.substack.com/p/flu-is-high-and-early-and-covid-is",
+      "date": "2026-11-28T09:57:42.000Z"
+    }
+  ]
 }
