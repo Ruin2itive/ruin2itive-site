@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-28T15:02:56.819Z"
+    "built_at": "2026-11-28T16:03:07.320Z"
   },
-  "error": "This operation was aborted",
-  "items": []
+  "items": [
+    {
+      "title": "Show HN: Ramgod – Run MoE LLMs bigger than RAM on an 8GB Mac, 3-5x llama.cpp",
+      "url": "https://github.com/Ri4dH/ramgod",
+      "date": "2026-11-28T16:02:11.000Z"
+    },
+    {
+      "title": "Show HN: Understanding FAT16 – an interactive filesystem explainer",
+      "url": "https://fat16.asciitweezers.com/",
+      "date": "2026-11-28T16:00:01.000Z"
+    }
+  ]
 }
