@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-28T18:03:25.821Z"
+    "built_at": "2026-11-28T19:02:43.083Z"
   },
-  "error": "HTTP 502",
-  "items": []
+  "items": [
+    {
+      "title": "Boundwork: A Team Structure for When Specialization Fails",
+      "url": "https://fagnerbrack.com/boundwork-a-team-structure-for-when-specialization-fails-b8123e14859a",
+      "date": "2026-11-28T19:00:44.000Z"
+    },
+    {
+      "title": "Show HN: Aethens – audit the tests that score coding agents",
+      "url": "https://github.com/beastrog/aethens",
+      "date": "2026-11-28T18:59:21.000Z"
+    }
+  ]
 }
