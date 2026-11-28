@@ -4,8 +4,18 @@
     "label": "hn",
     "source_url": "https://hnrss.org/newest?points=1",
     "take": 2,
-    "built_at": "2026-11-28T06:05:12.781Z"
+    "built_at": "2026-11-28T07:03:11.954Z"
   },
-  "error": "fetch failed",
-  "items": []
+  "items": [
+    {
+      "title": "Lock of George Washington's hair sold at auction for $4k",
+      "url": "https://www.cbsnews.com/news/george-washington-lock-of-hair-auction/",
+      "date": "2026-11-28T06:59:01.000Z"
+    },
+    {
+      "title": "Cory Doctorow: Taylorism and AI's shared sales-pitch",
+      "url": "https://pluralistic.net/2026/11/27/taylor-made/",
+      "date": "2026-11-28T06:57:51.000Z"
+    }
+  ]
 }
