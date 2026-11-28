@@ -1,8 +1,14 @@
 {
-  "updated_iso": "2026-11-28T13:10:14.800Z",
-  "updated_local": "11/28/2026, 1:10:14 PM",
+  "updated_iso": "2026-11-28T14:05:14.547Z",
+  "updated_local": "11/28/2026, 2:05:14 PM",
   "sections": {
     "crypto": [
+      {
+        "title": "Russia Is Turning Pigeons Into Cyborg Drones—and You Can Now Hire Them",
+        "url": "https://decrypt.co/384126/russia-pigeons-icyborg-drones-you-can-now-hire-them",
+        "source": "crypto",
+        "time": "Sat, 28 Nov 2026 14:01:02 +0000"
+      },
       {
         "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
         "url": "https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims",
@@ -26,12 +32,6 @@
         "url": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
         "source": "crypto",
         "time": "Fri, 27 Nov 2026 18:16:03 +0000"
-      },
-      {
-        "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
-        "url": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
-        "source": "crypto",
-        "time": "Fri, 27 Nov 2026 17:43:29 +0000"
       }
     ],
     "hacker": [
@@ -42,28 +42,28 @@
         "time": "11/28/2026, 11:42:26 AM"
       },
       {
+        "title": "Claude Code sabotage: preliminary benchmarking",
+        "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+        "source": "hn",
+        "time": "11/28/2026, 10:37:40 AM"
+      },
+      {
+        "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+        "url": "https://scriptor-pro.github.io/luciole-mono/",
+        "source": "hn",
+        "time": "11/28/2026, 12:50:15 PM"
+      },
+      {
+        "title": "Audible removes download option for purchased audiobooks",
+        "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+        "source": "hn",
+        "time": "11/28/2026, 11:51:27 AM"
+      },
+      {
         "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
         "url": "https://unkernel.dev",
         "source": "hn",
         "time": "11/28/2026, 3:19:20 AM"
-      },
-      {
-        "title": "Loom seamlessly combines weaving, knitting and braiding",
-        "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
-        "source": "hn",
-        "time": "11/24/2026, 6:10:45 PM"
-      },
-      {
-        "title": "Knuth: Moratorium on Error Reports",
-        "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
-        "source": "hn",
-        "time": "11/28/2026, 3:49:21 AM"
-      },
-      {
-        "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-        "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-        "source": "hn",
-        "time": "11/27/2026, 11:06:29 PM"
       }
     ],
     "world": [
@@ -71,7 +71,7 @@
         "title": "Argentina's bid to stop Falklands oil drilling rejected",
         "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
-        "time": "Sat, 28 Nov 2026 13:02:39 GMT"
+        "time": "Sat, 28 Nov 2026 13:36:36 GMT"
       },
       {
         "title": "Pensions and benefits services still down after 'cyber incident'",
@@ -86,16 +86,16 @@
         "time": "Sat, 28 Nov 2026 10:34:58 GMT"
       },
       {
-        "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
-        "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "world",
-        "time": "Fri, 27 Nov 2026 22:03:22 GMT"
-      },
-      {
         "title": "Woman, 21, dies in Staffordshire crash following police pursuit",
         "url": "https://www.bbc.co.uk/news/articles/ckwy9rde8gyqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "world",
         "time": "Sat, 28 Nov 2026 12:09:09 GMT"
+      },
+      {
+        "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+        "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "world",
+        "time": "Sat, 28 Nov 2026 12:49:44 GMT"
       }
     ],
     "projects": [
